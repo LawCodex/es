@@ -1,0 +1,347 @@
+---
+title: "Real Decreto 954/2015, de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros"
+identifier: "BOE-A-2015-14028"
+eli: "https://www.boe.es/eli/es/rd/2015/10/23/954"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad, Servicios Sociales e Igualdad"
+date: 2015-10-23
+published: 2015-12-23
+in_force_from: 2015-12-24
+last_amended: 2018-10-23
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 306"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-14028"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 954/2015, de 23 de octubre, por el que se regula la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de los enfermeros
+
+Téngase en cuenta que las referencias que se realizan en este Real Decreto a las comunidades autónomas se entenderán efectuadas al Instituto Nacional de Gestión Sanitaria respecto a la situación específica de las Ciudades de Ceuta y Melilla, según establece la disposición adicional primera del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+Las referencias realizadas a los términos enfermero y enfermeros, deberán entenderse realizadas a los términos enfermera y enfermero y enfermeras y enfermeros, respectivamente, según establece la disposición adicional tercera del citado Real Decreto 1302/2018.
+
+Tanto la anterior Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, en su artículo 77, como el actual texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, en su artículo 79.1, han dispuesto que los médicos, los odontólogos y los podólogos, en el ámbito de sus competencias respectivas, son los únicos profesionales prescriptores, es decir, con facultad para recetar medicamentos sujetos a prescripción médica.
+
+Sin embargo, la aplicación del principio de atención sanitaria integral a la realidad de la existencia de espacios de competencia compartidos por diferentes profesionales sanitarios y la necesidad de establecer organizaciones multiprofesionales en las que prime el trabajo en equipo basado en criterios de conocimiento y competencia profesional sirvieron de fundamento para materializar alguna de las modificaciones que se introdujeron en el hoy derogado artículo 77 de la Ley 29/2006, de 26 de julio, por la Ley 28/2009, de 30 de diciembre, de modificación de aquélla.
+
+En la actualidad, el artículo 79 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, confiere a los enfermeros la facultad para, de forma autónoma, indicar, usar y autorizar la dispensación de todos aquellos medicamentos no sujetos a prescripción médica y los productos sanitarios de uso humano relacionados con su ejercicio profesional, mediante la correspondiente orden de dispensación.
+
+Asimismo, y conforme a lo establecido en el párrafo cuarto del apartado 1 de dicho artículo 79, corresponde al Gobierno la labor de fijar, con la participación de las organizaciones colegiales de enfermeros y de médicos, los criterios generales, requisitos específicos y procedimientos para la acreditación de los enfermeros, como requisito previo y necesario para poder indicar, usar y autorizar la dispensación de medicamentos y productos sanitarios de uso humano. En este sentido, se incorporan en esta norma las bases del sistema de acreditación de los enfermeros, tanto de los responsables de cuidados generales como de los responsables de cuidados especializados, para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.
+
+En cuanto a los medicamentos sujetos a prescripción médica, también se encarga al Gobierno la regulación de las actuaciones profesionales de los enfermeros, en el marco de los principios de la atención integral de salud y para la continuidad asistencial, y dentro de lo previsto en el artículo 7 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, mediante la aplicación de protocolos y guías de práctica clínica y asistencial, de elaboración conjunta, acordados con las organizaciones colegiales correspondientes, y validados por la Dirección General de Salud Pública, Calidad e Innovación del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+En relación con estas actuaciones de los enfermeros respecto de los medicamentos sujetos a prescripción médica, y conforme ha señalado el Tribunal Supremo en su sentencia de 3 de mayo de 2013, no se trata con ello de otorgar nuevas competencias profesionales a favor de aquéllos que fueren atribución profesional de los médicos, ya que la sujeción a la prescripción médica no puede quedar alterada por el hecho de que puedan establecerse protocolos para la actividad de indicación y uso por los enfermeros, tras la correspondiente diagnosis médica y subsiguiente prescripción por los profesionales sanitarios competentes. Es decir, en palabras del propio Tribunal Supremo, la facultad de prescripción de los medicamentos no resulta modificada y, por ende, la competencia previa de diagnóstico.
+
+Por otra parte, se debe tener en cuenta también lo preceptuado en el Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación, así como en las sentencias del Tribunal Supremo de 20 de marzo, de 6 de junio, de 17 de julio y de 18 de diciembre de 2012, y en la sentencia de 3 de mayo de 2013, en el sentido de que las órdenes de dispensación son los documentos normalizados que suponen un medio fundamental para la transmisión de información entre los profesionales sanitarios, además de ser una garantía para el paciente, y que posibilitan un correcto cumplimiento terapéutico y la obtención de la eficiencia máxima del tratamiento.
+
+Por todo lo referido, la finalidad de la presente norma es regular, de un lado, las actuaciones profesionales de los enfermeros en materia de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano relacionados con su ejercicio profesional, así como el procedimiento para la validación de protocolos y guías de práctica clínica y asistencial por parte de la Dirección General de Salud Pública, Calidad e Innovación, y de otro, fijar con la participación de las organizaciones colegiales correspondientes los criterios generales, requisitos específicos y procedimientos para la acreditación de los enfermeros, tanto de los responsables de cuidados generales como de los responsables de cuidados especializados, como requisito previo y necesario para poder desarrollar las actuaciones previstas en el artículo 79 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, y siempre dentro de la distribución de las competencias profesionales establecidas en la Ley 44/2003, de 21 de noviembre, y en el resto de normas que resulten de aplicación.
+
+La elaboración de los protocolos y guías de práctica clínica y asistencial se efectuará en el seno de la Comisión Permanente de Farmacia del Consejo Interterritorial del Sistema Nacional de Salud, garantizándose la representación tanto del Ministerio de Sanidad, Servicios Sociales e Igualdad, como de las comunidades autónomas, las mutualidades de funcionarios, el Ministerio de Defensa y los Consejos Generales de los Colegios Oficiales de Enfermeros y de Médicos.
+
+Este real decreto se dicta al amparo de la competencia exclusiva que en materia de bases y coordinación general de la sanidad atribuye al Estado el artículo 149.1.16.ª de la Constitución.
+
+De conformidad con lo establecido en los artículos 67.2 y 71 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la presente norma ha sido objeto de informe previo por parte del Consejo Interterritorial del Sistema Nacional de Salud y de su Comité Consultivo.
+
+Igualmente, en la tramitación de este real decreto ha emitido informe preceptivo la Agencia Española de Protección de Datos, de acuerdo con el artículo 37.h) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+En su virtud, a propuesta del Ministro de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de octubre de 2015,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones de carácter general
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Es objeto de este real decreto regular, en el marco de los principios de la atención integral de salud y para la continuidad asistencial, y de conformidad con lo previsto en el artículo 79 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, en relación con los artículos 7 y 9.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias:
+
+a) Las actuaciones de los enfermeros en materia de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, relacionados con su ejercicio profesional.
+
+b) La elaboración y validación de los protocolos y guías de práctica clínica y asistencial para la indicación, uso y autorización de dispensación de medicamentos sujetos a prescripción médica por parte de los enfermeros.
+
+c) El procedimiento de acreditación del enfermero, tanto del responsable de cuidados generales como del responsable de cuidados especializados, como requisito previo y necesario para el pleno desarrollo de las actuaciones referidas en los artículos 2 y 3.
+
+2\. Las disposiciones de este real decreto se aplicarán tanto si las actividades se desarrollan en los servicios sanitarios públicos como si se desarrollan en el ámbito de la sanidad privada.
+
+## CAPÍTULO II — Indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano relacionados con su ejercicio profesional por parte de los enfermeros
+
+### Artículo 2. Indicación, uso y autorización de dispensación de medicamentos no sujetos a prescripción médica y de productos sanitarios de uso humano.
+
+1\. Los enfermeros, en el ejercicio de su actividad profesional, podrán indicar, usar y autorizar la dispensación de medicamentos no sujetos a prescripción médica y de productos sanitarios de uso humano, de forma autónoma, mediante una orden de dispensación que tendrá las características establecidas en el artículo 5.
+
+2\. Para el desarrollo de estas actuaciones, tanto la enfermera o enfermero responsable de cuidados generales como la enfermera o enfermero responsable de cuidados especializados deberán ser titulares de la correspondiente acreditación emitida por el órgano competente de la comunidad autónoma respectiva conforme a lo establecido en este Real Decreto.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+> Se declara la inconstitucionalidad y nulidad, por vulneración de las competencias autonómicas, de las referencias hechas a la "Dirección General de Ordenación Profesional del Ministerio de Sanidad, Servicios Sociales e Igualdad" del apartado 2, en los términos del fj 9, por Sentencia del TC 76/2018, de 5 de julio. [Ref. BOE-A-2018-11274](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11274)
+
+### Artículo 3. Indicación, uso y autorización de dispensación de medicamentos de uso humano sujetos a prescripción médica.
+
+1\. Las enfermeras y enfermeros, en el ejercicio de su actividad profesional, podrán indicar, usar y autorizar la dispensación de medicamentos sujetos a prescripción médica, conforme a los protocolos o guías de práctica clínica y asistencial a los que se refiere el artículo 6, y mediante la correspondiente orden de dispensación.
+
+2\. Para el desarrollo de estas actuaciones colaborativas, tanto la enfermera y enfermero responsable de cuidados generales como la enfermera y enfermero responsable de cuidados especializados, deberán ser titulares de la correspondiente acreditación emitida por el órgano competente de la comunidad autónoma respectiva.
+
+Para que las enfermeras y enfermeros acreditados/as puedan llevar a cabo las actuaciones contempladas en este artículo respecto de la administración de estos medicamentos a determinados pacientes, los protocolos o guías de práctica clínica y asistencial deberán contener necesariamente aquellos supuestos específicos en los que se precisa la validación médica previa a la indicación enfermera. Asimismo, y con carácter general, los protocolos o guías de práctica clínica y asistencial contemplarán las actuaciones que, en el ámbito de sus respectivas competencias, el personal médico y enfermero realizarán colaborativamente en el seguimiento del proceso, al objeto de garantizar la seguridad del paciente y la continuidad asistencial.
+
+3\. Salvo en aquellos casos en los que un paciente, en atención a sus condiciones particulares, precise de una valoración médica individualizada, la administración de las vacunas contempladas en el calendario vacunal y aquellas tributarias de campañas de salud que se determinen por las autoridades sanitarias, sólo precisará de la correspondiente orden de dispensación.
+
+> Se modifica por el art. único.2 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+> Se declara la inconstitucionalidad y nulidad de las referencias hechas a la "Dirección General de Ordenación Profesional del Ministerio de Sanidad, Servicios Sociales e Igualdad" del apartado 2, en los términos del fj 9, por Sentencia 76/2018, de 5 de julio. [Ref. BOE-A-2018-11274](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11274)
+
+### Artículo 4. Seguro de responsabilidad civil.
+
+1\. Los responsables de los centros sanitarios verificarán que en el seguro de responsabilidad civil, el aval u otra garantía financiera en la que se cubran las actuaciones de los profesionales enfermeros que prestan servicios en los mismos se incluya la garantía de la responsabilidad derivada de las actividades profesionales a las que se refiere este real decreto conforme a lo establecido en la Ley 44/2003, de 21 de noviembre.
+
+2\. Los Colegios Profesionales verificarán que los enfermeros que desarrollen el ejercicio libre de la profesión dispongan de un seguro de responsabilidad civil, aval u otra garantía financiera en los mismos términos previstos en el apartado anterior.
+
+### Artículo 5. Orden de dispensación.
+
+1\. La indicación y autorización de dispensación de medicamentos y productos sanitarios de uso humano por parte de las enfermeras y enfermeros previamente acreditados sólo se podrá realizar mediante orden de dispensación y en las condiciones recogidas en el párrafo c) del artículo 1 del Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación.
+
+2\. Cuando se indique y autorice por la enfermera o enfermero con acreditación la dispensación de medicamentos y productos sanitarios de uso humano, aquel o aquella deberá incluir en la orden de dispensación, entre sus datos de identificación, el número de colegiación o, en el caso de órdenes de dispensación del Sistema Nacional de Salud, el código de identificación asignado por las Administraciones competentes y, en su caso, la especialidad oficialmente acreditada que ejerza.
+
+En el ámbito de las Fuerzas Armadas, en lugar del número de colegiación, podrá consignarse el número de Tarjeta Militar de Identidad del enfermero o enfermera. Asimismo, se hará constar, en su caso, la especialidad oficialmente acreditada que ejerza.
+
+En el caso de medicamentos sujetos a prescripción médica también se incluirá la información correspondiente al protocolo o a la guía de práctica clínica y asistencial en que se fundamenta.
+
+> Se modifica por el art. único.3 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+## CAPÍTULO III — Elaboración y validación de protocolos y guías de práctica clínica y asistencial para la indicación, uso y autorización de dispensación por parte de los enfermeros de medicamentos sujetos a prescripción médica
+
+### Artículo 6. Elaboración y validación de protocolos y guías de práctica clínica y asistencial.
+
+1\. La elaboración de los protocolos y guías de práctica clínica y asistencial se efectuará en el seno de la Comisión Permanente de Farmacia del Consejo Interterritorial del Sistema Nacional de Salud.
+
+2\. A los efectos de la elaboración de los protocolos y guías de práctica clínica y asistencial, se garantizará la representación tanto del Ministerio de Sanidad, Servicios Sociales e Igualdad, como de las comunidades autónomas, las mutualidades de funcionarios, el Ministerio de Defensa y los Consejos Generales de los Colegios Oficiales de Enfermeros y de Médicos, del modo siguiente:
+
+a) Tres miembros en representación del Ministerio de Sanidad, Servicios Sociales e Igualdad, designados por la persona titular del Ministerio.
+
+b) Tres miembros en representación de las comunidades autónomas, designados por el Consejo Interterritorial del Sistema Nacional de Salud.
+
+c) Un miembro en representación de las mutualidades de funcionarios (Mutualidad General de Funcionarios Civiles del Estado, Instituto Social de las Fuerzas Armadas y Mutualidad General Judicial), designado por ellas.
+
+d) Un miembro del Cuerpo Militar de Sanidad del Ministerio de Defensa, designado por la Inspección General de Sanidad de la Defensa.
+
+e) Cuatro miembros en representación del Consejo General de Colegios Oficiales de Enfermería de España, designados por el Consejo.
+
+f) Cuatro miembros en representación del Consejo General de Colegios Oficiales de Médicos, designados por el Consejo.
+
+3\. A estos efectos, la Comisión Permanente de Farmacia se adaptará a lo dispuesto, en materia de órganos colegiados, por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y sus acuerdos se adoptarán, en su caso, por consenso, de conformidad con el artículo 73 de la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud.
+
+4\. Los protocolos y guías de práctica clínica y asistencial, una vez elaborados por la Comisión Permanente de Farmacia, serán validados por la persona titular de la Dirección General de Salud Pública, Calidad e Innovación del Ministerio de Sanidad, Servicios Sociales e Igualdad y publicados en el «Boletín Oficial del Estado» mediante la resolución correspondiente, para su aplicación.
+
+> Se modifica el apartado 3 por el art. único.4 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+### Artículo 7. Funciones de la Comisión Permanente de Farmacia en materia de protocolos y guías de práctica clínica y asistencial.
+
+1\. La Comisión Permanente de Farmacia elaborará los protocolos y guías de práctica clínica y asistencial desarrollando, sin perjuicio de las que le sean encomendadas expresamente en el seno del Consejo Interterritorial del Sistema Nacional de Salud, las siguientes funciones:
+
+a) Establecer los criterios generales así como la estructura y contenido mínimo que deben ser recogidos en todos los protocolos y guías de práctica clínica y asistencial en materia de indicación, uso y autorización de dispensación de medicamentos sujetos a prescripción médica.
+
+b) Establecer los criterios generales para el análisis y evaluación de los protocolos y guías de práctica clínica y asistencial para el uso, indicación y autorización de dispensación de medicamentos sujetos a prescripción médica.
+
+c) Establecer el listado de los medicamentos y grupos de medicamentos, con la identificación correcta de los mismos en el Nomenclátor oficial de la prestación farmacéutica del Sistema Nacional de Salud, así como los tratamientos farmacológicos o procesos a incluir en los protocolos y guías de práctica clínica y asistencial, de conformidad con lo previsto en el artículo 19.1 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios.
+
+d) Promover los protocolos y guías de práctica clínica y asistencial que se consideren de especial interés para el Sistema Nacional de Salud, teniendo en cuenta, en su caso, los que pudieran existir con carácter previo.
+
+e) Elevar los protocolos y guías de práctica clínica y asistencial, así como sus modificaciones, a la Dirección General de Salud Pública, Calidad e Innovación del Ministerio de Sanidad, Servicios Sociales e Igualdad para su validación.
+
+f) De manera excepcional, cuando los avances científicos lo pudieran requerir y, ante determinados medicamentos de especial complejidad, los protocolos y las guías de práctica clínica y asistencial podrán prever complementar la formación de las enfermeras y enfermeros.
+
+2\. Los protocolos y guías de práctica clínica y asistencial deberán cumplir los siguientes requisitos:
+
+a) Ser elaborados y desarrollados con criterios técnicos y científicos.
+
+b) Ser elaborados con participación multidisciplinar de enfermeros y médicos.
+
+c) Ser de aplicación en todo el territorio nacional.
+
+3\. La Comisión Permanente de Farmacia, para el desarrollo de las funciones referidas en el apartado anterior, podrá actuar en pleno o por medio de grupos de trabajo.
+
+> Se añade la letra f) al apartado 1 por el art. único.5 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+## CAPÍTULO IV — Acreditación de los enfermeros para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano
+
+### Artículo 8. Aspectos generales de la acreditación.
+
+1\. Corresponde a la persona titular del órgano competente de la comunidad autónoma respectiva otorgar la acreditación de las enfermeras y enfermeros responsables de cuidados generales y de las enfermeras y enfermeros responsables de cuidados especializados, para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano con sujeción a los requisitos y procedimiento regulados, respectivamente, en los artículos 9 y 10.
+
+2\. La obtención por los enfermeros de la acreditación a la que se refiere el apartado anterior no supondrá, por sí misma, una modificación de su puesto de trabajo, sin perjuicio de que pueda ser valorada como mérito para la provisión de puestos de trabajo cuando así lo prevea la normativa correspondiente.
+
+3\. La acreditación del enfermero, tanto del responsable de cuidados generales como del responsable de cuidados especializados, se incorporará al Registro Estatal de Profesionales Sanitarios y formará parte de los datos públicos de conformidad con lo dispuesto en el apartado 3 de la disposición adicional décima de la Ley 16/2003, de 28 de mayo.
+
+> Se modifica el apartado 1 por el art. único.6 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+> Se declara la inconstitucionalidad y nulidad, por vulneración de las competencias autonómicas, de las referencias hechas a la "Dirección General de Ordenación Profesional del Ministerio de Sanidad, Servicios Sociales e Igualdad" del apartado 1, en los términos del fj 9, por Sentencia del TC 76/2018, de 5 de julio. [Ref. BOE-A-2018-11274](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11274)
+
+### Artículo 9. Requisitos que deben reunir las enfermeras y enfermeros para obtener la acreditación.
+
+1\. En el ámbito de los cuidados generales, los requisitos que deben reunir las enfermeras y enfermeros para obtener la acreditación para la indicación, uso y autorización de la dispensación de medicamentos y productos sanitarios de uso humano son los siguientes:
+
+a) Estar en posesión del título de Graduado en Enfermería, de Diplomado en Enfermería, o de Ayudante Técnico Sanitario, o equivalente, y
+
+b) cumplir uno de los dos siguientes requisitos:
+
+1) Acreditación de una experiencia profesional mínima de un año.
+
+2) Superación de un curso de adaptación adecuado ofrecido por la Administración sanitaria de manera gratuita.
+
+2\. En el ámbito de los cuidados especializados, los requisitos que deben reunir las enfermeras y enfermeros para obtener la acreditación para la indicación, uso y autorización de la dispensación de medicamentos y productos sanitarios de uso humano son los siguientes:
+
+a) Estar en posesión del título de Graduado en Enfermería, de Diplomado en Enfermería o de Ayudante Técnico Sanitario, o equivalente, así como del título de Enfermero Especialista a que se refiere el artículo 2.1 del Real Decreto 450/2005, de 22 de abril, sobre especialidades de Enfermería, y
+
+b) cumplir uno de los dos siguientes requisitos:
+
+1) Acreditación de una experiencia profesional mínima de un año.
+
+2) Superación de un curso de adaptación adecuado ofrecido por la Administración sanitaria de manera gratuita.
+
+> Se modifica por el art. único.7 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+### Artículo 10. Procedimiento de acreditación de las enfermeras y enfermeros.
+
+El procedimiento para la acreditación de las enfermeras y enfermeros será regulado por las comunidades autónomas en el ámbito de sus competencias.
+
+> Se modifica por el art. único.8 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+> Se declara la inconstitucionalidad y nulidad, por vulneración de competencias autonómicas, en los términos del fj 9, por Sentencia del TC 76/2018, de 5 de julio. [Ref. BOE-A-2018-11274](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11274)
+
+### Artículo 11. Protección de datos de carácter personal.
+
+El tratamiento de los datos de carácter personal afectados por este Real Decreto se adecuará a lo previsto en la normativa de la Unión Europea, y, en concreto, al Reglamento General de Protección de Datos, Reglamento UE/2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, así como por las normas que adapten el derecho español a la misma.
+
+> Se modifica por el art. único.9 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+### Disposición adicional primera. Particularidad relativa al personal especialista en enfermería obstétrico-ginecológica.
+
+Las previsiones de este Real Decreto se entienden sin perjuicio de lo dispuesto en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI), el cual atribuye al personal especialista en enfermería obstétrico-ginecológica actividades para el diagnóstico, supervisión, asistencia del embarazo, parto, posparto o de recién nacido normal, mediante los medios técnicos y clínicos adecuados, y de las competencias adquiridas conforme a la formación descrita en la Orden SAS/1349/2009, de 6 de mayo, por la que se aprueba y publica el programa formativo de la especialidad de Enfermería Obstétrico-Ginecológica (Matrona).
+
+> Se modifica por el art. único.10 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+### Disposición adicional segunda. Régimen aplicable a los enfermeros de las Fuerzas Armadas.
+
+De conformidad con lo dispuesto en la disposición adicional segunda del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, el régimen aplicable a la indicación, uso y autorización de medicamentos y productos sanitarios de uso humano por parte de los enfermeros de las Fuerzas Armadas se regirá, en lo que atañe a su actividad profesional, por su normativa específica.
+
+### Disposición adicional tercera. Adecuación de disposiciones que regulan las funciones de los enfermeros.
+
+Las disposiciones, de igual o inferior rango, que regulan las funciones que corresponden a los enfermeros en materia de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano se adecuarán a las previsiones de este real decreto en cuanto se opongan al mismo.
+
+### Disposición adicional cuarta. Reconocimiento de acreditación a profesionales de enfermería procedentes de Estados miembros de la Unión Europea y de terceros países.
+
+Podrá reconocerse la acreditación a las enfermeras y enfermeros procedentes de otros Estados miembros de la Unión Europea y de terceros países para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, tanto en el ámbito de los cuidados generales como en el ámbito de los cuidados especializados, previa justificación del cumplimiento de las previsiones y de los requisitos de acreditación regulados en el artículo 9.
+
+> Se modifica por el art. único.11 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+### Disposición adicional quinta. Servicios de Salud del Instituto Nacional de Gestión Sanitaria.
+
+Las referencias hechas en este real decreto y en sus anexos a los Servicios de Salud se entenderán referidas al Instituto Nacional de Gestión Sanitaria en el ámbito de las ciudades de Ceuta y Melilla.
+
+### Disposición transitoria única. Régimen transitorio de obtención de las competencias profesionales enfermeras sobre indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano para la acreditación de las enfermeras y enfermeros que no ostenten el título de Grado en Enfermería, de Diplomado en Enfermería o de Ayudante Técnico Sanitario.
+
+1\. Con carácter excepcional, las enfermeras y enfermeros que no posean el título de Graduado en Enfermería, de Diplomado en Enfermería o de Ayudante Técnico Sanitario y que hasta la entrada en vigor de este Real Decreto hayan desarrollado funciones de indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano como consecuencia de la aplicación de normativa autonómica vigente sobre la materia, podrán acceder a la acreditación regulada en el capítulo IV cursando la solicitud de acreditación ante el órgano competente de la comunidad autónoma correspondiente, a la que habrán de acompañar un certificado del Servicio de Salud acreditativo de que el interesado/a ha adquirido las competencias profesionales que se indican, según los casos, en el anexo I y que cuenta con una experiencia profesional mínima de tres meses en el ámbito de la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano, bien en su ejercicio como enfermera o enfermero responsable de cuidados generales, bien como enfermera o enfermero especialista.
+
+En todo caso, para que las enfermeras y enfermeros acreditados/as conforme a lo establecido en este apartado puedan desarrollar las competencias respecto de determinados medicamentos sujetos a prescripción médica señaladas en este Real Decreto, se precisará también la validación previa de los correspondientes protocolos y guías de práctica clínica y asistencial por la Dirección General de Salud Pública, Calidad e Innovación del Ministerio de Sanidad, Consumo y Bienestar Social.
+
+2\. Las comunidades autónomas, las universidades, el Consejo General de Colegios Oficiales de Enfermería de España y otras entidades profesionales enfermeras que promuevan su desarrollo profesional continuo podrán desarrollar la correspondiente oferta formativa que permita a las enfermeras y enfermeros a que se refiere el apartado anterior la adquisición de las competencias sobre indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano que se recogen en el anexo I.
+
+> Se modifica por el art. único.12 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo previsto en el artículo 149.1.16.ª de la Constitución que atribuye al Estado competencia exclusiva en materia de bases y coordinación general de la sanidad.
+
+### Disposición final segunda. No incremento del gasto público.
+
+Las medidas y actuaciones contempladas o derivadas de este real decreto deberán ser atendidas con las dotaciones presupuestarias ordinarias del Ministerio de Sanidad, Servicios Sociales e Igualdad y no podrán generar incremento de dotaciones ni de retribuciones ni de otros gastos de personal al servicio del sector público.
+
+### Disposición final tercera. Modificación del Real Decreto 1416/1994, de 25 de junio, por el que se regula la publicidad de los medicamentos de uso humano.
+
+Se añade una disposición adicional cuarta al Real Decreto 1416/1994, de 25 de junio, por el que se regula la publicidad de los medicamentos de uso humano, con el siguiente tenor literal:
+
+«Disposición adicional cuarta. Personas facultadas para indicar, usar y autorizar la dispensación de medicamentos.
+
+Las menciones y previsiones contenidas en este real decreto relativas a las personas facultadas para prescribir o dispensar medicamentos deben entenderse realizadas también a las personas facultadas para indicar, usar y autorizar la dispensación de medicamentos, conforme a lo establecido en el artículo 79 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, especialmente en lo relativo a la publicidad de medicamentos y a la visita médica.»
+
+### Disposición final cuarta. Modificación del Real Decreto 640/2014, de 25 de julio, por el que se regula el Registro Estatal de Profesionales Sanitarios.
+
+El Real Decreto 640/2014, de 25 de julio, por el que se regula el Registro Estatal de Profesionales Sanitarios, queda modificado del modo siguiente:
+
+Uno. Se añade un párrafo u) al artículo 5 con la siguiente redacción:
+
+«u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.»
+
+Dos. **(Anulado)**
+
+Tres. Se añade un párrafo u) en el anexo I con el siguiente contenido:
+
+«u) Acreditación para la indicación, uso y autorización de dispensación de medicamentos y productos sanitarios de uso humano.»
+
+Cuatro. **(Anulado)**
+
+> Se declara la inconstitucionalidad y nulidad, por vulneración de las competencias autonómicas, de los apartados Dos y Cuatro, con los efectos del fj 9, por Sentencia del TC 76/2018, de 5 de julio. [Ref. BOE-A-2018-11274](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11274)
+
+### Disposición final quinta. Modificación del Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación.
+
+El Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación, queda modificado del modo siguiente:
+
+Uno. Se modifica el párrafo c) del artículo 1, que queda con la siguiente redacción:
+
+«c) Orden de dispensación: la orden de dispensación, a la que se refiere el artículo 79 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, es el documento de carácter sanitario, normalizado y obligatorio mediante el cual los profesionales enfermeros, en el ámbito de sus competencias, y una vez hayan sido facultados individualmente mediante la correspondiente acreditación, indican o autorizan, en las condiciones y con los requisitos que reglamentariamente se establezcan, la dispensación de medicamentos, sujetos o no a prescripción médica, y productos sanitarios por un farmacéutico o bajo su supervisión, en las oficinas de farmacia y botiquines dependientes de las mismas o, conforme a lo previsto en la legislación vigente, en otros establecimientos sanitarios, unidades asistenciales o servicios farmacéuticos de estructuras de atención primaria, debidamente autorizados para la dispensación de medicamentos.»
+
+Dos. El párrafo primero del apartado Cuarto del Anexo, queda redactado como sigue:
+
+«La orden de dispensación a la que se refiere el artículo 1.c) de este real decreto, con carácter general, se atendrá a los criterios básicos establecidos en este anexo para la receta médica y se adecuará a las características que se describen en el correspondiente modelo. En todo caso, deberán figurar en las órdenes de dispensación los datos correspondientes al enfermero, a su acreditación, y en los supuestos referidos a medicamentos sujetos a prescripción médica, el código de identificación y la denominación del correspondiente protocolo o guía de práctica clínica y asistencial y su denominación.»
+
+Tres. Se modifica el modelo de orden de dispensación a la que se refiere el artículo 1.c) de este real decreto y que figura al final del Anexo, que queda de la siguiente forma:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/306/14028_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/306/14028_002.png)
+
+### Disposición final sexta. Habilitación para el desarrollo reglamentario.
+
+Se habilita a la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad para dictar las disposiciones necesarias para la ejecución y desarrollo de lo dispuesto en este real decreto.
+
+Asimismo, se habilita a la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad para dictar la correspondiente orden de creación del fichero con datos de carácter personal relativos a los enfermeros acreditados.
+
+### Disposición final séptima. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Oviedo, el 23 de octubre de 2015.
+
+FELIPE R.
+
+El Ministro de Sanidad, Servicios Sociales e Igualdad,
+
+ALFONSO ALONSO ARANEGUI
+
+## ANEXO I — Competencias necesarias para indicar, usar y autorizar la dispensación de medicamentos y productos sanitarios de uso humano y características de los programas formativos
+
+Competencias que deben poseer los enfermeros para ser acreditados:
+
+a) En el ámbito de los cuidados generales:
+
+1.ª Conocer los diferentes grupos de fármacos, los principios de su indicación, uso y autorización, así como los mecanismos de acción de los mismos.
+
+2.ª Conocer la indicación y el uso de productos sanitarios vinculados a los cuidados de enfermería.
+
+3.ª Indicación y uso de los medicamentos, evaluando los beneficios esperados y los riesgos asociados y/o efectos derivados de su administración y consumo.
+
+4.ª Aplicar las tecnologías y sistemas de información y comunicación de los cuidados de salud.
+
+b) En el ámbito de los cuidados especializados, además de las competencias enumeradas en el párrafo a) anterior:
+
+1.ª Conocer los principios de la indicación, uso y autorización de los diferentes medicamentos y productos sanitarios de uso humano en el ámbito de los cuidados especializados.
+
+2.ª Conocer los diferentes grupos de fármacos, los principios de su indicación, uso y autorización, así como los mecanismos de acción de los mismos, en el ámbito de los cuidados especializados.
+
+3.ª Utilización de los medicamentos, evaluando los beneficios esperados y los riesgos asociados y/o efectos derivados de su administración y consumo, en el ámbito de los cuidados especializados.
+
+4.ª Aplicar las tecnologías y sistemas de información y comunicación de los cuidados de salud.
+
+> Se suprime el apartado 2 por el art. único.13 del Real Decreto 1302/2018, de 22 de octubre. [Ref. BOE-A-2018-14474](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14474)

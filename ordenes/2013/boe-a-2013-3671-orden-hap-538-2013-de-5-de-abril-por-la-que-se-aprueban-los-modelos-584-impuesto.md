@@ -1,0 +1,308 @@
+---
+title: "Orden HAP/538/2013, de 5 de abril, por la que se aprueban los modelos 584 \"Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados\" y 585 \"Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados\", y se establece la forma y procedimiento para su presentación"
+identifier: "BOE-A-2013-3671"
+eli: "https://www.boe.es/eli/es/o/2013/04/05/hap538"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2013-04-05
+published: 2013-04-06
+in_force_from: 2013-04-07
+last_amended: 2013-11-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 83"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-3671"
+retrieved: 2026-10-11
+---
+
+# Orden HAP/538/2013, de 5 de abril, por la que se aprueban los modelos 584 "Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados" y 585 "Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados", y se establece la forma y procedimiento para su presentación
+
+Con el fin de armonizar nuestro sistema fiscal con un uso más eficiente y respetuoso con el medioambiente y la sostenibilidad y para favorecer el equilibrio presupuestario en el marco de la estrategia de integración de las políticas medioambientales, la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, ha creado en su Título II dos nuevas figuras impositivas: el Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica, y el Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas.
+
+Esta ley, aunque fija para estos dos impuestos un periodo impositivo que se corresponde con el año natural con carácter general, prevé que se realicen pagos fraccionados a cuenta, habilitando al Ministro de Hacienda y Administraciones Públicas para definir las normas y modelos para realizar la autoliquidación de los impuestos y los pagos fraccionados.
+
+En particular, el artículo 26 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, que establece esta habilitación, regula de forma separada la obligación de realizar una autoliquidación e ingreso, de la obligación de realizar los pagos fraccionados exigibles con relación a los impuestos regulados en su Título II. Se ha optado, en aras de la simplificación de cargas administrativas, por aprobar un único modelo por impuesto para el cumplimiento de estas dos obligaciones. El carácter de pago fraccionado o de autoliquidación que corresponda en cada caso vendrá claramente determinado por el código de período consignado por el contribuyente en el modelo.
+
+El artículo 98.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, faculta al Ministro de Hacienda y Administraciones Públicas a determinar los supuestos y condiciones en los que los obligados tributarios deberán presentar por medios telemáticos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualquier otro documento con trascendencia tributaria.
+
+En su virtud dispongo:
+
+## Artículo 1. Aprobación del modelo 584.
+
+1\. Se aprueba el modelo 584, «Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados».
+
+2\. La presentación del citado modelo se realizará por vía telemática, de acuerdo con las condiciones y el procedimiento establecidos en los artículos 6 y 7 de esta orden.
+
+## Artículo 2. Obligados a presentar el modelo 584.
+
+Estarán obligados a presentar el modelo 584 las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que realicen la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica.
+
+## Artículo 3. Aprobación del modelo 585.
+
+1\. Se aprueba el modelo 585, «Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados».
+
+2\. La presentación del citado modelo se realizará por vía telemática, de acuerdo con las condiciones y el procedimiento establecidos en los artículos 6 y 7 de esta orden.
+
+## Artículo 4. Obligados a presentar el modelo 585.
+
+Estarán obligados a presentar el modelo 585 las personas físicas o jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que sean titulares de las instalaciones en las que se realicen las actividades señaladas en el artículo 19 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+## Artículo 5. Plazos de presentación de los modelos 584 y 585.
+
+1\. Los contribuyentes obligados a presentar el modelo 584 deberán autoliquidar el impuesto e ingresar la cuota dentro de los veinte primeros días naturales del mes siguiente a la conclusión de cada período impositivo.
+
+2\. Los contribuyentes obligados a presentar el modelo 584 deberán efectuar en los veinte primeros días naturales de los meses de junio y diciembre el pago fraccionado a cuenta de la liquidación correspondiente al período impositivo que esté en curso el día 1 de cada uno de los meses indicados.
+
+3\. Los contribuyentes obligados a presentar el modelo 585 deberán autoliquidar el impuesto e ingresar la cuota dentro de los veinte días naturales siguientes al devengo del impuesto.
+
+4\. Los contribuyentes obligados a presentar el modelo 585 deberán efectuar el pago fraccionado a cuenta de la liquidación correspondiente al período impositivo en curso, en los veinte primeros días naturales de los meses de abril, julio y octubre.
+
+> Se modifica por el art. único.1 de la Orden HAP/2223/2013, de 28 de noviembre. [Ref. BOE-A-2013-12531](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12531)
+
+## Artículo 6. Condiciones generales para la presentación telemática de los modelos 584 y 585.
+
+1\. La presentación de las declaraciones reguladas en esta orden por vía telemática a través de Internet podrá ser efectuada bien por el propio declarante o bien por un tercero que actúe en su representación, de acuerdo con lo establecido en los artículos 79 a 81 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+2\. La presentación telemática estará sujeta a las siguientes condiciones:
+
+a) El declarante deberá disponer de Número de identificación Fiscal (NIF) y estar identificado en el Censo de Obligados Tributarios con carácter previo a la presentación del modelo de declaración.
+
+b) El declarante deberá tener instalado en su navegador un certificado electrónico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, el Documento Nacional de Identidad Electrónico (DNI-e), o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria previamente instalado en el navegador a tal efecto, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+Si la presentación telemática va a ser realizada por una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, será esta persona o entidad autorizada quien deberá tener instalado en el navegador su certificado.
+
+c) Para efectuar la presentación telemática, el declarante, o, en su caso, el presentador, deberá cumplimentar y transmitir los datos del formulario, ajustado a los modelos aprobados en la presente orden ministerial, que estarán disponibles en la Sede electrónica de la Agencia Estatal de Administración Tributaria en Internet, dirección electrónica https://www.agenciatributaria.gob.es
+
+## Artículo 7. Procedimiento para la presentación telemática de los modelos 584 y 585.
+
+1\. Si se trata de declaraciones a ingresar, el procedimiento a seguir para su presentación telemática será el siguiente:
+
+a) El declarante o presentador se pondrá en contacto con la entidad de crédito que actúa como colaboradora en la gestión recaudatoria (bancos, cajas de ahorro o cooperativas de crédito) por vía telemática o por vía manual, de forma directa o a través de la Agencia Estatal de Administración Tributaria, para efectuar el ingreso correspondiente y facilitar los siguientes datos:
+
+1.º NIF del declarante (9 caracteres).
+
+2.º Ejercicio fiscal (2 últimos dígitos del año de presentación).
+
+3.º Período del modelo (pago fraccionado trimestral 1T, 2T, 3T; pago fraccionado semestral 2T, 4T; autoliquidación anual 0A).
+
+4.º Documento de ingreso, dependiendo del modelo que se ingresa: 584, 585.
+
+5.º Tipo de autoliquidación = «I» Ingreso.
+
+6.º Importe a ingresar (deberá ser mayor que cero y expresado en euros).
+
+La entidad colaboradora, una vez realizado el ingreso, asignará un Número de Referencia Completo (NRC) que generará informáticamente mediante un sistema criptográfico que relacione de forma unívoca el NRC con el importe ingresado.
+
+Al mismo tiempo, remitirá o entregará, según la forma de transmisión de los datos, un recibo que contendrá, como mínimo, los datos señalados en el artículo 3.3 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que presentan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+Para realizar el pago por Internet a través de la Agencia Estatal de Administración Tributaria y obtener el NRC, el declarante o presentador deberá conectarse con la Sede electrónica de la Agencia Estatal de Administración Tributaria en Internet, dirección electrónica https://www.agenciatributaria.gob.es, utilizando su firma electrónica y, dentro de la opción de Pago de impuestos- Autoliquidaciones, seleccionar uno de los medios de pago ofrecidos (pago mediante cargo en cuenta o pago con tarjeta).
+
+b) El declarante o, en su caso, el presentador, una vez realizada la operación anterior, se conectará a través de Internet con la citada Sede electrónica de la Agencia Estatal de Administración Tributaria, para presentar el modelo 584 ó 585 de acuerdo con los contenidos establecidos en la presente orden.
+
+c) A continuación procederá a transmitir la declaración con la firma electrónica generada al seleccionar el certificado previamente instalado en el navegador a tal efecto. Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+El declarante o presentador deberá conservar la declaración aceptada y el documento de ingreso debidamente validados con el correspondiente Código Seguro de Verificación.
+
+2\. Si de la declaración no resulta importe a ingresar, se procederá como sigue:
+
+a) El declarante o presentador se conectará con la Sede electrónica de la Agencia Estatal de Administración Tributaria en Internet, dirección electrónica https://www.agenciatributaria.gob.es, y seleccionará el concepto fiscal y el tipo de declaración a transmitir.
+
+b) A continuación, procederá a transmitir la correspondiente declaración con la firma electrónica generada al seleccionar el certificado. Si el presentador es una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, se requerirá la firma correspondiente a su certificado.
+
+El declarante o presentador deberá conservar la declaración aceptada y el documento de ingreso debidamente validados con el correspondiente Código Seguro de Verificación.
+
+> Se modifica el apartado 1.a).3º por el art. único.2 de la Orden HAP/2223/2013, de 28 de noviembre. [Ref. BOE-A-2013-12531](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12531)
+
+## Disposición final primera. Modificación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+Se añaden al apartado 2 de la disposición adicional única de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, las siguientes declaraciones:
+
+Modelo 584. Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados.
+
+Modelo 585. Impuesto sobre el almacenamiento de combustible nuclear gastado y residuosradiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados.
+
+## Disposición final segunda. Modificación de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+La Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, queda modificada como sigue:
+
+Uno. En el Anexo II «Código 022-Autoliquidaciones especiales», se incluye el siguiente modelo de declaración:
+
+«Código de modelo: 584.
+
+Denominación: “Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionadosˮ.
+
+Período de ingreso: T-0A.»
+
+Dos. En el Anexo II «Código 022-Autoliquidaciones especiales», se incluye el siguiente modelo de declaración:
+
+«Código de modelo: 585.
+
+Denominación: “Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionadosˮ.
+
+Periodo de ingreso: T-0A.»
+
+## Disposición final tercera. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 5 de abril de 2013.–El Ministro de Hacienda y Administraciones Públicas, Cristóbal Montoro Romero.
+
+## ANEXO I — Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica
+
+![1](https://www.boe.es/datos/imagenes/disp/2013/287/12531_5263.png)
+
+MODELO 584. INSTRUCCIONES DE CUMPLIMENTACIÓN
+
+**Cabecera**
+
+1\. Dependencia de Aduanas e Impuestos Especiales.
+
+Se indicará el código identificativo de la Dependencia de Aduanas e Impuestos Especiales correspondiente al domicilio fiscal del obligado tributario, de acuerdo con los códigos contenidos en la siguiente tabla:
+
+| Código | Oficina | Código | Oficina | Código | Oficina | Código | Oficina |
+|---|---|---|---|---|---|---|---|
+| 01600 | Álava/Araba. | 15600 | A Coruña. | 29600 | Málaga. | 43600 | Tarragona. |
+| 02600 | Albacete. | 16600 | Cuenca. | 30600 | Murcia. | 44600 | Teruel. |
+| 03600 | Alicante. | 17600 | Girona. | 31600 | Navarra. | 45600 | Toledo. |
+| 04600 | Almería. | 18600 | Granada. | 32600 | Ourense. | 46600 | Valencia. |
+| 05600 | Ávila. | 19600 | Guadalajara. | 33600 | Oviedo. | 47600 | Valladolid. |
+| 06600 | Badajoz. | 20600 | Gipuzkoa. | 34600 | Palencia. | 48600 | Bizkaia. |
+| 07600 | Illes Balears. | 21600 | Huelva. | 35600 | Las Palmas. | 49600 | Zamora. |
+| 08600 | Barcelona. | 22600 | Huesca. | 36600 | Pontevedra. | 50600 | Zaragoza. |
+| 09600 | Burgos. | 23600 | Jaén. | 37600 | Salamanca. | 51600 | Cartagena. |
+| 10600 | Cáceres. | 24600 | León. | 38600 | S.C. Tenerife. | 52600 | Gijón. |
+| 11600 | Cádiz. | 25600 | Lleida. | 39600 | Santander. | 53600 | Jerez F. |
+| 12600 | Castellón. | 26600 | La Rioja. | 40600 | Segovia. | 54600 | Vigo. |
+| 13600 | Ciudad Real. | 27600 | Lugo. | 41600 | Sevilla. | 55600 | Ceuta. |
+| 14600 | Córdoba. | 28600 | Madrid. | 42600 | Soria. | 56600 | Melilla. |
+
+2\. Identificación.
+
+NIF: Se cumplimentará el NIF del obligado tributario.
+
+Apellidos y nombre o razón social: Nombre y apellidos o razón social del obligado tributario.
+
+Domicilio, localidad y provincia: Calle, número, municipio, provincia y código postal del obligado tributario.
+
+CAE: Se cumplimentará con el Código de Actividad y del Establecimiento que tiene asignada la instalación de producción eléctrica a efectos del Impuesto Especial sobre la Electricidad, de acuerdo con el artículo 41 del Reglamento de los Impuestos Especiales y el anexo XLII de la Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos y actualizan diversas normas de gestión.
+
+En el supuesto de que se trate de una declaración comprensiva de varios CAE (centralizada), no se cumplimentará esta casilla. El CAE de cada establecimiento se consignará en el bloque 6. Liquidación.
+
+3\. Periodo de liquidación.
+
+Ejercicio: Se indicará el año al que se refiere la declaración. En el caso de autoliquidación correspondiente exclusivamente a combustible nuclear gastado, se indicará el año de inicio del periodo impositivo.
+
+Periodo: Se cumplimentará el código 2T, 4T, o 0A, según proceda, con arreglo al siguiente detalle:
+
+Código 2T para el pago fraccionado correspondiente a combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica a realizar en los primeros veinte días naturales de junio.
+
+Código 4T para el pago fraccionado correspondiente a combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica a realizar en los primeros veinte días naturales de diciembre.
+
+Código 0A para la presentación de la autoliquidación que corresponda (combustible nuclear gastado o residuos radiactivos resultantes de la generación de energía nucleoeléctrica).
+
+Fechas del período impositivo: Se indicarán la fecha de inicio (día, mes y año) y del final (día, mes y año) del ciclo de operación del reactor nuclear al que corresponde la declaración. En el caso de autoliquidación correspondiente exclusivamente a residuos radiactivos resultantes de la generación de energía nucleoeléctrica, este campo no se cumplimentará.
+
+Para los pagos fraccionados, se indicará la fecha prevista de finalización del correspondiente período impositivo.
+
+4\. NRC.
+
+Número de referencia completo suministrado por la entidad colaboradora.
+
+En caso de ingresos parciales se consignarán tantos NRC como importes ingresados a que correspondan dichos ingresos.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en los casos de cuota cero o de solicitud de devolución, esta casilla no se cubrirá.
+
+5\. Importe ingresado.
+
+Se consignará el importe efectivamente ingresado, correspondiente al pago fraccionado o a la autoliquidación anual de que se trate.
+
+El importe se expresará en euros con dos decimales, redondeando por exceso o por defecto, según que la tercera cifra decimal sea o no superior a 5.
+
+En el caso de solicitud de devolución, se consignará en su lugar, con signo negativo, el importe de la devolución solicitada.
+
+En el caso de ingresos parciales, se consignarán los importes ingresados correspondientes a los NRC referenciados.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en los casos de cuota cero, esta casilla no se cubrirá.
+
+**Liquidación**
+
+6\. Liquidación.
+
+Este grupo de datos cubre tanto los casos de presentación de la autoliquidación anual, como la presentación de los pagos fraccionados.
+
+Los contribuyentes efectuarán los pagos fraccionados y autoliquidarán el impuesto e ingresarán las cuotas en los plazos señalados en el apartado «3. Periodo de liquidación» de estas instrucciones.
+
+El ejemplo del cuadro siguiente muestra la estructura de la liquidación.
+
+![1](https://www.boe.es/datos/imagenes/disp/2013/287/12531_5348.png)
+
+\* Tipos recogidos por la Ley 15/2012.
+
+a. CAE:
+
+Esta casilla se cumplimentará en caso de declaración centralizada. Se consignará el CAE de cada uno de los establecimientos por los que se presente la declaración.
+
+b. Base imponible:
+
+b1. Concepto:
+
+Se indicará el concepto correspondiente según la siguiente tabla:
+
+| Unidad | Concepto |
+|---|---|
+| Kilogramos de metal pesado | 1 |
+| Metros cúbicos de residuos de baja y media actividad | 2 |
+| Metros cúbicos de residuos de muy baja actividad | 3 |
+
+b2. Cantidad:
+
+En el caso de los pagos fraccionados, estará constituida por:
+
+I. Para el concepto 1 (kilogramos de metal pesado), los kilogramos de metal pesado que se estime contenga el combustible nuclear gastado a extraer definitivamente del reactor a la finalización del correspondiente período impositivo en curso, multiplicado por el siguiente cociente:
+
+– En el numerador, el número de días transcurridos entre la fecha de inicio del período impositivo en curso y el día anterior al inicio de cada uno de los períodos de ingreso del pago fraccionado;
+
+– En el denominador, el número de días previstos de duración del período impositivo en curso.
+
+II. Para los conceptos 2 y 3, las magnitudes determinantes de la base imponible que correspondan a cada período de pago fraccionado.
+
+En el caso de autoliquidaciones, se reflejarán las bases imponibles correspondientes de acuerdo con lo dispuesto por la Ley 15/2012.
+
+c. Tipo impositivo:
+
+El impuesto se exigirá a los tipos correspondientes señalados en la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+d. Cuota tributaria:
+
+La cuota tributaria será el resultado de aplicar a cada base imponible el tipo correspondiente de los señalados en la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+Se expresará en euros con dos cifras decimales, redondeando por exceso o por defecto, según que la tercera cifra decimal sea o no superior a 5.
+
+e. Cuota tributaria total:
+
+Se consignará la cantidad correspondiente a la totalidad de los CAE y conceptos que son objeto de la declaración.
+
+f. Pagos a cuenta del periodo impositivo:
+
+Se incluirán los pagos a cuenta realizados con carácter previo durante el período impositivo, salvo en la declaración correspondiente a los pagos fraccionados del impuesto relativa a residuos radiactivos resultantes de la generación de energía nucleoeléctrica.
+
+g. Total a ingresar:
+
+Se consignará la cuota tributaria total menos la cantidad correspondiente a los pagos a cuenta realizados.
+
+> Se sustituye por el que figura como anexo I de la Orden HAP/2223/2013, de 28 de noviembre, según establece su art. único.3. [Ref. BOE-A-2013-12531](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12531)
+
+## ANEXO II — Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas
+
+![5953.png](https://www.boe.es/datos/imagenes/disp/2013/83/03671_5953.png)
+
+![5987.png](https://www.boe.es/datos/imagenes/disp/2013/83/03671_5987.png)
+
+![6020.png](https://www.boe.es/datos/imagenes/disp/2013/83/03671_6020.png)
+
+![6053.png](https://www.boe.es/datos/imagenes/disp/2013/83/03671_6053.png)
+
+![6086.png](https://www.boe.es/datos/imagenes/disp/2013/83/03671_6086.png)

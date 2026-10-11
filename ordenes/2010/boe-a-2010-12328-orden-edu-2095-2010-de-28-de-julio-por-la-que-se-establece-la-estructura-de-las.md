@@ -1,0 +1,153 @@
+---
+title: "Orden EDU/2095/2010, de 28 de julio, por la que se establece la estructura de las pruebas para la obtención del título de bachiller para personas mayores de veinte años en el ámbito de gestión del Ministerio de Educación"
+identifier: "BOE-A-2010-12328"
+eli: "https://www.boe.es/eli/es/o/2010/07/28/edu2095"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2010-07-28
+published: 2010-08-02
+in_force_from: 2010-08-03
+last_amended: 2023-07-21
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 186"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-12328"
+retrieved: 2026-10-11
+---
+
+# Orden EDU/2095/2010, de 28 de julio, por la que se establece la estructura de las pruebas para la obtención del título de bachiller para personas mayores de veinte años en el ámbito de gestión del Ministerio de Educación
+
+Norma derogada, con efectos de 22 de julio de 2023, por la disposición derogatoria única.2 de la Orden EFP/824/2023, de 19 de julio, con los efectos y alcances establecidos en la disposición final segunda de la misma. [Ref. BOE-A-2023-16816](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16816)
+
+Téngase en cuenta que las características y estructura de las pruebas para la obtención del título de Bachiller que se realicen hasta el final del curso 2023-2024 se ajustarán a lo regulado en la presente Orden, según establece la disposición transitoria primera de la Orden EFP/824/2023, de 19 de julio, citada.
+
+La importancia que adquiere el aprendizaje a lo largo de toda la vida queda reflejada en la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Ya desde su preámbulo pone de manifiesto la trascendencia de dicho aprendizaje y, tanto en el capítulo II del título preliminar como en el capítulo IX del título I, se dedica una especial atención a la educación de personas adultas y se establecen los principios que deben regirla.
+
+En el preámbulo de la citada Ley Orgánica se declara que todas las personas deben tener la posibilidad de formarse a lo largo de la vida y se manifiesta la necesidad de incrementar la flexibilidad del sistema educativo, dirigida tanto a los jóvenes que abandonaron sus estudios de manera temprana, a fin de que puedan retomarlos y completarlos, como a todas las personas adultas para que puedan continuar su aprendizaje a lo largo de la vida.
+
+Como medidas para conseguir este objetivo la ley propone en el artículo 66.4 por una parte el establecimiento de conexiones entre los distintos tipos de enseñanzas, facilitando el paso de unas a otras y permitiendo la configuración de vías formativas adaptadas a las necesidades e intereses personales y por otra la posibilidad de validar los aprendizajes adquiridos mediante vías alternativas a las de los estudios reglados. En este sentido, dispone, en el artículo 69.4, que corresponde a las Administraciones Educativas en el ámbito de sus competencias, organizar periódicamente pruebas para que las personas mayores de veinte años puedan obtener directamente el título de Bachiller, siempre que demuestren haber alcanzado los objetivos del bachillerato establecidos en el artículo 33.
+
+Finalmente, el artículo 34.1 de la Ley especifica que las modalidades del bachillerato serán las siguientes: Artes, Ciencias y Tecnología, y Humanidades y Ciencias Sociales y, según el apartado 2 de dicho artículo, el bachillerato se organizará en materias comunes, materias de modalidad y materias optativas.
+
+Por su parte el Real Decreto 1467/2007, de 2 de noviembre, por el que se establece la estructura del bachillerato y se fijan sus enseñanzas mínimas, regula los objetivos fijados en los aspectos básicos del currículo respectivo y determina en su disposición adicional segunda, relativa a la educación de personas adultas, que dichas pruebas se organizarán de manera diferenciada según las modalidades del bachillerato.
+
+Por ello, procede ahora, en el marco normativo descrito, fijar las disposiciones de carácter general que han de regular la estructura de las pruebas para la obtención del título de Bachiller para mayores de veinte años en el ámbito de gestión del Ministerio de Educación, tanto en el territorio nacional como en el exterior.
+
+En virtud de lo expuesto, y previo informe del Consejo Escolar del Estado, dispongo:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+Esta orden tiene por objeto establecer las características y estructura de las pruebas para la obtención del título de Bachiller para mayores de veinte años, que por disposición de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se organizarán periódicamente en el ámbito de la gestión del Ministerio de Educación.
+
+## Artículo 2. Características de la prueba.
+
+1\. Las pruebas tendrán por objeto comprobar si se han alcanzado los objetivos del bachillerato establecidos en el artículo 33 de la Ley Orgánica 2/2006, de 3 de mayo, así como los fijados en los aspectos básicos del currículo regulado en el Real Decreto 1105/2014, de 26 de diciembre, por el que se establece el currículo básico de la Educación Secundaria y del Bachillerato, y el grado de adquisición de las competencias correspondientes.
+
+2\. Se realizará, al menos, una prueba anual para que las personas mayores de veinte años puedan obtener el título de Bachiller.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden ECD/192/2017, de 28 de febrero. [Ref. BOE-A-2017-2459](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2459).
+
+> Se modifica el apartado 2 por el art. único.1 de la Orden EDU/326/2011, de 16 de febrero. [Ref. BOE-A-2011-3256](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3256).
+
+## Artículo 3. Requisitos.
+
+Podrán acceder a esta prueba las personas mayores de veinte años, o que cumplan esta edad en el año natural en el que se realiza la prueba, siempre que no estén cursando enseñanzas de bachillerato en ninguna de sus modalidades, ya sea en régimen ordinario, presencial turno nocturno o a distancia, y sean residentes en Ceuta o Melilla o residan en el extranjero y se encuentren en las circunstancias que el Ministerio de Educación determine.
+
+## Artículo 4. Estructura.
+
+1\. Las pruebas se organizarán de manera diferenciada según las distintas modalidades del bachillerato; se realizará una prueba por cada una de las materias que constan en el artículo 7, apartado 1, de la presente orden, de acuerdo con el anexo I de la Orden ECD/2008/2015, de 28 de septiembre, por la que se regulan las enseñanzas de bachillerato para personas adultas en régimen nocturno, a distancia y a distancia virtual, en el ámbito de gestión del Ministerio de Educación, Cultura y Deporte.
+
+2\. Los aspirantes deberán formalizar la solicitud de realización de las pruebas de las materias de la modalidad elegida, de conformidad con lo establecido en el apartado 1 de este artículo; podrán solicitar la exención de la realización de las pruebas de aquellas materias que pudieran tener la condición de superadas con anterioridad o convalidadas, de acuerdo con la normativa en vigor.
+
+3\. Para el acceso y desarrollo de las pruebas se observarán las medidas de accesibilidad necesarias en cada caso para los candidatos con discapacidad.
+
+> Se modifica por el art. único.2 de la Orden ECD/192/2017, de 28 de febrero. [Ref. BOE-A-2017-2459](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2459).
+
+> Se modifica por el art. único.1 de la Orden ECD/510/2015, de 18 de marzo. [Ref. BOE-A-2015-3220](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3220).
+
+> Se añade el apartado 5 por el art. único.2 de la Orden EDU/326/2011, de 16 de febrero. [Ref. BOE-A-2011-3256](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3256).
+
+## Artículo 5. Tribunales.
+
+1\. Los Tribunales estarán compuestos por personal funcionario de carrera del Cuerpo De Catedráticos o de Profesores de Enseñanza Secundaria.
+
+2\. Cada Tribunal estará constituido por un Presidente/a y cuatro Vocales, actuando como Secretario o Secretaria la persona de menor antigüedad en el Cuerpo.
+
+3\. Para cada tribunal se designará un tribunal suplente.
+
+4\. **(Suprimido)**
+
+5\. En aquellos países en los que no los haya se constituirá un Tribunal con las condiciones establecidas en los puntos anteriores en la sede de la Subdirección General de Aprendizaje a lo largo de la vida en Madrid (España) y, donde se realicen las pruebas, se constituirá un equipo encargado de aplicarlas de acuerdo con las instrucciones que se emitan al respecto. Tal equipo estará integrado por personal de la Embajada o Consulado nombrado por el jefe de la correspondiente misión diplomática y, una vez realizadas, remitirá al citado Tribunal las pruebas para su corrección y evaluación.
+
+> Se suprime el apartado 4 por el art. único.2 de la Orden ECD/510/2015, de 18 de marzo. [Ref. BOE-A-2015-3220](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3220).
+
+> Se modifica el apartado 3 por el art. único.3 de la Orden EDU/326/2011, de 16 de febrero. [Ref. BOE-A-2011-3256](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3256).
+
+## Artículo 6. Convalidaciones, equivalencias y exenciones.
+
+1\. Los aspirantes podrán solicitar el reconocimiento por parte del tribunal de la condición de materia convalidada, equivalente o exenta de acuerdo con la siguiente normativa:
+
+a) Real Decreto 777/1998, de 30 de abril, por el que se desarrollan determinados aspectos de la ordenaci6n de la formación profesional en el ámbito del sistema educativo.
+
+b) Real Decreto 986/1991, de 14 de junio, por el que se aprueba el calendario de aplicación de la nueva ordenación del sistema educativo.
+
+c) Real Decreto 242/2009, de 27 de febrero, por el que se establecen convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, así como los efectos que sobre la materia de Educación física deben tener la condición de deportista de alto nivel o alto rendimiento y las enseñanzas profesionales de Danza.
+
+d) Orden EDU/2395/2009, de 9 de septiembre, por la que se regula la promoción de un curso incompleto del sistema educativo definido por la Ley Orgánica 1/1990, de 3 de octubre, de ordenación general del sistema educativo, a otro de la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+
+e) Orden EDU/2739/2009, de 1 de octubre, por la que se determinan las convalidaciones entre las enseñanzas profesionales de Música y de Danza y la Educación secundaria obligatoria y el Bachillerato, y la exención de la Educación Física, en el ámbito de gestión del Ministerio de Educación.
+
+f) Resolución de 24 de septiembre de 2009, de la Secretaría de Estado de Educación y Formación Profesional, por la que se establecen las convalidaciones de las materias optativas de la Educación Secundaria Obligatoria y Bachillerato, en el ámbito de gestión del Ministerio de Educación.
+
+g) La Orden ECD/462/2016, de 31 de marzo, por la que se regula el procedimiento de incorporación del alumnado a un curso de Educación Secundaria Obligatoria o de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con materias no superadas del currículo anterior a su implantación.
+
+2\. Corresponde a los tribunales la apreciación de las convalidaciones, equivalencias y exenciones correspondientes.
+
+> Se añade la letra g) al apartado 1 por el art. único.3 de la Orden ECD/192/2017, de 28 de febrero. [Ref. BOE-A-2017-2459](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2459).
+
+> Se modifica por el art. único.3 de la Orden ECD/510/2015, de 18 de marzo. [Ref. BOE-A-2015-3220](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3220).
+
+## Artículo 7. Superación de las pruebas y obtención del título de Bachiller y certificaciones.
+
+1\. Para la obtención del título de Bachiller a través de estas pruebas será necesaria la superación de:
+
+a) Todas las pruebas de las materias generales del bloque de asignaturas troncales de la modalidad elegida por el aspirante.
+
+b) Dos materias de opción de cada curso, del bloque de asignaturas troncales de la modalidad elegida por el aspirante.
+
+c) Una materia del bloque de asignaturas específicas de cada curso, de entre las recogidas en el artículo 34 bis.4 y 34 ter.4, de la Ley Orgánica 2/2006, de 3 de mayo, que no sea Educación Física ni Religión.
+
+2\. El resultado obtenido en cada una de las materias será puntuado de 0 a 10 sin decimales. Se considerará superada una materia cuando la puntuación obtenida sea igual o superior a 5.
+
+3\. Los aspirantes que se encuentren en posesión de un título de Técnico o de Técnico Superior o de Técnico de las Enseñanzas Profesionales de Música o de Danza, podrán obtener el título de Bachiller superando las materias generales del bloque de asignaturas troncales de la modalidad elegida.
+
+4\. Las materias superadas en estas pruebas se considerarán, así mismo, superadas para sucesivas convocatorias o para cursar las enseñanzas de Bachillerato para personas adultas en el ámbito de gestión del Ministerio de Educación, Cultura y Deporte.
+
+5\. Para los aspirantes que reúnan los requisitos para la obtención del título de Bachiller, se procederá al cálculo de la nota media de Bachillerato conforme a lo establecido en la normativa que lo regula.
+
+6\. Quienes superen satisfactoriamente las pruebas en cualquiera de sus modalidades recibirán el título de Bachiller. La obtención del título de Bachiller estará sujeta en todo caso al cumplimiento de los requisitos contemplados en la normativa vigente.
+
+7\. Todas las personas que participen en las pruebas podrán obtener, previa solicitud, una certificación de las calificaciones obtenidas.
+
+> Se modifica por el art. único.4 de la Orden ECD/192/2017, de 28 de febrero. [Ref. BOE-A-2017-2459](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2459).
+
+> Se modifica por el art. único.4 de la Orden ECD/510/2015, de 18 de marzo. [Ref. BOE-A-2015-3220](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3220).
+
+> Se modifican los apartados 3, 6 y 7 y se añade el apartado 8 por el art. único.4 de la Orden EDU/326/2011, de 16 de febrero. [Ref. BOE-A-2011-3256](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3256).
+
+## Disposición transitoria única. Convocatoria para el año 2010.
+
+Con carácter excepcional durante el año 2010 se realizará una única convocatoria de la prueba para la obtención del título de Bachiller.
+
+## Disposición final primera. Desarrollo normativo.
+
+Corresponde a la Secretaría de Estado de Educación y Formación Profesional dictar cuantas resoluciones e instrucciones sean precisas para la aplicación de esta orden y regular el procedimiento para el establecimiento de las exenciones que sean pertinentes.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 28 de julio de 2010.–El Ministro de Educación, Ángel Gabilondo Pujol.

@@ -1,0 +1,2169 @@
+---
+title: "Orden EHA/769/2010, de 18 de marzo, por la que se aprueba el modelo 349 de declaración recapitulativa de operaciones intracomunitarias, así como los diseños físicos y lógicos y el lugar, forma y plazo de presentación, se establecen las condiciones generales y el procedimiento para su presentación telemática, y se modifica la Orden HAC/3625/2003, de 23 de diciembre, por la que se aprueban el modelo 309 de declaración-liquidación no periódica del Impuesto sobre el Valor Añadido, y otras normas tributarias"
+identifier: "BOE-A-2010-5098"
+eli: "https://www.boe.es/eli/es/o/2010/03/18/eha769"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2010-03-18
+published: 2010-03-29
+in_force_from: 2010-03-30
+last_amended: 2020-12-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 76"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-5098"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/769/2010, de 18 de marzo, por la que se aprueba el modelo 349 de declaración recapitulativa de operaciones intracomunitarias, así como los diseños físicos y lógicos y el lugar, forma y plazo de presentación, se establecen las condiciones generales y el procedimiento para su presentación telemática, y se modifica la Orden HAC/3625/2003, de 23 de diciembre, por la que se aprueban el modelo 309 de declaración-liquidación no periódica del Impuesto sobre el Valor Añadido, y otras normas tributarias
+
+La Orden HAC/360/2002, de 19 de febrero, aprobó el modelo 349, de Declaración recapitulativa de operaciones intracomunitarias que se ha venido utilizando hasta la aprobación de la presente Orden ministerial, el cual se adaptaba a la regulación prevista en los artículos 78 a 81 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+La Directiva 2008/8/CE del Consejo, de 12 de febrero, por la que se modifica la Directiva 2006/112/CE en lo que respecta al lugar de la prestación de servicios con efectos a partir del 1 de enero de 2010, introduce importantes novedades por lo que se refiere a los estados recapitulativos regulados en los artículos 262 a 271, ambos inclusive, de la citada Directiva 2006/112/CE. Amplía el ámbito subjetivo de los sujetos pasivos y personas jurídicas que no tengan la condición de sujeto pasivo que se deben relacionar en el estado recapitulativo, incluyendo aquellos a quienes hayan prestado servicios que no están exentos del IVA en el Estado miembro en el que la transacción está gravada. Por otra parte, el artículo 266 de la Directiva 2006/112/CE habilita a los Estados miembros para establecer estados recapitulativos que contengan más información.
+
+La Directiva 2008/117/CE del Consejo, de 16 de diciembre, relativa al sistema común del Impuesto sobre el Valor Añadido, a fin de combatir el fraude fiscal vinculado a las operaciones intracomunitarias, modifica el artículo 263 de la Directiva 2006/112/CE, de 28 de noviembre, estableciendo la obligación de presentar un estado recapitulativo por cada mes natural, en un plazo no superior a un mes y con arreglo a las condiciones que establezcan los Estados miembros. Asimismo, autoriza a los Estado miembros a determinar las condiciones y límites que permitan a los sujetos pasivos presentar el estado recapitulativo para cada trimestre civil, en un plazo que no exceda de un mes a partir del final del trimestre, siempre que el importe total trimestral de entregas de bienes o prestaciones de servicios no supere determinado límite cuantitativo.
+
+La transposición de las dos Directivas indicadas ha supuesto la modificación de los artículos 78 a 81, ambos inclusive, del Reglamento del Impuesto, por medio de los que se regula la obligación de presentar la Declaración recapitulativa de operaciones intracomunitarias, así como su contenido, lugar y plazo de presentación. Dicha modificación ha sido llevada por el artículo primero del Real Decreto 192/2010, de 26 de febrero, de modificación del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, y del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, para la incorporación de determinadas directivas comunitarias.
+
+En primer lugar se introduce como novedad la obligación de presentar la declaración recapitulativa de operaciones intracomunitarias por parte de aquellos empresarios o profesionales que realicen operaciones de prestación intracomunitaria de servicios, y haciendo uso de la habilitación contenida en el artículo 266 de la Directiva 2006/112/CE, se amplía dicha obligación a los empresarios o profesionales que realicen adquisiciones intracomunitarias de servicios, tal y como estas se definen en el Reglamento del Impuesto. Por tanto, deben incluirse este tipo de operaciones de servicios dentro del contenido de la declaración recapitulativa. Asimismo, se modifica el período de declaración, que con carácter general corresponderá a cada mes natural. No obstante, también podrá ser trimestral, anual y excepcionalmente bimestral, cuando concurran determinadas circunstancias establecidas en los apartados 2 y 4 del artículo 81 del Reglamento del Impuesto sobre el Valor Añadido. Todo ello determina la obligación de aprobar un nuevo modelo 349 de Declaración recapitulativa de operaciones intracomunitarias, que se ajuste a la normativa vigente a partir del 1 de enero de 2010.
+
+Asimismo, la nueva redacción del apartado cuatro del artículo 5 de la Ley del Impuesto sobre el Valor Añadido, introducida por la Ley 2/2010, de 1 de marzo, por la que se trasponen determinadas Directivas en el ámbito de la imposición indirecta y se modifica la Ley del Impuesto sobre la Renta de no Residentes para adaptarla a la normativa comunitaria, otorga la condición de empresarios o profesionales actuando como tales, respecto a todos los servicios intracomunitarios que les sean prestados, a las personas jurídicas que no actúen como empresarios o profesionales siempre que tengan asignado un número de identificación a efectos del Impuesto sobre el Valor Añadido suministrado por la Administración española. Al obtener tal condición vendrían obligados a presentar todas y cada una de las autoliquidaciones periódicas del Impuesto. Para evitar esa carga innecesaria el Real Decreto 192/2010, de 26 de febrero, ha dado una nueva redacción al número 3º del apartado 7 del artículo 71 del Reglamento del Impuesto sobre el Valor Añadido permitiendo que dichas entidades liquiden el Impuesto mediante la presentación de liquidaciones especiales de carácter no periódico, modelo 309. Por ello, es necesario modificar la orden ministerial que aprueba dicho modelo para incluir dentro de sus presentadores a las citadas personas jurídicas.
+
+Con el fin de preservar el carácter reservado de los datos con trascendencia tributaria obtenidos por la Administración a través del modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido, se ha considerado necesario que el «Ejemplar para la entidad colaboradora» de dicho modelo contenga exclusivamente los datos identificativos del declarante, el ejercicio, período y el resultado de la autoliquidación. Por ello, se modifica el anexo I de la Orden EHA/3786/2008, de 29 de diciembre, por la que se aprueban el modelo 303 Impuesto sobre el Valor Añadido, Autoliquidación, y el modelo 308 Impuesto sobre el Valor Añadido, solicitud de devolución: Recargo de equivalencia, artículo 30 bis del Reglamento del IVA y sujetos pasivos ocasionales y se modifican los anexos I y II de la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de autoliquidación mensual, modelo individual, y 353 de autoliquidación mensual, modelo agregado, así como otra normativa tributaria.
+
+Por último, con el objeto de que en las declaraciones presentadas por teleproceso sea posible generar un código seguro de verificación, tanto para aquellas que sean erróneas como para las correctas, se ha introducido la oportuna modificación en la Orden de 21 de diciembre de 2000, por la que se establece el procedimiento para la presentación por teleproceso de las declaraciones correspondientes a los modelos 187, 188, 190, 193, 194, 196, 198, 296, 345 y 347.
+
+El artículo 81 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, dispone que la declaración recapitulativa de operaciones intracomunitarias se realizará en el lugar, forma y a través del modelo aprobado por el Ministro de Economía y Hacienda.
+
+Asimismo, el artículo 117 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el real Decreto 1065/2007, de 27 de julio, habilita, en el ámbito del Estado, al Ministro de Economía y Hacienda para aprobar los modelos de declaración, autoliquidación y comunicación de datos, así como establecer la forma, lugar y plazos de su presentación.
+
+En su virtud dispongo:
+
+## Artículo 1. Aprobación del modelo 349.
+
+1\. Se aprueba el modelo 349 “Declaración recapitulativa de operaciones intracomunitarias”, de formato electrónico y cuyo contenido se ajustará a los diseños lógicos que figuran en el anexo de esta orden.
+
+El número identificativo que habrá de figurar en el modelo 349 será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 349.
+
+2\. La presentación de las declaraciones complementarias o sustitutivas de otra declaración presentada anteriormente que se refieran al mismo período, se realizará de acuerdo con los requisitos técnicos que consten en el momento de la presentación en la sede electrónica de la Agencia Estatal de Administración Tributaria, en la dirección electrónica https://www.agenciatributaria.gob.es.
+
+> Se modifica por el art. único.1 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones recapitulativas de operaciones intracomunitarias correspondientes a 2020 que se presenten a partir del 1 de marzo, según establece su disposición final única.
+
+## Artículo 2. Obligados a presentar la declaración recapitulativa.
+
+Estarán obligados a presentar la Declaración recapitulativa de operaciones intracomunitarias los empresarios y profesionales que realicen cualquiera de las siguientes operaciones:
+
+a) Las entregas de bienes destinados a otro Estado miembro que se encuentren exentas en virtud de lo dispuesto en los apartados uno, dos y tres del artículo 25 de la Ley del Impuesto.
+
+Se incluirán entre estas operaciones las transferencias de bienes comprendidas en el número 3.º del artículo 9 de la Ley del Impuesto y, en particular, las entregas ulteriores de bienes cuya importación hubiera estado exenta de acuerdo con lo dispuesto en el número 12.º del artículo 27 de la Ley del Impuesto.
+
+Quedarán excluidas de las entregas de bienes a que se refiere este número las siguientes:
+
+1.º Las que tengan por objeto medios de transporte nuevos realizadas a título ocasional por las personas comprendidas en la letra e) del apartado uno del artículo 5 de la Ley del Impuesto.
+
+2.º Las realizadas por sujetos pasivos del Impuesto para destinatarios que no tengan atribuido un número de identificación a efectos del citado tributo en cualquier otro Estado miembro de la Comunidad.
+
+b) Las adquisiciones intracomunitarias de bienes sujetas al Impuesto realizadas por personas o entidades identificadas a efectos del mismo en el territorio de aplicación del Impuesto.
+
+Se incluirán entre estas operaciones las transferencias de bienes desde otro Estado miembro a que se refiere el número 2.º del artículo 16 de la Ley del Impuesto y, en particular, las adquisiciones intracomunitarias de bienes que hayan sido previamente importados en otro Estado miembro donde dicha importación haya estado exenta del Impuesto en condiciones análogas a las establecidas por el apartado 12.º del artículo 27 de la Ley del Impuesto.
+
+c) Las prestaciones intracomunitarias de servicios, en las condiciones previstas en el artículo 79 del Reglamento del Impuesto sobre el Valor Añadido.
+
+d) Las adquisiciones intracomunitarias de servicios, en las condiciones previstas en el artículo 79 del Reglamento del Impuesto sobre el Valor Añadido.
+
+e) Las entregas subsiguientes a las adquisiciones intracomunitarias de bienes a que se refiere el apartado tres del artículo 26 de la Ley del Impuesto, realizadas en otro Estado miembro utilizando un número de identificación a efectos de Impuesto sobre el Valor Añadido asignado por la Administración tributaria española.
+
+f) Las transferencias de bienes expedidos o transportados desde el territorio de aplicación del Impuesto con destino a otro Estado miembro en el marco de acuerdos de ventas de bienes en consigna.
+
+> Se añade la letra f) por el art. único.2 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones recapitulativas de operaciones intracomunitarias correspondientes a 2020 que se presenten a partir del 1 de marzo, según establece su disposición final única.
+
+## Artículo 3. Formas de presentación.
+
+La presentación del modelo 349 se regirá por lo dispuesto en la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria.
+
+> Se modifica por el art. único.3 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones recapitulativas de operaciones intracomunitarias correspondientes a 2020 que se presenten a partir del 1 de marzo, según establece su disposición final única.
+
+## Artículo 4. Formas de presentación del modelo 349.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Artículo 5. Lugar y procedimiento de presentación del modelo 349 en impreso.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Artículo 6. Lugar y procedimiento de presentación del modelo 349 en soporte directamente legible por ordenador.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Artículo 7. Identificación de los soportes directamente legibles por ordenador del modelo 349.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Artículo 8. Condiciones generales para la presentación telemática por Internet del modelo 349.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Artículo 9. Procedimiento para la presentación telemática por Internet del modelo 349.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.4 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Artículo 10. Plazo de presentación del modelo 349.
+
+1\. Con carácter general, la declaración recapitulativa comprenderá las operaciones realizadas en cada mes natural, y se presentará durante los veinte primeros días naturales del mes inmediato siguiente al correspondiente período mensual, salvo la correspondiente al mes de julio, que podrá presentarse durante el mes de agosto y los veinte primeros días naturales del mes de septiembre, y la correspondiente al mes de diciembre, que deberá presentarse durante los 30 primeros días naturales del mes de enero.
+
+2\. Cuando ni durante el trimestre de referencia ni en cada uno de los cuatro trimestres naturales anteriores el importe total de las entregas de bienes y prestaciones de servicios que deban consignarse en la declaración recapitulativa sea superior a 50.000 euros, excluido el Impuesto sobre el Valor Añadido, la declaración recapitulativa deberá presentarse durante los veinte primeros días naturales del mes inmediato siguiente al correspondiente período trimestral, salvo la del último trimestre del año, que deberá presentarse durante los treinta primeros días naturales del mes de enero.
+
+Si al final de cualquiera de los meses que componen cada trimestre natural se superara el importe mencionado en el párrafo anterior, deberá presentarse una declaración recapitulativa para el mes o los meses transcurridos desde el comienzo de dicho trimestre natural durante los veinte primeros días naturales inmediatos siguientes, de acuerdo con el siguiente criterio:
+
+a) Si se supera el importe mencionado en el párrafo anterior en el primer mes del trimestre natural, deberá presentarse una declaración mensual incluyendo las operaciones realizadas en dicho mes.
+
+b) Si se supera el importe mencionado en el párrafo anterior en el segundo mes del trimestre natural, deberá presentarse una declaración mensual, en la que se incluirán las operaciones correspondientes a los dos primeros meses del trimestre y se incorporará una marca en la que se indique que se trata de un trimestre truncado.
+
+> Se suprime el apartado 3 por el art. único.5 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## Disposición transitoria única. Umbral para la presentación de la Declaración recapitulativa de operaciones intracomunitarias a efectos del Impuesto sobre el Valor Añadido durante 2010 y 2011.
+
+El umbral a que se refiere el artículo 10.2 de la presente Orden, será de 100.000 euros para las declaraciones recapitulativas correspondientes a los años 2010 y 2011.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las siguientes disposiciones:
+
+1\. La Orden HAC/360/2002, de 19 de febrero, por la que se aprueba el modelo 349, de declaración recapitulativa de operaciones intracomunitarias, se establecen las condiciones generales y el procedimiento para su presentación telemática y se regula la colaboración social en la presentación telemática de la declaración anual de operaciones con terceras personas, modelo 347, y el artículo undécimo de la Orden EHA/3061/2005, de 3 de octubre, por la que se establecen las condiciones y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 038 y el procedimiento para la presentación telemática por teleproceso de las declaraciones correspondientes al modelo 180, se regula el lugar, plazo y forma de presentación de la declaración-resumen anual correspondiente al modelo 392 y se modifican determinadas normas de presentación de los modelos de declaración 180, 193, 345, 347 y 349, y otras normas tributarias.
+
+2\. Lo regulado en relación con el modelo 349, en la Disposición adicional cuarta de la Orden EHA/3895/2004, de 23 de noviembre, por la que se aprueba el modelo 198, de declaración anual de operaciones con activos financieros y otros valores mobiliarios, así como los diseños físicos y lógicos para la sustitución de sus hojas interiores por soporte directamente legible por ordenador y se establecen las condiciones y el procedimiento para su presentación telemática a través de Internet y por teleproceso y se modifican las Órdenes de aprobación de los modelos de declaración 193, 296 y 347.
+
+3\. Lo dispuesto en relación con el modelo 349, en el artículo 4 de la Orden EHA/3435/2007, de 23 de noviembre, por la que aprueban los modelos de autoliquidación 117, 123, 124, 126, 128 y 300 y se establecen medidas para la promoción y ampliación de la presentación telemática de determinadas autoliquidaciones, resúmenes anuales y declaraciones informativas de carácter tributario.
+
+## Disposición final primera. Modificación de la Orden HAC/3625/2003, de 23 de diciembre, por la que se aprueba el modelo 309 de declaración-liquidación no periódica del Impuesto sobre el Valor Añadido.
+
+Se modifica el apartado dos del artículo primero de la Orden HAC/3625/2003, de 23 de diciembre, que quedará redactado como sigue:
+
+«Dos. Este modelo será presentado:
+
+1.º Por las personas y entidades que se indican a continuación en la medida en que realicen adquisiciones intracomunitarias de bienes y estén identificadas a efectos del Impuesto sobre el Valor Añadido por haber alcanzado su volumen de adquisiciones intracomunitarias el límite establecido en el artículo 14 de la Ley 37/1992, del Impuesto sobre el Valor Añadido o por haber ejercitado la opción contemplada en el mismo artículo:
+
+a) Sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando se trate de adquisiciones intracomunitarias de bienes destinados al desarrollo de la actividad sometida a dicho régimen.
+
+b) Sujetos pasivos que realicen exclusivamente operaciones que no originan el derecho a la deducción total o parcial del Impuesto.
+
+2.º Por los sujetos pasivos que realicen exclusivamente actividades a las que sea aplicable el régimen especial de la agricultura, ganadería y pesca cuando realicen en el ejercicio de su actividad entregas de bienes inmuebles sujetas y no exentas del Impuesto sobre el Valor Añadido, así como cuando resulten ser sujetos pasivos de dicho tributo, de acuerdo con lo dispuesto en el artículo 84, apartado uno, número 2.° de su Ley reguladora.
+
+3.º Por los sujetos pasivos del Impuesto sobre el Valor Añadido que realicen exclusivamente actividades a las que sea aplicable el régimen especial del recargo de equivalencia y que estén obligados al pago de dicho impuesto y del citado recargo por las adquisiciones intracomunitarias de bienes que efectúen, así como en los supuestos contemplados en el artículo 84, apartado uno, número 2.° de la Ley 37/1992.
+
+De la misma forma, habrán de presentar el modelo citado los sujetos pasivos que realicen exclusivamente actividades a las que sea de aplicación el régimen especial del recargo de equivalencia, cuando realicen operaciones en relación con las cuales hayan ejercitado la renuncia a la aplicación de la exención contemplada en el artículo 20, apartado dos de la Ley 37/1992 y en el artículo 8, apartado 1 de su Reglamento.
+
+4.º Por las personas o entidades que no tengan la condición de empresarios o profesionales y realicen adquisiciones intracomunitarias de medios de transporte nuevos, a título oneroso.
+
+5.º Por las personas jurídicas que no actúen como empresarios o profesionales, cuando efectúen adquisiciones intracomunitarias de bienes distintos de los medios de transporte nuevos que estén sujetas al Impuesto, así como cuando se reputen empresarios o profesionales de acuerdo con lo dispuesto por el apartado cuatro del artículo 5 de la Ley del Impuesto.
+
+6.º Por los adjudicatarios, en los procedimientos administrativos o judiciales de ejecución forzosa, que tengan la condición de empresarios o profesionales del Impuesto sobre el Valor Añadido, que estén facultados para presentar en nombre y por cuenta del sujeto pasivo de dicho tributo, la declaración-liquidación correspondiente y para ingresar el impuesto resultante de la operación de adjudicación, en los términos previstos en la disposición adicional quinta del Reglamento del Impuesto sobre el Valor Añadido.
+
+7.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando deban efectuar el reintegro de las compensaciones indebidamente percibidas, según lo dispuesto en el artículo 133 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+8.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando realicen el ingreso de las regularizaciones practicadas como consecuencia del inicio en la aplicación del citado régimen especial, según lo dispuesto en el artículo 49.bis del Reglamento del Impuesto sobre el Valor Añadido.
+
+9.º Por aquellos sujetos pasivos del Impuesto sobre el Valor Añadido para los que así se determine.»
+
+## Disposición final segunda. Modificación de la Orden EHA/3786/2008, de 29 de diciembre, por la que se aprueban el modelo 303 Impuesto sobre el Valor Añadido, Autoliquidación, y el modelo 308 Impuesto sobre el Valor Añadido, solicitud de devolución: Recargo de equivalencia, artículo 30 bis del Reglamento del IVA y sujetos pasivos ocasionales y se modifican los anexos I y II de la Orden EHA/3434/2007, de 23 de noviembre, por la que se aprueban los modelos 322 de autoliquidación mensual, modelo individual, y 353 de autoliquidación mensual, modelo agregado, así como otra normativa tributaria.
+
+Modificación del anexo I de la Orden EHA/3786/2008, de 29 de diciembre.
+
+El «Ejemplar para la entidad colaboradora» del modelo 303 Impuesto sobre el Valor Añadido. Autoliquidación, incluido en el anexo I de la Orden EHA/3786/2008, se sustituye por el que figura como anexo III de la presente Orden.
+
+## Disposición final tercera. Modificación de la Orden de 21 de diciembre de 2000, por la que se establece el procedimiento para la presentación por teleproceso de las declaraciones correspondientes a los modelos 187, 188, 190, 193, 194, 196, 198, 296, 345 y 347.
+
+Se modifica el apartado tres del artículo tercero de la Orden de 21 de diciembre de 2000, que quedará redactado como sigue:
+
+«Tres. Todas las recepciones de información presentadas por este medio serán provisionales, a resultas de su proceso y comprobación. Cuando no se ajuste al diseño y demás especificaciones establecidas en las Ordenes que aprueban cada modelo, se requerirá al declarante para que en el plazo de diez días hábiles subsane los defectos de que adolezca la presentación realizada, transcurridos los cuales y de persistir anomalías que impidan a la Administración Tributaria el acceso a los datos exigibles, se tendrá por no presentada la declaración informativa a todos los efectos, circunstancia esta que se pondrá en conocimiento del obligado tributario de forma motivada.
+
+Con este fin, el fichero de respuesta contendrá un registro para cada una de las declaraciones recibidas. Dicho registro se ajustará al diseño detallado en el anexo II. Los resultados de la validación pueden ser los siguientes:
+
+La declaración es aceptada por haber resultado correcta en el proceso de validación.
+
+La declaración ha sido presentada erróneamente por haberse detectado errores en el proceso de validación. Deben corregirse los errores comunicados y transmitir una declaración sustitutiva de la anterior.
+
+La declaración no ha podido ser procesada, bien porque es incompatible con la información que consta en el sistema, o bien porque no se ajuste a los diseños lógicos y físicos de los registros de tipo 1 y tipo 2 establecidos en cada una de las Ordenes que aprueban los diferentes modelos de declaración previstos en esta Orden. Debe corregirse el error comunicado y repetirse la transmisión.
+
+Cuando la declaración haya sido presentada y procesada se generará un código seguro de verificación en el registro de respuesta de la validación».
+
+## Disposición final cuarta. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 18 de marzo de 2010.–La Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, Elena Salgado Méndez.
+
+## ANEXO — Diseños lógicos a los que deben ajustarse los archivos que se generen para la presentación telemática del modelo 349
+
+Diseños lógicos
+
+Descripción de los registros
+
+Para cada declarante se incluirán dos tipos diferentes de registro, que se distinguen por la primera posición, con arreglo a los siguientes criterios:
+
+– Tipo 1: Registro del declarante: Datos identificativos y hoja resumen de la declaración. Diseño de tipo de registro 1 de los recogidos más adelante en estos mismos apartados y Anexo de la presente orden.
+
+– Tipo 2: Registro de operador intracomunitario y Registro de rectificaciones. Diseño de tipo de registro 2 de los recogidos más adelante en estos mismos apartados y Anexo de la presente orden.
+
+El orden de presentación será el del tipo de registro, existiendo un único registro del tipo 1 y tantos registros del tipo 2 como operadores intracomunitarios y rectificaciones tenga la declaración, siendo diferentes los de operadores intracomunitarios y los de rectificaciones.
+
+Todos los campos alfanuméricos y alfabéticos se presentarán alineados a la izquierda y rellenos de blancos por la derecha, en mayúsculas sin caracteres especiales, y sin vocales acentuadas.
+
+Para los caracteres específicos del idioma se utilizará la codificación ISO-8859-1. De esta forma la letra «Ñ» tendrá el valor ASCII 209 (Hex. D1) y la «Ç» (cedilla mayúscula) el valor ASCII 199 (Hex. C7).
+
+Todos los campos numéricos se presentarán alineados a la derecha y rellenos a ceros por la izquierda sin signos y sin empaquetar.
+
+Todos los campos tendrán contenido, a no ser que se especifique lo contrario en la descripción del campo. Si no lo tuvieran, los campos numéricos se rellenarán a ceros y tanto los alfanuméricos como los alfabéticos a blancos.
+
+**Modelo 349**
+
+A. Tipo de registro 1: Registro de declarante
+
+(Posiciones, naturaleza y descripción de los campos)
+
+| Posiciones | Naturaleza | Descripción de los campos |
+|---|---|---|
+| 1 | Numérico. | **Tipo de registro.**<br>Constante número «1». |
+| 2-4 | Numérico. | **Modelo declaración.**<br>Constante «349». |
+| 5-8 | Numérico. | **Ejercicio.**<br>Las cuatro cifras del ejercicio fiscal al que corresponde la declaración. |
+| 9-17 | Alfanumérico. | **NIF del declarante.**<br>Se consignará el NIF del declarante.<br>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones de la izquierda, de acuerdo con las reglas previstas en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007 de 27 de julio (BOE del 5 de septiembre). |
+| 18-57 | Alfanumérico. | **Apellidos y nombre o razón social del declarante.**<br>Si es una persona física se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este orden.<br>Para personas jurídicas y entidades en régimen de atribución de rentas, se consignará la razón social completa, sin anagrama.<br>En ningún caso podrá figurar en este campo un nombre comercial. |
+| 58 |  | **Blanco.** |
+| 59-107 | Alfanumérico. | **Persona con quién relacionarse.**<br>Datos de la persona con quién relacionarse. Este campo se subdivide en dos:<br>59-67 **Teléfono:** Campo numérico de 9 posiciones.<br>68-107 **Apellidos y nombre:** Se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este orden. |
+| 108-120 | Numérico. | **Número identificativo de la declaración.**<br>Se consignará el número identificativo correspondiente a la declaración. Campo de contenido numérico de 13 posiciones.<br>El número identificativo que habrá de figurar, será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 349. |
+| 121-122 | Alfabético. | **Declaración complementaria o sustitutiva.**<br>En el caso excepcional de segunda o posterior presentación de declaraciones, deberá cumplimentarse obligatoriamente uno de los siguientes campos:<br>121 **Declaración complementaria:** Se consignará una «C» si la presentación de esta declaración tiene por objeto incluir registros que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidas en la misma.<br>La presentación de una declaración complementaria que tenga por objeto la modificación del contenido de datos declarados en otra declaración del mismo ejercicio presentada anteriormente se realizará desde el servicio de consulta y modificación de declaraciones informativas en la Oficina Virtual de la Agencia Tributaria (www. agenciatributaria. es).<br>122 **Declaración sustitutiva:** Se consignará una «S» si la presentación tiene como objeto anular y sustituir completamente a otra declaración anterior, del mismo ejercicio. Una declaración sustitutiva sólo puede anular a una única declaración anterior. |
+| 123-135 | Numérico. | **Número identificativo de la declaración anterior.**<br>En el caso de que se haya consignado una «C» en el campo «Declaración complementaria» o en el caso de que se haya consignado «S» en el campo «Declaración sustitutiva», se consignará el número identificativo correspondiente a la declaración a la que sustituye.<br>Campo de contenido numérico de 13 posiciones.<br>En cualquier otro caso deberá rellenarse a ceros. |
+| 136-137 | Alfanumérico. | **Período.**<br>Se hará constar el periodo al que corresponda la declaración.<br>Se consignará el que corresponda según la siguiente relación de claves:<br>«01» Enero.<br>«02» Febrero.<br>«03» Marzo.<br>«04» Abril.<br>«05» Mayo.<br>«06» Junio.<br>«07» Julio.<br>«08» Agosto.<br>«09» Septiembre.<br>«10» Octubre.<br>«11» Noviembre.<br>«12» Diciembre.<br>«1T» Primer trimestre.<br>«2T» Segundo trimestre.<br>«3T» Tercer trimestre.<br>«4T» Cuarto trimestre. |
+| 138-146 | Numérico. | **Número total de operadores intracomunitarios.**<br>Deberá consignar el número total de sujetos pasivos a los que se hayan efectuado entregas intracomunitarias exentas, entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, adquisiciones intracomunitarias sujetas, prestaciones intracomunitarias de servicios, adquisiciones intracomunitarias de servicios, transferencias de bienes, devoluciones de bienes y sustituciones del empresario o profesional destinatario de los bienes transferidos en el marco de un acuerdo de ventas de bienes en consigna, declarados para este declarante que figuren en el registro de operador intracomunitario (registro de tipo 2).<br>[Número de registros de operador intracomunitario (registro de tipo 2) con clave de operación, posición 133, igual a «E», «M», «H», «T», «A», «S», «I», «R», «D» o «C».] |
+| 147-161 | Numérico. | **Importe de las operaciones intracomunitarias.**<br>Numérico de 15 posiciones.<br>Deberá consignar la suma total de las bases imponibles que correspondan a entregas intracomunitarias exentas, entregas en otros Estados miembros, subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, adquisiciones intracomunitarias sujetas, prestaciones intracomunitarias de servicios, adquisiciones intracomunitarias de servicios, así como del valor de las transferencias, devoluciones y sustituciones del empresario o profesional destinatario de los bienes transferidos efectuadas en el marco de un acuerdo de ventas de bienes en consigna.<br>[Suma de Bases Imponibles e importes, posiciones 134-146, de los registros de operador intracomunitario (registro de tipo 2) y clave de operación, posición 133, igual a «E», «M», «H», «T», «A», «S», «I», «R», «D» o «C»].<br>Los importes deben consignarse en euros.<br>Este campo se subdivide en dos:<br>147-159 Parte entera del importe de las operaciones intracomunitarias, si no tiene contenido se consignará a ceros.<br>160-161 Parte decimal del importe de las operaciones intracomunitarias, si no tiene contenido se consignará a ceros. |
+| 162-170 | Numérico. | **Número total de operadores intracomunitarios con rectificaciones.**<br>Deberá consignar el número total de registros de rectificaciones de entregas intracomunitarias exentas, de entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, de adquisiciones intracomunitarias sujetas, prestaciones intracomunitarias de servicios, adquisiciones intracomunitarias de servicios, así como también las transferencias y, devoluciones de bienes o sustituciones del empresario o profesional destinatario de los bienes transferidos efectuadas en el marco de un acuerdo de ventas de bienes en consigna, declarados para este declarante que figuren en el registro de rectificaciones (registro de tipo 2).<br>[Número de registros de rectificaciones (registro de tipo 2) con clave de operación, posición 133, igual a «E», «M», «H», «T», «A», «S», «I», «R», «D» o «C»]. |
+| 171-185 | Numérico. | **Importe de las rectificaciones.**<br>Deberá consignar la suma total de las bases imponibles rectificadas que correspondan a las entregas intracomunitarias exentas, entregas en otros Estados miembros, subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, a adquisiciones intracomunitarias sujetas, a prestaciones intracomunitarias de servicios, a adquisiciones intracomunitarias de servicios, así como del valor las transferencias y devoluciones de bienes, o sustituciones del empresario o profesional destinatario de los bienes transferidos efectuadas en el marco de un acuerdo de ventas de bienes en consigna, y efectuadas por la totalidad de sujetos pasivos mencionados en el apartado anterior.<br>[Suma de Bases Imponibles Rectificadas, posiciones 153-165, de los registros de rectificaciones (registro de tipo 2) y clave de operación, posición 133, igual a «E», «M», «H», «T», «A», «S», «I», «R», «D» o «C»].<br>Los importes deben consignarse en euros.<br>Este campo se subdivide en dos:<br>171-183 Parte entera del importe de las bases imponibles rectificadas, si no tiene contenido se consignará a ceros.<br>184-185 Parte decimal del importe de las bases imponibles rectificadas, si no tiene contenido se consignará a ceros. |
+| 186 | Alfabético. | **Indicador cambio periodicidad en la obligación de declarar.**<br>En caso de que el importe total de las entregas de bienes y prestaciones de servicio superen los 50.000 euros en el segundo mes de cada trimestre (febrero, mayo, agosto, noviembre) deberá presentarse una declaración mensual por ese período en la que se incluirán las operaciones correspondientes a ese mes (segundo mes del trimestre) y al anterior (primer mes del trimestre).<br>Se consignará el valor que corresponda según la siguiente relación:<br>X: Si se corresponde con una declaración mensual con operaciones correspondientes a los dos primeros meses del trimestre<br>Blanco: En cualquier otro caso. |
+| 187-390 | – | Blancos. |
+| 391-399 | Alfanumérico. | **NIF del representante legal.**<br>Si el declarante es menor de 14 años se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor). Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.<br>En cualquier otro caso el contenido de este campo se rellenará a espacios. |
+| 400 - 500 | – | **Blancos.** |
+
+\* Todos los importes serán positivos.
+
+\* Los**campos numéricos**que no tengan contenido se rellenarán a ceros.
+
+\* Los **campos alfanuméricos/alfabéticos**que no tengan contenido se rellenarán a blancos.
+
+\* Todos los **campos numéricos**ajustados a la derecha y rellenos de ceros por la izquierda.
+
+\* Todos los **campos alfanuméricos/alfabéticos**ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.
+
+**Modelo 349**
+
+Tipo de registro 2: Registro de operador intracomunitario
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Posiciones</p>
+</td>
+<td>
+<p>Naturaleza</p>
+</td>
+<td>
+<p>Descripción de los campos</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Tipo de registro.</strong>
+</p>
+<p>Numérico de una posición.</p>
+<p>Constante «2» (Dos).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2-4</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Modelo declaración.</strong>
+</p>
+<p>Numérico de 3 posiciones.</p>
+<p>Constante «349».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5-8</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Ejercicio.</strong>
+</p>
+<p>Numérico de 4 posiciones.</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9-17</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>NIF del declarante.</strong>
+</p>
+<p>Alfanumérico de 9 posiciones.</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18-75</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Blancos.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>76-92</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>NIF operador comunitario.</strong>
+</p>
+<p>Alfanumérico de 17 posiciones.</p>
+<p>Se compone de los subcampos:</p>
+<p>76-77 <strong>Código país.</strong></p>
+<p>Alfabético de 2 posiciones.</p>
+<p>Se compone de las dos primeras letras identificativas del Estado miembro de la UE.</p>
+<p>78-92 <strong>Número.</strong></p>
+<p>Alfanumérico de 15 posiciones.</p>
+<p>Campo alfanumérico, que se ajustará a la izquierda y se rellenará con blancos a la derecha en los casos en que dicho número tenga menos de 15 posiciones.</p>
+<p>
+<strong>Composición del NIF comunitario de los distintos Estados miembros:</strong>
+</p>
+<p>Debe tenerse en cuenta la composición del NIF aplicable a cada uno de los Estados miembros de la UE, a efectos de la declaración recapitulativa de operaciones intracomunitarias, modelo 349.</p>
+<table>
+<thead>
+<tr>
+<td>
+<p>País</p>
+</td>
+<td>
+<p>Código país</p>
+</td>
+<td>
+<p>Número</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Alemania.</p>
+</td>
+<td>
+<p>DE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Austria.</p>
+</td>
+<td>
+<p>AT</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bélgica.</p>
+</td>
+<td>
+<p>BE</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bulgaria.</p>
+</td>
+<td>
+<p>BG</p>
+</td>
+<td>
+<p>9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chipre.</p>
+</td>
+<td>
+<p>CY</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Croacia.</p>
+</td>
+<td>
+<p>HR</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dinamarca.</p>
+</td>
+<td>
+<p>DK</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Eslovenia.</p>
+</td>
+<td>
+<p>SI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estonia.</p>
+</td>
+<td>
+<p>EE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Finlandia.</p>
+</td>
+<td>
+<p>FI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Francia.</p>
+</td>
+<td>
+<p>FR</p>
+</td>
+<td>
+<p>11 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grecia.</p>
+</td>
+<td>
+<p>EL</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reino Unido.</p>
+</td>
+<td>
+<p>GB</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda del Norte.</p>
+</td>
+<td>
+<p>XI</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Países Bajos.</p>
+</td>
+<td>
+<p>NL</p>
+</td>
+<td>
+<p>12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hungría.</p>
+</td>
+<td>
+<p>HU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Italia.</p>
+</td>
+<td>
+<p>IT</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda.</p>
+</td>
+<td>
+<p>IE</p>
+</td>
+<td>
+<p>8 o 9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Letonia.</p>
+</td>
+<td>
+<p>LV</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lituania.</p>
+</td>
+<td>
+<p>LT</p>
+</td>
+<td>
+<p>9 o 12 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luxemburgo.</p>
+</td>
+<td>
+<p>LU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Malta.</p>
+</td>
+<td>
+<p>MT</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polonia.</p>
+</td>
+<td>
+<p>PL</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portugal.</p>
+</td>
+<td>
+<p>PT</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Checa.</p>
+</td>
+<td>
+<p>CZ</p>
+</td>
+<td>
+<p>8, 9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Eslovaca.</p>
+</td>
+<td>
+<p>SK</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rumanía.</p>
+</td>
+<td>
+<p>RO</p>
+</td>
+<td>
+<p>de 2 a 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suecia.</p>
+</td>
+<td>
+<p>SE</p>
+</td>
+<td>
+<p>12 caracteres numéricos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p>93-132</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Apellidos y nombre o razón social del operador intracomunitario.</strong>
+</p>
+<p>Alfanumérico de 40 posiciones.</p>
+<p>Se cumplimentará con el mismo criterio que el especificado para el declarante en el registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>133</p>
+</td>
+<td>
+<p>Alfabético.</p>
+</td>
+<td>
+<p>
+<strong>Clave de operación.</strong>
+</p>
+<p>Alfabético de una posición.</p>
+<p>Se consignará la que corresponda según la siguiente relación:</p>
+<p><strong>E: </strong>Entregas intracomunitarias exentas, excepto las entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, que se consignará «T», y las entregas intracomunitarias de bienes posteriores a una importación exenta, que se consignarán con las claves «M» o «H» según corresponda.</p>
+<p><strong>M: </strong>Entregas intracomunitarias de bienes posteriores a una importación exenta, de acuerdo con el artículo 27.12.° de la Ley del Impuesto sobre el Valor Añadido.</p>
+<p><strong>H: </strong>Entregas intracomunitarias de bienes posteriores a una importación exenta, de acuerdo con el artículo 27.12.° de la Ley del Impuesto sobre el Valor Añadido, efectuadas por el representante fiscal según lo previsto en el artículo 86.Tres de la Ley del Impuesto.</p>
+<p><strong>A: </strong>Adquisiciones intracomunitarias sujetas.</p>
+<p><strong>T: </strong>Entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares. Cuando se realice alguna entrega de bienes de las mencionadas en el artículo 79, apartado cinco del Reglamento del IVA.</p>
+<p>Estas operaciones, cuando sean efectuadas para un destinatario para el cual se hayan realizado entregas intracomunitarias, se consignarán en un registro independiente de aquél en que se hayan consignado estas últimas operaciones.</p>
+<p><strong>S: </strong>Prestaciones intracomunitarias de servicios realizadas por el declarante.</p>
+<p><strong>I: </strong>Adquisiciones intracomunitarias de servicios localizadas en el TAI prestadas por empresarios o profesionales establecidos en otros EM cuyo destinatario es el declarante.</p>
+<p><strong>R: </strong>Transferencias de bienes efectuadas en el marco de acuerdos de ventas de bienes en consigna.</p>
+<p><strong>D: </strong>Devoluciones de bienes desde otro Estado miembro al que previamente fueron enviados desde el TAI en el marco de acuerdos de ventas de bienes en consigna.</p>
+<p><strong>C: </strong>Sustituciones del empresario o profesional destinatario de los bienes expedidos o transportados a otro Estado miembro en el marco de acuerdos de ventas de bienes en consigna.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>134-146</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Base imponible o importe.</strong>
+</p>
+<p>Numérico de 13 posiciones.</p>
+<p>Se hará constar el importe total de la Base Imponible del conjunto de las entregas intracomunitarias exentas, si se ha consignado clave de operación E, del conjunto de las entregas intracomunitarias de bienes posteriores a una importación exenta, si ha consignado la clave de operación M, del conjunto de las entregas intracomunitarias de bienes posteriores a una importación exenta, efectuadas por el representante fiscal en nombre y por cuenta del importador, si ha consignado la clave de operación H, del conjunto de las adquisiciones intracomunitarias sujetas, si se ha consignado clave de operación A, del conjunto de las entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, si se ha consignado clave de operación T, del conjunto de prestaciones intracomunitarias de servicios realizadas si se ha consignado clave de operación S, del conjunto de adquisiciones intracomunitarias de servicios si se ha consignado clave de operación I, el valor del conjunto de transferencias de bienes efectuadas en el marco de acuerdos de ventas de bienes en consigna si se ha consignado la clave R, el valor del conjunto de devoluciones de bienes desde otro Estado miembro al que previamente fueros enviados desde el TAI en el marco de acuerdos de ventas de bienes en consigna si se ha consignado clave de operación D, o el valor del conjunto de sustituciones del sujeto pasivo destinatario de los bienes expedidos o transportados a otro Estado miembro en el marco de acuerdos de ventas de bienes en consigna si se ha consignado clave de operación C para cada operador intracomunitario. Por lo tanto, si en un mismo periodo se han realizado varias operaciones con un operador intracomunitario, éstas deberán acumularse por clave de operación con el fin de consignar un único registro por cada clave de operación y periodo.</p>
+<p>En cuanto a las operaciones triangulares, también deberán acumularse por operador intracomunitario y periodo, no obstante se consignarán en un registro independiente de aquellas operaciones distintas de éstas.</p>
+<p>Se consignarán las operaciones mencionadas en los artículos 79 y 80 del Reglamento del IVA.</p>
+<p>Los importes deben consignarse en euros.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>134-144 Parte entera del importe de las entregas, si no tiene contenido se consignará a ceros.</p>
+<p>145-146 Parte decimal del importe de las entregas, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>147-178</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>
+<strong>Blancos.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>179-195</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>NIF empresario o profesional destinatario final sustituto. (Sólo se cumplimentará en caso de clave C en tipo de operación).</strong>
+</p>
+<p>Alfanumérico de 17 posiciones.</p>
+<p>Se compone de los subcampos:</p>
+<p>179-180 <strong>Código país.</strong></p>
+<p>Alfabético de 2 posiciones.</p>
+<p>Se compone de las dos primeras letras identificativas del Estado miembro de la UE.</p>
+<p>
+<strong>Deben referirse al mismo Estado miembro que el indicado en el operador al que se sustituye.</strong>
+</p>
+<p>181-195 <strong>Número.</strong></p>
+<p>Alfanumérico de 15 posiciones.</p>
+<p>Campo alfanumérico, que se ajustará a la izquierda y se rellenará con blancos a la derecha en los casos en que dicho número tenga menos de 15 posiciones.</p>
+<p>
+<strong>Composición del NIF comunitario de los distintos Estados miembros:</strong>
+</p>
+<p>Debe tenerse en cuenta la composición del NIF aplicable a cada uno de los Estados miembros de la UE, a efectos de la declaración recapitulativa de operaciones intracomunitarias, modelo 349.</p>
+<table>
+<thead>
+<tr>
+<td>
+<p>País</p>
+</td>
+<td>
+<p>Código país</p>
+</td>
+<td>
+<p>Número</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Alemania.</p>
+</td>
+<td>
+<p>DE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Austria.</p>
+</td>
+<td>
+<p>AT</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bélgica.</p>
+</td>
+<td>
+<p>BE</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bulgaria.</p>
+</td>
+<td>
+<p>BG</p>
+</td>
+<td>
+<p>9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chipre.</p>
+</td>
+<td>
+<p>CY</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Croacia.</p>
+</td>
+<td>
+<p>HR</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dinamarca.</p>
+</td>
+<td>
+<p>DK</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Eslovenia.</p>
+</td>
+<td>
+<p>SI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estonia.</p>
+</td>
+<td>
+<p>EE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Finlandia.</p>
+</td>
+<td>
+<p>FI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Francia.</p>
+</td>
+<td>
+<p>FR</p>
+</td>
+<td>
+<p>11 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grecia.</p>
+</td>
+<td>
+<p>EL</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reino Unido.</p>
+</td>
+<td>
+<p>GB</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda del Norte.</p>
+</td>
+<td>
+<p>XI</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Países Bajos.</p>
+</td>
+<td>
+<p>NL</p>
+</td>
+<td>
+<p>12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hungría.</p>
+</td>
+<td>
+<p>HU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Italia.</p>
+</td>
+<td>
+<p>IT</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda.</p>
+</td>
+<td>
+<p>IE</p>
+</td>
+<td>
+<p>8 o 9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Letonia.</p>
+</td>
+<td>
+<p>LV</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lituania.</p>
+</td>
+<td>
+<p>LT</p>
+</td>
+<td>
+<p>9 o 12 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luxemburgo.</p>
+</td>
+<td>
+<p>LU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Malta.</p>
+</td>
+<td>
+<p>MT</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polonia.</p>
+</td>
+<td>
+<p>PL</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portugal.</p>
+</td>
+<td>
+<p>PT</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Checa.</p>
+</td>
+<td>
+<p>CZ</p>
+</td>
+<td>
+<p>8, 9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Eslovaca.</p>
+</td>
+<td>
+<p>SK</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rumanía.</p>
+</td>
+<td>
+<p>RO</p>
+</td>
+<td>
+<p>de 2 a 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suecia.</p>
+</td>
+<td>
+<p>SE</p>
+</td>
+<td>
+<p>12 caracteres numéricos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p>196-235</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Apellidos y nombre o razón social del sujeto pasivo sustituto. (Sólo se cumplimentará en caso de clave C en tipo de operación).</strong>
+</p>
+<p>Alfanumérico de 40 posiciones.</p>
+<p>Se cumplimentará con el mismo criterio que el especificado para el declarante en el registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>236-500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>
+<strong>Blancos.</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+\* Todos los importes serán positivos.
+
+\* Los campos numéricos que no tengan contenido se rellenarán a ceros.
+
+\* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.
+
+\* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda, sin signos, sin empaquetar y sin decimales.
+
+\* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, excepto que se especifique lo contrario en la descripción del campo.
+
+Tipo de registro 2: Registro de rectificaciones
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Posiciones</p>
+</td>
+<td>
+<p>Naturaleza</p>
+</td>
+<td>
+<p>Descripción de los campos</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Tipo de registro.</strong>
+</p>
+<p>Numérico de una posición.</p>
+<p>Constante «2» (Dos).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2-4</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Modelo declaración.</strong>
+</p>
+<p>Numérico de 3 posiciones.</p>
+<p>Constante «349».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5-8</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Ejercicio.</strong>
+</p>
+<p>Numérico de 4 posiciones.</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9-17</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>NIF del declarante.</strong>
+</p>
+<p>Alfanumérico de 9 posiciones.</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18-75</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Blancos.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>76-92</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>NIF operador comunitario.</strong>
+</p>
+<p>Alfanumérico de 17 posiciones.</p>
+<p>Se compone de los subcampos:</p>
+<p>76-77 <strong>Código país.</strong></p>
+<p>Alfabético de 2 posiciones.</p>
+<p>Se compone de las dos primeras letras identificativas del Estado miembro de la UE.</p>
+<p>78-92 <strong>Número.</strong></p>
+<p>Alfanumérico de 15 posiciones.</p>
+<p>Campo alfanumérico, que se ajustará a la izquierda y se rellenará con blancos a la derecha en los casos en que dicho número tenga menos de 15 posiciones.</p>
+<p>
+<strong>Composición del NIF comunitario de los distintos Estados miembros:</strong>
+</p>
+<p>Debe tenerse en cuenta la composición del NIF aplicable a cada uno de los Estados miembros de la UE, a efectos de la declaración recapitulativa de operaciones intracomunitarias, modelo 349.</p>
+<table>
+<thead>
+<tr>
+<td>
+<p>País</p>
+</td>
+<td>
+<p>Código país</p>
+</td>
+<td>
+<p>Número</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Alemania.</p>
+</td>
+<td>
+<p>DE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Austria.</p>
+</td>
+<td>
+<p>AT</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bélgica.</p>
+</td>
+<td>
+<p>BE</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bulgaria.</p>
+</td>
+<td>
+<p>BG</p>
+</td>
+<td>
+<p>9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chipre.</p>
+</td>
+<td>
+<p>CY</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Croacia.</p>
+</td>
+<td>
+<p>HR</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dinamarca.</p>
+</td>
+<td>
+<p>DK</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Eslovenia.</p>
+</td>
+<td>
+<p>SI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estonia.</p>
+</td>
+<td>
+<p>EE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Finlandia.</p>
+</td>
+<td>
+<p>FI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Francia.</p>
+</td>
+<td>
+<p>FR</p>
+</td>
+<td>
+<p>11 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grecia.</p>
+</td>
+<td>
+<p>EL</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reino Unido.</p>
+</td>
+<td>
+<p>GB</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda del Norte.</p>
+</td>
+<td>
+<p>XI</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Países Bajos.</p>
+</td>
+<td>
+<p>NL</p>
+</td>
+<td>
+<p>12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hungría.</p>
+</td>
+<td>
+<p>HU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Italia.</p>
+</td>
+<td>
+<p>IT</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda.</p>
+</td>
+<td>
+<p>IE</p>
+</td>
+<td>
+<p>8 o 9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Letonia.</p>
+</td>
+<td>
+<p>LV</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lituania.</p>
+</td>
+<td>
+<p>LT</p>
+</td>
+<td>
+<p>9 o 12 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luxemburgo.</p>
+</td>
+<td>
+<p>LU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Malta.</p>
+</td>
+<td>
+<p>MT</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polonia.</p>
+</td>
+<td>
+<p>PL</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portugal.</p>
+</td>
+<td>
+<p>PT</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Checa.</p>
+</td>
+<td>
+<p>CZ</p>
+</td>
+<td>
+<p>8, 9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Eslovaca.</p>
+</td>
+<td>
+<p>SK</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rumanía.</p>
+</td>
+<td>
+<p>RO</p>
+</td>
+<td>
+<p>de 2 a 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suecia.</p>
+</td>
+<td>
+<p>SE</p>
+</td>
+<td>
+<p>12 caracteres numéricos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p>93-132</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Apellidos y nombre o razón social del operador intracomunitario.</strong>
+</p>
+<p>Alfanumérico de 40 posiciones.</p>
+<p>Se cumplimentará con el mismo criterio que el especificado para el declarante en el registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>133</p>
+</td>
+<td>
+<p>Alfabético.</p>
+</td>
+<td>
+<p>
+<strong>Clave de operación.</strong>
+</p>
+<p>Alfabético de una posición.</p>
+<p>Se consignará la que corresponda según la siguiente relación:</p>
+<p><strong>E:</strong> Rectificaciones de las entregas intracomunitarias exentas, excepto las que deban consignarse, según corresponda, con las claves T, M ó H.</p>
+<p><strong>M:</strong> Rectificaciones de las entregas intracomunitarias de bienes posteriores a una importación exenta, de acuerdo con el artículo 27.12.° de la Ley del Impuesto sobre el Valor Añadido.</p>
+<p><strong>H:</strong> Rectificaciones de las entregas intracomunitarias de bienes posteriores a una importación exenta efectuadas por el representante fiscal, de acuerdo con el artículo 27.12.° de la Ley del Impuesto sobre el Valor Añadido, efectuadas por el representante fiscal según lo previsto en el artículo 86.Tres de la Ley del Impuesto.</p>
+<p><strong>A:</strong> Rectificaciones a las adquisiciones intracomunitarias sujetas.</p>
+<p><strong>T:</strong> Rectificaciones a las entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares. Cuando se realice alguna entrega de bienes de las mencionadas en el artículo 79, apartado cinco del Reglamento del IVA.</p>
+<p>Estas operaciones, cuando sean efectuadas para un destinatario para el cual se hayan realizado entregas intracomunitarias, se consignarán en un registro independiente de aquél en que se hayan consignado estas últimas operaciones.</p>
+<p><strong>S:</strong> Rectificaciones a las prestaciones intracomunitarias de servicios realizadas por el declarante.</p>
+<p><strong>I:</strong> Rectificaciones a las adquisiciones intracomunitarias de servicios localizadas en el TAI prestadas por empresarios o profesionales establecidos en otros EM cuyo destinatario es el declarante.</p>
+<p><strong>R:</strong> Rectificaciones de transferencias de bienes efectuadas en el marco de acuerdos de ventas de bienes en consigna.</p>
+<p><strong>D:</strong> Rectificaciones de devoluciones de bienes desde otro Estado miembro al que previamente fueron enviados desde el TAI en el marco de acuerdos de ventas de bienes en consigna.</p>
+<p><strong>C:</strong> Rectificaciones de sustituciones del empresario o profesional destinatario de los bienes expedidos o transportados a otro Estado miembro en el marco de acuerdos de ventas de bienes en consigna.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>134-146</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>147-178</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Rectificaciones.</strong>
+</p>
+<p>Estos campos se cumplimentarán cuando se hayan producido circunstancias que supongan errores o rectificaciones de las bases consignadas en declaraciones anteriores. La rectificación se incluirá en el periodo en que se hubiera notificado tal modificación al destinatario de los bienes. Por tanto, este campo se rellenará únicamente si la operación que se consigna es una rectificación a una entrega, adquisición intracomunitaria, operación triangular, prestación intracomunitaria de servicios, adquisición intracomunitaria de servicios, transferencias, devoluciones de bienes o sustituciones del empresario o profesional destinatario de los bienes transferidos efectuadas en el marco de un acuerdo de ventas de bienes en consigna.</p>
+<p>Se compone de los siguientes subcampos:</p>
+<p>147-150 <strong>Ejercicio.</strong></p>
+<p>Numérico de 4 posiciones.</p>
+<p>Las cuatro cifras del ejercicio fiscal al que corresponde la declaración que se corrige.</p>
+<p>151-152 <strong>Periodo.</strong></p>
+<p>Alfanumérico de 2 posiciones.</p>
+<p>Periodo al que corresponde la declaración que se corrige, codificado con las siguientes claves:</p>
+<p>«01» Enero.</p>
+<p>«02» Febrero.</p>
+<p>«03» Marzo.</p>
+<p>«04» Abril.</p>
+<p>«05» Mayo.</p>
+<p>«06» Junio.</p>
+<p>«07» Julio.</p>
+<p>«08» Agosto.</p>
+<p>«09» Septiembre.</p>
+<p>«10» Octubre.</p>
+<p>«11» Noviembre.</p>
+<p>«12» Diciembre.</p>
+<p>«1T» Primer trimestre.</p>
+<p>«2T» Segundo trimestre.</p>
+<p>«3T» Tercer trimestre.</p>
+<p>«4T» Cuarto trimestre.</p>
+<p>«0A» Periodicidad anual.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>153-165</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Base imponible o importes rectificados.</strong>
+</p>
+<p>Numérico de 13 posiciones.</p>
+<p>Se consignará el nuevo importe total de la Base Imponible de las entregas intracomunitarias exentas, si se ha consignado clave de operación E, de las entregas intracomunitarias de bienes posteriores a una importación exenta, si ha consignado la clave de operación M, de las entregas intracomunitarias de bienes posteriores a una importación exenta, efectuadas por el representante fiscal en nombre y por cuenta del importador, si ha consignado la clave de operación H, de las adquisiciones intracomunitarias sujetas, si se ha consignado clave de operación A, de las entregas en otros Estados miembros subsiguientes a adquisiciones intracomunitarias exentas en el marco de operaciones triangulares, si se ha consignado clave de operación T, de las prestaciones intracomunitarias de servicios realizadas si se ha consignado clave de operación S, del conjunto de adquisiciones intracomunitarias de servicios si se ha consignado clave de operación I, el nuevo valor de las transferencias de bienes, si se ha consignado la clave de operación R, el nuevo valor de las devoluciones de bienes, si se ha consignado la clave de operación D, y el nuevo valor de las sustituciones del sujeto pasivo, si se ha consignado la clave de operación C que corresponda al operador intracomunitario y al periodo indicado, una vez modificado el importe de la Base imponible o el valor de la operación que se desea rectificar. Por lo tanto, si en un mismo periodo se han realizado varias operaciones con un operador intracomunitario y en una o varias de ellas se quiere rectificar la base imponible o el valor que se declaró, se acumularán en un único registro, por clave de operación y periodo, el total de bases imponibles o valores de todas las operaciones una vez rectificadas las bases imponibles o valores que correspondan.</p>
+<p>Los importes deben consignarse en euros.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>153-163 Parte entera del importe de la base imponible rectificada, si no tiene contenido se consignará a ceros.</p>
+<p>164-165 Parte decimal del importe de la base imponible rectificada, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>166-178</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Base imponible declarada anteriormente.</strong>
+</p>
+<p>Numérico de 13 posiciones.</p>
+<p>Importe de la Base imponible o del valor de la operación que se consignó en la declaración que se corrige.</p>
+<p>Los importes deben consignarse en euros.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>166-176 Parte entera del importe de la base imponible declarada anteriormente, si no tiene contenido se consignará a ceros.</p>
+<p>177-178 Parte decimal del importe de la base imponible declarada anteriormente, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>179-195</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>NIF empresario o profesional destinatario final sustituto (Sólo se cumplimentará en caso de clave C en tipo de operación).</strong>
+</p>
+<p>Alfanumérico de 17 posiciones Se compone de los subcampos:</p>
+<p>179-180 <strong>Código país.</strong></p>
+<p>Alfabético de 2 posiciones.</p>
+<p>Se compone de las dos primeras letras identificativas del Estado miembro de la UE.</p>
+<p>
+<strong>Deben referirse al mismo Estado miembro que el indicado en el operador al que se sustituye.</strong>
+</p>
+<p>181-195 <strong>Número.</strong></p>
+<p>Alfanumérico de 15 posiciones.</p>
+<p>Campo alfanumérico, que se ajustará a la izquierda y se rellenará con blancos a la derecha en los casos en que dicho número tenga menos de 15 posiciones.</p>
+<p>
+<strong>Composición del NIF comunitario de los distintos Estados miembros:</strong>
+</p>
+<p>Debe tenerse en cuenta la composición del NIF aplicable a cada uno de los Estados miembros de la UE, a efectos de la declaración recapitulativa de operaciones intracomunitarias, modelo 349.</p>
+<table>
+<thead>
+<tr>
+<td>
+<p>País</p>
+</td>
+<td>
+<p>Código país</p>
+</td>
+<td>
+<p>Número</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Alemania.</p>
+</td>
+<td>
+<p>DE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Austria.</p>
+</td>
+<td>
+<p>AT</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bélgica.</p>
+</td>
+<td>
+<p>BE</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bulgaria.</p>
+</td>
+<td>
+<p>BG</p>
+</td>
+<td>
+<p>9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chipre.</p>
+</td>
+<td>
+<p>CY</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Croacia.</p>
+</td>
+<td>
+<p>HR</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dinamarca.</p>
+</td>
+<td>
+<p>DK</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Eslovenia.</p>
+</td>
+<td>
+<p>SI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Estonia.</p>
+</td>
+<td>
+<p>EE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Finlandia.</p>
+</td>
+<td>
+<p>FI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Francia.</p>
+</td>
+<td>
+<p>FR</p>
+</td>
+<td>
+<p>11 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Grecia.</p>
+</td>
+<td>
+<p>EL</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Reino Unido.</p>
+</td>
+<td>
+<p>GB</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda del Norte.</p>
+</td>
+<td>
+<p>XI</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Países Bajos.</p>
+</td>
+<td>
+<p>NL</p>
+</td>
+<td>
+<p>12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hungría.</p>
+</td>
+<td>
+<p>HU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Italia.</p>
+</td>
+<td>
+<p>IT</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irlanda.</p>
+</td>
+<td>
+<p>IE</p>
+</td>
+<td>
+<p>8 o 9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Letonia.</p>
+</td>
+<td>
+<p>LV</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lituania.</p>
+</td>
+<td>
+<p>LT</p>
+</td>
+<td>
+<p>9 o 12 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luxemburgo.</p>
+</td>
+<td>
+<p>LU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Malta.</p>
+</td>
+<td>
+<p>MT</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polonia.</p>
+</td>
+<td>
+<p>PL</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portugal.</p>
+</td>
+<td>
+<p>PT</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Checa.</p>
+</td>
+<td>
+<p>CZ</p>
+</td>
+<td>
+<p>8, 9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>República Eslovaca.</p>
+</td>
+<td>
+<p>SK</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rumanía.</p>
+</td>
+<td>
+<p>RO</p>
+</td>
+<td>
+<p>de 2 a 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suecia.</p>
+</td>
+<td>
+<p>SE</p>
+</td>
+<td>
+<p>12 caracteres numéricos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<p>196-235</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Apellidos y nombre o razón social del sujeto pasivo sustituto (Sólo se cumplimentará en caso de clave C en tipo de operación).</strong>
+</p>
+<p>Alfanumérico de 40 posiciones.</p>
+<p>Se cumplimentará con el mismo criterio que el especificado para el declarante en el registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>236-500</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Blancos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+\* Todos los importes serán positivos.
+
+\* Los campos numéricos que no tengan contenido se rellenarán a ceros.
+
+\* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.
+
+\* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.
+
+\* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, excepto que se especifique lo contrario en la descripción del campo.
+
+> Se sustituye por el art. 3 y anexo IV de la Orden HAC/1274/2020, de 28 de diciembre. [Ref. BOE-A-2020-17269](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17269)
+
+> Téngase en cuenta que será aplicable por primera vez a las declaraciones recapitulativas de operaciones intracomunitarias, modelo 349, correspondientes a 2021, según establece la disposición final única de la citada Orden.
+
+> Se modifica su denominación y su contenido por el art. único.6 y el anexo de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+## ANEXO II
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 de la Orden HAC/174/2020, de 4 de febrero. [Ref. BOE-A-2020-2898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2898)
+
+> Se modifica por la disposición final 1 de la Orden EHA/1721/2011, de 16 de junio. [Ref. BOE-A-2011-10827](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10827)
+
+> Téngase en cuenta que esta modificación se aplicará a las declaraciones correspondientes a periodos iniciados a partir del día 1 de julio de 2011, según establece la disposición final 2 de la citada Orden.
+
+## ANEXO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/76/05098_anexo_III.png)

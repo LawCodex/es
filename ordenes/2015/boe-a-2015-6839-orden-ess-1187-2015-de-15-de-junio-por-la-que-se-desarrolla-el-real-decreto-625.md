@@ -1,0 +1,281 @@
+---
+title: "Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración"
+identifier: "BOE-A-2015-6839"
+eli: "https://www.boe.es/eli/es/o/2015/06/15/ess1187"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Empleo y Seguridad Social"
+date: 2015-06-15
+published: 2015-06-20
+in_force_from: 2015-12-01
+last_amended: 2023-01-13
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 147"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-6839"
+retrieved: 2026-10-11
+---
+
+# Orden ESS/1187/2015, de 15 de junio, por la que se desarrolla el Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración
+
+El Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
+
+Las modificaciones introducidas por el Real Decreto 625/2014 han afectado, principalmente, a la expedición de los partes médicos de baja, de confirmación y de alta, de manera que, manteniendo el rigor en la constatación de la enfermedad o lesiones del trabajador y de su incidencia en su capacidad para realizar el trabajo, se ahorren trámites burocráticos y se adapte la emisión de los partes a la duración estimada de cada proceso. Para ello, se han establecido unos protocolos de temporalidad de los actos médicos de confirmación de la baja en función de la duración estimada del proceso, la cual será fijada por el facultativo correspondiente, a su criterio médico, contando a tal fin con unas tablas de duración óptima basadas en el diagnóstico, la ocupación y la edad del trabajador.
+
+Asimismo, el Real Decreto 625/2014 mejora los mecanismos de comunicación, coordinación y colaboración entre las distintas entidades que intervienen en la gestión de la incapacidad temporal, así como las posibilidades de control de la prestación, al objeto de aligerar los trámites y cargas existentes en la actualidad.
+
+La aplicación del citado real decreto requiere, de una parte, la puesta en práctica de diferentes mecanismos instrumentales, básicamente, de los nuevos modelos de partes médicos de baja/alta y de confirmación en los procesos de incapacidad temporal, siguiendo a tal efecto las previsiones contenidas en dicha norma y, de otra, el necesario desarrollo de determinados preceptos de la norma reglamentaria. A ello responde la presente orden ministerial.
+
+En el proceso de su tramitación, la orden ha sido sometida a consulta de las administraciones públicas implicadas y de los interlocutores sociales y también ha sido informada por el Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+La orden se dicta de conformidad con lo establecido en el artículo 5.2.b) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y en la disposición final séptima del Real Decreto 625/2014, de 18 de julio.
+
+En su virtud, en uso de las facultades conferidas, dispongo:
+
+## CAPÍTULO I — Normas generales
+
+### Artículo 1. Partes médicos de incapacidad temporal.
+
+De conformidad con lo previsto en los artículos 2 y 5 del Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, se aprueban los modelos de los partes médicos de baja/alta y de confirmación de incapacidad temporal, que figuran como anexos I y II a esta orden.
+
+Las personas trabajadoras deberán facilitar a los facultativos a los que corresponda la expedición de los mencionados partes médicos los datos necesarios para su correcta cumplimentación.
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.1 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 2. Tipos de procesos de incapacidad temporal en función de su duración estimada.
+
+1\. De acuerdo con lo establecido en el artículo 2.3 del Real Decreto 625/2014, de 18 de julio, se distinguen cuatro tipos de procesos de incapacidad temporal, según cuál sea su duración estimada:
+
+a) Proceso de duración estimada muy corta: inferior a cinco días naturales.
+
+b) Proceso de duración estimada corta: de 5 a 30 días naturales.
+
+c) Proceso de duración estimada media: de 31 a 60 días naturales.
+
+d) Proceso de duración estimada larga: de 61 o más días naturales.
+
+2\. Corresponde al facultativo que emite el parte médico de baja y de confirmación determinar, en el momento de su expedición, la duración estimada del proceso. El facultativo podrá alterar esa duración estimada en un momento posterior como consecuencia de la modificación o actualización del diagnóstico o de la evolución sanitaria del trabajador. A tal efecto, según lo previsto en el artículo 2.4 del Real Decreto 625/2014, de 18 de julio, emitirá un parte de confirmación que recogerá la nueva duración estimada y, en su caso, el encuadramiento del proceso en un tipo diferente de los previstos en el apartado anterior.
+
+3\. A efectos de asignar la duración estimada a cada proceso, el facultativo dispondrá de unas tablas de duración óptima de los distintos procesos patológicos susceptibles de generar incapacidades, así como tablas sobre el grado de incidencia de los mismos en las distintas actividades laborales. Dichas tablas serán suministradas y revisadas periódicamente por el Instituto Nacional de la Seguridad Social.
+
+## CAPÍTULO II — Expedición de los partes médicos de baja y confirmación
+
+### Artículo 3. Expedición de los partes médicos de baja.
+
+1\. El parte médico de baja de incapacidad temporal, cualquiera que sea la contingencia determinante, se expedirá, inmediatamente después del reconocimiento médico de la persona trabajadora, por el facultativo del servicio público de salud que lo realice, utilizando el modelo que figura como anexo I.
+
+En caso de que la baja médica derive de un accidente de trabajo o de una enfermedad profesional cuya cobertura corresponda a una mutua colaboradora con la Seguridad Social, en adelante mutua, o a una empresa colaboradora, será el facultativo del servicio médico de la propia mutua o empresa colaboradora el que, inmediatamente después del reconocimiento médico de la persona trabajadora, expida el parte médico de baja utilizando el modelo que figura como anexo I.
+
+2\. Cuando el facultativo del servicio público de salud, de la mutua o de la empresa colaboradora considere que se trata de un proceso de duración estimada muy corta, emitirá el parte de baja y de alta en el mismo acto médico. Para ello utilizará un único parte, según el modelo que figura como anexo I, haciendo constar, junto a los datos relativos a la baja, los identificativos del alta y la fecha de la misma, que podrá coincidir con el día de la baja o estar comprendida dentro de los tres días naturales siguientes.
+
+No obstante, la persona trabajadora podrá solicitar que se le realice un reconocimiento médico el día que se haya fijado como fecha de alta y el facultativo, si considerase que la persona trabajadora no ha recuperado su capacidad laboral, podrá modificar la duración del proceso estimada inicialmente, expidiendo, al efecto, un parte de confirmación de la baja en la forma prevista en el artículo 4. En este primer parte de confirmación, que dejará sin efecto el alta prevista en el parte de baja, se indicará el diagnóstico, la nueva duración estimada y el tipo de proceso según lo establecido en el artículo 2.1, así como la fecha de la siguiente revisión médica.
+
+3\. Cuando el facultativo del servicio público de salud, de la mutua o de la empresa colaboradora considere que se trata de un proceso de duración estimada corta, media o larga, consignará en el parte de baja la fecha de la siguiente revisión médica prevista que, en ningún caso, excederá en más de siete días naturales a la fecha de la baja médica, tratándose de procesos de duración estimada corta o media, o de catorce días naturales tratándose de procesos de duración estimada larga.
+
+En la fecha de la primera revisión médica se extenderá el parte de alta o, en caso de que proceda mantener la baja, el primer parte de confirmación, de acuerdo con lo indicado en el artículo siguiente.
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.2 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 4. Expedición de los partes de confirmación de la baja.
+
+1\. Los partes de confirmación serán expedidos por el correspondiente facultativo del servicio público de salud, o de la mutua o de la empresa colaboradora cuando la incapacidad temporal derive de una contingencia profesional cubierta por una de ellas, utilizando el modelo que figura como anexo II.
+
+2\. Los partes de confirmación se expedirán en función de la duración estimada del proceso, conforme a las siguientes reglas:
+
+a) En los procesos de duración estimada muy corta no procederá la emisión de partes de confirmación, sin perjuicio de lo indicado en el artículo 3.2, párrafo segundo.
+
+b) Procesos de duración estimada corta: el primer parte de confirmación se expedirá en un plazo máximo de siete días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada catorce días naturales, como máximo.
+
+c) Procesos de duración estimada media: el primer parte de confirmación se expedirá en un plazo máximo de siete días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada veintiocho días naturales, como máximo.
+
+d) Procesos de duración estimada larga: el primer parte de confirmación se expedirá en un plazo máximo de catorce días naturales desde la fecha de la baja médica. El segundo y sucesivos partes de confirmación se expedirán cada treinta y cinco días naturales, como máximo.
+
+Los plazos establecidos en este apartado se entenderán, en todo caso, como plazos máximos, por lo que el facultativo del servicio público de salud, de la empresa colaboradora o de la mutua podrá expedir los partes de confirmación en un período inferior.
+
+En todo caso, independientemente de cuál fuera la duración estimada del proceso, el facultativo expedirá el alta médica por curación o mejoría que permite realizar el trabajo habitual cuando considere que la persona trabajadora ha recuperado su capacidad laboral, por propuesta de incapacidad permanente o por inicio de una situación de descanso por nacimiento y cuidado de menor.
+
+Si la persona trabajadora no acude a la revisión médica prevista en los partes de baja y confirmación, se podrá emitir el alta médica por incomparecencia.
+
+Producida una modificación o actualización del diagnóstico o una variación de la duración estimada en función de la evolución sanitaria de la persona trabajadora, se emitirá un parte de confirmación, en el que se hará constar el diagnóstico actualizado, la nueva duración estimada y la fecha de la siguiente revisión. Los posteriores partes de confirmación se expedirán en función de la nueva duración estimada.
+
+3\. Cuando un trabajador en situación de incapacidad temporal pase a recibir la asistencia sanitaria en un servicio público de salud distinto del que hubiera venido prestándosela, dicha circunstancia se reflejará en el parte de confirmación inmediatamente anterior, cumplimentando el apartado correspondiente. En dicho parte se indicará también la fecha en que procederá realizar la siguiente revisión médica por el nuevo servicio público de salud.
+
+4\. El facultativo del servicio público de salud, o el facultativo de la mutua o de la empresa colaboradora si se trata de contingencia profesional a su cargo, cuando emita el último parte de confirmación anterior al agotamiento de los trescientos sesenta y cinco días naturales de duración, comunicará a la persona trabajadora en el acto de reconocimiento médico que, una vez agotado el referido plazo, el control del proceso corresponderá en lo sucesivo al Instituto Nacional de la Seguridad Social en los términos establecidos en el artículo 170.2 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, informándole de que no emitirá más partes de confirmación. Todo ello sin perjuicio de que el servicio público de salud, la mutua o la empresa colaboradora le siga prestando la asistencia sanitaria que aconseje su estado.
+
+A tal efecto, en dicho parte de confirmación, el facultativo, en lugar de la fecha de la siguiente revisión médica, cumplimentará el apartado correspondiente al pase a control por el Instituto Nacional de la Seguridad Social, señalando el día de cumplimiento de los trescientos sesenta y cinco días naturales en situación de incapacidad temporal.
+
+El servicio público de salud comunicará telemáticamente al Instituto Nacional de la Seguridad Social la fecha del agotamiento de los trescientos sesenta y cinco días de manera inmediata a su cumplimiento y, en todo caso, no más tarde del primer día hábil siguiente.
+
+5\. En los procesos en que el subsidio esté a cargo de una mutua, cualquiera que sea la contingencia de que deriven, el Instituto Nacional de la Seguridad Social comunicará a la misma, de manera inmediata, que el proceso ha alcanzado los 330 días naturales de duración según los datos existentes en las bases de datos del sistema, indicando que a partir del agotamiento de los 365 días, la entidad gestora ejercerá las competencias que le corresponden de acuerdo con el artículo 128.1.a) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+Tratándose de procesos derivados de contingencia profesional, la mutua, una vez recibida la indicada comunicación y antes de que la incapacidad temporal alcance los 345 días naturales de duración, podrá hacer al Instituto Nacional de la Seguridad Social una propuesta motivada de actuación en alguno de los sentidos indicados en el citado artículo 128.1.a) párrafo segundo. Dicha propuesta no será vinculante para el Instituto Nacional de la Seguridad Social.
+
+Este Instituto dictará resolución expresa en el ejercicio de las referidas competencias, cualquiera que sea la contingencia.
+
+> Se modifican los apartados 1,2 y 4, con efectos de 1 de abril de 2023, por el art. único.3 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 5. Informes complementarios.
+
+En los procesos de incapacidad temporal de duración estimada superior a 30 días naturales, cuya gestión corresponda al servicio público de salud, cualquiera que sea la contingencia de que deriven, el segundo parte de confirmación de la baja, y los que correspondan conforme a lo previsto en el artículo 4.1 del Real Decreto 625/2014, irán acompañados de un informe médico complementario cumplimentado y actualizado por el facultativo que expida el parte de confirmación, en los términos y con el contenido señalado en el citado artículo.
+
+## CAPÍTULO III — Declaración de alta médica en los procesos de incapacidad temporal
+
+### Artículo 6. Expedición de partes médicos de alta por el facultativo del servicio público de salud, de la mutua o de la empresa colaboradora.
+
+1\. El parte médico de alta será expedido por el facultativo del correspondiente servicio público de salud, o de la mutua o de la empresa colaboradora si el proceso deriva de contingencia profesional cubierta por una de ellas, tras el reconocimiento de la persona trabajadora, utilizando para ello el modelo que se acompaña como anexo I. El facultativo que expida el parte médico de alta entregará a la persona trabajadora una copia del mismo.
+
+2\. El alta médica determinará la extinción de la situación de incapacidad temporal y del consiguiente subsidio el mismo día de su expedición, sin perjuicio de que los servicios sanitarios correspondientes continúen prestando al trabajador la asistencia sanitaria que aconseje su estado.
+
+> Se modifica el título y el apartado 1, con efectos de 1 de abril de 2023, por el art. único.4 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 7. Expedición de altas médicas por los inspectores médicos de los servicios públicos de salud.
+
+Los inspectores médicos del respectivo servicio público de salud que, de acuerdo con lo previsto en el artículo 5 del Real Decreto 625/2014, 18 de julio, expidan partes de alta médica, utilizarán el modelo que figura como anexo I. La tramitación del parte de alta, del que se entregará una copia a la persona trabajadora, será la prevista en el capítulo IV de esta orden.
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.5 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 8. Expedición de altas médicas por los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social e Instituto Social de la Marina.
+
+1\. Los inspectores médicos del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina que, conforme a lo previsto en el artículo 5 del Real Decreto 625/2014, 18 de julio, expidan partes de alta médica utilizarán el modelo que figura como anexo I. La tramitación del parte de alta, del que se entregará una copia a la persona trabajadora, será la prevista en los artículos 10, 11 y 13 de esta orden.
+
+El Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, según corresponda, dará traslado telemáticamente de los datos contenidos en el parte, de manera inmediata y, en todo caso, en el primer día hábil siguiente al de dicha expedición, al servicio público de salud, para su conocimiento, y a la mutua cuando, tratándose de contingencias comunes, le corresponda la cobertura de la prestación económica.
+
+2\. En los casos en que las mutuas formulen al Instituto Nacional de la Seguridad Social o al Instituto Social de la Marina solicitudes de alta, conforme a lo previsto en el artículo 6.3 del Real Decreto 625/2014, lo harán por vía telemática. La entidad gestora resolverá en el plazo de cuatro días establecido en el citado artículo.
+
+Si la entidad gestora considera que no procede el alta solicitada por la mutua, se lo comunicará a esta por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente a aquel en que se hubiera adoptado dicha decisión.
+
+Si la entidad gestora considera que procede el alta solicitada por la mutua, expedirá el correspondiente parte, conforme a lo indicado en el apartado 1 de este artículo. La tramitación y comunicación del citado parte se hará, igualmente, conforme a lo señalado en el apartado 1.
+
+3\. Cuando en un proceso de incapacidad temporal se haya expedido el parte médico de alta por el Instituto Nacional de la Seguridad Social o, en su caso, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a dichas entidades, estas serán las únicas competentes para emitir a través de dichos inspectores una nueva baja por la misma o similar patología, durante los ciento ochenta días naturales siguientes a la fecha en que se expidió el alta, utilizando para ello el modelo del anexo I. Tales bajas serán comunicadas al Servicio Público de Salud así como a la mutua cuando le corresponda la cobertura de la prestación económica. En esos casos, el control de la situación se llevará a cabo, a partir de ese momento, directamente por el Instituto Nacional de la Seguridad Social o el Instituto Social de la Marina, sin que proceda la expedición de partes de confirmación.
+
+> Se modifica el apartado 1, con efectos de 1 de abril de 2023, por el art. único.6 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+## CAPÍTULO IV — Normas comunes sobre tramitación de los partes médicos de baja/alta y confirmación
+
+### Artículo 9. Remisión de datos contenidos en los partes médicos de baja/alta y confirmación, por los servicios públicos de salud, las mutuas y las empresas colaboradoras.
+
+El servicio público de salud, la mutua o la empresa colaboradora, en función de quien lo hubiera expedido, remitirá los datos contenidos en los partes de baja/alta y de confirmación al Instituto Nacional de la Seguridad Social, por vía telemática, de manera inmediata y, en todo caso, en el primer día hábil siguiente al de su expedición.
+
+Excepcionalmente, cuando el facultativo no disponga de los medios indicados, las actuaciones se llevarán a cabo a través de los partes médicos en soporte papel, según los modelos que se acompañan como anexos I y II. No obstante, en estos casos, los datos correspondientes a dichos partes deberán ser transmitidos telemáticamente al Instituto Nacional de la Seguridad Social por el servicio público de salud, por la mutua o por la empresa colaboradora en los dos días hábiles siguientes a su expedición.
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.7 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 10. Comunicación a las empresas.
+
+De acuerdo con lo previsto en el artículo 7.2 del Real Decreto 625/2014, de 18 de julio, el Instituto Nacional de la Seguridad Social comunicará a la empresa, por medios electrónicos a través del fichero «INSS EMPRESAS» del sistema de Remisión Electrónica de Datos (RED) y como máximo en el día hábil siguiente al de su recepción en dicho Instituto, los datos identificativos de carácter meramente administrativo relativos a los partes médicos de baja, confirmación y alta emitidos por los facultativos del servicio público de salud o de la mutua, referidos a sus trabajadores y trabajadoras.
+
+Asimismo, cuando el parte médico de alta sea emitido por el inspector médico del Instituto Nacional de la Seguridad Social o del Instituto Social de la Marina, la entidad gestora que lo emita comunicará a la empresa, a través del citado fichero «INSS EMPRESAS», los datos meramente administrativos relativos al alta médica de sus trabajadores y trabajadoras, en el plazo establecido en el artículo 7.4 del Real Decreto 625/2014, de 18 de julio.
+
+Cuando la persona trabajadora pertenezca a algún colectivo respecto del cual la empresa o empleador no tenga obligación de incorporarse al sistema RED, las comunicaciones a que se refiere este artículo se practicarán por medios electrónicos, a través del servicio correspondiente de la sede electrónica de la Secretaría de Estado de la Seguridad Social y Pensiones (SEDESS), de acuerdo con lo previsto en la regulación de las notificaciones y comunicaciones electrónicas en el ámbito de la Administración de la Seguridad Social, cuando el destinatario esté obligado a su utilización o hubiese optado por ella. En otro caso, la comunicación se realizará mediante correo ordinario, sin perjuicio de la puesta a disposición a través del citado servicio de forma simultánea.
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.8 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 11. Tramitación por el empresario.
+
+1\. En cumplimiento de lo previsto en el artículo 7.2 del Real Decreto 625/2014, de 18 de julio, la empresa o empresas para las que preste servicios la persona trabajadora a la que se refiera la baja médica transmitirán al Instituto Nacional de la Seguridad Social, a través del sistema RED y en el plazo fijado en el citado artículo, los datos que figuran en el anexo III.
+
+2\. La obligación a que se refiere el apartado anterior corresponde a las empresas aun cuando hayan asumido el pago, a su cargo, de la prestación económica de incapacidad temporal, en régimen de colaboración voluntaria, en los términos del artículo 102.1.a) del texto refundido de la Ley General de la Seguridad Social.
+
+3\. El acceso a la consulta, el tratamiento y la explotación de los datos remitidos conforme a lo indicado en este artículo únicamente podrán ser realizados por el Instituto Nacional de la Seguridad Social y, en su caso, el Instituto Social de la Marina o la mutua correspondiente. Asimismo, el acceso a la consulta de los citados datos podrá realizarse por la Tesorería General de la Seguridad Social exclusivamente en relación con aquellos aspectos que determinen condiciones de cotización específicas respecto de las personas trabajadoras en situación de baja médica.
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.9 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 12. Reglas especiales aplicables a determinados trabajadores.
+
+**(Suprimido)**
+
+> Se suprime, con efectos de 1 de abril de 2023, por el art. único.10 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+### Artículo 13. Tramitación por el Instituto Nacional de la Seguridad Social.
+
+El Instituto Nacional de la Seguridad Social dará el trámite que corresponda a los partes médicos de baja/alta y confirmación destinados a él mismo. Tratándose de procesos derivados de contingencia común, el Instituto Nacional de la Seguridad Social transmitirá al Instituto Social de la Marina, o a la mutua correspondiente, de manera inmediata y en todo caso en el primer día hábil siguiente al de su recepción, los partes médicos de baja/alta y de confirmación de los trabajadores respecto de los que cubran la prestación económica por incapacidad temporal derivada de las indicadas contingencias.
+
+## CAPÍTULO V — Control de la situación de incapacidad temporal
+
+### Artículo 14. Control por los servicios de inspección médica del servicio público de salud.
+
+1\. En los procesos cuya gestión corresponda al servicio público de salud, trimestralmente, a contar desde el inicio de la situación de incapacidad temporal, la Inspección de Servicios Sanitarios de la Seguridad Social u órgano equivalente del respectivo servicio público de salud, o el médico de atención primaria bajo su supervisión, expedirá un informe médico de control de la incapacidad en el que deberán constar todos los extremos que, a juicio médico, justifiquen la necesidad de mantener el proceso de incapacidad temporal.
+
+2\. Los servicios públicos de salud, en el plazo de cinco días hábiles desde su emisión, pondrán los citados informes médicos de control a disposición de los inspectores médicos adscritos al Instituto Nacional de la Seguridad Social o al Instituto Social de la Marina, o de los facultativos de las mutuas respecto de los procesos por contingencia común cuya cobertura les corresponda. La misma obligación existirá respecto de los informes médicos complementarios y sus actualizaciones a que se refiere el artículo 5, y las pruebas médicas que se realicen a lo largo del proceso.
+
+### Disposición adicional primera. Facultativos e inspectores médicos del Instituto Social de la Marina.
+
+Las referencias que se realizan en la presente orden a los facultativos del servicio público de salud, así como a los inspectores médicos del servicio público de salud, se entenderán realizadas a los facultativos o inspectores médicos del Instituto Social de la Marina en aquellos casos en los que estos últimos ejerzan las mismas funciones, por no haberse producido la transferencia de la competencia de asistencia sanitaria a una comunidad autónoma.
+
+### Disposición adicional segunda. Subsidio de incapacidad temporal durante la jubilación parcial.
+
+El subsidio de incapacidad temporal, cualquiera que sea la contingencia de la que derive, causado por un trabajador en situación de jubilación parcial, será abonado en régimen de pago directo, en todo caso y por la duración que corresponda, por la entidad gestora o colaboradora pertinente, sin que opere el régimen de colaboración obligatoria a que se refiere el artículo 16.1. b) y c) de la Orden de 25 de noviembre de 1966, por la que se regula la colaboración de las empresas en la gestión del Régimen General de la Seguridad Social.
+
+La entidad gestora o colaboradora comunicará a la empresa el inicio del abono del subsidio al trabajador en régimen de pago directo, así como su finalización.
+
+### Disposición adicional tercera. Instituto Nacional de Gestión Sanitaria.
+
+Las referencias a los servicios públicos de salud que se contienen en esta orden han de entenderse también realizadas al Instituto Nacional de Gestión Sanitaria, entidad gestora de la Seguridad Social a quien le corresponde la gestión de las prestaciones sanitarias en el ámbito de las ciudades de Ceuta y Melilla.
+
+### Disposición transitoria única. Procesos en curso.
+
+Los nuevos modelos de partes médicos se utilizarán en los procesos de incapacidad temporal que estén en curso en la fecha de entrada en vigor de la presente orden y no hayan superado los 365 días.
+
+No obstante, respecto de los indicados procesos, dichos modelos así como los informes complementarios se expedirán con la periodicidad y respecto de los datos obligatorios exigidos por la normativa anterior.
+
+Las reglas fijadas en esta orden así como los nuevos modelos de partes de baja/alta y confirmación de la baja serán de aplicación a los períodos de recaída en procesos de incapacidad temporal iniciados con anterioridad a la fecha de entrada en vigor de la orden, cuando la nueva baja médica se expida con posterioridad a dicha fecha.
+
+La transmisión de los partes y datos correspondientes a los procesos referidos anteriormente se llevará a cabo conforme a lo previsto en esta orden a partir de su entrada en vigor.
+
+### Disposición derogatoria única. Normas que se derogan.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente orden y, expresamente, la Orden de 6 de abril de 1983, por la que se dictan normas a efectos de control de la situación de incapacidad laboral transitoria en el sistema de la Seguridad Social; la Orden de 19 de junio de 1997, por la que se desarrolla el Real Decreto 575/1997, de 18 de abril, y la Orden TAS/399/2004, de 12 de febrero, sobre presentación en soporte informático de los partes médicos de baja, confirmación de la baja y alta correspondientes a procesos de incapacidad temporal.
+
+### Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1.17.ª de la Constitución Española que atribuye al Estado la competencia exclusiva en materia de régimen económico de la Seguridad Social.
+
+### Disposición final segunda. Modificación de la Orden de 13 de octubre de 1967, por la que se establecen normas para la aplicación y desarrollo de la prestación por incapacidad laboral transitoria en el Régimen General de la Seguridad Social.
+
+El apartado 2 del artículo 9 de la Orden de 13 de octubre de 1967, por la que se establecen normas para la aplicación y desarrollo de la prestación por incapacidad laboral transitoria en el Régimen General de la Seguridad Social, queda redactado en los siguientes términos:
+
+«En el caso de que el trabajador sea dado de alta sin incapacidad permanente, tendrá derecho a percibir el subsidio correspondiente al día de alta».
+
+### Disposición final tercera. Facultades de aplicación.
+
+Se faculta a la Secretaría de Estado de la Seguridad Social para dictar las disposiciones necesarias para la aplicación de esta orden.
+
+### Disposición final cuarta. Entrada en vigor.
+
+La presente orden entrará en vigor el día primero del sexto mes natural siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 15 de junio de 2015.
+
+La Ministra de Empleo y Seguridad Social,
+
+Fátima Báñez García.
+
+## ANEXO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/24/2256_12719209_1.png)
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.11 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+> Téngase en cuenta, para los procesos en curso, la disposición transitoria única de la citada Orden.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 24 de 28 de enero de 2023. [Ref. BOE-A-2023-2256](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2256)
+
+## ANEXO II
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/24/2256_12719209_2.png)
+
+> Se modifica, con efectos de 1 de abril de 2023, por el art. único.11 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)
+
+> Téngase en cuenta, para los procesos en curso, la disposición transitoria única de la citada Orden.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 24 de 28 de enero de 2023. [Ref. BOE-A-2023-2256](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2256)
+
+## ANEXO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/11/781_12649218_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/11/781_12649218_5.png)
+
+> Se añade, con efectos de 1 de abril de 2023, por el art. único.11 de la Orden ISM/2/2023, de 11 de enero. [Ref. BOE-A-2023-781](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-781)<br> Téngase en cuenta, para los procesos en curso, la disposición transitoria única de la citada Orden.

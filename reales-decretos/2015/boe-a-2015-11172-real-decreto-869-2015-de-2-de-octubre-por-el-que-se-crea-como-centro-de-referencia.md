@@ -1,0 +1,62 @@
+---
+title: "Real Decreto 869/2015, de 2 de octubre, por el que se crea como Centro de Referencia Nacional el Instituto Politécnico Marítimo Pesquero del Atlántico de Vigo, en el área profesional Pesca y Navegación de la familia profesional Marítimo-Pesquera, en el ámbito de la formación profesional"
+identifier: "BOE-A-2015-11172"
+eli: "https://www.boe.es/eli/es/rd/2015/10/02/869"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2015-10-02
+published: 2015-10-17
+in_force_from: 2015-10-18
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 249"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11172"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 869/2015, de 2 de octubre, por el que se crea como Centro de Referencia Nacional el Instituto Politécnico Marítimo Pesquero del Atlántico de Vigo, en el área profesional Pesca y Navegación de la familia profesional Marítimo-Pesquera, en el ámbito de la formación profesional
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, en su artículo 11.7, establece que la programación y ejecución de las actuaciones de la red de centros de referencia nacional se llevará a cabo mediante convenios de colaboración entre la Administración del Estado y las comunidades autónomas, ateniéndose en todo caso al ámbito de sus respectivas competencias.
+
+El Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la formación profesional, en su artículo 5.4, establece que la creación de los centros de referencia nacional o la calificación de los ya existentes, en el ámbito del Sistema Nacional de las Cualificaciones y la Formación Profesional, se realizará por convenio de colaboración con la comunidad autónoma en la que vayan a estar o estén ubicados, previo informe del Consejo General de la Formación Profesional, y revestirá la forma de real decreto a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Educación y Ciencia, en la actualidad, de Empleo y Seguridad Social y de Educación, Cultura y Deporte.
+
+Con fecha 14 de octubre de 2014 se ha suscrito un Convenio de colaboración entre el Servicio Público de Empleo Estatal, el Ministerio de Educación, Cultura y Deporte y la Comunidad Autónoma de Galicia, por el que se crea como Centro de Referencia Nacional el Instituto Politécnico Marítimo Pesquero del Atlántico de Vigo en el área profesional Pesca y Navegación de la familia profesional Marítimo-Pesquera en el ámbito de la formación profesional.
+
+Este real decreto se aprueba al amparo de lo establecido en el artículo 5.4 del Real Decreto 229/2008, de 15 de febrero.
+
+El Consejo General de la Formación Profesional ha emitido informe para la creación de este Centro.
+
+En su virtud, a propuesta conjunta de la Ministra de Empleo y Seguridad Social y del Ministro de Educación, Cultura y Deporte, y previa deliberación del Consejo de Ministros en su reunión del día 2 de octubre de 2015,
+
+DISPONGO:
+
+## Artículo 1. Creación del Centro de Referencia Nacional.
+
+Se crea como Centro de Referencia Nacional el Instituto Politécnico Marítimo Pesquero del Atlántico de Vigo en el área profesional Pesca y Navegación de la familia profesional Marítimo-Pesquera en el ámbito de la formación profesional, de acuerdo con lo establecido en el Convenio de colaboración entre el Servicio Público de Empleo Estatal, el Ministerio de Educación, Cultura y Deporte y la Comunidad Autónoma de Galicia, suscrito con fecha 14 de octubre de 2014 y publicado por Resolución de 25 de mayo de 2015, de la Subsecretaría del Ministerio de la Presidencia, en el «Boletín Oficial del Estado» de fecha 3 de junio de 2015.
+
+## Artículo 2. Régimen jurídico del Centro de Referencia Nacional.
+
+El régimen jurídico del Centro de Referencia Nacional previsto en el artículo anterior será el establecido en la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional y en el Real Decreto 229/2008, de 15 de febrero, por el que se regulan los Centros de Referencia Nacional en el ámbito de la formación profesional, así como en el convenio de colaboración mencionado.
+
+## Disposición adicional única. No incremento del gasto público.
+
+La creación como Centro de Referencia Nacional del Instituto Politécnico Marítimo Pesquero del Atlántico de Vigo no implicará incremento de los medios personales ni de retribuciones ni de otros gastos de personal.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.7.ª y 30.ª de la Constitución
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 2 de octubre de 2015.
+
+FELIPE R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN

@@ -1,0 +1,101 @@
+---
+title: "Orden EHA/993/2010, de 21 de abril, por la que se establece el procedimiento para la devolución parcial de las cuotas del Impuesto sobre Hidrocarburos soportadas por los agricultores y ganaderos"
+identifier: "BOE-A-2010-6426"
+eli: "https://www.boe.es/eli/es/o/2010/04/21/eha993"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2010-04-21
+published: 2010-04-23
+in_force_from: 2010-04-24
+last_amended: 2022-10-05
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 98"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-6426"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/993/2010, de 21 de abril, por la que se establece el procedimiento para la devolución parcial de las cuotas del Impuesto sobre Hidrocarburos soportadas por los agricultores y ganaderos
+
+La Ley 26/2009, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2010, en su disposición final decimocuarta crea un nuevo artículo 52 ter en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, en el que se reconoce el derecho a la devolución parcial de las cuotas del Impuesto sobre Hidrocarburos, satisfechas o soportadas por los agricultores y ganaderos con ocasión de las adquisiciones de gasóleo que haya tributado por el Impuesto sobre Hidrocarburos al tipo impositivo del epígrafe 1.4 del artículo 50.1 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que hayan efectuado durante el año natural anterior.
+
+En el apartado Tres de este nuevo artículo se autoriza al Ministro de Economía y Hacienda para establecer el procedimiento para efectuar la devolución parcial del Impuesto sobre Hidrocarburos, pudiendo comprender aquél la obligación de que los interesados presenten declaraciones tributarias, incluso de carácter censal.
+
+Asimismo, el artículo 98.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, atribuye competencias al Ministro de Hacienda para determinar los supuestos y condiciones en los que los obligados tributarios deberán presentar por medios telemáticos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualquier otro documento de trascendencia tributaria.
+
+En consecuencia, para hacer factible la devolución parcial del Impuesto sobre Hidrocarburos a los agricultores y ganaderos, es necesario establecer el procedimiento para la práctica de estas devoluciones.
+
+En su virtud, dispongo:
+
+## Artículo 1. Forma y plazo de presentación de la solicitud de devolución parcial.
+
+Los agricultores y ganaderos a los que el artículo 52 ter de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, reconoce el derecho a la devolución parcial de las cuotas del Impuesto sobre Hidrocarburos satisfechas o soportadas con ocasión de las adquisiciones de gasóleo a que hace referencia el citado artículo, para hacer efectivo dicho derecho deberán proceder a la presentación electrónica a través de la sede electrónica de la Agencia Estatal de Administración Tributaria de una solicitud a partir del 1 de abril del año posterior a aquél en el que se realizaron las adquisiciones de gasóleo, en las condiciones y de acuerdo con el procedimiento previsto en la presente Orden, y a tal efecto, deberán estar en posesión de un certificado de firma electrónica, o realizar la presentación de la solicitud a través de la colaboración social prevista en el artículo 92 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+## Artículo 2. Aprobación del formato electrónico «Solicitud de devolución parcial de las cuotas del Impuesto sobre Hidrocarburos satisfechas o soportadas por los agricultores y ganaderos por las adquisiciones de gasóleo» y procedimiento para la presentación electrónica de la misma.
+
+1\. Se aprueba el formato electrónico «Solicitud de devolución parcial de las cuotas del Impuesto sobre Hidrocarburos satisfechas o soportadas por los agricultores y ganaderos por las adquisiciones de gasóleo» correspondientes a las efectuadas por los beneficiarios.
+
+2\. La presentación electrónica de las solicitudes mencionadas en el apartado anterior se efectuará con arreglo al siguiente procedimiento:
+
+a) Los declarantes se pondrán en comunicación con la Agencia Estatal de Administración Tributaria a través de Internet en la dirección electrónica www.agenciatributaria.gob.es debiendo hacer constar en la solicitud los datos siguientes:
+
+1.º NIF: 9 caracteres.
+
+2.º Código correspondiente al medio empleado para la utilización del gasóleo como carburante, de acuerdo con los siguientes epígrafes:
+
+1\. Tractores.
+
+2\. Maquinaria agrícola distinta de los tractores.
+
+3\. Motores fijos.
+
+4\. Otros medios utilizados.
+
+3.º Matrícula de los vehículos que han efectuado el consumo de gasóleo, que haya tributado por el Impuesto sobre Hidrocarburos al tipo impositivo del epígrafe 1.4 del artículo 50.1 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales (en adelante gasóleo bonificado).
+
+4.º Tipo y número de fabricación de la maquinaria o artefacto con la que se ha efectuado el consumo de gasóleo bonificado.
+
+5.º En las adquisiciones de gasóleo bonificado efectuadas en detallistas de gasóleo bonificado, pagadas mediante la utilización de los medios de pago específicos a que se refiere el artículo 107 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, el declarante deberá determinar de forma global, por todas las adquisiciones efectuadas en un mismo establecimiento y satisfechas mediante la utilización de tarjetas-gasóleo bonificado o cheques-gasóleo bonificado, la cantidad de litros de gasóleo bonificado adquirida, y consignar este dato en la solicitud junto con el importe total satisfecho por estos medios de pago y el Código de Actividad y Establecimiento (CAE) del establecimiento detallista donde se ha efectuado la adquisición del gasóleo bonificado.
+
+En las adquisiciones de gasóleo bonificado efectuadas en otros establecimientos, distintos de los detallistas de gasóleo bonificado, el declarante deberá consignar, por cada suministro o conjunto de suministros agrupados en una misma factura, los siguientes datos: número y fecha de la factura, Código de Actividad y Establecimiento (CAE) del establecimiento donde se ha efectuado la adquisición del carburante, volumen de litros e importe del gasóleo bonificado adquirido, ambos datos redondeados a dos cifras decimales.
+
+6.º Identificación de la entidad financiera y del código identificativo de la cuenta corriente, a la que deban efectuarse las transferencias de las devoluciones.
+
+b) A continuación se procederá a transmitir la solicitud con la firma electrónica generada al seleccionar el certificado previamente instalado en el navegador al efecto.
+
+c) Si quien la presenta es una persona o entidad autorizada a presentar solicitudes en representación de terceras personas, se requerirá únicamente la firma electrónica correspondiente a su certificado.
+
+d) Si la solicitud es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla la solicitud validada con un código seguro de verificación, además de la fecha y hora de presentación.
+
+En el supuesto de que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos y volver a presentar una nueva solicitud.
+
+> Se modifica el apartado 2.a).5º por la disposición final 1 de la Orden HFP/941/2022, de 3 de octubre. [Ref. BOE-A-2022-16192](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16192)
+
+## Artículo 3. Devolución de las cuotas por los suministros efectuados.
+
+Basándose en las solicitudes presentadas a que se refiere el artículo 1, la Oficina Gestora de Impuestos Especiales correspondiente al domicilio fiscal del beneficiario de la devolución del Impuesto sobre Hidrocarburos, acordará, en su caso y previa comprobación de los datos de la solicitud, y en especial que los solicitantes han estado inscritos en el mismo año en el que realizaron las adquisiciones de gasóleo y en relación con estas actividades en el Censo de Empresarios, Profesionales y Retenedores, la devolución de las cuotas correspondientes, de acuerdo con lo dispuesto en el artículo 104 de la Ley 58/2003, de 17 de diciembre, General Tributaria, mediante transferencia bancaria a la cuenta indicada por los beneficiarios en la solicitud.
+
+## Artículo 4. Obligaciones de los beneficiarios de la devolución.
+
+Los titulares del derecho a la devolución del Impuesto sobre Hidrocarburos a los que se refiere la presente Orden, deberán estar en posesión de las facturas acreditativas de cada uno de los suministros que se incluyan en la correspondiente solicitud de devolución. La referida documentación deberá conservarse por los beneficiarios durante un periodo de 4 años a partir del día siguiente a aquel en que dicha devolución pudo comenzar a solicitarse.
+
+## Disposición adicional única. Colaboración social.
+
+Las personas o entidades autorizadas a presentar por vía electrónica declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, podrán hacer uso de esta facultad respecto de la presentación de las solicitudes previstas en la presente Orden.
+
+## Disposición transitoria única. Plazo de presentación de las solicitudes de devolución parcial en 2010.
+
+Excepcionalmente, el plazo de presentación de las solicitudes de devolución correspondientes a las adquisiciones de gasóleo realizadas en el ejercicio 2009 se iniciará el 1 de mayo de 2010.
+
+## Disposición final primera. Habilitación al Director General de la Agencia Estatal de Administración Tributaria.
+
+Se habilita al Director General de la Agencia Estatal de Administración Tributaria a dictar las disposiciones o instrucciones necesarias para la ejecución y cumplimiento de lo previsto en esta Orden.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 21 de abril de 2010.–La Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, Elena Salgado Méndez.

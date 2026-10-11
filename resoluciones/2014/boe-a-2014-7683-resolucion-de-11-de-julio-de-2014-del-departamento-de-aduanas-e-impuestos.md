@@ -1,0 +1,12595 @@
+---
+title: "Resolución de 11 de julio de 2014, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en la que se recogen las instrucciones para la formalización del documento único administrativo (DUA)"
+identifier: "BOE-A-2014-7683"
+eli: "https://www.boe.es/eli/es/res/2014/07/11/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2014-07-11
+published: 2014-07-21
+in_force_from: 2014-07-22
+last_amended: 2023-03-23
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 176"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7683"
+retrieved: 2026-10-11
+---
+
+# Resolución de 11 de julio de 2014, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en la que se recogen las instrucciones para la formalización del documento único administrativo (DUA)
+
+El artículo 62 del Reglamento (CEE) n.º 2913/1992 del Consejo, de 12 de octubre de 1992, por el que se aprueba el Código aduanero comunitario exige que las declaraciones presentadas por escrito se cumplimenten en un modelo oficial. Este modelo, el Documento Único Administrativo (en adelante DUA), se recoge y desarrolla en el Reglamento (CEE) n.º 2454/93 de la Comisión, de 2 de julio de 1993, por el que se fijan determinadas disposiciones de aplicación del Reglamento (CEE) n.º 2913/1992 del Consejo por el que se establece el Código Aduanero Comunitario, en el Título VII, Capítulo 1.º y en los Anexos 36, 37 y 38. De acuerdo con el artículo 205 de este texto legal, el DUA deberá utilizarse para «realizar por escrito la declaración en aduana de mercancías, según el procedimiento normal, para incluirlas en un régimen aduanero o para reexportarlas».
+
+La declaración en aduanas se podrá efectuar utilizando un procedimiento informático tal y como prevé el artículo 61 del Reglamento (CEE) n.º 2913/1992 del Consejo, de 12 de octubre de 1992. De hecho, la presentación de declaraciones escritas constituye, actualmente, un porcentaje mínimo frente a la presentación por medios informáticos siendo incluso ésta obligatoria para algunos regímenes, como el tránsito y la exportación (artículos 353 y 787 del Reglamento (CEE) n.º 2454/93 de la Comisión, de 2 de julio de 1993). El contenido de la declaración electrónica debe corresponder con las indicaciones exigidas para las declaraciones escritas, según preceptúa el artículo 77.1 del Reglamento (CEE) n.º 2913/1992 del Consejo, de 12 de octubre de 1992. Es por ello que los capítulos 2.º a 5.º de esta Resolución contienen las instrucciones para cumplimentar la declaración aduanera, incluso en formato electrónico, siguiendo el impreso DUA. El capítulo 6.º incluye instrucciones específicas del procedimiento electrónico.
+
+Pero la utilización y la formalización de un DUA no sólo depende de la normativa aduanera, sino que se ven afectadas por otras disposiciones nacionales o de la Unión Europea que regulan aspectos relacionados con la entrada, salida y permanencia de la mercancía en el territorio aduanero de la Unión y cuyo cumplimiento se debe realizar con anterioridad al destino o régimen aduanero que se solicite con el DUA y condicionando su autorización.
+
+Para facilitar el cumplimiento de las obligaciones de los operadores económicos en relación con la declaración aduanera se hace necesario que un instrumento jurídico recopile la dispersa normativa indicada y la articule en función de los diferentes regímenes o destinos aduaneros y de los procedimientos y simplificaciones aduaneras. Instrumento jurídico que para una mayor seguridad jurídica del administrado se realiza a través de una Resolución del Departamento de Aduanas e Impuestos Especiales como órgano encargado de la adopción de las medidas necesarias para coordinación de la gestión de los tributos y gravámenes que recaigan sobre el comercio exterior y demás medidas previstas en el derecho de la Unión o nacional, de los regímenes aduaneros y fiscales y el control del tráfico entre territorios nacionales sometidos a distintos regímenes aduaneros y fiscales, según se prevé en el artículo 7.1.a), b) y c) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuye funciones y competencias.
+
+Para dar cumplimiento al objetivo descrito en el párrafo anterior, la indicada resolución debe ser objeto de actualización periódica, considerándose conveniente la elaboración de un texto completo de la resolución y no proceder a modificar los apartados de la misma que deban actualizarse por los cambios de la normativa de la Unión o nacional que los afecte. La presente actualización se fundamenta en los motivos que seguidamente se indican.
+
+Se adaptan las instrucciones de la casilla 14 del DUA (capítulos 2.º, 3.º y 5.º) al nuevo Registro de Representantes Aduaneros creado por la Orden HAP/308/2013, que desarrolla parcialmente el Real Decreto 335/2010, de 19 de marzo, por el que se regula el derecho a efectuar declaraciones en aduana y la figura del representante aduanero, pasando a ser el número EORI/NIF la única forma de identificar a los declarantes y representantes aduaneros. Asimismo se crea un nuevo código de tipo de representación (código 5) para dar cabida a las distintas posibilidades que pueden darse en esta materia en la aplicación conjunta de la normativa nacional y autonómica en Canarias en el marco de acuerdo VEXCAN, que afecta a los capítulos indicados y al capítulo I.
+
+Encaminado a facilitar el comercio en las Islas Canarias, se amplía el ámbito del procedimiento simplificado mediante documento comercial a las expediciones desde las Islas a otros Estados Miembros (Capítulo 3.º, apartado 3.4).
+
+Se simplifica el procedimiento previsto para la solicitud de T2L electrónico en el caso de granel, capítulo 6.º, permitiendo su modificación posterior al despacho para ajustar la cantidad solicitada a la realmente embarcada. Con esta simplificación se persigue evitar los perjuicios que pudieran causarle al operador los retrasos en la presentación de este justificante en el puerto de destino. Asimismo se prevé que el operador pueda solicitar de forma electrónica la modificación y el T2LF.
+
+Se indica cómo debe solicitarse la exención de IVA por inclusión en el régimen de depósito distinto del aduanero a la importación de los productos a los que hace referencia el artículo 108 bis del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio, cuando tenga como destino un local autorizado a fabricar o almacenar productos destinados a su uso como carburante o combustible (Apéndice II).
+
+Procede adaptar las instrucciones relativas al embarque de avituallamiento a buques y aeronaves al contenido de la Disposición adicional única de la Ley 16/2013, de 29 de octubre, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental y se adoptan otras medidas tributarias y financieras, así como de la Disposición final cuarta de la Ley Orgánica 9/2013, de 20 de diciembre, de control de la deuda comercial en el Sector Público, por la que se aprueba una franquicia arancelaria para estas operaciones en determinadas condiciones. Para la aplicación de dicha franquicia se distinguen dos formas de declarar dependiendo de si el avituallamiento se realiza inmediatamente después de la importación y por el propio importador o si se realiza en un momento posterior o por persona diferente del importador. Se procede a modificar el apéndice IV
+
+El procedimiento normal para la tramitación de la entrada y salida de la mercancía del territorio aduanero puede suponer un coste desproporcionado para los pequeños envíos realizados por o con destino a un particular o que se refieren a documentación, muestras, y en general mercancía sin valor comercial estimable que se intercambian las empresas o particulares. Estos envíos, pese a tener un riesgo fiscal reducido, no pueden ser excluidos de los controles aduaneros cuya finalidad no es sólo de naturaleza fiscal, sino también de seguridad y protección. En aras a reducir las cargas administrativas de los operadores en este tipo de tráficos y dar fiel cumplimiento a las funciones de la aduana, se incluye el contenido del mensaje informático que deberá completar la declaración sumaria permitiendo el despacho aduanero de estas mercancías. Se considera necesario dar más claridad y transparencia a las instrucciones sobre su forma de declaración, así como definir las posibles simplificaciones para la declaración de envíos con franquicia arancelaria pero no de otros impuestos. Por todo ello se procede a incorporar en la presente resolución las mencionadas instrucciones hasta ahora dispersas en varias normas. A estos efectos se introduce un nuevo apéndice IX.
+
+El intenso trabajo llevado a cabo por la Agencia Estatal de Administración Tributaria y otros organismos con responsabilidades en el control de mercancías en frontera ha llevado a la sustitución, en un alto grado, del sistema de autenticación de certificados de los servicios de inspección fronteriza mediante NRC por sistemas de intercambio de información por servicio web. Esta nueva práctica administrativa ha simplificado la forma de identificar estos documentos en la casilla 44, por lo que se ha suprimido el contenido del Apéndice IX al no resultar necesarias instrucciones específicas.
+
+El especial régimen fiscal de las Islas Canarias con el que se intenta compensar la lejanía e insularidad respecto del resto del territorio aduanero de la Unión, implica que la Aduana, en los intercambios comerciales entre la Península y Baleares y ese territorio, debe realizar los controles pertinentes, tanto a la expedición como en la introducción de mercancía, sumándose a los mismos los que realiza la Administración Autonómica Canaria. El acuerdo de ventanilla única entre la Administración Estatal y la Administración de la Comunidad Autónoma Canaria supuso una importante simplificación en los trámites a realizar. Ahora bien, dentro de la política de reducción de cargas administrativas y considerando que la tramitación aduanera puede suponer un coste duplicado al tener que realizarse en ambas partes del territorio nacional, se establecen, dos simplificaciones para estos intercambios, ambas opcionales para los interesados:
+
+a) Simplificación general: no se exige DUA de expedición a la salida de una de las partes del territorio aduanero sino únicamente DUA de introducción en la otra parte. Esta simplificación será posible para envíos inferiores a 3.000 euros o para envíos sin transferencia de propiedad.
+
+El ejercicio de esta simplificación implica la utilización de una factura comercial con la mención de T2LF y especial referencia a este procedimiento. En la aduana de introducción, el destinatario presentará la declaración de introducción a partir de la cual el sistema informático de Aduanas generará un apunte de expedición y un justificante de salida utilizable a efectos de IVA o IGIC al que el expedidor tendrá acceso directamente por Sede electrónica.
+
+Se excluyen de este procedimiento determinadas mercancías para las que necesariamente debe presentarse una declaración de expedición que permita realizar los controles previstos por normativas específicas.
+
+b) La segunda simplificación está destinada al comercio electrónico y ventas a distancia, cuando el vendedor se haga cargo de todos los gastos del envío hasta su entrega en el domicilio del comprador/destinatario (incoterm DDP). El procedimiento será el mismo del apartado a) con la especialidad de que el DUA de introducción se realizará por cuenta del expedidor así como el ingreso de los impuestos correspondientes.
+
+Ambos aspectos son objeto de regulación con la introducción de un nuevo apéndice XVI.
+
+El incremento en el volumen de comercio electrónico y la necesidad de facilitación de las cargas administrativas para los ciudadanos en sus compras particulares han llevado a la creación de un formulario en sede electrónica accesible con firma digital (Apéndice XVII).
+
+Por último, se recogen los diferentes cambios en las codificaciones que desde la Resolución del Departamento de Aduanas e Impuestos Especiales de 27 de junio de 2012 han sido aprobadas por normativa de la Unión o que son consecuencia de cambios en la normativa nacional y que inciden en la forma de cumplimentarse las declaraciones aduaneras:
+
+– Reglamento (UE) n.º 1106/2012 de la Comisión, de 27 de noviembre de 2012, por el que se aplica el Reglamento (CE) n.º 471/2009 del Parlamento Europeo y del Consejo, sobre estadísticas comunitarias relativas al comercio exterior con terceros países, en lo que concierne a la actualización de la nomenclatura de países y territorios.
+
+– Reglamento de Ejecución (UE) n.º 756/2012 de la Comisión, de 20 de agosto de 2012, por el que se modifica el Reglamento (CEE) n.º 2454/1993, que actualiza la codificación de los embalajes (anexo XIII), descripción de los códigos de régimen 42 y 63 y otros códigos de régimen adicional (anexo XIV).
+
+– Actualización del Apéndice X de acuerdo con el Reglamento (UE) n.º 228/2013 del Parlamento Europeo y del Consejo, de 13 de marzo de 2013, por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión y por el que se deroga el Reglamento (CE) n.º 247/2006 del Consejo.
+
+– Codificaciones que son actualizadas por TARIC cómo los códigos de unidades suplementarias o fiscales (anexo IX) y los códigos de documentos de la casilla 44 (anexo XV).
+
+– Inclusión de nueva relación de territorios de la Unión, proporcionado por la Comisión (anexo II-A).
+
+– Actualización de códigos de epígrafes de Impuestos Especiales (anexo VII), códigos de tributos de la casilla 47 (anexo X), codificación nacional de régimen adicional y de tipo de documentos (anexo XIV-A y B y XV-B respectivamente), y de códigos de Aduana contable (anexo IV-A).
+
+Asimismo, se incluyen supuestos específicos de cómo deben declararse determinadas operativas (Apéndice VIII, letra F) y se actualiza la resolución con las nuevas opciones que han sido incorporadas en la Sede Electrónica en relación con las declaraciones aduaneras.
+
+Por último, para una mejora en la estructura de la resolución, se agrupan en el apéndice IX determinadas regulaciones existentes en los capítulos y que regulan determinada simplificaciones para pequeños envíos.
+
+Por todo lo anterior, este Departamento de Aduanas e Impuestos Especiales, en cumplimiento de las funciones atribuidas en el artículo 7.1.a), b) y c) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, a fin de recoger los cambios en la normativa de la Unión y adecuar estas instrucciones a las nuevas necesidades, ha resuelto lo siguiente:
+
+### Primero. Aprobación de las Instrucciones para la formalización del Documento Único Administrativo.
+
+Se aprueban las Instrucciones para la formalización del Documento Único Administrativo (DUA) que se adjuntan como anexo.
+
+### Segundo. Derogación.
+
+Queda derogada la Resolución de 27 de junio de 2012, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, en la que se recogen las instrucciones para la formalización del documento único administrativo y todas aquellas instrucciones de igual o inferior rango incompatibles con las contenidas en la presente Resolución.
+
+### Tercero. Entrada en vigor.
+
+La presente Resolución entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado». No obstante, la supresión del código de Agente de Aduanas de la casilla 14 del DUA y el apéndice XVI serán aplicables a partir del 13 de enero de 2015.
+
+Madrid, 11 de julio de 2014.–La Directora del Departamento de Aduanas e Impuestos Especiales, Pilar Jurado Borrego.
+
+## ANEXO
+
+ÍNDICE
+
+Relación de modificaciones
+
+Capítulo 1.º Instrucciones preliminares.
+
+Capítulo 2.º Introducción/lmportación.
+
+2.1 Preliminar.
+
+2.1.1 Composición del documento.
+
+2.1.2 Definiciones.
+
+2.1.3 Ventanilla Única Canaria (VEXCAN).
+
+2.2 Documento completo Importación.
+
+2.2.1 Operaciones que pueden formalizarse con DUA completo.
+
+2.2.2 Instrucciones de casillas.
+
+2.3 Formularios complementarios del documento completo de importación.
+
+2.4 Declaración simplificada de importación.
+
+2.4.1 Declaración simplificada formalizada en DUA.
+
+2.4.2 DUA complementario.
+
+2.5 Declaración simplificada en documento comercial.
+
+2.6 PreDUA, solicitud de MRN.
+
+2.7 H7 Declaración mercancías sin valor estimable.
+
+Capítulo 3.º Expedición/Exportación.
+
+3.1 Preliminar.
+
+3.1.1 Composición del documento.
+
+3.1.2 Definiciones.
+
+3.1.3 Ventanilla única canaria (VEXCAN).
+
+3.2 Documento completo de Exportación.
+
+3.2.1 Operaciones que deben formalizarse con DUA completo.
+
+3.2.2 Instrucciones de casillas.
+
+3.3 Formularios complementarios del documento completo de Exportación.
+
+3.4 Declaración simplificada en documento comercial.
+
+3.4.1 Declaración simplificada.
+
+3.4.2 Declaración recapitulativa.
+
+3.5 Declaración incompleta por valor provisional.
+
+3.6 Reexportación de mercancía previamente vinculada a D. Aduanero.
+
+3.6.1 Instrucciones de casillas.
+
+Capítulo 4.º Tránsito.
+
+4.1 Preliminar.
+
+4.1.1 Composición del documento.
+
+4.1.2 Definiciones.
+
+4.2 Documento de Tránsito.
+
+4.2.1 Operaciones que pueden formalizarse.
+
+4.2.2 Instrucciones de casillas.
+
+4.2.3 Datos de seguridad.
+
+4.2.4 Tránsitos expedidos a partir de declaraciones de exportación.
+
+4.2.5 Tránsito simplificado por ferrocarril.
+
+4.3 T2L/T2LF.
+
+4.3.1 Utilización del documento único como T2L o T2LF.
+
+4.3.2 Utilización del documento único para la declaración conjunta de exportación y T2LF.
+
+4.4 Formularios complementarios del documento de tránsito y T2L.
+
+Capítulo 5.º Vinculación al régimen de depósito aduanero y otros almacenes autorizados.
+
+5.1 Preliminar.
+
+5.1.1 Composición del Documento.
+
+5.2 Vinculación /introducción.
+
+5.2.1 Operaciones que deben formalizarse de acuerdo con las instrucciones del apartado 5.2.2.
+
+5.2.2 Instrucciones de casillas.
+
+5.3 Formularios complementarios.
+
+Capítulo 6.º Presentación de DUAs por transmisión electrónica de datos.
+
+6.1 Preliminar.
+
+6.2 Características del sistema.
+
+6.3 Funcionamiento del sistema para declaraciones de importación, exportación o vinculación a depósito.
+
+6.3.1 Contenido.
+
+6.3.2 Presentación y admisión.
+
+6.3.3 Despacho de la mercancía.
+
+6.3.4 Comunicaciones mediante correo electrónico.
+
+6.3.5 Exportaciones con salida indirecta (ECS): impresión del DAE.
+
+6.3.6 Impresión de la carta de pago (031 y 032).
+
+6.3.7 Consulta de deudas pendientes de ingreso y pago.
+
+6.3.8 Modificación telemática de DUAs de exportación con posterioridad a la autorización del levante.
+
+6.4 ECS declaración en la aduana de salida
+
+6.4.1 Comunicación de llegada de la mercancía.
+
+6.4.2 Mensaje de respuesta de la Aduana.
+
+6.4.3 Impresión de la respuesta de la Aduana.
+
+6.4.4 Despacho de salida.
+
+6.4.5 Declaración en el manifiesto de salida.
+
+6.4.6 Inexistencia del aviso de llegada.
+
+6.4.7 Certificación de salida de la mercancía.
+
+6.5 Funcionamiento del sistema para las declaraciones de tránsito.
+
+6.6.1 Expedición de tránsitos.
+
+6.6.2 Recepción del tránsito.
+
+6.6 T2L/T2LF electrónico.
+
+6.6.1 Expedición del T2L/T2LF.
+
+6.6.2 Presentación T2L.
+
+6.7 Archivo de la documentación de las declaraciones electrónicas.
+
+6.8 Normativa aplicable.
+
+APÉNDICE
+
+| I | Normas de utilización del Documento Único Administrativo en los supuestos de exportación de productos agrícolas acogidas al beneficio de la restitución |
+|---|---|
+|  | 1. Datos declarables y documentos a incorporar. |
+|  | 2. Prueba acreditativa de la exportación. |
+|  | 3. Operaciones asimiladas a la exportación a los efectos del beneficio de la restitución. |
+|  | 4. Restituciones anticipadas. |
+|  | 5. Almacenes de Avituallamiento. |
+|  | 6. Envíos a Ceuta y Melilla. |
+|  | 7. Restituciones y régimen de perfeccionamiento activo. |
+|  | 8. Certificaciones. |
+| II | Normas para cumplimentar el DUA en el caso de mercancías sujetas a Impuestos Especiales. |
+| III | Descripción estados ECS y condiciones para modificar las declaraciones de exportación. |
+| IV | Mercancía para buques y aeronaves. |
+| V | Ventas de pescado extraído por buques nacionales y directamente exportado desde el mismo buque, sin pasar por territorio nacional. |
+| VI | **(Suprimido)** |
+| VII | Utilización de determinadas claves de régimen aduanero. |
+| VIII | Importación en Ceuta y Melilla de mercancía que ha sido previamente objeto de exportación en el resto del territorio nacional. |
+| IX | Simplificaciones previstas para el despacho de Bajo Valor y Pequeños Envíos. |
+| X | Normas para la cumplimentación del DUA en las Islas Canarias a efectos del régimen específico de abastecimiento (REA). |
+| XI | Procedimiento de emergencia en caso de caída de sistema. |
+| XII | Despacho centralizado. |
+| XIII | Cambio de ubicación. |
+| XIV | Normas para cumplimentar el DUA en caso de mercancías sujetas al Impuesto sobre las Labores del Tabaco aplicable en Canarias. |
+| XV | Supuestos especiales de declaración. |
+| XVI | Simplificaciones en los intercambios nacionales de mercancía de la Unión con las Islas Canarias. |
+| XVII | Formulario web de importación para particulares. |
+| XVIII | Instrucciones para la declaración de determinados regímenes especiales |
+
+ANEXO
+
+| I | Relación de códigos Aduaneros. |
+|---|---|
+| II-A | Relación de Países por orden alfabético. |
+| II-B | Lista de territorios, dependientes de los Estados miembros, con estatuto especial a efectos aduaneros, de Impuestos Especiales y de IVA. |
+| III | Relación de claves consideradas como países especiales. |
+| IV-A | Códigos de Aduanas contables. |
+| IV-B | Códigos de las islas Canarias. |
+| V | Condiciones de entrega. |
+| VI | Relación de divisas. |
+| VII | Códigos de Impuestos Especiales. |
+| VIII | Codificaciones TARIC para casos especiales. |
+| IX | Códigos de unidades suplementarias o fiscales. |
+| X | Códigos tributos (casilla 47). |
+| XI-A | Códigos de garantías de Tránsitos. |
+| XI-B | Códigos de indicaciones especiales de tránsitos (casilla 44). |
+| XII | Naturaleza de la transacción. |
+| XIII | Tipo de bulto según la presentación de la mercancía. |
+| XIV-A | Claves de regímenes aduaneros. |
+| XIV-B | Claves casilla 37.2. |
+| XV-A | Códigos de menciones especiales. |
+| XV-B | Códigos documentos casilla 44. |
+| XV-C | Formatos. |
+| XVI | Impresos y modelos. |
+| XVII | Códigos Ayuda Régimen Especial de Abastecimiento de Canarias (REA) |
+
+RESUMEN DE MODIFICACIONES
+
+<table>
+<thead>
+<tr>
+<th>Apartado/casilla</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Capítulo 1.º Instrucciones preliminares.</td>
+</tr>
+<tr>
+<td>Apdo. C</td>
+<td>Supresión mención EDI en el último párrafo.</td>
+</tr>
+<tr>
+<td>Apdo. E</td>
+<td>Actualización redacción de acuerdo a nueva normativa y nuevo código 5 en el ámbito VEXCAN.</td>
+</tr>
+<tr>
+<td colspan="2">Capítulo 2.º Importación/introducción.</td>
+</tr>
+<tr>
+<td>Cas 2</td>
+<td>Procedimiento simplificado en intercambios nacionales: obligatoriedad del NIF e indicador de modalidad de simplificación.</td>
+</tr>
+<tr>
+<td>Cas 14</td>
+<td>
+<p>Supresión uso del código de Agente.</p>
+<p>Apartado 2, inclusión nuevo código 5 (VEXCAN).</p>
+<p>Apartado 3, inclusión referencia a los Apéndices IX y XVI.</p>
+</td>
+</tr>
+<tr>
+<td>Cas 36</td>
+<td>Actualización referencias legales códigos 84 y 86.</td>
+</tr>
+<tr>
+<td>Cas 37</td>
+<td>Régimen 42 y 63, modificación texto de acuerdo al R.UE 756/2012 Régimen 49, también para inclusión en DDA.</td>
+</tr>
+<tr>
+<td>Cas 44</td>
+<td>
+<p>Adaptación texto apartado c) guión 4.º al Apéndice XVI.</p>
+<p>Se suprime el penúltimo punto referido a incluir el NIF del EORI declarado en la casilla 8.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">Capítulo 3.º Expedición/Exportación.</td>
+</tr>
+<tr>
+<td>Apdo. 3.2.1</td>
+<td>Nota a pie de página: inclusión referencia a procedimientos simplificados.</td>
+</tr>
+<tr>
+<td>Cas 14</td>
+<td>
+<p>Supresión uso del código de Agente.</p>
+<p>Apartado 2, inclusión nuevo código 5 (VEXCAN).</p>
+</td>
+</tr>
+<tr>
+<td>Cas 44</td>
+<td>Se suprime el penúltimo punto referido a incluir el NIF del EORI declarado en la casilla 2.</td>
+</tr>
+<tr>
+<td>Cas 46</td>
+<td>Mención al valor en las ventas en cadena y a los acuerdos previos de valoración.</td>
+</tr>
+<tr>
+<td>Apdo. 3.4.1</td>
+<td>Supresión de este apartado por estar recogido en el Apéndice IX.</td>
+</tr>
+<tr>
+<td>Apdo. 3.4.2</td>
+<td>Declaración simplificada de exportación en documento comercial ampliada a las expediciones al resto de Estados Miembros. Pasa a ser Apdo. 3.4.</td>
+</tr>
+<tr>
+<td>Apdo. 3.5</td>
+<td>Ampliación de provisionalidad a la magnitud de control de la cuenta de existencias del DA o DDA.</td>
+</tr>
+<tr>
+<td colspan="2">Capítulo 4.º Tránsito.</td>
+</tr>
+<tr>
+<td>Apdo. 4.1</td>
+<td>Adaptación al TFUE.</td>
+</tr>
+<tr>
+<td>Apdo. 4.3</td>
+<td>Referencia al T2LF electrónico.</td>
+</tr>
+<tr>
+<td>Apdo. 4.3</td>
+<td>lmpresión T2LF en Sede a partir de la declaración de expedición.</td>
+</tr>
+<tr>
+<td colspan="2">Capítulo 5.º Vinculación al régimen de depósito aduanero.</td>
+</tr>
+<tr>
+<td>Cas 14</td>
+<td>Supresión uso código de Agente de Aduanas Apartado 2, inclusión nuevo código 5 (VEXCAN).</td>
+</tr>
+<tr>
+<td>Cas 44</td>
+<td>Se suprime el penúltimo punto referido a incluir el NIF del EORI declarado en la casilla 8.</td>
+</tr>
+<tr>
+<td>Cas 47</td>
+<td>Obligatoriedad de esta casilla también para el régimen 73.</td>
+</tr>
+<tr>
+<td colspan="2">Capítulo 6.º Presentación de DUAs or transmisión electrónica de datos.</td>
+</tr>
+<tr>
+<td>6.3.3.4</td>
+<td>Ultimo párrafo: impresión de la liquidación realizada por la aduana.</td>
+</tr>
+<tr>
+<td>6.3.8</td>
+<td>Nuevo: solicitud anulación electrónica de una exportación.</td>
+</tr>
+<tr>
+<td>6.4.3</td>
+<td>Autorización de salida en Sede.</td>
+</tr>
+<tr>
+<td>6.6.1.2</td>
+<td>T2L envíos a granel, modificación de la tramitación.</td>
+</tr>
+<tr>
+<td>6.6.1.3</td>
+<td>Nuevo: solicitud de T2LF a través de la aplicación de T2L.</td>
+</tr>
+<tr>
+<td colspan="2">Apéndice II.</td>
+</tr>
+<tr>
+<td>Apdo. A</td>
+<td>
+<p>Cas. 31: Supresión 2.º párrafo en letra d).</p>
+<p>Cas. 33: Modificación textos códigos B y N.</p>
+<p>Caso Especial: inclusión código exención IVA y modificación referencia.</p>
+</td>
+</tr>
+<tr>
+<td>Apdo. B</td>
+<td>
+<p>Cas. 37: Supresión código 127 e inclusión nuevo código 128.</p>
+<p>Cas. 40: Inclusión ARC para las salidas indirectas nacionales.</p>
+<p>Cas. 44: Supresión declaración del ARC para las salidas indirectas nacionales.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+| Apéndice III |
+|---|
+| Modificación declaraciones exportación: se admite para las tipo «C», tanto para régimen 10 como para régimen 31.<br>Nuevo código de documento 1224 para las declaraciones que sustituyen una anulada previamente.<br>Nueva opción electrónica: solicitud de anulación de la declaración de exportación. |
+| Apéndice IV |
+| Adaptación del procedimiento a la franquicia arancelaria aprobada con la Disposición adicional única de la Ley 16/2013, de 29 de octubre. |
+| Apéndice VII |
+| Inclusión de letra F para la declaración de productos compensadores en retorno y apartado G para vinculación a DDA. |
+| Apéndice IX |
+| Sustitución contenido. Nuevo apéndice «Simplificaciones previstas para el despacho de Bajo Valor y Pequeños Envíos». |
+| Apéndice X |
+| Nuevas referencias legales y adaptación a nueva normativa. |
+| Apéndice XIII |
+| Posibilidad de que la Aduana establezca el control de la mercancía en la ubicación de destino. |
+| Apéndice XIV |
+| Inclusión nuevo epígrafe 4T8. |
+| Apéndice XVI |
+| Nuevo Apéndice: Simplificaciones en los intercambios nacionales de mercancía comunitaria con las Islas Canarias. |
+| Apéndice XVII |
+| Nuevo Apéndice: Formulario web de importación. |
+| Anexo I |
+| Actualización códigos de recinto: supresión 1171 y 2914. Incorporación 3441. |
+| Anexo II-A |
+| Nuevo cuadro de acuerdo al R.UE 1106/2012. |
+| Anexo II-B |
+| Nuevo cuadro de territorios elaborado por la Comisión Europea. |
+| Anexo III |
+| Actualización columna observaciones en los códigos QR y QS. |
+| Anexo IV-A |
+| Supresión códigos de aduanas contables en desuso: 072, 074, 075, 114, 172, 173, 202, 352, 353. |
+| Anexo VII |
+| Inclusión nuevos códigos: 0H4, 0H5, 0H6, 0E4, 0FA, 0FB, 0FC, 0F6 y 0F7. |
+| Anexo VIII |
+| Inclusión nuevos códigos 99900007 y 99900008 y remisión del Apéndice IX. |
+| Anexo IX |
+| Nuevos códi os PW, TD y TG. |
+| Anexo X |
+| Inclusión nuevos códigos: 0H4, 0H5, 0H6, 0E4, 0FA, 0FB, 0FC, 0F6 y 0F7, 4T7 y 4T8. |
+| Anexo XIII |
+| Actualización códigos de embalaje a nueva versión publicada por R.UE 756/2012. |
+| Anexo XIV-A |
+| Actualización descripción códigos 42, 49 y 63. |
+| Anexo XIV-B |
+| Actualización referencia legal códigos «C», E02 y 801 a 806.<br>Nuevos códigos: F06, 110, 111, 112, 113, 128, 342 504. |
+| Anexo XV-B |
+| Actualización textos y referencias legales códigos.<br>Nuevos códigos comunitarios: C048, C401 a C405 C691-C692, D017-D018, E020, U065 a U071, IJ092 a U094, Y044, Y047-Y048, Y051 a Y056, Y800, Y910, Y932 a Y936.<br>Nuevos códigos nacionales: 1015, 1117-1118, 1223-1224, 5012, 5013, 9007, 9009 a 9013.<br>Supresión códigos: A024 a A026, C031, C634, U030, Y005 e Y050. |
+
+> Se añade el apartado 2.7 al capítulo 2º por el que figura como anexo 1º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.2.h) y se eliminan el capítulo 5º bis y el apéndice VI por el apartado primero.6 y 11. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se añade el capítulo 5.bis, con efectos de 1 de junio de 2020, y un apéndice XVIII por el que figura como anexo 2º y anexo 8º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.4.b) y 12. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se añade un anexo XVII por el que figura como anexo de la Resolución de 3 de enero de 2017, según establece su apartado primero. [Ref. BOE-A-2017-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-159)
+
+> Se añade el apartado 2.6 al capítulo 2º por el apartado primero.9 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## CAPÍTULO 1.º — Instrucciones preliminares
+
+A) Contenido de esta resolución: En esta Resolución se incluyen las instrucciones para presentar declaraciones en aduana y declaraciones de reexportación, entendiendo por tales las definidas en los apartados 12 y 13 del artículo 5 del CAU:
+
+– declaración en aduana»: el acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de incluir las mercancías en un determinado régimen aduanero, con mención, en su caso, de las disposiciones particulares que deban aplicarse;
+
+– declaración de reexportación: el acto por el que una persona expresa, en la forma y el modo establecidos, la voluntad de sacar del TAU mercancías no pertenecientes a la Unión, a excepción de las que se hallen en régimen de zona franca o en depósito temporal.
+
+La Resolución tiene como base la normativa de la Unión y más específicamente lo establecido en el Título V del CAU y los correspondientes en la normativa de desarrollo y en el Anexo B del Reglamento Delegado (UE) 2015/2446 de la Comisión de 28 de julio de 2015 por el que se completa el Reglamento (UE) n.º 952/2013 citado (en adelante RDCAU) y en el Anexo B del Reglamento de Ejecución (UE) 2015/2447 de la Comisión de 24 de noviembre de 2015 por el que se establecen normas de desarrollo de determinadas disposiciones del Reglamento (UE) n.º 952/2013 (en adelante RECAU), así como en el Reglamento Delegado (UE) 2016/341 (en adelante Reglamento Transitorio) mientras se realiza la adaptación de los sistemas informáticos al CAU. Esta normativa se completa con instrucciones nacionales en aquellos puntos en que está previsto por dicha normativa, así como para las operaciones que afectan al territorio nacional no de la Unión.
+
+B) Operaciones para las que se requiere una declaración aduanera. Se empleará para la declaración ante los servicios de Aduanas de:
+
+1\. Mercancía no de la Unión,
+
+a) para su despacho a libre práctica o a consumo;
+
+b) para su inclusión bajo cualquier otro régimen aduanero, incluido el tránsito comunitario;
+
+c) para su reexportación fuera del territorio aduanero de la Unión, excepto reexportación tras el régimen de Zona Franca y tras el depósito temporal;
+
+2\. Mercancía de la Unión
+
+a) para su exportación y vinculación a régimen de perfeccionamiento pasivo;
+
+b) para cumplir las formalidades de exportación en operaciones de avituallamiento y equipamiento (artículo 269.3 del CAU y artículo 245.1 letra o) del RDCAU);
+
+c) en los intercambios entre partes del territorio aduanero de la Unión, cuando en una de ellas sean de aplicación las disposiciones de la Directiva 2006/112/CE del Consejo, de 28 de noviembre de 2006, relativa al sistema común del Impuesto sobre el Valor Añadido, y la otra esté excluida del ámbito de aplicación de la misma, sin perjuicio de las especialidades que se acuerden en el marco de la VEXCAN;
+
+d) en los intercambios entre partes del territorio de la Unión donde no sean de aplicación las disposiciones de la Directiva 2006/112/CE, de 28 de noviembre de 2006;
+
+e) para amparar la circulación por el territorio aduanero de la Unión de mercancías previamente despachadas de exportación en un Estado miembro distinto del Estado miembro de salida efectiva;
+
+f) en los supuestos de inclusión en el régimen fiscal de depósito distinto del aduanero.
+
+g) despacho a consumo de mercancía no sujeta a IIEE:
+
+– Previamente despachada a libre práctica y vinculada al régimen de depósito distinto del aduanero, o
+
+– procedente de parte del territorio aduanero de la Unión donde no son de aplicación las disposiciones de la Directiva 2006/112/CE, de 28 de noviembre de 2006 y vinculada al régimen de depósito distinto del aduanero.
+
+3\. Los productos de la pesca,
+
+a) introducidos para su consumo en territorio nacional que puedan justificar el carácter de mercancías de la Unión en la forma prevista en el artículo 253 del RECAU, cuando dicha introducción esté sujeta al IVA o al Impuesto General Indirecto Canario (IGIC) y no proceda la exención prevista en el artículo 59 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido o en el artículo 14.6 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias;
+
+b) exportados directamente desde el propio buque nacional que los ha capturado, sin pasar por territorio nacional.
+
+4\. Mercancías procedentes de Ceuta y Melilla para su importación en la Península y Baleares, o en las Islas Canarias.
+
+5\. Mercancías de cualquier procedencia que se despachen de importación o exportación en Ceuta y Melilla.
+
+6\. En aquellos otros casos en que una normativa comunitaria así lo disponga expresamente.
+
+7\. La declaración de las operaciones de introducción o salida de mercancía del territorio canario ante la Administración Tributaria Canaria (DUA VEXCAN).
+
+Las especificaciones del DUA VEXCAN serán aplicables en el marco del Convenio de Colaboración formalizado entre la Agencia Estatal de Administración Tributaria y la Comunidad Autónoma de Canarias para la creación de una Ventanilla Única Aduanera de presentación Telemática de declaraciones de importación y exportación y aduaneras en Canarias.
+
+Las actuaciones de la Agencia Tributaria Canaria (ATC) y de la Agencia Estatal de Administración Tributaria que se acuerden en el desarrollo de la Ventanilla Única de presentación telemática de declaraciones aduaneras en Canarias, se entenderán como propias de ambas Administraciones (VEXCAN).
+
+C) Forma de presentación de las declaraciones.
+
+Las declaraciones deben ser presentadas mediante sistemas informáticos ajustados a las especificaciones que se publican en el Portal de la Agencia Tributaria, salvo en aquellos casos específicos que, de acuerdo a lo previsto en el artículo 158.2 del CAU se permita su presentación por otros medios. El capítulo 6.º de esta Resolución contiene instrucciones relativas al intercambios de mensajes referidos a las declaraciones aduaneras.
+
+Para aquellos supuestos en que esté prevista la presentación de la declaración aduanera por escrito, deberá utilizarse el formulario previsto en el artículo 15 y en el Anexo IX, Apéndice B1 y C1 del Reglamento Transitorio.
+
+El justificante de levante será expedido por la Administración, en formato PDF, y podrá ser impreso directamente por los operadores económicos desde la página web de la Agencia Tributaria.
+
+El operador también podrá imprimir en papel virgen, respetando el formato del modelo previsto en el artículo 6 del Reglamento Transitorio, la Declaración de Valor en Aduana (documento DV1), así como el resto de modelos nacionales utilizados para informaciones complementarias.
+
+D) Aduana competente. La declaración deberá presentarse ante la Aduana competente del lugar donde se encuentren las mercancías salvo autorización de despacho centralizado u disposiciones nacionales que dispongan lo contrario.
+
+E) Declarante. Es la persona que presenta la declaración en aduana o la declaración de reexportación en nombre propio o la persona en cuyo nombre se realiza la declaración en Aduana (artículo 5 apartado 15 del CAU).
+
+Esta persona deberá estar en condiciones de presentar, o hacer que se presente al servicio de Aduanas competente, la mercancía de que se trate y todos los documentos cuya aportación este prevista en la normativa de la Unión. El declarante deberá estar establecido en la Unión Europea, salvo las excepciones previstas en el artículo 170.3 del CAU.
+
+La declaración en la Aduana podrá hacerse:
+
+a) en nombre y por cuenta propia (autodespacho);
+
+b) en nombre y por cuenta ajena (con autorización de despacho de representación directa);
+
+c) en nombre propio y por cuenta ajena (con autorización de despacho de representación indirecta).
+
+d) o bien, en el caso exclusivo de Canarias, podrán presentarse las declaraciones con tipo de representación distinta para cada Administración.
+
+Representante aduanero: la normativa nacional que desarrolla esta figura se encuentra en el Real Decreto 335/2010, de 19 de marzo (Boletín Oficial del Estado de 14 de abril de 2010) y en la Orden HAP/308/2013, de 26 de febrero, (Boletín Oficial del Estado de 1 de marzo de 2013) que crea y regula el Registro de Representantes Aduaneros.
+
+F) Firma. La declaración deberá ser firmada por el declarante o por su representante mediante la firma electrónica prevista en el capítulo 6, o, en su caso, manuscrita. Dicha firma le compromete en relación con:
+
+– La exactitud de los datos que figuran en la declaración.
+
+– La existencia y autenticidad de los documentos unidos o reseñados en la declaración.
+
+– El cumplimiento de las obligaciones inherentes a la inclusión de las mercancías en el régimen solicitado.
+
+G) Presentación y admisión. La declaración deberá contener todos los datos y los documentos necesarios para la aplicación de las disposiciones que regulan el régimen aduanero para el cual se declaran las mercancías deberán estar a disposición de las autoridades aduaneras.
+
+De acuerdo con lo dispuesto en el artículo 172 del CAU, las declaraciones que cumplan estas condiciones serán admitidas por la autoridad aduanera siempre que la mercancía a que se refieren haya sido previamente presentada en la Aduana.
+
+Al objeto de dar cumplimiento a lo previsto por la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común y de las
+
+Administraciones Públicas y de facilitar la correcta tramitación de las declaraciones electrónicas, serán rechazadas, de forma inmediata, aquellas que no cumplan con los requisitos necesarios para su admisión, con indicación de los motivos de tal rechazo, pudiendo el declarante presentar de nuevo la declaración una vez rectificados dichos errores.
+
+Sin perjuicio de lo anterior, se podrá solicitar el prerregistro de una declaración de importación o presentar dicha declaración antes de la llegada de la mercancía según lo previsto en el artículo 171 del CAU:
+
+a) Prerregistro (en adelante PDI) que hará las veces de solicitud de MRN que facilite el intercambio de información con los Servicios de Inspección Fronteriza, y que deberá ser completada necesariamente para poder ser admitida.
+
+b) Predeclaración completa (en adelante PDC o PDS según se trate del procedimiento normal o el simplificado) que deberá contener la información necesaria según el régimen y el procedimiento solicitado y que será admitida de forma automática con la presentación de las mercancías.
+
+El MRN de la predeclaración no se modificará con su admisión al presentar las mercancías.
+
+También como excepción al párrafo segundo y en el marco de la Ventanilla Única Aduanera (en adelante VUA), se podrá presentar una declaración antes de haber obtenido los certificados emitidos por los Servicios de Inspección Fronteriza necesarios para obtener el levante, en las condiciones que se establecen en el capítulo 6 de esta Resolución.
+
+> Se añade la letra g) al apartado B.2 por el apartado primero.1 de la Resolución de 17 de marzo de 2023. [Ref. BOE-A-2023-7502](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7502)
+
+> Se modifica el punto 3.a) del apartado B por el apartado primero.1 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 1º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.1. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifican los apartados B.2.b), D y G por el apartado primero.2 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifican los apartados E, letra d) y G por el apartado primero.1 y 2 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## CAPÍTULO 2.º — Introducción/Importación
+
+2.1 Preliminar.
+
+2.1.1 Composición del documento.
+
+Los ejemplares necesarios para una declaración de importación son los siguientes:
+
+‒ Ejemplar n.º 6, para la Aduana de introducción/importación.
+
+‒ Ejemplar n.º 8, para el interesado.
+
+2.1.2 Definiciones.
+
+A los efectos de esta Resolución, se entenderá por:
+
+1\. «Introducción». Entrada en la Península y Baleares o en las Islas Canarias, de mercancías comunitarias.
+
+2\. «Importación». Entrada en la Península y Baleares o en las Islas Canarias de mercancías no comunitarias, o entrada de mercancía comunitaria o no comunitaria en Ceuta y Melilla.
+
+3\. «Reintroducción». Entrada en la Península y Baleares de mercancías comunitarias previamente expedidas temporalmente a otra área del territorio aduanero de la Unión donde no sean de aplicación las disposiciones de la Directiva 2006/112/CE o, entrada en las Islas Canarias de mercancías comunitarias previamente expedidas temporalmente a otra área del territorio aduanero de la Unión, donde sea o no de aplicación las disposiciones de la Directiva citada.
+
+4\. «Reimportación». Entrada en la Península, Baleares e Islas Canarias de mercancías que anteriormente fueron exportadas temporalmente a un país tercero.
+
+5\. «Mercancías de retorno». Importación de mercancías comunitarias exportadas definitivamente que se reintroduzcan acogiéndose a lo previsto en el Código Aduanero, arts. 185 a 187.
+
+2.1.3 Ventanilla única canaria (VEXCAN).
+
+Las declaraciones de importación/introducción, reimportación, etc., referidas a mercancías que se introduzcan en las Islas Canarias surtirán los efectos correspondientes tanto ante la AEAT como ante la Administración Tributaria Canaria (ATC).
+
+2.2 Documento completo de importación.
+
+2.2.1 Operaciones que deben formalizarse con documento completo.
+
+1\. Importación de mercancía procedente de terceros países.
+
+2\. Introducción definitiva o temporal de mercancía comunitaria que deba documentarse con DUA:
+
+‒ mercancía procedente de parte del territorio aduanero de la Unión donde no sea de aplicación la Directiva 2006/112/CE, y viceversa (1);
+
+‒ mercancías cuya introducción implique la realización del hecho imponible de importación a efectos del IVA y no esté exento (2);
+
+‒ mercancía procedente del Principado de Andorra y la República de San Marino.
+
+3\. Importación de mercancía no comunitaria procedente de depósitos francos o zonas francas.
+
+4\. Importación en Península, Islas Baleares e Islas Canarias de mercancía procedente de Ceuta o Melilla y de cualquier otro territorio de un Estado miembro que no sea territorio aduanero de la Unión (Ver ANEXO II-A).
+
+5\. Importación en Ceuta o Melilla de mercancía de cualquier procedencia (3).
+
+6\. Declaración de vinculación de mercancía bajo un régimen aduanero de importación temporal, de perfeccionamiento activo o de transformación bajo control aduanero, o de un régimen fiscal de perfeccionamiento activo o de importación temporal.
+
+7\. Despacho a consumo de mercancía no comunitaria previamente vinculada a un régimen aduanero o fiscal de perfeccionamiento activo, importación temporal, transformación bajo control aduanero o depósito aduanero.
+
+8\. Despacho a consumo de mercancía previamente vinculada a un régimen especial de importación de los tributos del Régimen Económico Fiscal de Canarias (REF).
+
+9\. Vinculación a un régimen especial de importación de los tributos del Régimen Económico Fiscal de Canarias (inclusión en régimen de importación temporal, depósito, etc.).
+
+10\. Despacho a consumo de mercancía previamente despachada a libre práctica o procedente de parte del territorio aduanero de la Unión donde no sea de aplicación la Directiva 2006/112/CE y vinculada al régimen de depósito distinto del aduanero.
+
+Notas:
+
+(1) Ver Anexo II-A.
+
+(2) Por ejemplo: pesca de altura no incluida en la exención prevista en el art. 59 de la Ley 37/92.
+
+(3) Cuando se trate de mercancía exportada desde la Península, Baleares o de las Islas Canarias, véase el Apéndice VIII de esta Resolución.
+
+2.2.2 Instrucciones relativas a las diferentes casillas del documento.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image1.png)
+
+Espacio reservado para numeración y registro del documento. Este número constará de 18 caracteres de los cuales:
+
+1.º y 2.º: dos últimos dígitos del año en curso;
+
+3.º y 4.º: código ISO del país de registro de la declaración (ES, si la aduana es española);
+
+5.º a 17.º: número (puede ser alfanumérico). En el caso de España, los seis primeros dígitos corresponderán al código de recinto y el siguiente dígito corresponderá al tipo de declaración (el «3» indicará que se trata de una importación);
+
+18.º: dígito de control.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image2.png)
+
+Las subcasillas 1 y 2 serán cumplimentadas de la forma siguiente:
+
+Subcasilla 1.
+
+Identifica el estatuto de las mercancías (comunitaria, terceros, etc.), mediante las siguientes claves:
+
+| CO | CO Introducción en parte del territorio aduanero de la Unión donde se aplican las disposiciones de la Directiva 2006/112/CE, de mercancía de la Unión procedente de otra zona del territorio aduanero de la Unión donde no sea de aplicación dicha directiva y, viceversa. |
+|---|---|
+|  | Declaración de introducción de pesca de altura con carácter de mercancía de la Unión. |
+|  | Declaración a consumo de mercancía importada/introducida y vinculada a depósito distinto del aduanero. |
+| IM | Declaración de inclusión bajo cualquier régimen aduanero de mercancías procedentes de un tercer país o de Ceuta y Melilla (excepto relaciones con la AELC). |
+|  | Declaración de inclusión de mercancías no comunitarias bajo un régimen aduanero en destino, en el marco de un intercambio con otro Estado miembro. |
+|  | Declaración de importación en Ceuta y Melilla de mercancías, cualquiera que sea su procedencia. |
+| EU | EU Declaración de importación de mercancía procedente de un país de la AELC u otra parte contratante de los convenios sobre tránsito común y simplificación de formalidades en los intercambios de mercancías. |
+
+Subcasilla 2.
+
+Identifica el procedimiento al amparo del cual se presenta la declaración con las siguientes claves:
+
+| A | Declaración normal (procedimiento normal, artículo 162 del CAU). |
+|---|---|
+| B | Declaración simplificada por falta de documentos (artículo 166 del CAU). |
+| C | Declaración simplificada por falta de datos (artículo 166 del CAU). |
+| X | Declaración complementaria de declaración simplificada tipo B. |
+| Y | Declaración complementaria de declaración simplificada tipo C. |
+| Z | Declaración complementaria en el contexto de un procedimiento simplificado de inscripción en los registros (artículos 166 y 182 del CAU). |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image3.png)
+
+Deberá indicarse el nombre o razón social y la dirección completa del último vendedor de las mercancías antes de su importación en la Comunidad.
+
+Cuando se trate de DUAs recapitulativos o DUAs normales en los que la Aduana haya autorizado excepcionalmente la presentación de un solo DUA con varios proveedores, se pondrá el código «00200», debiendo adjuntarse, en este caso, la lista de dichos proveedores en la que figuren sus nombres o razones sociales y sus direcciones completas.
+
+En aquellos casos en que se solicite el procedimiento simplificado en intercambios entre las distintas partes del territorio aduanero nacional de la Unión (ver Apéndice XVI) será obligatoria la inclusión del NIF del expedidor, así como uno de los códigos siguientes:
+
+| A | Procedimiento simplificado (apartado A Apéndice XVI Resolución DUA) intercambios nacionales con Canarias de mercancía de la Unión. |
+|---|---|
+| B | Procedimiento simplificado (apartado B Apéndice XVI Resolución DUA) para el comercio electrónico en intercambios nacionales con Canarias de mercancía de la Unión. |
+
+En el resto de declaraciones se dejará esté indicador en blanco.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image4.png)
+
+Se cumplimentará cuando el documento se componga de varios formularios (Ver apartado 3.5). En ese caso se conformará de la manera siguiente:
+
+Subcasilla 1.ª
+
+Se pondrá el número correlativo de orden del formulario.
+
+Subcasilla 2.ª
+
+Se pondrá el número total de formularios.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image5.png)
+
+Se indicará el número total de partidas de orden declaradas por el interesado en el conjunto de formularios que componen el documento. Normalmente, coincidirá con el total de casillas 31 utilizadas, salvo que, por necesidad de espacio, hubiera de emplearse dos o más casillas 31 para identificar una misma mercancía.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image6.png)
+
+Se indicará el número total de bultos, considerando como tales las unidades físicas aisladas, incluido el «pallet». En caso de granel, esta casilla no se cubrirá.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image7.png)
+
+Podrá indicarse la referencia asignada en el plano comercial al envío. Se recomienda la utilización del formato de «número de referencia único» (RUE) de acuerdo con la Recomendación del Consejo de Cooperación Aduanera relativa al número de referencia único para los envíos para fines aduaneros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image8.png)
+
+Se consignará el nombre o razón social y la dirección completa de la persona a la que va destinada la mercancía.
+
+A continuación de «N», deberá declararse el número comunitario de identificación a efectos aduaneros, EORI (sin perjuicio de la obligación que establece la disposición adicional sexta de la Ley 58/2003, de 17 de diciembre, General Tributaria, referente al NIF).
+
+Se excluyen de la obligación de consignar un n.º EORI, las declaraciones que tengan como destinatario una persona física o asociación que no actúe como operador económico tal y como éste se define en el artículo 1, punto 12, del Reglamento (CEE) n.º 2454/1993. En estos supuestos deberá incluirse el NIF o el pasaporte previamente registrado en la aduana y, a continuación y separado del anterior, la letra «P». Además, en los supuestos autorizados por el Código Aduanero Comunitario, si se trata de una persona no establecida en la Comunidad, la declaración deberá ser presentada utilizando la modalidad de representación indirecta.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image9.png)
+
+Esta casilla tiene una triple función:
+
+1\. Nombre del declarante y n.º:
+
+a) Cuando el declarante sea el mismo que el destinatario indicado en la casilla 8, es decir, en caso de autodespacho, se consignará la palabra «destinatario». En «N.º» se colocará el mismo número EORI de la casilla 8.
+
+b) Cuando se efectúe el despacho con intervención de un representante aduanero se consignará su nombre y apellidos o razón social y, en el «N.º», su EORI.
+
+2\. Forma de representación (ver Resolución de este Departamento de 12 de julio de 2000, BOE 3-8-2000). Deberá incluirse uno de los códigos siguientes:
+
+| 1 | En caso de autodespacho. |
+|---|---|
+| 2 | Cuando la representación sea directa: si el representante actúa en nombre y por cuenta de su comitente. |
+| 3 | Cuando la representación sea indirecta, es decir, si el representante actúa en nombre propio y por cuenta de su comitente. |
+| 4 | (Únicamente para Canarias) Cuando sea de aplicación el caso señalado en la letra d), apartado E) de las Instrucciones Preliminares. |
+| 5 | (Únicamente para Canarias) Cuando la representación sea directa ante la Agencia Tributaria e indirecta ante la Administración Tributaria Canaria. |
+
+Este código debe aparecer entre corchetes y antes del nombre del declarante.
+
+3\. Autorización de despacho.
+
+Cuando la declaración sea presentada por un representante, este deberá estar autorizado por la persona por cuya cuenta presenta la declaración. La presentación de la declaración por un representante implicará la aceptación por parte de este del apoderamiento otorgado en los términos contenidos en el mismo.
+
+La autorización de despacho puede ser:
+
+– Global, que deberá estar previamente registrada en la Aduana y será comprobada de forma automática para admitir la declaración.
+
+– Para una operación concreta. En este caso se indicará en esta casilla la clave “O” Esta autorización deberá acompañar a la declaración e indicarse en la casilla 44 excepto cuando esté registrada en la Aduana o se trate de una declaración presentada por cuenta de una persona física en las condiciones previstas en el apéndice IX.
+
+Se incluirá también la “O” cuando la autorización de despacho sea del expedidor en el marco del procedimiento previsto en el apéndice XVI, apartado B.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image10.png)
+
+Subcasilla a).
+
+Indíquese el código correspondiente al país a partir del cual se expidieron inicialmente las mercancías hacia el Estado miembro importador, sin que se haya producido una parada ni operación jurídica no inherente al transporte en un país intermedio. En el caso de que sí se hayan producido tales paradas u operaciones, se considerará país de expedición/exportación el último país intermedio (ver códigos en los Anexos II y III).
+
+En el supuesto de introducciones/importaciones de productos de la pesca de altura, se consignará el código correspondiente al país de matriculación del buque que haya efectuado la captura.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image11.png)
+
+Subcasilla a).
+
+Se cumplimentará cuando los bienes que se declaran de importación se destinen directamente a otro Estado de la UE acogiéndose a la exención de IVA prevista en el art. 27.12 de la Ley 37/92. En este caso se consignará el código del Estado miembro de destino de la mercancía (ver Anexo II).
+
+Subcasilla b).
+
+Se hará constar, salvo que se haya cumplimentado la subcasilla a), la clave de la provincia de destino final de las mercancías, según la codificación del Anexo IV-A. Cuando la importación se realice en recintos de Canarias, se sustituirá el código de provincia por el código de la isla de destino (Anexo IV-B).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image12.png)
+
+Subcasilla 1.ª
+
+Deberá identificarse el medio de transporte a la llegada de la mercancía a la aduana de importación. Si se utilizan un vehículo tractor y un remolque con matrículas diferentes, deberá consignarse la matrícula de ambos.
+
+En función del medio de transporte que se utilice, podrán consignarse las siguientes indicaciones:
+
+| Medio transporte | Método de identificación |
+|---|---|
+| Transporte por mar. | Nombre del buque. |
+| Transporte aéreo. | Número y fecha del vuelo o, en su defecto, matrícula de la aeronave. |
+| Transporte por carretera. | Matrícula del vehículo y, en su caso, de la cabeza tractora y del remolque. |
+| Transporte ferroviario. | Número del vagón. |
+
+No deberá cubrirse en caso de instalaciones fijas o envío por correo, ni cuando se trate de una declaración recapitulativa (casilla 1.2, claves Y o Z).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image13.png)
+
+Se indicará si, en el momento de cruzar la frontera exterior de la Unión Europea, la mercancía venía transportada o no en contenedores, con arreglo a las siguientes claves:
+
+| 0 | Mercancías NO transportadas en contenedores. |
+|---|---|
+| 1 | Mercancías SI transportadas en contenedores. |
+
+En los supuestos de introducción de mercancía, se consignará la misma información, pero referida al momento de entrada en la Península y Baleares o en las Islas Canarias. En las importaciones en Ceuta y Melilla dicha información vendrá referida a la entrada en estas localidades.
+
+En el tráfico ro-ro, tendrá la consideración de contenedor cualquier otra unidad de carga intermodal (UTI/UCI) como remolques, semirremolques o camiones.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image14.png)
+
+Subcasilla 1.ª
+
+Se indicará el código incoterms que determina las condiciones de entrega según la columna «Código» del Anexo V.
+
+Subcasilla 2.ª
+
+Se precisará el nombre del punto geográfico a que se refiere el código anterior, según la columna «Lugar que se debe precisar» del Anexo V.
+
+Subcasilla 3.ª
+
+Se indicará uno de los códigos siguientes:
+
+| 1 | Lugar situado en el territorio español. |
+|---|---|
+| 2 | Lugar situado en otro Estado miembro. |
+| 3 | Otros (lugar situado fuera de la Unión). |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image15.png)
+
+Subcasilla 2.
+
+Se pondrá la clave del país tercero o Estado miembro donde esté matriculado el medio de transporte (Anexo II).
+
+No obstante, en los casos de:
+
+‒ envíos postales
+
+‒ transporte por ferrocarril.
+
+‒ transporte por instalaciones fijas,
+
+la casilla se dejará en blanco.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image16.png)
+
+Subcasilla 1.
+
+Se indicará la clave de la divisa que figura en la factura comercial (Anexo VI). Si se trata de una moneda sin cotización en el Banco Central Europeo (BCE), debe indicarse el código del euro o del dólar USA, y en las casillas correspondientes el contravalor en esa moneda. En la casilla 44 se incluirá el código de la divisa de facturación y el cambio aplicado.
+
+Subcasilla 2.
+
+Se consignará el importe total que figura en la factura comercial o no comercial (proforma, a efectos estadísticos, etc.), aunque no hubiera movimiento de divisas. Esta subcasilla es opcional para los operadores.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image17.png)
+
+Se recuerda, a efectos del cálculo del valor en aduana de la mercancía, que la normativa sobre el tipo de cambio aplicable es la contenida en el artículo 146 del RECAU. Sin perjuicio de lo anterior, debe tenerse en cuenta los siguientes supuestos:
+
+– En las declaraciones complementarias de declaraciones simplificadas, el tipo de cambio aplicable será el correspondiente a la declaración simplificada;
+
+– En los PDC (predeclaración completa) en los que se prevea que en el momento de la presentación de la mercancía (y, por tanto, admisión de la declaración) será aplicable un tipo de cambio distinto ya conocido, se incluirá en la casilla 44 el código de documento 7010 y el tipo de cambio previsto para 1 euro, por ejemplo, si el cambio es 1 € = 1,1425 USD, deberá declararse:
+
+| Tipo documento | Referencia |
+|---|---|
+| 7010 | 1,1425 |
+
+– En aquellas ultimaciones de un régimen especial en que deba aplicarse el tipo de cambio correspondiente a la fecha de vinculación al régimen, se consignará en la casilla 44 el código de documento 7008 y la fecha del cambio que debe aplicarse;
+
+– En el caso de DUAs presentados por particulares, cuando la factura estuviera en una moneda sin cotización por el Banco Central Europeo (BCE), la declaración se realizará en euros con el tipo de cambio que le hubiera aplicado la entidad bancaria.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image18.png)
+
+Se indicará el código correspondiente formado por dos dígitos, el segundo de los cuales desarrolla la información aportada por el primero, según las opciones que figuran en las columnas A (1.º dígito) y B (2.º dígito) del Anexo XII.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image19.png)
+
+Se indicará la modalidad correspondiente al medio de transporte activo en que han entrado las mercancías en el territorio aduanero de la Unión o, en el caso de envíos intracomunitarios, en el Estado o área correspondiente, según los siguientes códigos de una cifra:
+
+| 1 | Transporte marítimo. |
+|---|---|
+| 2 | Transporte por ferrocarril. |
+| 3 | Transporte por carretera. |
+| 4 | Transporte aéreo. |
+| 5 | Envíos Postales. |
+| 7 | Instalaciones de transportes fijas. |
+| 8 | Transporte por navegación interior. |
+| 9 | Propulsión propia. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image20.png)
+
+Deberá declararse la modalidad correspondiente al medio de transporte utilizado en el momento de la llegada de la mercancía, mediante los códigos previstos en la casilla 25.
+
+Sólo se rellenará esta casilla en el caso de que las formalidades de importación no se efectúen en el punto de entrada en la Unión Europea.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image21.png)
+
+Se indicará la Aduana de entrada de la mercancía en el territorio aduanero de la Unión, cuando ésta fuera diferente a la de despacho, de la forma siguiente: clave alfabética del Estado miembro de que se trate y código numérico de 6 dígitos correspondiente a la Aduana, según la codificación establecida para las declaraciones de tránsito.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image22.png)
+
+En esta casilla se indicará, mediante la codificación elaborada por cada Aduana, el lugar donde se encuentren depositadas las mercancías pendientes de despacho.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image23.png)
+
+Se indicará en esta casilla:
+
+‒ Número de bultos, refiriéndose a los de la partida de orden. En mercancías sin envasar se expresará el número de éstas. Si se trata de un granel, únicamente deberá incluirse la clave correspondiente al tipo de granel.
+
+En caso de que un mismo bulto comprenda mercancías de dos o más partidas de orden, deberá hacerse constar los datos del mismo en la primera partida referida a ese bulto, permitiéndose en la siguientes declarar o bultos.
+
+La suma de los bultos declarados en las partidas debe coincidir con lo declarado en la casilla n.º 6.
+
+‒ Clase de bultos, de acuerdo con la codificación prevista en el Anexo XIII.
+
+‒ Marcas y numeración, refiriéndose a las ostentadas exteriormente por los bultos, incluyéndose también las marcas de identificación de los contenedores, remolques o cualquier vehículo en el que las mercancías se encuentren directamente cargadas.
+
+‒ Descripción, entendiéndose como tal la denominación de mercancías, en términos suficientemente claros para su identificación y clasificación arancelaria a nivel de subpartida TARIC y, en su caso, del código adicional.
+
+‒ Unidades, se indicará la cantidad de la mercancía en el tipo de unidad de medida, así como la clave de ésta, que esté fijada en la normativa aplicable o en el procedimiento autorizado salvo que sea el peso neto en Kg declarado en la casilla 38. Por ejemplo:
+
+• contingentes cuantificados en una unidad de medida diferente al peso;
+
+• unidad fiscal de los Impuestos Especiales;
+
+• despacho a consumo de mercancía en depósito, cuyo control se realice por la unidad declarada por el operador; etc.
+
+‒ N.º de chasis, cuando se trate de vehículos (el tipo de bulto deberá ser «FR») será obligatorio la declaración del número de chasis, marca y modelo del vehículo.
+
+‒ Datos necesarios:
+
+• Para la aplicación de las disposiciones que regulan el régimen aduanero solicitado.
+
+• Para la aplicación de la normativa del Impuesto sobre el Valor Añadido.
+
+• Para la aplicación de la normativa de Impuestos Especiales (ver Apéndice II).
+
+• Para la aplicación de la normativa del Impuesto sobre las Labores del Tabaco aplicable en Canarias (ver Apéndice XIV).
+
+Cuando por necesidades de cumplimiento de esta casilla resultase insuficiente el espacio, se utilizarán, sólo a este efecto, los formularios complementarios que fueran necesarios, (ver apartado 2.3).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image24.png)
+
+Se indicará el número de orden de la partida. Cuando la declaración tuviera una sola partida, así expresada en la casilla 5, se dejará en blanco.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image25.png)
+
+A. Codificación general.
+
+Subcasilla 1.ª
+
+Se indicarán, sin separación de puntos, las ocho primeras cifras del código TARIC correspondiente.
+
+Subcasilla 2.ª
+
+Se indicarán, sin separación de puntos, las cifras de orden 9 y 10 del código TARIC correspondiente.
+
+Subcasilla 3.ª
+
+Espacio reservado para el código adicional TARIC, si lo hubiera.
+
+Subcasilla 4.ª
+
+Espacio reservado para un 2º código adicional TARIC, si lo hubiera.
+
+Subcasilla 5.ª
+
+Espacio reservado para codificación nacional.
+
+‒ En el supuesto de mercancías sujetas a Impuestos Especiales, deberá consignarse un código de 4 dígitos, de los cuales los 3 primeros corresponderán al código de epígrafe según la clase del producto (ver Anexo VII) y el 4 dígito indicará si se acoge a régimen suspensivo, exención, etc., de acuerdo con los códigos previstos en el Apéndice II.
+
+‒ En el supuesto de mercancía sujeta al Impuesto sobre las Labores del Tabaco aplicable en Canarias, deberá consignarse un código de 4 dígitos compuesto por el código de epígrafe según la clase de producto y el dígito indicativo de régimen suspensivo, exención u otros, según lo indicado en el Apéndice XIV.
+
+B. Codificación especial.
+
+Se trata de códigos estadísticos especiales para registrar supuestos de puntualización especial expresamente determinados en la normativa estadística comunitaria y que están recogidos en el Anexo VIII.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image26.png)
+
+Subcasilla a).
+
+Se consignará el código del país de donde son originarias las mercancías conforme a las disposiciones establecidas en el Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992 (Ver códigos de países en Anexo II y III).
+
+Cuando se trate de mercancías procedentes de países terceros pero cuyo origen sea un Estado miembro, deberá declararse el código genérico correspondiente a la Unión Europea, «EU» (Ver Anexo III).
+
+En los supuestos de declaración de pesca de altura de origen comunitario se consignarán las claves previstas para ello en el Anexo III.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image27.png)
+
+Se indicará en kilogramos el peso bruto de las mercancías correspondientes a la partida, incluyendo los envases y pallets, pero excluyendo el material de transporte y los contenedores.
+
+En caso de conocerse el peso total del embalaje de la expedición pero no el de cada partida, habrá de repartirse éste entre todas ellas, proporcionalmente a la masa neta.
+
+Sólo se admitirán decimales cuando la masa bruta fuera inferior a un Kg, en cuyo caso se admitirán hasta 3 decimales. Podrán declararse en un mismo DUA varias partidas con cantidades inferiores al Kg. con cargo a una misma partida de sumaria.
+
+Para cantidades superiores a 1 Kg, cuando sea necesario redondear, se hará de la forma siguiente:
+
+‒ de 0,001 a 0,499 = se redondeará a la unidad inferior.
+
+‒ de 0,5 a 0,999 = se redondeará a la unidad superior.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image28.png)
+
+Se indicará el régimen arancelario que se solicita para las mercancías declaradas. Para ello se consignará un código de tres cifras combinando las que se indican a continuación:
+
+Primera cifra del código:
+
+| 0 | Mercancía comunitaria en intercambios entre partes del territorio aduanero de la Unión. |
+|---|---|
+| 1 | Mercancía que no se acoge a ninguna preferencia arancelaria por razón de origen. |
+| 2 | Mercancía acogida al sistema de preferencias generalizadas. |
+| 3 | Mercancía acogida a cualquier otra preferencia arancelaria en razón de su origen. |
+| 4 | Mercancía acogida a los derechos previstos en los acuerdos de unión aduanera celebrados por la Unión Europea (Andorra, San Marino y Turquía). |
+
+Segunda y tercera cifra del código:
+
+| 00 | Cuando no se acoja a ninguna de las reducciones de los códigos siguientes (se incluyen aquí las mercancías acogidas a un límite máximo arancelario). |
+|---|---|
+| 10 | Mercancía acogida a suspensión arancelaria, no comprendida en otros puntos. |
+| 15 | Mercancía acogida a suspensión con destino especial. |
+| 18 | Mercancía acogida a suspensión con certificado sobre la naturaleza particular del producto. |
+| 19 | Mercancía acogida a suspensión temporal para las piezas importadas con un certificado de aeronavegabilidad (Reglamento (CE) n.º 1147/2002). |
+| 20 | Mercancía acogida a contingente arancelario, no incluido en otro punto. |
+| 23 | Mercancía acogida a contingente arancelario con destino especial. |
+| 25 | Mercancía acogida a contingente con certificado sobre la naturaleza particular del producto. |
+| 28 | Mercancía acogida a contingente arancelario a la reimportación en régimen de perfeccionamiento pasivo. |
+| 40 | Mercancía acogida a destino especial, no incluido en otro punto. |
+| 50 | Mercancía con certificado sobre la naturaleza particular del producto. |
+| 83 | Mercancía acogida a contingente dentro de las Medidas Específicas Arancelarias de Canarias (Reglamento (UE) n.º 1412/2013). |
+| 84 | Mercancía acogida a las Medidas Específicas Arancelarias de Canarias y a destinos especiales (Anexo I y II del Reglamento (UE) n.º 1386/2011). |
+| 85 | Mercancía acogida al Régimen Especial de Abastecimiento (REA) en Canarias. |
+| 86 | Mercancía acogida al Régimen Especial de Abastecimiento y a destino especial (Anexo VII del Reglamento (UE) n.º 180/2014). |
+| 96 | Mercancía acogida a suspensión con destino especial sobre determinadas armas y equipos militares previsto Reglamento (CE) n.º 150/2003. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image29.png)
+
+Subcasilla 1.ª
+
+En ella se indicará el régimen aduanero que debe aplicarse a la mercancía declarada. Este régimen se expresará mediante un código de 4 dígitos resultante de la combinación de dos códigos que corresponden:
+
+Primer código. Corresponde al régimen solicitado para la mercancía en el momento de presentarse la declaración aduanera. Si para un mismo envío deben declararse regímenes diferentes, podrán declararse en partidas distintas de la misma declaración, por ejemplo, cuando el envase que contiene el producto que se importa estuviera en régimen de exportación temporal o cuando el total del envío no supere 1 Kg. En otro caso, no deben declararse en un mismo DUA vinculaciones a regímenes económicos junto con despachos a libre práctica, consumo o reimportaciones.
+
+Segundo código. Corresponde al régimen precedente, es decir, al régimen aduanero bajo el cual las mercancías hubieran estado situadas en el territorio aduanero de la Unión con anterioridad al régimen solicitado.
+
+En caso de existir dos regímenes precedentes, tendrá prioridad el código correspondiente a un régimen aduanero económico como perfeccionamiento activo, perfeccionamiento pasivo, o transformación bajo control aduanero al código correspondiente a un régimen de depósito, o de importación temporal, o de procedencia de una zona o Depósito Franco.
+
+Por ejemplo:
+
+Despacho a consumo de una mercancía exportada en régimen de perfeccionamiento pasivo e incluida en régimen de depósito aduanero en el momento de la reimportación:
+
+– Primera operación:
+
+Exportación temporal para perfeccionamiento pasivo - código 21.00.
+
+– Segunda operación:
+
+Introducción en el depósito aduanero del producto compensador - código 71.21.
+
+– Tercera operación:
+
+Despacho a consumo del producto compensador - código 61.21 y NO 61.71.
+
+A continuación se incluyen los regímenes que pueden solicitarse siguiendo las instrucciones de éste capítulo de la Resolución del DUA y los regímenes precedentes más habituales, incluyéndose la lista completa de códigos Anexo XIV-A.
+
+A) Régimen solicitado, códigos posibles:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">01</td>
+<td>Despacho a libre práctica de mercancías con reexpedición simultánea en el marco de intercambios entre partes del territorio aduanero de la Unión donde sea de aplicación la Directiva 2006/112/CE y partes de este territorio donde no sean de aplicación esas disposiciones o en el caso de intercambios entre partes de ese territorio donde no sean de aplicación estas disposiciones.</td>
+</tr>
+<tr>
+<td>Despacho a libre práctica de mercancías con reexpedición simultánea en el marco de los intercambios entre la Unión Europea y los países con los que ésta ha establecido una unión aduanera (Andorra, San Marino y Turquía).</td>
+</tr>
+<tr>
+<td>07</td>
+<td>Despacho a libre práctica e inclusión simultanea en un depósito REF, o en un régimen de depósito distinto del aduanero (únicamente las mercancías contempladas en el artículo 65 de la Ley 37/92 del IVA).</td>
+</tr>
+<tr>
+<td>40</td>
+<td>Despacho a consumo con despacho simultáneo a libre práctica de mercancías.</td>
+</tr>
+<tr>
+<td>42</td>
+<td>Despacho a consumo con despacho a libre práctica simultáneo de mercancías objeto de una entrega exenta del IVA a otro Estado miembro y, en su caso, en régimen suspensivo de Impuestos Especiales.</td>
+</tr>
+<tr>
+<td>48</td>
+<td>Despacho a consumo con despacho a libre práctica simultáneo de productos de sustitución en el marco del régimen de perfeccionamiento pasivo, intercambios estándar, con importación anticipada.</td>
+</tr>
+<tr>
+<td rowspan="4">49</td>
+<td>Despacho a consumo en parte del territorio aduanero de la Unión donde sea de aplicación la Directiva 2006/112/CE de mercancía comunitaria procedente de otra parte del territorio donde no sea de aplicación la citada Directiva.</td>
+</tr>
+<tr>
+<td>Introducción de mercancía comunitaria en las Islas Canarias.</td>
+</tr>
+<tr>
+<td>Despacho aduanero e inclusión en régimen de depósito REF o en Depósito Distinto del Aduanero de mercancía comunitaria.</td>
+</tr>
+<tr>
+<td>Despacho a consumo en el marco de los intercambios entre la Unión Europea y los países con los que ésta ha establecido una unión aduanera (Andorra y San Marino). No se utilizará este código para las importaciones que se acojan al acuerdo de unión aduanera con Turquía.</td>
+</tr>
+<tr>
+<td>51</td>
+<td>Inclusión en el régimen de perfeccionamiento activo (sistema de suspensión).</td>
+</tr>
+<tr>
+<td>53</td>
+<td>Inclusión régimen de importación temporal.</td>
+</tr>
+<tr>
+<td>61</td>
+<td>Reimportación con despacho a libre práctica y a consumo simultáneamente. Incluye los supuestos de retorno.</td>
+</tr>
+<tr>
+<td>63</td>
+<td>Reimportación con despacho a consumo y despacho simultáneo a libre práctica de mercancías objeto de una entrega exenta del IVA a otro Estado miembro y, en su caso, en régimen suspensivo de Impuestos Especiales.</td>
+</tr>
+<tr>
+<td>80</td>
+<td>Despacho a consumo (tributos REF) de mercancía comunitaria previamente vinculada a un depósito REF.</td>
+</tr>
+<tr>
+<td>82</td>
+<td>Despacho a consumo de mercancía no sujeta a II. EE. previamente despachada a libre práctica o procedente de parte del territorio aduanero de la Unión donde no sea de aplicación la Directiva 2006/112/CE y vinculada a un depósito distinto del aduanero.</td>
+</tr>
+</tbody>
+</table>
+
+B) Régimen precedente, códigos más habituales:
+
+| 07 | Despacho a libre práctica con inclusión simultánea en un depósito REF o en un depósito distinto del aduanero. |
+|---|---|
+| 10 | Exportación definitiva (supuestos de retorno). |
+| 11 | Exportación de mercancía con vinculación al régimen de perfeccionamiento activo en la modalidad de exportación anticipada. |
+| 21 | Exportación temporal en el marco de perfeccionamiento pasivo. |
+| 22 | Exportación temporal distinta de la contemplada en el código 21. |
+| 23 | Mercancías exportadas temporalmente para su posterior reintroducción en el mismo estado. |
+| 49 | Mercancías incluidas en depósito REF o en depósito distinto del aduanero. |
+| 51 | Mercancías incluidas en régimen de perfeccionamiento activo (sistema suspensión). |
+| 53 | Mercancías incluidas en el régimen de importación temporal. |
+| 54 | Mercancías incluidas en el régimen de perfeccionamiento activo (sistema de suspensión) en otro Estado miembro. |
+| 71 | Mercancías vinculadas al régimen de depósito aduanero. |
+| 91 | Mercancías vinculadas al régimen de transformación bajo control aduanero. |
+| 92 | Transformación bajo control aduanero en otro Estado miembro (sin que las mercancías se hayan despachado a libre práctica en él). |
+| 95 | Mercancías incluidas en depósito REF o en depósito distinto del aduanero. |
+| 00 | En el resto de los casos. |
+
+Segunda subcasilla.
+
+Consiste en una codificación, formada por tres caracteres alfanuméricos con información adicional al régimen aduanero. La codificación y su descripción se encuentran en el Anexo XIV-B.
+
+No será necesaria la declaración de un código adicional cuando no suponga una información distinta de la que implica el régimen.
+
+La utilización de códigos que impliquen una exención de derechos condicionada al cumplimiento de requisitos posteriores al despacho, deberán declararse conjuntamente con la clave correspondiente de declaración incompleta (códigos 9) salvo autorización expresa de la Aduana.
+
+Nota: Se permite la declaración de hasta tres códigos. En este supuesto se consignará, en esta subcasilla, el primero (en su caso el código comunitario) y el resto en el recuadro de la derecha de la casilla 44.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image30.png)
+
+Se indicará en kilogramos con posibilidad de tres decimales el peso neto de las mercancías correspondientes a la partida, sin incluir en ningún caso los envases o pallets.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image31.png)
+
+Se utilizará siempre que el importador solicite, en la casilla 36, los beneficios de un contingente. Para ello se consignará, en esta casilla, el número de orden con el que el contingente que se solicita está identificado en el Reglamento comunitario que lo establece. Su omisión o error implicará la no validación de la solicitud de los beneficios arancelarios que corresponda.
+
+La condición de acceso al contingente, si la hubiera, deberá consignarse en la casilla 44.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image32.png)
+
+Se indicará la declaración sumaria con la que ha sido introducida la mercancía o el documento precedente si se trata de mercancía previamente vinculada a un régimen. Se identificará dicho documento mediante una codificación compuesta de tres elementos:
+
+1.º El tipo de documento, que se indicará mediante uno de los códigos siguientes:
+
+| X | Declaración sumaria. |
+|---|---|
+| Y | Declaración inicial en un procedimiento simplificado. |
+| Z | Declaración de un régimen precedente. |
+
+2.º La clase de documento, que se indicará mediante un código alfanumérico de 3 dígitos. No es necesario incluir clase de documento cuando se trate de una declaración sumaria registrada en el sistema informático de la aduana.
+
+3.º La identificación del documento concreto, cuya estructura dependerá de la clase de documento.
+
+Los códigos y estructura de documentos que pueden declararse, son los siguientes:
+
+| Documentos de cargo | 1.º | 2.º | 3.º |
+|---|---|---|---|
+| Declaración de depósito temporal (DDT) formato aéreo. | X |  | (a) |
+| Resto de declaraciones de depósito temporal (DDT). | X |  | RRRRANNNNNNPPPPP (b) |
+| DUA simplificado. | Y | DUA | AAPPRRRRRRNNNNNNNC |
+| Declaración de importación o introducción o H7. | Z | DUA | AAPPRRRRRRNNNNNNNCPPP AAAAMM DD (d)<br>AAPPH7NNNNNNNNNNNC |
+| DUA de vinculación a depósito. | Z | DVD | AAPPRRRRRRNNNNNNNC o RRRRAAAANNNNNNPPP |
+| Declaración de vinculación a depósito. | Z | IDA | AAPPRRRRRRNNNNNNNC o RRRRAAAANNNNNNPPP |
+| Declaración de transferencia. | Z | TRS | AAPPRRRRRRNNNNNNNC o RRRRAAAANNNNNNPPP |
+| Declaración de reconversión de unidades. | Z | RUN | AAPPRRRRRRNNNNNNNC o RRRRAAAANNNNNNPPP |
+| Cuaderno ATA. | Z | 955 | AAAAMMDDAAAAMMDD (e) |
+| T2M. | Z | T2M | NNNNNNNNNN (c) |
+| N.º de entrada en Zona o Depósito Franco. | Z | EZF | (f) |
+| *Entrada en equipaje de viajeros.* | Z | EQV | AAAAMMDD |
+| *Entrada irregular.* | Z | IRR | AAAAMMDD |
+| Otros documentos. | Z | ZZZ | (g) |
+
+En donde:
+
+‒ RRRR, RRRRRRR: código de recinto.
+
+‒ A, AA, AAAA: año.
+
+‒ MM: mes.
+
+‒ DD: día.
+
+‒ N: número.
+
+‒ C: dígito de control.
+
+‒ P: partida de orden.
+
+| (a) | La declaración sumaria aérea deberá declararse de la forma siguiente: año (4 dígitos), mes (2 dígitos), día (2 dígitos), código compañía aérea (3 dígitos), número de vuelo (5 dígitos) y número de conocimiento aéreo (11 o 19 dígitos). Asimismo podrá declararse con la estructura del resto de las declaraciones sumarias, en cuyo caso deberá declararse el número de conocimiento en la casilla 44. |
+|---|---|
+| (b) | Se refiere a declaraciones sumarias, de cualquier tipo, que estén dadas de alta como tales en el sistema informático de la AEAT. En las importaciones en Ceuta y Melilla de mercancía nacional, podrá consignarse el número de conocimiento de embarque en vez de la partida de orden. |
+| (c) | Sin estructura predefinida, pueden tratarse de caracteres alfanuméricos de cualquier extensión. |
+| (d) | Fecha de finalización del plazo otorgado para ultimar el régimen de que se trate. Únicamente deberá incluirse esta fecha cuando se trate del despacho a libre práctica de mercancía en perfeccionamiento activo o en importación temporal (regímenes 0751, 0753, 4051, 4053, 4251, 4253). |
+| (e) | En los cuadernos ATA deberá declararse la fecha de introducción de la mercancía amparada en dicho cuaderno en la Unión Europea y el último día de vigencia previsto para dicho cuaderno. |
+| (f) | El número de registro y fecha en la Zona Franca o Depósito Franco. |
+| (g) | El código ZZZ sólo se admitirá en los supuestos de medios de transporte introducidos por sus propios medios, introducciones por instalaciones fijas o envíos postales (si no existe un documento de cargo), según lo declarado en la casilla 25. En estos casos se incluirá la fecha de la introducción o la fecha última del periodo a que se refiere. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image33.png)
+
+Esta casilla será de obligado cumplimiento cuando la partida arancelaria declarada en la casilla 33 figure en el TARIC con código de unidades suplementarias. Se indicará la cantidad del artículo expresado en dicha unidad, admitiéndose hasta tres decimales y, seguidamente, el código de dicha unidad. La explicación de cada código figura en el Anexo IX.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image34.png)
+
+Se indicará el importe facturado correspondiente a la mercancía declarada en la partida, en la divisa declarada en la casilla 22. De no existir factura y si se trata de un envío comercial, se declarará el importe a partir del cual deba calcularse el valor en aduana de la mercancía. Tratándose de envíos gratuitos de mercancías sin valor comercial, se podrá indicar 0.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image35.png)
+
+Se indicarán las menciones requeridas por las normativas específicas de aplicación, distintas de las citadas en las instrucciones de la casilla 31 y se identificarán los documentos que se adjuntan a la declaración. En el caso de certificaciones y autorizaciones emitidas por Organismos que transmiten directamente su contenido a la administración aduanera no será necesario reseñarlos en esta casilla sí, en los mismos, figuran como documento de cargo el MRN del propio DUA. En otro caso, podrán incorporarse al DUA ya presentado y admitido, mediante el mensaje específico para ello. Tanto las indicaciones como los documentos están codificados como se explica a continuación:
+
+a) Las indicaciones o literales especiales previstos en la normativa comunitaria para los que están previstos códigos de 5 caracteres (ver anexo XV-A).
+
+b) Los documentos que se aporten al despacho (factura, certificado de origen, certificados de inspección, licencias, etc.), deben declararse:
+
+‒ Mediante un código correspondiente al tipo de documento. Se trata de códigos de cuatro caracteres que comenzarán con una letra cuando su origen sea comunitario y con un número cuando sea nacional. Pueden consultarse en la base de datos del TARIC. El Anexo XV-B incluye una relación actualizada a la fecha de firma de esta Resolución.
+
+‒ Identificando el documento en sí, indicando la clave del país donde ha sido expedido, su número y fecha de expedición, salvo que se den otras normas específicas (por ejemplo, para los certificados identificados mediante NRC).
+
+c) Otras indicaciones necesarias para completar la información aportada por los datos expresados en otras casillas y cuya codificación estará incluida en la misma tabla que los documentos. Cabe destacar las siguientes:
+
+‒ En las declaraciones referidas a operaciones en las que intervenga un OEA, deberá incluirse el código que corresponda según su participación en la operación el número completo de autorización:
+
+| Y022 | Si el OEA es el exportador/expedidor. |
+|---|---|
+| Y023 | Si el OEA es el destinatario. |
+| Y024 | Si el OEA es el declarante. |
+| Y025 | Si el OEA es el representante. |
+| Y026 | Si el OEA es el obligado principal. |
+| Y027 | Si el OEA es el depositario de la mercancía. |
+| Y028 | Si el OEA fuera el transportista. |
+| Y029 | Otro operador económico autorizado. |
+| Y031 | N.º para UE del Exportador OEA japonés. |
+
+Si el operador económico autorizado desempeña distintas funciones en la transacción de que se trate, podrá indicar los diferentes códigos correspondientes a las diversas funciones desempeñadas. Por ejemplo, si es el representante y el titular del ADT donde se encuentra la mercancía, pondrá los códigos Y025 e Y027.
+
+‒ Cuando deba incluirse el código 1005 porque la autorización de despacho sea por operación, deberá reseñarse el NIF de la persona física que haya firmado dicha autorización.
+
+‒ Los gastos que deben adicionarse al valor en aduana e impuestos devengados con motivo de la importación para calcular la base imponible del IVA (artículo 83 de Ley del IVA), del AIEM y/o del IGIC. El código con el que deben declararse es el «7002» y se incluirá el total a adicionar.
+
+En las importaciones a consumo de bienes que previamente hubiesen estado colocados al amparo de un régimen REF de depósito (regímenes 8007 u 8073), se incluirán, con el código 7002, los tributos devengados con ocasión de la importación en las Islas Canarias y cualquier otro gasto resultante de aplicar lo previsto en el artículo 26 de la Ley 20/91.
+
+‒ Cuando se trate de introducciones de mercancía de la Unión deberá referenciarse el documento de prueba de tal estatuto. Si se trata de un intercambio nacional se incluirá la referencia al T2LF generado a partir de la declaración de expedición o, en los supuestos de acogerse al procedimiento previsto en el apéndice XVI, el código 9011 «Solicitud de certificado de salida» que, junto con la factura o, en su caso, el T2LF emitido a partir de la aplicación de T2L/T2LF electrónico, serán el justificante del estatuto de la mercancía. El T2LF, en ambos supuestos, deberá identificarse mediante su MRN o mediante MRN más la partida de orden:
+
+C620 AAESRRRRRRXNNNNNNDPPP o
+
+C620 AAESRRRRRRXNNNNNND
+
+(A, últimos dígitos del año, ES código de España, R código de recinto, X tipo de documento con valores 1 o L, N, número de registro, D dígito de control, P partida de orden).
+
+‒ En el supuesto de acogerse a algún beneficio especial, se indicará la disposición legal en que se basan.
+
+‒ En el caso de importaciones sujetas a Impuestos Especiales con destino a establecimientos obligados a inscribirse en el Registro Territorial, deberá consignarse el código de Actividad y del Establecimiento (C.A.E.) del establecimiento de destino.
+
+‒ Cuando se trate de importación de mercancía exenta de IVA por tener como destino inmediato otro Estado miembro, se reseñará el número del título de transporte que ampare su envío a dicho Estado (ver códigos 1010, 1011, 1012 o 1013), el NIF IVA español del importador (código en casilla 44, Y040) o, en su defecto, el NIF IVA español de su representante fiscal (código Y042). En este último caso, deberá incluirse en la declaración, la aceptación del representante fiscal (código de documento 1008) (ver Apéndice VII apartado A).
+
+También se reseñarán los datos del destinatario (código Y041) y su NIF IVA atribuido por el Estado miembro de destino.
+
+‒ Cuando se aplique una resolución arancelaria vinculante, deberá indicarse en esta casilla.
+
+‒ Cuando se trate de reimportaciones, mercancía en retorno, o cualquier otro supuesto en que existiera un documento aduanero previo no previsto en la casilla 40, deberá declararse en esta casilla el documento y número e incluir copia del mismo.
+
+‒ Cuando se trate de importaciones de productos precursores sujetas a una autorización administrativa previa (código de documento L135) se incluirá el número de dicha autorización comenzando con el código ISO del país autorizante y, si se trata de una autorización española, dicho número deberá declararse con el formato ESLLL/NNNNN/AA (Ver Anexo XV-C).
+
+‒ En el caso de importaciones sujetas al Impuesto sobre las Labores del Tabaco aplicable en Canarias con destino a personas o entidades obligadas a inscribirse en el Registro de Fabricantes, Titulares de depósitos y operadores del Impuesto deberá consignarse el número de registro.
+
+Subcasilla COD.I.E. (Indicaciones especiales). No se cubrirá.
+
+• En el supuesto de que exista vinculación entre el comprador y el vendedor en el sentido del artículo 127 del RECAU deberá declararse dicha vinculación mediante uno de los códigos siguientes:
+
+1022 Existe vinculación entre el comprador y el vendedor en el sentido del artículo 127 del RECAU, pero dicha vinculación no afecta en el precio de las mercancías importadas.
+
+1023 Existe vinculación entre el comprador y el vendedor en el sentido del artículo 127 del RECAU que afecta al precio de la mercancía importada por lo que se aplica un método secundario de valoración.
+
+• En el supuesto de que se aplique un método secundario de valoración (artículo 74 del CAU) deberá incluirse el código 1024 y, en la descripción, la clave correspondiente al método aplicado:
+
+| 2 | Valor de transacción de mercancías idénticas (art. 74.2 a) CAU). |
+|---|---|
+| 3 | Valor de transacción de mercancías similares (art. 74.2 b) CAU). |
+| 4 | Valor deductivo (art. 74.2 c) CAU). |
+| 5 | Valor calculado (art. 74.2 d) CAU). |
+| 6 | Valor basado en los datos disponibles (método alternativo, art. 74. 3 del CAU). |
+
+– En los supuestos de declaraciones de vinculación al régimen de Depósito Distinto del Aduanero o de Depósito REF (régimen 07), deberá identificarse el depósito incluyendo el n.º de autorización con el código 1500 y la ubicación correspondiente al almacén concreto con el código 5018 (ver instrucciones en la casilla 49 para vinculaciones a autorizaciones de depósito preCAU).
+
+– Cuando se presente una declaración de medios de pago, deberá referenciarse la “Declaración de medios de pago no acompañado” (código de documento 1032) y el NRC correspondiente.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image36.png)
+
+Deberá incluirse la cantidad a incrementar y/o a deducir del valor facturado (casilla 42), expresada en euros, cuando proceda ajustar dicho valor para hallar el valor en aduana de la mercancía declarada. Las cantidades de que se trate deberán ir precedidas del signo «+» o «-» y corresponderse con los apartados B y C (casillas 18 y 23) de la Declaración de Valor en Aduana si ésta tuviera que presentarse.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image37.png)
+
+El valor estadístico se basará en el valor de las mercancías en el momento y en el lugar en que crucen la frontera española o, en el caso de intercambios nacionales, en el momento de la introducción en la parte del territorio nacional de destino.
+
+El valor de las mercancías será:
+
+a) En caso de compra-venta, el precio realmente pagado o pagadero por las mercancías importadas.
+
+b) En el resto de los casos, el precio que se habría pagado en caso de compra-venta.
+
+Para el cálculo del valor estadístico se tomará el valor de las mercancías incluyendo los gastos de transporte y seguro correspondientes únicamente al trayecto comprendido entre el lugar del inicio del transporte y la frontera española (valor CIF).
+
+Para las mercancías despachadas a libre práctica, el valor estadístico será el valor en aduana, determinado de conformidad con el CAU.
+
+En el caso de mercancías sometidas a operaciones de perfeccionamiento:
+
+a) Cuando las mercancías se importen con vistas a su perfeccionamiento, se deberá declarar su valor estadístico.
+
+b) Cuando las mercancías se reimporten después de su perfeccionamiento, el valor estadístico deberá incluir el valor de las mercancías en el momento en que se exportaron inicialmente más el valor añadido correspondiente a la operación de perfeccionamiento.
+
+El valor estadístico se expresará en euros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image38.png)
+
+Deberá rellenarse esta casilla cuando el despacho solicitado origine una deuda de importación, así como en aquellos supuestos en que deba garantizarse el cumplimiento del régimen solicitado, el destino especial o cualquier circunstancia a la que quede condicionado el despacho de la mercancía.
+
+Se indicará en las diversas subcasillas la clase de tributo, base imponible, tipo aplicable, cuota y modalidad de pago, empleando una línea por cada concepto contributivo, salvo en los casos que se señalan más adelante, estando situados en el mismo orden que los expuestos en la tabla del Anexo X, excepto los conceptos por el impuesto sobre el Valor Añadido (B00 y B01) que serán siempre los últimos en consignarse.
+
+La liquidación de la tasa por servicios prestados por Mozos (conceptos 131 y 132) en caso de ser varias las partidas de orden, se expresará en su totalidad exclusivamente en la última partida, aunque referido al documento completo.
+
+El uso de las distintas subcasillas es el siguiente:
+
+Subcasilla «clase de tributo»: Para indicar el concepto tributario mediante los códigos que figuran en el Anexo X. Los códigos previstos figuran en el Anexo X.
+
+Subcasilla «base imponible»: para incluir el importe o cantidad que ha de servir para el cómputo de cada gravamen, teniendo en cuenta su concordancia con las distintas clases del tipo impositivo (ad valorem, específico, etc.).
+
+En aquellos supuestos en que, para el cálculo de la liquidación de derechos, sea necesario conocer la cantidad de mercancía importada respecto a determinada unidad fiscal, cuando ésta no sea el peso o la unidad estadística prevista en el Arancel, deberá declararse, en esta casilla, dicha cantidad tenga o no, cuota impositiva. Un ejemplo de estos supuestos serían aquellas mercancías que tributan en función de la diferencia entre el valor declarado por unidad y el precio de referencia o de entrada previsto por el reglamento que establece dicho tributo.
+
+Subcasilla «tipo»: Para indicar el tipo de gravamen aplicable, según los siguientes casos:
+
+‒ Tipo «ad valorem»: se expresará el mismo, seguido del signo %.
+
+‒ Tipo «específico»: se indicará su importe y la unidad fiscal de que se trate, según la codificación de la tabla del Anexo IX.
+
+‒ Tipo «mixto»: se repetirá el concepto impositivo en líneas separadas, conforme a los anteriores apartados.
+
+‒ Tipo «compuesto»: Cuando el tipo impositivo, esté formado por un derecho «ad valorem», un máximo específico o/y un mínimo específico, se indicará el realmente aplicable.
+
+En los casos descritos en el segundo párrafo del apartado «subcasilla base imponible», así como en cualquier otro supuesto en que debe declararse una cantidad en dicha subcasilla como información adicional para el cálculo de los derechos, se consignará «0» en ésta.
+
+No será necesario incluir ningún valor como tipo impositivo cuando se trate, en las reimportaciones, de mercancía previamente vinculada a perfeccionamiento pasivo, en lo que respecta al derecho arancelario. Únicamente deberá declararse la base imponible y la cuota final resultante calculada de acuerdo con las reglas de este régimen.
+
+Subcasilla cuota: para incluir el importe resultante de aplicar el tipo impositivo a la correspondiente base imponible.
+
+Subcasilla MP: En esta subcasilla se expresará la modalidad de pago elegida. En los DUAs presentados en el marco de la VEXCAN deberán declararse de forma separada la modalidad de pago para la Aduana y la modalidad de pago para la ATC, que se imprimirá en la casilla B del formulario.
+
+Se consignará para la totalidad de la deuda a ingresar por levante correspondiente a ese DUA (en los DUAs VEXCAN, una clave por la totalidad de la deuda aduanera y otra por la totalidad de la deuda ATC), una de las claves indicadas a continuación, que se pondrá, haya o no varias partidas, en la casilla correspondiente al «Total» de la primera partida de orden. En caso de que la declaración no diera origen a una deuda, esta casilla se dejará en blanco.
+
+| A | Pago previo al levante. |
+|---|---|
+| R | Pago aplazado con prestación de garantía. |
+| J | Pago aplazado sin prestación de garantía por Entidades Públicas y otros casos especiales expresamente previstos en la normativa vigente. |
+
+Subcasilla total: Para indicar la suma de las cuotas consignadas en la columna «Importe».
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image39.png)
+
+Esta casilla se rellenará exclusivamente cuando se trate de vinculaciones a depósitos distintos de los aduaneros o depósitos REF cuyo control de existencias se esté realizando con cargo a una autorización RAE (fecha límite, 8 de mayo de 2022).
+
+Se consignará el número de la autorización RAE, formado por el código ISO alfa-2 del Estado miembro que lo autorizó (dos dígitos), la clave identificativa del tipo de depósito (2 dígitos) y el número (8 dígitos).
+
+La identificación del depósito con cargo a autorizaciones CAU se realizará en la casilla 44, incluyendo el n.º de autorización (código 1500) y la ubicación correspondiente al almacén concreto (código 5018).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image40.png)
+
+Se incluirá siempre que sea necesario garantizar las obligaciones tributarias. En las declaraciones presentadas *en el marco de la VEXCAN*, deberán declararse garantías independientes para la deuda aduanera y la deuda tributaria a la Comunidad Autónoma Canaria.
+
+En definitiva, deberá incluirse al menos una garantía cuando:
+
+a) la modalidad de pago elegida (subcasilla MP, casilla 47) sea «R»,
+
+b) el régimen solicitado (casilla 37) requiera la presentación de una garantía por la ultimación correcta del mismo: perfeccionamiento activo, (modalidad de suspensión), importación temporal, destino final, etc.,
+
+c) sea de aplicación un derecho antidumping provisional,
+
+d) se trate de una declaración simplificada,
+
+e) así esté previsto en los regímenes especiales REF, en el marco de la VEXCAN,
+
+f) y cualquier otro supuesto en que se exija la presentación de una garantía.
+
+Para la declaración de la garantía se tendrá en cuenta:
+
+1) Deberá identificarse la/s garantía/s mediante el n.º de registro dado por la Aduana. En el Apéndice I, se explica la estructura del número, así como el número de garantías que pueden incluirse teniendo en cuenta si se trata de garantías registradas antes del 1 de mayo de 2016 o posteriores.
+
+2) En el marco de la VEXCAN, la clave de modalidad de pago declarada para cada Administración determinará la exigencia de garantía y si ésta es válida Es indiferente el orden en el que se incluya su referencia en esta casilla.
+
+3) El importe de la garantía retenida, no será obstáculo para que se liquiden los intereses de demora, intereses compensatorios, multas etc. a los que diere lugar en el supuesto de que deba procederse a la contracción de los derechos correspondientes por la no aplicación del beneficio solicitado.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image42.png)
+
+Es una casilla de uso exclusivo de la Aduana donde deberá dejarse clara constancia de:
+
+‒ La admisión de la declaración,
+
+‒ la fecha de admisión,
+
+‒ y la firma del funcionario.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image43.png)
+
+Además del lugar y fecha, esta casilla deberá llevar la firma manuscrita del interesado, seguida de su nombre y N.I.F. En caso de ser el interesado una persona jurídica, el firmante deberá expresar su nombre, cargo y N.I.F. (Ver Capítulo 1.º, Instrucciones Preliminares, Apartado E).
+
+2.3 Formularios complementarios del documento completo de importación.
+
+**(Suprimido)**
+
+2.4 Declaración simplificada de importación.
+
+El presente apartado se refiere a las declaraciones simplificadas presentadas acogiéndose al artículo 166 del CAU. El apéndice VII contiene instrucciones relativas al uso de este tipo de declaración.
+
+Las declaraciones simplificadas pueden ser:
+
+a) Por falta de datos, en cuyo caso se presentará la declaración con los datos previstos en el apartado 2.4.1 y la declaración complementaria según lo indicado en el apartado 2.4.2.
+
+b) Por falta de documentos, en cuyo caso se presentará una declaración de acuerdo con lo previsto en el apartado 2.2.2 con las salvedades recogidas en el apartado 2.4.3. Esta declaración deberá ser completada de acuerdo a lo indicado en el apartado 2.4.4.
+
+El plazo para la presentación de la declaración complementaria, de no existir autorización, es:
+
+a) Para las declaraciones con importe a pagar:
+
+– 10 días naturales a partir de la fecha de levante de las mercancías; o
+
+– 10 días siguientes a la finalización del mes natural dentro del cual se han presentado las declaraciones simplificadas si el operador tiene una autorización DPO (facilidades de pago).
+
+b) Para las declaraciones sin importe a pagar, el plazo máximo es de 30 días naturales a partir de la fecha de levante de las mercancías.
+
+En el caso de declaraciones simplificadas por falta de documentos, cuando concurran circunstancias debidamente justificadas, el plazo puede ser prorrogado por la Aduana, hasta 120 días, según lo previsto en el artículo 147 del RDCAU.
+
+Se exigirá garantía de los derechos pendientes de percibir o que pudieran generarse en función del dato o documento que falte en las declaraciones simplificadas.
+
+2.4.1 Declaración simplificada por falta de datos.
+
+Deberá presentarse una declaración con código de tipo de procedimiento “C” (casilla 1.2) “C” y el contenido siguiente:
+
+| Casilla | Descripción | Observaciones |
+|---|---|---|
+| A | Aduana. |  |
+| 1 | Declaración (subcasillas 1.1 y 1.2 ). | Subcasilla 1.2: código «C». |
+| 5 | Partidas. |  |
+| 6 | Total bultos. |  |
+| 8 | Destinatario. |  |
+| 14 | Declarante/Representante. |  |
+| 15 a | Código del país de expedición/exportación. |  |
+| 19 | CTR (Contenedores). |  |
+| 30 | Localización de las mercancías. |  |
+| 31 | Bultos y descripción de mercancía. |  |
+| 32 | N.º partida. |  |
+| 33 | Código de las mercancías. |  |
+| 34 a | Código país de origen. |  |
+| 35 | Masa bruta. |  |
+| 36 | Preferencia. | No podrá solicitarse contingente. |
+| 37 | Régimen. |  |
+| 40 | Documento de cargo/ Documento precedente. |  |
+| 41 | Unidades estadísticas. |  |
+| 42 | Precio del artículo. |  |
+| 44 | Indicaciones especiales. |  |
+| 47 | Calculo de los tributos. | Únicamente el valor en aduana. |
+| B | Datos contables. |  |
+| 54 | Lugar y fecha.<br>Firma y nombre del Declarante/Representante. |  |
+
+Estas casillas deberán cumplimentarse siguiendo las instrucciones del apartado 2.2.2 con las siguientes especialidades:
+
+• Casilla 35: Deberá incluirse la masa bruta de acuerdo a lo contratado en el título de transporte.
+
+• Casilla 47: Deberá incluirse el valor en aduana correspondiente a la mercancía. Podrá incluirse el valor estimado de acuerdo a las condiciones contratadas.
+
+En la admisión de la declaración se calcularán los derechos correspondientes a efectos del trabado de la garantía.
+
+2.4.2 Declaración complementaria de simplificada por falta de datos.
+
+Deberá presentarse una declaración completa por cada declaración simplificada siguiendo las instrucciones del apartado 2.2.2 para su cumplimentación, teniendo en cuenta:
+
+• Debe incluirse el MRN de la declaración simplificada y el contenido de las casillas 8 (Destinatario), 14 (Declarante/Representante), 31 (Descripción de la mercancía), 33 (Código del producto) y 37(Régimen) deberá coincidir con lo declarado en la declaración inicial.
+
+• La clave de procedimiento que debe indicarse en la casilla 1.2 es “Y”.
+
+2.4.3 Declaración simplificada por falta de documentos.
+
+Deberá presentarse una declaración de importación completa siguiendo las instrucciones del apartado 2.2.2 para su cumplimentación, teniendo en cuenta:
+
+– La clave de procedimiento que debe indicarse en la casilla 1.2 es «B».
+
+– En el campo de régimen nacional (casilla 37.2) deberá incluirse el código correspondiente al documento que está pendiente de presentar. Puede incluirse más de un código:
+
+| Código | Descripción |
+|---|---|
+| 9AR | Pendiente concesión de franquicia arancelaria ya solicitada. |
+| 9IV | Pendiente concesión de exención de IVA ya solicitada. |
+| 9AI | Pendiente concesión franquicia arancelaria y exención IVA. |
+| 9OR | Pendiente presentación certificado de origen. |
+| 9LF | Pendiente presentar T2LF. |
+| 9VA | Pendiente presentación factura definitiva u otro justificante del valor de las mercancías. |
+| 9EA | Pendiente presentación estado de liquidación RPA. |
+| 9DU | Pendiente presentar el compromiso del exportador a efectos de la aplicación de un derecho antidumping. |
+
+– Si hubiera autorización para presentar la declaración simplificada, esta deberá incluirse en la casilla 44. Una declaración puede tener más de una autorización siempre que se refieran a distintos plazos para presentar la declaración complementaria.
+
+2.4.4 Declaración complementaria de simplificadas por falta de documentos.
+
+Deberá presentarse el mensaje correspondiente al tipo de procedimiento “X” en el plazo previsto en la autorización de declaración simplificada correspondiente, o, si no hubiera autorización, en el plazo de 10 días o 30 días si no existiera deuda aduanera, prorrogable por la Aduana hasta 120 días.
+
+Por cada declaración simplificada deberá presentarse una declaración complementaria, aunque la autorización podrá contemplar que la declaración complementaria sea recapitulativa de varias simplificadas, presentadas ante la misma aduana.
+
+Mediante este mensaje se incorporará la referencia del documento de que se trate a la casilla 44. Además, debe indicarse mediante uno de los códigos siguientes que:
+
+A La documentación está completa y es conforme con los datos inicialmente declarados.
+
+R Se dispone de la documentación necesaria pero no se corresponde con los datos consignados en la declaración inicial. En este caso la indicación hace las veces de solicitud de rectificación de la misma.
+
+N No se dispone de alguno de los documentos que faltaban.
+
+2.5 Declaraciones simplificadas formalizadas en un documento comercial.
+
+**(Suprimido)**
+
+2.6 PDI (predeclaración incompleta), solicitud de MRN, datos que deben incluir.
+
+Puede presentarse un PDI (predeclaración incompleta) antes de la llegada de las mercancías para obtener el MRN de la futura declaración completa de importación. Este MRN deberá incluirse en las solicitudes de certificado a los Servicios de Inspección Fronteriza y facilitar así el enlace entre dichos certificados y la declaración de importación posterior en el marco de la ventanilla única aduanera (VUA).
+
+En el cuadro siguiente se relacionan las casillas que deberán cumplimentarse:
+
+| Casilla | Descripción |
+|---|---|
+| A | Aduana de despacho. |
+| 1.1 | Tipo declaración. |
+| 5 | Total partidas. |
+| 8 | Destinatario. |
+| 14 | Declarante/Representante. |
+| 15ª | Código del país de expedición/exportación. |
+| 30 | Localización de las mercancías. |
+| 31 | Bultos y descripción de mercancía. |
+| 32 | N.º partida. |
+| 33 | Código de las mercancías. |
+| 34.ª | Código país de origen. |
+| 37 | Régimen. |
+| 54 | Lugar y fecha.<br>Firma y nombre del Declarante/Representante. |
+
+Estas casillas deberán cumplimentarse siguiendo las instrucciones previstas en el apartado 2.2.2 para cada una de ellas, aunque teniendo en cuenta, respecto a la casilla 30, que únicamente es necesario que se declare el código de recinto donde está prevista la localización de la mercancía.
+
+Podrán rectificarse los datos siguientes al presentar el DUA completo:
+
+Casilla 8: el nombre y la dirección de la empresa importadora, pero no el código EORI.
+
+Casilla 14: el tipo de representación.
+
+Casilla 30: la ubicación de la mercancía.
+
+Casilla 31: la descripción de la mercancía.
+
+Casilla 33: únicamente si el código TARIC de la mercancía hubiera sido modificado en su normativa reguladora a la fecha de presentación del DUA completo.
+
+2.7 H7 Declaración mercancías sin valor estimable.
+
+Este nuevo mensaje es la declaración normal para el despacho a libre práctica y/o a consumo de los envíos que puedan acogerse exclusivamente a las franquicias arancelarias y, en su caso a las exenciones de IVA, IGIC, e IPSI, que se detallan a continuación y que no estén sujetas a prohibiciones y/o restricciones, ni a Impuestos Especiales:
+
+– Envío sin valor estimable.
+
+• Artículo 23 del Reglamento (CE) n.º 1186/2009 del Consejo, de 16 de noviembre de 2009, relativo al establecimiento de un régimen comunitario de franquicias aduaneras.
+
+• Artículos 14.11 y 73 de la Ley 20/91, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias excepto mercancía sujeta al AIEM.
+
+– Envíos de particular a particular.
+
+• Artículo 25, 26 y 27 del Reglamento (CE) n.º 1186/2009 del Consejo, de 16 de noviembre de 2009.
+
+• Artículo 36 de la Ley 37/92, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+• Artículo 14.3.6.º, 8.º y 28.º de la Ley 20/91.
+
+• Artículo 9 de la Ley 8/91, de 25 de marzo, por el que se aprueba el arbitrio sobre la producción y la importación en las ciudades de Ceuta y Melilla.
+
+– Sustancias terapéuticas de origen humano y reactivos para la determinación de los grupos sanguíneos y el análisis de tejidos humanos.
+
+• Artículo 54 del Reglamento (CE) n.º 1186/2009, del Consejo, de 16 de noviembre de 2009.
+
+• Artículo 41 de la Ley 37/92 del IVA.
+
+• Artículo 14.14 de la Ley 20/91.
+
+• Artículo 9 de la Ley 8/91, de 25 de marzo, por el que se aprueba el arbitrio sobre la producción y la importación en las ciudades de Ceuta y Melilla.
+
+– Documentación de carácter turístico y otros documentos.
+
+• Artículo 103 y 104 del Reglamento (CE) n.º 1186/2009, del Consejo, de 16 de noviembre de 2009.
+
+• Artículo 51 y 52 de la Ley 37/92 del IVA.
+
+• Artículo 14 de la Ley 20/91.
+
+• Artículo 9 de la Ley 8/91.
+
+La admisión de la declaración H7 exige la notificación de la presentación de las mercancías (mensaje G3) salvo cuando la operación precedente sea una declaración de tránsito.
+
+2.7.1 Datos de la declaración.
+
+11 03 000 000 Número de artículo de las mercancías.
+
+Número del artículo contenido en la declaración, cuando haya más de un artículo.
+
+11 10 000 000 Régimen adicional.
+
+Indíquense el código de los siguientes que corresponda al envío:
+
+C07 Envío sin valor estimable [artículo 23 Reglamento (CE) n.º 1186/2009 y artículo 14.11 y 73 Ley 20/91].
+
+C08 Envíos de particular a particular [artículo 25, 26 y 27 Reglamento (CE) n.º 1186/2009, artículo 36 Ley 37/92, artículo 14.3.6.º, 8.º, 28.º y 73.º Ley 20/91 y artículo 9 Ley 8/91].
+
+C16 Sustancias terapéuticas de origen humano y reactivos para la determinación de los grupos sanguíneos y el análisis de tejidos humanos [artículo 104 Reglamento (CE) n.º 1186/2009, artículo 41 Ley 37/92, artículo 14.14 Ley 20/91 y artículo 9 Ley 8/91].
+
+C35 Documentos turísticos [artículo 103 Reglamento (CE) n.º 1186/2009, artículo 52 Ley 37/92, artículo 14. Ley 20/91 y artículo 9 Ley 8/91].
+
+C36 Otros documentos [artículo 104 Reglamento (CE) n.º 1186/2009, artículo 53 Ley 37/92, artículo 14. Ley 20/91 y artículo 9 Ley 8/91].
+
+Adicionalmente al código C07 podrá declararse uno de los códigos siguientes:
+
+F48 Importación en el marco del régimen especial para las ventas a distancia de mercancías importadas de terceros países y territorios establecido en el título XII, capitulo 6, sección 4, de la Directiva 2006/112/CE.
+
+F49 Importación en el marco de las modalidades especiales para la declaración y el pago del IVA establecidas en el título XII, capitulo 7, de la Directiva 2006/112/CE.
+
+12 01 000 000 Documento precedente.
+
+Deberá incluirse cuando proceda uno de los códigos siguientes y su referencia:
+
+| Código | Descripción | Referencia |
+|---|---|---|
+| 335 | ENS declaración sumaria entrada. | MRN o MRN más partida. |
+| 337 | DDT declaración depósito temporal. | MRN o MRN más partida. |
+
+Únicamente podrá consignarse una declaración de depósito temporal cuando esta proceda de un tránsito.
+
+12 02 000 000 Información adicional.
+
+Cualquier información facilitada por el declarante que pueda considerarse de utilidad para el despacho a libre práctica del producto de que se trate.
+
+12 03 000 000 Documento justificativo.
+
+12 03 001 000 Número de referencia.
+
+12 03 002 000 Tipo.
+
+Deberán incluirse el código y referencia de identificación de los documentos que deban adjuntarse en apoyo de la declaración. En el caso de envíos de escaso valor debe referenciarse la factura o justificante del valor de la mercancía.
+
+La codificación vigente es la incluida en TARIC.
+
+12 05 000 000 Documento de transporte.
+
+12 05 001 000 Número de referencia.
+
+12 05 002 000 Tipo.
+
+Debe identificarse el número de envío con el código de documento 5025. Este número no podrá repetirse al menos durante 90 días.
+
+Adicionalmente podrá incluirse el número de conocimiento con el código 5026.
+
+12 08 000 000 Número de referencia/RUE.
+
+Esta entrada podrá utilizarse para indicar el identificador de la operación (como la referencia del contrato de compraventa), si las mercancías se declaran para su despacho a libre práctica en el marco del régimen especial para las ventas a distancia de bienes importados de terceros países y territorios contemplado en el título XII, capítulo 6, sección 4, de la Directiva 2006/112/CE.
+
+13 01 000 000 Exportador.
+
+13 01 016 000 Nombre y apellidos.
+
+13 01 018 000 Dirección o razón social.
+
+13 01 018 020 País.
+
+Indíquense el nombre y la dirección completa de la persona que expide las mercancías según lo estipulado en el contrato de transporte por la parte que ordena el transporte.
+
+El código de país declarado como parte de la dirección debe coincidir con el país donde se ha iniciado el transporte del envío. En el caso concreto de H7 presentadas en Canarias, se atenderá al origen del transporte de la operación comercial correspondiente y no, en su caso, a la operación de distribución desde Península.
+
+13 04 000 000 Importador.
+
+13 04 017 000 Número de identificación.
+
+13 04 018 000 Dirección o razón social.
+
+13 04 018 020 País.
+
+Persona a la que van destinadas realmente las mercancías expedidas. Deberá identificarse consignando el nombre, apellidos y la dirección completa, incluido país, donde debe entregarse el envío, así como el email y el número de teléfono. Asimismo, deberá incluirse el n.º EORI o NIF en cualquiera de los siguientes casos:
+
+– Si el destinatario es persona jurídica y no se usa el código de franquicia C35 o C36.
+
+– Si es consigna el código 1018 de representación aduanera.
+
+– Si se encuentra disponible.
+
+13 05 000 000 Declarante.
+
+13 05 016 000 Nombre y apellidos.
+
+13 05 017 000 Número de identificación.
+
+13 05 018 000 Dirección o razón social.
+
+13 05 018 020 País.
+
+13 05 074 000 Persona de contacto.
+
+Identifíquese el declarante. Cuando se facilite el número EORI, no será necesario indicar ni el nombre ni la dirección. En otro caso, deberá incluirse el nombre y la dirección completa.
+
+Asimismo, deberá indicar el nombre y apellidos de la persona de contacto, email y número de teléfono.
+
+13 06 000 000 Representante.
+
+13 06 017 000 Número de identificación.
+
+13 06 074 000 Persona de contacto.
+
+13 06 074 076 Correo electrónico.
+
+13 06 074 075 Número de teléfono.
+
+13 06 030 000 Forma de representación.
+
+Se exigirá esta información si no coincide con la que consta como «Declarante», excepto el elemento 1306030000, en donde deberá incluirse la forma de representación siempre que la declaración sea presentada por un representante aduanero.
+
+Indíquese el número EORI a que se refiere el artículo 1, apartado 18, del RDCAU.
+
+Asimismo, deberá indicarse el nombre y apellidos de la persona de contacto, email y número de teléfono, a efectos de las notificaciones de despacho.
+
+Indíquese el código pertinente que corresponda a la forma de representación, mediante uno de los códigos siguientes:
+
+2 Representación directa.
+
+3 Representación indirecta.
+
+4 (Ámbito VEXCAN) representación indirecta ante la AEAT y directa ante la ATC.
+
+5 (Ámbito VEXCAN) representación directa ante la AEAT e indirecta ante la ATC.
+
+13 16 000 000 Referencia fiscal adicional.
+
+13 16 031 000 Función.
+
+13 16 034 000 Número de identificación del IVA.
+
+Se incluirá el código siguiente y el número de identificación cuando proceda:
+
+FR5 Vendedor (IOSS): Sujeto pasivo que se acoja al régimen especial aplicable a las ventas a distancia de bienes importados de terceros países o terceros territorios establecido en el título XII, capitulo 6, sección 4, de la Directiva 2006/112/CE, y titular del número de identificación a efectos del IVA mencionado en su artículo 369 octodecies.
+
+14 14 000 000 Valor intrínseco.
+
+14 14 012 000 Código de divisa.
+
+14 14 014 000 Importe.
+
+Valor intrínseco de las mercancías en la moneda de facturación. Deberá incluirse el importe y el código de la moneda según la codificación del anexo VI.
+
+El valor intrínseco está definido en el artículo 1, apartado 48 del RDCAU cómo:
+
+a) para las mercancías de carácter comercial, el precio de las propias mercancías cuando se venden para su exportación al TAU, excluido el coste del transporte y los seguros, salvo que se hayan incluido en el precio y no se hayan indicado separadamente en la factura, y cualquier otro impuesto y gravamen que las autoridades aduaneras puedan determinar a partir de cualquier documento pertinente;
+
+b) para las mercancías desprovistas de carácter comercial: el precio que se habría pagado por las propias mercancías si se hubieran vendido para su exportación al TAU;
+
+Para los códigos de régimen adicional C16, C35 y C36, se consignará como valor intrínseco «0».
+
+14 15 000 000 Costes de transporte y seguro hasta destino.
+
+14 14 014 000 Importe.
+
+Indíquese el importe del franqueo pagado en euros.
+
+16 15 000 000 Ubicación de las mercancías.
+
+Código de la ubicación donde se encuentran las mercancías. Este código tiene que incluirse cuando la declaración se presente después de la llegada de las mercancías.
+
+17 10 000 000 Aduana supervisora.
+
+17 10 001 000 Número de referencia.
+
+Especifíquese la aduana donde se presenta la declaración y las mercancías utilizando el código de la Unión pertinente.
+
+18 02 000 000 Unidades suplementarias.
+
+Indíquese, en su caso, para el artículo correspondiente, la cantidad expresada en la unidad prevista en la legislación de la Unión, publicada en TARIC.
+
+Esta información solo se exigirá si la declaración se refiere a mercancías contempladas en el artículo 27 del Reglamento (CE) n.º 1186/2009 del Consejo.
+
+18 04 000 000 Masa bruta.
+
+Se entenderá por masa bruta el peso de las mercancías, incluido el embalaje, pero excluido el equipo del transportista.
+
+Indíquese la masa bruta de las mercancías, expresada en kilogramos, desglosada por artículos.
+
+En caso de que la declaración comprenda diversos artículos cuyas mercancías estén embaladas conjuntamente de tal manera que sea imposible determinar la masa bruta de las mercancías correspondientes a los distintos artículos, la masa bruta total solo deberá consignarse a nivel genérico.
+
+18 06 000 000 Embalaje.
+
+18 06 004 000 Número de bultos.
+
+Número total de bultos de acuerdo con la unidad de embalaje exterior más pequeña. Se trata del número de artículos individuales embalados de tal forma que no se puedan dividir sin deshacer el embalaje o del número de unidades en caso de mercancías no embaladas.
+
+En caso de que en los mismos bultos contengan mercancías distintas podrá declararse la totalidad de los bultos en la primera partida y en las partidas siguientes, declarar bultos 0.
+
+18 09 000 000 Código de mercancía.
+
+18 09 056 000 Código de la subpartida en el sistema armonizado.
+
+Indíquese el número del código de mercancía correspondiente al artículo de que se trate a menos a nivel de sistema armonizado (6 dígitos).
+
+> Se añade el punto 10 al apartado 2.2.1 y se modifica el 2.2.2, subcasilla 1 y casilla 37, por el apartado primero.2 de la Resolución de 17 de marzo de 2023. [Ref. BOE-A-2023-7502](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7502)
+
+> Se modifican los apartados 2.2.2, casillas 14, 19, 40, 44 y 49; 2.4, 2.4.4 y se añade el 2.7 por el apartado primero.2 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifican los apartados 2.2.2, casillas 23, 2.4.1, 2.4.3, 2.4.4 y se suprime el 2.5 por el apartado primero.2 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifican los apartados 2.2.2, casillas 1, 36, 37, 44, 46, 47, B; 2.4; 2.5.1, 2.6 y se suprime el 2.3 por el apartado primero.3 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifica el apartado 2.2.2, casillas 1, 22, 23, 37, 44, B).1 y se añade el 2.6 por el apartado primero.4 a 9 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## CAPÍTULO 3.º — Expedición / Exportación
+
+3.1 Preliminar.
+
+A) En aplicación del artículo 787 de las Disposiciones de Aplicación, la declaración de exportación debe ser presentada de forma electrónica. Podrán aceptarse declaraciones en papel cuando se trate de:
+
+‒ declaraciones no comerciales presentadas por particulares
+
+‒ o, exista una caída del sistema de la Aduana o del operador. En estos casos deberá procederse según se establece en el Apéndice XI de esta Resolución.
+
+B) Las declaraciones de exportación deben incluir los datos de seguridad previstos en el Anexo 30 bis de las DAC, excepto en los intercambios entre partes del territorio aduanero de la Unión en los que en una de ellas no sea de aplicación la Directiva 2006/112/CE del Consejo (IVA) o con aquellos países con los que la UE haya establecido acuerdos en materia de seguridad, y en los demás casos previstos en el artículo 592.bis del Reglamento (CEE) n.º 2454/93, de 2 de julio de 1993.
+
+3.1.1 Composición del documento.
+
+a) Los ejemplares necesarios para una declaración de exportación o de reexportación, son los siguientes:
+
+‒ Ejemplar n.º 1, para la Aduana de expedición.
+
+‒ Ejemplar n.º 3, para el interesado.
+
+‒ Ejemplar n.º 4, se presentará cuando sea necesario justificar el carácter comunitario de las mercancías mediante un T2LF/T2L ante la Aduana comunitaria de destino, Andorra o San Marino. En los intercambios nacionales podrá imprimirse el justificante correspondiente habilitado en la Sede electrónica.
+
+b) Documento de Acompañamiento de Exportación (DAE).
+
+En los supuestos de operaciones de exportación con salida indirecta incluidas en el sistema informático de la Aduana, se presentará, en la Aduana de salida, el Documento de Acompañamiento de Exportación impreso por la Aduana o por los operadores, en vez del ejemplar 3 del DUA.
+
+El documento de acompañamiento consta de un ejemplar al que puede añadirse la «lista de artículos», cuando la exportación conste de varias partidas.
+
+c) Impresión de los datos de seguridad.
+
+Cuando se imprima la declaración de exportación en un impreso DUA, los datos de seguridad deberán imprimirse en hoja aparte, siendo suficiente la identificación de cada información con el nombre que aparece en el DAE.
+
+Cuando no sea posible la presentación electrónica de la declaración, puede presentarse en la aduana en papel, bien en el impreso DUA o bien en el formato previsto en el Reglamento (CEE) n.º 2454/93, de 2 de julio de 1993.
+
+3.1.2 Definiciones.
+
+1\. «Expedición». Envío de mercancías comunitarias con destino a un Estado miembro.
+
+2\. «Exportación». Envío de mercancías comunitarias con destino a un país tercero y salidas de mercancías de Ceuta y Melilla con cualquier destino.
+
+3\. «Reexportación». Salida del territorio aduanero de la Unión de mercancías no comunitarias previamente importadas temporalmente o vinculadas al régimen de depósito aduanero.
+
+4\. «Aduana de Exportación»: la aduana donde se formalice la declaración de exportación.
+
+5\. «Aduana de Salida»: la aduana donde se produzca la salida efectiva de la mercancía al exterior del territorio aduanero de la Unión.
+
+6\. «Salida indirecta»:
+
+1\. Cuando no coincidan la aduana de exportación con la aduana de salida, o, en el caso de despacho centralizado, cuando no coincida la aduana de presentación de la mercancía (aduana de ubicación) con la aduana de salida, o
+
+2\. cuando se trate de la misma aduana, pero la ubicación donde se presenta la mercancía se encuentra fuera del recinto.
+
+7\. «Exportador» (art. 1.19 del RDCAU):
+
+a) Un particular que transporta las mercancías que vayan a ser conducidas fuera del territorio aduanero de la Unión cuando estas mercancías estén contenidas en el equipaje personal del particular;
+
+b) en los demás casos en que la letra a) no sea de aplicación:
+
+i) Una persona establecida en el territorio aduanero de la Unión, que está facultada para decidir y ha decidido que las mercancías deben ser conducidas fuera de ese territorio aduanero,
+
+ii) cuando el inciso i) no sea de aplicación, cualquier persona establecida en el territorio aduanero de la Unión, que sea parte en el contrato en virtud del cual las mercancías vayan a ser conducidas fuera de ese territorio aduanero.
+
+3.1.3 Ventanilla única canaria (VEXCAN).
+
+Las declaraciones de exportación/expedición, reexportaciones, etc., referidas a mercancías que salgan del territorio canario surtirán los efectos correspondientes tanto ante la Administración Aduanera como ante la Administración Tributaria Canaria.
+
+3.2 Documento completo de exportación.
+
+3.2.1 Operaciones que deben formalizarse con documento completo.
+
+1 Exportación definitiva o temporal de mercancías fuera del territorio aduanero de la CE, incluidas las ventas de pescado extraído por buques nacionales directamente expedidas sin pasar por territorio nacional.
+
+2\. Reexportación de mercancías no comunitarias al exterior del territorio aduanero de la Unión.
+
+3\. Expedición de mercancías desde la Península y Baleares con destino a las Islas Canarias y otras partes del territorio comunitario excluidas de la aplicación de la Directiva 2006/112/CE.<sup>1</sup>
+
+4\. Exportación de mercancías desde la Península y Baleares o desde las Islas Canarias con destino a Ceuta y Melilla.
+
+5\. Exportación de mercancías desde Ceuta y Melilla.
+
+6\. Expedición de mercancías desde las Islas Canarias al resto del territorio aduanero de la CE.<sup>1</sup>
+
+7\. Conversión de expediciones/exportaciones temporales en definitivas.
+
+8\. Avituallamiento y equipamiento de buques, aeronaves y plataformas de sondeo o explotación. (Ver apéndice IV).
+
+9\. **(Suprimido)**
+
+10\. Exportación de mercancía comunitaria incluida en un Depósito Distinto del Aduanero, un Depósito REF o en un Depósito o Zona Franca.
+
+11\. Exportación de mercancías agrícolas comunitarias previamente vinculadas el régimen de depósito aduanero.
+
+<sup>1 </sup>En cumplimiento del Reglamento (CE) n.º 2454/93 de la Comisión, de 2 de julio de 1993, los intercambios de mercancías comunitarias que circulen desde o hacia una parte del territorio comunitario excluido del ámbito de aplicación de la Directiva 2006/112/CE deberán efectuarse al amparo del procedimiento de tránsito comunitario fiscal (T2F o documento equivalente) o un justificante del carácter comunitario (T2LF). (Ver Apéndice XVI y Apartado 3.4).
+
+3.2.2 Instrucciones relativas a las diferentes casillas del documento.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image50.png)
+
+Espacio reservado para numeración y registro del documento. Este número constará de 18 caracteres de los cuales:
+
+1.º y 2.º: dos últimos dígitos del año en curso;
+
+3.º y 4.º: código ISO del país de registro de la declaración (ES, si la aduana es española);
+
+5.º a 17.º: número (puede ser alfanumérico). En el caso de España, los seis primeros dígitos corresponderán al código de recinto; y el siguiente (7.º) indicará el tipo de declaración de que se trata (el «1» indicará que se trata de una exportación);
+
+18.º: dígito de control.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image51.png)
+
+Consta de tres subcasillas que serán cumplimentadas de la manera siguiente:
+
+Subcasilla 1.
+
+Se pondrá una de las claves siguientes, de acuerdo con el estatuto y destino de las mercancías:
+
+| CO | Declaración de expedición de mercancía comunitaria a otra parte del territorio comunitario. |
+|---|---|
+| EX | Declaración de exportación de mercancías comunitarias o no comunitarias desde la Península y Baleares o desde las Islas Canarias hacia el exterior del territorio aduanero de la Unión, a excepción de los países que componen la AELC. |
+|  | Declaración de exportación de mercancías desde Ceuta y Melilla con cualquier destino. |
+|  | Avituallamiento y equipamiento a buques y aeronaves. |
+| EU | Declaración de exportación de mercancía con destino a un país de la AELC u otra parte contratante de los convenios sobre tránsito común y simplificación de formalidades en los intercambios de mercancías. |
+
+Subcasilla 2. Identifica el procedimiento aduanero solicitado para las mercancías objeto del tráfico, con las siguientes claves:
+
+A Declaración normal (procedimiento normal, artículo 162 del CAU).
+
+B Declaración simplificada por falta de documentos (artículo 166 del CAU).
+
+C Declaración simplificada por falta de datos (artículo 166 del CAU).
+
+X Declaración complementaria de declaración simplificada tipo B.
+
+Y Declaración complementaria de declaración simplificada tipo C.
+
+Z Declaración complementaria en el contexto de un procedimiento simplificado de inscripción en los registros (artículos 166 y 182 del CAU).
+
+Subcasilla 3.
+
+Se cumplimentará, en su caso, con la clave:
+
+| T2L | cuando la declaración de exportación incluya la solicitud de expedición de un T2L para justificar, en destino, el estatuto comunitario de las mercancías (intercambios con Andorra). |
+|---|---|
+| T2LF | cuando la declaración de expedición incluya la solicitud de emisión de un T2LF para justificar el estatuto comunitario de la mercancía en los intercambios entre partes del territorio aduanero de la Unión cuando una de ellas esté excluida del territorio de aplicación de la directiva 2006/112/CE. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image52.png)
+
+Indicador de circunstancias específicas.
+
+El declarante debe indicar, mediante un código, si se acoge a una declaración resumida de datos de seguridad por tratarse de una de las operaciones siguientes:
+
+| A | Envío postal o urgente. |
+|---|---|
+| E | Operador Económico Autorizado. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image53.png)
+
+Se consignará el nombre o razón social y la dirección completa del exportador o expedidor incluyendo su domicilio social.
+
+Debe tenerse en cuenta la definición de «exportador» incluida en el apartado 3.1.2 de esta Resolución. Si el poder de disposición de la mercancía pertenece a una persona no establecida en el Territorio Aduanero de la Unión (TAU), las partes afectadas por el acuerdo comercial deberán designar a la persona establecida que debe figurar como exportador. En este sentido podría ser un transportista o representante aduanero o cualquier parte que cumpla los requisitos para ser exportador y acepte asumir este papel. En la casilla 44 deberá incluirse el NIF de la persona que ha realizado la entrega exenta de IVA con el código de documento 5019 (Ver Apéndice XV).
+
+A continuación de «N.º», deberá declararse el número EORI (Censo Europeo de Operadores Económicos) de identificación a efectos aduaneros (sin perjuicio de la obligación que establece la disposición adicional sexta de la Ley 58/2003, de 17 de diciembre, General Tributaria, referente al NIF).
+
+Se excluye de la obligación de consignar un número EORI, las declaraciones que tengan como exportador una persona física o asociación que no actúe como operador económico de acuerdo a lo previsto en el artículo 9.3 del CAU. En estos supuestos deberá incluirse el NIF o el pasaporte previamente registrado en la aduana y, a continuación, separado del anterior, la letra «P» Estas declaraciones deberán ser presentadas utilizando la modalidad de representación indirecta.
+
+Los operadores no establecidos en el territorio de la Unión que quieran presentar una declaración en aduana deberán asimismo registrarse y obtener un número EORI salvo en los supuestos previstos en el artículo 5.1 del RDCAU.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image54.png)
+
+Se indicará el número total de partidas de orden declaradas por el interesado en el conjunto de formularios que componen el documento. Normalmente, coincidirá con el total de casillas n.º 31 utilizadas, salvo que, por necesidad de espacio, hubiera de utilizarse dos o más casillas 31 para identificar una misma mercancía.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image55.png)
+
+Se indicará el número total de bultos, considerando como tales las unidades físicas aisladas, incluido el «pallet». En caso de granel esta casilla no se cubrirá.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image56.png)
+
+Podrá indicarse la referencia asignada en el plano comercial al envío. Se recomienda la utilización del formato de «número de referencia único» (RUE) de acuerdo con la Recomendación del Consejo de Cooperación Aduanera relativa al número de referencia único para los envíos para fines aduaneros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image57.png)
+
+Se consignará el nombre o razón social y la dirección completa de la persona a la que va destinada la mercancía.
+
+Se podrá autorizar en aquellos supuestos en que se desconozca el destinatario de la mercancía por no coincidir éste con la persona a la que factura el exportador, a cumplimentar la casilla con los datos correspondientes al destinatario de dicha factura.
+
+A continuación de «N.º» deberá incluirse el NIF del destinatario de la mercancía cuando se trate de operaciones entre distintas partes del territorio nacional.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image58.png)
+
+Esta casilla tiene una triple función:
+
+1\. Nombre del declarante y n.º:
+
+a) Cuando el declarante sea el mismo que el expedidor/exportador (casilla 2), se consignará la palabra «expedidor». En «N.º» se colocará el mismo NIF/EORI de la casilla 2.
+
+b) Cuando se efectúe el despacho con intervención de un representante aduanero se consignará su nombre y apellidos o razón social y, en «N.º», su EORI.
+
+2\. Forma de representación (ver Resolución de este Departamento de 12 de julio de 2000, BOE 3-8-2000). Deberá incluirse, entre corchetes, uno de los códigos siguientes:
+
+| 1 | Cuando sea el propio exportador. |
+|---|---|
+| 2 | Cuando la representación sea directa, es decir, si el representante actúa en nombre y por cuenta de su comitente. |
+| 3 | Cuando la representación sea indirecta, es decir, si el representante actúa en nombre propio y por cuenta de su comitente. |
+| 4 | (Únicamente para Canarias). Cuando sea de aplicación el caso señalado en la letra d), apartado E) de las Instrucciones Preliminares. |
+| 5 | (Únicamente para Canarias). Cuando la representación sea directa ante la Agencia Tributaria e indirecta ante la Administración Tributaria Canaria. |
+
+3\. Autorización de despacho.
+
+Cuando la declaración sea presentada por un representante, éste deberá estar autorizado por la persona por cuya cuenta presenta la declaración. La presentación de la declaración por un representante implicará la aceptación por parte de éste del apoderamiento otorgado en los términos contenidos en el mismo.
+
+La autorización de despacho puede ser:
+
+‒ Global que deberá estar previamente registrada en la Aduana y será comprobada de forma automática para admitir la declaración.
+
+‒ Para una operación concreta. En este caso se indicará en esta casilla la clave «O». Esta autorización deberá acompañar a la declaración e indicarse en la casilla 44 excepto cuando esté registrada en la Aduana.
+
+En el ámbito de la VEXCAN, las autorizaciones globales deberán estar previamente registradas en la Aduana y por la Administración Tributaria Canaria.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image59.png)
+
+Deberá indicarse de que forma se va a realizar el pago del transporte.
+
+| A | Pago en metálico. |
+|---|---|
+| B | Pago mediante tarjeta de crédito. |
+| C | Pago por cheque. |
+| D | Otros (por ejemplo, cargo directo en cuenta corriente). |
+| H | Transferencia electrónica. |
+| Y | Pago mediante cuenta con el transportista. |
+| Z | Costes no prepagados. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image60.png)
+
+Deberán identificarse, en orden cronológico, los países por donde vayan a pasar las mercancías entre el país de exportación y de destino final, sin incluir éstos. Esta información deberá figurar cuando sea conocida.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image61.png)
+
+Subcasilla a).
+
+Se indicará el código correspondiente al Estado miembro de exportación real según la codificación del Anexo II. En el caso de España se utilizará el código correspondiente al territorio de que se trate.
+
+Se entenderá como:
+
+Estado miembro de exportación: el Estado miembro donde se realizan los trámites de exportación; y
+
+Estado miembro de exportación real: aquel, distinto o no del Estado donde se están realizando los trámites de exportación (Estado miembro de exportación), desde el que se han enviado previamente las mercancías para su exportación, siempre y cuando el exportador no esté establecido en el Estado miembro de exportación.
+
+Cuando las mercancías no se hayan enviado previamente desde otro Estado miembro para su exportación, el Estado miembro de exportación real será el mismo que el Estado miembro de exportación. (Ver art. 791 del Reglamento (CEE) n.º 2454/1993 y artículo 5 del Reglamento (CE) n.º 471/2009 del Parlamento Europeo y del Consejo de 6 de mayo de 2009 sobre estadísticas comunitarias relativas al comercio exterior con terceros países.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image62.png)
+
+Subcasilla a).
+
+Se hará constar el código del país de destino final, o en su caso, el correspondiente a la Península, Baleares y Canarias o Ceuta y Melilla según la codificación del anexo II y del anexo III.
+
+En los supuestos de ventas directas en alta mar de pesca nacional, el país de destino viene determinado por la nacionalidad de la persona física o jurídica que asume la explotación comercial del buque al que se transborda la mercancía o, en su defecto, por la bandera de éste.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image63.png)
+
+**(Suprimida)**
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image64.png)
+
+Se indicará si, en el momento de cruzar la frontera exterior de la Unión Europea, la mercancía será transportada o no en contenedores, con arreglo a las siguientes claves:
+
+| 0 | Mercancías NO transportadas en contenedores. |
+|---|---|
+| 1 | Mercancías SI transportadas en contenedores. |
+
+En los supuestos de expedición de mercancía, se consignará la misma información, pero referida al momento de salida en la Península y Baleares o de las Islas Canarias. En las exportaciones en Ceuta y Melilla dicha información vendrá referida a la salida en estas localidades.
+
+En el tráfico ro-ro, tendrá la consideración de contenedor cualquier otra unidad de carga intermodal (UTI/UCI) como remolques, semirremolques o camiones.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image65.png)
+
+Subcasilla 1.
+
+Se indicará el código Incoterms que determina las condiciones de entrega según la columna «Código» del Anexo V.
+
+Subcasilla 2.
+
+Se precisará el punto geográfico a que se refiere el código anterior, según la columna «Lugar que se debe precisar» del Anexo V.
+
+Subcasilla 3.
+
+Se indicará uno de los códigos siguientes:
+
+| 1 | Lugar situado en el territorio español. |
+|---|---|
+| 2 | Lugar situado en otro Estado miembro. |
+| 3 | Otros (lugar situado fuera de la Comunidad). |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image66.png)
+
+Subcasilla 1.ª
+
+El tipo de medio de transporte empleado (camión, barco, avión, vagón) y su identidad (matrícula, nombre, etc.) en el momento de cruzar la frontera exterior de la UE o, en caso de envíos intracomunitarios y en las exportaciones de Ceuta y Melilla, en el momento en que se formaliza la exportación. Cuando la mercancía sea transportada en varios medios a la vez, se considerará el propulsor (camión sobre barco, será el barco; tractor con remolque, será el tractor, etc.).
+
+| Medio transporte | Método de identificación |
+|---|---|
+| Transporte por mar. | Nombre del buque. |
+| Transporte aéreo. | Número y fecha del vuelo, o en su defecto, matrícula de la aeronave. |
+| Transporte por carretera. | Matrícula del vehículo, en su caso, de la cabeza tractora del remolque. |
+| Transporte ferroviario. | Número del vagón. |
+
+Subcasilla 2.
+
+Se pondrá la clave del país donde esté matriculado el medio de transporte (Anexo II). No deberá incluirse en los supuestos de:
+
+‒ envíos postales,
+
+‒ transporte por ferrocarril o
+
+‒ transporte por instalaciones fijas.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image67.png)
+
+Subcasilla 1.
+
+Se consignará la clave de la divisa que figura en la factura comercial (Anexo VI).
+
+Subcasilla 2.
+
+Se indicará el importe total que figura en la factura comercial, o no comercial (proforma, a efectos estadísticos, etc.), aunque no hubiera movimiento de divisas.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image68.png)
+
+Se recuerda, a efectos del cálculo del valor en aduana de la mercancía, que la normativa sobre el tipo de cambio aplicable es la contenida en el Reglamento (CEE) n.º 2454/93, de 2 de julio de 1993.
+
+En los DUAs complementarios se aplicará el tipo de cambio correspondiente a la fecha de la declaración inicial. En los DUAs recapitulativos se aplicará el tipo de cambio de la fecha de recapitulación y si hubiera habido una modificación del tipo de cambio durante el periodo de que se trate, deberá dividirse el periodo de recapitulación.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image69.png)
+
+Se indicará el código correspondiente, formado por dos dígitos, el segundo de los cuales desarrolla la información aportada por el primero, según las opciones que figuran en las columnas A (1.º dígito) y B (2.º dígito) del Anexo XII.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image70.png)
+
+Se indicará la modalidad correspondiente al medio de transporte activo en el que las mercancías han de abandonar el territorio aduanero de la Unión, o, en el caso de envíos intracomunitarios, del Estado miembro o área de que se trate, según los siguientes códigos.
+
+| 1 | Transporte marítimo. |
+|---|---|
+| 2 | Transporte por ferrocarril. |
+| 3 | Transporte por carretera. |
+| 4 | Transporte aéreo. |
+| 5 | Envíos Postales. |
+| 7 | Instalaciones de transportes fijas. |
+| 8 | Transporte por navegación interior. |
+| 9 | Propulsión propia. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image71.png)
+
+Sólo se rellenará esta casilla en el caso de que las formalidades de exportación no se efectúen en el punto de salida de la Unión Europea.
+
+Deberá declararse la modalidad correspondiente al medio de transporte utilizado en el momento de la partida de la mercancía, mediante los códigos previstos en la casilla 25.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image72.png)
+
+Se indicará la Aduana por la que se prevé la salida del territorio aduanero de la Unión Europea de la forma siguiente: clave alfabética del Estado miembro de que se trate y el código numérico de 6 dígitos correspondiente a la Aduana según la codificación establecida para las declaraciones de tránsito.
+
+Para determinar cuál es la Aduana de salida se estará a lo dispuesto en el artículo 793.2, 793 ter y 313.2 del Reglamento (CEE) n.º 2454/93, de 2 de julio de 1993. En particular se tendrá en cuenta:
+
+a) En el caso de operaciones contempladas en el apartado 2 letra b del artículo 793 (contrato de transporte único), se entenderá que la opción del operador de acogerse a una aduana distinta a la de salida efectiva vendrá determinada por lo declarado en esta casilla.
+
+b) En aquellos casos que la mercancía se embarque en un servicio no regular, la aduana correspondiente donde se produzca dicho embarque aunque esté prevista su descarga en un puerto comunitario.
+
+c) En el caso de declaraciones de exportación para las que se presente además una declaración de tránsito, se entenderá que la aduana de partida del tránsito es la aduana de salida de la exportación y por tanto será la que debe figurar en esta casilla. La mercancía no podrá circular al mismo tiempo con un DAE y un DAT, salvo la mercancía sujeta a Impuestos Especiales.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image73.png)
+
+Se precisará el lugar en que se encuentran situadas las mercancías mediante la codificación establecida para ello en cada Aduana.
+
+En el ámbito de la VEXCAN, se utilizará la codificación establecida conjuntamente por la Autoridad Aduanera y la Administración Tributaria Canaria que incluirá a los depósitos derivados del Régimen Económico y Fiscal de Canarias (en adelante, REF).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image74.png)
+
+Se indicará en esta casilla:
+
+‒ Número de bultos, refiriéndose a los de la partida de orden. En mercancías sin envasar se expresará el número de éstas. Si se trata de un granel, únicamente deberá incluirse la clave correspondiente al tipo de granel.
+
+En caso de que un mismo bulto comprenda mercancías de dos o más partidas de orden, deberá hacerse constar los datos del mismo en la primera partida referida a ese bulto, permitiéndose en las siguientes declarar o bultos.
+
+La suma de los bultos declarados en las partidas debe coincidir con lo declarado en la casilla n.º 6.
+
+‒ Clase: deberá indicarse la clave correspondiente al tipo de bultos (ver Anexo XIII).
+
+‒ Marcas y numeración, refiriéndose a las ostentadas exteriormente por los bultos, incluyéndose también las marcas de identificación de los contenedores, remolques o cualquier vehículo en el que las mercancías se encuentren directamente cargadas.
+
+‒ Descripción, entendiéndose como tal la denominación de mercancías, en términos suficientemente claros para su identificación y clasificación arancelaria a nivel de subpartida TARIC, y en su caso, del código adicional.
+
+‒ Unidades, se indicará la cantidad de la mercancía en el tipo de unidad de medida, así como la clave de ésta, que esté fijada en la normativa aplicable o en el procedimiento autorizado, cuando ésta no esté reflejada en otra casilla de la declaración. Por ejemplo:
+
+• para la aplicación del régimen especial de abastecimiento de Canarias.
+
+• exportación de mercancía en depósito, cuyo control se realice por la unidad declarada por el operador; etc.
+
+‒ N.º de chasis, cuando se trate de vehículos (el tipo de bulto deberá ser «FR») deberá declararse el número de chasis, marca y modelo del vehículo.
+
+‒ Datos necesarios:
+
+• Para la aplicación de las disposiciones que regulan el régimen aduanero solicitado.
+
+• Para la exportación de productos acogidos a restitución (ver Apéndice l).
+
+• Para la exportación de productos previamente acogidos al REA (Reglamento (CE) n.º 1454/2001).
+
+• Para la aplicación de la normativa el Impuesto sobre el Valor Añadido.
+
+• Para la aplicación de la normativa de Impuestos Especiales (Ver Apéndice II).
+
+• Para la aplicación de la normativa del Impuesto sobre Las labores del Tabaco aplicable en Canarias (ver Apéndice XIV).
+
+Cuando por necesidades del cumplimiento de esta casilla fuera insuficiente el espacio, se utilizarán solo a este efecto los formularios complementarios que fueran necesarios (ver apartado 3.3.).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image75.png)
+
+Se indicará el número de orden de la partida. Cuando la declaración tuviera una sola partida, así expresada en la casilla 5, se dejará en blanco.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image76.png)
+
+A. Codificación general.
+
+Subcasilla 1.
+
+Se indicarán, sin separación de puntos, las ocho primeras cifras del código TARIC correspondiente.
+
+Subcasilla 2.
+
+No se cubrirá.
+
+Subcasilla 3.
+
+Indicar el código adicional TARIC si lo hubiera.
+
+Subcasilla 4.
+
+Indicar, en su caso, el 2.º código adicional TARIC.
+
+Subcasilla 5.
+
+Indicar, en su caso, el código estadístico nacional autorizado por el Departamento de Aduanas e Impuestos Especiales de acuerdo a lo establecido en la Orden EHA/487/2007, de 28 de febrero.
+
+B. Codificación especial.
+
+Se trata de códigos estadísticos especiales para registrar supuestos de puntualización especial, expresamente determinados en la normativa estadística comunitaria y que están recogidos en el Anexo VIII.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image77.png)
+
+Subcasilla a).
+
+Será obligatoria en caso de productos agrícolas acogidos a restitución y en aquellas otras operaciones en las que la normativa comunitaria exija conocer el origen (por ejemplo, en el caso de las expediciones de mercancías desde Canarias al resto del territorio de la UE). En el resto de los supuestos será opcional su declaración por parte del operador. Se indicará el país de origen de la mercancía de acuerdo con los códigos previstos en los Anexos II y III.
+
+Subcasilla b).
+
+Se expresará, siempre que la clave consignada en la casilla 15 a) sea ES, el código de la provincia española donde la mercancía hubiera sido recolectada, extraída, producida, fabricada, o, en su defecto, preparada para su exportación, según la codificación del Anexo IV-A.
+
+En el ámbito de la VEXCAN, el código de la provincia será sustituido por el de la isla canaria (Anexo IV-B) y únicamente se incluirá cuando el país declarado en la casilla 34 a) sea España.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image78.png)
+
+Se indicará en kilogramos el peso bruto de las mercancías correspondientes a la partida, incluyendo los envases y pallets, pero excluyendo el material de transporte y los contenedores.
+
+En caso de conocerse el peso total del embalaje de la expedición pero, no el de cada partida, habrá de repartirse éste entre todas ellas, proporcionalmente a la masa neta.
+
+Sólo se admitirán decimales cuando la masa bruta fuera inferior a un Kg, en cuyo caso se admitirán hasta 3 decimales.
+
+Para cantidades superiores a 1 Kg., cuando sea necesario redondear, se hará de la forma siguiente:
+
+– de 0,001 a 0,499 = se redondeará a la unidad inferior.
+
+– de 0,5 a 0,999 = se redondeará a la unidad superior.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image80.png)
+
+Subcasilla 1.ª
+
+En ella se indicará el régimen aduanero que debe aplicarse a la mercancía declarada. Este régimen se expresará mediante un código de 4 dígitos resultante de la combinación de dos códigos que corresponden:
+
+Primer código. Corresponde al régimen solicitado para la mercancía en el momento de presentarse la declaración aduanera. Si para un mismo envío deben declararse regímenes diferentes, podrán declararse en partidas distintas de la misma declaración, por ejemplo, el envase que contiene el producto que se exporta definitivamente esté en régimen de importación temporal. En otro caso, no deben declararse en un mismo DUA vinculaciones a regímenes económicos o reexportaciones junto con despachos de exportación definitiva.
+
+Segundo código. Corresponde al régimen precedente, es decir, al régimen aduanero bajo el cual las mercancías hubieran estado situadas en el territorio aduanero de la CE con anterioridad al régimen solicitado.
+
+En caso de existir dos regímenes precedentes, tendrá prioridad el código correspondiente a un régimen aduanero económico como perfeccionamiento activo, perfeccionamiento pasivo, o transformación bajo control aduanero al código correspondiente a un régimen de depósito, o de admisión temporal, o de procedencia de una Zona o Depósito Franco.
+
+Por ejemplo:
+
+Reexportación de mercancías importadas en el marco de un régimen aduanero de perfeccionamiento activo (sistema suspensivo) y a continuación incluidas en el régimen de depósito aduanero:
+
+‒ 1.ª operación: inclusión en régimen de perfeccionamiento activo 51.00.
+
+‒ 2.ª operación: introducción en el depósito aduanero del producto transformado = 71.51.
+
+‒ 3.ª operación: reexportación del producto transformado = 31.51 (y n.º 3171).
+
+A continuación se incluyen los regímenes que pueden declararse siguiendo las instrucciones de éste apartado de la Resolución del DUA y los regímenes precedentes más habituales, incluyéndose la lista completa en el Anexo XIV-A.
+
+A) Régimen solicitado, códigos posibles:
+
+| 10 | Despacho de expedición/exportación definitiva. |
+|---|---|
+|  | Este código incluye las operaciones de avituallamiento y equipamiento con mercancía comunitaria. |
+| 11 | Exportación de productos compensadores régimen de perfeccionamiento activo modalidad de exportación anticipada. |
+| 21 | Exportación temporal en el marco del régimen de perfeccionamiento pasivo |
+| 22 | Exportación temporal distinta de la contemplada en el código anterior. Por ejemplo, el perfeccionamiento pasivo económico para productos textiles (Reglamento (CE) n.º 3036/94 del Consejo). |
+| 23 | Exportación temporal con vistas a una reintroducción posterior sin transformar. |
+| 31 | Reexportación de mercancía previamente vinculada a un régimen económico. |
+|  | Avituallamiento con mercancía no comunitaria. |
+
+Nota: la declaración de una reexportación de mercancía previamente vinculada al régimen de depósito aduanero debe realizarse siguiendo las instrucciones del apartado 3.6 de esta Resolución.
+
+B) Régimen precedente, regímenes más habituales
+
+| 02 | Despacho a libre práctica en RPA (sistema reintegro) de mercancía en régimen suspensivo de Impuestos Especiales. |
+|---|---|
+| 07 | Despacho a libre práctica e inclusión simultánea en un régimen de depósito distinto del aduanero o en un depósito REF (Canarias) |
+| 21 | Exportación temporal, en el marco del régimen aduanero de perfeccionamiento pasivo. |
+| 22 | Exportación temporal, amparada en el régimen fiscal de exportación temporal con transformación. |
+| 23 | Exportación temporal, para posterior reimportación en su mismo estado. |
+| 41 | Inclusión en el régimen de perfeccionamiento activo, sistema reintegro. |
+| 48 | Despacho a consumo con despacho a libre práctica simultáneo de productos de sustitución en el marco del régimen de perfeccionamiento pasivo. |
+| 49 | Inclusión en régimen de depósito REF de mercancía comunitaria. |
+| 51 | Inclusión en el régimen de perfeccionamiento activo. |
+| 53 | Inclusión en el régimen de importación temporal. |
+| 54 | Vinculación al régimen de perfeccionamiento activo en otro Estado miembro. |
+| 73 | Inclusión en el régimen fiscal de depósito distinto del aduanero o mercancía en depósito REF. |
+|  | Nota: esta clave es nacional y únicamente debe utilizarse en aduanas nacionales. |
+| 76 | Vinculación de mercancía agrícola comunitaria al régimen de depósito aduanero (Reglamento (CE) n.º 1741/2006). |
+| 78 | Mercancía en zona franca. |
+| 91 | Transformación bajo control aduanero. |
+| 95 | Inclusión en depósito distinto del aduanero o en depósito REF. |
+| 00 | En los restante supuestos, haya o no régimen aduanero precedente. |
+
+Segunda Subcasilla.
+
+Consiste en una codificación, formada por tres caracteres alfanuméricos con información adicional al régimen aduanero. La codificación y su descripción se encuentra en el Anexo XIV-B.
+
+Nota: En el supuesto de que fuera necesario declarar además de un código comunitario uno nacional, en el impreso se consignará este segundo en el recuadro inferior de la casilla 44.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image81.png)
+
+Se indicará en kilogramos, con posibilidad de tres decimales, el peso neto de las mercancías correspondientes a la partida, sin incluir en ningún caso los envases o pallets.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image82.png)
+
+Deberá indicarse:
+
+a) la declaración inicial, si se trata de una declaración complementaria al amparo de un procedimiento simplificado;
+
+b) el documento precedente cuando la mercancía estuviera vinculada a un régimen aduanero anterior;
+
+c) el DUA de importación si se hubiera acogido a las suspensiones arancelarias previstas en el Reglamento (UE) n.º 1386/2011 o 645/2008 (medidas específicas arancelarias, MEA);
+
+d) el DUA de importación si se hubiera acogido a los beneficios previstos en los artículos 13.3, 13.4, 13.5 y 15 del Reglamento de Ejecución (UE) n.º 180/2014 (Régimen Específico de Abastecimiento de Canarias, REA). En el caso de acogerse a lo establecido en el artículo 13.6 del citado Reglamento, esta casilla será opcional;
+
+e) el e-DA cuando se trate de productos objeto de los Impuestos Especiales en régimen suspensivo.
+
+Se identificará dicho documento mediante una codificación compuesta de tres elementos:
+
+1.º Según el tipo de documento:
+
+| Y | Declaración inicial. |
+|---|---|
+| Z | Declaración de un régimen precedente o de la declaración de importación. |
+
+2.º Según la clase de documento:
+
+a) Declaraciones iniciales:
+
+| CLE | Domiciliación: inscripción en la contabilidad de existencias, únicamente en los casos del art. 285 bis. 1, bis DACA. |
+|---|---|
+
+b) Declaración de régimen precedente o importación:
+
+| DUA | Declaración de importación o introducción. |
+|---|---|
+| DUE | Declaración de exportación o expedición. |
+| DVD | DUA de vinculación a depósito. |
+| IDA | Declaración de vinculación a depósito. |
+| TRS | Declaración de transferencia. |
+| RUN | Declaración de reconversión de unidades. |
+| AAD | Documento Administrativo Electrónico. |
+
+3.º La identificación del documento:
+
+a) Declaraciones iniciales: la fecha de la operación o la fecha fin del periodo al que se refiera cuando la declaración sea recapitulativa.
+
+b) Declaraciones de un régimen precedente: la numeración tendrá una de las estructuras siguientes:
+
+b.1) AACCRRRRRRNNNNNNNDPPP
+
+formato MRN y partida [últimos dos dígitos del año (2), código del país (2) número, recinto (6), número de la declaración (7), partida de orden (3)].
+
+b.2) RRRRAAAANNNNNNPPP
+
+[número, recinto (4), año (4), número de la declaración (6), partida de orden (3) (numeración de declaraciones de vinculación a depósito preCAU)].
+
+b.3) Declaraciones de otros Estados miembros que no sea un MRN: código del país donde fue numerado y número de registro que podrán ser alfanumérico.
+
+c) Documento Administrativo Electrónico:
+
+AACCNNNNNNNNNNNNNNNNDPPP (Los 21 primeros caracteres son el «ARC» ‒compuesto por los dos últimos dígitos del año en curso, por los dos dígitos del código ISO del país, por los dieciséis dígitos del número del documento y por un dígito de control‒, y los 3 últimos dígitos se corresponden con la partida de orden).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image83.png)
+
+Será de obligado cumplimiento esta casilla, cuando la partida arancelaria que se expresó en la casilla 33, figure en el TARIC con código en la columna de unidades suplementarias. Se configurará con la cantidad del artículo referido a su unidad, admitiéndose hasta tres decimales y, seguidamente, el código de dicha unidad. La explicación de cada código se encuentra en el Anexo IX.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image84.png)
+
+Se indicarán las menciones requeridas por las normativas específicas de aplicación, distintas de las citadas en las instrucciones de la casilla 31 y se identificarán los documentos que se adjuntan a la declaración. Tanto las indicaciones como los documentos están codificados como se explica a continuación:
+
+a) Las indicaciones o literales especiales previstos en la normativa comunitaria para los que están previstos códigos de 5 caracteres, (ver Anexo XV-A). La impresión en el DAE se hará en la subcasilla 44/2.
+
+b) Los documentos que se aporten al despacho (factura, certificado de origen, certificados de inspección, licencias, etc.), deben declararse:
+
+‒ Mediante un código correspondiente al tipo de documento. Se trata de códigos de cuatro caracteres que comenzarán con una letra cuando su origen sea comunitario y con un número cuando sea nacional. Pueden consultarse en la base de datos del TARIC. El Anexo XV-B incluye una relación actualizada a la fecha de firma de esta Resolución.
+
+‒ Identificando el documento en sí, indicando la clave del país donde ha sido expedido, su número y fecha de expedición, salvo que se den otras normas específicas (por ejemplo, para los certificados identificados mediante NRC).
+
+Se imprimirán en el DAE en la subcasilla 44/1.
+
+c) Otras indicaciones necesarias para completar la información aportada por los datos expresados en otras casillas y cuya codificación estará incluida en la misma tabla que los documentos. Cabe destacar las siguientes:
+
+‒ Cuando se trate de una aduana marítima, deberá declararse el número del manifiesto de carga en el que está previsto que salga la mercancía.
+
+‒ En el supuesto de acogerse a algún beneficio especial, se indicará la disposición legal en que se basan.
+
+‒ Cuando se trate de la exportación de un producto que se hubiera acogido al régimen específico de abastecimiento de Canarias o hubiera podido acogerse, se tendrá en cuenta lo previsto en el Apéndice X.
+
+– En los supuestos de “ventas sucesivas o en cadena” (artículo 21.1 y 21.2 de la Ley del IVA) o, en caso de servicios exentos del artículo 21.3.º de la Ley del IVA (LIVA), ver las instrucciones del Apéndice XV.
+
+‒ En las declaraciones referidas a operaciones en las que intervenga un OEA, deberá incluirse el código que corresponda según su participación en la operación y el número completo de autorización:
+
+| Y022 | Si el OEA es el exportador/expedidor. |
+|---|---|
+| Y023 | Si el OEA es el destinatario. |
+| Y024 | Si el OEA es el declarante. |
+| Y025 | Si el OEA es el representante. |
+| Y026 | Si el OEA es el obligado principal. |
+| Y027 | Si el OEA es el depositario de la mercancía. |
+| Y028 | Si el OEA fuera el transportista. |
+| Y029 | Otro operador económico autorizado. |
+| Y031 | N.º europeo del Destinatario OEA japonés. |
+
+Si el operador autorizado desempeña distintas funciones en la transacción de que se trate, podrá indicar los diferentes códigos correspondientes a las diversas funciones desempeñadas. Por ejemplo, si es el representante y el titular del ADT donde se encuentra la mercancía, pondrá los códigos Y025 e Y027.
+
+‒ Si la mercancía se encontrara en el momento de presentar la declaración de exportación en un Local Autorizado de Exportación (LAME) deberá indicarse el número de certificado de recepción, código 1217.
+
+‒ Cuando se trate de exportaciones de productos precursores sujetas a una autorización administrativa (código de documento X035) se incluirá el número de dicha autorización comenzando con el código ISO del país autorizante y, si se trata de una autorización española dicho número deberá declararse con el formato ESLLL/NNNNN/AA (Ver Anexo XV-C).
+
+‒ En el caso de exportaciones realizadas por personas o entidades obligadas a inscribirse en el Registro de Fabricantes, Titulares de depósitos y operadores del Impuesto, deberá consignarse el número de registro.
+
+– Cuando se presente una declaración de medios de pago deberá referenciarse la “Declaración de medios de pago no acompañado” (código de documento 1032) y el NRC correspondiente.
+
+c) En el ámbito de la VEXCAN: los documentos, indicaciones, etc., exigidas por la Administración Tributaria Canaria será codificadas mediante códigos de 4 dígitos que deberán comenzar por un «8».
+
+Código de mercancía peligrosa (UNDG 44/4).
+
+Deberá indicarse, en su caso, el código de mercancía peligrosa utilizando el número ONU de 4 dígitos.
+
+Subcasilla COD.I.E. (Indicaciones especiales). No se cubrirá.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image85.png)
+
+El valor estadístico se basará en el valor de las mercancías en el momento y en el lugar en que crucen la frontera española, o en caso de intercambios nacionales, en el momento de la salida de la parte del territorio nacional desde el que se expidan.
+
+El valor estadístico de la mercancía será:
+
+a) En caso de compra-venta, el precio realmente pagado o pagadero por las mercancías exportadas, excluyendo los valores arbitrarios o ficticios;
+
+b) En el resto de los casos, el precio que se habría pagado en caso de compra-venta.
+
+En los supuestos en que exista una autorización de simplificación del valor al amparo del artículo 73 del CAU, se tomará el valor autorizado como el de compra-venta.
+
+En el caso de mercancías sometidas a operaciones de perfeccionamiento:
+
+a) Cuando las mercancías se exporten con vistas a su perfeccionamiento, se deberá declarar su correspondiente valor estadístico.
+
+b) Cuando las mercancías se reexporten después del perfeccionamiento, el valor estadístico deberá incluir el valor de las mercancías en el momento en que se importaron inicialmente y el valor añadido correspondiente a la operación de perfeccionamiento.
+
+Para el cálculo del valor estadístico se tomará el valor de las mercancías incluyendo los gastos de transporte y seguro correspondientes únicamente al trayecto comprendido entre el lugar del inicio del transporte y la frontera española (valor FOB).
+
+El valor estadístico se expresará en euros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image86.png)
+
+Se rellenará en aquellos casos en que la mercancía esté sujeta a derechos de exportación. En este caso se consignará el cálculo de los conceptos impositivos de que se trate, siguiendo las instrucciones de la casilla 47 del apartado 2.2.2 del Capítulo 2.º, de la presente Resolución.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image88.png)
+
+En el caso de ser necesaria la presentación de una garantía, se identificara ésta, en la casilla presente, mediante su número de registro (ver casilla B del apartado 2.2.2 de esta Resolución).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image89.png)
+
+Cuando se trate de exportaciones con salida indirecta por otro Estado miembro, se podrá indicar en esta casilla el nombre y dirección de un intermediario establecido en la circunscripción de la aduana de salida al que ésta devolverá el ejemplar n.º 3 visado. En estos supuestos en la casilla 44 deberá haberse incluido la mención «RET-EXP» (código 30400).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image90.png)
+
+Es una casilla de uso exclusivo de la Aduana donde deberá dejarse clara constancia de:
+
+‒ La admisión del documento,
+
+‒ la fecha de admisión,
+
+‒ y la firma del funcionario.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image91.png)
+
+Además del lugar y la fecha, esta casilla deberá llevar la firma manuscrita del interesado, seguida de su nombre y N.I.F. En caso de ser el interesado una persona jurídica, el firmante deberá expresar su nombre, cargo y N.I.F (ver Capítulo 1.º, Instrucciones Preliminares, Apartado E).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image92.png)
+
+Esta casilla, al dorso del ejemplar n.º 1, servirá para hacer constar por la Aduana, el reconocimiento relativo a la expedición/exportación mediante la firma del funcionario y sello.
+
+3.3 Formularios complementarios del documento completo de exportación.
+
+**(Suprimido)**
+
+3.4 Declaración simplificada de exportación.
+
+El presente apartado se refiere a las declaraciones simplificadas de exportación presentadas acogiéndose al artículo 166 del CAU.
+
+Esta declaración simplificada podrá ser de uso ocasional o de uso habitual, estando en este último caso, sujeta a autorización. Los supuestos en los que se considera habitual y, en consecuencia, es necesaria autorización se señalan en este apartado.
+
+La declaración simplificada puede responder a que exista:
+
+a) Falta de datos, en cuyo caso se presentará la declaración simplificada y la complementaria contemplada en el apartado 3.4.1.
+
+b) Falta de documentos, en cuyo caso se presentará una declaración de acuerdo con lo previsto en el apartado 3.2.2 con las salvedades previstas en el apartado 3.4.2.
+
+c) Salidas/embarques realizadas mediante documento comercial para operaciones no sujetas declaración previa a la salida, en los supuestos previstos en el artículo 245 del RDCAU.
+
+El plazo para la presentación de la declaración complementaria es de 30 días cuando se trate de declaración simplificada de uso ocasional y el previsto en la autorización cuando se esté ante declaraciones simplificadas de uso habitual.
+
+3.4.1 Declaración simplificada por falta de datos.
+
+Deberá presentarse una declaración con tipo de procedimiento ‘‘C’’ (casilla 1.2). Este tipo de declaraciones simplificadas por falta de datos tiene siempre la consideración de habitual y requiere que el declarante disponga de la preceptiva autorización que deberá ser incluida en la declaración (código C512).
+
+Los datos de los que se puede no disponer son los identificados en las autorizaciones correspondientes.
+
+Deberá presentarse una declaración complementaria (código de procedimiento ‘‘Y’’), bien por cada declaración simplificada o bien recapitulando varias operaciones de exportación, con todos los datos indicados en el apartado 3.2.2 incluyendo en la casilla 44 la autorización y los Número de Registro de la Declaración Aduanera (MRN) de las declaraciones simplificadas que complementa (código de documento 1220).
+
+3.4.2 Declaración simplificada por falta de documentos.
+
+Deberá presentarse una declaración de exportación simplificada siguiendo las instrucciones del apartado 3.2.2 para su cumplimentación, teniendo en cuenta que:
+
+– La clave de procedimiento que debe indicarse en la casilla 1.2 es la ‘‘B’’.
+
+– En la segunda subcasilla del régimen (casilla 37.2) deberá incluirse el código correspondiente al documento que está pendiente de presentación:
+
+| Código | Descripción |
+|---|---|
+| 9VA | Pendiente presentación de factura definitiva, y justificación de la cantidad, en su caso. |
+| 9PV | Pendiente presentación de documentación relativa al peso de las mercancías o cantidad. |
+
+– Los datos consignados en las casillas 35 y 38 (pesos) y casillas 22 y 46 (valor) tendrán carácter provisional, según corresponda 9PV o 9VA respectivamente. Tales valores provisionales serán los que se deduzcan de los títulos de transporte o documentación comercial correspondiente.
+
+– En los supuestos de ultimación del régimen de DA o DDA, podrá dejarse en blanco la magnitud de control.
+
+– Podrá no incluirse la referencia del documento de acompañamiento de impuestos especiales (ARC) en la casilla 40 cuando se trate de productos objeto de Impuestos Especiales en los que se dé algún supuesto que habilite la presentación diferida del e-DA. No será necesario incluir ningún documento en la casilla 44 que se refiera al valor.
+
+Se presentará una declaración complementaria por cada declaración simplificada (identificando el MRN a tal efecto en la casilla 40) y utilizando el tipo de procedimiento ‘‘X’’ en la casilla 1.2.
+
+En esta declaración se consignará en la casilla 44 la factura definitiva o bien el documento acreditativo del pesaje, según corresponda.
+
+Podrá presentarse el DUA complementario con independencia del estado ECS en que se encuentre la declaración, excepto que haya sido anulada.
+
+3.4.3 Exportaciones realizadas mediante documento comercial.
+
+Se podrá utilizar este procedimiento para operaciones de avituallamiento y para las operaciones que se describen en los códigos de la casilla 37.2 que se incluyen en este apartado.
+
+Para ello el declarante deberá solicitar autorización de declaración simplificada de uso habitual.
+
+El documento autorizado como declaración simplificada deberá incluir como mínimo los datos siguientes:
+
+– descripción y cantidad de la mercancía,
+
+– código TARIC,
+
+– número, naturaleza y marca de los bultos,
+
+– país de destino de la mercancía,
+
+– número de autorización de este procedimiento simplificado,
+
+– y la mención: “Exportación simplificada”.
+
+La Aduana de exportación establecerá el procedimiento para el despacho.
+
+Dentro del plazo previsto en la autorización, deberá presentarse declaración recapitulativa de las operaciones realizadas durante el periodo de referencia. Esta declaración complementaria tendrá como tipo de procedimiento el código “Y” y deberá reseñarse en la casilla 44 los documentos de salida o embarque que hayan sido el soporte de la declaración inicial y el número de autorización. En la casilla 37.2 deberá indicarse el código siguiente:
+
+F61 operaciones de avituallamiento.
+
+143 exportaciones de Ceuta y Melilla en factura comercial.
+
+144 exportaciones a Andorra en factura comercial.
+
+146 venta a bordo pescado origen nacional.
+
+3.5 Declaración mediante inscripción en los registros del declarante.
+
+Podrá solicitarse autorización para el despacho de exportación mediante inscripción en los registros del declarante (EIR) para mercancías dispensadas de la obligación de una declaración previa a la salida de acuerdo a lo establecido en el artículo 245 del RDCAU. Entre los supuestos más habituales que pueden acogerse siempre que se cumplan los requisitos previstos en el artículo 182 del CAU:
+
+– Comercio electrónico de envíos con destino a particulares.
+
+– Avituallamiento a buques y aeronaves.
+
+– Tiendas libres de impuestos en puertos y aeropuertos.
+
+Esta simplificación solo se autorizará cuando la aduana de salida sea también nacional.
+
+El sistema de inscripción en los registros del declarante deberá contemplar la identificación del justificante de salida de la mercancía (título de transporte, billete y n.º de pasaporte del viajero, albarán de entrega con el recibí del capitán del buque, etc.).
+
+Las inscripciones realizadas durante el periodo que se determine en la autorización deberán ser incluidas en una declaración complementaria (tipo de procedimiento ‘‘Z’’) que deberá presentarse antes de finalizar los 10 días siguientes a la finalización del periodo salvo que en la autorización se especifique otro plazo.
+
+En el dato de régimen adicional (casilla 37.2) deberá incluirse el código:
+
+F61 Si se tratan operaciones de avituallamiento.
+
+141 Exportaciones y reexportaciones realizadas en las tiendas libres de impuestos.
+
+142 Exportaciones y reexportaciones de ventas a distancia a particulares (e-commerce).
+
+En este último caso, en la aduana de salida, el transportista deberá tener a disposición de la aduana una relación de los envíos que correspondan al título de transporte de salida del TAC de dicha mercancía y que debe incluir el número de autorización EIR.
+
+En la casilla 44 deberá incluirse la relación de los justificantes de salida (código de documento 1226) relacionados con el n.º de inscripción en el registro que complementa el DUA, así como el n.º de autorización EIR.
+
+3.6 Reexportación de mercancía previamente vinculada al régimen de depósito aduanero.
+
+Solo deberá cumplimentarse siguiendo estas instrucciones la reexportación de mercancía no comunitaria previamente vinculada al régimen de depósito aduanero y que no hubiera estado vinculada a otro régimen en territorio aduanero de la Unión.
+
+3.6.1 Instrucciones relativas a las diferentes casillas del documento.
+
+Serán obligatorias las casillas siguientes: A, 1.1, 1.2, 2, 3, 5, 6, 8, 14, 17 a), 19, 29, 30, 31, 32, 33, 35, 37, 40, 41, 44, 46, 49 y 54.
+
+Estas casillas deberán cumplimentarse siguiendo las instrucciones del apartado 3.2.2, excepto aquellas cuyo contenido se incluye a continuación:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image95.png)
+
+Subcasilla 1.ª
+
+| 31.71 | Reexportación de mercancías no comunitarias previamente vinculadas al régimen de depósito aduanero. |
+|---|---|
+
+Subcasilla 2.ª
+
+En su caso se incluirá una de las claves previstas en el Anexo XIV-B.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image96.png)
+
+Se indicará, el documento de vinculación al régimen de depósito mediante la codificación siguiente:
+
+1.º Según el tipo de documento:
+
+| Z | Declaración de un régimen precedente. |
+|---|---|
+
+2.º Según la clase de documento:
+
+| DUA | Declaración de importación o introducción. |
+|---|---|
+| DVD | DUA de vinculación a depósito. |
+| IDA | Declaración de vinculación a depósito. |
+| TRS | Declaración de transferencia. |
+| RUN | Declaración de reconversión de unidades. |
+
+> Se modifican los apartados 3.2.2 y 3.4.3 por el apartado primero.3 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifican los apartados 3.1.2, 3.2.2, 3.4 y 3.5 por el apartado primero.3 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifican los apartados 3.1.2, 3.2.1, 3.2.2, 3.4 y se suprime el 3.3 por el apartado primero.4 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifican los apartados 3.2.2 y 3.5 por el apartado primero.10 a 13 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## CAPÍTULO 4.º — Tránsito
+
+4.1 Preliminar.
+
+a) Las declaraciones de expedición de tránsito deberán presentarse vía EDI en la Aduana de partida, salvo en los casos expresamente contemplados en el artículo 353 del Reglamento (CEE) n.º 2454/93, que se incluyen a continuación:
+
+1.º Caída del sistema informático de la Aduana o del obligado principal, en cuyo caso se utilizará el procedimiento de emergencia («fallback»)
+
+2.º Mercancías transportadas por viajeros, en cuyo caso la Aduana admitirá la presentación en papel.
+
+b) La declaración de tránsito incluirá los datos de seguridad en los supuestos siguientes:
+
+1.º Cuando sustituya a la declaración sumaria de entrada (ENS):
+
+‒ según lo previsto en el artículo 36 1.º del Reglamento (CEE) n.º 2913/92 (Código de Aduanas). Esta posibilidad no está actualmente prevista en las declaraciones de tránsito que se inicien en una aduana española;
+
+‒ también podrá hacer las veces de (ENS) cuando esté previsto que la mercancía en tránsito salga del territorio aduanero de la UE y vuelva a entrar.
+
+2.º Cuando se trate de mercancía que vaya a salir del territorio aduanero de la UE, en los siguientes supuestos:
+
+‒ salidas de mercancía, a través de Suiza o Noruega, hacia un tercer país distinto de éstos;
+
+‒ cuando el tránsito se realice como continuación de una exportación aunque ésta ya haya incluido los datos de seguridad (por ejemplo, mercancía que circule con un cuaderno TIR o en tránsito común);
+
+‒ en los supuestos de mercancías no comunitarias que vayan a salir del territorio aduanero, aunque podrá optarse por realizar una declaración sumaria de salida en la Aduana de salida del territorio aduanero.
+
+Las salidas de mercancía hacia Suiza y Noruega no necesitan incluir datos de seguridad debido al acuerdo que han firmado al respeto con la UE.
+
+4.1.1 Composición del documento.
+
+a) El juego del formulario «Documento Único» se compone de los siguientes ejemplares:
+
+‒ Ejemplar n.º 1, para Aduana de expedición.
+
+‒ Ejemplar n.º 4, para la Aduana de destino.
+
+‒ Ejemplar n.º 5, se utilizará como tornaguía para su devolución al Estado miembro de expedición.
+
+b) Documento de Acompañamiento (NCTS - Nuevo sistema de tránsito informatizado).
+
+En los supuestos de operaciones de tránsito tramitadas por la Aduana de partida como operaciones NCTS, el ejemplar n.º 1 del DUA tendrá la consideración de solicitud de la operación de tránsito y el documento de acompañamiento impreso por la Aduana será el que acompañe la expedición hasta destino. Los ejemplares 4 a 9 del DUA, en este caso, no tendrán ningún uso.
+
+El documento de acompañamiento tiene dos modalidades:
+
+‒ DAT: no incluye los datos de seguridad. Si la declaración tuviera más de una partida deberá imprimirse una «lista de artículos».
+
+‒ DATS: con datos de seguridad, ya sea por que hace las veces de declaración sumaria de entrada (ENS) o que adiciona los datos de seguridad de salida (EXS). En este caso siempre será necesario imprimir la «lista de artículos de tránsito/seguridad».
+
+c) Empleo del documento como T2L o T2LF exclusivamente:
+
+‒ Ejemplar n.º 4 para la Aduana de destino.
+
+4.1.2 Definiciones.
+
+1\. «Tránsito»: Régimen aduanero bajo el que se colocan las mercancías para su transporte bajo control aduanero entre dos oficinas de Aduanas.
+
+2\. «Tránsito comunitario interno»: Régimen de tránsito aplicable a la circulación entre dos puntos del territorio aduanero de la CEE de mercancías comunitarias que:
+
+a) Atraviesen el territorio de uno o varios países de la AELC.
+
+b) Circulen hacia o desde una parte del territorio excluido del ámbito de aplicación de la Directiva 2006/112/CE o que circulen entre dos partes de dicho territorio excluidas de la misma.
+
+Se excluyen los movimientos vía terrestre por territorio nacional peninsular previos a la salida efectiva de las mercancías declaradas de exportación con destino a las Islas Canarias, cuando circulen al amparo de un título de transporte único aéreo. En estos supuestos se aplicará el procedimiento previsto en el artículo 793 bis punto 6 del Reglamento (CEE) n.º 2454/93.
+
+c) Una normativa comunitaria haya establecido expresamente dicho procedimiento.
+
+3\. «Tránsito comunitario externo»: Régimen de tránsito aplicable a la circulación entre dos puntos de la Unión Europea, de mercancías:
+
+a) que no cumplen los requisitos de los artículos 28 y 29 del Tratado de Funcionamiento de la Unión Europea; y
+
+b) aquellas que, cumpliendo las condiciones previstas en los artículos 28 y 29 del Tratado de Funcionamiento de la Unión Europea, han sido objeto de formalidades aduaneras de exportación:
+
+‒ para la concesión de restituciones a la exportación a terceros países en el marco de la política agrícola común,
+
+‒ estén sujetas a gravámenes a la exportación,
+
+‒ o, se trate de mercancías procedentes de existencias de intervención.
+
+4\. «Tránsito común»: Régimen de Tránsito aplicable a la circulación de mercancías entre la Unión Europea y las demás partes contratantes de los convenios de «tránsito común».
+
+5\. T2, T2F y documento de efecto equivalente, cuando cumplan las condiciones del Reglamento CEE n.º 2454/97 de la Comisión, por ejemplo: manifiesto aéreo (arts. 444 y 445), manifiesto marítimo (arts. 447 y 448), carta de porte CIM (arts. 414 y sig.) boletín de entrega TR (art. 429), etc.
+
+6\. Documento justificativo del carácter comunitario de la mercancía: documento T2L, T2LF o documento de efecto equivalente que cumpla los requisitos del Reglamento (CEE) n.º 2454/1993, por ejemplo: factura o documento de transporte (art. 31 7), carnet ATA y cuaderno TIR (art. 319), etc.
+
+7\. Operación NCTS (Nuevo sistema informatizado de tránsito) las operaciones de tránsito expedidas desde una Aduana conectada al nuevo sistema informático.
+
+8\. MRN: Número de registro del tránsito en el NCTS y el T2L electrónico. La estructura es la prevista en el Reglamento (CE) n.º 502/1999.
+
+4.2 Documento de tránsito.
+
+4.2.1 Operaciones que pueden formalizarse.
+
+1\. Operaciones de Tránsito comunitario externo.
+
+2\. Operaciones de Tránsito comunitario interno.
+
+3\. Operaciones de Tránsito común.
+
+4\. Operaciones de Tránsito entre Zonas/Depósitos francos.
+
+5\. Operaciones de Tránsito desde un recinto aduanero hasta Zonas/Depósitos francos y viceversa.
+
+6\. Operaciones de Tránsito entre recintos aduaneros.
+
+4.2.2 Instrucciones relativas a las distintas casillas del documento.
+
+Solamente se cubrirán las casillas propias del tránsito comunitario o común que serán las siguientes:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image97.png)
+
+Las subcasillas serán cumplimentadas de la manera siguiente:
+
+Subcasilla 1.
+
+No se cubrirá.
+
+Subcasilla 2.
+
+No se cubrirá.
+
+Subcasilla 3.
+
+Se consignará una de las siglas siguientes:
+
+| T1 | Mercancías no pertenecientes a la Unión que circulen al amparo de un procedimiento de tránsito externo de la Unión o tránsito externo común. |
+|---|---|
+| T2 | Mercancías pertenecientes a la Unión que circulen al amparo de un procedimiento de tránsito interno de la Unión o transito interno común. |
+| T | Envíos mixtos cubiertos por el artículo 294 del RECAU. |
+| T2F | Mercancías que circulen al amparo de un procedimiento de tránsito interno de la Unión hacia o desde una parte del territorio excluido del ámbito de aplicación de la Directiva 2006/112/CE o que circulen entre dos partes de dicho territorio excluidas de la misma. |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image98.png)
+
+Deberá indicarse el nombre o razón social y la dirección completa de la persona que se hace cargo de la expedición de la mercancía.
+
+A continuación de «N», deberá declararse el número comunitario de identificación a efectos aduaneros, EORI, (sin perjuicio de la obligación que establece la disposición adicional sexta de la Ley 58/2003, de 17 de diciembre, referente al NIF).
+
+En el supuesto de varios expedidores, se consignará obligatoriamente la identificación del expedidor en cada casilla 31 con el detalle anterior, incluyendo en esta casilla, si la declaración se presenta en papel, la expresión «Expedidores en partidas».
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image99.png)
+
+Se utilizará, únicamente, cuando el documento se componga de varios formularios (Ver Apartado 4.3). En este caso se conformará de la manera siguiente:
+
+Subcasilla 1.ª
+
+Se pondrá el número correlativo de orden del formulario.
+
+Subcasilla 2.ª
+
+Se pondrá el número total de formularios.
+
+| INDICADOR DE MODALIDAD ESPECIAL DE TRÁNSITO | Condicional |
+|---|---|
+
+Se indicará uno de los códigos siguientes cuando se trate de una modalidad especial de tránsito por ferrocarril o aéreo:
+
+| F | Modalidad especial de tránsito por ferrocarril–Ventaja OEA (ver apartado 4.2.5). |
+|---|---|
+| 1 | Modalidad especial de tránsito aéreo (circulación por carretera de mercancías al amparo de títulos de transporte aéreos, realizada entre aeropuertos por compañías aéreas con derechos de vuelo). |
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image101.png)
+
+Se indicará el número total de partidas de orden declaradas por el interesado en el conjunto de formularios que componen el documento.
+
+Normalmente coincidirá con el total de casillas n.º 31 utilizadas, salvo que por necesidad de espacio, hubiera de utilizarse dos o más casillas 31 para identificar una misma mercancía (Véase casilla 31).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image102.png)
+
+Se indicará el número total de bultos, considerando como tales las unidades físicas aisladas, incluido el «pallet».
+
+El granel, a efectos de esta casilla, tendrá la consideración de 1 bulto.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image103.png)
+
+Deberá indicarse la referencia asignada en el plano comercial al envío. Se recomienda la utilización del formato de «número de referencia único» (RUE) de acuerdo con la Recomendación del Consejo de Cooperación Aduanera relativa al número de referencia único para los envíos para fines aduaneros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image104.png)
+
+Se consignará el nombre o razón social de la persona a la que va a entregarse la mercancía, así como la dirección completa, y en «N.º» su n.º EORI si se tratara de una persona establecida en la Unión Europea.
+
+En el supuesto de varios destinatarios, se consignará obligatoriamente la identificación del destinatario, en cada casilla 31 con el detalle anterior, incluyendo en esta casilla, si la declaración se presenta en papel, la expresión «Destinatarios en partidas».
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image105.png)
+
+Se consignará el país donde se ha iniciado la expedición, independientemente de donde se haya iniciado la operación de tránsito.
+
+En el supuesto de varios países de expedición se indicará este dato en cada una de las casillas 31, incluyendo en esta casilla, si la declaración se presenta en papel, la expresión «en partidas».
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image106.png)
+
+En la subcasilla a) se consignará con el código ISO correspondiente al país declarado en la casilla 15 (ver Anexo II). En el supuesto de varios países de expedición se indicará este dato en cada una de las casillas 31.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image107.png)
+
+Se indicará el nombre del país de destino de las mercancías. En el supuesto de varios países de destino se indicará este dato en cada una de las casillas 31, incluyendo en esta casilla, si la declaración se presenta en papel, la expresión «en partidas».
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image108.png)
+
+En la subcasilla a) se consignará la clave del país de destino según la codificación del Anexo II.
+
+En el supuesto de varios países de destino se indicará este dato en cada una de las casillas 31.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image109.png)
+
+Subcasilla 1.
+
+lndíquese el tipo de medio de transporte (camión, barco, vagón o avión) en que se encuentren directamente cargadas las mercancías al presentarlas en la Aduana donde se cumplimentan las formalidades del tránsito y la identificación del mismo. Si se trata de la utilización de un tractor y de un remolque con una matrícula diferente, indíquese el número de matrícula de ambos.
+
+En función del medio de transporte que se utilice, se identificará de la forma siguiente:
+
+| Medio transporte | Método de identificación |
+|---|---|
+| Transporte por mar. | Nombre del buque. |
+| Transporte aéreo. | Número y fecha del vuelo, o en su defecto, matrícula de la aeronave. |
+| Transporte por carretera. | Matrícula del vehículo, en su caso, de la cabeza tractora del remolque. |
+| Transporte ferroviario. | Número del vagón. |
+
+En el caso de transporte por carretera, si no se conociera la matrícula del vehículo en el momento de presentar la declaración y se tratase de mercancía cargada en un contenedor identificado en la casilla 31, se dispensará la cumplimentación de ambas subcasillas, aunque condicionada a su inclusión con posterioridad en la casilla 55.
+
+Subcasilla 2.
+
+Indíquese mediante el código de países que figura en el Anexo II, aquel en que está matriculado el medio de transporte o la del medio que propulse el conjunto, si hay varios medios de transporte.
+
+Por ejemplo, si se utiliza un vehículo tractor y un remolque que tengan matrículas diferentes, se indicará el número de matrícula de ambos en la primera subcasilla, y sólo la nacionalidad del tractor en la segunda.
+
+En los supuestos de envíos postales, transporte por ferrocarril o transporte por instalaciones fijas, se dejará en blanco esta subcasilla.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image110.png)
+
+Se indicará si, en el momento de cruzar la frontera exterior de la Unión Europea, la mercancía será transportada o no en contenedores, con arreglo a las siguientes claves:
+
+| 0 | Mercancías NO transportadas en contenedores. |
+|---|---|
+| 1 | Mercancías SI transportadas en contenedores. |
+
+En los supuestos de expedición de mercancía, se consignará la misma información, pero referida al momento de salida en la Península y Baleares o de las Islas Canarias. En las exportaciones en Ceuta y Melilla dicha información vendrá referida a la salida en estas localidades.
+
+En el tráfico ro-ro, tendrá la consideración de contenedor cualquier otra unidad de carga intermodal (UTI/UCI) como remolques, semirremolques o camiones.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image111.png)
+
+Únicamente se cumplimentará cuando el medio de transporte cruce la frontera exterior de la CE.
+
+Subcasilla 1.
+
+Se indicará el tipo de medio de transporte empleado (camión, barco, avión, vagón) y su identidad (matricula, nombre, etc.) en el momento de cruzar la frontera exterior de la CE, teniendo en cuenta que en caso de varios medios a la vez, se considerará el propulsor (camión sobre barco, será el barco; tractor con remolque, será el tractor, etc.).
+
+En función del medio de transporte que se utilice, deberá consignarse las siguientes indicaciones:
+
+| Medio transporte | Método de identificación |
+|---|---|
+| Transporte por mar. | Nombre del buque. |
+| Transporte aéreo. | Número y fecha del vuelo, o en su defecto, matrícula de la aeronave. |
+| Transporte por carretera. | Matrícula del vehículo, en su caso, de la cabeza tractora y del remolque. |
+| Transporte ferroviario. | Número del vagón. |
+
+Subcasilla 2.
+
+Indíquese mediante el código de países que figura en el Anexo II, aquel en que está matriculado el medio de transporte o la del medio que propulse el conjunto, si hay varios medios de transporte.
+
+Por ejemplo, si se utiliza un vehículo tractor y un remolque que tengan matrículas diferentes, se indicará el número de matrícula de ambos en la primera subcasilla, y solo la nacionalidad del tractor en la segunda.
+
+En los supuestos de envíos postales, transporte por ferrocarril o transporte por instalaciones fijas, se dejará en blanco esta subcasilla.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image112.png)
+
+Se precisará el lugar en que se encuentran situadas las mercancías mediante la codificación establecida para ello en cada Aduana.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image113.png)
+
+Se indicará en esta casilla y en el orden siguiente:
+
+‒ Número de identificación de los contenedores.
+
+‒ Marcas de los bultos refiriéndose a las ostentadas exteriormente por estos.
+
+‒ Número de bultos o número de piezas, entendiendo por estas últimas las unidades de mercancía sin empaquetar (código de bulto EN). En caso de que el tipo de bulto implique que se trata de un granel (códigos VG, VL, VO, VQ, VR y VY) no se consignará número.
+
+‒ Clase se indicará el código del tipo de bultos según la codificación del Anexo XIII. Estas tres últimas indicaciones se consignarán alineadas por cada tipo de bulto de la partida de orden de que se trate.
+
+‒ Descripción, entendiéndose como tal la denominación de mercancías en términos suficientemente claros para su identificación y clasificación arancelaria a nivel de código de nomenclatura.(8 dígitos)
+
+‒ Unidades, se indicará la cantidad de la mercancía en el tipo de unidad de medida, así como la clave de ésta, que esté fijada en la normativa aplicable o en el procedimiento autorizado, cuando ésta no esté reflejada en otra casilla de la declaración. Por ejemplo:
+
+• ultimación del régimen de depósito, cuando el control de la cantidad de mercancía se realice por la unidad declarada por el operador; etc.
+
+• control de las garantía de tránsito (ver Nota 4).
+
+Notas:
+
+1\. Cuando por necesidades del cumplimiento de esta casilla fuera insuficiente el espacio, se utilizarán solo a este efecto los formularios complementarios que fueran necesarios. (Ver Apartado 4.3).
+
+2\. En caso de envíos compuestos por mercancías T-1 o T-2 a la vez, usándose por tanto ejemplares suplementarios distintos o listas de carga para cada clase de mercancías, en esta casilla no figurará la descripción de las mercancías (constará en las casillas 31 de los diferentes ejemplares suplementarios o en la casilla correspondiente de la lista de carga) pero si, se hará referencia a los números de orden de los diferentes ejemplares suplementarios (T-1 bis n.º ..., T-2 bis n.º ..., etc.) o listas de carga (Lista de carga T-1 n.º ..., Lista de carga T-2 n.º ...).
+
+3\. Cuando sea necesario reseñar en esta casilla los datos correspondientes a las casillas 2, 8, 15 a) o 17 a) se hará de la manera siguiente:
+
+«País de expedición: .............. País de destino: ..............
+
+Expedidor ..............
+
+Destinatario ..............»
+
+4\. Cuando se trate de mercancías sensibles del Anexo 52 del Reglamento CEE 2454/93, será necesario incluir:
+
+‒ La cantidad de mercancía en relación a la unidad de medida recogida en el citado anexo, sí no ha sido ya declarada en otra casilla del DUA, seguida de la sigla correspondiente a la unidad de medida. Por ejemplo: para mercancías de las partidas 2207 y 2208 se reseñarán el número de hectolitros, ya que esta unidad no coincide con la prevista en la casilla 41.
+
+‒ Si el producto relacionado como mercancía sensible no se corresponde con la totalidad de productos integrados en una partida del sistema armonizado (posición arancelaria a 6 dígitos) sino a una subdivisión de ésta, se consignará el código de dos dígitos numéricos que se determine. Actualmente está en vigor el código 01 para los productos alcohólicos de la partida 2208.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image114.png)
+
+Se indicará el número de orden de la partida. Cuando la declaración tuviera una sola partida, así expresada en la casilla 5, se dejará en blanco.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image115.png)
+
+Indicar, sin separación de puntos, las ocho primeras cifras del código TARIC correspondiente.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image116.png)
+
+Se indicará en kilogramos el peso bruto de las mercancías correspondientes a la partida, incluyendo los envases y pallets, pero excluyendo el material de transporte y los contenedores.
+
+En caso de conocerse el peso total del embalaje de la expedición pero no el de cada partida, habrá de repartirse éste entre todos ellos, proporcionalmente a la masa neta.
+
+En caso de envíos compuestos por mercancías T-1, T-2, o T2F a la vez esta casilla no se rellenará; dicho dato vendrá recogido en el formulario complementario o en la lista de carga.
+
+Nota:
+
+No se expresarán decimales. En caso necesario se redondeará de la forma siguiente:
+
+– de 0,001 a 0,499 = se redondeará a la unidad inferior.
+
+– de 0,499 a 0,999 = se redondeará a la unidad superior.
+
+Si el peso total fuera inferior a la unidad, se consignará 1.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image117.png)
+
+Se indicará en Kg., con posibilidad de 3 decimales, el peso neto de la mercancía correspondientes a la partida, sin incluir en ningún caso los envases o pallets.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image118.png)
+
+Se indicará, en su caso, la declaración sumaria con la que ha sido introducida la mercancía o el documento precedente si se tratará de mercancía previamente vinculada a un régimen. Se identificará dicho documento mediante una codificación compuesta de tres elementos:
+
+1.º El tipo de documento, se indicará mediante uno de los códigos siguientes:
+
+| X | Declaración sumaria. |
+|---|---|
+| Y | Declaración inicial en un procedimiento simplificado. |
+| Z | Declaración de un régimen precedente. |
+
+2.º La clase de documento se indicará mediante un código alfanumérico de 3 dígitos. No es necesario incluir clase de documento cuando se trate de una declaración sumaria registrada en el sistema informático de la aduana.
+
+3.º La identificación del documento concreto, su estructura dependerá de la clase de documento.
+
+Los códigos y estructura de documentos que pueden declararse, son los siguientes:
+
+| Documentos de cargo | 1.º | 2.º | 3.º |
+|---|---|---|---|
+| Declaración de depósito temporal aérea (DDT). | X |  | (a) |
+| Resto de declaraciones de depósito temporal (DDT). | X |  | RRRRANNNNNNPPPPP (b) |
+| Declaración de importación o introducción. | Z | DUA | AAEERRRRRRNNNNNNNCPPP |
+| Declaración H7. | Z | DH7 | AAEERRRRRRNNNNNNNC |
+| DUA de vinculación a depósito. | Z | DVD | AAEERRRRRRNNNNNNNCPPP o RRRRAAAANNNNNNPPP |
+| Declaración de vinculación a depósito. | Z | IDA | AAEERRRRRRNNNNNNNCPPP o RRRRAAAANNNNNNPPP |
+| Declaración de transferencia. | Z | TRS | AAEERRRRRRNNNNNNNCPPP o RRRRAAAANNNNNNPPP |
+| Declaración de reconversión de unidades. | Z | RUN | AAEERRRRRRNNNNNNNCPPP o RRRRAAAANNNNNNPPP |
+| N.º de entrada en Zona o Depósito Franco. | Z | EZF | (c) |
+| *Entrada en equipaje de viajeros.* | Z | EQV | AAAAMMDD |
+| *Entrada irregular.* | Z | IRR | AAAAMMDD |
+
+En donde:
+
+‒ RRRR: código de recinto.
+
+‒ A: último dígito del año.
+
+‒ AAAA: año.
+
+‒ MM: mes.
+
+‒ DD: día.
+
+‒ N: número.
+
+‒ P: partida de orden.
+
+‒ EE: estado Miembro.
+
+‒ C: dígito control.
+
+(a) La declaración sumaria aérea deberá declararse de la forma siguiente: año (4 dígitos), mes (2 dígitos), día (2 dígitos), código compañía aérea (3 dígitos), número de vuelo (5 dígitos) y número de conocimiento aéreo (11 o 19 dígitos). Asimismo podrá declararse con la estructura del resto de las declaraciones sumarias, en cuyo caso deberá declararse el número de conocimiento en la casilla 44.
+
+(b) Se refiere a declaraciones sumarias, de cualquier tipo, que estén dadas de alta como tales en el sistema informático de la Aduana.
+
+(c) El número de registro y fecha en la Zona Franca o Depósito Franco, siguiendo con las instrucciones de la Aduana.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image119.png)
+
+Deberá cumplimentarse esta casilla:
+
+‒ cuando para el cálculo de la garantía, la normativa comunitaria establezca su importe en función de la cantidad de mercancía expresada en una unidad diferente al valor o peso. Por ejemplo, las mercancías comprendidas en el anexo 44 quater del R.CEE 2454/93 cuando el tránsito se avale mediante una garantía a tanto alzado.
+
+‒ o bien, cuando el tributo aplicable esté determinado según la cantidad de mercancía fijada en una unidad de medida diferente al valor o peso.
+
+Se indicará la cantidad del artículo expresado en dicha unidad, admitiéndose hasta tres decimales y, seguidamente, el código de dicha unidad. La explicación de cada código figura en el Anexo IX.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image120.png)
+
+Se indicarán las menciones requeridas por las normativas específicas de aplicación, distintas de las citadas en las instrucciones de la casilla 31 y se identificarán los documentos que se adjuntan a la declaración. Tanto las indicaciones como los documentos están codificados como se explica a continuación:
+
+a) Indicaciones o literales especiales requeridas por normativas específicas y en particular:
+
+‒ Las señaladas en el anexo 37 bis del Reglamento (CEE) 2454/93 de acuerdo con la codificación contenida en el Anexo XI-B de esta Resolución
+
+‒ Los recogidos y codificados en el Anexo XV-A.
+
+b) Los documentos que se aporten al despacho (factura, título de transporte, certificados de inspección, etc.), deben declararse:
+
+‒ Mediante un código correspondiente al tipo de documento. Se trata de códigos de cuatro caracteres que comenzarán con una letra cuando su origen sea comunitario y con un número cuando sea nacional. Pueden consultarse en la base de datos del TARIC. El Anexo XV-B incluye una relación actualizada a la fecha de firma de esta Resolución.
+
+Nota: En la impresión del documento de acompañamiento de tránsito (DAT/DATS) únicamente deberán incluirse los códigos previstos en el anexo 37 quater del Reglamento CEE 2454/93 manteniendo la estructura de 3 dígitos. Estos códigos se corresponden con los códigos incluidos en el Anexo XV-B de esta Resolución que comienzan con la clave «N» y deberán imprimirse sin dicha letra.
+
+‒ Identificando el documento en sí, indicando la clave del país donde ha sido expedido, su número y fecha de expedición, salvo que se den otras normas específicas (por ejemplo, para los certificados identificados mediante NRC).
+
+c) Cabe destacar:
+
+‒ Cuando se trate de un tránsito realizado a partir de una/s declaración/es de exportación, deberán identificarse correctamente estas últimas de forma que este régimen permita ultimar el de exportación.
+
+‒ En las declaraciones referidas a operaciones en las que intervenga un OEA, deberá incluirse el código que corresponda según su participación en la operación y el número completo de autorización.
+
+| Y022 | Si el OEA es el exportador/expedidor. |
+|---|---|
+| Y023 | Si el OEA es el destinatario. |
+| Y024 | Si el OEA es el declarante. |
+| Y025 | Si el OEA es el representante. |
+| Y026 | Si el OEA es el obligado principal. |
+| Y027 | Si el OEA es el depositario de la mercancía. |
+| Y028 | Si el OEA fuera el transportista. |
+| Y029 | Otro operador económico autorizado. |
+
+Si el operador autorizado desempeña distintas funciones en la transacción de que se trate, podrá indicar los diferentes códigos correspondientes a las diversas funciones desempeñadas. Por ejemplo, si es el representante y el titular del ADT donde se encuentra la mercancía, pondrá los códigos Y025 e Y027.
+
+‒ Cuando se trate de un tránsito realizado a partir de declaraciones de exportación, deberán identificarse éstas últimas en esta casilla teniendo en cuenta las instrucciones del apartado 4.2.4.
+
+Subcasilla COD.I.E. (Indicaciones especiales): No se cubrirá.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image121.png)
+
+Se indicará el valor de la mercancía expresado en euros.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image122.png)
+
+Menciónese nombre y apellidos o la razón social y la dirección completa del obligado principal, así como su número de identificación comunitario EORI; y, en su caso, el nombre y apellidos o la razón social del representante autorizado que firma por el obligado principal.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image123.png)
+
+Indíquese el código ISO del país (ver Anexo II) y el código de la Aduana de entrada prevista en cada país adherido al convenio de tránsito común y en su caso Andorra, entendiendo, a estos efectos, a la Unión Europea como un único territorio.
+
+En el supuesto de salida del territorio aduanero de la Unión para su posterior entrada por otro punto, deberá declararse, además de la entrada, la de salida de dicho territorio.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image124.png)
+
+1.ª Línea.
+
+Indíquese el tipo y número de garantía utilizada para la operación siguiendo las siguientes instrucciones:
+
+1.º) Indicador del tipo de garantía.
+
+| 0 | Dispensa garantía. |
+|---|---|
+| 1 | Garantía global. |
+| 2 | Garantía individual un solo uso. |
+| 3 | Garantía en metálico. |
+| 4 | Garantía individual por título (Talones a tanto alzado). |
+| 6 | Exención de garantía (art.94 del CA). |
+| 8 | Exención de garantía Organismos Públicos. |
+
+2.º) Número.
+
+a) No será necesario incluir nada en caso de las exenciones n.º 6 y 8.
+
+b) En el resto de los casos, excepto garantías tipo 4, se incluirá el GRN (número de la garantía) de 17 dígitos con la siguiente estructura:
+
+‒ Los dos últimos dígitos del año en que fue autorizada la garantía o dispensa.
+
+‒ Código ISO del país donde se ha expedido la garantía (2 dígitos alfabéticos).
+
+‒ Identificador de la garantía (12 dígitos alfanuméricos).
+
+‒ Dígito de control (1).
+
+c) En las garantías tipo 4 con GRN completo delante del número de talón se incluirán los 17 dígitos (igual estructura que la explicada para el resto de garantía) y el número de título (7 dígitos alfanuméricos).
+
+3.º) Código secreto: cuando se trata de garantías no nacionales presentadas en una Aduana española, incluidos los talones a tanto alzado con GRN. Es un código de 4 dígitos que identifican al declarante como autorizado para utilizar dicha garantía.
+
+2.ª Línea:
+
+No válida para: En los casos de garantía global o individual no válida para alguno de los Estados firmantes de los acuerdos de tránsito común, se identificarán los mismos mediante la codificación del Anexo II.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image125.png)
+
+a) Indíquese el nombre y el código de la Aduana en que las mercancías deben ser presentadas para poner fin a las operaciones de tránsito. Las Aduanas de destino figuran en la «Lista de Aduanas competentes para las operaciones de tránsito comunitario/común».
+
+b) Indíquese a continuación, utilizando los códigos ISO correspondientes, el Estado miembro.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image126.png)
+
+El transportista deberá rellenar las tres primeras líneas de esta casilla, cuando, durante la operación considerada, las mercancías de que se trate sean transbordadas de un medio de transporte a otro o de un contenedor a otro. Asimismo deberá cumplimentarse en aquellos casos en que no hubiera sido cumplimentada la casilla 18.
+
+El transportista no podrá proceder al trasbordo antes de haber obtenido la autorización de las autoridades aduaneras del Estado miembro donde debe producirse el mismo.
+
+Cuando estas autoridades estimen que puede procederse a la operación de tránsito, y tras la adopción de las medidas necesarias si fuere el caso, visarán la casilla F de los ejemplares n.º 4 y 5 de la declaración o del Documento de Acompañamiento de tránsito.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image127.png)
+
+Esta casilla solo aparece en los ejemplares 4 y 5 (dorso). En ella se indicarán las incidencias surgidas durante el tránsito, tales como:
+
+‒ Rotura de precintos.
+
+‒ Accidente de vehículo.
+
+‒ Peligro inminente que requiera descarga.
+
+‒ Instrucción de diligencias, etc.
+
+‒ Cambios del vehículo tractor.
+
+‒ Otras incidencias del tránsito, referentes a los vehículos o las mercancías.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image128.png)
+
+Esta casilla figura solo en los ejemplares 4 y 5. En caso de trasbordo, solicitado por el transportista y una vez cubierta por el mismo la casilla correspondiente (Ver casilla 55), será cubierta por las autoridades aduaneras siendo firmada y sellada.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image129.png)
+
+Espacio reservado para la numeración, registro y sellado del documento.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image130.png)
+
+Además de las diligencias de admisión, fecha, y firma del funcionario, se indicarán las siguientes:
+
+‒ En el apartado «Resultado»: se indicará por la Aduana la diligencia: Conforme.
+
+‒ En el apartado «Precintos colocados»: Número de precintos expresados en letra.
+
+‒ En el apartado «Marcas»: Los números o referencias de los precintos colocados.
+
+‒ En el apartado «Plazo (fecha límite)»: El plazo básico que se habrá de considerar será de ocho días. La Aduana podrá establecer un plazo más corto en función de la distancia que haya de recorrer (p.e.: aduana de partida muy próxima de la aduana de destino), o bien un plazo más largo cuando así lo exijan circunstancias especiales que la Aduana de partida considere válida (p. ejem.: gran distancia entre la aduana de partida y destino, malas condiciones atmosféricas, previsión de huelga, días festivos, etc.).
+
+En el caso de «expedidores autorizados», estos rellenaran esta casilla conforme al Reglamento (CE) n.º 2454/93 de la Comisión, de 2 de julio de 1993 (Sección 2, Capítulo 7, Título II, Parte II), y a las instrucciones del procedimiento simplificado.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image131.png)
+
+Esta casilla figura solo en los ejemplares 4 y 5. En caso de incidentes en el transporte, expresadas por el transportista en la casilla correspondiente (Ver casilla 56), será cubierta por las autoridades aduaneras y firmada y sellada por ellas.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499929_image132.png)
+
+Esta casilla figura solo en los ejemplares 4 y 5. Será cubierta por la Aduana de destino, expresando en la misma la fecha de llegada, así como las incidencias en el control de precintos. Será firmada y sellada por la autoridad aduanera.
+
+4.2.3 Datos de seguridad.
+
+Nota:
+
+La numeración de los campos corresponde al orden en el que figuran estos datos en el Anexo 30 bis del Reglamento (CEE) 2454/1993 y que figura en el DATS.
+
+4.2.3.1 Datos cabecera.
+
+(S00) Declaración Seguridad. Dato condicional.
+
+Deberá indicarse el código «S» cuando la declaración incluya datos de seguridad (ver punto 4.1.b de este capítulo), es decir, cuando la declaración de tránsito haga las veces de ENS (declaración sumaria de entrada) o de EXS (declaración sumaria de salida). Ver lo indicado en el apartado 4.1 -b) de este mismo capítulo.
+
+A continuación se incluyen el resto de datos que deberá declararse cuando se haya indicado el código «S» en este campo, incluso aunque se trate de datos únicamente para la ENS a pesar de lo indicado en el apartado 4.1.b) primer punto de este capítulo.
+
+(S32) Indicador de circunstancias específicas. Dato condicional.
+
+Deberá completarse el código correspondiente si la declaración de datos de seguridad es más reducida por tratarse de una de las operaciones siguientes:
+
+| A | Envío postal o urgente. |
+|---|---|
+| C | Modo de transporte por carretera. |
+| D | Modo de transporte por ferrocarril. |
+| E | Operador Económico Autorizado. |
+
+(S13) Códigos de los países de paso.
+
+Deberán incluirse los códigos de los países por los que va a ser transportada la mercancía desde el origen de la expedición hasta su destino por orden cronológico, incluyendo éstos.
+
+(S12) Fecha y hora de llegada al primer lugar de llegada en el territorio aduanero.
+
+Cuando la declaración de tránsito haga las veces de ENS (ver apartado 4.1.b) de este capítulo), debe indicarse la fecha y hora de llegada prevista al primer punto de entrada de la Unión Europea.
+
+(S29) Código del método de pago de los costes del transporte.
+
+Este dato no será obligatorio cuando el declarante sea Operador Económico Autorizado de Seguridad (en indicador de circunstancias específicas deberá haberse consignado el código E).
+
+Deberá indicarse la forma en que se va a realizar el pago del transporte, utilizando uno de los códigos siguientes:
+
+| A | Pago en metálico. |
+|---|---|
+| B | Pago mediante tarjeta de crédito. |
+| C | Pago por cheque. |
+| D | Otros (por ejemplo, cargo directo en cuenta corriente). |
+| H | Transferencia electrónica. |
+| Y | Pago mediante cuenta con el transportista. |
+| Z | Costes no prepagados. |
+
+(S17) Lugar de carga.
+
+Debe cumplimentarse únicamente cuando la declaración de tránsito haga las veces de ENS (declaración sumaria de entrada).
+
+Lugar en que la mercancía es cargada en el medio de transporte que cruza la frontera de la UE. En la medida de lo posible deberá utilizarse un código de 5 dígitos alfabéticos compuesto por el código ISO alpha-2 del país y el código ISO alpha-3 de la localidad. (Ver en la oficina virtual de Aduanas e Impuestos Especiales, en la página web de la AEAT, la codificación existente). En el supuesto de no conocerse el código de la localidad, a continuación del código del país se consignará el literal de aquella.
+
+(S18) Código del lugar de descarga.
+
+Debe cumplimentarse únicamente cuando la declaración de tránsito haga las veces de ENS (declaración sumaria de entrada), exceptuando en este caso cuando se el declarante sea un Operador Económico Autorizado de Seguridad (en indicador de circunstancias específicas deberá haberse consignado el código E).
+
+Lugar en que la mercancía es cargada en el medio de transporte que cruza la frontera de la UE. En la medida de lo posible deberá utilizarse un código de 5 dígitos alfabéticos compuesto por el código ISO alpha-2 del país y el código ISO alpha-3 de la localidad. (Ver en la oficina virtual de Aduanas e Impuestos Especiales, en la página web de la AEAT, la codificación existente). En el supuesto de no conocerse el código de la localidad, a continuación del código del país se consignará el literal de aquella.
+
+(S10) Número de referencia de la operación de transporte. Dato condicional.
+
+Debe cumplimentarse únicamente cuando la declaración de tránsito haga las veces de ENS (declaración sumaria de entrada) excepto cuando el modo de transporte con el que se cruza la frontera sea por carretera (en indicador de circunstancias específicas deberá haberse consignado el código C).
+
+Identificación del viaje concreto efectuado por el medio de transporte como, por ejemplo el número de travesía, número de vuelo, número de tren, número de operación.
+
+(S06) Destinatario (seguridad).
+
+Deberá identificarse la persona a la que va destinada la mercancía y que figura como tal en el título de transporte. Si en éste figurase la expresión «a la orden» se sustituirá por el código 10600.
+
+Este dato deberá consignarse siempre aunque coincida con el declarado en la casilla número 8. Además del nombre y dirección deberá consignarse su número EORI siempre que éste sea conocido por el declarante.
+
+Este dato puede declararse por cada partida en vez de en la cabecera, cuando se trate de un grupaje que incluya varias expediciones de mercancía.
+
+(S04) Expedidor (seguridad).
+
+Deberá identificarse la persona a la expide la mercancía y que figura como tal en el contrato de transporte firmado por la parte que haya encargado dicho transporte. Deberá indicarse su nombre, dirección y su n.º EORI si éste es conocido por el declarante.
+
+Cuando el tránsito incluya los datos de la EXS (declaración sumaria de salida), este dato deberá incluirse cuando el expedidor sea distinto del declarante.
+
+Tanto cuando el transito haga las veces de EXS o de ENS, se incluirá esta información aunque se trate de la misma persona incluida en la casilla número 2.
+
+Este dato puede declararse por cada partida en vez de en la cabecera, cuando se trate de un grupaje que incluya varias expediciones de mercancía.
+
+(S07) Transportista (seguridad). Dato condicional.
+
+Debe cumplimentarse únicamente:
+
+‒ Cuando la declaración de tránsito haga las veces de ENS (declaración sumaria de entrada), y
+
+‒ El transportista sea distinto del declarante.
+
+Deberá indicarse el nombre dirección y su n.º EORI siempre que éste sea conocido por el declarante y, en cualquier caso cuando el declarante no actúe como su representante. Además se indicar su nombre y dirección.
+
+(S28) N.º de precinto. Dato condicional.
+
+Sólo cuando se trate de precintos no oficiales distintos de los colocados por la Aduana para el control del régimen de tránsito y que deben indicarse en la casilla D.
+
+4.2.3.2 Datos partidas.
+
+Código de mercancía peligrosa (casilla 44). Dato condicional.
+
+Deberá indicarse, en su caso, el código de mercancía peligrosa utilizando el número ONU de 4 dígitos. La consideración de mercancía peligrosa está relacionada con el tipo de transporte que se utilice.
+
+4.2.4 Tránsitos expedidos a partir de declaraciones de exportación.
+
+Deberán tenerse en cuenta las siguientes instrucciones:
+
+a) Si el tránsito se presenta en la aduana de exportación, la aduana declarada en la casilla 29 de la exportación tendrá que ser la misma.
+
+b) Si el tránsito se presenta en una aduana distinta a la de exportación, dicha aduana, la de expedición del tránsito, deberá ser la aduana de salida efectiva de la mercancía. Deberán haberse realizado los trámites de salida de la exportación antes de la presentación del tránsito.
+
+c) La/s declaraciones de exportación deberán estar incluidas íntegramente en el mismo tránsito.
+
+d) Podrá identificarse en la casilla 44:
+
+– una o varias (hasta 30) exportaciones íntegras en una misma partida del tránsito, incluyendo el tipo de documento (N830) y el MRN de cada una de ellas;
+
+– una o varias partidas de la misma exportación en una misma partida del tránsito, incluyendo el tipo de documento (N830) y el MRN+ el número de partida (3 dígitos) o únicamente el MRN sin el número de partida.
+
+Nota importante.
+
+Cuando se trate de productos sujetos a IIEE que estuvieran en régimen suspensivo en el momento de presentar la declaración de exportación, si a continuación de dicho régimen la mercancía pretende circular al amparo del régimen de tránsito, este deberá ser externo (T1), de acuerdo a lo previsto en el n.º 4 del artículo 189 del RDCAU. El eDA no se considerará cerrado hasta que no estén ultimados el tránsito y la exportación.
+
+4.2.5 Transito por Ferrocarril–Modalidad Ventaja OEA.
+
+La presente modalidad de tránsito NCTS está prevista para fomentar y agilizar el transporte por ferrocarril de mercancía no comunitaria desde los puertos de entrada de dicha mercancía situados en territorio nacional hasta el punto interior de destino de la misma. Los operadores que quieran utilizarlo, deberán solicitarlo al Departamento de Aduanas e Impuestos Especiales.
+
+Para poder acogerse a esta modalidad de tránsito, el obligado principal deberá ser titular de un certificado OEA de simplificaciones aduaneras, protección y seguridad.
+
+Esta modalidad de tránsito no podrá utilizarse para mercancías incluidas en el Anexo 44 quater del Reglamento (CEE) n.º 2454/1993.
+
+La solicitud de este procedimiento implica el compromiso por parte de la persona que lo solicita de:
+
+‒ no utilizar esta modalidad para las mercancías incluidas en el Anexo 44 quater citado.
+
+‒ no utilizar este procedimiento para mercancía sujeta a inspección obligatoria en primer punto de entrada hasta contar con el certificado correspondiente
+
+El incumplimiento de alguna de las condiciones establecidas para poder acogerse a este procedimiento implicará:
+
+‒ suspensión de la autorización concedida durante un periodo de un mes, en el caso de un primer incumplimiento
+
+‒ suspensión de la autorización concedida durante un plazo de tres meses, en el caso de un segundo incumplimiento
+
+‒ revocación de la autorización en el caso de un tercer incumplimiento.
+
+Simplificaciones y facilitaciones que supone este procedimiento:
+
+‒ Dispensa de garantía de acuerdo a lo previsto en el art. 94.4 del Reglamento (CEE) n.º 2454/1993.
+
+‒ Dilación de determinados controles aduaneros hasta el punto de destino.
+
+‒ Dispensa para cumplimentar la casilla 33 y la casilla 46 de la declaración.
+
+4.3 T2L/T2LF.
+
+Nota: Puede solicitarse la expedición de un T2L de forma electrónica (mediante mensaje XLM o cumplimentando el formulario web correspondiente) y, excepcionalmente, el T2LF (ver apartado 3.4 y Apéndice XVI). El procedimiento del T2L/T2LF electrónico se incluye en el capítulo 6.º
+
+4.3.1 Utilización del documento único como T2L o T2LF exclusivamente.
+
+Cuando sea necesario justificar el estatuto aduanero de mercancías de la Unión mediante un documento T2L o T2LF, se seguirán para su cumplimentación las siguientes instrucciones:
+
+1\. Se extenderá en el ejemplar n.º 4 del DUA, cubriéndose, conforme a las normas contenidas en el Apartado 3.2.2, las siguientes casillas: 1 (subcasilla 3), 2, 3, 5, 6, 14, 15, 17, 19, 21, 31, 32, 33, 35, 38, 40, 44, 54.
+
+2\. Podrán emplearse ejemplares 4 complementarios, en cuyo caso, se consignará en la casilla 1 subcasilla 3 de cada legajo suplementario la sigla «T2L bis», o «T2LF bis».
+
+3\. Si se realiza el T2L o T2LF como parte de la declaración de expedición/exportación, deberá añadirse a los datos de esta declaración únicamente la casilla n.º 1 (subcasilla 3), según se explica en el Apartado 3.2.2, del Capítulo relativo a Expedición/Exportación.
+
+4\. Cuando deba utilizarse un documento T2L o T2LF para un envío que comprenda más de una clase de mercancía, se podrán emplear Listas de carga que cumplan con los requisitos previstos en los artículo 315 del Reglamento (CEE) n.º 2454/1993. En ellas figuran la mención «T2L», y los datos correspondientes a las casillas 31, 32, 33, 35, 38 y 44. Estas mismas casillas serán inutilizadas en el formulario T2L.
+
+5\. Cumplimentado el ejemplar n.º 4, se presentará en la Aduana para su registro, numeración y visado en la casilla C.
+
+El visado consistirá en el nombre y sello de la oficina de partida, la fecha, y la firma del funcionario competente.
+
+Notas:
+
+‒ Cuando el T2L sea el ejemplar n.º 4 de la serie E, el número que se consignará en la casilla C será el mismo indicado en la casilla A de los legajos 1, 2 y 3.
+
+‒ Los formularios suplementarios llevarán el mismo número y sello, en la casilla C.
+
+‒ Si se utilizan Listas de carga, se hará constar en ellas el número de registro del T2L y serán igualmente visadas.
+
+6\. En el supuesto de cumplimentación del T2L por un «expedidor autorizado», se tendrá en cuenta lo siguiente:
+
+‒ La autenticación previa del formulario por la Aduana, o bien, el sello especial del expedidor irán situados en la casilla C del T2L.
+
+‒ Se indicará de forma bien visible la mención «Procedimiento simplificado».
+
+‒ El documento será firmado por el interesado, salvo que tenga autorizada la dispensa de firma.
+
+‒ El expedidor deberá guardar una copia de cada T2L que extienda.
+
+4.3.2 Utilización del documento único para la declaración conjunta de expedición y T2LF.
+
+En el supuesto de declaraciones de expedición de mercancía comunitaria realizadas en las Islas Canarias con destino al resto de Estados miembros de la Unión Europea que hayan sido presentadas vía EDI y obtenido el levante automático, podrá imprimirse el T2LF en la Sede Electrónica a partir de la declaración de expedición.
+
+> Se modifican los apartados 4.2.2 y 4.2.4 por el apartado primero.4 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifican los apartados 4.2.2, 4.2.5, 4.3.1 y se suprime el 4.4 por el apartado primero.5 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## CAPÍTULO 5.º — Vinculación al régimen de depósito aduanero y otros almacenes autorizados
+
+5.1 Operaciones que deben formalizarse de acuerdo con las instrucciones del apartado 5.3.
+
+1\. Vinculación de mercancía no perteneciente a la Unión al régimen de depósito aduanero, incluidas las ultimaciones de un régimen especial anterior (distinto del tránsito).
+
+2\. Otros usos nacionales:
+
+a) Vinculación a depósito distinto del aduanero por adquisición intracomunitaria o entrega exenta de mercancía que no sea objeto de IIEE.
+
+b) Vinculación y traslado a/entre depósitos REF (Régimen Especial Fiscal de Canarias).
+
+c) Vinculación al régimen de Zona Franca.
+
+5.2 Comunicación electrónica de la vinculación al régimen de zona franca.
+
+1\. El uso de esta comunicación electrónica es voluntario, no pudiendo coexistir con el sistema tradicional. Es decir, si se opta por su utilización, todas las operaciones deben ser comunicadas electrónicamente a la aduana.
+
+2\. Para hacer uso de esta comunicación electrónica es necesario haber optado por esta posibilidad en la casilla correspondiente de la autorización de actividades, inmuebles, registros y comunicación electrónica de zona franca (ZZFF).
+
+3\. El uso de esta comunicación es incompatible con:
+
+– El despacho centralizado.
+
+– La inscripción en registros del declarante.
+
+– La declaración simplificada.
+
+– La posibilidad de presentar la comunicación antes de la llegada de la mercancía (predeclaración).
+
+4\. La comunicación electrónica se deberá enviar en el momento de llegada de las mercancías a las instalaciones del operador.
+
+5\. Se comunicarán electrónicamente las inscripciones de mercancía UE y no UE debiendo declararse CO o IM, respectivamente, en el dato 1/1 de la comunicación electrónica.
+
+6\. La comunicación electrónica podrá ser enviada directamente por el operador de zona franca o a través del consorcio si este ha sido incluido en la autorización de comunicación electrónica de zona franca (ZZFF) del operador, sin que el consorcio tenga, en este caso, la consideración de la representación aduanera prevista en el artículo 18 del CAU.
+
+7\. Los operadores que opten por el uso de la comunicación electrónica deberán igualmente utilizar los mensajes RUN (reconversión de unidades), VTA (transferencia de la mercancía), TRS (transferencias) y SDD (salida de depósito) previstos para el depósito aduanero cuando concurran las circunstancias previstas para ello.
+
+8\. A fin de que el gestor de existencias funcione correctamente es necesario que, una vez obtenida la autorización ZZFF y antes de comenzar a utilizar este sistema, el operador envíe una comunicación electrónica con el saldo inicial indicando como documento precedente EZF.
+
+5.3 Instrucciones relativas a los datos de la declaración.
+
+Preámbulo.
+
+En este capítulo se dan instrucciones relativas a la estructura de datos correspondientes a las columnas H2, H5 y B3. La misma está basada en el anexo D del RDCAU, que establece los datos que debe incluir esta declaración y el anexo D del RECAU que establece la estructura del dato y en su caso la codificación del mismo, en la versión dada por el Reglamento Delegado (UE) 2021/234 y el Reglamento de Ejecución (UE) 2021/23 de la Comisión. Estos dos reglamentos han incluido una profunda modificación en la estructura de datos de los sistemas, permitiendo un régimen transitorio en el caso de que los Estados miembros ya hubieran iniciado la adaptación al CAU con anterioridad a la publicación de esta reforma (DOUE de 23 de febrero de 2021), siendo este el caso del sistema DVD.
+
+Para facilitar la compresión de este nuevo sistema de datos, antes de la explicación de cada dato se incluye un cuadro con la siguiente información según el contenido del anexo D citado:
+
+a) Número del dato en la normativa citada. Los datos están ordenados en grupos según su contenido (tipo declaración, referencias, datos personales, etc.). El primer dígito indica el grupo al que pertenece y el siguiente su número de orden dentro de dicho grupo.
+
+b) Descripción del dato.
+
+c) Correspondencia con la casilla del impreso DUA.
+
+d) Obligatoriedad del dato:
+
+– A: obligatorio en todos los Estados miembros.
+
+– B: obligatorio en España.
+
+– C: facultativo para los operadores.
+
+Esta calificación no presupone que el dato sea siempre exigible, sino que lo será cuando las circunstancias lo justifiquen. Por ejemplo, las unidades suplementarias solo deben incluirse si están previstas para ese código de nomenclatura en el TARIC.
+
+e) Nivel del dato.
+
+– Y: cabecera.
+
+– X: partida.
+
+f) Tipo del dato (a-alfabético, n-numérico, an-alfanumérico) y tamaño.
+
+g) Las veces que puede incluirse en una misma declaración (n.º de ocurrencias) en la cabecera.
+
+h) N.º de ocurrencias en partidas.
+
+Asimismo, se añade a continuación el nuevo código de dato de acuerdo a lo previsto en el anexo B para facilitar la transición en un futuro a la nueva nomenclatura.
+
+Instrucciones.
+
+Los datos que deben ser declarados son los siguientes:
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 1/1 | Tipo declaración. | 1/1 | A | Y | a2 | 1x |  |  |
+
+11 01 000 000 Tipo de declaración.
+
+Indíquese el código correspondiente:
+
+IM: Para el comercio con los países y territorios situados fuera del territorio aduanero de la Unión.
+
+Para la inclusión de mercancías en uno de los regímenes aduaneros contemplados en las columnas H1 a H4, H6 e I1 del cuadro de requisitos en materia de datos del título I del anexo B del Reglamento Delegado (UE) 2015/2446.
+
+Para la inclusión de mercancías no pertenecientes a la Unión en un régimen aduanero en el marco del comercio entre Estados miembros.
+
+CO:
+
+– Mercancías de la Unión sujetas a medidas particulares durante el período transitorio posterior a la adhesión de nuevos Estados miembros.
+
+– Inclusión de mercancías de la Unión en el régimen de depósito aduanero contemplado en la columna B3 del cuadro de los requisitos en materia de datos del título I del anexo B del Reglamento Delegado (UE) 2015/2446 para obtener el pago de restituciones por exportación especiales previamente a la exportación, o fabricación bajo vigilancia y control aduaneros previamente a la exportación y el pago de restituciones por exportación.
+
+– Mercancías de la Unión en el marco del comercio entre partes del territorio aduanero de la Unión donde sean de aplicación las disposiciones de la Directiva 2006/112/CE del Consejo o de la Directiva 2008/118/CE del Consejo y partes de ese territorio donde no sean de aplicación esas disposiciones, o en el marco del comercio entre partes de ese territorio donde no sean de aplicación esas disposiciones según se indica en las columnas B4 y H5 del cuadro de los requisitos en materia de datos del título I del anexo B del [Reglamento Delegado (UE) 2015/2446 por el que se completa el Reglamento (UE) n.º 952/2013.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 1/2 | Tipo declaración adicional. | 1/1 | A | Y | a1 | 1x |  |  |
+
+11 02 000 000 Tipo de declaración adicional.
+
+Indíquese el código que corresponda:
+
+A para una declaración en aduana normal (en virtud del artículo 162 del Código).
+
+B para una declaración en aduana simplificada por falta de documentos (en virtud del artículo 166, apartado 1, del Código).
+
+X para una declaración complementaria a una declaración simplificada contemplada en B.
+
+Z para la notificación de la inscripción de las mercancías en el régimen de depósito (o los previsto en el presente capítulo) al amparo del procedimiento contemplado en el artículo 182 del Código.
+
+Si se trata de una predeclaración se utilizarán, asimismo, los códigos A o B según corresponda.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 1/6 | Número de orden de la partida. | 32 | A | X | n..5 |  | 1x |  |
+
+11 03 000 000 Número de artículo de las mercancías.
+
+Indíquese el número de la partida en relación con el número total de partidas contenidas en la declaración cuando haya más de una partida.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 1/8 | Firma/Autenticación. | 54 | A | Y |  | 1x |  |  |
+
+La declaración electrónica deberá estar autenticada mediante la firma electrónica (ver apartado F del capítulo 1 y apartado 6.1 de esta resolución) del declarante o su representante.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 1/10 | Régimen solicitado y precedente. | 37 (1) | A | X | an4 |  | 1x |  |
+
+11 09 000 000 Régimen solicitado y precedente.
+
+Debe indicarse el régimen aduanero que debe aplicarse a la mercancía declarada. Este régimen se expresará mediante un código de 4 dígitos resultante de la combinación de dos códigos que corresponden el primero al régimen que se solicita y el segundo al régimen precedente, es decir, al régimen aduanero en el que se encuentran las mercancías con anterioridad al solicitado.
+
+Los regímenes que pueden solicitarse son los siguientes:
+
+71 Inclusión en el régimen de depósito aduanero.
+
+76 Inclusión de mercancías de la Unión en el régimen de depósito aduanero de conformidad con el artículo 237, apartado 2 del Código.
+
+77 Fabricación de mercancías de la Unión bajo vigilancia aduanera de las autoridades aduaneras y sometida a controles aduaneros (a tenor del artículo 5, puntos 27 y 3, del Código) previamente a la exportación y el pago de restituciones por exportación.
+
+78 Vinculación al régimen de Zona Franca.
+
+95 Inclusión de bienes al régimen suspensivo de depósito distinto del aduanero del anexo quinto b) de la Ley del IVA por tratarse de entrega o adquisición intracomunitaria de bienes exenta o, inclusión en Depósito REF. (Este código sustituye al 73).
+
+Los regímenes precedentes más habituales son:
+
+51 Mercancía previamente incluida en el régimen de perfeccionamiento activo.
+
+53 Mercancía previamente incluida en el régimen de importación temporal.
+
+71 Mercancía previamente incluida en otro depósito aduanero.
+
+78 Mercancía previamente incluida en Zona Franca.
+
+07 Mercancía previamente incluida en un depósito distinto del aduanero o en un depósito REF, simultáneamente a su despacho a libre práctica (traslado de un DDA a otro DDA o entre depósitos REF).
+
+95 Mercancía previamente vinculada a depósito distinto del aduanero del anexo quinto b) de la Ley del IVA o depósito REF (traslado de un DDA a otro DDA).
+
+00 Mercancía no incluida en un régimen precedente.
+
+La relación completa de códigos de regímenes están en el anexo XIV-A.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 1/11 | Régimen adicional. | 37 (2) | A | X | an3 |  | 5x |  |
+
+11 10 000 000 Régimen solicitado y precedente.
+
+Información complementaria al régimen. Sólo debe incluirse cuando proceda alguno de los códigos de la Unión o nacionales relacionados en el anexo XIV-B. En el caso de que concurran más de un código, deberá declararse primero el de la Unión. Está prevista la declaración de hasta de 5 códigos.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 2/1 | Declaración simplificada/documentos precedentes. | 40 | A | Y/X | an..43 | 99x | 99x |  |
+
+12 01 000 000 Documento precedente.
+
+Indíquese, siguiendo las instrucciones siguientes, la declaración sumaria de depósito temporal, el documento precedente o la declaración simplificada previa.
+
+Esta información puede darse a nivel de cabecera, en cuyo caso el documento/s que se reseñe/n afecta a la totalidad de las partidas, o en cada una de las partidas. No es posible declarar en los dos niveles y, tanto a nivel de cabecera o a nivel de partida en la misma declaración. Sólo es posible incluir un mismo tipo de documento precedente.
+
+Es posible declarar más de un documento tanto a nivel de cabecera como de partida, en cuyo caso la declaración o la partida de orden, debe incluir la totalidad de los documentos o de los documentos-partida reseñados.
+
+Puede declararse el documento de que se trate (si se data la totalidad) o el documento-partida.
+
+Forma de referenciar un documento:
+
+1\. Código de 3 dígitos para indicar el tipo de documento según el cuadro siguiente.
+
+2\. Número del documento con la estructura que se indica.
+
+3\. Número de la partida (5 dígitos) si fuera necesario.
+
+<table>
+<thead>
+<tr>
+<th>Tipo documento</th>
+<th>Código</th>
+<th>Referencia</th>
+<th>Partida</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>DDT.</td>
+<td>337</td>
+<td>MRN (an18)</td>
+<td>n5</td>
+</tr>
+<tr>
+<td>DDT (formato aéreo).</td>
+<td>337</td>
+<td colspan="2">an..35 (a)</td>
+</tr>
+<tr>
+<td>Declaración previa depósito.</td>
+<td>DVD</td>
+<td>n14 (b)</td>
+<td>n3</td>
+</tr>
+<tr>
+<td>Declaración previa.</td>
+<td>DUA</td>
+<td>MRN (an18)</td>
+<td>n3</td>
+</tr>
+<tr>
+<td>Declaración simplificada.</td>
+<td>SDE</td>
+<td>MRN (an18)</td>
+<td>n3</td>
+</tr>
+<tr>
+<td>Inscripción en los registros.</td>
+<td>CLE</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Otros.</td>
+<td>ZZZ</td>
+<td>an..35</td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+Deberá incluirse por cada documento la unidad y cantidad de mercancía que se data de dicho documento.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 2/2 | Información adicional. | 44 | A | X | an5 + an..512 |  | 99x |  |
+
+12 02 00 0 000 Información adicional.
+
+Indíquese el código correspondiente siempre que una normativa específica lo exija. Estas informaciones se encuentran codificadas y relacionadas en el anexo XV-A.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 2/3 | Documentos presentados, certificados y autorizaciones, referencias adicionales. | 44 | A | X/Y | an4 + an..35 |  | 99x |  |
+
+12 03 000 000 Documentos justificativos.
+
+12 12 000 000 Autorizaciones.
+
+12 05 000 000 Documento de transporte.
+
+12 04 000 000 Información adicional.
+
+Se identificarán las autorizaciones, certificaciones y documentos justificativos exigidos para la aplicación de las disposiciones que regulan el régimen aduanero para el que se declaran las mercancías.
+
+Los documentos pueden declararse a nivel de cabecera si afectan a toda la declaración o a nivel de partida. El mismo tipo de documento no puede incluirse en los dos niveles.
+
+La documentación debe reseñarse de la forma siguiente:
+
+– Mediante un código correspondiente al tipo de documento. Se trata de códigos de cuatro caracteres que comenzarán con una letra cuando su origen sea comunitario y con un número cuando sea nacional. Pueden consultarse en la base de datos del TARIC.
+
+– Identificando el documento en sí, indicando la clave del país donde ha sido expedido, su número y fecha de expedición, salvo que se den otras normas específicas.
+
+Cabe destacar los siguientes documentos que deberá incorporarse, específicos de este régimen:
+
+– La ubicación del depósito que debe incluirse con el código 5018.
+
+– Las unidades en las que se va a llevar la contabilidad de existencias, incluyendo para ello el código del tipo de unidad y la cantidad expresada en dicha unidad. Si no se declara ninguna, el control se realizará a partir de la masa bruta declarada en el dato 6/5.
+
+– La aceptación de la mercancía por parte del depositario cuando se trate de un depósito aduanero o distinto del aduanero público.
+
+– Cuando se trate de reimportaciones, mercancía en retorno, o cualquier otro supuesto en que existiera un documento aduanero previo no previsto en la casilla 40, deberá declararse en esta casilla el documento y número e incluir copia del mismo.
+
+– En las declaraciones referidas a operaciones en las que intervenga un OEA, deberá incluirse el código que corresponda según su participación en la operación y el número completo de autorización.
+
+– En la vinculación de mercancía de la Unión a depósito aduanero según lo previsto en el Reglamento (CE) n.º 1741/2006, se hará constar el número de certificado para carnes deshuesadas de cuartos delanteros/traseros de bovinos pesados machos, así como el certificado AGREX correspondiente.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 2/4 | Número de referencia/RUE. | 7 | C | Y/X | an..35 | 1x | 1x |  |
+
+12 08 000 000 Numero de referencia/RUE.
+
+Inclusión de la referencia comercial única asignada por el operador al envío de que se trate. Podrá adoptar la forma de los códigos OMA (ISO 15459) o equivalente. Facilita la trazabilidad de la declaración en el sistema del operador.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 2/5 | NRL | A | A | Y | an..22 | 1x |  |  |
+
+12 09 000 000 NRL.
+
+Identificación del mensaje por parte del operador antes de su numeración por la Aduana.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 2/7 | Identificación del depósito. | 49 | A | Y | an..22 | 1x |  |  |
+
+12 11 000 000 Depósito.
+
+Deberá incluirse el código de tipo de depósito y el número de autorización del mismo. Dicho número deberá comenzar por el código del Estado miembro que lo ha autorizado y la clave del tipo de autorización (3 o 4 dígitos).
+
+| Código tipo Depósito | Descripción | Clave n.º autorización |
+|---|---|---|
+| R | Depósito aduanero público tipo I. | CW1, CW2 |
+| S | Depósito aduanero público tipo II. | CW1, CW2 |
+| T | Depósito aduanero público tipo III. | CW1, CW2 |
+| U | Depósito aduanero privado. | CWP |
+| Y | Depósito distinto del aduanero y depósito REF. | DDA1, DDA2, DDAP REF1, REF2, REFP |
+
+Deberá completarse esta identificación con la inclusión del código de ubicación que corresponda al depósito concreto donde se almacenará la mercancía. Deberá incluirse en el dato 2/3 de la primera partida de orden con el código 5018. Dicha ubicación deberá estar contemplada en la autorización del depósito.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 3/1 | Exportador. | 2 | C | Y | an..186 | 1x |  | Sólo B3 |
+| 3/2 | N.º de Identificación del exportador. | 2 | A | Y | an..17 | 1x |  | Sólo B3 |
+
+13 01 000 000 Exportador.
+
+Nombre y dirección de la parte que efectúe o por cuya cuenta se efectúe la declaración de vinculación al régimen. Asimismo, deberá incluirse el n.º EORI.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 3/16 | N.º de Identificación del importador. | 8 | A | Y | an..17 | 1x |  | Sólo H2 |
+
+13 04 000 000 Importador/Depositante.
+
+Indíquese el n.º EORI de la persona que efectúe o por cuya cuenta se efectúe la declaración de vinculación al régimen.
+
+Deberá tenerse en cuenta que si se trata de una persona física o jurídica no establecida en la Unión deberá efectuar la declaración a través de un representante bajo modalidad indirecta.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 3/18 | N.º de Identificación del declarante. | 14 | A | Y | an..17 | 1x |  |  |
+
+13 05 000 000 Declarante.
+
+Indíquese el n.º EORI de la persona en cuestión.
+
+En caso de que coincida con el importador (declaración H2) o exportador (declaración B3), deberá consignarse el código de información adicional correspondiente (00500 o 00400 respectivamente).
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 3/20 | N.º de Identificación del representante. | 14 | A | Y | an..17 | 1x |  |  |
+| 3/21 | Código de estatuto del representante. | 14 | A | Y | n1 | 1x |  |  |
+
+13 06 000 000 Representante.
+
+13 06 030 000 Estatuto.
+
+Sólo se exigirá esta información si no coincide con el declarante. Indíquese el n.º EORI del representante.
+
+Asimismo, deberá incluirse uno de los códigos siguientes, según corresponda:
+
+| 2 | Representación directa a tenor del artículo 18. 1 del Código. |
+|---|---|
+| 3 | Representación indirecta a tenor del artículo 18. 1 del Código. |
+| 4 | (Únicamente para Canarias) Representación directa para la ATC e indirecta para la Agencia Tributaria. |
+| 5 | (Únicamente para Canarias) Representación indirecta para la ATC y directa para la Agencia Tributaria. |
+
+Será obligatorio la inclusión de un correo electrónico donde puedan enviarse las comunicaciones relacionadas con el despacho y, opcionalmente podrá incluirse un correo adicional para otras comunicaciones de acuerdo a lo indicado en el apartado 6.3.4 de esta resolución.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 3/37 | N.º de Identificación de agente/s adicionales de la cadena de suministro. |  | C | Y/X | an..20 | 9x | 9x |  |
+
+13 14 000 000 Agentes adicionales de la cadena de suministro.
+
+N.º de identificación único asignado a un operador en el marco de un acuerdo de reconocimiento mutuo de OEAs con terceros países. El n.º de identificación deberá ir precedido de uno de los códigos siguientes:
+
+| CS | Consolidador. |
+|---|---|
+| MF | Fabricante. |
+| FW | Transitario. |
+| WH | Depositario. |
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 3/39 | N.º de Identificación del titular del régimen. |  | A | Y | an.20 | 1x |  |  |
+
+13 000 000 Titular del régimen.
+
+Deberá declararse el código del tipo de autorización y el n.º EORI del titular:
+
+| CWP | Depósito aduanero privado. |
+|---|---|
+| CW1 | Depósito aduanero público tipo I. |
+| CW2 | Deposito aduanero público tipo II. |
+| DDA1 | Depósito distinto del aduanero tipo I. |
+| DDA2 | Depósito distinto del aduanero tipo II. |
+| DDAP | Depósito distinto del aduanero privado. |
+| REF2 | Depósito REF público. |
+| RERP | Depósito REF privado. |
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 4/4 | Calculo de impuestos Base imponible. | 47 | A | X | an..6 + n..16,6 |  | 1x | H2 |
+
+14 03 000 000 Derechos e Impuestos.
+
+14 03 040 000 Base imponible.
+
+Indíquese la base imponible de la mercancía.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 4/17 | Preferencia. | 36 | C | X | n3 |  | 1x | H2 |
+
+14 11 000 000 Preferencia.
+
+Dato opcional para el operador que podrá indicar el código de preferencia que correspondería en caso de despacho a libre práctica (código de 3 dígitos preferencia-reducción).
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 5/8 | Código de País de destino. | 17 a | A | YX | a2 | 1x | 1x | B3, H2 |
+
+16 03 000 000 Código país de destino.
+
+Régimen 71 (columna H2): Utilizando el código de la Unión pertinente, indíquese el correspondiente al Estado miembro en el que se encuentra el depósito aduanero.
+
+Régimen 76, 77 (columna B3): Utilizando el código de la Unión pertinente, indíquese el país tercero al que está previsto exportar la mercancía.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 5/14 | Código de país de exportación. | 15 a | A | YX | a2 | 1x | 1x |  |
+
+16 06 000 000 Código país de exportación.
+
+Régimen 71, 95 (columna H2): Si no existe una transacción comercial (por ejemplo, venta o transformación), ni se ha producido una parada no relacionada con el transporte en un país intermedio, indíquese el código de la Unión pertinente para señalar el país desde el que se hayan expedido inicialmente las mercancías al Estado miembro en el que se encuentren las mercancías. En caso de que se haya producido esa parada u operación comercial, indíquese el último país intermedio.
+
+A los efectos de este dato, las paradas realizadas a fin de permitir la consolidación de las mercancías en camino se considerarán relacionadas con el transporte de las mercancías.
+
+Régimen 76 y 77: Indíquese el código de la Unión pertinente correspondiente al Estado miembro en el que se encuentren las mercancías.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 5/15 | Código de país de origen. | 34 a | A | X | An..2 |  | 1x | H2 |
+
+16 08 000 000 Código país de origen.
+
+Se indicará el código de la Unión correspondiente para el país de origen no preferencial, tal como se define en el título II, capítulo 2, del Código.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 5/16 | Código de país de origen preferencial. | 34 a | C | X | An..2 |  | 1x | H2 |
+
+16 09 000 000 Código país de origen preferencial.
+
+Se indicará el código correspondiente si se hubiera indicado un código preferencial en el dato 4/17.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 5/23 | Localización de las mercancías. | 30 | A | Y | an.12. | 1x | 1x | H2 |
+
+16 15 000 000 Ubicación de las mercancías.
+
+Se indicará el código correspondiente al lugar donde se presentan las mercancías en la Aduana para solicitar el régimen de que se trata.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 5/26 | Aduana de presentación. | 30 | A | Y | an.12. | 1x | 1x | H2 |
+
+17 09 000 000 Aduana de presentación.
+
+Sólo en caso de despacho centralizado europeo. Indíquese el código de la aduana donde se encuentra la mercancía.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6.2 | Unidades suplementarias. | 41 | A | X | n..16,6. | 1x |  |  |
+
+18 02 000 000 Unidades suplementarias.
+
+Indíquese, en su caso, para el artículo correspondiente, la cantidad expresada en la unidad prevista en la legislación de la Unión, publicada en TARIC.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6.5 | Masa bruta. | 35 | A | YX | n..16,6. | 1x | 1x |  |
+
+18 04 000 000 Masa bruta.
+
+Indíquese la masa bruta de las mercancías, expresada en kilogramos. Este dato deberá declararse al mismo nivel que se declare el dato 2/1.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6.8 | Descripción mercancía. | 31 | A | X | an..512 |  | 1x |  |
+
+16 05 000 000 Descripción de las mercancías.
+
+Se entenderá por descripción de las mercancías la denominación comercial usual de las mismas.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6.9 | Tipo de bultos. | 31 | A | X | an..2. |  | 99x |  |
+
+18 06 003 000 Bultos.
+
+Indíquese el código que especifique el tipo de bulto de acuerdo a la codificación prevista en el anexo XIII.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6/10 | N.º de bultos. | 31 | A | X | n..8. |  | 99x |  |
+
+18 06 004 000 N.º de bultos.
+
+Número total de bultos de acuerdo con la unidad de embalaje exterior más pequeña. Se trata del número de artículos individuales embalados de tal forma que no se puedan dividir sin deshacer el embalaje o del número de unidades en caso de mercancías no embaladas. Esta información no se facilitará cuando se trate de mercancías a granel.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6/11 | Marcas de expedición. | 31 | A | X | an..512 |  | 99x |  |
+
+18 06 054 000 Marcas de expedición.
+
+Descripción libre de las marcas y números que figuran en las unidades o bultos objeto del transporte.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6/12 | CUS código. |  | C | X | an..8 |  | 99x |  |
+
+18 08 000 000 Código CUS.
+
+Dato opcional para el operador. El número estadístico y de la unión aduanera (CUS) es el identificador asignado en el Inventario Aduanero Europeo de Sustancias Químicas (ECICS) a las principales sustancias y preparados químicos.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 6/14 | Código mercancía-Código de Nomenclatura combinada. | 33(1) | B | X | n8 |  | 1x |  |
+| 6/15 | Código mercancía-Código TARIC. | 33(2) | B | X | n2 |  | 1x |  |
+| 6/16 | Código mercancía-Código TARIC. | 33(3) | B | X | an4 |  | 9x |  |
+| 6/17 | Código mercancía-Código TARIC nacional. | 33(5) | B | X | an4 |  | 9x |  |
+
+18 09 000 000 Código de la mercancía.
+
+Indíquese el número de código de la nomenclatura combinada, código TARIC y códigos adicionales correspondiente al artículo de que se trate.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 7/2 | Contenedor. | 19 | A | Y | n1 | 1x |  |  |
+
+19 01 000 000 Indicador de contenedor.
+
+Indíquese si la mercancía se encuentra en contendor mediante uno de los códigos siguientes:
+
+0 Mercancías no transportadas en contendor.
+
+1 Mercancías transportadas en contendor.
+
+En el tráfico ro-ro, tendrá la consideración de contenedor cualquier otra unidad de carga intermodal (UTI/UCI) como remolques, semirremolques o camiones.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 7/4 | Modalidad de transporte en frontera. | 25 | B | Y | n1 | 1x |  |  |
+
+19 03 000 000 Modalidad de transporte en frontera.
+
+Se indicará la modalidad correspondiente al medio de transporte activo en que han entrado las mercancías en el territorio aduanero de la Unión o, en el caso de envíos entre Estados miembros, en el Estado o área correspondiente, según los siguientes códigos de una cifra:
+
+1 Transporte marítimo.
+
+2 Transporte por ferrocarril.
+
+3 Transporte por carretera.
+
+4 Transporte aéreo.
+
+5 Envíos Postales.
+
+7 Instalaciones de transportes fijas.
+
+8 Transporte por navegación interior.
+
+9 Propulsión propia.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 7/10 | N.º contenedor. | 31 | A | XY | an,,17 | 999x | 999x |  |
+
+19 07 000 000 Identificación del contenedor.
+
+Identifique el/los contenedor/es o el número de matrícula según lo previsto en el dato 7/2 donde se encuentra la mercancía. Este dato deberá declararse al mismo nivel que el dato 2/1.
+
+| N.º | Descripción | Casilla DUA | d) | e) | f) | g) | h) | Observaciones |
+|---|---|---|---|---|---|---|---|---|
+| 8/2 | Identificación garantía. | 52 | A | Y | an1 | 9x |  |  |
+| 8/3 | Referencia garantía. | B | A | Y | GRN | 1x |  |  |
+
+99 02 000 000 Tipo de garantía.
+
+99 03 000 000 Referencia de la garantía.
+
+Deberá incluirse el Número de Referencia de la Garantía (GRN) de la garantía que avale el régimen si no fuera la garantía del titular del depósito.
+
+5.4 Declaración simplificada.
+
+5.4.1 Declaración simplificada por falta de datos.
+
+Los operadores podrán optar por presentar una declaración simplificada cuando se desconozca la cantidad de mercancía que se vincula al régimen de depósito, de acuerdo a lo establecido en el artículo 166 del CAU.
+
+Esta declaración simplificada podrá ser de uso ocasional o de uso habitual, estando en este último caso, sujeta a autorización.
+
+En todos los casos se tratará de una declaración simplificada por falta de datos, identificándose con la clave de tipo de procedimiento «B». Esta declaración se cumplimentará de acuerdo con las instrucciones del apartado 5.3, si bien en aquellos datos que se refieren a la cantidad del producto los importes consignados serán los previstos conforme a lo indicado en los títulos de transporte o documentación comercial correspondiente.
+
+5.4.2 Notificación del peso definitivo.
+
+Cuando el declarante disponga del peso definitivo deberá presentar una notificación rectificativa de dicho dato inicialmente declarado, en virtud de la obligación de registros que le impone el artículo 214 del CAU. Esta notificación se efectuará en el plazo máximo de 30 días desde la presentación de la declaración simplificada.
+
+Esta notificación contendrá los datos que exige el apartado 5.3 de la presenta Resolución, si bien se indicará como tipo de procedimiento el «X». Esta notificación únicamente podrá modificar, respecto a la declaración simplificada anterior, los datos relacionados con el peso y unidades. Tendrá que tenerse en cuenta que, si las cantidades son inferiores a las declaradas en un principio y ya se ha desvinculado del régimen de depósito mercancías, nunca podrá dar lugar a un resultado negativo de existencias que permanezcan en el mismo.
+
+Los documentos acreditativos del pesaje deberán estar a disposición de la autoridad aduanera al tiempo de presentar esta rectificación.
+
+> Se añade por el que figura como anexo 2º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.5. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituyen los apartados 5.4 y 5.5 numerándose como el actual 5.3 y con efectos de 15 de enero de 2021, se deja sin efecto todo el capítulo, por el apartado primero.4.a) y el apartado segundo de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifican los apartados 5.2.1, 5.2.2, se suprime el 5.3 y se añaden el 5.4 y 5.5 por el apartado primero.6 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifica el apartado 5.2.2, casilla 37, subcasilla 1 letra E) por el apartado primero.14 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## CAPÍTULO 6.º — Presentación de DUAS por transmisión electrónica de datos
+
+6.1 Preliminar.
+
+El artículo 4 bis del Reglamento (CEE) n.º 2454/1993, establece que las autoridades aduaneras podrán prever, con arreglo a las condiciones y según las modalidades que determinen y observando los principios establecidos por la normativa aduanera, que se lleven a cabo las formalidades por procedimientos informáticos.
+
+Se entenderá por:
+
+‒ procedimientos informáticos:
+
+a) el intercambio con las autoridades aduaneras de mensajes normalizados EDI/XML;
+
+b) la introducción de elementos de información necesarios para la realización de las formalidades de que se trate en los sistemas informáticos aduaneros;
+
+‒ EDI (Electronic Data Interchange, Intercambio electrónico de datos): la transmisión de datos estructurados con arreglo a normas autorizadas de mensaje, entre un sistema informático y otro, por vía electrónica;
+
+‒ norma EDIFACT (norma ISO 9735): Intercambio electrónico de datos para la administración, el comercio y el transporte;
+
+‒ mensaje normalizado: una estructura predefinida y reconocida para la transmisión electrónica de datos;
+
+‒ mensajes CUSDEC Y CUSRES: mensajes normalizados diseñados y mantenidos por el grupo de «Aduanas e impuestos» MD3 del Consejo EDIFACT para Europa Occidental, con el objeto de permitir la transferencia de datos de un declarante a una administración de aduanas relativos a las operaciones de importación, exportación o tránsito;
+
+‒ XML, (eXtensible Markup Language), es un Lenguaje de Etiquetado Extensible que sirve para estructurar, almacenar e intercambiar información;
+
+‒ firma electrónica que cumpla con los requisitos previstos en la Orden HAP/800/2014, de 9 de mayo, por la que se establecen normas específicas sobre sistemas de identificación y autenticación por medios electrónicos con la Agencia Estatal de Administración Tributaria (BOE 16-5-2014);
+
+‒ NRC: número de referencia completo definido en la Orden de 28 de diciembre de 2000, por la que se otorga el carácter de justificante de pago a determinados documentos emitidos por las entidades de depósito (BOE de 3-1-2001);
+
+‒ formulario web: formularios incluidos en la página web de la Agencia Tributaria que permiten la inclusión de los datos de la declaración y su presentación a través de Internet;
+
+‒ CSV (Código Seguro de Verificación): código para el cotejo de documentos en la Sede Electrónica de la Agencia Tributaria.
+
+‒ Servicio web, es un componente al que podemos acceder mediante protocolos Web estándar, utilizando XML para el intercambio de información.
+
+6.2 Características del sistema.
+
+La transmisión se realizará a través de Internet sin limitación de horario pero teniendo en cuenta que la presentación, rechazo y aceptación de declaraciones vendrá determinada por el horario de la Sede Electrónica de la Agencia Tributaria, que podrá consultarse en Internet (https://aeat.es).
+
+a) Requisitos para la presentación mediante mensajes.
+
+‒ El declarante deberá tener instalado en el navegador firma electrónica que cumpla con los requisitos previstos en la Orden HAP/800/2014.
+
+‒ Generar un mensaje EDIFACT/XML con la declaración a transmitir conforme a las guías correspondientes que se encuentran disponibles en Internet (http://www.agenciatributaria.es).
+
+El Departamento de Aduanas de la AEAT se encargará del mantenimiento del mensaje.
+
+b) Presentación mediante formulario web:
+
+Los interesados podrán presentar telemáticamente las declaraciones previstas en la Sede Electrónica de la Agencia Estatal de Administración Tributaria (https://www.agenciatributaria.gob.es) las cuales podrán ser efectuadas mediante:
+
+a) Un sistema de identificación y autenticación empleando un certificado electrónico reconocido emitido de acuerdo a las condiciones que establece la Ley 59/2003 de Firma Electrónica que resulte admisible por la Agencia Tributaria según la normativa vigente en cada momento.
+
+b) En el caso de personas físicas que actúen en nombre propio, un sistema de identificación y autenticación con clave de acceso en un registro previo como usuario basado en el establecido en el apartado primero.3.c) y desarrollado en el anexo III de la Resolución de 17 de noviembre de 2011 de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se aprueban sistemas de identificación y autenticación distintos de la firma electrónica avanzada para relacionarse electrónicamente con la misma.
+
+Las personas que utilicen este procedimiento deberán tener en cuenta lo previsto en el apartado 6.7 relativo al archivo de la documentación necesaria para aplicar el régimen aduanero de que se trate.
+
+6.3 Funcionamiento del sistema para declaraciones de importación, exportación o vinculación a depósito.
+
+6.3.1 Contenido del DUA.
+
+El DUA presentado por medios electrónicos deberá seguir fielmente las instrucciones contenidas en esta Resolución para la declaración presentada en papel, teniendo en cuenta que tendrán primacía los datos codificados sobre lo declarado mediante texto libre.
+
+Se entenderá que el envío de una declaración aduanera por vía electrónica implica que el declarante dispone de toda la documentación necesaria para el despacho, bien por preferencia o régimen puntualizado, bien por ser inherente a la partida arancelaria en cuestión. Se exceptúa de esta obligación la disposición de los certificados de inspección fronteriza en aquellos casos en que el declarante quiera acogerse a la Ventanilla Única Aduanera (VUA) y solicitar la inspección conjunta de todos los Servicios, puesto que estos certificados se tendrán que recibir directamente del Organismo emisor. Los documentos de que se disponga, deberán aparecer puntualizados en la casilla 44 del DUA, perfectamente identificados.
+
+6.3.2 Presentación y admisión.
+
+Se considerará que la declaración aduanera realizada por vía electrónica se presenta en el momento en que las autoridades aduaneras reciben el mensaje por vía electrónica y no es erróneo.
+
+6.3.2.1 PreregistrO (PDI). En el marco de la ventanilla única aduanera, VUA, a efectos de facilitar el intercambio de información con el resto de servicios de inspección fronteriza, podrá solicitarse un MRN de importación mediante la presentación de un PDI, con los datos que se incluyen en el apartado 2.6 del capítulo 2.º, antes de la presentación de las mercancía en la Aduana.
+
+Si el mensaje es aceptado, la Aduana responderá con el número de registro de la operación (MRN), para su uso en las solicitudes de inspección a los SIF, y con información sobre los certificados y autorizaciones de otros Servicios que pudieran ser necesarios para obtener el levante de las mercancías, de acuerdo con la posición arancelaria declarada.
+
+6.3.2.2 Presentación de la declaración aduanera. Podrá presentarse la declaración completa:
+
+a) Antes de la presentación de la mercancía (predeclaración completa normal o simplificada-PDC/PDS) con toda la información requerida para el régimen solicitado, en cuyo caso se realizará la admisión de la misma:
+
+– en el momento de la activación de la Declaración de Depósito Temporal (DDT), presentación de la mercancía en caso de DUAs de importación y vinculación a depósito aduanero y distinto del aduanero,
+
+– con la declaración G3 (presentación de mercancías en la aduana) cuando se trate de preH7,
+
+– en el momento de la comunicación por parte de la terminal marítima, de la entrada en el recinto aduanero del contenedor en el que se encuentran las mercancías (exportación), o
+
+b) Una vez que la mercancía esté ya a disposición de la Aduana. En este supuesto, la declaración será admitida, salvo rechazo del mensaje por errores.
+
+Pueden presentarse declaraciones PDC/PDS sin la inclusión de la referencia de la DSDT que puede adicionarse posteriormente, aunque siempre antes de la admisión de la declaración. La presentación de las declaraciones PDC/PDS podrá realizarse hasta 30 días antes de la llegada de la mercancía. Superado este plazo se tendrán por no presentadas.»
+
+6.3.2.3 Respuesta de la Aduana: El contenido de la respuesta de la Aduana será el siguiente:
+
+a) Mensaje de error: la declaración no ha sido admitida por ser incorrecta o no estar la deuda aduanera debidamente garantizada. El mensaje hará referencia a los errores detectados en la declaración presentada.
+
+b) Mensaje de aceptación de la declaración que puede ser:
+
+• De aceptación para predeclaraciones PDC y PDS con:
+
+– El número de registro (MRN), en su caso, coincidente con el ya asignado al PDI,
+
+– Identificación de los certificados o autorizaciones necesarios para el despacho que no se encuentran en la bases de datos de la aduana (sólo en importación).
+
+– CSV correspondiente a la declaración electrónica presentada, o.
+
+• De admisión de la declaración, si la mercancía está presentada, que incluirá:
+
+– La información incluida en el mensaje de aceptación (MRN, identificación de los certificados no encontrados y CSV de la declaración electrónica presentada),
+
+– Identificación de los certificados o autorizaciones necesarios para el despacho que no se encuentran en la bases de datos de la aduana (sólo en importación),
+
+– La fecha de admisión.
+
+– El detalle del cálculo de la deuda estimada partir de los datos declarados.
+
+– El tipo de despacho asignado:
+
+Circuito rojo: reconocimiento físico de la mercancía;
+
+Circuito naranja: despacho documental de la declaración;
+
+Circuito amarillo: comprobación de la existencia y validez de determinado certificado de Inspección Fronteriza o autorización necesaria para el despacho y que, hasta el momento de la admisión no ha sido transmitido a la Aduana por el Organismo emisor correspondiente. Este circuito no identifica el tipo de control que vayan a realizar dichos Servicios de Inspección;
+
+Circuito verde: despacho automático. En este caso, el mensaje de respuesta incluirá el número de levante/despacho en formato CSV (justificante de que la mercancía ha sido despachada), salvo en caso de pago previo al levante, y la fecha de levante.
+
+En el marco de la VEXCAN, la respuesta incluirá dos circuitos, uno para la ATC y otro para la AEAT, que podrán ser no coincidentes.
+
+– Número de justificante: cuando se trate de una declaración asignada a circuito verde se incluirá en el mensaje de respuesta el número de justificante y el resto de datos necesarios para que el operador, si no desea realizar el pago directamente por Internet, imprima la carta de pago (modelo 031 y, en el marco de la VEXCAN, el modelo 032) siguiendo el formato incluido en el Anexo XVI.
+
+6.3.2.4 Comunicación de admisión automática de PDC/PDS: En el supuesto de presentación de la mercancía con posterioridad a la aceptación de la declaración, la Aduana comunicará al operador la admisión de la declaración mediante la infraestructura de bandeja de entrada, con el detalle previsto en el apartado anterior.
+
+6.3.3 Despacho de la mercancía.
+
+Con anterioridad a la admisión de una declaración PDC/PDS y a la asignación de circuito, el operador podrá presentar los documentos y certificados pertinentes cómo se indica en el apartado 6.3.3.3, a fin de que la Aduana pueda realizar, si así lo decide, el control de la citada documentación. Esta posibilidad está prevista para agilizar el levante de productos perecederos u otros envíos urgentes que puedan llegar fuera del horario de despacho de la aduana y siempre que la DSDT se active a más tardar el primer día hábil siguiente a la incorporación de la documentación.
+
+6.3.3.1 Asignación de circuito verde.
+
+Implica que se ha realizado el despacho automático de la declaración. El mensaje de respuesta de la Aduana incluirá el CSV del levante salvo en los DUA en que el declarante se haya acogido al pago de la deuda aduanera de forma previa al levante.
+
+6.3.3.2 Asignación de circuito amarillo.
+
+Pueden darse distintas situaciones:
+
+a) Los certificado/s y/o /autorización/es que faltaban en el momento de la admisión son transmitidos a la Aduana por el Organismo emisor correspondiente y la información puede ser cruzada de forma automática con el DUA correspondiente con resultado conforme. En este supuesto el declarante obtendrá el levante de forma automática.
+
+b) Los certificado/s y/o /autorización/es que faltaban en el momento de la admisión son transmitidos a la Aduana por el Organismo emisor correspondiente pero no es posible realizar el cruce de forma automática porque en los mismos no figura el MRN del DUA. En este caso el declarante deberá presentar un mensaje completando la información de la casilla 44 de forma que sea posible realizar dicho cruce.
+
+c) Que los citados documentos no sean transmitidos a la aduana. En ese caso, el declarante deberá completar la casilla 44 e incorporarlos al DUA, si fuera necesario, en pdf cómo se indica en el párrafo segundo del apartado siguiente. Si tuviera que ser datado por la Aduana, también deberá aportarlo en papel para su control.
+
+6.3.3.3 Asignación de circuito naranja o rojo.
+
+El declarante deberá presentar todos los documentos y certificados pertinentes, a más tardar, en el día laborable siguiente al de la fecha de recepción de mensaje de admisión de la declaración, excepto aquellos que sean transmitidos a la Aduana por el Organismo emisor (ver apartado anterior). Este mensaje tendrá la consideración de requerimiento con conocimiento formal del obligado.
+
+La presentación de documentos y certificados se realizará adjuntando a la declaración electrónica ya admitida, a la que se accederá a través de la Sede Electrónica de la AEAT, un archivo en formato ‘‘PDF’’ con la totalidad de la documentación reseñada en la casilla 44 del DUA, con la denominación ‘‘casilla 44’’ y el número del DUA u otro identificador.
+
+También podrán ser aportados en papel junto con una copia de la declaración por registro, para su inclusión en el expediente electrónico.
+
+6.3.3.4 Despacho.
+
+La Administración de Aduanas correspondiente podrá solicitar documentación adicional. El declarante recibirá un correo electrónico en el que se identificará el funcionario que está comprobando la declaración y la documentación adicional que debe ser aportada por cualquiera de los procedimientos anteriores.
+
+En los casos previstos en el artículo 134.3 del Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de Desarrollo de las Normas Comunes de los Procedimientos de Aplicación de los Tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, el levante tendrá asimismo la consideración de liquidación derivada de la presentación de la declaración y de notificación de la misma, en aplicación del artículo 221.2 del Reglamento (CEE) n.º 2913/1992.
+
+En los casos en los que el levante pueda concederse con carácter previo a la determinación de los derechos resultantes de la presentación de la declaración, el levante tendrá la consideración de comunicación del importe de los derechos resultantes exclusivamente de los datos declarados y se entiende sin perjuicio de la posterior liquidación derivada de la declaración en aplicación del artículo 248 del DAC.
+
+Cuando no exista garantía de la deuda tributaria y aduanera declarada en el DUA, el despacho de la mercancía se entenderá realizado con su liquidación. El levante se extenderá una vez justificado el pago (ver apartado 6.3.3.5).
+
+En las declaraciones de importación y en las de vinculación a depósito, el interesado podrá obtener en la Sede Electrónica certificación del despacho una vez que esté autorizado el levante de la mercancía.
+
+6.3.3.5 Obtención del levante.
+
+a) DUA cuya deuda aduanera esté garantizada:
+
+Una vez despachado el DUA el operador podrá imprimir el levante consultando la declaración en la Sede electrónica.
+
+b) DUA con pago previo al levante:
+
+En este caso aunque el circuito asignado haya sido verde no se incluirá en el mensaje de respuesta de la Aduana el CSV del levante ni podrá obtener el levante hasta que el declarante justifique que se ha realizado el pago de la deuda.
+
+Si el pago lo realiza directamente, a través de Internet, el levante se generará de forma automática y podrá acceder al mismo en la Sede Electrónica.
+
+Si el pago no se realiza por Internet, deberá imprimir en su sistema, la carta de pago (modelo 031 y, en el marco de la VEXCAN, el modelo 032). Una vez obtenido el justificante de pago en el Banco, podrá obtener el levante:
+
+Comunicando el pago a la Aduana mediante la opción prevista para ello en Internet.
+
+Presentando en la Aduana el justificante del pago.
+
+El operador podrá imprimir el justificante de levante de la mercancía en la Sede Electrónica de la AEAT o solicitarlo a la Aduana. Dicho levante incluye el código seguro de verificación (CSV) en número y en código de barras para facilitar su consulta por cualquier interesado y en especial por los titulares de los almacenes donde se encuentre la mercancía.
+
+6.3.4 Comunicaciones mediante correo electrónico relativas al despacho de la mercancía.
+
+El declarante/representante puede obtener información sobre determinados trámites del despacho de su declaración mediante mensaje electrónico para lo que debe incluir en la declaración su dirección de correo electrónico. Opcionalmente puede incluir un segundo correo electrónico para informar directamente a un tercero del levante de la mercancía.
+
+– Comunicaciones previstas a la dirección de correo del declarante/representante:
+
+• Presentación de mercancías (activación de DSDT) y admisión PDC,
+
+• relativas al despacho, comunicaciones del actuario,
+
+• posicionamiento en escáner,
+
+• despacho de la declaración aduanera,
+
+• levante de la mercancía.
+
+– Comunicaciones a la 2.ª dirección de correo:
+
+• Posicionamiento en escáner,
+
+• levante de la mercancía.
+
+Estas comunicaciones no suponen notificaciones administrativas.
+
+6.3.5 Exportaciones con salida indirecta (ECS): Impresión del DAE (documento de acompañamiento de exportación).
+
+Aquellas operaciones de exportación en las que la aduana de salida declarada en la casilla 29 sea distinta de la aduana donde se encuentra la mercancía serán gestionadas por la aplicación de control de exportaciones (ECS). En estos supuestos, el ejemplar 3 para presentar en la aduana de salida y el ejemplar del levante serán sustituidos por el DAE. La impresión se podrá realizar, una vez efectuado el despacho por:
+
+a) Los exportadores autorizados y otros operadores expresamente autorizados a imprimir este documento de acompañamiento, cuando hayan incluido el MRN, el resultado conforme del despacho y la autenticación informática a los datos de la exportación.
+
+b) El resto de operadores lo podrá imprimir directamente desde la consulta de la declaración de exportación en la página web de la agencia tributaria, o bien solicitar su impresión en la Aduana.
+
+El mensaje de respuesta a la declaración de exportación incluirá, cuando se trate de una declaración con levante automático, uno de los siguientes códigos para indicar el tipo de impresión:
+
+| 0 | No procede la impresión del DAE. |
+|---|---|
+| 1 | El declarante no está autorizado a imprimir el DAE (apartado b) anterior). |
+| 2 | Puede realizarse la impresión (apartado a) anterior). |
+
+La impresión y utilización de documentos de acompañamiento por parte de los operadores sin estar expresamente autorizados para ello, dará lugar a las correspondientes sanciones.
+
+6.3.6 Impresión de la carta de pago (031 y 032).
+
+El mensaje de admisión de los DUAs, incluye los datos necesarios para que el operador pueda imprimir la/s carta/s de pago (modelo 031 para las deudas gestionadas por la Agencia Tributaria y modelo 032 para las deudas gestionadas por la ATC). Dichos modelos se incluyen en el apartado E) del Anexo XVI.
+
+6.3.7 Consulta de deudas pendientes de ingreso y pago.
+
+Todas las deudas aduaneras una vez contraídas, procedan o no de un DUA, podrán visualizarse por Internet, en la Sede Electrónica de la AEAT, Aduanas,
+
+Esta información está disponible desde la contracción de la deuda, es decir:
+
+‒ En los DUAs verdes presentados vía EDI, desde el momento de la admisión y levante, o desde la admisión, si son con ingreso previo al levante.
+
+‒ En los DUAs verdes presentados en papel en la Aduana, desde el día siguiente a su admisión.
+
+‒ En los DUAs naranjas y rojos, hayan sido presentados vía EDI o en papel, desde el momento del despacho.
+
+‒ En los supuestos de que el interesado tenga autorizada la contracción única de las deudas de un período determinado, en el momento en que la Aduana realice la contracción una vez finalizado dicho período
+
+‒ En el resto de documentos, una vez haya sido realizada la contracción por parte de la Aduana.
+
+Realizado el pago por Internet el operador podrá obtener el justificante de pago con el NRC, y, en caso de que se tratase de un DUA con ingreso previo al levante, podrá imprimir el justificante de levante.
+
+Si no se desea realizar el pago por Internet, desde esta opción se podrá realizar la impresión de la carta/s de pago (031/032), así como comunicar el pago efectuado si desea anticiparse a que esta información se reciba directamente del Banco al día siguiente del ingreso.
+
+6.3.8 Modificación y anulación telemática de DUAS de exportación con posterioridad a la autorización del levante.
+
+Deberán presentarse por internet las solicitudes de modificación telemática de DUAs de exportación ya despachados y autorizado el levante, en los supuestos descritos en el Apéndice III de esta resolución
+
+La Aduana contestará comunicando la aceptación de la modificación, o bien, rechazando su incorporación automática. En este último caso, deberá justificarse documentalmente en la oficina de la Aduana en un plazo de 24 horas. No se aceptará ninguna otra modificación automática hasta tanto no haya sido aceptada o denegada la modificación anterior.
+
+Deberá tenerse en cuenta que en las salidas indirectas, con salida prevista por una aduana de otro Estado miembro, una vez despachada la declaración por la Aduana de exportación y hasta que se haya comunicado la salida efectiva no podrá realizarse ninguna modificación telemática. En caso necesario, el declarante tendrá que solicitar la anulación de la declaración errónea y sustituirla por otra donde deberá incluir en la casilla 44 el código 1224 con el MRN del DUA que se sustituye.
+
+En el caso de salidas indirectas nacionales, una vez recibida por la Aduana de salida y hasta que se haya comunicado la salida efectiva no podrá realizarse ninguna modificación telemática.
+
+Las modificaciones deben ser siempre solicitadas a la Aduana de exportación. Una vez que se haya expedido certificado de la salida de la mercancía no podrá realizarse ninguna modificación.
+
+La comunicación prevista en el artículo 792 bis del Reglamento (CEE) n.º 2454/1993 cuando la mercancía despachada de exportación no haya salida del territorio aduanero de la Unión, podrá realizarla el interesado mediante una acción en la Sede Electrónica. Esta solicitud de anulación podrá utilizarse también para corregir errores de hecho de una declaración con salida indirecta a fin de poder sustituirla por otra.
+
+6.4 ECS: Declaración en la aduana de salida.
+
+6.4.1 Aviso de llegada de la mercancía.
+
+Cuando se trate de una exportación documentada en un Documento Administrativo Electrónico (DAE) con MRN, se hará esta comunicación con el mensaje EAL (aviso de llegada a la aduana de salida). Este mensaje implica:
+
+‒ Que la mercancía se encuentra en la Aduana de salida, en la ubicación declarada en el mensaje;
+
+‒ que la mercancía está a disposición de la Aduana hasta que esta autorice expresamente la salida;
+
+‒ la solicitud para proceder al embarque de la misma.
+
+La persona obligada a presentar el mensaje de aviso de llegada será la empresa responsable de realizar la carga de la mercancía en el medio de transporte en el que la mercancía vaya a abandonar el territorio aduanero de la Unión, aunque también podrá ser presentado por:
+
+‒ Si la mercancía se presenta ante la aduana dispuesta en el medio de transporte con el que va a abandonar el territorio aduanero de la Unión, el titular de dicho medio de transporte.
+
+‒ Si la mercancía se consolida previamente a su salida, la persona que realice dicha consolidación.
+
+‒ Si la mercancía se vincula a un régimen de tránsito comunitario/común o TIR, debiendo realizarse entonces la gestión de salida de la declaración/es de exportación afectadas en la aduana de partida de dicho tránsito, será el obligado principal o el titular del cuaderno la persona que deberá realizar dicha gestión.
+
+‒ Asimismo, podrá presentar el mensaje EAL la persona que haya presentado la declaración de exportación siempre que tenga la condición de Operador Económico Autorizado (OEA).
+
+En el supuesto de que el mensaje sea enviado por un tercero por cuenta de alguna de las anteriores, deberá tener a disposición de la Aduana autorización de dicha persona, que será el responsable de las posibles irregularidades relacionadas con la presentación de dicho mensaje.
+
+En aquellos supuestos en que el envío:
+
+‒ No venga acompañado de un DAE con código de barras,
+
+‒ se presente con el ejemplar 3 del DUA, o
+
+‒ la declaración EAL sea rechazada porque el sistema no encuentra los datos de la exportación o haya una respuesta negativa del país de exportación,
+
+la persona obligada a presentar el mensaje deberá llevar a la Aduana la documentación para su control por esta y obtener la autorización de salida.
+
+6.4.2 Dispensa presentación EAL.
+
+Cuando las aduanas de exportación y de salida sean la misma pero la ubicación donde se presenta la mercancía se encuentre fuera del recinto, la Dependencia Regional en cuyo ámbito territorial se encuentre la ubicación, y a solicitud del titular de la ubicación, podrá no exigir la presentación del mensaje ‘‘aviso de llegada’’ en el punto de salida siempre que se den las siguientes condiciones:
+
+‒ Que el titular de la ubicación sea OEA de seguridad y protección y de simplificaciones aduaneras,
+
+‒ que el transporte de la mercancía desde la ubicación hasta la aduana se realice por cuenta y bajo responsabilidad del titular de la ubicación, y
+
+‒ que la no presentación del mensaje ‘‘aviso de llegada’’ no suponga un menoscabo de la vigilancia aduanera teniendo en cuenta entre otros factores la distancia, operativa, nivel de riesgo, etc.
+
+6.4.3 Mensaje de respuesta de la aduana.
+
+El mensaje de respuesta de la aduana, si el mensaje EAL es aceptado, incluirá el número de registro y fecha, y tipo de despacho asignado que podrá ser:
+
+‒ Circuito rojo: cuando la Aduana va a proceder al reconocimiento físico de la mercancía.
+
+‒ Circuito naranja: cuando el operador deba presentar documentación en la Aduana (T-5, DAA, etc.).
+
+‒ Circuito verde: que significa que la Aduana autoriza el embarque de la mercancía.
+
+En este último caso, circuito verde, se incluirá asimismo el número de autorización de embarque.
+
+El declarante podrá acceder e imprimir la autorización de salida en la Sede Electrónica de la Agencia Tributaria. La Aduana de salida podrá autorizar fórmulas alternativas a esta impresión.
+
+6.4.4 Despacho de salida.
+
+En caso de circuito rojo, deberá llevarse a la Aduana el documento de que se trate para que se proceda a los controles que la autoridad aduanera estime oportunos.
+
+6.4.5 Declaración en el manifiesto de salida.
+
+La declaración de exportación será identificada con el tipo de documento que le corresponde (código N830) y su número de registro en la Aduana de exportación, es decir, el MRN asignado a la declaración.
+
+6.4.6 Inexistencia del aviso de llegada.
+
+La falta de comunicación del Aviso de llegada a la aduana de salida (EAL) determina la no autorización de embarque de la mercancía declarada.
+
+El embarque de la mercancía sin la autorización previa de la Aduana de salida dará lugar al no envío de la comunicación de salida a la aduana de exportación y, en consecuencia, a la posible anulación de la declaración de exportación.
+
+6.4.7 Certificación de la salida de la mercancía.
+
+El exportador o la persona que haya presentado la declaración por su cuenta, podrá solicitar por Sede Electrónica, certificación de la salida de la mercancía exportada prevista en el artículo 796 sexies del Reglamento (CEE) n.º 2454/1993. Esta certificación podrá solicitarse siempre que conste dicha salida en el sistema informático y que haya sido conforme.
+
+Una vez expedida la certificación de salida, no podrá rectificarse la declaración de exportación correspondiente.
+
+6.5 Funcionamiento del sistema para declaraciones de tránsito.
+
+6.5.1 Expedición de tránsitos.
+
+6.5.1.1 Presentación y admisión.
+
+a) Características de la presentación:
+
+‒ La mercancía deberá estar a disposición de la Aduana.
+
+‒ Podrá presentarla:
+
+• el expedidor autorizado que deberá ser el obligado principal,
+
+• el resto de operadores que sean obligado principal o su representante debidamente autorizado.
+
+‒ La declaración de tránsito efectuada vía EDI se considera presentada en el momento en que las autoridades aduaneras reciben el mensaje EDI.
+
+b) Admisión de la declaración de tránsito. La Aduana transmitirá una de estas respuestas:
+
+‒ Mensaje de error: la declaración no ha sido admitida por ser incorrecta.
+
+‒ Mensaje de admisión: se indicará el tipo de despacho
+
+• físico (circuito rojo): la Aduana va a reconocer la mercancía,
+
+• documental (circuito naranja): la Aduana procederá al control documental de la expedición,
+
+• autorización de salida (circuito verde): en este caso se indicará el número de registro del tránsito y el resultado del control. El declarante deberá conservar la documentación relativa a ese tránsito a disposición de la aduana siguiendo las instrucciones del apartado 6.
+
+6.5.1.2 Despacho de tránsitos asignados a circuito rojo o naranja.
+
+El declarante podrá presentar los documentos y certificados necesarios para la inclusión de la mercancía en ese régimen anexándolos a la declaración en la Sede Electrónica de la AEAT a más tardar, en el día laborable siguiente al de la fecha de admisión. El actuario realizará los controles correspondientes, procediendo, a continuación, a la introducción del resultado del control efectuado en la aplicación informática.
+
+También podrá optar por su presentación en papel en el Registro indicando el MRN de la declaración a la que corresponden en el plazo indicado en el párrafo anterior.
+
+La no presentación dentro del plazo señalado originará una infracción tributaria leve.
+
+6.5.1.3 Impresión del documento de acompañamiento.
+
+a) Expedidores autorizados y otros operadores expresamente autorizados a imprimir el documento de acompañamiento: comunicada la realización del despacho con el envío del número de registro, el resultado conforme del despacho y la autenticación informática, el interesado deberá imprimir el documento de acompañamiento.
+
+b) Resto de operadores: una vez realizado el despacho, la Aduana imprimirá el documento de acompañamiento con la autenticación informática y se lo entregará al interesado.
+
+La impresión y utilización de documentos de acompañamiento por parte de los operadores sin estar expresamente autorizados para ello, dará lugar a las correspondientes sanciones.
+
+6.5.2 Recepción del tránsito.
+
+6.5.2.1 La mercancía se recibe en un recinto público.
+
+a) Procedimiento normal: la declaración de tránsito está en el sistema informático.
+
+‒ Envío del mensaje AVI (Recepción del tránsito y sucesos), mediante el cual se comunica a la Aduana:
+
+• Que el medio de transporte ha llegado y que la mercancía está a disposición de la Aduana.
+
+• Las incidencias que se hayan producido durante el transporte (accidentes, transbordos, rotura de precintos, diferencias que se conozcan a la carga, etc.).
+
+• La identificación y nacionalidad del medio de transporte no declarado en la casilla 18 en el momento de realizar la expedición.
+
+Además, podrá incluir:
+
+• La conformidad a la recepción y ultimación automática por parte de la Aduana.
+
+• En el caso de recintos marítimos y aéreos, solicitud de transbordo automático para mercancía que va a ser embarcada. En ningún caso podrá realizarse esta solicitud si está obligado a presentar una declaración sumaria de salida.
+
+‒ Mensaje de respuesta al AVI por parte de la Aduana. Este mensaje incluirá:
+
+• El número de registro dado a la recepción del tránsito.
+
+• El número de la declaración sumaria que se haya generado automáticamente a partir de la aceptación del mensaje AVI.
+
+• Circuito asignado:
+
+○ rojo, la Aduana va a proceder a reconocer la mercancía antes de la descarga;
+
+○ naranja, la Aduana realizará despacho documental;
+
+○ verde, no se va a efectuar reconocimiento en esta fase.
+
+‒ Actuaciones a realizar por el declarante según el circuito asignado:
+
+• Asignación a circuito rojo o naranja.
+
+Deberán acudir a la Aduana con los ejemplares que hayan recibido del tránsito, una vez consignado en la casilla el número de registro del tránsito recibido.
+
+La Aduana hará las comprobaciones que estime oportunas, reseñando en el documento de tránsito y en la aplicación informática los controles efectuados y el resultado de los mismos.
+
+• Asignación a circuito verde.
+
+El declarante deberá consignar, en la casilla l, el número de registro comunicado por la Aduana, así como la fecha de llegada.
+
+La asignación a circuito verde implica la autorización para solicitar destino aduanero para la mercancía y, en su caso, su descarga en el recinto aduanero.
+
+La Aduana establecerá las normas en cuanto a la entrega del DAT en la Aduana en el plazo que estime adecuado o respecto a su archivo por parte del operador.
+
+b) La declaración de tránsito no está incorporada al sistema (supuestos de caída de línea o «fallback», ver apéndice XI).
+
+En este caso, antes de enviar el mensaje AVI, se procederá al envío del mensaje TNN (Alta de tránsito).
+
+Este mensaje tiene por objeto dar de alta en la base de datos de tránsitos aquellos documentos que no han sido incorporados previamente al sistema o que no están accesibles.
+
+Los datos que se incluyan en este mensaje deberán ser fiel reflejo de los contenidos en el documento de tránsito.
+
+Respecto a los supuestos en que debe enviarse y la numeración que debe incluir, se tendrá en cuenta:
+
+‒ Tránsitos con ejemplares 4 y 5 del DUA o en documento de acompañamiento pero sin MRN: el declarante deberá elaborar, a partir de la numeración dada por la Aduana de expedición, una estructura similar a la del MRN teniendo en cuenta que los dos últimos dígitos deberán ser 10. En este caso este mensaje se podrá remitir con anterioridad a la llegada del medio de transporte.
+
+‒ Tránsitos con documento de acompañamiento en que el AVI no haya recibido respuesta de la UE y la respuesta de la Aduana autorice el envío del TNN: deberá incluirse el MRN tal y como aparece en el mencionado documento.
+
+‒ Tránsitos con documento de acompañamiento en que la respuesta del AVI haya sido un rechazo expreso de la UE. En este caso se incluirá el MRN modificando los dos últimos dígitos que deberán ser 10.
+
+En todos estos supuestos el declarante deberá entregar a la Aduana los ejemplares 4 y 5 o el documento de acompañamiento, a fin de que ésta remita a la Aduana de expedición el ejemplar correspondiente a la tornaguía.
+
+Es posible enviar de forma conjunta los mensajes TNN y AVI (TNN+AVI).
+
+6.5.2.2 La mercancía se recibe fuera del recinto público.
+
+a) Destinatarios autorizados a los que se refiere la Instrucción Segunda de la Resolución de 11 de diciembre de 2000, del Departamento de Aduanas e Impuestos Especiales (sin permiso a la descarga).
+
+‒ Envío del mensaje AVI o del mensaje TNN + AVI (Recepción del tránsito y sucesos):
+
+• Inmediatamente a la llegada del medio de transporte a las instalaciones, el destinatario autorizado enviará un aviso de llegada a la Aduana de control (mensaje AVI).
+
+• Si el documento de tránsito no estuviera incorporado al sistema, el destinatario antes de enviar el mensaje AVI, procederá al envío del mensaje TNN.
+
+• Pueden enviarse conjuntamente los mensajes TNN y AVI (TNN+AVI)
+
+‒ Mensaje de respuesta por parte de la Aduana:
+
+• Aceptación del mensaje y aviso de que se va a proceder al reconocimiento de la mercancía o al despacho documental, motivo por el cual la mercancía debe permanecer inmovilizada.
+
+• Aceptación del mensaje y permiso de descarga.
+
+‒ Mensaje del operador a la Aduana con las observaciones a la descarga (OBS).
+
+Una vez realizada la descarga, el destinatario autorizado comunicará inmediatamente el mensaje OBS a la Aduana (siempre después de haber recibido la respuesta de la aduana al mensaje AVI). En este mensaje se informará sobre:
+
+• El resultado conforme o las diferencias que resulten (faltas, sobras, listado de las mercancías, etc.).
+
+• Cualquier otra irregularidad.
+
+La ausencia de comunicación de irregularidades implicará la conformidad con la descarga. Si se producen faltas, el destinatario autorizado será responsable de la totalidad de las mercancías que estén declaradas en el documento de tránsito. Si se producen sobras, será responsable del total descargado.
+
+‒ Comprobación del resultado de la descarga (respuesta al mensaje OBS).
+
+• Asignación a circuito rojo.
+
+Significa que los servicios de Aduanas van a comprobar la mercancía.
+
+• Asignación a circuito verde.
+
+El declarante deberá consignar en la casilla I el resultado de la descarga y mantener archivado el DAT a disposición de la Aduana.
+
+b) Destinatarios autorizados con permiso de descarga (Orden de 21 de diciembre de 1998 relativo al procedimiento simplificado de domiciliación)
+
+Se enviarán a la Aduana los mensajes TNN, AVI y OBS, descritos anteriormente, aunque se pueden enviar conjuntamente los mensajes AVI y OBS (AVI+OBS) o bien TNN, AVI y OBS (TNN+AVI+OBS).
+
+Nota: En todos los supuestos de recepción de tránsitos, la respuesta de la Aduana a los mensajes enviados puede ser de no aceptación del mensaje por algún error en la declaración. En este caso, se incluirá una descripción de dicho error.
+
+6.6 T2L electrónico.
+
+Este apartado incluye la expedición del T2L en la Aduana de partida y el datado de la DSDT en la Aduana de destino para mercancía amparada en un T2L. Ambas operaciones podrán realizarse mediante:
+
+• mensaje XML transmitido por Internet;
+
+• formulario web.
+
+En el caso de T2LF, sólo podrá utilizarse esta aplicación cuando los envíos se realicen al amparo de un procedimiento simplificado que prevea la no presentación de un DUA de expedición previa a la realización del transporte de la mercancía (ver apartado 3.4 y Apéndice XVI). En el resto de los supuestos se podrá utilizar el generado en el expediente electrónico de la declaración de expedición correspondiente.
+
+6.6.1 Expedición de T2L.
+
+6.6.1.1 Procedimiento normal.
+
+Se realizará de la forma siguiente:
+
+a) Presentación de la solicitud.
+
+La podrá realizar el expedidor de la mercancía o su representante que podrá ser, a estos efectos, la empresa que va a realizar el transporte de la misma.
+
+b) Respuesta de la aduana de:
+
+‒ rechazo de la solicitud indicando los errores detectados, o
+
+‒ admisión de la solicitud que incluirá el número de registro del T2L con formato MRN, si se ha presentado mediante mensaje XML.
+
+c) El interesado deberá adjuntar a la solicitud ya admitida, la documentación reseñada en la casilla 44 como se indica en la guía del usuario. Mientras no se incluya el indicador de «fin anexado», la respuesta será «documento admitido», teniendo la consideración de una solicitud incompleta.
+
+d) Finalizada la inclusión de los documentos reseñados en la casilla 44, la respuesta de la aduana incluirá el número de registro en formato MRN si se ha presentado mediante formulario web y, en todos los supuestos, el circuito asignado:
+
+‒ verde, incluyendo el CSV (Código Seguro de Verificación): el interesado podrá imprimir el T2L de la página de la AEAT para la aduana de destino;
+
+‒ naranja o rojo, la Aduana va a realizar la comprobación de la solicitud. Una vez realizada el interesado podrá proceder a la impresión del T2L en la página web de la AEAT.
+
+6.6.1.2 Expedido con posterioridad al embarque o salida del recinto.
+
+a) Envíos a granel.
+
+Cuando se trate de un granel en que se desconozca la cantidad que podrá ser embarcada, el operador podrá optar por:
+
+‒ Solicitar el T21 siguiendo el procedimiento habitual por la cantidad que estima que va a ser embarcada. Posteriormente, si lo necesita o la diferencia fuera superior a un 5% podrá solicitar su modificación, en papel o electrónicamente.
+
+‒ Solicitar un T2L provisional incluyendo, para ello, en la casilla 44 el código 9007 «Granel, cantidad provisional» El T2L quedará pendiente de despacho. Una vez realizada la carga, el interesado deberá solicitar a la aduana la modificación de las cantidades y el despacho del T2L.
+
+b) Solicitud de “T2L a posteriori”.
+
+Podrá solicitarse por vía electrónica en la forma indicada en el apartado 6.6.1.1. la expedición de un T2L emitido “a posteriori” de acuerdo a lo previsto en el apartado 5 del artículo 199 del RECAU, incluyendo en la casilla 44 el código 9009 “Solicitud de expedición a posteriori”. En la impresión del T2L aparecerá la expresión “Expedido *a posteriori* - (Código 98201)” prevista en el artículo citado.
+
+6.6.1.3 Solicitud de T2LF en supuestos de procedimiento simplificado.
+
+Se solicitará siguiendo las instrucciones del apartado 6.6.1.1 pero incluyendo uno de los códigos siguientes en la casilla 44:
+
+| 9012 | T2LF - Mercancía sin declaración de expedición (Apéndice XVI). |
+|---|---|
+| 9013 | T2LF - Mercancía sin declaración de expedición (Apartado 3.4). |
+
+6.6.2 Presentación electrónica de la prueba del estatuto de mercancias de la unión en aduana de destino española para el datado de la DSDT.
+
+Podrá solicitarse por vía electrónica el datado de la DSDT para la mercancía de la Unión no sujeta a presentación de DUA para el pago del IVA, cuando esté amparada por uno de los siguientes documentos:
+
+T2L expedido en otro Estado miembro o un T2L nacional no electrónico.
+
+Documento comercial conforme al artículo 317 del DAC.
+
+Manifiesto visado de acuerdo a lo previsto en el artículo 317 bis DAC.
+
+e-DA que ampare la circulación intracomunitaria de un producto objeto de Impuestos Especiales salvo se trate de salida indirecta de exportación.
+
+T2L electrónico nacional.
+
+Las Aduanas podrán autorizar el uso de esta opción de datado electrónico para otras pruebas de estatuto comunitario previstas en el artículo 314 quarter del DAC, que sean habituales en esa Aduana, estableciendo las instrucciones complementarias para su control.
+
+El declarante será responsable del uso indebido de esta opción de datado automático para mercancía no amparada por uno de los documentos anteriores o que estén sujetos a la presentación de DUA y en especial para mercancía sujeta a la presentación de DUA de importación para su despacho a consumo como, por ejemplo, la mercancía amparada en un T2LF o la mercancía amparada en un T2M cuando proceda el pago del IVA a la importación.
+
+Deberán seguirse las instrucciones que se detallan a continuación en las letras a) y b), excepto si se trata de un T2L electrónico nacional, en cuyo caso deberán seguirse, únicamente, las previstas de la letra b).
+
+a) Alta de datos del justificante cuando no se trate de un T2L electrónico nacional:
+
+El interesado enviará los datos correspondientes a la prueba del estatuto de la Unión y entre ellos, su número de registro o identificación comenzando por el código del país donde ha sido expedido.
+
+El sistema de la AEAT responderá con mensaje de no aceptado y motivo del error o con mensaje de aceptación. El número de registro será el incluido como identificación del documento prueba del estatuto.
+
+Una vez aceptado el declarante deberá anexar y remitir el justificante del estatuto. Deberá informar del ‘‘fin de anexado’’ para el alta de los datos del justificante quede completada.
+
+El interesado deberá archivar el justificante original y mantenerlo a disposición de la Aduana.
+
+b) Datado de la DSDT (declaración sumaria de depósito temporal) del mensaje de datado JEC (Justificante de estatuto comunitario) una vez que el T2L haya sido dado de alta siguiendo los pasos de la letra a) anterior o cuando se trate de un T2L nacional expedido de forma electrónica.
+
+‒ El interesado remitirá el mensaje de datado JEC (justificante de estatuto comunitario) incluyendo el número del T2L ya dado de alta en el sistema, y los números de las sumarias-partidas a datar.
+
+‒ La respuesta a este mensaje podrá ser de:
+
+• rechazo con indicación del motivo de rechazo, o
+
+• aceptado, en cuyo caso incluirá el número de registro del JEC con formato MRN y el circuito asignado:
+
+○ naranja, para su control por la aduana, o
+
+○ verde, en cuyo caso incluirá también el CSV (código seguro de verificación) correspondiente al levante.
+
+‒ En aquellas aduanas en las que no se utilice la aplicación de «levante sin papeles», el interesado podrá imprimir el levante correspondiente en la Sede electrónica.
+
+6.7 Archivo de la documentación correspondiente a las declaraciones presentadas por vía electrónica.
+
+Las personas interesadas estarán obligadas a conservar la documentación justificativa exigida para la aplicación del régimen aduanero solicitado durante los plazos previstos en el artículo 51 del CAU y en la normativa tributaria aplicable y, a disposición de las autoridades aduaneras.
+
+Dicha documentación debe estar perfectamente identificada en la casilla 44 de la declaración electrónica.
+
+La persona interesada deberá aportar dicha documentación cuando le fuera requerida por la Aduana. La aportación de la documentación podrá realizarse mediante archivo escaneado presentado por Sede Electrónica, salvo que expresamente se requiera de otra forma, a más tardar en el día laborable siguiente excepto que el requerimiento indique un plazo superior.
+
+El archivo podrá ser electrónico, salvo para aquellos documentos en que la norma que los regula exija su conservación en el formato original, cómo, por ejemplo, las facturas comerciales con declaración a efectos de origen que deban incluir la firma original manuscrita del expedidor de la misma, o los certificados de origen expedidos por las autoridades gubernativas correspondientes.
+
+Los documentos deben conservarse con su contenido original, ordenadamente y con las condiciones fijadas por el Reglamento por el que se regulan las obligaciones de facturación aprobado por el Real Decreto 1619/2012, de 30 de noviembre.
+
+El incumplimiento de esta obligación constituirá una infracción tributaria tipificada en el artículo 200 de la Ley General Tributaria.
+
+Cualquier incidencia que repercuta en el archivo de la documentación deberá ser comunicada de forma inmediata a la Aduana.
+
+6.8 Normativa aplicable.
+
+Cuando la declaración en aduana se realice utilizando procedimientos informáticos, con arreglo a lo dispuesto en los apartados anteriores, se aplicarán «mutatis mutandis», las normas establecidas con carácter general en las disposiciones de la Unión Europea y nacionales vigentes.
+
+> Se modifica el apartado 6.3.2.2, letra a) por el apartado primero.7 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifican los apartados 6.3.2.1, 6.3.2.2, 6.3.3, 6.3.4, 6.4.1 a 6.4.3, 6.6.1.2 y 6.7 por el apartado primero.5 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Téngase en cuenta que la modificación del apartado 6.3.3 entra en vigor el 1 de junio de 2020, según establece el apartado segundo de la citada Resolución.
+
+> Se modifican los apartados 6.1 y 6.3.2 por el apartado primero.7 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifican los apartados 6.3.1, 6.3.2, 6.3.3, 6.3.4.1 y 6.6.2 por el apartado primero.15 a19 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## APÉNDICE I — Instrucciones en relación a las garantías
+
+Los artículos 89 a 100 del CAU contienen el marco legal para las garantías que pueden presentarse en la aduana para avalar la deuda aduanera. Desde el 1 de mayo de 2019 las garantías incluidas en las declaraciones aduaneras han debido ser autorizadas o revaluadas conforme a este marco legal.
+
+Principales características:
+
+a) La garantía permite retirar la mercancía avalada antes del pago de la deuda aduanera y/o avalar el cumplimiento del régimen aduanero especial solicitado o el depósito temporal de la mercancía.
+
+b) Las garantías pueden ser individuales o globales. Estas últimas requieren autorización previa.
+
+c) Podrá obtenerse el levante de la mercancía amparada en una declaración aduanera antes del ingreso de la deuda devengada por dicha declaración siempre que dicha deuda esté garantizada. En este supuesto el plazo para el ingreso es de 10 días. Puede prorrogarse a 30 días si es expresamente autorizado a solicitud del operador.
+
+d) Un operador podrá tener las garantías que considere necesario a su nombre y, por tanto, en una declaración aduanera podrá consignarse el número de garantías que sean necesarias para avalar la deuda aduanera.
+
+e) La garantía podrá estar a nombre del deudor/titular del régimen o de un representante aduanero. En el supuesto de representante aduanero que actúe en la modalidad de representación directa, la garantía deberá incluir las obligaciones aduaneras y fiscales del obligado por cuenta del que presente la declaración aduanera.
+
+f) Una autorización de garantía global podrá estar sustentada por varios avales, seguro de caución, depósito u otra forma de garantía. En este supuesto, los distintos avales deben amparar el mismo tipo de deuda (régimen/es, deuda real y/o potencial, tipo de representación, etc.).
+
+A. Definiciones.
+
+GRN: Número de la garantía. En el supuesto de autorización de garantía global que cubra distintos regímenes o Estados miembros, habrá un GRN por cada finalidad y por cada EM.
+
+Garantía individual: La constituida para una única declaración. No necesita autorización previa, sin perjuicio de la posible autorización de aplazamiento de pago, y su importe debe cubrir el 100% de la deuda correspondiente.
+
+Garantía global: La constituida para dos o más operaciones, declaraciones o regímenes aduaneros. Su titular puede beneficiarse de reducciones en el nivel de garantía. Requiere autorización previa.
+
+Deuda real: La deuda aduanera ya nacida.
+
+Deuda potencial: La deuda aduanera que pueda nacer. En el marco de las declaraciones aduaneras, la deuda potencial se refiere habitualmente a la que pueda dar lugar el incumplimiento de un régimen especial o de la autorización de un ADT.
+
+Deuda real sin determinar: Deuda aduanera ya nacida, pero de la que se desconoce el importe, por ejemplo, la nacida por un despacho a libre práctica pendiente de aportar el certificado de origen la que pueda derivarse de una comprobación.
+
+Importe de referencia: Importe de deuda aduanera y fiscal cubierta por la garantía. No tiene por qué coincidir con el importe del aval/depósito/certificado de seguro de caución a aportar en aquellos casos en que el operador pueda beneficiarse de reducciones en el nivel de garantía.
+
+B. Autorización de garantía global.
+
+En aquellos casos en que el interesado desee que una garantía se refiera a dos o más operaciones, declaraciones o regímenes aduaneros, podrá solicitar la autorización de una garantía global para cuya tramitación se verificará el cumplimiento de las condiciones previstas en el artículo 95 del CAU:
+
+a) estar establecidas en el territorio aduanero de la Unión,
+
+b) cumplir los criterios establecidos en el artículo 39, letra a),
+
+c) utilizar habitualmente los regímenes aduaneros de que se trate o ser operadores de instalaciones de depósito temporal o cumplir los criterios establecidos en el artículo 39, letra d).
+
+El operador que desee solicitar una autorización de garantía global ante las autoridades españolas deberá utilizar el formulario ajustado al anexo A del RDCAU disponible a estos efectos en el Portal de la Agencia Tributaria.
+
+El importe de referencia de la garantía global se fijará por las autoridades aduaneras, partiendo del importe de referencia propuesto por el operador en su solicitud de garantía global, de conformidad con el artículo 155 del RECAU.
+
+Una vez autorizada la garantía global, en aplicación del artículo 156 del RECAU, el operador tiene la obligación de asegurarse de que el importe de los derechos correspondientes a la deuda aduanera y otros gravámenes cubiertos por la garantía global exigibles o que pueda llegar a serlo, no supera en ningún momento el importe de referencia. Deberá disponer de un registro electrónico que le permita efectuar este control y hacer una referencia al tipo de registro y su funcionamiento en la casilla 82 de la solicitud de garantía global.
+
+C. Reducciones o dispensas.
+
+La garantía individual no puede ser objeto de las reducciones o dispensas previstas en el artículo 95.2 del CAU.
+
+Las autorizaciones de garantía global para cubrir operaciones de personas distintas de su titular, no puede ser objeto de reducciones ni dispensas, con una única excepción:
+
+Se aplicará al OEA que actúe como representante directo la reducción del 50 % del importe de IVA cuando se cumplan las siguientes condiciones:
+
+– Lo solicite en la propia declaración mediante el código 9015 en la casilla 44 de la primera partida de orden. Este dato no podrá incluirse con posterioridad al despacho de la declaración.
+
+– La autorización de garantía esté a su nombre.
+
+– Y únicamente se aplicará a deuda real.
+
+La utilización del código cuando no se cumplan estas condiciones darán lugar al rechazo del DUA.
+
+Las autorizaciones de garantías globales concedidas a titulares que sean deudores en las operaciones garantizadas, podrá acordarse con reducciones e incluso dispensa en función del tipo de deuda aduanera y de los requisitos que cumpla el titular interesado,
+
+– Garantía para deuda existente o real: de acuerdo con el artículo 95.3 del CAU así como con el artículo 158.2 del RECAU, previa solicitud, se podrá autorizar, a un operador económico autorizado de simplificaciones aduaneras a utilizar una garantía global con una reducción al 30 % del importe de referencia determinado.
+
+– Garantía para deuda que pueda nacer o potencial: de acuerdo con el artículo 95.2 del CAU, así como con el artículo 158.1 del RECAU, se podrá autorizar a un operador económico a utilizar una garantía global con una reducción al 50 %, 30 % o 0 % del importe de referencia determinado, en la medida en que se cumplan las condiciones previstas en los apartados 1, 2 y 3 del artículo 84 del RDCAU.
+
+El mismo régimen de reducciones se aplicará en lo relativo a la parte de la garantía global que se refiera a otros gravámenes tales como IVA o Impuestos Especiales cuando se trate de una deuda existente o real. Los sujetos pasivos que ingresen las cuotas de IVA de importación según lo dispuesto en al segundo párrafo del artículo 167.Dos de la Ley del IVA (IVA diferido) no tendrán que incluir en el cálculo de los importes de referencia las cantidades correspondientes al Impuesto sobre el Valor Añadido, salvo que la garantía vaya a ser utilizada en el régimen de tránsito de la Unión o bien, pueda ser empleada en más de un Estado miembro.
+
+En las garantías para asegurar la deuda potencial derivada de los regímenes especiales y de la autorización de almacén de depósito temporal, excepto en las del régimen de tránsito o en aquellas que pueda utilizarse en más de un Estado miembro, no se incluirá el IVA en el cálculo del importe de referencia, aunque no se cumplan la totalidad de los requisitos del artículo 84 citado y siempre que el solicitante presente certificado de estar al corriente de sus obligaciones tributarias y no concurran otras circunstancias que lo desaconsejen.
+
+D. Finalidades de una garantía global.
+
+De acuerdo con las especificaciones que establece la normativa vigente, es necesario indicar en la solicitud de garantía global cuáles son las finalidades para las que se pretende utilizar dicha garantía, así como indicar el importe de referencia correspondiente a cada una de ellas y el nivel de garantía que le correspondería (100, 50 %, 30 % o 0 % según el caso).
+
+Los códigos de finalidades previstas se incluyen en el apartado E de este apéndice.
+
+Es importante tener en cuenta que, al seleccionar el nivel de garantía en la solicitud de garantía global, el operador está igualmente indicando si esa garantía cubrirá una deuda real o una deuda de tipo potencial. Determinados regímenes pueden ser susceptibles de generar tanto deuda real como potencial (por ejemplo, el destino final o el perfeccionamiento activo), por lo que debe prestarse especial atención a este punto ya que el DUA validará la coincidencia entre el tipo de deuda y el tipo de garantía de que se trate.
+
+E. Identificación de las garantías.
+
+Las garantías se identificarán en las declaraciones aduaneras mediante su GRN, cuya estructura (17 dígitos) es la siguiente:
+
+– Dos últimos dígitos del año en curso.
+
+– Dos dígitos del Estado miembro (código ISO Alpha 2).
+
+El contenido de los 13 dígitos siguientes lo decide cada Estado miembro y en el caso de España es el siguiente:
+
+– Dígito para diferenciar la Administración: A para la Agencia Tributaria y C para la Administración Tributaria Canaria.
+
+– Tipo de garantía: G para las globales, I para las individuales y R para garantías de recursos de reposición.
+
+– Finalidad (régimen) para la que se ha autorizado la garantía:
+
+<table>
+<thead>
+<tr>
+<th>Valor</th>
+<th>Finalidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>L</td>
+<td>Libre práctica. Deuda real de los regímenes 01 07 40 42 44* 4 49 51 53 61 63.</td>
+</tr>
+<tr>
+<td>P</td>
+<td>Potencial régimen 44. *</td>
+</tr>
+<tr>
+<td>Q</td>
+<td>Potencial régimen 48</td>
+</tr>
+<tr>
+<td>R</td>
+<td>Potencial régimen 51. Incluye el RPA fiscal</td>
+</tr>
+<tr>
+<td>S</td>
+<td>Potencial régimen 53. Incluye el IT fiscal</td>
+</tr>
+<tr>
+<td>T</td>
+<td>Potencial régimen 71</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Potencial Depósito Distinto del Aduanero</td>
+</tr>
+<tr>
+<td>W</td>
+<td>Potencial Depósito Temporal.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p>* El código 44 (régimen de Destino Final). Este código no se utilizará hasta que este adaptado el mensaje de la declaración de importación al CAU. Hasta entonces en el DUA seguirá utilizándose los códigos correspondientes de la casilla 36.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+– Código de la Aduana contable de registro de la garantía (3 dígitos).
+
+– Número (6 dígitos).
+
+– Dígito de control.
+
+> Se sustituye por el que figura como anexo 3º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.8. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 3º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.6. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se sustituye por el que figura como anexo 1º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.8. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## APÉNDICE II — Normas para cumplimentar el DUA en el caso de mercancías sujetas a impuestos especiales de fabricación
+
+A. A la importación.
+
+En el supuesto de importaciones de productos sujetos a Impuestos Especiales de fabricación, deberán tenerse en cuenta las siguientes instrucciones para rellenar las casillas que a continuación se señalan:
+
+Casilla 31:
+
+Cuando las mercancías declaradas sean objeto de los Impuestos Especiales de fabricación deberán detallarse en esta casilla todos los elementos necesarios para la determinación de la base imponible así como el tipo aplicable por los indicados impuestos. En concreto:
+
+a) En el caso de alcohol y bebidas derivadas, el volumen en hectolitros y la graduación alcohólica a 20 ºC de temperatura, incluso cuando el alcohol o las bebidas derivadas formen parte de un producto clasificado en un Capítulo de la Nomenclatura Combinada distinto del 22.
+
+b) En el caso de productos sujetos al Impuesto sobre Productos Intermedios o al Impuesto sobre el Vino y Bebidas Fermentadas, el volumen expresado en hectolitros de producto acabado a la temperatura de 20 ºC.
+
+c) En el caso de productos sujetos al Impuesto sobre la Cerveza, el volumen expresado en hectolitros de producto acabado a la temperatura de 20 ºC y, en caso de los códigos de epígrafe OA3, OA4, OA5 y OA6, el grado Plato.
+
+d) En el caso de productos sujetos al Impuesto sobre Hidrocarburos, el volumen de los mismos expresado en miles de litros a la temperatura de 15 ºC o el peso expresado en toneladas métricas, o, en aquellos caso en que el tipo impositivo se establece por referencia a unidades de energía, su poder energético expresado en gigajulios.
+
+e) En el caso de Labores del Tabaco, el valor de las mismas calculado según su precio máximo de venta al público, en expendedurías de tabaco y timbre situadas en la península o islas Baleares, incluidos todos los impuestos. Además, en el caso de importación de cigarrillos, el número a importar expresado en millares y, en el caso de la picadura para liar, su peso en kilogramos.
+
+Casilla 33:
+
+Se consignará, en la subcasilla 5.ª, un código alfanumérico de 4 dígitos (código adicional nacional) formado por el correspondiente al producto, de 3 dígitos, según la tabla del anexo VII y, a continuación, una de las claves siguientes:
+
+S: Importación que se vincula al régimen suspensivo de Impuestos Especiales por destinarse los productos, directamente desde el ADT o lugar autorizado donde se despache la mercancía a libre práctica, a su introducción en una fábrica o un depósito fiscal;
+
+Introducción en Canarias de alcohol o bebidas alcohólicas, excepto vino y bebidas fermentadas, procedentes del resto de la UE, con vinculación al régimen suspensivo de Impuestos Especiales;
+
+Introducción en Canarias de alcohol o bebidas alcohólicas, excepto vino y bebidas fermentadas, procedentes de la Península e Islas Baleares en régimen suspensivo;
+
+Introducción en el territorio peninsular e Islas Baleares productos objeto de los Impuestos Especiales de fabricación, procedentes de Canarias, en régimen suspensivo;
+
+E: Importación/introducción acogida a alguno de los supuestos de exención previstos en la Ley de Impuestos Especiales, excepto cuando proceda el código B;
+
+B: Importación/introducción acogida al supuesto de exención previsto en el artículo 42.6 de la Ley de Impuestos Especiales;
+
+N: Introducción en islas Canarias de cerveza, productos intermedios, alcohol o bebidas derivadas, procedentes de la Península o de las Illes Balears, en los que no se produce el devengo del Impuesto Especial por haber sido ya devengado en la; Península o de las Illes Balears;
+
+Introducción/importación en las Islas Canarias de vinos y bebidas fermentadas;
+
+Introducción en la Península e Illes Balears de cerveza procedente de las islas Canarias, en que no se produce el devengo del impuesto especial por haberse devengado ya en las islas Canarias;
+
+Importación de productos no incluidos en el ámbito objetivo de los Impuestos Especiales.
+
+D: Introducción en la Península e Islas Baleares de alcohol o bebidas alcohólicas procedentes de las Islas Canarias, cuando corresponda ingresar las cuotas resultantes de aplicar la diferencia de tipos impositivos existentes entre dichos territorios en el momento de la introducción;
+
+0 (cero): En el resto de los casos.
+
+Casilla 44:
+
+En el caso de que los productos importados tengan por destino establecimientos obligados a inscribirse en el Registro Territorial, se hará constar en esta casilla su CAE (Código de Actividad y del Establecimiento), código casilla 44, 5004.
+
+Asimismo, deberá incluirse el CAE del expedidor registrado (código 5016) que vaya a emitir el e-DA, en el supuesto de importaciones que se vinculen al régimen suspensivo de impuestos especiales o por las que se aplique una exención o un tipo impositivo reducido.
+
+En el caso de que se acoja a exención (claves E y B) deberá indicar el artículo y apartado de la Ley de Impuestos Especiales que aplica, con el código de documento 3006.
+
+Cuando se trate de bebidas derivadas, cigarrillos o picadura para liar que no lleven adheridas las marcas fiscales y el importador, en los supuestos de despacho de importación a tipo pleno, o el expedidor registrado, en el supuesto de despacho de importación con aplicación de una exención, opten por colocarlas en destino, debe indicarse esta circunstancia mediante el código 1402, artículo 26 apartado 6 letra a) Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de Julio), entrada en vigor de esta modificación a partir del 20 de mayo de 2019.
+
+Caso especial:
+
+En aplicación del art. 108 bis del Reglamento de los Impuestos Especiales, RD 1165/1995, modificado por RD 1041/2013, de 27 de diciembre, las importaciones de productos a los que hacen referencia las letras f) y g) del art. 46.1 de la Ley 38/1992, de Impuestos Especiales, no se entienden destinados a un uso como carburante o combustible hasta el momento en el que se produzca la primera entrada en un establecimiento autorizado a fabricar o almacenar productos destinados a tales usos.
+
+En particular, la importación de los productos clasificados en los códigos 1507 a 1518 (aceites y grasas), no se considerará sometida a las disposiciones de los Impuestos Especiales, hasta que no hagan su entrada en los establecimientos mencionados.
+
+No obstante, las importaciones de productos clasificados en los códigos 1507 a 1518 que sean objeto de descarga directa en las instalaciones habilitadas como fábrica o depósito fiscal mediante el empleo de tuberías fijas, se declararán bajo un régimen 07 y se consignará en la subcasilla 5.ª de la casilla 33 el código de epígrafe de producto según corresponda, y a continuación la clave «S». En la casilla 44 deberá declararse el CAE (Código de Actividad y de Establecimiento) correspondiente al establecimiento en el que entran los productos.
+
+También se declararán en la forma prevista en el párrafo anterior, las importaciones de productos clasificados en los códigos 1507 a 1518 que, en el momento de la importación, se encuentren en establecimientos autorizados como almacenes de depósito temporal o depósitos aduaneros, que, a su vez, estén autorizados como depósitos fiscales de hidrocarburos. La posterior circulación de estos productos hacia otra fábrica o depósito fiscal de biocarburantes se realizará en régimen suspensivo de Impuestos Especiales.
+
+En el resto de las importaciones, cuando sea aplicable la exención de IVA de forma previa a la vinculación al régimen suspensivo de impuestos especiales por tener el producto como destino inmediato la entrada en un establecimiento autorizado a fabricar o almacenar productos destinados a su uso como carburante o combustible, el importador podrá solicitar dicha exención incluyendo en la casilla 37.2 el código de régimen nacional «113». En la casilla 44 deberá incluirse el código CAE del establecimiento de destino.
+
+B. A la exportación.
+
+En el caso de productos objeto de Impuestos especiales cuya circulación se ampare hasta la aduana de exportación con un Documento Administrativo Electrónico (e-DA), un mismo DUA de exportación podrá contener las referencias de varios Documentos Administrativos Electrónicos correspondientes a un mismo expedidor, si bien un mismo Documento Administrativo Electrónico no podrá figurar como referencia en más de un DUA. Por cada partida de e-DA se cumplimentará una partida de orden del DUA, salvo en el caso de DUA recapitulativos (código ‘‘Y’’en casilla 1.2), en los que se admitirá más de un e-DA por partida de DUA.
+
+Cuando no se haya producido el devengo o el exportador solicite la devolución de los Impuestos Especiales de fabricación, se tendrán en cuenta las siguientes instrucciones para cumplimentar el DUA de exportación:
+
+Casilla 31:
+
+1\. Se deberán detallar en esta casilla todos los elementos necesarios para la determinación de la base imponible y el tipo soportado con el detalle que consta en las instrucciones para rellenar la casilla 31 en el ejemplar del DUA a la importación.
+
+2\. Cuando se exporten productos compensadores obtenidos al amparo del régimen de perfeccionamiento fiscal se indicará expresamente mediante la mención «Régimen de perfeccionamiento fiscal».
+
+3\. Cuando se trate de operaciones de avituallamiento que se beneficien de la exención de los Impuestos Especiales, se indicará expresamente la mención: «Avituallamiento exento I.E.»
+
+Casilla 37.2:
+
+En los casos que a continuación se citan es obligatorio consignar los códigos que se señalan:
+
+| 121 | Cuando se solicite la devolución de las cuotas soportadas por Impuestos Especiales y la aduana de salida esté dentro del ámbito territorial interno. |
+|---|---|
+| 122 | Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y coincida la aduana de exportación y la aduana de salida, o, en caso de despacho centralizado, cuando no exista circulación del producto dentro del ámbito territorial interno tras la presentación de la declaración de exportación. |
+| 123 | Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y la aduana de salida esté dentro del ámbito territorial interno, sea distinta de la de exportación y exista circulación del producto por dicho territorio con posterioridad a la presentación de la declaración. |
+| 124 | Para envíos, desde Península o islas Baleares con destino a las Islas Canarias, de productos intermedios o de alcohol o bebidas derivadas, cuando se solicite la devolución de las cuotas resultantes de aplicar la diferencia de tipos impositivos existente entre dichos territorios en el momento del envío. |
+| 125 | Cuando se exporten productos por los que ya se ha devengado el impuesto especial a tipo cero o cuando no se solicite la devolución de las cuotas satisfechas de Impuestos Especiales correspondientes a los productos exportados. |
+| 126 | Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y la aduana de salida sea distinta de la de exportación y pertenezca a otro Estado miembro de la Unión Europea. |
+| 128 | Para envíos entre Canarias y Península o islas Baleares de productos sujetos a los Impuestos Especiales sobre cerveza, productos intermedios o alcohol y bebidas derivadas cuya circulación entre origen y destino deba ir amparada por un documento administrativo electrónico. |
+| 129 | Ultimación del régimen suspensivo por salida del TAU en tiendas libres de impuestos. |
+
+Casilla 40:
+
+Cuando los productos hayan circulado hasta la aduana de exportación mediante un documento administrativo electrónico que tenga como destino la exportación, deberá referenciarse en esta casilla el documento administrativo electrónico que ampare la circulación de los productos hasta la aduana de salida, consignando la clave ZAAD seguida de AACCNNNNNNNNNNNNNNNND-PPP (donde los 21 primeros caracteres son el ‘‘ARC’’ -compuesto por los dos últimos dígitos del año en curso, por los dos dígitos del código ISO del país, por los dieciséis dígitos del número del documento y por un dígito de control- y los 3 últimos dígitos se corresponden con la partida de orden). En los DUA recapitulativos («Y») los e-DAs se declararán en la casilla 44.
+
+Casilla 44:
+
+1\. En el caso de que los exportadores estén obligados a inscribirse en el Registro Territorial, se hará constar su C.A.E. (Código de Actividad y de Establecimiento), código casilla 44, 5004.
+
+2\. Deberá hacerse constar, en el caso de exportación de bebidas derivadas o de cigarrillos que hubieran llevado incorporadas precintas de circulación, si se ha procedido a su inutilización o a su destrucción, así como el lugar y la fecha en que tuvo lugar una u otra (códigos casilla 44, 1400 y 1401).
+
+3\. En los DUA recapitulativos, cuando los productos hayan circulado hasta la aduana de exportación mediante uno o varios documentos administrativos electrónicos con destino la exportación, deberá referenciarse en esta casilla el o los e-DA que amparen la circulación de los productos hasta la aduana de exportación, consignando el código C651 y, a continuación, el código administrativo de referencia (‘‘ARC’’) de cada e-DA y su número de partida de la forma siguiente: AACCNNNNNNNNNNNNNNNND-PPP (donde los 21 primeros caracteres son el ‘‘ARC’’ -compuesto por los dos últimos dígitos del año en curso, por los dos dígitos del código ISO del país, por los dieciséis dígitos del número del documento y por un dígito de control- y los 3 últimos dígitos se corresponden con el número de partida).
+
+C. En el tránsito común.
+
+a) Productos sujetos a Impuestos Especiales de fabricación que no estén en régimen suspensivo de IIEE circulen entre el ámbito territorial interno y el ámbito territorial de la Unión Europeo no interno, a través del territorio de la EFTA, al amparo del régimen de tránsito comunitario interno (T2):
+
+Casilla 33: deberá incluir el código NC.
+
+Casilla 44: Con el código 9999 incluir la mención: “Mercancía objeto de IIEE”.
+
+b) Productos sujetos a Impuestos Especiales de fabricación que estén en régimen suspensivo de IIEE. circulen entre el ámbito territorial interno y el ámbito territorial de la Unión Europea no interno, a través del territorio de la EFTA, al amparo del régimen de tránsito comunitario interno (T2):
+
+Casilla 33: Deberá incluir el código NC.
+
+Casilla 44: Deberá consignar el eDA (código C651) y el ARC y el código 9999 con la indicación: “Mercancía objeto de IIEE”.
+
+c) Productos sujetos a Impuestos Especiales de fabricación en régimen suspensivo de IIEE. que se exporten y tras la exportación se incluyan en el régimen de tránsito con destino a un país firmante del acuerdo de tránsito común o que lo atraviese con destino a una aduana de la Unión para la salida efectiva de la mercancía exportada, deberán circular al amparo del régimen de tránsito comunitario externo (T1) y:
+
+Casilla 33: Deberá incluir el código NC.
+
+Casilla 44: Deberá incluir la declaración de exportación y el código 9999 con la indicación: “Mercancía objeto de IIEE”.
+
+> Se modifican los apartados A, casilla 33 y C por el apartado primero.9 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifican los apartados A, casilla 44 y B, casilla 37.2 por el apartado primero.7 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifica el apartado A, casillas 33 y 34 por el apartado primero.9 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifica el apartado B, primer párrafo y casillas 40 y 44 por el apartado primero.20 a 22 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## APÉNDICE III — Descripción códigos estados ecs y condiciones para modificar las declaraciones de exportación
+
+El régimen de exportación se ultima con la salida efectiva de las mercancías del territorio aduanero de la Unión.
+
+A. Definiciones.
+
+Aduana de exportación: la aduana que registra, admite y despacha la declaración de exportación.
+
+Aduana de ubicación de la mercancía: la aduana de control del recinto o almacén autorizado donde se presenta la mercancía cuando se realiza la declaración de exportación. Cuando no coincide con la Aduana de exportación se tratará de un despacho centralizado para lo que el operador tiene que estar expresamente autorizado.
+
+Aduana de salida: la aduana que, de acuerdo con el artículo 793 del Reglamento 2454/93, realiza el control de salida de la mercancía.
+
+‒ Salida directa: cuando coincidan la Aduana de ubicación y la Aduana de salida.
+
+‒ Salida indirecta: cuando la Aduana de ubicación de la mercancía y la Aduana de salida, según se ha declarado en la casilla 29, son distintas
+
+ECS: (Export Control Systems) Aplicación de la Unión Europea para el control de aquellas exportaciones en las que intervienen aduanas de distintos Estados miembros. Está basada en mensajes entre las aduanas implicadas. Por extensión se utiliza el término para referirse al estado de la declaración de cualquier exportación respecto a su despacho por la Aduana de exportación y a la salida del territorio aduanero de la Unión de la mercancía y su control por la Aduana de salida.
+
+EAL: Mensaje nacional mediante el cual el operador comunica a la aduana de salida que la mercancía se encuentra en su recinto y solicita autorización de salida para la misma.
+
+B. Estados de la exportación en caso de salida directa.
+
+| PL | Pendiente de despacho. | La declaración ha sido registrada y admitida y se encuentra pendiente de despacho por la aduana de exportación. |
+|---|---|---|
+| DS | Despachada. | La declaración ha sido despachada por la aduana y puede ser embarcada. |
+| IV | Invalidada. | No existe constancia aceptable de la salida de la mercancía del territorio aduanero de la Unión. |
+| AN | Anulada. | A petición del operador. |
+| SA | Salida efectiva. | Estado final: la mercancía ha salido del TAU. |
+
+DS Despachada.
+
+Una vez que la declaración es despachada, bien automáticamente (asignada a circuito verde) o bien por el actuario (circuitos naranja o rojo), las declaraciones de exportación con salida directa quedan en estado DS. Significa que su embarque está autorizado.
+
+En este caso no es necesario la impresión del DAE ya que la mercancía no tiene que ser presentada en otra aduana.
+
+Si por algún motivo esta declaración se presentara en una aduana de otro Estado miembro, ésta podrá solicitar el envío del mensaje de aviso anticipado. En ese momento la exportación pasará al estado correspondiente como salida indirecta y podrá realizarse la gestión de salida normal.
+
+AN Anulada.
+
+A solicitud del operador puede anularse la declaración de exportación, excepto que se encuentre pendiente de despacho. Este estado es irreversible.
+
+IV Invalidada.
+
+Como consecuencia de una revisión realizada por Aduana, el operador no ha podido justificar la salida real de la mercancía por lo que la declaración es invalidada. El régimen de exportación no ha sido ultimado correctamente y se considera no efectuada. Si se trata de una reexportación de mercancía, la Aduana deberá realizar la liquidación de derechos correspondientes. Este estado es irreversible.
+
+SA Salida efectiva.
+
+Estas declaraciones pasarán automáticamente a este estado, bien por su inclusión en un manifiesto de carga marítimo o bien porque se den las condiciones previstas cuando se trate de un recinto aéreo.
+
+La Aduana también podrá dar salida manual a estas declaraciones.
+
+C. Estados de la exportación en caso de salida indirecta.
+
+| PL | Pendiente de despacho. | La declaración ha sido registrada y admitida y se encuentra pendiente de despacho por la aduana de exportación. |
+|---|---|---|
+| DE | Despachada. | Exportación con salida indirecta, ha sido despachada por la aduana de exportación y está pendiente de su tramitación en la aduana de salida. En este momento se emite el mensaje a la aduana de salida con los datos de la exportación. |
+| RE | Recibido. | Se ha declarado la recepción de la mercancía en la aduana de salida y está pendiente de reconocimiento por parte de la aduana. No está autorizada todavía la salida |
+| RQ | Solicitado a la UE. | La aduana de salida no tiene información de esa exportación de otro EM. Se pide, mediante un mensaje, el envío de esa información y todavía no ha res uesta. |
+| RZ | Desvío rechazado. | La aduana de salida no tiene información de esa exportación. Se ha solicitado información a la aduana de exportación y la respuesta es que no es correcto. |
+| RO | Recibido en otro país. | La aduana de exportación comunica a la aduana de salida prevista que la exportación ha salido por otra aduana. |
+| PS | Pendiente de salida. | El mensaje EAL se ha admitido o la declaración ha sido recibida manualmente por la aduana de salida, se ha despachado y ha sido autorizada la salida de la mercancía (ver artículo 793.bis apartado 5. |
+| ST | Parada. | Reconocida la mercancía por la Aduana, no procede autorizar la salida por no corresponder esta con lo declarado en la exportación (ver artículo 793.bis apartado 5. |
+| AN | Anulada. | A solicitud del operador. |
+| IV | Invalidada. | Estado final del procedimiento de búsqueda cuando no existe constancia aceptable de la salida de la mercancía del territorio aduanero de la Unión artículo 796 sexies. |
+| SA | Salida efectiva. | Estado final: la mercancía ha salido del TAU. |
+
+1\. En la aduana de exportación.
+
+DE Despachada.
+
+Una vez despachada la declaración por la aduana de exportación (automáticamente o por el actuario) queda en estado DE y, por tanto, pendiente de su tramitación en la aduana de salida. En este momento se emite el mensaje IE501 a la aduana de salida declarada en la casilla 29 de la declaración con los datos de la exportación y deberá imprimirse el DAE.
+
+En este estado la declaración no puede ser embarcada ya que no ha sido autorizada la salida.
+
+Modificaciones.
+
+Si la aduana de salida es de otro Estado miembro nunca debe modificarse esta exportación, ya que el mensaje con la información de la declaración ya ha sido enviado a la aduana de salida y la aplicación ECS no contempla mensajes de modificación. Si fuera necesario, deberá solicitarse la anulación de la declaración emitida y hacer una nueva. En la nueva deberá incluirse el código 1224 con el MRN de la declaración anulada.
+
+Si la aduana de salida es también nacional pueden realizarse modificaciones por errores de hecho.
+
+AN Anulada.
+
+A solicitud del operador puede anularse la declaración de exportación, excepto que se encuentre pendiente de despacho.
+
+IV Invalidada.
+
+Superado el plazo de 150 días previsto en el artículo 796 sexies del Reglamento (CEE) n.º 2454/1993 si el operador no ha podido justificar la salida real de la mercancía la declaración es invalidada. El régimen de exportación no ha sido ultimado correctamente y se considera no efectuada. Si se trata de una reexportación de mercancía, la Aduana deberá realizar la liquidación de derechos correspondientes.
+
+2\. En la aduana de salida (cuando ésta es nacional).
+
+La mercancía y el DAE deben ser presentados en la aduana de salida mediante el mensaje EAL de acuerdo a lo previsto en el apartado 6.5.1 de esta Resolución o en la oficina de la aduana para su recepción manual. La declaración quedará en uno de estos estados:
+
+PS Pendiente de salida.
+
+El mensaje ha sido admitido o ha sido realizada la recepción manual y se ha asignado un circuito verde. También se llega a este estado una vez despachada por la Aduana y autorizada la salida. El operador debe imprimir la autorización de salida y la mercancía puede ser embarcada.
+
+RE Recibido.
+
+El mensaje ha sido admitido o ha sido realizada la recepción manual y ha sido asignado a un circuito rojo. La Aduana realizará las comprobaciones necesarias de acuerdo a lo previsto en el artículo 793 bis del Reglamento (CEE) n.º 2454/1993. Una vez comprobada la mercancía, la Aduana incluirá las diferencias detectadas, si las hubiera, y cambiará el estado de la declaración a PS o a ST si no autoriza la salida (ver artículo 793.bis apartado 5 del mencionado Reglamento).
+
+RQ Solicitado a la UE.
+
+La aduana de salida no tiene información de esa exportación de otro EM. Nuestra aplicación informática contesta al mensaje EAL pidiendo que vuelva a enviarse más tarde y mientras genera un mensaje para la aduana de exportación solicitando el envío de esa información. La declaración queda en este estado mientras no se recibe respuesta de la aduana de exportación.
+
+El operador debe reenviar el mensaje transcurrido 1 hora. Si seguimos sin respuesta deberá presentar el DAE en la Aduana para que ésta realice las comprobaciones oportunas, vise el DAE si todo es correcto y autorice la salida.
+
+El compromiso es que la respuesta del otro Estado miembro tarde menos de 30 minutos. Sin embargo no es inhabitual que lleguen respuestas transcurridas horas e incluso días. Pasados unos días la Aduana podrá volver a intentar gestionar la salida a través de la aplicación ECS. Si no lo consigue, avisará de dicha contingencia al servicio de helpdesk, que avisará al país correspondiente de que el visado de salida se ha realizado en el DAE.
+
+RZ Desvío rechazado.
+
+(Continuación de un estado RQ) La respuesta de la aduana de exportación es que ese MRN no existe, o que ya se ha producido la salida, u otro motivo de error. La aduana debe comprobar la mercancía y comunicar, en su caso, esta incidencia al servicio de helpdesk y, según las circunstancias, autorizar la salida de la mercancía.
+
+El servicio de helpdesk pedirá información al Estado miembro de que se trate y trasladará la respuesta a la aduana.
+
+RO Recibido en otro país.
+
+La aduana de exportación ha comunicado a la aduana de salida prevista que la exportación ha salido por otra aduana.
+
+SA Salida efectiva.
+
+La Aduana de salida ha comprobado la salida efectiva de la mercancía e informa de ello mediante el mensaje «Resultados de salida» a la Aduana de exportación. Si las salidas fueran parciales, sólo se enviará el mensaje cuando hubiera salido la totalidad de la mercancía.
+
+Los declarantes de las exportaciones con salida directa y los declarantes de los mensajes EAL son responsables de comunicar a la aduana la no salida de la mercancía.
+
+D. Modificación de declaraciones de exportación.
+
+Se efectuará por el operador la subsanación electrónica de los errores de hecho cometidos en las declaraciones de exportación en las siguientes condiciones:
+
+a) No se trate de un DUA acogido a los beneficios de la restitución.
+
+b) No haya superado los 90 días desde su admisión.
+
+c) El régimen debe ser de exportación definitiva, es decir, código 10 cuando se trate del procedimiento normal (casilla 1.2, código A). En declaraciones simplificadas (casilla 1.2, código «C») podrán modificarse también cuando el régimen sea 31.
+
+d) Haya obtenido levante automático, es decir, haya sido asignada a circuito verde en la aduana de exportación.
+
+e) El estado sea:
+
+‒ DE sólo si la aduana de salida es nacional y no ha sido solicitada por una aduana extranjera mediante un mensaje IE503. En ningún caso puede ser modificada una exportación, ni de forma electrónica ni por la Aduana, cuyos datos se hayan enviado a una aduana de otro Estado miembro mediante un IE501 o un IE503. La aplicación ECS no contempla ningún mensaje de modificación. En su caso, sólo es posible la anulación y la realización de una nueva declaración en la que deberá incluirse el código 1224, en la casilla 44, con el MRN de la declaración anulada.
+
+‒ SA, salvo que este estado lo haya obtenido por una declaración de tránsito.
+
+‒ SV, DS o SD.
+
+f) No haya sido revisada en la aduana de salida o esté pendiente de revisar.
+
+g) No son modificables: el declarante, la aduana de salida, la descripción de la mercancía ni la casilla 37.
+
+h) No puede modificarse para solicitar restitución o añadir códigos adicionales de restituciones.
+
+i) No pueden añadirse partidas.
+
+El mensaje de modificación tendrá una de las siguientes respuestas:
+
+‒ Rechazado porque incumple alguna de las condiciones anteriores;
+
+‒ Aceptado modificándose el DUA de forma automática;
+
+‒ Aceptado pero pendiente de revisión por la aduana. En este caso el operador debe justificar en la Aduana la modificación solicitada. No podrá volver a modificarse una exportación que tenga pendiente la revisión de una modificación.
+
+Fuera de los supuestos anteriores, en el caso de que proceda realizar una modificación de la declaración de exportación, ésta se efectuará por la Aduana correspondiente.
+
+E. Comunicación de no salida del territorio de la Unión de la mercancía declarada de exportación.
+
+La comunicación prevista en el artículo 792 bis del Reglamento (CEE) n.º 2454/1993, apartado 1.º podrá ser realizada por el interesado en Sede electrónica cuando la mercancía despachada de exportación no haya salido del territorio de la Unión.
+
+Esta solicitud de anulación podrá utilizarse también cuando se trate de corregir errores de hecho de una declaración con salida indirecta mediante su sustitución por otra.
+
+> Se modifica el título del apartado E por el apartado primero.23 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## APÉNDICE IV — Mercancía para buques y aeronaves
+
+1\. Definición.
+
+El presente apéndice se refiere al suministro a buques y aeronaves tanto de productos de equipamiento como de productos de avituallamiento que, de acuerdo a la normativa citada en el punto 2, puedan beneficiarse de la exención de impuestos. Estas operaciones, pese a no tratarse de operaciones de exportación o reexportación propiamente dichas, se documentan como tales siendo necesario la salida efectiva del TAU del buque o aeronave.
+
+Los suministros cuya entrega no se acoja o no sea aplicable la exención total de impuestos por este concepto, pueden efectuarse directamente sin formalidad aduanera, mediante factura comercial, documento de transporte, o cualquier otro documento o declaración que se utilice a este fin.
+
+Se entiende por productos de equipamiento y por productos de avituallamiento los definidos a continuación:
+
+a) «Productos de avituallamiento»: los constituidos por las provisiones de a bordo, los combustibles, carburantes, lubricantes y demás aceites de uso técnico y los productos accesorios de a bordo.
+
+– «Provisiones de a bordo». Son los productos destinados exclusivamente al consumo de la tripulación y de los pasajeros.
+
+– «Combustibles, carburantes, lubricantes y otros aceites de uso técnico». Son los productos destinados a la alimentación de los órganos de propulsión o al funcionamiento de otras máquinas y aparatos de a bordo.
+
+– «Productos accesorios de a bordo». Son los productos consumibles de uso doméstico utilizados para la conservación, el tratamiento o la preparación a bordo de las mercancías transportadas.
+
+b) «Productos de equipamiento»: productos destinados a su incorporación en los buques o aeronaves, así como los productos destinados a su armamento o equipamiento.
+
+– Se excluyen: los productos consumibles como comida, fuel, aceites, etc. (avituallamiento), los utensilios o maquinaria utilizados para la construcción, reparación, etc., que no queden incorporados al buque y los medios de transporte (por ejemplo, contenedores que no quedan incorporados al buque).
+
+– Se incluyen: cualquier producto destinado a su incorporación al buque o aeronave y aquellos que sin incorporarse y sin ser consumibles son necesarios para la navegación, para la explotación o para la seguridad (botes salvavidas, mobiliario, utillaje, aparejos e instrumentos de a bordo, etc.)
+
+2\. Normativa y doctrina específica.
+
+a) Aduanera:
+
+– Letras A y B del Título II de las Disposiciones Preliminares de la Nomenclatura Combinada, aprobada por Reglamento (CEE) n.º 2658/87, de 23 de julio de 1987, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común para mercancías destinadas al equipamiento.
+
+– Disposición adicional única de la Ley 16/2013, de 29 de octubre, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental y se adoptan otras medidas tributarias y financieras para mercancías destinadas al avituallamiento.
+
+– Artículo 269 del CAU, apartados 2 c) y 3.
+
+b) IVA:
+
+– Artículo 27. 2.º, 3.º y 6.º de la Ley 37/1992, de 28 de diciembre.
+
+– Artículo 10.1. 5.º y 6.º del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, 29 de diciembre.
+
+– Orden HAC/559/2021, de 4 de junio, por la que se aprueban las normas en el ámbito aduanero, del Impuesto sobre el Valor Añadido y de los Impuestos Especiales de Fabricación, sobre el avituallamiento y equipamiento exento a buques y aeronaves, distintos de los privados de recreo, así como las entregas en tiendas libres de impuestos y para la venta a bordo a viajeros.
+
+c) Impuestos Especiales:
+
+– Artículo 9.1.º, letras e), y f), y artículo 51.2 letras a) y b) de la Ley 38/92, de 28 de diciembre.
+
+– Artículo 4.5 del Reglamento de Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de Julio" Este art, se refiere a la acreditación del destino, en el caso de exención del art.9.1 de la Ley, mediante la notificación de exportación.
+
+– Orden HAC/559/2021, de 4 de junio, citada en la letra anterior.
+
+d) IGIC/AIEM:
+
+– Artículos 12 y 14 de la Ley 20/1991 regulan las exenciones por operaciones asimiladas a las exportaciones (12) y las exenciones por importaciones definitivas (14) referidos a la exención de IGIC y artículos 71 y 73 para la exención del AIEM.
+
+e) Consulta General 0003-17 de la Dirección General de Tributos relativa a la forma de documentar estas operaciones.
+
+3\. Formas de declarar los suministros a buques y aeronaves.
+
+a) Mercancía de la Unión.
+
+De acuerdo con el artículo 269 del CAU no se aplica el régimen de exportación a las mercancías entregadas, exentas del IVA o de impuestos especiales, para el avituallamiento de aeronaves o embarcaciones, independientemente del destino de la aeronave o de la embarcación, pero son de aplicación las formalidades y trámites de las declaraciones de exportación.
+
+Esta declaración de exportación será el documento aduanero de embarque al que refiere el artículo 10.1.5.º y 6.º del Reglamento del Impuesto sobre el Valor Añadido, aprobado por Real Decreto 1624/1992, 29 de diciembre. En Canarias se entenderá referido al IGIC. En todo caso deberá contener la firma del recibí del capitán u otra persona responsable. También constituirá la prueba de la entrega que establece el artículo 269 citado.
+
+La casilla 17.a) de la declaración de exportación, se cumplimentará usando una de las claves del anexo III correspondientes al suministro a buques y aeronaves.
+
+La casilla 33 se cumplimentará con el correspondiente código de las mercancías salvo las provisiones de abordo que podrán utilizar los códigos estadísticos especiales.
+
+En la casilla 37.2 deberá incluirse el código F61.
+
+Deberá incluirse en la casilla 44 el código:
+
+– 5012 seguida del IMO del buque o, de carecer de él, el número MMSI, o
+
+– 5013 en el caso de aeronaves, seguida de la identificación completa de la compañía.
+
+\- 1114 Referencia del documento de autorización de la Aduana de cantidades a embarcar prevista en el apartado 3 del artículo 6 de la Orden HAC/559/2021, cuando proceda.
+
+b) Mercancía no de la Unión.
+
+El suministro de mercancías no pertenecientes a la Unión podrá declararse por cualquiera de los tres métodos siguientes:
+
+b.1) Mediante declaración o notificación de reexportación.
+
+El CAU no establece expresamente cómo deben formalizarse las entregas en las mismas condiciones previstas en el apartado 2.c) del artículo 269 del CAU citado en el apartado anterior cuando se trate de mercancías que no tengan estatuto de la Unión. De acuerdo con la interpretación de la Dirección General de Tributos (Consulta General 0003-17) que recoge el criterio adoptado en las «Guías de exportación y de salida del territorio aduanero de la Unión» publicada por la Comisión Europea, estas operaciones pueden documentarse como una reexportación, con independencia del destino de la aeronave o buque, cumpliendo las formalidades previstas en el artículo 270 del CAU.
+
+La reexportación puede declararse:
+
+– Mediante declaración aduanera de reexportación en el caso de mercancía previamente vinculada a un régimen aduanero distinto de la Zona Franca.
+
+– Mediante EXS o notificación de reexportación cuando la mercancía esté en depósito temporal o Zona Franca. Estás declaraciones deben realizarse directamente en la Aduana de salida ya que no amparan la circulación de mercancía no de la Unión.
+
+En todo caso deberá contener la firma del recibí del capitán u otra persona responsable.
+
+La casilla 17.a) de la declaración de exportación, se cumplimentará usando una de las claves del anexo III correspondientes al suministro a buques y aeronaves.
+
+La casilla 33 se cumplimentará con el correspondiente código de las mercancías salvo las provisiones de abordo que podrán utilizar los códigos estadísticos especiales.
+
+En la casilla 44, documentos y certificados, se incluirá la clave:
+
+– 5012 seguida del IMO del buque o, si carece del mismo, o de carecer de él, el número MMSI, o
+
+– 5013, en el caso de aeronave, seguida de la identificación completa de la compañía, y la identificación de la/s factura/s relativas al suministro.
+
+\- 1114 Referencia del documento de autorización de la Aduana de cantidades a embarcar prevista en el apartado 3 del artículo 6 de la Orden HAC/559/2021, cuando proceda.
+
+b.2) Mediante declaración de inclusión en el régimen de libre práctica con destino final.
+
+En este caso, el operador deberá vincular la mercancía al régimen de libre práctica con destino final, siempre que se cumplan las condiciones previstas en las Disposiciones Preliminares citadas, siendo el embarque efectivo el destino final que el titular del régimen debe acreditar ante la aduana de control del régimen a efectos de la ultimación del mismo.
+
+La solicitud de autorización de destino final se podrá realizar por el procedimiento simplificado, es decir, en la propia declaración en aduana, cuando el solicitante tenga la intención de asignar enteramente las mercancías al destino final prescrito. Cuando el solicitante tenga intención de transferir esa obligación a otro operador, la solicitud deberá presentarse por el procedimiento normal.
+
+La vinculación al régimen se realizará mediante una declaración de importación con el contenido siguiente:
+
+– Casilla 36: código 140.
+
+– Casilla 37.1: 40 o 07 si la mercancía se incluye en depósito fiscal.
+
+– Casilla 37.2: 103 si procede la exención de IVA (sólo con régimen 40) o código 301 si procede la exención de IGIC y o AIEM.
+
+– Casilla 44: autorización de destino final.
+
+La casilla 17.a) se cumplimentará usando una de las claves del anexo III correspondientes al suministro a buques y aeronaves. La casilla 33 se cumplimentará con el correspondiente código de las mercancías (sin que puedan usarse los códigos especiales).
+
+El cumplimiento del destino final se justificará mediante la correspondiente declaración de exportación realizada de acuerdo a lo dispuesto en la letra a) o conforme a lo que se haya determinado en la autorización del régimen.
+
+b.3) En el caso de piezas de recambio, accesorios y equipos para medios de transporte no pertenecientes a la Unión, mediante su importación temporal.
+
+En virtud de lo dispuesto en el artículo 213 del RDCAU se podrán importar temporalmente las piezas de recambio, accesorios y equipos para medios de transporte para ser reexportados por separado o como parte de medios de transporte, con exención total de derechos.
+
+Cuando la forma de declarar sea mediante declaración normal, se seguirán las instrucciones del capítulo 1.º y, en el caso de que realice una declaración oral de las previstas en el artículo 136 del Reglamento Delegado, se deberá acompañar del documento justificativo del Anexo 71-01 del citado Reglamento disponible en la Sede Electrónica.
+
+La reexportación para la ultimación del régimen, de realizarse mediante declaración normal, se efectuará según dispone el apartado b.1 (sin perjuicio de las restantes opciones permitidas en los artículos 136, 139 y 141 del Reglamento Delegado).
+
+4\. Plataformas de perforación o de explotación.
+
+Lo dispuesto en este apéndice será igualmente aplicable al suministro de mercancías a plataformas de perforación o explotación. El despacho a libre práctica de estas mercancías podrá gozar, cuando se cumplan las condiciones previstas para ello, de la franquicia arancelaria establecida en la letra A del Título II de las Disposiciones Preliminares de la Nomenclatura Combinada si se trata de equipamiento o a la establecida en la Disposición adicional única de la Ley 16/2013, de 29 de octubre, por la que se establecen determinadas medidas en materia de fiscalidad medioambiental, si se trata de avituallamiento.
+
+> Se modifican los apartados 2.b), 2.c), 3.a) y 3.b.1) por el apartado primero.10 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 4º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.8. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se sustituye por el que figura como anexo 2º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.10. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## APÉNDICE V — Ventas de pescado extraído por buques nacionales y directamente exportado desde el mismo buque sin pasar por territorio nacional
+
+En los supuestos de ventas de pescado extraído en alta mar por buques nacionales y directamente exportado, realizándose la entrega mediante transbordo a otro buque o en un puerto de un país tercero, deberá procederse de la forma siguiente:
+
+a) La factura de venta tendrá la consideración de un despacho previo de exportación. En dicha factura deberán constar los datos del vendedor, NIF, datos del comprador, domicilio fiscal y nacionalidad, descripción de la mercancía con detalle suficiente para su clasificación TARIC, precio unitario y precio total, lugar de entrega (puerto y país donde se realice o nombre del buque y país donde esté abanderado) y condiciones de entrega.
+
+Asimismo, la factura deberá contener la indicación del nombre del buque que ha efectuado la captura así como su número de matrícula.
+
+b) El armador del buque que realice la venta deberá presentar un DUA de exportación en la Aduana correspondiente al puerto donde tenga su base el buque pesquero, en un plazo máximo de 5 días hábiles desde la fecha de factura, acompañado de ésta.
+
+La Aduana podrá realizar las inspecciones a posteriori que estime conveniente y solicitar del armador la presentación de la documentación o libros que justifiquen la realización de la citada operación.
+
+## APÉNDICE VI — Despacho de mercancías carentes de importancia económica importadas por particulares
+
+**(Suprimido)**
+
+> Se suprime por el apartado primero.11 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+## APÉNDICE VII — Declaraciones comerciales simplificadas de importación
+
+Las declaraciones simplificadas se regulan en los artículos 166 y 167 del CAU, 145 a 147 del RDCAU y 223 a 225 del RECAU.
+
+Este apéndice se refiere a las declaraciones simplificadas de importación para despachos comerciales mientras que en el apéndice IX se recogen las instrucciones para las declaraciones simplificadas de pequeños envíos sin valor estimable.
+
+En los citados artículos se contempla la posibilidad de presentar declaraciones simplificadas consistentes en:
+
+• Declaración con menos datos.
+
+• Declaración con falta de documentos.
+
+Estas declaraciones pueden ser, a su vez, de dos tipos:
+
+• De uso habitual. Requiere autorización.
+
+• De uso ocasional. No requiere autorización.
+
+La normativa no contiene un criterio definitorio de la habitualidad. La única referencia a este respecto es la contenida en las guías publicadas por TAXUD que contemplan la posibilidad de vincular la autorización a la posibilidad de presentar declaración complementaria de carácter periódico. La aduana española adopta en la presente resolución dicho criterio. Los cambios introducidos por la nueva normativa se pueden resumir en:
+
+• Desaparición de las declaraciones incompletas.
+
+• Modificación de los plazos para completar las declaraciones simplificadas.
+
+• Cambios en los datos.
+
+En tanto los sistemas de la aduana española no estén ajustados a los datos del anexo B del RDCAU y RECAU, el régimen transitorio de las declaraciones simplificadas queda como se indica en este Apéndice.
+
+A. Declaración simplificada por falta de documentos.
+
+En este supuesto todos los datos de la declaración normal están en poder del declarante, sin embargo alguno o algunos de los documentos que justifican tal dato, no está en poder del mismo en el momento de la presentación de la declaración.
+
+Ejemplos:
+
+• El declarante tiene fotocopia del certificado de origen, pero aún no le ha llegado el original.
+
+• El declarante tiene el precio pagado por la mercancía, pero aún no ha recibido la factura comercial.
+
+• El declarante tiene el peso real de la mercancía, pero aún no ha recibido la nota de pesaje.
+
+Características según el tipo de autorización:
+
+1\. Sin autorización.
+
+1.1 Forma de declarar:
+
+Casilla 1.2: «B» procedimiento simplificado por falta de documentos.
+
+Casilla 37.2: código específico nacional para indicar el documento que falta.
+
+1.2 Declarante: No hay restricción.
+
+1.3 Plazo para completar la declaración: 10 días con posibilidad de prórroga, a solicitud del declarante, de hasta 120 días. Podrá exigirse al operador autorización de declaración simplificada cuando de forma reiterada solicite prorroga.
+
+1.4 Contracción: Se contrae de acuerdo a lo declarado en el DUA B.
+
+1.5 Garantía por declaración simplificada: Se deberá presentar garantía adicional por la diferencia de derechos que existiría si no se llegara a presentar el documento que falta. En el caso de falta de tiquets de pesajes, no se retendrá garantía.
+
+1.6 Declaración complementaria: El declarante o su representante deberá presentar una declaración complementaria (tipo procedimiento «X»), dentro del plazo indicado en el punto 1.3, para incorporar a la casilla 44 la documentación pendiente. Si no ha obtenido en plazo dicha documentación o la obtenida no se corresponde con lo declarado, deberá indicarlo así en la declaración complementaria que hará las veces de solicitud de regularización y/o rectificación de lo declarado previamente.
+
+2\. Con autorización, igual que lo anterior salvo lo siguiente:
+
+2.1 Forma de declarar: además de las indicaciones anteriores, deberá incluir el número de la autorización de la casilla 44.
+
+2.2 Plazo para completar la declaración: el previsto en la autorización dentro de lo previsto en el artículo 147 RDCAU).
+
+2.3 La autorización podrá prever que la declaración complementaria sea recapitulativa de varias declaraciones. En este caso se podrán agrupar aquellas que deban ser completadas con el mismo/s documento/s.
+
+3\. Empresas con autorización de inscripción en los registros (EIR):
+
+En el supuesto especial de que la necesidad de declaración simplificada por falta de documentos se presente en una empresa titular de la autorización de inscripción en los registros (EIR), el procedimiento se ajustará a las siguientes condiciones:
+
+3.1 En la autorización de EIR se incluirá la posibilidad de que el operador inscriba los datos de una declaración simplificada por falta de documentos. Asimismo, se fijará el plazo de que dispone el titular para la presentación de los documentos faltantes.
+
+3.2 Las declaraciones recapitulativas Z, en su caso, podrán completar anotaciones contables con falta de documentos.
+
+3.3 La empresa notificará a su Aduana de control, en el plazo previsto para ello, que ya está en posesión del documento correspondiente, y en su caso, solicitará la regularización y/o rectificación de lo declarado previamente.
+
+B. Declaración simplificada por falta de datos.
+
+Los distintos supuestos de hecho que en la práctica han venido obligando a utilizar este tipo de declaraciones, se podrían agrupar en los siguientes bloques:
+
+• Pesos provisionales en graneles.
+
+• Ventas en consignación.
+
+• Multinacionales con precios de transferencia.
+
+• Productos donde el valor de transacción es desconocido en el momento del despacho a libre práctica.
+
+1\. Ausencia del dato de peso por mercancía en granel:
+
+En todos estos supuestos, el despacho de mercancías debe ajustarse a las siguientes reglas:
+
+a) Con carácter general, la declaración de las mercancías para un régimen aduanero debe realizarse cuando se disponga de todos los datos y documentos previstos en el artículo 162 y 163 del CAU.
+
+El artículo 134.2 del CAU permite, previa autorización de la autoridad aduanera, examinar la mercancía bajo vigilancia aduanera, tomar muestras o realizar análisis para determinar su clasificación y valor.
+
+Además, las actividades de análisis de mercancías, así como las actividades de pesaje, son manipulaciones usuales permitidas en depósito temporal con arreglo a lo previsto en el Anexo 71-03 del RDCAU.
+
+b) En el supuesto de que no haya instalaciones con capacidad suficiente para realizar los pesajes con la mercancía en depósito temporal o en depósito aduanero, se podrá despachar la mercancía a granel por el 95 por 100 del peso contratado en el documento de transporte, ajustando al peso real con un segundo DUA.
+
+c) También será posible la utilización de la declaración simplificada prevista en el artículo 166 del CAU. El plazo para la presentación de la declaración complementaria está establecido en el artículo 146 del RDCAU y deberá ajustarse a las siguientes condiciones:
+
+Caso de contracción individual (régimen normal, artículo 146.1 RDCAU):
+
+• No será necesario autorización de declaración simplificada.
+
+• La forma de declarar será de acuerdo a lo previsto en el apartado 2.4.1 y 2.4.2 de esta Resolución.
+
+• Deberá aportarse garantía en la declaración simplificada.
+
+• Las cantidades declaradas en el DUA simplificado serán las correspondientes a lo indicado en el título de transporte.
+
+• El plazo para presentar la declaración complementaria es de 10 días máximo desde el levante del DUA simplificado.
+
+Caso de contracción única:
+
+• La forma de declarar será de acuerdo a lo previsto en el apartado 2.4.1 y 2.4.2 de esta Resolución.
+
+• Será necesario autorización de declaración simplificada de uso habitual a nombre del importador.
+
+• Deberá contar, asimismo con autorización de contracción única (artículo 105, párrafo 2.º del CAU).
+
+• Deberá aportar garantía en la declaración simplificada.
+
+• Plazo para presentar la declaración complementaria (un DUA complementario por cada declaración simplificada): plazo máximo 10 días siguientes a la finalización del mes natural dentro del cual se han presentado los DUAs simplificados.
+
+2\. Ausencia del dato de valor.
+
+2.1 Ventas en consignación:
+
+Tanto en el supuesto de mercancías importadas en consignación, como en mercancías importadas por intermediarios que no las compran pero las venden, el Comité Técnico de Valoración en Aduana exige que se acuda a un método secundario de valoración.
+
+En aras a facilitar este proceso de valoración, la Comisión fija dos sistemas de precios para determinados productos perecederos:
+
+a) Precios unitarios. El artículo 142.6 del Reglamento de Ejecución dispone que:
+
+«6. El valor en aduana de determinadas mercancías perecederas mencionadas en el anexo 23-02 importadas en el régimen comercial de la venta en consignación podrá determinarse directamente de conformidad con el artículo 74, apartado 2, letra c), del Código. Para ello, los Estados miembros notificarán los precios unitarios a la Comisión, que los dará a conocer mediante el TARIC, de conformidad con el artículo 6 del Reglamento (CEE) no 2658/87 del Consejo.
+
+Esos precios unitarios podrán utilizarse para determinar el valor en aduana de las mercancías importadas a lo largo de períodos de catorce días. Cada período dará comienzo el viernes.
+
+Los precios unitarios se calcularán y notificarán de la siguiente manera:
+
+(…).»
+
+b) Precios de entrada. La nota informativa NI GA 04/2015 de 27 de mayo, relativa a la Importación de Productos Sujetos a Precio de Entrada (anexo XVI del Reglamento de Ejecución (UE) n.º 543/2011), detalla este procedimiento.
+
+Otros supuestos de venta en consignación: podrá utilizarse la declaración simplificada prevista en el apartado 2.4.1 y 2.4.2 de esta Resolución en aquellos casos en que pueda aportarse el valor definitivo en el plazo previsto en el artículo 146 del RDCAU.
+
+2.2 Precios de transferencia.
+
+En los despachos a libre práctica donde exista vinculación entre el comprador y el vendedor, de acuerdo con la definición de vinculación contemplada en el artículo 127 del RECAU, se aplicará el valor de transacción siempre que tal vinculación no haya tenido influencia en el precio. A sensu contrario, cuando la vinculación sí hubiera afectado al precio, el declarante deberá usar métodos secundarios de valoración.
+
+Por su parte el artículo 134 del RECAU contiene una serie de normas para determinar los supuestos en los que la vinculación no ha influido en el precio.
+
+Los grupos multinacionales que aplican una determinada política de precios de transferencia deben analizar, según las Directrices de precios de transferencias dadas por la OCDE, la plena aplicación del principio de libre competencia. Es decir, deben asegurar que sus operaciones vinculadas se valoran a precio de mercado.
+
+Dado que este mismo principio de valoración es el que subyace al valor de transacción, y siguiendo la recomendación dada por la Organización Mundial de Aduanas en su «Guía sobre valoración aduanera y precios de transferencia», las autoridades aduaneras tendrá en consideración los estudios de precios de transferencia de las compañías.
+
+Teniendo en cuenta lo anterior, las empresas cuyas operaciones con otras con las que tengan vinculación, determinen el precio de sus transacciones, que cumpla con lo previsto en el artículo 70 del CAU, con posterioridad a la realización de las mismas, podrán:
+
+a. Solicitar una autorización de declaración simplificada del artículo 166.2 del CAU. En dicha solicitud deberán explicar su operativa, el valor de transacción provisional que quieren utilizar, cómo lo han determinado y el plazo en el que tendrán el valor definitivo.
+
+b. El solicitante deberá ser el importador.
+
+c. La autorización, en su caso, incluirá el valor en aduana que debe incluirse en las declaraciones iniciales y el plazo para presentar la declaración complementaria, teniendo en cuenta lo previsto en el artículo 147.3 del RDCAU, así como si se autoriza que esta sea recapitulativa.
+
+d. Las declaraciones simplificadas se presentarán de acuerdo a lo previsto en el apartado 2.4.3 y 2.4.4 de esta Resolución.
+
+2.3 Productos donde el valor de transacción es desconocido en el momento del despacho a libre práctica.
+
+Dentro de este grupo se encontrarían los productos con precios referenciados a mercados de futuros, con precio condicionado a los resultados de un análisis, etc.
+
+En relación con estas operaciones se procederá de la forma siguiente:
+
+2.3.1 Si el plazo para obtener la información definitiva es superior al previsto en el artículo 146 del RDCAU,
+
+a. Será necesario solicitar una autorización de declaración simplificada del artículo 166.2 del CAU. En dicha solicitud deberán explicar su operativa, el valor de transacción provisional que quieren a utilizar, cómo lo han determinado y el plazo en el que tendrán el valor definitivo.
+
+b. El solicitante deberá ser el importador.
+
+c. La autorización, en su caso, incluirá el valor en aduana que debe incluirse en las declaraciones iniciales y el plazo para presentar la declaración complementaria, teniendo en cuenta lo previsto en el artículo 147.3 del RDCAU, así como si se autoriza que esta sea recapitulativa.
+
+d. Las declaraciones simplificadas se presentarán de acuerdo a lo previsto en el apartado 2.4.3 y 2.4.4 de esta Resolución.
+
+2.3.2 Si el plazo para obtener la información no es superior al previsto en el artículo 146 del RDCAU,
+
+a. No será necesaria autorización de declaración simplificada.
+
+b. Se presentará una declaración siguiendo las instrucciones del apartado 2.4.1 y 2.4.2.
+
+c. Para acogerse al plazo previsto en el artículo 146.2, el importador deberá tener autorización de contracción única (artículo 105, párrafo 2.º del CAU).
+
+> Se sustituye por el que figura como anexo 3º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.12. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se suprime el código 105 y se añade el código 104 al apartado D y se modifican los apartados C.3).2 y G por el apartado primero.24 a 26 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## APÉNDICE VIII — Importación/exportación en Ceuta y Melilla, procedimientos simplificados para los intercambios comerciales nacionales.
+
+La presente resolución se aplica íntegramente en Ceuta y Melilla sin perjuicio de los procedimientos simplificados previstos en el presente apéndice aplicables exclusivamente a los intercambios comerciales nacionales con dichas ciudades, entendiendo como tales las transacciones comerciales cuyo objeto sea un bien en libre circulación en el territorio aduanero nacional.
+
+A. Importación en Ceuta y Melilla de mercancía que ha sido previamente objeto de declaración de exportación admitida en el resto del territorio nacional con destino a estas ciudades.
+
+La importación de este tipo de mercancía en Ceuta y Melilla se realizará mediante DUA de importación, cumplimentado de acuerdo a las instrucciones previstas en el Capítulo 2.º de esta Resolución, con las siguientes salvedades:
+
+a) Cuando se trate de mercancía desembarcada de un único medio o unidad de transporte, dirigida a varios importadores y que haya sido objeto de varias declaraciones de exportación en el resto del territorio nacional, se realizará un solo DUA de importación por medio de transporte, con las siguientes características:
+
+– Casilla 1, subcasilla 3: se incluirá la clave E.
+
+– Casilla 8: figurará como destinatario la misma persona que actúe como declarante (casilla 14), o la persona a quien venga consignado el conocimiento según título de transporte.
+
+– Casilla 21: se identificará el medio de transporte del que desembarca la mercancía a través de su matrícula.
+
+– Casilla 22: se consignará, en euros, el valor total facturado de las mercancías que engloba.
+
+– Casilla 31: si son varios tipos de mercancías, se describirá el contenido como «mercancía consolidada».
+
+– Casilla 33: si son varios tipos de mercancías, se puntualizará la posición estadística especial 9990000200.
+
+– Casilla 34: si son varios los orígenes, podrán agruparse bajo el código «ES» correspondiente a España.
+
+– Casilla 40: en lugar de la partida de orden se consignará el número del conocimiento de embarque.
+
+– Casilla 44:
+
+• Deberá consignarse, al menos, la relación de las declaraciones de exportación admitidas en el resto del territorio nacional referidas a estas mercancías, así como el título de transporte.
+
+• Para las facturas o documentos que amparen la expedición podrá emplearse la denominación «VARIOS».
+
+• No se precisa referenciar o aportar las autorizaciones de despacho, sin perjuicio de que las mismas queden a disposición de la aduana. Para los envíos a particulares tendrá la consideración de autorización de despacho la firma en el justificante de entrega.
+
+Esta declaración no podrá englobar envíos postales.
+
+b) Cuando se trate de un único envío que incluya mercancías diversas para el mismo destinatario que hayan sido objeto de una o varias declaraciones de exportación, podrá declararse en una única partida utilizando la posición estadística especial 9990000200, siendo igualmente aplicables las simplificaciones e instrucciones previstas en el apartado anterior, salvo lo dispuesto para la casilla 8 y la casilla 44 en relación a las facturas y autorizaciones de despacho.
+
+El resto de las casillas se cumplimentarán de acuerdo con las instrucciones previstas en el Capítulo 2.º de esta Resolución.
+
+Para poder presentar las declaraciones de importación el declarante deberá:
+
+– estar en posesión de una certificación global expedida por el órgano competente de la Ciudad Autónoma de Ceuta y Melilla, acreditativa de que tiene garantizado el Impuesto sobre la Producción, los Servicios y la Importación (IPSI), o
+
+– presentar con la declaración, justificante de haber pagado el IPSI o acreditación extendida por la autoridad competente.
+
+B. Importación, declaraciones formalizadas en documento comercial.
+
+Los operadores interesados que realicen operaciones repetitivas de importación en Ceuta y Melilla, podrán solicitar, en la Dependencia Regional de Aduanas, la utilización de un documento comercial (factura, albaranes, etc.) como declaración simplificada que deberá ser complementada mediante un DUA recapitulativo.
+
+a) Requisitos para acogerse:
+
+– Deberá tratarse de operaciones que tengan carácter repetitivo.
+
+– Ofrecer las garantías financieras y fiscales suficientes, no habiendo sido sancionado por comisión de infracciones graves u otras reiteradas a la normativa aduanera y tributaria. Específicamente se tendrá en cuenta a la hora de prorrogar o revocar la autorización el incumplimiento de las obligaciones relativas a este procedimiento simplificado.
+
+b) Autorización.
+
+– La Aduana comprobará que se cumplen los requisitos anteriores.
+
+– Se especificará en la autorización el contenido del documento comercial que hará las veces de declaración simplificada, de forma que pueda garantizarse el control eficaz del cumplimiento de las prohibiciones o restricciones a la importación. En cualquier caso, el contenido mínimo, además de los datos comerciales habituales, será el siguiente:
+
+• descripción y cantidad de la mercancía,
+
+• código TARIC,
+
+• número, naturaleza y marca de los bultos,
+
+• país de expedición de la mercancía,
+
+• número de autorización de este procedimiento simplificado,
+
+• y la mención «Importación simplificada».
+
+– La Aduana establecerá el procedimiento de despacho de este tipo de declaraciones, así como el período de recapitulación que no podrá ser superior a un mes natural, y el plazo de presentación del DUA recapitulativo.
+
+– La autorización se concederá por un plazo determinado que podrá ser prorrogado.
+
+c) Despacho.
+
+Las declaraciones simplificadas se presentarán para su despacho en la Aduana de importación, en donde, una vez despachadas serán selladas y firmadas por el funcionario competente.
+
+d) Declaración recapitulativa.
+
+Deberá presentarse un DUA completo de acuerdo con las instrucciones del apartado 2.2.2, teniendo en cuenta:
+
+– Casilla 1: deberá indicarse:
+
+• Subcasilla 1.1: IM cualquiera que sea el destino.
+
+• Subcasilla 1.2: Y declaración recapitulativa.
+
+– Casilla 44: además de las indicaciones habituales, debe figurar el número de la autorización y la referencia de los documentos soporte de la declaración inicial.
+
+C. Exportación. Declaraciones formalizadas en documento comercial.
+
+Los operadores interesados que realicen operaciones repetitivas de exportación desde Ceuta y Melilla, podrán solicitar en la Dependencia Regional de Aduanas, la utilización de un documento comercial (factura, albaranes, etc.) como declaración simplificada que deberá ser complementada mediante un DUA recapitulativo.
+
+a) Requisitos para acogerse:
+
+– Deberá tratarse de operaciones que tengan carácter repetitivo.
+
+– Ofrecer las garantías financieras y fiscales suficientes, no habiendo sido sancionado por comisión de infracciones graves u otras reiteradas a la normativa aduanera y tributaria. Específicamente se tendrá en cuenta a la hora de prorrogar o revocar la autorización el incumplimiento de las obligaciones relativas a este procedimiento simplificado.
+
+b) Autorización.
+
+– La Aduana comprobará que se cumplen los requisitos anteriores.
+
+– Se especificará en la autorización el contenido del documento comercial que hará las veces de declaración simplificada, de forma que pueda garantizarse el control eficaz del cumplimiento de las prohibiciones o restricciones a la importación. En cualquier caso, el contenido mínimo, además de los datos comerciales habituales, será el siguiente:
+
+• descripción y cantidad de la mercancía,
+
+• código TARIC,
+
+• número, naturaleza y marca de los bultos.
+
+• país de destino de la mercancía.
+
+• número de autorización de este procedimiento simplificado,
+
+• y la mención: «Exportación simplificada».
+
+– La Aduana establecerá el procedimiento de despacho de este tipo de declaraciones, así como el período de recapitulación que no podrá ser superior a un mes natural, y el plazo de presentación del DUA recapitulativo.
+
+– La autorización se concederá por un plazo determinado que podrá ser prorrogado.
+
+c) Despacho.
+
+Las declaraciones simplificadas se presentarán para su despacho en la Aduana de exportación, en donde, una vez despachadas serán selladas y firmadas por el funcionario competente.
+
+d) Declaración recapitulativa.
+
+Deberá presentarse un DUA completo de acuerdo con las instrucciones del apartado 3.2.2, teniendo en cuenta:
+
+– Casilla 1.2: deberá indicarse el código Y.
+
+– Casilla 44: además de las indicaciones habituales, debe figurar el número de la autorización y la referencia de los documentos soporte de la declaración inicial.
+
+> Se modifica el título y se añade a continuación un párrafo, por el apartado primero.3 de la Resolución de 17 de marzo de 2023. [Ref. BOE-A-2023-7502](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7502)
+
+> Se sustituye por el que figura como anexo 5º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.9. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+## APÉNDICE IX — Pequeños envíos
+
+A. Cuestiones generales.
+
+El comercio electrónico de envíos de escaso valor a particulares (tráfico B2C) supone un volumen importante de declaraciones aduaneras. Junto con esta realidad comercial, las profundas modificaciones aprobadas en la normativa del IVA y en la aduanera en relación con el comercio electrónico exigen revisar ciertos aspectos procedimentales.
+
+Para conseguir un equilibrio entre la incidencia económica, seguridad del comercio internacional, derechos de los contribuyentes y agilidad en la tramitación la Unión Europea ha procedido a realizar los cambios necesarios en la legislación aduanera y la del Impuesto sobre el Valor Añadido, habiendo sido traspuesta esta última a nuestro Derecho nacional a través de la modificación de la ley 38/92, de 28 de diciembre, del Impuestos sobre el Valor Añadido y de su Reglamento.
+
+Tales cambios y sus efectos en los procedimientos aduaneros se recogen seguidamente en relación con el ámbito de aplicación del presente apéndice:
+
+A la importación:
+
+– Autorización de despacho en envíos cuyo destinatario sea un particular.
+
+– Uso especial de la declaración H7 cuando el destinatario es un operador económico.
+
+– Liquidación y plazos de ingreso del IVA en las declaraciones H7 con franquicia arancelaria por envío sin valor estimable.
+
+A la exportación:
+
+– Expedición/exportación en intercambios nacionales que se despachen con H7 en destino.
+
+– Envíos urgentes con valor inferior a 1000 euros.
+
+– Envíos entre particulares o sin valor comercial.
+
+– Suministros de surtidos de mercancías a Embajadas, Consulados, Fuerzas Armadas y organismos similares nacionales en terceros países y personal destinado en los mismos.
+
+– Comercio electrónico mediante EIR.
+
+B. Importación.
+
+1\. Autorización de despacho envíos con destino a particulares.
+
+El artículo 19 del Código Aduanero de la Unión establece:
+
+«19.2 CAU Las autoridades aduaneras podrán exigir a cualquier persona que declare estar actuando como representante aduanero la presentación de la prueba del poder de representación que le haya otorgado la persona representada.
+
+En casos específicos, las autoridades aduaneras no exigirán la presentación de dicha prueba.»
+
+Por otra parte, la normativa de IVA establece dos modalidades especiales para el pago de este impuesto en el caso de envíos inferiores a 150 euros: la prevista en el apéndice IX (sistema IOSS) y la prevista en el artículo 167 bis (Acuerdos Especiales).
+
+1.1 En modalidad IOSS.
+
+Esta modalidad especial prevista en la normativa para el pago de IVA presupone unas condiciones contractuales de compra que llevan aparejada usualmente la potestad del proveedor-plataforma de designar al declarante en la declaración aduanera. Será aquél el que deberá autorizar de forma puntual o permanente al representante que pueda presentar las declaraciones utilizando su código IOSS. La representación aduanera en IOSS será necesariamente indirecta. El destinatario del envío no tiene ninguna obligación tributaria o aduanera en relación con el envío, que es sustituido por el titular del sistema IOSS.
+
+1.2 En la modalidad de Acuerdos Especiales (artículo 167 bis LIVA).
+
+La normativa de IVA habilita directamente al presentador de la mercancía a usar este sistema de tributación sin necesidad de autorización alguna del destinatario (sujeto pasivo del IVA). Las declaraciones deberán presentarse bajo la modalidad de representación indirecta.
+
+1.3 Modalidad estándar (distinta de las 2 anteriores).
+
+Sería el aplicable en el supuesto de que el envío no esté incluido en el sistema IOSS o de Acuerdos Especiales. El destinatario podrá actuar frente a la Aduana en nombre propio y por cuenta propia o a través de un representante aduanero. Si se realiza a través de este último, se debe tener en cuenta lo indicado seguidamente en función del destino del envío.
+
+a) En Península y Baleares. Cuando se realicen a través de un representante, deberá consignarse la autorización de despacho del destinatario de la mercancía.
+
+b) En las Islas Canarias. En las declaraciones H7 presentadas en Canarias, en el ámbito de la VEXCAN, es obligatorio la consignación del NIF del importador y la inclusión de la autorización de despacho cuando sea realizada por un representante [ver Resolución de 2 de noviembre de 2021 de la Directora de la Agencia Tributaria Canaria (BOC 228 05/11/2021)].
+
+La citada Resolución recoge una simplificación para empresas de transportes y representantes aduaneros que requiere autorización de la ATC. Las condiciones de esta simplificación son las siguientes:
+
+– Que el envío se realice con todos los gastos pagados y no se repercuta sobre el destinatario en el momento de la entrega de la mercancía ningún gasto adicional.
+
+– Que el representante actúe bajo la modalidad de representación indirecta, responsabilizándose de que se cumplen las condiciones anteriores.
+
+Esta simplificación consiste en:
+
+– La no inclusión del NIF del destinatario. Se consignará el NIF genérico: 89890029A (PARTICULAR ECOMMERCE SIN NIF) y el nombre, apellidos o razón social y la dirección completa.
+
+– No se requiere autorización de despacho.
+
+c) En Ceuta y Melilla.
+
+Representantes que estén dados de alta para el pago del IPSI: no será obligatorio consignar el NIF, ni requerirán autorización de despacho. La modalidad de representación deberá ser indirecta.
+
+Resto de supuestos: el NIF del destinatario será obligatorio y el representante deberá contar con autorización de despacho.
+
+1.4 Autorización de despacho en envíos de particular con destino a otro particular sin contraprestación y con franquicia arancelaria y/o exención de IVA/IGIC/IPSI.
+
+En los envíos que puedan acogerse a la franquicia arancelaria prevista en el artículo 25 del Reglamento (CE) n.º 1186/2009 del Consejo (código de régimen adicional C08) y/o a la exención prevista en:
+
+– Artículo 36 de la Ley 37/92 del IVA,
+
+– Artículos 14.3.28.º y 73.1 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canaria,
+
+– Artículo 9 de la Ley 8/91, de 25 de marzo, por el que se aprueba el arbitrio sobre la producción y la importación en las ciudades de Ceuta y Melilla, tendrá la consideración de autorización de despacho la firma del destinatario en el justificante de la entrega del envío.
+
+1.5 Autorización de despacho en envíos inferiores a 1000 euros que se declaren en DUA.
+
+La Resolución de 5 de marzo de 2015, de la Dirección General de la Agencia Estatal de Administración Tributaria, en relación con el registro y gestión de las autorizaciones de despacho aduanero, regula las formas de otorgar ese poder y el registro en su caso.
+
+Esta regulación resulta alejada de la práctica comercial cuando el destinatario es un particular que realiza compras «puerta a puerta» con todos los gastos incluidos hasta la recepción del envío en su domicilio y conlleva, además retraso en la tramitación de estos envíos.
+
+Intentando combinar las condiciones comerciales en las que es el proveedor quien se responsabiliza de la tramitación del despacho de importación de la mercancía (INCOTERM «DDP») con el derecho del destinatario a elegir representante aduanero, se acepta como prueba del poder de representación otorgado por el destinatario la cesión de dicho derecho al proveedor realizada mediante una indicación expresa de ello en el momento de realizar dicha compra, siempre que se den las siguientes condiciones:
+
+a) Que el destinatario del envío sea un particular.
+
+b) Que el valor en aduana del envío sea inferior a 1000 euros.
+
+c) Que las condiciones de entrega sean DDP.
+
+d) Que el representante actúe bajo la modalidad de representación indirecta, responsabilizándose de que se cumplen las condiciones anteriores.
+
+Este tipo de autorización se indicará en la declaración, en la casilla 44, con el código 1019.
+
+En estos mismos supuestos deberá identificarse el nombre y apellidos del destinatario, así como la dirección completa pero no será obligatorio incluir el NIF del destinatario cuando no pueda obtenerse, declarándose en su lugar el NIF instrumental siguiente:
+
+89890029 A PARTICULAR ECOMMERCE SIN NIF.
+
+2\. Uso especial de la declaración H7 cuando el destinatario es un operador económico en el territorio de aplicación del IVA/IGIC.
+
+La finalidad de la declaración H7 es para los envíos de escaso valor destinados a particulares (tráfico B2C). Sin embargo, con el fin de facilitar la tramitación de aquellos envíos urgentes en tráfico B2B que pueden acogerse a la franquicia prevista en el artículo 23 del Reglamento (CE) n.º 1186/2009 del Consejo, se da opción al destinatario a que utilice la declaración H7. Deberá tenerse en cuenta:
+
+a) Pueden ser declarados en la modalidad de Acuerdos Especiales. No así en la modalidad de IOSS ya que exige que el destinatario sea un particular.
+
+b) Se incluirá en el cálculo del IVA el recargo de equivalencia sin necesidad de consignarse en la declaración H7, cuando el destinatario se encuentre en este régimen especial de IVA previsto en el artículo 148 de la Ley de IVA.
+
+c) No es compatible con la modalidad de IVA diferido. Esta declaración de envíos de escaso valor se aplica en supuestos de exención de IVA (sistema IOSS) o de pago directo en la Aduana, por lo que es incompatible con un ingreso mediante la inclusión de las cuotas en la declaración-liquidación del periodo en el sentido previsto en el artículo 167.2, segundo párrafo de la Ley del IVA.
+
+En los casos de la exención del IGIC recogida en el artículo 14.11 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, también se permite la presentación de H7 en envíos B2B.
+
+3\. Plazos de ingreso del IVA en las declaraciones H7.
+
+La declaración H7 no contempla la inclusión de garantía para aplazamiento de pago. Los plazos de pago son los siguientes:
+
+a) Sistema IOSS: la importación está exenta, ya que la obligación tributaria corresponderá a la plataforma que la cumplimentará a través de su declaración-liquidación prevista a estos efectos.
+
+b) Sistema Acuerdos Especiales: el titular de esta autorización realiza el ingreso de este impuesto mediante declaración mensual. La AEAT pone a su disposición un borrador propuesta de declaración que recoge todas las importaciones realizadas mediante H7 durante un mes natural que puede ser rectificada hasta el último día del mes siguiente. El día 1 siguiente se genera la carta de pago que deberá ser ingresada antes del día 16 de ese mismo mes.
+
+c) El resto de declaraciones H7 están sujetos a pago previo al levante debiendo realizarse el ingreso en el plazo de 10 días desde la notificación de la deuda realizada con la notificación del despacho de acuerdo a lo previsto en el artículo 108.1 del CAU.
+
+C. Exportación.
+
+1\. Expedición/exportación en ventas nacionales que se despachen con H7 en destino.
+
+No es obligatoria la presentación de declaración de exportación/expedición en los intercambios nacionales que se despachen en destino con una declaración H7. A partir de esta declaración que debe incluir el NIF del exportador y el número de factura, el vendedor podrá obtener un justificante de la salida de la mercancía a efectos del IVA/IGIC. (ver apartado C) del apéndice XVI.
+
+Lo anterior es igualmente aplicable para intercambios con Ceuta y Melilla.
+
+2\. Envíos urgentes con valor inferior a 1.000 euros.
+
+El RDCAU dispone en su artículo 141.4.bis lo siguiente:
+
+«Las mercancías de un envío urgente cuyo valor no sea superior a 1.000 euros y que no estén sujetas a derechos de exportación se considerarán declaradas para exportación por su presentación a la aduana de salida, siempre que los datos del documento de transporte y/o la factura estén a disposición de las autoridades aduaneras y sean aceptados por éstas.»
+
+El «envío urgente» se define en el artículo 1 (46) del RDCAU como «un artículo individual transportado por una empresa de transporte urgente o bajo la responsabilidad de una empresa de transporte urgente». A su vez, se define, en el apartado (47) del citado artículo, como «empresa de transporte urgente» al «operador que presta servicios integrados de recogida, transporte, despacho de aduanas y entrega de forma urgente y en un plazo concreto, así como la localización y el control de dichos artículos durante la prestación del servicio».
+
+La aceptación por parte de la autoridad aduanera española de los documentos del transporte y/o factura a que condiciona el legislador la aplicación de este precepto, requiere la consignación de estos datos electrónicamente a través del mensaje de la declaración de exportación. En dicha consignación será posible el uso de la posición estadística especial de uso nacional 99990000 debiendo incluirse asimismo la descripción detallada de la mercancía.
+
+Para hacer uso de esta facilitación deben concurrir las siguientes condiciones:
+
+a) La operación de exportación corresponderá con una salida directa.
+
+b) No será posible esta facilitación cuando la mercancía del envío urgente esté sujeta a prohibiciones y restricciones a la exportación.
+
+c) Cuando se haga uso de esta facilitación, se incluirá el código 145 «exportación por acto presunto» en la casilla 37.2.
+
+d) No será necesario incluir en la casilla 44 de la declaración la identificación de la factura comercial.
+
+e) El declarante debe ser una empresa de transporte urgente.
+
+f) En el caso de que estas operaciones de exportación correspondieran a entregas realizadas por empresarios o profesionales (B2C o B2B), los operadores de envíos urgentes deberán identificar de forma completa el documento de transporte asociado a la citada operación en la casilla 44 de la declaración electrónica de exportación.
+
+g) En el caso de que estas operaciones de exportación correspondieran a entregas C2C se consignará en la declaración electrónica la identificación del exportador particular con su nombre completo y dirección. En el caso de no disponer del NIF del exportador se podrá hacer constar en su lugar el NIF 89890029A (Particular ecommerce sin NIF) debiendo de incluirse el número de pasaporte del exportador particular en la casilla 44 de la declaración bajo el código 5024.
+
+3\. Envíos sin importancia económica.
+
+Podrán utilizarse determinadas simplificaciones en la cumplimentación de las siguientes declaraciones:
+
+– Exportaciones de mercancías desprovistas de carácter comercial enviadas por particulares cuyo valor no exceda de 3.000 euros.
+
+– Exportaciones de mercancías de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario.
+
+Estas simplificaciones no supondrán exención alguna en relación con la obligación de declaración de los datos de seguridad y la obligación de presentación por vía electrónica.
+
+En todo caso la aduana de exportación y de salida deben estar situadas en España.
+
+La simplificación consistirá en que:
+
+a) Se podrán utilizar las siguientes posiciones estadísticas, siempre que la descripción de la mercancía sea suficientemente detallada:
+
+– 9990.00.05.00 (para envíos realizados por particulares cuyo valor no exceda de 3.000 euros).
+
+– 9990.00.06.00 (envíos de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario).
+
+b) No será necesario incluir en la casilla 44 de la declaración el número de factura.
+
+c) Se podrá imprimir como levante una relación de estos envíos que incluya el MRN del DUA, CSV del justificante del levante, n.º de bultos y peso.
+
+En el caso de que estas operaciones de exportación correspondieran a entregas realizadas por empresarios o profesionales (B2C o B2B), los operadores de envíos urgentes deberán identificar de forma completa el documento de transporte asociado a la citada operación en la casilla 44 de la declaración electrónica de exportación.
+
+No podrán utilizarse las posiciones estadísticas indicadas:
+
+– Para mercancía sujeta a inspección por los servicios de inspección fronteriza, o sujeta a restricciones o prohibiciones comerciales a la exportación.
+
+– Cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales.
+
+Cuando se trate de expediciones desde las Islas Canarias hacia el resto del territorio español que constituye el ámbito espacial de aplicación del IVA y las expediciones desde este territorio hacia las Islas Canarias, el órgano competente para autorizar la expedición podrá permitir que los representantes aduaneros con autorización OEA puedan realizar sobre manifiesto el despacho de mercancías a las que se refiere este apartado.
+
+4\. Suministros de surtidos de mercancías a Embajadas, Consulados, Fuerzas Armadas, organismos similares nacionales en terceros países y personal destinado en los mismos.
+
+Los titulares de un certificado OEA de simplificaciones podrán utilizar las posiciones estadísticas siguientes cuando se trate de envíos para embajadas, consulados, Fuerzas Armadas y organismos similares nacionales en terceros países.
+
+– 9990.00.07 suministros de surtidos de mercancías de los capítulos 1 a 24.
+
+– 9990.00.08 suministros de surtidos de mercancías de los capítulos restantes.
+
+No podrán incluirse en estas posiciones estadísticas:
+
+– mercancía sujeta a inspección por los servicios de inspección fronteriza salvo autorización de dichos servicios o sujeta a restricciones o prohibiciones comerciales a la exportación,
+
+– cuando se acojan a los beneficios de las restituciones o a la devolución de los Impuestos Especiales, o
+
+– aquellas mercancías cuyo valor supere los 1000 euros.
+
+5\. Comercio electrónico mediante EIR.
+
+Podrá solicitarse autorización para el despacho de exportación mediante inscripción en los registros del declarante (EIR) para mercancías dispensadas de la obligación de una declaración previa a la salida de acuerdo a lo establecido en el artículo 245 del RDCAU, siempre y cuando se cumplan los requisitos previstos en el artículo 182 del CAU.
+
+En el apartado 3.5 de esta resolución se indica cómo debe declararse.
+
+> Se sustituye por el que figura como anexo 4º de la Resolución de 29 de marzo de 2022, según esablece su apartado primero.12. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 6º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.10. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifica la letra b) del apartado 2.1 por el apartado primero.11 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## APÉNDICE X — Normas específicas para la cumplimentación del DUA en las Islas Canarias a efectos de la aplicación del régimen específico de abastecimiento de estas islas (REA)
+
+El Reglamento (UE) n.º 228/2013 del Parlamento Europeo y del Consejo, de 13 de marzo de 2013, por el que se establecen medidas específicas en el sector agrícola en favor de las regiones ultraperiféricas de la Unión, completado por el Reglamento Delegado (UE) n.º 179/2014 de la Comisión, de 6 de noviembre de 2013, así como el Reglamento de ejecución (UE) n.º 180/2014 de la Comisión, de 20 de febrero de 2014, que establecen las disposiciones de aplicación del primero de los citados, supone la aplicación de exenciones de derechos a la importación de dichos productos o la percepción de ayudas en caso de introducción de mercancía de la Unión cuya correcta aplicación exige una cumplimentación adecuada del DUA.
+
+Es requisito imprescindible para poder acogerse a estos beneficios el estar registrado como agente económico cumpliendo las condiciones previstas en el artículo 1 del Reglamento Delegado (UE) n.º 179/2014. En este registro se incluyen tres categorías:
+
+a) agente económico autorizado a la importación o introducción acogiéndose a estos beneficios (categoría O);
+
+b) aquellos de los anteriores que desean poder exportar o expedir productos en el mismo estado, o envasados o elaborados a partir de productos importados o introducidos acogiéndose al REA (categoría R);
+
+c) aquellos de los anteriores que pueden acogerse a la exportación o expedición de productos transformados en el marco de las corrientes comerciales tradicionales o comercio regional (categoría T).
+
+A) Declaraciones de importación o introducción de mercancías acogiéndose a dichos beneficios.
+
+Casilla 8: debe figurar un operador registrado en cualquiera de las categorías anteriores que deberá ser el mismo que figure en el certificado de importación, certificado de exención o certificado de ayuda.
+
+Casilla 36:
+
+a) si se trata de una introducción amparada en un certificado de ayuda deberá consignarse el código 085;
+
+b) si se trata de azúcar fuera de cuota amparada en un certificado de ayuda sin ayuda, deberá consignarse el código 185;
+
+c) si se trata de una importación amparada en un certificado de importación o de exención deberá consignarse uno de los códigos siguientes según que pueda acogerse a los beneficios de la preferencia por origen: 185, 285 y 385.
+
+Casilla 44: debe identificarse el certificado de importación, de exención o de ayuda con el código de tipo de documento 1106, el número del certificado y la fecha de expedición. Dicho certificado debe ser válido y corresponder a la operación de que se trate (operador, mercancía, cantidad, etc).
+
+B) Declaraciones de exportación o expedición de mercancías en el mismo estado o envasadas o elaboradas a partir de mercancías introducidas o importadas que se hubieran acogido al REA o hubieran podido acogerse.
+
+a) Exportación o expedición de productos elaborados con materias primas que no se acogieron a REA pero susceptibles de acogerse a dicho régimen.
+
+Casilla 37.2: Deberá incluirse el código 801.
+
+Casilla 44: certificado del exportador o expedidor de que el producto no ha sido elaborado con materias primas acogidas a REA, código documento 1215. En caso de tratarse de una exportación, el código 9002, con la leyenda «Mercancía exportada en virtud del artículo 14, apartado 1, párrafo primero, del Reglamento (UE) n.º 228/2013».
+
+b) Exportación o expedición de productos sin transformar que no se acogieron a REA pero susceptibles de acogerse a dicho régimen.
+
+Casilla 37.2: Deberá incluirse el código 801.
+
+Casilla 44: certificado del exportador o expedidor de que dicho producto no se ha acogido a REA, código documento 1216. En caso de tratarse de una exportación, el código 9002, con la leyenda «Mercancía exportada en virtud del artículo 14, apartado 1, párrafo primero, del Reglamento (UE) n.º 228/2013».
+
+c) Exportación, a un tercer país, de productos en el mismo estado o elaborados a partir de productos previamente importados, de un tercer país, acogidos a REA:
+
+Casilla 17 a): debe figurar el código de un país tercero.
+
+Casilla 37.2: debe incluirse el código 802.
+
+Casilla 40: deberá indicarse el DUA de importación del producto acogido a REA, si se conociera.
+
+Casilla 44: debe figurar el NIF del reexportador registrado (categoría R) con el código de documento 5003 o del transformador (categoría T) con el código 5002 y el código 9002 con la leyenda «Mercancía exportada en virtud del artículo 14, apartado 1, párrafo primero, del Reglamento (UE) n.º 228/2013».
+
+Estos productos no pueden acogerse a restitución por exportación.
+
+d) Expedición al resto del territorio aduanero de la Unión de productos en el mismo estado o elaborados a partir de productos previamente importados, de un tercer país, acogidos a REA:
+
+Casilla 17 a): debe figurar el código de un Estado miembro.
+
+Casilla 37.2: debe incluirse la clave 803.
+
+Casilla 40: deberá indicarse el DUA de importación del producto acogido a REA, si se conociera.
+
+Casilla 44: debe figurar el NIF del reexportador o del transformador (código de documento 5003 o 5002).
+
+e) Exportación o expedición de productos en el mismo estado o elaborados a partir de productos previamente introducidos, desde otra parte del territorio aduanero de la Unión, acogidos a REA:
+
+Casilla 37.2: debe incluirse la clave 804.
+
+Casilla 40: deberá indicarse el DUA de introducción del producto acogido a REA, si se conociera.
+
+Casilla 44: debe figurar el NIF del reexportador o del transformador (código de documento 5003 o 5002); el justificante de la devolución de la ayuda, código documento 1214; y, si se trata de una exportación, el código 9002 con la leyenda «Mercancía exportada en virtud del artículo 14, apartado 1, párrafo primero, del Reglamento (UE) n.º 228/2013».
+
+Podrá solicitarse, si procede, la restitución para estos productos.
+
+f) Exportación o expedición de productos transformados en el marco de las corrientes comerciales tradicionales:
+
+Casilla 37.2: debe incluirse la clave 805.
+
+Casilla 44: el NIF del transformador (código de documento 5002); si se trata de una exportación, el código 9003 con la leyenda «Mercancía exportada en virtud del artículo 14, apartado 2, del Reglamento (UE) n.º 228/2013».
+
+g) Exportación de productos transformados en el marco del comercio regional:
+
+Casilla 37.2: debe incluirse la clave 806.
+
+Casilla 44: el NIF del transformador (código de documento 5002) y el código 9003 con la leyenda «Mercancía exportada en virtud del artículo 14, apartado 2, del Reglamento (UE) n.º 228/2013».
+
+h) Exportación de productos acogidos a los beneficios de la restitución: en el caso que procediera alguna de las claves específicas del REA (801 u 804) además de la correspondiente a la solicitud de restitución, deberá consignarse ésta última.
+
+## APÉNDICE XI — Procedimiento de emergencia en caso de caída del sistema
+
+A. NCTS.
+
+Cuando se interrumpa la comunicación por vía electrónica entre la Aduana y el obligado principal de una declaración de tránsito (porque no funcione el sistema informático de las autoridades aduaneras, la aplicación de un obligado principal o no esté disponible la red entre ambos), podrá éste optar por esperar a que se restablezca la comunicación o bien utilizar el procedimiento de emergencia, que para el tránsito comunitario, está desarrollado en el anexo 37 quinquies del Reglamento (CEE) n.º 2454/1993.
+
+Cuando se utilice este procedimiento se aplicará todo lo establecido en el Reglamento (CEE) n.º 2454/1993 para el régimen de tránsito, teniéndose en cuenta lo siguiente:
+
+1\. La declaración de tránsito en papel utilizada, que se presentará en la aduana de partida, será:
+
+‒ el Documento Único Administrativo (DUA), ejemplares 1, 4 y 5, o
+
+‒ el Documento de Acompañamiento de Tránsito (DAT), en el que nunca podrá figurar ni el código de barras ni el número de referencia del documento (MRN).
+
+2\. La declaración será registrada por las aduanas en la casilla C mediante un sistema de numeración distinto al utilizado para el NCTS.
+
+3\. El procedimiento de emergencia se indicará en las copias de la declaración de tránsito mediante el sello que se incluye a continuación, que se estampará, con tinta roja, en la casilla A del DUA o en lugar del número de referencia del movimiento (MRN). También se estampará en lugar establecido para el código de barras del DAT.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image40.png)
+
+Las dimensiones de este sello deben ser de 26 x 59 mm, y se utilizará tinta roja
+
+Expedidor Autorizado:
+
+1\. Cumplirá las obligaciones relativas a las inscripción numerando la declaración dentro del tramo que le haya asignado la Aduana previa solicitud y utilizando la casilla C.
+
+2\. Indicará en la casilla «D. Control por la oficina de partida», el plazo fijado con arreglo al artículo 356 para la presentación de dichas mercancías en la oficina de destino, las medidas de identificación aplicadas y la indicación siguiente:
+
+– Expedidor autorizado – 99206
+
+Destinatario Autorizado:
+
+En el supuesto de mercancías que llegan a sus locales o a los lugares precisados en la autorización, el destinatario autorizado estará obligado a enviar sin demora a la aduana de destino el DAT o los ejemplares no 4 y no 5 de la declaración de tránsito que acompañaban a las mercancías, indicando la fecha de llegada, el estado de los precintos eventualmente colocados y cualquier otra irregularidad.
+
+Utilización del procedimiento de emergencia en operaciones nacionales
+
+La regla general es que la aduana de partida grabará, en cuanto le sea posible, los tránsitos que se hayan expedido acogiéndose a este procedimiento. Sin embargo, cuando sea necesario, y siempre tratando de no incurrir en duplicidades, podrá utilizarse en la Aduana de destino el procedimiento de alta indirecta de tránsitos.
+
+Nota:
+
+El mencionado Anexo 37 quinquies Reglamento (CEE) n.º 2454/1993 desarrolla todas las actuaciones a seguir, siendo necesario acudir a dicho anexo para conocer con detalle el contenido del procedimiento de emergencia.
+
+B. ECS.
+
+Cuando no funcione el sistema informático de la Aduana o la aplicación informática de la persona que presente la declaración de exportación, podrá ésta optar por esperar a que se restablezca el sistema o bien utilizar el procedimiento en papel, tal como permite el art. 787.2 del Reglamento (CEE) n.º 2454/1993.
+
+Cuando se utilice este procedimiento se aplicará todo lo establecido en el Reglamento (CEE) n.º 2454/1993 para el régimen de exportación, teniéndose en cuenta lo siguiente:
+
+1\. La declaración de exportación en papel utilizada, que se presentará en la aduana de exportación, será:
+
+a) El Documento Único Administrativo (DUA), ejemplares 1 y 3.
+
+b) El documento previsto en el Anexo 45 duodecies del Reglamento (CEE) n.º 2454/1993.
+
+c) El Documento de Acompañamiento de Exportación (DAE), en el que nunca podrán figurar ni el código de barras ni el número de referencia (MRN).
+
+2\. La declaración será registrada por las aduanas en la casilla A mediante un sistema de numeración distinto al utilizado para el ECS, si no es posible la grabación.
+
+3\. El procedimiento de emergencia se indicará en las copias de la declaración de exportación mediante el sello que se incluye a continuación, que se estampará, con tinta roja.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499930_image41.png)
+
+Las dimensiones de este sello deben ser de 26 x 59 mm, y se utilizará tinta roja
+
+4\. La declaración se grabará en cuanto se restablezca el sistema incluyendo en la casilla 44 el n.º dado a la declaración en papel con el código 1222 (exportación en papel ‒procedimiento de emergencia).
+
+5\. Si la salida se gestiona en papel, este deberá ser devuelto a la Aduana de exportación para que ésta de salida a la exportación grabada.
+
+Nota:
+
+Este procedimiento no está armonizado con el resto de los EEMM. El compromiso es que se incluya la mención de caída de línea o procedimiento de emergencia.
+
+Exportadores Autorizados:
+
+1\. Los operadores autorizados realizarán una declaración en papel, formato DAE, sin código de barras, numerándola con numeración propia que no pueda ser confundida con un MRN e incluirán el sello indicado en el punto 3 del apartado anterior.
+
+2\. Sellarán el documento con el sello de exportador autorizado
+
+3\. Transmitirán la declaración en cuanto esté restablecida la línea cumpliendo lo indicado en el punto 4 del apartado anterior y 5.
+
+## APÉNDICE XII — Despacho Centralizado
+
+El artículo 179 del CAU dispone que:
+
+«1. Previa solicitud, las autoridades aduaneras podrán autorizar a una persona a presentar en la aduana competente del lugar en el que esa persona esté establecida una declaración en aduana relativa a las mercancías que se presenten en otra aduana.
+
+Podrá eximirse del requisito de autorización que contempla el párrafo primero cuando la declaración en aduana y las mercancías se presenten en aduana bajo responsabilidad de una sola autoridad aduanera.»
+
+Haciendo uso de la habilitación legal contemplada en este párrafo segundo del artículo 179.1 del CAU se establecen las siguientes modalidades de despacho centralizado dentro de España. En todo caso, esta simplificación no perjudica el uso del procedimiento normal de la declaración.
+
+A) Autorización de despacho centralizado regional o provincial.
+
+1\. Procedimiento de concesión de la autorización.
+
+Se entiende por esta autorización la que habilita a la presentación de la declaración en aduanas ante una aduana distinta de aquella donde se encuentre la mercancía, cuando ambas aduanas dependen de la misma Dependencia Regional de Aduanas.
+
+Este procedimiento podrá ser también solicitado en el marco de la VEXCAN.
+
+Los operadores económicos que soliciten esta decisión, deberán presentarla a través de la SEDE electrónica de la Agencia Tributaria.
+
+Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/3), que podrá no ser admitido por la Dependencia correspondiente cuando se perjudiquen sus funciones de control aduanero.
+
+La presente autorización será concedida cuando:
+
+a) Se cumpla el requisito previsto en el artículo 39 a) del CAU.
+
+b) Las autoridades aduaneras puedan ejercer la vigilancia aduanera requerida sin verse obligadas a poner en marcha un dispositivo administrativo que sea desproporcionado respecto a las necesidades económicas correspondientes.
+
+Las declaraciones de tránsito no podrán ser objeto de despacho centralizado.
+
+2\. Procedimiento de despacho.
+
+El procedimiento será válido, exclusivamente, para las declaraciones de importación, exportación y vinculación a depósito aduanero.
+
+Las declaraciones aduaneras se presentarán por vía telemática con el código de aduana de centralización que se haya indicado en la autorización.
+
+La aduana de centralización tendrá las funciones que le atribuye el artículo 179.3 del CAU y su normativa de desarrollo. Asimismo las aduanas de presentación ejercerán las funciones que el artículo 179.4 del CAU y su normativa de desarrollo les reconoce.
+
+En concreto, cuando fuera necesario efectuar el reconocimiento físico de la mercancía éste se realizará por el funcionario competente en el aduana de presentación de las mercancías, de lo que se dejará constancia en diligencia que se comunicará a la Aduana de centralización. En caso de toma de muestras, las mismas serán extraídas por el funcionario competente de la Aduana donde se encuentre la mercancía que asimismo formalizará el boletín de análisis en la aplicación informática.
+
+El declarante podrá hacerse representar en los reconocimientos físicos por cualquier persona física siempre que previamente lo haya comunicado a la Aduana centralizadora mediante el «modelo de representación ante la aduana a efectos del control físico de las mercancías al amparo de una autorización de despacho centralizado» disponible en la web de la AEAT. Las representaciones tendrán carácter indefinido hasta que no se solicite expresamente su baja.
+
+Con arreglo a lo previsto en el artículo 6 del CAU todo intercambio de información, en caso de control de la declaración, se realizará mediante técnicas de tratamiento de datos por lo que la remisión de cualquier tipo de documentación necesaria para el despacho se remitirá por medios electrónicos.
+
+B) Autorización de despacho centralizado nacional.
+
+Se entiende por esta autorización la que habilita a la presentación de la declaración en aduanas ante una aduana distinta de aquella donde se encuentre la mercancía, dentro de todo el ámbito nacional (salvo Canarias, Ceuta y Melilla).
+
+Los operadores económicos que soliciten esta decisión, deberán presentarla a través de la SEDE electrónica de la Agencia Tributaria.
+
+Por parte del interesado se indicará el lugar en donde se pretende realizar el despacho centralizado (dato XIII/3), que podrá no ser admitido por el órgano competente cuando se perjudiquen las funciones de control aduanero.
+
+La presente autorización será concedida cuando:
+
+a) El solicitante sea un operador económico autorizado de simplificaciones aduaneras.
+
+b) Las autoridades aduaneras puedan ejercer la vigilancia aduanera requerida sin verse obligadas a poner en marcha un dispositivo administrativo que sea desproporcionado respecto a las necesidades económicas correspondientes.
+
+Las declaraciones de tránsito no podrán ser objeto de despacho centralizado.
+
+1\. Procedimiento de despacho.
+
+El procedimiento de despacho es el mismo que el descrito en el punto 2 del apartado A).
+
+> Se modifica el párrafo tercero y se rectifica un dato del apartado A1 y B por el apartado primero.11 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se sustituye por el que figura como anexo 4º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.13. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## APÉNDICE XIII — Movimiento de mercancías en depósito temporal
+
+A. Base legal.
+
+El artículo 148.5 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión (en adelante CAU) dispone que:
+
+«Las autoridades aduaneras podrán autorizar al titular de la autorización [ADT] a trasladar mercancías en depósito temporal entre diferentes almacenes de depósito temporal a condición de que dichos traslados no aumenten el riesgo de fraude, de la manera siguiente:
+
+a) el traslado se efectúa bajo la responsabilidad de una autoridad aduanera;
+
+b) el traslado está amparado solamente por una autorización expedida a un operador económico autorizado de simplificaciones aduaneras: o
+
+c) en los demás casos de traslado.»
+
+El artículo 118 del Reglamento 2015/2446 de la Comisión, de 28 de julio de 2015, por el que se completa el Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo con normas de desarrollo relativas a determinadas disposiciones del código aduanero de la Unión (en adelante RDCAU) especifica las condiciones del apartado c):
+
+«De conformidad con el artículo 148, apartado 5, letra c) del Código, las autoridades aduaneras podrán autorizar el traslado de las mercancías en depósito temporal entre diferentes almacenes de depósito temporal cubiertos por diferentes autorizaciones para la explotación de almacenes de depósito temporal, a condición de que los titulares de esas autorizaciones sean AEOC.»
+
+Haciendo uso de la habilitación legal contemplada artículo 148.5 del CAU en el territorio nacional se prevén los siguientes supuestos en que podrá utilizarse un procedimiento simplificado, distinto del régimen de tránsito, para el traslado de mercancía en depósito temporal.
+
+B. Supuestos en los que puede utilizarse.
+
+1\. Movimientos de mercancías dentro de territorio aduanero español:
+
+a) entre dos instalaciones autorizadas como almacén de depósito temporal de diferente titular, siempre que ambos estén autorizados como operador económico autorizado (AEOC, AEOS o AEOF).
+
+En todo caso, será posible asimismo el movimiento entre dos instalaciones autorizadas como almacén de depósito temporal por la autoridad aduanera española, correspondientes a un mismo titular que está autorizado como operador económico autorizado.
+
+El movimiento de mercancías previsto en esta letra a), deberá estar debidamente autorizado en el elemento de dato correspondiente a la autorización de ADT, tanto en la autorización de la instalación desde donde se inicia el movimiento, como en la de destino del mismo, según se indica en esta nota en el apartado E.
+
+b) Movimiento de mercancías en depósito temporal entre instalaciones autorizadas como almacén de depósito temporal ubicados en el mismo recinto de una aduana (o subrecinto, de haberlo). A estos efectos, se entiende por subrecinto, aquella parte del recinto aduanero donde las mercancías se pueden mover sin salir en ningún momento fuera del mismo.
+
+c) Movimiento de mercancías pertenecientes a la Unión hacia instalaciones autorizadas como depósito temporal, dentro de la misma isla en Canarias, o dentro de la demarcación territorial de una misma Dependencia de Aduanas e Impuestos Especiales.
+
+2\. Movimientos de mercancías en depósito temporal a los que se refiere el artículo 148.5 del CAU.
+
+Serán posibles cuando la totalidad o parte de los movimientos se produzcan dentro de territorio aduanero español, en los siguientes supuestos:
+
+a) Exista una autorización de almacén de depósito temporal concedida por la autoridad aduanera española, cuya validez geográfica exceda del territorio español y vaya a utilizarse de forma combinada con una autorización de despacho centralizado europeo también concedida por la autoridad aduanera española y con la misma validez geográfica de la de ADT.
+
+Se estará en este supuesto, incluso cuando el movimiento de mercancías en depósito temporal se produzca íntegramente fuera del territorio español, pero entre instalaciones de dichas autorizaciones españolas.
+
+El movimiento de mercancías previsto en esta letra b) del artículo 148.5 citado, deberá estar debidamente autorizado en el elemento de dato correspondiente a la autorización de ADT, tanto en la autorización de la instalación desde donde se inicia el movimiento, como en la de destino del mismo, según se indica en esta nota en el punto 5.
+
+b) Exista una autorización de depósito temporal concedida por la autoridad aduanera española, cuya validez geográfica exceda del territorio español, que no va a utilizarse de forma combinada con una autorización de despacho centralizado europeo.
+
+3\. Movimientos de mercancías en depósito temporal a los que se refiere el artículo 148.5 c) del CAU.
+
+Serán posibles en las condiciones fijadas en el artículo 118 del RDCAU, cuando el movimiento se inicie o finalice en una instalación ubicada en España correspondiente a una autorización de almacén de depósito temporal concedida por la autoridad aduanera española.
+
+C. Formalidades.
+
+1\. Los movimientos de mercancías previstos en la letra B, apartados 1.a) y 2.a) están sujetos a las siguientes formalidades:
+
+– El titular del ADT de origen deberá efectuar la inscripción del traslado de mercancías en los registros a los que se refiere el artículo 148.5 CAU y 116 del RDCAU, al tiempo de iniciarse dicho movimiento.
+
+Esta inscripción en el registro será notificada a la autoridad aduanera responsable de la vigilancia del almacén de depósito temporal a partir del cual se trasladen las mercancías, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria (notificación G5.1).
+
+El inicio del movimiento podrá asimismo inscribirse en los registros del titular del ADT de destino, efectuando este la notificación a la autoridad aduanera responsable de la vigilancia del almacén de depósito temporal a partir del cual se trasladen las mercancías, en la misma forma antes indicada (G5.1).
+
+– El titular del ADT de destino deberá inscribir en sus registros la llegada de las mercancías en depósito temporal, en el momento de producirse dicha llegada.
+
+Esta inscripción en el registro será notificada a autoridad aduanera responsable de la vigilancia del almacén de depósito temporal de destino del traslado de las mercancías, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria (notificación G5.2).
+
+2\. Los movimientos de mercancías previstos en la letra B, apartados 1.b) y 1.c) están sujetos a las siguientes formalidades:
+
+– El titular del ADT de origen deberá efectuar la inscripción del traslado de mercancías en depósito temporal, en los registros a los que se refiere el artículo 148.5 CAU y 116 del RDCAU, al tiempo de iniciarse dicho movimiento.
+
+– El titular del ADT de destino deberá inscribir en sus registros las mercancías en depósito temporal trasladadas, tan pronto como se inicie el movimiento. Esta inscripción en el registro será notificada por este a autoridad aduanera responsable de la vigilancia de ambos depósitos temporales, mediante el mensaje CUB a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+3\. Los movimientos de mercancías previstos en la letra B, apartado 2.b) y 3, están sujetos a las siguientes formalidades:
+
+– Cuando el movimiento de mercancías en depósito temporal se inicie desde una instalación de ADT ubicada en España, el titular del mismo deberá efectuar la inscripción del traslado de mercancías en los registros a los que se refiere el artículo 148.5 CAU y 116 del RDCAU, al tiempo de iniciarse dicho movimiento.
+
+Esta inscripción en el registro será notificada a autoridad aduanera responsable de la vigilancia del almacén de depósito temporal de origen traslado de las mercancías, según corresponda, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria (notificación G5.1).
+
+Tan pronto como las mercancías lleguen al almacén de depósito temporal de destino, el titular del ADT de origen, inscribirá en sus registros el fin del movimiento de mercancías y lo notificará a la autoridad aduanera responsable de la vigilancia del almacén de depósito temporal a partir del cual se trasladen las mercancías, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria (notificación G5.2).
+
+– Cuando el movimiento de mercancías en depósito temporal finalice en una instalación de ADT ubicada en España, titular del mismo efectuará la inscripción en sus registros al tiempo de la llegada de dichas mercancías.
+
+Esta inscripción en el registro será notificada a autoridad aduanera responsable de la vigilancia del almacén de depósito temporal de destino del traslado de las mercancías, a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria (notificación G5.2).
+
+D. Responsabilidades.
+
+La responsabilidad en el movimiento de mercancías en depósito temporal será la prevista en el artículo 193.4 RECAU.
+
+En el caso de que se haga uso de la simplificación consistente en que la inscripción de las mercancías en los registros del ADT de destino se efectúe de forma coetánea por ambos titulares (y por consiguiente, se realice la notificación a la autoridad aduanera competente con el mensaje G5.1 o CUB por parte del titular del ADT de destino), la responsabilidad de lo acaecido en el transporte recaerá sobre este y avalado por la garantía del ADT.
+
+E. Autorización.
+
+1\. La posibilidad de realizar movimientos de mercancías en depósito temporal deberá estar siempre incluida en la correspondiente autorización de depósito temporal, salvo cuando se trate de alguno de los dos supuestos de utilización de CUB.
+
+2\. La autorización del movimiento se materializará mediante la debida cumplimentación de la casilla IX/1 de la autorización de TST, según las siguientes indicaciones:
+
+– Si se indica como base jurídica el apartado a) del artículo 148.5:
+
+• El país debe ser ES y el código de tipo ubicación ha de ser B.
+
+• La identificación de la ubicación será del tipo E o F.
+
+• El número EORI debe ser del titular de la autorización con el que se van a efectuar los movimientos.
+
+En el caso de que el movimiento de mercancías sea entre las ubicaciones del propio titular (identificadas en la casilla 2/5) será necesario con incluir una de ellas en la casilla IX/1.
+
+– Si se indica como base jurídica el apartado b) o c) del artículo 148.5:
+
+• El código de tipo ubicación ha de ser B.
+
+• El número EORI debe ser del titular de la autorización con el que se van a efectuar los movimientos.
+
+F. Mercancía excluida.
+
+No podrá solicitarse el cambio de ubicación de mercancías que estén sujetas a inspección en el primer punto de llegada por Servicios de Inspección Fronteriza (PIF), incluyendo los controles específicos aplicables a la introducción de mercancías en las Islas Canarias, hasta que se hayan superado los mismos. Se exceptúan los casos en los que el ADT de destino de la mercancía sea Almacén de Inmovilización o Centro de Inspección Fronteriza o el cambio de ubicación haya sido previamente autorizado por dichos Servicios.
+
+G. Impresión del justificante de autorización de cambio de ubicación.
+
+El justificante debe incluir los datos siguientes:
+
+a) Datos para la identificación del solicitante:
+
+– Nombre o denominación social y NIF.
+
+– Nombre y código de ubicación del almacén de destino.
+
+b) Datos para la identificación de la mercancía:
+
+– Número de la declaración sumaria y partida o número y fecha de vuelo y conocimiento aéreo.
+
+– Número de bultos.
+
+– Peso bruto.
+
+c) Datos de la autorización
+
+– Número de autenticación y fecha.
+
+> Se sustituye por el que figura como anexo 5º de la Resolución de 29 de marzo de 2022, según esablece su apartado primero.13. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 5º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.14. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## APÉNDICE XIV — Normas para cumplimentar el DUA en caso de mercancías sujetas al Impuesto sobre las Labores del Tabaco aplicable en Canarias
+
+A. Importación.
+
+Casilla 31:
+
+Cuando las mercancías declaradas sean objeto del Impuesto sobre las Labores del Tabaco deberá detallarse en esta casilla todos los elementos necesarios para la determinación de la base imponible. En concreto, el valor de las mismas calculado según su precio de venta al público recomendado, excluido el propio impuesto y el impuesto general indirecto canario. Además, en el caso de importación de cigarrillos el número a importar expresado en millares, y en el caso de la picadura para liar, su peso en kilogramos, con dos decimales.
+
+Casilla 33:
+
+Se consignará en la subcasilla 5.ª, un código alfanumérico de 4 dígitos formado por el correspondiente al epígrafe incluido en el apartado a) y, a continuación, una de las claves incluidas en el apartado b):
+
+a) Códigos de epígrafe:
+
+| Clase de producto | Código epígrafe | Unidad fiscal |
+|---|---|---|
+| Cigarros y cigarritos. | 4T1 | € (PVP) |
+| Cigarrillos. | 4T2 | € (PVP) MI |
+| Picaduras para liar. | 4T3 | € (PVP) MI |
+| Las demás labores del tabaco. | 4T4 | € (PVP) |
+| Cigarrillos a tipo mínimo. | 4T5 | MI |
+| Picadura para liar a tipo mínimo rubio. | 4T6 | KG |
+| Picadura para liar a tipo mínimo negro. | 4T7 | KG |
+| Cigarrillos negros. | 4T8 | MI |
+
+b) Claves de régimen:
+
+| S | Introducción/lmportación que se vincula al régimen suspensivo del Impuesto, por destinarse los productos directamente a una fábrica o a un depósito del impuesto. |
+|---|---|
+| E | Introducción/lmportación acogida a alguno de los supuestos de exención previstos en la Ley. |
+| 0 | (Cero). En el resto de los casos. |
+
+Casilla 44:
+
+En el caso de importaciones sujetas al Impuesto sobre las labores del tabaco aplicables en Canarias con destino a personas o entidades obligadas a inscribirse en el Registro de Fabricantes, Titulares de Depósitos y Operadores del Impuesto deberá consignarse el número de registro. Código de documento 8001.
+
+Deberá hacerse constar el número y clase de documento que ampare la circulación en régimen suspensivo de los bienes importados hasta la fábrica o depósito del impuesto de destino, cuando el importador no coincida con el titular de la fábrica o depósito. Código de Documento 8002.
+
+En el caso de labores del tabaco que no lleven adheridas las marcas fiscales y el importador opte por colocarlas en destino, deberá indicarse esta circunstancia. Código de documento 8003.
+
+B. A la exportación.
+
+Cuando no se haya producido el devengo o el exportador solicite la devolución de Impuesto sobre las Labores del Tabaco, se tendrán en cuenta las siguientes instrucciones para cumplimentar el DUA de exportación.
+
+Casilla 31:
+
+Deberá detallarse en esta casilla todos los elementos necesarios para la determinación de la base imponible y el tipo soportado.
+
+Cuando se trate de operaciones de avituallamiento que se beneficien de la exención del Impuesto, se indicará expresamente AVITUALLAMIENTO EXENTO IMPUESTO SOBRE LABORES DEL TABACO.
+
+Casilla 37.2:
+
+| 421 | Cuando se realicen exportaciones de mercancías por las que se hubiera soportado el impuesto sobre las labores del tabaco, aplicable en Canarias. |
+|---|---|
+| 422 | Cuando la exportación ultime el régimen suspensivo del impuesto sobre las labores del tabaco, aplicable en Canarias. |
+
+Casilla 44:
+
+Deberá hacerse constar el número y clase de documento que ha amparado la circulación de los productos sujetos al Impuesto hasta el lugar de salida. Código de documento 8002.
+
+En el caso de que los importadores estén obligados a inscribirse en el Registro de Fabricantes, Titulares de Depósitos y Operadores del Impuesto, deberá consignarse el número de registro. Código de documento 8001.
+
+En el caso de exportación de labores de tabaco que hubieran llevado adheridas marcas fiscales, se hará constar, en su caso, su inutilización o destrucción, así como el lugar y la fecha en que tuvo lugar una u otra. Códigos de documento 8004 y 8005.
+
+C. Declaración de vinculación a depósito.
+
+Casilla 31:
+
+Cuando las mercancías declaradas sean objeto del Impuesto sobre las Labores del Tabaco deberá detallarse en esta casilla todos los elementos necesarios para la determinación de la base imponible. En concreto el valor de las mismas calculado según su precio de venta al público, excluido el propio impuesto y el IGIC. Además, en el caso de importación de cigarrillos, el número a importar, expresado en millares, y en el caso de la picadura para liar, su peso en kilogramos, con dos decimales.
+
+## APÉNDICE XV — Uso de claves en ciertas operaciones de IVA
+
+Se incluyen, a continuación, instrucciones más detalladas de las que figuran en los respectivos capítulos, relativas a la utilización de las claves de régimen aduanero para determinadas operaciones, con el fin de unificar criterios.
+
+A) Importaciones de mercancías exentas para su expedición inmediata a otro Estado miembro (artículo. 27.12 LIVA).
+
+| 42 | Se trata de una operación sujeta al IVA, pero exenta (si concurren los requisitos previstos en el artículo 27.12 de la Ley 37/92, de 28 de diciembre). Esta operación no está considerada por la Unión como una operación de las contempladas en las claves 0 y por tanto no debe emplearse ni el régimen 01 ni el 07. |
+|---|---|
+
+Debe incluirse en la casilla 17 a) el Estado miembro de destino de la mercancía y en la casilla 44 el número de identificación fiscal a efectos de IVA del destinatario de la mercancía en el país declarado en la casilla 17 a) (usando el código Y041). Asimismo, se deberá incluir, en la casilla 44, el NIF IVA español del importador, o de su representante fiscal, según los siguientes códigos:
+
+– NIF IVA español del importador (código en casilla 44, Y040).
+
+– NIF IVA español de su representante fiscal (código Y042), en caso de que el importador no dispusiera de número de identificación a efectos de IVA en España. En este último caso, deberá incluirse en la declaración, la aceptación del representante fiscal (código de documento 1008).
+
+Esta figura de representante fiscal aparece definida en la Ley del IVA, junto con las obligaciones que conlleva, y no tiene por qué coincidir con la persona que actúe como representante aduanero.
+
+En este último caso, deberá incluirse en la declaración, la aceptación de dicha representación por parte del representante fiscal (código de documento 1008) a los efectos previstos en el artículo 86. Tres de la Ley 38/1992, de 28 de diciembre. Dicha aceptación podrá acreditarse, entre otros, mediante el modelo de aceptación de la representación fiscal a efectos del artículo 86.Tres de Ley del IVA disponible en la web de la Agencia Tributaria:
+
+(https://www.agenciatributaria.es/AEAT.internet/Inicio/La_Agencia_Tributaria/Aduanas_e_Impuestos_Especiales/_Presentacion/Procedimientos_y_gestiones_en_la_Aduana/_INTERES_GENERAL/Modelos_y_formularios/Modelos y_formularios.shtml)
+
+También deberá referenciarse, en la casilla 44, el documento de transporte correspondiente al envío de la mercancía desde la aduana de importación hasta el Estado miembro declarado en la casilla 17 a) utilizando para ello uno de los códigos siguientes:
+
+| 1010 | Régimen 42 o 63, título de transporte desde la aduana al Estado miembro de destino de la mercancía. |
+|---|---|
+| 1011 | Régimen 42 o 63, titulo de transporte marítimo o aéreo directo desde tercer país hasta el Estado miembro de destino declarado en la casilla 17. |
+| 1012 | Régimen 42 o 63: título de transporte combinado desde tercer país hasta el Estado miembro de destino declarado en la casilla 17. |
+| 1013 | Régimen 42 o 63: título de transporte cuando esté prevista alguna interrupción propia de la logística del transporte en el ámbito territorial interno del IVA. |
+
+Esto es también de aplicación para el régimen 63, reimportación con despacho a consumo y a libre práctica simultáneo de mercancías, que se acojan a la exención del artículo 27.12 de la Ley 37/1992, de 28 de diciembre, y para la comunicación «salida de depósito distinto del aduanero (SDD) cuando el régimen sea «2 – entrega a otro Estado miembro.
+
+Si se tratara de un producto objeto de impuestos especiales en régimen suspensivo, que circulen desde España a otro Estado miembro, deberá declararse el régimen 42 (además del correspondiente e-DA) añadiendo, en la casilla 37.2, el código F06. Esto supone que el régimen 07 es posible únicamente cuando las mercancías vayan a una fábrica o depósito fiscal autorizado por la administración española.
+
+De acuerdo con el artículo 150 del RDCAU no es posible solicitar este régimen (ni el régimen 63) utilizando la simplificación de inscripción en los registros del declarante.
+
+B) Códigos de libre práctica.
+
+Las claves 01 y 07, deben utilizarse exclusivamente en las operaciones descritas en el texto de las mismas, es decir:
+
+| 01 | Su uso es para realizar la importación de una mercancía en una Aduana de la península o Baleares para su envío inmediato a Canarias o a otro territorio aduanero Unión donde no se aplique el IVA, pero nunca para su envío a Francia u otro Estado miembro. |
+|---|---|
+| 07 | Importación de mercancía tercera e inclusión simultánea en el régimen de depósito distinto del aduanero* o en depósito REF. |
+
+\* Al régimen de depósito distinto del aduanero pueden vincularse exclusivamente las mercancías importadas previstas en el artículo 65 de la Ley del IVA. Como excepción, no se utilizará el régimen 07 sino el 49 con la clave de exención 112 cuando se trate de mercancías procedente de territorios fiscales especiales y la importación esté exenta por vinculación a DDA aduanero.
+
+C) Depósito distinto del aduanero de mercancía distinta de la del ámbito objetivo de los impuestos especiales.
+
+C.1) Vinculación a DDA.
+
+| Descripción | Tipo | Régimen |
+|---|---|---|
+| Mercancía perteneciente a la Unión que es objeto de vinculación al DDA por realizarse una entrega de bienes o una adquisición intracomunitaria de bienes exenta por el artículo 24.Uno de la Ley 37/1992 reguladora del IVA. | DVD | 95 |
+| Mercancía perteneciente a la Unión procedente de territorios fiscales especiales que es objeto de vinculación al DDA por realizarse una importación a efectos de IVA exenta por el artículo 65 b) de la Ley 37/1992 reguladora del IVA.<br>Ejemplo: vinculación de mercancía de Canarias a un DDA de Península (no del ámbito de los IIEE). | DUA | 49xx 112 |
+| Mercancía no perteneciente a la Unión cuya importación está exenta por vinculación al DDA (supuestos del artículo 65 LIVA). | DUA | 07 |
+| Reimportación de mercancía tras exportación temporal con vinculación a DDA por tratarse de mercancía cuya importación está exenta por el artículo 65 LIVA. | DUA | 61xx 112 |
+| Mercancía en RPA (materia prima modalidad exportación anticipada) con vinculación a DDA por tratarse de mercancía cuya importación está exenta por el artículo 65 LIVA. | DUA | 5111 112 |
+
+En caso de exportación de mercancía vinculada a un DDA con el código 112, deberá declararse el régimen 10.07.
+
+C.2) Despacho a consumo de mercancía previamente despachada a libre práctica y vinculada a DDA (artículo 18.tres LIVA).
+
+De conformidad con lo dispuesto en el artículo 18 apartados dos y tres de la LIVA, la ultimación del régimen de depósito distinto del aduanero de los bienes que no sean objeto de impuestos especiales previamente importados y vinculados a dicho régimen, a cuya importación se haya aplicado la exención prevista en el artículo 65 de la LIVA, determinará el hecho imponible importación de bienes a efectos de IVA salvo que resulte aplicable alguna de las exenciones establecidas en los artículos 21, 22 o 25 de la LIVA (exportación, operación asimilada a exportación o entrega intracomunitaria).
+
+Por tanto, la salida del DDA con destino península o Baleares de mercancías incluidas en dicho régimen previo despacho a libre práctica (régimen 07) deberá declararse mediante la presentación de un DUA que se cumplimentará conforme a las instrucciones siguientes:
+
+– La declaración de importación deberá presentarse antes de la salida de la mercancía del depósito distinto del aduanero.
+
+No obstante, las ultimaciones que se hayan producido entre el 1 de enero de 2023 y la fecha de publicación de la presente resolución y que no hubieran sido objeto de declaración deberán ser liquidadas por la aduana de control del depósito previa solicitud del titular de las mercancías.
+
+– Las siguientes casillas se cumplimentarán tal y como se indica a continuación:
+
+Casilla 1.1: CO.
+
+Casilla 37 Régimen solicitado: 82.
+
+Casilla 37 Régimen precedente: 07, 49, 95 o 73. El régimen 95 se declarará como precedente únicamente en aquellos casos en los que se hubiera despachado mercancía a libre práctica con inclusión en el régimen de DDA y, durante su permanencia en dicho régimen, la mercancía hubiera sido objeto de una entrega.
+
+Casilla 40: se indicará el MRN del DUA de vinculación a DDA o DVD generado por la venta dentro del DDA.
+
+D) Declaración de exportación.
+
+D.1) Definición de exportador.
+
+La Comisión Europea tiene publicada una guía explicativa del concepto de exportador disponible en el portal de la Agencia Tributaria así como en el de TAXUD (https://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents /customs/customs_code/guidance_definition_exporter_en.pdf)
+
+Es especialmente relevante la aclaración que la precitada guía hace a la exigencia de que el exportador deba estar facultado para decidir y haya decidido que las mercancías deben ser conducidas fuera de ese territorio aduanero. Concretamente, determina que este concepto se refiere a un elemento fáctico, siendo suficiente para que el mismo concurra, el hecho de aparecer como exportador en la propia declaración aduanera.
+
+También es relevante la mención que hace la guía a que cuando ninguna de las partes intervinientes en el contrato de compraventa internacional cumplan las condiciones impuestas por el artículo 1.19, letra b), inciso i) RDCAU, deberán celebrar acuerdos contractuales o comerciales para designar al exportador (pudiendo ser incluso un transportista, un transitario o cualquier otro actor siempre que esté establecido en el territorio aduanero de la UE).
+
+En este supuesto, el exportador designado aparecerá en la casilla 2 de la declaración aduanera, mientras que en la casilla 44 deberá consignarse, mediante el código de documento «5019», el NIF y el nombre del empresario/profesional que ha realizado la entrega de bienes exenta por aplicación del artículo 21 LIVA (así como la factura correspondiente).
+
+D.2) Ventas sucesivas o en cadena.
+
+La doctrina de la Dirección General de Tributos ha establecido, en relación con operaciones de exportación donde hay dos entregas de bienes y un único transporte con destino a un país o territorio tercero, que dependiendo de a cuál de las entregas se vincule el transporte resultará o no exento la primera o la segunda.
+
+Cuando el transporte se vincule a la primera entrega de bienes (exista transporte directo desde las instalaciones del primer vendedor al país tercero):
+
+a) La factura declarada con el código N380 y los datos de valor declarados, deberán referirse a la primera entrega.
+
+b) En cuanto al exportador:
+
+– Si se trata del primer transmitente (art. 21.1.º LIVA), podrá identificarse en la casilla 44, para mejorar la trazabilidad de la operación, al adquirente/vendedor intermedio mediante el código de documento «5006» e incluir el NIF y nombre del mismo, así como las factura con el código 1009).
+
+– Si se trata del adquirente no establecido en territorio nacional del IVA (pero sí en TAU con arreglo a la definición de exportador) y su compra esté exenta por aplicación del artículo 21. 2.º LIVA, deberá identificarse al primer vendedor en la casilla 44 mediante el código de documento «5007» incluyendo su NIF y nombre. La factura correspondiente a la 2.º venta deberá reseñarse en la casilla 44 con el código 1009.
+
+c) En cuanto en la casilla de destinatario (casilla 8) deberá ir el destinatario final de las ventas sucesivas ya que se trata de un dato obligatorio de seguridad.
+
+D.3) Servicios sobre mercancías adquiridas para la exportación
+
+En el caso de los servicios previstos en el artículo 21.3.º de la Ley del IVA, deberá identificarse mediante el código de documento «5008», en la casilla 44 al proveedor establecido en la Unión que ha realizado tales servicios (NIF) y la referencia de la factura expedida por él y exenta por dicho artículo.
+
+> Se modifica el apartado C por el apartado primero.4 de la Resolución de 17 de marzo de 2023. [Ref. BOE-A-2023-7502](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7502)
+
+> Se añade por el que figura en el anexo 7º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.12. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se suprime por el apartado primero.15 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## APÉNDICE XVI — Simplificaciones en los intercambios nacionales de mercancía comunitaria con las Islas Canarias
+
+A) Operaciones inferiores a 6.000 euros o transferencias dentro de una empresa.
+
+No se exigirá el DUA de expedición en los intercambios comerciales de mercancía de la Unión entre la Península y Baleares con las Islas Canarias y viceversa, cuando se cumplan las condiciones siguientes:
+
+a) El valor facturado del envío, con independencia de las condiciones de entrega, no supere los 6.000 € o se trate de transferencias dentro de la misma empresa.
+
+b) La mercancía se incluya en un régimen aduanero en el plazo previsto de depósito temporal.
+
+No podrá aplicarse esta simplificación, por ser obligatoria la presentación del DUA de expedición, cuando:
+
+‒ se expidan mercancías que deban ser objeto de control Fitosanitario de acuerdo con la Directiva 2000/29/CE, de 8 de mayo de 2000 relativa a las medidas de protección contra la introducción en la Comunidad de organismos nocivos para los vegetales o productos vegetales y contra su propagación en el interior de la Comunidad, y específicamente los vegetales enumerados en la parte B de su Anexo V;
+
+‒ se expidan mercancías que deban ser objeto de control a su salida de las Islas Canarias por haberse beneficiado, o ser susceptibles de beneficiarse, las mismas o las materias primas con las que se fabricaron, del Régimen Específico de Abastecimiento;
+
+‒ se expidan mercancías desde las Islas Canarias, mercancías que se hayan beneficiado, en el momento del despacho a libre práctica, de suspensiones arancelarias por aplicación de las Medidas Específicas Arancelarias o de los contingentes para productos de la pesca establecidos en la normativa de la Unión Europea;
+
+‒ la mercancía esté en un depósito distinto del aduanero o en un depósito REF;
+
+‒ se trate de mercancías objeto de Impuestos Especiales de acuerdo con la Ley 38/92, de 28 de diciembre y la declaración de expedición sea necesaria para solicitar la devolución de los mismos o para ultimar el e-DAA;
+
+‒ se trate de labores objeto del Impuesto sobre Labores del Tabaco creado por Ley del Parlamento de Canarias 1/2011, de 21 de enero, del impuesto sobre las labores del tabaco y otras medidas tributarias.
+
+Procedimiento:
+
+La empresa expedidora deberá incluir en su factura u otro documento comercial o de transporte, su intención de acogerse al procedimiento incluyendo en el mismo la expresión “T2LF – Mercancía sin declaración de expediciónˮ.
+
+El expedidor podrá obtener un T2LF electrónico si lo requiere el destinatario a efectos de la solicitud de un certificado de ayuda REA. En este caso deberá incluir en la casilla 44 esa misma mención, “T2LF – Mercancía sin declaración de expediciónˮ (código 9012).
+
+El documento previsto en los párrafos anteriores hará las veces de documento de embarque/salida, así como el justificante del estatuto de mercancía de la Unión.
+
+En el DUA o DVD de introducción de la mercancía deberá tenerse en cuenta:
+
+‒ Casilla 2: será obligatorio la inclusión del NIF del expedidor y el indicador de procedimiento simplificado nacional «A».
+
+‒ Casilla 44: deberá incluirse el código 9011 «Solicitud de certificado de salida» mediante el que se solicita justificante de salida para el expedidor a efectos del IVA o del IGIC, según corresponda.
+
+A partir del DUA de introducción se generará un certificado de salida de la mercancía al que podrá acceder directamente el expedidor por sede electrónica, así como la inclusión de los datos de dicha operación en las bases de datos correspondientes a efectos del IVA o del IGIC.
+
+En caso de que el expedidor detecte errores, podrá comunicarlos directamente a la Aduana de introducción para que, en su caso, se proceda a la revisión de la declaración de introducción.
+
+B) Intercambios comerciales nacionales entre el territorio aduanero de la Unión donde es de aplicación la Directiva IVA 2006/112/CE y las Islas Canarias realizados mediante comercio electrónico u otros sistemas de ventas a distancia para determinados envíos.
+
+Este procedimiento será aplicable a las ventas de productos y mercancías realizadas a través de internet o por otros procedimientos de ventas a distancia (catálogos, televisión, teléfono.) en los que el vendedor se compromete a entregar la mercancía en el lugar indicado por el comprador, incluyendo en el precio facturado todos los gastos del envío, el despacho de aduanas e impuestos a la introducción.
+
+Podrá presentarse el DUA de introducción previsto en el apartado anterior directamente por la empresa vendedora o por su cuenta cuando, además de las previstas en el apartado A), se cumplan las siguientes condiciones:
+
+a) La venta se realice con condiciones de entrega DDP.
+
+b) El expedidor sea una empresa establecida en las Islas Canarias y el destino de la mercancía sea la Península o Islas Baleares, o viceversa.
+
+c) El comprador haya dado su consentimiento de forma expresa a que sea el expedidor el que tramite la declaración de introducción al realizar la compra.
+
+d) Se incluya en la factura la indicación de forma visible «Autorizado por destinatario, despacho por cuenta del expedidor», junto con la mención «T2LF - Mercancía sin declaración de expedición».
+
+En este caso el expedidor tendrá el carácter de declarante, si bien las cartas de pago para el ingreso de los tributos devengados con ocasión de la introducción se emitirán a nombre del destinatario.
+
+En el DUA de introducción deberán incluirse los datos siguientes:
+
+‒ En la casilla 2 será obligatorio la inclusión del NIF del expedidor y el indicador procedimiento simplificado nacional «B»
+
+‒ En la casilla 44 se incluirá los códigos:
+
+| 1015 | «Autorización de despacho, declaración por cuenta del expedidor». |
+|---|---|
+| 9011 | «Solicitud de certificado de salida». |
+
+C) Intercambios comerciales nacionales que se despachen en destino con la declaración de envíos de escaso valor (H7).
+
+Las ventas definidas en los apartados A y B que se despachen en destino con la declaración H7 están exentas de presentar declaración de expedición. El vendedor podrá descargarse de la sede electrónica de la AEAT el justificante a efectos de IVA o del IGIC, según corresponda.
+
+> Se modifica el apartado A y se añade el C por el apartado primero.14 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se incrementa de 3.000 a 6.000 € el umbral previsto en este apéndice para acogerse al sistema simplificado de intercambios nacionales con las Islas Canarias, por el apartado primero.16 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se modifica el apartado A por el apartado primero.27 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## APÉNDICE XVII — Formulario web de importación
+
+El formulario de importación disponible en la sede electrónica es una declaración tributaria aduanera que compromete al declarante en cuanto a la exactitud de los datos declarados, la autenticidad de los documentos presentados y el cumplimiento de todas las obligaciones inherentes a la inclusión de las mercancías de que se trate en el régimen considerado.
+
+Esta declaración completa debe formularse con sujeción a lo previsto en la presente resolución y únicamente cuando concurran los siguientes requisitos:
+
+‒ Ser utilizado por personas físicas o asociaciones que no actúen como operador económico de acuerdo a la definición del artículo 1.12, del Reglamento (CEE) n.º 2454/1993, de 2 de julio de 1993.
+
+‒ No puede utilizarse:
+
+• para compras de mercancía de valor intrínseco inferior a 150 €, o
+
+• intercambios entre particulares inferiores a 45 euros cuando el envío sea procedente de un país terceros, o
+
+• intercambios entre particulares inferiores a 100 euros cuando sean bienes de la Unión (introducciones en las Islas Canarias).
+
+En cuyo caso tendrá que utilizarse el formulario web H7.
+
+– No puede utilizarse cuando, una vez presentado una declaración H7, la aduana no autorice el levante porque dicho modelo de declaración no procede y exija la presentación de una declaración de importación normal.
+
+– No podrá presentarse a través de un representante aduanero en los términos del apartado 5 del artículo 5 del CAU.
+
+‒ Utilizarse para el despacho a consumo con despacho simultáneo a libre práctica de las mercancías o bien para el despacho a consumo en parte del territorio aduanero de la Unión donde sea de aplicación la Directiva 2006/112/CE de mercancías comunitaria procedentes de otra parte del territorio donde no sea de aplicación la citada Directiva (régimen 40 o 49).
+
+‒ Las mercancías no deberán estar sujetas a ninguna prohibición ni restricción, ni tratarse de productos del ámbito objetivo de los Impuestos Especiales.
+
+‒ Según dispone el artículo 62.2 del Reglamento (CEE) n.º 2913/1992, de 12 de octubre de 1992, por el que se aprueba el Código Aduanero Comunitario, los documentos cuya presentación sea obligatoria para la aplicación del régimen de libre práctica, deberán adjuntarse al formulario en el correspondiente formato electrónico.
+
+‒ En el marco de la VEXCAN, podrá también ser utilizado este formulario para el despacho a consumo de mercancía de la Unión que constituya una expedición comercial siempre que sean realizadas por empresarios o profesionales que sean personas físicas. Debe tenerse en cuenta que este formulario es incompatible con el procedimiento previsto en el Apéndice XVI.
+
+> Se modifican los puntos segundo y tercero por el apartado primero.15 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+## APÉNDICE XVIII — Instrucciones para la declaración de determinados regímenes especiales
+
+A) Declaración y liquidación de los derechos de importación correspondientes a los productos transformados del régimen de perfeccionamiento pasivo
+
+El Código Aduanero de la Unión establece las reglas para el cálculo de los derechos de importación de los productos transformados resultantes de un régimen perfeccionamiento pasivo en el artículo 86.5. Esta regla general se detalla, para el supuesto de que los derechos arancelarios sean o esté compuesto por un derecho específico, en el artículo 75 del Reglamento Delegado UE 2015/2446. Según estas normas:
+
+«Art. 86.5. CAU. Cuando nazca una deuda aduanera en relación con productos transformados resultantes del régimen de perfeccionamiento pasivo o con productos de sustitución mencionados en el Art 261.1 CAU el importe de los derechos de importación se calculará basándose en el coste de la operación de transformación llevada a cabo fuera del TAU.»
+
+«Art. 75 RDCAU. Derechos de importación específicos aplicables a los productos transformados resultantes del régimen de perfeccionamiento pasivo o sobre los productos de sustitución (Art 86.5, del CAU).
+
+Cuando se vaya a aplicar un derecho de importación específico en relación con productos transformados resultantes del régimen de perfeccionamiento pasivo o con productos de sustitución, el importe de los derechos de importación se calculará sobre la base del valor en aduana de los productos transformados en el momento de la admisión de la declaración en aduana para despacho a libre práctica, una vez deducido el valor estadístico de las mercancías de exportación temporal correspondiente en el momento en que hayan sido incluidas en el régimen de perfeccionamiento pasivo, multiplicado por el importe de los derechos de importación aplicables a los productos transformados o los productos de sustitución, dividido por el valor en aduana de los productos transformados o los productos de sustitución.»
+
+A efectos de este apartado, se entenderá por:
+
+Valor en aduana del producto transformado (VA): el determinado de acuerdo a los artículos 70 a 74 del CAU teniendo en cuenta específicamente lo indicado en el artículo 71 b, es decir, debe incluir el valor de los materiales exportados acogidos al Régimen de Perfeccionamiento Pasivo (RPP) contenidos en el producto transformado que se importa.
+
+Valor estadístico de la exportación (VE): el correspondiente a la mercancía exportada acogiéndose al régimen en la cantidad correspondiente al producto transformado que se reimporta.
+
+Coste de la transformación (CT): el coste total de la operación de transformación incluyendo todos los gastos ocasionados desde la salida del Territorio Aduanero de la Unión hasta la vuelta al mismo. El coste de la transformación debe ser igual al valor en aduana – valor estadístico de la exportación.
+
+1\. Datos en la declaración de importación:
+
+Casilla 42: precio del artículo conforme a lo facturado por el proveedor.
+
+Casilla 45: ajustes para obtener el valor en aduana.
+
+Casilla 44: debe incluir el valor estadístico de la exportación con código de documento 7009 y los gastos adicionales del IVA con el código 7002.
+
+Casilla 47:
+
+a) Si el derecho arancelario es *ad valorem*:
+
+VA = (casilla 42 x tipo de cambio) ± casilla 45
+
+CT= VA – VE (importe incluido en la casilla 44 con código 7009)
+
+| Clase tributo | Base imponible | Tipo | Importe |
+|---|---|---|---|
+| Arancel. | CT € | % | Cuota. |
+| IVA. | CT + 7002 + arancel | % | Cuota. |
+
+b) Si el derecho arancelario tiene un tipo específico:
+
+MI: cantidad de producto transformado en la magnitud correspondiente al derecho específico. Debe incluirse en esta casilla.
+
+RDE: resultado derecho específico (importe de multiplicar MI por el derecho específico).
+
+El cálculo de la cuota del derecho específico del RPP (CRPP) se realiza de la forma siguiente:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtdGV4dD5DUlBQPTwvbXRleHQ+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG10ZXh0PlZBIC1WRTwvbXRleHQ+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICAgICAgPG10ZXh0PlJERTwvbXRleHQ+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXRleHQ+VkE8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALYAAAAqCAYAAAAeVKE8AAAEGUlEQVR4nO2c27XiMAxFTy/0Qi2phRKmA6qYXyqhDebjXg1CHMmPOBCw9lr+gNiOY5/I8iMGkiT5eg4b5HkCsGyQ71ZsUQfJG1kAXAEcf39fAdxMsAJdzPULyff2m9cazqQsZxPnQOJcyH8s6PJdnOeQa1E+tkzAz4tduv+p416s7InhBN4oIqhS5XmNo4V/JNdb0HlFVtUKUwueccTz8x3hi9vL74j4WS/ONZ3O1mFP2ZNfSpVTEuYhSK+tjieUFiQ/9hIJVzwLPxIH4Fta9n8kNrHOLJ0nbEF6SJu2p+wJfio08oGlsTxhnsCFJpZIC2Gt/6qtm3fdc4cicXiwMkfCll6FlaEkbJ2vjtNb9qmRhigJLrLaXvoz7tZEGnWEdYms9gX8JY3EEVn/C2JfnuXVK2zg7vrpe/aWfWrOqPPRvC52If8JWvDaP16LWG1b7sgl8u59QOwiidBsGi+/qGeqEbbUk36O3rJPzRX1gw/WaHoWRXPCc6WLDznCyohItHU+B3lHswqROOSF1s/MZl9qBshrhd1a9qlpEbbtJqOZA+a3i0hGjOI9AXj0Wj0psxYjs9g1z9UibF2mtNgdtAjNDgI9f1YP8LxQWrCx8+PM0ksPsMCfwRB6/VQRti4vE3Y0aBRqhM1cvvSxO2ix2MDjvHY0xedVuDTuCEujrXZpAFzj30eLKyWLLemjZ6sR9pXE6S371LDBUYRuVCZeuV6Tfu2CDXAXQulFKYnjiFjYmmjw6M1FA2VhsxkRBPcSvLJPjZ5rrkUawBv5l0S2hdWOXJua1TsvD/Y80QpjtIrIBryCl2ZN2afnijZf7QBuIezekmhhQ4e11Pi1NYG9qFa8LD97f7s35E/FvdfsFWk1TNOQ+w040Rz9R8J2tckbdUbdqN97+6PABgw1cUfgLYvPSrTY83HoLsQKU3cLgviani/FukjxCa0lYLvoWuKO4NP2TW/J14iaTfhb7AjZEzbgvyCeWIHHednWuKOQHmlmvkbUQH0Xr61wJGw2HwnEYrWbe1riJskTpW2ZmgV3K1xjsVuEbV+GlrhJ8oQ3MV6bzgo72mzuiZUtNNTEjTbksKDz+pvhK8N/evcKs+/wbogtP9sDIaH0PWEUt4d3N0CGnQtbLDbbMGOJ3Is1cZPkiRYfW8NckZLvm8JOXkbvN3lM2KVNPqOFvcbHnp0p5u1LWw4FXRne4DE6JiAt9nr2dN7JR6AHgwy7WShaYWQrlUDbVyQjvzj5NvZ03snHwCyCtr7eXhFbQdYFYGlavtHLxZhHSsJ85XknSTKMPZ13kiRDiay2J9itzjtJkmHs6byTJBkKcyfedd5JkgxjT+edJMkwXnneSZK8lD2dd5Ikw9jbeSdJMow9nXeSJMPY23knSZIkSZIks/IPOzfRQlAOSd8AAAAASUVORK5CYII=)
+
+Se declarará así en casilla 47 aunque el importe consignado como cuota de arancel no corresponda con el cálculo aritmético de la base por el tipo indicado.
+
+| Clase tributo | Base imponible | Tipo | Importe |
+|---|---|---|---|
+| Arancel. | n.º MI | n.º € x MI | CRPP. |
+| IVA. | CT + 7002 + arancel | % | Cuota. |
+
+c) Si el derecho arancelario es mixto:
+
+Arancel resultante: la suma de los supuestos descritos anteriormente.
+
+IVA: igual a los supuestos anteriores.
+
+2\. Supuesto especial: importación previa de productos transformados al amparo del régimen de perfeccionamiento pasivo.
+
+En este supuesto en que la importación del producto transformado es previa a la exportación de la materia prima, el cálculo será el siguiente:
+
+a) Derechos arancelarios a ingresar con el levante se calcularán de acuerdo con las reglas anteriores.
+
+b) Garantía potencial para avalar el cumplimiento del régimen, será la diferencia entre los derechos arancelarios de la letra a) y los que hubieran correspondido si el despacho hubiera sido a libre práctica.
+
+c) IVA a ingresar con el levante: se calculará partiendo del valor en aduana y no del coste de producción.
+
+La forma de declarar este tipo de operaciones es incluyendo los siguientes códigos en la casilla 37 de la declaración de importación: 4600 o 48.00 según corresponda.
+
+3\. Ejemplo de declaración y liquidación de un producto transformado con derecho arancelario mixto.
+
+Producto transformado: 2.500 kgs, netos de pasta alimenticia sin cocer, rellenar ni preparar que contenga huevo y no contenga arroz (NC 1902110090). Importe factura, condiciones FOB TANGER: 3.500 €. Este valor corresponde a la fabricación del producto excluida la harina, sin otros gastos adicionales.
+
+Mercancía exportada contenida en el producto transformado: 2.000 kgs, harina de trigo, valor estadístico de la exportación 2.700 €. El envío fue en condiciones DDA.
+
+Gastos adicionales puesta de la harina en la fábrica: 400 €.
+
+Transporte y seguro Tanger-Algeciras: 150.
+
+Gastos adicionales IVA: 300 Tipo arancel: 7,7% + 24,6 €/QN.
+
+Declaración:
+
+Casilla 42: 3.500.
+
+Casilla 45: + 3.250.
+
+Ajustes positivos:
+
+Valor estadístico harina exportada: 2.700.
+
+Gastos adicionales envío: 400.
+
+Transporte y flete importación: 150.
+
+Total: 3250.
+
+Casilla 44: 7009= 2.700,00; 7.002= 300,00.
+
+Casilla 47:
+
+VA: 3.500 + 3.250 = 6.750.
+
+CT: 6.750 – 2.700 = 4.050.
+
+RDE: 25 x 26,4 = 660.
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtdGV4dD5DUlBQPTwvbXRleHQ+CiAgICA8bWZyYWM+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtZmVuY2VkIHNlcGFyYXRvcnM9InwiPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG10ZXh0PlZBIC1WRTwvbXRleHQ+CiAgICAgICAgICAgICAgICA8L21yb3c+CiAgICAgICAgICAgIDwvbWZlbmNlZD4KICAgICAgICAgICAgPG10ZXh0PiYjeEQ3O1JERTwvbXRleHQ+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bXRleHQ+VkE8L210ZXh0PgogICAgICAgIDwvbXJvdz4KICAgIDwvbWZyYWM+CjwvbWF0aD4=](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAAAqCAYAAAAONO/gAAAEvklEQVR4nO2cy3XjMAxFXw1uwTWkBbUwLbiFacEdpASXkNVsPRWkAzeQAjwLGzEGBkBSpiLZevccLhLrQ0p4APgRAUIIcdhOcM09gN0E152KKZ4BeTJ2AE4AhuvfJwBnU6xR78zvR+e65+u1HuHg1OVgjtk6xxyd/3lF1+8YtGMM2f1P1zZY8e0Ldf0E8AHfwdS293en9r0ke9wbF3AzwpIxn6/XsGixDM7vLehrZd7bGrMWiceA+/YN6CeILYAvc/8Nbkb/hfv2bHAz7L35vzgtEfvGnPuGvL3v8N8VgW8MmpIxb5PztafqYVyegVhOuDeuzDgA3xF4DiJra1YHqbdF/v8e3D9q6waXCJFF46y9FEPACXlOLy8lMuY9/Ic74ObFazx6DXLNzMuPMY4IW+eaSCleWz/TSAzZs83EAFwEIRHHvr+x7V01knqUjDSLDtH5B9w8qxiD54FbyaLDEb6wM+PIvOQRcd/EE4QIwT6PUmTwcviSGIBLRDnj0ofQRO3d4vF09WU5oC7sy4uxhrFz/idoo9D5/qNIdLD1zlKYzDiy9E0iQU0dRAiesVkxDLgYsHSIbd4P1IlBnqttd9Te96B+BJeHWDvS46U6evRJs8e9kYmx9MhXxbh0FDgk185GVjIxiEF6kU8bYiYEXV87KlSTnmbPK0obs/ZSDAEtYhAvKZEgG3Hx+iHych8dZgV8j5hFnbGRQeocGZCOeJlh68jwhkuu740ieffuGRl+gWIIaTFO2xGO8nPtraJSmoSz8xeeUeiOajQ0LIztM4hBRvUdIwZ9XpQi6XvX9Bls29mBHkFLZAD+H03JhlOjFyhG0WOYVXvF0iBAjXFEw6tRZBiTJtn7eZ1fe++a0SR7X4phBFEHMUJHB+8lye815/cI13ryKaNkHANyMXjHj+lA6yig5wqye5fmGbxza9r7K/l9lei5gFpEQN45NUsZpogOWYpSMwMdXcNrT+vQqp6BtkOob+q3j+vfQP0MtCcEnaZ6KZicTxxOaBvh2cJ/CXYtkxWLt3aoRyjPRFW7VicSt/X0mRAELYjo/hrbP/pbqOcnLs8/i0Cl4s14E5SXY6wVbw6ldl6mNKv/NHirNcVziiLHepmsDCOP7UG0pGKt1K5Beln00tloOl2HOMmdrRFlObGERM/j2PDbcmwPnu27gylZtRCiyQuNHVmIxADEoooMHLhf4NVybC+iXHRNrFoIQH36ob19JoZomC0zcDt60HIsIV0oLVHW7HDz9jWRoUUMVkAtxxLSBbvmpvU8K4ZohScQG7g3eVRzbDRcGRV9rT8sLNfyzdi19t53uWfkEcZbcyOl9H1xduwY5n4BLMsp3zwqBokMpUVdQJ76PHIsIV1o6TNovDSplMtTDGTRjP1G1xNDaSFabzE80mcgPqufbxHDLkUH/aCiDnS2pQkjw3QsaZ+np0d3iD3sgrZsptmbsQbavvbq+WXYWljSPk8vgedhtJeP1iZFH1iId/fOaflmlxNsdZSM+Sf3eSJkVpa0zxMhs5NFh8jIp9rniZBZWdI+T4TMjpfqzLXPEyGzsqR9ngiZlZ/c54mQxbOkfZ4ImZWl7fNEyKwsaZ8nQmZlafs8EUIIIYSQ5+IfGp8QO+Wei78AAAAASUVORK5CYII=) ![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtdGV4dD49PC9tdGV4dD4KICAgIDxtZnJhYz4KICAgICAgICA8bXJvdz4KICAgICAgICAgICAgPG1mZW5jZWQgc2VwYXJhdG9ycz0ifCI+CiAgICAgICAgICAgICAgICA8bXJvdz4KICAgICAgICAgICAgICAgICAgICA8bXRleHQ+Njc1MC0yNzAwPC9tdGV4dD4KICAgICAgICAgICAgICAgIDwvbXJvdz4KICAgICAgICAgICAgPC9tZmVuY2VkPgogICAgICAgICAgICA8bXRleHQ+JiN4RDc7NjYwPC9tdGV4dD4KICAgICAgICA8L21yb3c+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtdGV4dD42NzUwPC9tdGV4dD4KICAgICAgICA8L21yb3c+CiAgICA8L21mcmFjPgogICAgPG10ZXh0Pj0zOTY8L210ZXh0Pgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMQAAAAqCAYAAADs6PSZAAAE60lEQVR4nO2czXHjMAyFXw1uITW4gL24jVzVwragDlKCS8hpr+4gHagBF5A9SG8MIwBIWZJjSfhmNOMRf0UCJEjCBJIkWZS3QngL4Ht42ieVuVa2+l27oQHQATgZYVQESwk63JREPxcR7+TEkYJzDsIidLpOhb8FddTf1aiwxilTfrcuD+i//WK8n4sGwCeA61CHR+IdAHyIsPPwbve06BvDgsJmKUoDX2B0mpJwdLgXLAqml7+sn45DQZVxLOU6GfGkIlKRZNtY73Q6mf/cSnEY8mQdrH6pjXcB8IW+3ofh99fM9V0dJ9gjHBDPDAjeU5hlGZ7CyXJ0p7FDI6x8Kegt+s72lOqMm8DKNFHdvDrpGVGm13V8g9/mkg73SkahvQI4Bulq4rGPZJtT2ecyh1dJh3iULwmkxQX3QkAh8vLqnLDSLOGNjtYobiHz9mZCmRd/W4LvzRIw3jNupBRsE/ntbMdIGWrjUWGscmuUdZNQ4KxOZBhH0TG2vRQsb+3A8EjImLYk2JqakU6bS55SAjfhZZtY+XImsZRXDxCyjpbwsS6ynWV/RNTEO8Bvc/b1LjcFzvBHA7lQlaNmSSm0uVTKNxL6SFkiLHPAqofMNxqxKaCR0EfKwm/W8NtluSzLMx9b8fuKflE8Nh7LjRQiarvNEk2P3khRGrWt0VAjBWEJhegq6qAFe0mFYLpoJmZfeMJIwW7Qj/AH3BTtY2S8VAiHSCGsaZtEwlPbmNJmn1Mh2qBuRJtLwHMUwmsXudVr5X2E3w6s22FEvFQIh0gIIlvSS1cyl6y4f1C3htBnDVanWYJuoc0lYNk1RBQGlBUisvk/cGuL2njRQMN+3+V5RDRDRKNatNNSuwDmQWBUj9qzCOCmDDWLQWtnzdslsnaZrG+Mdpmitqw1ma6w24h5H0fG62DvMnnpd4G32AP8zo92cMZMtReRx5RzCFmnGmXwZpGlziFkHl6ZNYtqr40+cX+YVhvP2nigyVUzAG2S0qhqTfUXjDOXpP1NPJPlkZNqKoOliNaBoFW2DJPtMfWkmlhuHGO3XeVJMt//xc/Dt9p4EPEOQ9w8qUbf+NF+vfbt8YTJ29nR6SMh1+cdpdnGO+Pw6kohjJRMOjB6MyGMsiL0t0TKQDylkGupT9iHb4/E49bsLtcOksh1I5lOA3uWqnXd2K35ElA7ED1Mi537ryxErc/SltGzvlZw7YkctdeiSqBpkaPR3OxdGXjwSvS60FrYW+uxRw9oJxO5Eyfj2LsyNPDPsFrx2xJy/f6pM0OSLIGlDHLLPvJQkIfCpb8gJMlqkQe3kVeudOuRbvByrWEeAFvuDNEjtfZfPvlUPsA0WQN+/r8j2npmWe8iP2lCcdYY+7eAkN9u5HzW80yBppEc4SnIF/wUbLnr9G6Ek13/byPZDnoXyboggk9kVpUcJpNkFXDG8HYzpU9ZtPA2FWKqXbdl8g6peZlL1kr+c9p58hv+5Q2RYiUDr36H1N7hX1strEM5z3Ey8tROBl79Dqk9YQ1MkZt+5OrPtQWRC/XEYQ13SO0J67ZEvcUq/ZxKpo+e3dNUKsCGGou+FEF2koX3V9OcJZKXYc13SCXJ7Kz5DqkkmZ013yGVJLOz1jukkmQRXu0OqST5VdZ2h1SSLMqa7pBKkqewhjukkuSpvPIdUkmSJEmSJEny2/wHBqw99K5Z07sAAAAASUVORK5CYII=)
+
+| Clase tributo | Base imponible | Tipo | Importe |
+|---|---|---|---|
+| Arancel. | 4.050 | 7,7 % | 311,85 |
+| Arancel. | 25 QN | 26,4 €/QN | 396 |
+| IVA. | 4.050+ 300+ 311,85+396 | 10 % | 505,78 |
+
+B) Declaración para el despacho a libre práctica de productos transformados del régimen de perfeccionamiento activo cuando el operador tiene autorizado acogerse al artículo 86.3 del CAU.
+
+El artículo 86.3 establece la siguiente norma especial para el cálculo de los derechos de importación:
+
+«86.3. CAU Cuando nazca una deuda aduanera para productos transformados resultantes del régimen de perfeccionamiento activo, el importe de los derechos de importación correspondiente a dicha deuda se determinará, a solicitud del declarante, sobre la base de la clasificación arancelaria, el valor en aduana, la cantidad, la naturaleza y el origen de las mercancías incluidas en el régimen de perfeccionamiento activo en el momento de la admisión de la declaración en aduana correspondiente a dichas mercancías.»
+
+Las siguientes instrucciones para declarar en estos supuestos tienen carácter provisional hasta tanto este operativa la aplicación informática para el control de este régimen.
+
+Las casillas 33 a 46 deberán referirse a la mercancía que se vinculó al régimen de perfeccionamiento. Si la posición arancelaria hubiera variado desde la fecha en que se vinculó al régimen, deberá declararse la que corresponda al momento de realizar la declaración a libre práctica.
+
+En la casilla 37.2 deberá incluirse el código F44.
+
+En la casilla 40 deberá incluirse el DUA con el que se vinculó la mercancía al régimen de perfeccionamiento.
+
+En la casilla 44 la autorización del régimen con el código C601 o 1020 y el código NC correspondiente al producto transformado con el código de documento 5021. Asimismo, podrá indicar la fecha correspondiente al tipo de cambio aplicable mediante el código 7008.
+
+Las reglas para determinar la cantidad de mercancía importada que corresponde al producto transformado están establecidas en el artículo 72 del RDCAU.
+
+El tipo de los derechos arancelarios, así como del IVA, se realizará a fecha del despacho a libre práctica. Sin embargo, podrá acogerse al beneficio del destino final si hubiera estado previsto para la mercancía en la fecha de vinculación al régimen y cumple las condiciones previstas en el artículo 73 del RDCAU, solicitándolo con el código 507 en la casilla 37.2.
+
+C) Retorno de productos transformados de RPA.
+
+El retorno de productos transformados está contemplado en el artículo 205 del CAU.
+
+C.1) Modalidad IM/EX:
+
+Deberá solicitarse el retorno con alguno de los códigos de régimen siguientes:
+
+| 6131 F04 | Liquidación por la materia prima incluida en el régimen de perfeccionamiento activo e incorporada al producto transformado a fecha del retorno (artículo 205.1). |
+|---|---|
+| 6131 F07 | Liquidación por la materia prima incluida en el régimen de perfeccionamiento activo e incorporada al producto transformado a fecha de la reexportación (artículo 205.2). |
+
+En los supuestos previstos en el artículo 76 del RDCAU será obligatorio la liquidación por el artículo 86.3.
+
+En la casilla 44 debe incluirse el DUA de reexportación (N830) de la mercancía que retorna y el DUA de vinculación al régimen de la materia prima (1201), la autorización de perfeccionamiento activo y el certificado de la Aduana de control justificando la situación.
+
+C.2) Modalidad EX/IM:
+
+En este caso pueden darse dos situaciones.
+
+a) Que se hayan realizado importaciones beneficiándose del RPA con cargo a la exportación del producto compensador del que se solicita el retorno.
+
+b) Que no se hayan realizado importaciones de materia prima con cargo a dicha exportación.
+
+Dichas situaciones deberán acreditarse mediante el certificado del estado de liquidación de la aduana de control (código de documento 1223).
+
+Deberán solicitarse con los códigos de régimen siguientes:
+
+a) Se han efectuado importaciones:
+
+De acuerdo al artículo 205.3 del CAU no podrá acogerse a la exención del retorno, por lo que deberá despacharse la mercancía que se importa con régimen 40.
+
+b) No se han efectuado importaciones:
+
+| 6111 F01 | Si no tiene derecho a exención de IVA. |
+|---|---|
+| 6111 F01 104 | Si tiene exención de IVA en aplicación del artículo 63 de la Ley 37/1992. |
+
+En la casilla 44 debe incluirse el DUA de exportación (N830) de la mercancía que retorna, la autorización de perfeccionamiento y el certificado de la Aduana de control justificando la situación.
+
+D) Declaración para el despacho a libre práctica de mercancías en depósito aduanero que hayan cambiado de posición arancelaria o/y incrementado el valor como consecuencia de manipulaciones usuales (art. 86.1 y 2 del CAU).
+
+De acuerdo con el apartado 1, del artículo 86 del CAU, los costes de almacenamiento y el incremento de valor que se hayan producido como consecuencia de operaciones de manipulaciones usuales realizadas en el TAU, no se tendrán en cuenta para el cálculo de los derechos de importación.
+
+Si estas manipulaciones han dado lugar a un cambio en la cantidad de producto y/o un cambio en el código de nomenclatura, deberá comunicarse mediante el mensaje de «reconversión de unidades» (RUN) a la Aduana de control del depósito.
+
+Pueden darse las siguientes situaciones:
+
+a) La manipulación usual ha dado lugar a cambio de cantidad
+
+– Los datos que deben incluirse en la casilla 31 (unidades de la contabilidad de existencias) y en la casilla 38 (masa neta) serán los que correspondan a la cantidad real de mercancía que se despacha.
+
+– El valor declarado en la casilla 42 (precio del artículo) deberá referirse a la mercancía no UE que se vinculó al régimen de depósito de acuerdo con el 86.1.
+
+– La cantidad de mercancía no UE que se vinculó al régimen de depósito deberá incluirse en la casilla 44 con el código 7011.
+
+b) La manipulación usual ha dado lugar a cambio de código NC. El apartado 2, del artículo 86 permite al operador solicitar calcular la deuda de acuerdo con la clasificación arancelaria de la mercancía no UE que se vinculó al régimen de depósito.
+
+– Podrá solicitar esta opción mediante el código F46 en la casilla 37.2 e incluir en la casilla 33 del código TARIC de la mercancía no UE que se vinculó.
+
+– En caso contrario, deberá declarar el código TARIC correspondiente a la mercancía que se está despachando a libre práctica.
+
+– Si la manipulación usual hubiera dado lugar a cambio de cantidad, este dato se declararía como se indica en el punto 1.º y 3.º de la letra a).
+
+> Se añade por el que figura como anexo 8º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.13. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+## ANEXO I — Relación de códigos aduaneros
+
+<table>
+<thead>
+<tr>
+<th>Provincia</th>
+<th>Código</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4">ALAVA.</td>
+<td>0100</td>
+<td>ALAVA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0101</td>
+<td>ALAVA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0141</td>
+<td>ALAVA CARRETERA.</td>
+</tr>
+<tr>
+<td>0150</td>
+<td>ALAVA DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="2">ALBACETE.</td>
+<td>0200</td>
+<td>ALBACETE, DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0241</td>
+<td>ALBACETE, DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="4">ALICANTE.</td>
+<td>0300</td>
+<td>ALICANTE DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0301</td>
+<td>ALICANTE AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0311</td>
+<td>ALICANTE MARITIMA.</td>
+</tr>
+<tr>
+<td>0321</td>
+<td>TORREVEJA MARITIMA.</td>
+</tr>
+<tr>
+<td rowspan="5">ALMERIA.</td>
+<td>0400</td>
+<td>ALMERIA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0401</td>
+<td>ALMERIA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0411</td>
+<td>ALMERIA MARITIMA.</td>
+</tr>
+<tr>
+<td>0415</td>
+<td>ALMERIA MARITIMA CARBONERAS.</td>
+</tr>
+<tr>
+<td>0441</td>
+<td>ALMERIA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="3">BADAJOZ.</td>
+<td>0600</td>
+<td>BADAJOZ DEP.PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0641</td>
+<td>BADAJOZ CARRETERA.</td>
+</tr>
+<tr>
+<td>0671</td>
+<td>BADAJOZ FERROCARRIL.</td>
+</tr>
+<tr>
+<td rowspan="9">BALEARES.</td>
+<td>0700</td>
+<td>P DE MALLORCA DEP. PROV. ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0701</td>
+<td>P DE MALLORCA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0707</td>
+<td>IBIZA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0708</td>
+<td>MAHON AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0711</td>
+<td>PALMA MALLORCA MARITIMA PALMA DE.</td>
+</tr>
+<tr>
+<td>0717</td>
+<td>ALCUDIA MARITIMA.</td>
+</tr>
+<tr>
+<td>0721</td>
+<td>IBIZA MARITIMA.</td>
+</tr>
+<tr>
+<td>0725</td>
+<td>IBIZA MARÍTIMA PUERTO LA SAVINA.</td>
+</tr>
+<tr>
+<td>0731</td>
+<td>MAHON MARITIMA.</td>
+</tr>
+<tr>
+<td rowspan="10">BARCELONA.</td>
+<td>0800</td>
+<td>BARCELONA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0801</td>
+<td>BARCELONA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>0811</td>
+<td>BARCELONA MARITIMA IMP.</td>
+</tr>
+<tr>
+<td>0812</td>
+<td>BARCELONA MARITIMA EXP.</td>
+</tr>
+<tr>
+<td>0821</td>
+<td>BARCELONA ZONA FRANCA.</td>
+</tr>
+<tr>
+<td>0841</td>
+<td>BARCELONA CARRETERA.</td>
+</tr>
+<tr>
+<td>0851</td>
+<td>BARCELONA FERIA DE MUESTRAS.</td>
+</tr>
+<tr>
+<td>0855</td>
+<td>BARCELONA DESPACHO CENTRALIZADO.</td>
+</tr>
+<tr>
+<td>0860</td>
+<td>BARCELONA DOMICILIACION.</td>
+</tr>
+<tr>
+<td>0881</td>
+<td>BARCELONA FF.CC., MORROT.</td>
+</tr>
+<tr>
+<td rowspan="2">BURGOS.</td>
+<td>0900</td>
+<td>BURGOS DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>0941</td>
+<td>BURGOS AEROPUERTO.</td>
+</tr>
+<tr>
+<td rowspan="2">CACERES.</td>
+<td>1000</td>
+<td>CACERES DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1041</td>
+<td>CACERES CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="13">CADIZ.</td>
+<td>1100</td>
+<td>CADIZ, DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1101</td>
+<td>JEREZ DE LA FRONTERA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>1111</td>
+<td>CADIZ MARITIMA.</td>
+</tr>
+<tr>
+<td>1115</td>
+<td>CADIZ ZONA FRANCA.</td>
+</tr>
+<tr>
+<td>1130</td>
+<td>ALGECIRAS DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td>1136</td>
+<td>ALGECIRAS HELIPUERTO.</td>
+</tr>
+<tr>
+<td>1131</td>
+<td>ALGECIRAS MARITIMA.</td>
+</tr>
+<tr>
+<td>1141</td>
+<td>CADIZ CARRETERA.</td>
+</tr>
+<tr>
+<td>1160</td>
+<td>LA LINEA ADM. ADUANAS IE.</td>
+</tr>
+<tr>
+<td>1161</td>
+<td>LA LÍNEA, MARITIMA.</td>
+</tr>
+<tr>
+<td>1165</td>
+<td>LA LÍNEA, DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td>1167</td>
+<td>LA LINEA, CARRETERA.</td>
+</tr>
+<tr>
+<td>1175</td>
+<td>ALGECIRAS DESPACHO CENTRALIZADO.</td>
+</tr>
+<tr>
+<td rowspan="3">CASTELLÓN DE LA PLANA.</td>
+<td>1200</td>
+<td>CASTELLON DEP.PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1211</td>
+<td>CASTELLÓN MARÍTIMA.</td>
+</tr>
+<tr>
+<td>1241</td>
+<td>CASTELLON CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="3">CIUDAD REAL.</td>
+<td>1300</td>
+<td>CIUDAD REAL DEP. PROV ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1301</td>
+<td>CIUDAD REAL AEROPUERTO.</td>
+</tr>
+<tr>
+<td>1341</td>
+<td>CIUDAD REAL.</td>
+</tr>
+<tr>
+<td rowspan="2">CORDOBA.</td>
+<td>1400</td>
+<td>CORDOBA DEP.PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1441</td>
+<td>CORDOBA.</td>
+</tr>
+<tr>
+<td rowspan="8">LA CORUÑA.</td>
+<td>1500</td>
+<td>LA CORUÑA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1501</td>
+<td>LA CORUÑA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>1507</td>
+<td>SANTIAGO AEROPUERTO.</td>
+</tr>
+<tr>
+<td>1511</td>
+<td>LA CORUÑA MARITIMA.</td>
+</tr>
+<tr>
+<td>1514</td>
+<td>LA CORUÑA POSTALES.</td>
+</tr>
+<tr>
+<td>1521</td>
+<td>EL FERROL MARITIMA.</td>
+</tr>
+<tr>
+<td>1541</td>
+<td>LA CORUÑA CARRETERA.</td>
+</tr>
+<tr>
+<td>1551</td>
+<td>EL FERROL CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="7">GIRONA.</td>
+<td>1700</td>
+<td>GERONA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1701</td>
+<td>GERONA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>1711</td>
+<td>PALAMOS MARITIMA.</td>
+</tr>
+<tr>
+<td>1741</td>
+<td>LA JUNQUERA.</td>
+</tr>
+<tr>
+<td>1755</td>
+<td>LA JUNQUERA DESPACHO CENTRALIZADO.</td>
+</tr>
+<tr>
+<td>1761</td>
+<td>VILAMALLA CARRETERA.</td>
+</tr>
+<tr>
+<td>1771</td>
+<td>PORT-BOU.</td>
+</tr>
+<tr>
+<td rowspan="3">GRANADA.</td>
+<td>1801</td>
+<td>GRANADA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1811</td>
+<td>MOTRIL MARITIMA.</td>
+</tr>
+<tr>
+<td>1841</td>
+<td>MOTRIL CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="3">GUADALAJARA.</td>
+<td>1900</td>
+<td>GUADALAJARA, DEP. PROV ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>1941</td>
+<td>GUADALAJARA CARRETERA.</td>
+</tr>
+<tr>
+<td>1950</td>
+<td>GUADALAJARA, DOMICILIACION.</td>
+</tr>
+<tr>
+<td rowspan="7">GUIPUZCOA.</td>
+<td>2000</td>
+<td>GUIPUZCOA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2001</td>
+<td>GUIPUZCOA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>PASAJES MARITIMA.</td>
+</tr>
+<tr>
+<td>2045</td>
+<td>IRUN ZAISA.</td>
+</tr>
+<tr>
+<td>2050</td>
+<td>IRUN, DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td>2051</td>
+<td>PASAJES CARRETERA.</td>
+</tr>
+<tr>
+<td>2071</td>
+<td>IRUN FF.CC.</td>
+</tr>
+<tr>
+<td rowspan="3">HUELVA.</td>
+<td>2100</td>
+<td>HUELVA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2111</td>
+<td>HUELVA MARÍTIMA.</td>
+</tr>
+<tr>
+<td>2141</td>
+<td>HUELVA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="2">JAEN.</td>
+<td>2300</td>
+<td>JAEN DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2341</td>
+<td>JAEN DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="2">LEON.</td>
+<td>2400</td>
+<td>LEON DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2441</td>
+<td>LEON DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="3">LLEIDA.</td>
+<td>2500</td>
+<td>LLEIDA DEP.PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2541</td>
+<td>LA FARGA DE MOLES CARRETERA.</td>
+</tr>
+<tr>
+<td>2561</td>
+<td>LLEIDA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="2">LA RIOJA.</td>
+<td>2600</td>
+<td>LOGROÑO DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2641</td>
+<td>LOGROÑO CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="2">LUGO.</td>
+<td>2700</td>
+<td>LUGO DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2711</td>
+<td>RIBADEO MARÍTIMA.</td>
+</tr>
+<tr>
+<td rowspan="6">MADRID.</td>
+<td>2800</td>
+<td>MADRID DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2801</td>
+<td>MADRID AEROPUERTO.</td>
+</tr>
+<tr>
+<td>2803</td>
+<td>BARAJAS POSTALES.</td>
+</tr>
+<tr>
+<td>2841</td>
+<td>MADRID CARRETERA.</td>
+</tr>
+<tr>
+<td>2861</td>
+<td>MADRID DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td>2871</td>
+<td>MADRID FF.CC.</td>
+</tr>
+<tr>
+<td rowspan="5">MALAGA.</td>
+<td>2900</td>
+<td>MALAGA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>2901</td>
+<td>MALAGA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>2911</td>
+<td>MALAGA MARITIMA.</td>
+</tr>
+<tr>
+<td>2915</td>
+<td>MALAGA DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td>2941</td>
+<td>MALAGA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="7">MURCIA.</td>
+<td>3000</td>
+<td>MURCIA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3001</td>
+<td>MURCIA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3010</td>
+<td>CARTAGENA DEP. ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3011</td>
+<td>CARTAGENA MARITIMA.</td>
+</tr>
+<tr>
+<td>3041</td>
+<td>CARTAGENA CARRETERA.</td>
+</tr>
+<tr>
+<td>3051</td>
+<td>MURCIA CARRETERA.</td>
+</tr>
+<tr>
+<td>3081</td>
+<td>MURCIA FERROCARRIL.</td>
+</tr>
+<tr>
+<td rowspan="3">NAVARRA.</td>
+<td>3100</td>
+<td>PAMPLONA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3161</td>
+<td>PAMPLONA INMAROAIN.</td>
+</tr>
+<tr>
+<td>3171</td>
+<td>PAMPLONA FF.CC.</td>
+</tr>
+<tr>
+<td rowspan="2">OURENSE.</td>
+<td>3200</td>
+<td>OURENSE ADM.PROV.ADUANAS E IE.</td>
+</tr>
+<tr>
+<td>3241</td>
+<td>OURENSE, CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="7">ASTURIAS.</td>
+<td>3300</td>
+<td>OVIEDO DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3301</td>
+<td>ASTURIAS AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3310</td>
+<td>GIJON DEP. ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3311</td>
+<td>GIJON MARITIMA.</td>
+</tr>
+<tr>
+<td>3331</td>
+<td>AVILES MARITIMA.</td>
+</tr>
+<tr>
+<td>3341</td>
+<td>GIJON CARRETERA.</td>
+</tr>
+<tr>
+<td>3351</td>
+<td>AVILES CARRETERA.</td>
+</tr>
+<tr>
+<td>PALENCIA.</td>
+<td>3441</td>
+<td>PALENCIA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="9">LAS PALMAS.</td>
+<td>3500</td>
+<td>LAS PALMAS G.C. DEP. PROV ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3521</td>
+<td>LAS PLAMAS C.C. ZONA FRANCA.</td>
+</tr>
+<tr>
+<td>3541</td>
+<td>FUERTEVENTURA MARITIMA.</td>
+</tr>
+<tr>
+<td>3551</td>
+<td>FUERTEVENTURA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3561</td>
+<td>LANZAROTE MARITIMA.</td>
+</tr>
+<tr>
+<td>3571</td>
+<td>LANZAROTE AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3581</td>
+<td>LAS PALMAS AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3591</td>
+<td>LAS PALMAS MARITIMA.</td>
+</tr>
+<tr>
+<td>3593</td>
+<td>LAS PALMAS POSTAL.</td>
+</tr>
+<tr>
+<td rowspan="10">PONTEVEDRA.</td>
+<td>3600</td>
+<td>PONTEVEDRA DEP. PROV ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3601</td>
+<td>VIGO AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3610</td>
+<td>VIGO DEP. ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3611</td>
+<td>VIGO MARITIMA.</td>
+</tr>
+<tr>
+<td>3621</td>
+<td>MARIN MARITIMA.</td>
+</tr>
+<tr>
+<td>3631</td>
+<td>VILLAGARCIA MARITIMA.</td>
+</tr>
+<tr>
+<td>3641</td>
+<td>VIGO CARRETERA.</td>
+</tr>
+<tr>
+<td>3651</td>
+<td>VILLAGARCIA CARRETERA.</td>
+</tr>
+<tr>
+<td>3681</td>
+<td>VIGO ZONA FRANCA.</td>
+</tr>
+<tr>
+<td>3691</td>
+<td>VIGO DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="2">SALAMANCA.</td>
+<td>3700</td>
+<td>SALAMANCA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3741</td>
+<td>SALAMANCA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="9">SANTA CRUZ DE TENERIFE.</td>
+<td>3800</td>
+<td>S. CRUZ TENERIFE DEP. PROV. ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3841</td>
+<td>EL HIERRO.</td>
+</tr>
+<tr>
+<td>3842</td>
+<td>LA GOMERA.</td>
+</tr>
+<tr>
+<td>3861</td>
+<td>LA PALMA MARITIMA.</td>
+</tr>
+<tr>
+<td>3871</td>
+<td>LA PALMA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3881</td>
+<td>SANTA CRUZ DE T. AEROPUERTO SUR.</td>
+</tr>
+<tr>
+<td>3883</td>
+<td>SANTA CRUZ DE T. AEROPUERTO NORTE.</td>
+</tr>
+<tr>
+<td>3891</td>
+<td>SANTA CRUZ DE TENERIFE MARITIMA.</td>
+</tr>
+<tr>
+<td>3893</td>
+<td>SANTA CRUZ DE TENERIFE POSTALES.</td>
+</tr>
+<tr>
+<td rowspan="6">CANTABRIA.</td>
+<td>3900</td>
+<td>SANTANDER DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>3901</td>
+<td>SANTANDER AEROPUERTO.</td>
+</tr>
+<tr>
+<td>3911</td>
+<td>SANTANDER MARÍTIMA.</td>
+</tr>
+<tr>
+<td>3921</td>
+<td>SANTANDER ZONA FRANCA.</td>
+</tr>
+<tr>
+<td>3941</td>
+<td>SANTANDER CARRETERA.</td>
+</tr>
+<tr>
+<td>3955</td>
+<td>SANTANDER DESPACHO CENTRALIZADO.</td>
+</tr>
+<tr>
+<td rowspan="6">SEVILLA.</td>
+<td>4101</td>
+<td>SEVILLA DEP.PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>4101</td>
+<td>SEVILLA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>4111</td>
+<td>SEVILLA MARÍTIMA.</td>
+</tr>
+<tr>
+<td>4115</td>
+<td>SEVILLA ZONA FRANCA.</td>
+</tr>
+<tr>
+<td>4141</td>
+<td>SEVILLA CARRETERA.</td>
+</tr>
+<tr>
+<td>4171</td>
+<td>SEVILLA FF.CC.</td>
+</tr>
+<tr>
+<td rowspan="2">SORIA.</td>
+<td>4200</td>
+<td>SORIA.</td>
+</tr>
+<tr>
+<td>4241</td>
+<td>SORIA.</td>
+</tr>
+<tr>
+<td rowspan="7">TARRAGONA.</td>
+<td>4300</td>
+<td>TARRAGONA DEP.PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>4301</td>
+<td>TARAGONA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>4311</td>
+<td>TARRAGONA MARITIMA.</td>
+</tr>
+<tr>
+<td>4321</td>
+<td>S. CARLOS DE LA RAPITA MAR.</td>
+</tr>
+<tr>
+<td>4341</td>
+<td>TARRAGONA CARRETERA.</td>
+</tr>
+<tr>
+<td>4350</td>
+<td>TARRAGONA, DOMICILIACIÓN Y DEPÓSITOS.</td>
+</tr>
+<tr>
+<td>4371</td>
+<td>TARRAGONA FF.CC.</td>
+</tr>
+<tr>
+<td>TERUEL.</td>
+<td>4400</td>
+<td>TERUEL ADM. ADUANAS E IE.</td>
+</tr>
+<tr>
+<td rowspan="2">TOLEDO.</td>
+<td>4500</td>
+<td>TOLEDO DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>4541</td>
+<td>TOLEDO, DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="10">VALENCIA.</td>
+<td>4600</td>
+<td>VALENCIA ADM. PROV. ADUA. E IE.</td>
+</tr>
+<tr>
+<td>4601</td>
+<td>VALENCIA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>4611</td>
+<td>VALENCIA MARITIMA.</td>
+</tr>
+<tr>
+<td>4621</td>
+<td>SAGUNTO MARITIMA.</td>
+</tr>
+<tr>
+<td>4631</td>
+<td>GANDIA MARITIMA.</td>
+</tr>
+<tr>
+<td>4641</td>
+<td>VALENCIA CARRETERA.</td>
+</tr>
+<tr>
+<td>4647</td>
+<td>SILLA CARRETERA.</td>
+</tr>
+<tr>
+<td>4650</td>
+<td>VALENCIA DOMICILIACILIÓN.</td>
+</tr>
+<tr>
+<td>4651</td>
+<td>SAGUNTO CARRETERA.</td>
+</tr>
+<tr>
+<td>4661</td>
+<td>GANDIA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="2">VALLADOLID.</td>
+<td>4700</td>
+<td>VALLADOLID DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>4741</td>
+<td>VALLADOLID CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="6">VIZCAYA.</td>
+<td>4800</td>
+<td>BILBAO DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>4801</td>
+<td>BILBAO AEROPUERTO.</td>
+</tr>
+<tr>
+<td>4811</td>
+<td>BILBAO MARITIMA.</td>
+</tr>
+<tr>
+<td>4825</td>
+<td>BILBAO ZAL.</td>
+</tr>
+<tr>
+<td>4842</td>
+<td>APARCAVISA.</td>
+</tr>
+<tr>
+<td>4850</td>
+<td>BILBAO DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="5">ZARAGOZA.</td>
+<td>5001</td>
+<td>ZARAGOZA DEP. PROVINCIAL ADUANAS E IMPUESTOS ESPECIALES.</td>
+</tr>
+<tr>
+<td>5001</td>
+<td>ZARAGOZA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>5005</td>
+<td>ZARAGOZA. DESPACHO CENTRALIZADO.</td>
+</tr>
+<tr>
+<td> </td>
+<td>ZARAGOZA TIR.</td>
+</tr>
+<tr>
+<td> </td>
+<td>ZARAGOZA DOMICILIACIÓN.</td>
+</tr>
+<tr>
+<td rowspan="5">CEUTA.</td>
+<td>5503</td>
+<td>CEUTA HELIPUERTO.</td>
+</tr>
+<tr>
+<td>5511</td>
+<td>CEUTA MARITIMA.</td>
+</tr>
+<tr>
+<td>5512</td>
+<td>CEUTA ENVÍOS NACIONALES.</td>
+</tr>
+<tr>
+<td>5513</td>
+<td>CEUTA POSTALES.</td>
+</tr>
+<tr>
+<td>5541</td>
+<td>CEUTA CARRETERA.</td>
+</tr>
+<tr>
+<td rowspan="5">MELILLA.</td>
+<td>5601</td>
+<td>MELILLA AEROPUERTO.</td>
+</tr>
+<tr>
+<td>5611</td>
+<td>MELILLA MARITIMA.</td>
+</tr>
+<tr>
+<td>5612</td>
+<td>MELILLA ENVÍOS NACIONALESI.</td>
+</tr>
+<tr>
+<td>5613</td>
+<td>MELILLA POSTALES.</td>
+</tr>
+<tr>
+<td>5641</td>
+<td>MELILLA CARRETERA.</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprime el código 2855 y la descripción por el apartado primero.16 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifica por el apartado primero.17 de la Resolución de 25 de agosto de 2017. Ref. BOE-A-2017-10089
+
+## ANEXO II-A — Relación de países por orden alfabético<sup>2</sup>
+
+<table>
+<thead>
+<tr>
+<th>Países</th>
+<th>Códigos vigentes (ISO 3166)</th>
+<th>Cód. Núm. (No vigente)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Afganistán.</td>
+<td>AF</td>
+<td>660</td>
+</tr>
+<tr>
+<td>Albania.</td>
+<td>AL</td>
+<td>070</td>
+</tr>
+<tr>
+<td>Alemania (Incluida la isla de Hel oland; excluido el territorio de Búsingen).</td>
+<td>DE</td>
+<td>004</td>
+</tr>
+<tr>
+<td>Andorra.</td>
+<td>AD</td>
+<td>043</td>
+</tr>
+<tr>
+<td>Angola (Incluida Cabinda).</td>
+<td>AO</td>
+<td>330</td>
+</tr>
+<tr>
+<td>Antártida [Territorios situados al sur de 60 grados latitud sur; excluidas las Tierras Australes Francesas (TF), la Isla Bouvet (BV), Georgia del Sur las islas Sándwich del Sur (GS)].</td>
+<td>AQ</td>
+<td>891</td>
+</tr>
+<tr>
+<td>Anguila.</td>
+<td>AI</td>
+<td>446</td>
+</tr>
+<tr>
+<td>Antigua Barbuda.</td>
+<td>AG</td>
+<td>459</td>
+</tr>
+<tr>
+<td>Arabia Saudí.</td>
+<td>SA</td>
+<td>632</td>
+</tr>
+<tr>
+<td>Argelia.</td>
+<td>DZ</td>
+<td>208</td>
+</tr>
+<tr>
+<td>Argentina.</td>
+<td>AR</td>
+<td>528</td>
+</tr>
+<tr>
+<td>Armenia.</td>
+<td>AM</td>
+<td>077</td>
+</tr>
+<tr>
+<td>Aruba.</td>
+<td>AW</td>
+<td>474</td>
+</tr>
+<tr>
+<td>Australia.</td>
+<td>AU</td>
+<td>800</td>
+</tr>
+<tr>
+<td>Austria.</td>
+<td>AT</td>
+<td>038</td>
+</tr>
+<tr>
+<td>Azerbaiyán.</td>
+<td>AZ</td>
+<td>078</td>
+</tr>
+<tr>
+<td>Bahamas.</td>
+<td>BS</td>
+<td>453</td>
+</tr>
+<tr>
+<td>Bahráin.</td>
+<td>BH</td>
+<td>640</td>
+</tr>
+<tr>
+<td>Bangladesh.</td>
+<td>BD</td>
+<td>666</td>
+</tr>
+<tr>
+<td>Barbados.</td>
+<td>BB</td>
+<td>469</td>
+</tr>
+<tr>
+<td>Belarús (Forma usual: Bielorrusia).</td>
+<td>BY</td>
+<td>073</td>
+</tr>
+<tr>
+<td>Bélgica.</td>
+<td>BE</td>
+<td>017</td>
+</tr>
+<tr>
+<td>Belice.</td>
+<td>BZ</td>
+<td>421</td>
+</tr>
+<tr>
+<td>Benin.</td>
+<td>BJ</td>
+<td>284</td>
+</tr>
+<tr>
+<td>Bermudas.</td>
+<td>BM</td>
+<td>413</td>
+</tr>
+<tr>
+<td>Bolivia.</td>
+<td>BO</td>
+<td>516</td>
+</tr>
+<tr>
+<td>Bonaire.</td>
+<td>BQ</td>
+<td> </td>
+</tr>
+<tr>
+<td>Bosnia y Hercegovina.</td>
+<td>BA</td>
+<td>093</td>
+</tr>
+<tr>
+<td>Botsuana.</td>
+<td>BW</td>
+<td>391</td>
+</tr>
+<tr>
+<td>Brasil.</td>
+<td>BR</td>
+<td>508</td>
+</tr>
+<tr>
+<td>Brunéi Darussalam (forma usual: Brunei).</td>
+<td>BN</td>
+<td>703</td>
+</tr>
+<tr>
+<td>Bulgaria.</td>
+<td>BG</td>
+<td>068</td>
+</tr>
+<tr>
+<td>Burkina Faso.</td>
+<td>BF</td>
+<td>236</td>
+</tr>
+<tr>
+<td>Burundi.</td>
+<td>BI</td>
+<td>328</td>
+</tr>
+<tr>
+<td>Bután.</td>
+<td>BT</td>
+<td>675</td>
+</tr>
+<tr>
+<td>Bouvet (Isla).</td>
+<td>BV</td>
+<td>892</td>
+</tr>
+<tr>
+<td>Cabo Verde.</td>
+<td>CV</td>
+<td>247</td>
+</tr>
+<tr>
+<td>Camboya (Kampuchea).</td>
+<td>KH</td>
+<td>696</td>
+</tr>
+<tr>
+<td>Camerún.</td>
+<td>CM</td>
+<td>302</td>
+</tr>
+<tr>
+<td>Canadá.</td>
+<td>CA</td>
+<td>404</td>
+</tr>
+<tr>
+<td>Centroafricana (República).</td>
+<td>CF</td>
+<td>306</td>
+</tr>
+<tr>
+<td>Ceuta.</td>
+<td>XC</td>
+<td>021</td>
+</tr>
+<tr>
+<td>Cocos (Isla) (o Islas Keeling).</td>
+<td>CC</td>
+<td>833</td>
+</tr>
+<tr>
+<td>Colombia.</td>
+<td>CO</td>
+<td>480</td>
+</tr>
+<tr>
+<td>Comoras (Grand Comoras, Anjouan y Mohéli).</td>
+<td>KM</td>
+<td>375</td>
+</tr>
+<tr>
+<td>Congo.</td>
+<td>CG</td>
+<td>318</td>
+</tr>
+<tr>
+<td>Congo, República democrática del (antiguamente Zaire).</td>
+<td>CD</td>
+<td>322</td>
+</tr>
+<tr>
+<td>Cook (Islas).</td>
+<td>CK</td>
+<td>837</td>
+</tr>
+<tr>
+<td>Corea (República de) (Forma usual: Corea del Sur).</td>
+<td>KR</td>
+<td>728</td>
+</tr>
+<tr>
+<td>Corea (República Popular Democrática). (Forma usual: Corea del Norte).</td>
+<td>KP</td>
+<td>724</td>
+</tr>
+<tr>
+<td>Costa de Marfil.</td>
+<td>CI</td>
+<td>272</td>
+</tr>
+<tr>
+<td>Costa Rica.</td>
+<td>CR</td>
+<td>436</td>
+</tr>
+<tr>
+<td>Croacia.</td>
+<td>HR</td>
+<td>092</td>
+</tr>
+<tr>
+<td>Cuba.</td>
+<td>CU</td>
+<td>448</td>
+</tr>
+<tr>
+<td>Chad.</td>
+<td>TD</td>
+<td>244</td>
+</tr>
+<tr>
+<td>Chile.</td>
+<td>CL</td>
+<td>512</td>
+</tr>
+<tr>
+<td>China (República Popular de).</td>
+<td>CN</td>
+<td>720</td>
+</tr>
+<tr>
+<td>Chipre.</td>
+<td>CY</td>
+<td>600</td>
+</tr>
+<tr>
+<td>Curaçao.</td>
+<td>CW</td>
+<td> </td>
+</tr>
+<tr>
+<td>Dinamarca.</td>
+<td>DK</td>
+<td>008</td>
+</tr>
+<tr>
+<td>Djibuti.</td>
+<td>DJ</td>
+<td>338</td>
+</tr>
+<tr>
+<td>Dominica.</td>
+<td>DM</td>
+<td>460</td>
+</tr>
+<tr>
+<td>Ecuador (Incluidas las Islas Galápagos).</td>
+<td>EC</td>
+<td>500</td>
+</tr>
+<tr>
+<td>Egipto.</td>
+<td>EG</td>
+<td>220</td>
+</tr>
+<tr>
+<td>El Salvador.</td>
+<td>SV</td>
+<td>428</td>
+</tr>
+<tr>
+<td>Emiratos Árabes Unidos (Abu Dabi, Dubai, Sharya, Ayman, Umm al-Qaiwain, Ras al-Jaima y Fuyaira).</td>
+<td>AE</td>
+<td>647</td>
+</tr>
+<tr>
+<td>Eritrea.</td>
+<td>ER</td>
+<td>336</td>
+</tr>
+<tr>
+<td>Eslovaquia.</td>
+<td>SK</td>
+<td>063</td>
+</tr>
+<tr>
+<td>Eslovenia.</td>
+<td>SI</td>
+<td>091</td>
+</tr>
+<tr>
+<td>España (comprende: Península, Islas Baleares e Islas Canarias, excluidas Ceuta y Melilla.</td>
+<td>ES</td>
+<td>011</td>
+</tr>
+<tr>
+<td>Estados Unidos de América (incluido Puerto Rico).</td>
+<td>US</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Estonia.</td>
+<td>EE</td>
+<td>053</td>
+</tr>
+<tr>
+<td>Etiopía.</td>
+<td>ET</td>
+<td>334</td>
+</tr>
+<tr>
+<td>Feroe (Islas).</td>
+<td>FO</td>
+<td>041</td>
+</tr>
+<tr>
+<td>Filipinas.</td>
+<td>FH</td>
+<td>708</td>
+</tr>
+<tr>
+<td>Finlandia (incluidas las Islas Aland).</td>
+<td>FI</td>
+<td>032</td>
+</tr>
+<tr>
+<td>Fiyi (Islas).</td>
+<td>FJ</td>
+<td>815</td>
+</tr>
+<tr>
+<td>Francia (incluido Mónaco y los departamentos de ultramar: Reunión, Guadalupe, Martinica y Guyana Francesa).</td>
+<td>FR</td>
+<td>001</td>
+</tr>
+<tr>
+<td>Gabón.</td>
+<td>GA</td>
+<td>314</td>
+</tr>
+<tr>
+<td>Gambia.</td>
+<td>GM</td>
+<td>252</td>
+</tr>
+<tr>
+<td>Gerogia.</td>
+<td>GE</td>
+<td>076</td>
+</tr>
+<tr>
+<td>Georgia del Sur y las Islas Sandwich del Sur.</td>
+<td>GS</td>
+<td>893</td>
+</tr>
+<tr>
+<td>Ghana.</td>
+<td>GH</td>
+<td>276</td>
+</tr>
+<tr>
+<td>Gibraltar.</td>
+<td>GI</td>
+<td>044</td>
+</tr>
+<tr>
+<td>Granada (incluidas las islas Granadinas del Sur).</td>
+<td>GD</td>
+<td>473</td>
+</tr>
+<tr>
+<td>Grecia.</td>
+<td>GR</td>
+<td>009</td>
+</tr>
+<tr>
+<td>Groenlandia.</td>
+<td>GL</td>
+<td>406</td>
+</tr>
+<tr>
+<td>Guam.</td>
+<td>GU</td>
+<td>831</td>
+</tr>
+<tr>
+<td>Guatemala.</td>
+<td>GT</td>
+<td>416</td>
+</tr>
+<tr>
+<td>Guinea.</td>
+<td>GN</td>
+<td>260</td>
+</tr>
+<tr>
+<td>Guinea Bissau.</td>
+<td>GW</td>
+<td>257</td>
+</tr>
+<tr>
+<td>Guinea Ecuatorial.</td>
+<td>GQ</td>
+<td>310</td>
+</tr>
+<tr>
+<td>Guyana.</td>
+<td>GY</td>
+<td>488</td>
+</tr>
+<tr>
+<td>Haití.</td>
+<td>HT</td>
+<td>452</td>
+</tr>
+<tr>
+<td>Honduras (incluidas las Islas del Cisne).</td>
+<td>HN</td>
+<td>424</td>
+</tr>
+<tr>
+<td>Hong Kong (Región administrativa especial de Hong Kong de la República Popular de China).</td>
+<td>HK</td>
+<td>740</td>
+</tr>
+<tr>
+<td>Hungría.</td>
+<td>HU</td>
+<td>064</td>
+</tr>
+<tr>
+<td>India.</td>
+<td>IN</td>
+<td>664</td>
+</tr>
+<tr>
+<td>Indonesia.</td>
+<td>ID</td>
+<td>700</td>
+</tr>
+<tr>
+<td>Irán, República islámica del.</td>
+<td>IR</td>
+<td>616</td>
+</tr>
+<tr>
+<td>Iraq.</td>
+<td>IQ</td>
+<td>612</td>
+</tr>
+<tr>
+<td>Irlanda.</td>
+<td>IE</td>
+<td>007</td>
+</tr>
+<tr>
+<td>Islas Heard e Islas McDonald.</td>
+<td>HM</td>
+<td>835</td>
+</tr>
+<tr>
+<td>Islandia.</td>
+<td>IS</td>
+<td>024</td>
+</tr>
+<tr>
+<td>Islas Caimán.</td>
+<td>KY</td>
+<td>463</td>
+</tr>
+<tr>
+<td>Islas Malvinas (Falkland).</td>
+<td>FK</td>
+<td>529</td>
+</tr>
+<tr>
+<td>Islas Menores alejadas de los Estados Unidos.</td>
+<td>UM</td>
+<td>832</td>
+</tr>
+<tr>
+<td>Islas Salomón.</td>
+<td>SB</td>
+<td>806</td>
+</tr>
+<tr>
+<td>Israel.</td>
+<td>IL</td>
+<td>624</td>
+</tr>
+<tr>
+<td>Italia (incluido Livigno; excluido el municipio de Campione d'ltalia).</td>
+<td>IT</td>
+<td>005</td>
+</tr>
+<tr>
+<td>Jamaica.</td>
+<td>JM</td>
+<td>464</td>
+</tr>
+<tr>
+<td>Japón.</td>
+<td>JP</td>
+<td>732</td>
+</tr>
+<tr>
+<td>Jordania.</td>
+<td>JO</td>
+<td>628</td>
+</tr>
+<tr>
+<td>Kazajistan.</td>
+<td>KZ</td>
+<td>079</td>
+</tr>
+<tr>
+<td>Kenia.</td>
+<td>KE</td>
+<td>346</td>
+</tr>
+<tr>
+<td>Kirguizistán.</td>
+<td>KG</td>
+<td>083</td>
+</tr>
+<tr>
+<td>Kiribati.</td>
+<td>KI</td>
+<td>812</td>
+</tr>
+<tr>
+<td>Kosovo.</td>
+<td>XK</td>
+<td>095</td>
+</tr>
+<tr>
+<td>Kuwait.</td>
+<td>KW</td>
+<td>636</td>
+</tr>
+<tr>
+<td>Lao, República democrática popular (forma usual: Laos).</td>
+<td>LA</td>
+<td>684</td>
+</tr>
+<tr>
+<td>Lesotho.</td>
+<td>LS</td>
+<td>395</td>
+</tr>
+<tr>
+<td>Letonia.</td>
+<td>LV</td>
+<td>054</td>
+</tr>
+<tr>
+<td>Líbano.</td>
+<td>LB</td>
+<td>604</td>
+</tr>
+<tr>
+<td>Liberia.</td>
+<td>LR</td>
+<td>268</td>
+</tr>
+<tr>
+<td>Libia (Jamahiriya Árabe).</td>
+<td>LY</td>
+<td>216</td>
+</tr>
+<tr>
+<td>Liechtenstein.</td>
+<td>LI</td>
+<td>037</td>
+</tr>
+<tr>
+<td>Lituania.</td>
+<td>LT</td>
+<td>055</td>
+</tr>
+<tr>
+<td>Luxemburgo.</td>
+<td>LU</td>
+<td>018</td>
+</tr>
+<tr>
+<td>Macao (Región administrativa especial de Macao de la R. Popular de China).</td>
+<td>MO</td>
+<td>743</td>
+</tr>
+<tr>
+<td>Macedonia (antigua República Yugoslava).</td>
+<td>MK</td>
+<td>096</td>
+</tr>
+<tr>
+<td>Madagascar.</td>
+<td>MG</td>
+<td>370</td>
+</tr>
+<tr>
+<td>Malasia (Malasia peninsular Malasia oriental: Sarawak, Sabak y Labuán).</td>
+<td>MY</td>
+<td>701</td>
+</tr>
+<tr>
+<td>Malaui.</td>
+<td>MW</td>
+<td>386</td>
+</tr>
+<tr>
+<td>Maldivas.</td>
+<td>MV</td>
+<td>667</td>
+</tr>
+<tr>
+<td>Mali.</td>
+<td>ML</td>
+<td>232</td>
+</tr>
+<tr>
+<td>Malta (incluidos Gozo y Comino).</td>
+<td>MT</td>
+<td>046</td>
+</tr>
+<tr>
+<td>Marianas del Norte (Islas).</td>
+<td>MP</td>
+<td>820</td>
+</tr>
+<tr>
+<td>Marruecos.</td>
+<td>MA</td>
+<td>204</td>
+</tr>
+<tr>
+<td>Marshall (Islas).</td>
+<td>MH</td>
+<td>824</td>
+</tr>
+<tr>
+<td>Mauricio [Isla Mauricio, Isla Rodrigues, Islas Agalega y Cargados Carajos Shoals (Islas San Brandón)].</td>
+<td>MU</td>
+<td>373</td>
+</tr>
+<tr>
+<td>Mauritania.</td>
+<td>MR</td>
+<td>228</td>
+</tr>
+<tr>
+<td>Mayotte (Grande-Terre y Pamandzi).</td>
+<td>YT</td>
+<td>377</td>
+</tr>
+<tr>
+<td>Melilla (incluidos el Peñón de Vélez de la Gomera, Peñón de Alhucemas y las Islas Chafarinas).</td>
+<td>XL</td>
+<td>023</td>
+</tr>
+<tr>
+<td>México.</td>
+<td>MX</td>
+<td>412</td>
+</tr>
+<tr>
+<td>Micronesia (Federación de Estados de (Ya, Kosrae, Chuuk, Pohnpei).</td>
+<td>FM</td>
+<td>823</td>
+</tr>
+<tr>
+<td>Moldavia, República de (forma usual: Moldavia).</td>
+<td>MD</td>
+<td>074</td>
+</tr>
+<tr>
+<td>Mongolia.</td>
+<td>MN</td>
+<td>716</td>
+</tr>
+<tr>
+<td>Montenegro.</td>
+<td>ME</td>
+<td>097</td>
+</tr>
+<tr>
+<td>Montserrat.</td>
+<td>MS</td>
+<td>470</td>
+</tr>
+<tr>
+<td>Mozambique.</td>
+<td>MZ</td>
+<td>366</td>
+</tr>
+<tr>
+<td>Myanmar (forma usual: Birmania).</td>
+<td>MM</td>
+<td>676</td>
+</tr>
+<tr>
+<td>Namibia.</td>
+<td>NA</td>
+<td>389</td>
+</tr>
+<tr>
+<td>Nauru.</td>
+<td>NR</td>
+<td>803</td>
+</tr>
+<tr>
+<td>Navidad (Isla).</td>
+<td>CX</td>
+<td>834</td>
+</tr>
+<tr>
+<td>Nepal.</td>
+<td>NP</td>
+<td>672</td>
+</tr>
+<tr>
+<td>Nicaragua (incluidas las Islas del Maíz).</td>
+<td>NI</td>
+<td>432</td>
+</tr>
+<tr>
+<td>Niger.</td>
+<td>NE</td>
+<td>240</td>
+</tr>
+<tr>
+<td>Nigeria.</td>
+<td>NG</td>
+<td>288</td>
+</tr>
+<tr>
+<td>Niue (Isla).</td>
+<td>NU</td>
+<td>838</td>
+</tr>
+<tr>
+<td>Norfolk (Isla).</td>
+<td>NF</td>
+<td>836</td>
+</tr>
+<tr>
+<td>Noruega (incluida la isla de Jan Mayen el archipiélago de Svalbard).</td>
+<td>NO</td>
+<td>028</td>
+</tr>
+<tr>
+<td>Nueva Caledonia [incluidas las Islas Lealtad (Maré, Lifou y Ouvéa)].</td>
+<td>NC</td>
+<td>809</td>
+</tr>
+<tr>
+<td>Nueva Zelanda [excluida la dependencia de Ross (Antártida)].</td>
+<td>NZ</td>
+<td>804</td>
+</tr>
+<tr>
+<td>Omán.</td>
+<td>OM</td>
+<td>649</td>
+</tr>
+<tr>
+<td>Países Bajos.</td>
+<td>NL</td>
+<td>003</td>
+</tr>
+<tr>
+<td>Pakistán.</td>
+<td>PK</td>
+<td>662</td>
+</tr>
+<tr>
+<td>Palaos (variante Belau).</td>
+<td>PW</td>
+<td>825</td>
+</tr>
+<tr>
+<td>Panamá (incluida la antigua zona del Canal).</td>
+<td>PA</td>
+<td>442</td>
+</tr>
+<tr>
+<td>Papúa Nueva Guinea [parte oriental de Nueva Guinea; Archipiélago Bismarck (incluidas: Nueva Bretaña, Nueva Irlanda, Lavongai y las Islas del Almirantazgo); Islas Salomón del Norte (Bougainville y Buka); las Islas Trobriand, Islas Woodlakr, Islas Entrecasteaus, y el Archipiélago de las Louisiade].</td>
+<td>PG</td>
+<td>801</td>
+</tr>
+<tr>
+<td>Paraguay.</td>
+<td>PY</td>
+<td>520</td>
+</tr>
+<tr>
+<td>Perú.</td>
+<td>PE</td>
+<td>504</td>
+</tr>
+<tr>
+<td>Pitcairn (incluidas las Islas Henderson, Ducie Oeno).</td>
+<td>PN</td>
+<td>813</td>
+</tr>
+<tr>
+<td>Polinesia Francesa [Islas Marquesas, Archipiélago de la Sociedad (incluida Tahiti), Islas Tuamotú, Islas Gambier e Islas Australes (incluida la Isla Clipperton)].</td>
+<td>PF</td>
+<td>822</td>
+</tr>
+<tr>
+<td>Polonia.</td>
+<td>PL</td>
+<td>060</td>
+</tr>
+<tr>
+<td>Portugal (incluido el Archipiélago de las Azores y el Archipiélago de Madeira).</td>
+<td>PT</td>
+<td>010</td>
+</tr>
+<tr>
+<td>Qatar.</td>
+<td>QA</td>
+<td>644</td>
+</tr>
+<tr>
+<td>Reino Unido (Gran Bretaña, Irlanda del Norte, Islas Anglonormandas e Islas de Man).</td>
+<td>GB</td>
+<td>006</td>
+</tr>
+<tr>
+<td>República Checa.</td>
+<td>CZ</td>
+<td>061</td>
+</tr>
+<tr>
+<td>República Dominicana.</td>
+<td>DO</td>
+<td>456</td>
+</tr>
+<tr>
+<td>Ruanda.</td>
+<td>RW</td>
+<td>324</td>
+</tr>
+<tr>
+<td>Rumanía.</td>
+<td>RO</td>
+<td>066</td>
+</tr>
+<tr>
+<td>Rusia (Federación de).</td>
+<td>RU</td>
+<td>075</td>
+</tr>
+<tr>
+<td>Sahara Occidental.</td>
+<td>EH</td>
+<td> </td>
+</tr>
+<tr>
+<td>Samoa (antiguamente Samoa Occidental).</td>
+<td>WS</td>
+<td>819</td>
+</tr>
+<tr>
+<td>Samoa Americana.</td>
+<td>AS</td>
+<td>830</td>
+</tr>
+<tr>
+<td>San Bartolomé.</td>
+<td>BL</td>
+<td> </td>
+</tr>
+<tr>
+<td>San Cristóbal y Nieves (Saint Kitts y Nevis).</td>
+<td>KN</td>
+<td>449</td>
+</tr>
+<tr>
+<td>San Marino.</td>
+<td>SM</td>
+<td>047</td>
+</tr>
+<tr>
+<td>San Martín.</td>
+<td>SX</td>
+<td> </td>
+</tr>
+<tr>
+<td>San Pedro y Miguelón.</td>
+<td>PM</td>
+<td>408</td>
+</tr>
+<tr>
+<td>San Vicente y las Granadinas.</td>
+<td>VC</td>
+<td>467</td>
+</tr>
+<tr>
+<td>Santa Elena (incluidas la Isla de la Ascensión y el Archipiélago Tristán da Cunha).</td>
+<td>SH</td>
+<td>329</td>
+</tr>
+<tr>
+<td>Santa Lucía.</td>
+<td>LC</td>
+<td>465</td>
+</tr>
+<tr>
+<td>Santa Sede (forma habitual: Estado de la Ciudad del Vaticano).</td>
+<td>VA</td>
+<td>045</td>
+</tr>
+<tr>
+<td>Santo Tomé y Príncipe.</td>
+<td>ST</td>
+<td>311</td>
+</tr>
+<tr>
+<td>Senegal.</td>
+<td>SN</td>
+<td>248</td>
+</tr>
+<tr>
+<td>Serbia.</td>
+<td>XS</td>
+<td>098</td>
+</tr>
+<tr>
+<td>Seychelles [Islas Mahé, Isla Praslin, La Digue, Frégate y Silhouette, Islas Amirantes (entre ellas Desroches, Alphonse, Plate y Coëtivy); Islas Farquhar (entre ellas Providencia); Islas Aldabra e Islas Cosmoledo].</td>
+<td>SC</td>
+<td>355</td>
+</tr>
+<tr>
+<td>Sierra Leona.</td>
+<td>SL</td>
+<td>264</td>
+</tr>
+<tr>
+<td>Singapur.</td>
+<td>SG</td>
+<td>706</td>
+</tr>
+<tr>
+<td>Siria, República Árabe.</td>
+<td>SY</td>
+<td>608</td>
+</tr>
+<tr>
+<td>Somalia.</td>
+<td>SO</td>
+<td>342</td>
+</tr>
+<tr>
+<td>Sri Lanka.</td>
+<td>LK</td>
+<td>669</td>
+</tr>
+<tr>
+<td>Suazilandia.</td>
+<td>SZ</td>
+<td>393</td>
+</tr>
+<tr>
+<td>Sudáfrica.</td>
+<td>ZA</td>
+<td>388</td>
+</tr>
+<tr>
+<td>Sudán.</td>
+<td>SD</td>
+<td>224</td>
+</tr>
+<tr>
+<td>Sudán del Sur.</td>
+<td>SS</td>
+<td> </td>
+</tr>
+<tr>
+<td>Suecia.</td>
+<td>SE</td>
+<td>030</td>
+</tr>
+<tr>
+<td>Suiza (incluidos el territorio alemán de Büsingen y el municipio italiano de Campione de Italia).</td>
+<td>CH</td>
+<td>039</td>
+</tr>
+<tr>
+<td>Surinan.</td>
+<td>SR</td>
+<td>492</td>
+</tr>
+<tr>
+<td>Tailandia.</td>
+<td>TH</td>
+<td>680</td>
+</tr>
+<tr>
+<td>Taiwán (territorio aduanero diferenciado de Kinmen, Matsu, Penghu y Taiwán).</td>
+<td>TW</td>
+<td>736</td>
+</tr>
+<tr>
+<td>Tanzania (República unida de) (Tanganika e islas de Zanzíbar y Pemba).</td>
+<td>TZ</td>
+<td>352</td>
+</tr>
+<tr>
+<td>Tayikistán.</td>
+<td>TJ</td>
+<td>082</td>
+</tr>
+<tr>
+<td>Territorio Británico del Océano Indico (Archipiélago de Chagos).</td>
+<td>IO</td>
+<td>357</td>
+</tr>
+<tr>
+<td>Autoridad Palestina de Cisjordania y Franja de Gaza [Cisjordania (incluido Jerusalén-Este) y Franja de Gaza].</td>
+<td>PS</td>
+<td>625</td>
+</tr>
+<tr>
+<td>Tierras Australes Francesas (incluido las islas Kerguelen, isla de Nueva Ámsterdam, isla de San-Pablo el archipiélago Crozet).</td>
+<td>TF</td>
+<td>894</td>
+</tr>
+<tr>
+<td>Timor Leste (territorio bajo administración transitoria de las Naciones Unidas).</td>
+<td>TL</td>
+<td>626</td>
+</tr>
+<tr>
+<td>Togo.</td>
+<td>TG</td>
+<td>280</td>
+</tr>
+<tr>
+<td>Tokelan (Islas).</td>
+<td>TK</td>
+<td>839</td>
+</tr>
+<tr>
+<td>Tonga.</td>
+<td>TO</td>
+<td>817</td>
+</tr>
+<tr>
+<td>Trinidad Tobago.</td>
+<td>TT</td>
+<td>472</td>
+</tr>
+<tr>
+<td>Túnez.</td>
+<td>TN</td>
+<td>212</td>
+</tr>
+<tr>
+<td>Turcas Caicos (Islas).</td>
+<td>TC</td>
+<td>454</td>
+</tr>
+<tr>
+<td>Turkmenistán.</td>
+<td>TM</td>
+<td>080</td>
+</tr>
+<tr>
+<td>Turquía.</td>
+<td>TR</td>
+<td>052</td>
+</tr>
+<tr>
+<td>Tuvalu.</td>
+<td>TV</td>
+<td>807</td>
+</tr>
+<tr>
+<td>Ucrania.</td>
+<td>UA</td>
+<td>072</td>
+</tr>
+<tr>
+<td>Uganda.</td>
+<td>UG</td>
+<td>350</td>
+</tr>
+<tr>
+<td>Uruguay.</td>
+<td>UY</td>
+<td>524</td>
+</tr>
+<tr>
+<td>Uzbekistán.</td>
+<td>UZ</td>
+<td>081</td>
+</tr>
+<tr>
+<td>Vanuatu.</td>
+<td>VU</td>
+<td>816</td>
+</tr>
+<tr>
+<td>Venezuela.</td>
+<td>VE</td>
+<td>484</td>
+</tr>
+<tr>
+<td>Vietnam.</td>
+<td>VN</td>
+<td>690</td>
+</tr>
+<tr>
+<td>Vírgenes Británicas (Islas).</td>
+<td>VG</td>
+<td>468</td>
+</tr>
+<tr>
+<td>Vírgenes de los EE.UU (Islas).</td>
+<td>VI</td>
+<td>457</td>
+</tr>
+<tr>
+<td>Wallis y Futuna (incluida la Isla Alofi).</td>
+<td>WF</td>
+<td>811</td>
+</tr>
+<tr>
+<td>Yemen (antiguamente Yemen del Norte y Yemen del Sur).</td>
+<td>YE</td>
+<td>653</td>
+</tr>
+<tr>
+<td>Zambia.</td>
+<td>ZM</td>
+<td>378</td>
+</tr>
+<tr>
+<td>Zimbabwe.</td>
+<td>ZW</td>
+<td>382</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3"><sup>2</sup> Reglamento (UE) n.<sup>o </sup>1106/2012 (L328).</td>
+</tr>
+</tfoot>
+</table>
+
+## ANEXO II-B — Panorama de los países de la Unión Europea
+
+En cuestiones aduaneras, fiscales y estadísticas, la Unión Europea (UE) distingue cuatro zonas:
+
+– una zona aduanera;
+
+– una zona de Impuestos Especiales;
+
+– una zona del IVA;
+
+– una zona estadística.
+
+Zonas excepcionales
+
+Algunas zonas forman parte del territorio geográfico de la UE, pero no pertenecen a la zona aduanera, la zona de Impuestos Especiales o la zona del IVA de la UE. Esas zonas se consideran excepcionales. Los países que no pertenecen a la UE también se conocen como «países terceros».
+
+Cuando se importan mercancías de una zona excepcional que no está en la zona aduanera de la UE, son de aplicación las mismas normas que cuando se importan mercancías de un país que no pertenece a la UE.
+
+Ejemplo:
+
+Las Islas Feroe, Groenlandia, Ceuta y Melilla forman parte de los territorios de los Estados miembros de la UE, pero no están en las zonas aduanera y fiscal de la UE. Por lo tanto, en relación con los derechos de importación, el IVA y los Impuestos Especiales, estas zonas se clasifican como países terceros.
+
+Los códigos de los países se publican periódicamente en el Diario Oficial de la Unión Europea sobre la base del artículo 5.2 del Reglamento (CE) n.º 471/2009 del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, sobre Estadísticas de la Comunidad que afectan a Comercio Exterior con países no miembros y que revoca el Reglamento (CE) n.º 1172/95 del Consejo de 22 de mayo de 1995. Lo último es el Reglamento de Ejecución (UE) n.º 2020/1470 de la Comisión, de 12 de octubre de 2020. La codificación de los países y territorios se basa en la norma ISO alfa-2 en vigor, en la medida en que es compatible con las exigencias de la legislación comunitaria. Se puede consultar la lista completa de los códigos de los países en la legislación actualizada periódicamente sobre la nomenclatura de los países y territorios para las estadísticas del comercio exterior de la Comunidad y del comercio entre sus Estados miembros, que se publica en el sitio de GEONOM en Internet.
+
+A continuación se presenta un panorama general de las zonas aduaneras y fiscales de la UE. El cuadro muestra si los diferentes países y zonas forman o no parte de la zona aduanera, la zona del IVA y la zona de Impuestos Especiales.
+
+| A<br>País/Territorio | B | Territorio UE (1) | Territorio Aduanero | Territorio IVA | Territorio Impuestos Especiales | Territorio Estadístico |
+|---|---|---|---|---|---|---|
+| Austria. | AT | Si | Si | Si | Si | Si |
+| Bélgica. | BE | Si | Si | Si | Si | Si |
+| Bulgaria. | BG | Si | Si | Si | Si | Si |
+| Chipre (2). | CY | Si | Si | Si | Si | Si |
+| República Checa. | CZ | Si | Si | Si | Si | Si |
+| Croacia. | HR | Si | Si | Si | Si | Si |
+| Dinamarca. | DK | Si | Si | Si | Si | Si |
+| Isla Feroe. | FO | No | No | No | No | No |
+| Groelandia. | GL | No | No | No | No | No |
+| Alemania. | DE | Si | Si | Si | Si | Si |
+| Busingen (3). | DE | Si | No | No | No | No |
+| Heligoland (4). | DE | Si | No | No | No | Si |
+| Jungholz and Mittelberg (Kleines Walsertal). | AT | Si | Si | Si | Si | Si |
+| Estonia. | EE | Si | Si | Si | Si | Si |
+| Filandia. | FI | Si | Si | Si | Si | Si |
+| Islas Åland (5). | FI | Si | Si | No | No | Si |
+| Francia. | FR | Si | Si | Si | Si | Si |
+| Guadalupe. | FR | Si | Si | No | No | Si |
+| Martinica. | FR | Si | Si | No | No | Si |
+| Guyana francesa. | FR | Si | Si | No | No | Si |
+| Reunión. | FR | Si | Si | No | No | Si |
+| Saint-Martin (parte francesa). | FR | Si | Si | No | No | Si |
+| Mayotte (6). | YT | Si | Si | No | No | Si |
+| Nueva Caledonia. | NC | No | No | No | No | No |
+| Wallis y Futuna. | WF | No | No | No | No | No |
+| Polinesia francesa. | PF | No | No | No | No | No |
+| San Bartolome. | BL | No | No | No | No | No |
+| San Pedro y Miquelón. | PM | No | No | No | No | No |
+| Territorios australes y antárticos franceses. | TF | No | No | No | No | No |
+| Monaco. | FR | No | Si | Si | Si | Si |
+| Grecia. | GR | Si | Si | Si | Si | Si |
+| Monte Athos. | GR | Si | Si | No | Si | Si |
+| Hungría. | HU | Si | Si | Si | Si | Si |
+| Irlanda. | IE | Si | Si | Si | Si | Si |
+| Italia. | IT | Si | Si | Si | Si | Si |
+| Campione d'Italia (7). | CH | Si | Si | No | Si | Si |
+| Livigno. | IT | Si | No | No | No | No |
+| Lago Lugano (8). | IT | Si | Si | No | Si | Si |
+| San Marino (9). | SM | No | No | No | Si/No (8) | No |
+| Letonia. | LV | Si | Si | Si | Si | Si |
+| Lituania. | LT | Si | Si | Si | Si | Si |
+| Luxemburgo. | LU | Si | Si | Si | Si | Si |
+| Malta. | MT | Si | Si | Si | Si | Si |
+| Holanda. | NL | Si | Si | Si | Si | Si |
+| Polonia. | PL | Si | Si | Si | Si | Si |
+| Portugal. | PT | Si | Si | Si | Si | Si |
+| Rumanía. | RO | Si | Si | Si | Si | Si |
+| Eslovenia. | SI | Si | Si | Si | Si | Si |
+| Eslovaquia. | SK | Si | Si | Si | Si | Si |
+| España. | ES | Si | Si | Si | Si | Si |
+| Islas Canarias (10). | ES | Si | Si | No | No (10) | Si |
+| Ceuta. | XC | Si | No | No | No | No |
+| Melilla. | XL | Si | No | No | No | No |
+| Andorra (11). | AD | No | No | No | No | No |
+| Suecia. | SE | Si | Si | Si | Si | Si |
+| Irlanda del Norte (12). | XI<br>GB | No | Si | Si | Si | Si |
+
+(1) Se refiere al territorio de la Unión Europea tal como se define en el artículo 52 del Tratado de la Unión Europea y del artículo 355 del Tratado sobre el Funcionamiento de la Unión Europea, que puede diferir del territorio político del Estado miembro de que se trate.
+
+(2) Incluida la base de las Fuerzas Armadas Británicas, cuando éstas puedan ser suministradas exentas de impuestos.
+
+El Reglamento (CE) n.º 866/2004 del Consejo, de 29 de abril de 2004, sobre un régimen conforme al artículo 2 del Protocolo n.º 10 del Acta de Adhesión, establece las condiciones en que las mercancías enteramente obtenidas en zonas ocupadas, o que hayan alcanzado su último, sustancial y económicamente justificado grado de elaboración en una empresa equipada a tal fin en las zonas que no están bajo control efectivo de la República de Chipre, podrán entrar en las áreas controladas por el Gobierno como mercancías comunitarias.
+
+Respecto a las mercancías que crucen la frontera en sentido contrario, es decir, desde las áreas controladas por el Gobierno hacia las áreas ocupadas, no precisarán formalidades de exportación y no serán susceptibles de recibir restituciones agrícolas, pues todo el territorio de la República de Chipre se adhirió a la Unión Europea en mayo de 2004.
+
+(3) Busingen se encuentra geográficamente en Suiza, pero es territorio alemán y en la práctica se considera parte de la zona aduanera suiza.
+
+(4) Heligoland no forma parte del territorio aduanero de la UE pero, amparado por el artículo 161(3) del CA, las mercancías despachadas hacía este territorio no se consideran exportaciones del territorio aduanero de la UE. Los productos agrícolas destinados a esta isla, deberán ser exportados a los efectos de las disposiciones sobre el pago de restituciones (artículo 43 del Reglamento No 612/2009 de la Comisión).
+
+(5) Las Islas Åland se adhirieron al territorio de la UE mediante una declaración adicional, pero solo con fines aduaneros. Por lo tanto, las Islas Åland no forman parte de las zonas del IVA y de los Impuestos Especiales de la UE.(
+
+6) El 1 de enero de 2014 la isla de Mayotte entra a formar parte del territorio de la Unión Europea, del territorio aduanero y del territorio estadístico.
+
+(7) Campione d’Italia geográficamente está en Suiza. Pasa a formar parte del TAU con Reglamento (UE) 2019/474 del Parlamento Europeo y del Consejo y del territorio armonizado de los IIEE con la Directiva (UE) 2019/475 del Consejo.
+
+(8) Esto es únicamente aplicable a las aguas italianas del Lake Lugano, desde la orilla de la frontera política de la zona entre Ponte Tresa y Porte Ceresio. El resto del área es territorio suizo. Pasan a formar parte del TAU con Reglamento (UE) 2019/474 del Parlamento Europeo y del Consejo y del territorio armonizado de los IIEE con la Directiva (UE) 2019/475 del Consejo.
+
+(9) San Marino tiene acuerdo de Unión Aduanera con la UE.
+
+De acuerdo con los acuerdos administrativos, las exportaciones de mercancías objeto de IIEE a San Marino deben ser amparadas por un Documento Administrativo de Acompañamiento (DAA).
+
+(10) Las Islas Canarias integradas por Lanzarote, Fuerteventura, Gran Canaria, Tenerife, La Gomera, El Hierro y La Palma.
+
+A efectos internos, rigen las mismas reglas que en la Península e Islas Baleares para la circulación de productos objeto del Impuesto sobre la Cerveza, del Impuesto sobre Productos Intermedios y del Impuesto sobre el alcohol y Bebidas Derivadas.
+
+(11) Andorra tiene acuerdo de Unión Aduanera con la UE. Los capítulos 1 a 24 deben ser amparados con un T-1 y el resto con T-2. Las mercancías acogidas a los beneficios de la restitución deberán siempre ir con un T-1, con la leyenda «recaudar únicamente los elementos agrícolas, Acuerdo EEC-Andorra».
+
+(12) Desde el 1 de febrero de 2020, el Reino Unido se ha retirado de la Unión Europea y ha pasado a ser «tercer país». El Acuerdo de Retirada establece un periodo de transición que ha finalizado el 31 de diciembre de 2020. A partir de esta fecha se aplica el Protocolo sobre Irlanda/Irlanda del Norte con un periodo inicial de aplicación de 4 años. De acuerdo a dicho Protocolo, Irlanda del Norte será tratada como si fuera un Estado miembro.
+
+El código XI se utilizará exclusivamente para la aplicación del Protocolo citado. En el resto de casos, se seguirá identificando a Irlanda del Norte como GB.
+
+> Se sustituye por el que figura como anexo 6º de la Resolución de 29 de marzo de 2022, según esablece su apartado primero.17. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+## ANEXO III — Relación de claves consideradas como países especiales
+
+| País | Cód. actual | Cód. anterior | Observaciones |
+|---|---|---|---|
+| Comunidad Europea. | EU |  | En importación sólo podrá ser declarado en la casilla 34a para mercancías procedentes de un 3 país. |
+| Pesca de altura origen nacional. | X1 | 921 | Se consignará únicamente en la casilla 34 a). |
+| Pesca de altura origen otro Estado Miembro. | X2 | 922 | Se consignará únicamente en la casilla 34 a). |
+| Suministro a buques y aeronaves a los que se refiere la normativa estadística de comercio intracomunitario. | QR | 951 | Se utilizará como país de destino (casilla 17 a) en importación (Apéndice IV) y en exportación. |
+| Suministro a buques y aeronaves a los que se refiere la normativa estadística de comercio exterior. | QS | 952 | Se utilizará como país de destino (casilla 17 a) en importación (Apéndice IV) y en exportación. |
+| Nacionalidad medio de transporte indeterminada. | QU |  | Podrá utilizarse en exportación, en la casilla 21.2. |
+| Mercancías con origen o destino indeterminado en el marco de intercambios intracomunitarios. | QV | 959 | Se podrá utilizar en las declaraciones recapitulativas. |
+| Mercancías con origen o destino indeterminado en el marco de intercambios con terceros países. | QW | 960 | Se podrá utilizar cuando se desconozca el origen o destino de la mercancía. |
+
+## ANEXO IV-A — Códigos de aduanas contables
+
+<table>
+<thead>
+<tr>
+<th>Aduana</th>
+<th>Aduana contable</th>
+<th>Provincia</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ÁLAVA.</td>
+<td>011</td>
+<td>01</td>
+</tr>
+<tr>
+<td>ALBACETE.</td>
+<td>021</td>
+<td>02</td>
+</tr>
+<tr>
+<td>ALICANTE.</td>
+<td>030</td>
+<td>03</td>
+</tr>
+<tr>
+<td>ALMERÍA.</td>
+<td>041</td>
+<td>04</td>
+</tr>
+<tr>
+<td>ÁVILA.</td>
+<td>051</td>
+<td>05</td>
+</tr>
+<tr>
+<td>BADAJOZ.</td>
+<td>061</td>
+<td>06</td>
+</tr>
+<tr>
+<td>P. MALLORCA.</td>
+<td>071</td>
+<td>07</td>
+</tr>
+<tr>
+<td>BARCELONA.</td>
+<td>080</td>
+<td>08</td>
+</tr>
+<tr>
+<td>BURGOS.</td>
+<td>091</td>
+<td>09</td>
+</tr>
+<tr>
+<td>CÁCERES.</td>
+<td>101</td>
+<td>10</td>
+</tr>
+<tr>
+<td>CÁDIZ.</td>
+<td>111</td>
+<td>11</td>
+</tr>
+<tr>
+<td>ALGECIRAS.</td>
+<td>112</td>
+<td>11</td>
+</tr>
+<tr>
+<td>LA LÍNEA.</td>
+<td>113</td>
+<td>11</td>
+</tr>
+<tr>
+<td>JEREZ.</td>
+<td>115</td>
+<td>11</td>
+</tr>
+<tr>
+<td>CASTELLÓN.</td>
+<td>121</td>
+<td>12</td>
+</tr>
+<tr>
+<td>CIUDAD REAL.</td>
+<td>131</td>
+<td>13</td>
+</tr>
+<tr>
+<td>CÓRDOBA.</td>
+<td>141</td>
+<td>14</td>
+</tr>
+<tr>
+<td>LA CORUÑA.</td>
+<td>151</td>
+<td>15</td>
+</tr>
+<tr>
+<td>SANTIAGO COMP.</td>
+<td>152</td>
+<td>15</td>
+</tr>
+<tr>
+<td>EL FERROL.</td>
+<td>153</td>
+<td>15</td>
+</tr>
+<tr>
+<td>CUENCA.</td>
+<td>161</td>
+<td>16</td>
+</tr>
+<tr>
+<td>LA JUNQUERA.</td>
+<td>170</td>
+<td>17</td>
+</tr>
+<tr>
+<td>MOTRIL.</td>
+<td>181</td>
+<td>18</td>
+</tr>
+<tr>
+<td>GUADALAJARA.</td>
+<td>191</td>
+<td>19</td>
+</tr>
+<tr>
+<td>IRUN.</td>
+<td>200</td>
+<td>20</td>
+</tr>
+<tr>
+<td>HUELVA.</td>
+<td>211</td>
+<td>21</td>
+</tr>
+<tr>
+<td>HUESCA.</td>
+<td>221</td>
+<td>22</td>
+</tr>
+<tr>
+<td>JAEN.</td>
+<td>231</td>
+<td>23</td>
+</tr>
+<tr>
+<td>LEÓN.</td>
+<td>241</td>
+<td>24</td>
+</tr>
+<tr>
+<td>LA FARGA DE MOL.</td>
+<td>252</td>
+<td>25</td>
+</tr>
+<tr>
+<td>LA RIOJA.</td>
+<td>261</td>
+<td>26</td>
+</tr>
+<tr>
+<td>RIBADEO.</td>
+<td>272</td>
+<td>27</td>
+</tr>
+<tr>
+<td>MADRID.</td>
+<td>280</td>
+<td>28</td>
+</tr>
+<tr>
+<td>MÁLAGA.</td>
+<td>291</td>
+<td>29</td>
+</tr>
+<tr>
+<td>CARTAGENA.</td>
+<td>301</td>
+<td>30</td>
+</tr>
+<tr>
+<td>MURCIA.</td>
+<td>302</td>
+<td>30</td>
+</tr>
+<tr>
+<td>NAVARRA.</td>
+<td>311</td>
+<td>31</td>
+</tr>
+<tr>
+<td>ORENSE.</td>
+<td>321</td>
+<td>32</td>
+</tr>
+<tr>
+<td>GIJÓN.</td>
+<td>331</td>
+<td>33</td>
+</tr>
+<tr>
+<td>AVILÉS.</td>
+<td>332</td>
+<td>33</td>
+</tr>
+<tr>
+<td>PALENCIA.</td>
+<td>341</td>
+<td>34</td>
+</tr>
+<tr>
+<td>LAS PALMAS.</td>
+<td>350</td>
+<td>35</td>
+</tr>
+<tr>
+<td>VIGO.</td>
+<td>362</td>
+<td>36</td>
+</tr>
+<tr>
+<td>PONTEVEDRA.</td>
+<td>363</td>
+<td>36</td>
+</tr>
+<tr>
+<td>VILLAGARCIA.</td>
+<td>364</td>
+<td>36</td>
+</tr>
+<tr>
+<td>MARIN.</td>
+<td>365</td>
+<td>36</td>
+</tr>
+<tr>
+<td>FUENTES OÑORO.</td>
+<td>372</td>
+<td>37</td>
+</tr>
+<tr>
+<td>SC. TENERIFE.</td>
+<td>380</td>
+<td>38</td>
+</tr>
+<tr>
+<td>SANTANDER.</td>
+<td>391</td>
+<td>39</td>
+</tr>
+<tr>
+<td>SEGOVIA.</td>
+<td>401</td>
+<td>40</td>
+</tr>
+<tr>
+<td>SEVILLA.</td>
+<td>411</td>
+<td>41</td>
+</tr>
+<tr>
+<td>SORIA.</td>
+<td>421</td>
+<td>42</td>
+</tr>
+<tr>
+<td>TARRAGONA.</td>
+<td>431</td>
+<td>43</td>
+</tr>
+<tr>
+<td>TERUEL.</td>
+<td>441</td>
+<td>44</td>
+</tr>
+<tr>
+<td>TOLEDO.</td>
+<td>451</td>
+<td>45</td>
+</tr>
+<tr>
+<td>VALENCIA.</td>
+<td>460</td>
+<td>46</td>
+</tr>
+<tr>
+<td>VALLADOLID.</td>
+<td>471</td>
+<td>47</td>
+</tr>
+<tr>
+<td>BILBAO.</td>
+<td>480</td>
+<td>48</td>
+</tr>
+<tr>
+<td>ZAMORA.</td>
+<td>491</td>
+<td>49</td>
+</tr>
+<tr>
+<td>ZARAGOZA.</td>
+<td>500</td>
+<td>50</td>
+</tr>
+<tr>
+<td>CEUTA.</td>
+<td>551</td>
+<td>55</td>
+</tr>
+<tr>
+<td>MELILLA.</td>
+<td>561</td>
+<td>56</td>
+</tr>
+<tr>
+<td>DEPARTAMENTO<sup>1.</sup></td>
+<td>ODA</td>
+<td> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p><sup>(1)</sup> Código a efectos de la grabación de las garantías presentadas en el Departamento de Aduanas.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+## ANEXO IV-B — Códigos de Islas Canarias (DUA VEXCAN)
+
+| Isla | Código | Provincia |
+|---|---|---|
+| FUERTEVENTURA. | 61 | 35 |
+| LANZAROTE. | 62 | 35 |
+| GRAN CANARIA. | 63 | 35 |
+| LA GOMERA. | 64 | 38 |
+| EL HIERRO. | 65 | 38 |
+| LA PALMA. | 66 | 38 |
+| TENERIFE. | 67 | 38 |
+
+## ANEXO V — Condiciones de entrega (códigos INCOTERMS)
+
+<table>
+<thead>
+<tr>
+<th>Código</th>
+<th>Significado</th>
+<th>Lugar que se debe precisar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">Códigos aplicables a todos los modos de transporte</td>
+</tr>
+<tr>
+<td>EXW</td>
+<td>EN FABRICA.</td>
+<td>Lugar de entrega convenido.</td>
+</tr>
+<tr>
+<td>FCA</td>
+<td>FRANCO TRANSPORTISTA.</td>
+<td>Lugar de entrega convenido.</td>
+</tr>
+<tr>
+<td>CPT</td>
+<td>FLETE PAGADO HASTA.</td>
+<td>Lugar de destino convenido</td>
+</tr>
+<tr>
+<td>CIP</td>
+<td>FLETE PAGADO, SEGURO INCLUIDOS HASTA.</td>
+<td>Lugar de destino convenido.</td>
+</tr>
+<tr>
+<td>DPU</td>
+<td>ENTREGA DESCARGADA EN UN PUNTO.</td>
+<td>Lugar de destino convenido.</td>
+</tr>
+<tr>
+<td>DAP</td>
+<td>ENTREGADO EN LUGAR CONVENIDO.</td>
+<td>Lugar de destino convenido.</td>
+</tr>
+<tr>
+<td>DDP</td>
+<td>ENTREGADO CON DERECHOS ABONADOS.</td>
+<td>Lugar de destino convenido.</td>
+</tr>
+<tr>
+<td>DAT</td>
+<td>ENTREGADO EN TERMINAL.</td>
+<td>Terminal portuaria o lugar de destino convenido.</td>
+</tr>
+<tr>
+<td colspan="3">Códigos aplicables al transporte marítimo y por vías navegables interiores</td>
+</tr>
+<tr>
+<td>FAS</td>
+<td>FRANCO AL COSTADO DEL BUQUE.</td>
+<td>Puerto de carga convenido.</td>
+</tr>
+<tr>
+<td>FOB</td>
+<td>FRANCO A BORDO.</td>
+<td>Puerto de carga convenido.</td>
+</tr>
+<tr>
+<td>CFR</td>
+<td>COSTE Y FLETE (C&amp;F).</td>
+<td>Puerto de destino convenido.</td>
+</tr>
+<tr>
+<td>CIF</td>
+<td>COSTE SEGURO Y FLETE (CIF).</td>
+<td>Puerto de destino convenido.</td>
+</tr>
+<tr>
+<td>XXX</td>
+<td>OTRAS CONDICIONES DE ENTREGA DISTINTAS DE LAS ANTERIORES.</td>
+<td>Indíquese claramente las condiciones que figuren en el contrato.</td>
+</tr>
+</tbody>
+</table>
+
+> Se sustituye por el que figura como anexo 7º de la Resolución de 29 de marzo de 2022, según esablece su apartado primero.18. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+## ANEXO VI — Relación de divisas
+
+<table>
+<thead>
+<tr>
+<th>Divisa</th>
+<th>
+<p>Códigos vigentes</p>
+<p>ISO 4217</p>
+</th>
+<th>
+<p>Código numérico</p>
+<p>(no vigente)</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Expediciones sin importe.</td>
+<td>000</td>
+<td>000</td>
+</tr>
+<tr>
+<td>Corona Checa.</td>
+<td>CZK</td>
+<td>061</td>
+</tr>
+<tr>
+<td>Corona Eslovaca.</td>
+<td>SKK</td>
+<td>063</td>
+</tr>
+<tr>
+<td>Corona Estona.</td>
+<td>EEK</td>
+<td>053</td>
+</tr>
+<tr>
+<td>Coronas Danesas.</td>
+<td>DKK</td>
+<td>008</td>
+</tr>
+<tr>
+<td>Corona islandesa.</td>
+<td>ISK</td>
+<td>024</td>
+</tr>
+<tr>
+<td>Coronas Noruegas.</td>
+<td>NOK</td>
+<td>028</td>
+</tr>
+<tr>
+<td>Coronas Suecas.</td>
+<td>SEK</td>
+<td>030</td>
+</tr>
+<tr>
+<td>Chelines Austríacos.</td>
+<td>ATS</td>
+<td>038</td>
+</tr>
+<tr>
+<td>Dólar Neocelandés.</td>
+<td>NZD</td>
+<td>804</td>
+</tr>
+<tr>
+<td>Dólares Australianos.</td>
+<td>AUD</td>
+<td>800</td>
+</tr>
+<tr>
+<td>Dólares Canadienses.</td>
+<td>CAD</td>
+<td>404</td>
+</tr>
+<tr>
+<td>Dólares de Hong Kong.</td>
+<td>HKD</td>
+<td>740</td>
+</tr>
+<tr>
+<td>Dólar de Singapur.</td>
+<td>SGD</td>
+<td>706</td>
+</tr>
+<tr>
+<td>Dólares USA.</td>
+<td>USD</td>
+<td>400</td>
+</tr>
+<tr>
+<td>Dracmas Griegos.</td>
+<td>GRD</td>
+<td>009</td>
+</tr>
+<tr>
+<td>Escudos Portugueses.</td>
+<td>PTE</td>
+<td>010</td>
+</tr>
+<tr>
+<td>EURO.</td>
+<td>EUR</td>
+<td>900</td>
+</tr>
+<tr>
+<td>Florines Holandeses.</td>
+<td>NLG</td>
+<td>003</td>
+</tr>
+<tr>
+<td>Forints Húngaro.</td>
+<td>HUF</td>
+<td>064</td>
+</tr>
+<tr>
+<td>Francos Belgas.</td>
+<td>BEF</td>
+<td>017</td>
+</tr>
+<tr>
+<td>Francos Franceses.</td>
+<td>FRF</td>
+<td>001</td>
+</tr>
+<tr>
+<td>Francos Suizos.</td>
+<td>CHF</td>
+<td>039</td>
+</tr>
+<tr>
+<td>Lats Letones.</td>
+<td>LVL</td>
+<td>054</td>
+</tr>
+<tr>
+<td>Leus rumanos.</td>
+<td>ROL</td>
+<td>066</td>
+</tr>
+<tr>
+<td>Levs búlgaros.</td>
+<td>BGL</td>
+<td>068</td>
+</tr>
+<tr>
+<td>Libra Chipriota.</td>
+<td>CYP</td>
+<td>600</td>
+</tr>
+<tr>
+<td>Libras Esterlinas.</td>
+<td>GBP</td>
+<td>006</td>
+</tr>
+<tr>
+<td>Libras Irlandesas.</td>
+<td>IEP</td>
+<td>007</td>
+</tr>
+<tr>
+<td>Liras Italianas.</td>
+<td>ITL</td>
+<td>005</td>
+</tr>
+<tr>
+<td>Liras maltesas.</td>
+<td>MTL</td>
+<td>046</td>
+</tr>
+<tr>
+<td>Liras turcas.</td>
+<td>TRL</td>
+<td>052</td>
+</tr>
+<tr>
+<td>Litas Lituanos.</td>
+<td>LTL</td>
+<td>055</td>
+</tr>
+<tr>
+<td>Marcos Alemanes.</td>
+<td>DEM</td>
+<td>004</td>
+</tr>
+<tr>
+<td>Marcos Finlandeses.</td>
+<td>FIM</td>
+<td>032</td>
+</tr>
+<tr>
+<td>Pesetas.</td>
+<td>ESP</td>
+<td>011</td>
+</tr>
+<tr>
+<td>Rands sudafricanos.</td>
+<td>ZAR</td>
+<td>388</td>
+</tr>
+<tr>
+<td>Tolar Esloveno.</td>
+<td>SIT</td>
+<td>091</td>
+</tr>
+<tr>
+<td>Wons surcoreanos.</td>
+<td>KRW</td>
+<td>728</td>
+</tr>
+<tr>
+<td>Yens Japoneses.</td>
+<td>JPY</td>
+<td>732</td>
+</tr>
+<tr>
+<td>Zloty Polaco.</td>
+<td>PLN</td>
+<td>060</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Nota: Además de las monedas arriba indicadas, podrán también declararse todas aquellas monedas para las que el Banco Central Europeo publique un tipo de cambio de referencia.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+## ANEXO VII — Códigos de impuestos especiales
+
+| Clase de producto | Código epígrafe | Unidad fiscal |
+|---|---|---|
+| Alcohol y Bebidas Derivadas. | 0A0 | HG |
+| Alcohol y Bebidas Derivadas con destino a Canarias. | 0A7 | HG |
+| Productos Intermedios ≤15 % Vol. | 0I0 | HL |
+| Productos Intermedios > 15 % Vol. | 0I1 | HL |
+| Productos Intermedios con destino a Canarias ≤ 15 % Vol. | 0I8 | HL |
+| Productos Intermedios con destino a Canarias > 15 % Vol. | 0I9 | HL |
+| Cerveza ≤1,2% Vol. | 0G0 | HL |
+| Cerveza > 1,2% Vol hasta 2,8% Vol. | 0G1 | HL |
+| Cerveza Grado Plato + 2,8% Vol y grado Plato <11. | 0A3 | HL |
+| Cerveza Grado Plato ≥ 11 y hasta 15. | 0A4 | HL |
+| Cerveza Grado Plato > 15 y hasta 19. | 0A5 | HL |
+| Cerveza Grado Plato > 19. | 0A6 | HL |
+| Vinos Tranquilos. | 0V0 | HL |
+| Vinos Espumosos. | 0V1 | HL |
+| Bebidas Fermentadas. | 0V2 | HL |
+| Bebidas Fermentadas Espumosas. | 0V3 | HL |
+| Gasolinas con plomo. | 0B0 | KL |
+| Gasolinas sin plomo ≥ 98 I.O. | 0H0 | KL |
+| Gasolinas sin plomo < 98 I.O. | 0H1 | KL |
+| Gasóleos para uso general. | 0B2 | KL |
+| Gasóleos con tipo reducido. | 0B3 | KL |
+| Fuelóleos. | 0B4 | TN |
+| G.L.P. para uso general. | 0B5 | TN |
+| G.L.P. usos distintos del carburante. | 0B7 | TN |
+| Gas Natural para uso general. | 0B8 | GJ |
+| Gas Natural para uso distinto del carburante. | 0B9 | GJ |
+| Gas Natural para fines profesionales. | 0H4 | GJ |
+| Queroseno uso general. | 0C0 | KL |
+| Queroseno usos distintos del carburante. | 0C1 | KL |
+| Bioetanol y Biometanol para uso como carburante. | 0E1 | KL |
+| Biodiesel para uso como carburante. | 0E2 | KL |
+| Bioetanol y Biometanol para uso como combustible. | 0E3 | KL |
+| Bioetanol y Biometanol para uso como carburante mezclado con producto con código de epígrafe 1.2.1. | 0E4 | KL |
+| Alquitranes de Hulla. | 0C2 | TN |
+| Benzoles, Toluoles, Xiloles. | 0C3 | KL |
+| Aceites de Creosota. | 0C4 | TN |
+| Aceites brutos de la destilación de alquitranes de Hulla. | 0C5 | TN |
+| Aceites crudos condensados de Gas Natural para uso general. | 0C6 | KL |
+| Aceites crudos condensados de Gas Natural para uso distinto del carburante. | 0C7 | KL |
+| Los demás aceites crudos de Petróleo o de Minerales Bituminosos. | 0C8 | TN |
+| Gasolinas especiales carburorreactores tipo gasolina y demás aceites ligeros. | 0C9 | KL |
+| Aceites medios distintos de los Querosenos para uso general. | 0D0 | KL |
+| Aceites medios distintos de los querosenos para usos distintos del carburante. | 0D1 | KL |
+| Aceites pesados y preparaciones de los códigos NC 2710.19.71, 2710.19.75, 2710.19.81, 2710.19.83, 2710.19.85, 2710.19.87, 2710.19.91, 2710.19.93, 2710.19.99, 2710.20.90. | 0D2 | TN |
+| Hidrocarburos gaseosos del código NC 2711.29.00 y productos clasificados en la partida NC 2705 PARA USO GENERAL. | 0D3 | GJ |
+| Hidrocarburos gaseosos del código NC 2711.29.00 y productos clasificados en la partida arancelaria 2705, así como el Biogas destinados a usos distintos a los de carburante o al uso como carburante en motores estacionarios. | 0D4 | GJ |
+| Vaselina, Parafina y productos similares. | 0D5 | TN |
+| Mezclas bituminosas a base de Asfalto o de Betún natural o de Betún de petróleo, de Alquitrán mineral o de Brea de Alquitrán mineral. | 0D6 | TN |
+| Hidrocarburos de composición química definida. | 0D7 | KL |
+| Preparaciones de la partida arancelaria 3403. | 0D8 | TN |
+| Preparaciones antidetonantes y aditivos de la partida arancelaria 3811. | 0D9 | KL |
+| Mezclas de Alquilbencenos y mezclas de Alquilnaftaelnos. | 0E0 | TN |
+| Hidrocarburos gaseosos del código NC 2711.29.00 y productos clasificados en la partida arancelaria 2705, así como el Biogás destinados a usos con fines profesionales. | 0E5 | GJ |
+| Desechos de Aceites clasificados en los códigos NC 2710.91.00 Y 2710.99.00. | 0E6 | TN |
+| Cigarros y Cigarritos. | 0F0 | € pvp |
+| Cigarrillos. | 0F1 | MI y € pvp |
+| Picadura para liar. | 0F2 | KG € pvp |
+| Las demás labores del Tabaco. | 0F3 | € pvp |
+| Cigarrillos a tipo mínimo. | 0F4 | MI |
+| Cigarrillos a tipo mínimo incrementado. | 0FB | MI y € pvp |
+| Picadura para liar a tipo mínimo. | 0F5 | KG |
+| Picadura para liar a tipo mínimo incrementado. | 0FC | KG |
+| Cigarros y Cigarritos a tipo mínimo. | 0F6 | MI |
+| Cigarros y Cigarritos a tipo mínimo incrementado. | 0FA | MI |
+| Las demás labores del Tabaco a tipo mínimo. | 0F7 | € pvp |
+
+> Se sustituye por el que figura como anexo 9º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.14. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+## ANEXO VIII — Codificaciones TARIC para casos especiales
+
+Códigos especiales de la nomenclatura combinada
+
+A. Códigos de la nomenclatura combinada para determinados movimientos específicos de mercancías.
+
+Notas complementarias:
+
+1\. Las disposiciones del presente subcapítulo solo se aplicarán al movimiento de mercancías al que hace referencia.
+
+Dichas mercancías se declararán en la subpartida correspondiente siempre que se reúnan las condiciones y requisitos en ella establecidos así como los previstos en cualquiera de los reglamentos aplicables. La designación de tales mercancías deberá ser lo suficientemente precisa para permitir su identificación.
+
+No obstante, los Estados miembros podrán optar por no aplicar las disposiciones del presente subcapítulo en la medida en que estén en juego los derechos de importación u otros gravámenes.
+
+2\. Las disposiciones del presente subcapítulo no se aplicarán a los intercambios de mercancías entre Estados miembros.
+
+3\. Las mercancías de importación y de exportación previstas en el Reglamento (CE) n.º 1186/2009 en relación con las cuales se haya denegado el beneficio de la franquicia de derechos de importación o exportación quedarán excluidas del presente subcapítulo.
+
+Los movimientos de mercancías sujetas a alguna prohibición o restricción también quedarán excluidos del presente subcapítulo.
+
+Determinados bienes previstos en el Reglamento (CE) n.º 1186/2009 (1)
+
+| 9905 00 00 00 | Bienes personales pertenecientes a personas físicas que trasladen su residencia normal. |
+|---|---|
+| 9919 00 00 00 | Los siguientes bienes, distintos de los mencionados anteriormente.<br>‒ Ajuar y efectos pertenecientes a una persona que traslade su residencia normal con ocasión de su matrimonio; bienes personales recibidos en herencia.<br>‒ Equipo, material de estudio y demás efectos de alumnos y estudiantes.<br>‒ Ataúdes que contengan cuerpos, urnas funerarias que contengan cenizas de difuntos, y objetos de ornamentación funeraria.<br>‒ Bienes destinados a organismos de carácter benéfico o filantrópico y bienes en beneficio de víctimas de catástrofes.<br>‒ Efectos personales. |
+
+<sup>(1)</sup> En el momento de la importación, la admisión en esta subpartida y la franquicia de los derechos de importación se supeditarán al cumplimiento de las condiciones previstas en el Reglamento (CE) n.º 1186/2009.
+
+B. Códigos estadísticos para determinados movimientos específicos de mercancías.
+
+Notas complementarias:
+
+1\. El Reglamento (UE) n.º 113/2010 de la Comisión, de 9 de febrero de 2010, por el que se aplica el Reglamento (CE) n.º 471/2009 del Parlamento Europeo y del Consejo, sobre estadísticas comunitarias relativas al comercio exterior con terceros países, en lo que respecta a la cobertura del comercio, a la definición de los datos, a la elaboración de estadísticas sobre comercio desglosadas por características de las empresas y por moneda de facturación y a las mercancías o movimientos específicos (1), y el Reglamento (CE) n.º 1982/2004 de la Comisión, de 18 de noviembre de 2004, por el que se aplica el Reglamento (CE) n.º 638/2004 del Parlamento Europeo y del Consejo, sobre las estadísticas comunitarias de intercambios de bienes entre Estados miembros, y por el que se derogan los Reglamentos de la Comisión (CE) n.º 1901/2000 y (CEE) n.º 3590/92, autorizan a los Estados miembros a utilizar un sistema de codificación simplificado para determinadas mercancías con vistas a la elaboración de estadísticas relacionadas con el comercio exterior e interior de la Unión Europea.
+
+2\. Los códigos previstos en el presente subcapítulo están sujetos a las condiciones establecidas en el Reglamento (UE) n.º 113/2010 y en el Reglamento (CE) n.º 1982/2004.
+
+| 9930 | Mercancías suministradas a buques o aeronaves: |
+|---|---|
+| 9930 24 00 | mercancías de los capítulos 1 a 24 de la NC, excepto productos de las partidas 2208 (aguardientes, licores y demás bebidas espirituosas) y 2402 (cigarros y cigarrillos) y 2403 (tabaco para fumar) que deberán puntualizarse por su posición específica. |
+| 9930 27 00 | mercancías del capítulo 27 de la NC. |
+| 9930 99 00 | mercancías clasificadas en otra parte. |
+| 9931 | Mercancías suministradas al personal de instalaciones en alta mar o para el funcionamiento de motores, máquinas y demás equipo de instalaciones en alta mar: |
+| 9931 24 00 | mercancías de los capítulos 1 a 24 de la NC. |
+| 9931 27 00 | mercancías del capítulo 27 de la NC. |
+| 9931 99 00 | mercancías clasificadas en otra parte. |
+
+C. Códigos estadísticos nacionales para determinados movimientos específicos de mercancías.
+
+Las instrucciones para el uso de estas posiciones se encuentran en el Apéndice VIII y IX de esta Resolución y en las instrucciones para cumplimentar el formulario web de importación para particulares, en la Sede Electrónica de la AEAT.
+
+| 9990.00.02.00 | Importación en Ceuta y Melilla de mercancía nacional de acuerdo a lo previsto en el Apéndice VIII de esta Resolución. |
+|---|---|
+| 9990.00.03.00 | Declaraciones de importación realizadas directamente por particulares (Ver Apéndice XVII). |
+| 9990 00 05 | Envíos de mercancías efectuadas por particulares que no superen los 3000 € (ver Apéndice IX). |
+| 9990 00 06 | Exportaciones de carácter comercial que consistan en muestras sin valor estimable, impresos y objetos de carácter publicitario (ver Apéndice IX). |
+| 9990 00 07 | Suministros de surtidos de mercancías de los capítulos 1 a 24 para embajadas, consulados, Fuerzas Armadas y organismos similares nacionales en terceros países (ver Apéndice IX). |
+| 9990 00 08 | Suministros de surtidos de mercancías de los capítulos restantes para embajadas, consultados, Fuerzas Armadas y organismos similares nacionales en terceros países (ver Apéndice IX). |
+| 9990 10 00 | Importación en Ceuta y Melilla, con declaración H7, de envíos procedentes de la Unión Europea. |
+| 9999 00 00 | Exportación de envíos urgentes de valor inferior a 1000 € (Ver apéndice IX). |
+
+> Se modifica el apartado C por el apartado primero.19 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se corrigen códigos del apartado C por el apartado primero.15 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+## ANEXO IX — Códigos de unidades suplementarias o fiscales
+
+| Código | Nomenclatura de las unidades |
+|---|---|
+| AD | POR CADA EURO DEL PRECIO NETO FRANCO EN FRONTERA DE LA UNIÓN, DERECHOS NO PAGADOS DEL PRODUCTO EN CUESTIÓN. |
+| BO | BOMBONA. |
+| BR | ARQUEO BRUTO. |
+| CE | CENTENAS (100 UNIDADES). |
+| CL | NUMERO DE CELDAS. |
+| CT | CAPACIDAD CARGA UTIL EN TONELADAS METRICAS. |
+| GI | GRAMOS ISOTOPOS FISIONABLES. |
+| GJ | GIGAJULIOS. |
+| GN | GRAMOS NETOS. |
+| HA | GRADO ALCOHÓLICO VOLUMÉTRICO POR NUMERO DE HECTOLITROS (n.º de hectolitros x n.º de arados). |
+| HG | HECTOLITROS DE ALCOHOL PURO 100% (n.º de hectolitros x % graduación alcohólica). |
+| HL | HECTOLITROS. |
+| HM | HECTÓMETROS. |
+| HP | HECTOLITRO x GRADO PLATO. |
+| H1 | HECTOKILOGRAMOS DE AZUCAR BLANCA (100 kg). |
+| H2 | HECTOKILOGRAMOS DE TRIGO BLANCO (100 kg). |
+| H3 | HECTOKILOGRAMOS NETO DE MATERIA SECA (100 kg). |
+| H4 | HECTOKILOGRAMOS NETOS POR FRACCIÓN DEL 1% DEL PESO EN SACAROSA (n.º de quintales por cada fracción de sacarosa). |
+| H5 | HECTOKILOGRAMO DE PESO VIVO. |
+| H6 | HECTOKILOGRAMOS NETOS DE AZUCAR EN BRUTO CON UNA TASA DE RENDIMIENTO DEL 92%. |
+| KA | KILOGRAMOS TOTAL ALCOHOL. |
+| KL | MILES DE LITROS. |
+| KM | KILOMETRO. |
+| KN | KILOGRAMOS NETOS. |
+| KP | KILOGRAMO DE MATERIA LÁCTICA. |
+| KT | KILOGRAMO DE MATERIA SECA LÁCTICA. |
+| LA | LITROS DE ALCOHOL PURO 100%. |
+| LT | LITROS. |
+| M1 | METROS LINEALES. |
+| M2 | METROS CUADRADOS. |
+| M3 | METROS CÚBICOS. |
+| M4 | MIL METROS CÚBICOS. |
+| MI | MILLARES. |
+| MK | MILES KILOVATIOS/HORA. |
+| PA | NÚMERO DE PARES. |
+| PW | NÚMERO DE WATIOS. |
+| QE | QUINTALES DE PESO NETO ESCURRIDO. |
+| QN | QUINTALES NETOS. |
+| TA | TONELADAS DE CLORURO POTÁSICO. |
+| TB | TONELADAS NETAS DE MATERIA SECA. |
+| TC | TONELADA NETA POR FRACCIÓN DEL 1% DEL PESO EN. |
+| TD | TONELADA DE CONTENIDO EN BIODIESEL. |
+| TF | TONELADAS CONTENIDO EN COMBUSTIBLE. |
+| TG | 10 TONELADAS, CORREGIDAS CON ARREGLO A LA POLARIZACIÓN. |
+| TJ | TERAJOULE (Poder calorífico superior). |
+| TK | TONELADAS DE AZUCAR EN BRUTO CON UNA TASA DE. |
+| TN | TONELADAS NETAS. |
+| TQ | TONELADAS DE CO<sup>2</sup>. |
+| UN | UNIDADES. |
+| WA | KILOGRAMOS NETOS DE DIHIDROESTREPTOMICINA. |
+| WB | KILOGRAMOS NETOS DE COLINCLORURO. |
+| WE | KILOGRAMOS DE PESO NETO ESCURRIDO. |
+| WL | NUMERO DE QUILATES (1 QUILATE MÉTRICO = 2 x 10<sup>-4</sup> KG.). |
+| W1 | KILOGRAMOS NETOS DE K20 (OXIDO DE POTASIO). |
+| W2 | KILOGRAMOS NETOS DE KOH (HIDROXIDO DE POTASIO). |
+| W3 | KILOGRAMOS NETOS DE N (NITROGENO). |
+| W4 | KILOGRAMOS NETOS DE NaOH (HIDRÓXIDO DE SODIO). |
+| W5 | KILOGRAMOS NETOS DE P205 (PENTAÓXIDO DE DIFÓSFORO). |
+| W6 | KILOGRAMOS NETOS DE U (URANIO). |
+| W7 | KILOGRAMOS NETOS DE MATERIA SECA AL 90%. |
+| W8 | KILOGRAMOS NETOS DE AGUA OXIGENADA H202. |
+| W9 | KILOGRAMOS DE METILAMINA. |
+
+> Se añaden los códigos AD y TQ por el apartado primero.20 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+## ANEXO X — Códigos tributos (Casilla 47)
+
+| Código | Concepto impositivo | Anterior |
+|---|---|---|
+| A00 | Derechos de aduana sobre los productos industriales. | 51 |
+| A20 | Derechos adicionales. | 51 |
+| A30 | Derechos antidumping definitivos. | 61 |
+| A35 | Derechos antidumping provisionales. | 61 |
+| A40 | Derecho compensatorio definitivo. | 61 |
+| A45 | Derecho compensatorio provisional. | 61 |
+| B00 | IVA. | 54 |
+| B01 | IVA recargo de equivalencia. | 62 |
+| B10 | Intereses compensatorios (IVA). |  |
+| B20 | Intereses de demora (IVA). | 35 |
+| C00 | Gravámenes de exportación. |  |
+| C10 | Gravámenes de exportación de productos agrícolas. | 71 |
+| D00 | Intereses de demora. | 35 |
+| D10 | Intereses compensatorios (por ejemplo, perfeccionamiento activo). | 55 |
+| E00 | Derechos percibidos en nombre de otros países. |  |
+| 3IG | IGIC (Impuesto General Indirecto Canario). |  |
+| 3AI | AIEM (Arbitrio sobre importaciones y entregas mercancía). |  |
+| 3RM | RM (Recargo minorista). |  |
+| 3ID | Intereses de demora IGIC/AIEM. |  |
+| 301 | Tasa Mozos Arrumbadores (tarifa general). | 31 |
+| 302 | Tasa Mozos Arrumbadores (tarifa a tanto alzado). | 32 |
+| 0A0 | Alcohol y bebidas derivadas. | A0 |
+| 0A7 | Alcohol y bebidas derivadas con destino a Canarias. | A7 |
+| 0I0 | Productos intermedios ≤ 15 % Vol. | I0 |
+| 0I1 | Productos intermedios > 15 % Vol. | I1 |
+| 0I8 | Productos intermedios con destino a Canarias ≤ 15 % Vol. | I8 |
+| 0I9 | Productos intermedios con destino a Canarias > 15 % Vol. | I9 |
+| 0G0 | Cerveza ≤ 1,2% vol. | G0 |
+| 0G1 | Cerveza > 1,2% Vol, hasta 2,8% Vol. | G1 |
+| 0A3 | Cerveza grado plato +2,8% Vol, y grado plato < 11. | A3 |
+| 0A4 | Cerveza grado plato ≥ 11 hasta 15. | A4 |
+| 0A5 | Cerveza grado plato > 15 hasta 19. | A5 |
+| 0A6 | Cerveza grado plato > 19. | A6 |
+| 0V0 | Vinos tranquilos. | V0 |
+| 0V1 | Vinos espumosos. | V1 |
+| 0V2 | Bebidas fermentadas tranquilas. | V2 |
+| 0V3 | Bebidas fermentadas espumosas. | V3 |
+| 0B0 | Gasolinas con plomo. | B0 |
+| 0H0 | Gasolinas sin plomo > 98 I.O. | H0 |
+| 0H1 | Gasolinas sin plomo < 98 I.0. | H1 |
+| 0B2 | Gasóleos para uso general. | B2 |
+| 0B3 | Gasóleos con tipo reducido. | B3 |
+| 0H5 | Gasóleos para electricidad/cogeneración. |  |
+| 0B4 | Fueloleos. | B4 |
+| 0H6 | Fueloleos para electricidad/cogeneración. |  |
+| 0B5 | G.L.P. para uso general. | B5 |
+| 0B7 | G.L.P. usos distintos del carburante. | B7 |
+| 0B8 | Gas Natural para uso general. | B8 |
+| 0B9 | Gas Natural para usos distintos del carburante. | B9 |
+| 0H4 | Gas Natural para fines profesionales. |  |
+| 0C0 | Queroseno uso general. | C0 |
+| 0C1 | Queroseno usos distintos del carburante. | C1 |
+| 0E1 | Bioetanol y biometanol para uso como carburante. | E1 |
+| 0E2 | Biodiesel para uso como carburante. | E2 |
+| 0E3 | Biodiesel y bioetanol para uso como combustible. | E3 |
+| 0E4 | Biodiesel y bioetanol como carburante mezclado con producto código de epígrafe 0H0. |  |
+| 0C2 | Alquitranes de hulla. | C2 |
+| 0C3 | Benzoles, Toluoles, Xiloles. | C3 |
+| 0C4 | Aceites de creosota. | C4 |
+| 0C5 | Aceites brutos de la destilación de alquitranes de hulla. | C5 |
+| 0C6 | Aceites crudos condensados de gas natural para uso general. | C6 |
+| 0C7 | Aceites crudos condensados de gas natural para usos distintos del carburante. | C7 |
+| 0C8 | Los demás aceites crudos de petróleo o de minerales bituminosos. | C8 |
+| 0C9 | Gasolinas especiales, carburorreactores tipo gasolina y demás aceites ligeros. | C9 |
+| 0D0 | Aceites medios distintos de los querosenos para uso general. | D0 |
+| 0D1 | Aceites medios distintos de los querosenos para usos distintos del carburante. | D1 |
+| 0D2 | Aceites pesados y preparaciones del código NC 2710.00.99. | D2 |
+| 0D3 | Hidrocarburos gaseosos del código NC 2711.29.00 excepto el metano, para uso general. | D3 |
+| 0D4 | Hidrocarburos gaseosos del código NC 2711.29.00, excepto el metano para usos distintos del carburante. | D4 |
+| 0D5 | Vaselina, parafina y productos similares. | D5 |
+| 0D6 | Mezclas bituminosas a base de asfalto o de betún natural, de betún de petróleo, de alquitrán mineral o de brea de alquitrán mineral. | D6 |
+| 0D7 | Hidrocarburos de composición química definida. | D7 |
+| 0D8 | Preparaciones de los códigos 3403.11.00 Y 3403.19. | D8 |
+| 0D9 | Preparaciones antidetonantes y aditivos del código NC 3811. | D9 |
+| 0E0 | Mezclas de alquilbencenos y mezclas de alquilnaftalenos. | E0 |
+| 0F0 | Cigarros y cigarritos. | F0 |
+| 0F1 | Cigarrillos. | F1 |
+| 0F2 | Picadura para liar. | F2 |
+| 0F3 | Las demás labores del tabaco. | F3 |
+| 0F4 | Cigarrillos a tipo mínimo. |  |
+| 0FB | Cigarrillos a tipo mínimo incrementado. |  |
+| 0F5 | Picadura para liar a tipo mínimo. |  |
+| 0FC | Picadura para liar a tipo mínimo incrementado. |  |
+| 0F6 | Cigarros y cigarritos a tipo mínimo general. |  |
+| 0FA | Cigarros y cigarritos a tipo mínimo incrementado. |  |
+| 0F7 | Las demás labores de tabaco a tipo mínimo. |  |
+| 0K0 | Electricidad. | K0 |
+| 4T1 | Cigarros y cigarritos (ISLT Canarias). |  |
+| 4T2 | Cigarrillos (ISLT Canarias). |  |
+| 4T3 | Picadura para liar (ISLT Canarias). |  |
+| 4T4 | Las demás labores del tabaco (ISLT Canarias). |  |
+| 4T5 | Cigarrillos a tipo mínimo (ISLT Canarias). |  |
+| 4T6 | Picadura para liar a tipo mínimo (ISLT Canarias). |  |
+| 4T7 | Picadura para liar a tipo mínimo negro. |  |
+| 4T8 | Cigarrillos negros. |  |
+
+> Se suprime el código A10 por el apartado primero.21 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+## ANEXO XI-A — Códigos de garantías de tránsitos
+
+| Código | Tipo de garantía |
+|---|---|
+| 0 | Dispensa de la garantía para el tránsito comunitario (artículo 94 del Reglamento CEE n.º 2913/92). |
+| 1 | En el caso de garantía global. |
+| 2 | En el caso de garantía individual. |
+| 3 | En el caso de garantía en metálico. |
+| 4 | En el caso de garantía a tanto alzado. |
+| 5 | En el caso de dispensa de garantía para importes inferiores a 500 EUR (artículo 189, apartado 5, del CAC). |
+| 6 | En el caso de exención de garantía (artículo 95 del Reglamento CEE n.º 2913/92). |
+| 8 | En el caso de dispensa de garantía para determinados Organismos Públicos. |
+
+## ANEXO XI-B — Códigos de indicaciones especiales de tránsitos (casilla 44)
+
+| Código | Descripción |
+|---|---|
+| DG0 | Exportación de la CE sometida a restricción (artículo 843 Reglamento CEE n.º 2454/93). |
+| DG1 | Exportación de la CE sometida al pago de derechos (artículo 843 Reglamento (CEE) n.º 2454/93). |
+| DG2 | Exportación. |
+
+## ANEXO XII — Naturaleza de la transacción
+
+| A | B |
+|---|---|
+| 1. Transacciones que implican un cambio real de propiedad y una compensación financiera. | 1. Compra o venta sin restricciones, excepto el comercio directo con o por consumidores particulares.<br>2. Comercio directo con o por consumidores. particulares (incluida la venta a distancia). |
+| 2. Devolución y sustitución gratuita de mercancías después del registro de la transacción original. | 1. Devolución de bienes.<br>2. Sustitución de bienes devueltos.<br>3. Sustitución de bienes no devueltos (por ejemplo, en garantía). |
+| 3. Transacciones que implican un cambio intencionado de propiedad o un cambio de propiedad sin compensación financiera. | 1. Movimientos hacia o desde un almacén (excluidas las existencias de reserva y en consigna).<br>2. Suministro para la venta previa aprobación o prueba (incluidas las existencias de reserva y en consigna).<br>3. Arrendamiento financiero (1).<br>4.Transacciones que implican transferencia de propiedad sin compensación financiera. |
+| 4. Transacciones con vistas a un perfeccionamiento bajo contrato (sin cambio de propiedad) (2). | 1. Bienes destinados a regresar al Estado miembro o país de exportación inicial.<br>2. Bienes no destinados a regresar al Estado miembro o país de exportación inicial.<br>4. Reparación o mantenimiento a título gratuito.<br>5. Reparación o mantenimiento a título oneroso. |
+| 5. Operaciones posteriores al perfeccionamiento bajo contrato (no se traspasa la propiedad al contratista). | 1. Bienes destinados a regresar al Estado miembro o país de exportación inicial.<br>2. Bienes destinados no de regreso al Estado miembro o país de exportación inicial.<br>4. Reparación o mantenimiento a título gratuito.<br>5. Reparación o mantenimiento a título oneroso. |
+| 6. Transacciones específicas registradas con fines nacionales. | 1. Alquiler, préstamo o arrendamiento operativo.<br>2. Otros usos temporales. |
+| 7. Operaciones en el marco de proyectos comunes de defensa u otros programas intergubernamentales de producción conjunta. | 1. Despacho a libre práctica de bienes en un Estado miembro con posterior exportación a otro Estado miembro.<br>2. Transporte de bienes de un Estado miembro a otro para ponerlos en régimen de exportación. |
+| 8. Transacciones que implican el suministro de materiales de construcción y de equipo técnico en el marco de un contrato general de construcción o ingeniería civil para el que no es necesaria una facturación aparte de los bienes, sino que se emite una factura para la totalidad del contrato. |  |
+| 9. Otras transacciones que no puedan clasificarse en otros códigos. | 1. Alquiler, préstamo y arrendamiento operativo por un período superior a veinticuatro meses.<br>9. Otras. |
+
+NOTAS:
+
+(1) El arrendamiento financiero abarca las operaciones en las que los alquileres se calculan de forma que se cubra la totalidad o la práctica totalidad del valor de las mercancías. Los riesgos y beneficios vinculados a la propiedad se transfieren al arrendatario, que se convierte en propietario legal de las mercancías al término del contrato.
+
+(2) El perfeccionamiento abarca las operaciones (transformación, construcción, montaje, mejora, renovación, etc.) que tienen por objeto producir un artículo nuevo o realmente mejorado. Ello no implica necesariamente un cambio en la clasificación del producto. Las actividades de perfeccionamiento por cuenta de quien las realiza no están incluidas en este punto, sino que deben registrarse en el punto 1 de la columna A.
+
+> Se sustituye por el que figura como anexo 8º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.22. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 6º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.18. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## ANEXO XIII — Tipo de bulto según la presentación de las mercancías (lista de códigos 7065 del directorio D 931A)
+
+| Cod. | Bultos |
+|---|---|
+| 1A | Bidón de acero. |
+| 1B | Bidón de aluminio. |
+| 1D | Bidón de contrachapado. |
+| 1F | Contenedor flexible. |
+| 1G | Bidón, de cartón. |
+| 1W | Bidón, de madera. |
+| 2C | Tonel de madera. |
+| 3A | Jerricán de acero. |
+| 3H | Jerricán de plástico. |
+| 43 | Contenedor plegable para graneles («big bag»). |
+| 44 | Saco de plástico (polibag). |
+| 4A | Caja de acero. |
+| 4B | Caja de aluminio. |
+| 4C | Caja de madera natural. |
+| 4D | Caja de contrachapado. |
+| 4F | Caja de madera reconstituida. |
+| 4G | Caja de paneles de fibras. |
+| 4H | Caja de plástico. |
+| 5H | Saco de tejido plástico. |
+| 5L | Saco de tela. |
+| 5M | Saco de papel. |
+| 6H | Envase compuesto, recipiente de plástico. |
+| 6P | Envase compuesto, recipiente de vidrio. |
+| 7A | Caja para automóvil (case car). |
+| 7B | Caja (case), de madera. |
+| 8A | Paleta de madera. |
+| 8B | Cajón de madera. |
+| 8C | Haz de leña. |
+| AA | Recipiente intermedio para graneles, de plástico rígido. |
+| AB | Recipiente de cartón. |
+| AC | Recipiente de papel. |
+| AD | Recipiente de madera. |
+| AE | Aerosol. |
+| AF | Paleta modular, anillos de 80 x 60 cm. |
+| AG | Paleta, funda termorretráctil. |
+| AH | Paleta, 100 x 110 cm. |
+| AI | Blíster doble. |
+| AJ | Cono. |
+| AL | Bola. |
+| AM | Ampolla, sin proteger. |
+| AP | Ampolla protegida. |
+| AT | Vaporizador. |
+| AV | Cápsula. |
+| B4 | Correa. |
+| BA | Tonel. |
+| BB | Bobina («bobbin»). |
+| BC | Cajón de botellas, botellero. |
+| BD | Tabla. |
+| BE | Haz. |
+| BF | Balón, sin proteger. |
+| BG | Bolsa. |
+| BH | Atado. |
+| BI | Cubo («bin»). |
+| BJ | Balde. |
+| BK | Cesta. |
+| BL | Bala, comprimida. |
+| BM | Barreño. |
+| BN | Bala, sin comprimir. |
+| BO | Botella, sin proteger, cilíndrica. |
+| BP | Balón, protegido. |
+| BQ | Botella, protegida, cilíndrica. |
+| BR | Barra. |
+| BS | Botella, sin proteger, bulbosa. |
+| BT | Rollo, láminas enrrolladas («bolt»). |
+| BU | Barrica. |
+| BV | Botella, protegida, bulbosa. |
+| BW | Caja, para líquidos. |
+| BX | Caja («box»). |
+| BY | Tablas, en haz/atado/fajo. |
+| BZ | Barras, en haz/atado/fajo. |
+| CA | Lata, rectangular. |
+| CB | Bidón de cerveza. |
+| CC | Lechera. |
+| CD | Lata, con asa y pico. |
+| CE | Nasa. |
+| CF | Cofre («coffer»). |
+| CG | Jaula. |
+| CH | Arcón. |
+| CI | Lata. |
+| CJ | Ataúd. |
+| CK | Cuba («cask»). |
+| CL | Bobina («coil») de cable eléctrico. |
+| CM | Carta («card»). |
+| CN | Contenedor, no especificado excepto como equipo de transporte. |
+| CO | Garrafa, sin proteger. |
+| CP | Garrafa protegida. |
+| CQ | Cartucho. |
+| CR | Cajón. |
+| CS | Caja («case»). |
+| CT | Cartón. |
+| CU | Hícara. |
+| CV | Funda. |
+| CW | Jaula deslizante. |
+| CX | Lata, cilíndrica. |
+| CY | Cilindro. |
+| CZ | Lona. |
+| DA | Cajón, de plástico, multicapa. |
+| DB | Cajón, de madera, multicapa. |
+| DC | Cajón, de cartón, multicapa. |
+| DG | Jaula CHEP (Commonwealth Handling Equipment Pool). |
+| DH | Caja CHEP (Commonwealth Handling Equipment Pool), Eurobox. |
+| DI | Bidón de hierro. |
+| DJ | Damajuana, sin proteger. |
+| DK | Caja, de cartón, para graneles. |
+| DL | Cajón, de plástico, para graneles. |
+| DM | Cajón, de madera, para graneles. |
+| DN | Generador de aerosol. |
+| DP | Damajuana protegida. |
+| DR | Bidón, tambor. |
+| DS | Bandeja, de plástico, de un nivel, sin tapa. |
+| DT | Bandeja, de madera, de un nivel, sin tapa. |
+| DU | Bandeja, de poliestireno, de un nivel, sin tapa. |
+| DV | Bandeja, de cartón, de un nivel, sin tapa. |
+| DW | Bandeja, de plástico, de dos niveles, sin tapa. |
+| DX | Bandeja, de madera, de dos niveles, sin tapa. |
+| DY | Bandeja, de cartón, de dos niveles, sin tapa. |
+| EC | Saco, de plástico. |
+| ED | Caja, con base de paleta. |
+| EE | Caja, con base de paleta, de madera. |
+| EF | Caja, con base de paleta, de cartón. |
+| EG | Caja, con base de paleta, de plástico. |
+| EH | Caja, con base de paleta, de metal. |
+| EI | Caja isotérmica. |
+| EN | Sobre. |
+| FB | Bolsa flexible para contenedor (flexibag). |
+| FC | Cajón de fruta. |
+| FD | Cajón reforzado. |
+| FE | Tanque flexible para contenedor (flexitank). |
+| FI | Barrilito. |
+| FL | Frasco. |
+| FO | Cofre pequeño («footlocker»). |
+| FP | Película plástica. |
+| FR | Bastidor (vehículos). |
+| FT | Envase para alimentos («foodtainer»). |
+| FW | Carreta, de plataforma. |
+| FX | Saco, flexible. |
+| GB | Bombona de gas. |
+| GI | Viga. |
+| GL | Contenedor de un galón. |
+| GR | Recipiente, de vidrio. |
+| GU | Bandeja contenedora con artículos planos apilados. |
+| GY | Saco de yute o arpillera. |
+| GZ | Vigas, en haz/atado/fajo. |
+| HA | Cesto, con asa, de plástico. |
+| HB | Cesto, con asa, de madera. |
+| HC | Cesto, con asa, de cartón. |
+| HG | Cuba / Tonel grande («hogshead»). |
+| HN | Gancho (hanger). |
+| HR | Canasta. |
+| IA | Embalaje, expositor, de madera. |
+| IB | Embalaje, expositor, de cartón. |
+| IC | Embalaje, expositor, de plástico. |
+| ID | Embalaje, expositor, de metal. |
+| IE | Embalaje, con ventana. |
+| IF | Embalaje, tubular. |
+| IG | Embalaje, forrado de papel. |
+| IH | Bidón, de plástico. |
+| IK | Embalaje, de cartón, con orificios de prensión. |
+| IL | Bandeja rígida, con tapa, apilable (CEN TS 14482:2002). |
+| IN | Lingote. |
+| IZ | Lingotes, en haz/atado/fajo. |
+| JB | Saco cúbico de polipropileno (jumbo bag). |
+| JC | Jerricán /Bidón, rectangular. |
+| JG | Jarra. |
+| JR | Tarro. |
+| JT | Saco de yute. |
+| JY | Jerricán /Bidón, cilíndrico. |
+| KG | Barrilete. |
+| KI | Juego (kit). |
+| LE | Equipaje. |
+| LG | Tronco. |
+| LT | Lote. |
+| LU | Caja de madera (lug). |
+| LV | Contenedor («liftvan»). |
+| LZ | Troncos, en haz/atado/fajo. |
+| MA | Cajón de metal. |
+| MB | Bolsa de hojas superpuestas. |
+| MC | Cajón de leche. |
+| ME | Contenedor de metal. |
+| MR | Recipiente, de metal. |
+| MS | Saco de paredes múltiples. |
+| MT | Estera. |
+| MW | Recipiente, forrado de plástico. |
+| MX | Caja de fósforos. |
+| NA | Sin objeto. |
+| NE | Sin envasar o sin empaquetar. |
+| NF | No embalado ni acondicionado, unidad única. |
+| NG | No embalado ni acondicionado, varias unidades. |
+| NS | Caja-nido. |
+| NT | Red. |
+| NU | Red, tubular, de plástico. |
+| NV | Red, tubular, de tela. |
+| OA | Paleta, CHEP 40 cm x 60 cm. |
+| OB | Paleta, CHEP 80 cm x 120 cm. |
+| OC | Paleta, CHEP 100 cm x 120 cm. |
+| OD | Paleta, AS 4068-1993. |
+| OE | Paleta, ISO T11. |
+| OF | Plataforma de peso o dimensión indeterminados. |
+| OK | Bloque. |
+| OT | Gran contenedor de cartón octogonal (octabin). |
+| OU | Contenedor exterior. |
+| P2 | Bandeja (pan). |
+| PA | Cajetilla. |
+| PB | Paleta caja («pallet box»). |
+| PC | Paquete. |
+| PD | Paleta, modular, aros de 80 x 100 cm. |
+| PE | Paleta, modular, anillos de 80 x 120. |
+| PF | Celda sin techo para transporte de animales. |
+| PG | Chapa. |
+| PH | Cántaro. |
+| PI | Tubo, canalización. («pipe»). |
+| PJ | Canastilla. |
+| PK | Fardo. |
+| PL | Cubeta. |
+| PN | Tablón. |
+| PO | Saquito. |
+| PP | Pieza suelta. |
+| PR | Recipiente, de plástico. |
+| PT | Vasija, pote. |
+| PU | Bandeja. |
+| PV | Tubos, en haz/atado/fajo. |
+| PX | Paleta. |
+| PY | Chapas, en haz/atado/fajo. |
+| PZ | Tablones, en haz/atado/fajo. |
+| QA | Bidón, de acero, parte superior fija. |
+| QB | Bidón, de acero, parte superior amovible. |
+| QC | Bidón, de aluminio, parte superior fija. |
+| QD | Bidón, de aluminio, parte superior amovible. |
+| QF | Bidón, de plástico, parte superior fija. |
+| QG | Bidón, de plástico, parte superior amovible. |
+| QH | Tonel, de madera, con bitoque. |
+| QJ | Tonel, de madera, parte superior fija. |
+| QK | Jerricán, de acero, parte superior fija. |
+| QL | Jerricán, de acero, parte superior amovible. |
+| QM | Jerricán, de plástico, parte superior fija. |
+| QN | Jerricán, de plástico, parte superior amovible. |
+| QP | Caja, de madera, ordinaria. |
+| QQ | Caja, de madera, de paneles estancos al polvo. |
+| QR | Caja, de plástico expandido. |
+| QS | Caja, de plástico rígido. |
+| RD | Varilla. |
+| RG | Anillo. |
+| RJ | Armario ropero, móvil. |
+| RK | Estante. |
+| RL | Carrete. |
+| RO | Rollo («roll»). |
+| RT | Saco de red. |
+| RZ | Varillas, en haz/atado/fajo. |
+| SA | Bolsa rectangular («sack»). |
+| SB | Lámina calandrada («slab»). |
+| SC | Cajón plano. |
+| SD | Bobina («spindle») o eje. |
+| SE | Arcón marino. |
+| SH | Bolsita. |
+| SI | Patín / rampa («skid). |
+| SK | Jaula abierta. |
+| SL | Lámina deslizadora, protección interfolias. |
+| SM | Lámina metálica. |
+| SO | Canilla. |
+| SP | Hoja, revestimiento de plástico. |
+| SS | Cajón, de acero. |
+| ST | Hoja. |
+| SU | Maleta («suitcase»). |
+| SV | Funda, de acero. |
+| SW | Película termorretráctil. |
+| SX | Surtido. |
+| SY | Manga. |
+| SZ | Hojas, en haz/atado/fajo. |
+| T1 | Comprimido (tablet). |
+| TB | Cuba / Tina(«tub»). |
+| TC | Cajón de té. |
+| TD | Tubo, plegable («tube, collapsible»). |
+| TE | Neumático. |
+| TG | Tanque contenedor genérico. |
+| TI | Cuba mediana. |
+| TK | Tanque, rectangular. |
+| TL | Cuba, con tapa. |
+| TN | Bote de hojalata. |
+| TO | Tinaja. |
+| TR | Baúl. |
+| TS | Fajo. |
+| TT | Saco o cesta (bag tote). |
+| TU | Tubo («tube»). |
+| TV | Tubo, con boquilla. |
+| TW | Paleta de cartón ondulado. |
+| TY | Tanque, cilíndrico. |
+| TZ | Tubos («tubes»), en haz/atado/fajo. |
+| UC | No enjaulado(animal). |
+| UN | Unidad. |
+| VA | Tanque. |
+| VG | Gas, a granel (a 1 031 mbar a 15 ºC). |
+| VI | Vial. |
+| VK | Contenedor de tipo «vanpack». |
+| VL | Líquido, a granel. |
+| VN | Vehículo. |
+| VO | Sólido a granel, partículas grandes (nódulos). |
+| VP | Envasado al vacío. |
+| VQ | Gas licuado a granel (a temperatura/presión anormales). |
+| VS | Chatarra a granel. |
+| VR | Sólido a granel, partículas granulares (granos). |
+| VY | Sólido a granel, partículas finas (polvos). |
+| WA | Recipiente intermedio para graneles. |
+| WB | Botella enfundada. |
+| WC | Recipiente intermedio para graneles, de acero. |
+| WD | Recipiente intermedio para graneles, de aluminio. |
+| WF | Recipiente intermedio para graneles, metálico. |
+| WG | Recipiente intermedio para graneles, de acero, para presiones superiores a 10 kpa (0,1 bar). |
+| WH | Recipiente intermedio para graneles, de aluminio, para presiones superiores a 10 kpa (0,1 bar). |
+| WJ | Recipiente intermedio para graneles, metálico, para presiones superiores a 10 kpa (0,1 bar). |
+| WK | Recipiente intermedio para graneles líquidos, de acero. |
+| WL | Recipiente intermedio para graneles líquidos, de aluminio. |
+| WM | Recipiente intermedio para graneles líquidos, metálico. |
+| WN | Recipiente intermedio para graneles, de tejido de plástico, sin revestimiento interior ni forro. |
+| WP | Recipiente intermedio para graneles, de tejido de plástico, con revestimiento interior. |
+| WQ | Recipiente intermedio para graneles, de tejido de plástico, con forro. |
+| WR | Recipiente intermedio para graneles, de tejido de plástico, con revestimiento interior y forro. |
+| WS | Recipiente intermedio para graneles, de película plástica. |
+| WT | Recipiente intermedio para graneles, de tela, sin revestimiento interior ni forro. |
+| WU | Recipiente intermedio para graneles, de madera, con forro. |
+| WV | Recipiente intermedio par graneles, de tela, con revestimiento interior. |
+| WW | Recipiente intermedio para graneles, de tela, con forro. |
+| WX | Recipiente intermedio para graneles, de tela, con revestimiento interior y forro. |
+| WY | Recipiente intermedio para graneles, de contrachapado, con forro. |
+| WZ | Recipiente intermedio para graneles, de madera reconstituida, con forro. |
+| XA | Saco, de tejido de plástico, sin revestimiento interior ni forro. |
+| XB | Saco, de tejido de plástico, estanco al polvo. |
+| XC | Saco, de tejido de plástico, hidrófugo. |
+| XD | Saco, de película de plástico. |
+| XF | Saco, de tela, sin revestimiento interior ni forro. |
+| XG | Saco de tela, estanco al polvo. |
+| XH | Saco, de tela, hidrófugo. |
+| XJ | Saco, de papel, multicapa. |
+| XK | Saco, de papel, multicapa, hidrófugo. |
+| YA | Embalaje compuesto, recipiente de plástico, con bidón exterior de acero. |
+| YB | Embalaje compuesto, recipiente de plástico, con caja exterior de acero. |
+| YC | Embalaje compuesto, recipiente de plástico, con bidón exterior de aluminio. |
+| YD | Embalaje compuesto, recipiente de plástico, con caja exterior de aluminio. |
+| YF | Embalaje compuesto, recipiente de plástico, con caja exterior de madera. |
+| YG | Embalaje compuesto, recipiente de plástico, con bidón exterior de contrachapado. |
+| YH | Embalaje compuesto, recipiente de plástico con caja exterior de contrachapado. |
+| YJ | Embalaje compuesto, recipiente de plástico, con bidón exterior de cartón. |
+| YK | Embalaje compuesto, recipiente de plástico, con caja exterior de cartón. |
+| YL | Embalaje compuesto, recipiente de plástico, con bidón exterior de plástico. |
+| YM | Embalaje compuesto, recipiente de plástico, con caja exterior de plástico rígido. |
+| YN | Embalaje compuesto, recipiente de vidrio, con bidón exterior de acero. |
+| YP | Embalaje compuesto, recipiente de vidrio, con caja exterior de acero. |
+| YQ | Embalaje compuesto, recipiente de vidrio, con bidón exterior de aluminio. |
+| YR | Embalaje compuesto, recipiente de vidrio, con caja exterior de aluminio. |
+| YS | Embalaje compuesto, recipiente de vidrio, con caja exterior de madera. |
+| YT | Embalaje compuesto, recipiente de vidrio, con bidón exterior de contrachapado. |
+| YV | Embalaje compuesto, recipiente de vidrio con cesto exterior de mimbre. |
+| YW | Embalaje compuesto, recipiente de vidrio, con bidón exterior de cartón. |
+| YX | Embalaje compuesto, recipiente de vidrio, con caja exterior de cartón. |
+| YY | Embalaje compuesto, recipiente de vidrio, con embalaje exterior de plástico expandido. |
+| YZ | Embalaje compuesto, recipiente de vidrio, con embalaje exterior de plástico rígido. |
+| ZA | Recipiente intermedio para graneles, de papel multicapa. |
+| ZB | Saco, de gran tamaño. |
+| ZC | Recipiente intermedio para graneles, de papel multicapa, hidrófugo. |
+| ZD | Recipiente intermedio para graneles sólidos, de plástico rígido, con elementos estructurales. |
+| ZF | Recipiente intermedio para graneles sólidos, de plástico rígido, exento. |
+| ZG | Recipiente intermedio para graneles, de plástico rígido, con elementos estructurales, presurizado. |
+| ZH | Recipiente intermedio para graneles, de plástico rígido, exento, presurizado. |
+| ZJ | Recipiente intermedio para graneles, de plástico rígido, con elementos estructurales. |
+| ZK | Recipiente intermedio para graneles líquidos, de plástico rígido, exento. |
+| ZM | Recipiente intermedio para graneles sólidos, de material compuesto, de plástico flexible. |
+| ZN | Recipiente intermedio, de material compuesto, con recipiente interior de plástico rígido, presurizado. |
+| ZP | Recipiente intermedio, de material compuesto, con recipiente interior de plástico flexible, presurizado. |
+| ZQ | Recipiente intermedio para graneles líquidos,, de material compuesto, con recipiente interior de plástico rígido. |
+| ZR | Recipiente intermedio para graneles líquidos, de material compuesto, con recipiente interior de plástico flexible. |
+| ZS | Recipiente intermedio para graneles, de material compuesto. |
+| ZT | Recipiente intermedio para graneles, de cartón. |
+| ZU | Recipiente intermedio para graneles, flexible. |
+| ZV | Recipiente intermedio para graneles, de metal distinto del acero. |
+| ZW | Recipiente intermedio para graneles, de madera. |
+| ZX | Recipiente intermedio para graneles, de contrachapado. |
+| ZY | Recipiente intermedio para graneles, de madera reconstituida. |
+| ZZ | Definición común. |
+
+## ANEXO XIV-A — Claves de regímenes aduaneros
+
+00\. Este código se utilizará para indicar que no hay ningún régimen precedente.
+
+01\. Despacho a libre práctica de mercancías con reexpedición simultánea en el marco de intercambios entre partes del territorio aduanero de la Unión donde sean de aplicación las disposiciones de la Directiva 2006/112/CE del Consejo y partes de este territorio donde no sean de aplicación esas disposiciones, o en el marco de intercambios entre partes de ese territorio donde no sean de aplicación estas disposiciones.
+
+Despacho a libre práctica de mercancías con reexpedición simultánea en el marco de los intercambios entre la Unión y los países con los que ésta ha establecido una unión aduanera.
+
+Ejemplo: Mercancías que llegan de un país tercero, se despachan a libre práctica en Francia y continúan con destino a las islas anglonormandas.
+
+07\. Despacho a libre práctica e inclusión simultánea en un régimen de depósito distinto del aduanero o en un depósito REF (Marco VEXCAN).
+
+Explicación: Este código se utiliza en caso de mercancías despachadas a libre práctica para las que no se haya pagado el IVA y los posibles Impuestos Especiales o los impuestos indirectos canarios (IGIC, AIEM)
+
+Ejemplos: Unas máquinas importadas se despachan a libre práctica sin haber pagado el IVA. Durante su estancia en un depósito o un local fiscal, el pago del IVA está suspendido.
+
+Unos cigarrillos importados se despachan a libre práctica sin haber pagado el IVA y los Impuestos Especiales. Durante su estancia en un depósito o un local fiscal, el pago del IVA y de los Impuestos Especiales está suspendido.
+
+10\. Exportación definitiva.
+
+Ejemplo: Exportación normal de mercancías de la Unión a un país tercero, pero también expedición de mercancías de la Unión a partes del territorio aduanero de la Unión en las que no sean aplicables las disposiciones de la Directiva 2006/112/CE.
+
+11\. Exportación de los productos compensatorios obtenidos a partir de mercancías equivalentes en el marco del régimen de perfeccionamiento activo antes de que las mercancías de importación estén incluidas en el régimen.
+
+Explicación: Exportación previa (EX-IM) de acuerdo con el artículo 223, apartado 2, letra c) del Código.
+
+Ejemplo: Exportación de cigarrillos fabricados con hojas de tabaco de la Unión antes de la inclusión de hojas de tabaco procedentes de terceros países bajo el régimen de perfeccionamiento activo.
+
+21\. Exportación temporal en el marco del régimen de perfeccionamiento pasivo.
+
+Explicación: Régimen de perfeccionamiento pasivo en el marco de los artículos 259 a 262 del Código. Ver también el código 22.
+
+22\. Exportación temporal distinta de la contemplada para el código 21.
+
+Ejemplo: Aplicación simultánea del régimen de perfeccionamiento pasivo y del régimen de perfeccionamiento pasivo económico a los productos textiles [Reglamento (CE) n.º 3036/94 del Consejo].
+
+23\. Exportación temporal con vistas a una reintroducción posterior sin transformar.
+
+Ejemplo: Exportación temporal de artículos para exposiciones, como muestras, material profesional, etc.
+
+31\. Reexportación.
+
+Explicación: Reexportación de mercancías no pertenecientes a la Unión según un régimen suspensivo aduanero económico.
+
+Ejemplo: Mercancías que se declaran para ser introducidas en un depósito aduanero y a continuación se declaran para ser exportadas.
+
+40\. Despacho a consumo con despacho a libre práctica simultáneo de mercancías que no son objeto de entrega exenta del IVA.
+
+Ejemplo: Mercancías procedentes de un país tercero con pago de derechos de aduana e IVA.
+
+42\. Despacho a consumo con despacho a libre práctica simultáneo de mercancías exentas de IVA para su entrega en otro Estado miembro y, en su caso, en régimen suspensivo de Impuestos Especiales.
+
+Explicación: La concesión de una exención del pago del IVA y, en su caso, la suspensión de Impuestos Especiales, se debe a que tras la importación de las mercancías se lleva a cabo una entrega o transferencia dentro de la Unión de las mismas a otro Estado miembro. En este caso, el IVA y, cuando proceda, los Impuestos Especiales se adeudarán en el Estado miembro de destino final. Para acogerse a este régimen, los operadores deben cumplir las condiciones enumeradas en el artículo 143.2 de la Directiva 2006/112/CE, y, en su caso, las condiciones establecidas en el artículo 17.1.b) de la Directiva 2008/118/CE.
+
+Ejemplo 1: Importación con exención de IVA recurriendo a los servicios de un representante fiscal.
+
+Ejemplo 2: Importación de mercancías sujetas a Impuestos Especiales desde un tercer país que se despachen a libre práctica y sean objeto de una entrega exenta del IVA a otro Estado miembro. Al despacho a libre práctica le sucede inmediatamente una circulación en régimen suspensivo de los Impuestos Especiales desde el lugar de importación, iniciada por un expedidor registrado de conformidad con lo dispuesto en el artículo 17.1.b) de la Directiva 2008/118/CE.
+
+43\. Despacho a consumo con despacho a libre práctica simultáneo de mercancías en el marco de la aplicación, durante el período transitorio posterior a la adhesión de nuevos Estados miembros, de medidas especiales vinculadas a la percepción de un importe.
+
+Ejemplo: Despacho a libre práctica de productos agrícolas en el marco de la aplicación, durante un período transitorio específico posterior a la adhesión de nuevos Estados miembros, de un régimen aduanero especial o de medidas particulares instauradas entre los nuevos Estados miembros y el resto de la Comunidad, del mismo tipo que las que se aplicaron en su momento a España y Portugal.
+
+45\. Despacho a libre práctica y despacho a consumo del IVA o de los Impuestos Especiales sobre las mercancías y su inclusión en un régimen de depósito fiscal. (b)
+
+Explicación: Exención del IVA o de los Impuestos Especiales al incluir las mercancías en un régimen de depósito fiscal.
+
+Ejemplos: Cigarrillos importados de un país tercero se despachan a libre práctica y se paga el IVA. Durante su estancia en un depósito o un local fiscal, el pago de los Impuestos Especiales está suspendido.
+
+Cigarrillos importados de un país tercero se despachan a libre práctica y se pagan los Impuestos Especiales. Durante su estancia en un depósito o un local fiscal, el pago del IVA está suspendido.
+
+46\. Importación de productos transformados obtenidos a partir de mercancías equivalentes en el marco del régimen de perfeccionamiento pasivo antes de la exportación de las mercancías a las que sustituyan.
+
+Explicación: Importación previa de conformidad con el artículo 223, apartado 2, letra d), del Código.
+
+Ejemplo: Importación de tablas fabricadas a partir de madera no perteneciente a la Unión antes de la inclusión de madera de la Unión en un régimen de perfeccionamiento pasivo.
+
+48\. Entrada para consumo con despacho a libre práctica simultáneo de productos de sustitución en el marco del régimen de perfeccionamiento pasivo, antes de la exportación de mercancías de exportación temporal.
+
+Explicación: Sistema de intercambios normales (IM-EX), importación previa con arreglo al artículo 262, apartado 1, del Código.
+
+49\. Entrada para consumo de mercancías de la Unión en el marco de intercambios entre partes del territorio aduanero de la Unión donde sean de aplicación la Directiva 2006/112/CE y partes de este territorio donde no sean de aplicación estas disposiciones.
+
+Inclusión en DDA de mercancía de la Unión procedente de parte del territorio aduanero donde no sea de aplicación la Directiva 2006/112/CE.
+
+Despacho a consumo en las Islas Canarias de mercancía de la Unión.
+
+Despacho aduanero e inclusión en régimen de depósito REF de mercancía de la Unión.
+
+Entrada para consumo de mercancías en el marco de los intercambios entre la Unión y los países con los que ésta ha establecido una unión aduanera.
+
+Despacho a consumo de mercancía previamente vinculada a un depósito REF (Canarias).
+
+Explicación: Importación con despacho a consumo procedente de partes de la UE en las que no se aplica la sexta Directiva del IVA. La utilización de la declaración aduanera se establece en el artículo 134 del RDCAU.
+
+Ejemplos: Mercancías que llegan de Martinica y se despachan a consumo en Bélgica.
+
+51\. Régimen de perfeccionamiento activo.
+
+Inclusión en un régimen de perfeccionamiento REF (Marco VEXCAN).
+
+Explicación: Perfeccionamiento activo de conformidad con el artículo 256 del Código.
+
+53\. Importación al amparo del régimen de importación temporal.
+
+Ejemplo: Importación temporal, por ejemplo, para una exposición.
+
+54\. Perfeccionamiento activo en otro Estado miembro (sin que las mercancías se hayan despachado a libre práctica en él). (a)
+
+Explicación: Este código sirve para registrar la operación en las estadísticas sobre comercio en el interior de la Unión.
+
+Ejemplo: Una mercancía de un país tercero es objeto de una declaración de perfeccionamiento activo en Bélgica (5100). Tras el perfeccionamiento activo, se expide a Alemania para ser despachada allí a libre práctica (4054) o ser objeto de un perfeccionamiento complementario (5154).
+
+61\. Reimportación con despacho a consumo y despacho simultáneo a libre práctica de mercancías que no son objeto de entrega exenta del IVA.
+
+Incluye la reimportación de mercancías en retorno
+
+63\. Reimportación con despacho a consumo y despacho simultáneo a libre práctica de mercancías exentas del IVA para su entrega en otro Estado miembro y, en su caso, en régimen suspensivo de Impuestos Especiales.
+
+Explicación: La concesión de una exención del pago del IVA y, en su caso, la suspensión de Impuestos Especiales, se debe a que tras la reimportación de las mercancías se lleva a cabo una entrega o transferencia dentro de la Unión de las mismas a otro Estado miembros. En este caso, el IVA y, cuando proceda, los Impuestos Especiales, se adeudarán en el Estado miembro de destino final. Para acogerse a este régimen, los operadores deben cumplir las condiciones enumeradas en el artículo 143.2 de la Directiva 2006/112/CE y, en su caso, las condiciones establecidas en el artículo 17.1.b) de la Directiva 2008/118/CE.
+
+Ejemplo 1: Reimportación tras un perfeccionamiento pasivo o una exportación temporal, imputándose la posible deuda del IVA a un representante fiscal.
+
+Ejemplo 2: Reimportación de mercancías sujetas a Impuestos Especiales tras un perfeccionamiento pasivo que se despachen a libre práctica y sean objeto de una entrega exenta del IVA a otro Estado miembro. Al despacho a libre práctica le sucede inmediatamente una circulación en régimen suspensivo de los Impuestos Especiales desde el lugar de reimportación, iniciada por un expedidor registrado de conformidad con lo dispuesto en el artículo 17.1.b) de la Directiva 2008/118/CE.
+
+68\. Reimportación con despacho a consumo parcial y despacho simultáneo a libre práctica e inclusión bajo un régimen de depósito distinto de un régimen de depósito aduanero. (b)
+
+Ejemplo: Bebidas alcohólicas transformadas reimportadas e introducidas en depósito de Impuestos Especiales.
+
+71\. Inclusión en régimen de depósito aduanero.
+
+Explicación: Inclusión en el régimen de depósito aduanero. Esto no prejuzga de ningún modo la inclusión simultánea en un depósito de Impuestos Especiales o en un depósito IVA, por ejemplo.
+
+78\. Inclusión de mercancías en una zona franca.
+
+95\. Inclusión de bienes al régimen suspensivo de depósito distinto del aduanero del anexo quinto b) de la Ley del IVA por tratarse de entrega o adquisición intracomunitaria de bienes exenta o, inclusión en Depósito REF.
+
+(a) Claves que solo pueden ser utilizadas como régimen precedente.
+
+(b) Esta clave de régimen no está prevista en España.
+
+Claves nacionales
+
+73\. Inclusión en depósito distinto del aduanero/ depósito REF (válido hasta el 8 de mayo de 2022).
+
+80\. Despacho a consumo (tributos REF) de mercancía de la Unión previamente vinculada a un depósito REF.
+
+Cuadro de correlación de regímenes en el marco de la VEXCAN
+
+<table>
+<thead>
+<tr>
+<th>Descripción régimen</th>
+<th>Casilla 37.1</th>
+<th>Casilla 37.2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Importación a consumo.</td>
+<td>4000</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Introducción a consumo.</td>
+<td>4900</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Vinculación a Depósito Aduanero.</td>
+<td>7100</td>
+<td> </td>
+</tr>
+<tr>
+<td>Despacho a libre práctica y vinculación a Depósito REF.</td>
+<td>0700</td>
+<td>327</td>
+</tr>
+<tr>
+<td>Vinculación de mercancía comunitaria a Depósito REF.</td>
+<td>4900</td>
+<td>327</td>
+</tr>
+<tr>
+<td>Importación en RPA.</td>
+<td>5100</td>
+<td>324</td>
+</tr>
+<tr>
+<td>Importación/Introducción en régimen perfeccionamiento REF.</td>
+<td>5100</td>
+<td>324</td>
+</tr>
+<tr>
+<td>Importación/Introducción temporal.</td>
+<td>5300</td>
+<td>351 a 375</td>
+</tr>
+<tr>
+<td>Introducción con vinculación a DDA (Depósito Fiscal IMPUESTOS ESPECIALES.).</td>
+<td>4900</td>
+<td>328</td>
+</tr>
+<tr>
+<td>Despacho a consumo procedente de una importación temporal.</td>
+<td>4053</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Despacho a consumo procedente de una introducción temporal.</td>
+<td>4953</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Despacho a consumo de mercancía no de la Unión previamente vinculada a un régimen aduanero de perfeccionamiento activo o perfeccionamiento REF.</td>
+<td>4051</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Despacho a consumo de mercancía de la Unión previamente vinculada a un régimen de perfeccionamiento REF.</td>
+<td>4951</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Despacho a consumo de mercancía previamente vinculada a Depósito Aduanero.</td>
+<td>4071</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Despacho a consumo de mercancía previamente despachada a libre práctica y vinculada a Depósito REF.</td>
+<td>8007</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Despacho a consumo de mercancía comunitaria previamente vinculada a Depósito REF.</td>
+<td>
+<p>8049</p>
+<p>8073</p>
+<p>8095</p>
+</td>
+<td>*</td>
+</tr>
+<tr>
+<td>Transferencias entre Depósitos Aduaneros.</td>
+<td>7171</td>
+<td> </td>
+</tr>
+<tr>
+<td>Transferencias entre Depósitos REF.</td>
+<td>
+<p>9507</p>
+<p>9549</p>
+<p>9595</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>Reexportación de mercancía vinculada a Depósito Aduanero.</td>
+<td>3171</td>
+<td> </td>
+</tr>
+<tr>
+<td>Exportación/Expedición de mercancía vinculada a Depósito REF.</td>
+<td>
+<p>1007</p>
+<p>1049</p>
+<p>1095</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>Despacho a libre práctica de mercancía vinculada a Depósito Aduanero e inmediata vinculación a Depósito REF.</td>
+<td>0771</td>
+<td>327</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Compatible con claves 301 a 350.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se sustituye por el que figura como anexo 9º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.23. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se añade el código 46 por el apartado primero.16 de la Resolución de 2 de septiembre de 2019. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifica la descripción de la clave 07 por el apartado primero.6 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## ANEXO XIV-B — Claves casilla 37.2
+
+Si es un régimen comunitario, deberá utilizarse un código compuesto de un carácter alfabético seguido de dos caracteres alfanuméricos, identificando el primer carácter una categoría de medidas.
+
+Si es nacional, el código comenzará con un número, seguido de dos caracteres alfanuméricos.
+
+| Medida | CE | Nacional |
+|---|---|---|
+| Perfeccionamiento activo. | Axx |  |
+| Perfeccionamiento pasivo. | Bxx |  |
+| Franquicias. | Cxx |  |
+| Importación temporal. | Dxx |  |
+| Productos agrícolas. | Exx |  |
+| Varios. | Fxx |  |
+| Otros supuestos nacionales: |  |  |
+| Exenciones IVA (Importación). |  | 10x y 11x |
+| Impuestos Especiales (Exportación). |  | 12x |
+| Exenciones REF Canarias. |  | 3xx |
+| Importación/Exportación I. sobre Labores de Tabaco Canarias. |  | 4xx |
+| Importación: supuestos específicos aduaneros. |  | 5xx |
+| Régimen de abastecimiento de Canarias. |  | 8xx |
+| Declaraciones simplificadas y otros (Importación y Exportación). |  | 9xx |
+
+Si hubiera que declarar más de un código para la misma partida, se tendrá en cuenta lo siguiente:
+
+– Pueden declararse hasta tres códigos en importación: un código comunitario y dos nacionales, o tres códigos nacionales. En exportación podrán declararse dos códigos.
+
+– Si correspondiera un código comunitario, este deberá declararse el primero y en el documento en papel será el que se consigne en la casilla 37. El resto se incluirán en la subcasilla inferior de la casilla 44.
+
+– Si debe declararse un código de exención de IVA y un código de declaración simplificada, el primero será el de la exención de IVA.
+
+– Puede declararse más de un código de declaración simplificada.
+
+Perfeccionamiento activo (PA) (artículo 114 del Código)
+
+| Procedimiento o régimen | Código |
+|---|---|
+| Importación. |  |
+| Mercancías incluidas en un régimen PA previa exportación anticipada de los productos transformados obtenidos a partir de la leche y de los productos lácteos. | A01 |
+| Mercancías incluidas en un régimen PA y destinadas a uso militar en el extranjero. | A02 |
+| Mercancías incluidas en un régimen PA y destinadas a la reexportación a la plataforma continental. | A03 |
+| Mercancías incluidas en un régimen PA (únicamente IVA). | A04 |
+| Mercancías incluidas en un régimen PA (únicamente IVA) destinadas a la reexportación a la plataforma continental. | A05 |
+| Mercancías incluidas en un régimen de PA sin suspensión de los Impuestos Especiales. | A08 |
+| Exportación. |  |
+| Productos transformados obtenidos a partir de la leche y de los productos lácteos. | A51 |
+| Productos transformados incluidos en un régimen PA (únicamente IVA). | A52 |
+| Productos transformados incluidos en un régimen PA destinados a un uso militar en el extranjero. | A53 |
+
+Perfeccionamiento pasivo (PP) (artículo 145 del Código)
+
+| Procedimiento o régimen | Código |
+|---|---|
+| Importación. |  |
+| Productos transformados de retorno en el Estado miembro donde se pagaron los derechos. | B01 |
+| Productos transformados de retorno tras reparación bajo garantía. | B02 |
+| Productos transformados de retorno tras sustitución bajo garantía. | B03 |
+| Productos transformados de retorno tras PP y suspensión del IVA debido a un destino especial. | B04 |
+| Importación previa de productos transformados al amparo del perfeccionamiento pasivo. | B07 |
+| Exportación. |  |
+| Mercancías importadas para PA exportadas para reparación al amparo del PP. | B51 |
+| Mercancías importadas para PA exportadas para sustitución bajo garantía. | B52 |
+| PP en el marco de los acuerdos con terceros países, eventualmente combinado con un PP IVA. | B53 |
+| PP IVA solamente. | B54 |
+
+Franquicias [Reglamento (CE) n.º 1186/2009]
+
+|  | Art.º | Código |
+|---|---|---|
+| Franquicia de derechos de importación. |  |  |
+| Bienes personales importados por personas físicas que trasladan su residencia normal en la Comunidad. | 3 | C01 |
+| Bienes importados con ocasión de un matrimonio. | 12.1 | C02 |
+| Regalos habitualmente ofrecidos con ocasión de un matrimonio. | 12.2 | C03 |
+| Bienes personales recibidos en herencia. | 17 | C04 |
+| Equipo, material de estudio y demás efectos de alumnos y estudiantes. | 21 | C06 |
+| Envíos sin valor estimable. | 23 | C07 |
+| Envíos de particular a particular. | 25 | C08 |
+| Bienes de inversión y otros bienes de equipo importados con ocasión del traslado de actividades desde un país tercero a la Comunidad. | 28 | C09 |
+| Bienes de inversión y otros bienes de equipo que pertenezcan a personas que ejerzan una profesión liberal así como a las personas jurídicas que ejerzan una actividad sin fines lucrativos. | 34 | C10 |
+| Objetos de carácter educativo, científico o cultural; instrumentos y aparatos científicos, que figuran en el anexo I. | 42 | C11 |
+| Objetos de carácter educativo, científico o cultural; instrumentos y aparatos científicos, que figuran en el anexo II. | 43 | C12 |
+| Objetos de carácter educativo, científico o cultural; instrumentos y aparatos científicos (piezas de recambio, elementos, accesorios e instrumentos. | 44-45 | C13 |
+| Equipos importados con fines no comerciales por o por cuenta de un establecimiento o de un organismo de investigación científica con sede en el exterior de la Unión. | 51 | C14 |
+| Animales de laboratorio y sustancias biológicas o químicas destinadas a la investigación. | 53 | C15 |
+| Sustancias terapéuticas de origen humano y reactivos para la determinación de los grupos sanguíneos y el análisis de tejidos humanos. | 54 | C16 |
+| Instrumentos y aparatos destinados a la investigación médica, la realización de diagnósticos o los tratamientos médicos. | 57 | C17 |
+| Sustancias de referencia para el control de la calidad de los medicamentos. | 59 | C18 |
+| Productos farmacéuticos utilizados con ocasión de manifestaciones deportivas internacionales. | 60 | C19 |
+| Mercancías de toda clase dirigidas a organismos de carácter benéfico y filantrópico. | 61 | C20 |
+| Objetos del anexo III destinados a ciegos. | 66 | C21 |
+| Objetos del anexo IV destinados a ciegos, importados por los propios ciegos para propio uso (como piezas de repuesto, componentes, accesorios y herramientas). | 67 | C22 |
+| Objetos del anexo IV destinados a ciegos, importados por determinadas instituciones u organizaciones (como piezas de repuesto, componentes, accesorios y herramientas). | 67 | C23 |
+| Objetos destinados a otras personas con discapacidad (distintas de los ciegos), importados por dichas personas para su propio uso (como piezas de repuesto, componentes, accesorios y herramientas). | 68 | C24 |
+| Objetos destinados a otras personas con discapacidad (distintas de los ciegos), importados por determinadas instituciones u organizaciones (como piezas de repuesto, componentes, accesorios y herramientas). | 68 | C25 |
+| Mercancías importadas en beneficio de las víctimas de catástrofes. | 74 | C26 |
+| Condecoraciones o recompensas concedidas a título honorífico. | 81 | C27 |
+| Regalos recibidos en el marco de las relaciones internacionales. | 82 | C28 |
+| Mercancías destinadas al uso de Soberanos y Jefes de Estado. | 85 | C29 |
+| Muestras de mercancías sin valor estimable importadas con fines de promoción comercial. | 86 | C30 |
+| Impresos y objetos de carácter publicitario importados con fines de promoción comercial. | 87-89 | C31 |
+| Productos utilizados o consumidos durante una exposición o una manifestación similar. | 90 | C32 |
+| Mercancías importadas para exámenes, análisis o ensayos. | 95 | C33 |
+| Envíos destinados a organismos competentes en materia de protección de los derechos de autor o de la propiedad industrial o comercial. | 102 | C34 |
+| Documentación de carácter turístico. | 103 | C35 |
+| Documentos y artículos diversos. | 104 | C36 |
+| Materiales auxiliares para la estiba y protección de las mercancías durante su transporte. | 105 | C37 |
+| Camas de paja, forraje y alimentos para los animales durante su transporte. | 106 | C38 |
+| Carburantes y lubricantes a bordo de vehículos terrestres de motor y en los contenedores para usos especiales. | 107 | C39 |
+| Materiales para los cementerios y monumentos conmemorativos de víctimas de guerra. | 112 | C40 |
+| Ataúdes, urnas funerarias y objetos de ornamentación funeraria. | 113 | C41 |
+|  |  |  |
+| Franquicia de derechos de exportación. |  |  |
+| Animales domésticos exportados con ocasión de un traslado de explotación agrícola desde la Comunidad a un país tercero. | 115 | C51 |
+| Forrajes y alimentos que acompañen a los animales durante su exportación. | 121 | C52 |
+
+Importación temporal
+
+| Procedimiento o régimen | Artículo del RDCAU 2015/2446 | Código |
+|---|---|---|
+| Paletas. | 208 y 209 | D01 |
+| Contenedores. | 210 y 211 | D02 |
+| Medios de transporte. | 212 | D03 |
+| Efectos personales de viajeros y mercancías destinados a ser utilizados con fines deportivos. | 219 | D04 |
+| Material de bienestar de las gentes del mar. | 220 | D05 |
+| Material destinado a combatir los efectos de las catástrofes. | 221 | D06 |
+| Material médico-quirúrgico y de laboratorio. | 222 | D07 |
+| Animales. | 223 | D08 |
+| Mercancías destinadas a actividades tradicionales de la zona fronteriza. | 224 | D09 |
+| Soportes de sonido, imágenes o información. | 225 | D10 |
+| Material promocional. | 225 | D11 |
+| Material profesional. | 226 | D12 |
+| Material pedagógico y científico. | 227 | D13 |
+| Envases, llenos. | 228 | D14 |
+| Envases, vacíos. | 228 | D15 |
+| Moldes, matrices, clichés, proyectos, instrumentos de medida, control, verificación y otros objetos similares. | 229 | D16 |
+| Utensilios e instrumentos especiales. | 230 | D17 |
+| Mercancías que deban someterse a ensayos. | 231 (a) | D18 |
+| Mercancías importadas al amparo de un contrato de venta condicionado al resultado satisfactorio de los ensayos. | 231 (b) | D19 |
+| Mercancías utilizadas para efectuar ensayos. | 231c) | D20 |
+| Muestras. | 232 | D21 |
+| Medios de producción de sustitución. | 233 | D22 |
+| Mercancías que se destinen a ser expuestas o a ser utilizadas en una exposición pública. | 234 (1) | D23 |
+| Envíos a prueba (seis meses). | 234 (2) | D24 |
+| Objetos de arte, objetos de colección y antigüedades. | 234 (3a) | D25 |
+| Mercancías importadas para ser vendidas en subasta. | 234 (3b) | D26 |
+| Piezas de recambio, accesorios y equipos. | 235 | D27 |
+| Mercancías importadas en situaciones especiales sin incidencia económica. | 236 b) | D28 |
+| Mercancías importadas ocasionalmente durante un período no superior a tres meses. | 236 a) | D29 |
+| Importación temporal con exención parcial de derechos. | 206 | D51 |
+
+Productos agrícolas
+
+| Procedimiento o régimen | Código |
+|---|---|
+| Importación. |  |
+| Uso de precio unitario para determinar el valor en aduana para ciertas mercancías perecederas [articulo 74, apartado 2, letra c) del CAU y artículo142, apartado 6, del RECAU]. | E01 |
+| Valores de importación a tanto alzado [por ejemplo: Reglamento (UE) n.º 543/2011. | E02 |
+
+Varios
+
+| Procedimiento o régimen | Código |
+|---|---|
+| Importación. |  |
+| Exención de los derechos de importación para las mercancías de retorno (artículo 203 del Código). | F01 |
+| Exención de los derechos de importación para las mercancías de retorno (circunstancias especiales previstas en el artículo 159 del RDCAU; mercancías agrícolas). | F02 |
+| Exención de los derechos de importación para las mercancías de retorno (circunstancias especiales previstas en el artículo 159 del RDCAU; reparaciones o restauraciones). | F03 |
+| Productos transformados que retornen a la Unión Europea tras haber sido exportados o reexportados previamente (artículo 205, apartado 1 del CAU). | F04 |
+| Circulación de mercancías sujetas a Impuestos Especiales en régimen suspensivo desde el lugar de importación, de conformidad con lo dispuesto en el artículo 17, apartado 1, letra b), de la Directiva 2008/118/CE. | F06 |
+| Exención de derechos de importación de los productos de la pesca y de otros productos extraídos de las aguas territoriales de un país tercero por barcos matriculados o registrados en un Estado miembros y que ostenten pabellón de ese Estado. | F21 |
+| Exención de derechos de importación de los productos de la pesca y de otros productos extraídos de las aguas territoriales de un país tercero a bordo de barcos factoría matriculados o registrados en un Estado miembro y que ostentan pabellón de ese Estado. | F22 |
+| Mercancías que, después de haber estado bajo el régimen de perfeccionamiento pasivo, se incluyen en un régimen de depósito sin suspensión de los Impuestos Especiales. | F31 |
+| Mercancías que, después de haber estado bajo el régimen de perfeccionamiento activo, se incluyen en un régimen de depósito sin suspensión de los Impuestos Especiales. | F32 |
+| Mercancías que, después de estar en una zona franca, se incluyen en un régimen de depósito sin suspensión de los Impuestos Especiales. | F33 |
+| Mercancías que, después de haber estado bajo el régimen de destino final, se incluyen en un régimen de depósito sin suspensión de los Impuestos Especiales. | F34 |
+| Despacho a libre práctica de mercancías destinadas a una exposición o venta, incluidas en el régimen de admisión temporal, aplicando los elementos de cálculo vigentes en el momento de la aceptación de la declaración de despacho a libre práctica. | F41 |
+| Despacho a libre práctica de productos transformados cuando el cálculo del importe de los derechos de importación se realizan de conformidad con el artículo 86, apartado 3, del Código. | F44 |
+| Utilización de la clasificación arancelaria original de las mercancías en los casos previstos en el artículo 86.2 del CAU. | F46 |
+| Exportación. |  |
+| Exportaciones para uso militar. | F51 |
+| Avituallamiento y Equipamiento. | F61 |
+
+Códigos Nacionales
+
+| Procedimiento o régimen | Código vigente |
+|---|---|
+| *Importación: IVA (Ley 37/92)* |  |
+| En régimen de recargo de equivalencia. | 100 |
+| Exención de IVA prevista en los artículos 27.1.º, 28 a 34, 36 a 39, 43, 47, 48 y 50 a 53, 56 y 60 a 62 de la Ley de dicho impuesto. | 101 |
+| Exención de IVA prevista en los artículos 40 a 42, 44 a 46, 49, 54 y 58 de la ley de dicho impuesto. | 102 |
+| Exención de IVA prevista en el artículo 27, puntos 2.º a 6.º y 11.º de la ley de dicho impuesto. | 103 |
+| Exención de IVA prevista en el artículo 63 de la ley de dicho impuesto. | 104 |
+| Exención de IVA prevista en el artículo 66.1.º de la ley de dicho impuesto. | 105 |
+| Importación temporal parcial con aplicación de la exención de IVA prevista en el artículo 66.2.º de la ley de dicho impuesto. | 106 |
+| Otras exenciones de IVA no previstas en el resto de claves. | 107 |
+| Franquicias de arancel e IVA al Cuerpo Diplomático. | 108 |
+| Franquicias de arancel e IVA al personal de la OTAN. | 109 |
+| Entrada en DDA, supuestos especiales. | 112 |
+| Exención IVA importaciones de productos a los que hacen referencia las letras f) y g) del artículo 46.1 de la Ley 38/1992 (Ver apéndice II, caso especial). | 113 |
+| Franquicia de arancel e IVA acuerdo NATA-INTA. | 114 |
+| Franquicia de arancel acuerdo internacional Asuntos Exteriores. | 115 |
+| No sujeción IVA despacho centralizado otros EE.MM. | 116 |
+| Aplicación automática franquicia arancel e IVA formulario web (pequeños envíos <22). | 117 |
+| Aplicación automática franquicia arancel en formulario web (pequeños envíos >22 <150). | 118 |
+| Aplicación automática franquicia arancel e IVA formulario web (entre particulares <45). | 119 |
+| Bienes artísticos importados con motivo de exposición. | 120 |
+| Exención de IVA del artículo 8 del RD Ley 15/20. | 125 |
+| Exención de IVA Disposición Final Séptima del RD Ley 35/2020. | 126 |
+| *Exportación: códigos Impuestos Especiales* |  |
+| Cuando se solicite la devolución de las cuotas soportadas por Impuestos Especiales y la aduana de salida esté dentro del ámbito territorial interno. | 121 |
+| Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y coincida la aduana de exportación y la aduana de salida. | 122 |
+| Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y la aduana de salida esté dentro del ámbito territorial interno y sea distinta de la de exportación. | 123 |
+| Para envíos, desde Península o islas Baleares con destino a las Islas Canarias, de productos intermedios o de alcohol o bebidas derivadas, cuando se solicite la devolución de las cuotas resultantes de aplicar la diferencia de tipos impositivos existente entre dichos territorios en el momento del envío. | 124 |
+| Cuando se exporten productos por los que ya se ha devengado el impuesto especial a tipo cero o cuando no se solicite la devolución de las cuotas satisfechas de Impuestos Especiales correspondientes a los productos exportados. | 125 |
+| Cuando la exportación ultime el régimen suspensivo de Impuestos Especiales y la aduana de salida sea distinta de la de exportación y pertenezca a otro Estado miembro de la Unión Europea. | 126 |
+| Para envíos entre Canarias y Península o islas Baleares de productos sujetos a los Impuestos Especiales sobre cerveza, productos intermedios o alcohol y bebidas derivadas cuya circulación entre origen y destino deba ir amparada por un documento administrativo electrónico. | 128 |
+| Ultimación del régimen suspensivo por salida del TAU en tiendas libres de impuestos. | 129 |
+| *Exportación: procedimientos simplificados* |  |
+| EIR tiendas libres de impuestos | 141 |
+| EIR pequeños envíos (e-commerce) | 142 |
+| Exportaciones desde Ceuta y Melilla al resto del territorio nacional con documento comercial | 143 |
+| Procedimiento simplificado con Andorra | 144 |
+| Exportación envíos urgentes, apéndice IX | 145 |
+| Autorización agrupación partidas | 177 |
+
+| Importaciones: exenciones REF Canarias (Ley 20/91) | Art n.º | Código |
+|---|---|---|
+| Importaciones de bienes recogidas en el artículo 14.1. | 14.1 y 73 | 301 |
+| Importaciones de bienes recogidas en el artículo 14.2. | 14.2 | 302 |
+| Bienes personales importados por personas físicas que trasladan su residencia a Canarias. | 14.3.1.º y 73 | 303 |
+| Bienes personales importados con ocasión de matrimonio. | 14.3.2.º y 73 | 304 |
+| Bienes personales recibidos en herencia. | 14.3.3.º y 73 | 305 |
+| Bienes personales para amueblar una residencia secundaria. | 14.3.4.º y 73 | 306 |
+| Bienes personales y objetos de mobiliario usados de estudiantes. | 14.3.5.º y 73 | 307 |
+| Envíos desprovistos de carácter comercial, obsequio, envíos entre particulares sin contraprestación. | 14.3.6.º 8.º 28.º y 73 | 308 |
+| Bienes importados por entidades con fines caritativos o filantrópicos. | 14.3.11.º y 73 | 309 |
+| Bienes importados por establecimientos autorizados para la asistencia a discapacitados. | 14.3.12.º y 73 | 310 |
+| Muestrarios sin valor comercial, impresos de carácter publicitario, bienes destinados a una exposición o una manifestación similar. | 14.3.16.º 17.º 18.º 19.ºy 73 | 311 |
+| Bienes de inversión y otros bienes de equipo pertenecientes a empresas importados con ocasión del traslado de actividades a Canarias. | 14.3.20.º y 73 | 312 |
+| Objetos de colección o de arte de carácter educativo, científico o cultural importados para su exposición. | 14.3.32.º | 313 |
+| Documentos de carácter oficial, signos de franqueo, efectos estancados y timbrados, cupones para juegos organizados por ONLAE, ONCE y en su caso órganos correspondientes de la Comunidad Autónoma de Canarias. | 14.3.34.º y 73, 14.3.35.º, y 14.3.36.º y 73 | 314 |
+| Reimportación de bienes exentas. | 14.4 y 73 y 14.5 | 315 |
+| Importaciones en régimen diplomático o consular. | 14.8 y 73 | 316 |
+| Bienes importados al amparo de Convenios Internacionales vigentes en España, en materia de cooperación cultural, científica o técnica. | 14.10 y 73 | 317 |
+| Importaciones de bienes cuyo valor global no exceda de 150 euros, | 14.11 y 73 | 318 |
+| Importaciones de armamento, munición y material de uso específicamente militar. | 14.12 | 319 |
+| Bienes de inversión (Ley 19/1994). | 25 | 321 |
+| Importaciones de bienes realizadas por las entidades de la Zona Especial Canaria (Ley 19/1994). | 47 | 322 |
+| Bienes artísticos importados con motivo de exposición |  | 323 |
+| Importaciones/introducciones en régimen de suspensión de perfeccionamiento activo REF. | 15.1.a y 74 | 324 |
+| Importaciones/introducciones en régimen de transformación bajo control administrativo. |  | 325 |
+| Importaciones/introducciones de bienes que se coloquen en Zona o Depósitos Francos. | 15.1.b y 72 | 326 |
+| Importaciones/introducciones de bienes que se coloquen en régimen de Depósito REF. | 15.1.b y 72 | 327 |
+| Introducciones/importaciones de bienes con vinculación al régimen DDA (Depósito fiscal impuestos especiales). |  | 328 |
+| Exenciones específicas AIEM | 73.3 | 329 |
+| Resto de exenciones contempladas en el art. 14. | 14 y en su caso 72 y 73 | 330 |
+| Introducciones/Importaciones de oro de inversión. Art. 58.3. | 58 ter | 331 |
+| Supuesto de no sujeción al AIEM, Ley 4/2014 | Anexo I | 350 |
+| Importación temporal REF de: | 15.1a y 74 |  |
+| − Paletas y contendores. |  | 351 |
+| − Medios de transporte. |  | 352 |
+| − Efectos personales de viajeros y mercancías destinados a ser utilizados con fines deportivos. |  | 353 |
+| − Material médico-quirúrgico y de laboratorio. |  | 354 |
+| − Animales. |  | 355 |
+| − Soportes de sonido, imágenes o información; material publicitario. |  | 356 |
+| − Material promocional. |  | 357 |
+| − Material profesional. |  | 358 |
+| − Material pedagógico y científico. |  | 359 |
+| − Envases, llenos. |  | 360 |
+| − Envases, vacíos. |  | 361 |
+| − Moldes, matrices, clichés, proyectos, instrumentos de medida, control, verificación y otros objetos similares. |  | 362 |
+| − Utensilios e instrumentos especiales. |  | 363 |
+| − Mercancías que deban servir para efectuar ensayos o someterse a ellos. |  | 364 |
+| − Mercancías importadas al amparo de un contrato de venta condicionado al resultado satisfactorio de los ensayos. |  | 365 |
+| − Mercancías utilizadas para efectuar ensayos. |  | 366 |
+| − Muestras. |  | 367 |
+| − Medios de producción de sustitución. |  | 368 |
+| − Mercancías que se destinen a ser expuestas o a ser utilizadas en una exposición pública. |  | 369 |
+| − Envíos a prueba (dos meses). |  | 370 |
+| − Objetos de arte, objetos de colección y antigüedades. |  | 371 |
+| − Mercancías, distintas a las fabricadas de nuevo, importadas para ser vendidas en subasta. |  | 372 |
+| − Piezas de recambio, accesorios y equipos. |  | 373 |
+| − Mercancías importadas en situaciones especiales sin incidencia económica/ Mercancías importadas ocasionalmente durante un período no superior a tres meses. |  | 374 |
+| − Importación temporal con exención parcial de derechos. |  | 375 |
+| Ley 4/2012, de 25 de junio. |  |  |
+| Mercancía no destinada a la actividad de comerciante minorista, | 90 Uno b) | 320 |
+| Sector diferenciado comerciante minorista, | 90.Uno.b | 332 |
+| Importaciones: tipo 0 por cien de IGIC REF Canarias: |  |  |
+| – Bienes importados con destino a la investigación y desarrollo tecnológico en el ámbito de la astrofísica. | 52.l | 340 |
+| – Bienes importados con destino a centros de control y estaciones de seguimiento de satélites. | 52.m | 341 |
+| – Bienes con destino a la captación de aguas superficiales, al alumbramiento de las subterráneas o a la producción industrial de agua, así como a la realización de infraestructuras de almacenamiento de agua y del servicio público de transporte del agua. | 52.a | 342 |
+| – Bienes importados con destino a la ejecución de una producción de largometraje cinematográfico o una serie audiovisual que permita la confección de un soporte físico previo a su producción industrial. | 52.ñ | 343 |
+| – Los vehículos híbridos eléctricos cuyas emisiones no excedan los 110 gramos de dióxido de carbono por kilómetro recorrido.<br>– Los vehículos eléctricos, con la excepción de los vehículos que marchen por raíles instalados en la vía.<br>– Los vehículos destinados al transporte público propulsados por gas licuado del petróleo (GLP) y por gas natural vehicular.<br>– Los vehículos de pila de combustible.<br>– Los ciclos, bicicletas y bicicletas con pedaleo asistido. |  | 344 |
+| Bienes necesarios para combatir los efectos del COVID-19. |  | 345 |
+| Las entregas de bienes destinados exclusivamente al funcionamiento de los subsistemas de detección, comunicación, mando y control del sistema integrado de vigilancia exterior (SIVE). | 52.s | 346 |
+| Importación de bienes tipo 0 %, La Palma, erupción volcánica. |  | 347 |
+
+|  | Art. n.º | Código vigente |
+|---|---|---|
+| *Importaciones: Impuesto Labores Tabaco Canarias (Ley 1/11)* |  |  |
+| Importación cigarrillos que no contengan tabaco y función exclusivamente medicinal. | 4.7 | 401 |
+| Importación cigarrillos negros: exención año 2011. | D.T.2.ª | 402 |
+| *Exportaciones: Impuesto Labores Tabaco Canarias (Ley 1/11)* |  |  |
+| Exportación de mercancías por las que se hubiera soportado el impuesto sobre las labores del tabaco, aplicable en Canarias. |  | 421 |
+| Exportación que ultima el régimen suspensivo. |  | 422 |
+
+| Importación: supuestos específicos aduaneros | Referencia | Código |
+|---|---|---|
+| RPA IM/EX: casos especiales de ultimación | Art. 324.3 RECAU | 501 |
+| Reimportación tras un perfeccionamiento pasivo fiscal. |  | 502 |
+| Retorno exportación anticipada (ver apéndice XVIII). |  | 504 |
+| El declarante opta por el pago de la diferencia de derechos entre el precio en factura y el valor a tanto alzado (art. 137.2 2.º Reglamento 543/2011). |  | 505 |
+| Importación en Destino Final de aeronaves civiles con certificado matrícula provisional o definitivo (NI GA 14/2016) |  | 506 |
+| El declarante solicita la aplicación del tipo arancelario correspondiente al régimen de destino final al que hubiera podido acogerse en el momento de vincular la mercancía al RPA | Art.73 RDCAU | 507 |
+| Importación Temporal | Art. 81 RDCAU | 508 |
+| Productos transformados tras reparación en Reino Unido en perfeccionamiento pasivo |  | 509 |
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Exportación: códigos Régimen de Abastecimiento de Canarias (REA)</th>
+<th>Código vigente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">Expediciones/exportaciones efectuadas desde las Islas Canarias, de productos transformados obtenidos a partir de materias primas previstas en el régimen específico de abastecimiento de dichas Islas, o de productos sin transformar que no se hayan acogido al REA, pero susceptibles de acogerse a dicho régimen en el momento de la su introducción/importación (art 14.1 del Reglamento (UE) n.º 228/2013).</td>
+<td>801</td>
+</tr>
+<tr>
+<td colspan="2">Exportación de productos en el mismo estado o elaborados a partir de productos previamente importados acogidos a REA (art 14.1 del Reglamento (UE) n.º 228/2013).</td>
+<td>802</td>
+</tr>
+<tr>
+<td colspan="2">Expedición de productos en el mismo estado o elaborados a partir de productos previamente importados acogidos a REA (art. 14.1 del Reglamento (UE) n.º 228/2013).</td>
+<td>803</td>
+</tr>
+<tr>
+<td colspan="2">Exportación o expedición de productos en el mismo estado o elaborados a partir de productos previamente introducidos desde la Comunidad acogidos a REA (art.14.1 del Reglamento (UE) n.º 228/2013).</td>
+<td>804</td>
+</tr>
+<tr>
+<td colspan="2">Expediciones y exportaciones efectuadas desde las Islas Canarias, relativas a productos transformados dentro de las corrientes tradicionales (art.14.2 del Reglamento (UE) n.º 228/2013).</td>
+<td>805</td>
+</tr>
+<tr>
+<td colspan="2">Exportaciones efectuadas desde las Islas Canarias, relativas a productos transformados en el marco del comercio regional (art.14.2 del Reglamento (UE) n.º 228/2013).</td>
+<td>806</td>
+</tr>
+</tbody>
+</table>
+
+|  | Código |
+|---|---|
+| *Importación: declaraciones simplificadas por falta de documento y otras* |  |
+| Despacho provisional pendiente de la presentación del certificado de origen exigido para la aplicación de la preferencia arancelaria solicitada. | 9OR |
+| Pendiente concesión de una franquicia arancelaria, previamente solicitada o del cumplimiento de algún requisito previsto en la normativa que ampara dicha franquicia. | 9AR |
+| Pendiente de justificar la exención de IVA. | 9IV |
+| Pendiente de justificar la franquicia de arancel y la exención de IVA. | 9AI |
+| Pendiente presentación de factura definitiva u otro justificante del valor de las mercancías. | 9VA |
+| Pendiente presentación del estado de liquidación en importación de mercancía en RPA | 9EA |
+| Pendiente presentación T2LF | 9LF |
+| Pendiente presentar compromiso del exportador respecto a reducción derecho antidumping | 9DU |
+| *Importación: declaración completa, solicitud especial* |  |
+| Petición de levante sin esperar a la concesión del contingente solicitado. | 9CO |
+| Solicitud de franquicia por cambio de residencia con compromiso de establecerse en el TAU en seis meses (Reglamento (CE) 1186/2009, del Consejo, artículo 9) | 9CR |
+| *Exportación: declaraciones simplificadas* |  |
+| Pendiente presentación de factura definitiva o información determinante sobre el valor o el peso. | 9VA |
+| Pendiente determinación del peso de la mercancía o de la magnitud de control de la cuenta de existencias del depósito aduanero o del distinto del aduanero y, en su caso, de la factura definitiva. | 9PV |
+
+> Se sustituye por el que figura como anexo 9º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.23. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 26 de abril de 2022. [Ref. BOE-A-2022-7136](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7136)
+
+> Se sustituye por el que figura como anexo 10º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.17. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se modifica por el apartado primero.20 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se sustituyen los cuadros "Importación: supuestos específicos aduaneros" e "Importación: declaraciones incompletas, códigos de pendencia" por el apartado primero.28 y 29 de la Resolución de 14 de enero de 2016. [Ref. BOE-A-2016-646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-646)
+
+## ANEXO XV-A — Códigos de menciones especiales
+
+| Código | Indicación especial | Fundamento jurídico |
+|---|---|---|
+| 00100 | «Autorización simplificada». | Apartado 3 del artículo 497. |
+| 10100 | «Importación al amparo de un certificado de aptitud para el vuelo». | 2 apartado 1 del Reglamento (CE) n.<sup>o </sup>147/2002. |
+| 10200 | «Mercancías PA/S». | 549 apartado 1. |
+| 10300 | «Mercancías PA/S, Política comercial». | 549 apartado 2. |
+| 10400 | «Mercancías PA/R». | 550. |
+| 10500 | «Mercancías AT». | 583. |
+| 30300 | «Artículo 298, Reglamento (CEE) n.<sup>o </sup>2454/93, destino especial: mercancías destinadas a la exportación - no se aplican restituciones agrícolas». | 298. |
+| 30400 | «RET-EXP». | 793 apartado 3. |
+
+## ANEXO XV-B — Códigos de documentos casilla 44
+
+NOTAS:
+
+a) La relación de códigos vigentes de documentos se actualiza diariamente por las transmisiones de la Comunidad TARIC y pueden consultarse en la Sede de la Agencia Tributaria<sup>(1)</sup>. La presente relación es la vigente el 15 de marzo de 2022.
+
+<sup>(1)</sup> https://sede.agenciatributaria.gob.es/Sede/aduanas/deuda-aduanera-garantias-elementos/clasificacion-mercancia-taric.html
+
+b) Además de declarar el código de tipo de documento, este deberá identificarse según el documento de que se trate, normalmente, mediante la inclusión del código del país donde fue emitido, su número de registro y la fecha de expedición.
+
+| Código | Descripción documento |
+|---|---|
+| A | CERTIFICADOS DE AUTENTICIDAD. |
+| A001 | Certificado de autenticidad uvas frescas de mesa 'EMPERADOR. |
+| A004 | Certificado de autenticidad del tabaco. |
+| A007 | Certificado de autenticidad - Carne de vaca y ternera congelada (cortes de cuartos delanteros de pecho llamados australianos ). |
+| A008 | Certificado de autenticidad frescas naranjas dulces "de calidad superior". |
+| A009 | Certificado de autenticidad frescas minneolas. |
+| A010 | Certificado de autenticidad zumo de naranja concentrado. |
+| A014 | Certificado de autenticidad HANDI. |
+| A015 | Certificado de autenticidad (Productos de seda o de algodón tejidos en telares a mano). |
+| A016 | Certificado de autenticidad carne de vacuno – delgados. |
+| A017 | Certificado de autenticidad conforme a las disposiciones del Reglamento de Ejecución (UE) 2020/761. |
+| A019 | Certificado de calidad:Nitrato de Chile. |
+| A022 | Certificado de autenticidad: "Certificate of authenticity B "Basmati Rice" for export to the European Community". |
+| A023 | Certificado de autenticidad carne de vacuno, Reglamento de Ejecución (UE) 2020/1988. |
+| A030 | Certificado de autenticidad: "Certificate of authenticity for export to the European Union - Fragrant rice". |
+| C | OTROS CERTIFICADOS. |
+| C001 | Certificado de equivalencia conforme a las disposiciones del Reglamento (CE) no 1295/2008 (DO L 340). |
+| C006 | Export permit (Decisión del Consejo (UE) 2017/37 (DO L 11)). |
+| C008 | Documento expedido por la autoridad o el organismo competente del tercer país de origen, Reglamento de Ejecución (UE) 2020/1988. |
+| C012 | Certificate for the export of pasta to the USA (P 2 certificate). |
+| C013 | Certificado IMA 1. |
+| C014 | Documento V I 1. |
+| C015 | Extracto V I 2. |
+| C017 | Documento V I 1 anotado de conformidad con el artículo 25, apartado 2, del Reglamento (UE) 2018/273. |
+| C018 | Extracto V I 2 anotado de conformidad con el artículo2 0, apartado 2, del Reglamento (UE) 2018/273. |
+| C019 | OPO - Autorización de utilización del régimen de perfeccionamiento pasivo (columna 8b del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C026 | Certificado de inscripción en el libro genealógico que certifique la pureza de raza. |
+| C027 | Certificado de ascendencia. |
+| C034 | Certificado UE "Kimberley". |
+| C039 | Documento estadístico CICAA para pez espada. |
+| C040 | Documento estadístico para el patudo de la CICAA, la CAOI o la CIAT. |
+| C041 | Certificado de reexportación CICAA-atún rojo. |
+| C042 | Certificado de reexportación CICAA-pez espada. |
+| C043 | Certificado de reexportación para el patudo de la CICAA, la CAOI o la CIAT. |
+| C046 | Nota de pesaje de los plátanos. |
+| C047 | Documento CICAA de captura de atún rojo. |
+| C050 | Certificado conforme a las disposiciones del Reglamento (UE) n.º 1308/2013 (DO L 347). |
+| C052 | Autorización de exportación de mercancías y tecnologías restringidas. |
+| C055 | Declaración de conformidad (anexo IV del Reglamento (UE) No 10/2011). |
+| C056 | Certificado para pieles de determinadas especies animales salvajes y para mercancías que contienen esas pieles sujetas al Reglamento (CEE) n.º 3254/91 del Consejo. |
+| C057 | Copia de la declaración de conformidad - Opción A, conforme a lo dispuesto en el artículo 1, apartado 2, y en el anexo del Reglamento (UE) 2016/879. |
+| C058 | Declaración de conformidad con los criterios para determinar cuándo determinados tipos de chatarra dejan de ser residuos, a que se refiere el artículo 5, apartado 1 del Reglamento (UE) N° 333/2011 del Consejo. |
+| C060 | Declaración que debe presentarse con cada envío de artículos de cocina que entren en el ámbito de aplicación del Reglamento (UE) n.º 284/2011, originarios o procedentes de la República Popular China o la Región Administrativa Especial de Hong-Kong, China. |
+| C064 | Licencia de exportación e importación de productos que pueden usarse para infligir torturas [Reglamento (UE) 2019/125]. |
+| C065 | Permiso para las especies exóticas invasoras con arreglo al artículo 8 del Reglamento (UE) n.º 1143/2014. |
+| C067 | Autorización de importación de bienes y tecnologías restringidos [Reglamento (UE) n.º 267/2012 del Consejo]. |
+| C068 | Licencia General de Exportación de la Unión EU GEA [Reglamento (UE) 2019/125]. |
+| C069 | Autorización expedida por la autoridad competente [Reglamento (UE) 2017/1509]. |
+| C070 | Autorización previa - Medidas restrictivas adoptadas contra Libia - Reglamento (UE) 2016/44 del Consejo. |
+| C071 | Formulario relativo a la concesión o denegación de un consentimiento por escrito, con arreglo al artículo 4, apartado 1, del Reglamento (UE) 2017/852 del Parlamento Europeo y del Consejo, sobre el mercurio, para la importación de mercurio o de mezclas de mercurio contempladas en el anexo I de ese Reglamento. |
+| C072 | Certificado de matrícula de la aeronave, de conformidad con las disposiciones del Convenio sobre Aviación Civil Internacional de 7 de diciembre de 1944. |
+| C073 | Autorización REACH de conformidad con el capítulo VII del Reglamento (CE) n.º 1907/2006. |
+| C074 | Certificado zootécnico (Reglamento (UE) 2016/1012, Articulo 37). |
+| C075 | Documento que indique que los animales reproductores de raza pura deben ser inscritos en un libro genealógico llevado por una sociedad de criadores de razas puras o registrados en un registro genealógico llevado por una sociedad de criadores de porcinos híbridos (Reglamento (EU) 2016/12, Articulo 37). |
+| C076 | Autorización expedida por la autoridad competente (anexo II, parte VI, del Reglamento (UE) 2017/1509). |
+| C077 | Autorización expedida por la autoridad competente (anexo II, parte VIII, del Reglamento (UE) 2017/1509). |
+| C078 | Documento de identificación para équidos (Reglamento (UE) 2016/1012, Articulo 32). |
+| C079 | Copia de la declaración de conformidad - Opción B, conforme a lo dispuesto en el artículo 1, apartado 2, y en el anexo del Reglamento (UE) 2016/879. |
+| C080 | Documento Simplificado VI 1. |
+| C081 | Documento Simplificado VI 1 Autocertificación. |
+| C082 | Copia de la declaración de conformidad - Opción C, conforme a lo dispuesto en el artículo 1, apartado 2, y en el anexo del Reglamento (UE) 2016/879. |
+| C083 | Autocertificación para el vino producido en el Reino Unido e importado del Reino Unido a la Unión Europea (Acuerdo de Comercio y Cooperación - apéndice 15-C). |
+| C084 | Exención en virtud de lo dispuesto en los artículos 3 y 4 del Reglamento 2019/2122 (animales destinados a fines científicos, muestras para diagnóstico e investigación). |
+| C085 | Documento Sanitario Común de Entrada para vegetales y productos vegetales (DSCE-PP) [conforme a lo establecido en el anexo II, parte 2, sección C, del Reglamento de Ejecución (UE) 2019/1715 de la Comisión (DO L 261)]. |
+| C089 | Autorización de exportación - Vacunas contra coronavirus relacionados con SARS (especies SARS-CoV) y principios activos, incluidos los bancos de células patrón y los bancos de células de trabajo utilizados para la fabricación de tales vacunas. |
+| C100 | Número de exportador registrado. |
+| C119 | Certificado de aptitud para el servicio - formulario EASA 1 (apéndice I del anexo I del Reglamento (UE) n.º 748/2012), o certificado equivalente. |
+| C400 | Presentación del certificado "CITES" requerida. |
+| C401 | Permiso de exportación o certificado de reexportación CITES expedido por un país de la UE. |
+| C402 | Permiso de exportación o certificado de reexportación CITES expedido por un tercer país. |
+| C403 | Certificado de exhibición itinerante CITES. |
+| C404 | Certificado de propiedad privada CITES. |
+| C405 | Certificado de colección de muestras CITES. |
+| C406 | Certificado de instrumento musical CITES. |
+| C501 | AEOC - Autorización del estatuto de operador económico autorizado - Simplificaciones aduaneras (columna 2 del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C502 | AEOS - Autorización del estatuto de operador económico autorizado - Seguridad y protección (columna 2 del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C503 | AEOF - Autorización del estatuto de operador económico autorizado - Simplificaciones aduaneras/Seguridad y protección (columna 2 del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C504 | CVA - Autorización de simplificación de la determinación de los importes que integran el valor en aduana de las mercancías (columna 3 del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C505 | CGU - Autorización de constitución de una garantía global, incluida su posible reducción o dispensa (columna 4a del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C506 | DPO - Autorización de aplazamiento del pago (columna 4b del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C507 | REP - Decisión relativa a la devolución de los importes de los derechos de importación o de exportación (columna 4c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C508 | REM - Decisión relativa a la condonación de los importes de los derechos de importación o de exportación (columna 4c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C509 | TST - Autorización de explotación de instalaciones de almacenamiento para el depósito temporal de mercancías (columna 5 del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C510 | RSS - Autorización de establecimiento de servicios marítimos regulares (columna 6a del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C511 | ACP - Autorización del estatuto de expedidor autorizado para establecer la prueba del estatuto aduanero de mercancías de la Unión (columna 6b del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C512 | SDE - Autorización de utilización de la declaración simplificada (columna 7a del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C513 | CCL - Autorización de despacho centralizado (columna 7b del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C514 | EIR - Autorización para hacer una declaración en aduana a través de la inscripción de los datos en los registros del declarante, incluso en relación con el régimen de exportación (columna 7c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C515 | SAS - Autorización de autoevaluación (columna 7d del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C516 | TEA - Autorización de utilización del régimen de importación temporal (columna 8d del anexo A del RD (UE) 2015/2446). |
+| C517 | CWP - Autorización de explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías en un depósito aduanero privado (columna 8e del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C518 | CW1 - Autorización de explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías en un depósito aduanero público de tipo I (columna 8e del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C519 | CW2 - Autorización de explotación de instalaciones de almacenamiento para el depósito aduanero de mercancías en un depósito aduanero público de tipo II (columna 8e del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C520 | ACT - Autorización del estatuto de destinatario autorizado a efectos del régimen TIR (columna 9a del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C521 | ACR - Autorización del estatuto de expedidor autorizado a efectos de tránsito de la Unión (columna 9b del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C522 | ACE - Autorización del estatuto de destinatario autorizado a efectos de tránsito de la Unión (columna 9c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C523 | SSE - Autorización de empleo de precintos de un tipo especial (columna 9d del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C524 | TRD - Autorización de empleo de una declaración de tránsito con un número reducido de datos (columna 9e del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C525 | ETD - Autorización de empleo de un documento de transporte electrónico como declaración en aduana (columna 9f del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C526 | AWB - Autorización del estatuto de pesador autorizado de plátanos (columna 7e del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C600 | Autorización para gestionar un depósito aduanero o para utilizar el régimen de depósito aduanero. |
+| C601 | IPO - Autorización de utilización del régimen de perfeccionamiento activo (columna 8a del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C602 | Declaración de los elementos relativos al valor en aduana D.V.1BIS. |
+| C605 | Boletín INF3. |
+| C612 | Declaración de tránsito interno T2F. |
+| C613 | Carta de porte CIM (T2). |
+| C614 | Carta de porte CIM (T2F). |
+| C615 | Boletín de entrega (T1). |
+| C616 | Boletín de entrega (T2). |
+| C617 | Boletín de entrega (T2F). |
+| C618 | Manifiesto aéreo (T2F). |
+| C619 | Manifiesto marítimo (T2F). |
+| C620 | Documento T2LF. |
+| C621 | Prueba del estatuto aduanero: cuaderno diario de pesca, declaración de desembarque, declaración de transbordo y datos del sistema de localización de buques, tal como se establecen en el artículo 199.1, letra e), del Reglamento (UE) 2015/2447. |
+| C622 | Certificado de estatus aduanero. |
+| C623 | Certificado de transbordo EXP.1. |
+| C624 | Impreso 302. |
+| C625 | Manifiesto renano. |
+| C626 | BTI - Decisión relativa a informaciones arancelarias vinculantes (columna 1a del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C627 | BOI - Decisión relativa a informaciones vinculantes en materia de origen (columna 1b del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| C631 | Carta oficial por la que se valida el uso de materiales que no son de madera o reciclados para productos de papel, expedida por el Ministerio de Industria del país socio del acuerdo FLEGT de asociación voluntaria del que son originarios los productos de papel. |
+| C635 | Etiqueta CITES para material científico. |
+| C638 | Permiso de importación CITES. |
+| C639 | Notificación de importación CITES. |
+| C640 | Documento Sanitario Común de Entrada para animales (DSCE-A) [conforme a lo establecido en el anexo II, parte 2, sección A, del Reglamento de Ejecución (UE) 2019/1715 de la Comisión (DO L 261)]. |
+| C641 | Dissostichus - Documento de captura, importación. |
+| C644 | Certificado de control por los productos ecológicos. |
+| C645 | Certificado para equipo militar. |
+| C647 | Confirmación de recepción. |
+| C651 | Documento administrativo electrónico (e-AD), según lo dispuesto en el artículo 3, apartado 1), del Reglamento (CE) n.º 684/2009. |
+| C652 | documentos que acompañan el transporte de productos vitivinícolas. |
+| C656 | Dissostichus - Documento de captura, exportación. |
+| C657 | Certificado sanitario. |
+| C658 | Documento de acompañamiento de emergencia para la circulación de productos sujetos a impuestos especiales en régimen suspensivo (DAE), según lo dispuesto en el artículo 8, apartado 1), del Reglamento (CE) n.º 684/2009. |
+| C659 | Declaración escrita previa. |
+| C660 | Notificación de exportación. |
+| C661 | Consentimiento expreso. |
+| C662 | Decisión relativa a la importación. |
+| C664 | Declaración CN22 de aduana según el artículo 144 del Reg. (EU) 2015/2446. |
+| C665 | Declaración CN23 de aduana según el artículo 144 del Reg. (EU) 2015/2446. |
+| C666 | Certificado expedido por el Federal Grain Inspection Service (FGIS). |
+| C667 | Análisis de laboratorio. |
+| C668 | Certificado expedido por la industria estadounidense de la molienda líquida, de conformidad con el Reglamento (CE) n.o 1375/2007 antes del 7 de marzo de 2017. |
+| C669 | Documento de notificación conforme a las disposiciones del Reglamento (CE) n. 1013/2006 (DO L 190) - artículo 4 y anexo IA. |
+| C670 | Documento de movimiento conforme a las disposiciones del Reglamento (CE) n. 1013/2006 (DO L 190) - artículo 4 y anexo IAB. |
+| C671 | Certificado expedido por el Canadian Grain Commission (CGC). |
+| C672 | Información que debe acompañar a los traslados de residuos conforme al Reglamento (CE) 1013/2006 (DO L 190) - artículo 18 y anexo VII. |
+| C673 | Certificado de captura. |
+| C676 | Autorización de importación/exportación expedida por las autoridades competentes de los estados miembros. |
+| C678 | Documento Sanitario Común de Entrada para piensos y alimentos de origen no animal (DSCE-D) [conforme a lo establecido en el anexo II, parte 2, sección D, del Reglamento de Ejecución (UE) 2019/1715 de la Comisión (DO L 261)]. |
+| C679 | Certificado (productos derivados de la foca), emitido por un organismo reconocido de conformidad con el Reglamento (UE) no 737/2010 antes del 18 de octubre de 2015. |
+| C680 | Notificación escrita de importación y un documento que pruebe el lugar de adquisición de los productos (productos derivados de la foca). |
+| C683 | Unión Europea - Certificado para la comercialización en el mercado de la Unión de productos derivados de la foca procedentes de actividades de caza de los Inuit u otras comunidades indígenas, de conformidad con el artículo 3, apartado 1, del Reglamento (CE) n.º 1007/2009, sobre el comercio de productos derivados de la foca. |
+| C684 | Un certificado conforme al modelo del anexo del Reglamento (UE) no 2015/949 (DO L 156, p.2). |
+| C685 | Un informe con los resultados del muestreo y el análisis efectuados de conformidad con las disposiciones del Reglamento (CE) no 401/2006 de la Comisión, de 23 de febrero de 2006, o con disposiciones equivalentes, por un laboratorio autorizado a tales efectos por la Canadian Grain Commission. |
+| C687 | Certificado sanitario, según figura en el anexo III de la Decisión de Ejecución n.º 2011/884/UE de la Comisión (DO L 343, p, 140). |
+| C688 | Informe analítico, según figura en el anexo IV de la Decisión de Ejecución n.º 2011/884/UE de la Comisión (DO L 343, p, 140). |
+| C689 | Autorización de exportación expedida de conformidad con el Reglamento (CE) n.º 147/2003. |
+| C690 | Licencia de importación de madera FLEGT. |
+| C692 | Resultados del muestreo y el análisis efectuados por un laboratorio autorizado por el Departamento de Agricultura de los Estados Unidos (United States Department of Agriculture, USDA) de acuerdo con las disposiciones del Reglamento (CE) n.º 401/2006 de la Comisión, de 23 de febrero de 2006. |
+| C693 | Certificado expedido por la industria estadounidense de la molienda líquida de conformidad con el Reglamento de Ejecución (UE) 2017/337 de la Comisión. |
+| C700 | Boletín INF4. |
+| C710 | Boletín. |
+| C715 | Número de ventanilla única de importación (IOSS) - número de identificación individual a efectos del IVA [artículo 369 octodecies de la Directiva (UE) 2017/2455 del Consejo]. |
+| C990 | Autorización de destino final buques y plataformas (columna 8c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| D | DOCUMENTO ANTIDUMPING/COMPENSATORIO. |
+| D005 | Factura comercial correspondiente a los compromisos. |
+| D008 | Factura con una declaración firmada. |
+| D017 | Factura comercial correspondiente a los compromisos y el certificado de compromiso para la exportación. |
+| D018 | Factura para las operaciones que no estén exentas de derechos antidumping/compensatorios. |
+| D019 | Autorización para beneficiarse de un régimen aduanero económico en razón de un destino particular en el contexto de una medida antidumping o compensatoria (columna 8c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| D020 | Factura comercial y certificado de fábrica conformes con el Reglamento 2015/1953. |
+| D022 | Factura comercial del fabricante al operador comercial, incluida la declaración del fabricante mencionada en el anexo 3 del reglamento 2019/2131 y la factura comercial del operador comercial al importador. |
+| E | CERTIFICADO/LICENCIA/DOCUMENTO EXPORTACIÓN DEL PAÍS DE ORIGEN. |
+| E012 | Autorización de exportación "Bienes culturales" (Reglamento (CE) n° 116/2009). |
+| E013 | Licencia de exportación de «sustancias reguladas» (ozono) expedida por la Comisión. |
+| E014 | Licencia de exportación de productos lácteos sometidos a contingentes con arreglo al Reglamento (UE) 2020/761. |
+| E017 | Certificado de exportación expedido por las autoridades competentes de un tercero país. |
+| E020 | Autorización de exportación de armas de fuego (Reglamento (UE) No 258/2012). |
+| E990 | Licencia de exportación de productos que puedan utilizarse para infligir torturas u otros tratos o penas crueles, inhumanos o degradantes. |
+| I | CERTIFICADO/LICENCIA/DOCUMENTO DE VIGILANCIA EMITIDO POR UN ESTADO MIEMBRO. |
+| I004 | Documento de vigilancia emitido por una autoridad competente de uno Estado miembro válido para toda UE. |
+| L | CERTIFICADO/LICENCIA/DOCUMENTO DE IMPORTACION. |
+| L001 | Certificado de importación AGRIM. |
+| L079 | Productos textiles: certificado de importación. |
+| L081 | Certificado de análisis (Reglamento de Ejecución (UE) 2020/1988 de la Comisión). |
+| L082 | Certificado de conformidad (Reglamento de Ejecución (UE) 2020/1988 de la Comisión). |
+| L100 | Licencia de importación "sustancias reguladas" (ozono), expedida por la Comisión. |
+| L116 | Certificado del Proceso de Kimberley. |
+| L135 | Autorización de importación (precursores) expedirán par las autoridades competentes del Estado miembro en que esté establecido el importador. |
+| L136 | Mercancías bien con sustancias que agotan la capa de ozono o bien que dependen de estas, destinadas a utilizarse como materia prima o a usos de laboratorio o de análisis<P>. |
+| N | CERTIFICADOS CODIFICADOS UN/EDIFACT. |
+| N002 | Certificado de conformidad con las normas de comercialización de la Unión Europea aplicables a las frutas y hortalizas frescas. |
+| N003 | Certificado de calidad. |
+| N018 | Certificado ATR. |
+| N235 | Lista de contenedores. |
+| N271 | Lista de bultos. |
+| N325 | Factura proforma. |
+| N337 | Declaración sumaria de depósito temporal. |
+| N355 | Declaración sumaria de entrada. |
+| N380 | Factura comercial. |
+| N703 | Hoja de ruta emitida por un transitario. |
+| N704 | Conocimiento principal. |
+| N705 | Conocimiento de embarque. |
+| N710 | Manifiesto marítimo (T1). |
+| N714 | Conocimiento emitido por un transitario. |
+| N720 | Carta de porte CIM. |
+| N722 | Lista de acompañamiento-SMGS. |
+| N730 | Boletín de expedición por carretera. |
+| N740 | Título de transporte aéreo. |
+| N741 | Hoja de ruta aérea principal. |
+| N750 | Envíos postales, incluidos los paquetes postales. |
+| N760 | Documento de transporte multimodal/combinado. |
+| N785 | Manifiesto de carga. |
+| N787 | Bordereau. |
+| N820 | Declaración de tránsito T. |
+| N821 | Declaración de tránsito comunitario externo/tránsito común, T1. |
+| N822 | Declaración de tránsito interno T2. |
+| N825 | Documento T2L. |
+| N830 | Declaración de mercancías para la exportación. |
+| N851 | Certificado fitosanitario. |
+| N852 | Análisis y certificado fitosanitario. |
+| N853 | Documento Sanitario Común de Entrada para productos (DSCE-P) [conforme a lo establecido en el anexo II, parte 2, sección B, del Reglamento de Ejecución (UE) 2019/1715 de la Comisión (DO L 261)]. |
+| N864 | Declaración en factura o declaración de origen extendida por un exportador en una factura u otro documento comercial. |
+| N865 | Certificado de origen Modelo A. |
+| N933 | Declaración de carga (llegada). |
+| N934 | Declaración de los elementos relativos al valor en aduana D.V.1. |
+| N935 | Factura en base a la cual se declara el valor en aduana de las mercancías. |
+| N941 | Autorización levante del embargo. |
+| N951 | Formulario TIF. |
+| N952 | Cuaderno TIR. |
+| N954 | Certificado de circulación EUR.1. |
+| N955 | Cuaderno ATA. |
+| N988 | Autorización para utilizar procedimientos simplificados - procedimiento de domiciliación (art. 76 1.c) R 2913/92) distinta de la contemplada en el código N989. |
+| N989 | Autorización para utilizar procedimientos simplificados - procedimiento de domiciliación ? exportación (exención de la declaración previa a la salida de acuerdo con el artículo 285 bis, apartado 1, letra a), del Reglamento (CEE) n.º 2454/93 de la Comisión). |
+| N990 | EUS - Autorización de utilización del régimen de destino final (columna 8c del anexo A del Reglamento Delegado (UE) 2015/2446). |
+| U | CERTIFICADO DE ORIGEN. |
+| U004 | Certificado de origen para la importación de productos sujetos a regímenes especiales de importación no preferenciales en la Unión Europea expedido conforme a lo dispuesto en el artículo 57 del Reglamento de Ejecución (UE) 2015/2447 de la Comisión. |
+| U005 | Certificado de denominación de origen expedido por las autoridades competentes. |
+| U045 | Certificado de circulación de mercancías EUR-MED. |
+| U048 | Declaración en factura EUR-MED. |
+| U059 | Declaración de origen incluyendo la siguiente declaración en Inglés: "Derogation - Annex II(a) of Protocol concerning the definition of ?originating products? and methods of administrative cooperation". |
+| U062 | Referencia al anexo 5-A de la Decisión del Consejo (UE) 2017/37 (DO L 11). |
+| U063 | Prueba de origen incluyendo la siguiente declaración en Inglés: "Derogation - Annex II(a) of Protocol 3 - name of the Development Zone or industrial area and authorisation number granted by the competent authorities of Jordan". |
+| U067 | Certificado de circulación EUR.1 con la mención "Derogation - Decision No 1/2017 of the ESA-EU Customs Cooperation Committee of 2 October 2017" o "Dérogation - Décision no 1/2017 du comité de coopération douanière AfOA-UE du 2 octobre 2017". |
+| U068 | Prueba de origen incluyendo la siguiente declaración en Inglés: "Product originating in accordance with Appendix 2A of Annex II". |
+| U069 | Prueba de origen incluyendo la siguiente declaración en Inglés: "Product originating in accordance with Appendix 5 of Annex II". |
+| U071 | Prueba de origen incluyendo la siguiente declaración:""Producto originario de conformidad con el apéndice 2A del anexo II (Relativo a la definición del concepto de "productos originarios" y métodos de cooperación administrativa)"" (DO L 346/2012, 15.12.2012). |
+| U074 | Certificado de origen para importar productos agrícolas en la Unión Europea, utilizado en el marco de contingentes arancelarios de conformidad con el artículo 13 del Reglamento (UE) 2020/1988. |
+| U075 | Certificado de circulación de mercancías EUR. 1 (a condición de que en la casilla 7 se incluya la observación «Normas transitorias») en el contexto de las normas de origen transitorias paneuromediterráneas. |
+| U076 | Declaración de origen (a condición de que la declaración mencione «origen con arreglo a las normas transitorias») en el contexto de las normas de origen transitorias paneuromediterráneas. |
+| U088 | Declaración de origen en la que conste el origen de la UE, de acuerdo con las normas de origen del Acuerdo Económico y Comercial Global (CETA) entre la Unión Europea y Canadá. |
+| U090 | Certificado de circulación de mercancías EUR. 1 - certificado de circulación de mercancías EUR-MED (a condición de que, en la casilla 7, se marque con una cruz la observación «no cumulation applied»), en el que conste que el origen de las mercancías es la Comunidad Europea, en el contexto del Acuerdo entre la Unión Europea y la Confederación Suiza. |
+| U091 | Declaración en factura - declaración en factura EUR-MED (a condición de que la declaración lleve la observación «no cumulation applied»), en la que conste que el origen de las mercancías es la Comunidad Europea, en el contexto del Acuerdo entre la Unión Europea y la Confederación Suiza. |
+| U099 | Certificado de circulación EUR.1 con la mención "Derogation-Regulation (EU) 2017/882". |
+| U110 | Declaración de origen (artículo 3.16(2)(a) y artículo 3.17(5)(a) del Acuerdo de Asociación Económica entre la UE y Japón). |
+| U111 | Declaración de origen para múltiples envíos de productos idénticos (artículo 3.16(2)(a) y artículo 3.17(5)(b) del Acuerdo de Asociación Económica entre la UE y Japón). |
+| U112 | Conocimiento por parte del importador (artículo 3.16(2)(b) del Acuerdo de Asociación Económica entre la UE y Japón). |
+| U113 | Comunicación sobre el origen extendida por un exportador registrado en el marco de la DAU (Decisión de Asociación Ultramar) por un valor total de productos originarios objeto del envío que no supere los 10 000 EUR. |
+| U114 | Comunicación sobre el origen extendida por un exportador registrado en el marco de la DAU por un valor total ?de ?productos originarios objeto del envío que supere los 10 000 EUR. |
+| U115 | Comunicación sobre el origen extendida por un exportador no registrado en el marco de la DAU por un valor total ?de ?productos originarios objeto del envío que no supere los 10 000 EUR. |
+| U116 | Declaración de origen (artículo ORIG.19 del TCA entre la UE y UK). |
+| U117 | Conocimiento por parte del importador (artículo ORIG.21 del TCA entre la UE y UK). |
+| U118 | Declaración de origen para múltiples envíos de productos idénticos (artículo ORIG.19 del TCA entre la UE y UK). |
+| U119 | Declaración de origen ("Derogation - Commission Implementing Regulation (EU) 2021/966"). |
+| U161 | Declaración en factura o declaración de origen extendidas por un exportador en una factura o en cualquier otro documento mercantil en el marco del SGP por un valor total de los productos originarios no superior a los 6 000 EUR, con arreglo al artículo 75 del Reglamento (UE) 2015/2447. |
+| U162 | Declaración en factura o declaración de origen extendida por cualquier exportador o cualquier otro documento comercial que no se inscriba en el marco del SPG o de EUR-MED por un valor total de productos originarios que no exceda de 6000 EUR. |
+| U163 | Declaración en factura o declaración de origen EUR MED extendida por cualquier importador o cualquier otro documento comercial por un valor total de productos originarios que no exceda de 6000 EUR. |
+| U164 | Comunicación sobre el origen realizada por un exportador registrado en el marco del SPG cuando el valor total de los productos originarios de un envío no supera los 6 000 EUR. |
+| U165 | Comunicación sobre el origen realizada por una exportador registrado en el marco del SPG cuando el valor total de los productos originarios de un envío supera los 6 000 EUR. |
+| U166 | Comunicación sobre el origen realizada por un exportador no registrado en el marco del SPG cuando el valor total de los productos originarios de un envío no supera los 6 000 EUR. |
+| U167 | Declaración de origen extendida por un reexpedidor de la UE no registrado en el marco del SPG para la reexpedición de productos originarios por un valor total del envío inicial que vaya a fraccionarse superior a los 6 000 EUR. |
+| U168 | Declaración de origen sustitutiva o declaración en factura sustitutiva extendida por un exportador autorizado, cuando el valor total de los productos originarios del envío inicial que vaya a fraccionarse no supere el valor límite aplicable, de conformidad con el artículo 69, apartado 2, letra a), del Reglamento 2015/2447. |
+| U169 | Declaración de origen sustitutiva o declaración en factura sustitutiva extendida por un exportador autorizado, cuando el valor total de los productos originarios del envío inicial que vaya a fraccionarse supere el valor límite aplicable, de conformidad con el artículo 69, apartado 2, letra a), del Reglamento 2015/2447. |
+| U170 | Declaración de origen sustitutiva o declaración en factura sustitutiva por cualquier reexpedidor cuando el valor total de los productos originarios del envío inicial que vaya a fraccionarse no supere el valor límite aplicable, de conformidad con el artículo 69, apartado 2, letra b), del Reglamento 2015/2447. |
+| U171 | Declaración de origen sustitutiva o declaración en factura sustitutiva extendida por cualquier reexpedidor cuando el valor total de los productos originarios del envío inicial que vaya a fraccionarse supere el valor límite aplicable, de conformidad con el artículo 69, apartado 2, letra c), del Reglamento 2015/2447. |
+| U176 | Certificado de circulación EUR.1 con la mención "Derogation - Decision No 1/2021 of the ESA-EU Customs Cooperation Committee of 2 August 2021" o "Dérogation - Décision n° 1/2021 du Comité de Coopération Douanière AfOA-UE du 2 août 2021". |
+| U177 | Prueba de origen incluyendo la siguiente declaración en Inglés:"Derogation - Annex B(a) of Protocol Concerning the definition of the concept of "originating products" and methods of administrative cooperation of the EU-Singapore FTA". |
+| U178 | Prueba de origen incluyendo la siguiente declaración en Inglés:"Origin quotas - Product originating in accordance with Annex ORIG-2A". |
+| U500 | Formulario EUR.2. |
+| X | CERTIFICADO DE EXPORTACIÓN. |
+| X001 | Certificado de exportación AGREX. |
+| X035 | Autorización de exportación (precursores) expedido por las autoridades competentes del Estado miembro en que esté establecido el exportador. |
+| X060 | Autorización individual de exportación - artículo 12, apartado 1, letra a), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X061 | Autorización general de exportación de la Unión n.º EU001 - ANEXO II A - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X062 | Autorización general de exportación de la Unión n.º EU001 - ANEXO II B - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X063 | Autorización general de exportación de la Unión n.º EU003 - ANEXO II C - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X064 | Autorización general de exportación de la Unión n.º EU004 - ANEXO II D - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X065 | Autorización general de exportación de la Unión n.º EU005 - ANEXO II E - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X066 | Autorización general de exportación de la Unión n.º EU006 - ANEXO II F - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X067 | Autorización general de exportación de la Unión n.º EU007 - ANEXO II G - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X068 | Autorización general de exportación de la Unión n.º EU008 - ANEXO II H - contemplada en el artículo 12, apartado 1, letra d), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X070 | Autorización global de exportación - contemplada en el artículo 12, apartado 1, letra b), del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X071 | Autorizaciones generales de exportación en los diarios oficiales nacionales - ANEXO III C - contempladas en el artículo 12, apartado 6, del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| X072 | Autorización de tránsito de productos de doble uso - contemplada en el artículo 7, del Reglamento (UE) 2021/821 del Parlamento Europeo y del Consejo. |
+| Y | MENCIONES ESPECIALES. |
+| Y001 | Obtenido íntegramente en Líbano y transportado directamente de ese país a la Comunidad. |
+| Y003 | Obtenido íntegramente en Túnez y transportado directamente de ese país a la Comunidad. |
+| Y006 | Sello (al comienzo/final de cada pieza) y transportado directamente. |
+| Y007 | Precinto (sobre cada pieza) y transportado directamente. |
+| Y008 | Transportado directamente de la Turquía a la Comunidad. |
+| Y013 | Introducción de una de las siguientes menciones en las "Observaciones" del certificado de circulación de mercancías. Reglamento (CEE) no 1518/1976 (DOL 169/37):<P> Taxe spéciale à l'exportation appliquée <P> S©rlig udf²rselsafgift opkr©vet <P> Sonderausfuhrabgabe erhoben <P> Special exportcharge collected <P> Applicata tassa speciale all'esportazione <P> Bijzondere uitvoerheffing voldaan. |
+| Y015 | Diamantes en bruto transportados en contenedores inviolables y los sellos aplicados en la exportación por el participante (Kimberley process) estén intactos. |
+| Y017 | Obtenido íntegramente en Jordania y transportado directamente de ese país a la Comunidad. |
+| Y019 | Solicitud de trato preferencial para Islandia. |
+| Y020 | Solicitud de trato preferencial para Noruega. |
+| Y021 | Solicitud de trato preferencial para el EEE. |
+| Y022 | Expedidor/exportador (número de certificado OEA). |
+| Y023 | Destinatario (número de certificado OEA). |
+| Y024 | Declarante (número de certificado OEA). |
+| Y025 | Representante (número de certificado OEA). |
+| Y026 | Obligado principal (número de certificado OEA). |
+| Y027 | Depositario (número de certificado OEA). |
+| Y028 | Transportista (número de certificado OEA). |
+| Y029 | Otro operador económico autorizado (número de certificado OEA). |
+| Y031 | Este certificado puede ser utilizado para indicar que las expediciones provienen de, o son destinadas a un Operador Económico Autorizado (AEO) en un país tercero con el cual la Unión Europea (UE) haya concluido un acuerdo de reconocimiento mutuo sobre los programas AEO. Además del código de certificado (Y031), el código de identificación de este AEO de un país tercero debe ser indicado en la casilla correspondiente. |
+| Y032 | Otros productos distintos a los productos derivados de la foca mencionados en el Reglamento (UE) 2015/1850, DO L 271. |
+| Y033 | Excepción a la prohibición de importación en virtud del artículo 4, apartado 2, del Reglamento (UE) 2017/1509 del Consejo. |
+| Y034 | Excepción a la prohibición de exportación en virtud del artículo 4, apartado 1, del Reglamento (UE) 2017/1509 del Consejo. |
+| Y036 | Las mercancías declaradas están exentas de la presentación de la licencia correspondiente, en virtud del artículo 3 (1) los puntos a, b, d y e, y (2) del Reglamento de la Comisión Delegada (UE) 2016/1237 (DO L 206). |
+| Y037 | Productos exentos de prohibición - equipos de biatlón. |
+| Y038 | Excepción a la prohibición de importación en virtud de lo dispuesto en el artículo 14 del Reglamento (UE) 2017/1509 del Consejo. |
+| Y040 | Número de identificación IVA asignado en el Estado miembro de importación al importador designado o reconocido como deudor del IVA con arreglo al artículo 201 de la Directiva del IVA. |
+| Y041 | Número de identificación IVA del cliente que se considera deudor del IVA en la adquisición intracomunitaria de bienes con arreglo al artículo 200 de la Directiva del IVA. |
+| Y042 | Número de identificación IVA asignado en el Estado miembro de importación al representante fiscal. |
+| Y043 | Reimportación de productos textiles tras una operación de perfeccionamiento pasivo, de conformidad con el Reglamento (CE) n.º 32/2000 - ANEXO II. |
+| Y044 | Prueba de que los bienes importados están destinados a ser transportados o expedidos desde el Estado miembro de importación a otro Estado miembro. |
+| Y046 | Mercancías que no entran en el ámbito de aplicación del Reglamento (UE) n.º 284/2011. |
+| Y053 | Mercancías no sujetas a los requisitos de etiquetado aplicados a los gases fluorados de efecto invernadero mencionados en el artículo 12, apartado 1, del Reglamento (CE) n.º 517/2014. |
+| Y054 | Mercancías etiquetadas según lo dispuesto en el artículo 12, apartado 1, del Reglamento (UE) n.º 517/2014. |
+| Y057 | Mercancías que no requieren la presentación de una licencia FLEGT de importación de madera. |
+| Y058 | Exención en virtud del artículo 7 del Reglamento Delegado (UE) 2019/2122 de la Comisión (Mercancías que forman parte del equipaje personal de los pasajeros y están destinadas a su consumo o uso personal) o del artículo 10 (pequeños envíos de bienes enviados a personas físicas que no están destinados a ser comercializados) del Reglamento Delegado 2019/2122 de la Comisión. |
+| Y062 | Productos que no contengan arroz, no estén compuestos de arroz ni estén producidos a partir de arroz (Decisión de Ejecución de la Comisión 2011/884/UE). |
+| Y063 | Productos que no procedan de China. |
+| Y066 | Productos que no contengan hojas de betel (Piper betle) o que no consistan en tales hojas. |
+| Y069 | Mercancías no expedidas desde Irán. |
+| Y070 | Exención del requisito de presentación de una licencia FLEGT en virtud del artículo 4, apartado 3, del Reglamento del Consejo (CE) n.º 2173/2005. |
+| Y072 | Bienes con origen UE de regreso de Andorra, de conformidad con la legislación comunitaria pertinente. |
+| Y073 | Bienes con origen UE de regreso de Suiza, de conformidad con la legislación comunitaria pertinente. |
+| Y074 | Bienes con origen UE de regreso de las Islas Faroe, de conformidad con la legislación comunitaria pertinente. |
+| Y075 | Bienes con origen UE de regreso de Groenlandia, de conformidad con la legislación comunitaria pertinente. |
+| Y076 | Bienes con origen UE de regreso de Islandia, de conformidad con la legislación comunitaria pertinente. |
+| Y077 | Bienes con origen UE de regreso de Lichtenstein, de conformidad con la legislación comunitaria pertinente. |
+| Y078 | Bienes con origen UE de regreso de Noruega, de conformidad con la legislación comunitaria pertinente. |
+| Y079 | Bienes con origen UE de regreso de San Marino, de conformidad con la legislación comunitaria pertinente. |
+| Y082 | Excepción a la prohibición de exportación en virtud del artículo 16 sexies, apartado 1, del Reglamento (UE) 2017/1509 del Consejo. |
+| Y083 | Excepción a la prohibición de exportación en virtud del artículo 16g, del Reglamento (UE) 2017/1509 del Consejo. |
+| Y084 | Excepción a la prohibición de importación en virtud del artículo 16 decies, apartado 1, del Reglamento (UE) 2017/1509 del Consejo. |
+| Y085 | Goods imported in framework of "medidas comerciales autónomas". |
+| Y086 | Solicitud de trato preferencial para Albania. |
+| Y087 | Solicitud de trato preferencial para Bosnia y Herzegovina. |
+| Y088 | Solicitud de trato preferencial para Montenegro. |
+| Y089 | Solicitud de trato preferencial para la antigua República Yugoslava de Macedonia. |
+| Y090 | Solicitud de trato preferencial para Territorio aduanero de Kosovo. |
+| Y091 | Solicitud de trato preferencial para Serbia. |
+| Y100 | Mención especial al certificado de importación AGRIM. |
+| Y105 | Exención genérica de autorización de REACH [artículo 56 del Reglamento (CE) n.º 1907/2006]. |
+| Y107 | Productos exentos de prohibición - piezas de recambio de las aeronaves mencionadas en la nota a pie de página «CD». |
+| Y108 | Productos exentos de prohibición - equipos deportivos del calibre.22 pulgadas. |
+| Y109 | Exención específica de autorización de REACH [categorías de uso exentas enumeradas en el anexo XIV del Reglamento (CE) n.º 1907/2006]. |
+| Y115 | Exención del requisito de autorización definido en el título VII, en virtud del artículo 2, apartados 5 y 8, del Reglamento (CE) n.º 1907/2006 (REACH). |
+| Y116 | Exención de lo dispuesto en el artículo 254 del Reglamento (UE) n.º 952/2013 en virtud del Reglamento anual de la nomenclatura combinada: PRIMERA PARTE - DISPOSICIONES PRELIMINARES - Título I - Reglas generales - C. Reglas generales comunes a la nomenclatura y a los derechos: 4. Tratamiento arancelario favorable que puede aplicarse a determinadas mercancías por motivo de su destino especial. |
+| Y117 | Producto peligroso. Despacho a libre práctica no autorizado. Reglamento (UE) 2019/1020, artículo 28, apartado 1. |
+| Y118 | Producto no conforme. Despacho a libre práctica no autorizado. Reglamento (UE) 2019/1020, artículo 28, apartado 2. |
+| Y120 | Empresa que importa menos de 100 toneladas equivalentes de CO2 de hidrofluorocarburos al año y está exenta de la reducción de la cantidad de hidrofluorocarburos comercializados en la UE de conformidad con el artículo 15, apartado 2, párrafo primero, del Reglamento (UE) n.º 517/2014. |
+| Y123 | Empresa registrada de conformidad con el artículo 19 del Reglamento (UE) n.º 517/2014 y el artículo 1, apartado 2, del Reglamento de Ejecución (UE) n.º 1191/2014 de la Comisión, modificado por el Reglamento de Ejecución (UE) 2017/1375 de la Comisión. |
+| Y124 | Empresa que importa una cantidad de gases fluorados de efecto invernadero al año inferior a la especificada en el artículo 19, apartado 1, para las importaciones a granel, y en el artículo 19, apartado 4, para las importaciones de productos y aparatos, por lo que no está sujeta al requisito de registro de conformidad con el artículo 19, apartados 1 y 4, del Reglamento (UE) n.º 517/2014, y el artículo 1, apartado 2, del Reglamento de Ejecución (UE) n.º 1191/2014, modificado por el (UE) 2017/1375. |
+| Y125 | Importación sujeta a lo dispuesto en el artículo 15, apartado 1, del Reglamento (UE) n.º 517/2014 relativo a la reducción de la cantidad de hidrofluorocarburos comercializados en la UE. |
+| Y200 | Bélgica - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y201 | Bulgaria - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y202 | Dinamarca - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y203 | Alemania - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y204 | Estonia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y205 | Irlanda - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y206 | Grecia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y207 | España - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y208 | Francia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y209 | Croacia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y210 | Italia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y211 | Chipre - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y212 | Letonia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y213 | Lituania - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y214 | Malta - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y215 | Países Bajos - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y216 | Polonia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y217 | Portugal - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y218 | Rumanía - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y219 | Eslovenia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y220 | Finlandia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y221 | Suecia - Plataforma continental o zona económica exclusiva (Reglamento (UE) 2019/1131 por el que se establece un instrumento aduanero - DO L 179 de 3.7.2019, p. 12). |
+| Y223 | Exención de la medida de salvaguardia en virtud del artículo 2 del Reg. (UE) 2019/67. |
+| Y300 | Mercancías no afectadas por la Decisión 2013/798/PESC del Consejo, relativa a la adopción de medidas restrictivas contra la República Centroafricana. |
+| Y301 | Mercancías excluidas de la prohibición, de conformidad con el artículo 2, apartado 1, de la Decisión 2013/798/PESC del Consejo. |
+| Y800 | Mercancías que no son originarias de Bangladesh. |
+| Y801 | Mercancías distintas de las afectadas por las prohibiciones definidas en los artículos 1e.1 y 1 f.1 del Reglamento (CE) n.º 765/2006. |
+| Y802 | No se aplican las prohibiciones definidas en los artículos 1e.1 y 1 f.1 del Reglamento (CE) n.º 765/2006 (véanse las exenciones en los artículos 1e.3 y 1 f.3). |
+| Y803 | Autorización de exportación en virtud de los artículos 1e.4 y 1fa.1 del Reglamento (CE) n.º 765/2006. |
+| Y804 | No se aplican las prohibiciones definidas en los artículos 1e.1 y 1f.1 del Reglamento (CE) n.º 765/2006 del Consejo (véanse las exenciones contractuales en el apartado 5 del artículo 1 septies). |
+| Y805 | No se aplican las prohibiciones definidas en el artículo 1 sexdecies del Reglamento (CE) n.º 765/2006 del Consejo (véanse las exenciones contractuales en el artículo 1 sexdecies, apartado 2). |
+| Y806 | No se aplican las prohibiciones definidas en el artículo 1 septdecies del Reglamento (UE) n.º 765/2006 del Consejo (véanse las exenciones contractuales en el artículo 1 septdecies, apartado 2). |
+| Y807 | No se aplican las prohibiciones definidas en el artículo 1 octodecies del Reglamento (CE) n.º No765/2006 del Consejo (véanse las exenciones contractuales en el artículo 1 octodecies, apartado 2). |
+| Y808 | No se aplican las prohibiciones definidas en el artículo 1 novodecies del Reglamento (CE) n.º 765/2006 del Consejo (véanse las exenciones contractuales en el artículo 1 novodecies, apartado 2). |
+| Y809 | No se aplican las prohibiciones definidas en el artículo 1 vicies del Reglamento (CE) n.º 765/2006 del Consejo (véanse las exenciones contractuales en el artículo 1 vicies, apartado 3). |
+| Y810 | No se aplican las prohibiciones definidas en el artículo 1s.1 del Reglamento (EC) 765/2006 del Consejo (véanse las exenciones en el artículo 1s.2). |
+| Y810 | No se aplican las prohibiciones definidas en el artículo 5 decies, apartado 1, del Reglamento (UE) n.º 833/2014 del Consejo (véanse las exenciones contractuales en el artículo 5 decies, apartado 2). |
+| Y811 | Mercancías distintas de las afectadas por las prohibiciones definidas en el artículo 5 decies.1, del Reglamento (UE) n.º 833/2014. |
+| Y812 | Mercancías distintas de las afectadas por las prohibiciones definidas en el artículo septvicies bis apartado 1, del Reglamento (CE) n.º 765/2006. |
+| Y813 | Mercancías distintas de las afectadas por las prohibiciones definidas en el artículo septvicies bis apartado 1, del Reglamento (CE) n.º 765/2006. |
+| Y814 | No se aplican las prohibiciones definidas en el artículo septvicies bis apartado 1, del Reglamento (CE) n.º 765/2006 del Consejo (véanse las exenciones contractuales en el artículo septvicies bis, apartado 2). |
+| Y815 | Mercancías distintas de las afectadas por las prohibiciones definidas en el artículo 3 f, apartado 1, del Reglamento (UE) n.º 833/2014. |
+| Y816 | No se aplican las prohibiciones definidas en el artículo 3 septies, apartado 1, del Reglamento (UE) n.º 833/2014 del Consejo (véanse las exenciones en el artículo 3 septies, apartado 3). |
+| Y817 | Autorización de exportación en virtud del artículo 3 septies (4) del Reglamento (UE) 833/2014 del Consejo. |
+| Y900 | Los bienes declarados no están comprendidos en la Convención de Washington (CITES). |
+| Y901 | Producto no incluido en la lista de productos de doble uso. |
+| Y902 | Productos distintos de los descritos en las notas a pie de página OZ asociadas a la medida. |
+| Y903 | Los bienes declarados no figuran en la lista de bienes culturales <P>. |
+| Y904 | Productos distintos de los descritos en las notas a pie de página «TR» asociadas a la medida. |
+| Y906 | Productos distintos de los descritos en las notas a pie de página «TR» asociadas a la medida (708). |
+| Y907 | Productos que sean utilizados por personal militar o civil de un Estado miembro de la UE, si dicho personal participa en una operación de mantenimiento de la paz o de gestión de crisis de la UE o de las Naciones Unidas en el tercer país de destino, o en una operación conforme a acuerdos entre los Estados miembros y terceros países en el ámbito de la defensa. |
+| Y908 | Productos cuya exportación se realiza a los siguientes territorios de los Estados miembros: Groenlandia, Nueva Caledonia y sus dependencias, Polinesia francesa, Tierras australes y antárticas francesas, Islas Wallis y Futuna, Mayotte, San Pedro y Miquelón, y Büsingen siempre y cuando los productos vayan a ser utilizados por una autoridad encargada de hacer cumplir la ley tanto en el país o territorio de destino como en la parte metropolitana del Estado miembro al cual pertenece dicho territorio. |
+| Y909 | Las mercancías declaradas no se inscriben en el ámbito de aplicación del Reglamento (CE) n.º 1984/2003 [y/o del Reglamento (UE) n.º 640/2010]. |
+| Y910 | Patudo capturado por cerqueros con jareta y embarcaciones de cebo vivo y destinado principalmente a su transformación posterior en las conserveras de atún. |
+| Y915 | Número de referencia de identificación. |
+| Y916 | Producto no sujeto a las disposiciones del Reglamento (UE) n.º 649/2012 sobre exportación e importación de productos químicos peligrosos, anexo I. |
+| Y917 | Producto no sujeto a las provisiones del Reglamento (UE) n.º 649/2012 sobre exportación e importación de productos químicos peligrosos, anexo v. |
+| Y918 | Las mercancías declaradas no están sujetas al Reglamento (CE) n.º 147/2003 del Consejo, anexo III. |
+| Y919 | Número de identificación de referencia para los productos químicos sujetos a lo dispuesto en el artículo 2, apartado 3), del Reglamento (UE) n.º 649/2012. |
+| Y920 | Mercancías distintas a las descritas en las notas a pie de página asociadas a la medida. |
+| Y921 | Productos exentos de prohibición. |
+| Y922 | Excepto las pieles de perro y de gato mencionadas en el Reglamento (CE) n.º 1523/2007 (DO L 343). |
+| Y923 | Producto no sujeto a las disposiciones del Reglamento (UE) n.º 1013/2006 (DO L 190). |
+| Y924 | Productos no afectados por el Reglamento (UE) 2017/852. |
+| Y925 | Exportación para la investigación o el análisis en laboratorio [artículo 3, apartado 3, del Reglamento (UE) 2017/852]. |
+| Y926 | Mercancías distintas de las sujetas a las prohibiciones de importación definidas en el artículo 11, apartado 1, del Reglamento (UE) n.º 517/2014. |
+| Y927 | A las mercancías declaradas no se les aplica el Reglamento (CE) n.º 1005/2008 del Consejo. |
+| Y928 | A las mercancías declaradas no se les aplica el Reglamento de Ejecución (UE) 2021/1533 de la Comisión. |
+| Y929 | Productos no afectados por el Reglamento (CE) n.º 834/2007 (productos ecológicos). |
+| Y930 | Los productos declarados no están referidos en el Reglamento de Ejecución (UE) 2021/632 de la Comisión. |
+| Y931 | Productos que se benefician de una excepción a los controles veterinarios de acuerdo con el artículo 3 del Reglamento Delegado (UE) 2021/630 de la Comisión. |
+| Y932 | Productos que se benefician de una excepción a los controles CITES de acuerdo con el artículo 7.3 del Reglamento (CE) n.º 338/97 del Consejo. |
+| Y934 | Producto no sujeto a las disposiciones del Reglamento (UE) n º 258/2012 para la exportación de armas de fuego, sus piezas y componentes y municiones. |
+| Y935 | Mercancías que no entran en el ámbito de aplicación del Reglamento (UE) n.º 1332/2013 (DO L 335). |
+| Y937 | A las mercancías declaradas no se les aplica el Reglamento de Ejecución (UE) 2019/1793 de la Comisión. |
+| Y939 | Producto no sujeto a las disposiciones del Reglamento (UE) n.º 833/2014, anexo II. |
+| Y942 | A las mercancías declaradas no se les aplica el Reglamento de Ejecución (UE) 2016/1141 de la Comisión. |
+| Y944 | Bienes distintos de los descritos en el anexo VI (Productos petrolíferos) del Reglamento (UE) 2017/1509. |
+| Y945 | Bienes sin carácter comercial, para uso personal de los viajeros, contenidos en sus equipajes [artículo 10, apartado 2, del Reglamento (UE) 2017/1509]. |
+| Y946 | Bienes que sean necesarios a fines oficiales de las misiones diplomáticas o consulares de los Estados miembros en la RPDC o de organizaciones internacionales que gocen de inmunidades con arreglo al Derecho internacional, o a los efectos personales de su personal [artículo 10, apartado 3, del Reglamento (UE) 2017/1509]. |
+| Y947 | Transacción autorizada por la autoridad competente del Estado miembro con fines humanitarios [artículo 10, apartado 4, del Reglamento (UE) 2017/1509]. |
+| Y948 | Bienes distintos de los descritos en el anexo VIII (Bienes de lujo) del Reglamento (UE) 2017/1509. |
+| Y949 | Mercancías distintas de las descritas en las notas a pie de página vinculadas a la medida (R267/2012). |
+| Y950 | Mercancías que no sean aparatos precargados con hidrofluorocarburos [según definición del artículo 14.1 del Reglamento (EU) n.º 517/2014.]. |
+| Y951 | Excepción a la reducción de la cantidad de hidrofluorocarburos comercializados en virtud del artículo 15, apartado 2, letras a) a f), del Reglamento (UE) n.º 517/2014. |
+| Y952 | Bienes exentos de lo dispuesto en el artículo 2, apartado 1, letra a) del Reglamento (UE) 2016/44 del Consejo. |
+| Y953 | Bienes a los que no afecta el Reglamento (UE) 2016/44 del Consejo relativo a las medidas restrictivas habida cuenta de la situación en Libia. |
+| Y955 | Mercancías distintas de las sujetas a las prohibiciones de importación definidas en el artículo 7, apartado 2, del Reglamento (UE) n.º 517/2014. |
+| Y956 | Mercancías distintas de la sujetas a la reducción de la cantidad de hidrofluorocarburos comercializados definidos en el artículo 15 del Reglamento (UE) n.º 517/2014. |
+| Y957 | Bienes distintos de los descritos en las notas a pie de página «MG» que acompañan la medida (anexo II, parte V, del Reglamento (UE) 2017/1509). |
+| Y958 | Bienes distintos de los descritos en el anexo IV (Oro, titanio, mineral de vanadio y minerales de tierras raras) del Reglamento (UE) 2017/1509. |
+| Y959 | Bienes distintos de los descritos en el anexo V (Carbón, hierro y mineral de hierro) del Reglamento (UE) 2017/1509. |
+| Y960 | Bienes distintos de los descritos en el anexo VII (Cobre, níquel, plata y cinc) del Reglamento (UE) 2017/1509. |
+| Y961 | Bienes distintos de los descritos en el anexo IX (Oro, metales preciosos y diamantes) del Reglamento (UE) 2017/1509. |
+| Y962 | Artículos distintos de los descritos en el anexo X (Estatuas) del Reglamento (UE) 2017/1509. |
+| Y963 | Bienes distintos de los descritos en las notas a pie de página «MG» que acompañan la medida [anexo II, parte IV, del Reglamento (UE) 2017/1509]. |
+| Y964 | Artículos distintos de los descritos en el anexo XI b (Productos pesqueros) del Reglamento (UE) 2017/1509. |
+| Y965 | Artículos distintos de los descritos en el anexo XI ter (Plomo y mineral de plomo) del Reglamento (UE) 2017/1509. |
+| Y966 | Bienes distintos de los descritos en las notas a pie de página «MG» que acompañan la medida (anexo III del Reglamento (UE) 267/2012). |
+| Y967 | Artículos distintos de los descritos en el anexo XI quinquies (Productos derivados del petróleo refinado) del Reglamento (UE) 2017/1509. |
+| Y968 | Productos que no excedan un precio de venta de 50 € por litro. |
+| Y969 | Productos con mercurio añadido esenciales para usos militares y protección civil, o destinados a la investigación, a la calibración de instrumentos o a ser utilizados como patrón de referencia [artículo 5, apartado 2, del Reglamento (UE) 2017/852]. |
+| Y970 | Bienes distintos de los descritos en las notas a pie de página «MG» que acompañan la medida (anexo II, parte VI, del Reglamento (UE) 2017/1509). |
+| Y971 | Bienes distintos de los descritos en las notas a pie de página «MG» que acompañan la medida (anexo II, parte VIII, del Reglamento (UE) 2017/1509). |
+| Y976 | Mercancías distintas de las sujetas a la obligación de registro definida en el artículo 1, apartado 2, del Reglamento (UE) n.º 1191/2014, modificado por el Reglamento de Ejecución (UE) 2017/1375 de la Comisión. |
+| Y978 | Exención en virtud del artículo 1, apartado 3 del Reglamento (UE) 2019/1793. |
+| Y980 | Productos que se benefician de una excepción a los controles veterinarios de acuerdo con el artículo 4 del Reglamento Delegado (UE) 2019/2126 de la Comisión. |
+| Y981 | Exención en virtud del artículo 1, apartado 9, del Reglamento (UE) 2021/442 -: c) las exportaciones de mercancías adquiridas o entregadas a través de COVAX, Unicef o la OPS con destino a cualquier otro país participante en el Mecanismo COVAX, d) la donación o reventa, e) la respuesta humanitaria de emergencia. |
+| Y983 | No se aplican las prohibiciones definidas en los artículos 2.1 y 4.1 del Reglamento (UE) 2022/263 del Consejo (véanse las exenciones en los artículos 2.2 y 4.3). |
+| Y984 | Mercancías no originarias o no destinadas a las zonas de los oblastos de Donetsk y Luhansk. |
+| Y985 | Autorización de exportación en virtud del artículo 7 del Reglamento (UE) 2022/263 del Consejo. |
+| Y986 | Excepción a la prohibición de importación de conformidad con el artículo 11, apartados 1 y 2, del Reglamento (UE) n.º 517/2014. |
+| Y987 | No se aplican las prohibiciones definidas en los artículos 2.1 y 2 bis.1 del Reglamento (UE) n.º 2014/833 del Consejo (véanse las exenciones en los artículos 2.3 y 2 bis.3). |
+| Y988 | Una prueba de que el producto ha sido exportado desde los Estados Unidos a la Unión antes del 10 de noviembre de 2020 (Reg.2020/1646). |
+| Y990 | Autorización de exportación en virtud de los artículos 2.4, 2 bis.4 y 2 ter, apartado 1, del Reglamento (UE) n.º 2014/833 del Consejo. |
+| Y991 | No se aplican las prohibiciones definidas en los artículos 2.1 y 2 bis.1 del Reglamento (UE) n.º 2014/833 del Consejo (véanse las exenciones contractuales en el apartado 5 del artículo 2, apartado 5 del artículo 2 bis). |
+| Y992 | Autorización de exportación, o caso de emergencia, en virtud del artículo 3 ter, apartado 4, del Reglamento (UE) n.º 2014/833 del Consejo. |
+| Y993 | No se aplican las prohibiciones definidas en el artículo 3 ter, apartado 1, del Reglamento (UE) n.º 2014/833 del Consejo (véanse las exenciones contractuales en el artículo 3 ter, apartado 3). |
+| Y994 | No se aplican las prohibiciones definidas en el artículo 3 quater.1, del Reglamento (UE) n.º 2014/833 del Consejo (véanse las exenciones contractuales en el artículo 3 quater.5). |
+| Y995 | Mercancías distintas de las afectadas por las prohibiciones definidas en los artículos 2.1 y 2 bis.1 del Reglamento (UE) n.º 833/2014. |
+| Y996 | Mercancías distintas de las afectadas por las prohibiciones definidas en el artículo 3 ter, apartado 1, del Reglamento (UE) n.º 833/2014. |
+| ZZZZ | Otras menciones. |
+
+| Código | Códigos Documentos Nacionales |
+|---|---|
+| 1 | DOCUMENTOS. |
+| 1001 | Contrato. |
+| 1002 | Otro tipo de título de transporte (1). |
+| 1003 | Declaración jurada de valor. |
+| 1005 | Autorización individual de despacho. |
+| 1006 | Poder representación fiscal. |
+| 1007 | Autorización individual depositario a depositante para incluir mercancía en un depósito público. |
+| 1008 | Documento acreditativo de aceptación de la representación fiscal del artículo 86 Tres del LIVA (Ley 37/1992). |
+| 1009 | Exportación, ventas sucesivas: factura emitida por el adquirente/vendedor intermedio. |
+| 1010 | Régimen 42 o 63, título de transporte desde la aduana al Estado miembro de destino de la mercancía. |
+| 1011 | Régimen 42 o 63, título de transporte marítimo o aéreo directo desde tercer país hasta el Estado miembro de destino declarado en la casilla 17. |
+| 1012 | Régimen 42 o 63: título de transporte combinado desde tercer país hasta el Estado miembro de destino declarado en la casilla 17. |
+| 1013 | Régimen 42 o 63: título de transporte cuando esté prevista alguna interrupción propia de la logística del transporte en el ámbito territorial interno del IVA. |
+| 1014 | Autorización esporádica IOSS. |
+| 1015 | Autorización de despacho, declaración por cuenta del expedidor (apéndice XVI). |
+| 1016 | Compromiso por parte del interesado de establecerse efectivamente en el territorio de la Unión en el plazo de seis meses. |
+| 1017 | Código de divisa sin tipo de cambio de referencia en el Banco Central Europeo y cambio aplicado. |
+| 1018 | Autorización despacho (H7). |
+| 1019 | Cláusula de cesión de representación en portal. |
+| 1020 | Solicitud autorización Régimen Especial con DUA. |
+| 1021 | Relación destinatarios. |
+| 1022 | Existe vinculación entre el comprador y el vendedor en el sentido del artículo 127 del RECAU, pero dicha vinculación no afecta en el precio de las mercancías importadas. |
+| 1023 | Existe vinculación entre el comprador y el vendedor en el sentido del artículo 127 del RECAU que afecta al precio de la mercancía importada por lo que se aplica un método secundario de valoración. |
+| 1024 | Método aplicado de valoración en caso de haber declarado el código 1023. Indicar el dígito que corresponda: - 2 Valor de transacción de mercancías idénticas [art. 74.2 a) CAU] - 3 Valor de transacción de mercancías similares [art. 74.2 b) CAU] - 4 Valor deductivo [art. 74.2 c) CAU] - 5 Valor calculado [art. 74.2 d) CAU] - 6 Valor basado en los datos disponibles (método alternativo, art. 74.3 del CAU). |
+| 1025 | Información adicional para importación de Equipos de Protección Individual que requieran control en materia de Seguridad de los Productos. |
+| 1030 | Solicitud no aplicación derecho adicional R. (UE) n.º 2018/724 por cumplir el envío las condiciones previstas en el artículo 4 de dicho Reglamento. |
+| 1031 | Solicitud no aplicación derecho adicional R. (UE) n.º 2018/1013 por cumplir el envío las condiciones previstas en el artículo 4 de dicho Reglamento. |
+| 1032 | Declaración de medios de pago no acompañados. |
+| 1033 | Formulario particulares: solicitud simplificación art. 177 CAU. |
+| 1035 | BREXIT. Retorno: justificante envío mercancía UE a GB antes del 31 de diciembre de 2020. |
+| 1037 | N.º identificativo de una partida agrupadora de envíos (subpartida de un conocimiento aéreo o marítimo). |
+| 1050 | Justificante recepción Entidad autorizada exención C26. |
+| 1101 | Autorización administrativa de importación. |
+| 1102 | Notificación previa de importación. |
+| 1103 | Notificación previa de exportación. |
+| 1104 | Material de defensa. |
+| 1105 | Licencia de exportación CE. |
+| 1106 | Certificado REA. |
+| 1107 | Certificados de productos químicos peligrosos. |
+| 1108 | Residuo tóxico. |
+| 1109 | Autorización aduana declaraciones en documento comercial. |
+| 1110 | Autorización AEAT exención IVA. |
+| 1111 | Autorización Destino Especial. |
+| 1112 | Autorización franquicia diplomáticos/OTAN. |
+| 1113 | Departamento de Aduanas, autorización franquicia Arancel e IVA. |
+| 1114 | Autorización Aduana cantidades tabaco y alcohol, art. 6 Orden HAC/559/2021. |
+| 1115 | Autorización RPA artículo 544 c) DAC. |
+| 1116 | Certificado exención IVA e II.EE. en entregas intracomunitarias para diplomáticos / OTAN y otras Organizaciones Internacionales (Art. 22.8 Ley IVA). |
+| 1117 | Autorización de exportación de otro material de defensa (distinto del comprendido en los certificados con códigos 1104 y 1118). |
+| 1118 | Armas de fuego. |
+| 1119 | Certificado de matriculación provisional para aeronaves civiles. |
+| 1120 | Formulario de franquicia NATA - INTA. |
+| 1121 | N.º solicitud autorización exportación temporal/reimportación de envases y/o embalajes retornables. |
+| 1122 | Autorización exportación temporal/reimportación de envases y/o embalajes retornables. |
+| 1131 | Certificado para carnes de bovino pesados machos R. CEE 32/82. |
+| 1132 | Certificado para carnes deshuesadas de bovino pesados machos, R. CE 1964/82. |
+| 1133 | Hojas de detalle productos transformados R. CE 1222/94. |
+| 1134 | Certificado de control calidad frutas y hortalizas. |
+| 1201 | DUA importación. |
+| 1202 | Declaración simplificada de importación en documento comercial. |
+| 1203 | Declaración simplificada de exportación en documento comercial. |
+| 1204 | DUA simplificado de importación. |
+| 1205 | DUA inclusión en depósito aduanero u otros almacenes. |
+| 1206 | DUA reexportación depósito aduanero. |
+| 1207 | Número de DDA de destino. |
+| 1208 | Modelo 590. |
+| 1209 | Documento de transferencia. |
+| 1210 | Situación fiscal. |
+| 1211 | Número de inscripción en contabilidad de existencias. |
+| 1212 | Hoja complementaria. |
+| 1213 | Certificado de matriculación vehículos. |
+| 1214 | Justificante devolución ayuda REA. |
+| 1215 | Certificado del transformador de que el producto no ha sido elaborado con materias primas acogidas a REA. |
+| 1216 | Certificado del exportador de que dicho producto no se ha beneficiado del REA. |
+| 1217 | Certificado de recepción LAME. |
+| 1218 | Tique venta T2LF. |
+| 1219 | Matrícula automóvil como justificante T2LF. |
+| 1220 | Declaración simplificada exportación. |
+| 1221 | Certificado OMIE (energía eléctrica). |
+| 1222 | Exportación en papel - procedimiento de emergencia. |
+| 1223 | Certificado de la Aduana de Control RPA de la situación de productos compensadores en retorno (Ver apéndice VII, letra F). |
+| 1224 | MRN Exportación anulada. |
+| 1225 | Prueba de estatuto aduanero de la Unión de productos de la pesca marítima y mercancías obtenidos a partir de dichos productos, de acuerdo a lo previsto en el artículo 213 del Reglamento de Ejecución del CAU. |
+| 1226 | Relación de asientos inscripción en los registros del declarante. |
+| 1227 | Partidas adicionales de declaración de exportación «C». |
+| 1230 | RHOS (en pruebas) Certificado. |
+| 1231 | RHOS (en pruebas) Cod A.–declara que desglosa el expediente por mercancía en demora, y que se compromete a enviar tras el cambio nuevo DUA por la mercancía que está en control o fue no conforme. |
+| 1232 | RHOS (en pruebas) Cod B.–Que el cambio de peso obedece a error, u otras circunstancias, pero no a retirada de mercancía del control SOIVRE. |
+| 1233 | RHOS (en pruebas) Cod F.–En DUA anulado con solicitud SOIVRE «En control» y en sucesivos DUAs relacionados. |
+| 1301 | Certificado de homologación. |
+| 1302 | Certificado de metrología. |
+| 1303 | Certificado de seguridad. |
+| 1304 | Certificado de baja tensión. |
+| 1305 | Certificado de aceptación radioeléctrica. |
+| 1306 | Certificado productos sujetos a control de IMPORTACIÓN por parte de la Inspección de farmacia. |
+| 1307 | Guía de armas. |
+| 1308 | Autorización Pesquera Importación (Atún Rojo, Pez Espada, Patudo y Dissostichus). |
+| 1309 | Autorización Pesquera Exportación (Atún Rojo, Pez Espada, Patudo y Dissostichus). |
+| 1310 | Documento de control seguridad de los productos. RD 330/2008 (BOE 62 de 12 de marzo de 2008). |
+| 1311 | Autorización Pesquera Importación. Reg. 1005/2008 del Consejo, para prevenir, desalentar y eliminar la pesca ilegal, no declarada y no reglamentada. |
+| 1312 | Autorización Pesquera Exportación. Reg. 1005/2008 del Consejo, para prevenir, desalentar y eliminar la pesca ilegal, no declarada y no reglamentada. |
+| 1313 | Certificado productos sujetos a control de EXPORTACIÓN por parte de la Inspección de farmacia. |
+| 1315 | Declaración del OEA de que NO PROCEDE certificación RD 330/2008, al tratarse de un producto no recogido en el anexo de este RD. Código solo utilizable para envíos de hasta 5 unidades y con destino a un particular. |
+| 1316 | Declaración del operador no OEA de que NO PROCEDE certificación RD 330/2008 por ser un envío inferior a 5 unidades y con destino a un particular. |
+| 1317 | Declaración del OEA de que la operación está exenta de solicitud sistemática de control (y de certificación) en el marco del RD 330/2008 por ser un envío de hasta 5 unidades y con destino a un particular. |
+| 1350 | Solicitud de NO aplicación de los controles de credibilidad. |
+| 1400 | Precintas fiscales inutilizadas. |
+| 1401 | Precintas fiscales destruidas. |
+| 1402 | Importación de bebidas o cigarrillos sin marcas fiscales adheridas. |
+| 1403 | INSPECCIÓN DE FARMACIA. Declaración que presenta el Importador haciendo constar que los productos NO ESTÁN afectados por el control de INSPECCIÓN DE FARMACIA. |
+| 1404 | INSPECCIÓN DE FARMACIA. Para las operaciones con SUIZA y ANDORRA, declaración que presenta el Importador haciendo constar que los productos NO ESTÁN afectados por el control de INSPECCIÓN DE FARMACIA. |
+| 1405 | INSPECCIÓN DE SANIDAD EXTERIOR. Certificado de NO PROCEDE emitido por Sanidad Exterior. |
+| 1406 | Autorización Importación o Exportación de MUESTRAS BIOLÓGICAS (RD 65/2006, BOE 32 de 7 de febrero de 2006). |
+| 1407 | INSPECCIÓN DE FARMACIA. Se admite la declaración que presenta el Importador haciendo constar que los productos COSMÉTICOS NO ESTÁN afectados por el control de INSPECCIÓN DE FARMACIA por tratarse de envíos de particular a particular para su uso personal. |
+| 1408 | SANIDAD ANIMAL EXPORTACION. Certificación veterinaria oficial (ORDEN PRE/847/2016, BOE de 3 de junio de 2016). |
+| 1409 | Autorización generada por la AEAT de oficio por no superar el límite de la exención incluida en las condiciones de las medidas TARIC 751 o 755. |
+| 1410 | INSPECCIÓN DE SANIDAD ANIMAL A LA EXPORTACIÓN. Declaración que presenta el exportador haciendo constar bajo su responsabilidad, que los productos que se exportan NO ESTÁN afectados por el control de SANIDAD ANIMAL A LA EXPORTACIÓN. |
+| 1411 | INSPECCIÓN DE SANIDAD EXTERIOR. Certificado de NO PROCEDE emitido por Sanidad Exterior validad para el control de la pesca de barcos COMUNITARIOS. |
+| 1412 | INSPECCIÓN DE SANIDAD ANIMAL A LA IMPORTACIÓN. Declaración que presenta el importador haciendo constar bajo su responsabilidad, que los productos que se importan NO tienen como destino la alimentación animal ni su uso en animales. |
+| 1413 | INSPECCIÓN DE SANIDAD EXTERIOR. Declaración que presenta el Importador y bajo su responsabilidad haciendo constar que los productos NO ESTÁN afectados por el control de INSPECCIÓN DE SANIDAD EXTERIOR. |
+| 1414 | SANIDAD VEGETAL. Certificado de NO PROCEDE emitido por Inspección Fitosanitaria. |
+| 1415 | INSPECCIÓN DE SANIDAD VEGETAL. Declaración que presenta el Importador y bajo su responsabilidad haciendo constar que los productos NO ESTÁN afectados por el control de INSPECCIÓN FITOSANITARIA. |
+| 1500 | N.º autorización Depósito distinto del Aduanero privado, publico tipo I o tipo II, o Depósito REF. |
+| 1506 | Autorización Exportación e Importación de células y tejidos humanos destinados a ser aplicados en el ser humano, así como de células reproductoras humanas (gametos, preembriones, etc. (Real Decreto-ley 9/2014, de 4 de julio). |
+| 1833 | Manifiesto carga (salida buque). |
+| 1999 | Otros documentos nacionales no especificados. |
+| 3 | REFERENCIAS LEGALES. |
+| 3001 | Reglamento UE. |
+| 3002 | Ley. |
+| 3003 | Real Decreto. |
+| 3004 | Orden Ministerial. |
+| 3005 | Otra norma. |
+| 3006 | Articulo Ley de Impuestos Especiales base exención. |
+| 5 | NÚMEROS DE IDENTIFICACIÓN. |
+| 5002 | NIF del transformador REA (ver apéndice X RDUA). |
+| 5003 | NIF del reexportador REA (ver apéndice X RDUA). |
+| 5004 | Código de actividad y establecimiento. |
+| 5005 | Epígrafe del Impuesto de Actividades Económicas. |
+| 5006 | NIF y nombre del adquirente o vendedor intermedio (art. 21.1 Ley del IVA, apéndice XV). |
+| 5007 | NIF y nombre del vendedor previo (art. 21.2 Ley del IVA, apéndice XV). |
+| 5008 | NIF y nombre del vendedor previo (art. 21.3 Ley del IVA, apéndice XV). |
+| 5009 | NIF del titular del régimen. |
+| 5010 | NIF/EORI Empresa receptora avituallamiento. |
+| 5011 | Empresa sin EORI receptora avituallamiento. |
+| 5012 | Identificador buque avituallado (código IMO o, en su defecto, otro código de identificación). |
+| 5013 | Compañía aérea titular de las aeronaves avitualladas. |
+| 5014 | Código de actividad de gases fluorados (CAF). |
+| 5015 | Numero CAS (número de registro del «Chemical Abstracts Service»). |
+| 5016 | CAE del expedidor registrado que vaya a emitir el e-DA, en importaciones. |
+| 5017 | CCL + EIR, NIF IVA otro Estado Miembro. |
+| 5018 | Ubicación del almacén. Autorización de Depósito. |
+| 5019 | NIF de la persona que realiza la entrega exenta, distinta del exportador. |
+| 5021 | Código NC del producto transformado para el que se solicita el despacho a libre práctica (Ver apéndice XVIII apartado B). |
+| 5023 | NIF Entidad por cuya cuenta se realiza la importación (titular exención C26). |
+| 5024 | Número de pasaporte del exportador sin NIF (envíos C2C). |
+| 7 | IMPORTES. |
+| 7002 | Importe gastos IVA. |
+| 7003 | Importe Subvención REA (cálculo base IGIC). |
+| 7007 | Valor intrínseco de la mercancía (art. 23 Reg. 1186/2009 Franquicias). |
+| 7008 | Fecha cotización divisa distinta de la fecha de admisión. |
+| 7009 | Valor estadístico a efectos del cálculo de la liquidación de los derechos de los productos transformados del Régimen de Perfeccionamiento Pasivo. |
+| 7010 | Tipo de cambio previsto a la fecha de admisión de la declaración. |
+| 7011 | Cantidad mercancía vinculada a DA para cálculo importe derechos aplicando el párrafo 2.º del artículo 86.1 y 2 del CAU) (apéndice XVIII). |
+| 7012 | Número de asiento contable registro de embalajes/envases retornables según autorización (cod. 1122). |
+| 7013 | Número de envíos (partida agrupadora enlace DDT-G3). |
+| 8 | CÓDIGOS ESPECÍFICOS NORMATIVA FISCAL CANARIAS. |
+| 8001 | Código de actividad y Establecimiento (CAE - Ley 1/2011 de 21 de enero, del Impuesto sobre las Labores del Tabaco). |
+| 8002 | Documento de circulación (Ley 1/2011 de 21 de enero, del Impuesto sobre las Labores del Tabaco). |
+| 8003 | Introducción / Importación de cigarrillos sin marcas fiscales adheridas (Ley 1/2011 de 21 de enero, del Impuesto sobre las Labores del Tabaco). |
+| 8004 | Marcas fiscales inutilizadas (Ley 1/2011 de 21 de enero, del Impuesto sobre las Labores del Tabaco). |
+| 8005 | Marcas fiscales destruidas (Ley 1/2011 de 21 de enero, del Impuesto sobre las Labores del Tabaco). |
+| 8100 | Declaración de adhesión a Sistema Integrado de Gestión de Residuos (art. 14.5 Ley 19/1994). |
+| 9 | MENCIONES ESPECIALES. |
+| 9002 | Leyenda «Mercancía exportada en virtud del art. 14, apartado 1, párrafo primero, del RUE 228/2013». |
+| 9003 | Leyenda «Mercancía exportada en virtud del art. 14, apartado 2, del RUE 228/2013». |
+| 9006 | Mercancías conforme el Reglamento (CE) 903/2008. |
+| 9007 | T2L, granel cantidad provisional. |
+| 9009 | T2L, solicitud de expedición a posteriori. |
+| 9010 | Expedidor autorizado T2L. |
+| 9011 | Solicitud de certificado de salida (apéndice XVI). |
+| 9012 | T2LF – Mercancía sin declaración de expedición (apéndice XVI). |
+| 9013 | T2LF – Mercancía sin declaración de expedición (apartado 3.4). |
+| 9014 | Garantía deuda potencial (destino final) del representante directo. |
+| 9015 | Solicitud reducción garantía IVA (OEA representación directa). |
+| 9016 | Envases con marcas propias de operador establecido en TAU. |
+| 9017 | Garantía deuda potencial regímenes especiales del representante directo. |
+| 9020 | Solicitud de aceptación copia digital Certificado EUR durante crisis COVID-19. |
+| 9999 | Otras menciones especiales no especificadas. |
+
+> Se sustituye por el que figura como anexo 10º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.24. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se sustituye por el que figura como anexo 11º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.18. [Ref. BOE-A-2019-12996](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-12996)
+
+> Se sustituye por el que figura como anexo 7º de la Resolución de 25 de agosto de 2017, según establece su apartado primero.21. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## ANEXO XV-C
+
+## Códigos de documentos justificativos H7 (DATO 1203000000)
+
+NOTAS:
+
+a) La relación de códigos vigentes de documentos puede consultarse en la Sede Electrónica de la AEAT, tabla H7CL213. La presente relación es la vigente el 1 de enero de 2022.
+
+b) Además de declarar el código de tipo de documento, este deberá identificarse según el documento de que se trate, normalmente, mediante la inclusión del código del país donde fue emitido, su número de registro y la fecha de expedición.
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Código</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2">N380</td>
+<td>Numero de factura.</td>
+</tr>
+<tr>
+<td colspan="2">1003</td>
+<td>Declaración de valor.</td>
+</tr>
+<tr>
+<td colspan="2">1014</td>
+<td>Autorización esporádica IOSS.</td>
+</tr>
+<tr>
+<td colspan="2">1018</td>
+<td>Autorización de despacho.</td>
+</tr>
+<tr>
+<td colspan="2">1230</td>
+<td>Justificante de pago.</td>
+</tr>
+<tr>
+<td colspan="2">1315</td>
+<td>Declaración del OEA de que NO PROCEDE certificación RD 330/2008 por ser un envío de hasta 5 unidades y con destino a un particular.</td>
+</tr>
+<tr>
+<td colspan="2">1316</td>
+<td>Declaración del operador de que NO PROCEDE certificación RD 330/2008 por ser un envío de hasta a 5 unidades y con destino a un particular.</td>
+</tr>
+<tr>
+<td colspan="2">1317</td>
+<td>Declaración del OEA de que la operación está exenta de control sistemático (y de certificación RD 330/2008) por ser un envío de hasta 5 unidades y con destino.</td>
+</tr>
+</tbody>
+</table>
+
+> Se añade por el que figura como anexo 11º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.25. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se suprime por el apartado primero.22 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## ANEXO XVI — Impresos y modelos
+
+A) DUA<sup>1</sup>.
+
+El modelo oficial del Documento Único Administrativo está sancionado en el Reglamento (CEE) n.º 2454/1993 de la Comisión, en el título VII, Capítulo 1.º Sección 2.ª y en los anexos 31 a 34 del mismo. Puede también consultarse en la página web de la Agencia Tributaria.
+
+El formulario está compuesto por ocho ejemplares. En función de la operación que se declare deberán utilizarse los ejemplares previstos para ello en el apartado primero de los capítulos 2.º, 3.º, 4.º y 5.º de esta Resolución.
+
+Para facilitar su uso, el formulario se edita en series con los ejemplares necesarios para cada tipo de operación.
+
+En los supuestos en que sea necesario más de un formulario por declaración está previsto por cada ejemplar su complementario (Series BIS).
+
+La utilidad de cada ejemplar se explica en los Capítulos relativos a cada tipo de operación.
+
+El documento deberá cumplimentarse en el idioma español y escrito por procedimientos de impresión electrónica. Excepcionalmente se podrá admitir escrito a mano, con tinta y en mayúsculas.
+
+Habrán de observarse estrictamente las disposiciones relativas a modelo, calidad de papel y formato de los formularios.
+
+Los datos deberán ir encajados perfectamente dentro de sus casillas, no permitiéndose entrerrenglonaduras ni raspaduras.
+
+El documento será en todas sus casillas y copias perfectamente legible. En caso de incumplimiento de cualquiera de estas normas, los servicios de la Aduana deberán exigir la presentación de un nuevo formulario.
+
+B) Documento de acompañamiento de tránsito<sup>1</sup>.
+
+En el artículo 358 del Reglamento (CEE) n.º 2454/1993 establece el documento de acompañamiento de tránsito y la lista de artículos, cuyos modelos se incluyen como Anexo 45 bis y 45 ter del citado Reglamento; así como el documento de acompañamiento y lista de artículos que incorporan los datos de seguridad (Anexo 45 sexies y septies). Pueden también consultarse en la página web de la Agencia Tributaria.
+
+C) Documento de acompañamiento de exportación.
+
+Los formatos del Documento de acompañamiento de exportación (DAE) y la lista de artículos se encuentran incluidos como anexo 45 octies y nonies del Reglamento (CEE) n.º 2454/93. Pueden también consultarse en la página web de la Agencia Tributaria.
+
+D) Certificaciones de PAC<sup>1</sup>.
+
+A continuación se incluye copia de los modelos de los siguientes certificados previstos en el Apéndice I de esta Resolución:
+
+| DOC-1: | Certificado para la carne de bovinos pesados machos Reglamento (CE) n.º 433/2007. |
+|---|---|
+| DOC-2: | Certificación para carnes deshuesadas de cuartos delanteros de bovinos pesados machos Reglamento (CE) n.º 1359/2007. |
+| DOC-3. | Certificación para carnes deshuesadas de cuartos traseros de bovinos pesados machos Reglamento (CE) n.º 1359/2007. |
+| DOC-4: | Certificate for the export of pasta to the USA. |
+| DOC-5: | Certificado de control CE. |
+
+E) Documento de pago.
+
+Se incluyen copia de los siguientes modelos:
+
+Carta de pago, modelo 031.
+
+Carta de pago, modelo 032.
+
+<sup>1</sup> Las características técnicas de estos modelos podrán consultarse en la normativa que los aprueba.
+
+[Escribir texto]
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/176/07683_11499932_image9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/82/5519_11392510_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/82/5519_11392510_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/210/07683_11499932_image12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2017/210/07683_11499932_image13.png)
+
+> Se sustituye el modelo de carta de pago 031 por el que figura como anexo 12º de la Resolución de 29 de marzo de 2022, según establece su apartado primero.26. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifica el apartado «Plazos de pago» del modelo 032 por el apartado primero.23 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+## ANEXO XVII
+
+A) Códigos de Ayuda Régimen Especial de Abastecimiento de Canarias (REA)
+
+| NC | Código | Descripción |
+|---|---|---|
+| 02011000. | T001. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. EN CANALES O MEDIAS CANALES. LA PARTE ANTERIOR DE UNA CANAL O MEDIA CANAL SIN DESHUESAR, CON EL CUELLO Y LA PALETILLA, SIEMPRE QUE CONTENGA MÁS DE DIEZ COSTILLAS. DE BOVINOS MACHOS ADULTOS. |
+| 02011000. | T002. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. EN CANALES O MEDIAS CANALES. LA PARTE ANTERIOR DE UNA CANAL O MEDIA CANAL SIN DESHUESAR CON EL CUELLO Y LA PALETILLA, SIEMPRE QUE CONTENGA MÁS DE DIEZ COSTILLAS. LOS DEMÁS. |
+| 02011000. | T003. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. EN CANALES O MEDIAS CANALES. LOS DEMÁS. DE BOVINOS MACHOS ADULTOS. |
+| 02011000. | T004. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. EN CANALES O MEDIAS CANALES. LOS DEMÁS. LOS DEMÁS. |
+| 02012020. | T005. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS LLAMADOS «COMPENSADOS». DE BOVINOS MACHOS ADULTOS. |
+| 02012020. | T006. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS LLAMADOS «COMPENSADOS» LOS DEMÁS. |
+| 02012030. | T007. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS DELANTEROS, UNIDOS O SEPARADOS. DE BOVINOS MACHOS ADULTOS. |
+| 02012030. | T008. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS DELANTEROS, UNIDOS O SEPARADOS. LOS DEMÁS. |
+| 02012050. | T009. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS TRASEROS, UNIDOS O SEPARADOS. CON UN MÁXIMO DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS. DE BOVINOS MACHOS ADULTOS. |
+| 02012050. | T010. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS TRASEROS, UNIDOS O SEPARADOS. CON UN MÁXIMO DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS. LOS DEMÁS. |
+| 02012050. | T011. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS TRASEROS, UNIDOS O SEPARADOS. CON MÁS DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS. DE BOVINOS MACHOS ADULTOS. |
+| 02012050. | T012. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS TRASEROS, UNIDOS O SEPARADOS. CON MÁS DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS. LOS DEMÁS. |
+| 02012090. | T013. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. LOS DEMÁS. CON UN PESO DE HUESO NO SUPERIOR A UN TERCIO DEL PESO DEL TROZO. |
+| 02013000. | T014. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. DESHUESADA. TROZOS DESHUESADOS, INCLUIDA LA CARNE PICADA, CON UN CONTENIDO MEDIO EN CARNE DE VACUNO MAGRA (EXCLUIDA LA GRASA) IGUAL O SUPERIOR AL 78 %. |
+| 02013000. | T015. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. DESHUESADA. LOS DEMÁS, CADA PIEZA EMBALADA INDIVIDUALMENTE, CON UN CONTENIDO MEDIO DE CARNE DE VACUNO MAGRA (EXCLUIDA LA GRASA) IGUAL O SUPERIOR AL 55%. DE LOS CUARTOS TRASEROS DE BOVINOS MACHOS ADULTOS CON UN MÁXIMO DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS (CORTE RECTO O CORTE «PISTOLA»). |
+| 02013000. | T016. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, FRESCA O REFRIGERADA. DESHUESADA. LOS DEMÁS, CADA PIEZA EMBALADA INDIVIDUALMENTE, CON UN CONTENIDO MEDIO DE CARNE DE VACUNO MAGRA (EXCLUIDA LA GRASA) IGUAL O SUPERIOR AL 55 %. DE CUARTOS DELANTEROS DE BOVINOS MACHOS ADULTOS (CORTE RECTO O CORTE «PISTOLA»). |
+| 02021000. | T017. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. EN CANALES O MEDIAS CANALES. LA PARTE ANTERIOR DE UNA CANAL O MEDIA CANAL SIN DESHUESAR, CON EL CUELLO Y LA PALETILLA, SIEMPRE QUE TENGA MÁS DE DIEZ COSTILLAS. |
+| 02021000. | T018. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. EN CANALES O MEDIAS CANALES. LOS DEMÁS. |
+| 02022010. | T019. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS LLAMADOS «COMPENSADOS». |
+| 02022030. | T020. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS DELANTEROS UNIDOS O SEPARADOS. |
+| 02022050. | T021. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS TRASEROS UNIDOS O SEPARADOS. CON UN MÁXIMO DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS. |
+| 02022050. | T022. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. CUARTOS TRASEROS UNIDOS O SEPARADOS. CON MÁS DE OCHO COSTILLAS U OCHO PARES DE COSTILLAS. |
+| 02022090. | T023. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. LOS DEMÁS CORTES (TROZOS) SIN DESHUESAR. LOS DEMÁS. CON UN PESO DE HUESO NO SUPERIOR A UN TERCIO DEL PESO DEL TROZO. |
+| 02023090. | T024. | CARNE DE ANIMALES DE LA ESPECIE BOVINA, CONGELADA. DESHUESADA. LAS DEMÁS. TROZOS DESHUESADOS, INCLUIDA LA CARNE PICADA, CON UN CONTENIDO MEDIO EN CARNE DE VACUNO MAGRA (EXCLUIDA LA GRASA) IGUAL O SUPERIOR AL 78 %. |
+| 02032110. | T025. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. EN CANALES O MEDIAS CANALES. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. |
+| 02032211. | T026. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. PIERNAS, PALETAS Y SUS TROZOS, SIN DESHUESAR. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. PIERNAS Y TROZOS DE PIERNA. CON UN CONTENIDO GLOBAL EN PESO DE HUESOS Y CARTÍLAGOS INFERIOR A 25 %. |
+| 02032219. | T027. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. PIERNAS, PALETAS Y SUS TROZOS, SIN DESHUESAR. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. PALETAS Y TROZOS DE PALETAS. CON UN CONTENIDO GLOBAL EN PESO DE HUESOS Y CARTÍLAGOS INFERIOR A 25 %. |
+| 02032911. | T028. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. LAS DEMÁS. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. PARTES DELANTERAS Y TROZOS DE PARTES DELANTERAS. CON UN CONTENIDO GLOBAL EN PESO DE HUESOS Y CARTÍLAGOS INFERIOR A 25 %. |
+| 02032913. | T029. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. LAS DEMÁS. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. CHULETEROS Y TROZOS DE CHULETERO. CON UN CONTENIDO GLOBAL EN PESO DE HUESOS Y CARTÍLAGO INFERIOR A 25 %. |
+| 02032915. | T030. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. LAS DEMÁS. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. PANCETA Y TROZOS DE PANCETA. CON UN CONTENIDO GLOBAL EN PESO DE HUESOS Y CARTÍLAGOS INFERIOR A 15 %. |
+| 02032955. | T031. | CARNE DE ANIMALES DE LA ESPECIE PORCINA, FRESCA, REFRIGERADA O CONGELADA. CONGELADA. LAS DEMÁS. DE ANIMALES DE LA ESPECIE PORCINA DOMÉSTICA. LAS DEMÁS. DESHUESADAS. PIERNAS, PARTES DELANTERAS, PALETAS Y SUS TROZOS (<sup>1</sup>). |
+| 02071210. | T032. | CARNES Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. SIN TROCEAR, CONGELADOS. DESPLUMADOS, EVISCERADOS, SIN LA CABEZA NI LAS PATAS, PERO NO EL CUELLO, EL CORAZÓN, EL HÍGADO Y LA MOLLEJA, LLAMADOS «POLLOS 70 %». LOS DEMÁS. |
+| 02071290. | T033. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. SIN TROCEAR CONGELADOS. DESPLUMADOS, EVISCERADOS, SIN LA CABEZA NI LAS PATAS Y SIN EL CUELLO, EL CORAZÓN, EL HÍGADO NI LA MOLLEJA, LLAMADOS «POLLOS 65 %», O PRESENTADOS DE OTRO MODO. «POLLOS 65 %». LAS DEMÁS. |
+| 02071290. | T034. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. SIN TROCEAR CONGELADOS. DESPLUMADOS, EVISCERADOS, SIN LA CABEZA NI LAS PATAS, Y SIN EL CUELLO, EL CORAZÓN, EL HÍGADO NI LA MOLLEJA, LLAMADOS «POLLOS 65 %» O PRESENTADOS DE OTRO MODO. GALLOS Y GALLINAS DE ESPECIES DOMESTICAS, SIN TROCEAR, DESPLUMADOS, ESVICERADOS, PERO CON EL CUELLO, EL CORAZÓN, EL HÍGADO Y LA MOLLEJA, EN COMPOSICIÓN IRREGULAR (SIN CABEZA NI PATAS). LOS DEMÁS. |
+| 02071410. | T035. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS, DE GALLO O GALLINA, TROZOS Y DESPOJOS, CONGELADOS. TROZOS. DESHUESADOS. |
+| 02071420. | T036. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. TROZOS Y DESPOJOS, CONGELADOS. TROZOS. SIN DESHUESAR. MITADES O CUARTOS. LOS DEMÁS. |
+| 02071430. | T037. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS DE GALLO O GALLINA. TROZOS Y DESPOJOS CONGELADOS. TROZOS. SIN DESHUESAR. ALAS ENTERAS O INCLUSO SIN LA PUNTA. |
+| 02071440. | T038. | CARNE Y DESPOJOS COMESTIBLES DE AVES DE LA PARTIDA 0105 FRESCOS REFRIGERADOS O CONGELADOS DE GALLO O GALLINA TROZOS Y DESPOJOS CONGELADOS. TROZOS. SIN DESHUESAR, TRONCOS CUELLOS, TRONCOS CON CUELLO, RABADILLAS Y PUNTAS DE ALAS. |
+| 02071450. | T039. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS DE GALLO O GALLINA. TROZOS Y DESPOJOS CONGELADOS TROZOS. SIN DESHUESAR, PECHUGAS Y TROZOS DE PECHUGA. |
+| 02071460. | T040. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. TROZOS Y DESPOJOS CONGELADOS. TROZOS. SIN DESHUESAR. MUSLOS, CONTRAMUSLOS, Y SUS TROZOS. LOS DEMÁS (<sup>2</sup>). |
+| 02071470. | T041. | CARNES Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. TROZOS Y DESPOJOS, CONGELADOS. TROZOS. SIN DESHUESAR. LOS DEMÁS. MITADES O CUARTOS SIN RABADILLAS. LOS DEMÁS (<sup>2</sup>). |
+| 02071470. | T042. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. TROZOS Y DESPOJOS CONGELADOS. TROZOS. SIN DESHUESAR. LOS DEMÁS. PARTES QUE COMPRENDEN UN MUSLO ENTERO O UN PEDAZO DE MUSLO Y UN PEDAZO DE ESPALDA, SIN EXCEDER DEL 25 % DEL PESO TOTAL. LOS DEMÁS. |
+| 02071491. | T043. | CARNE Y DESPOJOS COMESTIBLES, DE AVES DE LA PARTIDA 0105, FRESCOS, REFRIGERADOS O CONGELADOS DE GALLO O GALLINA. TROZOS Y DESPOJOS CONGELADOS. DESPOJOS. HÍGADOS. |
+| 02071499. | T044. | CARNE Y DESPOJOS COMESTIBLES DE AVES DE LA PARTIDA 0105, FRESCOS REFRIGERADOS O CONGELADOS. DE GALLO O GALLINA. TROZOS Y DESPOJOS CONGELADOS. DESPOJOS. LOS DEMÁS. |
+| 04011010. | T101. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 1 % EN PESO. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. |
+| 04011090. | T102. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 1 % EN PESO. LAS DEMÁS. |
+| 04012011. | T103. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1 %, PERO INFERIOR O IGUAL AL 6% EN PESO. INFERIOR O IGUAL AL 3 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 1,5 % EN PESO. |
+| 04012011. | T104. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1%, PERO INFERIOR O IGUAL AL 6 % EN PESO. INFERIOR O IGUAL AL 3 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO. |
+| 04012019. | T105. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1 %, PERO INFERIOR O IGUAL AL 6 % EN PESO. INFERIOR O IGUAL AL 3%. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 1,5 % EN PESO. |
+| 04012019. | T106. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1%, PERO INFERIOR O IGUAL AL 6 % EN PESO. INFERIOR O IGUAL AL 3 %. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO. |
+| 04012091. | T107. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1%, PERO INFERIOR O IGUAL AL 6 %, EN PESO. SUPERIOR AL 3 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. |
+| 04012099. | T108. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1 %, PERO INFERIOR O IGUAL AL 6 %, EN PESO. SUPERIOR AL 3 %. LAS DEMÁS. |
+| 04014010. | T109. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 6 %, PERO INFERIOR O IGUAL AL 10 %, EN PESO. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. |
+| 04014090. | T110. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 6%, PERO INFERIOR O IGUAL AL 10 %, EN PESO. LAS DEMÁS. |
+| 04015011. | T111. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. INFERIOR O IGUAL AL 21 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. INFERIOR O IGUAL AL 17 %. |
+| 04015011. | T112. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10% EN PESO. INFERIOR O IGUAL AL 21 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 17 %. |
+| 04015019. | T113. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. INFERIOR O IGUAL AL 21 %. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 17 % EN PESO. |
+| 04015031. | T114. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. SUPERIOR AL 21 % PERO INFERIOR O IGUAL AL 45 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO INFERIOR O IGUAL AL 35 %. |
+| 04015031. | T115. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10% EN PESO. SUPERIOR AL 21 % PERO INFERIOR O IGUAL AL 45 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO SUPERIOR AL 35 % PERO INFERIOR O IGUAL AL 39 %. |
+| 04015031. | T116. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO: SUPERIOR AL 21 % PERO INFERIOR O IGUAL AL 45 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO SUPERIOR AL 39 %. |
+| 04015039. | T117. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. SUPERIOR AL 21 % PERO INFERIOR O IGUAL AL 45 %. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, INFERIOR O IGUAL AL 35 %. |
+| 04015039. | T118. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10% EN PESO. SUPERIOR AL 21 % PERO INFERIOR O IGUAL AL 45 %. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, SUPERIOR AL 35 % PERO INFERIOR O IGUAL AL 39 %. |
+| 04015039. | T119. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. SUPERIOR AL 21 % PERO INFERIOR O IGUAL AL 45 %. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, SUPERIOR AL 39 %. |
+| 04015091. | T120. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. SUPERIOR AL 45 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, INFERIOR O IGUAL AL 68 %. |
+| 04015091. | T121. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. SUPERIOR AL 45 %. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2 LITROS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, SUPERIOR AL 68 %. |
+| 04015099. | T122. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10% EN PESO. SUPERIOR AL 45 %. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, INFERIOR O IGUAL AL 68 %. |
+| 04015099. | T123. | LECHE Y NATA (CREMA), SIN CONCENTRAR, SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 10 % EN PESO. SUPERIOR AL 45 %. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, SUPERIOR AL 68 %. |
+| 04021011. | T124. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. EN POLVO, GRÁNULOS, U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. EN ENVASES INMEDIATOS DE CONTENIDO NETO NO SUPERIOR A 2,5 KG. |
+| 04021019. | T125. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. EN POLVO, GRÁNULOS, U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. LAS DEMÁS. |
+| 04021091. | T126. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. EN POLVO, GRÁNULOS, U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 1,5 % EN PESO. LAS DEMÁS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. |
+| 04021099. | T127. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. EN POLVO, GRÁNULOS, U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 1,5 % EN PESO. LAS DEMÁS. LAS DEMÁS. |
+| 04022111. | T128. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO MATERIAS GRASAS INFERIOR O IGUAL AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. NO SUPERIOR AL 11 %. |
+| 04022111. | T129. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO MATERIAS GRASAS INFERIOR O IGUAL AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 11 % PERO INFERIOR O IGUAL AL 17 %. |
+| 04022111. | T130. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO MATERIAS GRASAS INFERIOR O IGUAL AL 27%, EN PESO. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 17 % PERO INFERIOR O IGUAL AL 25 %. |
+| 04022111. | T131. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO MATERIAS GRASAS INFERIOR O IGUAL AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 25 %. |
+| 04022118. | T132. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE: EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO; SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE; CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR AL 27 % EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. NO SUPERIOR AL 11 %. |
+| 04022118. | T133. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE: EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5% EN PESO; SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE; CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR AL 27% EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 11% PERO INFERIOR O IGUAL AL 17%. |
+| 04022118. | T134. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE: EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO; SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE; CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR AL 27 % EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 17 % PERO INFERIOR O IGUAL AL 25 %. |
+| 04022118. | T135. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE: EN POLVO, GRÁNULOS O DEMÁS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 1,5 % EN PESO; SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE; CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR AL 27 % EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 25 %. |
+| 04022191. | T136. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. NO SUPERIOR AL 28 %. |
+| 04022191. | T137. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 28 %.PERO INFERIOR O IGUAL AL 29%. |
+| 04022191. | T138. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 29 %.PERO INFERIOR O IGUAL AL 45 %. |
+| 04022191. | T139. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE MATERIAS GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 27 %, EN PESO. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 45 %. |
+| 04022199. | T140. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. NO SUPERIOR AL 28 %. |
+| 04022199. | T141. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 28 % PERO INFERIOR O IGUAL AL 29 %. |
+| 04022199. | T142. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 29% PERO INFERIOR O IGUAL AL 41 %. |
+| 04022199. | T143. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 41 % PERO INFERIOR O IGUAL AL 45 %. |
+| 04022199. | T144. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 45 % PERO INFERIOR O IGUAL AL 59 %. |
+| 04022199. | T145. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 59% PERO INFERIOR O IGUAL AL 69 %. |
+| 04022199. | T146. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27 %, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 69 % PERO INFERIOR O IGUAL AL 79 %. |
+| 04022199. | T147. | LECHE Y NATA (CREMA), CONCENTRADAS, O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. EN POLVO, GRÁNULOS U OTRAS FORMAS SÓLIDAS, CON UN CONTENIDO DE GRASAS, SUPERIOR AL 1,5 % EN PESO. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE GRASAS SUPERIOR AL 27%, EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 79 %. |
+| 04029110. | T148. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 8 % EN PESO. |
+| 04029110. | T149. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 8 % EN PESO. CON UN CONTENIDO DE EXTRACTO SECO MAGRO LÁCTEO SUPERIOR O IGUAL AL 15 % Y DE MATERIA GRASA SUPERIOR AL 7,4% EN PESO. |
+| 04029130. | T150. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 8 % PERO INFERIOR O IGUAL AL 10% EN PESO. CON UN CONTENIDO DE EXTRACTO SECO MAGRO LÁCTEO SUPERIOR O IGUAL AL 15 %. |
+| 04029199. | T151. | LECHE Y NATA (CREMA), CONCENTRADAS, O SIN ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LAS DEMÁS. SIN ADICIÓN DE AZÚCAR NI OTRO EDULCORANTE. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 45 %, EN PESO. LAS DEMÁS. |
+| 04029910. | T152. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 9,5 % EN PESO. CON UN CONTENIDO DE SACAROSA IGUAL O SUPERIOR AL 40 % EN PESO, DE EXTRACTO SECO MAGRO LÁCTEO IGUAL O SUPERIOR AL 15 % Y DE MATERIA GRASA SUPERIOR AL 6,9 % EN PESO. |
+| 04029931. | T153. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR O IGUAL AL 9,5 % PERO INFERIOR O IGUAL AL 45% EN PESO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 21% EN PESO. CON UN CONTENIDO DE SACAROSA IGUAL O SUPERIOR AL 40 % EN PESO, DE EXTRACTO SECO MAGRO LÁCTEO IGUAL O SUPERIOR AL 15 % EN PESO. |
+| 04029931. | T154. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR O IGUAL AL 9,5 % PERO INFERIOR O IGUAL AL 45% EN PESO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 21% PERO INFERIOR O IGUAL AL 39 % EN PESO. |
+| 04029931. | T155. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR O IGUAL AL 9,5 % PERO INFERIOR O IGUAL AL 45 % EN PESO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 2,5 KG. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 39 % EN PESO. |
+| 04029939. | T156. | LECHE Y NATA (CREMA), CONCENTRADAS O CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LAS DEMÁS. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 9,5 % PERO INFERIOR O IGUAL AL 45 % EN PESO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS IGUAL O INFERIOR AL 21 % EN PESO, DE SACAROSA IGUAL O SUPERIOR AL 40 % EN PESO Y DE EXTRACTO SECO MAGRO LÁCTEO IGUAL O SUPERIOR AL 15 % EN PESO. |
+| 04051011. | T157. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 85%.EN PESO. MANTEQUILLA NATURAL. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 80 %, PERO INFERIOR AL 82 %. |
+| 04051011. | T158. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 85 %.EN PESO. MANTEQUILLA NATURAL. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 82 %. |
+| 04051019. | T159. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 85 %.EN PESO. MANTEQUILLA NATURAL. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 80 %, PERO INFERIOR AL 82 %. |
+| 04051019. | T160. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS, INFERIOR O IGUAL AL 85 %.EN PESO. MANTEQUILLA NATURAL. LAS DEMÁS CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 82%. |
+| 04051030. | T161. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 85 %.EN PESO. MANTEQUILLA RECOMBINADA. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 80 %, PERO INFERIOR AL 82 %. |
+| 04051030. | T162. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 85 %.EN PESO. MANTEQUILLA RECOMBINADA. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 82 %. |
+| 04051030. | T163. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 85 %.EN PESO. MANTEQUILLA RECOMBINADA. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 82 %. |
+| 04051050. | T164. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 85 %.EN PESO MANTEQUILLA DE LACTOSUERO. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 82 %. |
+| 04051050. | T165. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 85% EN PESO. MANTEQUILLA DE LACTOSUERO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS EN PESO. IGUAL O SUPERIOR AL 80 %, PERO INFERIOR AL 82 %. |
+| 04051050. | T166. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 85 %.EN PESO MANTEQUILLA DE LACTOSUERO. LAS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS EN PESO. IGUAL O SUPERIOR AL 82 %. |
+| 04051090. | T167. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. MANTEQUILLA (MANTECA). LAS DEMÁS. |
+| 04052090. | T168. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. PASTAS LÁCTEAS PARA UNTAR. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 75 %, PERO INFERIOR O IGUAL AL 80 % EN PESO. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. SUPERIOR AL 75 % PERO INFERIOR AL 78 %. |
+| 04052090. | T169. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. PASTAS LÁCTEAS PARA UNTAR. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 75%, PERO INFERIOR O IGUAL AL 80% EN PESO. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO. IGUAL O SUPERIOR AL 78%. |
+| 04059010. | T170. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS IGUAL O SUPERIOR AL 99,3% EN PESO, Y DE AGUA INFERIOR O IGUAL AL 0,5 % EN PESO. |
+| 04059090. | T171. | MANTEQUILLA (MANTECA) Y DEMÁS MATERIAS GRASAS DE LA LECHE; PASTAS LÁCTEAS PARA UNTAR. LAS DEMÁS. LAS DEMÁS. |
+| 04063031. | T172. | QUESOS Y REQUESÓN. QUESO FUNDIDO (EXCEPTO EL RALLADO O EN POLVO). LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR OIGUAL AL 36% EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA. NO SUPERIOR AL 48% EN PESO. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 40% PERO INFERIOR AL 43% Y CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, EN MATERIA SECA. INFERIOR AL 20%. CMA=60, CMIN GRA= – . |
+| 04063031. | T173. | QUESOS Y REQUESÓN. QUESO FUNDIDO (EXCEPTO EL RALLADO O EN POLVO). LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36 % EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA. NO SUPERIOR AL 48% EN PESO. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 40 % PERO INFERIOR AL 43% Y CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, EN MATERIA SECA. IGUAL O SUPERIOR AL 20%. CMA=60, CMIN GRA= 20. |
+| 04063031. | T174. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36 % EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA NO SUPERIOR AL 48 % EN PESO. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 43 % CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, EN MATERIA SECA. INFERIOR AL 20 %. CMA=57, CMIN GRA= –. |
+| 04063031. | T175. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36 % EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA NO SUPERIOR AL 48 % EN PESO. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 43 % CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, EN MATERIA SECA. IGUAL O SUPERIOR AL 20 % PERO INFERIOR AL 40 %. CMA=57, CMIN GRA= 20. |
+| 04063031. | T176. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36 % EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA NO SUPERIOR AL 48 % EN PESO. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 43 % CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, EN MATERIA SECA. IGUAL O SUPERIOR AL 40 %. CMA=57, CMIN GRA= 40. |
+| 04063039. | T177. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36% EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA. SUPERIOR AL 48 %. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 40% PERO INFERIOR AL 43 %. CMA=60, CMIN GRA= 48. |
+| 04063039. | T178. | QUESOS Y REQUESÓN. QUESO FUNDIDO EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36% EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA. SUPERIOR AL 48 %. CON UN CONTENIDO DE MATERIA SECA EN PESO. IGUAL O SUPERIOR AL 43 % PERO INFERIOR AL 46 %, CMA=57, CMIN GRA= 48. |
+| 04063039. | T179. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36% EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA. SUPERIOR AL 48 %. CON UN CONTENIDO DE MATERIA SECA EN PESO: IGUAL O SUPERIOR AL 46 % CON UN CONTENIDO DE MATERIAS GRASAS EN LA MATERIA SECA EN PESO. INFERIOR AL 55 %. CMA=54, CMIN GRA= 48. |
+| 04063039. | T180. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS INFERIOR O IGUAL AL 36 % EN PESO Y DE MATERIAS GRASAS EN LA MATERIA SECA. SUPERIOR AL 48 %. CON UN CONTENIDO DE MATERIA SECA EN PESO: IGUAL O SUPERIOR AL 46 % CON UN CONTENIDO DE MATERIAS GRASAS EN LA MATERIA SECA EN PESO. IGUAL O SUPERIOR A 55 %, CMA=54, CMIN GRA= 55. |
+| 04063090. | T181. | QUESOS Y REQUESÓN. QUESO FUNDIDO, EXCEPTO EL RALLADO O EN POLVO. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS SUPERIOR AL 36 %, EN PESO, CMA=54, CMIN GRA=79. |
+| 04069023. | T182. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. EDAM CMA=47, CMIN GRA=40. |
+| 04069025. | T183. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. TILSIT CMA=47, CMIN GRA=45. |
+| 04069074. | T184. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS; LOS DEMÁS: LOS DEMÁS: CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, INFERIOR O IGUAL AL 40%, Y UN CONTENIDO DE AGUA, EN PESO, EN LA MATERIA NO GRASA SUPERIOR AL 47 % PERO INFERIOR O IGUAL AL 72 %. MAASDAM. |
+| 04069076. | T185. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40 %, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47 %, PERO SIN EXCEDER DEL 72 %. DANBO, FONTAL, FONTINA, FYNBO, HAVARTI, MARIBO, SAMSO. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO EN LA MATERIA SECA IGUAL O SUPERIOR AL 45 %, PERO INFERIOR AL 55 %. CON UN CONTENIDO DE MATERIA SECA, EN PESO, IGUAL O SUPERIOR AL 50 % PERO INFERIOR AL 56 %. CMA=50, CMIN GRA=45. |
+| 04069076. | T186. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40%, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47 %, PERO SIN EXCEDER DEL 72 %. DANBO, FONTAL, FONTINA, FYNBO, HAVARTI, MARIBO, SAMSO. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO EN LA MATERIA SECA IGUAL O SUPERIOR AL 45 %, PERO INFERIOR AL 55 %. CON UN CONTENIDO DE MATERIA SECA, EN PESO, IGUAL O SUPERIOR AL 56 %. CMA=44, CMIN GRA=45. |
+| 04069076. | T187. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40 %, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47 %, PERO SIN EXCEDER DEL 72 %. DANBO, FONTAL, FONTINA, FYNBO, HAVARTI, MARIBO, SAMSO. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO EN LA MATERIA SECA IGUAL O SUPERIOR AL 55%. CMA=46, CMIN GRA=55. |
+| 04069078. | T188. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40 %, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47 %, PERO SIN EXCEDER DEL 72 %. GOUDA: CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO, EN LA MATERIA SECA INFERIOR AL 48 %. CMA=50, CMIN GRA=20. |
+| 04069078. | T189. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40 %, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47 %, PERO SIN EXCEDER DEL 72 %. GOUDA. CON UN CONTENIDO DE MATERIAS GRASAS, EN PESO DE LA MATERIA SECA, IGUAL O SUPERIOR AL 48 %, PERO INFERIOR AL 55 %. CMA=45, CMIN GRA=48. |
+| 04069078. | T190. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40 %, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47%, PERO SIN EXCEDER DEL 72 %. GOUDA. LOS DEMÁS. CMA=45, CMIN GRA=55. |
+| 04069079. | T191. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40 %, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47 %, PERO SIN EXCEDER DEL 72 %. ESROM, ITÁLICO, KERNHEM, SAINT-NECTAIRE, SAINT-PAULIN, TALEGGIO. CMA=56, CMIN GRA=40. |
+| 04069081. | T192. | QUESOS Y REQUESÓN. LOS DEMÁS QUESOS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE MATERIAS GRASAS NO SUPERIOR AL 40%, EN PESO, Y CON UN CONTENIDO DE AGUA EN LA MATERIA NO GRASA, EN PESO. SUPERIOR AL 47%, PERO SIN EXCEDER DEL 72 %. CANTAL, CHESHIRE, WENSLEYDALE, LANCASHIRE, DOUBLE GLOUCESTER, BLARNEY, COLBY, MONTEREY. CMA=44, CMIN GRA=45. |
+| 04081180. | T193. | HUEVOS DE AVE SIN CÁSCARA (CASCARON) Y YEMAS DE HUEVO, FRESCOS, SECOS, COCIDOS CON AGUA O VAPOR, MOLDEADOS, CONGELADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. YEMAS DE HUEVO. SECAS. LAS DEMÁS. PROPIAS PARA USOS ALIMENTARIOS. |
+| 04089180. | T194. | HUEVOS DE AVE SIN CÁSCARA Y YEMAS DE HUEVO, FRESCOS, SECOS, COCIDOS CON AGUA O VAPOR, MOLDEADOS, CONGELADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE. LOS DEMÁS. SECAS. LOS DEMÁS. PROPIAS PARA USOS ALIMENTARIOS. |
+| 07011000. | T301. | PATATAS (PAPAS) FRESCAS O REFRIGERADAS. PARA SIEMBRA. |
+| 07131090. | T302. | HORTALIZAS DE VAINA SECAS DESVAINADAS, AUNQUE ESTÉN MONDADAS O PARTIDAS. GUISANTES (ARVEJAS, CHÍCHAROS). LOS DEMÁS. |
+| 07135000. | T303. | HORTALIZAS DE VAINA SECAS DESVAINADAS, AUNQUE ESTÉN MONDADAS O PARTIDAS. HABAS (VICIA FABA VAR. MAJOR), HABA CABALLAR (VICIA FABA VAR. EQUINA) Y HABA MENOR (VICIA FABA VAR. MINOR). |
+| 10019900. | T311. | TRIGO Y MORCAJO (TRAQUILLÓN). LOS DEMÁS. LAS DEMÁS. |
+| 10039000. | T312. | CEBADA. LAS DEMÁS. |
+| 10041000. | T313. | AVENA. PARA SIEMBRA. |
+| 10049000. | T314. | AVENA. LOS DEMÁS. |
+| 10059000. | T315. | MAÍZ. LOS DEMÁS. |
+| 10063021. | T316. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. ESCALDADO (PARBOILED). DE GRANO REDONDO. |
+| 10063023. | T317. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. ESCALDADO (PARBOILED). DE GRANO MEDIO. |
+| 10063025. | T318. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. ESCALDADO (PARBOILED). DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR A 2 PERO INFERIOR A 3. |
+| 10063027. | T319. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. ESCALDADO (PARBOILED). DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR O IGUAL A 3. |
+| 10063042. | T320. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. LOS DEMÁS. DE GRANO REDONDO. |
+| 10063044. | T321. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. LOS DEMÁS. DE GRANO MEDIO. |
+| 10063046. | T322. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. LOS DEMÁS. DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR A 2 PERO INFERIOR A 3. |
+| 10063048. | T323. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ SEMIBLANQUEADO. LOS DEMÁS. DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA IGUAL O SUPERIOR A 3. |
+| 10063061. | T324. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARBOILED). DE GRANO REDONDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 5 KG. |
+| 10063061. | T325. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARLOILED). DE GRANO REDONDO. LOS DEMÁS. |
+| 10063063. | T326. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARBOILED). DE GRANO MEDIO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 5 KG. |
+| 10063063. | T327. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARLOILED). DE GRANO MEDIO. LOS DEMÁS. |
+| 10063065. | T328. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARBOILED). DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR A 2 PERO INFERIOR A 3. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 5 KG. |
+| 10063065. | T329. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARBOILED). DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR A 2 PERO INFERIOR A 3. LOS DEMÁS. |
+| 10063067. | T330. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARBOILED). DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA IGUAL O SUPERIOR A 3. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 5 KG. |
+| 10063067. | T331. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. ESCALDADO (PARBOILED). DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA IGUAL O SUPERIOR A 3. LOS DEMÁS. |
+| 10063092. | T332. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO REDONDO. EN ENVASES INMEDIATOS DE UN CONTENIDO NETO INFERIOR O IGUAL A 5 KG. |
+| 10063092. | T333. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO REDONDO. LOS DEMÁS. |
+| 10063094. | T334. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO MEDIO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL 5 KG. |
+| 10063094. | T335. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO MEDIO. LOS DEMÁS. |
+| 10063096. | T336. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR A 2 PERO INFERIOR A 3. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A KG. |
+| 10063096. | T337. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA SUPERIOR A 2 PERO INFERIOR A 3. LOS DEMÁS. |
+| 10063098. | T338. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA IGUAL O SUPERIOR A 3. EN ENVASES NMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL 5 KG. |
+| 10063098. | T339. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ BLANQUEADO. LOS DEMÁS. DE GRANO LARGO. QUE PRESENTE UNA RELACIÓN LONGITUD/ANCHURA IGUAL O SUPERIOR A 3. LOS DEMÁS. |
+| 10064000. | T340. | ARROZ. ARROZ SEMIBLANQUEADO O BLANQUEADO, INCLUSO PULIDO O GLASEADO. ARROZ PARTIDO. |
+| 11031110. | T381. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE TRIGO. DE TRIGO DURO. CON UN CONTENIDO DE CENIZAS DE 0 A 1 300 MG/100G. SÉMOLA QUE PASE A TRAVÉS DE UN TAMIZ CON UNA ABERTURA DE MALLA 0,160 MM EN UNA PROPORCIóN INFERIOR AL 10% EN PESO. |
+| 11031110. | T382. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE TRIGO. DE TRIGO DURO. CON UN CONTENIDO DE CENIZAS DE 0 A 1.300 MG/100 G. LOS DEMÁS. |
+| 11031110. | T383. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE TRIGO. DE TRIGO DURO. CON UN CONTENIDO DE CENIZAS SUPERIOR A 1.300 MG/100 G. |
+| 11031310. | T384. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE MAíZ. CON UN CONTENIDO DE GRASAS INFERIOR O IGUAL AL 1,5 % EN PESO. CON UN CONTENIDO EN GRASAS INFERIOR O IGUAL AL 0,9 % EN PESO Y CON UN CONTENIDO EN FIBRA CRUDA, REFERIDO A LA MATERIA SECA, INFERIOR O IGUAL A 0,6 % EN PESO PARA LOS CUALES EL PORCENTAJE QUE PASE A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 315 MICRAS SEA INFERIOR O IGUAL AL 30 % E INFERIOR AL 5 % A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 150 MICRAS. |
+| 11031310. | T385. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE MAÍZ. CON UN CONTENIDO DE GRASAS INFERIOR O IGUAL AL 1,5 % EN PESO. CON UN CONTENIDO EN GRASAS SUPERIOR AL 0,9 % EN PESO, PERO INFERIOR O IGUAL AL 1,3 % EN PESO Y CON UN CONTENIDO EN FIBRA CRUDA, REFERIDO A LA MATERIA SECA, INFERIOR O IGUAL AL 0,8 % EN PESO PARA LOS CUALES EL PORCENTAJE QUE PASE A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 315 MICRAS SEA INFERIOR O IGUAL AL 30 % E INFERIOR AL 5 % A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 150 MICRAS. |
+| 11031310. | T386. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE MAÍZ. CON UN CONTENIDO DE GRASAS INFERIOR O IGUAL AL 1,5 % EN PESO. CON UN CONTENIDO EN GRASAS SUPERIOR AL 1,3 % EN PESO, PERO INFERIOR O IGUAL AL 1,5 % EN PESO Y CON UN CONTENIDO EN FIBRA CRUDA, REFERIDO A LA MATERIA SECA, INFERIOR O IGUAL AL 1 % EN PESO PARA LOS CUALES EL PORCENTAJE QUE PASE A TRAVÉS UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 315 MICRAS SEA INFERIOR O IGUAL AL 30 % E INFERIOR AL 5% A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 150 MICRAS. |
+| 11031390. | T387. | GRAÑONES, SÉMOLA Y «PELLETS», DE CEREALES. GRAÑONES Y SÉMOLA. DE MAÍZ. LOS DEMÁS. CON UN CONTENIDO EN GRASAS SUPERIOR AL 1,5 % EN PESO, PERO INFERIOR O IGUAL AL 1,7 % EN PESO Y CON UN CONTENIDO EN FIBRA CRUDA, REFERIDO A LA MATERIA SECA, INFERIOR O IGUAL AL 1 % EN PESO PARA LOS CUALES EL PORCENTAJE QUE PASE A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 315 MICRAS SEA INFERIOR O IGUAL AL 30 % E INFERIOR AL 5% A TRAVÉS DE UN TAMIZ CUYAS MALLAS TENGAN UNA ABERTURA DE 150 MICRAS.. |
+| 11032040. | T388. | GRAÑONES, SÉMOLA Y PELLETS, DE CEREALES. PELLETS. DE MAÍZ. |
+| 11032060. | T389. | GRAÑONES, SÉMOLA Y PELLETS, DE CEREALES. DE TRIGO. |
+| 11032090. | T390. | GRAÑONES, SÉMOLA Y PELLETS, DE CEREALES. PELLETS LOS DEMÁS. |
+| 11052000. | T391. | HARINA, SÉMOLA, POLVO, COPOS, GRANULOS Y PELLETS, DE PATATA (PAPA). COPOS, GRANULOS Y PELLETS. |
+| 11071011. | T392. | MALTA (DE CEBADA U OTROS CEREALES), INCLUSO TOSTADA. SIN TOSTAR. DE TRIGO. HARINA. |
+| 11071019. | T393. | MALTA (DE CEBADA U OTROS CEREALES), INCLUSO TOSTADA. SIN TOSTAR. DE TRIGO. LAS DEMÁS. |
+| 11071091. | T394. | MALTA (DE CEBADA U OTROS CEREALES), INCLUSO TOSTADA. SIN TOSTAR. LAS DEMÁS. HARINA. |
+| 11071099. | T395. | MALTA (DE CEBADA U OTROS CEREALES), INCLUSO TOSTADA. SIN TOSTAR. LAS DEMÁS. LAS DEMÁS. |
+| 11072000. | T396. | MALTA (DE CEBADA U OTROS CEREALES), INCLUSO TOSTADA. TOSTADA. |
+| 11081100. | T397. | ALMIDÓN Y FÉCULA; INULINA. ALMIDÓN Y FÉCULA. ALMIDÓN DE TRIGO, CON UN CONTENIDO DE MATERIA SECA DEL 87 % Y UNA PUREZA DE LA MATERIA SECA IGUAL O SUPERIOR AL 97 %. |
+| 11081100. | T398. | ALMIDÓN Y FÉCULA; INULINA. ALMIDÓN Y FÉCULA. ALMIDÓN DE TRIGO, CON UN CONTENIDO DE MATERIA SECA DEL 84 % PERO INFERIOR AL 87 % Y UNA PUREZA DE LA MATERIA SECA IGUAL O SUPERIOR AL 97 %. |
+| 11081200. | T399. | ALMIDÓN Y FÉCULA; INULINA. ALMIDÓN Y FÉCULA. ALMIDÓN DE MAÍZ, CON UN CONTENIDO DE MATERIA SECA DEL 87 % Y UNA PUREZA DE LA MATERIA SECA IGUAL O SUPERIOR AL 97 %. |
+| 11081200. | T400. | ALMIDÓN Y FÉCULA; INULINA. ALMIDÓN Y FÉCULA. ALMIDÓN DE MAÍZ, CON UN CONTENIDO DE MATERIA SECA DEL 84% PERO INFERIOR AL 87% Y UNA PUREZA DE LA MATERIA SECA IGUAL O SUPERIOR AL 97 %. |
+| 11081910. | T401. | ALMIDÓN Y FÉCULA; INULINA. ALMIDÓN Y FÉCULA. LOS DEMÁS ALMIDONES Y FÉCULAS. ALMIDÓN DE ARROZ, CON UN CONTENIDO DE MATERIA SECA DEL 87 % Y UNA PUREZA DE LA MATERIA SECA IGUAL O SUPERIOR AL 97 %. |
+| 11081910. | T402. | ALMIDÓN Y FÉCULA; INULINA. ALMIDÓN Y FÉCULA. LOS DEMÁS ALMIDONES Y FÉCULAS. ALMIDÓN DE ARROZ, CON UN CONTENIDO DE MATERIA SECA DEL 84 % PERO INFERIOR AL 87 % Y UNA PUREZA DE LA MATERIA SECA IGUAL O SUPERIOR AL 97 %. |
+| 12060091. | T431. | SEMILLA DE GIRASOL, INCLUSO QUEBRANTADA. LAS DEMÁS. SIN CÁSCARA; CON CÁSCARA ESTRIADA GRIS Y BLANCA. |
+| 12060099. | T432. | SEMILLA DE GIRASOL, INCLUSO QUEBRANTADA. LAS DEMÁS. LAS DEMÁS. |
+| 12092950. | T433. | SEMILLAS, FRUTOS Y ESPORAS, PARA SIEMBRA; LOS DEMÁS;SEMILLAS DE ALTRAMUZ. |
+| 12101000. | T434. | CONOS DE LUPULO FRESCOS O SECOS, INCLUSO TRITURADOS, MOLIDOS O EN PELLETS; LUPULINO. CONOS DE LÚPULO SIN TRITURAR NI MOLER NI EN PELLETS. |
+| 12102010. | T435. | CONOS DE LUPULO FRESCOS O SECOS, INCLUSO TRITURADOS, MOLIDOS O EN PELLETS; LUPULINO. CONOS DE LÚPULO TRITURADOS, MOLIDOS O EN PELLETS; LUPULINO. CONOS DE LÚPULO TRITURADOS, MOLIDOS O EN PELLETS, ENRIQUECIDOS CON LUPULINO; LUPULINO. |
+| 12102090. | T436. | CONOS DE LUPULO FRESCOS O SECOS, INCLUSO TRITURADOS, MOLIDOS O EN PELLETS; LUPULINO. CONOS DE LÚPULO TRITURADOS, MOLIDOS O EN PELLETS; LUPULINO. LOS DEMÁS. |
+| 12129200. | T437. | ALGARROBAS, ALGAS, REMOLACHA AZUCARERA Y CAÑA DE AZÚCAR, FRESCAS, REFRIGERADAS, CONGELADAS O SECAS, INCLUSO PULVERIZADAS; HUESOS (CAROZOS) Y ALMENDRAS DE FRUTOS Y DEMÁS PRODUCTOS VEGETALES (INCLUIDAS LA RAÍCES DE ACHICORIA SIN TOSTAR DE LA VARIEDAD CICHORIUM INTYBUS SATIVUM) EMPLEADOS PRINCIPALMENTE EN LA ALIMENTACION HUMANA, NO EXPRESADOS NI COMPRENDIDOS EN LOS DEMÁS. ALGARROBAS. |
+| 12129941. | T438. | ALGARROBAS, ALGAS, REMOLACHA AZUCARERA Y CAÑA DE AZÚCAR, FRESCAS, REFRIERADAS, CONGELADAS O SECAS, INCLUSO PULVERIZADAS; HUESOS (CAROZOS) Y ALMENDRAS DE FRUTOS Y DEMÁS PRODUCTOS VEGETALES (INCLUIDAS LA RAÍCES DE ACHICORIA SIN TOSTAR DE LA VARIEDAD CICHORIUM INTYBUS SATIVUM) EMPLEADOS PRINCIPALMENTE EN LA ALIMENTACIÓN HUMANA, NO EXPRESADOS NI COMPRENDIDOS EN LOS DEMÁS. LOS DEMÁS. SEMILLAS DE ALGARROBAS (GARROFIN). SIN MONDAR, QUEBRANTAR NI MOLER. |
+| 12130000. | T439. | PAJA Y CASCABILLO DE CEREALES, EN BRUTO, INCLUSO PICADOS, MOLIDOS, PRENSADOS O EN PELLETS. |
+| 12141000. | T440. | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, RAÍCES FORRAJERAS, HENO, ALFALFA, TRÉBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN PELLETS. HARINA Y PELLETS DE ALFALFA. |
+| 12149090. | T441. | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, HENO, ALFALFA, TRÉBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN PELLETS. LOS DEMÁS. LOS DEMÁS. |
+| 12149090. | T442. | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, RAÍCES FORRAJERAS, HENO, ALFALFA, TRÉBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN PELLETS: LOS DEMÁS: LOS DEMÁS. ALTRAMUCES. |
+| 12149090. | T443. | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, RAÍCES FORRAJERAS, HENO, ALFALFA, TRÉBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN PELLETS: LOS DEMÁS: LOS DEMÁS, EXCEPTO ENSILADOS. |
+| 12149090. | T444. | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, RAÍCES FORRAJERAS, HENO, ALFALFA, TRÉBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN PELLETS: LOS DEMÁS: LOS DEMÁS, ENSILADOS. |
+| 15071010. | T481. | ACEITE DE SOJA (SOYA) Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE EN BRUTO, INCLUSO DESGOMADO. QUE SE DESTINEN A USOS TÉCNICOS O INDUSTRIALES (EXCEPTO LA FABRICACIÓN DE PRODUCTOS PARA LA ALIMENTACIÓN HUMANA). |
+| 15071090. | T482. | ACEITE DE SOJA (SOYA) Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE EN BRUTO, INCLUSO DESGOMADO. LOS DEMÁS. |
+| 15079010. | T483. | ACEITE DE SOJA (SOYA) Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. LAS DEMÁS. QUE SE DESTINEN A USOS TÉCNICOS O INDUSTRIALES (EXCEPTO LA FABRICACIÓN DE PRODUCTOS PARA LA ALIMENTACIÓN HUMANA). |
+| 15079090. | T484. | ACEITE DE SOJA (SOYA) Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS. |
+| 15081090. | T485. | ACEITE DE CACAHUETE (CACAHUETE, MANÍ) Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE EN BRUTO. LOS DEMÁS. |
+| 15089090. | T486. | ACEITE DE CACAHUETE (CACAHUETE, MANÍ) Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS. |
+| 15091020. | T487. | ACEITE DE OLIVA VIRGEN EXTRA, EN RECIPIENTES DE CONTENIDO INFERIOR O IGUAL A 5 LITROS. |
+| 15091020. | T488. | ACEITE DE OLIVA VIRGEN EXTRA, EN RECIPIENTES DE CONTENIDO SUPERIOR A 5 LITROS. |
+| 15091080. | T489. | ACEITE DE OLIVA VIRGEN, EXCEPTO LAMPANTE Y EXTRA, EN RECIPIENTES DE CONTENIDO INFERIOR O IGUAL A 5 LITROS. |
+| 15091080. | T490. | ACEITE DE OLIVA VIRGEN, EXCEPTO LAMPANTE Y EXTRA, EN RECIPIENTES DE CONTENIDO SUPERIOR A 5 LITROS. |
+| 15092000. | T900. | ACEITE DE OLIVA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUIMICAMENTE: A. OLIVA VIRGEN EXTRA, EN RECIPIENTES DE CONTENIDO INFERIOR O IGUAL A 5 LITROS. |
+| 15092000. | T901. | ACEITE DE OLIVA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUIMICAMENTE: A. OLIVA VIRGEN EXTRA, EN RECIPIENTES DE CONTENIDO SUPERIOR A 5 LITROS. |
+| 15093000. | T902. | ACEITE DE OLIVA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUIMICAMENTE: A. OLIVA VIRGEN, EN RECIPIENTES DE CONTENIDO INFERIOR O IGUAL A 5 LITROS. |
+| 15093000. | T903. | ACEITE DE OLIVA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUIMICAMENTE: A. OLIVA VIRGEN, EN RECIPIENTES DE CONTENIDO SUPERIOR A 5 LITROS. |
+| 15099000. | T491. | ACEITE DE OLIVA Y SUS FRACCIONES INCLUSO REFINADO PERO SIN MODIFICAR QUÍMICAMENTE LOS DEMÁS EN ENVASES INMEDIATOS DE UN CONTENIDO NETO IGUAL O INFERIOR A 5 LITROS. |
+| 15099000. | T492. | ACEITE DE OLIVA Y SUS FRACCIONES INCLUSO REFINADO PERO SIN MODIFICAR QUÍMICAMENTE, EXCEPTO EL VIRGEN, EN RECIPIENTES DE CONTENIDO SUPERIOR A 5 LITROS. |
+| 15100090. | T493. | LOS DEMÁS ACEITES OBTENIDOS EXCLUSIVAMENTE DE LA ACEITUNA Y SUS FRACCIONES INCLUSO REFINADOS PERO SIN MODIFICAR QUÍMICAMENTE Y MEZCLAS DE ESTOS ACEITES Y FRACCIONES CON ACEITES O FRACCIONES DE LA PARTIDA 1509, EXCEPTO ACEITE EN BRUTO. |
+| 15109000. | T904. | LOS DEMAS ACEITES Y SUS FRACCIONES OBTENIDOS EXCLUSIVAMENTE DE LA ACEITUNA, INCLUSO REFINADOS, PERO SIN MODIFICAR QUIMICAMENTE, Y MEZCLAS DE ESTOS ACEITES Y FRACCIONES CON ACEITES O FRACCIONES DE LA PARTIDA 1509: LOS DEMÁS. |
+| 15111090. | T496. | ACEITE DE PALMA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE EN BRUTO. LOS DEMÁS. |
+| 15119011. | T497. | ACEITE DE PALMA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. FRACCIONES SÓLIDAS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15119019. | T498. | ACEITE DE PALMA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. FRACCIONES SÓLIDAS. QUE SE PRESENTEN DE OTRO MODO. |
+| 15119099. | T499. | ACEITE DE PALMA Y SUS FRACCIONES, INCLUSO REFINADO, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. |
+| 15121191. | T500. | ACEITES DE GIRASOL, CÁRTAMO O ALGODÓN, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE GIRASOL O DE CÁRTAMO Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. DE GIRASOL. |
+| 15121199. | T501. | ACEITES DE GIRASOL, CÁRTAMO O ALGODÓN, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE GIRASOL O DE CÁRTAMO Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. DE CÁRTAMO. |
+| 15121990. | T502. | ACEITES DE GIRASOL, CÁRTAMO O ALGODÓN, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE GIRASOL O DE CÁRTAMO Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15122190. | T503. | ACEITES DE GIRASOL, CÁRTAMO O ALGODÓN, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE ALGODÓN Y SUS FRACCIONES. ACEITE EN BRUTO, INCLUSO SIN GOSIPOL. LOS DEMÁS. |
+| 15122990. | T504. | ACEITES DE GIRASOL, CÁRTAMO O ALGODÓN, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE ALGODÓN Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15131191. | T505. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE COCO (DE COPRA) Y SUS FRACCIONES. ACEITE EN BRUTO. LOS DEMÁS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1KG. |
+| 15131199. | T506. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE COCO (DE COPRA) Y SUS FRACCIONES. ACEITE EN BRUTO. LOS DEMÁS. QUE SE PRESENTEN DE OTRO MODO. |
+| 15131911. | T507. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE COCO (DE COPRA) Y SUS FRACCIONES. LOS DEMÁS. FRACCIONES SÓLIDAS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15131919. | T508. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE COCO (DE COPRA) Y SUS FRACCIONES. LOS DEMÁS. FRACCIONES SÓLIDAS. QUE SE PRESENTEN DE OTRO MODO. |
+| 15131991. | T509. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE COCO (DE COPRA) Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15131999. | T510. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE COCO (DE COPRA) Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. QUE SE PRESENTEN DE OTRO MODO. |
+| 15132130. | T511. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15132190. | T512. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. QUE SE PRESENTE DE OTRO MODO. |
+| 15132911. | T513. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES. LOS DEMÁS. FRACCIONES SOLIDAS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15132919. | T514. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES. LOS DEMÁS. FRACCIONES SOLIDAS. QUE SE PRESENTEN DE OTRO MODO. |
+| 15132950. | T515. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15132990. | T516. | ACEITES DE COCO (DE COPRA), DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE ALMENDRA DE PALMA O DE BABASÚ, Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. QUE SE PRESENTEN DE OTRO MODO. |
+| 15141190. | T517. | ACEITES DE NABO (DE NABINA), COLZA O MOSTAZA, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE NABO (DE NABINA) O DE COLZA CON BAJO CONTENIDO DE ÁCIDO ERÚCICO Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. |
+| 15141990. | T518. | ACEITES DE NABO (DE NABINA), COLZA O MOSTAZA, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITES DE NABO (DE NABINA) O DE COLZA CON BAJO CONTENIDO DE ÁCIDO ERÚCICO Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15149190. | T519. | ACEITES DE NABO (DE NABINA), COLZA O MOSTAZA, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. ACEITES EN BRUTO. LOS DEMÁS. |
+| 15149990. | T520. | ACEITES DE NABO (DE NABINA), COLZA O MOSTAZA, Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. |
+| 15151100. | T521. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE LINO (DE LINAZA) Y SUS FRACCIONES. ACEITE EN BRUTO. |
+| 15151990. | T522. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE LINO (DE LINAZA) Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15152190. | T523. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE MAÍZ Y SUS FRACCIONES. ACEITE EN BRUTO. LOS DEMÁS. |
+| 15152990. | T524. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE MAÍZ Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15153090. | T525. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE RICINO Y SUS FRACCIONES. LOS DEMÁS. |
+| 15155019. | T526. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE SÉSAMO (AJONJOLÍ) Y SUS FRACCIONES. ACEITE EN BRUTO. LOS DEMÁS. |
+| 15155099. | T527. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. ACEITE DE SÉSAMO (AJONJOLÍ) Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15156051. | T550. | LAS DEMAS GRASA Y ACEITES VEGETALES (INCLUIDO EL ACEITE DE JOJOBA) O DE ORIGEN MICROBIANO, FIJO Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUIMICAMENTE: GRASAS Y ACEITES, DE ORIGEN MICROBIANO, Y SUS FRACCIONES: ACEITE EN BRUTO: LOS DEMÁS: CONCRETOS, EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15156059. | T551. | LAS DEMAS GRASA Y ACEITES VEGETALES (INCLUIDO EL ACEITE DE JOJOBA) O DE ORIGEN MICROBIANO, FIJO Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUIMICAMENTE: GRASAS Y ACEITES, DE ORIGEN MICROBIANO, Y SUS FRACCIONES: ACEITE EN BRUTO: LOS DEMÁS: CONCRETOS, CONCRETOS, QUE SE PRESENTE DE OTRA FORMA; FLUIDOS. |
+| 15156091. | T552. | LAS DEMAS GRASA Y ACEITES VEGETALES (INCLUIDO EL ACEITE DE JOJOBA) O DE ORIGEN MICROBIANO, FIJO Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUIMICAMENTE: GRASAS Y ACEITES, DE ORIGEN MICROBIANO, Y SUS FRACCIONES: ACEITE EN BRUTO: LOS DEMÁS: LOS DEMÁS, CONCRETOS, EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15156099. | T553. | LAS DEMAS GRASA Y ACEITES VEGETALES (INCLUIDO EL ACEITE DE JOJOBA) O DE ORIGEN MICROBIANO, FIJO Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUIMICAMENTE: GRASAS Y ACEITES, DE ORIGEN MICROBIANO, Y SUS FRACCIONES: ACEITE EN BRUTO: LOS DEMÁS: LOS DEMÁS, CONCRETOS, QUE SE PRESENTE DE OTRA FORMA; FLUIDOS. |
+| 15159011. | T528. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS (INCLUIDO EL ACEITE DE JOROBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. ACEITE DE TUNG; ACEITES DE JOJOBA Y OITICICA; CERA DE MÍRICA Y CERA DEL JAPÓN; SUS FRACCIONES. |
+| 15159029. | T529. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. ACEITE DE SEMILLA DE TABACO Y SUS FRACCIONES. ACEITE EN BRUTO. LOS DEMÁS. |
+| 15159039. | T530. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. ACEITE DE SEMILLA DE TABACO Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. |
+| 15159051. | T531. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS ACEITES Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. CONCRETOS EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15159059. | T532. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS ACEITES Y SUS FRACCIONES. ACEITES EN BRUTO. LOS DEMÁS. CONCRETOS, QUE SE PRESENTEN DE OTRO MODO; FLUIDOS. |
+| 15159091. | T533. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS ACEITES Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. CONCRETOS, EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15159099. | T534. | LAS DEMÁS GRASAS Y ACEITES VEGETALES FIJOS, (INCLUIDO EL ACEITE DE JOJOBA), Y SUS FRACCIONES, INCLUSO REFINADOS, PERO SIN MODIFICAR QUÍMICAMENTE. LOS DEMÁS. LOS DEMÁS ACEITES Y SUS FRACCIONES. LOS DEMÁS. LOS DEMÁS. CONCRETOS, QUE SE PRESENTEN DE OTRO MODO, FLUIDOS. |
+| 15161010. | T535. | GRASAS Y ACEITES, ANIMALES O VEGETALES, Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO. GRASAS Y ACEITES, ANIMALES, Y SUS FRACCIONES. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL 1 KG. |
+| 15161090. | T536. | GRASAS Y ACEITES, ANIMALES O VEGETALES, Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO. GRASAS Y ACEITES, ANIMALES, Y SUS FRACCIONES. QUE SE PRESENTEN DE OTRO MODO. |
+| 15162010. | T537. | GRASAS Y ACEITES, ANIMALES O VEGETALES, Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO. GRASAS Y ACEITES, VEGETALES, Y SUS FRACCIONES. ACEITE DE RICINO HIDROGENADO, LLAMADO OPALWAX. |
+| 15162091. | T538. | GRASAS Y ACEITES, ANIMALES O VEGETALES, Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO. GRASAS Y ACEITES, VEGETALESS, Y SUS FRACCIONES. LOS DEMÁS. EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15162096. | T539. | GRASAS Y ACEITES, ANIMALES O VEGETALES, Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO. GRASAS Y ACEITES, VEGETALES, Y SUS FRACCIONES. LOS DEMÁS. QUE SE PRESENTEN DE OTRO MODO. LOS DEMÁS. ACEITES DE CACAHUETE (DE CACAHUETE, DE MANÍE), DE ALGODÓN, DE SOJA (DE SOYA) O DE GIRASOL; LOS DEMÁS ACEITES, CON UN CONTENIDO EN ÁCIDOS GRASOS LIBRES INFERIOR AL 50% EN PESO, (EXCLUIDOS LOS ACEITES DE ALMENDRA DE PALMA, DE ILIPÉ, DE COCO, DE NABO (DE NABINA), DE COLZA, O DE CAPAIBA. |
+| 15162098. | T540. | GRASAS Y ACEITES, ANIMALES O VEGETALES, Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRA FORMA. GRASAS Y ACEITES, VEGETALES, Y SUS FRACCIONES. LOS DEMÁS. QUE SE PRESENTEN DE OTRO MODO. LOS DEMÁS. LOS DEMÁS. |
+| 1516309. | T554. | GRASA Y ACEITES ANIMALES, VEGETALES O DE ORIGEN MICROBIANO Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO: GRASAS Y ACEITES DE ORIGEN MICROBIANO Y SUS FRACCIONES: EN ENVASES INMEDIATOS DE CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 15163098. | T555. | GRASA Y ACEITES ANIMALES, VEGETALES O DE ORIGEN MICROBIANO Y SUS FRACCIONES, PARCIAL O TOTALMENTE HIDROGENADOS, INTERESTERIFICADOS, REESTERIFICADOS O ELAIDINIZADOS, INCLUSO REFINADOS, PERO SIN PREPARAR DE OTRO MODO: GRASAS Y ACEITES DE ORIGEN MICROBIANO Y SUS FRACCIONES: LOS DEMAS. |
+| 15179091. | T541. | MARGARINA; MEZCLAS O PREPARACIONES ALIMENTICIAS DE GRASAS O ACEITES, ANIMALES O VEGETALES, O DE FRACCIONES DE DIFERENTES GRASAS O ACEITES, DE ESTE CAPITULO, EXCEPTO LAS GRASAS Y ACEITES ALIMENTICIOS Y SUS FRACCIONES DE LA PARTIDA 1516. LAS DEMÁS. ACEITES VEGETALES FIJOS, FLUIDOS, MEZCLADOS. |
+| 17011290. | T581. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. AZÚCAR EN BRUTO SIN ADICIÓN DE AROMATIZANTE NI COLORANTE. DE REMOLACHA. LOS DEMÁS. AZÚCAR CANDI. |
+| 17011290. | T582. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. AZÚCAR EN BRUTO SIN ADICIÓN DE AROMATIZANTE NI COLORANTE, DE REMOLACHA. LOS DEMÁS. LOS DEMÁS AZÚCARES EN BRUTO. EN ENVASES INMEDIATOS QUE NO SOBREPASEN LOS 5 KG NETOS DE PRODUCTO. |
+| 17011390. | T583. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. AZÚCAR EN BRUTO SIN ADICIÓN DE AROMATIZANTE NI COLORANTE. AZÚCAR DE CAÑA ESPECIFICADO EN LA NOTA DE SUBPARTIDA 2 DEL PRESENTE CAPÍTULO. LOS DEMÁS, AZÚCAR CANDI. |
+| 17011390. | T584. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. AZÚCAR EN BRUTO SIN ADICIÓN DE AROMATIZANTE NI COLORANTE. AZÚCAR DE CAÑA ESPECIFICADO EN LA NOTA DE SUBPARTIDA 2 DEL PRESENTE CAPÍTULO. LOS DEMÁS. LOS DEMÁS AZÚCARES EN BRUTO. EN ENVASES INMEDIATOS QUE NO SOBREPASEN LOS 5 KG DE PRODUCTO. |
+| 17011490. | T585. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. AZÚCAR EN BRUTO SIN ADICIÓN DE AROMATIZANTE NI COLORANTE. LOS DEMÁS AZÚCARES DE CAÑA. LOS DEMÁS. AZÚCARES CANDI. |
+| 17011490. | T586. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. AZÚCAR EN BRUTO SIN ADICIÓN DE AROMATIZANTE NI COLORANTE. LOS DEMÁS AZÚCARES DE CAÑA. LOS DEMÁS. LOS DEMÁS AZÚCARES EN BRUTO. EN ENVASES INMEDIATOS QUE NO SOBREPASEN LOS 5 KG NETOS DE PRODUCTO. |
+| 17019100. | T587. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. LOS DEMÁS. CON ADICIÓN DE AROMATIZANTES O COLORANTES. |
+| 17019910. | T588. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. LOS DEMÁS. LOS DEMÁS. AZÚCAR BLANCO. AZÚCARES CANDI. |
+| 17019910. | T589. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. LOS DEMÁS. LOS DEMÁS. AZÚCAR BLANCO. LOS DEMÁS. DE UNA CANTIDAD NO SUPERIOR A 10 TONELADAS. |
+| 17019910. | T590. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. LOS DEMÁS. LOS DEMÁS. AZÚCAR BLANCO. LOS DEMÁS. LOS DEMÁS. |
+| 17019990. | T591. | AZÚCAR DE CAÑA O DE REMOLACHA Y SACAROSA QUÍMICAMENTE PURA, EN ESTADO SÓLIDO. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. CON ADICIÓN DE SUSTANCIAS DISTINTAS DE LOS AROMATIZANTES Y COLORANTES. |
+| 17023050. | T592. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA) QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO; JARABE DE AZÚCAR SIN ADICIÓN DE AROMATIZANTE NI COLORANTE; SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL; AZÚCAR Y MELAZA CARAMELIZADOS. GLUCOSA Y JARABE DE GLUCOSA, SIN FRUCTOSA O CON UN CONTENIDO DE FRUCTOSA SOBRE PRODUCTO SECO INFERIOR AL 20 % EN PESO: LOS DEMÁS. EN POLVO CRISTALINO BLANCO, INCLUSO AGLOMERADO. |
+| 17023090. | T593. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA) QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO; JARABE DE AZÚCAR SIN ADICIÓN DE AROMATIZANTE NI COLORANTE; SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL; AZÚCAR Y MELAZA CARAMELIZADOS. GLUCOSA Y JARABE DE GLUCOSA, SIN FRUCTOSA O CON UN CONTENIDO DE FRUCTOSA SOBRE PRODUCTO SECO INFERIOR AL 20 % EN PESO: LOS DEMÁS. LOS DEMÁS. |
+| 17024090. | T594. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA) QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO, JARABE DE AZÚCAR SIN AROMATIZAR NI COLOREAR, SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL, AZÚCAR Y MELAZA CARAMELIZADOS. GLUCOSA Y JARABE DE GLUCOSA, CON UN CONTENIDO DE FRUCTOSA, SOBRE PRODUCTO SECO, SUPERIOR O IGUAL AL 20 % PERO INFERIOR AL 50 %, EN PESO, EXCEPTO EL AZÚCAR INVERTIDO. LOS DEMÁS. |
+| 17026095. | T595. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA), QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO, JARABE DE AZÚCAR SIN AROMATIZAR NI COLOREAR, SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL, AZÚCAR Y MELAZA CARAMELIZADOS. LAS DEMÁS FRUCTOSAS Y JARABE DE FRUCTOSA, CON UN CONTENIDO DE FRUCTOSA, EN PESO, SOBRE PRODUCTO SECO, SUPERIOR AL 50% EN PESO, EXCEPTO EL AZÚCAR INVERTIDO. LOS DEMÁS. |
+| 17029071. | T596. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA), QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO, JARABE DE AZÚCAR SIN AROMATIZAR NI COLOREAR, SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL, AZÚCAR Y MELAZA CARAMELIZADOS. LOS DEMÁS, INCLUIDO EL AZÚCAR INVERTIDO Y DEMÁS AZÚCARES Y JARABES DE AZÚCAR, CON UN CONTENIDO DE FRUCTOSA SOBRE PRODUCTO SECO DE 50 % EN PESO. AZÚCAR Y MELAZA, CARAMELIZADOS. CON UN CONTENIDO DE SACAROSA, EN ESTADO SECO, SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 17029095. | T597. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA) QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO; JARABE DE AZÚCAR SIN ADICIÓN DE AROMATIZANTE NI COLORANTE; SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL; AZÚCAR Y MELAZA CARAMELIZADOS. LOS DEMÁS, INCLUIDO EL AZÚCAR INVERTIDO Y DEMÁS AZÚCARES Y JARABES DE AZÚCAR CON UN CONTENIDO DE FRUCTOSA SOBRE PRODUCTO SECO DE 50 % EN PESO. LOS DEMÁS. SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL. |
+| 17029095. | T598. | LOS DEMÁS AZÚCARES, INCLUIDAS LA LACTOSA, MALTOSA, GLUCOSA Y FRUCTOSA (LEVULOSA) QUÍMICAMENTE PURAS, EN ESTADO SÓLIDO; JARABE DE AZÚCAR SIN ADICIÓN DE AROMATIZANTE NI COLORANTE; SUCEDÁNEOS DE LA MIEL, INCLUSO MEZCLADOS CON MIEL NATURAL; AZÚCAR Y MELAZA CARAMELIZADOS. LOS DEMÁS, INCLUIDO EL AZÚCAR INVERTIDO Y DEMÁS AZÚCARES Y JARABES DE AZÚCAR CON UN CONTENIDO DE FRUCTOSA SOBRE PRODUCTO SECO DE 50 % EN PESO. LOS DEMÁS. LOS DEMÁS EXCEPTO LA SORBOSA. |
+| 19019095. | T622. | EXTRACTO DE MALTA; PREPARARIONES ALIMENTICIAS DE HARINA, GRAÑONES, SEMOLA, ALMIDO, FECULA O EXTRACTODE MALTA, QUE NO CONTENGA CACAO O CON UN CONTENIDO DE CACAO INFERIOR AL 40% EN PESO CALCULADO SOBRE UNA BASE TOTALMENTE DESGRASADA, NO EXPRESADAS NI COMPRENDIDAS EN OTRA PARTE; PREPARACIONES ALIMENTICIAS DE PRODUCTOS DE LAS PARTIDAS 0401 A 0404 QUE NO CONTENGAN CACAO O CON UN CONTENIDO DE CACAO INFERIOR AL 5% EN PESO CALCULADO SOBRE UNA BASE TOTALMENTE DESGRASADA, NO EXPRESADAS NI COMPRENDIDAS EN OTRA PARTE. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS: PREPARACIONES ALIMENTICIAS EN POLVO, CONSTITUIDAS POR UNA MEZCLA DE LECHE DESNATADA O DE LACTOSUERO Y DE GRASAS O ACEITES VEGETALES, CON UN CONTENIDO EN GRASAS O ACEITES INFERIOR O IGUAL AL 30% EN PESO. |
+| 19019099. | T621. | EXTRACTO DE MALTA; PREPARACIONES ALIMENTICIAS DE HARINA, GRAÑONES, SÉMOLA, ALMIDÓN, FÉCULA O EXTRACTO DE MALTA, QUE NO CONTENGA CACAO O CON UN CONTENIDO DE CACAO INFERIOR AL 40 % EN PESO CALCULADO SOBRE UNA BASE TOTALMENTE DESGRASADA, NO EXPRESADAS NI COMPRENDIDAS EN OTRA PARTE; PREPARACIONES ALIMENTICIAS DE PRODUCTOS DE LAS PARTIDAS 0401 A 0404 QUE NO CONTENGAN CACAO O CON UN CONTENIDO DE CACAO INFERIOR AL 5 % EN PESO CALCULADO SOBRE UNA BASE TOTALMENTE DESGRASADA, NO EXPRESADAS NI COMPRENDIDAS EN OTRA PARTE. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. |
+| 20079910. | T631. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 30 % EN PESO. PURÉ Y PASTA DE CIRUELA EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 100 KG QUE SE DESTINEN A UNA TRANSFORMACIÓN INDUSTRIAL. |
+| 20079920. | T632. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 30 % EN PESO. PURÉ Y PASTA DE CASTAÑAS. |
+| 20079931. | T633. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 30 % EN PESO. LOS DEMÁS. DE CEREZAS. |
+| 20079933. | T634. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 30 % EN PESO. LOS DEMÁS. DE FRESAS (FRUTILLAS). |
+| 20079935. | T635. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 30 % EN PESO. LOS DEMÁS. DE FRAMBUESAS. |
+| 20079939. | T636. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 30 % EN PESO. LOS DEMÁS. LOS DEMÁS. |
+| 20079950. | T637. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS U OTROS FRUTOS, OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 13 % PERO INFERIOR AL 30 % EN PESO. |
+| 20079993. | T638. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS, U OTROS FRUTOS OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. DE FRUTOS TROPICALES Y NUECES TROPICALES. |
+| 20079997. | T639. | CONFITURAS, JALEAS Y MERMELADAS, PURÉS Y PASTAS DE FRUTOS, U OTROS FRUTOS OBTENIDOS POR COCCIÓN, INCLUSO CON ADICIÓN DE AZÚCAR Y OTRO EDULCORANTE. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. |
+| 20082011. | T640. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 17 % EN PESO. |
+| 20082019. | T641. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20082031. | T642. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 19% EN PESO. |
+| 20082039. | T643. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR A 1 KG. LOS DEMÁS. |
+| 20082051. | T644. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 17 %. |
+| 20082059. | T645. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20082071. | T646. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 19 %. |
+| 20082079. | T647. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. LOS DEMÁS. |
+| 20082090. | T648. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PIÑAS (ANANÁS). SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. |
+| 20083011. | T649. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 9% EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20083019. | T650. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 9 % EN PESO. LOS DEMÁS. |
+| 20083031. | T651. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20083039. | T652. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). CON ALCOHOL AÑADIDO. LOS DEMÁS. LOS DEMÁS. |
+| 20083051. | T653. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. GAJOS DE TORONJA Y DE POMELO. |
+| 20083055. | T654. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. MANDARINAS. INCLUIDAS LAS TANGERINAS Y SATSUMAS, CLEMENTINAS, WILKINGS Y DEMÁS HÍBRIDOS SIMILARES DE AGRIOS. |
+| 20083059. | T655. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20083071. | T656. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG NETO. GAJOS DE TORONJA Y POMELO. |
+| 20083075. | T657. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG NETO. MANDARINAS. INCLUIDAS LAS TANGERINAS Y SATSUMAS, CLEMENTINAS, WILKINGS Y DEMÁS HÍBRIDOS SIMILARES DE AGRIOS. |
+| 20083079. | T658. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG NETO. LOS DEMÁS. |
+| 20083090. | T659. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. AGRIOS (CÍTRICOS). SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. |
+| 20084011. | T660. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13% EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL AL 11,85% MÁS. |
+| 20084019. | T661. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13 % EN PESO. LOS DEMÁS. |
+| 20084021. | T662. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL AL 11,85 % MÁS. |
+| 20084029. | T663. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. LOS DEMÁS. |
+| 20084031. | T664. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 15 % EN PESO. |
+| 20084039. | T665. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. CON ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. LOS DEMÁS. |
+| 20084051. | T666. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. SIN ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13 % EN PESO. |
+| 20084059. | T667. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. SIN ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20084071. | T668. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. SIN ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 15% EN PESO. |
+| 20084079. | T669. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. PERAS. SIN ALCOHOL AÑADIDO. EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR A 1 KG. LOS DEMÁS. |
+| 20084090. | T670. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS O COMPRENDIDOS EN OTRA PARTE: PERAS: SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDOS. |
+| 20085011. | T671. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13% EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85% MÁS. |
+| 20085019. | T672. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13% EN PESO. LOS DEMÁS. |
+| 20085031. | T673. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85% MÁS. |
+| 20085039. | T674. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. LOS DEMÁS. |
+| 20085051. | T675. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 15 % EN PESO. |
+| 20085059. | T676. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. LOS DEMÁS. |
+| 20085061. | T677. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR EN ENVASES CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13 % EN PESO. |
+| 20085069. | T678. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). SIN ALCOHOL AÑADIDO. CON AZÚCAR EN ENVASES CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20085071. | T679. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). SIN ALCOHOL. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 15 % EN PESO. |
+| 20085079. | T680. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). SIN ALCOHOL. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. LOS DEMÁS. |
+| 20085092. | T681. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO EN ENVASES CON UN CONTENIDO NETO SUPERIOR O IGUAL A 5 KG. |
+| 20085098. | T682. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. ALBARICOQUES (DAMASCOS, CHABACANOS). SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR A 5 KG. |
+| 20087011. | T683. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 13 % EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20087019. | T684. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1KG. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 13 % EN PESO. LOS DEMÁS. |
+| 20087031. | T685. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1KG. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20087039. | T686. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. LOS DEMÁS. |
+| 20087051. | T687. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 15 % EN PESO. |
+| 20087059. | T688. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. CON ALCOHOL AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. LOS DEMÁS. |
+| 20087061. | T689. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13 % EN PESO. |
+| 20087069. | T690. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20087071. | T691. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 15 % EN PESO. |
+| 20087079. | T692. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. LOS DEMÁS. |
+| 20087092. | T693. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. MELOCOTONES (DURAZNOS) INCLUIDOS LOS GRIÑONES Y NECTARINAS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO. SUPERIOR O IGUAL A 5 KG. |
+| 20087098. | T694. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS O COMPRENDIDOS EN OTRA PARTE: MELOCOTONES (DURAZNOS), INCLUIDOS LOS GRIÑONES Y NECTARINAS: SIN ALCOHOL AÑADIDO: SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO. INFERIOR A 5 KG. |
+| 20088011. | T695. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. FRESAS (FRUTILLAS). CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 9 % EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20088019. | T696. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. FRESAS (FRUTILLAS). CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 9 % EN PESO. LAS DEMÁS. |
+| 20088031. | T697. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. FRESAS (FRUTILLAS). CON ALCOHOL AÑADIDO. LAS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 %. |
+| 20088039. | T698. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. FRESAS (FRUTILLAS). CON ALCOHOL AÑADIDO. LAS DEMÁS. LAS DEMÁS. |
+| 20088050. | T699. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. FRESAS (FRUTILLAS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. |
+| 20088070. | T700. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. FRESAS (FRUTILLAS). SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 20088090. | T701. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS O COMPRENDIDOS EN OTRA PARTE: FRESAS (FRUTILLAS). SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. |
+| 20089311. | T702. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. CON ALCOHOL AÑADIDO, CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 9 % EN PESO, CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20089319. | T703. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. CON ALCOHOL AÑADIDO, CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 9 % EN PESO, LOS DEMÁS. |
+| 20089321. | T704. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. CON ALCOHOL AÑADIDO, LOS DEMÁS, CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20089329. | T705. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. CON ALCOHOL AÑADIDO, LOS DEMÁS, LOS DEMÁS. |
+| 20089391. | T706. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. |
+| 20089393. | T707. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG. |
+| 20089399. | T708. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. ARÁNDANOS ROJOS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. |
+| 20089712. | T709. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9% EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089714. | T710. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9 % EN PESO. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. LOS DEMÁS. |
+| 20089716. | T711. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9 % EN PESO. LAS DEMÁS. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089718. | T712. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9 % EN PESO. LAS DEMÁS. LAS DEMÁS. |
+| 20089732. | T713. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089734. | T714. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. LAS DEMÁS. |
+| 20089736. | T715. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. LAS DEMÁS. LAS DEMÁS. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089738. | T716. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. CON ALCOHOL AÑADIDO. LAS DEMÁS. LAS DEMÁS. LAS DEMÁS. |
+| 20089751. | T717. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089759. | T718. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LAS DEMÁS. |
+| 20089772. | T719. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. LAS DEMÁS. MEZCLAS EN LA QUE NINGÚN FRUTO SEA SUPERIOR AL 50 % EN PESO DEL TOTAL DE LOS FRUTOS PRESENTADOS. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089774. | T720. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. LAS DEMÁS. MEZCLAS EN LA QUE NINGÚN FRUTO SEA SUPERIOR AL 50 % EN PESO DEL TOTAL DE LOS FRUTOS PRESENTADOS. LAS DEMÁS. |
+| 20089776. | T721. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. LAS DEMÁS. LAS DEMÁS. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50% EN PESO. |
+| 20089778. | T722. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS INCLUIDAS LAS MEZCLAS, EXCEPTO LAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO. LAS DEMÁS. LAS DEMÁS. LAS DEMÁS. |
+| 20089792. | T723. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO: SUPERIOR O IGUAL A 5 KG. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES TROPICALES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50% EN PESO. |
+| 20089793. | T724. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LAS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO: SUPERIOR O IGUAL A 5 KG. LOS DEMÁS. |
+| 20089794. | T725. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO: SUPERIOR O IGUAL A 4,5 KG PERO INFERIOR A 5 KG. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES TROPICALES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50% EN PESO. |
+| 20089796. | T726. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO: SUPERIOR O IGUAL A 4,5 KG PERO INFERIOR A 5 KG. LAS DEMÁS. |
+| 20089797. | T727. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO. INFERIOR A 4,5 KG. DE FRUTOS TROPICALES, INCLUIDAS LAS MEZCLAS CON UN CONTENIDO DE NUECES TROPICALES Y FRUTOS TROPICALES SUPERIOR O IGUAL AL 50 % EN PESO. |
+| 20089798. | T728. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19. MEZCLAS. LAS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO, EN ENVASES INMEDIATOS CON UN CONTENIDO NETO. INFERIOR A 4,5 KG. LAS DEMÁS. |
+| 20089911. | T729. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 200819. LOS DEMÁS. CON ALCOHOL AÑADIDO. JENGIBRE. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. |
+| 20089919. | T730. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 200819. LOS DEMÁS. CON ALCOHOL AÑADIDO. JENGIBRE. LOS DEMÁS. |
+| 20089921. | T731. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 200819. LOS DEMÁS. CON ALCOHOL AÑADIDO. UVAS. CON UN CONTENIDO DE AZÚCAR SUPERIOR AL 13 % EN PESO. |
+| 20089923. | T732. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 200819. LOS DEMÁS. CON ALCOHOL AÑADIDO. UVAS. LAS DEMÁS. |
+| 20089924. | T733. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS Y DEMÁS PARTES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE: LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19: LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9 % EN PESO. CON UN CONTENIDO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. FRUTOS TROPICALES. |
+| 20089928. | T734. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS Y DEMÁS PARTES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE: LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19: LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9% EN PESO. CON UN CONTENIDO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. LOS DEMÁS. |
+| 20089931. | T735. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS Y DEMÁS PARTES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE: LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19: LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9 % EN PESO. LOS DEMÁS. FRUTOS TROPICALES. |
+| 20089934. | T736. | FRUTAS U OTROS FRUTOS Y DEMÁS PARTES COMESTIBLES DE PLANTAS Y DEMÁS PARTES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE: LOS DEMÁS, INCLUIDAS LAS MEZCLAS, EXCEPTO LAS MEZCLAS DE LA SUBPARTIDA 2008 19: LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. CON UN CONTENIDO DE AZÚCARES SUPERIOR AL 9 % EN PESO. LOS DEMÁS. LOS DEMÁS. |
+| 20089936. | T737. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. FRUTOS TROPICALES. |
+| 20089937. | T738. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. LOS DEMÁS. CON UN GRADO ALCOHÓLICO MÁSICO ADQUIRIDO INFERIOR O IGUAL A 11,85 % MÁS. LOS DEMÁS. |
+| 20089938. | T739. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. FRUTOS TROPICALES. |
+| 20089940. | T740. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. CON ALCOHOL AÑADIDO. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. LOS DEMÁS. |
+| 20089941. | T741. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. JENGIBRE. |
+| 20089943. | T742. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. UVAS. |
+| 20089945. | T743. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. CIRUELAS. |
+| 20089948. | T744. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. FRUTOS TROPICALES. |
+| 20089949. | T745. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO SUPERIOR A 1 KG. LOS DEMÁS. |
+| 20089951. | T746. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 200819. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG O MENOS. JENGIBRE. |
+| 20089963. | T747. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG O MENOS. FRUTOS TROPICALES. |
+| 20089967. | T748. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. CON AZÚCAR AÑADIDO EN ENVASES INMEDIATOS CON UN CONTENIDO NETO INFERIOR O IGUAL A 1 KG O MENOS. LOS DEMÁS. |
+| 20089972. | T749. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. CIRUELAS EN ENVASES INMEDIATOS CON UN CONTENIDO NETO. SUPERIOR O IGUAL A 5 KG. |
+| 20089978. | T750. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. CIRUELAS EN ENVASES INMEDIATOS CON UN CONTENIDO NETO. INFERIOR A 5 KG. |
+| 20089985. | T751. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 200819. LOS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. MAÍZ [EXCEPTO MAÍZ DULCE (ZEA MAYS VAR. SACCHARATA)]. |
+| 20089991. | T752. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. ÑAMES, BATATAS (BONIATOS) Y PARTES COMESTIBLES SIMILARES DE PLANTAS CON UN CONTENIDO DE ALMIDÓN O DE FÉCULA SUPERIOR O IGUAL AL 5 % EN PESO. |
+| 20089999. | T753. | FRUTAS U OTROS FRUTOS, Y DEMÁS PARTES COMESTIBLES DE PLANTAS, PREPARADOS O CONSERVADOS DE OTRO MODO, INCLUSO CON ADICIÓN DE AZÚCAR U OTRO EDULCORANTE O ALCOHOL, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS, INCLUIDO MEZCLAS, EXCEPTO SUBPARTIDA 2008 19. LOS DEMÁS. SIN ALCOHOL AÑADIDO. SIN AZÚCAR AÑADIDO. LOS DEMÁS. |
+| 23032010. | T881. | RESIDUOS DE LA INDUSTRIA DEL ALMIDÓN Y RESIDUOS SIMILARES, PULPA DE REMOLACHA, BAGAZO DE CAÑA DE AZÚCAR Y DEMÁS DESPERDICIOS, DE LA INDUSTRIA AZUCARERA, HECES Y DESPERDICIOS DE CERVECERÍA O DE DESTILERÍA, INCLUSO EN PELLETS: PULPA DE REMOLACHA, BAGAZO DE CAÑA DE AZÚCAR Y DEMÁS DESPERDICIOS DE LA INDUSTRIA AZUCARERA: PULPA DE REMOLACHA. |
+| 23032090. | T882. | RESIDUOS DE LA INDUSTRIA DEL ALMIDÓN Y RESIDUOS SIMILARES, PULPA DE REMOLACHA, BAGAZO DE CAÑA DE AZÚCAR Y DEMÁS DESPERDICIOS, DE LA INDUSTRIA AZUCARERA, HECES Y DESPERDICIOS DE CERVECERÍA O DE DESTILERÍA, INCLUSO EN PELLETS: PULPA DE REMOLACHA, BAGAZO DE CAÑA DE AZÚCAR Y DEMÁS DESPERDICIOS DE LA INDUSTRIA AZUCARERA: LOS DEMÁS. |
+| 23040000. | T883. | TORTAS Y DEMÁS RESIDUOS SÓLIDOS DE LA EXTRACCIÓN DEL ACEITE DE SOJA (SOYA), INCLUSO MOLIDOS O EN PELLETS. |
+| 23063000. | T884. | TORTAS Y DEMÁS RESIDUOS DE LA EXTRACCIÓN DE GRASAS O ACEITES VEGETALES, INCLUSO MOLIDO O PELLETS, EXCEPTO DE LA PARTIDA 2304 O 2305: DE SEMILLAS DE GIRASOL. |
+| 23080090. | T885. | MATERIAS VEGETALES Y DESPERDICIOS VEGETALES, RESIDUOS Y SUBPRODUCTOS VEGETALES, INCLUSO EN PELLETS, DE LOS TIPOS UTILIZADOS PARA LA ALIMENTACIÓN DE LOS ANIMALES, NO EXPRESADOS NI COMPRENDIDOS EN OTRA PARTE. LOS DEMÁS. |
+| 23099096. | T886. | PREPARACIONES DEL TIPO DE LAS UTILIZADAS PARA LA ALIMENTACIÓN DE LOS ANIMALES: LAS DEMÁS: LOS DEMÁS, INCLUIDAS LAS PREMEZCLAS: LOS DEMÁS: LOS DEMÁS. |
+
+CMA= contenido máximo de materia grasa.
+
+CMIN GRA=contenido mínimo de materia grasa.
+
+Notas aclaratorias:
+
+(<sup>1</sup>) Únicamente podrán clasificarse los productos y sus trozos en esta subpartida si las dimensiones y características del tejido muscular coherente permitieren la identificación de su procedencia de los despieces primarios mencionados. La expresión “sus trozos” se aplicará a los productos con un peso neto unitario de, por lo menos, 100 gramos o a los productos cortados en lonchas uniformes, cuya procedencia del mencionado despiece primario pueda ser claramente identificada, envasados en un solo envase y con un peso neto global de, por lo menos, 100 gramos.
+
+Las paletas podrán presentarse con o sin la carrillada.
+
+Las partes delanteras podrán presentarse con o sin la carrillada.
+
+La papada de la parte de la paleta, la carrillada o la carrillada y la parte de la paleta unidas, no se beneficiarán de esta restitución.
+
+Los espinazos deshuesados, presentados aisladamente, no se beneficiarán de esta restitución.
+
+(<sup>2</sup>) En relación a los trozos del ala, si bien deben clasificarse en la partida 0207 14 70, como los demás, no le corresponde ningún código de restituciones porque ni son mitades o cuartos sin rabadillas, ni son partes que comprendan un muslo entero o un pedazo de muslo.
+
+B) Códigos de Exención Régimen Especial de Abastecimiento de Canarias (REA):
+
+| NC | Código | Descripción |
+|---|---|---|
+| 12149090 | U443 | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, RAICES FORRAJERAS, HENO, ALFALFA, TREBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN «PELLETS»; HARINA Y PELLETS DE ALFALFA. LOS DEMÁS; LOS DEMÁS EXCEPTO ENSILADOS. |
+| 12149090 | U444 | NABOS FORRAJEROS, REMOLACHAS FORRAJERAS, RAICES FORRAJERAS, HENO, ALFALFA, TREBOL, ESPARCETA, COLES FORRAJERAS, ALTRAMUCES, VEZAS Y PRODUCTOS FORRAJEROS SIMILARES, INCLUSO EN «PELLETS»; HARINA Y PELLETS DE ALFALFA. LOS DEMÁS; LOS DEMÁS, ENSILADOS. |
+| 23099096 | U886 | PREPARACIONES DEL TIPO DE LAS UTILIZADAS PARA LA ALIMENTACIÓN DE LOS ANIMALES. |
+
+> Se modifica por el apartado primero.27 de la Resolución de 29 de marzo de 2022. [Ref. BOE-A-2022-5519](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5519)
+
+> Se modifica por el apartado primero.24 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)
+
+> Se añade por el apartado primero de la Resolución de 3 de enero de 2017. [Ref. BOE-A-2017-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-159)
+
+> Información relacionada
+
+> Todas las referencias hechas al Reglamento (CEE) n.º 2913/92 del Consejo, de 12 de octubre de 1992, por el que se aprueba el Código Aduanero Comunitario y al Reglamento (CEE) n.º 2454/93 de la Comisión, de 2 de julio de 1993, por el que se fijan determinadas disposiciones de aplicación del Reglamento (CEE) n.º 2913/1992 del Consejo por el que se establece el Código Aduanero Comunitario, se deben entender realizadas al Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013 por el que se establece el Código Aduanero de la Unión (en adelante CAU), al Reglamento Delegado (UE) 2015/2446 del Comisión, de 28 de julio de 2015, (en adelante RDCAU), y al Reglamento de Ejecución (UE) 2015/2447 de la Comisión, de 24 de noviembre de 2015, (en adelante RECAU) por el que se complementa y se establecen normas de desarrollo del CAU, en especial al anexo B de ambos y al Reglamento Delegado (UE) 2016/341 de la Comisión, de 17 de diciembre de 2015, por el que se completa el Código en lo que se refiere a las normas transitorias para determinadas disposiciones del Código mientras no estén operativos los sistemas electrónicos pertinentes (en adelante Reglamento Transitorio), según establece el apartado primero.1 de la Resolución de 25 de agosto de 2017. [Ref. BOE-A-2017-10089](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-10089)

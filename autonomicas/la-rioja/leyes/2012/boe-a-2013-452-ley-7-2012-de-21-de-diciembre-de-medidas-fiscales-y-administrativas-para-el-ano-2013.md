@@ -1,0 +1,1111 @@
+---
+title: "Ley 7/2012, de 21 de diciembre, de Medidas Fiscales y Administrativas para el año 2013"
+identifier: "BOE-A-2013-452"
+eli: "https://www.boe.es/eli/es-ri/l/2012/12/21/7"
+type: act
+rank: "Ley"
+jurisdiction: es-la-rioja
+language: es
+department: "Comunidad Autónoma de La Rioja"
+date: 2012-12-21
+published: 2013-01-17
+in_force_from: 2013-01-01
+last_amended: 2017-10-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 15"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-452"
+retrieved: 2026-10-11
+---
+
+# Ley 7/2012, de 21 de diciembre, de Medidas Fiscales y Administrativas para el año 2013
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+
+EXPOSICIÓN DE MOTIVOS
+
+Los presupuestos generales de las administraciones públicas requieren para su completa efectividad la adopción de diferentes medidas, unas de carácter puramente ejecutivo y otras de carácter normativo, que por su naturaleza deben adoptar rango de ley y que como ha precisado el Tribunal Constitucional no deben integrarse en las leyes anuales de presupuestos generales sino en leyes específicas.
+
+El debate doctrinal acerca de la naturaleza de las llamadas leyes de acompañamiento ha sido resuelto por el Tribunal Supremo, que ha configurado este tipo de normas como leyes ordinarias, cuyo contenido está plenamente amparado por la libertad de configuración normativa de la que goza el legislador, y que permiten una mejor y más eficaz ejecución del programa del Gobierno en los distintos ámbitos en los que se desenvuelve su acción.
+
+Este es el fin de una norma cuyo contenido esencial lo constituyen las medidas de naturaleza tributaria, si bien se incorporan otras de carácter administrativo y de organización.
+
+II
+
+La ley comienza con normas de naturaleza tributaria, dictadas en uso de las facultades normativas atribuidas por el artículo 48 del Estatuto de Autonomía de La Rioja y por la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía. Estas normas definen los límites de la política fiscal del Gobierno regional tanto en relación con los impuestos cedidos por el Estado como con los tributos propios.
+
+Las medidas de carácter tributario conservan las ya introducidas en años anteriores por el Parlamento de La Rioja en una versión consolidada, de modo que toda la normativa a aplicar en el ejercicio 2013 se encuentre compilada en un único texto, facilitando su aplicación por los interesados y garantizando la seguridad jurídica, al tiempo que se recogen algunas novedades.
+
+El título I de la ley se abre con las medidas relativas a los tributos cedidos.
+
+Los citados preceptos se mantienen en la línea de una tributación más baja, siguiendo la línea de disminuir la presión fiscal sobre los ciudadanos y de promover una pronta reactivación económica que permita remontar la actual crisis económica que se cierne sobre todo el mundo, pero que en España ha resultado más grave y profunda que en otros Estados de nuestro entorno.
+
+Se ha actualizado la cuantía del canon de saneamiento según IPC, al efecto de cumplir paulatinamente con los objetivos de financiación marcados en las memorias asociadas al Plan Director de Saneamiento y Depuración de la Comunidad Autónoma de La Rioja 2007-2015, que permitirían un mayor incremento de este impuesto.
+
+Se crean tres nuevos impuestos autonómicos con finalidad medioambiental.
+
+El primero de ellos es un impuesto sobre grandes superficies. Este impuesto gravará el impacto urbanístico y medioambiental que concurre en determinados establecimientos comerciales como consecuencia de estar implantados como grandes superficies. En gran medida se ha seguido el impuesto similar implantado en Cataluña que recientemente ha sido declarado constitucional, en la Sentencia del Tribunal Constitucional 122/2012, de 5 de junio, en la que se analiza la posible identidad de hechos imponibles entre el impuesto catalán de grandes establecimientos comerciales y otros impuestos como el IBI o el IAE.
+
+Las circunstancias de índole medioambiental pueden justificar que se establezca una autorización para la instalación de grandes establecimientos comerciales, tal y como permiten la normativa europea y estatal. Si dicha autorización es posible desde la perspectiva regulatoria, también se considera admisible la posibilidad de gravar con un tributo a este tipo de establecimientos. Según la regulación del impuesto que se crea, son grandes establecimientos comerciales individuales, a estos efectos, los que disponen de una superficie de venta igual o superior a los 2.500 metros cuadrados.
+
+El segundo impuesto que se crea grava el impacto visual y medioambiental que producen los elementos fijos destinados al suministro de energía eléctrica así como los elementos fijos de las redes de comunicaciones telefónicas o telemáticas, situados en el territorio de la Comunidad Autónoma de La Rioja. La finalidad del impuesto es conseguir un comportamiento por parte de los operadores de los sectores energético y de las telecomunicaciones tendente a reducir el impacto visual que producen los elementos fijos de sus redes mediante su soterramiento o mediante la compartición de infraestructuras. Por ello, y en coherencia con la finalidad declarada, la construcción dogmática del impuesto declara no sujetos al mismo los elementos fijos de transporte y suministro de energía eléctrica que se encuentren soterrados.
+
+El tercero de los impuestos grava el depósito de residuos en vertederos con la finalidad de incentivar conductas que favorezcan la protección del entorno natural. Se considerarán vertederos las instalaciones de eliminación que se destinen al depósito de residuos en superficie o bajo tierra. Para la determinación de la cuota tributaria, y considerando la finalidad ambiental del impuesto, se diferencia entre residuos peligrosos y no peligrosos; y dentro de cada categoría, se distingue entre los residuos valorizables y no valorizables, previéndose un régimen especial de cálculo de cuota para determinados residuos provenientes de la construcción. Por ello, y dada la finalidad de obtener la valorización de los residuos y de disminuir el mero depósito, no estará sujeto al impuesto el depósito de residuos peligrosos que se realice con el fin de gestionarlos para su valorización en las instalaciones previstas para tal fin.
+
+En materia de tasas se revisan diferentes tasas para adaptarlas a diversos cambios normativos, técnicos o procedimentales, como sucede en el caso de las tasas por publicación en el «Boletín Oficial de La Rioja», de algunas tasas de la Consejería de Obras Públicas para adaptarlas a la denominación actual, de cuatro tarifas de la tasa de calidad ambiental, de la tasa por los análisis de laboratorio regional, que pasa a denominarse por prestación de servicios relacionados con la producción agrícola suprimiendo algunas tarifas, de la tasa de servicios sanitarios, en la que se crea una tarifa, se suprime otra y se modifica una tercera, y de la tasa de acceso al procedimiento de reconocimiento de competencias profesionales adquiridas por experiencia laboral, en la que se modifican concepto y cuantía.
+
+Además, se suprimen la tasa por servicios del laboratorio de materiales, que pasa a regularse en exclusiva por el precio público correspondiente, y la tasa por retirada de cadáveres de animales, y se sujetan a una nueva tasa las inscripciones y certificaciones del Registro de Parejas de Hecho.
+
+III
+
+El segundo y último bloque de la ley, integrado en el título II, recoge la modificación de diversas leyes y adopta algunas medidas independientes, con el objetivo de facilitar la consecución de los fines previstos en la Ley de Presupuestos.
+
+El capítulo I contiene la declaración de interés público de las modificaciones de contratos para alcanzar la estabilidad presupuestaria, de forma que se puedan modificar los contratos vigentes en aplicación de las normas sobre contratación pública.
+
+El capítulo II modifica la Ley 2/2007, de 1 de marzo, de Vivienda de la Comunidad Autónoma de La Rioja, remitiendo a reglamento la regulación de las exenciones a las condiciones de acceso y añadiendo como infracción promover viviendas sin tramitar el procedimiento de habitabilidad.
+
+El capítulo III introduce novedades en la Ley 9/1998, de 2 de julio, de Caza de La Rioja, de forma que se amplía la regulación de las reclamaciones por daños causados por animales.
+
+El capítulo IV amplía la regulación prevista en la Ley 3/1995, de 23 de marzo, de Vías Pecuarias de La Rioja, de forma que se establece un plazo máximo de un año para la tramitación del procedimiento de deslinde.
+
+El capítulo V contiene una habilitación para que el Gobierno de La Rioja pueda regular reglamentariamente el Registro de Industrias Agroalimentarias.
+
+El capítulo VI modifica la Ley 2/1995, de 10 de febrero, de Protección y Desarrollo del Patrimonio Forestal de La Rioja, para ampliar la regulación del procedimiento de declaración de árboles singulares y sus efectos.
+
+El capítulo VII modifica la Ley 5/2002, de 8 de octubre, de Protección del Medio Ambiente de La Rioja, introduciendo previsiones para exceptuar la obligación de obtener licencia ambiental.
+
+El capítulo VIII crea un procedimiento para la declaración de fincas abandonadas, regulando sus efectos, para poder intervenir sobre ellas cuando supongan riesgo de incendio o plaga y sea necesario adoptar medidas preventivas.
+
+El capítulo IX, finalmente, establece algunas modificaciones en la clasificación de las máquinas de juego.
+
+## TÍTULO I — Medidas tributarias
+
+### CAPÍTULO I — Impuesto sobre la renta de las personas físicas
+
+##### Artículos 1 a 3.
+
+**(Derogados)**.
+
+> Se derogan por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+## ANEXO — Relación de municipios de La Rioja con derecho a deducción por adquisición o rehabilitación de segunda vivienda en el medio rural
+
+**(Derogado)**.
+
+> Se deroga por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+### CAPÍTULO II — Impuesto sobre sucesiones y donaciones
+
+#### Sección 1.ª Adquisiciones mortis causa
+
+##### Artículos 4 a 8.
+
+**(Derogados)**.
+
+> Se derogan por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+#### Sección 2.ª Adquisiciones inter vivos
+
+##### Artículos 9 a 13.
+
+**(Derogados)**.
+
+> Se derogan por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+#### Sección 3.ª Disposiciones comunes a ambas modalidades
+
+##### Artículo 14. Suspensión en el procedimiento de tasación pericial contradictoria.
+
+**(Derogado)**.
+
+> Se deroga por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+### CAPÍTULO III — Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+#### Sección 1.ª Modalidad de transmisiones patrimoniales onerosas
+
+##### Artículos 15 a 19.
+
+**(Derogados)**.
+
+> Se derogan por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+#### Sección 2.ª Modalidad de actos jurídicos documentados
+
+##### Artículos 20 a 26.
+
+**(Derogados)**.
+
+> Se derogan por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+#### Sección 3.ª Obligaciones formales
+
+##### Artículo 27. Obligación formal de los empresarios dedicados a la compraventa de objetos fabricados con metales preciosos.
+
+Aquellos empresarios que adquieran objetos fabricados con metales preciosos y que estén obligados a la llevanza de los libros-registro a los que hace referencia el artículo 91 del Real Decreto 197/1988, de 22 de febrero, por el que se aprueba el Reglamento de la Ley de objetos fabricados con metales preciosos, declararán conjuntamente todas las operaciones sujetas a la modalidad de transmisiones patrimoniales onerosas del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados devengadas en el mes natural. Para ello, presentarán una única autoliquidación acompañando fotocopias de aquellas hojas del libro-registro selladas por la autoridad competente que comprendan las operaciones realizadas en el mes natural y un documento en el que se consignen las operaciones relevantes para la autoliquidación.
+
+El plazo de ingreso y presentación de la autoliquidación será el mes natural inmediato posterior al que se refieran las operaciones declaradas.
+
+##### Artículo 28. Presentación telemática obligatoria.
+
+**(Derogado)**.
+
+> Se deroga por la disposición derogatoria única de la Ley 13/2013, de 23 de diciembre. [Ref. BOE-A-2014-404](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-404).
+
+### CAPÍTULO IV — Juego
+
+##### Artículo 29. Regulación de los tipos tributarios y cuotas fijas de los tributos sobre juegos de suerte, envite o azar.
+
+De conformidad con lo previsto en el artículo 50.1 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, se modifican la regulación de la base imponible, los tipos y cuotas tributarias de los tributos sobre juegos de suerte, envite o azar.
+
+1\. Base Imponible.
+
+Regla general. Por regla general, la base imponible del tributo estará constituida por el importe total de las cantidades que los jugadores dediquen a su participación en los juegos.
+
+Reglas especiales. En los supuestos que a continuación se detallan la base imponible será la siguiente:
+
+a) En los casinos de juego, los ingresos brutos que obtengan procedentes del juego. Se entenderá por ingresos brutos la diferencia entre el importe total de los ingresos obtenidos procedentes del juego, en cada uno de los establecimientos que tenga el casino, y las cantidades satisfechas a los jugadores por sus ganancias.
+
+No se computará en los citados ingresos la cantidad que se abone por la entrada en las salas reservadas para el juego.
+
+b) En el juego del bingo, la base imponible la constituirá la diferencia entre el importe total de los ingresos obtenidos procedentes de la adquisición de los cartones o valor facial y las cantidades satisfechas a los jugadores por sus ganancias.
+
+c) En los casos de explotación de máquinas de juego, la cuota fija aplicable a cada máquina o aparato se determinará en función del tipo de máquina, del número de jugadores y del precio de la partida.
+
+d) En los supuestos de juegos y apuestas, incluido el juego del bingo electrónico, que se desarrollen por medios técnicos, telemáticos, interactivos o de forma remota, la base imponible estará constituida por las cantidades que los jugadores dediquen a su participación en el juego descontada la cantidad destinada a premios.
+
+Estos medios contendrán el procedimiento o los elementos de control necesarios que garanticen la exactitud en la determinación de la base imponible y el sujeto pasivo deberá disponer de un sistema informático que permita a la consejería competente en materia de Hacienda el control telemático de la gestión y pago del tributo correspondiente.
+
+e) En los juegos y concursos difundidos en medios de comunicación e información en el ámbito de la Comunidad Autónoma de La Rioja, y en los que la participación se realice, totalmente o en parte, mediante servicios de telecomunicación sobretarifados o con tarifación adicional, la base imponible estará constituida por la suma del valor de los premios más las cuantías correspondientes a la sobretarifación de la participación en el juego, excluido el impuesto indirecto sobre el valor añadido o cualquier otro impuesto indirecto que grave las operaciones realizadas.
+
+2\. Tipos tributarios.
+
+El tipo tributario general será del 20%, que será aplicable a todos los juegos de suerte, envite o azar que no tengan señalado un tipo tributario específico.
+
+En los casinos de juego se aplicará la siguiente tarifa:
+
+<table>
+<tr>
+<td rowspan="2">
+<p>Porción de base imponible comprendida en el porcentaje (en euros)</p>
+</td>
+<td>
+<p>Tipo aplicable </p>
+<p>Porcentaje</p>
+</td>
+<td>
+<p>Tipo aplicable </p>
+<p>Porcentaje</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipos ordinarios</p>
+</td>
+<td>
+<p>Tipos reducidos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inferior o igual a 2.000.000</p>
+</td>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entre 2.000.000,01 y 4.000.000</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entre 4.000.000,01 y 6.000.000</p>
+</td>
+<td>
+<p>49</p>
+</td>
+<td>
+<p>40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Más de 6.000.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+</table>
+
+Los casinos de juego que no reduzcan la plantilla media de trabajadores durante el ejercicio de 2013 podrán acogerse a la escala de tipos reducidos prevista en el párrafo anterior, en los términos que disponga la legislación laboral, teniendo en cuenta la jornada contratada.
+
+En caso de que, con posterioridad a la aplicación del tipo reducido, hubiera un descenso del personal empleado en la empresa titular del casino o se produzca el cese de la actividad, se procederá a la liquidación complementaria de las cantidades no ingresadas de acuerdo con la escala de tipos ordinarios junto con los correspondientes intereses de demora en el siguiente periodo de pago o, en su caso, dentro de los treinta días siguientes al cese.
+
+3\. En el juego del bingo el tipo tributario ordinario será del 58,82% de la base imponible, con excepción de la modalidad del bingo electrónico que será del 30%.
+
+Las empresas titulares de salas de bingo que no reduzcan la plantilla media de trabajadores durante el ejercicio de 2013 podrán acogerse al tipo tributario reducido del 50% de la base imponible, en los términos que disponga la legislación laboral, teniendo en cuenta la jornada contratada.
+
+En caso de que, con posterioridad a la aplicación del tipo reducido, hubiera un descenso del personal empleado en la empresa titular de la sala o se produzca el cese de la actividad, se procederá a la liquidación complementaria de las cantidades no ingresadas de acuerdo con el tipo ordinario junto con los correspondientes intereses de demora en el siguiente periodo de pago o, en su caso, dentro de los treinta días siguientes al cese.
+
+4\. En los casos de explotación de máquinas de juego, el tributo se determinará de acuerdo con la tipología que prevé el artículo 4 del Decreto 4/2001, de 26 de enero, por el que se aprueba el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de La Rioja, en virtud del artículo 14 de la Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas, según las siguientes cuotas fijas:
+
+a) Máquinas de tipo «B» o recreativas con premio programado:
+
+1.º Cuota anual:
+
+Cuota ordinaria: 3.600 euros.
+
+Cuota reducida: 3.500 euros.
+
+Cuota superreducida: 3.080 euros.
+
+2.º Cuando se trate de máquinas de tipo «B» en las que puedan intervenir dos o más jugadores de forma simultánea y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores, será de aplicación la cuota siguiente: máquinas de dos o más jugadores: 3.600 euros más un incremento del 25% de esta cantidad por cada nuevo jugador a partir del primero.
+
+3.º Máquinas de tipo «B» de un jugador cuyas autorizaciones de explotación se encuentren en situación de baja administrativa temporal durante cada periodo impositivo trimestral: 180 euros.
+
+b) Máquinas del subtipo «B2» o especiales para salones de juego:
+
+1.º Cuota anual: 3.600 euros.
+
+2.º Máquinas del subtipo «B2» en las que puedan intervenir dos o más jugadores de forma simultánea y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores: la cuota será de 3.600 euros más un incremento del 25% por cada nuevo jugador a partir del primero.
+
+3.º Máquinas de tipo «B2» de un jugador cuyas autorizaciones de explotación se encuentren en situación de baja administrativa temporal durante cada periodo impositivo trimestral: 180 euros.
+
+c) En los casos de explotación de máquinas de tipo «C» o de azar:
+
+1.º Cuota anual de 4.600 euros.
+
+2.º Máquinas de tipo «C» en las que puedan intervenir dos o más jugadores de forma simultánea y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores: 4.600 euros más un incremento del 25% por cada nuevo jugador a partir del primero.
+
+d) Máquinas de tipo «D» o máquinas especiales de juego del bingo:
+
+1.º Cuota anual de 3.736 euros.
+
+2.º Máquinas del subtipo «D» en las que puedan intervenir dos o más jugadores de forma simultánea y siempre que el juego de cada uno de ellos sea independiente del realizado por los otros jugadores: la cuota será de 3.736 euros más un incremento del 25% por cada nuevo jugador a partir del primero.
+
+5\. En el caso de modificación del precio máximo de 20 céntimos de euro autorizado para la partida en máquinas de tipo «B», la cuota tributaria anual se incrementará en 15 euros por cada céntimo de euro en que el nuevo precio máximo autorizado exceda de 20 céntimos de euro.
+
+Si la modificación se produjera con posterioridad al devengo del tributo, los sujetos pasivos que explotasen máquinas autorizadas en fecha anterior a aquella en que se autorice la subida, deberán autoliquidar e ingresar la diferencia de cuota que corresponda en la forma y plazos que determine la consejería competente en materia de Hacienda.
+
+No obstante lo previsto en el párrafo anterior, la autoliquidación e ingreso será solo del 50% de la diferencia, si la modificación del precio máximo autorizado para la partida se produce a partir del 1 de julio.
+
+6\. Para la aplicación de la cuota tributaria reducida en las máquinas de tipo «B», los sujetos pasivos deberán reunir los requisitos siguientes:
+
+a) Encontrarse al corriente de las obligaciones fiscales y de las deudas de derecho público sobre el juego.
+
+b) Mantener la plantilla media de trabajadores durante el ejercicio 2013, en los términos que disponga la legislación laboral, teniendo en cuenta la jornada contratada.
+
+c) No haber solicitado la baja en explotación de máquinas en un porcentaje superior al 10% durante el ejercicio 2013.
+
+d) La inexistencia de instalación de máquinas en situación administrativa de baja temporal en un porcentaje superior al 10% durante el ejercicio 2013.
+
+e) La obtención y realización del pago telemático de las autoliquidaciones correspondientes del tributo devengado.
+
+7\. Para la aplicación de cuota tributaria superreducida, además de los requisitos establecidos en el apartado anterior, deberán cumplir los siguientes:
+
+a) No haber solicitado la baja en la explotación de máquinas durante el ejercicio 2013.
+
+b) La inexistencia de instalación de máquinas en situación administrativa de baja temporal.
+
+8\. En el supuesto de que, con posterioridad a la aplicación de la cuota reducida o superreducida, se incumpliera alguno de los requisitos que condicionan su aplicación, se procederá a la liquidación complementaria de las cantidades no ingresadas de acuerdo con la cuota ordinaria o, en su caso, reducida, junto con los correspondientes intereses de demora en el siguiente periodo de pago o, en su caso, dentro de los treinta días siguientes al cese de la actividad.
+
+9\. El tipo de gravamen aplicable relativo a concursos desarrollados en medios de comunicación e información será el 20% sobre la base imponible.
+
+##### Artículo 30. Devengo de los tributos sobre juegos de suerte, envite o azar.
+
+1\. Los tributos sobre juegos de suerte, envite o azar se devengarán con carácter general por la autorización y, en su defecto, por la organización o celebración del juego en el ámbito de la Comunidad Autónoma de La Rioja.
+
+2\. La tarifa aplicable a los casinos de juegos es anual, sin perjuicio de lo cual se aplicará trimestralmente a los ingresos acumulados desde el comienzo del año hasta el último día del trimestre de que se trate, aplicándose a cada uno de los tramos de la base imponible el tipo correspondiente de la tarifa y deduciendo de la cuota resultante el importe de lo ingresado en los trimestres anteriores del mismo año. La acumulación terminará en todo caso a fin de cada año natural, cualquiera que sea la fecha de inicio de la actividad.
+
+3\. En el caso del juego de bingo, el tributo se devengará en el momento de suministrar los cartones a la entidad titular de la autorización administrativa correspondiente, con excepción de la utilización de cartones virtuales que se producirá en el momento de su emisión en la sala de bingo.
+
+4\. El tributo de máquinas de juego de los tipos «B», «C» y «D» será exigible por años naturales, devengándose con carácter general el día 1 de enero de cada año en cuanto a aquellas que fueron autorizadas en años anteriores.
+
+En el primer año de explotación de la máquina, el devengo coincidirá con la autorización de explotación, abonándose el importe correspondiente en su cuantía total anual, salvo que la autorización se otorgue a partir del 1 de julio de cada año, que se abonará únicamente el 50% del tributo.
+
+5\. En los supuestos de transmisión de las autorizaciones de explotación de las máquinas, el nuevo titular quedará obligado a soportar los pagos fraccionados trimestrales en los periodos establecidos en el artículo siguiente.
+
+6\. El devengo de las máquinas de tipo «B», cuyas autorizaciones de explotación se encuentren en situación de baja administrativa temporal, será el primer día de cada trimestre natural. No obstante, en caso de autorizarse la activación de una máquina en situación administrativa de baja temporal durante su periodo de vigencia, el sujeto pasivo deberá satisfacer el pago de la cuota correspondiente al trimestre corriente.
+
+Las empresas operadoras deberán comunicar con carácter previo a la Dirección General de Tributos las máquinas de baja temporal mediante la presentación de las correspondientes comunicaciones de traslado al almacén. Las autorizaciones de explotación en dicha situación tendrán una vigencia mínima trimestral, prorrogándose automáticamente por periodos sucesivos iguales, siempre que no se modifique dicha situación.
+
+7\. No se practicará liquidación en el caso de que la nueva máquina sustituya en el mismo periodo impositivo anual y dentro del mismo ámbito territorial de la Comunidad Autónoma de La Rioja a otra del mismo tipo que, a estos efectos, haya sido dada de baja en la explotación definitiva y se encuentre al corriente del pago del tributo.
+
+8\. En el caso de máquinas cuyos modelos hayan sido inscritos con carácter provisional en el Registro General del Juego de La Rioja, de acuerdo con su normativa específica, el devengo se producirá con la autorización y el tributo se exigirá, exclusivamente, por el trimestre en que se produzca la autorización.
+
+##### Artículo 31. Plazo de ingreso de los tributos sobre juegos de suerte, envite o azar.
+
+1\. El ingreso del tributo que grava los juegos de suerte, envite o azar en caso de explotación de máquinas de tipo «B», «C» y «D» se realizará en pagos fraccionados trimestrales iguales que se efectuarán en los siguientes periodos:
+
+a) Primer periodo: del 1 al 20 de marzo o inmediatamente hábil siguiente.
+
+b) Segundo periodo: del 1 al 20 de junio o inmediatamente hábil siguiente.
+
+c) Tercer periodo: del 1 al 20 de septiembre o inmediatamente hábil siguiente.
+
+d) Cuarto periodo: del 1 al 20 de diciembre o inmediatamente hábil siguiente.
+
+No obstante, en el primer año de explotación, el pago del trimestre corriente y, en su caso, del ya vencido, deberá hacerse en el momento de la autorización, abonándose los restantes en el plazo establecido en el párrafo anterior.
+
+2\. La gestión tributaria se realizará a partir de un registro o censo anual que comprenda todas las máquinas autorizadas en la Comunidad Autónoma de La Rioja. Dicho registro se confeccionará por la dirección general competente en materia de Tributos conforme a las autorizaciones de explotación de máquinas del tipo «B», «C» y «D» en vigor, incluidas las máquinas cuyas autorizaciones se encuentren en situación administrativa de baja temporal, sujetos pasivos y cuotas exigibles, y se aprobará mediante resolución durante el primer trimestre del ejercicio para que los interesados puedan examinarlo y, en su caso, formular las reclamaciones oportunas en el plazo de un mes.
+
+Dicha resolución se publicará en el «Boletín Oficial de La Rioja» antes del 28 de febrero de ese ejercicio y producirá los efectos de notificación de la liquidación a cada uno de los sujetos pasivos, de conformidad con lo dispuesto en el artículo 102.3 de la Ley General Tributaria.
+
+Las restantes variaciones que se produzcan en la situación de las máquinas, una vez adoptadas las resoluciones oportunas, conllevarán la modificación del padrón, si bien tendrán efectividad en el periodo impositivo siguiente a aquel en que tuvieren lugar.
+
+3\. En caso de máquinas autorizadas en ejercicios anteriores al devengo del tributo, la dirección general competente en materia de Tributos girará de oficio mediante el documento de declaración-liquidación correspondiente a los pagos fraccionados trimestrales, a efectos de su liquidación en los periodos señalados en el apartado 1, sin perjuicio de que los sujetos pasivos puedan obtener y realizar el pago telemáticamente.
+
+4\. En caso de máquinas de nueva autorización sin sustitución, el sujeto pasivo, previamente a la obtención de la autorización de explotación e inclusión en el censo, practicará la declaración de alta y la autoliquidación del tributo e ingresará el pago del trimestre corriente y, en su caso, del ya vencido, de la cuota devengada, abonándose los posteriores trimestres según el procedimiento establecido en el apartado anterior.
+
+5\. El incumplimiento de cualesquiera de los plazos de ingreso de la liquidación determinará el inicio del periodo ejecutivo por la liquidación o fracción de esta impagada.
+
+6\. La consejería competente en materia de Hacienda podrá aprobar los modelos y establecer los plazos en que se efectuarán las declaraciones, así como dictar las normas precisas para la gestión y liquidación del tributo sobre el juego que grava la explotación de máquinas de los tipos «B», «C» y «D».
+
+7\. El ingreso del tributo en caso de casinos de juego será durante los días 1 al 20 de cada uno de los meses de abril, julio, octubre y enero o, en su caso, hasta el inmediato hábil siguiente.
+
+8\. En el juego del bingo practicado con cartones físicos, el pago se realizará mediante liquidación en el momento de la adquisición de los cartones, tomando como base el número y valor facial de los mismos. No obstante, en el caso de utilización de cartones virtuales el pago deberá efectuarse dentro de los diez primeros días del mes siguiente a la fecha de devengo.
+
+##### Artículo 32. Obligaciones formales sobre los tributos sobre juegos de suerte, envite o azar.
+
+Los sujetos pasivos de los tributos sobre juegos de suerte, envite o azar vendrán obligados a presentar anualmente una relación de premios cuyo importe sea superior a 3.000 euros, junto con la identificación de los jugadores premiados mediante la consignación del nombre y apellidos y del número de identificación fiscal.
+
+##### Artículo 33. Tasas sobre rifas, tómbolas, apuestas y combinaciones aleatorias.
+
+1\. De conformidad con lo previsto en el artículo 50.1 de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias, se establece la siguiente regulación de la tasa sobre rifas, tómbolas, apuestas y combinaciones aleatorias.
+
+2\. Base Imponible:
+
+a) Con carácter general, la base imponible estará constituida por el importe total de las cantidades que los jugadores dediquen a su participación en los juegos.
+
+b) En las rifas y tómbolas, la base imponible vendrá constituida por el total de los boletos o billetes ofrecidos.
+
+c) En las combinaciones aleatorias, la base imponible estará constituida por el valor de mercado de los premios ofrecidos, incluyéndose el total de los gastos necesarios para la puesta a disposición del premio.
+
+d) En las apuestas, la base imponible vendrá constituida por el importe total de los billetes, boletos o resguardos de participación vendidos, sea cual fuere el medio a través del cual se hayan realizado. No obstante, para las apuestas sobre acontecimientos deportivos, de competición o de otro carácter previamente determinado, la base imponible vendrá constituida por la diferencia entre la suma total de las cantidades apostadas y el importe de los premios obtenidos por los participantes en el juego.
+
+La base imponible de las apuestas deportivas basadas en la pelota se calculará con base en el número de partidos organizados anualmente, siempre que las apuestas se celebren en el recinto en el cual se desarrolle el acontecimiento deportivo.
+
+e) La base imponible de los juegos y apuestas de carácter tradicional, a que se refiere el artículo 10 del Decreto 4/2001, de 26 de enero, por el que se aprueba el Catálogo de Juegos y Apuestas de la Comunidad Autónoma de La Rioja, se calculará con base en el número de jornadas organizadas anualmente.
+
+f) Para la determinación de la base imponible podrán utilizarse los regímenes de estimación directa o estimación objetiva, regulados en los artículos 51 a 53 de la Ley General Tributaria.
+
+En los supuestos de participación a través de medios técnicos, telemáticos o interactivos, si la base debiera determinarse en función de la misma, estos medios deberán contener el procedimiento o elementos de control necesarios que garanticen su completa exactitud en la determinación de la base imponible.
+
+3\. Exenciones. Sin perjuicio de las exenciones establecidas en el artículo 39 del Decreto 3059/1966, de 1 de diciembre, que aprueba el texto refundido de tasas fiscales, quedarán exentas del pago de la tasa sobre rifas, tómbolas, apuestas y combinaciones las asociaciones que desarrollen sus funciones en la Comunidad Autónoma de La Rioja y sus fines sean benéficos, religiosos, culturales, deportivos o sociales que cumplan los siguientes requisitos:
+
+a) Que figuren inscritas en el registro de asociaciones competente.
+
+b) Que no tengan ánimo de lucro y que los representantes sociales y personas que intervengan en la organización del juego no perciban retribución alguna.
+
+c) Que el valor conjunto de los premios ofrecidos no exceda de 1.500 euros y que, en su caso, las participaciones no alcancen los 12.000 euros.
+
+d) Que no excedan de dos juegos al año.
+
+También gozarán de la misma exención las tómbolas de duración inferior a quince días, organizadas con ocasión de mercados, ferias o fiestas de ámbito local.
+
+4\. Cuotas y tipos tributarios:
+
+a) Rifas y tómbolas.
+
+1.º El tipo tributario general será del 15% del importe total de los billetes o papeletas ofrecidos.
+
+2.º Las declaradas de utilidad pública o benéfica tributarán al 5%.
+
+3.º Las rifas benéficas de carácter tradicional que durante los diez últimos años han venido disfrutando de un régimen especial más favorable tributarán solo al 1,5% sobre el importe de los billetes ofrecidos. Este beneficio se limitará al número e importe máximo de los billetes que se hayan distribuido en años anteriores.
+
+b) Combinaciones aleatorias.
+
+En las combinaciones aleatorias, el tipo será del 10% del valor de los premios ofrecidos.
+
+c) Apuestas.
+
+1.º El tipo tributario con carácter general será el 10% del importe total de los billetes, papeletas o resguardos vendidos, sea cual fuere el medio a través del cual se hayan realizado.
+
+2.º En las apuestas sobre acontecimientos deportivos, de competición o de otro carácter previamente determinado, así como en las apuestas hípicas, el tipo tributario será del 10%.
+
+3.º Las apuestas deportivas basadas en la pelota en la modalidad denominada «traviesas» o apuestas efectuadas por un espectador contra otro a favor de un jugador, celebradas en el interior de los frontones y hechas con la intervención del corredor, tributarán mediante una cuota fija por cada partido organizado en la Comunidad Autónoma de La Rioja de 150 euros.
+
+4.º Apuestas de carácter tradicional: en el juego de las chapas y los borregos, la cuota fija será de 100 euros por jornada.
+
+5\. Devengo:
+
+a) La tasa sobre rifas, tómbolas y combinaciones aleatorias no gratuitas se devengará con carácter general por la autorización y, en su defecto, por la organización o celebración del juego en el ámbito de la Comunidad Autónoma de La Rioja, sin perjuicio de las responsabilidades administrativas que procedieren.
+
+b) En las apuestas, la tasa se devengará cuando se celebren u organicen.
+
+c) En las combinaciones aleatorias gratuitas, la tasa se devengará cuando comience la promoción o acción publicitaria.
+
+6\. Pago:
+
+a) En las rifas, tómbolas, apuestas y combinaciones aleatorias, los sujetos pasivos vendrán obligados a presentar la autoliquidación de las mismas en el plazo de los veinte primeros días naturales del mes siguiente a aquel en el que se produzca el devengo, sin perjuicio de que los sujetos pasivos puedan obtener y presentar el pago telemáticamente.
+
+b) En las apuestas deportivas de pelota, el sujeto pasivo deberá comunicar a la Dirección General de Tributos, cinco días hábiles antes del primer acontecimiento deportivo de cada festival, la relación de partidos que se pretenda organizar y las fechas de su celebración. Posteriormente, deberá presentar durante los días 1 al 20 de cada uno de los meses de abril, julio, octubre y enero de cada año o, en su caso, hasta el inmediato hábil siguiente, la autoliquidación de la tasa devengada correspondiente a la base imponible, debiendo efectuar simultáneamente el ingreso de dicho importe, sin perjuicio de la verificación y comprobación por la Administración del artículo 120 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+### CAPÍTULO V — Canon de saneamiento
+
+##### Artículo 34. Modificación de la Ley 5/2000, de 25 de octubre, de Saneamiento y Depuración de Aguas Residuales de La Rioja.
+
+Uno. Se modifica el artículo 31, que queda redactado en los siguientes términos:
+
+«Artículo 31. Financiación.
+
+Las inversiones necesarias para la realización de las actuaciones de interés general previstas en el artículo 5 de la presente ley, las necesarias para garantizar el abastecimiento de agua, así como los gastos de mantenimiento y explotación de los servicios de saneamiento y depuración y los derivados del control de los vertidos se financiarán con el producto del canon de saneamiento regulado en este capítulo, así como por las cantidades que a tal efecto se autoricen en los presupuestos de gastos de las administraciones públicas competentes.»
+
+Dos. Se modifica el artículo 32, que queda redactado en los siguientes términos:
+
+«Artículo 32. Canon de saneamiento.
+
+El canon de saneamiento es un tributo propio de la Comunidad Autónoma de La Rioja, de naturaleza impositiva, que se regirá por las disposiciones establecidas en esta ley y, en su defecto, por la Ley General Tributaria, cuya recaudación se destinará a financiar las actividades de saneamiento, depuración y abastecimiento, así como programas medioambientales vinculados a la calidad de las aguas.»
+
+Tres. Se modifica el artículo 35.1.b), que queda redactado en los siguientes términos:
+
+«b) El consumo de agua para riego agrícola y de césped de uso expreso para la actividad deportiva.»
+
+Cuatro. El coeficiente 0,47 fijado en los apartados 2 y 3 del artículo 40 será sustituido desde el día 1 de enero de 2013 por el coeficiente 0,48.
+
+### CAPÍTULO VI — Impuesto sobre los grandes establecimientos comerciales
+
+#### Sección 1.ª Creación y objeto del impuesto
+
+##### Artículos 35 y 36.
+
+**(Derogados)**.
+
+> Se derogan por los arts. 45 y disposición derogatoria única de la Ley 6/2015, de 29 de diciembre. [Ref. BOE-A-2016-392](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-392).
+
+#### Sección 2.ª Hecho imponible y exenciones
+
+##### Artículos 37 y 38.
+
+**(Derogados)**.
+
+> Se deroga por los arts. 45 y disposición derogatoria única de la Ley 6/2015, de 29 de diciembre. [Ref. BOE-A-2016-392](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-392).
+
+#### Sección 3.ª Sujeto pasivo
+
+##### Artículo 39.
+
+**(Derogado)**.
+
+> Se deroga por los arts. 45 y disposición derogatoria única de la Ley 6/2015, de 29 de diciembre. [Ref. BOE-A-2016-392](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-392).
+
+#### Sección 4.ª Base imponible, base liquidable y cuota
+
+##### Artículos 40 a 42.
+
+**(Derogados)**.
+
+> Se deroga por los arts. 45 y disposición derogatoria única de la Ley 6/2015, de 29 de diciembre. [Ref. BOE-A-2016-392](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-392).
+
+#### Sección 5.ª Periodo impositivo y devengo del impuesto
+
+##### Artículo 43. Periodo impositivo y devengo.
+
+**(Derogado)**.
+
+> Se deroga por los arts. 45 y disposición derogatoria única de la Ley 6/2015, de 29 de diciembre. [Ref. BOE-A-2016-392](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-392).
+
+#### Sección 6.ª Gestión, inspección y recaudación del impuesto
+
+##### Artículos 44 a 48.
+
+**(Derogados)**.
+
+> Se derogan por los arts. 45 y disposición derogatoria única de la Ley 6/2015, de 29 de diciembre. [Ref. BOE-A-2016-392](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-392).
+
+### CAPÍTULO VII — Impuesto de la Comunidad Autónoma de La Rioja sobre la eliminación de residuos en vertederos
+
+##### Arts. 49 a 62 bis.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley 10/2017, de 27 de octubre. [Ref. BOE-A-2017-13750](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13750)
+
+### CAPÍTULO VIII — Impuesto sobre el impacto visual producido por los elementos de suministro de energía eléctrica y elementos fijos de redes de comunicaciones telefónicas o telemáticas
+
+##### Arts. 63 a 75.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria única de la Ley 10/2017, de 27 de octubre. [Ref. BOE-A-2017-13750](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13750)
+
+### CAPÍTULO IX — Tasas
+
+##### Artículo 76. Modificación de la Ley 6/2002, de 18 de octubre, de tasas y precios públicos de la Comunidad Autónoma de La Rioja.
+
+Uno. Tasa 05.19. Tasa por servicios en materia de calidad ambiental.
+
+Quedan modificados los apartados «Hecho imponible» y «Tarifas», en relación con las tarifas 9 a 12 de la tasa, que quedan redactados en los siguientes términos:
+
+«Hecho imponible:
+
+9\. Inscripción en el registro de calidad del suelo.
+
+10\. Inscripción en el registro de actividades de producción de residuos.
+
+11\. Autorización de actividades de gestión de residuos.
+
+12\. Inscripción en el registro de actividades de gestión de residuos.»
+
+«Tarifas:
+
+| 05.19.09 | Inscripción en el Registro de calidad del suelo. | Actividad potencialmente contaminante del suelo. | 94 |
+|---|---|---|---|
+| 05.19.10 | Inscripción en el Registro de actividades de producción de residuos. | Instalaciones de producción de residuos peligrosos a instancia de parte. | 79 |
+|  |  | Actividades de construcción y mantenimiento de edificios e instalaciones en las que se generen residuos peligrosos. | 79 |
+|  |  | Actividades de producción de residuos no peligrosos. | 79 |
+| 05.19.11 | Autorización de actividad de gestión de residuos. | Centro de recogida y almacenamiento de residuos. | 307 |
+|  |  | Instalaciones de preparación y manipulación de residuos. | 585 |
+|  |  | Centros de tratamiento de vehículos al final de la vida útil. | 585 |
+|  |  | Tratamiento de aparatos eléctricos y electrónicos. | 585 |
+|  |  | Tratamiento de RCD. | 585 |
+|  |  | Instalaciones de tratamiento final, valorización y eliminación final de residuos (vertederos de inertes). | 585 |
+|  |  | Explotadores de instalaciones de tratamiento de residuos. | 408 |
+|  |  | Tratamiento de residuos en suelos: Aplicadores de lodos y material orgánico biodegradable en suelos. | 408 |
+|  |  | Utilización de residuos inertes en obras de construcción, almacenamiento y relleno. | 408 |
+|  |  | Autorización de actividades de valorización de residuos de construcción y demolición en la propia obra. | 408 |
+|  |  | Sistemas colectivos de responsabilidad ampliada del productor. | 535 |
+|  |  | Importación-exportación de residuos. | 175 + 0,75€ por n.º de toneladas importadas |
+| 05.19.12 | Inscripción en el Registro de actividades de gestión de residuos. | Transporte de residuos con carácter profesional. | 79 |
+|  |  | Negociantes. | 79 |
+|  |  | Agentes. | 79 |
+|  |  | Sistema individual de responsabilidad ampliada. | 79» |
+
+Dos. Tasa 05.04. Tasa por la prestación del servicio de laboratorio de análisis agrarios.
+
+Se modifica la denominación y regulación de la tasa, que queda redactada en los siguientes términos:
+
+«Tasa 05.04. Tasa por la prestación de los servicios relacionados con la producción agrícola.
+
+Hecho imponible.
+
+Constituye el hecho imponible de la tasa la prestación, por la consejería con competencias en materia de Agricultura del Gobierno de La Rioja, de los servicios y trabajos que se expresan en las tarifas de este capítulo.
+
+Sujeto pasivo.
+
+Serán sujetos pasivos de esta tasa las personas físicas o jurídicas y las entidades a que se refiere el artículo 17.2 de esta ley, a las que se presten los servicios o trabajos señalados en las tarifas, bien a petición del interesado o de oficio por la Administración.
+
+Devengo.
+
+1\. En el caso de que medie solicitud, el devengo se realizará al producirse aquella.
+
+2\. Si se presta de oficio por la Administración, el devengo se realizará al prestarse el servicio o trabajo.
+
+3\. En aquellos casos en que por su complejidad no sea posible la liquidación de la tasa en el momento mismo de producirse el devengo, de acuerdo con lo dispuesto en los números anteriores, la Administración, previa valoración del hecho imponible, practicará la subsiguiente liquidación, que deberá ser debidamente notificada al interesado, con expresión de los plazos para su pago voluntario de conformidad con lo establecido en el artículo 31 de la presente ley.
+
+Tarifas.
+
+Las tasas se exigirán de acuerdo con las siguientes tarifas:
+
+1\. Laboratorio Estación Enológica. Certificados y diligencias:
+
+1.1 Análisis para la exportación: 7,42 €.
+
+1.2 Lacres y derechos de certificación: 7,42 €.
+
+1.3 Duplicado de documentos por unidad: 7,42 €.
+
+1.4 Diligencias:
+
+1.4.1 Diligencia de cata: 7,42 €.
+
+1.4.2 Diligencia de características del vino: 7,42 €.
+
+1.4.3 Diligencia de grado alcohólico: 7,42 €.
+
+1.5 Diligencia de variación de cajas: 7,42 €.
+
+2\. Sanidad vegetal y semillas:
+
+2.1 Inscripción de registros oficiales de establecimientos y servicios de plaguicidas:
+
+2.1.1 Fabricantes e importadores: 24,72 €.
+
+2.1.2 Vendedores y aplicadores: 12,36 €.
+
+2.2 Por renovación de la inscripción en registros oficiales de establecimientos y servicios de plaguicidas:
+
+2.2.1 Fabricantes e importadores: 12,36 €.
+
+2.2.2 Vendedores y aplicadores: 7,43 €.
+
+2.3 Apertura y sellado de libros:
+
+2.3.1 Por apertura y sellado de libros oficiales de movimiento de productos tóxicos: 7,43 €.
+
+2.3.2 Por inspección y revisión del libro oficial de movimiento de productos tóxicos: 24,71 €.
+
+2.3.3 Por certificados e informes relativos a la sanidad vegetal de los diferentes cultivos: 7,43 €.
+
+2.4 Por inscripción en registros oficiales de fertilizantes, semillas y viveros:
+
+2.4.1 Fabricantes importadores y mayoristas: 24,72 €.
+
+2.4.2 Minoristas: 12,36 €.
+
+2.5 Por renovación de la inscripción en registros oficiales de fertilizantes, semillas y viveros:
+
+2.5.1 Fabricantes importadores y mayoristas: 12,36 €.
+
+2.5.2 Minoristas: 7,43 €.
+
+2.6 Apertura y sellado de libros:
+
+2.6.1 Apertura y sellado de libros de semillas: 7,43 €.
+
+2.7 Certificados e inspecciones:
+
+2.7.1 Por certificados e informes relativos a semillas y plantas de vivero: 7,43 €
+
+2.7.2 Por la inspección con un posible levantamiento de actas: 30,89 €.»
+
+Tres. Tasa 05.09. Tasa por la prestación del servicio de retirada de cadáveres de animales.
+
+Queda derogada la tasa 05.09 por la prestación del servicio de retirada de cadáveres de animales de la Ley 6/2002, de 18 de octubre, de Tasas y Precios Públicos de la Comunidad Autónoma de La Rioja.
+
+Cuatro. Tasa 06.04. Tasa por servicios sanitarios.
+
+Se suprime la tarifa 3.4. Por expedición del carnet de manipulador de alimentos.
+
+Se añade una nueva tarifa 3.6 con la siguiente redacción:
+
+«3.6 Por expedición de certificados relativos al registro general sanitario de empresas alimentarias y alimentos: 10 €.»
+
+Se modifica la denominación de la tarifa 4.9, sin modificación de su importe, y queda redactada en los siguientes términos:
+
+«4.9 Por autorización de traslado de carne de reses de lidia.»
+
+Cinco. Tasa 09.09. Tasa por informes y otras actuaciones de la Consejería de Obras Públicas, Transportes, Urbanismo y Vivienda.
+
+Se modifica el título de la tasa y el hecho imponible, que quedan redactados del siguiente modo:
+
+«Tasa 09.09. Tasa por informes y otras actuaciones de la Consejería de Obras Públicas, Política Local y Territorial.
+
+Hecho imponible.
+
+1\. Constituye el hecho imponible de esta tasa la prestación de servicios proporcionados por los distintos órganos de la Consejería, y por las oficinas de asistencia a los pequeños municipios, consistentes en la emisión de informes técnicos, expedición de certificaciones, compulsas, diligenciado y sellado de planeamientos, elaboración de informes generales y demás actuaciones facultativas que deban realizarse en las tramitaciones instadas por entidades, empresas o particulares en materia de obras públicas, política local, vivienda, urbanismo y minas, o cuando hayan de efectuarse como consecuencia de disposiciones en vigor o de los propios términos de la concesión o de las autorizaciones otorgadas.
+
+2\. Quedan exceptuados de esta tasa los informes que tengan específicamente señalada una tasa especial.»
+
+Seis. Se suprime la tasa 09.10. Tasa para la acreditación de laboratorios de ensayos para el control de calidad de la edificación.
+
+Siete. Tasa 09.13. Tasa por servicios comunes a las áreas de obras públicas, política local, urbanismo y minas, relativas a expropiación.
+
+Se modifica la denominación y el hecho imponible de la tasa, que quedan redactados del siguiente modo:
+
+«Tasa 09.13. Tasa por servicios comunes a las áreas de obras públicas, política local, vivienda, urbanismo y minas, relativas a expropiación.
+
+Hecho imponible.
+
+Constituyen el hecho imponible de esta tasa los servicios comunes a las áreas de obras públicas, política local, vivienda, urbanismo y minas, precisos para la declaración de utilidad pública y ocupación así como por acta de ocupación o imposición de servidumbre.»
+
+Ocho. Tasa 14.04. Tasa del «Boletín Oficial de La Rioja».
+
+Se modifica el apartado correspondiente a las tarifas, que queda redactado del modo siguiente:
+
+«Tarifas.
+
+Los conceptos sujetos a esta tasa tributarán conforme a la siguiente tarifa: por cada página del anuncio en formato pdf, o fracción, 50 €.»
+
+Nueve. Se crea la tasa 14.09, con el siguiente contenido:
+
+«Tasa 14.09. Tasa por inscripción y expedición de certificados en el Registro de Parejas de Hecho de La Rioja.
+
+Hecho imponible.
+
+Constituyen el hecho imponible de esta tasa:
+
+a) Las inscripciones básica, complementaria y las notas marginales del Registro de Parejas de Hecho de La Rioja, de aquellas parejas que cumplan los requisitos establecidos en el Decreto 30/2010, de 14 de mayo, de creación del Registro de Parejas de Hecho de La Rioja.
+
+b) La expedición de los certificados de estar inscritos en el Registro de Parejas de Hecho de la Comunidad Autónoma de La Rioja.
+
+Para el ejercicio de cualquier derecho y obligaciones que la legislación vigente otorga a las parejas de hecho, o para poder beneficiarse de otros servicios que reconozca la normativa sectorial, las parejas de hecho deben estar inscritas en el Registro correspondiente, y no constar el asiento de baja o cancelación del mismo.
+
+Exenciones.
+
+Están exentas las solicitudes de cancelación de la pareja en el Registro de Parejas de Hecho.
+
+Sujetos pasivos.
+
+Son sujetos pasivos de la tasa, a título de contribuyentes, las personas físicas que soliciten cualquiera de los servicios que constituyen el hecho imponible.
+
+Devengo.
+
+El devengo de la tasa se producirá cuando se presente formalmente la solicitud que inicia la actuación del Registro, que no se realizará sin que se haya efectuado el pago correspondiente.
+
+Tarifas.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+1\. Inscripciones básicas, complementarias y notas marginales:
+
+1.1 Por la tramitación de los expedientes de solicitud de inscripciones básicas. 50,00 €.
+
+1.2 Por la tramitación de los expedientes de solicitud de inscripciones complementarias o notas marginales: 35,00 €.
+
+2\. Por la expedición de Certificados de inscripción:
+
+2.1 Por la tramitación de certificados acreditativos de estar inscrito en el Registro de Parejas de Hecho de la Comunidad Autónoma de La Rioja. 12,00 €.
+
+2.2 Por la tramitación de certificados acreditativos de estar inscrito en el Registro de Parejas de Hecho de la Comunidad Autónoma de La Rioja que surtan efectos en el extranjero. 21,00 €.»
+
+Diez. Tasa 19.10. Tasa de acceso al procedimiento de reconocimiento de competencias profesionales adquiridas por experiencia laboral.
+
+Se modifica el contenido de la tasa, que queda redactada en los siguientes términos:
+
+«Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación de los servicios correspondientes al procedimiento de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+
+Sujetos pasivos.
+
+Serán sujetos pasivos de esta tasa las personas físicas a las que se presten los servicios señalados en las tarifas.
+
+Devengo.
+
+El devengo se producirá en el momento en que el sujeto pasivo quede admitido y seleccionado para la prestación del servicio.
+
+Tarifas.
+
+1\. General: 17,20 € por unidad de competencia solicitada.
+
+2\. Para miembros de familia numerosa de categoría general: 8,60 € por unidad de competencia solicitada.
+
+3\. Para miembros de familia numerosa de categoría especial: 0 €.
+
+Exenciones.
+
+Estarán exentos del abono de esta tasa los solicitantes que acrediten estar en situación de desempleo en el momento de formalizar su solicitud.»
+
+Once. Se crea la Tasa 19.11, con el siguiente contenido:
+
+«Tasa para la acreditación y/o inscripción de centros y/o entidades de formación para el empleo, con el siguiente contenido:
+
+Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación por la Consejería de Industria, Innovación y Empleo del Gobierno de La Rioja de los servicios para la acreditación y/o inscripción de centros y/o entidades de formación en los Registros regulados en la Orden 24/2009, de 11 de mayo, de la Consejería de Industria, Innovación y Empleo y por Resolución de 29 de julio de 2010 del Servicio Público de Empleo Estatal.
+
+Sujetos pasivos.
+
+Serán sujetos pasivos de esta tasa los centros y/o entidades de formación que soliciten su inscripción en el Registro de Entidades de Formación o en el Registro de Centros de Formación conforme a lo establecido en la Orden 24/2009, de 11 de mayo, de la Consejería de Industria, Innovación y Empleo y por Resolución de 29 de julio de 2010 del Servicio Público de Empleo Estatal.
+
+Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud.
+
+Tarifas.
+
+Las tarifas, calculadas de conformidad con los costes reales derivados de los servicios prestados, serán las siguientes:
+
+1\. Tarifa por solicitud de inscripción y/o acreditación en el Registro de Entidades de Formación.
+
+Tasa base: 180 € (incluye la primera especialidad).
+
+Tasa variable: 30 € por cada especialidad adicional.
+
+2\. Tarifa por solicitud de inscripción y/o acreditación en el Registro de Centros de Formación.
+
+Tasa base: 180 € (incluye la primera especialidad).
+
+Tasa variable: 30 € por cada especialidad adicional.
+
+Exenciones.
+
+No hay previstas exenciones al pago de esta tasa.»
+
+## TÍTULO II — Medidas administrativas
+
+### CAPÍTULO I — Medidas administrativas en materia de contratación de la Comunidad Autónoma de La Rioja
+
+##### Artículo 77. Declaración de interés público de las modificaciones de contratos con el objetivo de alcanzar la estabilidad presupuestaria.
+
+A efectos de lo dispuesto por la legislación de contratos del sector público, se considerarán razones de interés público las modificaciones de contratos administrativos que se lleven a cabo durante el ejercicio presupuestario de 2013 derivadas de la adopción de medidas que tengan como objetivo el logro de la estabilidad presupuestaria. Dicha previsión se incorporará al texto de los pliegos de cláusulas administrativas o se establecerá en el anuncio de la licitación.
+
+### CAPÍTULO II — Medidas administrativas en materia de vivienda
+
+##### Artículo 78. Modificación de la Ley 2/2007, de 1 de marzo, de Vivienda de la Comunidad Autónoma de La Rioja.
+
+Uno. Se suprime el apartado 3 del artículo 45 y se modifica su apartado 2, que queda redactado en los siguientes términos:
+
+«2. Reglamentariamente se determinarán las exenciones al cumplimiento de los requisitos de acceso básicos contemplados en el apartado 1 de este artículo.»
+
+Dos. Se añade un nuevo apartado 24 al artículo 74 con el siguiente contenido:
+
+«24. Promover viviendas sin tramitar, durante la fase de ejecución de las obras de construcción, el procedimiento de habitabilidad establecido para obtener la cédula de habitabilidad.»
+
+### CAPÍTULO III — Medidas administrativas en materia de caza
+
+##### Artículo 79. Modificación de la Ley 9/1998, de 2 de julio, de Caza de La Rioja.
+
+Se añaden los apartados 3 y 4 al artículo 13 de la ley con en el siguiente contenido:
+
+«3. Para facilitar el ejercicio de las oportunas reclamaciones por los daños producidos por las especies cinegéticas, los ciudadanos tienen derecho a que la consejería competente en materia de caza les informe acerca de la identidad de los titulares de los derechos cinegéticos, así como la de los aprovechamientos autorizados.
+
+4\. A los efectos previstos en el apartado anterior, podrán habilitarse mecanismos, que deberán actualizarse periódicamente, que permitan la pública difusión de la información relativa a la identidad de los titulares de los derechos cinegéticos, así como la de los aprovechamientos autorizados. Una vez producida la difusión pública, la Administración no tendrá obligación de facilitar más información a los interesados, sin perjuicio de la obligación de atender a los posibles requerimientos de los órganos jurisdiccionales en el ejercicio de sus funciones.»
+
+### CAPÍTULO IV — Medidas administrativas en materia de vías pecuarias
+
+##### Artículo 80. Plazo máximo del procedimiento para la aprobación y el deslinde de vías pecuarias.
+
+En el plazo máximo de un año desde el inicio del procedimiento de clasificación y deslinde de una vía pecuaria se deberá dictar resolución expresa del consejero competente en materia de Medio Ambiente, notificarla y publicarla en el «Boletín Oficial de La Rioja».
+
+Reglamentariamente podrá establecerse un plazo de resolución menor para los procedimientos abreviados de deslinde que podrán emplearse cuando conste la conformidad expresa de todas las entidades, colectivos o particulares interesados, bien en la solicitud de inicio o en cualquier momento del procedimiento.
+
+### CAPÍTULO V — Medidas administrativas en materia de industrias agroalimentarias
+
+##### Artículo 81. Habilitación para regular el Registro de Industrias Agroalimentarias.
+
+Se habilita al Gobierno de La Rioja para regular reglamentariamente el Registro de Industrias Agroalimentarias de la Comunidad Autónoma de La Rioja, estableciendo un sistema de inscripción basado en una comunicación previa, así como las causas que determinen la suspensión temporal o definitiva de las inscripciones en el citado registro.
+
+### CAPÍTULO VI — Medidas administrativas en materia de patrimonio forestal
+
+##### Artículo 82. Modificación de la Ley 2/1995, de 10 de febrero, de Protección y Desarrollo del Patrimonio Forestal de La Rioja.
+
+Uno. Se modifica el contenido del artículo 28, que queda redactado en los siguientes términos:
+
+«1. La declaración de árbol singular se hará mediante orden del titular de la consejería competente en materia de Medio Ambiente, previo procedimiento administrativo en el que deberán ser oídos los propietarios y la entidad local donde radiquen.
+
+2\. La iniciación del expediente por la consejería competente en materia de Medio Ambiente se realizará de oficio o por iniciativa de particulares, de otras administraciones o de personas jurídicas.
+
+3\. Los árboles declarados singulares se incluirán en el Catálogo de Árboles Singulares de La Rioja, que será un registro administrativo de carácter público en el que se inscribirán los árboles que hayan sido declarados singulares.
+
+4\. El catálogo incluirá para los árboles que se declaren los siguientes datos: número de identificación, nombre del árbol, especie, número ejemplares, término municipal, localización y motivo de la singularidad.
+
+5\. Cuando existan condiciones favorables para la accesibilidad a los árboles incluidos en el catálogo, se podrá señalizar en el terreno mediante hitos o carteles que indiquen su condición de árbol singular, así como sus características principales.
+
+6\. Cuando desaparezcan las circunstancias que motivaron la inclusión de un árbol en el Catálogo de Árboles Singulares, será excluido del mismo mediante expediente tramitado de forma similar al que se siguió para su declaración como árbol singular.
+
+7\. El planeamiento urbanístico deberá incluir las medidas necesarias en relación con la clasificación del suelo y la normativa para la conservación de los árboles singulares situados en su término municipal.»
+
+Dos. Se modifica el contenido del artículo 29, que queda redactado en los siguientes términos:
+
+«1. Se prohíbe la corta de ejemplares arbóreos incluidos en el catálogo, velando la consejería competente en materia de Medio Ambiente por su protección, y pudiendo colaborar con los propietarios de los mismos en su conservación.
+
+2\. Cualquier tipo de actuación sobre los árboles singulares, como poda, descortezado, excavación u otras, que pueda afectar a su estado vegetativo, a su viabilidad o a su puesta en valor, deberá contar con la autorización de la consejería competente en materia de Medio Ambiente. En casos extraordinarios, se podrá autorizar su corta para evitar daños a la salud o riesgos sobre la seguridad de las personas. Los propietarios de los árboles singulares permitirán el acceso a los mismos a los técnicos y a los agentes forestales de la Administración.
+
+3\. La consejería competente en materia de Medio Ambiente dispondrá de una memoria técnica sobre las características físicas, información histórica y cultural, propiedad y estado de conservación de cada árbol singular. Dentro de esta memoria técnica se incluirá un programa de mantenimiento donde se definirán las medidas necesarias para garantizar su conservación, y que se realizarán en colaboración con el propietario del árbol.»
+
+### CAPÍTULO VII — Medidas administrativas en materia de protección del medio ambiente
+
+##### Artículo 83. Modificación de la Ley 5/2002, de 8 de octubre, de Protección del Medio Ambiente de La Rioja.
+
+Se añaden al artículo 25 los apartados 4 y 5 siguientes:
+
+«4. Quedarán exceptuadas de la obtención de licencia ambiental:
+
+a) Aquellas actividades comerciales minoristas y prestación de servicios que queden exceptuadas por la normativa básica estatal.
+
+b) Aquellas actividades que por estar por debajo de determinados parámetros predeterminados en una orden aprobada por el titular de la consejería competente en materia de Medio Ambiente se considere que puedan producir una escasa incidencia en el medio ambiente o en la salud de las personas.
+
+5\. En los casos previstos en el apartado anterior, la licencia ambiental se sustituirá por una declaración responsable o una comunicación previa que contenga una manifestación explícita del cumplimiento de los requisitos exigibles según la normativa vigente, incluyendo la posesión de proyecto firmado por técnico competente cuando sea necesario según la normativa sectorial que resulte de aplicación.»
+
+### CAPÍTULO VIII — Medidas administrativas en materia de fincas abandonadas
+
+##### Artículo 84. Procedimiento para la declaración de finca abandonada y efectos.
+
+1\. Se considera finca abandonada una parcela, o parte de ella, ocupada por cultivos leñosos cuando concurran las siguientes circunstancias de forma acumulada:
+
+a) Presencia importante de plagas o enfermedades que puedan afectar al cultivo.
+
+b) La no realización de la poda adecuadamente.
+
+c) La constancia de no ejecución de ninguna práctica de cultivo o mínimo laboreo o ausencia de una cubierta vegetal adecuada desde el punto de vista medioambiental.
+
+2\. Se exceptúan de lo indicado en el apartado anterior aquellas parcelas que se encuentren en proceso de concentración parcelaria, desde el inicio de las obras de la red de caminos principales hasta que hayan transcurrido seis meses a partir de la toma de posesión de las nuevas parcelas por parte de sus propietarios.
+
+3\. El procedimiento de declaración de finca de cultivos leñosos abandonada se realizará de conformidad con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, teniendo en cuenta las siguientes especialidades:
+
+a) El procedimiento de declaración de finca de cultivos leñosos abandonada se iniciará siempre de oficio por resolución del órgano dependiente del Gobierno de La Rioja con competencias en materia de protección de cultivos, bien por propia iniciativa, a petición razonada de otros órganos o por denuncia.
+
+La denuncia deberá contener referencia al polígono, parcela y otros datos de interés que permitan identificar la finca que se pretende declarar abandonada así como a su propietario.
+
+Si la denuncia la recibe un ayuntamiento, deberá completar los datos relativos a la finca y su propietario y remitirla a la consejería con competencias en la materia.
+
+Recibida la denuncia y con carácter previo al inicio del procedimiento, se girará visita a la finca en cuestión para verificar que concurren las circunstancias a las que se hace referencia en el apartado primero y que está justificada la tramitación del expediente.
+
+b) La resolución de inicio será notificada al propietario de la finca al objeto de que pueda plantear alegaciones. Para la tramitación del procedimiento se podrá requerir la colaboración del ayuntamiento correspondiente al término municipal donde esté ubicada la finca al objeto de obtener aquellos datos necesarios para que la consejería con competencias en materia de protección de cultivos pueda desempeñar estas labores de control.
+
+En caso de que no pudiera identificarse al propietario, se publicará el inicio del procedimiento en el «Boletín Oficial de La Rioja» y en el tablón de anuncios del ayuntamiento donde esté ubicada la finca, con referencia al polígono, parcela y otros datos de interés que permitan su identificación.
+
+c) La resolución por la que concluya el procedimiento se dictará por el director general con competencias en materia de protección de cultivos en el plazo máximo de seis meses desde su inicio y deberá notificarse al propietario de la finca. Transcurrido el plazo máximo sin que se hubiera dictado resolución, se producirá la caducidad del mismo y el archivo del expediente.
+
+d) La resolución por la que se declare la finca como abandonada se notificará al propietario para que proceda al nuevo cultivo de la finca o al arranque del cultivo leñoso a su costa en el plazo de seis meses.
+
+e) En caso de desconocimiento del propietario, la resolución por la que se declara la finca abandonada acordará el arranque de la plantación a costa de la Administración, sin perjuicio de que la futura identificación del responsable haga posible repercutirle los costes.
+
+En este caso la resolución deberá publicarse en el «Boletín Oficial de La Rioja» y en el tablón de anuncios del ayuntamiento donde esté ubicada la finca, con indicación del polígono, parcela y término municipal, así como otras circunstancias que permitan su identificación.
+
+4\. Le corresponde a la consejería con competencias en materia de protección de cultivos realizar los controles y las inspecciones necesarias al objeto de verificar que se han ejecutado las medidas correctoras propuestas.
+
+5\. En caso de incumplimiento por parte del propietario, la Administración ejecutará el arranque del cultivo leñoso de la finca declarada abandonada y repercutirá los gastos de arranque al propietario de la finca, que, además, podrá ser declarado responsable de incurrir en la comisión de una infracción en materia de sanidad vegetal, previa tramitación del procedimiento sancionador.
+
+6\. Se faculta al Gobierno de La Rioja para el desarrollo reglamentario del procedimiento fijado en el presente artículo para la declaración de finca abandonada.
+
+### CAPÍTULO IX — Acción administrativa en materia de juego
+
+##### Artículo 85. Modificación de la Ley 5/1999, de 13 de abril, del Juego y Apuestas de La Rioja.
+
+Uno. Los apartados 1 y 3 del artículo 14 quedan redactados como sigue:
+
+«1. A efectos de esta ley se consideran máquinas de juego los aparatos manuales o automáticos que a cambio de un precio permiten el mero pasatiempo o recreo del jugador o la obtención por este de un premio, y clasificables en los tipos siguientes:
+
+a) Tipo “A” o máquinas recreativas. Son las de mero pasatiempo o recreo, que se limitan a conceder al usuario un tiempo de uso o de juego a cambio del precio de la partida, sin que puedan conceder ningún premio en metálico ni en especie. Dichas máquinas podrán conceder la devolución del importe de la partida o la posibilidad de continuar jugando con el importe inicial en función de la habilidad del jugador.
+
+Tipo “A1” o máquinas de premios en especie. Son aquellas que, aparte de proporcionar un tiempo de uso o de juego a cambio del precio de la partida, pueden conceder un premio directo en especie o mediante una cantidad de vales, bonos o similares, en función de la habilidad o destreza del jugador.
+
+b) Tipo “B” o máquinas recreativas con premio. Son aquellas máquinas que a cambio del precio de la jugada conceden al usuario un tiempo de uso y, si se produce una combinación ganadora, un premio en metálico, cuyo valor no podrá exceder del límite fijado reglamentariamente.
+
+c) Tipo “C” o máquinas de azar. Son las que, de acuerdo con las características y límites que reglamentariamente se establezcan, a cambio de un precio, conceden al usuario un tiempo de uso o y, eventualmente, un premio en metálico de cuantía superior a las máquinas reguladas en el apartado anterior, que dependerá siempre del azar.
+
+d) Tipo “D” o máquinas especiales de juego del bingo. Son aquellas máquinas basadas en las combinaciones del juego del bingo que, a cambio del precio de la partida o jugada, pueden conceder al usuario un tiempo de uso o juego y, eventualmente, un premio en metálico, de acuerdo con una distribución previamente establecida.
+
+e) Aquellas otras máquinas, manuales o automáticas, que permitan la obtención de premios combinando modalidades, elementos o mecanismos de diferentes juegos regulados en esta ley, y que no estén señaladas en los tipos anteriores, podrán clasificarse como tipo diferenciado y la reglamentación específica determinará su régimen jurídico y ámbito de aplicación.
+
+f) El Catálogo de Juegos y Apuestas podrá incorporar a la clasificación anterior otros tipos o subtipos de máquinas de juego que, por sus características especiales, no estuvieran exactamente identificadas o comprendidas en la tipificación anterior.
+
+3\. Aquellas máquinas que ofrezcan premios en metálico o en especie deberán cumplir, al menos, con los siguientes requisitos:
+
+a) La previa homologación e inscripción de su correspondiente prototipo o modelo en el Registro General del Juego.
+
+b) Llevar incorporadas las marcas de fábrica o placas de identidad que reglamentariamente se establezcan.
+
+c) Las máquinas de juego con premio en metálico llevarán incorporado, en lugar bien visible, un cartel con las siguientes inscripciones: “prohibido su uso por menores de edad” y “la práctica abusiva del juego en esta máquina puede crear adicción”.
+
+d) Obtener la autorización de explotación, que acreditará la legalidad del modelo, fabricante y operador de la misma. Su transmisión deberá ser autorizada por el órgano competente de la Administración.»
+
+### CAPÍTULO X — Medidas administrativas en materia de comercio
+
+##### Artículo 86. Modificación de la Ley 3/2005, de 14 de marzo, de Ordenación de la Actividad Comercial y las Actividades Feriales en la Comunidad Autónoma de La Rioja.
+
+La Ley 3/2005, de 14 de marzo, de Ordenación de la Actividad Comercial y las Actividades Feriales en la Comunidad Autónoma de La Rioja, de conformidad con lo dispuesto en la legislación básica de ordenación de la actividad comercial, queda modificada como sigue:
+
+Uno. Se suprime el apartado 8 del artículo 19.
+
+Dos. El artículo 44 queda redactado del siguiente modo:
+
+«1. El comerciante no podrá limitar el número de unidades del producto o productos promocionados que pueda adquirir cada comprador ni aplicar precios mayores o menores descuentos a medida que sea mayor la cantidad adquirida.
+
+2\. Cuando la oferta no sea suficiente para satisfacer toda la demanda, no se podrán establecer criterios discriminatorios de preferencias entre los compradores.
+
+3\. Cuando las promociones no alcancen a la mitad del inventario no podrán anunciarse como una medida general.
+
+4\. Las actividades de promoción de ventas podrán simultanearse en un mismo establecimiento comercial, excepto en los supuestos de venta en liquidación, siempre y cuando los artículos promocionados estén claramente delimitados y anunciados visiblemente por separado del resto de los artículos y del resto de las promociones que puedan concurrir en el establecimiento.»
+
+Tres. El artículo 48 queda redactado del siguiente modo:
+
+«1. A los efectos de esta ley, se considera venta en rebajas aquella en la que los artículos objeto de la misma se ofertan en el establecimiento donde se ejerce habitualmente la actividad comercial, a un precio inferior al fijado con anterioridad, con la duración que decida libremente cada comerciante.
+
+2\. Las ventas en rebajas podrán tener lugar en los periodos estacionales de mayor interés comercial según el criterio de cada comerciante.
+
+3\. Queda prohibida la utilización de la denominación de venta en rebajas en relación con artículos deteriorados, artículos adquiridos para esta finalidad y artículos que no estuvieran incluidos con anterioridad en la oferta habitual de ventas del establecimiento.»
+
+Cuatro. El artículo 51 queda redactado del siguiente modo:
+
+«1. En el supuesto de que las ventas con rebajas no afecten a la totalidad de los productos comercializados, los rebajados estarán debidamente identificados y diferenciados del resto.
+
+2\. En el caso que se efectúen al mismo tiempo y en el mismo local ventas en rebajas y de saldos, deberán aparecer debidamente separadas con diferenciación de los espacios dedicados a cada una de ellas y anunciarse de manera precisa y ostensible cuando se trate de “venta de saldos”.»
+
+Cinco. El artículo 53 queda redactado del siguiente modo:
+
+«1. Los productos objeto de las ventas en liquidación deberán formar parte de las existencias del establecimiento y haber integrado la oferta comercial ordinaria del establecimiento.
+
+2\. Para que pueda tener lugar una liquidación será preciso que, con quince días de antelación, se comunique dicha decisión a la consejería competente en materia de Comercio, precisando la causa de la misma, fecha de comienzo, duración de la misma y relación de mercancías.
+
+3\. La duración máxima de la venta en liquidación será de un año.
+
+4\. Los anuncios de las ventas en liquidación deberán indicar la causa de esta y la fecha de inicio y finalización.»
+
+Seis. El artículo 54 queda redactado del siguiente modo:
+
+«1. Se considera venta de saldos la de productos cuyo valor de mercado aparezca manifiestamente disminuido a causa del deterioro, desperfecto, desuso u obsolescencia de los mismos, sin que un producto tenga esta consideración por el solo hecho de ser un excedente de producción o de temporada.
+
+2\. No cabe calificar como venta de saldos la de aquellos productos que no se venden realmente por precio inferior al habitual ni la de aquellos productos cuya venta bajo tal régimen implique riesgo o engaño para el comprador, estando el comerciante obligado a advertir al comprador por escrito y en lugar visible de las circunstancias concretas que concurran en los mismos.
+
+3\. La venta de saldos no podrá prolongarse una vez agotado el stock, debiendo cesar inmediatamente la publicidad al respecto.»
+
+Siete. El artículo 57 queda redactado del siguiente modo:
+
+«1. Se consideran ventas con descuento las que se realicen por precio inferior o en condiciones más favorables que las habituales con objeto de dar a conocer un nuevo producto, potenciar las ventas de los existentes o desarrollar uno o varios establecimientos.
+
+2\. Los productos con descuento podrán adquirirse para este exclusivo fin, no podrán estar deteriorados ni tampoco ser de peor calidad que los mismos productos que vayan a ser objeto de futura oferta a precio normal.
+
+3\. El comerciante deberá disponer de existencias suficientes para hacer frente a la oferta, durante al menos un día. Si llegaran a agotarse durante la promoción las existencias de algunos de los productos ofertados, el comerciante podrá prever el compromiso de la reserva del producto seleccionado durante un plazo determinado en las mismas condiciones y precio de la oferta. No obstante, si el comprador no estuviese conforme con dicha medida, o transcurriese el plazo de la reserva sin que el comerciante hubiese podido atender la demanda, el producto solicitado deberá sustituirse por otro de similares condiciones y características.»
+
+### CAPÍTULO XI — Medidas administrativas en materia de fundaciones
+
+##### Artículo 87. Modificación de la Ley 1/2007, de 12 de febrero, de Fundaciones de la Comunidad Autónoma de La Rioja.
+
+Se modifica la disposición adicional tercera de la Ley 1/2007, de 12 de febrero, de Fundaciones de la Comunidad Autónoma de La Rioja, que queda redactada en los siguientes términos:
+
+«Disposición adicional tercera. Fundaciones de carácter especial.
+
+Las fundaciones de carácter especial a las que se refiere el artículo 6 del Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las Cajas de Ahorros, que se constituyan como consecuencia de la transformación de una caja de ahorros domiciliada en la Comunidad Autónoma de La Rioja, y las reguladas en el artículo 83 de la Ley 6/2004, de 18 de octubre, de Cajas de Ahorros de La Rioja, se regirán por lo dispuesto en la presente ley y demás normativa aplicable, así como las que se dicten en desarrollo de las mismas. Las funciones de protectorado y registro de las fundaciones reguladas en el párrafo anterior serán ejercidas por la consejería competente en materia de Hacienda.»
+
+##### Disposición adicional primera. Deducción en las tasas y precios públicos de la Comunidad Autónoma de La Rioja por la utilización de medios telemáticos para su presentación y pago.
+
+Los sujetos pasivos de las tasas y los obligados al pago de los precios públicos de la Comunidad Autónoma de La Rioja que, previa habilitación reglamentaria del correspondiente procedimiento, presenten las declaraciones-liquidaciones y realicen el pago de su importe por medios telemáticos durante el año 2013 tendrán derecho a una deducción del 10% sobre el importe de la cuota en aplicación de las tarifas o precios establecidos en cada caso. La deducción no podrá superar en ningún caso el límite de 3 euros por cada cuota.
+
+##### Disposición adicional segunda. Transferencia de derechos de viñedo.
+
+1\. Con carácter excepcional, durante el año 2013, a quien resultare beneficiario para la autorización de transferencia de derechos de viñedo procedentes de otras comunidades autónomas para la plantación dentro de la Denominación de Origen Calificada Rioja, derivado de procedimientos promovidos por esta comunidad autónoma que se encuentren en tramitación a fecha de entrada en vigor de esta ley, se le podrá conceder, en sustitución de la autorización de transferencia, la adjudicación de derechos de la Reserva Regional de Viñedo previo abono, en su caso, del precio público que corresponda.
+
+2\. En la propuesta de resolución que se notifique a cada interesado se indicará dicha circunstancia con mención al derecho de manifestar en el plazo de quince días su preferencia por la obtención de la autorización de transferencia de derechos de viñedo procedentes de otras comunidades autónomas, en lugar de los derechos de la reserva a que se refiere el apartado anterior, en cuyo caso se dictará resolución en el sentido indicado por el interesado, siéndole de aplicación el resto de obligaciones y compromisos previstos en la normativa reguladora del procedimiento para la autorización de transferencia de derechos de viñedo de otras comunidades autónomas para la plantación dentro de la Denominación de Origen Calificada Rioja. La falta de alegaciones a la propuesta de la Administración será interpretada como la confirmación tácita del interesado a obtener derechos de la reserva en los términos previstos en el apartado primero.
+
+3\. Quien en virtud de la presente disposición adicional resulte adjudicatario de derechos de la Reserva Regional de Viñedo quedará sujeto a los compromisos que la normativa exige para beneficiarios de la Reserva Regional, así como los previstos en la propia normativa reguladora del procedimiento.
+
+4\. Los derechos de la Reserva Regional de Viñedo concedidos en virtud de la presente disposición adicional podrán emplearse exclusivamente para la plantación de viñedo de vinificación correspondiente a cualquiera de las variedades blancas amparadas por el Reglamento de la Denominación de Origen Calificada Rioja.
+
+5\. La aplicación de lo dispuesto en la presente disposición adicional queda condicionada a la existencia de derechos en la Reserva Regional de Viñedo.
+
+##### Disposición transitoria primera. Retroactividad del apartado 4 del artículo 5 de la presente ley.
+
+1\. La medida prevista en el apartado 4 del artículo 5 de la presente ley será de aplicación, con carácter retroactivo, a las viviendas que se hayan beneficiado de la reducción por adquisición de la vivienda habitual del causante prevista en la letra c) del apartado 2 del artículo 20 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+
+2\. Por tanto, las viviendas habituales adquiridas mortis causa con anterioridad al día 1 de enero de 2008 y a las que se les aplicó la reducción mencionada en el párrafo anterior pueden ser transmitidas ya sin pagar la parte del impuesto que se dejó de ingresar como consecuencia de la reducción practicada.
+
+3\. Las viviendas habituales adquiridas mortis causa con posterioridad al día 1 de enero de 2008 y a las que se aplicó la reducción mencionada en el apartado 1 de este artículo podrán ser transmitidas sin pagar la parte del impuesto que se dejó de ingresar como consecuencia de la reducción practicada a partir del día en que se cumplan cinco años desde la adquisición.
+
+##### Disposición transitoria segunda. Declaración de sujetos pasivos del impuesto sobre grandes establecimientos comerciales.
+
+En el caso de establecimientos que estuvieran en funcionamiento en el momento de entrada en vigor de la presente ley, la declaración a que se refiere el apartado 1 del artículo 47 deberá producirse en el plazo de un mes desde la entrada en vigor de la presente ley.
+
+##### Disposición transitoria tercera. Presentación telemática.
+
+La presentación telemática de las autoliquidaciones del impuesto sobre los grandes establecimientos comerciales, del impuesto sobre la eliminación de residuos en vertederos y del impuesto sobre el impacto visual producido por los elementos de suministro de energía eléctrica y elementos fijos de redes de comunicaciones telefónicas o telemáticas será obligatoria desde el momento en que el titular de la consejería con competencias en materia tributaria apruebe su forma de presentación a través de la norma reglamentaria correspondiente.
+
+##### Disposición derogatoria única. Derogación de otras disposiciones legales.
+
+Quedan derogados los artículos 1 a 31 de la Ley 7/2011, de 22 de diciembre, de Medidas Fiscales y Administrativas para el año 2012, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+
+##### Disposición final primera. Desarrollo normativo.
+
+Se habilita al consejero con competencia en materia de Hacienda para dictar cuantas disposiciones sean necesarias para la aplicación de los impuestos creados en los capítulos VI, VII y VIII del título I de la presente ley.
+
+##### Disposición final segunda. Entrada en vigor.
+
+La presente ley entrará en vigor el día 1 de enero de 2013.
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+
+Logroño, 21 de diciembre de 2012.
+
+El Presidente,
+
+Pedro Sanz Alonso

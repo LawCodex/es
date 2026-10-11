@@ -1,0 +1,105 @@
+---
+title: "Resolución de 18 de julio de 2008, de la Dirección General de la Agencia Estatal, de Administración Tributaria, por la que se establece el modelo de tarjeta de identidad profesional de los funcionarios de Vigilancia Aduanera"
+identifier: "BOE-A-2008-13753"
+eli: "https://www.boe.es/eli/es/res/2008/07/18/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2008-07-18
+published: 2008-08-12
+in_force_from: 2008-08-13
+last_amended: 2014-10-23
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 194"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-13753"
+retrieved: 2026-10-11
+---
+
+# Resolución de 18 de julio de 2008, de la Dirección General de la Agencia Estatal, de Administración Tributaria, por la que se establece el modelo de tarjeta de identidad profesional de los funcionarios de Vigilancia Aduanera
+
+Por Resolución de 29 de diciembre de 1998, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, se establecía el modelo de tarjeta de identidad profesional de los funcionarios de Vigilancia Aduanera. Teniendo en cuenta que en el cumplimiento de su misión dichos funcionarios cuando actúen ante autoridades y ciudadanos deberán identificarse mostrando su tarjeta de identidad profesional a lo que podrán ser requeridos por aquéllos, el tiempo transcurrido entre la aprobación de la citada resolución así como la incorporación de nuevos funcionarios, aconsejan dictar una nueva resolución que actualice el modelo de tarjeta de identidad profesional de los funcionarios de Vigilancia Aduanera. Asimismo, se hace necesaria la modificación del modelo normalizado de cartera portatarjeta de identidad profesional, incluyendo el escudo identificativo del Departamento de Aduanas e Impuestos Especiales, mejorando con ello la identificación de los funcionarios de Vigilancia Aduanera en el desempeño de su misión. Para satisfacer las necesidades expuestas y con el fin de facilitar la identificación de los funcionarios de Vigilancia Aduanera en el ejercicio de las competencias que les están atribuidas por la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, y por el artículo 9 del Real Decreto 319/1982, de 12 de febrero, he resuelto:
+
+## Primero. Aprobación del modelo de tarjeta de identidad profesional.
+
+Se aprueba el modelo de tarjeta de identidad profesional para los funcionarios de Vigilancia Aduanera en activo, tanto en el Departamento de Aduanas e Impuestos Especiales como en las Dependencias Regionales de Aduanas e Impuestos Especiales, que tendrá las medidas, color, forma y textos que se contienen en el anexo 1 de esta Resolución.
+
+## Segundo. Aprobación del modelo de cartera portatarjeta de identidad profesional.
+
+Se aprueba el modelo normalizado de cartera portatarjeta de identidad profesional. El tamaño, forma y características de la misma son los contenidos en el anexo 2 de esta Resolución; quedando terminantemente prohibida la utilización de cualquier otro modelo que pudiera inducir a confusión con otros Cuerpos.
+
+## Tercero. Entrega y retirada de la tarjeta de identidad profesional.
+
+Cuando se produzca la toma de posesión del funcionario de Vigilancia Aduanera en el puesto de trabajo, le será entregada su tarjeta de identidad profesional y la cartera portatarjeta a que se refieren los apartados anteriores.
+
+Será retirada la tarjeta de identidad profesional a los funcionarios en los siguientes supuestos:
+
+a) Cuando pasen a situación de excedencia en cualesquiera de sus modalidades, suspensión de funciones, o cuando pierdan la condición de funcionarios por alguna de las causas dispuestas en el artículo 63 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+b) Cuando pasen a ocupar puestos de trabajo distintos a los reservados a los funcionarios de Vigilancia Aduanera en el Departamento de Aduanas e Impuestos Especiales o en las Dependencias Regionales de Aduanas e Impuestos Especiales, salvo que los puestos que pasen a ocupar en otros Departamentos, Servicios o Dependencias entrañen el ejercicio de funciones propias de Vigilancia Aduanera, en cuyo caso el titular del Departamento de Aduanas e Impuestos Especiales, a propuesta del titular de la Dirección Adjunta de Vigilancia Aduanera, podrá autorizar el uso de la tarjeta de identidad profesional a todos los efectos.
+
+c) Cuando, por orden judicial o por cualquier causa prevista en la normativa vigente proceda retirar la licencia de armas. En este caso la tarjeta de identidad prevista en esta resolución será sustituida por otra, que tendrá el mismo formato que se especifica en el anexo 1 de esta resolución, pero en cuyo reverso se hará constar que la misma no tiene la consideración de licencia de armas.
+
+> Se modifica por el apartado primero.1 de la Resolución de 14 de octubre de 2014. [Ref. BOE-A-2014-10764](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-10764)
+
+## Cuarto. Sustitución de la tarjeta de identidad profesional.
+
+En los casos de sustracción, pérdida, destrucción o deterioro notorio de una tarjeta de identidad, su titular deberá comunicarlo por escrito a su Jefe respectivo y éste a la Dirección Adjunta de Vigilancia Aduanera, que procederá a entregarle una nueva sustitutiva de aquélla.
+
+## Quinto. Firma y control de la tarjeta de identidad profesional.
+
+Las tarjetas de identidad profesional serán suscritas por el titular del Departamento de Aduanas e Impuestos Especiales de la Agencia Tributaria que establecerá los mecanismos necesarios para el control de la expedición de las mismas en cumplimiento de esta Resolución, así como de las que sean devueltas como consecuencia del cese del funcionario acreditado en el puesto de trabajo.
+
+## Sexto. Tarjetas de identidad anteriores.
+
+Hasta que se haga entrega de las tarjetas de identidad profesional ajustadas al modelo aprobado por la presente Resolución, seguirán utilizándose las vigentes en esta fecha.
+
+## Séptimo. Aplicación.
+
+La presente Resolución será aplicable el día siguiente al de su publicación, quedando sin efecto la Resolución de 29 de diciembre de 1998, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.
+
+Madrid, 18 de julio de 2008.‒El Director General de la Agencia Tributaria, Luis Pedroche y Rojo.
+
+## ANEXO 1 — Modelo de tarjeta de identidad profesional para funcionarios de Vigilancia Aduanera
+
+ESCALA DE MILÍMETROS
+
+Incluir modelo carné
+
+La tarjeta de identidad profesional se ajustará al modelo normalizado que se adjunta, y tendrá las siguientes características:
+
+Dimensiones: 86 x 55 milímetros, a márgenes perdidos.
+
+Anverso: Sobre fondo azul pantone 2975 C, símbolos de la Agencia en color blanco. En el ángulo superior izquierdo el logotipo de la Agencia en azul pantone 293, rojo pantone 485 y amarillo pantone 116, y debajo Agencia Tributaria. En el ángulo superior derecho la leyenda «Ministerio de Hacienda y Administraciones Públicas» y debajo, en el centro, «Departamento de Aduanas e Impuestos Especiales». Centrado llevará un recuadro de 31 x 26 milímetros para la fotografía, que será hecha en color, a medio busto, de frente y descubierto, sin gafas oscuras.
+
+Inmediatamente debajo de la fotografía se insertará la leyenda: «Vigilancia Aduanera», y debajo el número de la Agencia Tributaria (NUMA).
+
+En la parte inferior se inscribirá el siguiente texto: «El titular de esta tarjeta de identidad tiene carácter de Agente de la Autoridad en el desempeño de su misión (art. 9 del Real Decreto 319/1982, de 12 de febrero)».
+
+Reverso: Con el mismo fondo, en la parte superior figurarán las siguientes leyendas:
+
+A) «Esta tarjeta de identidad tiene la consideración de licencia de armas tipo A y permiso de armas para su titular, según el Reglamento de Armas aprobado por Real Decreto 137/1993, de 29 de enero, y le autoriza para conducir el vehículo oficial, reseñado en la Orden de Prestación de Servicio que debe obrar en su poder».
+
+En el caso de aplicarse la letra c) del apartado tercero de esta Resolución, el texto será:
+
+B) «Tarjeta de identidad provisional que no tiene la consideración de licencia de armas tipo A para su titular. Esta tarjeta le autoriza para conducir el vehículo oficial reseñado en la Orden de Prestación de Servicio que debe obrar en su poder».
+
+Debajo figurará el nombre y apellidos, número de documento nacional de identidad, fecha de expedición y la antefirma y firma del Director del Departamento de Aduanas e Impuestos Especiales.
+
+![4586.png](https://www.boe.es/datos/imagenes/disp/2014/257/10764_4586.png)
+
+![4661.png](https://www.boe.es/datos/imagenes/disp/2014/257/10764_4661.png)
+
+![4732.png](https://www.boe.es/datos/imagenes/disp/2014/257/10764_4732.png)
+
+> Se sustituye por el anexo que se acompaña a la Resolución de 14 de octubre de 2014, según establece su apartado primero.2. [Ref. BOE-A-2014-10764](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-10764)
+
+> Téngase en cuenta, para su aplicación, el apartado segundo de la citada Resolución.
+
+## ANEXO 2 — Incluir modelo portatarjeta
+
+La cartera portatarjeta de identidad profesional tendrá la forma y medidas indicadas en el dibujo adjunto. Será de color negro. En su interior dispondrá de dos apartados con protectores plásticos. El superior para alojamiento de la tarjeta de identidad profesional y el inferior, para alojamiento del escudo del Departamento de Aduanas e Impuestos Especiales y la inscripción ADUANAS montados ambos sobre un rafagado dorado. En la parte superior de dicho escudo se situará el logotipo de la Agencia Tributaria con el texto «Agencia Tributaria».
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/194/13753_10300655_image3.png)

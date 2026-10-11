@@ -1,0 +1,4171 @@
+---
+title: "Orden FOM/2872/2010, de 5 de noviembre, por la que se determinan las condiciones para la obtención de los títulos habilitantes que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad en la circulación, así como el régimen de los centros homologados de formación y de los de reconocimiento médico de dicho personal"
+identifier: "BOE-A-2010-17236"
+eli: "https://www.boe.es/eli/es/o/2010/11/05/fom2872"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2010-11-05
+published: 2010-11-09
+in_force_from: 2010-11-09
+last_amended: 2022-05-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 271"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-17236"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/2872/2010, de 5 de noviembre, por la que se determinan las condiciones para la obtención de los títulos habilitantes que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad en la circulación, así como el régimen de los centros homologados de formación y de los de reconocimiento médico de dicho personal
+
+Incluye corrección de errores publicada en el BOE núm. 36 de 11 de febrero de 2011. [Ref. BOE-A-2011-2613](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2613)
+
+El artículo 60.1 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, establece que el personal que preste sus servicios en el ámbito ferroviario habrá de contar con una cualificación que le permita la realización de sus funciones con las debidas garantías de seguridad y eficiencia. Por su parte, el apartado 2 de este mismo artículo establece que una orden del Ministerio de Fomento será la que determine las condiciones y los requisitos para la obtención de los títulos habilitantes necesarios para desempeñar las funciones relacionadas con la seguridad en el ámbito ferroviario, así como el régimen de autorización y funcionamiento de los centros para la formación de dicho personal.
+
+Dicha previsión legal fue desarrollada por el Orden FOM/2520/2006, de 27 de julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica.
+
+La presente orden pretende cumplir un doble objetivo, por una parte, transponer a nuestro ordenamiento jurídico la Directiva 2007/59/CE del Parlamento Europeo y del Consejo de 23 de octubre de 2007 sobre la certificación de los maquinistas de locomotoras y trenes en el sistema ferroviario de la Comunidad, y por otra, aclarar y definir determinadas cuestiones que regulaba la Orden FOM/2520/2006, que ahora se deroga.
+
+Según se apunta en el artículo 28 de la citada Directiva en caso de presentación y adopción de propuestas legislativas de la Comisión Europea sobre un sistema de certificación para los otros miembros de la tripulación a bordo de los trenes que desempeñen tareas de importancia para la seguridad, se procederá a su seguimiento y a la modificación de la presente orden en consonancia con lo adoptado para el ámbito de la Unión Europea, todo ello a fin de aumentar la libre circulación de los trabajadores y la seguridad de los ferrocarriles.
+
+Ante las posibles medidas que la Comisión Europea establezca en relación a las condiciones y los criterios de aplicación de la Directiva 2007/59, se contemplará la posibilidad de incorporarlas y adecuarlas a la normativa española, con el fin de propiciar la mayor armonización posible y de evitar que los españoles encuentren restricciones que no se apliquen en la mayoría de los otros Estados de la Unión Europea.
+
+En el Real Decreto 918/2010, de 16 de julio, por el que se modifica el Real Decreto 810/2007, de 22 de julio, por el que se aprueba el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, ya se incorporó al derecho español el apartado 3 del artículo 2 de la Directiva 2007/59, única parte de la misma que por su naturaleza y contenido se consideró que debía recogerse en una norma de rango superior al de orden ministerial.
+
+La orden se estructura en diez Títulos que se dividen, a su vez, en Capítulos.
+
+El Título I determina el objeto de la misma y regula el régimen general aplicable al personal ferroviario y a los centros homologados de formación y a los centros homologados de reconocimiento médico de personal ferroviario.
+
+El Título II recoge el régimen aplicable a las habilitaciones del personal de circulación, el Título III determina el régimen aplicable a las habilitaciones relativas al personal de infraestructura, el Título IV contempla el régimen aplicable a las habilitaciones del personal de operaciones del tren y el Título V establece el régimen aplicable a las habilitaciones al personal responsable de control del mantenimiento de material rodante ferroviario.
+
+En los títulos mencionados en el párrafo anterior, se hace referencia a los distintos tipos de habilitación, a los requisitos mínimos exigibles, a las condiciones para su obtención, así como a su validez, suspensión y revocación.
+
+El Título VI establece la regulación relativa al personal de conducción o maquinista. Dicho Título se divide, a su vez, en tres Capítulos referidos, respectivamente, al establecimiento del régimen general aplicable y a la certificación del personal que realiza funciones de conducción, a la licencia de conducción de vehículos ferroviarios, las condiciones para su obtención, validez y suspensión o revocación y los certificados de conducción requeridos para el ejercicio de sus funciones.
+
+Por su parte, el Título VII determina las condiciones y requisitos mínimos que debe cumplir todo aquél que ostente las funciones de responsable de seguridad en la circulación en el seno de una empresa ferroviaria así como las obligaciones de las entidades ferroviarias.
+
+El Título VIII establece la evaluación de los procedimientos de formación y examen de los conocimientos profesionales del personal ferroviario.
+
+El Título IX establece el régimen general de los centros homologados de formación de personal ferroviario y el régimen de homologación de los mismos y el Título X regula el régimen general de los centros homologados de reconocimiento médico de personal ferroviario y el régimen de homologación de los mismos.
+
+Asimismo, esta orden incorpora doce disposiciones adicionales, nueve transitorias, una derogatoria y cuatro disposiciones finales.
+
+Por último, el texto se completa con siete anexos que fijan, respectivamente, las condiciones de capacidad psicofísica para la certificación de valoración de aptitud del personal de circulación, del personal de infraestructura, del personal de operaciones del tren, del personal de conducción, el programa de formación de maquinistas, los modelos de licencia y de certificado de conducción y las titulaciones exigibles.
+
+Finalmente, en la tramitación de esta orden han sido oídos las entidades ferroviarias, y demás interesados en el sector ferroviario, incluidos los sindicatos más representativos del sector, el Consejo Nacional de Transportes Terrestres, del Ministerio de Educación, y del Ministerio de Sanidad y Política Social.
+
+En su virtud, con la aprobación previa de la Ministra de la Presidencia y de acuerdo con el Consejo de Estado, dispongo,
+
+## TÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+La presente orden tiene por objeto:
+
+1) El establecimiento de las condiciones, requisitos y procedimiento para la obtención de la licencia y certificados de conducción y las habilitaciones necesarias para el desempeño de las funciones relacionadas con la seguridad en la circulación en el ámbito de la Red Ferroviaria de Interés General.
+
+2) La regulación, exclusivamente, de las competencias profesionales vinculadas a la actividad ferroviaria, las cuales se obtienen mediante la cualificación suficiente que permita la prestación del servicio ferroviario con las debidas garantías de seguridad y eficiencia, no siendo objeto de la misma el establecimiento de las bases que definan una clasificación laboral y profesional que afecten a los trabajadores que desarrollen la actividad en el sector ferroviario.
+
+3) El establecimiento de las condiciones y requisitos del régimen de autorización y funcionamiento de los centros homologados de formación del personal que realice funciones de seguridad en la circulación en el ámbito ferroviario.
+
+4) El establecimiento de las condiciones y requisitos del régimen de autorización y funcionamiento de los centros homologados de reconocimiento médico, capacitados para valorar la aptitud psicofísica de dicho personal.
+
+#### Artículo 2. Personal afectado.
+
+1\. A los efectos de la presente orden, se establecen para el personal que, en el ámbito ferroviario, vaya a realizar funciones relacionadas con la seguridad en la circulación, en función de su cualificación profesional, los siguientes grupos de actividad:
+
+a) Personal de circulación.
+
+b) Personal de infraestructura.
+
+c) Personal de operaciones del tren.
+
+d) Personal de conducción.
+
+e) Personal responsable de control del mantenimiento de material rodante.
+
+2\. La actividad del personal de circulación incluye, entre otras, el desempeño de las funciones de gestión y control, incluida la regulación, del sistema de circulación ferroviaria.
+
+3\. La actividad del personal de infraestructura abarca el ejercicio, entre otras, de las funciones de mantenimiento, control, operación de vehículos de infraestructura y vigilancia de la seguridad en la circulación ferroviaria durante la realización de trabajos sobre la infraestructura ferroviaria.
+
+4\. La actividad del personal de operaciones del tren consiste en el desempeño de funciones que garanticen la seguridad en las operaciones necesarias para la circulación de los trenes, tales como la formación de éstos o la manipulación y acondicionamiento de la carga en los mismos o su descarga.
+
+5\. La actividad del personal de conducción, o maquinista, consiste, fundamentalmente, en el manejo y conducción sobre la Red Ferroviaria de Interés General de unidades tractoras ferroviarias, sean de tipo convencional o automotrices, de manera autónoma, responsable y segura.
+
+6\. La actividad del personal responsable de control del mantenimiento de material rodante consiste en emitir las acreditaciones de que en el vehículo ferroviario correspondiente se han realizado todas las intervenciones y operaciones conforme al Plan de Calidad del centro homologado de mantenimiento de material rodante y en nombre del mismo.
+
+#### Artículo 3. Licencia, certificados y habilitaciones exigidos para ejercer funciones relacionadas con la seguridad en la circulación en el ámbito ferroviario.
+
+1\. Para ejercer funciones relacionadas con la seguridad del tráfico ferroviario, el personal que haya de realizarlas deberá disponer de los correspondientes títulos habilitantes de conformidad con lo dispuesto a continuación.
+
+a) El personal de circulación deberá obtener la correspondiente habilitación otorgada por el Administrador de Infraestructuras Ferroviarias, en la forma establecida en el Título II de esta orden.
+
+b) El personal de infraestructura deberá obtener la correspondiente habilitación otorgada por el Administrador de Infraestructuras Ferroviarias, en la forma establecida en el Título III de esta orden.
+
+c) El personal de operaciones del tren requerirá de una habilitación otorgada bien por la empresa ferroviaria para la que preste sus servicios, o bien, en su caso, por el Administrador de Infraestructuras Ferroviarias, conforme a lo dispuesto en el Título IV de esta orden.
+
+d) El personal de conducción, o maquinista, deberá disponer, para el ejercicio de sus funciones, de la certificación de maquinista en vigor, compuesta de una licencia otorgada por la Dirección General de Infraestructuras Ferroviarias y del correspondiente certificado o certificados, otorgados con arreglo a lo dispuesto en el Título VI, por la empresa ferroviaria o el Administrador de Infraestructuras Ferroviarias, en cada caso, a personal propio.
+
+e) El personal responsable de control del mantenimiento de material rodante requerirá, para el ejercicio de sus funciones, de una habilitación otorgada por el Director del centro homologado de mantenimiento de material rodante ferroviario, con arreglo a lo dispuesto en el Título V de la presente orden.
+
+2\. Para obtener y mantener la validez de las licencias de conducción de vehículos ferroviarios, de los certificados o de cualesquiera de las habilitaciones, así como para el ejercicio de las facultades que estos documentos confieren, sus titulares deberán haber obtenido, previamente, y renovar cuando proceda, el correspondiente certificado de aptitud psicofísica, en los términos previstos en esta orden.
+
+3\. La Dirección General de Infraestructuras Ferroviarias, el Administrador de Infraestructuras Ferroviarias y las empresas ferroviarias, así como los Directores de los centros homologados de mantenimiento de material rodante ferroviario, podrán limitar, dentro de sus respectivas competencias, la eficacia de las licencias, certificados y habilitaciones que respectivamente otorguen, pudiendo suspenderlos cautelarmente y, en su caso, revocarlos, previa audiencia del interesado y mediante resolución o decisión motivada fundada en razones de seguridad ferroviaria debidamente acreditadas, que será revisable en la vía que corresponda.
+
+4\. Las empresas ferroviarias y el Administrador de Infraestructuras Ferroviarias comunicarán a la Dirección General de Infraestructuras Ferroviarias, para su correspondiente anotación en el Registro Especial Ferroviario, las habilitaciones o los certificados que otorguen de conformidad con lo previsto en la presente orden, así como cualquier alteración que se produzca de los mismos. Asimismo, los Directores de los centros homologados de mantenimiento de material rodante ferroviario comunicarán a la Dirección General de Infraestructuras Ferroviarias y al Administrador de Infraestructuras Ferroviarias, las habilitaciones que se otorguen de conformidad con lo previsto en el Título V de esta orden, así como cualquier alteración que se produzca de las mismas.
+
+5\. El Ministerio de Fomento y el Administrador de Infraestructuras Ferroviarias, de conformidad con lo previsto en el artículo 86 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario y de los artículos 117 y 118 del Reglamento del Sector Ferroviario, podrán requerir al personal ferroviario afectado por los Títulos II, III, IV y VI de esta orden, durante el ejercicio de su actividad profesional, que acrediten que están en posesión de los correspondientes títulos habilitantes establecidos en esta orden.
+
+6\. A los efectos de lo establecido en esta orden se entenderán como entidades ferroviarias, tanto las empresas ferroviarias como el Administrador de Infraestructuras Ferroviarias.
+
+#### Artículo 4. Centros homologados de formación.
+
+1\. Los centros homologados de formación del personal ferroviario tienen por objeto impartir la formación teórica y práctica necesaria para la obtención y, en su caso, mantenimiento de la licencia y los certificados de conducción, así como de las habilitaciones que se regulan en la presente orden. La homologación para el ejercicio de dicha actividad la otorgará la Dirección General de Infraestructuras Ferroviarias.
+
+2\. Los requisitos que deben cumplir dichos centros y el procedimiento para su homologación, se ajustarán a lo dispuesto en el Título IX de la presente orden.
+
+#### Artículo 5. Centros homologados de reconocimiento médico.
+
+1\. Los reconocimientos médicos, entendidos a los efectos de esta orden, como pruebas de valoración obligatorias para la obtención del certificado de aptitud psicofísica que permita obtener y conservar la licencia, los certificados y las habilitaciones regulados en esta orden, serán realizados en centros homologados de reconocimiento médico. La homologación para el ejercicio de dicha actividad la otorgará la Dirección General de Infraestructuras Ferroviarias.
+
+2\. Los requisitos que deben cumplir estos centros y el procedimiento para su homologación, se ajustarán a lo dispuesto en el Título X de la presente orden.
+
+## TÍTULO II — Personal de circulación
+
+#### Artículo 6. Principios generales.
+
+1\. El personal de circulación que opere en la Red Ferroviaria de Interés General deberá disponer de una habilitación en vigor concedida de conformidad con lo dispuesto en este Título, por el Administrador de Infraestructuras Ferroviarias, a propuesta del responsable de la seguridad en la circulación del mismo.
+
+2\. Corresponde al responsable de la seguridad en la circulación del Administrador de Infraestructuras Ferroviarias, en el marco de lo establecido en esta orden:
+
+a) Proponer el tipo y alcance de las habilitaciones correspondientes al personal de circulación.
+
+b) Comprobar el cumplimiento por el aspirante de las condiciones mínimas exigidas para acceder a la formación necesaria para obtener las referidas habilitaciones.
+
+c) Determinar el contenido de los programas de formación para la obtención y renovación de dichas habilitaciones.
+
+d) Aprobar la propuesta de desarrollo de los programas de formación y las pruebas de evaluación que le formule el centro homologado de formación correspondiente.
+
+3\. El Administrador de Infraestructuras Ferroviarias comunicará a la Dirección General de Infraestructuras Ferroviarias las decisiones que se adopten en cumplimiento de lo previsto en el apartado anterior.
+
+#### Artículo 7. Tipos de habilitación.
+
+1\. Para el personal de circulación se establecen, en función del tipo de actividad que vaya a realizar, las habilitaciones siguientes:
+
+a) De responsable de circulación.
+
+b) De auxiliar de circulación.
+
+2\. La habilitación de responsable de circulación faculta a su titular para dirigir la circulación de trenes y maniobras en una estación, o en un conjunto de estaciones, en las que esté operativo un sistema de control de tráfico centralizado, así como para ejercer todas aquellas funciones que la normativa ferroviaria vigente en materia de seguridad en la circulación asigne al mismo y, además, para realizar todas las tareas para las que faculta la habilitación de auxiliar de circulación.
+
+3\. La habilitación de auxiliar de circulación faculta a su titular para, conforme a las órdenes del responsable de circulación, llevar a cabo determinadas tareas en las terminales y estaciones ferroviarias, tales como el accionamiento de agujas y de las barreras de los pasos a nivel, la realización de maniobras y demás tareas complementarias.
+
+4\. El Administrador de Infraestructuras Ferroviarias, cuando lo estime necesario, podrá otorgar la habilitación de auxiliar de circulación a personal de otras entidades que dispongan del título habilitante contemplado en el artículo 40 de la Ley del Sector Ferroviario para la prestación de los servicios que en el mismo se regulan o bien de empresas ferroviarias para la realización de alguna de las funciones para las que aquella habilitación faculta, siempre que dicho personal cumpla los requisitos exigidos en esta orden para su obtención. Dichas entidades deberán comunicar de manera inmediata al Administrador de Infraestructuras Ferroviarias la baja laboral del personal al que se hubiera otorgado la habilitación.
+
+#### Artículo 8. Condiciones para acceder a la formación que permite la obtención de las habilitaciones de circulación.
+
+Se exigirá a todo aquel que quiera acceder a la formación que permite obtener las habilitaciones de circulación, el cumplimiento de las siguientes condiciones:
+
+a) Haber cumplido dieciocho años.
+
+b) Contar, al menos, con el título de Graduado en Educación Secundaria Obligatoria o titulación equivalente a efectos laborales. No obstante, para obtener la habilitación de responsable de circulación será necesario disponer del título de Bachiller o de un título de Técnico de Formación Profesional o equivalentes a efectos laborales o, en su defecto, acreditar una experiencia profesional de, al menos, 4 años como auxiliar de circulación.
+
+c) Para aquellos interesados cuyo idioma nativo no sea el castellano, acreditar un conocimiento suficiente del castellano que permita al aspirante el adecuado seguimiento del proceso formativo. La citada acreditación deberá realizarse mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido por el Ministerio de Educación, Cultura y Deporte. Los centros homologados de formación podrán, a los exclusivos efectos de la admisión, realizar a los interesados pruebas de evaluación de nivel lingüístico.
+
+d) Acreditar, mediante certificado de aptitud psicofísica emitido por un centro homologado de reconocimiento, las condiciones recogidas en el anexo I de la presente orden.
+
+> Se modifica por el art. único.1 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 9. Obtención de las habilitaciones.
+
+1\. La obtención de cualesquiera de las habilitaciones que se contemplan en el presente Título requerirá la superación de las correspondientes pruebas teóricas y prácticas que aseguren un nivel de formación y conocimiento adecuados para realizar las funciones para las que facultan, así como de la previa obtención del certificado de aptitud psicofísica regulado en el anexo I de la presente orden.
+
+2\. Determinado el contenido de los programas de formación por el responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias, corresponde al centro homologado con el que esta entidad hubiere convenido la formación, el desarrollo de los mismos, estableciendo las horas de docencia y la tipología y características de las pruebas teóricas y prácticas que hayan de superarse de conformidad con lo dispuesto en los programas de formación.
+
+Esta propuesta de desarrollo deberá presentarse ante el citado responsable de seguridad en la circulación de acuerdo con lo establecido en el artículo 6 de esta orden.
+
+No obstante lo anterior, los programas de formación deberán recoger, al menos, lo siguiente:
+
+a) Respecto de la habilitación de responsable de circulación: conocimientos básicos de la normativa ferroviaria vigente, los manuales de circulación, las técnicas de control y sistemas integrados de gestión del tráfico ferroviario, los sistemas de señalización y comunicaciones, así como conocimientos en materia de prevención de riesgos laborales del propio puesto.
+
+b) Respecto de la habilitación de auxiliar de circulación: conocimientos básicos de la normativa ferroviaria vigente, los manuales de circulación, los sistemas y técnicas de seguridad en la circulación y de control, así como conocimientos en materia de prevención de riesgos laborales del propio puesto.
+
+3\. La formación exigida para la obtención de las habilitaciones contempladas en este Título será impartida por un centro homologado de formación.
+
+4\. El certificado de aptitud psicofísica deberá obtenerse en un centro homologado de reconocimiento médico.
+
+5\. El Administrador de Infraestructuras Ferroviarias establecerá el diseño, formato y contenido del documento que formalice el otorgamiento de las habilitaciones. Este documento contendrá al menos la siguiente información:
+
+a) Identificación del responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias.
+
+b) Nombre, apellidos y fotografía reciente del titular.
+
+c) Fecha de nacimiento.
+
+d) Número del documento nacional de identidad, del permiso de residencia o del pasaporte y nacionalidad.
+
+e) Domicilio a efecto de notificaciones.
+
+f) Tipo de habilitación y fecha de expedición.
+
+g) Fecha de realización del último reciclaje formativo.
+
+h) Fecha de expedición del último certificado de aptitud psicofísica y plazo de validez del mismo.
+
+6\. Las habilitaciones se expedirán en castellano. No obstante, el documento en el que figuren también podrá estar redactado en otra lengua cooficial en el lugar de su expedición.
+
+#### Artículo 10. Validez de las habilitaciones.
+
+1\. Las habilitaciones serán válidas mientras sus titulares cumplan las condiciones exigidas para su mantenimiento y no incurran en ninguna de las causas de suspensión o revocación establecidas en el artículo siguiente.
+
+2\. No obstante lo establecido en el apartado anterior, periódicamente y, al menos cada tres años y, en cualquier caso, cuando se produzcan cambios normativos que afecten al contenido de la habilitación, sus titulares deberán seguir un curso de actualización y reciclaje de conocimientos teóricos y prácticos, cuyo contenido y alcance será establecido por el Administrador de Infraestructuras Ferroviarias.
+
+3\. Sin perjuicio de lo previsto en el artículo 64 de esta orden, en relación con los plazos de validez del certificado de aptitud psicofísica, el personal de circulación se someterá, por indicación de su superior jerárquico, a reconocimientos psicofísicos adicionales cuando se dé alguna de las circunstancias siguientes:
+
+a) Hubiere estado involucrado en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+b) Se observaran en el titular alteraciones evidentes de su estado físico o psíquico.
+
+c) Hubiere estado apartado, por enfermedad o accidente, del ejercicio efectivo de las funciones de circulación, durante más de tres meses; así como después de un accidente laboral grave o muy grave.
+
+#### Artículo 11. Suspensión y revocación de las habilitaciones. Recursos en relación con las habilitaciones.
+
+1\. A los efectos de garantizar la seguridad en el tráfico ferroviario, el administrador de infraestructuras ferroviarias suspenderá la habilitación cuando:
+
+a) Se detecten en su titular niveles de alcohol superiores a los autorizados o indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos.
+
+b) No se hayan realizado en tiempo y forma los cursos de actualización y reciclaje a que se refiere el artículo 10.2 de esta orden.
+
+c) Se cometa una infracción administrativa en los términos previstos en el artículo 92 de la Ley del Sector Ferroviario.
+
+d) No se renueve puntualmente la validez del certificado de aptitud psicofísica.
+
+e) Su titular, en el ejercicio de su actividad profesional, se niegue a someterse a un control para la detección de consumo de alcohol o de indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos, realizado por personal suficientemente cualificado y autorizado al efecto, de acuerdo con la normativa vigente.
+
+2\. Asimismo el administrador de infraestructuras ferroviarias podrá suspender las habilitaciones, de acuerdo con los criterios de valoración que incluya en su sistema de gestión de seguridad, cuando los titulares de las mismas cometan una infracción reglamentaria relacionada con la seguridad en la circulación o cuando hayan estado involucrados, con indicios de infracción reglamentaria, en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+3\. Si la autoridad responsable de la seguridad ferroviaria constatara, dentro de sus actuaciones de supervisión, que el titular de una habilitación ha dejado de cumplir alguno de los requisitos exigidos para su obtención o incurre en alguno de los supuestos incluidos en los dos apartados anteriores, se pondrá en contacto con el administrador de infraestructuras ferroviarias para solicitarle, bien que lleve a cabo una inspección suplementaria, o bien que proceda a la suspensión de la habilitación. El administrador de infraestructuras adoptará las medidas adecuadas y las comunicará a la autoridad responsable de la seguridad ferroviaria en un plazo máximo de cuatro semanas. Con independencia de ello, la autoridad responsable de la seguridad ferroviaria podrá prohibir cautelarmente el ejercicio de la actividad hasta que haya recibido el informe del administrador de infraestructuras.
+
+4\. El titular podrá recuperar la validez de la habilitación suspendida cuando:
+
+a) Acredite de nuevo su aptitud psicofísica en el supuesto de los casos a) y d) del apartado 1. En el supuesto a) de dicho apartado deberá transcurrir al menos un periodo de tres meses de suspensión, antes de poder acreditar nuevamente la recuperación de la aptitud psicofísica.
+
+b) Supere los oportunos cursos de actualización y reciclaje en el supuesto del caso b) del apartado 1.
+
+c) Cumpla la sanción administrativa a la que hubiere dado lugar la infracción cometida, o se proceda a su archivo en el supuesto de los casos a) y c) del apartado 1, así como en el supuesto del apartado 2.
+
+d) Transcurridos tres meses desde su negativa en el supuesto del caso e) del apartado 1, previa acreditación de su aptitud psicofísica.
+
+e) Cuando finalice el procedimiento de recuperación establecido en el sistema de gestión de la seguridad del administrador de infraestructuras ferroviarias, en el supuesto del apartado 2. Dicho procedimiento podrá incluir cursos de actualización y reciclaje o acreditación de la aptitud psicofísica.
+
+5\. El administrador de infraestructuras ferroviarias revocará la habilitación cuando:
+
+a) Exista una pérdida sobrevenida de alguna de las condiciones exigidas para su obtención.
+
+b) Su titular cese en su actividad en el administrador de infraestructuras ferroviarias. En el caso de auxiliar de circulación dependiente de otra entidad, cuando su titular cause baja laboral en la empresa a la que pertenecía cuando recibió la habilitación.
+
+c) Del procedimiento sancionador que, en su caso, se derive de la suspensión de la habilitación, se concluya en la pérdida definitiva de la misma.
+
+6\. El procedimiento de suspensión o, en su caso, revocación de la habilitación se iniciará de oficio por el administrador de infraestructuras ferroviarias, con audiencia del interesado, y su resolución se anotará, en los casos de suspensión y revocación, en el registro a que se refiere el apartado segundo de la disposición adicional octava de esta orden y se comunicará al Registro Especial Ferroviario y al responsable de seguridad en la circulación de dicha entidad. La duración de los procedimientos no excederá de 3 meses. Transcurrido dicho plazo sin que se hubiera notificado la resolución de suspensión o revocación se producirá la caducidad del procedimiento, que se declarará por medio de la correspondiente resolución en la que, asimismo, se ordenará el archivo de las actuaciones.
+
+7\. Los aspirantes o titulares de las habilitaciones podrán recurrir ante la autoridad responsable de la seguridad ferroviaria las decisiones relativas a la expedición, actualización, suspensión o revocación de las mismas en el plazo de un mes desde la notificación de la denegación de la expedición o la actualización, de la suspensión o de la revocación de la habilitación, siendo el plazo para dictar y notificar la resolución de tres meses. Transcurrido dicho plazo sin que hubiera recaído resolución expresa deberá entenderse desestimado dicho recurso. Contra las resoluciones de la autoridad responsable de la seguridad ferroviaria podrá interponerse recurso contencioso-administrativo.
+
+> Se modifica por el art. único.2 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## TÍTULO III — Personal de infraestructura
+
+#### Artículo 12. Principios generales.
+
+1\. El personal de infraestructura que ejerza funciones relativas a la seguridad de la circulación deberá disponer de una habilitación en vigor concedida de conformidad con lo dispuesto en este Título por el Administrador de Infraestructuras Ferroviarias, a propuesta del responsable de la seguridad en la circulación del mismo.
+
+2\. Corresponde al responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias, en el marco de lo establecido en esta orden:
+
+a) Proponer el tipo y alcance de las habilitaciones correspondientes al personal de infraestructura.
+
+b) Comprobar el cumplimiento por el aspirante de las condiciones mínimas exigidas para acceder a la formación necesaria para obtener las referidas habilitaciones.
+
+c) Determinar el contenido de los programas de formación para la obtención y renovación de dichas habilitaciones.
+
+d) Aprobar la propuesta de desarrollo del contenido de los programas de formación y las pruebas de evaluación que le formule el centro homologado de formación correspondiente.
+
+3\. El Administrador de Infraestructuras Ferroviarias comunicará a la Dirección General de Infraestructuras Ferroviarias las decisiones que adopte en cumplimiento de lo previsto en el apartado anterior.
+
+#### Artículo 13. Tipos de habilitación.
+
+1\. Para el personal de infraestructura se establecen, en función del tipo de actividad que se vaya a realizar, las siguientes habilitaciones:
+
+a) De encargado de trabajos.
+
+b) De piloto de seguridad en la circulación.
+
+c) De operador de maquinaria de infraestructura.
+
+2\. La habilitación de encargado de trabajos faculta a su titular para realizar las funciones correspondientes a actuaciones en vía bloqueada según se establece en la normativa ferroviaria vigente en materia de seguridad en la circulación, controlar y, en su caso dirigir, los trabajos que se lleven a cabo en la infraestructura ferroviaria o en sus proximidades, controlando a los pilotos de seguridad en la circulación en sus funciones de vigilancia de la infraestructura y protección de los trabajos sobre la misma en relación con la seguridad en la circulación. En cada caso la habilitación especificará las funciones correspondientes a las actuaciones o especialidades de que se trate, que podrán ser de infraestructura y vía; electrificación; señalización; o telecomunicaciones; o cualquier otra que pudiera establecer la Dirección General de Infraestructuras Ferroviarias a propuesta del Administrador de Infraestructuras Ferroviarias.
+
+3\. La habilitación de piloto de seguridad en la circulación faculta a su titular para realizar las funciones de vigilancia de la infraestructura y protección de los trabajos sobre la misma en relación con la seguridad en la circulación ferroviaria, así como la vigilancia de los pasos a nivel.
+
+4\. La habilitación de operador de maquinaria de infraestructura faculta a su titular para el desplazamiento, manejo y guiado del material rodante auxiliar específicamente habilitado para realizar trabajos en la infraestructura ferroviaria, incluyéndose, entre otros, la maquinaria de vía, los vehículos de socorro y los vehículos automóviles adaptados para circular por las vías.
+
+En todo caso, para la conducción de dichos vehículos ferroviarios auxiliares por tramos de línea no exclusivos para trabajos de infraestructura, se exigirá al titular de esta habilitación estar en posesión de la licencia de conducción regulada en esta orden y del certificado correspondiente o, en defecto de este último, que vaya acompañado de un agente responsable conocedor de la correspondiente infraestructura conforme a las condiciones que se establezcan en la normativa de seguridad en la circulación.
+
+5\. El Administrador de Infraestructuras Ferroviarias, cuando lo estime necesario, podrá otorgar las habilitaciones establecidas en este artículo para piloto de seguridad en la circulación y para operador de maquinaria de infraestructura, a personal de otras entidades para la realización de alguna de las funciones contempladas por estas habilitaciones, siempre que este personal cumpla los requisitos exigidos para la obtención de las mismas. Dichas entidades deberán comunicar de manera inmediata al Administrador de Infraestructuras Ferroviarias la baja laboral del personal al que se hubiera otorgado la habilitación.
+
+La habilitación de encargado de trabajos se otorgará al personal del Administrador de Infraestructuras Ferroviarias.
+
+#### Artículo 14. Condiciones para acceder a la formación que permite la obtención de las habilitaciones de infraestructura.
+
+Se exigirá a todo aquel que quiera acceder a la formación que permite obtener las habilitaciones, el cumplimiento de las siguientes condiciones:
+
+a) Haber cumplido dieciocho años.
+
+b) Contar, al menos, con el título de Graduado en Educación Secundaria Obligatoria o titulación equivalente a efectos laborales. No obstante, para obtener la habilitación de encargado de trabajos será necesario disponer del título de Bachiller o de un título de Técnico de Formación Profesional o equivalentes a efectos laborales o, en su defecto, acreditar una experiencia profesional de al menos cuatro años como piloto de seguridad.
+
+c) Para aquellos interesados cuyo idioma nativo no sea el castellano, acreditar un conocimiento suficiente del castellano que permita al aspirante el adecuado seguimiento del proceso formativo. La citada acreditación deberá realizarse mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido por el Ministerio de Educación, Cultura y Deporte. Los centros homologados de formación podrán, a los exclusivos efectos de la admisión, realizar a los interesados pruebas de evaluación de nivel lingüístico.
+
+d) Acreditar, mediante certificado de aptitud psicofísica emitido por un centro homologado de reconocimiento, las condiciones recogidas en el anexo II de la presente orden.
+
+> Se modifica por el art. único.3 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 15. Obtención de las habilitaciones.
+
+1\. La obtención de cualesquiera de las habilitaciones que se contemplan en este Título requerirá la superación de las correspondientes pruebas teóricas y prácticas que aseguren un nivel de formación y conocimiento adecuados para realizar las funciones para las que facultan, así como de la obtención del certificado de aptitud psicofísica regulado en el anexo II de la presente orden.
+
+2\. Determinado el contenido de los programas de formación para la obtención de las habilitaciones de infraestructura por el responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias, corresponde al centro homologado con el que esta entidad hubiere convenido la formación, el desarrollo de los mismos, estableciendo las horas de docencia y la tipología y características de las pruebas teóricas y prácticas que hayan de superarse de conformidad con lo dispuesto en los programas de formación.
+
+Esta propuesta de desarrollo deberá presentarse ante el responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias para su aprobación, de acuerdo con lo establecido en el artículo 12 de esta orden.
+
+No obstante lo anterior, la formación teórica que se determine para la obtención de cualesquiera habilitaciones de infraestructura deberá garantizar el conocimiento suficiente de la normativa ferroviaria vigente en materia de seguridad en la circulación.
+
+Asimismo, sin perjuicio de lo dispuesto en el párrafo anterior, el programa de formación que se determine para la obtención de la habilitación de operador de maquinaria de infraestructura incluirá, al menos, una carga lectiva equivalente de 150 horas, de las cuales 30 corresponderán a una formación práctica, y de éstas, como mínimo 20 se emplearán en el manejo de material rodante auxiliar. No obstante, cuando se disponga de licencia y certificado de conducción de categoría A, esta carga lectiva equivalente será de 100 horas, de las cuales, 20 corresponderán a una formación práctica. En todo caso, la formación para la obtención de esta habilitación deberá recoger, como mínimo, conocimientos de la parte que corresponda al operador de maquinaria de infraestructura, de los manuales de circulación y del Reglamento General de Circulación, características físicas y técnicas de la infraestructura ferroviaria de los distintos ámbitos operativos sobre los que va a realizar su actividad, conocimientos teóricos de las características generales del material rodante y de la infraestructura y de las específicas del vehículo con el que va a operar, junto con las prácticas en vía y de manejo real en el mismo, así como formación en materia de prevención de riesgos laborales del propio puesto.
+
+3\. La formación exigida para la obtención de las habilitaciones contempladas en este Título será impartida por un centro homologado de formación.
+
+4\. El certificado de aptitud psicofísica deberá obtenerse en un centro homologado de reconocimiento médico.
+
+5\. El diseño, formato y contenido del documento que formalice el otorgamiento de las habilitaciones serán establecidos por el Administrador de Infraestructuras Ferroviarias. Este documento contendrá, al menos, la siguiente información:
+
+a) Identificación del responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias.
+
+b) Nombre, apellidos y fotografía reciente del titular.
+
+c) Fecha de nacimiento.
+
+d) Número del documento nacional de identidad, del permiso de residencia, del pasaporte y nacionalidad.
+
+e) Domicilio a efecto de notificaciones.
+
+f) Tipo de habilitación y fecha de expedición.
+
+g) Fecha de realización del último reciclaje formativo.
+
+h) Fecha de expedición del último certificado de aptitud psicofísica y plazo de validez del mismo.
+
+6\. Las habilitaciones se expedirán en castellano. No obstante, el documento en el que figuren también podrá estar redactado en otra lengua cooficial en el lugar de su expedición.
+
+#### Artículo 16. Validez de las habilitaciones.
+
+1\. Las habilitaciones serán válidas mientras sus titulares cumplan las condiciones exigidas para su mantenimiento y no incurran en alguna de las causas de suspensión o revocación establecidas en el artículo siguiente.
+
+2\. No obstante lo establecido en el apartado anterior, periódicamente y, al menos cada tres años, y en cualquier caso cuando se produzcan cambios normativos que afecten al contenido de la habilitación, los titulares de las habilitaciones deberán seguir un curso de actualización y reciclaje de conocimientos teóricos y prácticos cuyo contenido y alcance será establecido por el Administrador de Infraestructuras Ferroviarias.
+
+3\. Sin perjuicio de lo previsto en el artículo 64 de esta orden, en relación con los plazos de validez del certificado de aptitud psicofísica, el personal de infraestructura se someterá, por indicación de su superior jerárquico, a reconocimientos psicofísicos adicionales cuando se dé alguna de las circunstancias siguientes:
+
+a) Hubiere estado involucrado en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+b) Se observaran en el titular alteraciones evidentes de su estado físico o psíquico.
+
+c) Hubiere estado apartado, por enfermedad o accidente, del ejercicio efectivo de funciones de personal de infraestructura durante más de tres meses; así como después de un accidente laboral grave o muy grave.
+
+#### Artículo 17. Suspensión y revocación de las habilitaciones. Recursos en relación con las habilitaciones.
+
+1\. A los efectos de garantizar la seguridad en el tráfico ferroviario, el administrador de infraestructuras ferroviarias suspenderá la habilitación cuando:
+
+a) Se detecten en su titular niveles de alcohol superiores a los autorizados o indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos.
+
+b) No se hayan realizado en tiempo y forma los cursos de actualización y reciclaje a que se refiere el artículo 16.2 de esta orden.
+
+c) Se cometa una infracción administrativa en los términos previstos en los artículos 88 y 89 de la Ley del Sector Ferroviario.
+
+d) No se renueve puntualmente la validez del certificado de aptitud psicofísica.
+
+e) Su titular, en el ejercicio de su actividad profesional, se niegue a someterse a un control para la detección de consumo de alcohol o de indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos, realizado por personal suficientemente cualificado y autorizado al efecto, de acuerdo con la normativa vigente.
+
+2\. Asimismo el administrador de infraestructuras ferroviarias podrá suspender las habilitaciones, de acuerdo con los criterios de valoración que incluya en su sistema de gestión de seguridad, cuando los titulares de las mismas cometan una infracción reglamentaria relacionada con la seguridad en la circulación o cuando hayan estado involucrados, con indicios de infracción reglamentaria, en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+3\. Si la autoridad responsable de la seguridad ferroviaria constatara, dentro de sus actuaciones de supervisión, que el titular de una habilitación ha dejado de cumplir alguno de los requisitos exigidos para su obtención o incurre en alguno de los supuestos incluidos en los dos apartados anteriores, se pondrá en contacto con el administrador de infraestructuras ferroviarias para solicitarle, bien que lleve a cabo una inspección suplementaria, o bien que proceda a la suspensión de la habilitación. El administrador de infraestructuras adoptará las medidas adecuadas y las comunicará a la autoridad responsable de la seguridad ferroviaria en un plazo máximo de cuatro semanas. Con independencia de ello, la autoridad responsable de la seguridad ferroviaria podrá prohibir cautelarmente el ejercicio de la actividad hasta que haya recibido el informe del administrador de infraestructuras.
+
+3\. (sic) El titular podrá recuperar la validez de la habilitación suspendida cuando:
+
+a) Acredite de nuevo su aptitud psicofísica en el supuesto de los casos a) y d) del apartado 1. En el supuesto a) de dicho apartado deberá transcurrir al menos un periodo de tres meses de suspensión, antes de poder acreditar nuevamente la recuperación de la aptitud psicofísica.
+
+b) Supere los oportunos cursos de actualización y reciclaje en el supuesto del caso b) del apartado 1.
+
+c) Cumpla la sanción administrativa a que hubiere dado lugar la infracción cometida, o se proceda a su archivo en el supuesto de los casos a) y c) del apartado 1, así como en el supuesto del apartado 2.
+
+d) Transcurridos tres meses desde su negativa en el supuesto del caso e) del apartado 1, previa acreditación de su aptitud psicofísica.
+
+e) Cuando finalice el procedimiento de recuperación establecido en el sistema de gestión de la seguridad del administrador de infraestructuras ferroviarias, en el supuesto del apartado 2. Dicho procedimiento podrá incluir cursos de actualización y reciclaje o acreditación de la aptitud psicofísica.
+
+4\. El administrador de infraestructuras ferroviarias revocará la habilitación cuando:
+
+a) Exista una pérdida sobrevenida de alguna de las condiciones exigidas para su obtención.
+
+b) Su titular cese en su actividad en el administrador de infraestructuras ferroviarias, o, en su caso, cause baja laboral en la empresa a la que pertenecía cuando recibió la habilitación.
+
+c) Del procedimiento sancionador que, en su caso, se derive de la suspensión de la habilitación, se concluya en la pérdida definitiva de la misma.
+
+5\. El procedimiento de suspensión o, en su caso, revocación de la habilitación se iniciará de oficio con audiencia del interesado, y su resolución en los casos de suspensión o revocación se anotará en el registro a que se refiere el apartado segundo de la disposición adicional octava de esta orden y se comunicará al Registro Especial Ferroviario. La duración de los procedimientos no excederá de tres meses. Transcurrido dicho plazo sin que se hubiera notificado la resolución de suspensión o revocación se producirá la caducidad del procedimiento, que se declarará por medio de la correspondiente resolución en la que, asimismo, se ordenará el archivo de las actuaciones.
+
+6\. Los aspirantes o titulares de las habilitaciones podrán recurrir ante la autoridad responsable de la seguridad ferroviaria las decisiones relativas a la expedición, actualización, suspensión o revocación de las mismas en el plazo de un mes desde la notificación de la denegación de la expedición o la actualización, de la suspensión o de la revocación de la habilitación, siendo el plazo para dictar y notificar la resolución de tres meses. Transcurrido dicho plazo sin que hubiera recaído resolución expresa deberá entenderse desestimado dicho recurso. Contra las resoluciones de la autoridad responsable de la seguridad podrá interponerse recurso contencioso-administrativo.
+
+> Se modifica por el art. único.4 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## TÍTULO IV — Personal de operaciones del tren
+
+#### Artículo 18. Principios generales.
+
+1\. El personal de operaciones del tren, de cualquier tren que circule por la Red Ferroviaria de Interés General, deberá disponer, para el ejercicio de sus funciones, de la correspondiente habilitación en vigor otorgada por la empresa ferroviaria para la cual dicho personal preste sus servicios, ya sea propio o ajeno, a propuesta del responsable de la seguridad en la circulación de la misma.
+
+Asimismo, el Administrador de Infraestructuras Ferroviarias, para ejercer las funciones de éste inherentes a su propia actividad y que precisen de la pertinente habilitación, podrá otorgar, a propuesta del responsable de la seguridad en la circulación de dicha entidad, las habilitaciones de operaciones del tren a personal propio o de otras entidades.
+
+2\. Corresponde a los responsables de seguridad en la circulación en el marco de lo establecido en esta orden:
+
+a) Proponer el tipo y alcance de las habilitaciones correspondientes al personal de operaciones del tren.
+
+b) Comprobar el cumplimiento por el aspirante de las condiciones mínimas exigidas para acceder a la formación necesaria para obtener las referidas habilitaciones.
+
+c) Determinar el contenido de los programas de formación para la obtención y renovación de dichas habilitaciones.
+
+d) Aprobar la propuesta de desarrollo del contenido de los programas de formación y las pruebas de evaluación que le formule el centro homologado de formación correspondiente.
+
+3\. Las empresas ferroviarias, y en su caso el Administrador de Infraestructuras Ferroviarias, comunicarán a la Dirección General de Infraestructuras Ferroviarias de las decisiones que adopten en cumplimiento de lo previsto en el apartado anterior.
+
+#### Artículo 19. Tipos de habilitación.
+
+1\. Para el personal de operaciones del tren se establecen, en función del tipo de actividad que vaya a realizar, las siguientes habilitaciones:
+
+a) De auxiliar de operaciones del tren.
+
+b) De responsable de las operaciones de carga.
+
+c) De operador de vehículos de maniobras.
+
+d) De auxiliar de cabina.
+
+2\. La habilitación de auxiliar de operaciones del tren faculta a su titular para realizar, entre otras, las labores de enganche, desenganche y acoplamiento de vehículos ferroviarios, colaborar en la realización de pruebas de frenado y efectuar la colocación y retirada de las señales de cola de los trenes. También podrá realizar, a las órdenes del responsable de circulación y cuando disponga de la formación requerida y así conste en su habilitación, todas las operaciones que conlleva la realización de maniobras, excepto el manejo de los vehículos de maniobras. La habilitación de auxiliar de operaciones del tren con alcance de maniobras también faculta a la realización de las labores del auxiliar de cabina.
+
+3\. La habilitación de responsable de las operaciones de carga faculta a su titular para realizar las funciones de supervisión, dirección y, en su caso, ejecución de las operaciones de carga y descarga de las mercancías transportadas por ferrocarril, entre las que se incluyen el acondicionamiento de la carga y su sujeción al material remolcado, que permitan asegurar que se realizan de conformidad con la normativa ferroviaria y los procedimientos de las empresas cargadora y ferroviaria. Corresponde a la autoridad responsable de seguridad establecer, en su caso, especialidades que correspondan a esta modalidad de habilitación.
+
+4\. La habilitación de operador de vehículos de maniobras faculta a su titular para realizar, dentro del límite de la denominada zona de maniobras de las terminales de mercancías y estaciones integrantes de la Red Ferroviaria de Interés General que establece la normativa ferroviaria vigente en materia de seguridad en la circulación, el desplazamiento y manejo de vehículos ferroviarios por sus vías, en operaciones asociadas a las actividades de maniobras, de clasificación, y de retirada o suministro de material rodante a derivaciones particulares, centros de tratamiento técnico o centros de mantenimiento de material ferroviario. En todo caso, cuando en el manejo de los correspondientes vehículos sea necesario salir de la zona protegida para la realización de maniobras, el titular de esta habilitación deberá estar en posesión de la licencia de conducción.
+
+5\. La habilitación de auxiliar de cabina faculta a su titular para colaborar con el maquinista en la identificación y el cumplimiento de las órdenes de las señales y demás prescripciones de circulación que le afecten, así como la utilización del freno de emergencia e inmovilización del vehículo en casos de emergencia.
+
+> Se modifica por el art. único.5 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 20. Condiciones para acceder a la formación que permite la obtención de las habilitaciones de operaciones de tren.
+
+Se exigirá a todo aquel que quiera acceder a la formación que permite obtener las habilitaciones, el cumplimiento de las siguientes condiciones:
+
+a) Haber cumplido dieciocho años.
+
+b) Contar, al menos, con la titulación de Graduado en Educación Secundaria Obligatoria o titulación equivalente a efectos laborales.
+
+c) Para aquellos interesados cuyo idioma nativo no sea el castellano, acreditar un conocimiento suficiente del castellano que permita al aspirante el adecuado seguimiento del proceso formativo. La citada acreditación deberá realizarse mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido por el Ministerio de Educación, Cultura y Deporte. Los centros homologados de formación podrán, a los exclusivos efectos de la admisión, realizar a los interesados pruebas de evaluación de nivel lingüístico.
+
+d) Acreditar, mediante certificado de aptitud psicofísica emitido por un centro homologado de reconocimiento, las condiciones recogidas en el anexo III de la presente orden. Queda exceptuada de este requisito la habilitación de responsable de las operaciones de carga.
+
+> Se modifica por el art. único.6 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 21. Obtención de las habilitaciones.
+
+1\. La obtención de las habilitaciones que se contemplan en este Título requerirá la superación de las correspondientes pruebas teóricas y prácticas que aseguren un nivel de formación y conocimiento adecuados para realizar las funciones para las que facultan, así como, salvo en la habilitación para responsable de las operaciones de carga, la obtención previa del certificado de aptitud psicofísica regulado en el anexo III de la presente orden.
+
+2\. Determinado el contenido de los programas de formación para la obtención de las habilitaciones de operaciones del tren por los responsables de seguridad en la circulación de las entidades ferroviarias, corresponde al centro homologado con el que estas entidades hubieren convenido la formación de su respectivo personal el desarrollo de los mismos, estableciendo las horas de docencia y la tipología y características de las pruebas teóricas y prácticas que hayan de superarse, debiéndose garantizar el suficiente conocimiento de la normativa ferroviaria vigente en materia de seguridad en la circulación.
+
+Esta propuesta de desarrollo deberá presentarse ante el responsable de la seguridad en la circulación de las empresas ferroviarias o del administrador de infraestructuras ferroviarias para su aprobación, de acuerdo con lo establecido en el artículo 18 de esta orden.
+
+No obstante lo anterior, los programas de formación deberán recoger, al menos, lo siguiente:
+
+a) Respecto de la habilitación de operador de vehículos de maniobras: Al menos una carga lectiva equivalente de 100 horas, de las cuales 80 corresponderán a una formación práctica y de éstas, como mínimo, 40 se emplearán en el manejo de vehículos ferroviarios dentro de la terminal. No obstante, cuando se disponga de la licencia y el certificado de conducción de categoría A será de 60 horas, de las cuales 40 corresponderán a formación práctica y de éstas 20 a conducción con el vehículo ferroviario que vaya a operar. En todo caso, la formación para la obtención de esta habilitación deberá recoger, al menos, conocimientos de la parte que corresponda al operador de vehículos de maniobras, de los manuales de circulación y demás normativa ferroviaria vigente, características físicas y técnicas de la terminal ferroviaria y del ámbito operativo sobre el que va a realizar su actividad, conocimientos teóricos de las características generales del material rodante de maniobras y adaptación al vehículo con el que va a operar, junto con las prácticas en vía y de manejo real en el mismo, así como formación en materia de prevención de riesgos laborales del propio puesto.
+
+b) Respecto a la habilitación para auxiliar de cabina: De manera general, la formación incluirá conocimientos generales y reglamentarios de la normativa ferroviaria que permitan asistir al maquinista en casos de avería sobrevenida de los sistemas de control, mando y señalización durante la marcha, así como conocimientos de uso de dispositivos de freno de emergencia e inmovilización de los vehículos. Además, en el caso de extensión de la habilitación para trenes programados sin sistema de control, mando y señalización por la no existencia de los mismos en la infraestructura, la formación deberá incluir adicionalmente conocimientos, particularizados a las líneas para las que se emite la habilitación, sobre las señales, actuación en situaciones degradadas de protección del tren y bloqueos correspondientes.
+
+3\. La formación exigida para la obtención de las habilitaciones contempladas en este Título será impartida por centros homologados de formación.
+
+4\. El certificado de aptitud psicofísica deberá obtenerse en un centro homologado de reconocimiento médico.
+
+5\. El diseño, formato y contenido del documento que formalice el otorgamiento de las habilitaciones de operaciones de tren, serán establecidos por la entidad ferroviaria correspondiente. No obstante, este documento contendrá, al menos, la siguiente información:
+
+a) Nombre de la entidad ferroviaria correspondiente, con identificación del responsable de seguridad en la circulación de la misma.
+
+b) Nombre, apellidos y fotografía reciente del titular.
+
+c) Fecha de nacimiento.
+
+d) Número del documento nacional de identidad, o del permiso de residencia o del de pasaporte y nacionalidad.
+
+e) Domicilio a efecto de notificaciones.
+
+f) Tipo de habilitación y fecha de expedición.
+
+g) Fecha de realización del último reciclaje formativo.
+
+h) Fecha de expedición del último certificado de aptitud psicofísica y plazo de validez.
+
+6\. Las habilitaciones se expedirán en castellano. No obstante, el documento en el que figuren también podrá estar redactado en otra lengua cooficial en el lugar de su expedición.
+
+> Se modifican los partados 1 y 2 por el art. único.7 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 22. Validez de las habilitaciones.
+
+1\. Las habilitaciones serán válidas mientras sus titulares cumplan las condiciones exigidas para su mantenimiento y no incurran en ninguna de las causas de suspensión o revocación establecidas en el artículo siguiente.
+
+2\. No obstante lo establecido en el apartado anterior, periódicamente y, al menos cada tres años, y en cualquier caso cuando se produzcan cambios normativos que afecten al contenido de la habilitación, los titulares de las habilitaciones deberán seguir un curso de actualización y reciclaje de conocimientos teóricos y prácticos cuyo contenido y alcance será establecido por la entidad otorgante de las mismas.
+
+3\. Sin perjuicio de lo previsto en el artículo 64 de esta orden, en relación con los plazos de validez del certificado de aptitud psicofísica, el personal de operaciones del tren se someterá, por indicación de su superior jerárquico, a reconocimientos psicofísicos adicionales cuando se dé algunas de las circunstancias siguientes:
+
+a) Hubiere estado involucrado en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+b) Se observaran en el titular alteraciones evidentes de su estado físico o psíquico.
+
+c) Hubiere estado apartado, por enfermedad o accidente, del ejercicio efectivo de funciones relacionadas con la operación de trenes, durante más de tres meses; así como después de un accidente laboral grave o muy grave.
+
+#### Artículo 23. Suspensión y revocación de las habilitaciones. Recursos en relación con las habilitaciones.
+
+1\. A los efectos de garantizar la seguridad en el tráfico ferroviario, los administradores de infraestructuras y las empresas ferroviarias suspenderán las habilitaciones cuando:
+
+a) Se detecten en su titular niveles de alcohol superiores a los autorizados o indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos.
+
+b) No se hayan realizado en tiempo y forma los cursos de actualización y reciclaje a que se refiere el artículo 22.2 de esta orden.
+
+c) Se cometa una infracción administrativa en los términos previstos en los artículos 88 y 89 de la Ley del Sector Ferroviario.
+
+d) No se renueve puntualmente la validez del certificado de aptitud psicofísica.
+
+e) Su titular, en el ejercicio de su actividad profesional, se niegue a someterse a un control para la detección de consumo de alcohol o de indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos realizado por personal suficientemente cualificado y autorizado al efecto, de acuerdo con la normativa vigente.
+
+2\. Asimismo, la entidad otorgante podrá suspender las habilitaciones, de acuerdo con los criterios de valoración que incluya en su sistema de gestión de seguridad, cuando los titulares de las mismas cometan una infracción reglamentaria relacionada con la seguridad en la circulación o cuando hayan estado involucrados, con indicios de infracción reglamentaria, en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+3\. Si la autoridad responsable de la seguridad ferroviaria constatara, dentro de sus actuaciones de supervisión, que el titular de una habilitación ha dejado de cumplir alguno de los requisitos exigidos para su obtención o incurre en alguno de los supuestos incluidos en los dos apartados anteriores, se pondrá en contacto con la entidad otorgante para solicitarle, bien que lleve a cabo una inspección suplementaria, o bien que proceda a la suspensión de la habilitación. La entidad otorgante adoptará las medidas adecuadas y las comunicará a la autoridad responsable de la seguridad ferroviaria en un plazo máximo de cuatro semanas. Con independencia de ello, la autoridad responsable de la seguridad ferroviaria podrá prohibir cautelarmente el ejercicio de la actividad hasta que haya recibido el informe de la entidad otorgante.
+
+4\. El titular podrá recuperar la validez de la habilitación suspendida cuando:
+
+a) Acredite de nuevo su aptitud psicofísica en el supuesto de los casos a) y d) del apartado 1. En el supuesto a) de dicho apartado deberá transcurrir al menos un periodo de tres meses de suspensión, antes de poder acreditar nuevamente la recuperación de la aptitud psicofísica.
+
+b) Cumpla la sanción a que hubiere dado lugar la infracción cometida, o se proceda a su archivo en el supuesto de los casos a) y c) del apartado 1, así como en el supuesto del apartado 2.
+
+c) Supere los oportunos cursos de actualización y reciclaje en el supuesto del caso b) del apartado 1.
+
+d) Transcurridos tres meses desde su negativa en el supuesto del caso e) del apartado 1, previa acreditación de su aptitud psicofísica.
+
+e) Cuando finalice el procedimiento de recuperación establecido en el sistema de gestión de la seguridad de la entidad otorgante, en el supuesto del apartado 2. Dicho procedimiento podrá incluir cursos de actualización y reciclaje o acreditación de la aptitud psicofísica.
+
+5\. Los administradores de infraestructuras y las empresas ferroviarias revocarán la habilitación cuando:
+
+a) Exista una pérdida sobrevenida de alguna de las condiciones exigidas para su obtención.
+
+b) Su titular cese en la actividad con la entidad de la que recibió la habilitación.
+
+c) Del procedimiento sancionador que, en su caso, se derive de la suspensión de la habilitación, se concluya con la pérdida definitiva de la misma.
+
+6\. La resolución del procedimiento de suspensión o, en su caso, revocación de la habilitación, se anotará, en los casos de suspensión o revocación, en el registro a que se refiere el apartado segundo de la disposición adicional octava de esta orden y se comunicará al Registro Especial Ferroviario y al responsable de seguridad en la circulación de la entidad que hubiera otorgado dicha habilitación. La duración de los procedimientos no excederá de 3 meses. Transcurrido dicho plazo sin que se hubiera notificado la decisión de suspensión o revocación se producirá la caducidad del procedimiento, que se declarará por medio de la correspondiente decisión en la que, asimismo, se ordenará el archivo de las actuaciones.
+
+7\. Los aspirantes o titulares de las habilitaciones podrán recurrir ante la autoridad responsable de la seguridad ferroviaria las decisiones relativas a la expedición, actualización, suspensión o revocación de las mismas en el plazo de un mes desde la notificación de la denegación de la expedición o la actualización, de la suspensión o de la revocación de la habilitación, siendo el plazo para dictar y notificar la resolución de tres meses. Transcurrido dicho plazo sin que hubiera recaído resolución expresa deberá entenderse desestimado dicho recurso. Contra las resoluciones de la autoridad responsable de la seguridad podrá interponerse recurso contencioso-administrativo.
+
+> Se modifica por el art. único.8 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## TÍTULO V — Personal responsable de control del mantenimiento de material rodante ferroviario
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+#### Articulo 24. Principios generales.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+#### Artículo 25. Habilitación de responsable de control del mantenimiento de material rodante ferroviario.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+#### Artículo 26. Condiciones para acceder a la formación que permite la obtención de la habilitación de responsable de control del mantenimiento de material rodante.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+> Se modifica por el art. único.9 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 27. Obtención de la habilitación.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+#### Artículo 28. Validez de la habilitación.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+#### Artículo 29. Suspensión y revocación de la habilitación. Recursos en relación con las habilitaciones.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 16 de junio de 2025, por la disposición derogatoria única de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+> Se modifica la rúbrica y el apartado 5 por el art. único.10 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## TÍTULO VI — Personal de conducción
+
+### CAPÍTULO I — Régimen general. Certificación de maquinistas
+
+#### Artículo 30. Certificación de maquinistas. Licencia y certificados. Duración de los programas formativos.
+
+1\. El personal de conducción que opere en la Red Ferroviaria de Interés General como maquinista perteneciente a una empresa ferroviaria provista de certificado de seguridad o a un administrador de infraestructura ferroviaria provisto de autorización de seguridad deberá poseer la aptitud y cualificación necesarias para conducir locomotoras y trenes, con la pertinente certificación de maquinista en vigor, de conformidad con lo establecido en este Título.
+
+La certificación de maquinista se compondrá de dos documentos:
+
+a) Una licencia que demuestre que el maquinista reúne las condiciones mínimas establecidas en cuanto a requisitos y competencias generales. La licencia identificará al maquinista y al órgano otorgante y en ella figurará su período de validez.
+
+b) Uno o más certificados en los que se consignarán las infraestructuras por las que el titular está autorizado a conducir y se indicará el material rodante que tiene permitido utilizar.
+
+2\. En ausencia de una normativa comunitaria que lo establezca, la distribución del número de horas de carga lectiva entre los programas formativos correspondientes a la licencia y a los certificados de categoría A y B tendrá en cuenta que el número global de horas de formación sea equivalente al establecido en la Orden FOM 2520/2006, de 27 de julio, para los títulos de conducción de categoría A y B y las habilitaciones de conducción respectivamente.
+
+La duración del programa de formación necesario para la obtención de la licencia incluirá, al menos, una carga lectiva equivalente a cuatrocientas veinticinco horas, de las cuales, al menos, ciento veinte horas corresponderán a la formación práctica y de ésta, como mínimo, cincuenta y seis horas serán prácticas de conducción efectiva en vehículos ferroviarios.
+
+3\. Para la obtención del certificado de conducción de la categoría B, la formación prevista en el apartado anterior deberá ser completada con los conocimientos generales comunes descritos en el artículo 40.2.a) de esta orden. Se obtendrá tras un programa de formación de al menos una carga lectiva equivalente a setecientas veinticinco horas, de las cuales, al menos, trescientas ochenta horas corresponderán a la formación práctica y de ésta, como mínimo, ciento sesenta horas serán prácticas de conducción efectiva en vehículos ferroviarios.
+
+En todo caso, para obtener los certificados de conducción de la categoría A y B, será exigible además la formación sobre los conocimientos recogidos en el artículo 40.2.b) y c) de la presente orden, conforme a los itinerarios formativos mínimos establecidos por la autoridad responsable de la seguridad ferroviaria al amparo de la disposición adicional séptima de esta orden.
+
+> Se modifica por el art. único.11 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+### CAPÍTULO II — Licencia
+
+#### Artículo 31. Licencia.
+
+1\. Para obtener la licencia de maquinista será necesario demostrar que se reúnen las condiciones mínimas establecidas en cuanto a requisitos médicos y formativos, y competencias profesionales generales que se establecen en los siguientes artículos.
+
+2\. La licencia tendrá carácter de documento personal de su titular. Será expedida por la Dirección General de Infraestructuras Ferroviarias del Ministerio de Fomento y su contenido se ajustará al anexo VI de esta orden. Se inscribirá en el Registro Especial Ferroviario mediante un número atribuido a cada maquinista.
+
+#### Artículo 32. Condiciones para acceder a la formación que permite obtener la licencia de maquinista.
+
+Para acceder a la formación que permite obtener la licencia de maquinista el solicitante deberá cumplir los siguientes requisitos:
+
+a) Contar, al menos, con la titulación de Bachiller o de Técnico de Formación Profesional o equivalentes a efectos laborales.
+
+b) Para aquellos interesados cuyo idioma nativo no sea el castellano, acreditar un conocimiento suficiente del castellano que permita al aspirante el adecuado seguimiento del proceso formativo. La citada acreditación deberá realizarse mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido por el Ministerio de Educación, Cultura y Deporte. Adicionalmente, los centros homologados de formación podrán, a los exclusivos efectos de la admisión, realizar a los interesados pruebas de evaluación de nivel lingüístico, en cuyo caso la prueba se realizará mediante un examinador reconocido específicamente en dicho ámbito, de entre los que se citan en el artículo 52 bis de esta orden.
+
+c) Acreditar, mediante certificado de aptitud psicofísica emitido por un centro homologado de reconocimiento, las condiciones recogidas en el anexo IV de la presente orden.
+
+> Se modifica por el art. único.12 de la Orden FOM/679/2015, de 9 de abril. Ref. BOE-A-2015-4243 .
+
+#### Artículo 33. Programas de formación.
+
+1\. La formación necesaria para obtener la licencia de conducción de vehículos ferroviarios que se contemplan en este Capítulo será impartida en centros homologados con arreglo a lo dispuesto en el Título IX de esta orden.
+
+2\. Para obtener la correspondiente autorización de los programas de formación, los centros homologados propondrán a la Dirección General de Infraestructuras Ferroviarias una relación de los contenidos y materias que pretendan impartir.
+
+3\. El programa de formación se ajustará a los criterios enunciados en el anexo V. En dicho programa se deberán desarrollar, al menos, las materias y pruebas recogidas en dicho anexo.
+
+#### Artículo 34. Pruebas de evaluación.
+
+1\. El aspirante a la obtención de la licencia de maquinista regulada en esta orden deberá demostrar un nivel de conocimientos teóricos y prácticos suficientes, para lo cual habrá de superar las correspondientes pruebas de evaluación realizadas por la Dirección General de Infraestructuras Ferroviarias con arreglo a lo previsto en el anexo V y que se organizarán de manera que no puedan plantearse conflictos de intereses.
+
+Previamente a la realización de las referidas pruebas, los aspirantes habrán de presentar ante la Dirección General de Infraestructuras Ferroviarias el certificado de aptitud psicofísica regulado en el anexo IV de la presente orden, que habrá de estar emitido con arreglo a lo dispuesto en el Título X de esta orden, por un centro homologado de reconocimiento médico, dentro de los dos meses anteriores a la fecha de iniciación de las pruebas de evaluación. Asimismo, los aspirantes habrán de acreditar ante dicha Dirección General, previamente a la realización de las pruebas, la titulación académica que les fue exigida para acceder a la formación.
+
+2\. La Dirección General de Infraestructuras Ferroviarias convocará las pruebas de evaluación, informando en la correspondiente convocatoria, de las características y criterios de evaluación de las mismas.
+
+3\. Para la realización de las pruebas de evaluación, la autoridad responsable de la seguridad ferroviaria, teniendo presente criterios de independencia, competencia e imparcialidad, nombrará un tribunal formado por expertos cualificados por su experiencia profesional y conocimientos, que se encargarán de la supervisión, control y evaluación de los aspirantes. La presidencia de dicho tribunal recaerá en un funcionario de la autoridad responsable de la seguridad ferroviaria que coordinará y supervisará la correcta realización de las pruebas en su conjunto y velará por el estricto cumplimiento de la legalidad vigente durante la convocatoria. El tribunal estará formado, al menos, por tres miembros. Asimismo dentro de la composición del tribunal habrá, al menos, un examinador reconocido, que será responsable de la dirección de las pruebas de evaluación.
+
+4\. Las circulaciones necesarias para la realización de los exámenes se llevarán a cabo en los tramos y surcos horarios que establezca el administrador de la infraestructura correspondiente. A dichas circulaciones no les será de aplicación canon alguno por el uso de la infraestructura, salvo que las mismas constituyan circulaciones comerciales. En los exámenes se podrán utilizar, además, simuladores para comprobar la aplicación de las normas de explotación y el comportamiento del aspirante en situaciones especialmente difíciles y degradadas.
+
+> Se modifican los apartados 3 y 4 por el art. único.13 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).<br>
+
+#### Artículo 35. Obtención de la licencia.
+
+1\. Para la obtención de la licencia será necesario:
+
+a) Haber cumplido veinte años de edad.
+
+b) Cursar los programas de formación.
+
+c) Demostrar sus conocimientos profesionales generales superando las pruebas de evaluación que incluyan las materias generales indicadas en el anexo V.
+
+d) Justificar la aptitud psicofísica a través del preceptivo certificado médico regulado en el anexo IV.
+
+2\. Una vez realizadas las pruebas de evaluación, la autoridad responsable de la seguridad ferroviaria comunicará a los aspirantes, en el plazo máximo de un mes desde la fecha de finalización de las pruebas, los resultados de las mismas, otorgando, en su caso, la licencia dentro del mes siguiente a la fecha de comunicación de dichos resultados, previo abono de la correspondiente tasa prevista en la Ley del Sector Ferroviario. Dicha licencia será inscrita en el Registro Especial Ferroviario.
+
+3\. La licencia se expedirá en un solo ejemplar. No se otorgarán duplicados, salvo en los supuestos de pérdida, robo, o extravío debidamente acreditados.
+
+> Se modifica por el art. único.14 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 36. Validez de la licencia.
+
+1\. La licencia tendrá una validez de 10 años siempre que se cumplan los requisitos psicofísicos exigidos para su obtención; y será renovable previa constatación por la Dirección General de Infraestructuras Ferroviarias del mantenimiento de dichos requisitos.
+
+2\. Si un maquinista deja de prestar sus servicios en una entidad ferroviaria, la licencia conservará su validez siempre que siga cumpliendo las condiciones establecidas en esta orden. Las entidades ferroviarias informarán sin demora de la baja del maquinista al Registro Especial Ferroviario.
+
+#### Artículo 37. Suspensión y revocación de la licencia. Recursos en relación con las licencias.
+
+1\. A los efectos de garantizar la seguridad en el tráfico ferroviario la Dirección General de Infraestructuras Ferroviarias suspenderá la licencia cuando:
+
+a) No se renueve puntualmente la validez del certificado de aptitud psicofísica.
+
+b) Se cometa una infracción de las previstas en el artículo 92 de la Ley del Sector Ferroviario.
+
+2\. Si la Dirección General de Infraestructuras Ferroviarias comprobara que el maquinista ha dejado de cumplir alguno de los requisitos exigidos, suspenderá la licencia temporalmente y en función del riesgo para la seguridad ferroviaria; comunicando inmediatamente la decisión motivada al maquinista y a la entidad ferroviaria para la que trabaje, sin perjuicio del posible recurso de alzada previsto en este artículo.
+
+Si la licencia estuviera expedida por otro Estado miembro de la Unión Europea, la Dirección General de Infraestructuras Ferroviarias se pondrá en contacto con la autoridad competente de dicho Estado para solicitarle de forma motivada, bien la realización de una inspección suplementaria o bien la suspensión de la licencia; e informará de ello a la Comisión Europea y demás autoridades competentes. Todo ello sin perjuicio de la posible adopción por parte de dicho centro directivo de las medidas cautelares que procedan con el fin de garantizar la seguridad de la circulación ferroviaria.
+
+3\. El titular podrá recuperar la validez de la licencia suspendida cuando, respectivamente:
+
+a) Acredite de nuevo su aptitud psicofísica.
+
+b) Cumpla la sanción a la que hubiere dado lugar la infracción cometida, o se proceda a su archivo.
+
+4\. La autoridad responsable de la seguridad ferroviaria revocará la licencia cuando:
+
+a) Exista una pérdida sobrevenida de alguna de las condiciones exigidas para su obtención.
+
+b) Se derive de un procedimiento sancionador que concluya en la pérdida definitiva de la misma.
+
+c) De acuerdo con el artículo 42, haya sido objeto de revocación el certificado por haberse producido, un mínimo de dos veces en un periodo de cinco años, la detección en su titular de niveles de alcohol superiores a los autorizados o indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que produzcan efectos análogos, o la negativa a la realización de las pruebas correspondientes.
+
+5\. Las resoluciones que dicte la autoridad responsable de seguridad en relación con las licencias agotarán la vía administrativa y contra las mismas se podrá interponer recurso potestativo de reposición en el plazo de un mes, siendo el plazo máximo para dictar y notificar la resolución del recurso de un mes. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, deberá entenderse desestimado dicho recurso. Todo ello sin perjuicio del derecho de los interesados a recurrir a la vía jurisdiccional contencioso-administrativa.
+
+6\. La resolución de la Dirección General de Infraestructuras Ferroviarias no agotará la vía administrativa, pudiendo interponerse contra la misma recurso de alzada. El plazo máximo para dictar y notificar la resolución sobre dicho recurso será de tres meses. Transcurrido dicho plazo sin que hubiera recaído resolución expresa deberá entenderse desestimado dicho recurso. Todo ello sin perjuicio del derecho del interesado de acudir posteriormente al orden jurisdiccional de conformidad con lo establecido en la normativa vigente.
+
+> Se modifican la rúbrica y los apartados 4 y 5 por el art. único.15 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+### CAPÍTULO III — Certificados
+
+#### Artículo 38. Certificados.
+
+1\. El maquinista que conduzca por la Red Ferroviaria de Interés General deberá disponer, además de la licencia de maquinista, del certificado o certificados correspondientes en donde se consignen tanto las infraestructuras por las que su titular esté autorizado a conducir como el tipo o tipos de material rodante que esté autorizado a utilizar. En concordancia con el artículo 30, el certificado autoriza al maquinista para la conducción de una de las siguientes categorías de vehículos o de las dos:
+
+a) Categoría A: Vehículos y locomotoras de maniobra; trenes de trabajo a velocidad máxima de 60 km/h y en una distancia máxima de 140 km desde la base a la zona de trabajos y viceversa; vehículos ferroviarios empleados para el mantenimiento y construcción de la infraestructura ferroviaria; y locomotoras cuando éstas sean utilizadas para la realización de maniobras.
+
+b) Categoría B: Trenes de transporte de viajeros y/o de mercancías y todo lo recogido en la Categoría A.
+
+2\. Dichos certificados se ajustarán al contenido del anexo VI de esta orden y serán expedidos por la empresa ferroviaria o por el administrador de la infraestructura que emplee al maquinista a propuesta del responsable de seguridad en la circulación de la entidad ferroviaria en la cual aquél preste sus servicios.
+
+Sin perjuicio de expedirse nominativamente a su titular, el certificado no tendrá carácter personal sino que pertenecerá a la entidad otorgante, por lo que perderá su validez cuando se extinga la relación laboral con ésta. El maquinista tendrá, en todo caso, derecho a obtener una copia certificada del mismo, según el modelo comunitario establecido por el anexo III del Reglamento (UE) n.º 36/2010 de la Comisión de 3 de diciembre de 2009, sobre los modelos comunitarios de licencias de conducción de trenes, certificados complementarios, copias autenticadas de certificados complementarios y formularios de solicitud de licencias de conducción de trenes, en aplicación de la Directiva 2007/59/CE del Parlamento Europeo y del Consejo, y de todos los documentos que acrediten su formación, cualificaciones, experiencia y competencias profesionales.
+
+3\. Corresponde a los responsables de seguridad en la circulación en el marco de lo establecido en esta orden:
+
+a) Proponer el tipo y alcance de los certificados de conducción.
+
+b) Comprobar el cumplimiento por el aspirante de las condiciones mínimas exigidas para acceder a la formación necesaria para obtener los referidos certificados.
+
+c) Determinar el contenido de los programas de formación para la obtención y renovación de dichos certificados.
+
+d) Aprobar la propuesta de desarrollo del contenido de los programas de formación y las pruebas de evaluación que formule el centro homologado de formación correspondiente.
+
+4\. Las empresas ferroviarias y, en su caso, el administrador de infraestructuras ferroviarias comunicarán a la autoridad responsable de la seguridad ferroviaria las decisiones que adopten en cumplimiento de lo previsto en el apartado anterior.
+
+> Se modifica por el art. único.16 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 39. Condiciones para acceder a la formación que permite obtener los certificados de conducción.
+
+Para acceder a la formación que permite obtener los certificados de conducción de vehículos ferroviarios se exigirá el cumplimiento de las siguientes condiciones:
+
+a) Ser titular de una licencia de maquinista expedida por un Estado miembro de la Unión Europea.
+
+b) Para aquellos interesados cuyas licencias hayan sido emitidas en otros Estados miembros de la Unión Europea y cuyo idioma nativo no sea el castellano, acreditar un conocimiento suficiente del castellano que permita al aspirante el adecuado seguimiento del proceso formativo. La citada acreditación deberá realizarse mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido. Adicionalmente, los centros homologados de formación podrán, a los exclusivos efectos de la admisión, realizar a los interesados pruebas de evaluación de nivel lingüístico, con el objeto de comprobar que el aspirante podrá efectuar el curso de formación de forma adecuada, especialmente en materia de comunicación y terminología específicas en relación con las operaciones ferroviarias y los procedimientos de seguridad.
+
+> Se modifica por el art. único.17 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 40. Programas de formación y pruebas de evaluación para la obtención de los certificados.
+
+1\. La obtención de los certificados requerirá la superación de las correspondientes pruebas de evaluación teóricas y prácticas conforme al anexo V a fin de asegurar un nivel de formación y conocimiento adecuados para realizar las funciones para las que faculta.
+
+2\. Los programas de formación se ajustarán a los criterios enunciados en el anexo V. Deberán cubrir en cualquier caso los siguientes aspectos:
+
+a) Conocimientos generales comunes sobre el material rodante e infraestructuras.
+
+b) Conocimientos específicos sobre los vehículos y líneas concretos a incluir en el certificado.
+
+c) Conocimientos particulares en relación con el sistema de gestión de la seguridad de la empresa operadora.
+
+La autoridad responsable de la seguridad ferroviaria podrá, mediante resolución de su Director, establecer directrices y orientaciones sobre el contenido de los correspondientes programas formativos.
+
+3\. Las tareas de formación relacionadas con los diferentes conocimientos profesionales precisos para la obtención de los certificados contemplados en este Título así como sus cursos de reciclaje se impartirán necesariamente por centros homologados conforme a esta orden.
+
+4\. El calendario formativo, la tipología, las características de las pruebas teóricas y prácticas, así como la duración de los ejercicios y pruebas de evaluación correspondientes serán establecidos, a solicitud del responsable de seguridad en la circulación de las entidades ferroviarias, por los centros homologados de formación, conforme al programa de formación correspondiente.
+
+En el caso de aspirantes cuyas licencias hayan sido emitidas en otros Estados miembros de la Unión Europea, deberá diseñarse un programa formativo específico complementario para la obtención de los certificados, en función de sus conocimientos previos acreditados, que permita asegurar el conocimiento de las materias exigidas en esta orden para los certificados que habilitan para la circulación por la Red Ferroviaria de Interés General. Estos programas específicos, establecidos por los centros homologados de formación a propuesta del responsable de seguridad de la entidad ferroviaria empleadora, serán comunicados a la autoridad responsable de la seguridad ferroviaria con carácter previo a su inicio.
+
+En aquellos casos en los que los contenidos formativos necesarios para el certificado afecten a los conocimientos generales del apartado 2.a) de este artículo, serán comunicados a la autoridad responsable de la seguridad ferroviaria. Igualmente, en estos supuestos, los centros homologados de formación, comunicarán, con antelación a la realización de las pruebas, el contenido de las pruebas de examen, la elección de examinadores y los criterios de valoración.
+
+La autoridad responsable de la seguridad ferroviaria podrá utilizar las comunicaciones recibidas conforme a lo señalado en el párrafo anterior en sus funciones de supervisión de los procedimientos de los sistemas de gestión de la seguridad de las entidades ferroviarias, relativos a la formación y cualificación del personal.
+
+5\. Al término de cada curso de formación se realizarán exámenes teóricos y prácticos sobre el nivel de conocimientos adquiridos por los aspirantes. Las pruebas prácticas de evaluación para la obtención del certificado de conducción, al igual que las prácticas de conducción efectiva, se realizarán en las líneas de la Red Ferroviaria de Interés General para las que se obtiene la habilitación o, en el caso de maniobras, en instalaciones conectadas a la misma. A dichas circulaciones no les será de aplicación canon alguno por el uso de la infraestructura, salvo que las mismas constituyan circulaciones comerciales.
+
+En los exámenes se podrán utilizar simuladores para comprobar la aplicación de las normas de explotación y el comportamiento del maquinista en situaciones particularmente difíciles y degradadas.
+
+6\. Las pruebas de evaluación serán efectuadas ante un tribunal formado por examinadores del centro homologado de formación y de la entidad ferroviaria que expida el certificado, a la que corresponderá además la presidencia del mismo, debiendo organizarse de manera que no puedan plantearse conflictos de intereses. La autoridad responsable de la seguridad ferroviaria podrá designar observadores de la realización de dichas pruebas.
+
+7\. Las pruebas de evaluación harán referencia a las materias recogidas en el anexo V.
+
+8\. Al menos cada dos años se realizarán cursos de actualización y reciclaje de conocimientos teóricos y prácticos para los titulares de los certificados, cuyo contenido se ajustará a las materias recogidas en el apartado V.3 del anexo V. Las entidades ferroviarias, en el marco de sus procedimientos y junto con los centros de formación, establecerán evaluaciones de los conocimientos adquiridos en estos cursos, para verificar la aprehensión de los mismos y su transferencia a las tareas a desarrollar.
+
+En todo caso deberán realizarse dichos cursos cuando se produzcan innovaciones tecnológicas o cambios normativos y cuando, a juicio de la autoridad responsable de la seguridad ferroviaria, así se considere.
+
+9\. Durante los cinco primeros años de ejercicio de la profesión la carga lectiva práctica para la obtención de los conocimientos específicos sobre las líneas y vehículos para la obtención del certificado del personal de conducción a los que se refiere el apartado 2.b) de este artículo será el doble de la establecida como regla general mediante la resolución de la disposición adicional séptima de esta orden.
+
+10\. El formato básico del documento que formalice el otorgamiento de los certificados será establecido por la autoridad responsable de la seguridad ferroviaria y contendrá, al menos, la información reflejada en el anexo VI de esta orden.
+
+11\. Los certificados se expedirán en castellano. No obstante, el documento en el que figuren también podrá estar redactado en otra lengua cooficial en el lugar de su expedición.
+
+12\. Cuando se obtenga un nuevo certificado, la entidad otorgante actualizará las referencias al material rodante e infraestructuras autorizados al maquinista titular.
+
+> Se modifica por el art. único.18 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 40 bis. Cursos de formación para la obtención de los conocimientos generales mínimos necesarios para los certificados de categoría B para el personal de conducción.
+
+1\. Sin perjuicio de lo establecido como regla general en el artículo 40 para la formación y evaluación de los certificados de conducción, los centros homologados de formación, preferentemente de manera conjunta con los cursos relativos a las licencias y sin que sea necesaria previa petición de una entidad ferroviaria, podrán solicitar impartir formación correspondiente a los conocimientos generales mínimos necesarios para los certificados de categoría B, descritos en el artículo 40.2.a) de la presente orden.
+
+2\. En este caso, el procedimiento para la convocatoria, organización y evaluación se llevara a cabo de conformidad con lo establecido en los artículos 34 y 49, correspondiendo la realización de la prueba de evaluación a la autoridad responsable de la seguridad ferroviaria.
+
+3\. Una vez superada la prueba, la autoridad responsable de la seguridad ferroviaria emitirá, además de la licencia, un diploma en el que se incluya el nombre del centro que impartió la formación, nombre del titular, DNI, domicilio, fecha y lugar de nacimiento del titular, fecha de expedición del diploma y conocimientos superados.
+
+4\. El responsable de seguridad de una entidad ferroviaria tendrá en cuenta, para la emisión de los certificados, el diploma de la autoridad responsable de la seguridad ferroviaria, considerándolo como acreditación de los conocimientos generales mínimos necesarios para el certificado de categoría B, sin perjuicio de formación o pruebas adicionales que considere oportunas. En todo caso, deberá completarse la formación correspondiente a los conocimientos del apartado 40.2.b) y c).
+
+Siempre que hayan transcurrido más de dos años desde la obtención del citado diploma sin que su titular haya obtenido un certificado de categoría B, previamente a la emisión del certificado, los aspirantes deberán realizar un curso de reciclaje, impartido por un centro de formación homologado, similar al establecido en el artículo 40.8 para los certificados.
+
+5\. Para obtener estos diplomas no será necesaria la vinculación laboral del aspirante a una entidad ferroviaria, y no perderán su vigencia en los supuestos de baja laboral en una entidad ferroviaria.
+
+> Se añade por el art. único.19 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 41. Validez.
+
+1\. El período de validez de los certificados se sujetará al régimen de renovación que establezca la entidad ferroviaria correspondiente, sin perjuicio de lo establecido en los apartados siguientes.
+
+2\. Para que un certificado siga teniendo validez su titular deberá superar el curso de actualización y reciclaje a que se refiere el apartado 8 del artículo 40. La entidad ferroviaria a la que pertenezca el maquinista establecerá la frecuencia de dichos cursos y controles con arreglo a su propio sistema de gestión de la seguridad, respetando las frecuencias mínimas establecidas en el apartado 8 del artículo 40.
+
+En cada uno de estos cursos, la entidad otorgante confirmará, mediante mención en el certificado correspondiente y anotación en su registro, que el maquinista cumple los requisitos a que se refiere el primer párrafo de este apartado; asimismo, lo comunicará al Registro Especial Ferroviario.
+
+En caso de no realización de dicho curso de actualización y reciclaje periódico, salvo causa justificada debidamente acreditada, o de obtener un resultado negativo, se aplicará el procedimiento establecido en el artículo 42.
+
+3\. Los certificados perderán su validez cuando:
+
+a) Su titular cause baja laboral en la entidad ferroviaria que lo expidió. En este caso, el titular tendrá derecho a recibir una copia certificada de aquél, de acuerdo con el anexo III del Reglamento (UE) n.º 36/2010 de la Comisión de 3 de diciembre de 2009, sobre los modelos comunitarios de licencias de conducción de trenes, certificados complementarios, copias autenticadas de certificados complementarios y formularios de solicitud de licencias de conducción de trenes, en aplicación de la Directiva 2007/59/CE del Parlamento Europeo y del Consejo, y de todos los documentos que acrediten su formación, cualificaciones, experiencia y competencias profesionales adquiridos en la entidad ferroviaria.
+
+b) La licencia de que dispone el titular sea suspendida o revocada, con arreglo a lo previsto en el artículo 37 de esta orden.
+
+4\. Todo régimen de renovación de los certificados habrá de contemplar un curso de actualización y reciclaje de conocimientos teóricos y prácticos con la periodicidad y contenido que disponga la entidad que los emita.
+
+5\. Sin perjuicio de lo previsto en el artículo 64 de esta orden, en relación con los plazos de validez del certificado de aptitud psicofísica, todo titular de un certificado se someterá, por indicación de su superior jerárquico, a reconocimientos psicofísicos adicionales cuando se dé alguna de las circunstancias siguientes:
+
+a) Hubiere estado involucrado en un accidente o en un incidente de circulación que pudiera haber dado lugar a un accidente.
+
+b) Se observaran en el titular alteraciones evidentes de su estado físico o psíquico.
+
+c) Hubiere estado apartado, por enfermedad o accidente, del ejercicio de las tareas de conducción de vehículos ferroviarios durante más de treinta días; así como después de un accidente laboral grave o muy grave. Todo ello sin perjuicio de lo establecido en el anexo IV.
+
+> Se modifica el apartado 5 por el art. único.20 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 42. Suspensión y revocación de los certificados. Recursos en relación con los certificados.
+
+1\. A los efectos de garantizar la seguridad en el tráfico ferroviario se suspenderá la validez del certificado cuando:
+
+a) Se detecten en su titular niveles de alcohol superiores a los autorizados o indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos.
+
+b) No se hayan realizado en tiempo y forma los cursos de actualización y reciclaje correspondientes.
+
+c) Se cometa una infracción administrativa en los términos previstos en el artículo 92 de la Ley del Sector Ferroviario.
+
+d) Su titular, en el ejercicio de su actividad profesional, se niegue a someterse a un control para la detección de consumo de alcohol o de indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que producen efectos análogos, realizado por personal suficientemente cualificado y autorizado al efecto, de acuerdo con la normativa vigente.
+
+2\. Asimismo la entidad otorgante podrá suspender el certificado, de acuerdo con los criterios de valoración que incluya en su sistema de gestión de seguridad, cuando el titular cometa una infracción reglamentaria relacionada con la seguridad en la circulación o cuando haya estado involucrado, con indicios de infracción reglamentaria, en un accidente o en un incidente de circulación que hubiera podido dar lugar a un accidente.
+
+3\. Si la autoridad responsable de la seguridad ferroviaria constatara, en sus actuaciones de inspección o control, que el maquinista ha dejado de cumplir alguno de los requisitos exigidos para la obtención del certificado o incurre en alguno de los supuestos incluidos en los dos apartados anteriores, se pondrá en contacto con la entidad ferroviaria otorgante del mismo para solicitarle, bien que lleve a cabo una inspección suplementaria, o bien que proceda a la suspensión del certificado. La entidad otorgante adoptará las medidas adecuadas y las comunicará a la autoridad responsable de la seguridad ferroviaria en un plazo máximo de cuatro semanas. Con independencia de ello, la autoridad responsable de la seguridad ferroviaria podrá prohibir cautelarmente a dicho maquinista que opere en la Red Ferroviaria de Interés General hasta que haya recibido el informe de la entidad otorgante.
+
+Si dicha autoridad responsable, o el administrador de infraestructuras ferroviarias, considerase que el estado o actuación de un maquinista supone una amenaza grave para la seguridad ferroviaria, adoptará las medidas necesarias, que podrán incluir la solicitud de detención del tren, y prohibir al maquinista temporalmente la realización de su actividad justificando la decisión tomada. En todos los casos las decisiones anteriores serán objeto de anotación en los registros correspondientes y se comunicarán a la Comisión Europea y demás autoridades competentes, en el caso de que afecte a entidades ferroviarias de otros Estados miembros.
+
+4\. El titular podrá recuperar la validez del certificado suspendido cuando:
+
+a) Acredite de nuevo su aptitud psicofísica, en el supuesto de los casos a) y d), del apartado 1. En el supuesto a) deberá transcurrir al menos un periodo de tres meses mínimo de suspensión, antes de poder acreditar nuevamente la recuperación de la aptitud psicofísica.
+
+b) Supere los oportunos cursos de actualización y reciclaje, en el supuesto del caso b) del apartado 1.
+
+c) Cumpla la sanción administrativa a la que hubiere dado lugar la infracción cometida o se proceda a su archivo, en el supuesto de los casos a) y c) del apartado 1, así como en el supuesto del apartado 2.
+
+d) Transcurridos tres meses después de su negativa en el supuesto del caso d) del apartado 1, previa acreditación de su aptitud psicofísica.
+
+e) Cuando finalice el procedimiento de recuperación establecido en el sistema de gestión de la seguridad de la entidad otorgante, en supuesto del apartado 2. Dicho procedimiento podrá incluir cursos de actualización y reciclaje o acreditación de la aptitud psicofísica.
+
+5\. Se revocará el certificado cuando derive de un procedimiento sancionador que, en su caso, concluya en la pérdida definitiva del mismo, y en particular en los supuestos:
+
+a) por haberse detectado en su titular niveles de alcohol superiores a los autorizados o indicios analíticos de consumo de estupefacientes, psicotrópicos o cualesquiera otras sustancias que produzcan efectos análogos, un mínimo de dos veces en un período de cinco años,
+
+b) por haberse producido la negativa a la realización de pruebas para la detección del consumo de alcohol, estupefacientes, psicotrópicos u otras sustancias con efectos análogos, un mínimo de dos veces en un periodo de cinco años.
+
+6\. El procedimiento de suspensión o, en su caso, revocación del certificado se iniciará de oficio por la entidad ferroviaria con audiencia del interesado, y su resolución en los casos de suspensión o revocación se anotará en el registro a que se refiere el apartado segundo de la disposición adicional octava de esta orden y se comunicará al Registro Especial Ferroviario. La duración de los procedimientos no excederá de 3 meses. Transcurrido dicho plazo sin que se hubiera notificado el acuerdo de suspensión o revocación se producirá la caducidad del procedimiento, que se declarará por medio de la correspondiente decisión en la que, asimismo, se ordenará el archivo de las actuaciones.
+
+7\. Los aspirantes o titulares de los certificados podrán recurrir ante la autoridad responsable de la seguridad ferroviaria las decisiones relativas a la expedición, actualización, suspensión o revocación de los mismas en el plazo de un mes desde la notificación de la denegación de la expedición o la actualización, de la suspensión o de la revocación del certificado, siendo el plazo para dictar y notificar la resolución de tres meses. Transcurrido dicho plazo sin que hubiera recaído resolución expresa deberá entenderse desestimado dicho recurso. Contra las resoluciones de la autoridad responsable de la seguridad podrá interponerse recurso contencioso-administrativo.
+
+> Se modifica por el art. único.21 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 43. Supervisión de los maquinistas por las entidades ferroviarias.
+
+Las entidades ferroviarias deberán controlar la validez de las licencias así como controlar y garantizar la de los certificados de los maquinistas que tengan empleados, estableciendo un sistema de supervisión. Si los resultados del mismo hicieran dudar de la aptitud de un maquinista para realizar su trabajo y del mantenimiento de la validez de su licencia o certificados, tomarán inmediatamente las medidas necesarias.
+
+## TÍTULO VII — Obligaciones de las entidades ferroviarias. El responsable de seguridad en la circulación
+
+#### Artículo 44. Obligaciones de las entidades ferroviarias.
+
+Las entidades ferroviarias están obligadas a disponer dºe programas de formación de su personal afectado por esta orden y de sistemas que garanticen el mantenimiento y perfeccionamiento de los conocimientos profesionales del mismo.
+
+Además, de conformidad con el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, aprobado por el Real Decreto 810/2007, de 22 de junio, y de acuerdo con lo establecido en esta orden, las entidades ferroviarias deberán tener en plantilla un responsable de seguridad en la circulación.
+
+#### Artículo 45. Condiciones para ser responsable de seguridad en la circulación y competencias del mismo.
+
+1\. El responsable de seguridad en la circulación deberá disponer de un título universitario y de una experiencia mínima de cuatro años en el desempeño de funciones relacionadas, bien con la gestión de la seguridad en la circulación de cualesquiera sistemas de transporte, o con la gestión de la circulación ferroviaria, o bien con la conducción de vehículos ferroviarios.
+
+2\. En el marco de lo establecido en esta orden, corresponde a los responsables de seguridad en la circulación de las entidades ferroviarias:
+
+a) Asumir la responsabilidad de cuantas materias tengan relación con la salvaguarda de la seguridad en la circulación.
+
+b) Proponer el tipo y alcance de las habilitaciones y certificados de personal ferroviario contemplados en la presente orden.
+
+c) Comprobar el cumplimiento por los aspirantes de las condiciones mínimas exigidas para acceder a la formación necesaria para obtener los citados certificados y habilitaciones.
+
+d) Determinar el contenido de los programas de formación para la obtención y renovación de las habilitaciones y certificados.
+
+e) Aprobar la propuesta de desarrollo del contenido de los programas de formación y las pruebas de evaluación que le formule el centro homologado de formación correspondiente.
+
+f) Proponer el otorgamiento y, en su caso, suspensión y revocación de las correspondientes habilitaciones y certificados, conforme a lo establecido en esta orden.
+
+## TÍTULO VIII — Evaluación de los procedimientos de formación y examen
+
+#### Artículo 46. Evaluación independiente.
+
+La Dirección General de Infraestructuras Ferroviarias y las entidades ferroviarias, en sus respectivos ámbitos de competencia, encargarán, por intervalos no superiores a cinco años, la realización de evaluaciones independientes de los procedimientos de adquisición y evaluación de los conocimientos y competencias profesionales así como el sistema de otorgamiento de licencias y certificados de conducción.
+
+Dicha evaluación no comprenderá las actividades ya contempladas en los sistemas de gestión de la seguridad y calidad establecidos por el administrador de infraestructuras ferroviarias y las empresas ferroviarias con arreglo al Reglamento de seguridad en la circulación de la Red Ferroviaria de Interés General, aprobado por el Real Decreto 810/2007, de 22 de junio.
+
+La evaluación será realizada por personas físicas o jurídicas cualificadas que no podrán estar dedicadas por razón de la materia a las actividades en cuestión.
+
+Los resultados de las evaluaciones irán acompañados de documentos justificativos, y se comunicarán a la Dirección General de Infraestructuras Ferroviarias, que adoptará, o en su caso propondrá, las medidas oportunas en cada caso.
+
+## TÍTULO IX — Centros homologados de formación de personal ferroviario
+
+### CAPÍTULO I — Régimen general
+
+#### Artículo 47. Concepto y ámbito.
+
+1\. A los efectos de esta orden, los centros homologados de formación de personal ferroviario son organizaciones destinadas a impartir la formación necesaria para la obtención y mantenimiento, bien de la licencia de conducción de vehículos ferroviarios, o bien de cualesquiera de las diversas clases de habilitaciones y certificados de personal ferroviario en los términos que establece la presente orden, o ambos.
+
+2\. Para el ejercicio de las funciones a que se refiere el artículo siguiente, todo centro de formación deberá hallarse debidamente homologado con arreglo a lo establecido en el presente Título.
+
+3\. La Dirección General de Infraestructuras Ferroviarias otorgará la correspondiente homologación en la que figurarán las especialidades formativas autorizadas al centro docente.
+
+4\. La formación teórica de las licencias, certificados y habilitaciones deberán realizarse siempre en locales dependientes de los centros homologados. No obstante, excepcionalmente, en casos debidamente justificados, la Dirección General de Infraestructuras Ferroviarias podrá autorizar, de forma motivada a petición de los centros y con la conformidad de las entidades ferroviarias en los casos de certificados y habilitaciones, la impartición de una parte de dicha formación por medio de un sistema semipresencial a distancia.
+
+5\. La infraestructura ferroviaria sobre la que deben desarrollarse las prácticas de conducción por parte de los aspirantes a la obtención de las licencias y demás títulos habilitantes de conducción de vehículos ferroviarios regulados en esta Orden deberá corresponder, como regla general, a la Red Ferroviaria de Interés General. No obstante, a solicitud del centro homologado de formación, la autoridad responsable de la seguridad ferroviaria podrá autorizar la realización de prácticas de conducción en vías ferroviarias, terminales e instalaciones conectadas a dicha Red.
+
+Las prácticas de formación de los aspirantes a la obtención de las demás habilitaciones reguladas en esta orden deberá realizarse, como regla general, en la Red Ferroviaria de Interés General; si bien la autoridad responsable de la seguridad ferroviaria, a solicitud del centro homologado de formación, podrá autorizar la realización de dichas prácticas en otros lugares que estimara adecuados para ello. La exigencia anterior no será aplicable a la formación para la obtención de las habilitaciones de auxiliar de operaciones de tren y de responsable de las operaciones de carga.
+
+6\. Las circulaciones necesarias para la realización de los exámenes se efectuarán en la Red Ferroviaria de Interés General. El administrador de infraestructuras, a instancia de los centros homologados de formación, establecerá los tramos, surcos y horarios precisos para las circulaciones necesarias para la realización de los exámenes y de las prácticas que así lo requieran. A dichas circulaciones no les será de aplicación canon alguno por el uso de la infraestructura, salvo que las mismas constituyan circulaciones comerciales.
+
+7\. Con el objeto de ajustar la formación teórica de los candidatos interesados, se autoriza a los centros homologados de formación de personal ferroviario para efectuar convalidaciones de la carga lectiva teórica de los correspondientes programas de formación, mediante decisión motivada, atendiendo a los conocimientos formativos que acrediten aquellos. Asimismo, el centro homologado, con el informe favorable de la entidad ferroviaria correspondiente, podrá solicitar a la Dirección General de Infraestructuras Ferroviarias la convalidación, parcial o total, de la carga lectiva práctica, que ésta podrá conceder mediante resolución motivada atendiendo a los conocimientos formativos y experiencia que se acrediten.
+
+Dichos conocimientos podrán acreditarse, entre otros medios, por un documento emitido por la entidad ferroviaria correspondiente, así como por las correspondientes licencias, certificados o habilitaciones.
+
+8\. La realización del correspondiente curso de formación permitirá al aspirante presentarse hasta un máximo de dos pruebas de evaluación teóricas y dos pruebas de evaluación prácticas, en el plazo máximo de tres años contados a partir del inicio del curso. Para poder realizar la prueba de evaluación práctica será preciso haber superado la prueba de evaluación teórica. Quienes finalmente no superen las pruebas de evaluación deberán realizar un nuevo curso formativo.
+
+> Se modifican los apartados 5 y 6 por el art. único.22 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 48. Funciones.
+
+1\. A los efectos de lo dispuesto en este Título, son funciones de los centros homologados de formación, según el caso, las siguientes:
+
+a) Impartir la formación de personal ferroviario para la obtención de la licencia, certificados de conducción, y habilitaciones regulados en esta orden.
+
+b) El desarrollo de los programas de formación para la obtención de las habilitaciones o certificados que se recogen en esta orden, a partir del contenido establecido por los responsables de seguridad en la circulación o, en su caso, por el Director del centro homologado de mantenimiento de material rodante, y la definición de las pruebas de evaluación correspondientes para la obtención de los mismos.
+
+c) La realización de las pruebas de evaluación teóricas y prácticas para la obtención de las habilitaciones o certificados establecidos en esta orden, conforme al presente Título.
+
+d) La realización de cursos específicos de actualización y reciclaje de conocimientos, previstos en esta orden.
+
+e) Proponer a la Dirección General de Infraestructuras Ferroviarias, en el caso de la licencia de conducción, la aprobación del programa de formación que se pretenda impartir, según lo establecido en el artículo 33 de esta orden.
+
+f) Proponer a la Dirección General de Infraestructuras Ferroviarias la convalidación de la carga lectiva práctica para la obtención de licencias, certificados y habilitaciones.
+
+2\. Los centros homologados de formación deberán colaborar con la Dirección General de Infraestructuras Ferroviarias, a requerimiento de ésta, en las tareas de supervisión que les demande.
+
+3\. Los centros homologados podrán establecer acuerdos docentes entre sí, con las empresas ferroviarias o con el Administrador de Infraestructuras Ferroviarias, para el uso de las instalaciones y de sus materiales y equipos, comunicando su contenido, en todo caso, a la Dirección General de Infraestructuras Ferroviarias.
+
+#### Artículo 49. Régimen de funcionamiento de los centros homologados en materia de la licencia de conducción.
+
+1\. Los centros homologados de formación deberán proponer a la Dirección General de Infraestructuras Ferroviarias, la aprobación del contenido de los programas de formación que pretendan impartir, contemplados en el Título VI de la presente orden, al menos, tres meses antes del inicio de la actividad docente.
+
+Los programas deberán contener un cuadro de actividades referidas a las diferentes materias, tanto teóricas como prácticas, indicando los tiempos de dedicación a cada una de ellas. Igualmente, deberán contemplar la realización de las prácticas de conducción, entre las que podrán figurar prácticas en simulador, especialmente para reproducir situaciones particularmente difíciles o degradadas en la conducción; y que en ningún caso se computarán como horas de conducción efectiva.
+
+La Dirección General de Infraestructuras Ferroviarias resolverá sobre la aceptación o no de la propuesta pudiendo imponer modificaciones en los programas. Si no hubiere recaído resolución dentro de los dos meses posteriores a la fecha de presentación de la propuesta, se entenderá que ésta ha sido aceptada.
+
+2\. Cada centro homologado de formación podrá proponer a la Dirección General de Infraestructuras Ferroviarias modificaciones en los programas de formación destinadas a mejorar la formación de los aspirantes, siguiendo la pauta que establece el apartado anterior.
+
+3\. Cada centro homologado de formación realizará, al menos, las convocatorias de los cursos de formación que, con carácter general, establezca la Dirección General de Infraestructuras Ferroviarias.
+
+4\. En las convocatorias que realice un centro para impartir su formación figurará:
+
+a) El número de plazas disponibles.
+
+b) Los requisitos requeridos para acceder al curso, conforme a lo establecido en el artículo 32 de la presente orden.
+
+c) La fecha límite para formular la solicitud de admisión y el plazo de matriculación.
+
+d) La cantidad que se debe satisfacer por la matrícula en el centro homologado, que abarcará la formación y la realización de las pruebas de evaluación, así como todos los costes a que dé lugar las mismas. La cuantía correspondiente se comunicará a la Dirección General de Infraestructuras Ferroviarias por el centro homologado entendiéndose que si en un plazo máximo de 2 meses la misma no contesta se considerarán aceptadas.
+
+5\. La convocatoria habrá de producirse al menos tres meses antes del inicio de cada curso de formación.
+
+6\. Todo ciudadano que cumpla los requisitos y condiciones exigibles tendrá derecho de acceso, de forma equitativa y no discriminatoria, a las convocatorias de la formación para la obtención de la licencia de conducción a impartir por los centros que no dependan de empresas ferroviarias. A tal efecto, dichos centros recibirán las solicitudes de matrícula ordenándolas por orden de presentación y estarán obligados a admitir como aspirantes a todos los solicitantes que cumplan los requisitos exigidos hasta agotar la capacidad autorizada por curso a cada centro por la Dirección General de Infraestructuras Ferroviarias, y sin que pueda exceder la misma salvo autorización expresa de ésta. Cuando el número de solicitudes supere al número de plazas ofertadas, los centros de formación homologados estarán obligados a realizar procesos de selección que respeten los principios de igualdad y méritos. Cada convocatoria requerirá un proceso de admisión propio e independiente de otras anteriores.
+
+Lo dispuesto en el presente apartado también obligará a los centros homologados de formación pertenecientes a entidades dependientes de las administraciones públicas.
+
+En cualquier caso, la Dirección General de Infraestructuras Ferroviarias podrá realizar convocatorias de cursos, a petición de las entidades ferroviarias, restringidos a la promoción interna del personal de las mismas.
+
+7\. Para cumplir las obligaciones impuestas por la presente orden, los centros homologados de formación tendrán que programar cursos específicos de actualización y de reciclaje de conocimientos, y en su caso pruebas teóricas y prácticas. Los programas y contenidos de las pruebas deberán ser aprobados por la Dirección General de Infraestructuras Ferroviarias.
+
+8\. La Dirección General de Infraestructuras Ferroviarias, por causas extraordinarias debidamente justificadas, ya sea por innovaciones tecnológicas o por cambios normativos, podrá imponer a los centros homologados de formación que tengan capacidad suficiente, la programación de cursos de formación adicionales.
+
+#### Artículo 50. Régimen de funcionamiento de los centros homologados en materia de habilitaciones y certificados de personal ferroviario.
+
+1\. La formación exigida para la obtención de las habilitaciones y certificados contemplados en esta orden, será impartida por un centro homologado de formación de acuerdo con lo previsto en este Título.
+
+2\. Los centros homologados se responsabilizarán de impartir los contenidos de los programas de formación, así como la realización de las pruebas de evaluación teóricas y prácticas.
+
+3\. Los contenidos de los programas de formación para la obtención de las habilitaciones del personal de circulación, del personal de infraestructura y del personal de operaciones del tren serán determinados, en cada caso, por el correspondiente responsable de seguridad en la circulación. Basándose en este contenido, el centro homologado de formación propondrá a dicho responsable el desarrollo de dichos programas, estableciendo las horas de docencia y la tipología y características de las pruebas teóricas y prácticas que hayan de superarse. Dicho desarrollo deberá ser aprobado por el citado responsable de seguridad en la circulación.
+
+En el caso de la habilitación del personal responsable de control del mantenimiento de material rodante ferroviario, será el director del centro homologado de mantenimiento quien determine el contenido de los programas de formación y quien apruebe la propuesta de desarrollo de los mismos, elaborada por el centro homologado de formación correspondiente.
+
+El contenido de los programas de formación para la obtención de los certificados de conducción será determinado, en cada caso, por el correspondiente responsable de seguridad en la circulación, de conformidad con los contenidos formativos mínimos establecidos en esta orden. Además, el citado responsable de seguridad aprobará el desarrollo de los programas de formación, que deberá aportar el conocimiento suficiente para la superación de las pruebas correspondientes. En el caso de que el centro considere que dicha formación no es suficiente o que no cumple lo establecido en esta orden, deberá comunicarlo a la Dirección General de Infraestructuras Ferroviarias; de no hacerlo se entenderá que dicho centro de formación considera adecuada y conforme a la orden la aludida formación.
+
+4\. En cumplimiento de lo establecido en esta orden, los centros homologados de formación podrán programar cursos de actualización y reciclaje de conocimientos.
+
+#### Artículo 51. Obligaciones de los centros homologados de formación.
+
+1\. Los centros homologados de formación estarán obligados a conservar, durante un período de cinco años, los expedientes de cada curso, teniéndolos a disposición de la autoridad responsable de la seguridad ferroviaria, de las entidades ferroviarias y en su caso, de los centros de mantenimiento de material rodante, con los que establezcan convenios.
+
+2\. Igualmente deberán remitir al Registro Especial Ferroviario, información sobre los datos correspondientes a dicho registro de los alumnos titulares de una licencia de conducción que hayan superado el nivel de conocimientos exigido en los correspondientes cursos de actualización y reciclaje.
+
+3\. Los centros homologados serán responsables de comprobar, antes del inicio de la formación, de que se cumplen las condiciones para acceder a la misma correspondiente a las licencias, certificados y habilitaciones de esta orden.
+
+> Se modifica por el art. único.23 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 52. Convocatoria de exámenes. Examinadores.
+
+1\. En cada convocatoria de pruebas de evaluación para la obtención de la licencia de conducción, la autoridad responsable de la seguridad ferroviaria definirá el contenido de las pruebas sobre conocimientos teóricos y prácticos, respetando el contenido mínimo que se establece en el anexo V de la presente orden, con indicación de su duración, número de preguntas o ejercicios que deben realizarse y criterios para su calificación.
+
+La autoridad responsable de la seguridad ferroviaria nombrará para examinar a los aspirantes un tribunal conforme a lo dispuesto en el artículo 34.3 de esta orden.
+
+Para la realización de los exámenes los centros homologados estarán obligados a poner a disposición de la autoridad responsable de la seguridad ferroviaria los medios humanos y materiales y a prestar la colaboración necesaria, cuando les sean requeridos.
+
+2\. Las convocatorias para la obtención de habilitaciones y certificados estarán restringidas al ámbito y los procedimientos que hayan sido acordados, según los casos, por el administrador de la infraestructura, por las empresas ferroviarias o por los centros homologados de mantenimiento de material rodante, con los centros homologados de formación. Los mismos acuerdos regirán, en su caso, para definir el contenido de las pruebas de examen, la elección de examinadores y los criterios de calificación. Para el caso de los certificados, el contenido de dichos acuerdos estará en concordancia con el sistema de gestión de seguridad de cada entidad ferroviaria.
+
+3\. A los efectos de los exámenes para la obtención de los certificados de conducción, los centros homologados de formación tendrán el carácter de centros de examen, como entidades aptas para evaluar a maquinistas.
+
+En los casos en que en una prueba sólo haya un examinador, éste no podrá ser la persona que impartió al alumno la formación sobre la materia concreta objeto del examen. Tanto en este supuesto como en los casos en que haya otros examinadores en la prueba en tales circunstancias, la evaluación sobre las materias impartidas por dichos examinadores será realizado por otro examinador distinto que no haya participado en la formación al alumno sobre dicha materia.
+
+> Se modifica por el art. único.24 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 52 bis. Reconocimiento de los examinadores para la obtención de la licencia y los certificados de conducción.
+
+1\. Las personas que deseen solicitar su habilitación como examinadores reconocidos deberán dirigir a la autoridad responsable de la seguridad ferroviaria la correspondiente solicitud y firmar una declaración, cuyo modelo será aprobado mediante resolución por la autoridad responsable de la seguridad ferroviaria, en la que manifiesten su compromiso a actuar de manera imparcial, independiente y no discriminatoria.
+
+2\. Con carácter general, la experiencia requerida a los aspirantes a examinadores reconocidos en relación con las materias objeto del examen, deberá corresponder a un período de práctica profesional no inferior a cuatro años, desarrollada en los cinco años anteriores a la fecha en que se presente la solicitud a la que se hace referencia en el apartado anterior. Sus conocimientos deberán estar actualizados en el momento de la presentación de la solicitud. El plazo de cinco años previsto en este apartado se entenderá ampliado por el mismo tiempo que los aspirantes hayan dedicado a alguna de las formas de conciliación de la vida personal, familiar y laboral previstas en la legislación vigente sobre permisos y licencias, cuando tal circunstancia resulte debidamente acreditada.
+
+El periodo de experiencia profesional podrá incluir, entre otras, fases como gestor de maquinistas en posesión de una licencia de maquinista válida y su certificado complementario, o como formador en tareas pertinentes para la solicitud presentada.
+
+3\. Para los exámenes prácticos a realizar a bordo de trenes, el examinador deberá poseer una licencia de maquinista válida y un certificado válido relativo a la materia de examen o a un tipo similar de línea/material rodante, o, en su caso, un título de conducción y habilitaciones equivalentes. Si el examinador no posee un certificado válido para la infraestructura/material rodante objeto del examen, deberá estar asistido durante su realización por un maquinista que posea el certificado pertinente para dicha infraestructura/material rodante, de conformidad con lo establecido en esta orden.
+
+4\. En el caso de líneas nuevas o recién equipadas o en los supuestos de material rodante nuevo, así como en otros casos excepcionales de naturaleza similar, y dado que ningún examinador reconocido puede disponer de certificado de conducción válido, la autoridad responsable de la seguridad ferroviaria podrá establecer las condiciones y requisitos particulares que se exigirán a los examinadores reconocidos en estos casos, respetando, no obstante, la experiencia mínima profesional establecida en el apartado anterior, así como la exigencia de licencia de conducción.
+
+5\. Además, los solicitantes deberán acreditar que, como mínimo, cumplen las siguientes condiciones:
+
+a) poseer un grado de comprensión y expresión oral del idioma castellano equivalente como mínimo al nivel B2 del ''Marco de referencia europeo de competencia lingüística'' elaborado por el Consejo de Europa, extremo que deberá acreditarse suficientemente mediante certificado de centro de enseñanza de idiomas reconocido oficialmente;
+
+b) poseer los conocimientos suficientes respecto de los procedimientos de los exámenes en los que van a participar y de la documentación empleada así como la aptitud pedagógica necesaria para su realización;
+
+c) contar con un programa de actualización de conocimientos teóricos y prácticos en las materias objeto de examen;
+
+d) estar familiarizado con el sistema de certificación de maquinistas;
+
+e) en el caso de examinadores sobre las competencias lingüísticas en materia de comunicación y terminología específicas en relación con las operaciones ferroviarias y los procedimientos de seguridad, se deberán aportar certificados según la práctica habitual en el ámbito de la formación lingüística, que confirme su competencia para examinar de acuerdo con los principios y metodología del ''Marco de referencia europeo de competencia lingüística'' establecido por el Consejo de Europa.
+
+La autoridad responsable de la seguridad ferroviaria analizará la solicitud y la documentación que la acompañe y resolverá finalmente otorgando, o en su caso, denegando, el reconocimiento como examinador y expedirá la credencial correspondiente. Contra la resolución cabrán los recursos establecidos por la normativa vigente.
+
+6\. La credencial del reconocimiento de un examinador tendrá una vigencia de cinco años, si bien la autoridad responsable de la seguridad ferroviaria podrá reducir el periodo de vigencia en relación con la totalidad o parte de los ámbitos de competencias indicados en la credencial en casos justificados.
+
+El titular de una credencial de reconocimiento válida podrá solicitar en todo momento su modificación para añadir uno o varios ámbitos de competencia, aportando los documentos complementarios adecuados, y sin que la fecha de vencimiento de la credencial de reconocimiento modificada se vea afectada.
+
+7\. Si se produjeran cambios que obligaran a modificar la credencial de reconocimiento porque hubieran dejado de cumplirse los requisitos en relación con uno o varios de los ámbitos de competencia especificados, el examinador reconocido debe dejar inmediatamente de examinar en esos ámbitos de competencia e informar por escrito a la autoridad responsable de la seguridad ferroviaria, para que actualice, en su caso, la credencial de reconocimiento.
+
+8\. Las credenciales de reconocimiento deben renovarse a solicitud del examinador y expedirse en las mismas condiciones que las de la credencial de reconocimiento inicial. La autoridad responsable de la seguridad ferroviaria podrá establecer un procedimiento simplificado para los casos en que no cambien las condiciones para el reconocimiento.
+
+9\. Si tras la evaluación o supervisión realizada por la autoridad responsable de la seguridad ferroviaria se observara que un examinador no cumple los requisitos para el reconocimiento, dicha autoridad responsable retirará o suspenderá la credencial de reconocimiento correspondiente.
+
+Si la autoridad responsable de la seguridad ferroviaria constatara que un examinador reconocido por la autoridad competente de otro Estado miembro no cumple uno o varios requisitos de la Directiva 2007/59/CE y de la Decisión 2011/765/UE, informará a la autoridad competente del Estado miembro que concedió la credencial de reconocimiento y solicitará que esta última realice las comprobaciones adecuadas.
+
+10\. La autoridad responsable de la seguridad ferroviaria inscribirá a los examinadores reconocidos dentro de una nueva subsección, así denominada, que figurará dentro de la Sección 4.ª del Registro Especial Ferroviario y hará públicos los datos necesarios. Para mantener el registro actualizado, los examinadores reconocidos informarán a la autoridad responsable de la seguridad ferroviaria de todo cambio en los datos que figuren en el mismo.
+
+De igual manera, en la Sección de centros homologados de formación de personal ferroviario del Registro Especial Ferroviario se inscribirán, a continuación de la relación del personal instructor de cada centro homologado, la relación del personal examinador de maquinistas de cada uno de dichos centros.
+
+11\. Mediante resolución de la autoridad responsable de la seguridad ferroviaria, publicada en el ''BOE'', se desarrollarán los sistemas de solicitud de reconocimiento como examinador, concesión, vigencia, modificación, renovación y revocación de las credenciales de examinador y registro de las mismas.
+
+> Se añade por el art. único.25 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 53. Régimen de inspección.
+
+1\. Los centros homologados de formación serán objeto de inspección por la Dirección General de Infraestructuras Ferroviarias en todas las operaciones vinculadas con la formación de personal para la obtención de la licencia, certificados y habilitaciones establecidos en la presente orden. Para tal fin podrá contar con la colaboración de las entidades que, al efecto, determine.
+
+2\. Los centros homologados deberán proporcionar a la autoridad responsable de la seguridad ferroviaria, cuanta información relacionada con la formación de los alumnos les sea requerida como consecuencia de las actuaciones de inspección.
+
+Independientemente de lo anterior, en todo caso, antes del 30 de junio de cada año, los centros presentarán un informe anual de las actividades realizadas durante el año anterior, en el que constarán:
+
+a) Información detallada de los cursos impartidos y sus resultados.
+
+b) Descripción de aquellos cambios en sus medios, procedimientos o condiciones que sirvieron de base a su homologación.
+
+c) Información sobre la aplicación de su sistema de gestión interno para asegurar la calidad de la formación y el adecuado funcionamiento del centro, en particular sobre:
+
+– Procedimientos de control de la calidad de la formación.
+
+– Formación continua del personal y mejoras del equipamiento.
+
+– Resultados de planes y programas, mediante indicadores del cumplimiento de los mismos.
+
+– Resultados de auditorías internas de calidad.
+
+3\. En las labores de inspección y control se comprobará que los centros mantienen el nivel de formación y cumplen los requisitos que fueron exigidos para su homologación.
+
+> Se modifica el apartado 2 por el art. único.26 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+### CAPÍTULO II — Régimen de homologación de los centros de formación
+
+#### Artículo 54. Homologación. Requisitos para su obtención.
+
+1\. Corresponde a la Dirección General de Infraestructuras Ferroviarias la autorización, a través de la correspondiente homologación, de los centros de formación, conforme al procedimiento que se establece en este Capítulo.
+
+2\. Para la homologación se requerirá el cumplimiento de los siguientes requisitos:
+
+a) Ser persona física o jurídica, residente en España y con capacidad para desarrollar actividades mercantiles conforme a lo establecido en el Código de Comercio, así como también las fundaciones que tengan en su objeto social la formación de personal ferroviario.
+
+b) Acreditar competencia profesional y capacidad técnica suficientes.
+
+c) Contar con capacidad financiera para hacer frente a sus obligaciones.
+
+d) Tener cubierta la responsabilidad civil de acuerdo con la normativa vigente.
+
+e) Disponer de un estatuto interno que recoja su régimen de funcionamiento, los procedimientos de evaluación y control de los alumnos, el régimen de calificaciones, y cualesquiera otras reglas que sean necesarias para un mejor desarrollo de su actividad.
+
+3\. No podrán homologarse quienes se encuentren en alguno de los siguientes supuestos:
+
+a) Los sancionados por infracciones administrativas muy graves previstas en la legislación mercantil y docente, en el plazo de cinco años desde la imposición de la sanción.
+
+b) Los sancionados o condenados, mediante resolución o sentencia firme, por infracciones muy graves cometidas en el ámbito de la legislación docente o por infracción grave o reiterada de las obligaciones derivadas de las normas sociales o laborales, en particular de la legislación sobre seguridad y salud en el trabajo, en el plazo de cinco años desde que se produzca la firmeza de la resolución sancionadora.
+
+c) Los que no se encuentren al corriente de las obligaciones tributarias, así como de sus obligaciones con la Seguridad Social.
+
+d) Aquellos centros de formación o entidades a las que pertenecen, cuyos administradores o miembros de su personal directivo sufran o hayan sufrido, en España o fuera de ella, pena privativa de libertad, hayan sido declarados en situación concursal, inhabilitados o suspendidos para ejercer cargos de administración en sociedades o sancionados o condenados mediante resolución o sentencia firmes por la comisión de las infracciones a las que se refieren las letras anteriores hasta que quede íntegramente extinguida su responsabilidad.
+
+#### Artículo 55. Criterios para valorar la competencia profesional y la capacidad técnica.
+
+Se cumplirán los requisitos de competencia profesional y de capacidad técnica cuando el centro cuente con:
+
+a) Una estructura empresarial adecuada para ofrecer la formación que pretende impartir con el debido nivel de calidad, que se acreditará con:
+
+1.º Un proyecto docente para el conjunto de actividades que se pretenden desarrollar.
+
+2.º Un plan de calidad de la formación que permita garantizar la calidad en la formación impartida de acuerdo con lo establecido en esta orden.
+
+3.º Un responsable como director del centro, con experiencia profesional en el campo de la formación y con un título universitario oficial, título de Grado o Máster o equivalente.
+
+b) Personal docente adecuadamente capacitado y en número suficiente para ejercer la actividad para la que se solicita la homologación. Entre este personal deberá encontrarse:
+
+1.º Al menos un responsable entre el personal instructor de la formación teórica, que habrá de disponer de un título universitario oficial, título de Grado o Máster o equivalente, y acreditar una experiencia profesional y docente suficiente en las materias que componen la formación.
+
+2.º Formadores de la formación práctica requerida para licencias y certificados de conducción en posesión de la licencia de maquinistas en vigor y un certificado válido que cubra la materia tratada, o un tipo similar de línea o material rodante, y con una experiencia profesional mínima de tres años en la conducción de trenes o locomotoras.
+
+La autoridad responsable de la seguridad ferroviaria resolverá, a petición razonada de cada centro homologado, acerca de la similitud de líneas o material rodante a los efectos de la validez de los certificados, de acuerdo con lo establecido en el párrafo anterior.
+
+En el caso de la formación de certificados de conducción, si el formador carece de dicho certificado, se garantizará que esté presente en la formación un maquinista que posea dicho certificado.
+
+3.º Al menos un responsable entre el personal instructor de la formación práctica para las habilitaciones que se contemplan en esta orden, que deberá acreditar una experiencia en las funciones correspondientes a las habilitaciones cuya formación se imparta de al menos cuatro años para la formación de la habilitación de responsable de circulación, y de tres años para el resto de las habilitaciones, salvo supuestos excepcionales expresamente autorizados, caso a caso, por la autoridad responsable de la seguridad ferroviaria.
+
+c) Medios y, en su caso, instalaciones adecuadas y en número suficiente para ejercer la actividad para la que se solicita la homologación. Se estimará que el centro cumple este requisito si dispone de:
+
+1.º Aulas de clases teóricas, con una superficie media aproximada de 2,5 metros cuadrados por alumno, con el mobiliario y los medios docentes adecuados al número de alumnos y a los cursos y contenidos previstos en el proyecto docente.
+
+2.º Instalaciones para la realización de las prácticas que correspondan a la formación a impartir. Tendrán la consideración de instalaciones de prácticas, en el caso de la licencia o certificados de conducción, las cabinas de los vehículos ferroviarios y los talleres donde se mantienen. Para las habilitaciones podrán considerarse instalaciones de prácticas las estaciones, los puestos de mando, las terminales, los talleres y demás instalaciones ferroviarias donde se realice la actividad para la que se pretende habilitar.
+
+3.º Un sistema de archivo adecuado para la documentación relativa a su personal y sus alumnos, a los programas de formación y a las actividades docentes que realice.
+
+4.º Los centros deberán reunir las condiciones de habitabilidad y de seguridad exigidas por la normativa vigente.
+
+d) Acuerdos, en su caso, realizados con las entidades ferroviarias para la realización de prácticas de conducción acompañados por un maquinista provisto de la licencia y el certificado correspondiente.
+
+e) Un sistema de gestión interna, que garantice que la prestación de los servicios que suministra al sistema ferroviario es conforme, al menos, con las normas y requisitos fijados en las normas europeas y nacionales que los regulan.
+
+> Se modifica por el art. único.27 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 56. Criterios para valorar la capacidad financiera y la cobertura de responsabilidad civil.
+
+1\. Se cumplirá el requisito de capacidad financiera cuando la entidad solicitante de la homologación disponga de recursos suficientes para hacer frente, en cualquier momento, a las obligaciones que haya contraído o pueda contraer, por un periodo de doce meses, a contar desde el otorgamiento de la homologación. Podrá acreditarse mediante la presentación de un informe pericial o de documentos adecuados expedidos por entidades de crédito o auditores de cuentas.
+
+2\. A los efectos exclusivos del otorgamiento de la homologación, se entenderá que un centro de formación cubre su responsabilidad civil derivada de las actividades de la formación que imparta si, en el momento de formular la solicitud de homologación dispone de un compromiso con una entidad aseguradora de cobertura de los riesgos derivados de su actividad o un compromiso de afianzamiento mercantil con una entidad legalmente autorizada. Será necesario formalizar el compromiso convenido antes de iniciar la actividad.
+
+#### Artículo 57. Procedimiento de homologación.
+
+1\. La solicitud de homologación de un centro de formación, con el contenido previsto en el artículo 70.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se dirigirá a la Dirección General de Infraestructuras Ferroviarias e incluirá la asunción formal, por el solicitante, de cuantas condiciones y garantías se establecen en la presente orden.
+
+2\. La solicitud de homologación de un centro de formación podrá ir acompañada de la documentación que el solicitante considere oportuna para un mejor conocimiento y valoración de su petición. En todo caso deberá adjuntarse los siguientes documentos:
+
+a) Cuando se trate de sociedades mercantiles, la escritura de constitución y, en su caso, de modificación, inscrita en el Registro Mercantil, en la que conste su capital social en el momento de la solicitud. Cuando se trate de fundaciones, la escritura de constitución y la inscripción de la misma en el correspondiente Registro de Fundaciones. Cuando se trate de centros dependientes de una entidad ferroviaria, la escritura de constitución de ésta o, en su caso, las referencias legales a la condición de entidad pública empresarial de la que depende.
+
+b) Una declaración responsable de no hallarse incurso en ninguno de los supuestos enumerados en el artículo 54.3 cuando no sea posible aportar los certificados correspondientes. Los administradores o directivos de entidades que soliciten la homologación y tengan nacionalidad extranjera, deberán presentar un certificado expedido por el órgano competente de su Estado en el que se haga constar que no se hallan incursos en ninguno de los supuestos expresados en el citado artículo.
+
+c) Una copia del Estatuto interno del centro.
+
+d) Un organigrama de la estructura organizativa del centro en el que figuren los principales responsables de la misma en las diferentes áreas de formación.
+
+e) Un proyecto docente del centro de formación en el que consten los programas de enseñanza de cada curso y asignatura que se pretenda impartir. En el proyecto se determinará el tipo y volumen medio anual del número de alumnos que se prevea atender y se indicará el profesorado con el que contará. Asimismo, se indicarán los procedimientos de que se dispone para mantener actualizados los métodos, instrumentos y equipos de formación, incluidos bibliografía sobre formación, programas informáticos y, en su caso, documentación proporcionada por el administrador de infraestructuras ferroviarias y se acompañará el Plan previsto para ofrecer gestión de competencias, formación permanente y medidas para mantener actualizadas las cualificaciones profesionales de su personal formador.
+
+f) ''Currículum vítae'' de los responsables de la dirección del centro y de las formaciones teóricas y prácticas, indicando entre otros datos, la licencia, certificados, habilitaciones y otros títulos y diplomas con los que cuenten, en su caso.
+
+g) ''Currículum vítae'' del resto del personal instructor con que cuente el centro, indicando entre otros datos, la licencia, certificados, habilitaciones y otros títulos y diplomas con los que cuenten, en su caso.
+
+h) Copia, en su caso, de los convenios celebrados con entidades ferroviarias para la realización de prácticas de conducción con un conductor autorizado o para utilizar sus simuladores y equipos.
+
+i) Descripción de las instalaciones que ocupará el centro, con sus correspondientes planos de detalle y relación justificada de equipos y demás medios materiales de que vaya a disponer.
+
+j) Descripción del sistema de gestión interno que describe los procedimientos para asegurar el cumplimiento de los requisitos legales.
+
+k) Plan de Prevención de Riesgos Laborales para el ejercicio de su actividad.
+
+l) Indicación de los sistemas con los que se comunicará con la autoridad responsable de la seguridad ferroviaria, con el administrador de infraestructuras ferroviarias y, en su caso, con las empresas que operen en el sector ferroviario para cuyos trabajadores prevea realizar actividades formativas.
+
+m) Documentación que acredite el cumplimiento de los requisitos de capacidad financiera.
+
+n) Documentación que acredite el cumplimiento de los requisitos de cobertura de responsabilidad civil.
+
+o) Documentación justificativa de la personalidad jurídica del peticionario y, en su caso, del representante y del poder con el que éste actúa.
+
+En el supuesto de que fuera requerida alguna documentación adicional a la dispuesta en este apartado, el solicitante dispondrá de quince días, desde la fecha en que ésta le sea requerida, para presentar la documentación que subsane y complete la entregada junto con la solicitud. La falta de presentación de la referida documentación en el plazo dispuesto será motivo suficiente para la denegación de la solicitud de homologación.
+
+3\. La Dirección General de Infraestructuras Ferroviarias, antes de dictar resolución, podrá requerir al solicitante la información o las aclaraciones que considere convenientes sobre su solicitud o sobre los documentos que a la misma se acompañan.
+
+4\. La Dirección General de Infraestructuras Ferroviarias realizará una visita al centro de formación y, a la vista del informe elaborado y de los restantes antecedentes, resolverá motivadamente el expediente, notificando, en un plazo máximo de cinco meses a contar desde la fecha de presentación de la solicitud de homologación, la resolución de su otorgamiento o de su denegación.
+
+Transcurrido el plazo previsto en el párrafo anterior sin que haya recaído resolución expresa, se entenderá estimada la solicitud.
+
+5\. Otorgada la homologación, el centro deberá satisfacer la tasa por homologación de centros de formación, establecida en el artículo 69 de la Ley del Sector Ferroviario.
+
+6\. La homologación se otorgará inicialmente por un período de tres años y las renovaciones sucesivas por períodos de cinco años. A los efectos de la renovación se aplicará idéntico régimen que el establecido para la homologación, debiendo formularse la solicitud de aquélla, con la necesaria antelación, antes de la expiración de la validez de la homologación en vigor.
+
+7\. La Dirección General de Infraestructuras Ferroviarias inscribirá en el Registro Especial Ferroviario a los centros que obtengan la homologación para formar al personal ferroviario.
+
+8\. Las resoluciones de la autoridad responsable de seguridad agotarán la vía administrativa y contra las mismas se podrá interponer recurso potestativo de reposición en el plazo de un mes, siendo el plazo máximo para dictar y notificar la resolución del recurso de un mes. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, deberá entenderse desestimado dicho recurso. Todo ello sin perjuicio del derecho de los interesados a recurrir a la vía jurisdiccional contencioso-administrativa.
+
+> Se modifican los apartados 2 y 8 por el art. único.28 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 58. Validez de la homologación.
+
+1\. La homologación conservará su validez dentro de su periodo de vigencia, mientras el centro homologado de formación cumpla los requisitos previstos para su otorgamiento en la presente orden.
+
+2\. La Dirección General de Infraestructuras Ferroviarias podrá comprobar, en cualquier momento, el cumplimiento por los centros de los citados requisitos.
+
+Dicha Dirección General podrá exigir a los centros homologados de formación la aportación de cuanta información entienda necesaria para comprobar que se mantienen las condiciones que justificaron el otorgamiento de la homologación.
+
+3\. Sin perjuicio de lo anterior, la autoridad responsable de la seguridad ferroviaria realizará inspecciones de los centros homologados de formación con carácter anual y cuando se tengan dudas fundadas de posibles incumplimientos de los requisitos que les sean exigibles a los mismos.
+
+4\. Sin perjuicio de lo indicado en los apartados anteriores, todos los centros homologados de formación están obligados a notificar, previamente, a la Dirección General de Infraestructuras Ferroviarias cuantas variaciones se produzcan en los datos aportados en la solicitud de homologación del centro. También deberán comunicar, previamente sus planes relativos a nuevas enseñanzas.
+
+Además comunicarán en el plazo máximo de un mes desde que se produzca, cualquier variación que afecte a los datos obrantes en la Sección de centros de formación del personal ferroviario del Registro Especial Ferroviario.
+
+5\. Cuando la Dirección General de Infraestructuras Ferroviarias constate que un centro de formación ha dejado de cumplir los requisitos que le sean exigibles, iniciará el procedimiento de suspensión, o en su caso, de revocación, de la homologación de que disponga, conforme lo establecido en el artículo siguiente.
+
+6\. La Dirección General de Infraestructuras Ferroviarias podrá utilizar, para el apoyo a las funciones inspectoras referidas anteriormente, la colaboración de entidades de probada capacidad.
+
+> Se modifica el apartado 3 por el art. único.29 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 59. Suspensión y revocación de la homologación.
+
+1\. La Dirección General de Infraestructuras Ferroviarias podrá suspender motivadamente la homologación otorgada a un centro de formación. Dicha suspensión se acordará cuando se constate el incumplimiento de cualesquiera de los requisitos exigidos para su otorgamiento así como de las demás exigencias y obligaciones que se establecen en esta orden, y hasta tanto no se subsanen los incumplimientos detectados.
+
+2\. La resolución por la que se acuerde la suspensión de la homologación será inmediatamente ejecutiva desde su notificación al interesado.
+
+3\. El centro de formación podrá proceder a solicitar la anulación de la suspensión, una vez subsanadas las anomalías causantes de la misma.
+
+4\. La Dirección General de Infraestructuras Ferroviarias revocará la homologación de un centro de formación cuando los incumplimientos que hubieran provocado la suspensión de dicha homologación no hubieran sido convenientemente subsanados en el plazo de doce meses desde que fue ejecutada la suspensión.
+
+5\. El procedimiento para la suspensión, o en su caso, la revocación de la homologación, se iniciará por la Dirección General de Infraestructuras Ferroviarias, dándose audiencia al centro para que, en el plazo máximo de 15 días formule las alegaciones que estime pertinentes. La Dirección General de Infraestructuras Ferroviarias dictará resolución en el plazo máximo de seis meses, la cual se anotará en el Registro Especial Ferroviario. Transcurrido dicho plazo sin que se hubiera notificado la resolución de suspensión o revocación se producirá la caducidad del procedimiento, que se declarará por medio de la correspondiente resolución en la que, asimismo, se ordenará el archivo de las actuaciones.
+
+6\. Las resoluciones de la autoridad responsable de seguridad agotarán la vía administrativa y contra las mismas se podrá interponer recurso potestativo de reposición en el plazo de un mes, siendo el plazo máximo para dictar y notificar la resolución del recurso de un mes. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, deberá entenderse desestimado dicho recurso. Todo ello sin perjuicio del derecho de los interesados a recurrir a la vía jurisdiccional contencioso-administrativa.
+
+> Se modifica el apartado 6 por el art. único.30 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## TÍTULO X — Centros homologados de reconocimiento médico de personal ferroviario
+
+### CAPÍTULO I — Régimen general
+
+#### Artículo 60. Concepto y ámbito.
+
+1\. Los centros homologados de reconocimiento médico, a los efectos regulados en esta orden, son organizaciones encargadas de certificar la aptitud psicofísica exigible para la obtención y mantenimiento de la licencia de conducción de vehículos ferroviarios y, en su caso, de las habilitaciones y certificados de personal ferroviario en los términos que establece la misma.
+
+2\. Para el ejercicio de las funciones a que se refiere el artículo siguiente, todo centro de reconocimiento médico deberá hallarse debidamente homologado con arreglo a lo establecido en el presente Título.
+
+Asimismo, dichos centros deberán contar, en todo caso, con las correspondientes autorizaciones otorgadas por las autoridades sanitarias competentes.
+
+#### Artículo 61. Funciones.
+
+1\. Corresponde a los centros homologados de reconocimiento médico, a los efectos de esta orden, la realización de las pruebas de evaluación para la obtención del certificado de aptitud psicofísica, así como la emisión del certificado de la aptitud psicofísica correspondiente a cada caso.
+
+2\. Los centros de reconocimiento médico deberán colaborar con la Dirección General de Infraestructuras Ferroviarias, a requerimiento de ésta, en las tareas de supervisión que les demande.
+
+#### Artículo 62. Pruebas de valoración de la capacidad psicofísica.
+
+1\. Las pruebas para la valoración de la capacidad psicofísica tienen por objeto verificar el cumplimiento de los requisitos exigidos para la emisión del correspondiente certificado de aptitud.
+
+2\. Las pruebas para la valoración de la capacidad psicofísica, periódicas y adicionales, se ajustarán a las condiciones de capacidad del personal ferroviario, según les corresponda, con arreglo a lo previsto en los anexos de la presente orden.
+
+3\. La persona que deba someterse a las pruebas de evaluación psicofísica aportará al centro homologado de reconocimiento médico donde las vaya a efectuar una declaración jurada que contenga los datos sobre su estado de salud, historial médico así como, en su caso, medicación prescrita e informes médicos al respecto, a los efectos de comprobación por el personal médico facultativo. En dicha declaración constarán al menos los datos reflejados en el Anexo VII. Se le hará saber que está en la obligación de presentar una declaración tan completa y precisa como sus conocimientos de estos detalles le permitan.
+
+4\. Al término de las pruebas de valoración de capacidad psicofísica, el centro efectuará una evaluación de la aptitud del solicitante, y establecerá un informe para los casos en que la aptitud del mismo no sea la requerida o, siendo la requerida, sea necesario realizar nuevas pruebas en el plazo que se establezca.
+
+5\. Los impresos originales con los resultados de las pruebas complementarias practicadas al solicitante, junto con el informe de aptitud emitido por el centro homologado de reconocimiento médico, quedarán archivados en su expediente clínico personal. Los expedientes de evaluación psicofísica personales archivados en el centro homologado de reconocimiento médico, deberán custodiarse, durante un período de cinco años, con las garantías propias de datos médicos de carácter personal, de conformidad con la normativa vigente.
+
+6\. El importe que se deba satisfacer al centro homologado de reconocimiento médico por la realización de las pruebas para la obtención de los certificados de evaluación de aptitud psicofísica para la expedición de la licencia de conducción será fijado por la Dirección General de Infraestructuras Ferroviarias a petición de cada centro de forma motivada.
+
+7\. En los supuestos contemplados en el apartado 4 de este artículo, se entregará al solicitante el informe de capacidad. En los restantes supuestos, se entregará dicho informe, previa petición del aspirante a obtener el certificado de aptitud.
+
+> Se modifica el apartado 3 por el art. único.31 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 63. Emisión de certificados de aptitud psicofísica.
+
+1\. Para la obtención y conservación de la licencia, los certificados y las habilitaciones contemplados en esta orden, será necesario disponer del correspondiente certificado de aptitud psicofísica.
+
+2\. Una vez finalizadas y superadas las pruebas de aptitud psicofísica, el centro homologado entregará el certificado de aptitud psicofísica a la persona valorada.
+
+3\. El certificado de aptitud psicofísica contendrá la siguiente información:
+
+a) Identificación del centro donde se ha practicado el reconocimiento.
+
+b) El número de referencia, con la nomenclatura que indique la Dirección General de Infraestructuras Ferroviarias, que tendrá unos dígitos para identificar el centro homologado, otros para la clase de reconocimiento, y otros de orden de emisión por el centro.
+
+c) El tipo de certificado.
+
+d) El nombre y apellidos de la persona que lo obtenga.
+
+e) El número de documento nacional de identidad, del permiso de residencia, o del pasaporte.
+
+f) Su nacionalidad.
+
+g) Fecha en la que se practica el reconocimiento.
+
+h) Las limitaciones que se le impongan.
+
+i) El nombre del médico evaluador, su firma y número de colegiado.
+
+4\. La emisión de los certificados de aptitud psicofísica se realizará por los centros homologados, en los impresos aprobados por la Dirección General de Infraestructuras Ferroviarias.
+
+5\. En los certificados se calificará al personal dentro de las siguientes categorías:
+
+a) Apto: aquel que cumple todas las condiciones psicofísicas previstas en esta orden para la obtención o renovación de su título habilitante.
+
+b) No apto: aquel que no cumple todas condiciones psicofísicas previstas en esta orden para la obtención o renovación de su título habilitante.
+
+c) No apto temporal: aquel que no cumple las condiciones psicofísicas previstas en la presente orden para la obtención o renovación de su título habilitante, por causa que puede subsanarse en un plazo limitado de tiempo. En ese caso podrá someterse a una nueva revisión en el plazo que indique el médico reconocedor. Durante dicho plazo, el correspondiente título habilitante quedará suspendido.
+
+> Se añade el apartado 5 por el art. único.32 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 63 bis. Recuperación de certificados con el resultado de No Apto.
+
+En aquellos supuestos en los que se emita un certificado con resultado de ''no apto'', el interesado podrá solicitar un nuevo reconocimiento que confirme dicha decisión o que compruebe si las condiciones que lo motivaron han cambiado. El nuevo reconocimiento, que se podrá solicitar en el mismo o en otro centro homologado, deberá ajustarse a las siguientes condiciones:
+
+a) Deberá transcurrir un periodo mínimo de al menos tres meses entre ambos reconocimientos.
+
+b) El solicitante estará en la obligación de poner de manifiesto al segundo centro, la existencia previa de un «no apto» y los motivos que lo justificaron.
+
+En el caso de que, como resultado de esta segunda evaluación, el centro de reconocimiento médico considerase adecuado cambiar la valoración final a ''apto'', deberá ponerlo en conocimiento de la autoridad responsable de la seguridad ferroviaria, para su inscripción en el Registro Especial Ferroviario, y así como del primer centro que emitió el certificado con resultado de ''no apto''.
+
+> Se añade por el art. único.33 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 64. Validez de los certificados de aptitud psicofísica.
+
+1\. El certificado de aptitud psicofísica para el personal de conducción tendrá como regla general una validez de un año desde la fecha de su expedición, con la salvedad recogida en el apartado 4.
+
+No obstante lo anterior, el centro homologado de reconocimiento médico podrá prescribir exámenes de aptitud psicofísica más frecuentes, si así lo exige el estado de salud del trabajador.
+
+Todo ello sin perjuicio de los reconocimientos obligatorios establecidos en el artículo 41.5 de esta orden y los que pueden solicitar las entidades ferroviarias respecto de trabajadores apartados del servicio por razones de seguridad en la circulación.
+
+2\. El certificado de aptitud psicofísica del resto del personal ferroviario tendrá como regla general una validez de 5 años, con la salvedad recogida en el apartado 4. A partir de los 50 años el plazo de validez se reducirá a tres años y a partir de los 60 a un año. Las edades antes referidas se tendrán en cuenta en el momento de finalización de las pruebas de aptitud psicofísica.
+
+3\. El período de validez del certificado de aptitud psicofísica podrá ser reducido, en casos concretos, por el correspondiente centro homologado, en función de los resultados de las pruebas practicadas.
+
+4\. Si la renovación de un certificado se realiza en los treinta días anteriores a su fecha de caducidad, la validez del nuevo certificado se extenderá desde la fecha de caducidad del certificado precedente y por el periodo que corresponda en aplicación de lo especificado en los apartados anteriores.
+
+> Se modifica por el art. único.34 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 65. Obligaciones del centro de reconocimiento médico.
+
+1\. Los centros de reconocimiento médico que hayan sido homologados estarán obligados a conservar durante diez años los expedientes clínicos personales de cada evaluación, teniéndolos a disposición de la autoridad responsable de la seguridad ferroviaria, y de las entidades públicas empresariales y empresas ferroviarias con las que establezcan convenios. Dicha obligación podrá ser cumplimentada por medios electrónicos siempre que quede acreditado suficientemente el contenido de dichos expedientes clínicos. Todo ello, sin perjuicio del cumplimiento de la legislación sobre protección de datos de carácter personal.
+
+2\. En el caso de los titulares de una licencia de conducción, los centros homologados de reconocimiento médico deberán informar al Registro Especial Ferroviario sobre el resultado de las evaluaciones psicofísicas realizadas.
+
+3\. Cuando los centros de reconocimiento médico procedan a la realización de las pruebas a que se refieren los artículos 10, 16, 22, y 41, comunicarán el resultado de las mismas, además de al propio interesado, al órgano o entidad que las hubiere requerido y al Registro Especial Ferroviario.
+
+> Se modifica el apartado 1 por el art. único.35 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 66. Régimen de inspección.
+
+1\. Los centros homologados de reconocimiento médico de personal ferroviario serán inspeccionados por la Dirección General de Infraestructuras Ferroviarias en todas las operaciones vinculadas con la evaluación de la capacidad psicofísica para las licencias y diferentes habilitaciones y certificados establecidos en la presente orden. Para tal fin dicha Dirección General podrá contar con la colaboración de las entidades que, al efecto, determine.
+
+2\. Los centros deberán proporcionar a la autoridad responsable de la seguridad ferroviaria, cuanta información relacionada con la evaluación de la capacidad psicofísica de personal ferroviario les sea requerida como consecuencia de las actuaciones de inspección.
+
+Independientemente de lo anterior, en todo caso, antes del 30 de junio de cada año, los centros presentarán un informe anual de las actividades realizadas durante el año anterior, en el que constarán:
+
+a) Información detallada de las actividades realizadas, incluyendo los reconocimientos realizados y los resultados de ''no aptos''.
+
+b) Descripción de aquellos cambios en sus medios, procedimientos o condiciones que sirvieron de base a su homologación.
+
+c) Información sobre la aplicación de su sistema de gestión interno para asegurar la calidad de los reconocimientos y el adecuado funcionamiento del centro, en particular sobre:
+
+– Formación continua del personal y mejoras del equipamiento.
+
+– Resultados de planes y programas, mediante indicadores del cumplimiento de los mismos.
+
+– Resultados de auditorías internas de calidad.
+
+3\. En las labores de inspección se comprobará que, al menos, se mantienen los requisitos exigidos en esta orden para la homologación de los centros de reconocimiento médico.
+
+> Se modifica el apartado 2 por el art. único.36 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+### CAPÍTULO II — Régimen de homologación de los centros de reconocimiento médico
+
+#### Artículo 67. Requisitos para la homologación.
+
+1\. Corresponde a la Dirección General de Infraestructuras Ferroviarias homologar los centros de reconocimiento médico siguiendo los procedimientos y cumpliendo los requisitos que se establecen en este Título, sin perjuicio de las competencias de las Comunidades Autónomas en la materia.
+
+2\. La homologación de centros de reconocimiento médico requerirá que se acredite el cumplimiento de los siguientes requisitos:
+
+a) Revestir, en caso de no formar parte del Administrador de Infraestructuras Ferroviarias o de una empresa ferroviaria, la forma de sociedad mercantil.
+
+b) Acreditar la competencia profesional y la capacidad técnica.
+
+c) Contar con capacidad financiera para hacer frente a sus obligaciones.
+
+d) Tener cubierta la responsabilidad civil de acuerdo con la normativa vigente.
+
+e) Disponer de un estatuto interno que recoja su régimen de funcionamiento, los procedimientos de evaluación de capacidad psicofísica y cualesquiera otras reglas que sean necesarias para un mejor desarrollo de su actividad.
+
+3\. No podrán homologarse aquellos centros de reconocimiento médico que se encuentren en alguno de los siguientes supuestos:
+
+a) Los sancionados por infracciones administrativas muy graves previstas en la legislación mercantil y sanitaria, en el plazo de cinco años desde la imposición de la sanción.
+
+b) Los sancionados o condenados, mediante resolución o sentencia firme, por infracciones muy graves cometidas en el ámbito de la legislación sanitaria, o por infracción grave o reiterada de las obligaciones derivadas de las normas sociales o laborales, en particular de la legislación sobre seguridad y salud en el trabajo, en el plazo de cinco años desde que se produzca la firmeza de la resolución sancionadora.
+
+c) Los que no se encuentren al corriente de pago de las obligaciones tributarias, así como de las obligaciones con la Seguridad Social.
+
+d) Aquéllas cuyos administradores o miembros de su personal directivo sufran o hayan sufrido, en España o fuera de ella, pena privativa de libertad, hayan sido declarados en situación concursal, inhabilitados o suspendidos para ejercer cargos de administración en sociedades, o sancionados o condenados mediante resolución o sentencia firmes por la comisión de las infracciones a las que se refieren las letras anteriores hasta que quede íntegramente extinguida su responsabilidad.
+
+#### Artículo 68. Criterios para valorar la competencia profesional y la capacidad técnica.
+
+Se cumplirá el requisito de competencia profesional y capacidad técnica cuando el centro cuente con:
+
+a) Una estructura empresarial adecuada para realizar las evaluaciones de capacidad psicofísica con el debido nivel de calidad, que se acreditará con la documentación que demuestre que:
+
+1.º Reúne los requisitos exigidos por las autoridades sanitarias para la realización de reconocimientos psicofísicos, informes y evaluaciones médicas y psicológicas, requeridos para la emisión de los certificados de valoración de capacidad psicofísica.
+
+2.º Dispone de un director del centro, con experiencia profesional y con título universitario oficial o título de Grado o Máster.
+
+b) El personal del centro estará integrado como mínimo por:
+
+1.º Un responsable médico del centro, que esté en posesión del título de licenciado en medicina o en medicina y cirugía y con una experiencia de, al menos, tres años en evaluación de la aptitud en los ámbitos del transporte.
+
+2.º Un responsable psicológico del centro que esté en posesión del título de licenciado en psicología y con una experiencia de, al menos, tres años en evaluación de la aptitud psicológica en los ámbitos del transporte.
+
+3.º Personal capacitado y en número suficiente para reconocer y evaluar la capacidad psicofísica. A tal efecto, en la plantilla de personal del centro deberá existir, como mínimo, un licenciado en medicina o en medicina y cirugía, que podrá coincidir con el responsable médico del centro, un licenciado en psicología, que podrá coincidir con el responsable psicológico del centro y un diplomado universitario en enfermería. En cuanto al resto del personal se refiere, el centro podrá haber establecido acuerdos con médicos y laboratorios de análisis clínicos así como con cualquier centro médico o gabinete psicológico.
+
+c) Medios y, en su caso, instalaciones adecuadas y en número suficiente para ejercer la actividad para la que se solicita la homologación. Se estimará que el centro cumple este requisito si dispone de:
+
+1.º Instalaciones adecuadas para su finalidad, con estándares suficientes de calidad, validados mediante la obtención de la debida autorización sanitaria.
+
+2.º Los medios materiales y aparatos necesarios para la realización de las pruebas médicas requeridas para evaluar los requisitos de la presente orden, incluyendo los test de pruebas necesarios para el reconocimiento psicológico.
+
+3.º Un sistema de archivo adecuado para la documentación relativa a su personal y a las evaluaciones de capacidad psicofísica que realicen.
+
+d) Un sistema de gestión interna, que garantice que la prestación de los servicios que suministra al sistema ferroviario es conforme, al menos, con las normas y requisitos fijados en las normas europeas y nacionales que los regulan.
+
+> Se modifica por el art. único.37 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 69. Criterios para valorar la capacidad financiera y la cobertura de responsabilidad civil.
+
+1\. Se cumplirá el requisito de capacidad financiera cuando la entidad solicitante de la homologación disponga de recursos suficientes para hacer frente, en cualquier momento, a las obligaciones que haya contraído o pueda contraer, por un período de doce meses a contar desde el otorgamiento de la homologación. Podrá acreditarse mediante la presentación de un informe pericial o de documentos adecuados expedidos por entidades de crédito o auditores de cuentas.
+
+2\. A los efectos exclusivos del otorgamiento de la homologación, se entenderá que un centro de reconocimiento médico cubre su responsabilidad civil derivada de las actividades de evaluación de capacidad psicofísica que preste, si en el momento de formular la solicitud de homologación dispone de un compromiso con una entidad aseguradora de un seguro de responsabilidad civil que cubra los riesgos derivados de su actividad, o un compromiso con una entidad de afianzamiento mercantil legalmente establecida. Será necesario formalizar el compromiso convenido antes del inicio de la actividad.
+
+#### Artículo 70. Procedimiento de homologación.
+
+1\. La solicitud de homologación de un centro de reconocimiento médico, con el contenido previsto en el artículo 70.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, se dirigirá a la Dirección General de Infraestructuras Ferroviarias, en los términos previstos en él, e incluirá la asunción formal, por el solicitante, de cuantas condiciones y garantías se establecen en la presente orden.
+
+2\. La solicitud de homologación irá acompañada de la documentación que se relaciona en este apartado y de aquella otra que el solicitante entienda que pueda contribuir a un mayor conocimiento y una mejor valoración de su petición, debiendo adjuntarse, al menos, la siguiente:
+
+a) Cuando se trate de sociedades mercantiles constituidas con el objeto social de centro médico, la escritura de constitución y, en su caso, de modificación, inscrita en el Registro Mercantil, en la que conste su capital social en el momento de la solicitud. Cuando se trate de centros dependientes de una entidad ferroviaria, la escritura de constitución de ésta o, en su caso, las referencias legales a la condición de la entidad pública empresarial de la que depende.
+
+b) Una declaración responsable de los administradores y directivos del centro de no hallarse incurso en ninguno de los supuestos enumerados en el apartado tercero del artículo 67, en cuanto no sea posible aportar los certificados correspondientes. Los administradores o directivos de empresas que soliciten la homologación y tengan nacionalidad extranjera, deberán presentar un certificado expedido por el órgano competente de su país en el que se haga constar que no se hallan incursos en ninguno de los supuestos expresados en dicho artículo.
+
+c) Una copia del estatuto interno del centro.
+
+d) Un organigrama de la estructura organizativa de la empresa en el que figuren los principales responsables del mismo en las diferentes áreas de evaluación de capacidad psicofísica.
+
+e) Autorización, emitida por la autoridad sanitaria correspondiente para la realización de reconocimientos, informes y evaluaciones médicas.
+
+f) Un proyecto de trabajo en el que consten los programas de actividad del centro de reconocimiento médico y los cometidos de los diferentes profesionales responsables del mismo.
+
+g) «Currículum vitae» del responsable director del centro, del responsable médico del centro y de los profesionales médicos, psicólogos y personal sanitario de que dispone para la evaluación de la capacidad psicofísica, aportando la titulación requerida en cada caso.
+
+h) Copia, en su caso, de los convenios celebrados con otras organizaciones para realizar las actividades de evaluación de la capacidad psicofísica. Deberá aportarse relación nominal de todos los profesionales concernidos por estos convenios, con indicación de la especialidad, y en su caso, titulación.
+
+i) Descripción de las instalaciones que ocupará el centro, con sus correspondientes planos de detalle, y relación justificada de equipos y demás medios materiales de que vaya a disponer.
+
+j) Un Plan de Prevención de Riesgos Laborales para el ejercicio de su actividad.
+
+k) Indicación de los sistemas con los que se comunicará con la Dirección General de Infraestructuras Ferroviarias, con el Administrador de Infraestructuras Ferroviarias y, en su caso, con las empresas ferroviarias para cuyos trabajadores realice alguna de las funciones que le correspondan.
+
+l) Documentación que acredite el cumplimiento de los requisitos de capacidad financiera.
+
+m) Documentación que acredite el cumplimiento de los requisitos de cobertura de responsabilidad civil.
+
+n) Documentación justificativa de la personalidad jurídica del peticionario y, en su caso, del representante y el poder con el que éste actúa.
+
+ñ) Descripción del sistema de gestión interno de los procedimientos para asegurar el cumplimiento de los requisitos legales.
+
+o) Plan de formación continua acreditada de los médicos y psicólogos del centro, incluyendo su especialización en las materias del ámbito del transporte.
+
+En el supuesto de que fuera requerida alguna documentación adicional a la dispuesta en este apartado, el solicitante dispondrá de quince días, desde la fecha en que ésta le sea requerida, para presentar la documentación que subsane, o complete, la entregada junto con la solicitud. La falta de presentación de la referida documentación en el plazo dispuesto será motivo suficiente para la denegación de la solicitud de homologación.
+
+3\. La Dirección General de Infraestructuras Ferroviarias, antes de dictar resolución, podrá requerir al solicitante la información o las aclaraciones que considere convenientes sobre su solicitud o sobre los documentos que a la misma se acompañan.
+
+4\. La Dirección General de Infraestructuras Ferroviarias realizará una visita al centro de reconocimiento médico y, a la vista del informe elaborado y de los restantes antecedentes, resolverá motivadamente el expediente, notificando, en un plazo máximo de cinco meses a contar desde la fecha de presentación de la solicitud de homologación, la resolución de su otorgamiento o de su denegación.
+
+Transcurrido el plazo previsto en el párrafo anterior sin que haya recaído resolución expresa, se entenderá estimada la solicitud.
+
+5\. La homologación se otorgará inicialmente por un período de tres años y las renovaciones sucesivas por períodos de cinco años. A los efectos de la renovación, se aplicará idéntico régimen que el establecido para la homologación, debiendo formularse la solicitud de renovación con la necesaria antelación previamente a la expiración de la validez de la homologación en vigor.
+
+6\. La Dirección General de Infraestructuras Ferroviarias inscribirá en el Registro Especial Ferroviario a los centros de reconocimiento médico que obtengan la homologación que les faculte para evaluar la capacidad psicofísica del personal ferroviario.
+
+7\. Las resoluciones de la autoridad responsable de seguridad agotarán la vía administrativa y contra las mismas se podrá interponer recurso potestativo de reposición en el plazo de un mes, siendo el plazo máximo para dictar y notificar la resolución del recurso de un mes. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, deberá entenderse desestimado dicho recurso. Todo ello sin perjuicio del derecho de los interesados a recurrir a la vía jurisdiccional contencioso-administrativa.
+
+> Se modifican los apartados 2 y 7 por el art. único.38 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 71. Validez de la homologación.
+
+1\. La homologación conservará su validez dentro de su periodo de vigencia mientras el centro cumpla los requisitos exigidos en la presente orden para su otorgamiento.
+
+Corresponde a la Dirección General de Infraestructuras Ferroviarias comprobar, en cualquier momento, el cumplimiento por los centros de los citados requisitos.
+
+2\. La Dirección General de Infraestructuras Ferroviarias podrá exigir a los centros homologados de reconocimiento médico la aportación de cuanta información entienda necesaria para comprobar que se mantienen las condiciones que justificaron el otorgamiento de la homologación.
+
+3\. Sin perjuicio de lo anterior, la autoridad responsable de la seguridad ferroviaria realizará inspecciones de los centros con carácter anual y cuando se tengan dudas fundadas de posibles incumplimientos de los requisitos que les sean exigibles a los mismos.
+
+4\. Sin perjuicio de lo indicado en los apartados anteriores, todos los centros homologados están obligados a notificar previamente, a la Dirección General de Infraestructuras Ferroviarias, cuantas variaciones se produzcan en las materias sobre las que se les requiere información en la presente orden. También deberán comunicar previamente sus planes relativos a nuevas metodologías y prácticas de evaluación de la capacidad psicofísica, así como las modificaciones de sus medios materiales.
+
+Además comunicarán en el plazo máximo de un mes desde que se produzca, cualquier variación que afecte a los datos obrantes en la Sección de centros médicos del Registro Especial Ferroviario.
+
+5\. La Dirección General de Infraestructuras Ferroviarias podrá contar, para el ejercicio de sus funciones inspectoras en dicha materia, con la colaboración de entidades de probada capacidad.
+
+6\. Cuando la Dirección General de Infraestructuras Ferroviarias constate que un centro de reconocimiento médico ha dejado de cumplir los requisitos que le sean exigibles iniciará el procedimiento de suspensión o, en su caso de revocación, de la homologación de que disponga, conforme lo establecido en el artículo siguiente.
+
+> Se modifica el apartado 3 por el art. único.39 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Artículo 72. Suspensión y revocación de la homologación.
+
+1\. La Dirección General de Infraestructuras Ferroviarias podrá suspender motivadamente la homologación otorgada a un centro homologado. Dicha suspensión se acordará cuando se constate el incumplimiento de cualesquiera de los requisitos exigidos para su otorgamiento y hasta tanto no se subsanen los incumplimientos detectados.
+
+2\. La resolución por la que se acuerde la suspensión de la homologación será inmediatamente ejecutiva desde su notificación al interesado.
+
+3\. El centro de reconocimiento médico podrá solicitar la anulación de dicha suspensión, una vez subsanadas las anomalías causantes de la misma.
+
+4\. La Dirección General de Infraestructuras Ferroviarias revocará la homologación de un centro médico cuando los incumplimientos que hubieran provocado la suspensión de dicha homologación no hubieran sido convenientemente subsanados en el plazo de doce meses desde que fue ejecutada la suspensión.
+
+5\. El procedimiento para la suspensión, o en su caso, la revocación de la homologación, se iniciará por la Dirección General de Infraestructuras Ferroviarias, dándose audiencia al centro para que, en el plazo máximo de 15 días formule las alegaciones que estime pertinentes. La Dirección General de Infraestructuras Ferroviarias dictará resolución en el plazo máximo de seis meses, la cual se anotará en el Registro Especial Ferroviario. Transcurrido dicho plazo sin que se hubiera notificado la resolución de suspensión o revocación se producirá la caducidad del procedimiento, que se declarará por medio de la correspondiente resolución en la que, asimismo, se ordenará el archivo de las actuaciones.
+
+6\. Las resoluciones de la autoridad responsable de seguridad agotarán la vía administrativa y contra las mismas se podrá interponer recurso potestativo de reposición en el plazo de un mes, siendo el plazo máximo para dictar y notificar la resolución del recurso de un mes. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, deberá entenderse desestimado dicho recurso. Todo ello sin perjuicio del derecho de los interesados a recurrir a la vía jurisdiccional contencioso-administrativa.
+
+> Se modifica el apartado 6 por el art. único.40 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición adicional primera. Derecho de acreditación de la formación, cualificación y experiencia previa del personal ferroviario.
+
+Al efecto de acreditar su formación, cualificación y experiencia previa, todo aquel personal que ejerza o haya ejercido, en el ámbito ferroviario, alguna de las funciones relacionadas con la seguridad en la circulación para las que en esta Orden se contempla la correspondiente habilitación o certificado, tendrá derecho a solicitar a la entidad ferroviaria o centro homologado de mantenimiento de material rodante en las que hubiere prestado sus servicios laborales, la pertinente certificación que acredite el desempeño de las mencionadas funciones, los cuales estarán obligados a emitirla y notificarla en el plazo máximo de un mes. Cualquier controversia suscitada en relación a dicha certificación laboral podrá ser planteada por el interesado en la vía jurisdiccional laboral. En esta certificación se hará constar, además, la formación, cualificación y experiencia previa del citado personal. Dicha certificación podrá ser tenida en cuenta por los centros homologados de formación, los responsables de seguridad en la circulación y los directores de los centros homologados de mantenimiento de material rodante a los efectos de convalidación para la obtención o recuperación de la validez de las habilitaciones o certificados.
+
+#### Disposición adicional segunda. Personal que ejerza su actividad en las conexiones de otras redes con la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias.
+
+1\. En los convenios que establezca el Administrador de Infraestructuras Ferroviarias con los Puertos o Aeropuertos de Interés General o con administradores de infraestructuras de otras redes ferroviarias, se especificarán, entre otros aspectos, los requisitos y las condiciones de autorización que deberá cumplir el personal de las citadas entidades que, ejerciendo responsabilidades de circulación, se ocupa de realizar, entre otras, los cometidos de interlocución y coordinación para los movimientos de conexión de entrada y salida de las redes de dichos puertos o aeropuertos hacia y desde la Red Ferroviaria de Interés General administrada por dicha entidad pública empresarial.
+
+2\. En los convenios que establezca el Administrador de Infraestructuras Ferroviarias con los titulares de apartaderos o derivaciones, se especificarán, entre otros aspectos, los requisitos y las condiciones de autorización que deberá cumplir el personal de dichas instalaciones que, ejerciendo responsabilidades de circulación, se ocupe de realizar, bajo las órdenes y supervisión del responsable de circulación del Administrador de Infraestructuras Ferroviarias, los cometidos de interlocución y coordinación para los movimientos de conexión de entrada y salida de dichos apartaderos o derivaciones, hacia y desde la Red Ferroviaria de Interés General administrada por dicha entidad pública empresarial.
+
+En ningún caso los titulares de dicha autorización podrán ejercer función alguna inherente a la gestión del sistema de control, de circulación y de seguridad en la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias, función cuyo ejercicio deberá realizar siempre esta entidad pública empresarial de acuerdo con lo que establece el apartado 4 del artículo 22 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+
+La referida autorización estará sujeta al régimen que se establezca expresamente en los convenios antes citados, especialmente en cuanto se refiere a sus condiciones de otorgamiento, validez, suspensión y renovación. Además, la Dirección General de Infraestructuras Ferroviarias podrá fijar, mediante la correspondiente resolución, las determinaciones relativas a la formación exigible, la expedición de la propia autorización y las pruebas de valoración de la aptitud psicofísica.
+
+En tanto en cuanto no se formalicen los referidos convenios serán de aplicación las consignas actualmente vigentes en cada uno de los casos. En cualquier caso, en el plazo máximo de 12 meses contados a partir de la fecha de entrada en vigor de esta orden, dichas consignas deberán ser actualizadas y adaptadas a lo que en la misma se establece. En caso de estar formalizados ya dichos convenios, y siempre que no sean contradictorios con lo señalado en esta disposición adicional, el plazo de actualización y revisión se reducirá a 6 meses.
+
+Al personal ferroviario que, a la entrada en vigor de esta orden, ya estuviera realizando funciones de responsabilidad de la coordinación de la circulación en las conexiones de los apartaderos y derivaciones particulares con la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias, se le expedirá la referida autorización sin que sea de aplicación exigencia formativa alguna, especificando que su otorgamiento obedece a los establecido en esta disposición adicional.
+
+#### Disposición adicional tercera. Reconocimiento de las licencias de maquinistas expedidas por otros Estados miembros de la Unión Europea.
+
+1\. Las licencias de maquinistas en vigor expedidas por los demás Estados miembros de la Unión Europea de conformidad con la normativa comunitaria serán válidas en el Estado español. Por razones de seguridad en la circulación deberán acreditar el requisito de conocimiento del idioma castellano correspondiente al nivel B1, de acuerdo con lo dispuesto en la Directiva 2014/82/UE, de la Comisión de 24 de junio de 2014 que modifica la Directiva 2007/59/CE del Parlamento y del Consejo, en lo que respecta a los conocimientos profesionales generales, los requisitos médicos y las prescripciones relativas a la licencia.
+
+2\. La acreditación del conocimiento del idioma castellano a que se refiere el apartado anterior podrá realizarse, entre otras formas, mediante un certificado emitido por un centro de enseñanza de idiomas oficialmente reconocido o a través de un certificado expedido por un centro homologado de formación de personal ferroviario. Para ello, los centros homologados de formación podrán realizar a los interesados pruebas de evaluación, que permitan comprobar sus competencias lingüísticas en el campo ferroviario, en cuyo caso la prueba se realizará mediante un examinador reconocido específicamente en dicho ámbito.
+
+3\. La validez de las licencias de los maquinistas expedidas por Estados no miembros de la Unión Europea dependerá de lo que se establezca en los correspondientes acuerdos bilaterales suscritos por el Estado español.
+
+4\. Para el reconocimiento de las licencias de maquinista expedidas a ciudadanos de la Unión Europea en un Estado no miembro de la misma, les será de aplicación el régimen de reconocimiento de las cualificaciones profesionales establecido por el Real Decreto 1837/2008, de 8 de noviembre, que incorpora al ordenamiento jurídico español la Directiva 2005/36/CE del Parlamento Europeo y del Consejo de 7 de septiembre de 2005 y la Directiva 2006/100/CE, del Consejo de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales, así como a determinados aspectos de la profesión de abogado.
+
+> Se modifican los apartados 1 y 2 por el art. único.41 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición adicional cuarta. Excepciones al régimen general de los certificados o habilitaciones de conducción.
+
+1\. Excepciones a la exigencia del certificado de conducción de infraestructura. No se aplicará a los maquinistas que desarrollen su actividad por cuenta de entidades ferroviarias, el requisito de ser titular de un certificado o habilitación para una parte determinada de la infraestructura, siempre que durante la conducción aquéllos estén acompañados de otro maquinista que posea el certificado o habilitación válido requerido para la infraestructura de que se trate, en los siguientes casos:
+
+a) Alteración del servicio ferroviario que exija el desvío de trenes o el mantenimiento de tramos, especificados por el Administrador de Infraestructuras Ferroviarias.
+
+b) Servicios excepcionales de carácter único que utilicen trenes históricos.
+
+c) Servicios de mercancías excepcionales de carácter único, siempre que haya sido autorizado por el Administrador de Infraestructuras Ferroviarias.
+
+d) En el caso de entrega, demostración y pruebas técnicas de un tren y de una locomotora nuevos.
+
+e) A efectos de formación y examen de maquinistas.
+
+Cuando se recurra a un maquinista adicional se informará previamente al Administrador de Infraestructuras Ferroviarias.
+
+El recurso a esta posibilidad será decidido por la empresa ferroviaria; y no podrá ser impuesto por el Administrador de Infraestructuras Ferroviarias ni por la Dirección General de Infraestructuras Ferroviarias.
+
+2\. Autorizaciones excepcionales de conducción para nuevo material rodante. Con independencia de la exigencia de los certificados o habilitaciones de conducción necesarios para conducir material rodante por la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias, podrán otorgarse autorizaciones excepcionales de conducción para nuevo material rodante en los siguientes casos:
+
+a) Supuestos de nuevo material rodante en proceso de validación o fabricación, por parte del fabricante o en proceso de validación o de pruebas, por parte de una entidad ferroviaria:
+
+En los procesos de fabricación o validación que lleve a cabo el fabricante, para conducir –en pruebas o demostración o bien para su entrega–, material rodante autopropulsado, tren o locomotora, por la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias; así como para conducir en pruebas nuevo material rodante de una entidad ferroviaria por dicha red, será preciso que el agente de conducción pertenezca a una entidad ferroviaria y disponga de una autorización excepcional otorgado por la entidad ferroviaria a propuesta de su responsable de seguridad en la circulación y de un certificado del responsable del fabricante del material en el que se exprese que el interesado ha realizado una formación adecuada para realizar demostraciones, desplazamientos para la entrega o las pruebas, según los casos.
+
+En todo caso, la conducción amparada por dichas autorizaciones excepcionales estará condicionada al cumplimiento de los requisitos exigibles, conforme a la normativa de seguridad en la circulación, tanto respecto al material rodante como respecto a la infraestructura por la que deberá circular.
+
+b) Supuesto de material rodante reformado en proceso de validación.
+
+Para conducir material rodante reformado, en pruebas del proceso de validación, por la Red Ferroviaria de Interés General administrada por el Administrador de Infraestructuras Ferroviarias, será preciso que el agente de conducción disponga de una autorización excepcional otorgada por la entidad ferroviaria a propuesta de su responsable de seguridad en la circulación.
+
+En todo caso, la conducción amparada por dichas autorizaciones excepcionales estará condicionada al cumplimiento de los requisitos exigibles, conforme a la normativa de seguridad en la circulación, tanto respecto al material rodante como respecto de la infraestructura por la que deberá circular.
+
+Las autorizaciones excepcionales a que se refieren las letras a) y b) anteriores, salvo los supuestos que se expidan para casos concretos o por una sola vez, se expedirán por un plazo máximo de 12 meses, renovables por una sola vez; y quedarán extinguidas automáticamente por el cumplimiento del plazo para el que fueron otorgados.
+
+#### Disposición adicional quinta. Alteraciones de la condiciones psicofísicas del personal ferroviario.
+
+Cuando el personal ferroviario afectado por la orden considere que su estado de salud pone en riesgo su aptitud para el trabajo, deberá informar inmediatamente a la entidad ferroviaria de la que dependa.
+
+Cuando la entidad ferroviaria tenga conocimiento, por sí misma o por un médico, de que el estado de salud del referido personal se ha deteriorado hasta el punto de poner en riesgo su aptitud para el trabajo, adoptará inmediatamente las medidas necesarias, incluido exámenes de aptitud psicofísica y si fuera necesario, procederá a la suspensión o en su caso revocación del certificado o habilitación correspondiente y a la actualización en su registro. Además, tomará las medidas necesarias para que, en ningún momento durante el servicio, pueda verse afectada su concentración, atención o conducta por estar bajo la influencia de cualquier sustancia que pudiera afectarles. En los casos de incapacidad laboral de más de tres meses se informará de inmediato al Registro Especial Ferroviario.
+
+#### Disposición adicional sexta. Controles para detección de consumo de alcohol y de indicios analíticos de consumo de drogas de abuso y sustancias psicoactivas.
+
+1\. En las pruebas iniciales o periódicas de los certificados de aptitud psicofísica, que se efectúen en los centros de reconocimiento médico homologados, para la obtención y conservación de la eficacia de los títulos habilitantes que lo requieran, tal y como se establece en esta orden, se realizarán, dentro de las mismas, pruebas específicas para detectar consumo de alcohol e indicios analíticos de consumo de drogas de abuso y sustancias psicoactivas. Para ello, el personal suscribirá un consentimiento informado cuyo contenido mínimo será el del modelo del anexo VIII.
+
+2\. El Ministerio de Fomento, ya sea directamente o a través del organismo cualificado que determine, en el ejercicio de sus facultades de inspección de las actividades ferroviarias que le confiere el artículo 86 de la Ley del Sector Ferroviario y en materia de investigación de accidentes recogidas en el Reglamento del Sector Ferroviario, podrá ordenar cuando así lo considere la realización de controles para detectar consumo de alcohol e indicios analíticos de consumo de drogas de abuso y sustancias psicoactivas, del personal de las categorías sujetas a esta orden.
+
+3\. Los administradores de infraestructuras ferroviarias y las empresas ferroviarias, dentro de los procedimientos de sus sistemas de gestión de seguridad para dar cumplimiento a la normativa reglamentaria sobre seguridad en la circulación ferroviaria y en materia de inspección e investigación de los accidentes e incidentes en los que se vean involucrados, programarán y realizarán controles aleatorios para la detección de tasas de alcoholemia y drogas de abuso y sustancias psicoactivas entre todo el personal habilitado por ellos.
+
+Estos controles deberán realizarse al personal de circulación, de infraestructura, de conducción y de operaciones del tren que se regula en esta Orden, en el ejercicio de su actividad profesional.
+
+Los procedimientos antes citados establecerán qué personal está autorizado para la realización de las pruebas de control y la cualificación precisa.
+
+4\. El resultado obtenido tras la realización de las pruebas para detectar el consumo de alcohol se considerará positivo cuando éste supere las tasas de alcoholemia máximas establecidas en la disposición adicional undécima del Real Decreto 2387/2004, 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario.
+
+5\. El resultado obtenido tras la realización de las pruebas para detectar el consumo de drogas de abuso y sustancias psicoactivas se considerará positivo si existen indicios analíticos de dichas sustancias.
+
+Las entidades ferroviarias controlarán, al menos, las sustancias siguientes: anfetaminas, benzodiacepinas, cocaína, metanfetamina, opiáceos y cannabis.
+
+Para ello se emplearán las matrices biológicas de saliva-fluido oral en primera instancia y mediante análisis cromatográfico como método de confirmación. Adicionalmente, el personal podrá solicitar una prueba de contraste adicional consistente en análisis de sangre.
+
+6\. En cualquiera de los casos expresados en el apartado anterior, y para garantizar al interesado la identidad de la muestra biológica analizada y la idoneidad del resultado obtenido, se establecerá un procedimiento de cadena de custodia de las muestras biológicas y se acordará con el laboratorio de análisis clínicos realizar a todas las muestras que resulten positivas una segunda prueba que se considera de confirmación, y que se efectuará con un método analítico de confirmación, de mayor sensibilidad, capaz de validar los resultados obtenidos. En el informe final del laboratorio se deberá precisar la técnica utilizada y la concentración de la sustancia o sustancias detectadas.
+
+7\. Si el resultado de una de las pruebas permitiese detectar que se ha excedido la tasa máxima de alcohol establecida en el Real Decreto 2387/2004, 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario, o que existen indicios analíticos de consumo de drogas de abuso y/o sustancias psicoactivas, se procederá de la siguiente forma:
+
+a) En las pruebas de valoración de capacidad psicofísica, el sujeto será valorado con la consideración de no apto o no apto temporal.
+
+b) En los controles aleatorios, se aplicará lo previsto en el articulado de esta orden, para cada caso, en cada uno de los títulos habilitantes que ostente la persona sometida a este control.
+
+> Se modifica por el art. único.42 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición adicional séptima. Establecimiento de itinerarios formativos básicos.
+
+Corresponderá a la Dirección General de Infraestructuras Ferroviarias, mediante resolución publicada en el «Boletín Oficial del Estado», el establecimiento de los itinerarios formativos básicos y la carga lectiva mínima que deberán respetar los programas formativos para la obtención de las habilitaciones y certificados regulados en la orden.
+
+En el caso de nuevo material rodante, la Dirección General de Infraestructuras Ferroviarias autorizará dichos itinerarios formativos básicos y la carga lectiva mínima, de conformidad con la propuesta formuladas por las empresas ferroviarias, a través de sus responsables de seguridad en la circulación, que deberán haber previsto, durante el proceso constructivo de nuevo material rodante dichos itinerario formativo y carga lectiva mínima, y formular la correspondiente propuesta a la citada Dirección General, al menos con una antelación de 3 meses a la previsión de puesta en servicio de dicho material.
+
+#### Disposición adicional octava. Registro e intercambio de información.
+
+1\. En el Registro Especial Ferroviario se anotarán todos los títulos habilitantes que sean otorgados, así como sus actualizaciones, renovaciones, modificaciones, suspensiones, revocaciones y fechas de expiración, y otras circunstancias tales como extravíos, robo o destrucción de los mismos. Asimismo facilitará, previa solicitud razonada, información sobre la situación de dichos títulos a las autoridades competentes españolas o de la Unión Europea, o entidades de la que dependa su titular. Los titulares podrán acceder, asimismo, en cualquier momento a los datos propios obrantes en el Registro Especial Ferroviario sobre los referidos títulos habilitantes. Los datos del registro serán actualizados periódicamente.
+
+2\. Las empresas ferroviarias y el Administrador de Infraestructuras Ferroviarias:
+
+a) Llevarán un registro en el que anotarán todos los certificados y habilitaciones expedidos, así como sus actualizaciones, renovaciones, modificaciones, suspensiones, revocaciones y fechas de expiración así como otras circunstancias tales como extravíos, robo o destrucción. Dicho registro contendrá los datos de cada certificado o habilitación expedidos, así como los relativos a las verificaciones periódicas correspondientes. Los datos del registro se actualizarán periódicamente.
+
+b) Colaborarán con el Registro Especial Ferroviario para intercambiar información y proporcionar a éste el acceso a los datos correspondientes.
+
+c) Facilitarán información sobre el contenido de los certificados y habilitaciones a las autoridades competentes españolas y, en su caso, de los demás Estados miembros de la Unión Europea cuando así se lo requieran como consecuencia de sus actividades transnacionales.
+
+El titular podrá acceder en cualquier momento a los datos propios obrantes en los registros de las entidades ferroviarias, así como obtener una copia de los mismos previa solicitud.
+
+#### Disposición adicional novena. Gastos de formación de los maquinistas.
+
+Cuando una entidad ferroviaria emplee a un maquinista cuya formación haya sido financiada, en parte o en su totalidad, por otra entidad ferroviaria que el maquinista haya abandonado voluntariamente antes de los dos años, ésta podrá solicitar a aquélla ser compensada por el coste de dicha formación.
+
+#### Disposición adicional décima. Condiciones excepcionales de capacidad psicofísica y requisitos médicos.
+
+Hasta el 12 de enero de 2019, al personal ferroviario afectado por esta Orden les será de aplicación, en casos excepcionales autorizados por la Dirección General de Infraestructuras Ferroviarias, condiciones distintas a las establecidas en los anexos de esta orden referidos a las condiciones de capacidad psicofísica y requisitos médicos. En este caso la validez de las licencias quedará limitada al territorio español.
+
+#### Disposición adicional undécima. Habilitaciones de piloto de seguridad y de operador de maquinaria de infraestructuras.
+
+Cuando una persona en posesión de la habilitación de piloto de seguridad o de operador de maquinaria de infraestructura otorgada al amparo de lo establecido en el apartado 5 del artículo 13, cambie de empresa, el responsable de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias podrá proponer, mediante resolución motivada, el otorgamiento de otra idéntica sin necesidad de que la citada persona siga el correspondiente curso de formación, siempre que dicha persona cumpla los requisitos establecidos para el mantenimiento de las mencionadas habilitaciones.
+
+#### Disposición adicional duodécima. Inclusión en el sistema de gestión de la seguridad.
+
+Toda empresa ferroviaria o administrador de infraestructura ferroviaria, incluirá, con arreglo a la presente orden, como parte de su sistema de gestión de la seguridad en la circulación, los procedimientos de expedición y actualización de los certificados de conducción, así como los procedimientos de recursos o impugnación que permitan al personal solicitar la revisión de una decisión relativa a la expedición, actualización, suspensión o retirada de dicho certificado. Asimismo, se hará referencia a los requisitos de los exámenes y examinadores destinados a comprobar las cualificaciones requeridas para la obtención de los citados certificados.
+
+#### Disposición adicional decimotercera. Convalidación de requisitos académicos para acceso a certificados de conducción de categoría B al personal con licencias procedentes del canje de otros títulos habilitantes.
+
+El personal de conducción con licencia y certificado de categoría A procedente de un proceso de canje de un título de los establecidos en la Orden FOM 2520/2006 o de una autorización para conducir por la red de ancho métrico de la extinta FEVE, pero que no disponga de la titulación académica de bachiller o Técnico de Grado Medio o equivalente a efectos laborales, que pretenda acceder a un certificado de categoría B, tendrá que acreditar el desempeño durante al menos 4 años de las funciones amparadas por un certificado de conducción de categoría A.
+
+> Se añade por el art. único.43 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición adicional decimocuarta. Medicamentos que pueden perturbar o disminuir las facultades psicofísicas del personal de conducción o circulación.
+
+1\. Será responsabilidad del personal referido poner en conocimiento de los facultativos que le vayan a prescribir un tratamiento médico, las exigencias de sus funciones en su puesto de trabajo, solicitando que quede constancia en su historial médico, para que dichos facultativos valoren su compatibilidad con la medicación prescrita.
+
+Los facultativos deberán tener en cuenta dichas exigencias del puesto de trabajo del personal ferroviario antes de prescribir medicamentos, para poder decidir si éstos pueden sustituirse por otros o si la persona no puede llevar a cabo su tarea habitual. Como referencia, se evitarán todos aquellos que hayan sido calificados como susceptibles de ''reducir la capacidad de conducir o manejar maquinaria'' por la Agencia Española de Medicamentos y Productos Sanitarios y que incluyan la correspondiente advertencia en su prospecto y un símbolo específico en su cartonaje exterior, conforme al Real Decreto 1345/2007, de 11 de octubre, por el que se regula el procedimiento de autorización, registro y condiciones de dispensación de los medicamentos de uso humano fabricados industrialmente.
+
+2\. Las entidades, dentro de los procedimientos de sus sistemas de gestión de seguridad, programarán actividades formativas y de concienciación sobre el uso responsable de los medicamentos.
+
+En particular, dispondrán de medidas de control para evitar en todo caso el desempeño de las actividades bajo los efectos de las sustancias recogidas en el apartado 1 del anexo IX.
+
+Para ello, simultáneamente a los controles para detección de consumo de alcohol o de indicios analíticos de consumo de drogas de abuso y sustancias psicoactivas, que se detallan en la disposición adicional sexta, realizarán el control de, al menos, los principios activos que pueden afectar al rendimiento, que se relacionan en el apartado 2 del anexo IX de esta orden.
+
+> Se añade por el art. único.44 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición adicional decimoquinta. Pruebas de evaluación psicológica para reconocimientos psicofísicos de personal de conducción.
+
+1\. El Ministerio de Fomento, directamente o a través de un organismo cualificado, desarrollará, en un plazo de un año, las herramientas de valoración de la capacidad psicológica para personal de conducción a emplear por los centros homologados de reconocimiento psicofísico.
+
+2\. En ese caso, dichos centros tendrán obligación de confidencialidad sobre dichas pruebas y de realizar un uso correcto y adecuado de las mismas. Un incumplimiento de dicha obligación puede conllevar la revocación de su homologación como centro de reconocimiento médico.
+
+3\. En ausencia de dichas pruebas, la autoridad responsable de la seguridad ferroviaria podrá emitir recomendaciones interpretativas acerca de los rangos adecuados para valorar las diferentes variables psicológicas.
+
+> Se añade por el art. único.45 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición adicional decimosexta. Régimen aplicable a maquinistas que circulan exclusivamente por tramos de conexión entre la Red Ferroviaria de Interés General y otras redes de competencia no estatal.
+
+1\. Aquellos maquinistas que, acreditando previamente que disponen del correspondiente título habilitante para la conducción de vehículos ferroviarios exigido en la normativa autonómica para circular por la red ferroviaria de competencia no estatal, vayan a circular exclusivamente por la parte incluida en la Red Ferroviaria de Interés General de los tramos de conexión entre dicha Red y la red no estatal deberán disponer de:
+
+a) Una licencia de maquinista de las reguladas en el artículo 31.
+
+b) Un certificado complementario de categoría B emitido conforme al régimen general regulado en esta orden, o bien, en su ausencia, de un certificado complementario de categoría B que habilitará exclusivamente a la circulación en dicho tramo de conexión.
+
+Este certificado de ámbito restringido podrá ser emitido por la empresa ferroviaria o, en su caso el administrador de infraestructuras, tras la acreditación de los requisitos del artículo 39 y de que se ha superado la formación relativa a:
+
+i. Conocimientos básicos sobre la operación en la Red Ferroviaria de Interés General.
+
+El itinerario formativo para esta parte de conocimientos será aprobado por la Agencia Estatal de Seguridad Ferroviaria, a propuesta conjunta de la entidad ferroviaria y el centro de formación homologado. Debe incluir los contenidos que permitan asegurar que se conoce todo lo necesario para operar en condiciones normales o degradadas en dicho tramo concreto de la Red Ferroviaria de Interés General, de manera análoga a un maquinista que se hubiera formado conforme al régimen general establecido en el artículo 40.2.a), y será desarrollado teniendo en cuenta:
+
+– Las condiciones de circulación del tramo de conexión,
+
+– Las reglas operativas particulares que puedan haberse establecido en los acuerdos entre los administradores de ambas redes limítrofes,
+
+– El análisis de las diferencias operativas existentes entre ambas redes,
+
+– La formación previa que pueda disponer el maquinista para circular por la red no estatal.
+
+ii. Conocimientos específicos sobre la línea y los vehículos a operar, indicados en el artículo 40.2.b).
+
+iii. Conocimientos particulares en relación con el sistema de gestión de la seguridad de la empresa operadora, tal y como se indica en el artículo 40.2.c).
+
+En todos los demás aspectos relativos a la evaluación, convocatoria y organización de los exámenes necesarios para la obtención de un certificado complementario de ámbito restringido, se estará a lo dispuesto en el artículo 40.
+
+2\. La formación práctica requerida para la obtención de los conocimientos básicos sobre la operación indicados en el punto i) anterior, necesarios para la emisión del certificado complementario de ámbito restringido, se podrá impartir en otros tramos de la Red Ferroviaria de Interés General, previa justificación ante la Agencia Estatal de Seguridad Ferroviaria por la entidad ferroviaria que pretende emitir el certificado y del centro de formación de que sus características son similares en cuanto a bloqueos, señalización y tipo de operación a las del tramo para el que se quiere obtener dicho certificado restringido.
+
+En el caso de la formación práctica sobre conocimientos específicos de los vehículos, también podrán emplearse recorridos en tramos de la red no estatal, previa justificación ante la Agencia Estatal de Seguridad Ferroviaria por parte de la entidad ferroviaria y el centro de formación homologado de su similitud con el tramo concreto de la Red Ferroviaria de Interés General para el que se va a obtener el certificado restringido.
+
+3\. Los maquinistas que, disponiendo de un certificado complementario de categoría B restringido a un tramo concreto de conexión, de los especificados en el apartado 1 anterior, pretendan obtener un certificado B de validez para toda la RFIG, deberán superar un curso conforme a un programa formativo específico complementario.
+
+Este programa específico será aprobado mediante resolución de la Agencia Estatal de Seguridad Ferroviaria con carácter previo a su inicio, a propuesta de un centro de formación o una entidad ferroviaria.
+
+Dicho programa se diseñará, en función de los conocimientos previos acreditados en el certificado B restringido, de manera que permita asegurar el conocimiento de las materias exigidas en esta orden para los certificados y, al menos, el cumplimiento de las horas mínimas de formación del artículo 30.
+
+4\. A los efectos de lo establecido en esta disposición, se consideran tramos de conexión de la Red Ferroviaria de Interés General con otras redes ferroviarias de competencia no estatal, los siguientes tramos:
+
+a) Línea 02-206 Lleida Pirineus-PK 1,927 (incluyendo las vías 4, 5, 6, 7 y 8 de la estación de Lleida Pirineus, hasta sus respectivas señales de salida S1/4, S1/5, S1/6, S1/7 y S1/8, así como la vía de acceso a los talleres de Pla de Vilanoveta desde el desvío n.º 3).
+
+b) Línea 08-780 Santander-Bilbao La Concordia, en las vías e instalaciones comprendidas entre la dependencia de Irauregi (incluyendo la totalidad de sus vías hasta la señal avanzada E’4 por el lado hacia Bilbao y, por el lado Santander, hasta el límite de las maniobras sobre la señal M1) y por la dependencia de Basurto Hospital (incluyendo todas sus vías hasta la señal de entrada E4).
+
+> Se añade por el art. único de la Orden TMA/1254/2020, de 8 de diciembre. [Ref. BOE-A-2020-17043](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17043)
+
+#### Disposición transitoria primera. Equivalencia de titulaciones académicas a efectos laborales.
+
+La equivalencia de los estudios académicos exigidos en la orden lo será a efectos laborales. La Dirección General de Infraestructuras Ferroviarias podrá reconocer de forma motivada la equivalencia a efectos laborales de las titulaciones académicas de los aspirantes a la obtención de los títulos habilitantes regulados en esta orden.
+
+#### Disposición transitoria segunda. Régimen aplicable al personal y centros que prestaban sus servicios en la entidad pública empresarial Ferrocarriles de Vía Estrecha (FEVE) en el momento de su extinción.
+
+1\. El personal autorizado por la entidad FEVE en el momento de su extinción, 31 de diciembre de 2012, para realizar actividades relacionadas con la seguridad en la circulación sobre la red ferroviaria de interés general de ancho métrico, se entenderá autorizado para seguir desempeñando dichas funciones, en virtud de lo establecido en la letra e) de la disposición adicional octogésima novena de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013.
+
+2\. A efectos de que dicho personal disponga de la acreditación correspondiente en función de la presente orden, se establece el siguiente proceso de reconocimiento:
+
+a) Para el personal de conducción:
+
+La autoridad responsable de la seguridad ferroviaria, previa acreditación por parte de las entidades ferroviarias de que el personal se encontraba sujeto a las condiciones del apartado 1, emitirá una licencia de maquinista y un diploma sobre aquellos conocimientos de entre los generales descritos en el artículo 40.2.a), necesarios para el certificado de conducción de categoría B, que se pueden considerar automáticamente acreditados por las funciones desempeñadas en la red de ancho métrico.
+
+Dicho diploma será personal y no requerirá vinculación laboral del solicitante a una entidad ferroviaria y no caducará en los supuestos de baja laboral en una entidad ferroviaria, manteniendo su vigencia siempre que se superen los cursos de reciclaje a que se refiere el artículo 40.8.
+
+A la vista del citado diploma acreditativo de la autoridad responsable de la seguridad ferroviaria, y de la formación que, en su caso, cada entidad considere pertinente sobre el sistema de gestión de seguridad propio, las entidades ferroviarias podrán emitir un certificado categoría B limitado exclusivamente en su ámbito a la red de ancho métrico. En él se incluirán los vehículos y líneas para los que estuviera autorizado en la extinta FEVE.
+
+Para obtener un certificado de categoría B que les permita el ejercicio en el resto de la red, deberán realizar un curso complementario que complete su formación con los contenidos del resto de la red, y cuyo itinerario se definirá mediante la resolución de la autoridad responsable de la seguridad ferroviaria definida en la disposición adicional séptima.
+
+Estos certificados de categoría B de ámbito restringido a la red de ancho métrico serán exclusivos para el personal sujeto a esta disposición y se extinguirán cuando el maquinista cese su actividad profesional o culmine el proceso para obtener un certificado de categoría B sin restricciones.
+
+Este proceso de reconocimiento deberá estar concluido antes de un año desde la publicación de la presente Orden.
+
+b) Para el resto del personal que ejerce funciones de seguridad, los administradores de infraestructura y las empresas ferroviarias emitirán los títulos habilitantes, de entre los contemplados en esta orden, que puedan considerar equivalentes a las funciones autorizadas en la extinta FEVE. En este caso, el proceso de reconocimiento deberá estar concluido antes de un año desde la publicación de la presente Orden.
+
+3\. Exclusivamente dentro de este proceso de reconocimiento de títulos habilitantes, al personal sujeto a esta disposición se le considerará convalidado el cumplimiento de los requisitos de nivel académico mínimo previstos en esta orden para poder acceder a la formación.
+
+En cuanto a los criterios psicofísicos recogidos en esta orden, el personal sí estará sujeto a su cumplimiento, que deberá acreditarse previamente a la emisión de los nuevos títulos habilitantes.
+
+4\. A partir de la emisión de los nuevos títulos habilitantes, dichos documentos se sujetarán a las condiciones de validez, suspensión y revocación establecidas, en cada caso, en esta orden.
+
+5\. En relación con los centros de reconocimiento psicofísico y de formación que a fecha 31 de diciembre de 2012 estuvieran prestando dichos servicios para la red de ancho métrico, se considerarán autorizados para continuar ejerciendo los cometidos de esta orden en relación con dicha red.
+
+No obstante, dichos centros deberán solicitar a la autoridad responsable de seguridad la correspondiente homologación antes de que transcurran seis meses desde la entrada en vigor de la presente orden, de acuerdo con el procedimiento previsto en la misma. En el caso de que los centros de reconocimiento psicofísico y de formación que estuvieran prestando servicios para la red de ancho métrico se integraran en otros previamente homologados deberá solicitarse la correspondiente ampliación de homologación en el mismo plazo.
+
+> Se modifica por el art. único.46 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición transitoria tercera. Habilitaciones de auxiliar de cabina.
+
+1\. La habilitación de auxiliar de cabina prevista en el artículo 19.1.d) de esta orden no será exigible hasta que no se cree la figura del auxiliar de cabina en la normativa de circulación ferroviaria a la que se hace referencia en la disposición adicional decimocuarta de la Ley 39/ 2003, de 17 de noviembre, del Sector Ferroviario.
+
+2\. El personal que en ese momento esté autorizado por las empresas ferroviarias para ejercer funciones similares a las del auxiliar de cabina mencionado en la presente orden podrá ser autorizado por éstas para seguir desempeñando dichas funciones.
+
+No obstante, en el plazo de un año, las empresas ferroviarias deberán emitir la documentación acreditativa correspondiente de la habilitación, previa acreditación de los requisitos psicofísicos recogidos en esta orden y de la correspondiente formación complementaria de reciclaje y adecuación de sus conocimientos teóricos y prácticos.
+
+Dichos documentos estarán sujetos a las condiciones de validez, suspensión y revocación establecidas en esta orden.
+
+3\. Dentro de este proceso de reconocimiento de títulos habilitantes, al personal sujeto a esta disposición se le considerará convalidado el cumplimiento de los requisitos de nivel académico mínimo previstos en esta orden para poder acceder a la formación, en virtud de su experiencia profesional acumulada y los procesos de formación continua en las empresas ferroviarias.
+
+> Se modifica por el art. único.47 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición transitoria cuarta. Habilitaciones de responsable de operaciones de carga.
+
+1\. La exigencia del título habilitante de responsable de operaciones de carga tendrá lugar un año después de la entrada en vigor de esta orden.
+
+2\. Durante ese año el personal que en el momento de entrada en vigor de esta orden esté autorizado por las empresas ferroviarias a ejercer funciones de cargador, conforme a la redacción inicial de la Orden 2872/2010, podrá ser habilitado por dichas empresas como responsable de operaciones de carga en los siguientes supuestos:
+
+a) Mediante la acreditación de una experiencia mínima de dos años como cargador.
+
+b) Previa superación de un curso de formación específico.
+
+En ambos casos, se considerará convalidado el cumplimiento de los requisitos de nivel académico mínimo previstos para acceder a la formación de la habilitación de responsable de operaciones de carga.
+
+> Se modifica por el art. único.48 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición transitoria quinta. Régimen aplicable al personal de las entidades prestadoras de los servicios complementarios.
+
+1\. En tanto el Ministerio de Fomento no apruebe, de conformidad con la Ley del Sector Ferroviario y el Reglamento del Sector Ferroviario, el régimen jurídico que establezca los requisitos exigibles para la prestación de los servicios complementarios, el Administrador de Infraestructuras Ferroviarias otorgará, en su caso, al personal de las entidades que presten tales servicios, las habilitaciones que correspondan cuando para el ejercicio de sus funciones se requiera alguna de las reguladas por esta orden.
+
+2\. Las habilitaciones otorgadas con arreglo a lo dispuesto en el apartado anterior dejarán de tener validez de conformidad con lo que se establezca en la normativa aprobada a tal efecto por el Ministerio de Fomento.
+
+#### Disposición transitoria sexta. Personal no perteneciente a entidades ferroviarias.
+
+El personal que no pertenezca a una empresa ferroviaria o al Administrador de Infraestructuras Ferroviarias y que, a la entrada en vigor de esta orden, estuviera en posesión de la habilitación de operador de maquinaria de infraestructura y del correspondiente título A de conducción, descritos en el Título V de la Orden FOM 2520/2006, de 27 de julio, podrá continuar ejerciendo la conducción de vehículos ferroviarios auxiliares por tramos de línea no exclusivos para trabajos de infraestructura, siempre que vaya acompañado de un agente responsable conocedor de la correspondiente infraestructura conforme a las condiciones que se establezcan en la normativa de seguridad en la circulación.
+
+El personal que no pertenezca a una empresa ferroviaria o al Administrador de Infraestructuras Ferroviarias y que, a la entrada en vigor de esta orden, estuviera en posesión de la habilitación de operador de vehículos de maniobras y del correspondiente título A de conducción, descritos en el Título V de la Orden FOM 2520/2006, de 27 de julio, podrá continuar ejerciendo las funciones de operador de vehículos de maniobras con las mismas condiciones e idénticos requisitos con los que las venía desempeñando.
+
+#### Disposición transitoria séptima. Autorizaciones para determinado personal ferroviario.
+
+Sin perjuicio de lo previsto en el artículo 13.5 de esta orden, las personas ajenas al Administrador de Infraestructuras Ferroviarias que, a su entrada en vigor, dispusieran de una autorización de encargado de trabajos expedida por dicha entidad, que les faculta para la realización de las funciones correspondientes a la habilitación de encargado de trabajos, regulada en el referido artículo 13, mantendrán la misma a título personal, en tanto cumplan las condiciones de validez determinadas en el artículo 16.
+
+En los casos excepcionales, debidamente justificados, en los que no exista personal habilitado disponible de dicha entidad, se podrá admitir que realicen tal función agentes de otras empresas que se habiliten debidamente como encargados de trabajos por dicha entidad. Las referidas habilitaciones tendrán una validez no superior a tres años.
+
+#### Disposición transitoria octava. Vigencia temporal del Título V de la Orden FOM 2520/2006, de 27 de julio.
+
+El Título V de la Orden FOM 2520/2006, de 27 de julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica, mantendrá su vigencia hasta el día 11 de enero de 2019, fecha en la cual será sustituido por el Título VI de la presente orden, todo ello de conformidad con el calendario establecido en la disposición final tercera.
+
+No obstante lo anterior, se aplicarán a los títulos de conducción recogidos en la citada Orden 2520/2006, los requisitos establecidos en la presente Orden en relación con los programas de formación y reciclaje de conocimientos teóricos y prácticos y sus periodos de vigencia, así como en relación con los requisitos psicofísicos del personal de conducción, y los periodos de vigencia de los correspondientes reconocimientos.
+
+También se considerará que el título de conducción A recogido en la Orden 2520/2006 faculta para las mismas funciones que el certificado de categoría A que se establece en el artículo 38.1 de la presente orden, siempre que se complemente con las debidas habilitaciones.
+
+> Se modifica por el art. único.49 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición transitoria novena. Adecuación de los títulos habilitantes de la actual orden a la normativa comunitaria.
+
+Las competencias funcionales, las horas de formación y el resto de los requisitos y condiciones establecidos en esta orden para la obtención y el ejercicio de los diferentes títulos habilitantes a los que se refiere la misma, se acomodarán, en cada momento, a los que establezca la normativa de la Unión Europea.
+
+#### Disposición transitoria décima. Plazos de vigencia de reciclajes formativos y de reconocimientos psicofísicos de personal de conducción.
+
+Todos aquellos reciclajes formativos o reconocimientos psicofísicos vigentes en el momento de entrada en vigor de la presente Orden, seguirán estándolo hasta la finalización de su periodo de vigencia inicialmente establecido.
+
+> Se añade por el art. único.50 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición transitoria undécima. Validez de la homologación de los centros de reconocimiento psicofísico.
+
+Los centros médicos homologados en el momento de entrada en vigor de esta orden, mantendrán válida su homologación hasta la fecha de su próxima renovación, momento en el que deberán acreditar el cumplimiento de los nuevos requisitos introducidos con esta orden, en especial los relativos al responsable médico del centro.
+
+> Se añade por el art. único.51 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición transitoria duodécima. Agencia Estatal de Seguridad Ferroviaria.
+
+En tanto no se ponga en funcionamiento la Agencia Estatal de Seguridad Ferroviaria a la que se refiere el párrafo quinto del apartado 1 de la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos, las funciones de autoridad responsable de la seguridad ferroviaria serán realizadas por la Dirección General de Ferrocarriles del Ministerio de Fomento, de acuerdo con lo dispuesto en la disposición transitoria octava de la Ley del Sector Ferroviario y en el artículo 2.v) del Real Decreto 1434/2010, de 5 de noviembre, sobre interoperabilidad del sistema ferroviario de la Red Ferroviaria de Interés General.
+
+Las resoluciones que dicte la Dirección General de Ferrocarriles al amparo de la presente orden no pondrán fin a la vía administrativa y contra las mismas podrá interponerse recurso de alzada, de acuerdo con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se añade por el art. único.52 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden FOM 2520/2006, de 27 de julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica, y sus anexos.
+
+#### Disposición final primera. Horas de formación de los cursos formativos de licencia y certificados del personal de conducción.
+
+**(Suprimida)**
+
+> Se suprime por la disposición derogatoria única de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición final segunda. Adaptación de denominaciones.
+
+Las referencias hechas al responsable técnico de mantenimiento de material rodante ferroviario, conforme a la denominación realizada por la Orden FOM/2520/2006, de 27 de julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica, deberán entenderse hechas en lo sucesivo al responsable de control de mantenimiento de material rodante ferroviario regulada en la presente orden.
+
+#### Disposición final tercera. Entrada en vigor.
+
+1\. Esta orden entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado», salvedad hecha del título VI que lo será conforme al calendario siguiente:
+
+a. A partir del 12 de enero de 2012: Para el otorgamiento de las licencias y certificados de conducción para la realización de transporte internacional de viajeros, incluida en su caso la realización de cabotaje, o de transporte internacional de mercancías.
+
+A partir de esa misma fecha los maquinistas que desarrollan su actividad en los servicios de transporte anteriores deberán cumplir lo recogido en esta orden en relación al cumplimiento de las verificaciones periódicas.
+
+b. A partir del 12 de enero de 2014, el otorgamiento de las nuevas licencias y certificados de conducción se realizará de conformidad con lo establecido en esta orden.
+
+c. Respecto de los títulos y habilitaciones de conducción expedidos de acuerdo con la Orden FOM 2520/2006, de 27 de julio, se seguirá el siguiente proceso de canje:
+
+c.1 Títulos de conducción de categoría A y habilitaciones de conducción correspondientes. En un plazo de 6 meses a partir de la entrada en vigor de la presente orden se procederá a canjear los Títulos de conducción de categoría A y las habilitaciones de conducción por las correspondientes licencias de maquinista y certificados de categoría A, acordes con la presente orden. Este proceso deberá estar concluido en el plazo de 1 año desde la citada entrada en vigor.
+
+c.2 Títulos conducción de categoría B y habilitaciones de conducción correspondientes. A partir del 1 de enero de 2017 se procederá a canjear los Títulos de conducción de categoría B y las habilitaciones de conducción por las correspondientes licencias de maquinista y certificados de categoría B, acordes con la presente orden. El calendario que regulará dicho proceso de canje será establecido por la Dirección General de Infraestructuras Ferroviarias antes del 1 de julio de 2016. Este proceso deberá estar concluido antes del 12 de enero de 2019.
+
+c.3 La licencia de maquinista será expedida por la Dirección General de Infraestructuras Ferroviarias y los certificados de categoría A y B por la entidad ferroviaria en la que esté empleado el trabajador. Ambos documentos deberán hacer mención expresa a esta disposición final tercera, así como también a la norma legal o reglamentaria que amparó el otorgamiento del correspondiente título de conducción.
+
+d. Al personal en formación que con anterioridad al 12 de enero de 2012 hubiera iniciado un curso formativo de conducción para los servicios a los que se refiere la letra a) anterior obtendrá, en su caso, los correspondientes títulos y habilitaciones de conformidad con lo establecido en la indicada Orden FOM 2520/2006.
+
+e. Al personal en formación que con anterioridad al 12 de enero de 2014 hubiera iniciado un curso formativo de conducción para los servicios a los que se refiere la letra b) anterior, obtendrán, en su caso, los correspondientes títulos y habilitaciones de conformidad con lo establecido en la citada Orden FOM 2520/2006.
+
+2\. Hasta entonces seguirá vigente el Título V de la Orden FOM 2520/2006, de 27 de julio, por la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad, así como el régimen de los centros de formación de dicho personal y de los de valoración de su aptitud psicofísica. Dicho Título perderá su vigencia, en cada uno de los supuestos indicados en las letras a) a la e) del apartado anterior, en las fechas que se indican en las citadas letras para cada supuesto.
+
+3\. La referencia que se hace a la licencia de conducción en los artículos 13.4 y 19.4, correspondientes a la habilitación de operador de maquinaria de infraestructura y de operador de vehículos de maniobras, respectivamente, se entenderá hecha también al título de conducción de categoría A regulado en la citada Orden 2520/2006 hasta el límite temporal indicado en la letra c) del apartado 1 anterior.
+
+> Se modifica el apartado 1.c.1 por el art. único.53 de la Orden FOM/679/2015, de 9 de abril.[Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición final cuarta. Autorización a la Dirección General de Infraestructuras Ferroviarias.
+
+La Dirección General de Infraestructuras Ferroviarias adoptará las medidas necesarias para el cumplimiento y aplicación de esta orden y resolverá las dudas que en relación con la interpretación de la misma puedan suscitarse.
+
+#### Disposición final quinta. Modificación de denominación.
+
+1\. Todas las referencias de la presente orden a la Dirección General de Infraestructuras Ferroviarias deberán entenderse realizadas a la autoridad responsable de la seguridad ferroviaria.
+
+2\. Todas las referencias hechas al Administrador de Infraestructuras Ferroviarias en la orden se entenderán realizadas a los administradores de infraestructuras ferroviarias.
+
+> Se añade por el art. único.54 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición final sexta. Título competencial.
+
+Esta orden ministerial se dicta al amparo de lo dispuesto en el artículo 149.1.21ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia ferrocarriles y transportes terrestres que transcurran por el territorio de más de una comunidad autónoma.
+
+> Se añade por el art. único.55 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+#### Disposición final séptima. Incorporación de derecho de la Unión Europea.
+
+Mediante esta orden se incorporan al derecho español la Directiva 2007/59/CE del Parlamento Europeo y del Consejo, sobre la certificación de los maquinistas de locomotoras y trenes en el sistema ferroviario de la Comunidad y la Directiva (UE) 2016/882 de la Comisión de 1 de junio de 2016, que modifica la Directiva 2007/59/CE en lo que respecta a los requisitos lingüísticos.
+
+> Se modifica por el art. único.2 de la Orden FOM/1613/2016, de 4 de octubre. [Ref. BOE-A-2016-9243](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-9243).
+
+> Se añade por el art. único.56 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+Madrid, 5 de noviembre de 2010.
+
+El Ministro de Fomento,
+
+José Blanco López.
+
+## ANEXO I — Condiciones de capacidad psicofísica para la certificación de valoración de aptitud del personal de circulación
+
+Requisitos generales:
+
+No deberán padecer enfermedad ni tomar medicación, drogas o sustancias que puedan provocar los siguientes efectos:
+
+Pérdida repentina de la conciencia;
+
+Disminución de la atención o concentración;
+
+Incapacidad repentina;
+
+Perdida del equilibrio o de la coordinación;
+
+Limitación significativa de la movilidad.
+
+Visión:
+
+a) Agudeza visual lejana: 0,800 con ambos ojos en visión binocular, con un mínimo de 0,300 en el ojo peor, con o sin corrección (escala decimal de visión lejana).
+
+b) Si se precisa utilizar dispositivos correctores para alcanzar la agudeza visual requerida, deberá llevar disponible un repuesto de su corrección.
+
+c) Máxima corrección permitida: Hipermetropía +5 dioptrías/Miopía –8 dioptrías.
+
+d) Está permitida la utilización de lentes de contacto, a condición de que no sean lentillas coloreadas ni fotocromáticas. Las lentillas provistas de filtro UV están autorizadas.
+
+e) Agudeza visual intermedia y próxima: suficiente, sin o con corrección.
+
+f) Otras condiciones:
+
+1.º Sentido cromático normal con el test de Ishihara y, si fuera necesario, confirmado con otra prueba.
+
+2.º Tiempo de respuesta al deslumbramiento normal.
+
+3.º Sentido luminoso normal.
+
+4.º Visión estereoscópica normal.
+
+5.º Campo visual completo.
+
+6.º Integridad de los ojos y sus anejos.
+
+7.º Fusión presente.
+
+8.º No padecer enfermedad progresiva de los órganos de la visión.
+
+9.º En caso de implantes y/o cirugía refractiva deberán transcurrir seis meses antes de ser valorado de nuevo, en todo caso deberá aportar informe oftalmológico favorable.
+
+Audición:
+
+a) Audición suficiente, sin o con prótesis auditiva, confirmada por un audiograma, esto es, audición suficiente para mantener una conversación telefónica y ser capaz de oír tonalidades de alerta y mensajes de radio.
+
+b) Audiometría tonal liminar:
+
+1.º Pérdida media calculada con la media aritmética de las pérdidas a 500, 1.000 y 2.000 Hz que cumpla la siguiente condición:
+
+No sobrepasar los 40 dB H. L., en ninguno de los oídos. Sólo se permitirá alcanzar los 45 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 30 dB H.L.
+
+2.º Pérdida a 4.000 Hz que cumpla la siguiente condición:
+
+No sobrepasar los 60 dB H.L. en ninguno de los oídos. Sólo se permitirá alcanzar los 70 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 50 dB. H.L.
+
+c) Otras condiciones otorrinolaringológicas:
+
+1.º No padecer alteraciones crónicas del habla que dificulten la comunicación verbal suficientemente potente y clara.
+
+2.º No padecer anomalías ni enfermedad del sistema vestibular.
+
+Capacidad psicológica:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá en base a la evaluación de las siguientes aptitudes:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora).
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+## ANEXO II — Condiciones de capacidad psicofísica para la certificación de valoración de aptitud del personal de infraestructura
+
+Requisitos generales:
+
+No deberán padecer enfermedad ni tomar medicación, drogas o sustancias que puedan provocar los siguientes efectos:
+
+Pérdida repentina de la conciencia;
+
+Disminución de la atención o concentración;
+
+Incapacidad repentina;
+
+Perdida del equilibrio o de la coordinación;
+
+Limitación significativa de la movilidad.
+
+1\. Para el caso del encargado de trabajos y del piloto de seguridad en la circulación:
+
+Visión:
+
+a) Agudeza visual lejana: 0,800 con ambos ojos en visión binocular, con un mínimo de 0,300 en el ojo peor, con o sin corrección. (escala decimal de visión lejana).
+
+b) Si se precisa utilizar dispositivos correctores para alcanzar la agudeza visual requerida, deberá llevar disponible un repuesto de su corrección.
+
+c) Máxima corrección permitida: Hipermetropía +5 dioptrías/Miopía –8 dioptrías.
+
+d) Está permitida la utilización de lentes de contacto, a condición de que no sean lentillas coloreadas ni fotocromáticas. Las lentillas provistas de filtro UV están autorizadas.
+
+e) Agudeza visual intermedia y próxima: suficiente, sin o con corrección.
+
+f) Otras condiciones:
+
+1.º Sentido cromático normal con el test de Ishihara y, si fuera necesario, confirmado con otra prueba.
+
+2.º Tiempo de respuesta al deslumbramiento normal.
+
+3.º Sentido luminoso normal.
+
+4.º Visión estereoscópica normal.
+
+5.º Campo visual completo.
+
+6.º Integridad de los ojos y sus anejos.
+
+7.º Fusión presente.
+
+8.º No padecer enfermedad progresiva de los órganos de la visión.
+
+9.º En caso de implantes y/o cirugía refractiva deberán transcurrir al menos seis meses antes de ser valorado de nuevo, en todo caso deberá presentar informe oftalmológico favorable.
+
+Audición:
+
+a) Audición suficiente, sin o con prótesis auditiva, confirmada por un audiograma, esto es, audición suficiente para mantener una conversación telefónica y ser capaz de oír tonalidades de alerta y mensajes de radio.
+
+b) Audiometría tonal liminar:
+
+1.º Pérdida media calculada con la media aritmética de las pérdidas en las frecuencias de 500, 1.000 y 2.000 Hz que cumpla las siguientes condiciones.
+
+2.º No sobrepasar los 40 dB H.L. en ninguno de los oídos. Sólo se permitirá alcanzar los 45 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 30 dB H.L.
+
+3.º Pérdida a 4.000 Hz:
+
+No sobrepasar los 60 dB H.L. en ninguno de los oídos. Sólo se permitirá alcanzar los 70 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 50 dB H.L.
+
+c) Otras condiciones otorrinolaringológicas:
+
+1.º No padecer alteraciones crónicas del habla que dificulten la comunicación verbal suficientemente potente y clara.
+
+2.º No padecer anomalías ni enfermedad del sistema vestibular.
+
+Capacidad psicológica:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá en base a la evaluación de las siguientes aptitudes:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora).
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+2\. Para el caso del operador de maquinaria de infraestructura:
+
+Además de las condiciones exigidas para los casos anteriores deberá cumplir las siguientes condiciones adicionales, que las modifican o complementan:
+
+Visión:
+
+a) Agudeza visual lejana: 0,800 con ambos ojos en visión binocular, con un mínimo de 0,500 en el ojo peor, con o sin corrección. (escala decimal de visión lejana).
+
+b) Máxima corrección permitida: Hipermetropía +5 dioptrías/Miopía –8 dioptrías.
+
+Audición:
+
+a) Audición suficiente, confirmada por un audiograma, esto es, audición suficiente para mantener una conversación telefónica y ser capaz de oír tonalidades de alerta y mensajes de radio.
+
+b) Otras condiciones otorrinolaringológicas:
+
+En casos especiales, está permitido el uso de prótesis auditivas.
+
+## ANEXO III — Condiciones de capacidad psicofísica para la certificación de valoración de aptitud del personal de operaciones del tren
+
+Requisitos generales
+
+No deberán padecer enfermedad ni tomar medicación, drogas o sustancias que puedan provocar los siguientes efectos:
+
+– Pérdida repentina de la conciencia;
+
+– Disminución de la atención o concentración;
+
+– Incapacidad repentina;
+
+– Pérdida del equilibrio o de la coordinación;
+
+– Limitación significativa de la movilidad.
+
+1\. Para el caso del Auxiliar de Operaciones del Tren.
+
+Visión:
+
+a) Agudeza visual lejana: 0,700 con ambos ojos en visión binocular, con un mínimo de 0,300 en el ojo peor, con o sin corrección. (escala decimal de visión lejana).
+
+b) Si se precisa utilizar dispositivos correctores para alcanzar la agudeza visual requerida, deberá llevar disponible un repuesto de su corrección.
+
+c) Máxima corrección permitida; Hipermetropía +5 dioptrías/ Miopía -8 dioptrías.
+
+d) Está permitida la utilización de lentes de contacto, a condición de que no sean lentillas coloreadas ni fotocromáticas. Las lentillas provistas de filtro UV están autorizadas.
+
+e) Agudeza visual intermedia y próxima: suficiente, sin o con corrección.
+
+f) Otras condiciones:
+
+1.º Visión binocular presente.
+
+2.º Sentido luminoso normal.
+
+3.º Campo visual completo.
+
+4.º Integridad de los ojos y sus anejos.
+
+5.º Fusión presente.
+
+6.º No padecer enfermedad progresiva de los órganos de la visión.
+
+7.º En caso de implante oculares y/o cirugía refractiva deberán transcurrir al menos seis meses para ser valorado de nuevo, y en todo caso deberá presentar informe oftalmológico favorable.
+
+8.º En el caso de que en el alcance de la habilitación se incluya la realización de maniobras, sentido cromático normal con el test de Ishihara y, si fuera necesario, confirmado con otra prueba.
+
+Audición:
+
+a) Audición suficiente, sin o con prótesis auditiva, confirmada por un audiograma, esto es, audición suficiente para mantener una conversación telefónica y ser capaz de oír tonalidades de alerta y mensajes de radio.
+
+b) Audiometría tonal liminar:
+
+1.º Pérdida media: calculada con la media aritmética de las pérdidas en las frecuencias de 500, 1.000 y 2.000 Hz que cumpla las siguientes condiciones:
+
+No sobrepasar los 45 dB H.L. en ninguno de los oídos. Sólo se permitirá alcanzar los 50 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 40 dB H.L.
+
+2.º Pérdida a 4.000 Hz:
+
+No sobrepasar los 65 dB H.L., en ninguno de los oídos. Solo se permitirá alcanzar los 75 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 55 dB H.L.
+
+c) Otras condiciones otorrinolaringológicas:
+
+1.º No padecer alteraciones crónicas del habla que dificulten la comunicación verbal suficientemente potente y clara.
+
+2.º No padecer anomalías del sistema vestibular.
+
+Capacidad Psicológica:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá en base a la evaluación de las siguientes aptitudes:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora).
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+2\. Para operador de vehículos de maniobras.
+
+Visión:
+
+a) Agudeza visual lejana: 0,800 con ambos ojos en visión binocular, con un mínimo de 0,500 en el ojo peor, con o sin corrección. (escala decimal de visión lejana).
+
+b) Si se precisa utilizar dispositivos correctores para alcanzar la agudeza visual requerida, deberá llevar disponible un repuesto de su corrección.
+
+c) Máxima corrección permitida; Hipermetropía +5 dioptrías/ Miopía –8 dioptrías.
+
+d) Está permitida la utilización de lentes de contacto, a condición de que no sean lentillas coloreadas ni fotocromáticas. Las lentillas provistas de filtro UV están autorizadas.
+
+e) Agudeza visual intermedia y próxima: suficiente, sin o con corrección.
+
+f) Otras condiciones:
+
+1.º Visión binocular presente.
+
+2.º Sentido cromático normal con el test de Ishihara y, si fuera necesario, confirmado con otra prueba.
+
+3.º Tiempo de respuesta al deslumbramiento normal.
+
+4.º Sentido luminoso normal.
+
+5.º Visión estereoscópica normal.
+
+6.º Campo visual completo.
+
+7.º Integridad de los ojos y sus anejos.
+
+8.º Fusión presente.
+
+9.º No padecer enfermedad progresiva de los órganos de la visión.
+
+10.º En caso de implante oculares y/o cirugía refractiva deberán transcurrir al menos seis meses para ser valorado de nuevo, y en todo caso deberá presentar informe oftalmológico favorable.
+
+Audición:
+
+a) Audición suficiente, sin o con prótesis auditiva, confirmada por un audiograma, esto es, audición suficiente para mantener una conversación telefónica y ser capaz de oír tonalidades de alerta y mensajes de radio.
+
+b) Audiometría tonal liminar:
+
+1.º Pérdida media: calculada con la media aritmética de las pérdidas en las frecuencias de 500, 1.000 y 2.000 Hz que cumpla las siguientes condiciones:
+
+No sobrepasar los 40 dB H.L. en ninguno de los oídos. Sólo se permitirá alcanzar los 45 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 30 dB H.L.
+
+2.º Pérdida a 4.000 Hz:
+
+No sobrepasar los 60 dB H.L., en ninguno de los oídos. Solo se permitirá alcanzar los 70 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 50 dB H.L.
+
+c) Otras condiciones otorrinolaringológicas:
+
+1.º No padecer alteraciones crónicas del habla que dificulten la comunicación verbal suficientemente potente y clara.
+
+2.º No padecer anomalías del sistema vestibular.
+
+Capacidad Psicológica:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá en base a la evaluación de las siguientes aptitudes:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora).
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+3\. Para el caso del Auxiliar de cabina.
+
+Requisitos generales:
+
+En la valoración de los requisitos generales, se tendrán en cuenta las circunstancias excepcionales en las que puede ser preciso el personal habilitado de esta categoría, así como las posibles medidas alternativas implantadas en la reglamentación y en los sistemas de gestión de la seguridad en caso de su ausencia.
+
+Visión:
+
+a) Agudeza visual lejana: 0,700 con ambos ojos en visión binocular, con un mínimo de 0,300 en el ojo peor, con o sin corrección. (escala decimal de visión lejana).
+
+b) Si se precisa utilizar dispositivos correctores para alcanzar la agudeza visual requerida, deberá llevar disponible un repuesto de su corrección.
+
+c) Máxima corrección permitida; Hipermetropía +5 dioptrías/ Miopía –8 dioptrías.
+
+d) Está permitida la utilización de lentes de contacto, a condición de que no sean lentillas coloreadas ni fotocromáticas. Las lentillas provistas de filtro UV están autorizadas.
+
+e) Agudeza visual intermedia y próxima: suficiente, sin o con corrección.
+
+f) Otras condiciones:
+
+1.º Visión binocular presente.
+
+2.º Sentido luminoso normal.
+
+3.º Campo visual completo.
+
+4.º Integridad de los ojos y sus anejos.
+
+5.º Fusión presente.
+
+6.º No padecer enfermedad progresiva de los órganos de la visión.
+
+7.º En caso de implante oculares y/o cirugía refractiva deberán transcurrir al menos seis meses para ser valorado de nuevo, y en todo caso deberá presentar informe oftalmológico favorable.
+
+Sentido cromático normal con el test de Ishihara, y si fuera necesario, confirmado con otra prueba.
+
+Audición:
+
+a) Audición suficiente, sin o con prótesis auditiva, confirmada por un audiograma, esto es, audición suficiente para mantener una conversación telefónica o presencial a una distancia media de 4 metros o 2 metros en el lado peor y ser capaz de oír tonalidades de alerta, sonidos de alarma, avisos de las herramientas de trabajo habituales del entorno y mensajes de radio.
+
+b) Otras condiciones otorrinolaringológicas:
+
+1.º No padecer alteraciones crónicas del habla que dificulten la comunicación verbal suficientemente potente y clara.
+
+2.º No padecer anomalías del sistema vestibular.
+
+Capacidad Psicológica:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá en base a la evaluación de las siguientes aptitudes:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora).
+
+d) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+> Se modifica por el art. único.57 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2011. [Ref. BOE-A-2011-2613](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2613)
+
+## ANEXO IV — Condiciones de capacidad psicofísica para la certificación de valoración de aptitud del personal de conducción
+
+IV.1) Condiciones de capacidad psicofísica
+
+Los criterios de evaluación de la capacidad psicofísica en el personal de conducción tendrán el objetivo de descartar posibles deficiencias, limitaciones, pérdidas de las funciones sensoriales, cognitivas y motoras que puedan desencadenar, de manera súbita o progresiva, incapacidad para desarrollar las tareas de conducción con seguridad.
+
+IV.1.1) Requisitos Generales:
+
+De manera general, no se deberá padecer enfermedad ni tomar medicación, drogas o sustancias que puedan provocar los siguientes efectos:
+
+– Pérdida repentina de la conciencia;
+
+– Disminución de la atención o concentración;
+
+– Incapacidad repentina;
+
+– Pérdida del equilibrio o de la coordinación;
+
+– Limitación significativa de la movilidad.
+
+IV.1.2) Visión:
+
+a) Agudeza visual lejana, con o sin corrección: 1,0; mínimo 0,5 para el ojo de menor visión;
+
+b) Lentillas correctoras máximas: hipermetropía +5, miopía –8. Se autorizarán excepciones en casos especiales y tras dictamen de un oftalmólogo. La decisión última corresponderá al médico;
+
+c) Visión próxima e intermedia: suficiente, con o sin corrección;
+
+d) Se autorizan las lentes de contacto y las gafas siempre que sean sometidas al control periódico de un especialista;
+
+e) Visión de colores normal: utilización de una prueba reconocida, como la de Ishihara, complementada con otra prueba reconocida, en caso necesario;
+
+f) Campo de visión: completo;
+
+g) Visión por los dos ojos: efectiva;
+
+h) Visión binocular: efectiva;
+
+i) Reconocimiento de señales de los colores: la prueba deberá basarse en el reconocimiento de colores por separado y no de diferencias relativas;
+
+j) Sensibilidad al contraste: buena;
+
+k) Ausencia de enfermedades degenerativas del ojo;
+
+l) Sólo se permitirán implantes oculares, queratotomías y queratectomías a condición de que sean objeto de reconocimiento a intervalos anuales o según la periodicidad decidida por el médico;
+
+m) Capacidad de resistencia al deslumbramiento; no deben existir alteraciones significativas en la capacidad de recuperación al deslumbramiento ni alteraciones de la visión mesópica.
+
+n) No están autorizadas las lentes de contacto de color ni las lentes fotocromáticas. Se autorizan las lentes con filtro UV.
+
+IV.1.3) Audición y conversación:
+
+a) Audición suficiente, confirmada por un audiograma, esto es: Audición suficiente para mantener una conversación telefónica y ser capaz de oír tonalidades de alerta y mensajes de radio.
+
+b) Audiometría tonal liminar:
+
+1\. La pérdida auditiva no deberá ser superior a 40 dB a 500 y 1.000 Hz, en cada uno de los oídos;
+
+2\. La pérdida auditiva no deberá ser superior a 45 dB a 2.000 Hz para el oído de peor conducción aérea;
+
+3\. Pérdida a los 4.000 Hz. La pérdida a 4000 Hz no sobrepasará los 60 dB H.L. en ninguno de los oídos. Sólo se permitirá alcanzar los 70 dB H.L. en el oído con peor audición, cuando en el otro oído no se superen los 50 dB. H.L.
+
+c) Otras condiciones otorrinolaringológicas:
+
+1\. No padecer alteraciones crónicas del habla que dificulten la comunicación verbal suficientemente potente y clara.
+
+2\. Ninguna anomalía del sistema vestibular. No deben existir alteraciones del equilibrio (vértigos, inestabilidad, mareo, vahído) permanentes, evolutivas o intensas, ya sean de origen otológico o de otro tipo.
+
+3\. En casos especiales, está permitido el uso de prótesis auditivas.
+
+IV.1.4) Sistema locomotor:
+
+Estado anatómico y funcional del sistema locomotor que permita la realización correcta de las tareas de su puesto de trabajo.
+
+IV.1.5) Aparato respiratorio:
+
+a) No padecer enfermedad obstructiva crónica mal controlada.
+
+No deben existir trastornos pulmonares, pleurales, diafragmáticos y mediastínicos que determinen incapacidad funcional, valorándose el trastorno y la evolución de la enfermedad, teniendo especialmente en cuenta la existencia o posibilidad de aparición de crisis de disnea paroxística, dolor torácico intenso u otra alteraciones que puedan influir en el ejercicio seguro de las tareas de maquinista.
+
+b) No padecer apnea del sueño, no controlada adecuadamente. Será preciso aportar informe favorable de un especialista que acredite que la afección no interfiere en el ejercicio seguro de las tareas de maquinista.
+
+IV.1.6) Sistema cardiovascular:
+
+a) No padecer cardiopatías ni vasculopatías descompensadas ni miocardiopatías isquémicas en cualquiera de sus formas. En todo caso, cualquier afección que pudiera interferir en el ejercicio seguro de las tareas de maquinista, deberá aportar informe de un especialista en Cardiología.
+
+b) No padecer alteraciones del ritmo cardíaco sintomáticas y en todo caso cualquier afección que pudiera interferir en el ejercicio seguro de las tareas de maquinista, deberá aportar informe de un especialista en Cardiología.
+
+c) Las cifras de Tensión Arterial no superarán: la sistólica los 140 mm Hg y la Distólica los 90 mm Hg.
+
+d) No padecer trombosis, embolias ni trastornos isquémicos periféricos grado II o superior de Fontaine.
+
+e) No permitido uso de marcapasos, ni cardioversores implantados.
+
+IV.1.7) Sistema nervioso:
+
+a) No padecer afecciones que cursen con ataques convulsivos, temblores, incoordinación de movimientos, trastornos de la marcha, pérdidas bruscas de conocimiento o alteraciones del nivel de consciencia.
+
+Los afectados de ataques isquémicos transitorios deberán aportar informe favorable de un especialista en Neurología en el que se haga constar la ausencia de secuelas neurológicas.
+
+No deben existir accidentes isquémicos recurrentes.
+
+b) No padecer epilepsia en ninguna de sus formas.
+
+c) No deben existir alteraciones del equilibrio (vértigos, inestabilidad, mareo, vahído) permanentes, evolutivas o intensas, ya sean de origen otológico o de otro tipo.
+
+IV.1.8) Sistema endocrino:
+
+a) No padecer diabetes insulinodependiente, ni diabetes tipo II con afectación sistémica o mal controlada:
+
+No debe existir diabetes tipo II que curse con inestabilidad metabólica que requiera asistencia hospitalaria.
+
+Los afectados de diabetes tipo II que precisen tratamiento farmacológico deberán aportar informe de un especialista en Endocrinología, en el que conste el control adecuado de la enfermedad y la ausencia de hipoglucemias con el tratamiento prescrito.
+
+IV.1.9) Psiquiatría:
+
+a) No padecer enfermedad mental. No se deberá tener diagnóstico clínico de cualquier enfermedad o incapacidad psiquiátrica o afección, aguda o crónica, congénita o adquirida, que pudiera interferir con el ejercicio seguro de las atribuciones correspondientes a la licencia de maquinista.
+
+b) No padecer enfermedad alcohólica crónica.
+
+IV.1.10) Consumo de drogas y medicamentos. No presentar indicios analíticos de consumo de drogas de abuso.
+
+a) No estar bajo tratamiento con sustancias psicoactivas capaces de alterar el nivel de conciencia, la capacidad de concentración, de vigilancia, el comportamiento, el equilibrio, la coordinación o la movilidad.
+
+IV.1.11) Embarazo:
+
+Deberán aplicarse las disposiciones legales de protección de las maquinistas embarazadas. En casos de mala tolerancia o patología, el embarazo podrá ser considerado como una causa provisional y transitoria de exclusión de la maquinista.
+
+IV.1.9) Capacidad psicológica:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá en base a la evaluación de las siguientes áreas:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+a.1) Capacidad de control y gestión de los recursos cognitivos y atencionales suficiente, con un rendimiento superior al punto de corte establecido en las especificaciones de las pruebas de referencia, para al menos las siguientes tareas:
+
+1\. Funciones ejecutivas. Rendimiento en tareas de actualización, monitorización y alternancia.
+
+2\. Concentración. Rendimiento en tareas de atención sostenida y vigilancia psicomotora.
+
+a.2) Capacidad cognitiva general y aptitud viso-espacial suficiente, con un rendimiento superior al punto de corte establecido en las especificaciones de las pruebas de referencia para al menos las siguientes tareas:
+
+1\. Aptitud espacial dinámica. Rendimiento en tareas de orientación y percepción de velocidad relativa.
+
+2\. Memoria. Rendimiento en tareas amplitud de memoria a corto plazo viso-espacial y verbal.
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora). Velocidad de reacción y procesamiento y capacidad de coordinación suficientes, con un rendimiento superior al punto de corte establecido en las especificaciones de las pruebas de referencia para al menos las siguientes tareas:
+
+1\. Coordinación psicomotora. Rendimiento en tareas de coordinación manual o bimanual.
+
+2\. Velocidad de reacción. Rendimiento en tareas de tiempo de reacción múltiple o múltiple con discriminación.
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+c.1) Ausencia de patrones de comportamiento inestables, con tendencia al riesgo y a la búsqueda de sensaciones. Puntuaciones por debajo del punto de corte establecido en la pruebas de referencias para al menos los siguientes rasgos:
+
+1\. Búsqueda de sensaciones. Evaluada mediante al menos una prueba conductual objetiva.
+
+2\. Tendencia al riesgo. Evaluada mediante al menos una prueba conductual objetiva.
+
+3\. Percepción de control. Evaluada mediante al menos una prueba conductual objetiva.
+
+4\. Estabilidad emocional. Evaluada mediante al menos una prueba de auto-informe.
+
+c.2) Presencia de patrones de comportamiento organizados, con elevada orientación al logro y cordialidad en el trato y la comunicación. Puntuaciones por encima del punto de corte establecido en las pruebas de referencias para al menos los siguientes rasgos:
+
+1\. Amabilidad. Evaluada mediante al menos una prueba de auto-informe.
+
+2\. Responsabilidad. Evaluada mediante al menos una prueba de auto-informe.
+
+c.3) Psicopatología. Ausencia de síntomas o indicadores de riesgo para las patologías con efectos sobre la atención y la vigilancia, con puntuaciones en escalas de valoración de síntomas por debajo del punto de corte establecido en las especificaciones de las pruebas de referencia en las siguientes dimensiones:
+
+1\. Psicoticismo. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+2\. Alteración del estado de ánimo. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+3\. Ansiedad. Evaluada mediante al menos una prueba de autoinforme o entrevista estructurada.
+
+4\. Trastornos del sueño. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+IV.2) Contenidos mínimos del reconocimiento inicial
+
+IV.2.1) Reconocimientos médicos.
+
+Los reconocimientos deberán incluir como mínimo:
+
+a) Reconocimiento médico general;
+
+b) Examen de funciones sensoriales (visión, audición, percepción de colores);
+
+c) Análisis de sangre y orina, con búsqueda, entre otras cosas, de la diabetes mellitus, en la medida en que sean necesarios para valorar la aptitud física del candidato;
+
+d) Electrocardiograma (ECG) en reposo;
+
+e) Detección de sustancias psicotrópicas como drogas ilícitas o tratamiento médico psicotrópico y el consumo de alcohol que cuestionen la aptitud para el trabajo.
+
+IV.2.2) Capacidad Psicológica y exámenes psicológicos:
+
+La capacidad psicológica para el desempeño de sus tareas con criterios de seguridad se establecerá a partir de la evaluación de las siguientes aptitudes:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora).
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía):
+
+El objetivo de los exámenes psicológicos es ayudar en la designación y gestión del personal ferroviario. En la determinación del contenido de la evaluación psicológica, el examen deberá evaluar que el aspirante o personal ferroviario no revela deficiencias psicológicas, en particular en aptitudes operativas o en cualquier factor pertinente de la personalidad que puedan afectar a la ejecución segura de sus funciones.
+
+En la evaluación psicológica podrán utilizarse además ejercicios de test.
+
+En todo caso, las pruebas de referencia para la valoración de capacidad psicológica tendrán que cumplir los siguientes requisitos:
+
+1\. Propiedades psicométricas adecuadas.
+
+2\. Adaptación de contenidos (lingüística y cultural).
+
+3\. Calibración y baremación con muestra española.
+
+4\. Capacidad probada de discriminación (sensibilidad y especificidad) con respecto a la fiabilidad en la conducción.
+
+IV.3) Contenidos mínimos de los reconocimientos psicofísicos periódicos
+
+IV.3.1) Reconocimientos médicos.
+
+Los reconocimientos periódicos deberán incluir como mínimo:
+
+a) Reconocimiento médico general;
+
+b) Examen de funciones sensoriales (visión, audición, percepción de colores);
+
+c) Análisis de sangre y orina para la detección de diabetes mellitus y otros estados que indique el examen clínico;
+
+d) Detección de sustancias psicotrópicas como drogas ilícitas o tratamiento médico psicotrópico y el consumo de alcohol.
+
+e) Se realizará además, un ECG en reposo a los maquinistas mayores de 40 años.
+
+IV.3.2) Valoración de la capacidad psicológica.
+
+Los reconocimientos periódicos deberán incluir, con una frecuencia no inferior a un año, la valoración de la capacidad psicológica, en al menos las siguientes áreas:
+
+a) Cognitiva (atención, concentración, memoria, razonamiento, percepción, comunicación).Capacidad cognitiva y atencional suficiente, con un rendimiento superior al punto de corte establecido en las especificaciones de las pruebas de referencia, para al menos las siguientes tareas:
+
+1\. Funciones ejecutivas. Rendimiento en tareas de actualización, monitorización y alternancia.
+
+2\. Concentración. Rendimiento en tareas de atención sostenida y vigilancia psicomotora.
+
+b) Psicomotora (velocidad de reacción, coordinación psicomotora). Velocidad de reacción y procesamiento y capacidad de coordinación suficiente, con un rendimiento superior al punto de corte establecido en las especificaciones de las pruebas de referencia, para al menos las siguientes tareas:
+
+1\. Coordinación psicomotora. Rendimiento en tareas de coordinación manual o bimanual.
+
+2\. Velocidad de reacción. Rendimiento en tareas de tiempo de reacción múltiple o múltiple con discriminación.
+
+c) Comportamiento-Personalidad (autocontrol emocional, fiabilidad comportamental, responsabilidad, psicopatología, autonomía).
+
+c.1) Ausencia de patrones de comportamiento inestables, con tendencia al riesgo y a la búsqueda de sensaciones. Puntuaciones por debajo del punto de corte establecido en las pruebas de referencia para al menos los siguientes rasgos:
+
+1\. Tendencia al riesgo. Evaluada mediante al menos una prueba conductual objetiva.
+
+2\. Percepción de control. Evaluada mediante al menos una prueba conductual objetiva.
+
+c.3) Psicopatología. Ausencia de síntomas o indicadores de riesgo para las patologías con efectos sobre la atención y la vigilancia, con puntuaciones en escalas de valoración de síntomas por debajo del punto de corte establecido en las especificaciones de las pruebas de referencia, en las siguientes dimensiones:
+
+1\. Psicoticismo. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+2\. Alteración del estado de ánimo. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+3\. Ansiedad. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+4\. Trastornos del sueño. Evaluada mediante al menos una prueba de auto-informe o entrevista estructurada.
+
+Se utilizarán preferentemente los test de valoración de capacidad psicológica incluidos en la batería de pruebas de referencia.
+
+> Se modifica por el art. único.58 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## ANEXO V — Programa de formación y pruebas de evaluación de maquinistas
+
+V.1) Programa de formación.
+
+V.1.1) Principios generales.
+
+V.1.2) Conocimientos profesionales y prescripciones relativas a las licencias.
+
+V.1.2.1) Objetivos generales de la formación de la licencia.
+
+V.1.2.2) Conocimientos profesionales para la formación de la licencia.
+
+V.1.2.3) Formación práctica.
+
+V.1.3) Conocimientos profesionales y prescripciones relativas a los certificados.
+
+V.1.3.1) Conocimientos profesionales generales comunes.
+
+V.1.3.1.1) Conocimientos relativos a material rodante.
+
+V.1.3.1.2) Conocimientos relativos a infraestructura.
+
+V.1.3.1.3) Formación práctica.
+
+V.1.3.2) Conocimientos profesionales específicos.
+
+V.1.3.2.1) Conocimientos relativos a material rodante.
+
+V.1.3.2.2) Conocimientos relativos a infraestructura.
+
+V.1.3.3) Conocimientos sobre el sistema de gestión de seguridad de la entidad ferroviaria.
+
+V1.3.4) Conocimientos lingüísticos.
+
+V.2) Pruebas de evaluación.
+
+V.3) Programa de formación de los cursos de actualización y reciclaje de conocimientos teóricos y prácticos de los certificados.
+
+V.1) Programa de formación
+
+V.1.1) Principios generales.
+
+Con carácter general, el programa de formación guardará un correcto equilibrio entre la formación teórica (aula y demostraciones) y práctica (experiencia de trabajo, conducción con supervisión y conducción sin supervisión en vía bloqueada de la Red Ferroviaria de Interés General con fines de formación).
+
+Será posible la formación asistida por ordenador para el aprendizaje individual de las normas de explotación, situaciones de señalización, etc., así como la utilización de simuladores, especialmente para la recreación y situaciones degradadas.
+
+Por lo que respecta a la adquisición de conocimientos sobre una línea, se podrá contemplar el sistema en que un maquinista vaya acompañado por otro maquinista durante un número adecuado de trayectos a lo largo de dicha línea; siendo posible utilizar como métodos de formación alternativo, entre otros, grabaciones de los itinerarios realizadas desde la cabina del maquinista.
+
+El objetivo de la ''formación sobre conocimientos generales'' es proporcionar conocimientos generales sobre todos los aspectos que son relevantes para la profesión de maquinista. La formación a este respecto se centrará en los conocimientos y principios básicos que son aplicables, independientemente, del tipo y de la naturaleza del material rodante o la infraestructura de que se trate.
+
+El conocimiento respecto a los tipos específicos de material rodante o seguridad y técnicas y normas de circulación/explotación/operación para una infraestructura específica/particular, no forma parte de lo que es el ''conocimiento general''.
+
+La formación para conocer el material rodante o infraestructura específicos que tienen que ver con el certificado del maquinista está especificada en el anexo V.1.3.2.
+
+V.1.2) Conocimientos profesionales y prescripciones relativas a las licencias.
+
+V.1.2.1) Objetivos generales de la formación de la licencia.
+
+La formación general abarcará las siguientes materias:
+
+1) El trabajo de un maquinista, el entorno de trabajo, las funciones y responsabilidades del maquinista en el proceso de explotación ferroviaria, así como las exigencias profesionales y personales de los deberes del maquinista:
+
+a) conocer las líneas generales de la legislación y las normas aplicables a la explotación y seguridad ferroviarias (requisitos y procedimientos relativos a la certificación de los maquinistas, las mercancías peligrosas, la protección del medio ambiente, la protección contra incendios, etc.);
+
+b) comprender los requisitos específicos y las exigencias personales y profesionales (trabajar fundamentalmente solo, trabajo por turnos en un ciclo de veinticuatro horas, protección y seguridad individuales, lectura y actualización de documentos, etc.);
+
+c) comprender los comportamientos que son compatibles con responsabilidades determinantes para la seguridad (medicación, alcohol, drogas u otras sustancias psicoactivas, enfermedad, estrés, fatiga, atención, etc.) y la importancia de un estilo de vida sana y el mantenimiento de unas condiciones psicofísicas adecuadas y su relación con la profesionalidad y la seguridad;
+
+d) determinar los documentos de referencia y los documentos operativos (reglamentos, libro de itinerarios, manual del maquinista, etc.), adquiriendo compromiso de su cumplimiento;
+
+e) determinar las responsabilidades y funciones de las personas implicadas;
+
+f) comprender la importancia de la precisión en el desempeño de las tareas y en los métodos de trabajo, en las buenas prácticas profesionales y de la cultura de seguridad en los sistemas ferroviarios;
+
+g) comprender la salud y seguridad en el trabajo (p. ej., código de conducta en las vías y a proximidad de las mismas, código de conducta al subir y bajar de la unidad motriz, ergonomía, reglas de seguridad del personal, equipo de protección personal, etc.);
+
+h) conocer las aptitudes y los principios en materia de conducta (gestión del estrés, situaciones extremas, etc.);
+
+i) conocer los principios de la protección del medio ambiente (conducción sostenible, etc.);
+
+j) asumir la mejora continua como profesional, participando activamente en la formación y entrenamiento promovidos por las entidades ferroviarias.
+
+2) Las tecnologías ferroviarias, incluidos los principios de seguridad en que se basa la reglamentación operativa:
+
+a) conocer los principios, la normativa relacionada con la seguridad en las operaciones del tren.
+
+b) identificar las responsabilidades y funciones de las personas involucradas.
+
+3) Los principios básicos de la infraestructura ferroviaria:
+
+a) Conocer los principios y parámetros sistemáticos y estructurales.
+
+b) Conocer las características generales de las vías, estaciones y centros de clasificación.
+
+c) Conocer las estructuras ferroviarias (puentes, túneles, etc.).
+
+d) Conocer los tipos de circulación (una sola vía, la circulación en doble vía, etc.).
+
+e) Conocer los sistemas de señalización y de control de tráfico.
+
+f) Conocer las instalaciones de seguridad (detectores de cajas calientes, detectores de humo en los túneles, etc.).
+
+g) Conocer el sistema de alimentación eléctrica de la tracción (catenaria, tercer carril, etc.).
+
+4) Los principios básicos de la comunicación operativa:
+
+a) Conocer la importancia de la comunicación, así como sus medios y procedimientos.
+
+b) Identificar a las personas que el maquinista necesita para ponerse en contacto y sus funciones y responsabilidades (personal del administrador de infraestructuras, las funciones de otros miembros del personal de tren, etc.).
+
+c) Identificar situaciones y causas que requieren que se inicie la comunicación.
+
+d) Comprender los medios de comunicación y asumirlos como herramientas de trabajo, especialmente en los sistemas degradados de la conducción.
+
+5) Los trenes, su composición y los requisitos técnicos de las unidades de tracción, vagones, coches y demás material rodante:
+
+a) Conocer los tipos genéricos de tracción (eléctrico, diesel, vapor, etc.).
+
+b) describir el diseño de un vehículo (bogies, la cabina, sistemas de protección, etc.).
+
+c) Conocer el contenido y los sistemas de marcado.
+
+d) Conocer la documentación de la composición del tren.
+
+e) Entender los sistemas de frenado y cálculo de rendimiento.
+
+f) Identificar la velocidad del tren.
+
+g) Identificar la carga máxima y las fuerzas en el enganche.
+
+h) Conocer la circulación y el funcionamiento del sistema de gestión de trenes.
+
+6) Los peligros en la explotación/circulación ferroviaria en general:
+
+a) Entender los principios de la gestión de la seguridad del tráfico ferroviario.
+
+b) Conocer los riesgos relacionados con la explotación ferroviaria y los medios que se utilizarán para mitigarlos.
+
+c) Conocer los incidentes importantes de seguridad y entender el comportamiento y reacción requeridos.
+
+d) Conocer los procedimientos aplicables a los accidentes con víctimas (por ejemplo, evacuación).
+
+e) Conocer la necesidad de comunicar cualquier peligro observado (normas, infraestructuras y señales, vehículos y personas) como acción preventiva y de cultura de seguridad.
+
+7) Los principios físicos básicos:
+
+a) Entender las fuerzas en la rueda.
+
+b) Identificar los factores que influyen en la aceleración y frenado (condiciones meteorológicas, el equipo de frenado, la reducción de la adherencia, arenado, etc.).
+
+c) Entender los principios de la electricidad (circuitos, medición de la tensión, etc.).
+
+V.1.2.2) Conocimientos profesionales para la formación de la licencia.
+
+En particular, en desarrollo de los apartados anteriores, además el maquinista deberá conocer lo siguiente, que debe permitirle al menos, disponer de los conocimientos generales necesarios para el ejercicio de las actividades:
+
+1\. Pruebas de frenado: El maquinista deberá ser capaz de:
+
+– Verificar y calcular, antes de la salida del tren o servicio de la maniobra, que la potencia de frenado de éste, tal y como viene especificada en los documentos de los vehículos, corresponde a la potencia de frenado prescrita para la infraestructura y ámbitos ferroviarios.
+
+– Verificar el funcionamiento de los diversos componentes del sistema de frenado de la unidad motriz y del tren, según proceda, antes de toda puesta en movimiento, en la puesta en servicio y en marcha.
+
+2\. Conducción del tren o de la maniobra de manera que no se deterioren las instalaciones ni los vehículos: El maquinista deberá ser capaz de:
+
+– Utilizar todos los dispositivos de mando y control que estén a su disposición, según las reglas aplicables.
+
+– Arrancar el tren respetando las limitaciones relativas a la adherencia y la potencia.
+
+– Utilizar, siempre que sea posible, el freno con prudencia para reducir la velocidad y detener el tren, respetando el material rodante y las instalaciones.
+
+3\. Anomalías: El maquinista deberá:
+
+– Ser capaz de estar atento a los acontecimientos inusuales relacionados con la conducción del tren.
+
+– Conocer los medios de protección y comunicación disponibles.
+
+– Saber manejar situaciones degradadas de conducción (vehículo, instalaciones o ambos).
+
+4\. Incidentes y accidentes de explotación, incendios y accidentes con víctimas: El maquinista deberá conocer de manera genérica los procedimientos de evacuación del tren, en caso de emergencia.
+
+5\. Inmovilización del tren o de la maniobra: El maquinista de manera genérica deberá:
+
+– Ser capaz de tomar las medidas necesarias para evitar que el tren o la maniobra, o partes del tren, se pongan en marcha o en movimiento intempestivamente, incluso en las condiciones más desfavorables.
+
+– Prestar atención, en la medida en que la conducción del tren o la maniobra lo permita, a los acontecimientos inusuales relacionados con la infraestructura ferroviaria y el entorno: órdenes e indicaciones relacionadas con la maniobra, señales, vía, alimentación de energía, pasos a nivel, alrededores de la vía, otras circulaciones, y al paso por las estaciones.
+
+– Conocer las distancias precisas para la realización de maniobras u obstáculos.
+
+– Notificar lo antes posible al administrador de infraestructuras el lugar y naturaleza de las anomalías constatadas, asegurándose de ser bien interpretado por su interlocutor.
+
+– Tener en cuenta la infraestructura, cuidar o hacer que se vele por la seguridad de la circulación de personas siempre que sea necesario.
+
+6\. Normas de seguridad: El maquinista deberá ser capaz de:
+
+– Realizar movimientos de maniobras, cuando las condiciones de seguridad se cumplan.
+
+– Poner el tren en marcha solamente si se reúnen las condiciones reglamentarias (horario, orden o señal de salida, apertura de señales, etc.).
+
+– Observar la señalización (lateral o en cabina), descodificarla sin dudas ni errores y llevar a cabo las acciones prescritas.
+
+– Circular con total seguridad según los modos particulares de explotación: aplicación de dichos modos cuando se reciba la orden correspondiente, limitación temporal de velocidad, circulación en sentido inverso al normal, autorización para rebasar señales que ordenen parada, maniobras, circular por infraestructuras ferroviarias que están en mantenimiento y/o reparación, etc.
+
+7\. Conducción del tren: El maquinista deberá ser capaz de:
+
+– Conocer en todo momento su situación en la línea, terminal o estación de clasificación por la que circula.
+
+– Utilizar, siempre que sea posible, el freno con prudencia para reducir la velocidad y detener el tren o la maniobra, respetando el material rodante y las instalaciones.
+
+– Regular la marcha del tren o la maniobra con arreglo al horario y las órdenes relacionadas con los movimientos de maniobras, teniendo en cuenta las características genéricas de la unidad motriz, el tren, maniobra, la línea y el entorno.
+
+8\. Incidentes y accidentes de explotación, incendios y accidentes con víctimas: El maquinista deberá ser capaz de:
+
+– Adoptar las disposiciones de protección y alerta en caso de accidente con víctimas.
+
+– Determinar el punto de parada del tren tras un incendio y, si procede, facilitar la evacuación de los ocupantes.
+
+– Facilitar en cuanto sea posible los datos pertinentes sobre el incendio, si no ha podido dominarlo él mismo.
+
+– Notificar cuanto antes dichas condiciones al administrador de infraestructuras ferroviarias.
+
+– Evaluar si la infraestructura ferroviaria permite que continúe la marcha del vehículo o el tren y en qué condiciones.
+
+9\. Conocimientos del material rodante: El maquinista deberá estar familiarizado con los sistemas de mando de los vehículos y sus indicadores (tracción, frenado y dispositivos relacionados con la seguridad), además de disponer de conocimientos generales sobre los principales elementos del material rodante:
+
+– Las estructuras mecánicas.
+
+– Los órganos de suspensión y conexión.
+
+– Los órganos de rodadura.
+
+– Los equipos de seguridad.
+
+– Los depósitos de combustible, dispositivos de alimentación de combustible y órganos de escape.
+
+– El dispositivo de marcado que figura en el interior y en el exterior del material, especialmente los símbolos utilizados para el transporte de mercancías peligrosas.
+
+– Los sistemas eléctricos y neumáticos.
+
+– Los órganos de captación y circuitos de alta tensión.
+
+– Los medios de comunicación (radio, telefonía, señales visuales, señales auditivas, etc.).
+
+– Los órganos de frenado.
+
+10\. Conocimientos de la infraestructura:
+
+El maquinista deberá ser capaz de verificar y calcular, antes de la salida del tren o de la maniobra, el tipo de marcha y velocidad máxima del tren en función de las características de la línea, terminal o estación de clasificación. Además deberá disponer de conocimientos generales sobre:
+
+– Las condiciones de explotación (realización de maniobras, cambios de vía, circulación en un solo sentido, etc.).
+
+– La realización de un itinerario y la consulta de los documentos correspondientes.
+
+– La determinación de las vías utilizables para el tipo de circulación considerado.
+
+– Las normas de circulación aplicables y el significado del sistema de señalización.
+
+– El régimen de explotación.
+
+– El sistema de bloqueo y reglamentación asociada.
+
+– Nombre, situación y localización a distancia de estaciones y puestos de explotación, a fin de prever la conducción.
+
+– La señalización de transición entre los distintos sistemas de explotación o alimentación de energía.
+
+– Las velocidades máximas para las distintas categorías de trenes conducidos por el agente.
+
+– Las condiciones particulares de frenado, tales como las aplicables en líneas de fuerte pendiente.
+
+– Las particularidades de explotación: señales o paneles específicos, condiciones de salida, etc.
+
+– Los puntos de especial dificultad de la infraestructura.
+
+V.1.2.3) Formación práctica.
+
+Una vez superado un examen del centro de formación sobre los conocimientos teóricos, será necesario realizar la formación práctica contemplada en el programa formativo para la obtención de la licencia con los siguientes criterios:
+
+1\. El aspirante realizará 24 horas de acompañamiento en cabina, sin intervenir en la conducción, para adquirir conocimientos relativos a la pericia en la conducción, en las que estará presente el maquinista titular.
+
+2\. Previamente al acceso a la conducción efectiva, será necesario que el aspirante se familiarice adecuadamente con el manejo de un vehículo ferroviario. Para ello, existen dos opciones:
+
+2.a) En el caso de que el centro de formación disponga de simulador de conducción, los aspirantes deberán realizar 16 horas de prácticas de conducción en el simulador. A la finalización de las mismas, el instructor del centro deberá emitir un certificado, si así procede, en el que figure que el aspirante ha superado dichas horas demostrando un nivel de conocimientos teóricos suficientes de conformidad con lo previsto en el programa formativo destinado a la obtención de la Licencia de conducción.
+
+2.b) En el caso de que el centro de formación no disponga de simulador de conducción, los aspirantes deberán realizar 16 horas de prácticas de conducción en las que estará presente el maquinista titular, estando supervisadas en todo momento por un instructor de enseñanza práctica del centro. Las citadas pruebas se realizaran dentro de lo posible, en una vía de pruebas o en un recinto sin conexión con la red general y en una locomotora aislada o en un tren autopropulsado sin viajeros.
+
+A la finalización de las mismas el instructor del centro deberá emitir un certificado, si así procede, en el que figure que el aspirante ha superado dichas horas supervisadas en todo momento por un instructor de enseñanza práctica del centro, demostrando un nivel de conocimientos teóricos suficientes de conformidad con lo previsto en el programa formativo destinado a la obtención de la Licencia de conducción.
+
+3\. Una vez superado el proceso anterior, se iniciará las horas de conducción efectiva, que se descompondrán en dos bloques:
+
+3.a) Las primeras 16 horas de conducción efectiva estarán supervisadas en todo momento por un instructor de enseñanza práctica del centro, en las que estará presente el maquinista titular, y a la finalización de las mismas el instructor del centro deberá emitir un certificado, si así procede, en el que figure que se han realizado satisfactoriamente. Dichas prácticas se deberán realizar en la Red Ferroviaria de Interés General, en cualquiera de los siguientes vehículos o trenes: vehículos de maniobras, trenes de trabajo, locomotoras aisladas o trenes autopropulsados sin viajeros.
+
+3.b) Una vez superadas por el aspirante las prácticas de los apartados 2 y 3.a), se deberá remitir los correspondientes certificados a la autoridad responsable de la seguridad ferroviaria. Entonces el aspirante podrá comenzar el segundo bloque de prácticas de conducción efectiva en vehículos de maniobras, trenes de trabajo, trenes de mercancías o trenes autopropulsados de viajeros. Este bloque de horas de conducción siempre estará supervisado por un maquinista que esté debidamente habilitado. A la finalización de las mismas el instructor del centro deberá emitir un certificado, si así procede, en el que figure que el aspirante ha superado al menos 40 horas de prácticas de conducción efectiva.
+
+4\. El resto de la formación práctica, hasta completar las 120 horas, se realizará mediante visitas a instalaciones ferroviarias, talleres de mantenimiento de vehículos, estaciones, cargaderos, estaciones de clasificación de vagones, puestos de mando, etc., en el que los aspirantes puedan adquirir la formación práctica necesaria para completar el conocimiento integrado en el programa formativo para la obtención de la Licencia de conducción.
+
+La conducción durante los apartados 2.b), 3.a) y 3.b) se realizará bajo las siguientes prescripciones:
+
+a) En los supuestos de que exista alguna situación degrada de circulación o que pueda poner en riesgo la seguridad en la circulación, el maquinista titular se hará cargo de la conducción de manera inmediata hasta que remitan las causas que justificaron dicha situación.
+
+b) El maquinista titular será el responsable del tren, a efectos de las normas reglamentarias de aplicación relacionadas con la seguridad en la circulación de aplicación a su tren.
+
+c) A efectos de lo dispuesto en la disposición adicional duodécima del Reglamento del Sector Ferroviario, sobre los tiempos máximos de conducción, el maquinista titular y el instructor de enseñanza práctica del centro considerarán el tiempo de conducción de un aspirante como si se tratará de conducción efectiva del maquinista titular o del instructor, estando ambos sujetos a lo dispuesto en dicha Norma.
+
+V.1.3) Conocimientos profesionales y prescripciones relativas a los certificados.
+
+V.1.3.1) Conocimientos profesionales generales comunes:
+
+El presente apartado sólo será exigible para los certificados de categoría B, en desarrollo de los conocimientos indicados en el artículo 40.2.a).
+
+En relación con los certificados de categoría A, se considera que no es necesaria una formación adicional para disponer de los conocimientos generales comunes, siempre y cuando la licencia de conducción se haya obtenido de acuerdo con un contenido conforme al apartado V.1.2 de este anejo.
+
+El contenido de los conocimientos que se describen en ese apartado deberán particularizarse de tal modo que, adicionalmente a los conocimientos obtenidos para la licencia, y con independencia de los conocimientos específicos relativos a cada vehículo o línea concretos, se puedan llevar a cabo las actividades de conducción de vehículos de viajeros o mercancías recogidas en el certificado de categoría B.
+
+V.1.3.1.1) Conocimientos relativos a material rodante:
+
+El contenido de la carga lectiva mínima de este apartado para adquirir los conocimientos exigidos será de al menos 275 horas, distribuido entre enseñanza teórica y práctica.
+
+Además de la formación específica sobre vehículos concretos establecida en el apartado V.1.3.2.1) de este anexo, el maquinista deberá poder realizar satisfactoriamente las siguientes tareas en relación con un material rodante genérico:
+
+1\. Pruebas y verificaciones prescritas antes de la salida del tren: El maquinista deberá poder:
+
+– Procurarse la documentación y equipo necesarios.
+
+– Comprobar las prestaciones de la unidad motriz.
+
+– Comprobar las indicaciones que figuren en los documentos a bordo de la unidad motriz.
+
+– Asegurarse, realizando las pruebas y comprobaciones previstas, de que la unidad motriz está en condiciones de asegurar el remolque del tren, y de que funcionan los dispositivos de seguridad.
+
+– Comprobar la disponibilidad y operatividad de los equipos de protección y seguridad obligatorios con anterioridad a los relevos de locomotora e inicios de viaje.
+
+– Realizar las operaciones corrientes de mantenimiento preventivo.
+
+2\. Conocimiento del material rodante: Para conducir la unidad motriz, el maquinista deberá conocer la totalidad de los sistemas de mando e indicadores puestos a su disposición, en particular; los relacionados con:
+
+– La tracción.
+
+– El frenado.
+
+– Los dispositivos relacionados con la seguridad de la circulación.
+
+Para poder detectar y localizar una anomalía del material rodante, señalarla y determinar las condiciones de reanudación de la marcha así como, en determinados casos, efectuar una intervención, el maquinista deberá conocer:
+
+– Las estructuras mecánicas.
+
+– Los órganos de suspensión y conexión.
+
+– Los órganos de rodadura.
+
+– Los equipos de seguridad.
+
+– Los depósitos de combustible, dispositivos de alimentación de combustible y órganos de escape.
+
+– El dispositivo de marcado, que figura en el interior y en el exterior del material, especialmente los símbolos utilizados para el transporte de mercancías peligrosas.
+
+– Los sistemas de registro de viajes.
+
+– Los sistemas eléctricos y neumáticos.
+
+– Los sistemas de ayuda a la conducción.
+
+– Los órganos de captación y circuitos de alta tensión.
+
+– Los sistemas de información de señales en cabina (ASFA, ERTMS, etc.).
+
+– Los medios de comunicación (radio, telefonía, señales visuales, señales auditivas, etc.).
+
+– Los planes de viaje.
+
+– Los elementos que constituyen el material rodante, su función y los dispositivos particulares del material remolcado, en especial el sistema de parada del tren por descompresión del circuito general de frenado.
+
+– Los órganos de frenado.
+
+– Los elementos particulares de las unidades motrices.
+
+– El mecanismo de tracción, los motores y las transmisiones.
+
+3\. Pruebas de frenado del tren: El maquinista deberá ser capaz de:
+
+– Verificar y calcular, antes de la salida del tren, que la potencia de frenado de éste, tal y como viene especificada en los documentos de los vehículos, corresponde a la potencia de frenado prescrita para la infraestructura ferroviaria.
+
+– Verificar el funcionamiento de los diversos componentes del sistema de frenado de la unidad motriz y del tren, según proceda, antes de toda puesta en movimiento, en la puesta en servicio, y en marcha.
+
+4\. Tipo de marcha y de velocidad máxima del tren en función de las características de la línea: El maquinista deberá ser capaz de:
+
+– Tener en cuenta las informaciones que se le transmitan antes de toda salida.
+
+– Determinar el tipo de marcha y la velocidad límite del tren en función de variables como las limitaciones de velocidad, condiciones meteorológicas o modificaciones de la señalización.
+
+5\. Conducción del tren o de la maniobra, de manera que no se deterioren las instalaciones ni los vehículos: El maquinista deberá ser capaz de:
+
+– Utilizar todos los dispositivos de mando y control que estén a su disposición, según las reglas aplicables.
+
+– Arrancar el tren respetando las limitaciones relativas a la adherencia y la potencia.
+
+– Utilizar el freno con prudencia, siempre que sea posible, para reducir la velocidad y detener el tren, respetando el material rodante y las instalaciones.
+
+6\. Anomalías: El maquinista deberá:
+
+– Ser capaz de estar atento a los acontecimientos inusuales relacionados con la conducción del tren.
+
+– Ser capaz de inspeccionar el tren e identificar los indicadores de anomalías, diferenciarlos y reaccionar según su importancia respectiva, e intentar solucionarlas, favoreciendo en todos los casos la seguridad de la circulación ferroviaria y las personas.
+
+– Conocer los medios de protección y comunicación disponibles.
+
+7\. Incidentes y accidentes de explotación, incendios y accidentes con víctimas: El maquinista deberá:
+
+– Ser capaz de tomar las disposiciones de protección y alerta en caso de accidente con víctimas a bordo del tren.
+
+– Ser capaz de determinar si el tren transporta mercancías peligrosas e identificarlas sobre la base de la documentación del tren y la lista de vagones.
+
+– Deberá conocer los procedimientos de evacuación de un tren en caso de emergencia.
+
+8\. Condiciones de reanudación de la marcha después de un incidente que afecte al material rodante: Después de un incidente, el maquinista deberá ser capaz de:
+
+– Evaluar si el material puede seguir circulando y en qué condiciones, de tal forma que notifique esas condiciones lo antes posible al administrador de infraestructuras ferroviarias.
+
+– Determinar si es necesaria la evaluación de un perito antes de que el tren pueda reanudar la marcha.
+
+9\. Inmovilización del tren: El maquinista deberá:
+
+– Ser capaz de tomar las medidas necesarias para evitar que el tren, o partes del tren, se pongan en marcha o en movimiento intempestivamente, incluso en las condiciones más desfavorables.
+
+– Además, el maquinista deberá conocer las medidas necesarias para detener un tren o partes de un tren, en caso de que se pusieran en movimiento intempestivamente.
+
+V.1.3.1.2) Conocimientos relativos a la infraestructura:
+
+El contenido de la carga lectiva mínima de este apartado para adquirir los conocimientos exigidos será de al menos 450 horas, distribuido entre enseñanza teórica y práctica.
+
+Además de la formación específica sobre líneas concretas establecida en el apartado V.1.3.2.2) de este anexo, el maquinista deberá poder realizar satisfactoriamente las siguientes tareas en relación con una línea genérica:
+
+1\. Pruebas de frenado del tren: El maquinista deberá ser capaz de verificar y calcular, antes de la salida del tren, que la potencia de frenado de éste, tal y como viene especificada en los documentos de los vehículos, corresponde a la potencia de frenado prescrita para la línea.
+
+2\. Tipo de marcha y velocidad máxima del tren en función de las características de las líneas: El maquinista deberá ser capaz de:
+
+– Tener en cuenta las informaciones que se le transmitan, tales como las limitaciones de velocidad o las indicaciones que ofrezcan las señales.
+
+– Determinar el tipo de marcha y la velocidad máxima asignada del tren en función de las características de la infraestructura ferroviaria y de la composición del tren.
+
+3\. Conocimiento de las líneas: El maquinista deberá:
+
+– Ser capaz de prever y reaccionar correctamente en términos de seguridad y de otros aspectos funcionales, como la puntualidad y los aspectos económicos.
+
+– Habrá de conocer bien las líneas e instalaciones ferroviarias que recorra, así como, llegado el caso, los itinerarios alternativos convenidos.
+
+– Deberá estar familiarizado con los siguientes aspectos de las líneas:
+
+– Las condiciones de explotación (cambios de vía, circulación en un solo sentido, etc.).
+
+– La realización de un itinerario y la consulta de los documentos correspondientes.
+
+– La determinación de las vías utilizables para el tipo de circulación considerado.
+
+– Las normas de circulación aplicables y el significado del sistema de señalización.
+
+– El régimen de explotación.
+
+– El sistema de bloqueo y reglamentación asociada.
+
+– Nombre, situación y localización a distancia de estaciones y puestos de explotación, a fin de prever la conducción.
+
+– La señalización de transición entre los distintos sistemas de explotación o alimentación de energía.
+
+– Las velocidades máximas para las distintas categorías de trenes conducidos por el agente.
+
+– Los perfiles topográficos.
+
+– Las condiciones particulares de frenado, tales como las aplicables en líneas de fuerte pendiente.
+
+– Las particularidades de explotación: señales o paneles específicos, condiciones de salida, etc.
+
+4\. Normas de seguridad: El maquinista deberá ser capaz de:
+
+– Poner el tren en marcha solamente si se reúnen las condiciones reglamentarias (horario, orden y/o señal de salida, apertura de señales, etc.).
+
+– Observar la señalización (lateral o en cabina), descodificarla sin dudas ni errores y llevar a cabo las acciones prescritas.
+
+– Circular con total seguridad según los modos particulares de explotación: aplicación de dichos modos cuando se reciba la orden correspondiente, limitación temporal de velocidad, circulación en sentido inverso al normal, autorización para rebasar señales que ordenen parada, maniobras, circular por infraestructuras ferroviarias que están en mantenimiento y/o reparación, etc.
+
+– Observar las paradas que estén previstas en el horario o hayan sido ordenadas, y efectuar si procede, las operaciones de servicio de viajeros en las mismas.
+
+5\. Conducción del tren: El maquinista deberá ser capaz de adecuar la conducción a la infraestructura:
+
+– Conocer en todo momento su situación en la línea por la que circula.
+
+– Utilizar, siempre que sea posible, el freno con prudencia para reducir la velocidad y detener el tren, respetando el material rodante y las instalaciones.
+
+– Regular la marcha del tren con arreglo al horario y las eventuales consignas de ahorro de energía, teniendo en cuenta las características de la unidad motriz, el tren, la línea y el entorno.
+
+6\. Anomalías: El maquinista deberá ser capaz de:
+
+– Prestar atención, en la medida en que la conducción del tren lo permita, a los acontecimientos inusuales relacionados con la infraestructura ferroviaria y el entorno: señales, vía, alimentación de energía, pasos a nivel, alrededores de la vía, otras circulaciones, y al paso por las estaciones.
+
+– Conocer las distancias precisas para respetar obstáculos.
+
+– Notificar lo antes posible al administrador de infraestructuras el lugar y naturaleza de las anomalías constatadas, asegurándose de ser bien interpretado por su interlocutor.
+
+– Tener en cuenta la infraestructura, cuidar o hacer que se vele por la seguridad de la circulación de personas siempre que sea necesario.
+
+7\. Incidentes y accidentes de explotación, incendios y accidentes con víctimas: El maquinista deberá ser capaz de:
+
+– Adoptar las disposiciones de protección y alerta en caso de accidente con víctimas.
+
+– Determinar el punto de parada del tren tras un incendio y, si procede, facilitar la evacuación de los viajeros.
+
+– Facilitar en cuanto sea posible los datos pertinentes sobre el incendio, si no ha podido dominarlo él mismo.
+
+– Notificar cuanto antes dichas condiciones al administrador de infraestructuras ferroviarias.
+
+– Evaluar si la infraestructura ferroviaria permite que continúe la marcha del vehículo o el tren y en qué condiciones.
+
+V.1.3.1.3) Formación práctica.
+
+Una vez superado un examen sobre los conocimientos teóricos, será necesario realizar la formación práctica contemplada en el programa formativo para la obtención del Certificado de conducción de categoría B, con los siguientes criterios:
+
+1\. El aspirante realizará 24 horas de acompañamiento en cabina, sin intervenir en la conducción, para adquirir conocimientos relativos a la pericia en la conducción, en las que estará presente el maquinista titular.
+
+2\. Previamente al acceso a la conducción efectiva, será necesario que el aspirante se familiarice adecuadamente con el manejo de un vehículo ferroviario en las condiciones que permite un certificado de conducción de categoría B. Para ello, existen dos opciones:
+
+2.a) En el caso de que el centro de formación disponga de simulador de conducción, los aspirantes deberán realizar 16 horas de prácticas de conducción en el simulador. A la finalización de las mismas, el instructor del centro deberá emitir un certificado, si así procede, en el que figure que el aspirante ha superado dichas horas de prácticas demostrando un nivel de conocimientos teóricos suficientes de conformidad con lo previsto en el programa formativo destinado a la obtención del Certificado de conducción de categoría B.
+
+2.b) En el caso de que el centro de formación no disponga de simulador de conducción, los aspirantes deberán realizar 16 horas de prácticas de conducción en las que estará presente el maquinista titular, estando supervisadas en todo momento por un instructor de enseñanza práctica del centro. Las citadas pruebas se realizaran dentro de lo posible, en una vía de pruebas o en un recinto sin conexión con la red y en una locomotora aislada o en un tren autopropulsado sin viajeros.
+
+A la finalización de las mismas el instructor del centro deberá emitir un certificado, si así procede, en el que figure que el aspirante ha superado dichas horas supervisadas en todo momento por un instructor de enseñanza práctica del centro, demostrando un nivel de conocimientos teóricos suficientes de conformidad con lo previsto en el programa formativo destinado a la obtención del Certificado de conducción de categoría B.
+
+3\. Una vez superado el proceso anterior, se iniciará las horas de conducción efectiva, que se descompondrán en dos bloques:
+
+3.a) Las primeras 24 horas de conducción efectiva en la red ferroviaria de interés general estarán supervisadas en todo momento por un instructor de enseñanza práctica del centro, en las que estará presente el maquinista titular, y a la finalización de las mismas el instructor del centro deberá emitir un certificado, si así procede, en el que figure que se han realizado satisfactoriamente.
+
+3.b) Una vez superado por el aspirante el apartado 2 y 3.a), se deberá remitir dichos Certificados a la autoridad responsable de la seguridad ferroviaria y al responsable de seguridad de la entidad otorgante. Entonces el aspirante podrá comenzar con las prácticas de conducción efectiva en trenes de viajeros o mercancías, siempre que las mismas estén supervisadas por un maquinista que esté debidamente habilitado. A la finalización de las mismas el instructor del centro deberá emitir un certificado, si así procede, en el que figure que el aspirante ha superado las 136 horas de prácticas de conducción efectiva.
+
+La conducción durante los apartados 2.b), 3.a) y 3.b) se realizará bajo las siguientes prescripciones:
+
+a) En los supuestos de que exista alguna situación degradada de circulación o que pueda poner en riesgo la seguridad en la circulación, el maquinista titular se hará cargo de la conducción de manera inmediata hasta que remitan las causas que justificaron dicha situación.
+
+b) El maquinista titular será el responsable del tren, a efectos de las normas reglamentarias de aplicación relacionadas con la seguridad en la circulación de aplicación a su tren.
+
+c) A efectos de lo dispuesto en la Disposición Adicional Duodécima del Reglamento del Sector Ferroviario, sobre los tiempos máximos de conducción, el maquinista titular y el instructor de enseñanza práctica del centro considerará el tiempo de conducción de un aspirante como si se tratará de conducción efectiva del maquinista titular o del instructor, estando ambos sujetos a lo dispuesto en dicha Norma.
+
+V.1.3.2) Conocimientos profesionales específicos sobre los vehículos y líneas concretos a incluir en el certificado.
+
+El presente apartado será exigible para los certificados de categoría A o B, en desarrollo de los conocimientos indicados en el artículo 40.2.b).
+
+V.1.3.2.1) Conocimientos relativos a material rodante:
+
+El contenido de la carga lectiva mínima de este apartado para adquirir los conocimientos exigidos será de al menos 80 horas por cada vehículo, distribuido entre enseñanza teórica y práctica. La regulación de la carga lectiva de este apartado se desarrollará por resolución de la autoridad responsable de la seguridad ferroviaria, de conformidad con lo dispuesto en la disposición adicional séptima de esta orden.
+
+Al término de la formación específica relativa al material rodante, el maquinista deberá poder realizar satisfactoriamente las siguientes tareas, en relación con uno o varios vehículos concretos incluidos en su certificado:
+
+1\. Conducción del tren o de la maniobra, de manera que no se deterioren las instalaciones ni los vehículos: El maquinista deberá ser capaz de utilizar todos los dispositivos de mando y control que estén a su disposición, según las reglas aplicables, en aquellos vehículos motores para los que esté autorizado a conducir.
+
+2\. Condiciones de reanudación de la marcha, después de un incidente que afecte al material rodante de aquellos vehículos motores para los que esté autorizado a conducir: Después de un incidente, el maquinista deberá ser capaz de evaluar si el material puede seguir circulando y en qué condiciones, de tal forma que notifique esas condiciones lo antes posible al administrador de infraestructuras ferroviarias.
+
+3\. Inmovilización del tren: El maquinista deberá conocer las medidas a adoptar sobre aquellos vehículos motores para los que esté autorizado a conducir para evitar que el tren, o partes del tren, se pongan en marcha o en movimiento intempestivamente, incluso en las condiciones más desfavorables.
+
+Además, el maquinista deberá conocer las medidas necesarias para detener aquellos vehículos motores para los que esté autorizado a conducir, o partes de su tren, en el caso de que se segregara por accidente.
+
+4\. Conocimientos del material rodante: Para conducir la unidad motriz, el maquinista deberá conocer en detalle la totalidad de los sistemas de mando e indicadores puestos a su disposición, en particular los relacionados con la tracción, el frenado y los dispositivos relacionados con la seguridad de la circulación.
+
+Para poder detectar y localizar una anomalía del material rodante, señalarla y determinar las condiciones de reanudación de la marcha o servicio de la maniobra así como, en determinados casos, efectuar una intervención, el maquinista deberá conocer con detalle suficiente:
+
+– Las estructuras mecánicas.
+
+– Los órganos de suspensión y conexión.
+
+– Los órganos de rodadura.
+
+– Los equipos de seguridad.
+
+– Los depósitos de combustible, dispositivos de alimentación de combustible y órganos de escape.
+
+– El dispositivo de marcado que figura en el interior y en el exterior del material, especialmente los símbolos utilizados para el transporte de mercancías peligrosas.
+
+– El sistema del registro jurídico del material rodante del tren.
+
+– Los sistemas eléctricos y neumáticos.
+
+– Los sistemas de ayuda a la conducción.
+
+– Los órganos de captación y circuitos de alta tensión.
+
+– Los sistemas de información de señales en cabina (ASFA, ERTMS, etc.).
+
+– Los medios de comunicación (radio, telefonía, señales visuales, señales auditivas, etc.).
+
+– Los órganos de frenado.
+
+– Los elementos particulares de las unidades motrices.
+
+– Los planes de viaje.
+
+– Los elementos que constituyen el material rodante, su función y los dispositivos particulares del material remolcado, en especial el sistema de parada del tren por descompresión del circuito general de frenado.
+
+– El mecanismo de tracción, los motores y las transmisiones.
+
+V.1.3.2.2) Conocimientos relativos a infraestructura:
+
+El contenido de la carga lectiva mínima de este apartado para adquirir los conocimientos exigidos será de al menos 35 horas por cada línea o entorno operativo, entre enseñanza teórica y práctica. La regulación de la carga lectiva de este apartado estará desarrollada por la resolución de la autoridad responsable de la seguridad ferroviaria, de conformidad con lo dispuesto en la disposición adicional séptima de esta orden.
+
+El maquinista recibirá formación, en detalle, para cada una de las líneas o entornos operativos concretos en las que se pretende circular, sobre los siguientes aspectos:
+
+1\. Conocimiento de la línea y su entorno operativo, terminal o estación de clasificación: Deberá conocer con el detalle preciso para circularen condiciones seguras las infraestructuras ferroviarias que recorra, incluso llegado el caso, los itinerarios alternativos convenidos.
+
+Para ello deberá conocer los siguientes aspectos:
+
+– Las condiciones de explotación (realización de maniobras, cambios de vía, circulación en un solo sentido, etc.).
+
+– La realización de un itinerario y la consulta de los documentos correspondientes.
+
+– La determinación de las vías utilizables para el tipo de circulación considerado.
+
+– Las normas de circulación aplicables y el significado del sistema de señalización.
+
+– El régimen de explotación.
+
+– El sistema de bloqueo y reglamentación asociada.
+
+– Nombre, situación y localización a distancia de estaciones y puestos de explotación, a fin de prever la conducción.
+
+– La señalización de transición entre los distintos sistemas de explotación o alimentación de energía.
+
+– Las velocidades máximas para las distintas categorías de trenes conducidos por el agente.
+
+– Las condiciones particulares de frenado, tales como las aplicables en líneas de fuerte pendiente.
+
+– Las particularidades de explotación: señales o paneles específicos, condiciones de salida, etc.
+
+2\. Puntos de especial dificultad de la infraestructura: En la formación dirigida a los maquinistas sobre la infraestructura, se pondrá en su conocimiento aquellos puntos críticos de especial dificultad durante la conducción y sobre aquellos que haya existido algún tipo de incidente o accidente conocido.
+
+V.1.3.3) Conocimientos sobre el sistema de gestión de seguridad de la entidad ferroviaria.
+
+El presente apartado será exigible para los certificados de categoría A o B, en desarrollo de los conocimientos indicados en el artículo 40.2.c).
+
+La entidad ferroviaria debe establecer una formación que garantice que su personal tiene conocimiento del sistema de gestión de la seguridad, puede acceder con facilidad al mismo, lo comprende y sabe aplicarlo.
+
+Para tal fin, se incluirán al menos los siguientes contenidos:
+
+1\. Conocimientos a nivel general del sistema de gestión de la seguridad y su estructura.
+
+2\. Organización y competencias en materia de seguridad dentro de la entidad, incluyendo los sistemas de formación y reciclaje.
+
+3\. Mecanismos de transmisión de la información establecidos en el sistema de gestión de la seguridad, tanto los usados por su entidad para comunicarle información, como los que su entidad tenga establecidos con el resto de administradores y empresas ferroviarias.
+
+4\. Política y planes de seguridad de la entidad ferroviaria.
+
+5\. Mecanismos de gestión de riesgos.
+
+6\. Procedimientos operativos relevantes.
+
+7\. Procedimientos de investigación de accidentes y planes de emergencia o contingencias.
+
+8\. Conocimientos específicos en relación con la explotación concreta a realizar por su entidad ferroviaria:
+
+– Material ferroviario utilizado por su entidad ferroviaria.
+
+– Lugares donde su entidad ferroviaria realiza la explotación ferroviaria, con especial incidencia en aquellos lugares donde el maquinista circule por ellas (realización de maniobras, cambios de vía, circulación en un solo sentido, etc.).
+
+– Distintos intervinientes durante la explotación ferroviaria de su entidad ferroviaria.
+
+– Lugares donde recibir la documentación relativa al tren, lugares donde se dejan y toman los vehículos ferroviarios, etc.
+
+V.1.3.4 Conocimientos lingüísticos.
+
+Prueba Lingüística:
+
+1\. El presente apartado será exigible para los certificados de categoría A o B.
+
+2\. Los maquinistas que deban comunicarse con el administrador de la infraestructura sobre cuestiones esenciales relacionadas con la seguridad deberán poseer la necesaria competencia lingüística en castellano (correspondiente al oficial para los administradores de infraestructuras de la Red Ferroviaria de Interés General). Dicha competencia lingüística deberá permitirles comunicarse de manera activa y eficaz en situaciones tanto rutinarias como degradadas y de emergencia. Deberán poder emplear los mensajes y el método de comunicación especificados en las ETI «Explotación y gestión del tráfico».
+
+3\. A fin de satisfacer los requisitos enumerados en el apartado anterior, los maquinistas deberán tener una capacidad de comprensión oral y escrita y de comunicación oral y escrita correspondiente al nivel B1 del Marco Común Europeo de Referencia para las Lenguas (MCER) establecido por el Consejo de Europa.
+
+4\. En el caso de los tramos entre las fronteras y las estaciones situadas en su proximidad y designadas para operaciones transfronterizas, los maquinistas pueden ser eximidos por el administrador de infraestructuras de la obligación de cumplir los requisitos previstos en el apartado 3, a condición de que se aplique el procedimiento siguiente:
+
+a) La empresa ferroviaria solicitará una excepción del administrador de infraestructuras para los maquinistas interesados. A fin de garantizar el tratamiento justo y equitativo de los solicitantes, el administrador de infraestructuras aplicará a todas las solicitudes de excepción presentadas el mismo procedimiento de evaluación, que formará parte de la declaración sobre la red;
+
+b) El administrador de infraestructuras concederá una excepción si la empresa ferroviaria puede demostrar que ha establecido mecanismos suficientes para garantizar la comunicación entre los maquinistas interesados y el personal del administrador de infraestructuras en situaciones tanto rutinarias como degradadas y de emergencia, con arreglo al apartado 2;
+
+c) Las empresas ferroviarias y los administradores de infraestructuras garantizarán que el personal interesado conozca dichas normas y mecanismos y reciba formación adecuada a través de sus propios sistemas de gestión de la seguridad.
+
+V.2) Pruebas de evaluación de licencias y certificados
+
+Las pruebas de evaluación para las licencias y certificados serán diseñadas con las materias contempladas en los programas de formación, conforme a los contenidos del apartado V.1. del presente Anexo.
+
+La autoridad responsable de la seguridad ferroviaria podrá regular mediante resolución, el proceso para la convocatoria y celebración de las pruebas de evaluación, teórica y práctica, para la obtención de la Licencia de conducción, así como emitir directrices y recomendaciones sobre las pruebas de evaluación de los certificados.
+
+V.3) Programa de formación de los cursos de actualización y reciclaje de conocimientos teóricos y prácticos de los certificados
+
+De manera general, dichos cursos incluirán, al menos, formación sobre los siguientes aspectos:
+
+– Modificaciones y actualizaciones de los procedimientos y sistemas de gestión de la seguridad de la entidad ferroviaria a la que pertenecen.
+
+– Modificaciones en la normativa aplicable.
+
+– Innovaciones tecnológicas.
+
+– Supervisión y control de conducción efectiva en línea o simulador realizada por un formador de formación práctica.
+
+– Refuerzo de los aspectos relacionados con el factor humano en la conducción: buenas prácticas profesionales, percepción del riesgo y aspectos psicológicos (como, entre otros, mantenimiento de la atención o procesos de toma de decisiones en situaciones críticas).
+
+– Procedimientos de actuación en materia de protección civil y prevención de riesgos.
+
+– Entrenamiento en situaciones degradas y situaciones críticas, teniendo en cuenta el retorno de la experiencia de sucesos o incidentes registrados, incluyendo la realización de simulaciones de operaciones con material rodante en situaciones de incidentes y averías.
+
+> Se modifica el apartado 1.3.4 por el art. único.1 de la Orden FOM/1613/2016, de 4 de octubre. [Ref. BOE-A-2016-9243](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-9243).
+
+> Se modifica por el art. único.59 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## ANEXO VI — Modelos de licencia y de certificado de conducción
+
+Los modelos de licencia y de certificado de conducción serán acordes, respectivamente, con lo establecido en los anexos I y II del Reglamento (UE) n.º 36/2010 de la Comisión, de 3 de diciembre de 2009, sobre los modelos comunitarios de licencias de conducción de trenes, certificados complementarios, copias autenticadas de certificados complementarios y formularios de solicitud de licencias de conducción de trenes, en aplicación de la Directiva 2007/59/CE del Parlamento Europeo y del Consejo; siendo sus características y contenidos los que a continuación se relacionan, de conformidad con dicha Directiva. Se empleará este formato cada vez que se expida, renueve, actualice, modifique o revoque una licencia o certificado de conducción.
+
+1\. Características de la licencia: Las características físicas de la licencia de maquinista se atendrán a las normas ISO 7810 e ISO 7816-1.
+
+La tarjeta deberá ser de policarbonato.
+
+Los métodos de verificación de las características del permiso de conducción que permitan garantizar su conformidad con las normas internacionales se ajustarán a la norma ISO 10373.
+
+2\. Contenido de la licencia: La cara anterior de la licencia contendrá los siguientes elementos:
+
+a) La mención «licencia de maquinista» impresa en caracteres gruesos en idioma castellano.
+
+b) El nombre del Estado emisor: España.
+
+c) El escudo de España según el código ISO 3166, impreso en negativo en rectángulo azul y rodeado de doce estrellas amarillas.
+
+d) Los datos específicos de la licencia expedida, numerados del siguiente modo:
+
+i) Apellidos del titular.
+
+ii) Nombre del titular.
+
+iii) Fecha y lugar de nacimiento del titular.
+
+iv) Fecha de expedición de la licencia:
+
+Fecha de expiración de la validez administrativa de la licencia.
+
+Designación de la autoridad otorgante: Dirección General de Infraestructuras Ferroviarias.
+
+Número de referencia asignado por el empleador al empleado.
+
+v) Número de la licencia que da acceso a los datos del Registro Especial Ferroviario.
+
+vi) Fotografía del titular.
+
+vii) Firma del titular;
+
+viii) Residencia permanente o dirección postal del titular.
+
+e) La mención «Modelo de las Comunidades Europeas» en idioma castellano y la mención «Licencia de conducción de trenes» en las demás lenguas de la Unión Europea, impresas en amarillo para constituir el fondo de la licencia.
+
+f) Colores de referencia: Azul: «Pantone Reflex Blue». Amarillo: «Pantone Yellow».
+
+g) Información complementaria, o restricciones médicas de uso impuestas al titular, de conformidad con la normativa vigente.
+
+3\. Certificado: El certificado contendrá los siguientes elementos:
+
+a) Apellidos del titular.
+
+b) Nombre del titular.
+
+c) Fecha y lugar de nacimiento del titular.
+
+d) Fecha de expedición del certificado.
+
+e) Fecha de expiración de la validez administrativa del certificado.
+
+f) Designación de la entidad otorgante.
+
+g) Número de referencia asignado por el empleador al empleado (opcional).
+
+h) Número del certificado que da acceso a los datos del Registro Especial Ferroviario.
+
+i) Fotografía del titular.
+
+j) Firma del titular.
+
+k) Residencia permanente o dirección postal del titular (facultativo).
+
+l) Categoría en que el titular está autorizado a conducir.
+
+m) Tipo o tipos de material rodante que el titular está autorizado a conducir.
+
+n) Infraestructuras por las que el titular está autorizado a conducir.
+
+o) Eventuales menciones adicionales o restrictivas.
+
+p) Conocimientos lingüísticos.
+
+## ANEXO VII — Contenido de los formularios de autodeclaración de salud previa al reconocimiento
+
+El documento citado contendrá, al menos, la información contenida en los apartados siguientes.
+
+AUTODECLARACIÓN DE SALUD PREVIA AL RECONOCIMIENTO.
+
+(A rellenar por el interesado previamente al reconocimiento)
+
+A. DATOS PERSONALES.
+
+• Nombre y apellidos:
+
+• Fecha de Nacimiento:
+
+• NIF:
+
+• Domicilio y datos de contacto:
+
+• Teléfono de contacto:
+
+• Título habilitante para el que se solicita el reconocimiento:
+
+B. ANTECEDENTES MÉDICO-QUIRÚRGICOS.
+
+¿Presenta usted alguno de estos antecedentes? Rodee sí/no, detalle observaciones.
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>0. General</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Tiene alguna enfermedad crónica por la que deba pasar revisiones médicas periódicas?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Padece algún tipo de alergias?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En el último año:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha tenido alguna intervención quirúrgica?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha estado ingresado en algún centro hospitalario?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha necesitado acudir el servicio de Urgencias?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha tenido alguna baja médica laboral?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Le han declarado en alguna ocasión como no apto en un reconocimiento psicofísico para personal ferroviario?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En caso afirmativo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿En qué centro médico? .....................................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿En qué fecha? ...................................................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>1. Oftalmología</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Utiliza o ha utilizado corrección óptica (gafas o lentes de contacto)?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha notado pérdida en su calidad de visión?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha tenido cambio de graduación en el último año?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Le han operado de los ojos en el último año?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>2. Otorrinolaringología (garganta, nariz, oído)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha notado dificultad para escuchar conversaciones, timbres, teléfonos?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Utiliza prótesis auditivas o le han recomendado utilizarlas?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha padecido o padece algún trastorno de nariz, garganta, o el habla?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>3. Aparato locomotor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Padece o ha padecido alguna lesión o enfermedad que le haya ocasionado inmovilización, baja laboral o ingreso hospitalario?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Le han quedado secuelas?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>4. Sistema cardiovascular</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Padece alguna enfermedad cardiovascular?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Es usted hipertenso?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>5. Aparato respiratorio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Es fumador?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha padecido o padece alguna enfermedad respiratoria?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ronca con frecuencia y se levanta cansado por la mañana?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>6. Neurológico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha sufrido pérdida de conciencia, mareos, desfallecimientos, síncopes, vértigos, sensación de inestabilidad?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha sufrido o sufre alguna enfermedad neurológica?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Ha sido diagnosticado de Epilepsia en algún momento de su vida?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Padece dolor de cabeza frecuentemente?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>7. Endocrinología</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Padece diabetes?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En caso afirmativo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Precisa tratamiento farmacológico? .................................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Hace cuántos años se la diagnosticaron? .......................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>8. Psiquiatría</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Padece o ha padecido episodios de ansiedad, depresión o alguna enfermedad mental para la que haya necesitado tratamiento?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Tiene antecedentes de problemas por consumo de alcohol y/o drogas?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>9. Otras enfermedades</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Tiene alguna enfermedad por la que no se le haya preguntado en el cuestionario?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En caso afirmativo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Cuál? .................................................................................................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>10. Consumo de medicamentos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Sigue algún tratamiento con medicamentos de forma continuada?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En caso afirmativo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Con qué medicamentos? ...................................................................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Toma algún medicamento de forma ocasional?</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>En caso afirmativo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>¿Cuáles? ...............................................................................................................</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+| Observaciones que desee realizar |
+|---|
+|  |
+
+Declaro que las anotaciones hechas en esta declaración sobre mi estado de salud son completas y correctas y que no he omitido ninguna información importante. Acepto que la autoridad puede denegarme o cancelar el resultado de mi valoración médica, en el caso de haber ocultado o falseado cualquier dato de este cuestionario de salud, sin perjuicio de otras acciones aplicables según las leyes actuales.
+
+Autorizo y consiento la utilización de toda la información contenida en este formulario, en los complementarios (en el caso de ser necesario), así como los datos del reconocimiento médico, siempre que dichos datos sean almacenados y permanezcan bajo la confidencialidad médica establecida en las normativas sobre protección de datos, así como en los supuestos en los que, de acuerdo a la Orden FOM 2872/2010, artículo 66, los centros de reconocimiento médico de personal ferroviario deban proporcionar a la autoridad responsable de la seguridad ferroviaria cuanta información relacionada con la evaluación de la capacidad psicofísica de personal ferroviario le sea requerida como consecuencia de actuaciones de inspección.
+
+FECHA FIRMA
+
+La información reflejada en este cuestionario es estrictamente confidencial, en aplicación de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal; en cualquier momento, el firmante podrá ejercer los derechos de acceso, rectificación, cancelación y oposición de datos, para lo cual deberá dirigirse al Centro.
+
+De conformidad con la normativa vigente en materia de protección de datos, el firmante consiente expresamente la inclusión de los datos resultantes en un fichero de datos personales bajo la responsabilidad del Centro.
+
+> Se modifica por el art. único.60 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## ANEXO VIII
+
+## Contenido del consentimiento informado para toma de muestras biológicas para detección de consumo de alcohol, drogas de abuso u otras sustancias psicoactivas
+
+D./D.ª ............................................................................................................... con N.I.F. n.º..................
+
+Declaro que estoy informado de que se va a proceder a realizar una toma de muestras biológicas para detección de consumo de alcohol, drogas de abuso u otras sustancias psicoactivas, que se detallan más adelante, y conforme a la Orden FOM 2872/2010, de 5 de noviembre, conozco el alcance de un resultado positivo.
+
+Doy mi consentimiento para que, en el día de la fecha: ....../...../.........., se me practiquen las pruebas analíticas que a continuación se reseñan:
+
+□ Alcoholimetría (medición de alcohol en aire espirado).
+
+□ Alcoholemia (medición de alcohol en sangre).
+
+□ Análisis en orina para detección de drogas de abuso u otras sustancias psicoactivas.
+
+□ Análisis de saliva-fluido oral para detección de drogas de abuso u otras sustancias psicoactivas.
+
+□ Análisis de sangre para detección de drogas de abuso u otras sustancias psicoactivas.
+
+□ Otras matrices a especificar por el facultativo.
+
+Para detección de posible consumo de alcohol, drogas de abuso u otras sustancias psicoactivas, con motivo de:
+
+□ Incidente o Accidente.
+
+□ Reconocimiento según OM FOM 2872/2010, de 5 de noviembre.
+
+□ Controles aleatorios para la detección de alcohol, drogas de abuso y sustancias psicoactivas.
+
+| El Médico/El personal autorizado por la entidad ferroviaria para la realización de controles aleatorios | El solicitante/El trabajador |
+|---|---|
+| Firma: | Firma: |
+
+La información reflejada en este cuestionario es estrictamente confidencial, en aplicación de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal; en cualquier momento, el firmante podrá ejercer los derechos de acceso, rectificación, cancelación y oposición de datos, para lo cual deberá dirigirse al Centro.
+
+De conformidad con la normativa vigente en materia de protección de datos, el firmante consiente expresamente la inclusión de los datos resultantes de su participación en la toma de muestras biológicas en un fichero de datos personales bajo la responsabilidad del Centro.
+
+Se informa que, de acuerdo a la Orden FOM 2872/2010, artículo 66, los centros de reconocimiento médico de personal ferroviario deberán proporcionar a la autoridad responsable de la seguridad ferroviaria cuanta información relacionada con la evaluación de la capacidad psicofísica de personal ferroviario le sea requerida como consecuencia de las actuaciones de inspección, entre ellos los resultados de las pruebas de detección de consumo de alcohol, drogas de abuso u otras sustancias psicoactivas.
+
+D./D.ª ................................................................................................................... con N.I.F. n.º ...........................
+
+NO DOY el consentimiento para realizar las pruebas objeto de este documento y conozco el alcance de la no realización de las mismas.
+
+La negativa a la realización de las pruebas conlleva la consideración como NO APTO del correspondiente reconocimiento psicofísico, y, en su caso, podría suponer el inicio de un procedimiento sancionador conforme a lo establecido en la Ley 39/2003, de 17 de noviembre, del sector ferroviario.
+
+> Se añade por el art. único.61 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).
+
+## ANEXO IX
+
+## Medicamentos que pueden perturbar o disminuir las facultades psicofísicas del personal de circulación y conducción
+
+IX.1 Medicamentos bajo cuyos efectos debe evitarse el ejercicio de las actividades
+
+a. Benzodiacepinas:
+
+N05B: Ansiolíticos:
+
+Alprazolam, Bentazepam, Bromazepam, Clobazam, Buspirona, Clorazepato dipotasico, Clordiazepoxido, Clotiazepam, Diazepam, Halazepam, Hidroxicina, Ketazolam, Lorazepam, Oxazepam, Pinazepam.
+
+N05C: Hipnóticos y Sedantes:
+
+Brotizolam, Clometiazol, Flunitrazepam, Flurazepam, Loprazolam, Lormetazepam, Midazolam, Quazepam, Triazolam, Zolpidem, Zopiclona.
+
+b. Opiáceos:
+
+N02A: Opioides,
+
+N02AA: Alcaloides naturales del opio: Morfina.
+
+N07BC: Fármacos usados en la dependencia a opioides: Metadona, Buprenorfina.
+
+c. Antiepilépticos:
+
+Grupo N. Sistema Nervioso. Subgrupo N03.
+
+Fenobarbital, Primidona, Fenitoína, Etosuximida, Clonazepam, Carbamazepina, Oxcarbazepina, Rufinamida, Tiagabina, Valproico-Ácido, Vigabatrina, Valpromida, Gabapentina, Lacosamida, Lamotrigina, Levetiracetam, Pregabalina, Topiramato, Zonisamida, Retigabina.
+
+IX.2 Medicamentos incluidos en los controles de sustancias
+
+Se realizarán controles para detección de consumo de, al menos los siguientes grupos de medicamentos:
+
+Opiáceos: Benzodiacepinas.
+
+> Se añade por el art. único.62 de la Orden FOM/679/2015, de 9 de abril. [Ref. BOE-A-2015-4243](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4243).

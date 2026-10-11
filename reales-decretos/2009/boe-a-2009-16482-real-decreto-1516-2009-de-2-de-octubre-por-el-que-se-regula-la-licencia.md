@@ -1,0 +1,461 @@
+---
+title: "Real Decreto 1516/2009, de 2 de octubre, por el que se regula la licencia comunitaria de controlador de tránsito aéreo"
+identifier: "BOE-A-2009-16482"
+eli: "https://www.boe.es/eli/es/rd/2009/10/02/1516"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2009-10-02
+published: 2009-10-16
+in_force_from: 2009-10-17
+last_amended: 2022-09-20
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 250"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-16482"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1516/2009, de 2 de octubre, por el que se regula la licencia comunitaria de controlador de tránsito aéreo
+
+Esta norma pasa a denominarse**"Real Decreto 1516/2009, de 2 de octubre, por el que se establecen las disposiciones complementarias sobre las licencias y los certificados de los controladores de tránsito aéreo"**, según establece la disposición final 2.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+Entre las funciones técnicas propias de la navegación aérea se encuentra la de control de tránsito aéreo, cuyo ejercicio profesional ha sido regulado, en el ámbito civil, por el Real Decreto 3/1998, de 9 de enero, sobre el título profesional aeronáutico civil y licencia de controlador de tránsito aéreo y, en el ámbito militar, por la Orden del Ministerio de Defensa n.º 511/601/1982, de 24 de febrero de 1982, sobre licencia de controlador de circulación aérea para el personal del Ejército del Aire y la Orden del Ministerio de Defensa 4/1990, de 9 de enero, sobre las normas generales para la concesión, convalidación, revalidación, renovación, ampliación y anulación de las tarjetas de aptitud del personal con titulación aeronáutica.
+
+Las nuevas disposiciones dictadas tanto por la Organización de Aviación Civil Internacional (en adelante OACI), a través de las enmiendas al anexo I al Convenio sobre Aviación Civil Internacional, así como la publicación de la Directiva 2006/23/CE, del Parlamento Europeo y del Consejo, de 5 de abril de 2006, relativa a la licencia comunitaria de controlador de tránsito aéreo, requieren la modificación de la normativa actual.
+
+Las modificaciones al anexo I al Convenio sobre Aviación Civil Internacional afectan fundamentalmente, al reemplazo de las habilitaciones actuales por otras nuevas, adaptadas a las nuevas tecnologías aplicadas al control de tránsito aéreo, y a la incorporación del requisito de competencia lingüística para los controladores de tránsito aéreo, por el cual los controladores están obligados a demostrar su capacidad para hablar y comprender el idioma utilizado en las comunicaciones radiotelefónicas.
+
+Por otro lado, y en cumplimiento de lo indicado en el artículo 5 del Reglamento (CE) 550/2004, del Parlamento y del Consejo, de 10 de marzo de 2004, relativo a la prestación de servicios de navegación aérea en el cielo único europeo, se ha publicado la Directiva 2006/23/CE, de 5 de abril, que además de incluir las modificaciones contenidas en el anexo I de Convenio, adopta los Requisitos Reglamentarios de Seguridad de la Organización Europea para la Seguridad de la Navegación Aérea (en adelante Eurocontrol) para los controladores de tránsito aéreo, también conocidos como ESARR 5.
+
+Con la incorporación de esta directiva al ordenamiento jurídico de los Estados miembros, se garantiza el cumplimiento de las nuevas disposiciones introducidas por la OACI, y se establece un marco común con objeto de garantizar los máximos niveles de responsabilidad y competencia, mejorar la disponibilidad de controladores de tránsito aéreo y fomentar el reconocimiento mutuo de las licencias, reduciendo la fragmentación en este ámbito y contribuyendo con ello a incrementar la seguridad del sistema de control del tránsito aéreo, sus operaciones y la eficiencia de la organización de las tareas, mediante la expedición de una licencia de controlador de tránsito aéreo en el marco de la creciente colaboración a escala regional entre proveedores de servicios de navegación aérea, algo esencial dentro del entorno del cielo único europeo.
+
+En el nuevo marco común, el contenido de este real decreto se refiere fundamentalmente a las condiciones para la obtención de una licencia de controlador de tránsito aéreo y los requisitos para el ejercicio de dicha actividad, tanto en relación con la prestación del servicio, como con la formación, entrenamiento y capacidad exigidos. Se suprime la especialidad del título, por resultar incompatible con la norma comunitaria, y se crea una base datos para que la autoridad de supervisión pueda llevar un control de la aptitud del controlador en su puesto de trabajo y de la vigencia de las anotaciones de su licencia.
+
+Por otra parte, se fijan las condiciones para obtener el certificado como proveedor de formación que acredite la competencia de la organización para impartir la formación a los alumnos controladores y a los controladores de tránsito aéreo y garantizar un nivel alto de seguridad en la prestación del servicio.
+
+Además, se regula un sistema de reconocimiento y aceptación de las licencias, habilitaciones y anotaciones asociadas que hayan sido expedidas por las autoridades nacionales de supervisión de los Estados miembros de la Unión Europea. Y se prevé el plazo para aprobar el procedimiento para el canje de las habilitaciones y anotaciones de los controladores aéreos que las hubieran obtenido con anterioridad a la entrada en vigor de esta norma.
+
+El ámbito objetivo de aplicación del real decreto incluye a los alumnos controladores y a los controladores de tránsito aéreo que presten servicios de control para movimientos de aeronaves de tránsito aéreo general, cualquiera que sea la naturaleza del proveedor de servicios en el que lleven a cabo sus funciones. Este ámbito de aplicación, coherente con las previsiones de la directiva, tiene su fundamento en la consideración de que siempre que una persona efectúe labores de control del tránsito aéreo general, debe cumplir los requisitos de conocimiento, experiencia y formación recogidos en la Directiva 2006/23/CE, de 5 de abril.
+
+En España existen, y están reconocidas a nivel europeo, dos autoridades nacionales de supervisión en función del carácter civil o militar del proveedor de servicios o proveedor de formación en el que realicen sus funciones los controladores o alumnos controladores de tránsito aéreo.
+
+A diferencia del régimen jurídico anterior, este real decreto establece los requisitos sustantivos comunes a las licencias de controlador de tránsito aéreo civil y militar, para garantizar que cuando se presten servicios de tránsito aéreo general, el nivel de seguridad y de calidad de los servicios sea equivalente al que resulte de la aplicación de las disposiciones de este real decreto y de la normativa internacional aplicable, en los términos previstos en el artículo 1.3 de la Directiva 2006/23/CE. Por tanto, se establecen dos autoridades nacionales de supervisión, una civil y otra militar, competentes en sus respectivos ámbitos.
+
+A la autoridad nacional de supervisión le corresponde el otorgamiento, suspensión, limitación o revocación de las licencias de alumno controlador y de controlador de tránsito aéreo, así como autorizar y suspender las habilitaciones y anotaciones asociadas. Asimismo, podrá proponer el establecimiento de anotaciones en los casos excepcionales en que las características específicas del tránsito aéreo bajo su responsabilidad así lo exijan y fijar, por motivos de seguridad, el límite de edad para ejercer las atribuciones de una anotación de unidad.
+
+También le corresponde, la certificación de los proveedores de formación y todas las cuestiones relacionadas con la aprobación de los planes de formación y evaluación de la competencia de los controladores y alumnos controladores, y la autorización de los centros médicos o médicos examinadores.
+
+No obstante lo anterior, se excepciona a la autoridad militar nacional de supervisión de la necesidad de certificar a los proveedores militares de formación, entendiendo que la supervisión ejercida por los distintos estamentos militares garantiza un nivel equivalente de seguridad y calidad de los servicios de tránsito aéreo general.
+
+Por último, se da cumplimiento a la Sentencia del Tribunal de Justicia de las Comunidades Europeas de 16 de octubre de 2008, al incorporar expresamente las condiciones para reconocer las licencias nacionales expedidas por otros Estados miembros.
+
+Esta norma se dicta en desarrollo de lo previsto en el artículo 58 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, de conformidad con la habilitación concedida en su disposición final cuarta, habiéndose oído en su tramitación a los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Fomento y de la Ministra de Defensa, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 2 de octubre de 2009,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto establecer las disposiciones complementarias al Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, por el que se establecen requisitos técnicos y procedimientos administrativos relativos a las licencias y los certificados de los controladores de tránsito aéreo en virtud del Reglamento (CE) n.º 216/2008 del Parlamento Europeo y del Consejo, se modifica el Reglamento de Ejecución (UE) n.º 923/2012 de la Comisión y se deroga el Reglamento (UE) n.º 805/2011 de la Comisión, para la obtención de la licencia y el ejercicio de la actividad de controlador de tránsito aéreo general.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 2. Ámbito de aplicación.
+
+1\. Este real decreto es aplicable a los alumnos controladores de tránsito aéreo y a los controladores de tránsito aéreo que presten servicios de control de tránsito aéreo general; a las autoridades nacionales de supervisión, así como a las organizaciones de formación.
+
+2\. Lo dispuesto en el capítulo II no es de aplicación a los proveedores militares de formación.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 3. Competencia lingüística en castellano de los controladores de tránsito aéreo y alumnos controladores de tránsito aéreo.
+
+Atendiendo a los idiomas exigidos en las comunicaciones tierra-aire y tierra-tierra de las dependencias de tránsito aéreo, conforme a lo previsto en el artículo 42 del Real Decreto 1180/2018, de 21 de septiembre, por el que se desarrolla el Reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea y se modifican el Real Decreto 57/2002, de 18 de enero, por el que se aprueba el Reglamento de Circulación Aérea; el Real Decreto 862/2009, de 14 de mayo, por el que se aprueban las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público; el Real Decreto 931/2010, de 23 de julio, por el que se regula el procedimiento de certificación de proveedores civiles de servicios de navegación aérea y su control normativo; y el Reglamento de la Circulación Aérea Operativa, aprobado por Real Decreto 601/2016, de 2 de diciembre, por motivos de seguridad y de conformidad con lo publicado en la Publicación de Información Aeronáutica, no podrán ejercer las atribuciones de sus licencias los controladores de tránsito aéreo y los alumnos controladores de tránsito aéreo que no dispongan de una anotación de competencia lingüística válida en castellano.
+
+A esta anotación le será de aplicación lo dispuesto en el apartado ATCO.B.030 del Reglamento (UE) 2015/340 de la Comisión, y normas concordantes.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO II — Certificación de los proveedores civiles de formación de controladores de tránsito aéreo
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 4. Disposiciones complementarias en materia de certificación de proveedores civiles de formación.
+
+Para la obtención de la certificación como proveedores civiles de formación de controladores y alumnos controladores, todas las personas, físicas o jurídicas, que tengan en España su lugar principal de operaciones y, en su caso, su sede social, están sujetas a lo dispuesto en este capítulo.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 5. Procedimiento para la certificación de organizaciones de formación.
+
+1\. La Agencia Estatal de Seguridad Aérea pondrá a disposición de las personas interesadas un modelo de solicitud para la obtención del certificado de proveedor de formación de uso obligatorio para estos, de conformidad con lo previsto en el artículo 66.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En la solicitud deberán relacionarse todos los servicios de formación, de entre los establecidos en el anexo I, subparte D, del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015 y disposiciones concordantes, para los que solicita la certificación.
+
+2\. La solicitud se presentará electrónicamente ante la Agencia Estatal de Seguridad Aérea, a través de su sede electrónica. No obstante, las personas físicas podrán presentar su solicitud en soporte papel, conforme a lo previsto en el artículo 14.1 de la Ley 39/2015, de 1 de octubre, a través de cualquier de los medios previstos en el artículo 16.4 de la citada ley. Junto a la solicitud se presentará la documentación acreditativa del cumplimiento de los requisitos establecidos en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+3\. La competencia para resolver el procedimiento de certificación corresponde a la persona titular de la Dirección de la Agencia Estatal de Seguridad Aérea, cuyas resoluciones ponen fin a la vía administrativa y podrán ser recurridas potestativamente en reposición ante el mismo órgano, en el plazo de un mes, o ser impugnadas directamente ante el orden jurisdiccional contencioso-administrativo.
+
+4\. El plazo máximo para resolver y notificar la resolución sobre la solicitud de certificado de proveedor de servicios de formación de controladores y alumnos controladores de tránsito aéreo será de seis meses desde la fecha de entrada de la solicitud en el registro de la Agencia Estatal de Seguridad Aérea. Transcurrido este plazo sin que se haya dictado resolución expresa, la solicitud podrá entenderse desestimada conforme a lo previsto en la disposición adicional vigésima novena de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 6. Validez del certificado.
+
+1\. El certificado de organización de formación de controladores de tránsito aéreo mantendrá su validez de conformidad con lo previsto en el apartado ATCO.OR.B.020 del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+Dicho certificado deberá devolverse a la Agencia Estatal de Seguridad Aérea en el plazo máximo de diez días desde su revocación o el cese de todas las actividades.
+
+2\. A efectos de lo previsto en el apartado anterior, se considera que han cesado todas las actividades de la organización de formación:
+
+a) Por renuncia al certificado, que sólo se entenderá efectuada cuando se haya hecho efectiva su devolución a la Agencia.
+
+b) Cuando la organización de formación notifique a la Agencia el cese de todas sus actividades o así se deduzca de sucesivas notificaciones efectuadas de conformidad con lo previsto en el apartado ATCO.OR.B.015, letra f), del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+c) Por no haber prestado ninguno de los servicios para los que se haya obtenido el certificado en el plazo de veinticuatro meses desde su obtención, o, habiéndolos iniciado, deje de prestarlos de forma ininterrumpida durante dicho período.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 7. Procedimiento para la aprobación de los cambios en la organización de formación.
+
+1\. La persona titular del órgano de la Agencia Estatal de Seguridad Aérea al que corresponda el ejercicio de las funciones en materia de navegación aérea, es el órgano competente para resolver los procedimientos sobre los cambios en las organizaciones de formación que requieran aprobación, de conformidad con lo previsto en el apartado ATCO.OR.B.015 del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+El plazo máximo para resolver y notificar dicha resolución será de tres meses desde la fecha en que la solicitud haya tenido entrada en el registro de la Agencia Estatal de Seguridad Aérea. Transcurrido este plazo sin que se haya dictado resolución expresa, la solicitud podrá entenderse desestimada conforme a lo previsto en el artículo 24.1, párrafo primero, de la Ley 39/2015, de 1 de octubre.
+
+2\. Las resoluciones del órgano de la Agencia Estatal de Seguridad Aérea competente en materia de navegación aérea no ponen fin a la vía administrativa pudiendo interponer frente a ellas recurso de alzada ante la persona titular de la dirección de la Agencia en el plazo de un mes desde la resolución, si el acto es expreso, o en cualquier momento a partir del día siguiente a aquél en que debe entenderse desestimado por silencio administrativo, de conformidad con lo previsto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 8. Formación de unidad en casos de cambio de prestador de servicios de tránsito aéreo o inicio en la prestación de servicios.
+
+1\. Cuando se produzca un cambio de prestador de servicios de control de tránsito aéreo, en adelante prestador de servicios, o se inicie por primera vez la prestación del servicio en una determinada unidad, el nuevo prestador de servicios designado deberá estar certificado como proveedor de formación de unidad y continua y contar entre su personal con suficientes controladores de tránsito aéreo con una anotación de instructor de formación práctica en vigor, salvo que haya celebrado un acuerdo específico a estos efectos con una organización de formación, de conformidad con lo previsto en el apartado ATCO.OR.B.010 del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+2\. El nuevo prestador de servicios designado deberá dotarse de un curso de conversión de acuerdo con el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, que permita la transición o inicio de la prestación elaborado por un proveedor de formación certificado, en el que se aborden todas las necesidades de formación precisas para garantizar la prestación segura, eficaz y continuada de los servicios de control de tránsito aéreo. El curso de conversión deberá acordarse con el proveedor sustituido, en el caso de cambio de prestador de servicios.
+
+3\. Este curso de conversión se diseñará atendiendo a lo previsto en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, e incluirá como mínimo los procedimientos y mecanismos habilitados para asegurar la formación del personal del prestador de servicios, incluida su familiarización con los equipos e instalaciones, identificando todas aquellas actuaciones que, en los casos de cambio de prestador, requieran la participación del prestador saliente.
+
+4\. Durante la fase de transición o de inicio de la prestación, comprendida desde el día siguiente a la fecha de la designación del prestador de servicios hasta la fecha en que se produzca la prestación efectiva del servicio de control de tránsito aéreo sin restricciones, se realizará la formación de los controladores de tránsito aéreo designados por el proveedor de servicios entrante con el fin de que obtengan las anotaciones de unidad precisas para la instrucción del personal que haya de prestar servicios de control de tránsito aéreo en la unidad o unidades en las que se va a producir la sustitución.
+
+Previos los acuerdos necesarios entre los prestadores de servicios implicados, el prestador de servicios que vaya a ser sustituido será responsable de instruir y evaluar a los controladores y alumnos controladores del proveedor entrante conforme al curso de conversión a que se refiere el apartado 2, sin perjuicio de la aplicación, cuando proceda, de lo dispuesto en los apartados ATCO.C.025 y ATCO.C.065 del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+En todo caso, los controladores aéreos del proveedor saliente deberán prestar colaboración para facilitar la formación del controlador de tránsito aéreo o alumno controlador de tránsito aéreo del proveedor entrante, evitando cualquier conducta que pueda obstruirla, dificultarla o retrasarla.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO III — Autoridades competentes y régimen sancionador
+
+> Se reordena y se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 9. Competencias de la Agencia Estatal de Seguridad Aérea.
+
+La Agencia Estatal de Seguridad Aérea es la autoridad civil nacional de supervisión, a la que corresponde el ejercicio de las funciones atribuidas a la autoridad competente por el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, por este real decreto y por sus disposiciones de desarrollo, en relación a los controladores de tránsito aéreo y alumnos controladores, que ejerzan sus funciones bajo la responsabilidad de proveedores civiles de servicios de navegación aérea o proveedores civiles de formación, así como sobre estas organizaciones.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 10. Autoridad militar nacional de supervisión.
+
+1\. El Estado Mayor del Ejército del Aire y del Espacio es la autoridad militar nacional de supervisión, a la que le corresponde el ejercicio de las funciones atribuidas a la autoridad competente por el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, en relación con los controladores de tránsito aéreo y alumnos controladores que ejerzan sus funciones bajo la responsabilidad de proveedores militares de servicios de navegación aérea o proveedores militares de formación.
+
+2\. De conformidad con lo señalado en el art. 7.5 del Reglamento (CE) n.º 550/2004, de 10 de marzo, la autoridad militar nacional competente no estará obligada a certificar al proveedor militar de servicios de navegación aérea. Asimismo, tampoco estará obligada a certificar a los proveedores militares de formación ni a autorizar a las organizaciones militares de evaluación de competencia lingüística. No obstante, aquéllos deberán cumplir con los requisitos establecidos en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+La autoridad militar nacional competente garantizará que el nivel de seguridad y de calidad de los servicios al tránsito aéreo general, sea equivalente al que resulte de la aplicación de las disposiciones del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015 y disposiciones concordantes.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 11. Régimen sancionador.
+
+El incumplimiento de lo dispuesto en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, y en este real decreto y su normativa de desarrollo, por los controladores de tránsito aéreo y alumnos controladores que ejerzan sus funciones bajo la responsabilidad de proveedores civiles de servicios de navegación aérea, o por las organizaciones civiles incluidas en su ámbito de aplicación, constituye una infracción administrativa en materia de aviación civil, cuando se incardine en lo previsto en el régimen de infracciones y sanciones establecido en la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 12. Anotación de unidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 13. Anotación de idioma.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 14. Anotación de instructor.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO IV — Formación de los controladores de tránsito aéreo
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 15. Formación inicial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 16. Competencia lingüística.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 17. Evaluación de la competencia lingüística.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 18. Formación de unidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 19. Formación continua de los controladores de tránsito aéreo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 20. Instructor de controlador de tránsito aéreo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 21. Examinadores o evaluadores de la aptitud.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO V — Vigencia de las habilitaciones y anotaciones
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 22. Condiciones para mantener las anotaciones de unidad en vigor.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 23. Revalidación de las habilitaciones y anotaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 24. Eficacia de la anotación de idioma.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO VI — Requisitos médicos
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 25. Certificados médicos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 26. Revocación o suspensión del certificado médico.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+> No obstante, los procedimientos para la gestión de la incapacidad provisional aprobados por la Agencia Estatal de Seguridad Aérea conforme al presente artículo mantendrán su vigencia hasta que se aprueben los procedimientos modificados por los proveedores de servicios de control de tránsito de conformidad con las secciones ATCO.A.015 y ATCO.B.025.a).13) del Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015.
+
+## CAPÍTULO VII — Reconocimiento de licencias comunitarias de controlador de tránsito aéreo
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 27. Reconocimiento mutuo de las licencias comunitarias de controlador de tránsito aéreo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 28. Cooperación entre autoridades nacionales de supervisión.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO VIII — Proveedores de formación
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 29. Certificación de los proveedores de formación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 30. Requisitos para la certificación de los proveedores de formación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 31. Contenido de los certificados de proveedores de formación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO IX — Aptitud de los controladores de tránsito aéreo
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 32. Garantía de la aptitud de controladores de tránsito aéreo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 33. Base de datos de controladores de tránsito aéreo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## CAPÍTULO X — Autoridades competentes y régimen sancionador
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 34. Agencia Estatal de Seguridad Aérea.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 35. Ministerio de Defensa.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Artículo 36. Régimen sancionador.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Disposición transitoria primera. Canje de habilitaciones y anotaciones de controladores civiles de tránsito aéreo.
+
+1\. En el plazo de un año y con respecto a los titulares de licencias, habilitaciones y anotaciones expedidas por la Dirección General de Aviación Civil al amparo del Real Decreto 3/1998, de 9 de enero, sobre el título profesional aeronáutico civil y licencia de controlador de tránsito aéreo, se determinarán mediante resolución de la Agencia Estatal de Seguridad Aérea, los requisitos y procedimientos para la práctica de las nuevas anotaciones configuradas por este real decreto, así como para el canje por dicha autoridad, de las habilitaciones y anotaciones en vigor expedidas con arreglo a la normativa anteriormente vigente por las establecidas en la presente norma, manteniendo entre tanto las atribuciones correspondientes a las habilitaciones y anotaciones de las que fueran titulares.
+
+2\. La Agencia Estatal de Seguridad Aérea estimará las solicitudes de reconocimiento de licencias de controlador de tránsito aéreo formuladas por ciudadanos de la Unión Europea con anterioridad a la entrada en vigor del presente real decreto, mediante la expedición de una licencia nacional española de controlador de tránsito aéreo, siempre que el interesado acredite que la formación aeronáutica recibida para la obtención de la licencia es equivalente a la formación establecida en España en virtud del Real Decreto 3/1998, de 9 de enero.
+
+Además, el interesado deberá tener un conocimiento fluido de los idiomas castellano e inglés y contar con un certificado médico de clase 3 en vigor emitido conforme a los requisitos adoptados por EUROCONTROL.
+
+Serán reconocidas tanto las licencias como las habilitaciones y anotaciones de habilitación asociadas incluidas en ellas, siempre y cuando la formación recibida sea equivalente a la establecida en España antes de la entrada en vigor de este real decreto.
+
+En caso de no acreditarse una formación aeronáutica equivalente a la vigente en España antes de la entrada en vigor de este real decreto, la Agencia Estatal de Seguridad Aérea podrá exigir la realización de un período de prácticas o la superación de una prueba de aptitud para compensar las diferencias de formación existentes. En todo caso, el interesado tendrá derecho a recibir en España la formación teórico-práctica necesaria para obtener una anotación de unidad que le permita ejercer la profesión de controlador en España.
+
+### Disposición transitoria primera bis. Anotación de idioma en inglés para los titulares de licencias expedidas conforme al Real Decreto 3/1998, de 9 de enero, sobre titulo profesional aeronáutico civil y licencia de controlador de tránsito aéreo.
+
+1\. La Agencia Estatal de Seguridad Aérea practicará la anotación de idioma en inglés de nivel operacional (4), con eficacia desde el 17 de mayo de 2010, en las licencias de los controladores de tránsito aéreo que estuvieran al servicio de la entidad pública empresarial Aeropuertos Españoles y Navegación Aérea (AENA) el 17 de mayo de 2010 y que sean titulares de licencias en vigor expedidas de conformidad con Real Decreto 3/1998, de 9 de enero, sobre titulo profesional aeronáutico civil y licencia de controlador de tránsito aéreo, siempre que aquel ente público acredite, conforme a lo previsto en el apartado 2, que dichos controladores ostentan un nivel operacional (4) de competencia lingüística en inglés de acuerdo con la escala de calificación incluida en el anexo II.
+
+La eficacia de esta anotación de idioma será la prevista en el artículo 24.1, letra a).
+
+2\. AENA podrá certificar ante la Agencia Estatal de Seguridad Aérea, a los efectos previstos en el apartado anterior, que los controladores de tránsito aéreo ostentan un nivel operacional (4) de competencia lingüística en inglés tras haber comprobado su capacidad de hablar y comprender el inglés a través de alguno de los siguientes procedimientos transparentes y objetivos:
+
+a) Que con posterioridad al 1 de enero de 2008, el controlador ha acreditado un nivel operacional (4) de competencia lingüística en inglés mediante una evaluación objetiva practicada en el momento de obtener su licencia de controlador en prácticas o de alumno-controlador. Así mismo, AENA deberá certificar que el controlador ha ejercido de manera satisfactoria las atribuciones de su licencia por lo que a las comunicaciones en inglés se refiere y que no ha intervenido en ningún incidente ni accidente aeronáutico relacionado de forma directa con un deficiente uso del idioma inglés en las comunicaciones radiotelefónicas.
+
+b) Que con posterioridad al 1 de enero de 2008, el controlador haya acreditado un nivel 4 de competencia lingüística en ingles por haber sido evaluado de manera satisfactoria por el proveedor de servicios dentro de sus programas de calidad y auditoría. Así mismo, AENA deberá certificar que el controlador ha ejercido de manera satisfactoria las atribuciones de su licencia por lo que a las comunicaciones en inglés se refiere y que no ha intervenido en ningún incidente ni accidente aeronáutico relacionado de forma directa con un deficiente uso del idioma inglés en las comunicaciones radiotelefónicas.
+
+3\. A los controladores de tránsito aéreo que estuvieran al servicio de la entidad pública empresarial Aeropuertos Españoles y Navegación Aérea (AENA) el 17 de mayo de 2010, que sean titulares de licencias en vigor expedidas de conformidad con Real Decreto 3/1998, de 9 de enero, a los que no les resulte de aplicación lo dispuesto en los apartados anteriores, se les reconoce, con carácter provisional y transitorio, el nivel operacional (4) de competencia lingüística en inglés, siempre que en sus puestos de trabajo estuvieran comunicándose habitualmente en inglés sin haber intervenido en ningún incidente ni accidente aeronáutico relacionado de forma directa con un deficiente uso del idioma inglés en las comunicaciones radiotelefónicas.
+
+Estos controladores deberán ser evaluados conforme a lo establecido en el artículo 17, para lo cual AENA deberá presentar a la Agencia Estatal de Seguridad Aérea un plan de evaluación que incluirá la formación del personal afectado en el menor plazo posible que no excederá, en ningún caso, de 18 meses desde la entrada en vigor de este real decreto.
+
+4\. El reconocimiento del nivel operacional (4), provisional y transitorio, previsto en el apartado anterior perderá su eficacia cuando, conforme al plan de evaluación aprobado por la Agencia Estatal de Seguridad Aérea según lo previsto en el párrafo segundo del apartado anterior, el controlador haya sido sometido al procedimiento de evaluación previsto en el artículo 17 y, en todo caso, transcurrido el plazo máximo de 18 meses previsto en el apartado 3.
+
+> Se añade por el art. único del Real Decreto 188/2011, de 18 de febrero. [Ref. BOE-A-2011-3257](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3257).
+
+### Disposición transitoria segunda. Plazo de implementación del real decreto por la autoridad militar de supervisión.
+
+En el plazo de un año, la autoridad militar nacional de supervisión deberá dictar las normas, aprobar los procedimientos y adoptar las medidas necesarias para garantizar que los controladores militares que presten servicios de control de tránsito aéreo general cumplan con los requerimientos de este real decreto.
+
+Asimismo, elaborará un procedimiento para el canje por dicha autoridad de las habilitaciones y anotaciones expedidas con arreglo a la normativa anteriormente vigente, por las establecidas en la presente norma, manteniendo entre tanto las atribuciones correspondientes a las habilitaciones y anotaciones de las que fueran titulares.
+
+### Disposición transitoria tercera. Cumplimiento con las disposiciones de competencia lingüística.
+
+Los alumnos controladores de tránsito aéreo y los titulares de una licencia de controlador de tránsito aéreo deberán cumplir, a partir del 17 de mayo de 2010, los requisitos de competencia lingüística establecidos en el artículo 17.
+
+### Disposición transitoria cuarta. Certificación de los proveedores civiles de formación.
+
+En el plazo de un año desde la entrada en vigor de las circulares aeronáuticas a que se refiere el apartado 1 de la disposición final tercera, la Agencia Estatal de Seguridad Área certificará a los proveedores civiles de formación de los controladores de tránsito aéreo.
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. Queda derogado el Real Decreto 3/1998, de 9 de enero, sobre el título profesional aeronáutico civil y licencia de controlador de tránsito aéreo, sin perjuicio de lo dispuesto en el apartado 2 de la disposición transitoria primera.
+
+Se deroga la Orden del Ministerio de Defensa n.º 511/601/1982, de 24 de febrero de 1982, sobre licencia de controlador de circulación aérea para el personal del Ejército del Aire, y la Orden del Ministerio de Defensa 4/1990, de 9 de enero, sobre las normas generales para la concesión, convalidación, revalidación, renovación, ampliación y anulación de las tarjetas de aptitud del personal con titulación aeronáutica, en lo relativo al personal controlador de tránsito aéreo.
+
+Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+2\. La Orden FOM/2418/2007, de 25 de julio, por la que se determinan los requisitos médicos necesarios para la obtención del certificado médico aeronáutico de clase 3 referido a la licencia de controlador de tránsito aéreo, como desarrollo de este real decreto, seguirá siendo de aplicación en lo que no se oponga a lo dispuesto en el mismo.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de la competencia exclusiva que atribuye al Estado el artículo 149.1.20.ª de la Constitución en materia de control del espacio aéreo, tránsito y transporte aéreo.
+
+### Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Este real decreto incorpora al ordenamiento jurídico español la Directiva 2006/23/CE, del Parlamento Europeo y del Consejo, de 5 de abril de 2006, relativa a la licencia comunitaria de controlador de tránsito aéreo.
+
+### Disposición final tercera. Circulares aeronáuticas.
+
+1\. La Dirección General de Aviación Civil, a propuesta de la Agencia Estatal de Seguridad Aérea, establecerá mediante circular aeronáutica los requisitos organizativos y de otro tipo a los que habrán de ajustarse los proveedores civiles de formación sujetos a certificación, así como las organizaciones civiles que realicen la evaluación del nivel de competencia lingüística de los controladores de tránsito aéreo, de conformidad con el procedimiento previsto en el artículo 8 de la Ley 21/2003, de 7 de julio, de Seguridad Aérea.
+
+2\. La Dirección General de Aviación Civil adoptará las circulares aeronáuticas que sean necesarias para incorporar las directrices o criterios que sean acordados a nivel internacional, según el procedimiento y con los límites previstos en el artículo 8 de la citada Ley.
+
+### Disposición final cuarta. Habilitación normativa, ejecución y aplicación.
+
+1\. Se habilita a la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana para que, en el ámbito de sus competencias, desarrolle lo dispuesto en este real decreto. Asimismo, se habilita a la persona titular del Ministerio de Defensa para, en el ámbito de sus competencias y con las limitaciones establecidas en el artículo 10, establecer las condiciones de aplicación del Reglamento (UE) n.º 2015/340, de la Comisión, de 20 de febrero de 2015, a los controladores de tránsito aéreo y alumnos controladores que ejerzan sus funciones bajo la responsabilidad de proveedores militares de servicios de navegación aérea o proveedores militares de formación, así como para dictar las normas de aplicación y desarrollo de dicho Reglamento aplicables a este personal.
+
+2\. La autoridad militar competente para el ejercicio de las funciones que correspondan de las previstas en el Reglamento (UE) n.º 2015/340 de la Comisión, de 20 de febrero de 2015, en relación con los controladores de tránsito aéreo y alumnos controladores que ejerzan sus funciones bajo la responsabilidad de proveedores militares de servicios de navegación aérea o proveedores militares de formación, adoptará en el ámbito de sus competencias, las resoluciones necesarias para aplicar y ejecutar lo dispuesto en la normativa de aplicación a dicho personal.
+
+3\. La Agencia Estatal de Seguridad Aérea, en el ámbito de sus competencias, adoptará cuantas medidas resulten necesarias para la aplicación y ejecución de lo dispuesto en este real decreto, incluida la adopción, cuando proceda, de medios aceptables de cumplimiento y material guía que faciliten su cumplimiento, así como modelos para efectuar las solicitudes y comunicaciones contempladas en este real decreto.
+
+La documentación a la que se refiere el párrafo anterior deberá estar disponible a través de la página web de la Agencia Estatal de Seguridad Aérea.
+
+> Se modifica por la disposición final 2.3 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+### Disposición final quinta. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 2 de octubre de 2009.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ANEXO I — Especificaciones para las licencias
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)
+
+## ANEXO II — Escala de calificación de la competencia lingüística: Niveles experto, avanzado y operacional
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria sexta.1 del Real Decreto 728/2022, de 6 de septiembre de 2022. [Ref. BOE-A-2022-15286](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15286)

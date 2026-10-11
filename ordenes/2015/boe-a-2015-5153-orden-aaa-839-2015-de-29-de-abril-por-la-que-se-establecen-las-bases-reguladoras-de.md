@@ -1,0 +1,467 @@
+---
+title: "Orden AAA/839/2015, de 29 de abril, por la que se establecen las bases reguladoras de la concesión de Premios de Excelencia a la Innovación para Mujeres Rurales"
+identifier: "BOE-A-2015-5153"
+eli: "https://www.boe.es/eli/es/o/2015/04/29/aaa839"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-04-29
+published: 2015-05-08
+in_force_from: 2015-05-09
+last_amended: 2022-06-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 110"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-5153"
+retrieved: 2026-10-11
+---
+
+# Orden AAA/839/2015, de 29 de abril, por la que se establecen las bases reguladoras de la concesión de Premios de Excelencia a la Innovación para Mujeres Rurales
+
+Las transformaciones operadas, en las últimas décadas, en el medio rural español, han dado lugar a cambios en la orientación de las estrategias laborales de las mujeres rurales, que ya no consideran al medio rural como un factor limitante para su desarrollo profesional, sino como un medio de oportunidades a exploraren el que pueden desarrollar iniciativas laborales y empresariales.
+
+La evolución de las estrategias laborales femeninas ha coadyuvado a que las mujeres rurales hayan pasado a ser un colectivo de atención preferente en los programas de desarrollo rural de políticas comunitarias y nacionales, así como de los múltiples programas de promoción y formación para el fomento del empleo en el medio rural.
+
+La introducción del principio de igualdad de oportunidades en todas las políticas y acciones, así como la promoción de la igualdad de género, han sido objetivos fundamentales de la política comunitaria y nacional que ha visto su reflejo en la normativa desarrollada, así como en los planes para favorecer la igualdad de las mujeres y hombres en el medio rural.
+
+La situación de las mujeres que viven en el medio rural ha recibido una atención particular en la Ley de 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres que además de acciones dirigidas a mejorar el nivel educativo y de formación, ha tenido en cuenta acciones que favorezcan su incorporación al mercado de trabajo y a los órganos de dirección de empresas y asociaciones.
+
+El nivel de preparación y las potencialidades de las mujeres rurales, junto a su capacidad innovadora, les permiten desarrollar fórmulas y proyectos que favorezcan e impulsen su incorporación al mundo laboral y al emprendimiento en el territorio, lo que les permitirá y favorecerá su independencia económica y personal.
+
+La permanencia y la actividad de las mujeres rurales son esenciales para el desarrollo económico y social del territorio. Los premios de excelencia a la innovación de mujeres rurales han constituido una de las líneas de reconocimiento de la Administración General del Estado al trabajo, proyectos y trayectoria de las mujeres rurales.
+
+El objetivo de los premios de excelencia a la innovación para mujeres rurales, es contribuir al reconocimiento de proyectos originales e innovadores de las mujeres rurales, basados en actividades agrarias y complementarias, así como en actividades agroalimentarias que contribuyan a la diversificación de la actividad económica y que promuevan e impulsen el emprendimiento de las mujeres en el territorio, así como, actividades o actuaciones que reconozcan su labor en el medio rural.
+
+El Ministerio de Agricultura, Alimentación y Medio Ambiente, ha venido convocando estos premios desde su primera edición en el año 2010, de forma ininterrumpida, como medida de promoción y reconocimiento de proyectos destacables y/o innovadores de las mujeres rurales, y busca continuar con este reconocimiento, fomentando también una participación activa de asociaciones y entidades representativas relacionadas con las mujeres rurales.
+
+En la actual coyuntura económica, se considera necesario estimular la iniciativa de nuevos proyectos, y de aquellos proyectos que, en opinión de las asociaciones, federaciones, entidades u organizaciones representativas, son relevantes para la economía y el desarrollo local de la zona.
+
+En respuesta a nuevas demandas sociales y de reconocimiento de la actividad de las mujeres en el territorio, se incorporan categorías de premios de «excelencia a la innovación en la actividad agraria», «excelencia a la innovación en diversificación de la actividad económica en el medio rural», «excelencia a la comunicación» y «premio extraordinario de innovación de mujeres rurales».
+
+En la elaboración de la presente disposición han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados y las asociaciones y federaciones de mujeres rurales de ámbito estatal.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
+
+## Artículo 1. Objeto.
+
+1\. La presente orden tiene por objeto establecer las bases reguladoras de la concesión, en concurrencia competitiva, de premios de excelencia a la innovación a proyectos realizados por mujeres del medio rural y de zonas pesqueras rurales y a actuaciones que reconozcan la labor de las mujeres de dichos sectores en el territorio.
+
+2\. Los premios buscan distinguir proyectos nuevos, excelentes, originales e innovadores y actuaciones que reconozcan el trabajo y el papel de las mujeres en el medio rural y en zonas pesqueras rurales, así como promover la incorporación e inserción laboral de las mujeres en el territorio.
+
+3\. Las convocatorias se publicarán en la Base de Datos Nacional de Subvenciones (BDNS) y un extracto de las mismas en el “Boletín Oficial del Estado”.
+
+> Se modifican los apartados 1 y 2 por el art. único.1 de la Orden APA/510/2022, de 2 de junio. [Ref. BOE-A-2022-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9353)
+
+> Se modifica el apartado 3 por el art. único.1 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 2. Definiciones.
+
+A efectos de estas bases reguladoras se entenderá por:
+
+1\. Proyecto de excelencia, el proyecto de características sobresalientes o destacables por su originalidad, calidad, novedad, e idoneidad, que requiera del esfuerzo y habilidad personal en cuanto a las técnicas productivas, de recursos locales o medio ambientales, gerenciales y/o comerciales emprendidos o desarrollados por mujeres rurales
+
+2\. Innovación, una idea, práctica, objeto o medio utilizado por las mujeres rurales, y que constituye el medio para realizar un proyecto nuevo o para cambiar o mejorar otro ya existente. La innovación podrá ser tecnológica organizativa o comercial. Podrá realizarse como respuesta a un cambio detectado en el medio en el que se desarrolla o como medio para influir en él.
+
+3\. Medio rural: el espacio geográfico formado por la agregación de municipios o entidades locales menores conforme a la Ley 45/2007, de 13 de diciembre, para el desarrollo sostenible del medio rural, que posean una población inferior a 30.000 habitantes y una densidad inferior a los 100 habitantes por km<sup>2</sup>, así como todos los municipios que posean una población inferior a 5.000 habitantes, independientemente de su densidad de población.
+
+4\. Actividades agrarias, pesqueras o acuícolas y complementarias: las definiciones previstas en los artículos 2.1 y 2.5, párrafo segundo, de la Ley 19/1995, de 4 de julio, de modernización de las explotaciones agrarias y en el artículo 5 del Reglamento (UE) n.º 1379/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, por el que se establece la organización común de mercados en el sector de los productos de la pesca o de la acuicultura.
+
+5\. Zonas pesqueras rurales: el espacio geográfico en el que se lleva a cabo una actividad pesquera o acuícola y que está, independientemente de su densidad de población, formado por la agregación de municipios o entidades locales menores conforme a la Ley 45/2007, de 13 de diciembre, que posean una población inferior a 30.000 habitantes.
+
+> Se modifica el apartado 2 y se añade el 5 por el art. único.2 y 3 de la Orden APA/510/2022, de 2 de junio. [Ref. BOE-A-2022-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9353)
+
+> Se modifica el apartado 4 por el art. único.2 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 3. Categorías de premios y requisitos de participación.
+
+1\. Se establecen las siguientes categorías de premios:
+
+a) Premio de “excelencia a la innovación en la actividad agraria”. Serán concedidos a aquellos proyectos que en el desarrollo de su actividad utilicen tecnologías agrarias, ganaderas o forestales que redunden en el avance de un sector sostenible, eficiente en la obtención de productos de calidad, que responda a la demanda de las consumidoras y consumidores y que puedan integrar estrategias de comercialización y promoción.
+
+Estas actividades pueden estar relacionadas con actividades agrarias y complementarias.
+
+Está destinado a mujeres rurales que hayan desarrollado un proyecto en el medio rural nacional, que lleve funcionando al menos un año, a contar desde la fecha en que se publique la correspondiente convocatoria de los premios, y que dicho proyecto perdure a la fecha de la convocatoria.
+
+Podrán participar titulares de explotaciones agrícolas, ganaderas y forestales, tal y como se definen en el artículo 2.4 de la Ley 19/1995, de 4 de julio, ubicadas en el medio rural. En el caso de personas jurídicas el órgano directivo deberá contar con al menos una mujer y su domicilio social se deberá encontrar en el medio rural.
+
+b) Premio de “excelencia a la innovación en la actividad pesquera o acuícola”. Serán concedidos a aquellos proyectos que en el desarrollo de su actividad utilicen tecnologías pesqueras o acuícolas que redunden en el avance de un sector sostenible, eficiente en la obtención de productos de calidad, que responda a la demanda de las consumidoras y consumidores y que puedan integrar estrategias de comercialización y promoción.
+
+Estas actividades pueden estar relacionadas con actividades pesqueras o acuícolas y complementarias.
+
+Está destinado a mujeres dedicadas a la actividad pesquera o acuícola nacional que hayan desarrollado un proyecto, que lleve funcionando al menos un año a contar desde la fecha en que se publique la correspondiente convocatoria de los premios, y que dicho proyecto perdure a la fecha de la convocatoria.
+
+Podrán participar mujeres de zonas pesqueras rurales o entidades de mujeres vinculadas al sector económico pesquero, entendiendo éste según la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, como un conglomerado de actividades íntimamente relacionadas, basadas en la explotación y aprovechamiento de los recursos marinos vivos, que abarca la pesca extractiva, la comercialización, la transformación e industria alimentaria asociada a los productos del mar, la construcción naval, la industria auxiliar y los servicios relacionados.
+
+Igualmente, podrán participar titulares de explotaciones acuícolas u operadores que desarrollen actividades vinculadas con la acuicultura en las diferentes fases de la cadena, desempeñando estas en el medio rural o en zonas pesqueras rurales.
+
+Asimismo, podrán presentarse mujeres y entidades que lleven a cabo actividades de turismo marinero y acuícola en el medio rural o en zonas pesqueras rurales.
+
+En el caso de personas jurídicas el órgano directivo deberá contar con al menos una mujer y su domicilio social se deberá encontrar en el medio rural o en zonas pesqueras rurales españolas.
+
+c) Premio de “excelencia a la innovación en diversificación de la actividad económica en el medio rural”. Serán concedidos a aquellos proyectos que diversifiquen la actividad económica del medio rural, ligados, entre otros, a la industria alimentaria, a la prestación de servicios a la agricultura y la silvicultura, a las actividades relacionadas con la prestación de servicios y la integración social y a las actividades turísticas, que favorezcan nuevos ámbitos económicos o generen empleo en el medio rural.
+
+Está destinado a mujeres rurales que hayan desarrollado un proyecto que lleve funcionando al menos un año, a contar desde la fecha en que se publique la correspondiente convocatoria de los premios, y que dicho proyecto perdure a fecha de la convocatoria.
+
+Podrán participar aquellas personas físicas o jurídicas privadas en cuya dirección participe al menos una mujer y que, en razón de lo dispuesto en sus estatutos o normas por las que se rijan, desempeñen su actividad preferentemente en el medio rural, cuyos proyectos reúnan los requisitos exigidos para esta categoría y que desarrollen su actividad dentro del territorio nacional.
+
+En el caso de personas jurídicas podrán participar sólo micro y pequeñas PYMEs, según la definición recogida en el anexo I del Reglamento (UE) número 651/2014 de la Comisión, cuyo domicilio social se encuentre en el medio rural.
+
+d) Premio de “excelencia a la comunicación”. Dirigido a reconocer los trabajos en los ámbitos de la comunicación, la información y de los medios de difusión que hayan contribuido a difundir la actividad de las mujeres en el medio rural o en zonas pesqueras rurales, su reconocimiento social y su promoción nacional e internacional y con ello hayan fomentado la igualdad de oportunidades entre mujeres y hombres.
+
+Podrán optar a este premio los trabajos publicados, editados o emitidos por cualquier medio de comunicación físico o digital, en los dos años anteriores a contar desde la fecha en que se publique el extracto de la correspondiente convocatoria anual de los premios.
+
+Podrán participar las personas físicas o jurídicas que reúnan los requisitos exigidos para esta categoría y que desarrollen su actividad dentro del territorio nacional.
+
+e) “Reconocimiento especial por la trayectoria vinculada al apoyo a las mujeres en el medio rural y en zonas pesqueras rurales”. Es un reconocimiento de carácter extraordinario que puede otorgarse a aquella persona física que sea mujer o persona jurídica en cuya dirección participe una mujer, cuando concurran circunstancias destacadas o continuas relacionadas con el apoyo, promoción y puesta en valor de las mujeres en el medio rural o en zonas pesqueras rurales. Se trata de un reconocimiento de carácter honorífico que no comportará dotación económica.
+
+La propuesta de candidaturas a esta categoría de premio se efectuará única y exclusivamente por la Presidencia del Jurado, fuera del periodo de presentación de candidaturas y en la primera reunión del jurado. Esta candidatura será admitida por el jurado y comunicada a la persona física o entidad interesada, que deberá aceptar la propuesta en el plazo de diez días y presentar la documentación exigida en la convocatoria.
+
+2\. Las solicitantes sólo podrán presentarse a una de las categorías indicadas en el apartado anterior.
+
+3\. No podrá optar a los premios ninguna persona física o jurídica en la que concurra las circunstancias descritas en los artículos 13.2 y 13.3 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+4\. Igualmente, no podrán participar en los premios quienes hayan obtenido un galardón en anteriores ediciones.
+
+> Se modifica el apartado 1 por el art. único.4 de la Orden APA/510/2022, de 2 de junio. [Ref. BOE-A-2022-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9353)
+
+> Se modifica por el art. único.3 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 4. Presentación de candidaturas. Requisitos, forma y plazo.
+
+1\. Podrán presentar candidatura a los premios las personas físicas o jurídicas participantes previstas en las letras a), b), c) y d) del artículo 3.1 en el plazo que establezca la correspondiente convocatoria, que en ningún caso superará los dos meses contados a partir del día siguiente a la publicación del extracto de la misma en el “Boletín Oficial del Estado”.
+
+2\. Las candidaturas para las categorías a), b), c) y d) del artículo 3.1, se presentarán acompañadas de la correspondiente documentación, y se dirigirán al titular del Departamento Ministerial.
+
+En el caso de las personas jurídicas se presentará por vía electrónica mediante certificado digital válido y compatible con la sede electrónica asociada del Departamento (https://sede.mapama.gob.es), de acuerdo con lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre. En este caso, la utilización de los medios electrónicos establecidos será obligatoria para la presentación de cualesquiera solicitudes, escritos y comunicaciones por las solicitantes.
+
+En el caso de las personas físicas, las solicitudes podrán presentarse de forma electrónica o bien mediante registro físico en la forma que establece el artículo 16.4 de la Ley 39/2015, de 1 de octubre.
+
+3\. La candidatura se formalizará mediante los modelos normalizados que figurarán como anexo en la convocatoria y que se publicarán en la sede electrónica asociada del Departamento. El contenido mínimo de la solicitud será el siguiente:
+
+a) Nombre, dirección y datos de contacto de la persona o entidad solicitante, incluyendo la dirección de correo electrónico para futuras comunicaciones.
+
+b) Categoría de premio a la que opta.
+
+c) Memoria técnica descriptiva del proyecto, según el modelo normalizado que se establezca en la convocatoria y que se publicará en la sede electrónica asociada del Departamento.
+
+d) Declaración de la persona o entidad solicitante de no haber sido sancionada por infracción de carácter medioambiental o contra la Hacienda Pública, así como por ninguna de las circunstancias señaladas en el artículo 37 de la Ley 38/2003, de 17 de noviembre.
+
+e) Declaración de la persona o entidad solicitante de no ser deudora por resolución de procedencia de reintegro de subvenciones.
+
+f) Solicitud firmada por la persona física o el representante de la entidad jurídica, en su caso. Para tal fin, el representante de la entidad solicitante deberá contar con algún medio acreditativo de identidad.
+
+g) En el caso de optar a las categorías a), b) o c) del artículo 3.1, declaración de la persona o entidad solicitante de no estar inmersa en ningún procedimiento en curso ligado a las ayudas de la Política Agrícola Común (PAC) o de la Política Pesquera Común, según proceda.
+
+4\. El órgano gestor podrá verificar los datos de identidad de la solicitante mediante consulta al Sistema de Verificación de Datos de Identidad, y recabará de la Tesorería General de la Seguridad Social, información relativa al cumplimiento de circunstancias previstas en el artículo 19 del Reglamento de la Ley 38/2003, de 17 de noviembre, aprobado por Real Decreto 887/2006, de 21 de julio, a través de certificados electrónicos conforme a lo previsto en el artículo 23.3 de la Ley 38/2003, de 17 de noviembre, salvo que conste oposición expresa de la solicitante, en cuyo caso deberá aportar los certificados que prueben este extremo.
+
+Asimismo, se deberá solicitar el consentimiento del interesado para que el órgano gestor pueda recabar de la Agencia Estatal de Administración Tributaria información relativa al cumplimiento de las obligaciones tributarias, según lo previsto en el artículo 18 del Reglamento de la Ley 38/2003, de 17 de noviembre, aprobado por Real Decreto 887/2006, de 21 de julio, a través de certificados electrónicos conforme a lo previsto en el artículo 23.3 de la Ley 38/2003, de 17 de noviembre. En caso de no prestar esta conformidad deberá aportar la documentación acreditativa de los requisitos exigidos.
+
+Asimismo, en el caso de que la solicitante sea una persona jurídica el órgano gestor comprobará las facultades o poderes de la persona representante de la entidad, salvo oposición expresa de la solicitante, en cuyo caso deberá aportar junto con la solicitud la certificación acreditativa de dichas facultades o poderes.
+
+5\. **(Sin contenido).**
+
+6\. La comprobación de datos no ajustados a la realidad, tanto en la solicitud como en la documentación aportada, podrá suponer la denegación o revocación del premio.
+
+> Se modifican los apartados 2 a 4 y deja el 5 sin contenido por el art. único.5 y 6 de la Orden APA/510/2022, de 2 de junio. [Ref. BOE-A-2022-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9353)
+
+> Se modifica por el art. único.4 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 5. Dotación.
+
+1\. Los premios contemplados en las categorías a), b), c) y d) del artículo 3.1, constituyen un reconocimiento al carácter de excelencia e innovación de los proyectos galardonados y cada una de las iniciativas que sean premiadas recibirá una aportación económica, cuya cuantía se determinará en las correspondientes convocatorias anuales conforme a las disponibilidades presupuestarias anuales y que no será inferior a seis mil euros (6.000,00 €).
+
+Dentro de cada una de las categorías indicadas anteriormente, se establecerá un primer, segundo y tercer premio, elegidos en función de la puntuación obtenida con base en los criterios de valoración y cuya dotación en metálico será proporcional a la posición obtenida.
+
+2\. La financiación de los premios contemplados en la presente orden se efectuará con cargo a los créditos que para dicha finalidad se determinen en los Presupuestos Generales del Estado para el Ministerio de Agricultura, Pesca, y Alimentación.
+
+3\. Las convocatorias de los premios fijarán la partida presupuestaria a la que deben imputarse los premios que se concedan y la dotación económica de los mismos, que estará sujeta a la disponibilidad presupuestaria en el momento de su concesión.
+
+4\. El premio contemplado en la categoría e) del artículo 3.1 consiste en un reconocimiento de carácter honorífico que no comportará dotación económica.
+
+5\. Desde la concesión del premio, en todas las actividades asociadas al proyecto o acciones premiadas, se podrá incorporar de modo visible el logotipo oficial del Ministerio de Agricultura, Pesca y Alimentación así como el logotipo de los premios, haciendo siempre referencia de forma destacada a la categoría de premio en la que fueron galardonados, edición y órgano convocante del mismo, en los términos que se establezcan por el propio Ministerio.
+
+> Se modifica por el art. único.5 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 6. Jurado y selección de los premios.
+
+1\. La valoración de las candidaturas a las distintas categorías, y la selección de aquellos que haya de proponerse para la concesión de los premios corresponderá a un jurado de cinco miembros.
+
+2\. La composición del jurado será la siguiente:
+
+a) Presidencia: El titular de la Dirección General de Desarrollo Rural y Política Forestal.
+
+b) Vocalías: Cuatro vocales, tres personas elegidas entre personal de la Dirección General de Desarrollo Rural o entre las Unidades del Ministerio de Agricultura, Alimentación y Medio Ambiente que realicen actividades relacionados con las materias de los premios y que tengan nivel orgánico de Subdirector, Subdirector Adjunto y asimilado y una persona del Instituto de la Mujer, del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+c) Secretaría: con voz pero sin voto, el titular de la unidad gestora de los premios de la Dirección General de Desarrollo Rural y Política Forestal.
+
+3\. El jurado ajustará su actuación al régimen jurídico de los órganos colegiados regulado en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+4\. En el plazo de 15 días contados desde que el órgano instructor les remita las candidaturas admitidas, el Jurado dará traslado de la propuesta de concesión de los premios al órgano competente para resolver, a través del órgano instructor.
+
+5\. El Jurado podrá proponer, de forma motivada, que los premios se declaren desiertos si las candidaturas presentadas no alcanzan la puntuación mínima establecida en el artículo 7, o no se presentan candidatas a las mismas.
+
+6\. El jurado valorará las candidaturas y documentación presentadas, así como las acciones llevadas a cabo por las participantes.
+
+7\. Cada miembro del jurado procederá a valorar y puntuar por separado cada uno los proyectos candidatos presentados, aplicando los criterios de valoración que se establecen en el artículo 7.
+
+8\. El jurado podrá solicitar al órgano instructor que recabe de las Comunidades Autónomas y de la Delegación o Subdelegación del Gobierno en la que se desarrolla el proyecto o trabajo candidato, una certificación sobre el cumplimiento de los requisitos y obligaciones previstos en esta orden, así como la información necesaria sobre el proyecto, y, en su caso, la comprobación in situ de la realidad del mismo.
+
+9\. La creación y funcionamiento del jurado se llevará a cabo con los medios materiales y personales disponibles en la Dirección General de Desarrollo Rural y Política Forestal.
+
+> Se modifican los apartados 5, 6 y 7 por el art. único.6 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 7. Criterios de valoración.
+
+1\. Los proyectos candidatos a los premios previstos en las categorías a, b) y c) del artículo 3.1 se valorarán por el jurado a través de los siguientes criterios de valoración y su ponderación:
+
+<table>
+<thead>
+<tr>
+<th> </th>
+<th>Criterio</th>
+<th>Descripción</th>
+<th>Baremo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Innovación, originalidad y excelencia del proyecto.</td>
+<td>
+<p>Se valorará la excelencia del proyecto a través de, entre otros, los siguientes aspectos:</p>
+<p>– Innovación u originalidad del proyecto: desarrollo de nuevos productos o servicios o mejora sustancial de los existentes.</p>
+<p>– Innovación tecnológica: uso de nuevas tecnologías en alguna de las fases del proyecto (que permitan, por ejemplo, aumentar la eficiencia de la empresa a través de la reducción de costes, aumento del valor añadido, mejora de la calidad de las producciones y/o de la comercialización, reducción del impacto ambiental, etc.)</p>
+<p>– Innovación digital: uso de herramientas digitales en el uso del proyecto.</p>
+<p>– Innovación organizativa: nuevos métodos de trabajo o enfoque organizativo.</p>
+<p>– Otros: diversificación de las producciones y/o los mercados; sostenibilidad económica del proyecto.</p>
+<p>Hasta un máximo de 30 puntos.</p>
+</td>
+<td>
+<p>– Proyecto innovador: hasta 10 puntos.</p>
+<p>– Proyecto innovador y original: hasta 20 puntos.</p>
+<p>– Proyecto innovador original y excelente: hasta 30 puntos.</p>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Contribución a la empleabilidad de la población del medio rural y de zonas pesqueras rurales.</td>
+<td>
+<p>Se valorará el número de personas que trabajan en la empresa (miembros de la empresa, socios trabajadores y personas contratadas con nómina).</p>
+<p>Hasta un máximo de 10 puntos.</p>
+</td>
+<td>N.º de trabajadores: 2 puntos por persona que trabaja en la empresa, hasta 10 puntos.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Contribución a la inserción laboral de las mujeres en el medio rural y en zonas pesqueras rurales.</td>
+<td>
+<p>Se valorará el porcentaje de mujeres que trabajan en la empresa en relación al total de trabajadores (miembros de la empresa, socias trabajadoras y mujeres contratadas con nómina).</p>
+<p>Hasta un máximo de 15 puntos.</p>
+</td>
+<td>
+<p>– Porcentaje de mujeres sobre el total de trabajadores ≥ 25 % y &lt; 50 %: 10 puntos.</p>
+<p>– Porcentaje de mujeres sobre el total de trabajadores ≥ 50 %: 15 puntos.</p>
+</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Contribución a la presencia de mujeres en los órganos de decisión de la explotación o actividad económica, como titulares y/o jefas de explotación u órganos directivos de las empresas.</td>
+<td>
+<p>Se valorará la presencia de mujeres en los órganos de dirección de la empresa</p>
+<p>Hasta un máximo de 15 puntos.</p>
+</td>
+<td>
+<p>– 10 puntos si en los órganos directivos de la empresa hay ≥ 25 % y &lt; 50 % de mujeres.</p>
+<p>– 15 puntos si en los órganos directivos de la empresa hay ≥ 50 % de mujeres.</p>
+</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Desarrollo del proyecto en un municipio en riesgo de despoblación.</td>
+<td>
+<p>Se valorará que el proyecto se realice en un municipio con baja población</p>
+<p>Hasta un máximo de 10 puntos.</p>
+</td>
+<td>
+<p>– 5 puntos si el proyecto se realiza en un municipio de ≥ 5.000 y ≤ 20.000 habitantes.</p>
+<p>– 10 puntos si el proyecto se realiza en un municipio de &lt;5.000 habitantes.</p>
+</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Impacto socioeconómico del proyecto.</td>
+<td>
+<p>Se valorarán los siguientes aspectos:</p>
+<p>– Contribución del proyecto a dinamizar la economía local, al poner en valor sus recursos, existencia de sinergias con otros sectores productivos a nivel local y comarcal.</p>
+<p>– Integración del proyecto en alguna fórmula asociativa</p>
+<p>– Contribución del proyecto a la sostenibilidad social del territorio (si existen ciudadanos y grupos de la sociedad civil que se ven involucrados y afectados por el proyecto).</p>
+<p>Hasta un máximo de 15 puntos.</p>
+</td>
+<td>
+<p>– 7 puntos si el proyecto tiene un impacto socioeconómico sobre su región en al menos uno de los aspectos citados en este criterio.</p>
+<p>– 10 puntos si el proyecto tiene un impacto socioeconómico sobre su región en al menos dos de los aspectos citados en este criterio.</p>
+<p>– 15 puntos si el proyecto tiene un impacto socioeconómico sobre su región en los tres aspectos citados en este criterio.</p>
+</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Contribución del proyecto a la reducción del impacto medioambiental.</td>
+<td>
+<p>Se valoran las actividades económicas que contribuyan a reducir el impacto al medio ambiente, teniendo en cuenta, entre otros, los siguientes aspectos:</p>
+<p>– Mejora de la eficiencia energética.</p>
+<p>– Sostenibilidad del uso de los recursos hídricos. Reutilización y reciclaje de residuos.</p>
+<p>– Reducción de emisiones GEI.</p>
+<p>– Prevención erosión del suelo.</p>
+<p>– Conservación de la biodiversidad.</p>
+<p>Hasta un máximo de 5 puntos.</p>
+</td>
+<td>
+<p>– 3 puntos si el proyecto contribuye a reducir el impacto ambiental o es medioambientalmente sostenible.</p>
+<p>– 5 puntos si el proyecto contribuye de manera destacada a reducir el impacto ambiental.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">Puntuación máxima: 100 puntos.</td>
+</tr>
+<tr>
+<td colspan="4">Puntuación mínima: 50 puntos.</td>
+</tr>
+<tr>
+<td colspan="4">Criterios de desempate: Mayor puntuación parcial obtenida en relación a los criterios 1, 3 y 4.</td>
+</tr>
+</tbody>
+</table>
+
+Para que un proyecto candidato pase a ser considerado en la categoría correspondiente al menos deberá alcanzar un total de 50 puntos en la fase de valoración.
+
+2\. Para los trabajos candidatos al premio previsto en la categoría d) del artículo 3.1, el jurado valorará las candidaturas según los siguientes criterios de valoración y su ponderación:
+
+<table>
+<thead>
+<tr>
+<th> </th>
+<th>Criterio</th>
+<th>Descripción</th>
+<th>Baremo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Calidad periodística, rigor y contribución a la visibilidad del papel de las mujeres del medio rural y de zonas pesqueras rurales.</td>
+<td>
+<p>Se valorarán los siguientes aspectos:</p>
+<p>– Rigor.</p>
+<p>– Calidad narrativa y/o fotográfica.</p>
+<p>– Grado de contribución del proyecto a la visibilización del papel de las mujeres del medio rural y de zonas pesqueras rurales.</p>
+<p>Hasta un máximo de 50 puntos.</p>
+</td>
+<td>
+<p>– Rigor: hasta 15 puntos.</p>
+<p>– Calidad narrativa y/o fotográfica: hasta 15 puntos.</p>
+<p>– Grado de contribución del proyecto a la visibilización del papel de las mujeres del medio rural y de zonas pesqueras rurales: hasta 20 puntos.</p>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dimensión y alcance de los trabajos, en relación con la difusión del papel de las mujeres del medio rural y de zonas pesqueras rurales.</td>
+<td>
+<p>Se valorará el grado de difusión de los trabajos con base en:</p>
+<p>– Ámbito geográfico cubierto.</p>
+<p>– Periodicidad.</p>
+<p>– Audiencia alcanzada.</p>
+<p>Hasta un máximo de 50 puntos.</p>
+</td>
+<td>
+<p>– Ámbito geográfico cubierto: hasta 15 puntos.</p>
+<p>– Periodicidad: hasta 15 puntos.</p>
+<p>– Audiencia alcanzada: hasta 20 puntos.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">Puntuación máxima: 100 puntos.</td>
+</tr>
+<tr>
+<td colspan="4">Puntuación mínima: 50 puntos.</td>
+</tr>
+<tr>
+<td colspan="4">Criterios de desempate: Mayor puntuación parcial obtenida en relación al criterio 1.</td>
+</tr>
+</tbody>
+</table>
+
+Para que un proyecto candidato pase a ser considerado en esta categoría deberá alcanzar al menos un total de 50 puntos en la fase de valoración.
+
+3\. En el caso de los premios previstos en la categoría a), b), c) y d) del artículo 3.1, en cada convocatoria anual se concederá un primer, segundo y tercer premio. Los premios se otorgarán en todo caso a los de mayor puntuación total obtenida en dicha convocatoria. Los casos de empate se resolverán atendiendo a la mayor puntuación parcial obtenida a partir de los criterios (1), (3), (4) para los proyectos candidatos a los premios previstos en las categorías a), b) y c) del artículo 3.1; y atendiendo a la mayor puntuación parcial obtenida a partir del criterio (1) para los trabajos candidatos a los premios previstos en la modalidad d) del artículo 3.1. De persistir el empate, la decisión se tomará por voto de calidad del Presidente del jurado, debiendo argumentarse la misma en el acta que refleje la concesión de los premios.
+
+4\. Queda exenta de la aplicación de los criterios previstos en este artículo el premio extraordinario previsto en categoría e) del artículo 3.1.
+
+> Se modifican los apartados 1 y 2 por el art. único.7 de la Orden APA/510/2022, de 2 de junio. [Ref. BOE-A-2022-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9353)
+
+> Se modifica por el art. único.7 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 8. Instrucción y resolución.
+
+1\. La instrucción del procedimiento se realizará por la Subdirección General de Dinamización del Medio Rural, encargada de la gestión de los premios, de la Dirección General de Desarrollo Rural, Innovación y Política Forestal, en los términos previstos por los artículos 22 y 24 de la Ley 38/2003, de 17 de noviembre. Corresponde a la persona titular del Departamento Ministerial, establecer la convocatoria y otorgar el premio, así como la resolución del procedimiento.
+
+2\. Si la candidatura no reúne los requisitos establecidos en la convocatoria, el órgano competente requerirá a la interesada para que la subsane en el plazo máximo e improrrogable de diez días hábiles, indicándole que, si no hiciese, se le tendrá por desistido de su solicitud, de conformidad con el artículo 23.5 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, previa resolución que deberá ser dictada en los términos previstos en el artículo 21, en relación con el artículo 68 de la Ley 39/2015, de 1 de octubre.
+
+3\. El órgano instructor podrá realizar comprobaciones “in situ” durante el procedimiento de análisis de las candidaturas si lo estima necesario para comprobar la veracidad de los datos presentados en la solicitud. La presentación de la solicitud conllevará la autorización de la entidad solicitante para que el órgano concedente realice estas comprobaciones.
+
+4\. Examinada la documentación presentada por las aspirantes en su candidatura y constatado que cumplen todos los requisitos, los trabajos serán remitidos al jurado previsto en el artículo 6, para que proceda a su estudio y valoración.
+
+5\. El jurado examinará y evaluará las candidaturas presentadas a las categorías de los premios para las mujeres rurales, y emitirá el informe concretando el resultado de la evaluación.
+
+6\. El órgano instructor, a la vista del expediente e informes del jurado, formulará la propuesta de resolución, y la elevará, con su informe, a la persona titular del Departamento Ministerial.
+
+7\. La publicación de la resolución de concesión y sus posibles modificaciones y demás actos del procedimiento, tendrá lugar en la sede electrónica asociada del Departamento Ministerial, y surtirá todos los efectos de la notificación practicada según lo dispuesto en el artículo 45 de Ley 39/2015, de 1 de octubre, en relación con los procedimientos de concurrencia competitiva. Asimismo, la resolución con las premiadas se comunicará a la Base de Datos Nacional de Subvenciones (BDNS), de acuerdo con lo dispuesto en los artículos 18 y 20 de la Ley 38/2003, de 17 de noviembre.
+
+8\. La resolución de concesión de los premios, que pone fin a la vía administrativa, corresponde al titular del Ministerio de Agricultura, Pesca y Alimentación. Contra la misma podrá interponerse recurso potestativo de reposición en el plazo máximo de un mes en los términos previstos en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, o ser impugnada directamente ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional en el plazo de dos meses conforme a lo previsto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción contencioso- administrativa, en ambos casos contados desde el día siguiente al de su publicación. No podrán simultanearse ambas vías de recurso.
+
+> Se modifica el apartado 7 por el art. único.8 de la Orden APA/510/2022, de 2 de junio. [Ref. BOE-A-2022-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9353)
+
+> Se modifica por el art. único.8 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Artículo 9. Duración del procedimiento.
+
+El plazo máximo para resolver y notificar la resolución del procedimiento no podrá exceder de seis meses, contados a partir de la fecha de publicación de la orden de convocatoria, de conformidad con el artículo 25.4 de la Ley 38/2003, de 17 de noviembre. Dicho plazo se computará a partir de la publicación de la correspondiente convocatoria. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, se podrá entender desestimada la candidatura presentada, por silencio administrativo.
+
+## Artículo 10. Compatibilidad.
+
+La concesión de algún galardón será compatible con otras ayudas percibidas por los beneficiarios procedentes de diferentes administraciones públicas españolas o entes públicos adscritos o dependientes de dichas administraciones, así como con el otorgamiento de otros premios concedidos por organismos nacionales e internacionales.
+
+## Artículo 11. Entrega de premios.
+
+La entrega de los premios se efectuará en un acto público, convocado al efecto, al que se dotará de la trascendencia y solemnidad adecuadas.
+
+## Artículo 12. Publicación de los proyectos y trabajos premiados.
+
+1\. Los proyectos y trabajos premiados podrán ser objeto de publicación divulgativa por el Ministerio de Agricultura, Alimentación y Medio Ambiente, en los términos y plazos que se establezcan en las correspondientes convocatorias.
+
+2\. La mera presentación a las convocatorias significará que la persona solicitante autoriza al Ministerio de Agricultura, Alimentación y Medio Ambiente a publicar en cualquier soporte de comunicación dichos proyectos sin derecho a contraprestación económica alguna, sin perjuicio de los derechos que les corresponden en posteriores ediciones en aplicación de lo dispuesto en los artículos 14 y 17 de Texto Refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril, por el que se aprueba el texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia.
+
+## Artículo 13. Devolución de los proyectos y trabajos no premiados.
+
+La documentación presentada por los participantes, les será devuelta previa solicitud de la misma.
+
+## Artículo 14. Publicidad de los premios.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. único.9 de la Orden APA/635/2019, de 5 de junio. [Ref. BOE-A-2019-8768](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8768)
+
+## Disposición adicional única. Régimen Jurídico.
+
+En lo no previsto en las presentes bases reguladoras será de aplicación lo dispuesto en la Ley 38/2003, de 17 de noviembre, y en el Real Decreto 887/2006, de 21 de julio, por el que se aprueba su Reglamento.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga la Orden ARM/405/2010, de 23 de febrero por la que se establecen las bases reguladoras para la concesión de los premios de excelencia a la innovación de mujeres rurales, así como la Orden AAA/700/2013, de 18 de abril, que la modifica.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de abril de 2015.–La Ministra de Agricultura, Alimentación y Medio Ambiente, Isabel García Tejerina.

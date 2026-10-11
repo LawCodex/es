@@ -1,0 +1,315 @@
+---
+title: "Real Decreto 1886/2011, de 30 de diciembre, por el que se establecen las Comisiones Delegadas del Gobierno"
+identifier: "BOE-A-2011-20640"
+eli: "https://www.boe.es/eli/es/rd/2011/12/30/1886"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 2011-12-30
+published: 2011-12-31
+in_force_from: 2011-12-31
+last_amended: 2020-02-26
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 315"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-20640"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1886/2011, de 30 de diciembre, por el que se establecen las Comisiones Delegadas del Gobierno
+
+Norma derogada, con efectos de 26 de febrero de 2020, por la disposición derogatoria única del Real Decreto 399/2020, de 25 de febrero. [Ref. BOE-A-2020-2670](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2670).
+
+No obstante, permanecerá en vigor el artículo 5 hasta tanto se produzca la modificación de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, según establece la disposición transitoria única del citado Real Decreto.
+
+El artículo 6.1 de la Ley 50/1997, de 27 de noviembre, del Gobierno, establece que la creación, modificación y supresión de las Comisiones Delegadas del Gobierno será acordada por el Consejo de Ministros, mediante real decreto, a propuesta del Presidente del Gobierno.
+
+La vigente organización ministerial, establecida por Real Decreto 1823/2011, de 21 de diciembre, determina la necesidad de adaptar las Comisiones Delegadas del Gobierno a la nueva estructura de éste.
+
+En su virtud, a propuesta del Presidente del Gobierno y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2011,
+
+DISPONGO:
+
+## Artículo 1. Comisiones Delegadas del Gobierno y funciones.
+
+1\. Además de los que se constituyan por ley, los órganos colegiados del Gobierno con categoría de Comisión Delegada del Gobierno serán los siguientes:
+
+a) Comisión Delegada del Gobierno para Asuntos Económicos.
+
+b) Consejo de Seguridad Nacional en su condición de Comisión Delegada del Gobierno para la Seguridad Nacional.
+
+c) Comisión Delegada del Gobierno para Asuntos de Inteligencia.
+
+d) Comisión Delegada del Gobierno para Política Científica, Tecnológica y de Innovación.
+
+e) Comisión Delegada del Gobierno para Política de Igualdad.
+
+f) Comisión Delegada del Gobierno para Asuntos Culturales.
+
+g) Comisión Delegada del Gobierno para Asuntos Migratorios.
+
+2\. Corresponde a las Comisiones Delegadas del Gobierno el ejercicio de las funciones previstas en el artículo 6.4 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en relación con los asuntos atribuidos a cada una de ellas.
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 1396/2018, de 23 de noviembre. [Ref. BOE-A-2018-16900](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16900)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 694/2018, de 29 de junio. [Ref. BOE-A-2018-9221](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9221)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 385/2013, de 31 de mayo. [Ref. BOE-A-2013-5771](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5771).
+
+## Artículo 2. Comisión Delegada del Gobierno para Asuntos Económicos.
+
+1\. La Comisión Delegada del Gobierno para Asuntos Económicos tendrá la siguiente composición:
+
+a) La Ministra de Economía y Empresa, que la presidirá.
+
+b) La Ministra de Hacienda, que ejercerá las funciones de Vicepresidenta de la Comisión.
+
+c) El Ministro de Fomento; las Ministras de Educación y Formación Profesional; Trabajo, Migraciones y Seguridad Social; Industria, Comercio y Turismo; el Ministro de Agricultura, Pesca y Alimentación; las Ministras de Política Territorial y Función Pública; para la Transición Ecológica; y el Ministro de Ciencia, Innovación y Universidades.
+
+d) Los Secretarios de Estado de Economía y Apoyo a la Empresa; para la Sociedad de la Información y la Agenda Digital; de Hacienda; y de Presupuestos y Gastos.
+
+2\. El Ministro de Asuntos Exteriores, Unión Europea y Cooperación y el Secretario de Estado para la Unión Europea formarán parte de la Comisión Delegada del Gobierno para Asuntos Económicos cuando esta haya de tratar temas relacionados con la Unión Europea.
+
+3\. Los titulares del resto de Departamentos ministeriales podrán ser convocados a la Comisión Delegada del Gobierno para Asuntos Económicos cuando esta haya de tratar temas con repercusiones económicas o presupuestarias relacionados con dichos ministerios.
+
+4\. A las reuniones de la Comisión Delegada del Gobierno para Asuntos Económicos asistirá, en todo caso, un representante de la Presidencia del Gobierno.
+
+5\. La Secretaria de Estado de Economía y Apoyo a la Empresa ejercerá las funciones de Secretaría de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+> Se modifica por el art. único.1 del Real Decreto 594/2018, de 22 de junio. [Ref. BOE-A-2018-8578](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8578)
+
+> Se modifica por el art. único.3 del Real Decreto 385/2013, de 31 de mayo. [Ref. BOE-A-2013-5771](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5771).
+
+> Su anterior numeración era art. 3.
+
+## Artículo 3. Consejo de Seguridad Nacional.
+
+1\. El Consejo de Seguridad Nacional tendrá la siguiente composición:
+
+a) El Presidente del Gobierno, que lo presidirá, excepto cuando S.M. el Rey asista a sus reuniones, en cuyo caso le corresponderá presidirlo.
+
+b) La Vicepresidenta del Gobierno y Ministra de la Presidencia.
+
+c) Los Ministros de Asuntos Exteriores y de Cooperación, de Defensa, de Hacienda y Administraciones Públicas, del Interior, de Fomento, de Industria, Energía y Turismo y de Economía y Competitividad.
+
+d) El Director del Gabinete de la Presidencia del Gobierno, el Secretario de Estado de Asuntos Exteriores, el Jefe de Estado Mayor de la Defensa, el Secretario de Estado de Seguridad y el Secretario de Estado-Director del Centro Nacional de Inteligencia.
+
+2\. Para un adecuado ejercicio de sus funciones y a decisión del Presidente del Gobierno, la convocatoria podrá hacerse únicamente a los miembros con competencias más directamente relacionadas con los temas a tratar en el orden del día.
+
+3\. En todo caso, los titulares del resto de departamentos ministeriales podrán ser convocados al Consejo de Seguridad Nacional cuando éste haya de tratar temas con repercusiones en la Seguridad Nacional relacionados con dichos ministerios. Asimismo, podrán ser convocados los titulares de aquellos otros órganos superiores y directivos de la Administración General del Estado que se estime conveniente.
+
+4\. El Director del Gabinete de la Presidencia del Gobierno ejercerá las funciones de Secretario del Consejo de Seguridad Nacional. El Director Adjunto del Gabinete de la Presidencia del Gobierno y responsable del Departamento de Seguridad Nacional será convocado a las reuniones del Consejo de Seguridad Nacional.
+
+5\. Corresponde al Consejo de Seguridad Nacional, además de las competencias atribuidas por el artículo 1.2 del presente real decreto, las siguientes funciones:
+
+a) Asistir al Presidente del Gobierno en la dirección de la Política de Seguridad Nacional.
+
+b) Dictar las directrices necesarias en materia de planificación y coordinación de la Política de Seguridad Nacional.
+
+c) Dirigir y coordinar las actuaciones de gestión de situaciones de crisis.
+
+d) Supervisar el adecuado funcionamiento del Sistema de Seguridad Nacional.
+
+e) Verificar el grado de cumplimiento de la Estrategia de Seguridad Nacional y promover e impulsar sus revisiones.
+
+f) Promover e impulsar la elaboración de las Estrategias de segundo nivel que sean necesarias y proceder, en su caso, a su aprobación.
+
+g) Aprobar el Informe Anual de Seguridad Nacional antes de su presentación en las Cortes Generales.
+
+h) Impulsar las propuestas normativas necesarias para el establecimiento del Sistema de Seguridad Nacional y la integración dentro del mismo, entre otros sistemas, del Sistema Nacional de Gestión de Situaciones de Crisis.
+
+i) Podrá conocer de cualquier otro asunto que afecte directamente a la Seguridad Nacional.
+
+j) Realizar aquellas otras funciones que le atribuya el ordenamiento jurídico o que le encomiende el Presidente del Gobierno.
+
+6\. Por iniciativa del Consejo de Seguridad Nacional, se podrán crear Comités Especializados como órganos de apoyo en los ámbitos de actuación identificados en la Estrategia de Seguridad Nacional o cuando circunstancias propias de la gestión de crisis lo exijan. La creación, composición y funciones de estos Comités vendrán especificadas en las disposiciones que los regulen.
+
+Sin perjuicio de lo anterior, podrán ser convocados, en función de los asuntos a tratar, los titulares de los órganos superiores y directivos de la Administración General del Estado, las autoridades o altos cargos de las Comunidades Autónomas y entidades locales y aquellas personas en su condición de expertos cuya contribución se considere relevante.
+
+7\. El Consejo de Seguridad Nacional se reunirá a iniciativa del Presidente del Gobierno como mínimo con carácter bimestral o cuantas veces lo considere necesario, así como cuando las circunstancias que afecten a la Seguridad Nacional lo requieran.
+
+8\. A propuesta del Presidente del Gobierno, el Consejo de Seguridad Nacional informará al Rey al menos una vez al año.
+
+> Se modifica por el art. único.2 del Real Decreto 385/2013, de 31 de mayo. [Ref. BOE-A-2013-5771](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5771).
+
+> Su anterior numeración era art. 2.
+
+## Artículo 4. Comisión Delegada del Gobierno para Asuntos de Inteligencia.
+
+1\. La Comisión Delegada del Gobierno para Asuntos de Inteligencia a que se refiere el artículo 6 de la Ley 11/2002, de 6 de mayo, tendrá la siguiente composición:
+
+a) La Vicepresidenta del Gobierno y Ministra de la Presidencia, que la presidirá.
+
+b) Los Ministros de Asuntos Exteriores y de Cooperación, de Defensa, del Interior y de Economía y Competitividad.
+
+c) El Director del Gabinete de la Presidencia del Gobierno, el Secretario de Estado de Seguridad y el Secretario de Estado Director del Centro Nacional de Inteligencia, que actuará como Secretario.
+
+2\. No obstante lo dispuesto en el apartado anterior, podrán ser convocados a las reuniones de la Comisión los titulares de aquellos otros órganos superiores y directivos de la Administración General del Estado que se estime conveniente. El Subsecretario de Presidencia será convocado a las reuniones de la Comisión Delegada del Gobierno de Asuntos de Inteligencia.
+
+3\. Corresponden a la Comisión Delegada del Gobierno para Asuntos de Inteligencia las competencias que establece el artículo 6.4 de la Ley 11/2000, de 6 de mayo.
+
+> Redactado el apartado 1.b) conforme a la corrección de errores publicada en BOE núm. 5, de 6 de enero de 2012. [Ref. BOE-A-2012-225](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-225)
+
+## Artículo 5. Comisión Delegada del Gobierno para Política Científica, Tecnológica y de Innovación.
+
+1\. Corresponden a la Comisión Delegada del Gobierno para Política Científica, Tecnológica y de Innovación, además de las competencias atribuidas por el artículo 1.2 del presente real decreto, las siguientes funciones:
+
+a) Informar la Estrategia Española de Ciencia y Tecnología y la Estrategia Española de Innovación.
+
+b) Llevar a cabo la planificación y el seguimiento de la política científica, tecnológica y de innovación y la coordinación entre los departamentos ministeriales.
+
+c) Determinar el procedimiento por el que se evaluarán los resultados de la ejecución de la política científica, tecnológica y de innovación.
+
+d) Ser oída con carácter previo a la aprobación del Plan Estatal de Investigación Científica y Técnica y el Plan Estatal de Innovación.
+
+e) Elevar al Gobierno el Plan Estatal de Investigación Científica y Técnica y el Plan Estatal de Innovación, para su aprobación y posterior remisión a las Cortes Generales.
+
+f) Establecer los mecanismos de seguimiento y evaluación del desarrollo del Plan Estatal de Investigación Científica y Técnica.
+
+g) Aquellas otras tareas que le atribuyan la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación y el Gobierno, en relación con la planificación y el seguimiento de política científica, tecnológica y de innovación y para la coordinación de las actuaciones de los departamentos ministeriales.
+
+2\. La Comisión Delegada del Gobierno para Política Científica, Tecnológica y de Innovación tendrá la siguiente composición:
+
+a) La Vicepresidenta del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes e Igualdad, que la presidirá.
+
+b) El Ministro de Ciencia, Innovación y Universidades, que ejercerá las funciones de Vicepresidente de la Comisión.
+
+c) El Ministro de Asuntos Exteriores, Unión Europea y Cooperación; las Ministras de Defensa y de Hacienda; el Ministro de Fomento; la Ministra de Industria, Comercio y Turismo; el Ministro de Agricultura, Pesca y Alimentación; y las Ministras de Política Territorial y Función Pública, para la Transición Ecológica, de Economía y Empresa, y de Sanidad, Consumo y Bienestar Social.
+
+d) La Secretaria de Estado de Presupuestos y Gastos, el Secretario de Estado para el Avance Digital y la Secretaria de Estado de Universidades, Investigación, Desarrollo e Innovación.
+
+3\. La Secretaria de Estado de Universidades, Investigación, Desarrollo e Innovación ejercerá las funciones de Secretaría de la Comisión Delegada del Gobierno para Política Científica, Tecnológica y de Innovación.
+
+4\. El Subsecretario de la Presidencia, Relaciones con las Cortes e Igualdad será convocado a las reuniones de la Comisión Delegada del Gobierno para Política Científica, Tecnológica y de Innovación.
+
+> Se modifica por el art. único.2 del Real Decreto 1396/2018, de 23 de noviembre. [Ref. BOE-A-2018-16900](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16900)
+
+## Artículo 6. Comisión Delegada del Gobierno para Política de Igualdad.
+
+1\. La Comisión Delegada del Gobierno para Política de Igualdad tendrá la siguiente composición:
+
+a) La Vicepresidenta del Gobierno y Ministra de la Presidencia, que la presidirá.
+
+b) Los Ministros de Justicia, de Hacienda y Administraciones Públicas, del Interior, de Educación, Cultura y Deporte, de Empleo y Seguridad Social, y de Sanidad, Servicios Sociales e Igualdad.
+
+c) El Director del Gabinete de la Presidencia del Gobierno y los Secretarios de Estado de Presupuestos y Gastos, de Administraciones Públicas, de Seguridad, de Empleo, de Telecomunicaciones y para la Sociedad de la Información, de Relaciones de las Cortes, de Investigación, Desarrollo e Innovación y de Servicios Sociales e Igualdad.
+
+2\. La Secretaria de Estado de Servicios Sociales e Igualdad ejercerá las funciones de Secretaria de la Comisión Delegada del Gobierno para Política de Igualdad.
+
+## Artículo 7. Comisión Delegada del Gobierno para Asuntos Culturales.
+
+1\. La Comisión Delegada del Gobierno para Asuntos Culturales tendrá la siguiente composición:
+
+a) La Vicepresidenta del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes e Igualdad, que la presidirá.
+
+b) El Ministro de Cultura y Deporte, que ejercerá las funciones de Vicepresidente de la Comisión.
+
+c) El Ministro de Asuntos Exteriores, Unión Europea y Cooperación; las Ministras de Defensa y de Hacienda; los Ministros del Interior y de Fomento; las Ministras de Educación y Formación Profesional; de Industria, Comercio y Turismo; de Política Territorial y Función Pública; de Economía y Empresa, y el Ministro de Ciencia, Innovación y Universidades.
+
+d) Los titulares de las Secretarías de Estado de Cooperación Internacional y para Iberoamérica y el Caribe; de Justicia; de Presupuestos y Gastos; de Seguridad; para el Avance Digital, y de Universidades, Investigación, Desarrollo e Innovación.
+
+2\. El Ministro de Cultura y Deporte ejercerá también las funciones de Secretaría de la Comisión Delegada del Gobierno para Asuntos Culturales, salvo cuando ejerza la Presidencia de la Comisión, en cuyo caso la Secretaría corresponderá al titular de la Secretaría de Estado de Cooperación Internacional y para Iberoamérica y el Caribe.
+
+3\. El Subsecretario de la Presidencia, Relaciones con las Cortes e Igualdad será convocado a las reuniones de la Comisión Delegada del Gobierno para Asuntos Culturales.
+
+> Se modifica por el art. único.1 del Real Decreto 1111/2018, de 7 de septiembre. [Ref. BOE-A-2018-12258](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12258)
+
+## Artículo 8. Comisión Delegada del Gobierno para Asuntos Migratorios.
+
+1\. La Comisión Delegada del Gobierno para Asuntos Migratorios tendrá la siguiente composición:
+
+a) La Vicepresidenta del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes e Igualdad, que la presidirá.
+
+b) La Ministra de Trabajo, Migraciones y Seguridad Social, que ejercerá las funciones de Vicepresidenta de la Comisión.
+
+c) Los Ministros de Asuntos Exteriores, Unión Europea y Cooperación; del Interior y de Fomento.
+
+d) El Director del Gabinete de la Presidencia del Gobierno y los Secretarios de Estado de Asuntos Exteriores; para la Unión Europea; de Cooperación Internacional y para Iberoamérica y el Caribe; y de Defensa, y las Secretarias de Estado de Seguridad; de Migraciones y de Igualdad.
+
+2\. La Secretaria de Estado de Migraciones ejercerá las funciones de Secretaría de la Comisión Delegada del Gobierno para Asuntos Migratorios.
+
+> Se modifica por el art. único.2 del Real Decreto 694/2018, de 29 de junio. [Ref. BOE-A-2018-9221](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9221)
+
+## Artículo 9. Asistencia y apoyo administrativo a las Comisiones Delegadas.
+
+Las Secretarías Técnicas de cada Comisión Delegada elaborarán los órdenes del día y las convocatorias de sus reuniones y las remitirán a los diferentes miembros, así como se responsabilizarán de las actas de las reuniones.
+
+De todo ello remitirán copia al Secretariado del Gobierno, que las archivará y custodiará.
+
+> Se añade por el art. único.3 del Real Decreto 694/2018, de 29 de junio. [Ref. BOE-A-2018-9221](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9221)
+
+## Disposición adicional primera. Comisión General de Secretarios de Estado y Subsecretarios.
+
+La Presidencia de la Comisión General de Secretarios de Estado y Subsecretarios será ejercida por la Vicepresidenta del Gobierno y Ministra de la Presidencia. El Subsecretario de la Presidencia actuará como Secretario de esta Comisión.
+
+## Disposición adicional segunda. Comisiones Interministeriales.
+
+1\. Se suprime la Comisión Interministerial para la Agenda Social, creada por Real Decreto 1676/2010, de 10 de diciembre.
+
+2\. Se crea, adscrita al Ministerio de Asuntos Exteriores y de Cooperación, la Comisión Interministerial para la Cooperación al Desarrollo, como órgano colegiado interministerial de los previstos en el artículo 40 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, a la que corresponden las funciones de seguimiento y propuesta de las diferentes políticas relacionadas con la cooperación al desarrollo.
+
+La Comisión Interministerial para la Cooperación al Desarrollo estará presidida por el Ministro de Asuntos Exteriores y de Cooperación.
+
+La Comisión estará integrada por los vocales, con rango de Secretario de Estado o Subsecretario que se designen en representación de los siguientes departamentos ministeriales: Ministerio de Asuntos Exteriores y de Cooperación, de Hacienda y Administraciones Públicas, de Educación, Cultura y Deporte, de Industria, Energía y Turismo, de Agricultura, Alimentación y Medio Ambiente, de Presidencia, de Economía y Competitividad, y de Sanidad, Servicios Sociales e Igualdad.
+
+El funcionamiento se ajustará a lo dispuesto en materia de órganos colegiados por el capítulo II del título II de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. **(Derogado).**
+
+4\. La Comisión para la Conmemoración del Bicentenario de la Constitución de 1812 será presidida por la Vicepresidenta del Gobierno y Ministra de la Presidencia.
+
+5\. La Comisión Interinstitucional para la Conmemoración del VIII Centenario de la Universidad de Salamanca será presidida por la Vicepresidenta del Gobierno y Ministra de la Presidencia.
+
+> Se deroga el apartado 3 por la disposición derogatoria única del Real Decreto 958/2018, de 27 de julio. [Ref. BOE-A-2018-10654](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10654)
+
+## Disposición adicional tercera. Suplencia de las Presidencias de las Comisiones Delegadas del Gobierno.
+
+En caso de ausencia, vacante o enfermedad del Presidente de las Comisiones Delegadas del Gobierno, en las presididas por el Presidente del Gobierno, la presidencia será asumida por la Vicepresidenta del Gobierno y Ministra de la Presidencia, Relaciones con las Cortes e Igualdad y por los ministros que las integran con carácter permanente según el orden de precedencia. En los casos de las Comisiones Delegadas del Gobierno para Asuntos Económicos, para Política Científica, Tecnológica y de Innovación, para Asuntos Culturales y para Asuntos Migratorios, la presidencia será asumida por la persona titular de la vicepresidencia de la Comisión Delegada y, en su defecto, por los ministros que la integran con carácter permanente, según el orden de precedencia. En el resto de Comisiones Delegadas, la presidencia será asumida por los ministros que las integran, con carácter permanente, según el orden de precedencia.
+
+> Se modifica por el art. único.3 del Real Decreto 1396/2018, de 23 de noviembre. [Ref. BOE-A-2018-16900](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16900)
+
+> Se modifica por el art. único.2 del Real Decreto 1111/2018, de 7 de septiembre. [Ref. BOE-A-2018-12258](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12258)
+
+> Se modifica por el art. único.4 del Real Decreto 694/2018, de 29 de junio. [Ref. BOE-A-2018-9221](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9221)
+
+> Se modifica por el art. único.2 del Real Decreto 594/2018, de 22 de junio. [Ref. BOE-A-2018-8578](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-8578)
+
+> Se modifica por el art. único.4 del Real Decreto 385/2013, de 31 de mayo. [Ref. BOE-A-2013-5771](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5771).
+
+## Disposición adicional cuarta. Supresión de órganos y actualización de las referencias a órganos suprimidos.
+
+1\. Se suprimen las Comisiones Delegadas del Gobierno para Política de Inmigración, para el Cambio Climático, para Política Autonómica y para la Cooperación al Desarrollo.
+
+2\. Las referencias que se contengan en la normativa vigente al Vicepresidente o la Vicepresidencia Primera del Gobierno en cuanto tales se entenderán referidas a la Vicepresidencia del Gobierno.
+
+> Se renumera el apartado 3 como 2 por el art. único.4 del Real Decreto 1396/2018, de 23 de noviembre. [Ref. BOE-A-2018-16900](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16900)
+
+## Disposición adicional quinta. Ministro Portavoz del Gobierno.
+
+El Ministro Portavoz del Gobierno podrá ser convocado a las reuniones de las Comisiones Delegadas del Gobierno cuando, por la naturaleza de las cuestiones a tratar, así lo consideren sus respectivos Presidentes.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en este real decreto, y en particular el Real Decreto 1025/2011, de 15 de julio, por el que se establecen las Comisiones Delegadas del Gobierno.
+
+## Disposición final primera. Modificaciones presupuestarias.
+
+El Ministerio de Hacienda y Administraciones Públicas realizará las modificaciones presupuestarias necesarias para dar cumplimiento a lo previsto en este real decreto.
+
+## Disposición final segunda. Habilitación de desarrollo.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia dictará las disposiciones oportunas para el desarrollo de este real decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 30 de diciembre de 2011.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+MARIANO RAJOY BREY

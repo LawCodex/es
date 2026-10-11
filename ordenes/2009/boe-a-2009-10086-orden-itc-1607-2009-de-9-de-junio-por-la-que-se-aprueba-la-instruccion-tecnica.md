@@ -1,0 +1,568 @@
+---
+title: "Orden ITC/1607/2009, de 9 de junio, por la que se aprueba la Instrucción técnica complementaria 02.2.01 \"Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo\" del Reglamento general de normas básicas de seguridad minera"
+identifier: "BOE-A-2009-10086"
+eli: "https://www.boe.es/eli/es/o/2009/06/09/itc1607"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2009-06-09
+published: 2009-06-17
+in_force_from: 2009-06-18
+last_amended: 2010-07-29
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 146"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-10086"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/1607/2009, de 9 de junio, por la que se aprueba la Instrucción técnica complementaria 02.2.01 "Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo" del Reglamento general de normas básicas de seguridad minera
+
+Por Real Decreto 863/1985, de 2 de abril, se aprobó el Reglamento General de Normas Básicas de Seguridad Minera, (en adelante RGNBSM) previniéndose desarrollo y ejecución mediante Instrucciones técnicas complementarias, cuyo alcance y vigencia se definen en el artículo 2.º del citado real decreto.
+
+Por Orden del Ministerio de Industria y Energía de 22 de marzo de 1988 se aprobaron las Instrucciones técnicas complementarias (en adelante, ITC) de los capítulos II, IV y XIII del Reglamento General de Normas Básicas de Seguridad Minera, entre las cuales se encuentra la ITC 02.2.01 relativa a la reparación de material certificado u homologado. Particularmente, la mencionada ITC 02.2.01 desarrollaba únicamente el artículo 14 del RGNBSM, definiendo los tipos de intervenciones de reparación y los requisitos para la autorización de los talleres distintos a los propios del fabricante del material certificado u homologado.
+
+La nueva situación derivada de la aplicación tanto del marcado CE como consecuencia de las Directivas del Nuevo Enfoque, como de las disposiciones del Real Decreto 1215/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de equipos de trabajo, hace necesario que el desarrollo de algunos artículos del RGNBSM se vea actualizado y que se amplíen y clarifiquen los requisitos aplicables a la instalación, mantenimiento, reparación y de equipos de trabajo, requisitos provenientes tanto de la legislación laboral como de la legislación industrial.
+
+En estas circunstancias, mediante la presente orden se aprueba la ITC 0.2.01 en desarrollo de los artículos 10 a 15 del Reglamento General de Normas Básicas de Seguridad Minera, y se actualizan así los requisitos para la instalación, mantenimiento, reparación e inspección de los equipos de trabajo que forman parte de instalaciones mineras. Además se define un nuevo requisito de inspección periódica para máquinas móviles y semimóviles, a semejanza de lo exigido a las grúas móviles autopropulsadas mediante la Instrucción técnica complementaria MIE-AEM-4 del Reglamento de aparatos de elevación y manutención, cuyo texto modificado y refundido fue aprobado por Real Decreto 837/2003, de 27 de junio.
+
+Teniendo en cuenta esto, junto con la autorización que el artículo 2.º del Real Decreto 863/1985, de 2 de abril, otorga al Ministerio de Industria y Energía, en la actualidad Ministerio de Industria, Turismo y Comercio, para aprobar por orden las instrucciones técnicas complementarias de desarrollo y ejecución de dicho Reglamento General de Normas Básicas de Seguridad Minera, resulta indicado que esta decisión se lleve a cabo por medio de la aprobación de una instrucción técnica complementaria reguladora de la puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo de las industrias mineras.
+
+En la elaboración de la presente orden se ha realizado el preceptivo trámite de audiencia a los interesados y la Comisión de Seguridad Minera ha informado favorablemente.
+
+La presente orden se dicta al amparo de lo dispuesto en el artículo 149.1.25.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases del régimen minero y energético.
+
+En su virtud, dispongo:
+
+## Artículo único. Aprobación de la Instrucción técnica complementaria 02.2.01 «Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo» del Reglamento General de Normas Básicas de Seguridad Minera.
+
+Se aprueba la Instrucción técnica complementaria 02.2.01 «Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo» del Reglamento General de Normas Básicas de Seguridad Minera, cuyo texto se inserta a continuación.
+
+## Disposición transitoria única. Eficacia y aplicación de las especificaciones técnicas.
+
+Las especificaciones técnicas que desarrollen las inspecciones periódicas aplicables a cada tipo de máquina de los establecidos en el apartado 5 de la ITC 02.0.01, producirán efectos a partir de los seis meses de su publicación.
+
+Las máquinas móviles o semimóviles que se encuentren en servicio cuando se inicie la eficacia de la correspondiente especificación técnica, dispondrán de los siguientes plazos para realizar la primera inspección técnica establecida en el apartado 5 de la ITC 02.2.01:
+
+a) Un año para las máquinas con una antigüedad de diez o más años.
+
+b) Dos años para las máquinas con una antigüedad inferior a diez años.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden y, en particular, la Instrucción técnica complementaria 02.2.01 «Reparación de material certificado u homologado», aprobada por Orden del Ministerio de Industria y Energía de 22 de marzo de 1988, por la que se aprueban instrucciones técnicas complementarias de los capítulos II, IV y XIII del Reglamento General de Normas Básicas de Seguridad Minera.
+
+## Disposición final primera. Especificaciones técnicas.
+
+Se habilita a la Dirección General de Política Energética y Minas para adoptar, mediante resolución que se publicará en el «Boletín Oficial del Estado», las especificaciones técnicas básicas que desarrollarán los contenidos de las inspecciones a las que se refiere el apartado 5 de la ITC 02.2.01.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado», con excepción del apartado 4 de la ITC 02.0.01, relativo a talleres autorizados de reparación de elementos, que entrará en vigor al año de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de junio de 2009.–El Ministro de Industria, Turismo y Comercio, Miguel Sebastián Gascón.
+
+## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA 02.2.01 — Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo
+
+1\. Objeto y ámbito de aplicación.
+
+2\. Puesta en servicio de equipos de trabajo.
+
+2.1 Requisitos generales.
+
+2.2 Procedimiento para equipos en su primera puesta a disposición de los trabajadores.
+
+2.3 Procedimientos particulares para equipos que ya han sido puestos anteriormente a disposición de los trabajadores.
+
+3\. Mantenimiento y reparación de equipos en servicio.
+
+3.1 Requisitos generales.
+
+3.2 Requisitos de mantenimiento de equipos en servicio.
+
+3.3 Reparación de elementos de seguridad de equipos.
+
+3.4 Reforma o modificación de equipos.
+
+4\. Talleres habilitados de reparación de elementos de seguridad.
+
+4.1 Generalidades.
+
+4.2 Procedimiento de autorización.
+
+4.3 Requisitos aplicables a los talleres de reparación.
+
+4.4 Marcado de los equipos reparados.
+
+4.5 Certificados de reparación.
+
+5\. Inspección tecnica de maquinaria móvil o semimóvil.
+
+5.1 Inspecciones periódicas.
+
+5.2 Plazos de inspección.
+
+3.3 Resultado de las inspecciones periódicas.
+
+5.4 Registro de inspecciones periódicas.
+
+> Se modifica el apartado 4 del índice por el art. único.1 de la Orden ITC/2060/2010, de 21 de julio. [Ref. BOE-A-2010-12203](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12203)
+
+## 1. Objeto y ámbito de aplicación
+
+Constituye el objeto de la presente Instrucción técnica complementaria (en adelante, ITC) el desarrollo de los artículos 10 a 15 del Reglamento General de Normas Básicas de Seguridad Minera, aprobado por Real Decreto 863/1985, de 2 de abril, con relación a los equipos de trabajo utilizados en actividades mineras, de acuerdo con lo establecido en la legislación vigente aplicable en materia de seguridad industrial y laboral.
+
+Esta ITC es de aplicación a los equipos de trabajo utilizados en actividades mineras, ya sean equipos de trabajo nuevos, usados, alquilados, o pertenecientes a empresas subcontratadas, y que además estén:
+
+a) Evaluados o puestos en conformidad con los requisitos de seguridad y salud previstos en la normativa que incorpora al ordenamiento jurídico interno las normas del Derecho comunitario europeo del ámbito de la seguridad industrial y que disponen el marcado CE.
+
+b) Certificados y homologados de acuerdo con lo establecido en el capítulo XII del Reglamento General de Normas Básicas de Seguridad Minera y en la ITC 12.0.01 «Evaluación de la conformidad de productos para uso en minería» (aprobada por Orden ITC/1683/2007, de 29 de mayo, por la que se modifican las instrucciones técnicas complementarias 09.0.02, 12.0.01 y 12.0.02, y se deroga la instrucción técnica complementaria 12.0.04, del Reglamento General de Normas Básicas de Seguridad Minera) que lo desarrolla, y/o
+
+c) Evaluados o puestos en conformidad con el artículo 3.1.b) y con las disposiciones del anexo I del Real Decreto 1215/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud para la utilización por los trabajadores de los equipos de trabajo.
+
+Esta ITC no es de aplicación a los vehículos homologados y matriculados para la circulación por la red de carreteras del Estado utilizados para el transporte exclusivo de personas o de mercancías por carretera.
+
+## 2. Puesta en servicio de equipos de trabajo
+
+2.1 Requisitos generales.–Para la puesta a disposición de los trabajadores de equipos de trabajo, y antes de su puesta en servicio, el empresario deberá asegurarse de que adquiere y utiliza únicamente equipos que satisfagan todos los requisitos y disposiciones legales que les sean de aplicación y, en particular, las disposiciones mínimas de seguridad y salud para la utilización de los equipos de trabajo empleados por los trabajadores en el trabajo establecidas en el Real Decreto 1215/1997, de 18 de julio.
+
+Para ello, es necesario que disponga de la documentación técnica que permita una correcta y segura instalación, utilización y mantenimiento. Esta documentación deberá estar redactada en una lengua oficial del área geográfica a la que se destina el equipo.
+
+2.2 Procedimiento para equipos en su primera puesta a disposición de los trabajadores.–En el caso de equipos nuevos o evaluados como nuevos, el empresario deberá disponer de los siguientes documentos, los cuales deberán ser tenidos en cuenta en la elaboración de la documentación establecida en el artículo 23 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:
+
+a) El nombre o la marca de identificación y domicilio del suministrador o representante.
+
+b) La denominación e identificación del equipo de trabajo.
+
+c) La declaración de conformidad CE en español (y su versión original si procede), la declaración de conformidad nacional, o la resolución de homologación conforme a los procedimientos definidos en la ITC 12.0.01 «Evaluación de la conformidad de productos para uso en minería» del Reglamento General de Normas Básicas de Seguridad Minera, en virtud de lo establecido en el artículo 3.1.a) del Real Decreto 1215/1997, de 18 de julio.
+
+d) Los documentos que permitan acreditar que el equipo cumple con lo dispuesto en el artículo 3.1.b) del Real Decreto 1215/1997, de 18 de julio.
+
+e) Los documentos que permitan acreditar que se ha dado cumplimiento a los apartados 2, 3 y 4 del artículo 3 del Real Decreto 1215/1997, de 18 de julio.
+
+f) El plan de mantenimiento establecido y los modelos de las fichas de inspección y comprobación previstas, de acuerdo con lo dispuesto en el apartado 3.1 de la parte A del anexo del Real Decreto 1389/1997, de 5 de septiembre, por el que se aprueban las disposiciones mínimas destinadas a proteger la seguridad y la salud de los trabajadores en las actividades mineras, con el fin de garantizar que los equipos de trabajo se conservan durante todo el tiempo de utilización en unas condiciones tales que satisfagan las disposiciones del anexo I del Real Decreto 1215/1997, de 18 de julio, en virtud de lo establecido en el artículo 3.5 de dicho real decreto.
+
+g) Los documentos que permitan acreditar que se ha realizado la comprobación inicial del equipo exigida por el artículo 4.1 del Real Decreto 1215/1997, de 18 de julio, así como el procedimiento a seguir para dar cumplimiento a los apartados 2, 3, 4 y 5 del artículo 4 del citado real decreto.
+
+h) La evidencia de que el empresario ha proporcionado a los trabajadores la formación e información adecuada y de que ha garantizado su participación y consulta, en los términos establecidos en los artículos 5 y 6 del Real Decreto 1215/1997, de 18 de julio.
+
+2.3 Procedimientos particulares para equipos que ya han sido puestos anteriormente a disposición de los trabajadores.–A los efectos de la presente ITC, dentro de los equipos de trabajo que ya han sido puestos anteriormente a disposición de los trabajadores (equipos usados) se encuentran los siguientes:
+
+1) Equipos usados cuya fecha de primera comercialización fue posterior a la entrada en vigor de las directivas europeas sobre comercialización en el ámbito de la seguridad industrial y, por lo tanto, sujetos al marcado CE.
+
+2) Equipos usados sujetos a requisitos de utilización establecidos en la ITC 12.0.01 «Evaluación de la conformidad de productos para uso en minería» del Reglamento General de Normas Básicas de Seguridad Minera.
+
+3) Equipos usados cuya fecha de primera comercialización fue anterior a la entrada en vigor de las directivas europeas sobre comercialización en el ámbito de la seguridad industrial y, por lo tanto, no sujetos al marcado CE.
+
+2.3.1 Equipos que están en conformidad con los requisitos vigentes de puesta en el mercado.– Para la puesta a disposición de los trabajadores de los equipos de trabajo indicados en los párrafos 1) y 2) del apartado 2.3, además de los documentos referenciados en el apartado 2.2 anterior, donde la declaración de conformidad o la resolución de homologación del párrafo c) son las que se requerían en el momento de su primera comercialización, el empresario deberá disponer de los siguientes documentos:
+
+a) Evidencia de la disponibilidad del historial de intervenciones de reparación y mantenimiento y
+
+b) Declaración del suministrador en la que se asegure que:
+
+i) el equipo ha sido mantenido al menos en las condiciones establecidas por el fabricante original y
+
+ii) que no se han introducido modificaciones o reformas en el mismo.
+
+En el caso de que no disponga de estos dos documentos, el empresario someterá el equipo a una inspección detallada por parte de una de las entidades recogidas en el apartado 3.3 de esta ITC o, en el caso de maquinaria móvil o semimóvil, por parte de un organismo de control autorizado para inspección técnica de acuerdo con lo establecido en el apartado 5 de esta ITC, que emita, junto con el informe de inspección, una declaración en la que se asegure que el equipo ha sido mantenido, al menos, en las condiciones establecidas por el fabricante, y que no se han efectuado reformas o modificaciones en el mismo.
+
+2.3.2 Equipos que no están en conformidad con los requisitos vigentes de puesta en el mercado.–Sin perjuicio del cumplimiento de las disposiciones mínimas establecidas en el anexo I del Real Decreto 1215/1997, de 18 de julio, los equipos de trabajo indicados en el subapartado 3) del apartado 2.3 de esta ITC solo podrán ponerse a disposición de los trabajadores si cumplen los siguientes requisitos:
+
+a) Su primera comercialización se produjo en un Estado miembro del Espacio Económico Europeo antes del final del período transitorio de las Directivas que le son de aplicación, y
+
+b) En su primera comercialización, el equipo cumplía los requisitos de comercialización nacionales del Estado miembro de la Unión Europea, y
+
+c) No ha sido objeto de retirada obligatoria del servicio por imposición de la autoridad competente del Estado miembro del Unión Europea del que provienen.
+
+Para la puesta a disposición de los trabajadores de estos equipos de trabajo, además de los documentos referenciados en el apartado 2.3.1 anterior, a excepción de los previstos en el subapartado 2.2.c), el empresario debe disponer de los siguientes:
+
+i) Documentos donde se establecen las limitaciones intrínsecas de utilización que condicionan su posterior puesta a disposición de los trabajadores (por ejemplo, protección aportada por la cabina, IP de los equipos eléctricos, seguridad de los motores de combustión interna, categoría de conformidad para los equipos para atmósferas explosivas, etc.).
+
+ii) Acreditación del cumplimiento de las circunstancias señaladas en los subapartados a), b) y c) anteriores.
+
+> Se modifica el apartado 2.3.1 por el art. único.2 de la Orden ITC/2060/2010, de 21 de julio. [Ref. BOE-A-2010-12203](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12203)
+
+## 3. Mantenimiento y reparación de equipos en servicio
+
+3.1 Requisitos generales.–Las intervenciones de mantenimiento y/o reparación solo podrán ser efectuadas por personal cualificado y autorizado por el empresario, que además adoptará las medidas necesarias para documentar las actuaciones de reparación y mantenimiento realizadas a lo largo de la vida del equipo.
+
+3.2 Requisitos de mantenimiento de equipos en servicio.–El empresario adoptará las medidas necesarias para realizar un mantenimiento adecuado de todos los equipos, con el fin de que se conserven durante todo el tiempo de utilización en unas condiciones que satisfagan todas las disposiciones de seguridad y de uso. Las operaciones de revisión y las de sustitución de elementos o componentes indicados por el fabricante se considerarán, a efectos de esta ITC, como operaciones de mantenimiento.
+
+Este mantenimiento se podrá realizar por el empresario, siempre siguiendo las instrucciones del fabricante y las condiciones de utilización y teniendo en cuenta cualquier otra circunstancia normal o excepcional que pueda influir en su deterioro o desajuste.
+
+La documentación técnica para la correcta ejecución del mantenimiento es la que acompaña al suministro del material, ya se trate de un equipo comercializado siguiendo las reglas nacionales de certificación u homologación, como de un equipo comercializado siguiendo las reglas establecidas en las Directivas europeas que son de aplicación a los equipos de trabajo con marcado CE, o a sus componentes.
+
+Para la determinación de los documentos que deben acompañar los suministros antes de su puesta en servicio, así como aquellos que se deben establecer durante su vida operativa, se podrá utilizar la norma UNE-EN 13460 que proporciona directrices generales.
+
+La aplicación de nuevos elementos de seguridad sobre equipos en servicio se considera una mejora, tal y como se define en la norma UNE-EN 13306 y, por tanto, se documentará como una operación de mantenimiento.
+
+Cuando el empresario no disponga del manual de instrucciones adoptará las medidas para solicitar al fabricante del equipo o a su distribuidor o servicio técnico autorizado, una copia del mismo al menos en castellano. En ausencia de las indicaciones del fabricante, el empresario podrá adoptar un plan de mantenimiento específicamente elaborado por una entidad de las definidas en el apartado 4 de esta ITC, la cual asumirá la responsabilidad como fabricante. La redacción de dicho plan de mantenimiento deberá ajustarse a los requisitos correspondientes en la normativa vigente aplicable.
+
+3.3 Reparación de elementos de seguridad de equipos.–La reparación de elementos que cumplen una función de seguridad y que el fabricante ha incorporado a un equipo de trabajo sin indicar al usuario su procedimiento de reparación, sólo podrá efectuarse:
+
+a) Por los servicios de reparación propios del fabricante, o por servicios técnicos autorizados bajo el control y responsabilidad del fabricante original,
+
+b) Por un taller habilitado para la reparación de los elementos de seguridad, según se detalla en el apartado 4 de esta ITC.
+
+Si no fuera posible seguir un procedimiento de los descritos anteriormente, las reparaciones de elementos de seguridad podrán ser aprobadas por la autoridad minera competente, previo informe de verificación por una entidad colaboradora de la Administración sobre la adecuación del equipo a las condiciones originales.
+
+La autoridad minera competente podrá someter cualquier reparación de elementos de seguridad a su verificación unitaria por una entidad colaboradora de la Administración, que emitirá un certificado/informe de control sobre la adecuación del equipo a las condiciones originales.
+
+Son reparaciones de elementos de seguridad, entre otras, las siguientes:
+
+a) Reparación por mecanización de juntas antideflagrantes.
+
+b) Cierre mediante soldadura de una grieta en una envolvente antideflagrante.
+
+c) Rebobinado de motores eléctricos.
+
+d) Cambio total o parcial de elementos de sistemas hidráulicos/neumáticos de dirección o frenado de equipos móviles, por otros no indicados por el fabricante.
+
+e) Reparación de estructuras antivuelco y de protección contra caída de objetos.
+
+f) Reparación de trabas de seguridad de sistemas eléctricos, hidráulicos y neumáticos.
+
+g) Reparación de elementos estructurales.
+
+3.4 Reforma o modificación de equipos.–Es la intervención sobre un equipo de trabajo cuyo resultado es la modificación de las condiciones previstas de utilización definidas por el fabricante.
+
+Son intervenciones de reforma, entre otras, las siguientes:
+
+a) Minador al que se le modifica la cabeza de corte o el sistema de anclaje para trabajar en galerías de mayor sección o pendiente.
+
+b) Sostenimiento autodesplazable al que se le cambian los componentes hidráulicos de control y mando para actuaciones remotas.
+
+c) Cambio del tipo de bobinado de un motor eléctrico.
+
+d) Cambio de la válvula limitadora de presión de un elemento de sostenimiento, por otra de características hidráulicas diferentes.
+
+e) Ejecución por mecanizado del acoplamiento de una entrada de cable en una envolvente antideflagrante.
+
+f) Modificación de los componentes internos de un cofre de tajo.
+
+g) Cambio del sistema de tensado de una cinta transportadora.
+
+La reforma de cualquier equipo de trabajo se considerará como un equipo de nuevo diseño y, por lo tanto, se verá sometido a las reglas establecidas en las Directivas que en ese momento le sean de aplicación y a las establecidas en la ITC 12.0.01 «Evaluación de la conformidad de productos para uso en minería» del Reglamento General de Normas Básicas de Seguridad Minera.
+
+Se entiende que lo anterior es de aplicación incluso cuando la reforma la realiza el propio utilizador del equipo.
+
+> Se modifica el apartado 3.3 por el art. único.3 de la Orden ITC/2060/2010, de 21 de julio. [Ref. BOE-A-2010-12203](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12203)
+
+## 4. Talleres habilitados de reparación de elementos de seguridad.
+
+4.1 Generalidades.
+
+Los talleres de reparación de elementos de seguridad referidos en el apartado 3.3.b) de esta ITC deberán presentar, previo al inicio de la actividad, ante el órgano competente de la comunidad autónoma en la que se establezcan, una declaración responsable en la que el titular del taller o su representante legal manifieste que cumplen los requisitos exigidos por esta ITC, que disponen de la documentación que así lo acredita y que se comprometen a mantenerlos durante la vigencia de la actividad. La declaración responsable se podrá presentar utilizando el modelo con el contenido mínimo establecido en el anexo II de esta ITC.
+
+La presentación de la declaración habilita al taller de reparación para el ejercicio de la actividad desde el momento de su presentación, en todo el territorio nacional por tiempo indefinido, y podrá realizarse por medios electrónicos.
+
+4.2 Requisitos de los talleres de reparación de elementos de seguridad.
+
+Los talleres de reparación deberán cumplir los siguientes requisitos:
+
+a) Disponer de un certificado de conformidad emitido por un laboratorio oficial acreditado reconocido por la Dirección General de Política Energética y Minas del Ministerio de Industria, Turismo y Comercio, conforme a los requisitos establecidos en el apartado 4.3. La validez indefinida de este certificado estará condicionada a la superación de auditorías periódicas de seguimiento cada tres años.
+
+b) Tener suscrita una póliza de seguro que cubra los riesgos de su responsabilidad por una cuantía mínima de 300.000 euros, sin que la cuantía de la póliza limite dicha responsabilidad. Dicha cuantía quedará anualmente actualizada en función del índice de precios al consumo.
+
+El responsable del taller deberá comunicar a la autoridad minera cualquier modificación de los requisitos a) y b) anteriores.
+
+La autoridad minera podrá requerir que algunas o todas las reparaciones efectuadas sean sometidas a dictamen de un laboratorio oficial acreditado.
+
+La autoridad minera comunicará a la Dirección General de Política Energética y Minas, las declaraciones responsables recibidas, al objeto de mantener un registro general de talleres de reparación habilitados.
+
+4.3 Requisitos aplicables a los talleres de reparación.
+
+Para la verificación del cumplimiento de los requisitos aplicables a los talleres de reparación y para la posterior emisión del certificado de conformidad que se establece en el apartado 4.2.a) de esta ITC por un laboratorio oficial acreditado, se seguirá el procedimiento de verificación establecido en el anexo III de esta ITC.
+
+4.3.1 Gestión del taller.
+
+El taller deberá aplicar un sistema de gestión, que podrá llevarse a cabo por medios electrónicos, que garantice la emisión y archivo durante cinco años de todos los registros de reparación, incluyendo al menos los siguientes:
+
+a) Los diagnósticos (inspección en recepción) y definición del alcance de la reparación necesaria.
+
+b) La identificación de las reparaciones realizadas y su naturaleza.
+
+c) La lista de las piezas de recambio utilizadas.
+
+d) Los registros de controles y pruebas finales.
+
+e) Copia de los certificados de reparación y placas de marcado emitidos.
+
+4.3.2 Trabajos subcontratados.
+
+Los trabajos subcontratados deberán ser claramente especificados. En todo caso, el taller habilitado deberá siempre realizar el conjunto de los controles y pruebas y confeccionar el expediente de reparación, conservando siempre la responsabilidad del equipo reparado.
+
+4.3.3 Documentación externa.
+
+Los talleres de reparación de elementos de seguridad deberán disponer de los documentos tales como certificados de conformidad, de control, las resoluciones de aprobación u homologación, la declaración de conformidad, y/o el certificado de examen CE de tipo. Es recomendable además que disponga de los documentos descriptivos vinculados al documento oficial (prospecto, esquemas, planos oficiales, características técnicas, funcionamiento, ajustes, etc.). En caso contrario, se deberá disponer de los medios técnicos y humanos necesarios para reproducir los requisitos básicos aplicables y evaluar la conformidad con las normas de referencia en vigor.
+
+Los antecedentes de las reparaciones deberán ser consultados al usuario.
+
+4.4 Marcado de los equipos reparados.
+
+La información relevante de la reparación realizada sobre los elementos de seguridad deberá ser indicada sobre el equipo reparado, ya sea mediante una placa de reparación pegada, remachada o soldada, o en forma de etiqueta autoadhesiva de elevada resistencia.
+
+El marcado debe ser legible e indeleble y deberá incluir como mínimo:
+
+a) la identificación del taller de reparación.
+
+b) la fecha de la reparación o revisión y
+
+c) la referencia de reparación (código de intervención, expediente, orden de trabajo, etc.).
+
+El equipo reparado deberá mantener el marcado original del fabricante y el marcado de la última reparación efectuada.
+
+4.5 Certificados de reparación.
+
+El taller deberá emitir con cada unidad reparada un certificado de reparación que contenga al menos la siguiente información:
+
+a) Número de certificado (codificado cronológicamente, por ejemplo: orden de intervención/año).
+
+b) Nombre del taller reparador.
+
+c) Dirección del reparador.
+
+d) Designación del equipo reparado.
+
+e) Nombre del fabricante.
+
+f) Número de identificación/serie de la unidad (placa de características original).
+
+g) Referencia del expediente de trabajo/orden de reparación.
+
+h) Fecha de recepción del equipo.
+
+i) Fecha de finalización de los trabajos.
+
+j) Breve descripción de las reparaciones realizadas.
+
+k) Declaración de conformidad de la reparación.
+
+4.6 Libre prestación.
+
+1\. Los talleres de reparación de elementos de seguridad, legalmente establecidos en cualquier otro Estado miembro, que deseen ejercer la actividad en territorio español, en régimen de libre prestación, deberán presentar, previo al inicio de la misma, una única declaración responsable ante el órgano competente de la comunidad autónoma donde inicien la actividad, en la que el titular de la empresa o su representante legal manifieste que cumple los requisitos para el ejercicio de la actividad establecidos en el apartado 4.2.b) de esta ITC, los datos que identifiquen que están establecidos legalmente en un Estado miembro de la Unión Europea para ejercer dicha actividad y declaración de la inexistencia de prohibición alguna, en el momento de la declaración, que le impida ejercer la actividad en el Estado miembro de origen.
+
+2\. A estos efectos, cuando el taller de reparación de elementos de seguridad ya esté cubierto por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecido, se considerará cumplida la exigencia establecida en el citado apartado 4.2.b). Si la equivalencia con los requisitos es sólo parcial, podrá exigirse la ampliación del seguro u otra garantía hasta completar las condiciones exigidas.
+
+3\. La presentación de dicha declaración responsable habilita para el ejercicio de la actividad en todo el territorio nacional, y podrá realizarse por medios electrónicos.
+
+> Se modifica por el art. único.4 de la Orden ITC/2060/2010, de 21 de julio. [Ref. BOE-A-2010-12203](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12203)
+
+## 5. Inspección técnica de maquinaria móvil o semimóvil
+
+5.1 Inspecciones periódicas.–Los equipos de trabajo del tipo maquinas móviles o semimóviles, se deberán someter a una inspección técnica de maquinaria por parte de una entidad colaboradora de la Administración (en adelante, ECA), al objeto de verificar el resultado de las operaciones de reparación y mantenimiento realizadas. Para la realización de dicha inspección, la Dirección General de Política Energética y Minas elaborará las especificaciones técnicas necesarias, donde se definan los requisitos y puntos de inspección para cada tipo de equipo así como los procedimientos operativos objetivos y los criterios de contraste de éstos, con objeto de poder asegurar su repetibilidad y reproducibilidad.
+
+El certificado de conformidad emitido por la ECA que realizó la inspección se conservará por el empresario a disposición de la autoridad minera competente.
+
+Todo ello sin perjuicio de las inspecciones preceptivas al equipo con arreglo a su categoría como vehículo autopropulsado para la circulación por vías públicas.
+
+5.2 Plazos de inspección.–Las máquinas móviles o semimóviles realizarán la primera inspección técnica a los tres años desde su puesta en servicio. Adicionalmente, serán inspeccionadas periódicamente con los plazos indicados a continuación:
+
+a) Máquinas hasta seis años de antigüedad: Cada tres años.
+
+b) Máquinas de más de seis y hasta diez años de antigüedad: Cada dos años.
+
+c) Máquinas de más de diez años de antigüedad o que no acrediten su antigüedad: Cada año.
+
+Para determinar la antigüedad de una máquina, se tomará la fecha de su primera utilización que deberá acreditarse documentalmente y, en su defecto, la fecha de fabricación.
+
+En las inspecciones periódicas se deberán verificar los conceptos que figuran en la especificación técnica correspondiente.
+
+Toda máquina conforme con las prescripciones establecidas de su correspondiente especificación técnica, deberá colocar en una parte fácilmente visible de la cabina y bajo la responsabilidad de la ECA que realice la inspección, una placa adhesiva de color azul, según modelo del anexo, con caracteres grabados en color blanco, de 105 × 75 mm, en la que figuren los siguientes datos:
+
+a) ITMM.
+
+b) Referencia de la entidad colaboradora de la Administración y número del certificado de inspección.
+
+c) Número de serie (o, en su caso, del bastidor).
+
+d) Fecha de la próxima inspección: (antes de: XXXX-XX – año y mes).
+
+5.3 Resultado de las inspecciones periódicas.–Se establecerán los siguientes resultados para las inspecciones periódicas:
+
+a) Favorable: La máquina no presenta deficiencias o sólo presenta deficiencias que no tienen incidencia significativa sobre la seguridad y la salud de los trabajadores. La máquina puede ser puesta a disposición de los trabajadores.
+
+b) Favorable con deficiencias: La máquina sólo presenta deficiencias de carácter leve, pero cuya evolución puede dar lugar a deficiencias que comprometan la seguridad y/o la salud de los trabajadores. La máquina puede ser puesta a disposición de los trabajadores, si bien se deberán subsanar estas deficiencias antes de cumplirse el plazo habitual establecido para la siguiente inspección.
+
+c) Desfavorable con deficiencias: La máquina presenta deficiencias que comprometen la seguridad y/o la salud de los trabajadores. La máquina no puede ser puesta a disposición de los trabajadores hasta la subsanación de las deficiencias mediante las correspondientes intervenciones de mantenimiento y/o reparación, de acuerdo a lo establecido en los apartados 3.1 y 3.2 de esta ITC. Se requerirá una nueva inspección con resultado favorable o favorable con deficiencias, para su puesta de nuevo en servicio.
+
+d) Negativo: La máquina presenta deficiencias que afectan a los sistemas o elementos de seguridad principales. Se establecerá la parada inmediata de la máquina hasta la subsanación de las deficiencias mediante la correspondiente reparación, de acuerdo a lo establecido en el apartado 3.3 de esta ITC. Se requerirá una nueva inspección con resultado favorable o favorable con deficiencias, para su puesta de nuevo en servicio.
+
+5.4 Registro de inspecciones periódicas.–El empresario debe disponer de un registro de las máquinas en servicio incluido en los documentos que se especifican en el apartado 2 de esta ITC.
+
+## ANEXO — Modelo de la placa adhesiva
+
+1\. Dimensiones de la placa: 105 x 75 mm.
+
+2\. Tamaño de las letras:
+
+| Llamada | Altura (mm) |
+|---|---|
+| 1 | 2 |
+| 2 | 4 |
+| 3 | 10 |
+| 4 | 7 |
+
+3\. Configuración de la placa:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/146/10086_09710.png)
+
+## ANEXO II — Modelo de declaración responsable relativa al cumplimiento de los requisitos establecidos para los talleres de reparación de elementos de seguridad
+
+<table>
+<tbody>
+<tr>
+<td colspan="10">
+<p>DATOS DEL SOLICITANTE</p>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<p>APELLIDOS Y NOMBRE</p>
+</td>
+<td colspan="3">
+<p>DNI/NIF/NIE</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>REPRESENTANDO A LA EMPRESA</p>
+</td>
+<td colspan="6">
+<p>EN CALIDAD DE</p>
+</td>
+</tr>
+<tr>
+<td colspan="8">
+<p>DIRECCIÓN</p>
+</td>
+<td colspan="2">
+<p>C.P.</p>
+</td>
+</tr>
+<tr>
+<td colspan="6">
+<p>POBLACIÓN</p>
+</td>
+<td colspan="4">
+<p>PROVINCIA / PAÍS</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>TELÉFONO<br> FAX</p>
+</td>
+<td colspan="6">
+<p>CORREO ELECTRÓNICO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>DOMICILIO<br> A EFECTOS<br> DE NOTIFICACIÓN</p>
+</td>
+<td colspan="8">
+<p>DIRECCIÓN</p>
+</td>
+<td>
+<p>C.P.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>POBLACIÓN</p>
+</td>
+<td colspan="5">
+<p>PROVINCIA / PAÍS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>TELÉFONO</p>
+</td>
+<td>
+<p>FAX</p>
+</td>
+<td colspan="7">
+<p>CORREO ELECTRÓNICO</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Al objeto de obtener la habilitación como taller de reparación de elementos de seguridad, en virtud de lo establecido en la Instrucción técnica complementaria 02.2.01 «Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo» del Reglamento general de normas básicas de seguridad minera, aprobada por la Orden ITC/1607/2009, de 9 de junio, la empresa arriba reseñada, bajo su personal responsabilidad,
+
+DECLARA
+
+1\. Que cumple todos los requisitos establecidos en el apartado 4 de la Instrucción técnica complementaria 02.2.01 «puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo» del Reglamento general de normas básicas de seguridad minera, aprobada por Orden ITC/1607/2009, de 9 de junio.
+
+2\. Que disponen de la documentación que así lo acredita.
+
+3\. Que se comprometen a mantener dichos requisitos durante la vigencia de la actividad.
+
+Y para que así conste, y a los efectos de la oportuna habilitación como taller de reparación de elementos de seguridad, expide la presente declaración.
+
+En .................., a ......... de ..................... de 201....
+
+Sello de la empresa y firma autorizada
+
+Sr. Director …………………………….
+
+> Se añade por el art. único.5 de la Orden ITC/2060/2010, de 21 de julio. [Ref. BOE-A-2010-12203](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12203)
+
+## ANEXO III — Procedimiento de verificación de “Talleres de reparación de elementos de seguridad”
+
+1\. Objeto.
+
+Este procedimiento determina los requisitos generales objeto de verificación mediante auditoría, por parte del laboratorio oficial acreditado reconocido por la Dirección General de Política Energética y Minas del Ministerio de Industria, Turismo y Comercio, de los talleres de reparación de elementos de seguridad y posterior emisión del certificado de conformidad, en virtud de lo establecido en los apartados 4.2 y 4.3 de la Instrucción técnica complementaria 02.2.01 «Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo» del Reglamento general de normas básicas de seguridad minera, aprobada por Orden ITC/1607/2009, de 9 de junio.
+
+2\. Requisitos de los talleres de reparación de elementos de seguridad.
+
+1\. Los talleres de reparación de elementos de seguridad referidos en el apartado 4 de la Instrucción técnica complementaria 02.2.01 «Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo» del Reglamento general de normas básicas de seguridad minera, aprobada por Orden ITC/1607/2009, de 9 de junio, deberán disponer de la documentación descriptiva del mismo en la que se especifique al menos lo siguiente:
+
+i) El alcance de las actividades de reparación.
+
+ii) Sus recursos y equipos de trabajo y de comprobación.
+
+iii) La formación del personal.
+
+iv) Las normas operativas técnicas y de seguridad en el trabajo, aplicables en las reparaciones de cada material, y
+
+v) La disponibilidad de la documentación original (libros de reparación, certificados, informes de ensayos, etc.) de los mismos, que podrá llevarse a cabo mediante medios electrónicos.
+
+2\. Adicionalmente, los talleres de reparación de elementos de seguridad deberán disponer de un sistema de calidad basado en los siguientes principios generales contenidos en la serie de Normas europeas para la gestión de la calidad y el aseguramiento de la calidad:
+
+a) Disponibilidad de un Manual de Calidad y/o de procedimientos escritos o documentos similares, en donde se recojan de forma clara los medios arbitrados para el cumplimiento con todos los aspectos desarrollados en los puntos siguientes.
+
+b) Definición clara de responsabilidades, autoridad y vías de comunicación de todo el personal que dirija, efectúe o verifique tareas que tengan incidencia sobre el control de calidad.
+
+c) Establecimiento de un sistema claro de control, aprobación y revisión, o modificación, de todos los documentos que tengan incidencia sobre el control de calidad (en particular Manual de Calidad y/o Procedimientos o documentos similares; registros y archivos de resultados de ensayos, verificaciones y medidas, y calibración de equipos). Además se definirá el período mínimo de archivos de los citados documentos.
+
+d) Establecimiento de los procedimientos necesarios para la identificación y trazabilidad de los productos reparados, incluso en las fases intermedias de reparación.
+
+e) Definición concisa de los controles y ensayos a realizar a los elementos de seguridad reparados, así como los criterios a aplicar.
+
+f) Se mantendrá al día un listado inventario de todos los equipos de medida y ensayo disponibles, indicándose en el mismo, cuando aplique, las fechas de la última y siguiente calibración y si ésta es interna o externa. Este inventario podrá ser gestionado por medios electrónicos. Caso de ser interna se indicará el procedimiento seguido. En concreto el taller deberá disponer de los equipos necesarios para la realización de las verificaciones y ensayos individuales marcados en el Certificado de Conformidad, en su caso.
+
+g) Se deberán arbitrar los medios documentales oportunos para asegurar que los controles (inspecciones y/o ensayos) son realizados con instrumentos calibrados y con la incertidumbre necesaria.
+
+h) Se establecerá claramente un procedimiento que asegure el conocimiento del estado de la reparación del elemento de seguridad.
+
+i) Se deberán establecer procedimientos sobre el tratamiento de las no conformidades en relación con la reparación realizada, teniendo en cuenta las causas de las mismas y sus posibles correcciones.
+
+j) Se establecerá un sistema periódico de controles internos para la observancia de todos los aspectos incluidos en el Manual de Calidad y/o Procedimientos.
+
+Los resultados del control serán documentados y archivados junto con las acciones correctoras tomadas y su posterior solución. Esta documentación y archivo podrá ser gestionada por medios electrónicos.
+
+k) En caso de subcontratación de ensayos, el taller de reparación deberá asegurarse que el subcontratado cumple con los aspectos aplicables de esta especificación técnica, manteniendo como propio el registro documental correspondiente.
+
+Todos los registros relativos al control de calidad de los elementos de seguridad reparados deberán conservarse durante un periodo mínimo de cinco años, estando a disposición del laboratorio oficial acreditado. Este registro podrá ser gestionado por medios electrónicos.
+
+l) Cuando proceda, deberá estar documentada la necesidad de formación y adiestramiento del personal que realice tareas específicas, conservando constancia de los registros que acrediten la necesaria formación.
+
+En las auditorías realizadas a los talleres de reparación de elementos de seguridad, con los criterios expuestos anteriormente, se tendrá en cuenta la normativa vigente aplicable correspondiente.
+
+En caso necesario, el laboratorio oficial acreditado podrá realizar los ensayos o verificaciones que estime oportunas sobre un modelo reparado, para comprobar que se cumplen los requisitos establecidos en la normativa correspondiente.
+
+> Se añade por el art. único.6 de la Orden ITC/2060/2010, de 21 de julio. [Ref. BOE-A-2010-12203](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12203)

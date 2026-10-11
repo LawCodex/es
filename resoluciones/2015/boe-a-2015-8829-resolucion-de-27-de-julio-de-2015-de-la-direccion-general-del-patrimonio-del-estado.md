@@ -1,0 +1,46 @@
+---
+title: "Resolución de 27 de julio de 2015, de la Dirección General del Patrimonio del Estado, por la que delegan competencias relativas al procedimiento de declaración de la Administración General del Estado como heredera abintestato y a la administración y liquidación de la masa hereditaria"
+identifier: "BOE-A-2015-8829"
+eli: "https://www.boe.es/eli/es/res/2015/07/27/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2015-07-27
+published: 2015-08-05
+in_force_from: 2015-08-06
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8829"
+retrieved: 2026-10-11
+---
+
+# Resolución de 27 de julio de 2015, de la Dirección General del Patrimonio del Estado, por la que delegan competencias relativas al procedimiento de declaración de la Administración General del Estado como heredera abintestato y a la administración y liquidación de la masa hereditaria
+
+La Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, ha modificado la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, atribuyendo a las Administraciones llamadas a la herencia en calidad de herederos abintestato la competencia para declarar su condición de tales.
+
+El procedimiento debe instruirse por las Delegaciones de Economía y Hacienda y resolverse por el Director General del Patrimonio del Estado que, consecuentemente, es también el órgano que debe acordar su incoación. El Director General es también el órgano competente para acordar, con carácter general, la incorporación a la masa hereditaria de aquellos bienes del causante que se localicen con posterioridad a la declaración de heredero.
+
+Para contribuir a una mayor agilidad en la tramitación del procedimiento administrativo para la declaración de la Administración General del Estado como heredera abintestato y en la gestión y liquidación del caudal, se considera conveniente delegar en los Delegados de Economía y Hacienda las competencias para acordar la incoación del procedimiento y para incorporar bienes del causante a la masa del abintestato. Por otra parte, al igual que ocurre en los procedimientos de investigación de bienes, se considera oportuno delegar en el Subdirector General del Patrimonio del Estado la competencia para resolver el expediente.
+
+En su virtud, de conformidad con lo dispuesto en el artículo 13 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y previa aprobación de la Subsecretaria de Hacienda y Administraciones Públicas, según lo establecido en la Disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, he resuelto:
+
+## Primero. Delegación de competencias en el Subdirector General del Patrimonio del Estado.
+
+Se delega en el titular de la Subdirección General del Patrimonio del Estado la competencia para resolver el procedimiento de declaración de heredero abintestato a favor del Estado prevista en el apartado 6 del artículo 20 bis de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+## Segundo. Delegación de competencias en los Delegados de Economía y Hacienda.
+
+Se delegan en los Delegados de Economía y Hacienda las siguientes competencias:
+
+1\. En relación con los procedimientos de declaración de herederos abintestato que les corresponda instruir, la competencia para incoar el procedimiento o la improcedencia de acordar su inicio, prevista en el apartado 1 del artículo 20 bis de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+2\. En relación con las herencias abintestato que les corresponda liquidar, la competencia para incoar y resolver el procedimiento de incorporación al caudal hereditario de los bienes y derechos que se identifiquen con posterioridad a la declaración de la Administración General del Estado como heredera abintestato, prevista en el apartado 2 del artículo 20 ter de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+## Tercero. Entrada en vigor.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 27 de julio de 2015.–El Director General del Patrimonio del Estado, Juan Antonio Martínez Menéndez.

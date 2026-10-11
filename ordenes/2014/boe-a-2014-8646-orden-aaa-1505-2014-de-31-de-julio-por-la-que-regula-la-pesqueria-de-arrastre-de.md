@@ -1,0 +1,916 @@
+---
+title: "Orden AAA/1505/2014, de 31 de julio, por la que regula la pesquería de arrastre de fondo, en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal"
+identifier: "BOE-A-2014-8646"
+eli: "https://www.boe.es/eli/es/o/2014/07/31/aaa1505"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2014-07-31
+published: 2014-08-11
+in_force_from: 2014-08-12
+last_amended: 2022-03-03
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 194"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-8646"
+retrieved: 2026-10-11
+---
+
+# Orden AAA/1505/2014, de 31 de julio, por la que regula la pesquería de arrastre de fondo, en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal
+
+Esta norma pasa a denominarse **"Orden AAA/1505/2014, de 31 de julio, por la que regula la pesquería de arrastre de fondo, en aguas de la subzona 9 del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal"**, según establece el art. 2.1 de la Orden APA/144/2022, de 25 de febrero. [Ref. BOE-A-2022-3397](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3397)
+
+Asimismo, cualquier referencia a la subzona «IX» del Consejo Internacional de Exploración del Mar contenida en las partes expositiva y dispositiva de la presente Orden se entenderá sustituida por «9», según establece el citado artículo.
+
+El Reglamento (CE) número 1380/20123 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la Política Pesquera Común, por el que se modifican los Reglamentos (CE) número 1954/2003 y (CE) número 1224/2009 del Consejo, y se derogan los Reglamentos (CE) número 2371/2002 y (CE) número 639/2004 del Consejo y la Decisión 2004/5857CE del Consejo, tiene como objetivo fundamental garantizar que las actividades de la pesca sean sostenibles ambientalmente a largo plazo y se gestionen de forma coherente con los objetivos de generar beneficios económicos, sociales y de empleo, y de contribuir a la disponibilidad de productos alimenticios.
+
+En particular, sus artículos 16 y 17 hacen referencia a las asignaciones de posibilidades de pesca a los Estados miembros y la posibilidad de que éstos las asignen igualmente a los buques que enarbolen su pabellón.
+
+El Reglamento (CE) número 2166/2005 del Consejo, de 20 de diciembre de 2005, por el que se establecen medidas para la recuperación de la población sur de merluza europea y de cigalas en el mar Cantábrico y en el oeste de la Península Ibérica y que modifica el Reglamento (CE) número 850/98 para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos, establece en su artículo 8 un régimen de esfuerzo pesquero, con limitación de días de pesca, hasta que no se alcance una mortalidad por pesca inferior a 0,27. Ésta limitación del esfuerzo de pesca se recoge anualmente en el anexo IIB del correspondiente Reglamento de TAC y cuotas. En el citado anexo también se recoge que es preciso que haya registro de actividad pesquera en la zona en los años 2002 a 2013, para que se pueda autorizar a un buque a pescar dentro del Plan de Recuperación de la Merluza sur europea y cigala, por lo que parte de los buques del censo del anexo I no dispondrán de posibilidades de pesca para la merluza al no cumplir este requisito.
+
+El Reglamento (CE) 1224/2009 del Consejo, de 20 de noviembre de 2009, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común, establece en el artículo 105 las deducciones a aplicar en aquellos casos en que se sobrepase la cuota disponible para una determinada especie.
+
+Por su parte, la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, establece en su artículo 8 que el titular del Departamento podrá adoptar medidas de regulación del esfuerzo pesquero, encontrándose entre las mismas la limitación del tiempo de actividad pesquera. Asimismo, el artículo 27 contempla la opción de distribución de posibilidades de pesca con base en volúmenes de captura o cuota y habilita al titular del Departamento para distribuirlas con objeto de mejorar la gestión y el control de la actividad pesquera.
+
+En este sentido, el acuerdo suscrito entre los Gobiernos del Reino de España y de la República Portuguesa, representados por los Ministros de Agricultura, Pesca y Alimentación por parte de España y de Agricultura y del Mar por la de Portugal, tiene como objeto mantener unas relaciones beneficiosas dentro del respeto a los principios generales de la legislación comunitaria sobre gestión del esfuerzo de pesca, obligando a publicar en consecuencia la normativa de aplicación.
+
+La cuota global adjudicada a España para cada especie se reparte inicialmente entre los distintos caladeros, Cantábrico Noroeste y Golfo de Cádiz, así como el porcentaje de cuota correspondiente a los buques de la modalidad de arrastre de fondo que faenan en aguas de Portugal, mediante la Orden AAA/1307/2013, de 1 de julio, por la que se establece un Plan de gestión para los buques de los censos del Caladero Nacional del Cantábrico y Noroeste. Dicha orden recoge en su anexo VI la distribución de las cuotas de especies para los buques de arrastre de fondo que faenan en aguas de la subzona IX del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal
+
+Además la Orden AAA/1537/2013, de 31 de julio, por la que se modifica la Orden AAA/627/2013, de 15 de abril, por la que se establece un Plan de gestión para los buques de los censos del Caladero Nacional del Golfo de Cádiz, recoge también en su anexo V la distribución de las cuotas de especies para los buques de arrastre de fondo que faenan en dichas aguas de la subzona IX bajo jurisdicción o soberanía portuguesa.
+
+La gestión de la pesquería de los buques de arrastre de fondo en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal se ha venido regulando a través de la Orden APA/6/2004, de 12 de enero, por la que se regula la pesquería de arrastre en aguas comunitarias de la zona IX del Consejo Internacional de Exploración del Mar (CIEM).
+
+Para mejorar la gestión de las cuotas asignadas a España en aguas de Portugal, en la zona IX del CIEM y asegurar la actividad de la flota pesquera a lo largo del año, resulta conveniente que los buques censados en la modalidad de arrastre de fondo, y que faenan en aguas de la subzona IX del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal y que tengan actividad acreditada en el caladero tal y como establece el punto 4.1 del anexo IIB del Reglamento TAC y cuotas puedan disponer de forma individualizada de sus posibilidades de pesca. Todo ello sin perjuicio de que la gestión de las posibilidades de pesca se pueda realizar por las asociaciones en las que estén incluidos los buques de forma colectiva, en su caso.
+
+La distribución de las posibilidades de pesca de las especies sometidas al régimen de TACS y cuotas que contempla la presente orden se ha efectuado tras el acuerdo alcanzado entre los buques pertenecientes a este censo en virtud de las pesquerías realizadas por cada buque en el momento de la publicación de esta orden.
+
+Conforme a la normativa en vigor, particularmente los artículos 5 y 27 de la Ley 3/2001, de 26 de marzo, el criterio para la distribución de las posibilidades de pesca de cada año para buques de arrastre de fondo que faenan en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal se basará en las que a título individual disponga cada buque de acuerdo con la situación que presente en enero de cada año para el año en curso, fijadas mediante la correspondiente resolución de la Secretaría General de Pesca.
+
+Con el objeto de optimizar la utilización de las cuotas de pesca asignadas a España, las posibilidades de pesca que no hayan sido utilizadas a final de año podrán ser transferidas de manera individualizada por cada buque para consumo en el año siguiente, de acuerdo con las disposiciones del Reglamento (CE) número 847/96 del Consejo, de 6 de mayo de 1996, por el que se establecen condiciones adicionales para la gestión anual de los TAC y las cuotas.
+
+El reparto de posibilidades de pesca para la captura de las especies contempladas en esta orden se efectúa sin perjuicio de las posibilidades de pesca de captura de otras especies atribuidas a España cuyas cuotas sean de tan escasa entidad que no aconsejen la asignación individual a cada buque o censo.
+
+Al objeto de agilizar la gestión de las pesquerías y permitir una planificación empresarial, se desarrolla en esta orden ministerial el procedimiento de transmisión de posibilidades de pesca entre los buques de arrastre de fondo que faenan en aguas de la subzona IX del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal y sólo para las especies sometidas al régimen de TACS y cuotas que contempla la presente orden.
+
+Por otra parte, una adecuada gestión de las pesquerías precisa del cierre definitivo del Censo de buques de arrastre de fondo que faenan en aguas portuguesas de la mentada subzona IX del Consejo Internacional de Exploración del Mar.
+
+Se ha efectuado el trámite de comunicación a la Comisión Europea previsto en el artículo 46 del Reglamento (CE) número 850/1998 del Consejo, de 30 de marzo de 1998, para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos.
+
+En la elaboración de la presente orden han sido consultados el sector pesquero y las Comunidades Autónomas de Galicia y Andalucía, así como el Instituto Español de Oceanografía.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. La presente orden tiene por objeto regular la pesquería del censo de buques que pueden pescar con artes de arrastre de fondo en aguas de la subzona IX del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal, y distribuir las posibilidades de pesca que le sean asignadas a este censo dentro de la división IXa.
+
+2\. Será de aplicación a las embarcaciones de pabellón español censadas en la modalidad de arrastre de fondo en aguas de la subzona IX del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal.
+
+3\. Las cuotas globales asignadas a España se distribuirán a los buques pertenecientes al Censo de arrastre de fondo en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal conforme a los criterios establecidos en la Orden AAA/1307/2013, de 1 de julio, por la que se establece un Plan de gestión para los buques de los censos del Caladero Nacional del Cantábrico y Noroeste, y en la Orden AAA/627/2013, de 15 de abril, por la que se establece un Plan de gestión para los buques de los censos del caladero nacional del Golfo de Cádiz, que se especifican en el anexo II de la presente orden.
+
+## Artículo 2. Censo de buques.
+
+El censo de buques que pueden pescar con artes de arrastre de fondo en aguas de la subzona 9 del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal se refleja en el anexo I de la presente orden.
+
+Excepcionalmente, en el supuesto de existir licencias sobrantes dentro del marco del acuerdo, se podrá autorizar a otros buques a desarrollar su actividad en tales aguas siempre que pertenezcan al censo de arrastre de fondo del Cantábrico y Noroeste o al censo de arrastre de fondo del Golfo de Cádiz, que así lo soliciten y que acrediten tener cuota disponible.
+
+En ese caso se podrá autorizar, también excepcionalmente, y de modo recíproco en cuanto a número de buques y periodos para evitar un incremento del esfuerzo pesquero, a buques de este censo de arrastre de fondo en aguas de Portugal a faenar en las aguas del caladero nacional pertenecientes a la zona CIEM 9a con cuota disponible.
+
+Para ello, los interesados deberán presentar una solicitud a la Dirección General de Ordenación Pesquera y Acuicultura, que dictará resolución en un plazo de 15 días hábiles desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación y la publicará la resolución en la página web del Ministerio de Agricultura, Pesca y Alimentación.
+
+Las solicitudes podrán presentarse por medios electrónicos en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación o en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre. No obstante, los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, deberán presentar su solicitud por medios electrónicos, en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación.
+
+Transcurrido dicho plazo sin que se hubiera publicado la resolución, se podrá entender desestimada la solicitud por silencio administrativo, sin perjuicio de la obligación de dictar resolución expresa, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 21 de marzo.
+
+Contra dicha resolución, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes contado a partir del día siguiente al de su publicación de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por la disposición final 2.1 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 3. Lista nominativa de buques.
+
+1\. Para cada periodo de pesca del acuerdo, la Secretaría General de Pesca aprobará una resolución, publicada en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación con una lista nominativa de buques autorizados al amparo del Acuerdo suscrito entre los Gobiernos de España y Portugal para pescar al arrastre en la zona IX del CIEM en aguas sometidas a la soberanía o jurisdicción de Portugal, que incluirá los buques que pueden acceder a las licencias en aguas de Portugal.
+
+2\. Tendrán siempre preferencia los buques pertenecientes al censo del anexo I, que se incluirán de oficio.
+
+3\. El resto de buques serán incluidos en la resolución en función de las solicitudes recibidas.
+
+Para ello, los interesados deberán presentar una solicitud a la Dirección General de Ordenación Pesquera y Acuicultura al menos 15 días antes de que comience cada periodo de pesca.
+
+Las solicitudes podrán presentarse por medios electrónicos en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación o en cualquiera de los lugares previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre. No obstante, los sujetos a que se refiere el artículo 14.2 de la Ley 39/2015, de 1 de octubre, deberán presentar su solicitud por medios electrónicos, en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación.
+
+4\. La Secretaría General de Pesca publicará la resolución en un plazo de quince días hábiles desde la finalización de dicho plazo, estableciendo la lista nominativa.
+
+En dicha lista constarán los buques del anexo I y aquellos que lo hayan solicitado en función de la situación del acuerdo, seleccionándose conforme a la habitualidad que se vaya generando en la zona y, en caso de empate, el acceso se resolverá mediante sorteo entre los solicitantes.
+
+Transcurrido dicho plazo sin que se hubiera publicado la resolución, se podrá entender desestimada la solicitud por silencio administrativo, sin perjuicio de la obligación de dictar resolución expresa, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 21 de marzo. En todo caso, los buques contenidos en el anexo I podrán faenar en dichas aguas.
+
+Contra dicha resolución, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes contado a partir del día siguiente al de su publicación de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por la disposición final 2.2 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 4. Distribución de las posibilidades de pesca.
+
+1\. Se asignará al censo de buques que pueden pescar con artes de arrastre en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal el porcentaje correspondiente de la cuota española de las posibilidades de pesca de cigala IXa (*Nephrops norvegicus* NEP/9/3411), gallo (*Lepidorhombus spp* LEZ/8C3411), bacaladilla *(Micromesistius poutassou* WHB/8C3411), rape (*Lophiidae* ANF/8C3411), jurel IX (*Trachurus spp* JAX/09) y merluza (*Merluccius merluccius* HKE/8C3411) a las que se refiere el artículo 1.
+
+2\. Las cuotas globales asignadas al censo de buques que pueden pescar con artes de arrastre de fondo en aguas de la subzona IX del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal se distribuirán entre los buques que integran dicho censo conforme a los criterios establecidos en el preámbulo y según lo especificado en el artículo 1 y en los anexos II y III de esta orden.
+
+3\. Cada año, al inicio de la campaña de pesca, la Secretaría General de Pesca comunicará mediante resolución publicada en el «Boletín Oficial del Estado» las cuotas disponibles de las diferentes especies indicadas en el apartado 1.
+
+Será aplicable a estos buques una flexibilidad interanual del 10% de cuota individual, de acuerdo con lo previsto en el Reglamento (CEE) 847/96 del Consejo, de 6 de mayo de 1996, por el que se establecen condiciones adicionales para la gestión anual de los TAC y las cuotas.
+
+4\. La distribución de las posibilidades de pesca por los buques de arrastre de fondo en aguas de la subzona 9 del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal se realizará como sigue:
+
+a) El porcentaje de posibilidades de pesca asignado a la modalidad de arrastre de fondo en aguas de la subzona 9 del Consejo Internacional de Exploración del Mar sometidas a la soberanía o jurisdicción de Portugal se distribuirá con carácter individual de acuerdo con lo expresado en el presente artículo.
+
+Esta distribución se hará en el primer año, mediante el acuerdo alcanzado entre los buques pertenecientes a este censo en virtud de las pesquerías realizadas por cada buque en el momento de la publicación de esta orden. A partir del segundo año de aplicación de la orden, la distribución se hará en función de las posibilidades de pesca de que disponga cada buque a 1 de enero del año en cuestión, sobre la base de las transmisiones definitivas realizadas.
+
+b) Sólo los buques que figuren en la lista nominativa del artículo 3 y que estén de alta en el censo de flota operativa y con el diario electrónico a bordo dado de alta y operativo podrán hacer uso de su cuota.
+
+c) Si un buque de este censo transmitiera la totalidad de sus posibilidades de pesca en una campaña, no podrá solicitar que se le incluya en el censo para pescar en aguas de Portugal en esa campaña para lo que reste de año.
+
+d) La asignación individual de cada cuota en los siguientes años se revisará y actualizará a 1 de enero por resolución de la Secretaría General de Pesca publicada en el “Boletín Oficial del Estado”, contemplando la relación individualizada y actualizada de cuotas, y la asociación a la que pertenece cada buque, teniendo en cuenta las modificaciones realizadas de conformidad con la presente orden durante el año precedente.
+
+Contra dicha resolución, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes contado a partir del día siguiente al de su publicación de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+e) Aquellos buques que en el momento de elaborar la resolución a que se refiere el apartado 3 de este artículo dispongan de, o bien una autorización para la flota pesquera exterior que les habilite a faenar al amparo de un acuerdo de pesca sostenible (siendo ésta extensible posteriormente por la vigencia prevista de dicho acuerdo), o bien de una licencia privada para faenar en terceros países, en ambos casos al menos hasta el 1 de octubre del respectivo año, aparecerán en la citada resolución con la mención “(acuerdos)” a continuación de su nombre. Dichos barcos mantendrán los porcentajes de posibilidades de pesca que tengan asignados, aunque los kilos de pescado anuales que se deriven de tales posibilidades se redistribuirán entre el resto de buques del censo presentes en el caladero proporcionalmente, según las posibilidades de pesca de cada barco para cada especie. Si alguno de los buques afectados por esta circunstancia regresara a faenar a las aguas objeto de aplicación de esta orden a partir del 1 de octubre, faenarían con cargo a las cuotas que pasen a formar parte de la bolsa de optimización que se creará el 1 de octubre, de acuerdo al artículo 5 de la Orden APA/315/2020, de 1 de abril.
+
+> Se añade la letra e) al apartado 4 y se deja sin contenido el apartado 5 por el art. 2.2 de la Orden APA/144/2022, de 25 de febrero. [Ref. BOE-A-2022-3397](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3397)
+
+> Se modifica el apartado 4 por la disposición final 2.3 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 5. Distribución esfuerzo pesquero.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.2 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 6. Gestión de las posibilidades de pesca repartidas individualmente.
+
+1\. Las posibilidades de pesca repartidas individualmente de acuerdo a lo previsto en el artículo 2 podrán ser gestionadas, bien de manera individual por cada empresa armadora, o bien de manera colectiva por las entidades asociativas en que se integren las empresas propietarias de los buques, siempre que se realice la oportuna solicitud a la Secretaría General de Pesca.
+
+2\. La gestión de un buque por parte de una entidad asociativa implicará el control de sus posibilidades de pesca y el seguimiento de su esfuerzo pesquero por dicha asociación.
+
+3\. Cuando un buque cambie de asociación, trasladará a la nueva asociación las posibilidades de pesca disponibles en el estado en el que se encuentren, en función de las cesiones que se hayan realizado hasta la fecha. Este cambio será efectivo desde el momento en que se notifique el acuerdo firmado por ambas asociaciones a la Subdirección General de Caladero Nacional, Aguas Comunitarias y Acuicultura, y todos los cambios que surjan dentro de un año se actualizarán al principio del año siguiente con la publicación del censo anual correspondiente en el «Boletín Oficial del Estado».
+
+## Artículo 7. Transmisiones temporales de posibilidades de pesca.
+
+Las transmisiones temporales de posibilidades de pesca asignadas se realizará conforme a lo dispuesto en el artículo 2 de la Orden APA/315/2020, de 1 de abril, por la que se establecen criterios de gestión de las posibilidades de pesca asignadas al Reino de España y se modifican determinadas órdenes que regulan la actividad pesquera de las flotas que hacen uso de las mismas.
+
+> Se modifica por la disposición final 2.4 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 8. Transmisiones definitivas de posibilidades de pesca entre buques de arrastre de fondo en aguas de la subzona 9 del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal.
+
+Las transmisiones definitivas de posibilidades de pesca asignadas se realizará conforme a lo dispuesto en el artículo 3 de la Orden por la que se establecen criterios de gestión de las posibilidades de pesca asignadas al Reino de España y se modifican determinadas órdenes que regulan la actividad pesquera de las flotas que hacen uso de las mismas.
+
+> Se modifica por la disposición final 2.5 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 8 bis. Intercambio de cuotas con otros Estados miembros.
+
+El intercambio de cuotas con otros Estados miembros se realizará conforme a lo dispuesto en el artículo 8 de la Orden por la que se establecen criterios de gestión de las posibilidades de pesca asignadas al Reino de España y se modifican determinadas órdenes que regulan la actividad pesquera de las flotas que hacen uso de las mismas.
+
+> Se añade por la disposición final 2.6 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 9. Seguimiento y control de las cuotas y esfuerzo pesquero.
+
+1\. El consumo de las cuotas objeto de la presente orden correspondiente a los buques que estén obligados a cumplimentar el Diario Electrónico A Bordo, conforme a lo dispuesto en el artículo 15.3 del Reglamento (CE) 1224/2009, de 20 de noviembre de 2009, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común, se verificará por la Dirección General de Ordenación Pesquera a través de las transmisiones electrónicas que éstos efectúen y con base en la información obtenida a través de las notas de venta.
+
+2\. El control de las cuotas asignadas individualmente, se realizará conforme a lo dispuesto en el artículo 9 de la Orden por la que se establecen criterios de gestión de las posibilidades de pesca asignadas al Reino de España y se modifican determinadas órdenes que regulan la actividad pesquera de las flotas que hacen uso de las mismas.
+
+3\. Respecto a las cuotas que pescan estos buques y que no están repartidas por la presente orden, cuando, conforme a los datos de actividad de que disponga la Secretaría General de Pesca procedente de las anotaciones en el diario de a bordo, declaraciones de desembarque y notas de venta como, en su caso, de las transmisiones del diario electrónico a bordo, se verifique que el consumo de la cantidad asignada, a la modalidad, pesquerías o asociaciones reflejadas en el artículo 2, se ha alcanzado o se encuentre próxima a alcanzarse, se ordenará el cierre de esta pesquería para los buques censados en esta modalidad o pertenecientes a esa asociación conforme a lo dispuesto en el artículo 10 de la Orden por la que se establecen criterios de gestión de las posibilidades de pesca asignadas al Reino de España y se modifican determinadas órdenes que regulan la actividad pesquera de las flotas que hacen uso de las mismas.
+
+4\. El esfuerzo pesquero se controlará mediante datos VMS y DEA.
+
+5\. La Dirección General de Ordenación Pesquera comunicará electrónicamente a las comunidades autónomas, a las asociaciones profesionales representantes de las flotas afectadas y a la Federación Nacional de Cofradías de Pescadores, con periodicidad mensual, la situación del consumo de las cuotas a las que se refiere la presente orden.
+
+> Se modifican los apartados 2 y 3 por la disposición final 2.7 de la Orden APA/315/2020, de 1 de abril. [Ref. BOE-A-2020-4255](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4255)
+
+## Artículo 10. Cambio de caladero.
+
+1\. Los buques incluidos en el Censo establecido en la presente orden únicamente podrán ser autorizados para el ejercicio de la pesca en aguas bajo soberanía o jurisdicción de Portugal de la zona IX del CIEM.
+
+2\. No obstante, la Dirección General de Ordenación Pesquera de la Secretaría General de Pesca del Ministerio de Agricultura, Alimentación y Medio Ambiente una vez recabado informe favorable tanto de la Dirección General de Recursos Pesqueros y Acuicultura como de la comunidad autónoma del puerto base del buque, podrá autorizar el cambio temporal de caladero para los buques incluidos en el censo establecido por la presente orden, siempre que se considere adecuado teniendo en cuenta las posibilidades de pesca del nuevo caladero, que no exista perjuicio para otros buques españoles y que lo permita la normativa reguladora de la pesca en dicha zona.
+
+La solicitud para el citado cambio podrá presentarse en cualquier momento por los titulares o propietarios de los buques incluidos en el censo establecido por esta orden o sus representantes, indicando nombre y dirección del titular y nombre, matrícula y folio del buque, así como periodo temporal, en todo caso hasta el 31 de diciembre del año en cuestión.
+
+Dicha solicitud se dirigirá al Director General de Ordenación Pesquera de la Secretaría General de Pesca del Ministerio de Agricultura, Alimentación y Medio Ambiente, y se presentará ante la Secretaría General de Pesca, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, o por medios electrónicos de acuerdo con el artículo 6.1 de la Ley 11/2007, de 22 de junio.
+
+En caso de que la solicitud no reuniere los datos indicados se requerirá al interesado para que, en un plazo de diez días, subsane la falta, con expresa indicación de que, de no hacerlo, se le tendrá por desistido de su petición, previa resolución en los términos señalados en el artículo 71 de la ley 30/1992, de 26 de noviembre.
+
+El procedimiento se resolverá mediante resolución del Director General de Ordenación Pesquera, que se notificará a los interesados en los términos previstos en el artículo 59 de la Ley 30/1992, de 26 de noviembre. Transcurrido un mes desde la entrada de la solicitud en el órgano competente para su tramitación sin que se hubiera notificado resolución expresa, se podrá entender desestimada dicha solicitud, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 21 de marzo.
+
+La resolución que recayere no pone fin a la vía administrativa y contra la misma cabe interponer recurso de alzada ante el Secretario General de Pesca, en los términos y plazos a que se refiere al artículo 115 de la Ley 30/1992, de 26 de noviembre.
+
+## Artículo 11. Sustitución de buques en el censo.
+
+Los buques que integren el censo de buques de arrastre de fondo en aguas de la subzona IX del Consejo Internacional de Exploración del Mar, sometidas a la soberanía o jurisdicción de Portugal podrán ser substituidos, a instancia de su titular o propietario, en los siguientes casos:
+
+1\. En el caso de pérdida definitiva por accidente marítimo de uno de los buques incluidos en el Censo, su titular o propietario dispone de un año, a contar desde la fecha del suceso, para iniciar el expediente de tramitación de sustitución. Si transcurridos dos años a partir de la resolución de la Dirección General de Recursos Pesqueros autorizando la substitución no se hubiera incorporado el buque sustituto al censo, el armador perderá definitivamente su derecho a figurar en el Censo salvo causa de fuerza mayor debidamente acreditada, previa constatación de las circunstancias correspondientes por la Dirección General de Recursos Pesqueros y Acuicultura. La substitución se llevará a cabo desde que el nuevo buque, en su caso, sea dado de alta en el Censo de Flota Pesquera Operativa. El nuevo buque a incluir en el Censo tendrá un tonelaje y potencia igual o inferior a los del buque sustituido.
+
+2\. Por un buque de nueva construcción, en el caso de cese definitivo en la actividad pesquera del antiguo buque, que deberá aportarse como baja. El nuevo buque tendrá las características que estipule la legislación vigente en materia de estructuras. La solicitud para la substitución se presentará en el plazo de dos meses desde la nueva construcción por los titulares o propietarios de los buques incluidos en el censo establecido por esta orden o sus representantes, indicando nombre y dirección del titular y nombres, matrículas y folios del buque originario y sustituido.
+
+Dicha solicitud se dirigirá al Director General de Ordenación Pesquera de la Secretaría General de Pesca del Ministerio de Agricultura, Alimentación y Medio Ambiente, y se presentará ante la Secretaría General de Pesca, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, o por medios electrónicos de acuerdo con el artículo 6.1 de la Ley 11/2007, de 22 de junio.
+
+En caso de que la solicitud no reuniere los datos indicados se requerirá al interesado para que, en un plazo de diez días, subsane la falta, con expresa indicación de que, de no hacerlo, se le tendrá por desistido de su petición, previa resolución en los términos señalados en el artículo 71 de la ley 30/1992, de 26 de noviembre.
+
+El procedimiento se resolverá mediante resolución del Director General de Ordenación Pesquera, que se notificará a los interesados en los términos previstos en el artículo 59 de la Ley 30/1992, de 26 de noviembre. Transcurrido un mes desde la entrada de la solicitud en el órgano competente para su tramitación sin que se hubiera notificado resolución expresa, se podrá entender desestimada dicha solicitud, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 21 de marzo.
+
+La resolución que recayere no pone fin a la vía administrativa y contra la misma cabe interponer recurso de alzada ante el Secretario General de Pesca, en los términos y plazos a que se refiere al artículo 115 de la Ley 30/1992, de 26 de noviembre.
+
+3\. Por otro buque de la misma empresa armadora, siempre que a juicio de la Secretaría General de Pesca no se incremente la capacidad pesquera global. La solicitud para la substitución se presentará en cualquier momento por los titulares o propietarios de los buques incluidos en el censo establecido por esta orden o sus representantes, indicando nombre y dirección del titular y nombres, matrículas y folios del buque originario y substituido.
+
+Dicha solicitud se dirigirá al Director General de Ordenación Pesquera de la Secretaría General de Pesca del Ministerio de Agricultura, Alimentación y Medio Ambiente, y se presentará ante la Secretaría General de Pesca, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, o por medios electrónicos de acuerdo con el artículo 6.1 de la Ley 11/2007, de 22 de junio.
+
+En caso de que la solicitud no reuniere los datos indicados se requerirá al interesado para que, en un plazo de diez días, subsane la falta, con expresa indicación de que, de no hacerlo, se le tendrá por desistido de su petición, previa resolución en los términos señalados en el artículo 71 de la ley 30/1992, de 26 de noviembre.
+
+El procedimiento se resolverá mediante resolución del Director General de Ordenación Pesquera, que se notificará a los interesados en los términos previstos en el artículo 59 de la Ley 30/1992, de 26 de noviembre. Transcurrido un mes desde la entrada de la solicitud en el órgano competente para su tramitación sin que se hubiera notificado resolución expresa, se podrá entender desestimada dicha solicitud, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 21 de marzo.
+
+La resolución que recayere no pone fin a la vía administrativa y contra la misma cabe interponer recurso de alzada ante el Secretario General de Pesca, en los términos y plazos a que se refiere al artículo 115 de la Ley 30/1992, de 26 de noviembre.
+
+4\. En caso de acogerse ayudas por paralización definitiva, no podrá procederse a la substitución en el censo de la unidad que cese en el servicio.
+
+## Artículo 12. Normas para el ejercicio de la actividad.
+
+1\. Antes del 30 de noviembre de cada año, incluido, los titulares o propietarios de los buques de arrastre interesados en ejercer la pesca de arrastre de fondo en la zona IX del CIEM, sometida a la soberanía o jurisdicción de Portugal incluidos en el censo establecido por esta orden, o sus representantes, deberán solicitar la pertinente autorización, de carácter anual, indicando en su solicitud nombre y dirección del titular y nombre, matrícula y folio del buque, y además si es para peces o para crustáceos.
+
+2\. Dicha solicitud se dirigirá al Director General de Ordenación Pesquera de la Secretaría General de Pesca del Ministerio de Agricultura, Alimentación y Medio Ambiente, y se presentará ante la Secretaría General de Pesca, en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, o por medios electrónicos de acuerdo con el artículo 6.1 de la Ley 11/2007, de 22 de junio.
+
+En caso de que la solicitud no reuniere los documentos indicados, se requerirá al interesado para que, en un plazo de diez días, subsane la falta, con expresa indicación de que, de no hacerlo, se le tendrá por desistido de su petición, previa resolución en los términos señalados en el artículo 71 de la ley 30/1992, de 26 de noviembre.
+
+3\. El procedimiento de autorización de ejercicio de la actividad para el año siguiente se resolverá mediante resolución del Director General de Ordenación Pesquera.
+
+Siempre que el solicitante cumpla los requisitos previstos en esta orden, se autorizará el ejercicio.
+
+4\. La resolución se notificará a los interesados en los términos previstos en el artículo 59 de la Ley 30/1992, de 26 de noviembre. Transcurridos quince días desde la entrada de la solicitud en el órgano competente para su tramitación sin que se hubiera notificado resolución expresa, se podrá entender desestimada dicha solicitud, de acuerdo con la disposición adicional sexta de la Ley 3/2001, de 21 de marzo.
+
+5\. La resolución que recayere no pone fin a la vía administrativa y contra la misma cabe interponer recurso de alzada ante el Secretario General de Pesca, en los términos y plazos a que se refiere al artículo 115 de la Ley 30/1992, de 26 de noviembre.
+
+## Artículo 13. Especies que pueden ser capturadas.
+
+1\. Las especies que pueden pescarse serán las no sometidas a Total Admisible de Capturas (TAC) y cuotas, así como las sometidas a TAC de las que España disponga de cuota. No podrán retenerse a bordo, transportar ni desembarcar las siguientes especies: sardina (*PIL Sardina pilchardus*), túnidos (*Thunus spp*) y pez espada (*SWO Xiphias gladius*). La captura del resto de las especies sometidas a TAC y cuotas estarán sujetas a la normativa comunitaria sobre la obligación de desembarque.
+
+2\. Los buques que faenen al amparo de una licencia de pesca dirigida a peces podrán mantener a bordo capturas accesorias de crustáceos de hasta un 30 por ciento. Esta limitación no será de aplicación para los buques que faenen al amparo de una licencia de pesca dirigida a crustáceos contemplada en la presente orden.
+
+3\. Las condiciones técnicas que deben cumplir los buques y las pesquerías serán las establecidas en el Reglamento (CE) 850/98 del Consejo, de 30 de marzo de 1998, para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos.
+
+4\. Los buques que por su ausencia del caladero durante los años de referencia para su inclusión en el plan de recuperación de la merluza sur, y que tienen cuota 0 de esta especie con base en el anexo III de la presente orden no podrán realizar pesca dirigida a la merluza ni realizar desembarques de esta especie.
+
+## Artículo 14. Infracciones y sanciones.
+
+El incumplimiento de lo dispuesto en la presente orden se sancionará conforme a lo establecido en el título V de la Ley 3/2001, de 26 de marzo, y en el artículo 105 del Reglamento (CE) 1224/2009 del Consejo, de 20 de noviembre de 2009.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga la Orden APA/6/2004, de 12 de enero, por la que se regula la pesquería de arrastre en aguas comunitarias de la zona IX del Consejo Internacional de Exploración del Mar (CIEM).
+
+Asimismo, quedan derogados el anexo V de la Orden AAA/627/2013, de 15 de abril, y el anexo VI de la Orden AAA/1307/2013, de 1 de julio.
+
+## Disposición final primera. Título competencial.
+
+La presente orden se dicta al amparo del artículo 149.1.19.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de Pesca Marítima.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 31 de julio de 2014.–La Ministra de Agricultura, Alimentación y Medio Ambiente, Isabel García Tejerina.
+
+## ANEXO I — Censo de buques arrastreros que pueden pescar en la subzona IX del CIEM (aguas de Portugal)
+
+| 1. Alfonso Riera Tercero. | HU-12-00 |
+|---|---|
+| 2. Catrua. | VI-2-3-99 |
+| 3. Carmen e Pilar. | VI-21-99 |
+| 4. Febel Tercero. | HU-3-17-98 |
+| 5. Fuente de Macenlle. | VI-24-03 |
+| 6. Gema y Mode. | HU-1-1-04 |
+| 7 Golfiño R. | VI-2-7-96 |
+| 8. Gonzacove Dos. | VI-2-5-96 |
+| 9. Hermanos Delgado. | HU-21-01 |
+| 10. Hermanos Mora Martín. | HU-2-10-05 |
+| 11. Lozano Abreu. | HU-1-3-05 |
+| 12. Nueva Gloria. | MA-5-1-91 |
+| 13. Nuevo Carrillo García. | HU-2-21-02 |
+| 14. Nuevo Reina Mar. | HU-3-5-00 |
+| 15. Portosanto. | VI-2-4-00 |
+| 16. Segundo Cristóbal Martín. | HU-2-18-02 |
+| 17. Segundo Maritere Carrillo. | HU-2-16-00 |
+
+## ANEXO II — Distribución de la cuota de especies para los buques de arrastre de fondo que faenan en aguas de Portugal
+
+| Especie | Porcentaje cuota<br>(en %) |
+|---|---|
+| Cigala IXa (*Nephrops norvegicus NEP/9/3411*). | 29,00 |
+| Gallo (*Lepidorhombus spp LEZ/8C3411*). | 11,70 |
+| Bacaladilla (M*icromesistius poutassou*, WHB/8C3411). | 1,16 |
+| Rape (L*ophiidae* ANF/8C3411). | 7,60 |
+| Jurel IX (*Trachurus spp* JAX/09). | 0,23 |
+| Merluza (*Merluccius merluccius HKE/8C3411*). | 2,81 |
+
+## ANEXO III — Distribución individual de las posibilidades de pesca
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Buque</p>
+</td>
+<td>
+<p>Asociación</p>
+</td>
+<td>
+<p>Merluza (<em>Merluccius merluccius HKE/8C3411</em>)</p>
+</td>
+<td>
+<p>Rape (L<em>ophiidae</em> ANF/8C3411)</p>
+</td>
+<td>
+<p>Gallo (<em>Lepidorhombus spp LEZ/8C3411</em>)</p>
+</td>
+<td>
+<p>Cigala IXa (<em>Nephrops norvegicus NEP/9/3411</em>)</p>
+</td>
+<td>
+<p>Jurel IX (<em>Trachurus spp</em> JAX/09)</p>
+</td>
+<td>
+<p>Bacaladilla, (M<em>icromesistius poutassou</em>, WHB/8C3411)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alfonso Riera Tercero.</p>
+</td>
+<td>
+<p>Anamar.</p>
+</td>
+<td>
+<p>0,0000%</p>
+</td>
+<td>
+<p>3,4384%</p>
+</td>
+<td>
+<p>3,7914%</p>
+</td>
+<td>
+<p>0,3058%</p>
+</td>
+<td>
+<p>1,1472%</p>
+</td>
+<td>
+<p>0,3638%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carmen e Pilar.</p>
+</td>
+<td>
+<p>Armadores de Marín.</p>
+</td>
+<td>
+<p>0,0000%</p>
+</td>
+<td>
+<p>3,4384%</p>
+</td>
+<td>
+<p>3,7914%</p>
+</td>
+<td>
+<p>0,3058%</p>
+</td>
+<td>
+<p>1,1472%</p>
+</td>
+<td>
+<p>0,3638%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Catrua.</p>
+</td>
+<td>
+<p>Arposur-Vigo.</p>
+</td>
+<td>
+<p>10,7693%</p>
+</td>
+<td>
+<p>9,7710%</p>
+</td>
+<td>
+<p>16,0470%</p>
+</td>
+<td>
+<p>0,8910%</p>
+</td>
+<td>
+<p>2,8690%</p>
+</td>
+<td>
+<p>0,9200%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Febel Tercero.</p>
+</td>
+<td>
+<p>Anamar.</p>
+</td>
+<td>
+<p>0,0000%</p>
+</td>
+<td>
+<p>3,4384%</p>
+</td>
+<td>
+<p>3,7914%</p>
+</td>
+<td>
+<p>0,3058%</p>
+</td>
+<td>
+<p>1,1472%</p>
+</td>
+<td>
+<p>0,3638%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fuente de Macenlle.</p>
+</td>
+<td>
+<p>Armadores de Marín.</p>
+</td>
+<td>
+<p>0,0000%</p>
+</td>
+<td>
+<p>3,4384%</p>
+</td>
+<td>
+<p>3,7914%</p>
+</td>
+<td>
+<p>0,3058%</p>
+</td>
+<td>
+<p>1,1472%</p>
+</td>
+<td>
+<p>0,3638%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gema y Mode.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Golfiño R.</p>
+</td>
+<td>
+<p>Armadores de Marín.</p>
+</td>
+<td>
+<p>22,6193%</p>
+</td>
+<td>
+<p>21,0760%</p>
+</td>
+<td>
+<p>30,9730%</p>
+</td>
+<td>
+<p>2,0450%</p>
+</td>
+<td>
+<p>41,9010%</p>
+</td>
+<td>
+<p>3,8090%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gonzacove Dos.</p>
+</td>
+<td>
+<p>Armadores de Marín.</p>
+</td>
+<td>
+<p>14,8553%</p>
+</td>
+<td>
+<p>28,4270%</p>
+</td>
+<td>
+<p>14,3420%</p>
+</td>
+<td>
+<p>4,9230%</p>
+</td>
+<td>
+<p>6,5150%</p>
+</td>
+<td>
+<p>6,6830%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hermanos Delgado.</p>
+</td>
+<td>
+<p>Anamar.</p>
+</td>
+<td>
+<p>0,0000%</p>
+</td>
+<td>
+<p>3,4384%</p>
+</td>
+<td>
+<p>3,7914%</p>
+</td>
+<td>
+<p>0,3058%</p>
+</td>
+<td>
+<p>1,1472%</p>
+</td>
+<td>
+<p>0,3638%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hermanos Mora Martín.</p>
+</td>
+<td>
+<p>Armadores Punta del Moral.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lozano Abreu.</p>
+</td>
+<td>
+<p>Armadores Punta del Moral.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nuevo Carrillo García.</p>
+</td>
+<td>
+<p>Armadores Punta del Moral.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nueva Gloria.</p>
+</td>
+<td>
+<p>Armadores Punta del Moral.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nuevo Reina Mar.</p>
+</td>
+<td>
+<p>Armadores Punta del Moral.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portosanto.</p>
+</td>
+<td>
+<p>Armadores de Marín.</p>
+</td>
+<td>
+<p>11,3793%</p>
+</td>
+<td>
+<p>8,5310%</p>
+</td>
+<td>
+<p>14,6770%</p>
+</td>
+<td>
+<p>0,6120%</p>
+</td>
+<td>
+<p>2,9830%</p>
+</td>
+<td>
+<p>1,7730%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Segundo Cristóbal Martín.</p>
+</td>
+<td>
+<p>Armadores Punta del Moral.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Segundo Maritere Carrillo.</p>
+</td>
+<td>
+<p>Armadores de Isla Cristina.</p>
+</td>
+<td>
+<p>5,0471%</p>
+</td>
+<td>
+<p>1,8754%</p>
+</td>
+<td>
+<p>0,6255%</p>
+</td>
+<td>
+<p>11,2500%</p>
+</td>
+<td>
+<p>4,9995%</p>
+</td>
+<td>
+<p>10,6245%</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+</td>
+<td>
+<p>100,0000%</p>
+</td>
+<td>
+<p>100,0000%</p>
+</td>
+<td>
+<p>100,0000%</p>
+</td>
+<td>
+<p>100,0000%</p>
+</td>
+<td>
+<p>100,0000%</p>
+</td>
+<td>
+<p>100,0000%</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IV — Transferencia de las posibilidades de pesca de un buque
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>Tipo de transferencia: Temporal □ Definitiva □</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Buque Cedente</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Nombre:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Matrícula:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Folio:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Titular:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Dirección del titular:</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Stock a transferir y cuota disponible del mismo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Cantidad de cuota (en kilos o porcentaje) que se transfiere:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Buque Receptor</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Nombre:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Matrícula:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Folio:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Titular:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Dirección del titular:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Firma del titular del buque cedente</p>
+</td>
+<td colspan="2">
+<p>Firma del titular del buque receptor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>

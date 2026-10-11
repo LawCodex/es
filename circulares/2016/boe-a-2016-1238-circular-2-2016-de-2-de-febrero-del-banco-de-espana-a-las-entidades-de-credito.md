@@ -1,0 +1,2955 @@
+---
+title: "Circular 2/2016, de 2 de febrero, del Banco de España, a las entidades de crédito, sobre supervisión y solvencia, que completa la adaptación del ordenamiento jurídico español a la Directiva 2013/36/UE y al Reglamento (UE) n.º 575/2013"
+identifier: "BOE-A-2016-1238"
+eli: "https://www.boe.es/eli/es/cir/2016/02/02/2"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2016-02-02
+published: 2016-02-09
+in_force_from: 2016-02-10
+last_amended: 2023-11-14
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 34"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-1238"
+retrieved: 2026-10-11
+---
+
+# Circular 2/2016, de 2 de febrero, del Banco de España, a las entidades de crédito, sobre supervisión y solvencia, que completa la adaptación del ordenamiento jurídico español a la Directiva 2013/36/UE y al Reglamento (UE) n.º 575/2013
+
+Incluye la corrección de errores publicada en BOE núm. 182, de 29 de julio de 2016. [Ref. BOE-A-2016-7305](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7305).
+
+En los últimos años, a raíz de la crisis financiera internacional, se ha producido un cambio sustancial de la regulación aplicable al sector financiero, y muy especialmente, al sector bancario. El objetivo fundamental de la nueva regulación es reducir la probabilidad de que se produzcan crisis bancarias y el coste derivado de ellas para los contribuyentes, para lo que se ha considerado esencial aumentar la resistencia de las entidades de crédito ante situaciones adversas. Uno de los exponentes de este cambio regulatorio ha sido el «Marco regulador global para reforzar los bancos y sistemas bancarios» (conocido como Basilea III), presentado por el Comité de Supervisores Bancarios de Basilea en diciembre de 2010, que supone la base sobre la que pivota la normativa prudencial internacional.
+
+La adaptación de Basilea III al ordenamiento jurídico de la Unión Europea ha tenido lugar a través de dos normas fundamentales: el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012 (en adelante, el Reglamento (UE) n.º 575/2013) y la Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las directivas 2006/48/CE y 2006/49/CE (en adelante, la Directiva 2013/36/UE).
+
+En España la transposición de la nueva normativa europea se ha realizado en dos etapas. En una primera fase, se publicó el Real Decreto-ley 14/2013, de 29 de noviembre, de medidas urgentes para la adaptación del derecho español a la normativa de la Unión Europea en materia de supervisión y solvencia de entidades financieras, que transpuso los aspectos más urgentes de este marco. En uso de la habilitación conferida por ese real decreto-ley, el Banco de España aprobó la Circular 2/2014, de 31 de enero, sobre el ejercicio de diversas opciones regulatorias contenidas en el Reglamento (UE) n.º 575/2013 (en adelante, la Circular 2/2014), que determinó las opciones nacionales elegidas, tanto de carácter permanente como transitorio, para su aplicación por las entidades de crédito a partir de la entrada en vigor de dicho reglamento en enero de 2014. Posteriormente, esa circular fue modificada, en cuanto al tratamiento de la deducción de los activos intangibles durante el período transitorio, por la Circular 3/2014, de 30 de julio, del Banco de España.
+
+En una segunda fase, se promulgó la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito (en adelante, la Ley 10/2014), que sentó las bases de una transposición completa de la Directiva 2013/36/UE. Posteriormente, en febrero de 2015, se publicó el Real Decreto 84/2015, de 13 de febrero, por el que se desarrolla la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito (en adelante, el Real Decreto 84/2015).
+
+La presente circular tiene como objetivo fundamental completar, en lo relativo a las entidades de crédito, la transposición de la Directiva 2013/36/UE al ordenamiento jurídico español. Además, se recoge una de las opciones que el Reglamento (UE) n.º 575/2013 atribuye a las autoridades nacionales competentes, adicional a las que el Banco de España ya ejerció en la Circular 2/2014.
+
+Por otro lado, la presente circular también desarrolla algunos aspectos de la transposición de la Directiva 2011/89/UE del Parlamento Europeo y del Consejo, de 16 de noviembre de 2011, por la que se modifican las Directivas 98/78/CE, 2002/87/CE, 2006/48/CE y 2009/138/CE en lo relativo a la supervisión adicional de las entidades financieras que formen parte de un conglomerado financiero. Esta directiva ya ha sido transpuesta en lo fundamental mediante las modificaciones que tanto la Ley 10/2014 como el Real Decreto 84/2015 introducían, respectivamente, en la Ley 5/2005, de 22 de abril, de supervisión de los conglomerados financieros y por la que se modifican otras leyes del sector financiero, y en el Real Decreto 1332/2005 que la desarrolla.
+
+En la aplicación de esta regulación hay que tener en cuenta las guías o directrices que emita el propio Banco de España, y las que emitan los organismos y comités internacionales activos en la regulación y supervisión bancarias, como la Autoridad Bancaria Europea (en adelante, ABE), y sean adoptadas como propias por el Banco de España.
+
+En paralelo a estos desarrollos normativos, se ha producido en Europa un cambio transcendental en el modelo de supervisión de las entidades de crédito. La aprobación del Reglamento (UE) n.º 1024/2013 del Consejo, de 15 de octubre de 2013, que encomienda al Banco Central Europeo (en adelante, BCE) tareas específicas respecto de políticas relacionadas con la supervisión prudencial de las entidades de crédito (en adelante, Reglamento (UE) n.º 1024/2013), ha supuesto la creación del Mecanismo Único de Supervisión (en adelante, MUS), compuesto por el BCE y las autoridades nacionales competentes, entre las que se encuentra el Banco de España.
+
+El MUS se conforma como uno de los pilares de la Unión Bancaria, unido al Mecanismo Único de Resolución, recientemente creado, y a un sistema de garantía de depósitos armonizado, todavía en fase de desarrollo. Los tres pilares se basan fundamentalmente en dos conjuntos de normas que se aplican a todos los Estados miembros: los requisitos de capital para las entidades de crédito (Reglamento (UE) n.º 575/2013 y Directiva 2013/36/UE) y las disposiciones sobre reestructuración y resolución de entidades de crédito y empresas de servicios de inversión (Directiva 2014/59/UE).
+
+El Reglamento (UE) n.º 1024/2013 establece la atribución al MUS, y singularmente al BCE, de las funciones de supervisión directa sobre las entidades significativas e indirecta sobre las entidades menos significativas, según la definición establecida en el mencionado reglamento. La relevancia de la implantación del MUS para España se aprecia no solo en la importancia de las funciones cedidas, sino también en el hecho de que los grupos de entidades de crédito identificados como significativos representen más del 90% de los activos del sistema.
+
+En esta circular se ha introducido una definición de autoridad competente, que será el BCE o el Banco de España según la asignación y distribución de competencias establecidas en el Reglamento (UE) n.º 1024/2013, y que se completa en el Reglamento (UE) n.º 468/2014 del Banco Central Europeo, de 16 de abril de 2014, en el que se establece el marco de cooperación en el MUS entre el BCE y las autoridades nacionales competentes y las autoridades nacionales designadas. En términos generales, la entrada en vigor del MUS supone una reasignación de responsabilidades supervisoras, que se trasladan del ámbito nacional al BCE. Desde el 4 de noviembre de 2014, el BCE es responsable de la supervisión directa de las entidades significativas, siendo competencia del Banco de España la supervisión directa de las entidades menos significativas. Adicionalmente, otras funciones supervisoras no atribuidas al BCE, así como la supervisión de ciertas entidades no incluidas en la definición de entidad de crédito, siguen siendo competencia del Banco de España.
+
+El Reglamento del MUS regula también los denominados «procedimientos comunes», en los que la decisión corresponde al BCE a propuesta del Banco de España, independientemente de que la entidad de crédito en cuestión sea significativa o menos significativa. Se trata de los procedimientos aplicables a las autorizaciones para el acceso a la actividad de entidad de crédito, la revocación de dichas autorizaciones y los procedimientos de evaluación de participaciones significativas.
+
+El contenido de la circular se ha dividido en nueve capítulos, en función de las diversas materias que se regulan. El capítulo 1 establece algunas definiciones y el ámbito de aplicación de cada uno de los capítulos, a excepción del capítulo 9, que, al tratar sobre las obligaciones de información de las entidades al Banco de España, incluye en cada norma su correspondiente ámbito. Asimismo, se aclara el tratamiento específico de las sucursales y la libre prestación de servicios en España de entidades de crédito con sede en Estados no miembros de la Unión Europea.
+
+El capítulo 2 incorpora una nueva opción regulatoria de carácter adicional a las que el Banco de España ejerció mediante la Circular 2/2014. En concreto, la prevista en el artículo 116.4 del Reglamento (UE) n.º 575/2013, referente a la posibilidad de que las exposiciones frente a determinados entes del sector público puedan recibir la misma ponderación que la administración de la cual dependen. El Banco de España considera que se dan las circunstancias adecuadas para ello en aquellos entes citados en el artículo 56.2 del Real Decreto 84/2015 que no sean sociedades mercantiles ni fundaciones y estén sectorizados como Administraciones Públicas o Administraciones de Seguridad Social en el Sistema Europeo de Cuentas Nacionales y Regionales de la Unión Europea, así como en el Instituto de Crédito Oficial. En el caso de los entes dependientes de Comunidades Autónomas y Corporaciones Locales, es necesario además que esas exposiciones puedan incluirse en el ámbito de los mecanismos adicionales de financiación previstos en la disposición adicional primera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+El capítulo 3 desarrolla el requerimiento combinado de colchones de capital. Se regula el colchón de conservación de capital, el colchón de capital anticíclico, el colchón de capital para entidades de importancia sistémica mundial, el colchón de capital para otras entidades de importancia sistémica (OEIS) y, por último, el colchón para otros riesgos sistémicos. De este modo, las entidades de crédito deberán mantener niveles de capital de nivel 1 ordinario adicionales a los exigidos en el Reglamento (UE) n.º 575/2013 y, en caso de incumplimiento del requerimiento combinado de colchones, se establecen determinadas restricciones a las distribuciones y otras obligaciones. Respecto al colchón de capital para OEIS, cabe destacar que se incorporan en el texto de la circular los criterios para la identificación de esas entidades, siguiendo las Directrices de la ABE sobre los criterios para determinar las condiciones de aplicación del artículo 131, apartado 3, de la Directiva 2013/36/UE en relación con la evaluación de otras entidades de importancia sistémica (EBA/GL/2014/10). Asimismo, en la disposición transitoria primera se establece un período transitorio para la aplicación del mencionado colchón.
+
+El capítulo 4 introduce diversas disposiciones relacionadas con la organización interna de las entidades de crédito. Este capítulo se divide a su vez en cuatro secciones. La sección 1.ª desarrolla las características de los comités de riesgos, de nombramientos y de remuneraciones que han de constituir las entidades de crédito en virtud de la Ley 10/2014, estableciendo algunas de las condiciones con las que la autoridad competente permitirá que se unifiquen el comité de riesgos y el de auditoría, o el de nombramientos y el de remuneraciones. Asimismo, se incluyen ciertas reglas mínimas que deberán observar las entidades de crédito respecto a su gobierno interno, siendo una referencia relevante a este respecto la Guía sobre gobierno interno (GL 44) emitida por la ABE. La sección 2.ª establece el procedimiento de evaluación de la idoneidad que se habrá de realizar sobre los miembros del consejo de administración y sobre los directores generales y asimilados de las entidades. Esta sección también aborda el régimen de incompatibilidades y el procedimiento para la autorización y comunicación de créditos, avales y garantías a los altos cargos de las entidades de crédito. En la sección 3.ª se establece una serie de disposiciones sobre la política de remuneraciones de las entidades, aplicables al llamado colectivo identificado. Por último, en la sección 4.ª, se establecen los requisitos mínimos que habrán de cumplir las entidades para la delegación de la prestación de servicios o del ejercicio de funciones.
+
+El capítulo 5 regula ciertos aspectos del proceso de autoevaluación del capital que deben realizar las entidades y el proceso de revisión supervisora que llevará a cabo la autoridad competente.
+
+El capítulo 6 establece especificidades en relación con el tratamiento de determinados riesgos por parte de las entidades, completando lo establecido por el Real Decreto 84/2015. En este sentido, se abordan los riesgos de concentración, titulización, mercado, tipo de interés y liquidez. Asimismo, se incluye una norma para recoger los principios para una eficaz agregación de datos y presentación de informes de riesgos, que aprobó el Comité de Basilea en enero de 2013.
+
+El capítulo 7 detalla determinados aspectos del régimen de supervisión adicional aplicable a los conglomerados financieros, completando lo establecido en la Ley 5/2005 y en el Real Decreto 1332/2005.
+
+El capítulo 8 establece determinadas normas de transparencia para las entidades de crédito. Además de exigir la verificación del documento «Información con relevancia prudencial», que las entidades deben publicar de acuerdo con los artículos 85 de la Ley 10/2014 y 93 del Real Decreto 84/2015, se desarrolla la información sobre gobierno corporativo y política de remuneraciones que las entidades deberán publicar en su página web, así como algunos aspectos de la configuración de esta.
+
+El capítulo 9 recoge las obligaciones de información al Banco de España adicionales a las establecidas en el Reglamento de Ejecución (UE) n.º 680/2014 de la Comisión, de 16 de abril de 2014, por el que se establecen normas técnicas de ejecución en relación con la comunicación de información con fines de supervisión por parte de las entidades, de conformidad con el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo. En este sentido, las entidades deberán remitir, según el ámbito de aplicación establecido en cada norma, información sobre riesgo de tipo de interés, remuneraciones y conglomerados financieros.
+
+Por último, esta circular incluye siete disposiciones transitorias en las que se establece: i) el régimen transitorio de los colchones de capital para OEIS; ii) el régimen transitorio aplicable a las sucursales de entidades de crédito con sede en Estados no miembros de la Unión Europea; iii) la necesaria actualización de datos del Registro de Altos Cargos del Banco de España; iv) la información que las entidades deben proporcionar al Banco de España respecto a determinadas titulizaciones; v) la fecha en la que será obligatoria la primera remisión de información sobre conglomerados financieros; vi) la necesidad de seguir remitiendo transitoriamente determinados estados de liquidez de la Circular del Banco de España 3/2008; y, finalmente, vii) el plazo para la publicación en la página web de las entidades de la información sobre gobierno corporativo y política de remuneraciones.
+
+En consecuencia, en uso de las facultades que tiene conferidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva y de acuerdo con el Consejo de Estado, ha aprobado la presente circular, que contiene las siguientes normas:
+
+Acrónimos y abreviaturas utilizados en esta circular:
+
+ABE: Autoridad Bancaria Europea.
+
+A-IMD: importe máximo distribuible del colchón de ratio de apalancamiento.
+
+BCE: Banco Central Europeo.
+
+EISM: entidades de importancia sistémica mundial.
+
+IMD: importe máximo distribuible.
+
+JERS: Junta Europea de Riesgo Sistémico.
+
+MUS: Mecanismo Único de Supervisión.
+
+OEIS: otras entidades de importancia sistémica.
+
+p. b.: puntos básicos.
+
+p. p.: puntos porcentuales.
+
+UE: Unión Europea.
+
+Reglamento (UE) n.º 1092/2010: Reglamento (UE) n.º 1092/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, relativo a la supervisión macroprudencial del sistema financiero en la Unión Europea y por el que se crea una Junta Europea de Riesgo Sistémico.
+
+Reglamento (UE) n.º 1093/2010: Reglamento (UE) n.º 1093/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, por el que se crea una Autoridad Europea de Supervisión (Autoridad Bancaria Europea), se modifica la Decisión n.º 716/2009/CE y se deroga la Decisión 2009/78/CE de la Comisión.
+
+Reglamento (UE) n.º 575/2013: Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012.
+
+Reglamento (UE) n.º 1024/2013: Reglamento (UE) n.º 1024/2013 del Consejo, de 15 de octubre de 2013, que encomienda al Banco Central Europeo tareas específicas respecto de políticas relacionadas con la supervisión prudencial de las entidades de crédito.
+
+Reglamento Delegado (UE) n.º 342/2014: Reglamento Delegado (UE) n.º 342/2014 de la Comisión, de 21 de enero de 2014, que completa la Directiva 2002/87/CE del Parlamento Europeo y del Consejo y el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en lo que respecta a las normas técnicas de regulación relativas a la aplicación de los métodos de cálculo de los requisitos de adecuación del capital aplicables a los conglomerados financieros.
+
+Reglamento Delegado (UE) n.º 1152/2014: Reglamento Delegado (UE) n.º 1152/2014 de la Comisión, de 4 de junio de 2014, por el que se completa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en cuanto a las normas técnicas de regulación relativas a la determinación de la ubicación geográfica de las exposiciones crediticias pertinentes para el cálculo del porcentaje del colchón de capital anticíclico específico de cada entidad.
+
+Reglamento Delegado (UE) n.º 1222/2014: Reglamento Delegado (UE) n.º 1222/2014 de la Comisión, de 8 de octubre de 2014, por el que se completa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en lo relativo a las normas técnicas de regulación que determinan el método para la identificación de las entidades de importancia sistémica mundial y la definición de las subcategorías de entidades de importancia sistémica mundial.
+
+Reglamento Delegado (UE) n.º 2015/2303: Reglamento Delegado (UE) n.º 2015/2303 de la Comisión, de 28 de julio de 2015, por el que se completa la Directiva 2002/87/CE del Parlamento Europeo y del Consejo a través de normas técnicas de regulación en las que se especifican las definiciones de las concentraciones de riesgos y las operaciones intragrupo y se coordina su supervisión adicional.
+
+Reglamento Delegado (UE) n.º 2021/923: Reglamento Delegado (UE) n.º 2021/923 de la Comisión, de 25 de marzo de 2021, por el que se complementa la Directiva 2013/36/UE del Parlamento Europeo y del Consejo en lo que respecta a las normas técnicas de regulación por las que se establecen los criterios de definición de las responsabilidades de dirección, las funciones de control, las unidades de negocio importantes y la incidencia significativa en el perfil de riesgo de una unidad de negocio importante, y se establecen los criterios para determinar los miembros del personal o las categorías de personal cuyas actividades profesionales tienen una incidencia en el perfil de riesgo de la entidad comparable en importancia a la de los miembros del personal o las categorías de personal a que se refiere el artículo 92, apartado 3, de dicha directiva.
+
+Reglamento de Ejecución (UE) n.º 2016/2070: Reglamento (UE) n.º 2016/2070 de la Comisión, de 14 de septiembre de 2016, por el que se establecen normas técnicas de ejecución en relación con las plantillas, definiciones y soluciones informáticas que han de utilizar las entidades al informar a la Autoridad Bancaria Europea y a las autoridades competentes, de conformidad con el artículo 78, apartado 2, de la Directiva 2013/36/UE del Parlamento Europeo y del Consejo.
+
+Reglamento de Ejecución (UE) n.º 2021/451: Reglamento (UE) n.º 2021/451 de la Comisión, de 17 de diciembre de 2020, por el que se establecen normas técnicas de ejecución para la aplicación del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en relación con la comunicación de información con fines de supervisión por parte de las entidades, y por el que se deroga el Reglamento de Ejecución (UE) n.º 680/2014.
+
+Reglamento de Ejecución (UE) n.º 2021/453: Reglamento (UE) n.º 2021/453 de la Comisión de 15 de marzo de 2021 por el que se establecen normas técnicas de ejecución orientadas a la aplicación del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en lo que respecta a los requisitos específicos de presentación de información por riesgo de mercado.
+
+Directiva 2013/36/UE: Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las directivas 2006/48/CE y 2006/49/CE.
+
+Ley 35/2003: Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Ley 5/2005: Ley 5/2005, de 22 de abril, de supervisión de los conglomerados financieros y por la que se modifican otras leyes del sector financiero.
+
+Ley 10/2014: Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+
+Ley 22/2014: Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Ley 11/2015: Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión.
+
+Ley 39/2015: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Real Decreto Legislativo 1/2010: Real Decreto Legislativo 1/2010, de 2 de julio, por el que se aprueba el texto refundido de la Ley de Sociedades de Capital.
+
+Real Decreto 1332/2005: Real Decreto 1332/2005, de 11 de noviembre, por el que se desarrolla la Ley 5/2005, de 22 de abril, de supervisión de los conglomerados financieros y por la que se modifican otras leyes del sector financiero.
+
+Real Decreto 84/2015: Real Decreto 84/2015, de 13 de febrero, por el que se desarrolla la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+
+Circular del Banco de España 4/2004: Circular 4/2004, de 22 de diciembre, del Banco de España, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelo de estados financieros.
+
+Circular del Banco de España 3/2008: Circular 3/2008, de 22 de mayo, del Banco de España, a entidades de crédito, sobre determinación y control de los recursos propios mínimos.
+
+Circular del Banco de España 5/2008: Circular 5/2008, de 31 de octubre, del Banco de España, a las sociedades de garantía recíproca, sobre recursos propios mínimos y otras informaciones de remisión obligatoria.
+
+Circular del Banco de España 4/2010: Circular 4/2010, de 30 de julio, del Banco de España, a entidades de crédito, sobre agentes de las entidades de crédito y acuerdos celebrados para la prestación habitual de los servicios financieros.
+
+Circular del Banco de España 2/2014: Circular 2/2014, de 31 de enero, del Banco de España, sobre el ejercicio de diversas opciones regulatorias contenidas en el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012.
+
+> Se modifcan los acrónimos y abreviaturas por la norma primera.1 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 156, de 30 de junio de 2022. [Ref. BOE-A-2022-10810](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10810)
+
+## CAPÍTULO 1 — Definiciones y ámbito de aplicación
+
+#### Norma 1. Definiciones.
+
+Los términos y conceptos utilizados en la presente circular se entenderán de acuerdo con las definiciones establecidas en el Reglamento (UE) n.º 575/2013, la Directiva 2013/36/UE y sus normas de transposición al derecho español, con las particularidades que en su caso se establezcan.
+
+Adicionalmente, a los efectos de esta circular se aplicarán las siguientes definiciones:
+
+1\. «Autoridad competente» será aquella autoridad que resulte competente para el ejercicio de facultades supervisoras en aplicación del Reglamento (UE) n.º 1024/2013.
+
+2\. «Entidad significativa» será aquella entidad de crédito que tenga tal condición de acuerdo con el artículo 6.4 del Reglamento (UE) n.º 1024/2013.
+
+3\. «Sucursal significativa», a los efectos de la aplicación del artículo 59.2 de la Ley 10/2014 y de los artículos 86 y 91 del Real Decreto 84/2015, será aquella sucursal en España de una entidad de crédito con sede en otro Estado miembro de la UE que cumpla alguno de los siguientes requisitos:
+
+a) El valor total de sus activos sea mayor o igual a 10.000 millones de euros.
+
+b) La cuota de mercado de la sucursal en términos de importe de depósitos exceda del 2% en el mercado español o su número de depositantes en España exceda de 150.000.
+
+Para el cálculo de los umbrales anteriores, la cifra de depósitos de la sucursal será el total de depósitos garantizados que sirve de base para el cálculo de las aportaciones al sistema de garantía de depósitos y el número de depositantes será la suma de primeros titulares de cuentas corrientes, cuentas de ahorro, imposiciones a plazo y certificados de depósito.
+
+Asimismo, la autoridad competente podrá determinar que una sucursal en España de una entidad de crédito con sede en otro Estado miembro de la UE es significativa cuando sea relevante por la incidencia probable de la suspensión o el cese de las operaciones de la entidad en la liquidez sistémica y en los sistemas de pago, compensación y liquidación españoles, en función de las características de sus actividades o de su perfil de riesgos. La autoridad competente adoptará esa decisión de acuerdo con el procedimiento establecido en el artículo 91 del Real Decreto 84/2015, promoviendo la adopción de la decisión de forma conjunta con la autoridad del Estado miembro de origen.
+
+4\. «Subgrupo único de liquidez» será aquel grupo o subgrupo consolidable de entidades de crédito, formado por una matriz y una o varias filiales, que cumpla las condiciones establecidas en el artículo 8 del Reglamento (UE) n.º 575/2013.
+
+5\. «Conglomerado financiero» será aquel que cumpla los requisitos establecidos en el artículo 2.1 de la Ley 5/2005.
+
+6\. «Coordinador de la supervisión del conglomerado financiero» será la autoridad responsable, según el artículo 5.2 de la Ley 5/2005, del ejercicio y la coordinación de la supervisión adicional de las entidades reguladas de los conglomerados financieros en los que el sector financiero de mayor dimensión sea el sector bancario y de servicios de inversión.
+
+7\. “Colectivo identificado” será aquel formado por los consejeros, altos directivos o empleados cuyas actividades profesionales tengan una incidencia importante en el perfil de riesgo de una entidad, debiendo incluirse al menos los que se recogen en el artículo 32.1 de la Ley 10/2014 y los que cumplan los criterios establecidos en los artículos 2 a 6 del Reglamento Delegado (UE) n.º 2021/923.
+
+8\. “Delegación” será un acuerdo entre una entidad y un proveedor de servicios, que podrá pertenecer al mismo grupo de la entidad o a un tercero, por el que dicho proveedor de servicios realiza, de forma continuada o recurrente, un proceso, un servicio o una actividad que, de otro modo, podría realizar razonablemente la propia entidad, incluyendo la prestación de servicios de computación en la nube. A los efectos de esta circular, el concepto de “delegación” se entenderá equivalente al término “externalización”. La delegación puede abarcar la prestación de cualesquiera servicios o funciones, incluso aunque no sean necesariamente actividades bancarias. No obstante, las actividades reservadas a las entidades de crédito no podrán ser objeto de delegación, sin perjuicio de lo dispuesto en relación con los agentes de las entidades de crédito.
+
+> Se modifica la definición 7 y se añade la 8 por la norma primera.2 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 2. Ámbito de aplicación.
+
+1\. Con carácter general, lo dispuesto en esta circular será de aplicación, con el alcance que en cada caso se establece en esta norma, a:
+
+a) Los grupos y subgrupos consolidables de entidades de crédito, definidos en el Reglamento (UE) n.º 575/2013, cuya matriz esté establecida en España y responda a alguna de las definiciones de los párrafos 28, 30 o 32 del artículo 4.1 del Reglamento (UE) n.º 575/2013.
+
+b) Las entidades de crédito individuales constituidas en España, integradas o no en un grupo consolidable de entidades de crédito.
+
+c) Las actividades en España de entidades de crédito con sede en Estados no miembros de la Unión Europea (en adelante, UE) que operen mediante sucursal o en régimen de prestación de servicios sin sucursal, a las que se aplicará lo establecido en la norma 4.
+
+Adicionalmente, a los exclusivos efectos de garantizar que los requisitos o facultades de supervisión establecidos en la presente circular se aplican de forma adecuada en base consolidada o subconsolidada, se entenderá que los términos “entidad”, “entidad matriz de un Estado miembro”, “entidad matriz de la UE” y “empresa matriz” también incluirán a las sociedades previstas en las letras a), b) y c) del artículo 1 bis de la Ley 10/2014.
+
+2\. El capítulo 3, relativo a los colchones de capital, será aplicable en su caso al nivel consolidado, subconsolidado o individual, al que se exijan requerimientos de capital de acuerdo con la parte tercera del Reglamento (UE) n.º 575/2013. No obstante, el colchón para entidades de importancia sistémica mundial solo podrá aplicarse a nivel consolidado, en los términos que establece la norma 13 de esta circular.
+
+3\. Sin perjuicio de lo dispuesto en el artículo 36.5 del Real Decreto 84/2015 y en la norma 26.2 de esta circular, las normas 26 y 27 de esta circular, sobre comités de nombramientos y de remuneraciones y comité de riesgos, se aplicarán a nivel individual. Las normas 28 y 29 de esta circular, sobre gobierno interno y director de la unidad de riesgos, se aplicarán a nivel consolidado, subconsolidado e individual.
+
+4\. La sección 2.ª del capítulo 4 de esta circular, sobre idoneidad, será aplicable a entidades de crédito individuales. A las sociedades financieras de cartera y las sociedades financieras mixtas de cartera les serán de aplicación las normas 30 a 34 de la sección 2.ª del capítulo 4 de esta circular.
+
+5\. La sección 3.ª del capítulo 4 de esta circular, sobre remuneraciones, será de aplicación a nivel consolidado e individual, con las excepciones establecidas en los apartados 4 y 5 del artículo 32 de la Ley 10/2014, moduladas de acuerdo con lo previsto en la norma 36.1.
+
+6\. La sección 4.ª del capítulo 4 de esta circular, sobre delegación de la prestación de servicios o del ejercicio de funciones, será aplicable a los grupos y subgrupos consolidables de entidades de crédito con matriz en España y a las entidades de crédito individuales constituidas en España, integradas o no en un grupo consolidable de entidades de crédito. De acuerdo con lo previsto en el artículo 43.4 del Real Decreto 84/2015, las filiales de entidades de crédito españolas situadas en Estados no miembros de la Unión Europea y aquellas situadas en centros financieros extraterritoriales deberán contar también con sistemas, estrategias, procedimientos y mecanismos equivalentes, salvo que la legislación del país donde esté situada la filial lo prohíba.
+
+7\. Los grupos y subgrupos consolidables de entidades de crédito cuya matriz esté establecida en España, las entidades de crédito individuales constituidas en España no integradas en grupos o subgrupos consolidables sujetos a la supervisión directa del Banco de España o a la supervisión del Mecanismo Único de Supervisión cuando dicha competencia le haya sido atribuida de acuerdo con la disposición adicional segunda del Real Decreto 84/2015, y las entidades excluidas del ámbito de aplicación de la consolidación prudencial de conformidad con el artículo 19 del Reglamento (UE) n.º 575/2013 deberán realizar el ejercicio de autoevaluación del capital referido en el capítulo 5 de esta circular. También deberán realizar dicho ejercicio, a nivel subconsolidado, las entidades de crédito filiales autorizadas en España cuando estas entidades o su sociedad financiera de cartera o sociedad financiera mixta de cartera dominante tengan como filiales en Estados no miembros de la UE a entidades de crédito, empresas de servicios de inversión o entidades financieras, o posean una participación en una sociedad de estas características.
+
+En todo caso, no deberán realizar dicho ejercicio las entidades afiliadas de forma permanente a un organismo central de conformidad con el artículo 10 del Reglamento (UE) n.º 575/2013.
+
+La norma 45 de esta circular, sobre el proceso de revisión y evaluación supervisora, será aplicable de conformidad con el nivel de aplicación de los requisitos del Reglamento (UE) n.º 575/2013 previsto en su parte primera, título II.
+
+8\. El capítulo 6 de esta circular, sobre tratamiento de los riesgos, deberá cumplirse a nivel consolidado, subconsolidado e individual. Si bien, en el caso del riesgo de liquidez, el cumplimiento individual podrá sustituirse por el del subgrupo único de liquidez en el que la entidad se integre conforme a lo dispuesto en el artículo 8 del Reglamento (UE) n.º 575/2013.
+
+9\. El capítulo 7 de esta circular, sobre conglomerados financieros, será de aplicación a los grupos financieros previstos en el artículo 4.1 del Real Decreto 1332/2005 en los que el sector financiero de mayor dimensión del grupo sea el sector bancario y de servicios de inversión y cuenten con matriz en España.
+
+10\. Las menciones a entidades o a entidades de crédito hechas en esta circular deberán entenderse referidas a grupo de entidades de crédito, subgrupo de entidades de crédito o entidad de crédito individual, de acuerdo con el ámbito de aplicación que para cada caso se establece en esta norma.
+
+11\. Los capítulos 10 y 11 de esta circular, sobre los límites a la concentración sectorial y sobre otras herramientas macroprudenciales, respectivamente, serán de aplicación a las entidades de crédito autorizadas en España y a las sucursales en España de entidades de crédito con sede en Estados miembros y no miembros de la UE.
+
+> Se modifican los apartados 1, 4, 5, 6 y 7 por la norma primera.3 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se añade el apartado 11 por la norma única.a) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 3. Sucursales en España de entidades de crédito con sede en Estados miembros de la Unión Europea.
+
+Los requerimientos establecidos en la presente circular no serán aplicables de forma general a las sucursales en España de entidades de crédito con sede en Estados miembros de la UE; esta exclusión no alcanzará a lo previsto en los capítulos 10 y 11 de esta circular. Ello sin perjuicio de que tengan que enviar a la autoridad competente los datos sobre el mercado inmobiliario español a los que se refiere el artículo 430 bis del Reglamento (UE) n.º 575/2013, y conforme al estado C 15.00 establecido en el anexo VI del Reglamento de Ejecución (UE) n.º 2021/451, de 17 de diciembre de 2020, por el que se establecen normas técnicas de ejecución para la aplicación del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en relación con la comunicación de información con fines de supervisión por parte de las entidades, y por el que se deroga el Reglamento de Ejecución (UE) n.º 680/2014.
+
+No obstante, por consideraciones de estabilidad financiera, la autoridad competente podrá requerir a estas sucursales información adicional sobre sus actividades.
+
+> Se modifica por la norma única.b) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 4. Sucursales y prestación de servicios sin sucursal en España de entidades de crédito con sede en Estados no miembros de la Unión Europea.
+
+A. Sucursales en España de entidades de crédito con sede en Estados no miembros de la Unión Europea.
+
+1\. De acuerdo con lo establecido en el artículo 60 de la Ley 10/2014 y en el artículo 55 del Real Decreto 84/2015, será de aplicación a las sucursales de entidades de crédito con sede en un Estado no miembro de la UE la normativa aplicable a las entidades de crédito españolas establecida en las partes tercera, cuarta, sexta, séptima y séptima bis del Reglamento (UE) n.º 575/2013, así como en los capítulos 2, 3, 4 y 6 y en las normas del capítulo 9 de esta circular que así lo establezcan. Esta normativa se aplicará con las especialidades establecidas en los apartados 2, 3 y 4 siguientes. Igualmente, el Banco de España podrá autorizar exenciones a dichos requerimientos conforme a lo establecido en los apartados 5 y 6 de esta norma. No obstante lo anterior, no podrá exigírseles un colchón para entidades de importancia sistémica mundial.
+
+2\. A efectos del cálculo de fondos propios computables para el cumplimiento de la normativa de solvencia, se entenderá por capital de la sucursal la dotación mantenida por la entidad en España de fondos de carácter permanente y duración indefinida, disponibles para la cobertura de pérdidas, al que se refiere el artículo 17.1.a) del Real Decreto 84/2015.
+
+3\. El límite a las grandes exposiciones, que se establece en la parte cuarta del Reglamento (UE) n.º 575/2013, será el menor de los siguientes importes:
+
+a) El 25% referido en el artículo 395.1 del Reglamento (UE) n.º 575/2013 aplicado sobre los fondos propios de la entidad de crédito con sede en un Estado no miembro de la UE en su conjunto, entendiendo por tales los relevantes a efectos de los límites a las exposiciones con un cliente o grupo de clientes de acuerdo con la legislación nacional de ese Estado no miembro de la UE, o, en caso de inexistencia de tales límites, aquellos utilizados a efectos del cálculo del coeficiente de solvencia en dicha legislación.
+
+b) El 100% de los fondos propios de la sucursal calculados conforme a lo referido en el apartado 2 anterior.
+
+A efectos de poder aplicar el cálculo del apartado a), la sucursal comunicará al Banco de España semestralmente los fondos propios de la entidad de crédito con sede en un Estado no miembro de la UE mencionados en la letra a) anterior, referidos a 30 de junio y a 31 de diciembre de cada año.
+
+4\. Para la aplicación del capítulo 4 de esta circular, las sucursales de entidades de crédito con sede en un Estado no miembro de la UE tendrán en cuenta los siguientes aspectos:
+
+a) Del contenido de la sección 1.ª del capítulo 4 de esta circular, solo les será de aplicación lo establecido en la norma 28.1, debiendo la sucursal estar en disposición de demostrar que dichos requisitos se satisfacen al nivel de la entidad de crédito con sede en un Estado no miembro de la UE.
+
+b) La sección 2.ª del capítulo 4 de esta circular se aplicará en relación con las personas que determinen de modo efectivo la orientación de la sucursal y sean responsables directos de la gestión, que habrán de ser al menos dos personas.
+
+5\. El Banco de España, previa solicitud motivada, podrá eximir a las sucursales en España de entidades de crédito con sede en un Estado no miembro de la UE del cumplimiento de las partes tercera, cuarta, sexta, séptima y séptima bis del Reglamento (UE) n.º 575/2013, y del cumplimiento del capítulo 3 y de la sección 3.ª del capítulo 4 de esta circular, siempre que se cumplan las siguientes condiciones:
+
+a) Que la entidad esté sujeta en su país de origen a requerimientos equivalentes a los establecidos por la normativa de solvencia aplicable en España.
+
+b) Que la sucursal se integre con el resto de la entidad a efectos del cumplimiento de la normativa de solvencia.
+
+c) Que la entidad se comprometa a respaldar en todo momento, y siempre que se lo solicite el Banco de España, las obligaciones de su sucursal, proporcionándole los medios necesarios para atender esas obligaciones en España.
+
+d) Que en caso de concurso, liquidación, resolución o figuras equivalentes de la entidad de crédito exista igualdad de tratamiento de los depositantes de la sucursal con el del resto de los de la entidad, en particular con los de su país de origen, salvo cuando los depósitos sean escasamente significativos a juicio del Banco de España.
+
+e) Que la entidad cuente con planes de recuperación y resolución equiparables a los exigidos en la normativa de resolución de entidades de crédito.
+
+f) Que exista reciprocidad en los requerimientos de solvencia exigidos en el país de origen a las sucursales de entidades de crédito españolas.
+
+6\. La solicitud que se menciona en el apartado anterior incluirá, al menos, los siguientes extremos:
+
+a) Certificación del órgano de administración del compromiso de la entidad de respaldar en todo momento a la sucursal.
+
+b) Informe de un experto independiente certificando la equivalencia de la normativa de solvencia del país de origen respecto a la aplicable a las entidades de crédito españolas, en ausencia de una declaración de equivalencia de la Comisión Europea extensible al ámbito de los requerimientos cuya exención se solicita.
+
+c) Justificación de la reciprocidad en el tratamiento de las sucursales por parte del país de origen.
+
+d) Certificación de la autoridad supervisora correspondiente o, en su defecto, del órgano de administración de la entidad, del cumplimiento de los requisitos mencionados en el apartado anterior. Esta certificación deberá actualizarse una vez al año, a más tardar tres meses después de la aprobación de las cuentas anuales.
+
+7\. No será de aplicación a las sucursales de entidades de crédito con sede en Estados no miembros de la UE el artículo 87 de la Ley 10/2014, referido al informe bancario anual.
+
+7 bis. De conformidad con el artículo 17.3 del Real Decreto 84/2015, adicionalmente a la información relacionada en el mencionado artículo, las sucursales de entidades de crédito con sede en Estados no miembros de la UE comunicarán al Banco de España anualmente el perfil de riesgo supervisor que sus autoridades de supervisión de origen han asignado a las entidades a las que pertenecen, así como la correspondiente evaluación por el equivalente del proceso de revisión y evaluación supervisora de estas entidades y los requerimientos de fondos propios adicionales que les hayan podido exigir en sus países de origen.
+
+B. Prestación de servicios sin sucursal en España por entidades de crédito con sede en Estados no miembros de la Unión Europea.
+
+8\. A las entidades de crédito con sede en Estados no miembros de la UE que pretendan actuar en régimen de prestación de servicios sin sucursal les resultará de aplicación lo dispuesto en el artículo 13.4 de la Ley 10/2014 y en el artículo 17.4 del Real Decreto 84/2015.
+
+9\. A la hora de autorizar la prestación de servicios sin sucursal por entidades de crédito que tengan su sede en Estados no miembros de la UE, el Banco de España analizará, entre otros elementos:
+
+a) El volumen de actividad, los ingresos generados, el tipo de clientela y la complejidad de los productos o servicios que la entidad pretende prestar en España.
+
+b) Que se garantice el cumplimiento de las normas dictadas por razones de interés general.
+
+c) Que la entidad esté sujeta en su país de origen a requerimientos equivalentes a los establecidos por la normativa de solvencia aplicable en España.
+
+d) La situación financiera de la entidad y su grupo.
+
+e) El régimen de supervisión del tercer país en términos de marco legal, enfoque de la supervisión en base individual y consolidada, régimen de confidencialidad y facultades del supervisor, régimen de colaboración entre supervisores y si existe reciprocidad en la concesión de autorizaciones a entidades españolas en dicho Estado no miembro.
+
+El cumplimiento de los requisitos de las letras c) y e) se acreditará, para los aspectos en los que resulte aplicable, mediante una declaración de equivalencia de la Comisión Europea sobre esos extremos. Para el resto de aspectos de la letra e), o cuando no exista declaración de equivalencia, el cumplimiento de los requisitos se deberá justificar, a satisfacción del Banco de España, mediante declaración de la autoridad supervisora de la Entidad o un informe de un experto independiente.
+
+10\. El Banco de España, una vez evaluada la documentación recibida, podrá pedir una ampliación de la información suministrada, así como denegar el ejercicio de las actividades que la entidad pretenda realizar en España, o de algunas de ellas, o condicionar su autorización al cumplimiento de requisitos adicionales, cuando, a su juicio, resulte necesario para garantizar el respeto a las normas dictadas por razones de interés general.
+
+11\. Las entidades de crédito con sede en Estados no miembros de la UE que pretendan ofrecer servicios de inversión en España deberán constituir una sucursal en los casos en que así sea necesario de conformidad con lo establecido en el artículo 149.2 de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión, debiendo solicitar la autorización del Banco de España en los términos establecidos en el artículo 13.1 de la Ley 10/2014 y en el artículo 17.1 del Real Decreto 84/2015.
+
+> Se modifica la letra B por la norma 1.a) de la Circular 3/2023, de 31 de octubre. [Ref. BOE-A-2023-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23052)
+
+> Se modifica por la norma primera.4 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## CAPÍTULO 2 — Ejercicio por parte del Banco de España de opciones regulatorias permanentes previstas en el Reglamento (UE) n.º 575/2013
+
+#### Norma 5. Exposiciones frente a entes del sector público.
+
+1\. De conformidad con el artículo 56.2 del Real Decreto 84/2015, recibirán la misma ponderación de riesgo que las exposiciones frente a la Administración General del Estado las exposiciones frente a los entes del sector público detallados en las letras a) a c) del citado artículo 56.2, cuya naturaleza jurídica no sea la de sociedad mercantil o fundación, excepto, en este último caso, las fundaciones públicas sanitarias, y que estén incluidos en el sector Administraciones Públicas, subsectores Administración Central y Administraciones de Seguridad Social, del Sistema Europeo de Cuentas Nacionales y Regionales de la Unión Europea.
+
+También recibirán la misma ponderación de riesgo que las exposiciones frente a la Administración General del Estado las exposiciones frente al Instituto de Crédito Oficial y frente a los consorcios integrados exclusivamente por Administraciones Públicas o entes del sector público y cuya naturaleza jurídica no sea la de sociedad mercantil, en la medida en que, por la composición del consorcio, la Administración General del Estado soporte la mayoría de sus responsabilidades económicas.
+
+2\. De conformidad con el artículo 56.2 del Real Decreto 84/2015, recibirán la misma ponderación de riesgo que las exposiciones frente a la Administración de la que dependan las exposiciones frente a los entes del sector público detallados en las letras e) y f) del citado artículo 56.2, cuya naturaleza jurídica no sea la de sociedad mercantil o fundación, excepto, en este último caso, las fundaciones públicas sanitarias, y que estén incluidos en el sector Administraciones Públicas, subsectores Comunidades Autónomas y Corporaciones Locales, del Sistema Europeo de Cuentas Nacionales y Regionales de la Unión Europea, siempre que esas exposiciones puedan encuadrarse dentro del ámbito de los mecanismos adicionales de financiación para las Comunidades Autónomas y Corporaciones Locales a que se refiere la disposición adicional primera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+También recibirán la misma ponderación de riesgo que las exposiciones frente a la Administración de la que dependan las exposiciones frente a los consorcios integrados exclusivamente por Administraciones Públicas o entes del sector público y cuya naturaleza jurídica no sea la de sociedad mercantil, en la medida en que, por la composición del consorcio, la Administración de las Comunidades Autónomas o de las Entidades Locales soporte la mayoría de sus responsabilidades económicas y las exposiciones puedan incluirse dentro del ámbito de los mecanismos adicionales de financiación para las Comunidades Autónomas y Corporaciones Locales a que se refiere la disposición adicional primera de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+3\. Lo dispuesto en esta norma se aplicará de acuerdo con el marco de distribución de competencias fijado en el Reglamento (UE) n.º 1024/2013.
+
+> Se modifica por la norma primera.5 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## CAPÍTULO 3 — Colchones de capital
+
+#### Norma 6. Requerimiento combinado de colchones de capital.
+
+1\. De conformidad con lo dispuesto en el artículo 43 de la Ley 10/2014 y en el artículo 58 del Real Decreto 84/2015:
+
+a) Las entidades de crédito deberán cumplir en todo momento el requerimiento combinado de colchones de capital, entendido como el total del capital de nivel 1 ordinario necesario para cumplir con la obligación de disponer de un colchón de conservación de capital y –si procede–:
+
+i. Un colchón de capital anticíclico específico de cada entidad.
+
+ii. Un colchón para las entidades de importancia sistémica mundial.
+
+iii. Un colchón para otras entidades de importancia sistémica.
+
+iv. Un colchón contra riesgos sistémicos.
+
+b) El capital de nivel 1 ordinario utilizado para satisfacer el requerimiento combinado de colchones de capital previsto en la letra a) habrá de ser distinto y, por tanto, adicional al capital empleado para cumplir con:
+
+i. Los requerimientos de fondos propios previstos en las letras a) a c) del artículo 92.1 del Reglamento (UE) n.º 575/2013.
+
+ii. Los requerimientos de fondos propios adicionales para hacer frente a riesgos distintos del riesgo de apalancamiento excesivo según lo previsto en el artículo 69 de la Ley 10/2014.
+
+iii. La orientación sobre fondos propios adicionales según lo previsto en el artículo 69 bis de la Ley 10/2014 para hacer frente a riesgos distintos del riesgo de apalancamiento excesivo.
+
+iv. El componente basado en riesgo de los requerimientos de fondos propios y pasivos admisibles previstos en los artículos 92 bis y 92 *ter* del Reglamento (UE) n.º 575/2013.
+
+v. El componente basado en riesgo del requerimiento mínimo de fondos propios y pasivos admisibles previstos en la sección 4.ª bis del Capítulo VI de la Ley 11/2015, y su normativa de desarrollo.
+
+c) El capital de nivel 1 ordinario utilizado para cumplir alguno de los elementos del requerimiento combinado de colchones de capital habrá de ser distinto y, por tanto, adicional al empleado para satisfacer, en su caso, cualquier otro de los elementos del requerimiento combinado de colchones de capital.
+
+d) Cuando una entidad o grupo incumpla la obligación establecida en la letra a), por razones diferentes a la satisfacción de los números iv) y v) de la letra b), quedará sujeta, en los supuestos de la norma 24 de esta circular, a las restricciones en materia de distribuciones que se establecen en el artículo 48 de la Ley 10/2014, y deberá presentar un plan de conservación de capital conforme a lo dispuesto en el artículo 49 de esa ley y en la norma 25 de esta circular. Lo anterior se entiende sin perjuicio de la aplicación, cuando proceda, del régimen sancionador previsto en el título IV de la Ley 10/2014 y de las medidas que hubiera podido adoptar la autoridad competente de conformidad con el artículo 68 de esa ley.
+
+2\. Las competencias del Banco de España en la aplicación de este capítulo se ejercerán sin perjuicio de lo establecido en el artículo 5.2 del Reglamento (UE) n.º 1024/2013, que otorga al Banco Central Europeo (en adelante, BCE) la potestad de imponer medidas macroprudenciales más rigurosas que las establecidas por el Banco de España si lo considera necesario.
+
+3\. En todo caso, conforme a lo establecido en el artículo 5.1 del Reglamento (UE) n.º 1024/2013, cuando el Banco de España pretenda adoptar medidas macroprudenciales en virtud de lo dispuesto en este capítulo, lo notificará al BCE diez días hábiles antes de adoptar tal decisión. En caso de que el BCE se oponga, el Banco de España considerará debidamente las razones esgrimidas antes de proceder a su adopción.
+
+> Se modifica el apartado 1 por la norma primera.6 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 7. Colchón de conservación del capital.
+
+De conformidad con lo dispuesto en el artículo 44 de la Ley 10/2014, las entidades de crédito deberán mantener un colchón de conservación de capital consistente en capital de nivel 1 ordinario igual al 2,5% del importe total de su exposición al riesgo, calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013.
+
+#### Norma 8. Colchón de capital anticíclico específico de cada entidad.
+
+1\. De conformidad con lo dispuesto en el artículo 45.1 de la Ley 10/2014, las entidades de crédito deberán mantener un colchón de capital anticíclico consistente en capital de nivel 1 ordinario calculado específicamente para cada entidad o grupo. Dicho colchón se determinará sobre todas las exposiciones de la entidad o grupo o las exposiciones a un determinado sector.
+
+2\. El requerimiento de colchón de capital anticíclico calculado específicamente para cada entidad o grupo se determinará sobre el importe total de la exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013, con las precisiones previstas en esta norma y en las normas 9 a 12 bis de esta circular, multiplicado por el porcentaje al que se refieren los apartados 3 y 4 de esta norma, de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/306/21220_10797530_1.png)
+
+Donde:
+
+– CCA<sub>i</sub>: Denota el porcentaje del colchón de capital anticíclico fijado para el importe total de la exposición al riesgo para el país i.
+
+– RFP<sub>i pertinente</sub>: Denota el importe total de sus requerimientos de fondos propios por riesgo de crédito, determinado de conformidad con la parte tercera, títulos II y IV, del Reglamento (UE) n.º 575/2013 y correspondiente a las exposiciones crediticias pertinentes, de acuerdo con el apartado 5 de esta norma, para el país i.
+
+– RFP<sub>Total pertinente</sub>: Denota el importe total de sus requerimientos de fondos propios por riesgo de crédito, determinado de conformidad con la parte tercera, títulos II y IV, del Reglamento (UE) n.º 575/2013 y correspondiente a la totalidad de sus exposiciones crediticias pertinentes, de acuerdo con el apartado 5 de esta norma.
+
+– APR<sub>Total</sub>: Denota el importe total de la exposición al riesgo, de acuerdo con el artículo 92.3 del Reglamento (UE) n.º 575/2013.
+
+– CCAS<sub>i,j</sub>: Denota el porcentaje del colchón de capital anticíclico fijado para el importe de la exposición al riesgo del sector j del país i.
+
+– RFP<sub>i,j pertinente</sub>: Denota el importe total de sus requerimientos de fondos propios por riesgo de crédito, determinado de conformidad con la parte tercera, títulos II y IV, del Reglamento (UE) n.º 575/2013 y correspondiente a las exposiciones crediticias pertinentes, de acuerdo con el apartado 5 de esta norma, para el sector j del país i.
+
+Los porcentajes del colchón anticíclico aplicables sobre el importe total de exposición al riesgo y sobre los importes de la exposición al riesgo frente a uno o varios sectores podrán tener valores iguales o distintos, siendo posible que algunos de ellos sean cero, y otros, positivos, y los que tengan valores positivos no serán necesariamente iguales. No cabe, por tanto, entender que, si el porcentaje aplicable a la exposición al riesgo frente a uno o varios sectores fuera distinto de cero, y el aplicable sobre el total de exposición al riesgo fuera cero (o no se hubiera determinado porcentaje alguno), ello suponga que se ha fijado por primera vez, o incrementado, el porcentaje de colchón anticíclico aplicable sobre el importe total de la exposición al riesgo de la entidad o grupo.
+
+El Banco de España podrá fijar los porcentajes referidos en el párrafo anterior de forma simultánea o en diferentes momentos. Para ello, tendrá en cuenta, entre otros criterios, la existencia de riesgos de transmisión de los desequilibrios a otros sectores o categorías que fueran relevantes.
+
+La fijación de porcentajes para el colchón anticíclico sobre la exposición al riesgo frente a un sector o varios, en lugar o además de un porcentaje para el colchón anticíclico aplicable sobre el total de exposición al riesgo, tendrá lugar cuando los análisis realizados, de acuerdo con la metodología recogida en la norma 12 bis de esta circular, evidencien desequilibrios imputables a un sector o categoría de exposiciones determinado.
+
+3\. El porcentaje del colchón de capital anticíclico aplicable al componente sobre el importe total de la exposición al riesgo consistirá en la media ponderada de los porcentajes de los colchones anticíclicos que se apliquen en los territorios en los que estén ubicadas las exposiciones crediticias pertinentes de la entidad o grupo, según se definen en el apartado 5, o que sean de aplicación en virtud de lo dispuesto en las normas 9 a 12 de esta circular.
+
+Las entidades de crédito, con objeto de calcular la media ponderada a la que se refiere el párrafo anterior, deberán multiplicar cada porcentaje del colchón anticíclico fijado sobre el importe total de la exposición al riesgo por el importe total de sus requerimientos de fondos propios por riesgo de crédito, determinado de conformidad con la parte tercera, títulos II y IV, del Reglamento (UE) n.º 575/2013 y correspondiente a las exposiciones crediticias pertinentes en el territorio en cuestión, y dividir el importe resultante por el importe total de sus requerimientos de fondos propios por riesgo de crédito correspondiente a la totalidad de sus exposiciones crediticias pertinentes.
+
+4\. Las entidades de crédito, con objeto de calcular el requerimiento sobre el importe de la exposición al riesgo frente al sector j del país i, deberán multiplicar el importe total de la exposición al riesgo, de acuerdo con el artículo 92.3 del Reglamento (UE) n.º 575/2013, por el porcentaje del colchón de capital anticíclico fijado para el sector j en el país i una vez sustraído el porcentaje fijado para el importe total de exposición al riesgo para el país i, si el resultado fuera positivo, por el importe total de sus requerimientos de fondos propios por riesgo de crédito, determinado de conformidad con la parte tercera, títulos II y IV, del Reglamento (UE) n.º 575/2013 y correspondiente a las exposiciones crediticias pertinentes en el país i para el sector j, y dividir el importe resultante por el importe total de sus requerimientos de fondos propios por riesgo de crédito correspondiente a la totalidad de sus exposiciones crediticias pertinentes.
+
+5\. Las exposiciones crediticias pertinentes incluirán todas aquellas exposiciones que, por sus características, no puedan clasificarse en alguna de las categorías de exposición a las que se refieren las letras a) a f) del artículo 112 del Reglamento (UE) n.º 575/2013, con independencia del método de riesgo de crédito que la entidad les aplique para calcular los requerimientos de fondos propios correspondientes, y que estén sujetas a:
+
+a) Los requerimientos de fondos propios por riesgo de crédito que se establecen en la parte tercera, título II, de dicho reglamento.
+
+b) Los requerimientos de fondos propios por riesgo específico que se establecen en la parte tercera, título IV, capítulo 2, de dicho reglamento o por riesgo incremental de impago y migración que se establecen en la parte tercera, título IV, capítulo 5, del mismo reglamento cuando la exposición esté incluida en la cartera de negociación.
+
+c) Los requerimientos de fondos propios que se establecen en la parte tercera, título II, capítulo 5, del mismo reglamento cuando la exposición sea una titulización.
+
+6\. Las entidades de crédito identificarán la ubicación geográfica de una exposición crediticia pertinente de conformidad con las normas técnicas de regulación a las que se refiere el artículo 140.7 de la Directiva 2013/36/UE, establecidas en el Reglamento Delegado (UE) n.º 1152/2014 o en cualquier otro que lo derogue o modifique.
+
+7\. Para determinar el porcentaje del colchón anticíclico aplicable a exposiciones ubicadas en España, se atenderá a lo dispuesto en las normas 9 y 12 bis de esta circular.
+
+8\. Para determinar el porcentaje del colchón anticíclico aplicable a exposiciones ubicadas en otros Estados miembros de la UE, se atenderá a lo dispuesto en las normas 10 y 12 bis de esta circular.
+
+9\. Para determinar el porcentaje del colchón anticíclico aplicable a exposiciones ubicadas en Estados no miembros de la UE, se atenderá a lo dispuesto en las normas 11 y 12 bis de esta circular.
+
+10\. De conformidad con lo establecido en el artículo 60 del Real Decreto 84/2015, a efectos del cálculo previsto en el apartado 3 de esta norma:
+
+a) Cuando el porcentaje del colchón anticíclico aplicable sobre el importe total de la exposición al riesgo correspondiente a las exposiciones ubicadas en España aumente, dicho porcentaje se aplicará a partir de la fecha especificada en la información que se publique con arreglo a la norma 9 de esta circular.
+
+b) Cuando el porcentaje del colchón anticíclico aplicable sobre el importe total de la exposición al riesgo correspondiente a las exposiciones ubicadas en otros Estados miembros de la UE aumente, dicho porcentaje se aplicará a partir de la fecha especificada en la información que se publique en el correspondiente Estado miembro, con arreglo a lo establecido en su respectiva legislación, salvo que se trate de un porcentaje superior al 2,5 % y el Banco de España reconozca dicho porcentaje de conformidad con lo establecido en la norma 12 de esta circular; en ese caso se atenderá a lo previsto en dicho reconocimiento.
+
+c) Sin perjuicio de lo previsto en la letra d), cuando el porcentaje del colchón anticíclico aplicable sobre el importe total de la exposición al riesgo correspondiente a las exposiciones ubicadas en un Estado no miembro de la UE aumente, dicho porcentaje se aplicará 12 meses después de la fecha en que la autoridad pertinente de dicho Estado haya anunciado el aumento, con independencia de que esa autoridad exija a las entidades constituidas en dicho Estado que apliquen el cambio en un plazo más breve. Se considerará que toda modificación del porcentaje del colchón anticíclico relativo a un Estado no miembro de la UE ha sido anunciada en la fecha en que la autoridad pertinente de dicho Estado la publique de conformidad con las normas nacionales aplicables.
+
+d) Cuando el Banco de España fije el porcentaje del colchón anticíclico relativo a un Estado no miembro de la UE con arreglo a la norma 11 de esta circular, o reconozca el porcentaje del colchón anticíclico relativo a un Estado no miembro de la UE con arreglo a la norma 12 de esta circular, si el porcentaje del colchón aumenta, ese porcentaje se aplicará a partir de la fecha especificada en la información que se publique con arreglo a lo dispuesto en el apartado 3 y la letra b), respectivamente, de dichas normas.
+
+e) Cuando el porcentaje del colchón anticíclico disminuya, dicho porcentaje se aplicará de manera inmediata.
+
+11\. A efectos del cálculo previsto en el apartado 4 de esta norma:
+
+a) Cuando el porcentaje del colchón anticíclico correspondiente a las exposiciones ubicadas en España para un sector aumente, dicho porcentaje se aplicará a partir de la fecha especificada en la información que se publique con arreglo a la norma 12 bis de esta circular.
+
+b) Cuando el Banco de España reconozca un porcentaje del colchón anticíclico correspondiente a las exposiciones ubicadas en otros Estados, miembros o no miembros de la UE, para un sector, dicho porcentaje se aplicará a partir de la fecha que el Banco de España determine, de conformidad con lo establecido en la norma 12 bis de esta circular.
+
+c) Cuando el porcentaje del colchón anticíclico disminuya, dicho porcentaje se aplicará de manera inmediata, salvo lo previsto en la norma 12 bis.11 de esta circular.
+
+> Se modifica por la norma única.c) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 9. Porcentaje del colchón anticíclico aplicable a exposiciones ubicadas en España.
+
+1\. De conformidad con lo establecido en el artículo 61 del Real Decreto 84/2015:
+
+a) El Banco de España calculará cada trimestre una pauta de colchón que tomará como referencia para fijar el porcentaje del colchón anticíclico relativo a las exposiciones ubicadas en España con arreglo al apartado b) siguiente. La pauta de colchón será un porcentaje de referencia y reflejará de manera transparente el ciclo crediticio y los riesgos derivados de todo crecimiento excesivo del crédito en España, y tendrá debidamente en cuenta las particularidades de la economía. Se basará en la desviación de la ratio de crédito sobre el producto interior bruto de su tendencia a largo plazo, teniendo en cuenta, entre otras variables:
+
+i. Un indicador del aumento de los niveles crediticios en España y, en particular, un indicador que refleje las variaciones de la ratio de créditos concedidos en España con relación al producto interior bruto.
+
+ii. Las recomendaciones emitidas por la Junta Europea de Riesgo Sistémico (en adelante, JERS), conforme al artículo 135.1.b) de la Directiva 2013/36/UE.
+
+b) El Banco de España evaluará la intensidad del riesgo sistémico y la idoneidad del porcentaje del colchón anticíclico para las exposiciones crediticias en España con carácter trimestral y fijará o ajustará el porcentaje del colchón anticíclico, si fuera necesario. Al hacerlo, tendrá en cuenta lo siguiente:
+
+i. La pauta de colchón calculada de conformidad con el apartado 1.a).
+
+ii. Las recomendaciones emitidas por la JERS, conforme al artículo 135.1.a), c) y d) de la Directiva 2013/36/UE.
+
+iii. Cualesquiera otras variables que el Banco de España considere pertinentes.
+
+Solo será necesario que el Banco de España resuelva sobre el porcentaje del colchón en caso de que decida fijarlo por primera vez o ajustarlo, no siendo preciso cuando el porcentaje del colchón permanezca constante.
+
+c) El porcentaje del colchón anticíclico, expresado como tanto por ciento del importe total de exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013 y que corresponde a las exposiciones crediticias en España, se situará entre el 0 % y el 2,5 %, calibrado en escalones o múltiplos de 0,25 puntos porcentuales. Cuando las consideraciones a que se refiere el apartado 1.b) lo justifiquen, el Banco de España podrá fijar un porcentaje del colchón anticíclico superior al 2,5 %.
+
+2\. Cuando el Banco de España fije por primera vez un porcentaje del colchón anticíclico superior a cero, o cuando, posteriormente, incremente el porcentaje del colchón anticíclico vigente, decidirá asimismo la fecha a partir de la cual las entidades habrán de aplicar ese colchón incrementado a efectos del cálculo de su respectivo colchón de capital anticíclico específico. Dicha fecha será posterior en doce meses a la fecha en que se anuncie la fijación de un colchón incrementado de conformidad con el apartado 4, salvo circunstancias excepcionales debidamente justificadas, en las que podrá ser posterior en menos de doce meses.
+
+3\. Si el Banco de España reduce el porcentaje del colchón anticíclico vigente, con independencia de que pase o no a ser nulo, determinará asimismo un período indicativo durante el cual no se prevé ningún aumento del colchón. No obstante, ese período indicativo no será vinculante.
+
+4\. El Banco de España publicará trimestralmente en su sitio web al menos la siguiente información:
+
+a) El porcentaje del colchón anticíclico aplicable.
+
+b) La ratio de crédito respecto del producto interior bruto pertinente y su desviación con respecto a la tendencia a largo plazo.
+
+c) La pauta de colchón calculada de conformidad con el apartado 1.a).
+
+d) Una justificación de ese porcentaje del colchón.
+
+e) En el supuesto de que se incremente el porcentaje del colchón, la fecha a partir de la cual las entidades habrán de aplicar ese porcentaje incrementado a efectos del cálculo de su respectivo colchón de capital anticíclico específico.
+
+f) Si la fecha a que se refiere la letra e) es posterior en menos de doce meses a la fecha de la publicación prevista en el presente apartado, una referencia a las circunstancias excepcionales que justifican ese plazo abreviado de aplicación.
+
+g) En el supuesto de que se disminuya el porcentaje del colchón, el período indicativo durante el cual no se prevé aumento alguno de dicho porcentaje, junto con una justificación de ese período.
+
+h) Cualquier otro dato que el Banco de España considere oportuno a la luz de las recomendaciones emitidas por la JERS, conforme al artículo 135.1 de la Directiva 2013/36/UE.
+
+5\. El Banco de España tomará todas las medidas que sean razonables para coordinar la fecha de dicha publicación con la de las autoridades designadas por otros Estados miembros para la fijación de los colchones anticíclicos correspondientes a las exposiciones en dichos Estados.
+
+6\. El Banco de España notificará a la JERS cada modificación del colchón anticíclico y la información requerida que se especifica en el apartado 4.
+
+> Se modifica por la norma primera.7 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 10. Porcentaje del colchón anticíclico aplicable a exposiciones ubicadas en otros Estados miembros de la Unión Europea.
+
+De conformidad con lo dispuesto en el artículo 60.5 del Real Decreto 84/2015:
+
+a) Si la autoridad designada por el Estado miembro fija un porcentaje del colchón anticíclico no superior al 2,5% del importe total de exposición al riesgo, la entidad deberá aplicar dicho porcentaje en el cálculo del colchón de capital anticíclico específico.
+
+b) Si la autoridad designada por el Estado miembro fija un porcentaje del colchón anticíclico superior al 2,5% del importe total de exposición al riesgo, y este es reconocido por el Banco de España en virtud de la norma 12 de esta circular, la entidad deberá aplicar dicho porcentaje en el cálculo del colchón de capital anticíclico específico.
+
+c) Si la autoridad designada por el Estado miembro fija un porcentaje del colchón anticíclico superior al 2,5% del importe total de exposición al riesgo y el Banco de España no reconoce dicho porcentaje en virtud de la norma 12 de esta circular, la entidad deberá aplicar un 2,5%.
+
+#### Norma 11. Porcentaje del colchón anticíclico aplicable a exposiciones ubicadas en Estados no miembros de la Unión Europea.
+
+1\. En desarrollo de lo dispuesto en el artículo 60.6 del Real Decreto 84/2015:
+
+a) Para determinar el porcentaje del colchón anticíclico aplicable a las exposiciones ubicadas en Estados no miembros de la UE, se aplicará el porcentaje fijado por la autoridad pertinente de dicho Estado o, según corresponda conforme a lo dispuesto en los siguientes apartados, por el Banco de España.
+
+b) Cuando la autoridad pertinente de un Estado no miembro de la UE no haya fijado y publicado un porcentaje del colchón anticíclico aplicable a dicho Estado frente al que una o más entidades de la UE tienen una exposición crediticia, el Banco de España podrá fijar el porcentaje del colchón anticíclico que las entidades autorizadas en España habrán de aplicar para las exposiciones a dicho Estado a efectos del cálculo de su respectivo colchón anticíclico específico.
+
+c) Cuando la autoridad pertinente de un Estado no miembro de la UE haya fijado y publicado un porcentaje del colchón anticíclico aplicable a dicho Estado, ya sea inferior o superior al 2,5%, el Banco de España podrá fijar, en lo que respecta a ese Estado, un porcentaje del colchón distinto a efectos del cálculo, por parte de las entidades autorizadas en España, de su respectivo colchón de capital anticíclico específico. El Banco de España podrá adoptar esta decisión si razonablemente considera que el porcentaje fijado por la autoridad pertinente del Estado no miembro de la UE no es suficiente para proteger debidamente a dichas entidades frente a los riesgos de crecimiento crediticio excesivo en ese Estado no miembro de la UE.
+
+d) Al hacer uso de la facultad que le confiere la letra c) anterior, el Banco de España no fijará un porcentaje del colchón anticíclico inferior al nivel establecido por la autoridad pertinente del Estado no miembro de la UE, salvo que ese porcentaje exceda del 2,5% del importe total de exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013 correspondiente a las entidades con exposición crediticia en ese Estado.
+
+e) Si la autoridad pertinente de dicho Estado no miembro de la UE fija un colchón superior al 2,5% y el Banco de España no lo reconoce en virtud de la norma 12, las entidades autorizadas en España aplicarán el porcentaje del colchón anticíclico superior al 2,5% que establezca el Banco de España en lugar del fijado por la autoridad pertinente de dicho Estado no miembro de la UE, o un porcentaje del colchón anticíclico del 2,5% si el Banco de España no fija otro distinto.
+
+2\. Cuando el Banco de España, con arreglo al apartado 1, fije un porcentaje del colchón anticíclico aplicable a un Estado no miembro de la UE que incremente el porcentaje del colchón anticíclico vigente, el Banco de España decidirá la fecha a partir de la cual las entidades autorizadas en España habrán de aplicar ese porcentaje a efectos del cálculo de su respectivo colchón específico de capital anticíclico. Dicha fecha será doce meses posterior a la fecha en que se anuncie la fijación de un colchón incrementado de conformidad con el apartado 3, salvo circunstancias excepcionales debidamente justificadas, en las que podrá ser posterior en menos de doce meses.
+
+3\. El Banco de España publicará en su sitio web cualquier fijación de un porcentaje del colchón anticíclico aplicable a un Estado no miembro de la UE, e incluirá la siguiente información:
+
+a) El porcentaje del colchón anticíclico y el Estado no miembro de la UE al que se aplica.
+
+b) Una justificación de ese porcentaje del colchón.
+
+c) En el supuesto de que se fije por primera vez un porcentaje del colchón anticíclico superior a cero o de que se incremente el porcentaje, la fecha a partir de la cual las entidades habrán de aplicar ese porcentaje incrementado a efectos del cálculo de su respectivo colchón de capital anticíclico específico.
+
+d) Si la fecha a que se refiere la letra c) es posterior en menos de doce meses a la fecha de la publicación del porcentaje fijado con arreglo al presente apartado, una referencia a las circunstancias excepcionales que justifican ese plazo abreviado de aplicación.
+
+#### Norma 12. Reconocimiento de porcentajes de colchones anticíclicos superiores al 2,5%.
+
+En desarrollo de lo dispuesto en el artículo 60 del Real Decreto 84/2015:
+
+a) Cuando una autoridad designada por otro Estado miembro o la autoridad pertinente de un Estado no miembro de la UE haya fijado un porcentaje del colchón anticíclico superior al 2,5% del importe total de exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013, el Banco de España podrá reconocer dicho porcentaje a efectos del cálculo, por parte de las entidades autorizadas en España, de su respectivo colchón de capital anticíclico específico.
+
+b) En el supuesto de que, de conformidad con el apartado a), el Banco de España reconozca un porcentaje del colchón superior al 2,5% del importe total de exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013, lo anunciará mediante publicación en su sitio web. El anuncio incluirá, como mínimo, la siguiente información:
+
+i. El porcentaje del colchón anticíclico aplicable.
+
+ii. El Estado miembro o los Estados no miembros a los que se aplica.
+
+iii. En el supuesto de que se incremente el porcentaje del colchón, la fecha a partir de la cual las entidades autorizadas en España habrán de aplicar ese porcentaje incrementado a efectos del cálculo de su respectivo colchón de capital anticíclico específico.
+
+iv. Si la fecha a que se refiere el punto iii. es posterior en menos de doce meses a la fecha del anuncio previsto en el presente apartado, una referencia a las circunstancias excepcionales que justifican ese plazo abreviado de aplicación.
+
+#### Norma 12 bis. Porcentaje del colchón anticíclico sobre la exposición al riesgo frente a uno o varios sectores aplicable a exposiciones ubicadas en España y posibilidad de reconocimiento de porcentajes de colchones anticíclicos sobre la exposición al riesgo frente a un sector aplicables a exposiciones ubicadas en otros Estados.
+
+1\. Para la determinación del porcentaje aplicable sobre el importe de la exposición al riesgo frente a uno o varios sectores, el Banco de España evaluará y hará un seguimiento continuado de la relevancia cuantitativa de los distintos sectores o categorías de exposiciones crediticias de las entidades de crédito y de una serie de indicadores para cada uno de los sectores o categorías.
+
+2\. A los efectos del apartado 1 de esta norma, se identifican las exposiciones al riesgo de los siguientes sectores, con independencia del método de riesgo de crédito que la entidad les aplique para calcular los requerimientos de fondos propios correspondientes:
+
+a) Sociedades no financieras y empresarios individuales (actividad empresarial), según se identifican en la norma 66.6.b) y en la norma 66.6.c).ii) de la Circular 4/2017, respectivamente, que desarrollen una actividad económica clasificada como "promoción inmobiliaria" o como "actividades inmobiliarias", de acuerdo con el anexo del Real Decreto 475/2007, de 13 de abril, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2009 (CNAE 2009). En relación con los empresarios individuales (actividad empresarial), se recogerán exclusivamente las operaciones a nombre de los empresarios cuando tengan como finalidad su actividad empresarial.
+
+b) Sociedades no financieras y empresarios individuales (actividad empresarial), según se identifican en la norma 66.6.b) y en la norma 66.6.c).ii) de la Circular 4/2017, respectivamente, que desarrollen una actividad económica que no se clasifique como "promoción inmobiliaria" o como "actividades inmobiliarias", de acuerdo con el anexo del Real Decreto 475/2007. En relación con los empresarios individuales (actividad empresarial), se recogerán exclusivamente las operaciones a nombre de los empresarios cuando tengan como finalidad su actividad empresarial.
+
+c) Hogares, según se identifican en la norma 66.6.c) de la Circular 4/2017, que sean destinatarios de un crédito a la vivienda, de acuerdo con la norma 69.2.e).i) de la Circular 4/2017, exclusivamente por el importe correspondiente a dicha financiación de la vivienda, excluidos aquellos cuya vivienda le conste a la entidad que se utiliza con carácter predominante para fines relacionados con negocios de los titulares, bien como empresarios individuales, bien a través de entidades sin personalidad jurídica.
+
+d) Hogares, según se identifican en la norma 66.6.c) de la Circular 4/2017, por la financiación no incluida en la letra c) de este apartado, y excluidos los empresarios individuales (actividad empresarial) recogidos en las letras a) y b) anteriores. Por tanto, solo se incluirán las operaciones concedidas a empresarios individuales cuando a la entidad le conste que se utilizan predominantemente para consumo personal.
+
+Las exposiciones que cuenten con algún tipo de garantía personal se atribuirán al sector del obligado principal, sin perjuicio de que sus requerimientos de fondos propios por riesgo de crédito se determinen de conformidad con lo previsto en la norma 8 de esta circular.
+
+3\. En particular, se utilizarán los siguientes indicadores para la evaluación, el seguimiento y la determinación del porcentaje aplicable por el Banco de España al importe de la exposición al riesgo frente a uno o varios sectores para las exposiciones ubicadas en España:
+
+i. Crédito a los sectores considerados, expresado en valor absoluto, tanto en términos nominales como deflactado por el indicador de precios correspondiente, y en términos relativos sobre el PIB, sobre la renta disponible y sobre el valor añadido bruto de cada sector.
+
+ii. Los crecimientos y los cambios de las medidas consideradas en el punto anterior, así como estimaciones de la desviación de estas medidas respecto a sus tendencias a largo plazo.
+
+iii. Indicadores sobre el grado de desequilibrio financiero de los sectores analizados, incluyendo variables como la tasa de ahorro, la capacidad o necesidad de financiación y la ratio de deuda sobre renta disponible o sobre valor añadido, entre otros.
+
+iv. Nivel, evolución y desviación respecto a la tendencia a largo plazo de los precios de activos relevantes para el seguimiento de los desequilibrios cíclicos en cada sector, incluidos los precios de compraventa y del alquiler en el mercado inmobiliario.
+
+v. Cualquier otra información cuantitativa y cualitativa que el Banco de España considere relevante.
+
+4\. El Banco de España evaluará periódicamente la evolución de los indicadores recogidos en el apartado 3 de esta norma. De acuerdo con dicha evaluación, el Banco de España, en su caso, fijará el porcentaje adecuado del colchón anticíclico para la exposición al riesgo frente a un sector o varios sectores cuando los indicadores recogidos en el apartado 3 de esta norma indiquen desequilibrios sectoriales cíclicos que considere que pueden entrañar perjuicios graves para el sistema financiero y la economía real españoles. Al hacerlo, tendrá en cuenta lo siguiente:
+
+i. El porcentaje del colchón anticíclico calculado de conformidad con la norma 9 de esta circular.
+
+ii. Las recomendaciones emitidas por la JERS.
+
+iii. Cualesquiera otras variables que el Banco de España considere pertinentes.
+
+En caso de que el Banco de España estime necesario fijar un porcentaje del colchón anticíclico para el importe de la exposición al riesgo frente a uno o varios sectores, lo notificará a las entidades afectadas, que tendrán un plazo de diez días hábiles para presentar las alegaciones que interesen.
+
+5\. El Banco de España podría decidir fijar un porcentaje del colchón anticíclico para el importe de la exposición al riesgo frente a varios sectores o categorías simultáneamente cuando se considere una herramienta macroprudencial más efectiva.
+
+6\. El Banco de España, conforme al apartado 4 de esta norma, determinará el porcentaje del colchón anticíclico, expresado como porcentaje del importe de la exposición al riesgo calculada de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013 frente al sector o categoría según el apartado 2 de esta norma y que corresponde a las exposiciones crediticias en España. Dicho porcentaje se situará entre el 0 % y el 5 %, calibrado en escalones o múltiplos de 0,25 puntos porcentuales. Cuando las consideraciones a las que se refiere el apartado 1 lo justifiquen, el Banco de España podrá fijar un porcentaje del colchón anticíclico superior al 5 %.
+
+7\. Cuando el Banco de España decida fijar por primera vez un porcentaje del colchón anticíclico para la exposición al riesgo frente a un sector o varios simultáneamente superior a cero, o cuando, posteriormente, incremente el porcentaje del colchón vigente, decidirá asimismo la fecha a partir de la cual las entidades habrán de aplicar dicho porcentaje a efectos del cálculo de su respectivo colchón de capital anticíclico para la exposición al riesgo frente al sector o sectores en cuestión. Dicha fecha será seis meses posterior a la fecha en que se anuncie la fijación de un colchón o su incremento de conformidad con el apartado 9 de esta norma, salvo circunstancias excepcionales debidamente justificadas, en las que podrá ser posterior en menos de seis meses.
+
+8\. Si el Banco de España reduce el porcentaje del colchón anticíclico establecido para el importe de la exposición al riesgo frente a un sector, con independencia de que pase o no a ser nulo, determinará asimismo un período indicativo durante el cual no se prevé aumento alguno del porcentaje del colchón. No obstante, ese período indicativo no será vinculante.
+
+9\. Sin perjuicio de la notificación a las entidades afectadas de la resolución adoptada conforme al apartado 4, el Banco de España anunciará el porcentaje del colchón anticíclico aplicable sobre el importe de la exposición al riesgo frente a uno o varios sectores, y los sectores o categorías de exposiciones afectadas mediante publicación en su sitio web. El anuncio incluirá la siguiente información:
+
+a) El porcentaje del colchón anticíclico aplicable.
+
+b) Los sectores o categorías de exposiciones crediticias en España sobre los que se aplicará.
+
+c) Una justificación del porcentaje del colchón.
+
+d) Las indicaciones necesarias para una adecuada aplicación del requerimiento.
+
+e) En el supuesto de que se fije por primera vez o se incremente el porcentaje del colchón, la fecha a partir de la cual las entidades habrán de aplicar dicho porcentaje a efectos del cálculo de sus requerimientos de colchón de capital anticíclico.
+
+f) Si la fecha a la que se refiere la letra e) es posterior en menos de seis meses a la fecha del anuncio previsto en el presente apartado, una referencia a las circunstancias excepcionales que justifican ese plazo abreviado de aplicación.
+
+g) En el supuesto de que se disminuya el porcentaje del colchón, el período indicativo durante el cual no se prevé aumento alguno de dicho porcentaje, junto con una justificación de ese período.
+
+h) Cualquier otro dato que el Banco de España considere oportuno a la luz de las recomendaciones emitidas por la JERS, conforme al artículo 135.1 de la Directiva 2013/36/UE, u otros organismos internacionales.
+
+10\. La decisión sobre la fijación de un porcentaje del colchón anticíclico aplicable a la exposición al riesgo frente a uno o varios sectores se aplicará hasta que, a juicio del Banco de España, el riesgo sistémico deje de existir.
+
+11\. Cuando el Banco de España adopte una decisión de disminución del porcentaje del colchón anticíclico aplicable al importe de la exposición al riesgo frente a uno o varios sectores, con independencia de que pase o no a ser nulo, y a su vez decida fijar por primera vez un porcentaje del colchón anticíclico sobre el importe total de la exposición al riesgo superior a cero o incrementar su porcentaje, podrá establecer como fecha en que será efectiva la disminución del porcentaje del colchón anticíclico aplicable al importe de la exposición al riesgo frente a uno o varios sectores la fecha en que se aplique la fijación por primera vez o el incremento del porcentaje del colchón anticíclico sobre el importe total de la exposición al riesgo.
+
+12\. Sin perjuicio del cumplimiento de las obligaciones de confidencialidad legalmente previstas, el Banco de España facilitará a las autoridades designadas por otros Estados miembros o a las autoridades pertinentes de terceros países la información necesaria a los efectos de que, si procede, reconozcan la determinación de colchón anticíclico para la exposición al riesgo frente al sector o sectores correspondientes y la apliquen a las entidades autorizadas en sus respectivos territorios que tengan sucursales o exposiciones en España.
+
+13\. Cuando una autoridad designada por otro Estado miembro o la autoridad pertinente de un Estado no miembro de la UE haya fijado un porcentaje del colchón anticíclico aplicable a la exposición al riesgo frente a un sector o medida equivalente, el Banco de España podrá reconocer dicha medida a efectos del cálculo, por parte de todas las entidades autorizadas en España, de sus requerimientos de colchón anticíclico, conforme a la fórmula recogida en la norma 8.2 de esta circular.
+
+En el supuesto de que el Banco de España reconozca un porcentaje del colchón anticíclico para la exposición al riesgo frente a un sector fijado por otra autoridad designada o pertinente, sin perjuicio de la notificación a todas las entidades afectadas por la resolución adoptada conforme al apartado 4, lo anunciará mediante publicación en su sitio web. El anuncio incluirá, como mínimo, la siguiente información:
+
+i. El porcentaje del colchón anticíclico aplicable y las exposiciones sobre las que habrá de calcularse.
+
+ii. El Estado miembro o no miembro al que se aplica.
+
+iii. En el supuesto de que se fije por primera vez o se incremente el porcentaje del colchón, la fecha a partir de la cual las entidades autorizadas en España habrán de aplicar ese porcentaje incrementado a efectos del cálculo de sus requerimientos de colchón de capital anticíclico.
+
+iv. Si la fecha a la que se refiere el punto iii es posterior en menos de seis meses a la fecha del anuncio previsto en el presente apartado, una referencia a las circunstancias excepcionales que justifican ese plazo abreviado de aplicación.
+
+> Se añade por la norma única.d) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 13. Colchón de capital para entidades de importancia sistémica mundial.
+
+1\. De conformidad con lo dispuesto en el artículo 46.1.a) de la Ley 10/2014 y en el artículo 62 del Real Decreto 84/2015, el Banco de España identificará a aquellas entidades de crédito que sean, en base consolidada, entidades de importancia sistémica mundial (en adelante, EISM). Podrán ser identificadas como EISM:
+
+a) Un grupo encabezado por una entidad de crédito matriz de la UE, una sociedad financiera de cartera matriz de la UE o una sociedad financiera mixta de cartera matriz de la UE.
+
+b) Una entidad de crédito que no sea filial de una entidad de crédito matriz de la UE, de una sociedad financiera de cartera matriz de la UE o de una sociedad financiera mixta de cartera matriz de la UE.
+
+2\. El método de identificación de las EISM, y de su clasificación en las subcategorías a las que se refiere el artículo 46.2 de la Ley 10/2014 y el artículo 62.2 del Real Decreto 84/2015, será el especificado en las normas técnicas de regulación a las que se refiere el artículo 131.18 de la Directiva 2013/36/UE, establecidas en el Reglamento Delegado (UE) n.º 1222/2014.
+
+3\. El método adicional de identificación de las EISM a que se refiere el artículo 46.2 bis de la Ley 10/2014 y el artículo 62.2 bis del Real Decreto 84/2015 será el especificado en las normas técnicas de regulación a las que se refiere el artículo 131.18 de la Directiva 2013/36/UE, establecidas en el Reglamento Delegado n.º 1222/2014.
+
+4\. De conformidad con lo dispuesto en el artículo 46.4 de la Ley 10/2014, cada EISM mantendrá, en base consolidada, el colchón de capital de nivel 1 ordinario para EISM que corresponda a la subcategoría en la que se clasifique a la entidad.
+
+5\. Las EISM se clasificarán en cinco subcategorías, a las que se les aplicará el porcentaje del colchón para EISM que figura en el cuadro siguiente. Dicho porcentaje se aplicará sobre el importe total de exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013.
+
+|  | Porcentaje |
+|---|---|
+| Subcategoría 1. | 1 |
+| Subcategoría 2. | 1,5 |
+| Subcategoría 3. | 2 |
+| Subcategoría 4. | 2,5 |
+| Subcategoría 5. | 3,5 |
+
+6\. De conformidad con lo dispuesto en el artículo 62 del Real Decreto 84/2015, sin perjuicio de lo dispuesto en los apartados 1 y 4 de esta norma, el Banco de España podrá –en el ejercicio de una supervisión prudente–:
+
+a) Reclasificar una EISM de una subcategoría inferior en una subcategoría superior.
+
+b) Clasificar a una entidad, en el sentido del apartado 1, cuya puntuación general sea inferior al límite establecido para la primera subcategoría en dicha subcategoría o en otra superior, y así identificarla como EISM.
+
+c) Teniendo en cuenta la existencia del Mecanismo Único de Resolución, a partir de la puntuación general adicional a la que se refiere el artículo 62.2 bis del Real Decreto 84/2015, reclasificar una EISM de una subcategoría superior en una subcategoría inferior.
+
+> Se modifica por la norma primera.8 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 14. Identificación de otras entidades de importancia sistémica.
+
+1\. De conformidad con lo dispuesto en el artículo 46.1.b) de la Ley 10/2014 y en el artículo 63 del Real Decreto 84/2015, el Banco de España identificará aquellas entidades de crédito que sean otras entidades de importancia sistémica (en adelante, OEIS). Las OEIS podrán ser bien una entidad de crédito, bien un grupo encabezado por una entidad matriz de la UE o de un Estado miembro, una sociedad financiera de cartera matriz de la UE o de un Estado miembro, o una sociedad financiera mixta de cartera matriz de la UE o de un Estado miembro.
+
+2\. El proceso de identificación de OEIS se realizará anualmente, y consistirá en dos fases:
+
+A. Cálculo de una puntuación para cada entidad a nivel consolidado, así como a cualquier otro nivel que se considere relevante. Las puntuaciones reflejarán la importancia sistémica de la entidad y se calcularán como se especifica en los apartados 3 a 7 de esta norma.
+
+B. Evaluación adicional, según se describe en los apartados 8 y 9 de esta norma.
+
+A) Cálculo de la puntuación para la identificación de OEIS.
+
+3\. Los criterios fundamentales para el cálculo de la puntuación de la importancia sistémica son:
+
+a) El tamaño de la entidad.
+
+b) La importancia para la economía española o de la UE, considerando la posibilidad de sustitución de los servicios o la infraestructura financiera de la entidad.
+
+c) La complejidad, incluida la originada por la actividad transfronteriza de la entidad.
+
+d) La interconexión de la entidad con el sistema financiero.
+
+4\. Cada uno de esos cuatro criterios se valorará con los indicadores obligatorios que se presentan en el anejo I. Todos los criterios recibirán la misma ponderación y todos los indicadores relativos a un mismo criterio tendrán una ponderación idéntica. Si no se dispone de valores para algunos de los indicadores, se utilizarán aproximaciones que se consideren adecuadas o, si ello no fuera posible, se podrá prescindir del indicador, todo lo cual se justificará apropiadamente.
+
+5\. El Banco de España calculará la puntuación de cada entidad del siguiente modo:
+
+a) Para cada indicador y entidad, se dividirá su valor entre la suma de los valores del indicador para todas las entidades susceptibles de ser identificadas como OEIS y todas las sucursales de entidades autorizadas en otros Estados.
+
+b) Las cifras resultantes se multiplicarán por 10.000 para expresar la puntuación de cada indicador en puntos básicos.
+
+c) La puntuación de cada criterio para cada entidad será la media simple de las puntuaciones de los indicadores de ese criterio.
+
+d) La puntuación total de cada entidad se obtendrá como la media simple de las puntuaciones de los cuatro criterios.
+
+6\. El Banco de España identificará como OEIS a las entidades con una puntuación total igual o superior a 350 puntos básicos.
+
+7\. El Banco de España excluirá del proceso de identificación a aquellas entidades cuyo tamaño relativo medido por sus activos totales no supere el 0,02%, salvo que estime que dichas entidades puedan plantear una amenaza sistémica para la economía nacional. En cualquier caso, y de acuerdo con el punto 5.a) anterior, el valor de sus indicadores, o una estimación de ellos, se tendrá en cuenta en el cálculo de las puntuaciones de las demás entidades. La lista de entidades incluidas en el proceso de identificación se revisará cada vez que este se realice.
+
+B) Evaluación adicional de las OEIS.
+
+8\. El Banco de España evaluará si se deben identificar más entidades como OEIS en función de las puntuaciones de cualquiera de los indicadores obligatorios o de los indicadores opcionales de importancia sistémica que se consideren relevantes. El Banco de España no identificará a una entidad como OEIS si su puntuación total no supera los 4,5 puntos básicos.
+
+9\. Durante su evaluación, el Banco de España solo aplicará los indicadores recogidos en el anejo I (indicadores obligatorios) o en el anejo II (indicadores opcionales), seleccionando el alcance adecuado para el indicador cuando proceda.
+
+C) Publicación de información.
+
+10\. El Banco de España publicará las puntuaciones de las entidades identificadas como OEIS el 1 de diciembre de cada año. Cuando proceda, el Banco de España también publicará los requerimientos en materia de colchones que se aplican a las diferentes OEIS.
+
+11\. El Banco de España publicará la información complementaria que considere relevante sobre el proceso de identificación y el establecimiento del colchón de capital, incluyendo los indicadores opcionales utilizados.
+
+12\. Cuando se identifique como OEIS a una entidad con una puntuación inferior al nivel al que se refiere el apartado 6, el Banco de España publicará una breve reseña donde se explique:
+
+a) Qué indicadores opcionales respaldan su identificación como OEIS.
+
+b) Por qué esos indicadores son relevantes en España.
+
+c) Por qué la entidad tiene importancia sistémica atendiendo a los indicadores señalados.
+
+> Se modifica por la norma primera.9 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 15. Fijación del colchón de capital para otras entidades de importancia sistémica.
+
+1\. De conformidad con lo dispuesto en el artículo 46.5 de la Ley 10/2014, el Banco de España podrá imponer a cada una de las OEIS la obligación de disponer de un colchón de capital de nivel 1 ordinario de hasta un 3 % del importe total de exposición al riesgo calculado conforme al artículo 92.3 del Reglamento (UE) n.º 575/2013, atendiendo a los criterios para la identificación de OEIS establecidos en la norma 14 y teniendo también en consideración la estructura del sistema bancario nacional.
+
+1 bis. Previa autorización de la Comisión Europea, el Banco de España podrá imponer a cada una de las OEIS la obligación de mantener un colchón de capital de nivel 1 ordinario superior al 3 % del importe total de exposición al riesgo calculado conforme al artículo 92.3 del Reglamento (UE) n.º 575/2013.
+
+2\. De conformidad con lo establecido en el artículo 64 del Real Decreto 84/2015:
+
+a) Cuando el Banco de España exija el mantenimiento de un colchón para OEIS, dicho colchón:
+
+i. No supondrá perjuicios desproporcionados para el conjunto o para partes del sistema financiero de otros Estados miembros o de la UE en su conjunto, de modo que se forme o se cree un obstáculo para el funcionamiento del mercado interior.
+
+ii. Será revisado al menos una vez al año.
+
+b) Antes de fijar o modificar un colchón para OEIS, el Banco de España lo notificará a la JERS un mes antes de la publicación de la decisión a que se refiere el apartado 1, o, en su caso, tres meses antes de la publicación de la decisión a que se refiere el apartado 1 bis. En la notificación se describirán pormenorizadamente los elementos siguientes:
+
+i. Los motivos por los que se considera que el colchón para OEIS puede ser eficaz y proporcionado para reducir el riesgo.
+
+ii. Una evaluación del probable impacto positivo o negativo del colchón para OEIS en el mercado único sobre la base de la información de que disponga el Estado miembro.
+
+iii. El porcentaje del colchón para OEIS que se desea exigir.
+
+c) Sin perjuicio de lo dispuesto en las normas 17 a 22 y en el apartado 1 de la presente norma, cuando una OEIS sea una filial de una EISM o de una OEIS que sea una entidad o un grupo encabezado por una entidad matriz de la UE, y esté obligada a mantener un colchón para OEIS en base consolidada, el colchón aplicable en base individual o en base subconsolidada para la OEIS filial no sobrepasará el menor de los porcentajes siguientes:
+
+i. la suma del mayor de los porcentajes del colchón para EISM y OEIS aplicable al grupo en base consolidada y el 1 % del importe total de exposición al riesgo, calculado de acuerdo con el artículo 92.3 del Reglamento (UE) n.º 575/2013, y
+
+ii. el 3 % del importe total de exposición al riesgo calculado de acuerdo con el artículo 92.3 del Reglamento (UE) n.º 575/2013 o el porcentaje cuya aplicación al grupo en base consolidada haya autorizado la Comisión Europea con arreglo al apartado 1 bis.
+
+> Se modifica por la norma primera.10 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 16. Obligaciones de notificación del Banco de España en relación con las entidades de importancia sistémica mundial y con las otras entidades de importancia sistémica.
+
+De conformidad con lo dispuesto en el artículo 46.6 de la Ley 10/2014 y en el artículo 66 del Real Decreto 84/2015:
+
+a) El Banco de España notificará a la JERS los nombres de las EISM y de las OEIS y las correspondientes subcategorías en las que se han clasificado las primeras. En la notificación constarán los motivos fundamentados por los que se ha ejercido o no el criterio de supervisión con arreglo a las letras a), b) y c) de la norma 13.6. El Banco de España hará pública la subcategoría en la que se ha clasificado cada EISM.
+
+b) Cada año, el Banco de España revisará la identificación de las EISM y de las OEIS y la clasificación por subcategorías de las primeras, e informará de sus resultados a las entidades de importancia sistémica afectadas, así como a la JERS, haciendo asimismo públicas tanto la lista actualizada de entidades de importancia sistémica identificadas como la subcategoría en la que se ha clasificado a cada una de las EISM identificadas.
+
+> Se modifica por la norma primera.11 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 17. Fijación del colchón contra riesgos sistémicos.
+
+1\. De conformidad con lo dispuesto en el artículo 47.1 de la Ley 10/2014 y en el artículo 67 del Real Decreto 84/2015, el Banco de España podrá exigir a todas las entidades o a uno o más subconjuntos de ellas, para todas las exposiciones o para un subconjunto de ellas, la constitución de un colchón contra riesgos sistémicos de capital de nivel 1 ordinario con el fin de prevenir y paliar los riesgos macroprudenciales o sistémicos que no estén cubiertos por el Reglamento (UE) n.º 575/2013 ni por los colchones previstos en las normas 8, 13 y 15. El colchón no podrá servir para afrontar los riesgos cubiertos por estos. Estos riesgos se entenderán como aquellos que podrían producir una perturbación en el sistema financiero con consecuencias negativas graves en dicho sistema y en la economía real.
+
+Dicho colchón se calculará sobre una base individual, consolidada o subconsolidada, con arreglo a la parte primera, título II, del Reglamento (UE) n.º 575/2013.
+
+Podrán establecerse requerimientos diferentes para diferentes subconjuntos de entidades y de exposiciones.
+
+2\. El colchón contra riesgos sistémicos se fijará por escalones de 0,5 puntos porcentuales o múltiplos de estos.
+
+3\. Las entidades calcularán el colchón contra riesgos sistémicos de la siguiente manera:
+
+![MathML (base64):PG1hdGggbWF0aHNpemU9IjIwIj4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+QjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+UzwvbWk+CiAgICAgICAgICAgIDxtaT5SPC9taT4KICAgICAgICA8L21yb3c+CiAgICA8L21zdWI+CiAgICA8bWk+PC9taT4KICAgIDxtbz49PC9tbz4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+cjwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+VDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPiYjeEI3OzwvbW8+CiAgICA8bWk+PC9taT4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+RTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+VDwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgogICAgPG1vPis8L21vPgogICAgPG1pPjwvbWk+CiAgICA8bXJvdz4KICAgICAgICA8bXVuZGVyPgogICAgICAgICAgICA8bW8gc3RyZXRjaHk9ImZhbHNlIj4mI3gyMjExOzwvbW8+CiAgICAgICAgICAgIDxtcm93PgogICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICA8L21yb3c+CiAgICAgICAgPC9tdW5kZXI+CiAgICAgICAgPG1yb3c+CiAgICAgICAgICAgIDxtc3ViPgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pPnI8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICAgICAgPG1yb3c+CiAgICAgICAgICAgICAgICAgICAgPG1pPmk8L21pPgogICAgICAgICAgICAgICAgPC9tcm93PgogICAgICAgICAgICA8L21zdWI+CiAgICAgICAgPC9tcm93PgogICAgPC9tcm93PgogICAgPG1vPiYjeEI3OzwvbW8+CiAgICA8bWk+PC9taT4KICAgIDxtc3ViPgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+RTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgICAgIDxtcm93PgogICAgICAgICAgICA8bWk+aTwvbWk+CiAgICAgICAgPC9tcm93PgogICAgPC9tc3ViPgo8L21hdGg+](https://www.boe.es/data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAAAxCAYAAABwB41xAAADy0lEQVR4nO2ca5HrMAyFD4alsBhKoRRKIRQuhTAohEK4DMpgGYTAArj3R6qpo9qOH7LzmPPNZKbNtLES+ciW4gQghBCyygDgX4Pt2fMkCGnNHRQJIVG+APxg2cl/XvtT/38D8BcUCTkxF3yOBo+C4zxAkZAT8wefQhkKjjOBIiEn5omlSH4xjzI53EGRkBPzhVkYOj/J4YaTimStFHjdzrTDccWxK0A+++8Z//9G2TTNmmZ+mPApCknG9nDiR0KmLr7rNgb27wVfWfi2qUXlmPrh+3WwSe0XRe418u0V6Vw+BtiPzk+UVaRC6LLwL+Y+cjRM/SBTLn2hZT9Fks4WgcVaJBfU5ydbY+6H0LRKhquj5SVygaTjjAhHFGukrdGzvxXWIgH8ZeGc/MRHT7+Y+0EPS1fPvpaISFO32NA/YplfucfuIXZfYBnQNg9pIRJgeSe9Nj/p7RdTP7jqtrihtAfknFp3To3kdrnCrqWVSHxl4V+kL1vR9PKLuR9kWNJGxypbWlDaQaESXC8eWO84+ubZWtk7NHy7hHK42Lw4146cEddiPq59WSPGFL8A6zOFFn6ItitO0j8INXTFsgoWKqWN6ncT2kQ7HzKsxxBbJOpIhwxdfAkMsXMIBZZY1My1w0erkUSQaldt8p7iF/ldbz9E2/WVfoG3YtdEcoVfgVoUz5ABsM1JpLPFLqIbobWYa+bH0gm0fe73a+BzjR0tRSL9oLYMnOIXK3L9ECVU+nUb8nVsLRSNXJDB+d6yuuMi55R6EbR4SztCSslxihy/xo5WInGnWrU3FFP84uYSpZT4IdquRHDdgWUKliIEHwPejls7jjWPjPbkHCyS6thceS2K1trRQiTfeCftFgEu1S9jZXulfvhoN5b9ryWv+ruvQTcqjuh3Yy13SLeyLXWaGIqitXa0EInkIRbXJ8cvT5RPeWv8UNPuggeWyU8oz3ANsYzW1sQSxJ7sxQ5B1m9NKC/3ltKzCtqk3QHLJFtHGT1CCbGFZlug7exVddurHS7uqvDc50mA+Zxq8rrny4aeQXWrdskBcddslQa0O+YlLSXECkkt2apdcjDcl0LUdJYJx1vrR0gSMo3OeVuK5obtcgpCmiIrfkueaxdkqtaz3E9IF9xXCt0xT5VytzveuQyfPSKn4gvvlRVW255K2YRUE1uBXLod9Xl4Qj6Q5RvWW2lOQ8iuuGAeRVpshBBCCCGEEEIIIYTsDy4hJ2SFvT0YRggh5ChYvMGEkNNT+wYTQk6P2ZtECDkrnGoREoFvEiFkBb5JhBBCCCGEWPMfvhV+L1eE2/EAAAAASUVORK5CYII=)
+
+donde:
+
+*B<sub>SR</sub>*= colchón contra riesgos sistémicos;
+
+*r<sub>T</sub>* = porcentaje del colchón aplicable al importe total de la exposición al riesgo de una entidad;
+
+*E<sub>T</sub>* = importe total de la exposición al riesgo calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013;
+
+*i*= índice que designa el subconjunto de las exposiciones indicadas en el apartado 4;
+
+*r<sub>i</sub>* = porcentaje del colchón aplicable al importe de la exposición al riesgo de un subconjunto de exposiciones*i*, y
+
+*E<sub>i</sub>*= importe de la exposición al riesgo de una entidad de un subconjunto de exposiciones*i*calculado de conformidad con el artículo 92.3 del Reglamento (UE) n.º 575/2013.
+
+4\. El Banco de España podrá fijar un porcentaje del colchón contra riesgos sistémicos que se aplique a las siguientes exposiciones:
+
+a) Todas las exposiciones ubicadas en España.
+
+b) Las siguientes exposiciones sectoriales ubicadas en España:
+
+1.º Todas las exposiciones minoristas frente a personas físicas que estén garantizadas por hipotecas sobre bienes inmuebles residenciales.
+
+2.º Todas las exposiciones frente a personas jurídicas que estén garantizadas por hipotecas sobre bienes inmuebles comerciales.
+
+3.º Todas las exposiciones frente a personas jurídicas con exclusión de las especificadas en el numeral 2.º
+
+4.º Todas las exposiciones frente a personas físicas con exclusión de las especificadas en el numeral 1.º
+
+c) Todas las exposiciones ubicadas en otros Estados miembros, a reserva de lo dispuesto en el apartado c) de la norma 18.4 y en la norma 18.1.
+
+d) Las exposiciones sectoriales, enumeradas en la letra b) del presente apartado, ubicadas en otros Estados miembros únicamente para permitir el reconocimiento de un porcentaje del colchón establecido por otro Estado miembro de conformidad con el artículo 134.
+
+e) Exposiciones ubicadas en terceros países.
+
+f) Subconjuntos de las categorías de exposición indicadas en la letra b).
+
+5\. En el caso de fijación de un colchón contra riesgos sistémicos por el Banco de España, dicho colchón:
+
+i. No supondrá perjuicios desproporcionados para el conjunto o partes del sistema financiero de otros Estados miembros o de la UE en su conjunto, de modo que se forme o se cree un obstáculo para el funcionamiento del mercado interior.
+
+ii. Será revisado al menos cada dos años.
+
+iii. No deberá utilizarse para afrontar riesgos cubiertos por las normas 8, 13 y 15.
+
+> Se modifica por la norma primera.12 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### 18. Procedimiento de fijación o modificación del colchón contra riesgos sistémicos:
+
+1\. De conformidad con lo dispuesto en el artículo 68 del Real Decreto 84/2015, el Banco de España notificará a la JERS la decisión de fijar o modificar uno o más porcentajes del colchón contra riesgos sistémicos antes de su publicación de conformidad con la norma 21. Si el colchón es aplicable a una filial cuya empresa matriz esté establecida en otro Estado miembro, lo comunicará también a las autoridades de dicho Estado miembro.
+
+Cuando el Banco de España decida aplicar el colchón a exposiciones en otros Estados miembros, fijará el mismo nivel para todas las exposiciones ubicadas en la UE, a menos que el colchón se fije para reconocer el porcentaje del colchón contra riesgos sistémicos fijado por otro Estado miembro de conformidad con la norma 22.
+
+2\. En dicha notificación se describirán pormenorizadamente los elementos siguientes:
+
+i. Los riesgos macroprudenciales o sistémicos existentes en España.
+
+ii. Los motivos por los cuales la magnitud de los riesgos sistémicos o macroprudenciales suponen una amenaza para la estabilidad del sistema financiero a escala nacional que justifica el porcentaje del colchón contra riesgos sistémicos.
+
+iii. La razón por la que se considera que el colchón contra riesgos sistémicos es eficaz y proporcionado para reducir el riesgo.
+
+iv. Una evaluación de la probable repercusión positiva o negativa del colchón contra riesgos sistémicos en el mercado interior sobre la base de la información de que se disponga.
+
+v. El porcentaje o porcentajes del colchón contra riesgos sistémicos que se desea exigir, las exposiciones a las que se aplican dichos porcentajes y las entidades que estarán sujetas a dichos porcentajes.
+
+vi. Cuando el porcentaje de colchón contra riesgos sistémicos se aplique a todas las exposiciones, la razón por la que la autoridad considera que el colchón contra riesgos sistémicos no duplica el funcionamiento del colchón para OEIS previsto en la norma 15.
+
+3\. En caso de que la decisión de fijar el porcentaje del colchón contra riesgos sistémicos dé lugar a una disminución o a la ausencia de cambio del porcentaje fijado previamente, el Banco de España deberá cumplir únicamente lo dispuesto en los apartados 1 y 2.
+
+4\. La decisión de fijar uno o más porcentajes del colchón contra riesgos sistémicos, en cualquier conjunto o subconjunto de exposiciones sometido a uno o varios colchones contra riesgos sistémicos, puede dar lugar a:
+
+a) Un porcentaje combinado de colchón contra riesgos sistémicos no superior al 3 % para cualquiera de dichas exposiciones. En este caso, el Banco de España notificará la decisión de fijar uno o más porcentajes del colchón contra riesgos sistémicos a la JERS con, al menos, un mes de antelación a la publicación de la decisión. En cuanto a esta letra, el reconocimiento del porcentaje del colchón contra riesgos sistémicos fijado por otro Estado miembro no se contabilizará a efectos del límite del 3 %.
+
+b) Un porcentaje combinado de colchón contra riesgos sistémicos superior al 3 % y de hasta el 5 % para cualquiera de dichas exposiciones. En este caso, el Banco de España solicitará, en la notificación presentada a la JERS, el dictamen de la Comisión Europea.
+
+c) Un porcentaje combinado de colchón contra riesgos sistémicos superior al 5 % para cualquiera de dichas exposiciones. En este caso, el Banco de España, sin perjuicio de la notificación a la JERS, solicitará la autorización de la Comisión Europea antes de aplicar la decisión. El Banco de España esperará a que la Comisión le autorice a aplicar la medida propuesta antes de adoptar el colchón.
+
+5\. Cuando una entidad a la que sea aplicable un porcentaje combinado de colchón contra riesgos sistémicos sea filial de una empresa matriz establecida en otro Estado miembro, el Banco de España solicitará una recomendación de la Comisión Europea y de la JERS en la notificación presentada.
+
+Cuando el Banco de España y la autoridad de la matriz no se pongan de acuerdo sobre el porcentaje o los porcentajes del colchón contra riesgos sistémicos aplicables a la filial y en el caso de recomendación negativa tanto de la Comisión Europea como de la JERS, el Banco de España podrá remitir el asunto a la ABE, debiendo solicitar su asistencia y quedando en suspenso la decisión de fijar el colchón contra riesgos sistémicos para esas exposiciones hasta que esta se haya pronunciado.
+
+> Se modifica por la norma primera.13 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 19. Procedimiento de fijación del colchón contra riesgos sistémicos superior al 3% y hasta el 5%.
+
+**(Suprimida)**
+
+> Se suprime por la norma primera.14 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 20. Procedimiento de fijación del colchón contra riesgos sistémicos superior al 5%.
+
+**(Suprimida)**
+
+> Se suprime por la norma primera.15 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 21. Publicidad de los colchones contra riesgos sistémicos.
+
+De conformidad con lo dispuesto en el artículo 71 del Real Decreto 84/2015, el Banco de España anunciará la fijación o modificación del colchón contra riesgos sistémicos mediante publicación en su sitio web. El anuncio incluirá, al menos, la siguiente información:
+
+a) El porcentaje o porcentajes del colchón.
+
+b) Las entidades a las que se aplica el porcentaje o porcentajes del colchón.
+
+c) Las exposiciones a las que se aplica el porcentaje o porcentajes del colchón.
+
+d) Una justificación de la fijación o modificación del porcentaje o porcentajes del colchón.
+
+e) La fecha a partir de la cual las entidades deben aplicar el colchón que se haya fijado o modificado.
+
+f) Los nombres de los países donde estén ubicadas las exposiciones a las que se aplica el colchón.
+
+Cuando la publicación de la información a que se refiere la letra d) pudiera hacer peligrar la estabilidad del sistema financiero, dicha información no se incluirá en la publicación.
+
+> Se modifica por la norma primera.16 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 22. Reconocimiento del porcentaje del colchón contra riesgos sistémicos.
+
+De conformidad con lo dispuesto en el artículo 72 del Real Decreto 84/2015:
+
+a) El Banco de España podrá reconocer el porcentaje del colchón contra riesgos sistémicos fijado por la autoridad competente o designada de otro Estado miembro y aplicar dicho porcentaje del colchón a las entidades autorizadas en España para las exposiciones ubicadas en el Estado miembro que fije dicho porcentaje del colchón.
+
+b) Cuando el Banco de España reconozca el porcentaje del colchón contra riesgos sistémicos fijado por la autoridad competente o designada de otro Estado miembro en lo que respecta a las entidades autorizadas en España, lo notificará a la JERS.
+
+c) A la hora de decidir si reconoce o no un porcentaje del colchón contra riesgos sistémicos, el Banco de España tendrá en cuenta la información presentada por el Estado miembro que fije el porcentaje del colchón de conformidad con lo dispuesto en su legislación nacional de transposición de los apartados 9 o 13 del artículo 133 de la Directiva 2013/36/UE, según corresponda.
+
+d) Cuando el Banco de España reconozca un porcentaje del colchón contra riesgos sistémicos para entidades autorizadas en España, ese colchón contra riesgos sistémicos podrá ser cumulativo con el colchón contra riesgos sistémicos aplicado con arreglo a la norma 17, siempre que los colchones cubran riesgos diferentes. Cuando los colchones cubran el mismo riesgo, solo se aplicará el colchón más elevado.
+
+e) Cuando el Banco de España fije un colchón contra riesgos sistémicos, podrá solicitar a la JERS que dirija una recomendación, con arreglo al artículo 16 del Reglamento (UE) n.º 1092/2010, a uno o a varios de los Estados miembros que puedan reconocer el porcentaje del colchón contra riesgos sistémicos.
+
+> Se modifica por la norma primera.17 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 23. Aplicación conjunta de los colchones para entidades de importancia sistémica mundial, otras entidades de importancia sistémica y contra riesgos sistémicos.
+
+En desarrollo de lo dispuesto en el artículo 65 del Real Decreto 84/2015:
+
+a) Cuando se exija a una entidad o a un grupo:
+
+i. un colchón para EISM y un colchón para OEIS, se aplicará el colchón más elevado de los dos;
+
+ii. al menos uno de los colchones referidos en el apartado i) y un colchón contra riesgos sistémicos, el colchón contra riesgos sistémicos será cumulativo con el colchón para EISM u OEIS que aplique de conformidad con el apartado i).
+
+b) Será necesario solicitar la autorización previa de la Comisión Europea cuando la suma del porcentaje del colchón contra riesgos sistémicos y el porcentaje del colchón para EISM o para OEIS al que esté sometida la misma entidad pudiera resultar en un porcentaje del colchón superior al 5 %.
+
+> Se modifica por la norma primera.18 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 24. Restricciones a las distribuciones en caso de incumplimiento del requerimiento combinado de colchones de capital.
+
+1\. De conformidad con lo dispuesto en el artículo 48 de la Ley 10/2014 y en el artículo 73 del Real Decreto 84/2015, y sin perjuicio de lo establecido en el artículo 16 bis de la Ley 11/2015 y en la norma 24 bis:
+
+a) Las entidades de crédito que cumplan el requerimiento combinado de colchones de capital podrán realizar distribuciones relativas al capital de nivel 1 ordinario siempre y cuando:
+
+i. dichas distribuciones no conlleven una disminución del capital de nivel 1 ordinario hasta un nivel en el que ya no se respete el requerimiento combinado de colchones de capital, y
+
+ii. no haya sido adoptada por la autoridad competente ninguna de las medidas tendentes a reforzar los fondos propios previstas en el artículo 68.2.h) de la Ley 10/2014, o a limitar o a prohibir el pago de dividendos conforme al artículo 68.2.i) de la Ley 10/2014.
+
+b) Cuando una entidad de crédito incumpla su requerimiento combinado de colchones de capital deberá calcular el importe máximo distribuible (en adelante, IMD) de conformidad con lo establecido en el apartado 2.
+
+La entidad no podrá realizar ninguna de las siguientes actuaciones antes de haber calculado dicho IMD y de haber informado inmediatamente a la autoridad competente de dicho importe:
+
+i. Realizar una distribución en relación con el capital de nivel 1 ordinario.
+
+ii. Asumir una obligación de pagar una remuneración variable o beneficios discrecionales de pensión, o pagar una remuneración variable si la obligación de pago se asumió en un momento en que la entidad no cumplía el requerimiento combinado de colchones de capital.
+
+iii. Realizar pagos vinculados a instrumentos de capital de nivel 1 adicional.
+
+c) A efectos de lo dispuesto en esta norma, se entenderán como distribuciones en relación con el capital de nivel 1 ordinario:
+
+i. El pago de dividendos en efectivo.
+
+ii. La distribución, total o parcialmente liberada, de acciones u otros instrumentos de capital a que se refiere el artículo 26.1.a) del Reglamento (UE) n.º 575/2013.
+
+iii. El rescate o la compra por una entidad de acciones propias u otros instrumentos propios de capital a que se refiere el artículo 26.1.a) del mismo reglamento.
+
+iv. El reembolso de importes pagados en relación con los instrumentos de capital a que se refiere en el artículo 26.1.a) del mismo reglamento.
+
+v. La distribución de los elementos a que se refieren las letras b) a e) del artículo 26.1 del mismo reglamento.
+
+vi. Cualesquiera otras que, a juicio de la autoridad competente, resulten equivalentes a cualquiera de las anteriores.
+
+d) Cuando una entidad incumpla su requerimiento combinado de colchones de capital no podrá distribuir más del IMD calculado conforme al apartado 2 para las finalidades previstas en el apartado 1.b).
+
+1 bis. A efectos de lo previsto en esta norma, y de conformidad con lo dispuesto en el artículo 48 bis de la Ley 10/2014, se considerará que una entidad incumple el requerimiento combinado de colchones de capital cuando no disponga de fondos propios cuyo importe y calidad sean los necesarios para satisfacer al mismo tiempo el requerimiento combinado de colchones de capital y cada uno de los requerimientos establecidos en:
+
+a) El artículo 92.1.a) del Reglamento (UE) n. º 575/2013 y, si ha lugar, el requerimiento de fondos propios adicionales exigido por la autoridad competente para hacer frente a riesgos distintos del riesgo de apalancamiento excesivo, con arreglo al artículo 68.2.a) de la Ley 10/2014.
+
+b) El artículo 92.1.b) del Reglamento (UE) n. º 575/2013 y, si ha lugar, el requerimiento de fondos propios adicionales exigido por la autoridad competente para hacer frente a riesgos distintos del riesgo de apalancamiento excesivo, con arreglo al artículo 68.2.a) de la Ley 10/2014.
+
+c) El artículo 92.1.c) del Reglamento (UE) n. º 575/2013 y, si ha lugar, el requerimiento de fondos propios adicionales exigido por la autoridad competente para hacer frente a riesgos distintos del riesgo de apalancamiento excesivo, con arreglo al artículo 68.2.a) de la Ley 10/2014.
+
+2\. En desarrollo de lo dispuesto en el artículo 73 del Real Decreto 84/2015, las entidades calcularán el IMD multiplicando la cuantía calculada según lo previsto en el apartado a) por el factor determinado de conformidad con el apartado b). El IMD se reducirá como consecuencia de cualquiera de las actuaciones contempladas en el apartado 1.b).
+
+a) La cuantía que deberá multiplicarse por el factor del apartado b) consistirá en:
+
+i. todos los beneficios intermedios del ejercicio no incluidos en el capital de nivel 1 ordinario en virtud del artículo 26.2 del Reglamento (UE) n.º 575/2013, deducidos cualquier distribución de beneficios o cualquier pago derivado de las actuaciones a que se refiere el apartado 1.b);
+
+ii. más todos los beneficios al cierre del ejercicio no incluidos en el capital de nivel 1 ordinario en virtud del artículo 26.2 del Reglamento (UE) n.º 575/2013, deducidos cualquier distribución de beneficios o cualquier pago derivado de las actuaciones a que se refiere el apartado 1.b),
+
+iii. menos los importes que habrían de pagarse en concepto de impuestos de conservarse los elementos especificados en los puntos i) y ii) anteriores.
+
+b) El factor se determinará comparando el requerimiento combinado de colchones de capital con el capital de nivel 1 ordinario mantenido por la entidad que no se utilice para cumplir los requerimientos de fondos propios establecidos en las letras a), b) y c) del artículo 92.1 del Reglamento (UE) n.º 575/2013 ni, si ha lugar, el requerimiento de fondos propios adicionales para hacer frente a riesgos distintos del riesgo de apalancamiento excesivo, fijado con arreglo al artículo 68.2.a) de la Ley 10/2014:
+
+i. Cuando dicho capital de nivel 1 ordinario sea inferior o igual al 25 % del requerimiento combinado de colchones de capital, el factor será 0.
+
+ii. Cuando dicho capital de nivel 1 ordinario sea superior al 25 % e inferior o igual al 50 % del requerimiento combinado de colchones de capital, el factor será 0,2.
+
+iii. Cuando dicho capital de nivel 1 ordinario sea superior al 50 % e inferior o igual al 75 % del requerimiento combinado de colchones de capital, el factor será 0,4.
+
+iv. Cuando dicho capital de nivel 1 ordinario sea superior al 75 % e inferior al 100 % del requerimiento combinado de colchones de capital, el factor será 0,6.
+
+3\. De conformidad con lo dispuesto en el artículo 48 de la Ley 10/2014 y en el artículo 73 del Real Decreto 84/2015, las entidades dispondrán de mecanismos para garantizar que el importe de beneficios distribuibles y el IMD se calculen con exactitud y habrán de poder demostrar esa exactitud a la autoridad competente cuando así se les solicite.
+
+4\. De conformidad con lo dispuesto en el artículo 48 de la Ley 10/2014, las restricciones de esta norma se aplicarán únicamente a los pagos que den lugar a una reducción del capital de nivel 1 ordinario o a una reducción de los beneficios, y siempre que la suspensión o cancelación del pago no constituyan un incumplimiento de las obligaciones de pago u otra circunstancia que conduzca a la apertura del oportuno procedimiento concursal.
+
+5\. De conformidad con lo dispuesto en el artículo 74 del Real Decreto 84/2015, cuando una entidad incumpla el requerimiento combinado de colchones de capital y se proponga distribuir la totalidad o parte de sus beneficios distribuibles o emprender alguna de las actuaciones contempladas en el apartado 1.b), lo notificará a la autoridad competente y proporcionará la siguiente información:
+
+a) El importe de capital mantenido por la entidad, subdividido como sigue:
+
+i. Capital de nivel 1 ordinario.
+
+ii. Capital de nivel 1 adicional.
+
+iii. Capital de nivel 2.
+
+b) El importe de sus beneficios intermedios y al cierre del ejercicio.
+
+c) El IMD calculado según lo previsto en el apartado 2.
+
+d) El importe de beneficios distribuibles que se propone asignar a lo siguiente:
+
+i. Pagos de dividendos.
+
+ii. Compra de acciones propias.
+
+iii. Pagos vinculados a instrumentos de capital de nivel 1 adicional.
+
+iv. Pago de una remuneración variable o beneficios discrecionales de pensión, como resultado de la asunción ya sea de una nueva obligación de pago o de una obligación de pago asumida en un momento en que la entidad no cumplía el requerimiento combinado de colchones de capital.
+
+> Se modifica por la norma primera.19 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 24 bis. Restricciones a las distribuciones en caso de incumplimiento del requerimiento del colchón de ratio de apalancamiento.
+
+1\. De conformidad con lo dispuesto en el artículo 48 *ter* de la Ley 10/2014 y en el artículo 73 bis del Real Decreto 84/2015, y sin perjuicio de lo establecido en la norma 24:
+
+a) Las entidades de crédito que cumplan el requerimiento de colchón de ratio de apalancamiento podrán realizar distribuciones relativas al capital de nivel 1 siempre y cuando:
+
+i. dichas distribuciones no conlleven una disminución del capital de nivel 1 hasta un nivel en el que ya no se respete el requerimiento de colchón de ratio de apalancamiento, y
+
+ii. no haya sido adoptada por la autoridad competente ninguna de las medidas tendentes a reforzar los fondos propios previstas en el artículo 68.2.h) de la Ley 10/2014, o a limitar o a prohibir el pago de dividendos o de intereses de instrumentos de capital de nivel 1 ordinario o de capital de nivel 1 adicional conforme al artículo 68.2.i) de la Ley 10/2014.
+
+b) Cuando una entidad de crédito incumpla su requerimiento de colchón de ratio de apalancamiento deberá calcular el importe máximo distribuible (en adelante, A-IMD) de conformidad con lo establecido en el apartado 2.
+
+La entidad no podrá realizar ninguna de las siguientes actuaciones antes de haber calculado dicho A-IMD y de haber informado inmediatamente a la autoridad competente de dicho importe:
+
+i. Realizar una distribución en relación con el capital de nivel 1 ordinario.
+
+ii. Asumir una obligación de pagar una remuneración variable o beneficios discrecionales de pensión, o pagar una remuneración variable si la obligación de pago se asumió en un momento en que la entidad no cumplía el requerimiento de colchón de ratio de apalancamiento.
+
+iii. Realizar pagos vinculados a instrumentos de capital de nivel 1 adicional.
+
+c) A efectos de lo dispuesto en esta norma, se entenderá como distribución en relación con el capital de nivel 1 cualquiera de las previstas en el apartado 1.c) de la norma 24.
+
+d) Cuando una entidad incumpla su requerimiento de colchón de ratio de apalancamiento no podrá distribuir más del A-IMD calculado conforme al apartado 2 para las finalidades previstas en el apartado 1.b).
+
+1 bis. A efectos de lo previsto en esta norma, y de conformidad con lo dispuesto en el artículo 48 *quater*de la Ley 10/2014, se considerará que una entidad incumple el requerimiento de colchón de ratio de apalancamiento cuando no disponga de capital de nivel 1 en la cantidad necesaria para satisfacer al mismo tiempo los requerimientos establecidos en los artículos 92.1.d) y 92.1 bis del Reglamento (UE) n.º 575/2013 y, si ha lugar, el requerimiento de fondos propios adicionales exigido por la autoridad competente para hacer frente a un riesgo de apalancamiento excesivo que no esté suficientemente cubierto por el artículo 92.1.d) del Reglamento (UE) n.º 575/2013 con arreglo al artículo 68.2.a) de la Ley 10/2014.
+
+2\. En desarrollo de lo dispuesto en el artículo 73 bis del Real Decreto 84/2015, las entidades calcularán el A-IMD multiplicando la cuantía calculada según lo previsto en el apartado a) por el factor determinado de conformidad con el apartado b). El A-IMD se reducirá como consecuencia de cualquiera de las actuaciones contempladas en el apartado 1.b).
+
+a) La cuantía que deberá multiplicarse por el factor del apartado b) consistirá en:
+
+i. todos los beneficios intermedios del ejercicio no incluidos en el capital de nivel 1 ordinario en virtud del artículo 26.2 del Reglamento (UE) n.º 575/2013, deducidos cualquier distribución de beneficios o cualquier pago derivado de las actuaciones a que se refiere el apartado 1.b);
+
+ii. más todos los beneficios al cierre del ejercicio no incluidos en el capital de nivel 1 ordinario en virtud del artículo 26.2 del Reglamento (UE) n.º 575/2013, deducidos cualquier distribución de beneficios o cualquier pago derivado de las actuaciones a que se refiere el apartado 1.b),
+
+iii. menos los importes que habrían de pagarse en concepto de impuestos de conservarse los elementos especificados en los puntos i) y ii) anteriores.
+
+b) El factor se determinará comparando el requerimiento de colchón de ratio de apalancamiento con el capital de nivel 1 mantenido por la entidad que no se utilice para cumplir el requerimiento de fondos propios establecido en el artículo 92.1.d) del Reglamento (UE) n.º 575/2013 ni, si ha lugar, el requerimiento de fondos propios adicionales para hacer frente a un riesgo de apalancamiento excesivo que no esté suficientemente cubierto por el artículo 92.1.d) del Reglamento (UE) n.º 575/2013, con arreglo al artículo 68.2.a) de la Ley 10/2014:
+
+i. Cuando dicho capital de nivel 1 sea inferior o igual al 25 % del requerimiento de colchón de ratio de apalancamiento, el factor será 0.
+
+ii. Cuando dicho capital de nivel 1 sea superior al 25 % e inferior o igual al 50 % del requerimiento de colchón de ratio de apalancamiento, el factor será 0,2.
+
+iii. Cuando dicho capital de nivel 1 sea superior al 50 % e inferior o igual al 75 % del requerimiento de colchón de ratio de apalancamiento, el factor será 0,4.
+
+iv. Cuando dicho capital de nivel 1 sea superior al 75 % e inferior al 100 % del requerimiento de colchón de ratio de apalancamiento, el factor será 0,6.
+
+3\. De conformidad con lo dispuesto en el artículo 48 *ter*de la Ley 10/2014 y en el artículo 73 bis del Real Decreto 84/2015, las entidades dispondrán de mecanismos para garantizar que el importe de beneficios distribuibles y el A-IMD se calculen con exactitud, y habrán de poder demostrar esa exactitud a la autoridad competente cuando así se les solicite.
+
+4\. De conformidad con lo dispuesto en el artículo 48 *ter* de la Ley 10/2014, las restricciones de esta norma se aplicarán únicamente a los pagos que den lugar a una reducción del capital de nivel 1 o a una reducción de los beneficios, y siempre que la suspensión o cancelación del pago no constituyan un incumplimiento de las obligaciones de pago u otra circunstancia que conduzca a la apertura del oportuno procedimiento concursal.
+
+5\. De conformidad con lo dispuesto en el artículo 74 bis del Real Decreto 84/2015, cuando una entidad incumpla el requerimiento de colchón de ratio de apalancamiento y se proponga distribuir la totalidad o parte de sus beneficios distribuibles o emprender alguna de las actuaciones contempladas en el apartado 1.b), lo notificará a la autoridad competente y proporcionará la siguiente información:
+
+a) El importe de capital de nivel 1 mantenido por la entidad, subdividido como sigue:
+
+i. Capital de nivel 1 ordinario.
+
+ii. Capital de nivel 1 adicional.
+
+b) El importe de sus beneficios intermedios y al cierre del ejercicio.
+
+c) El IMD calculado según lo previsto en el apartado 2 de la norma 24.
+
+d) El importe de beneficios distribuibles que se propone asignar a lo siguiente:
+
+i. Pagos de dividendos.
+
+ii. Compra de acciones propias u otros instrumentos de capital de nivel 1 ordinario.
+
+iii. Pagos vinculados a instrumentos de capital de nivel 1 adicional.
+
+iv. Pago de una remuneración variable o beneficios discrecionales de pensión, ya sea como resultado de la asunción de una nueva obligación de pago o de una obligación de pago asumida en un momento en que la entidad no cumplía el requerimiento de colchón de ratio de apalancamiento.
+
+e) El A-IMD calculado de conformidad con el apartado 2.
+
+> Se añade por la norma primera.20 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 25. Plan de conservación del capital.
+
+De conformidad con lo dispuesto en el artículo 49 de la Ley 10/2014 y en el artículo 75 del Real Decreto 84/2015:
+
+a) Cuando una entidad de crédito no cumpla el requerimiento combinado de colchones de capital, o, en su caso, el requerimiento de colchón de ratio de apalancamiento a los que esté sujeta, elaborará un plan de conservación del capital y lo presentará a la autoridad competente. El plazo para la presentación del plan será de cinco días hábiles, a contar desde la fecha en que la entidad compruebe el incumplimiento de dicho requerimiento. No obstante, la autoridad competente podrá ampliar ese plazo a diez días hábiles, basándose en la situación individual de la entidad de crédito y teniendo en cuenta la escala y la complejidad de sus actividades.
+
+b) El plan de conservación del capital deberá tener el contenido siguiente:
+
+i. Estimaciones de ingresos y gastos y una previsión de balance.
+
+ii. Medidas encaminadas a incrementar las ratios de capital de la entidad.
+
+iii. Un plan y un calendario de aumento de los fondos propios, con el objetivo de cumplir plenamente el requerimiento combinado de colchones de capital y, si ha lugar, el requerimiento de colchón de ratio de apalancamiento.
+
+iv. Cualquier otra información que la autoridad competente juzgue necesaria para llevar a cabo la evaluación prevista en el apartado c). En caso de requerirse información adicional, el plazo para la remisión a que alude el apartado a) anterior contará desde la fecha en que se reclame dicha información.
+
+c) La autoridad competente evaluará el plan de conservación del capital y lo aprobará si considera que, de ejecutarse, resulta razonablemente previsible la conservación u obtención de capital suficiente para que la entidad pueda cumplir el requerimiento combinado de colchones de capital o, si ha lugar, el requerimiento de colchón de ratio de apalancamiento, en el plazo que la autoridad competente juzgue adecuado.
+
+d) En caso de que no apruebe el plan de conservación de capital presentado, la autoridad competente, de acuerdo con las facultades que le confiere el artículo 68 de la Ley 10/2014, podrá:
+
+i. Exigir a la entidad que aumente sus fondos propios en el plazo que determine.
+
+ii. Imponer restricciones sobre las distribuciones más estrictas que las previstas en las normas anteriores.
+
+> Se modifica por la norma primera.21 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## CAPÍTULO 4 — Organización interna
+
+### Sección 1.ª Gobierno interno y organización interna
+
+#### Norma 26. Comités de nombramientos y de remuneraciones.
+
+1\. De acuerdo con los artículos 31 y 36 de la Ley 10/2014, las entidades de crédito deberán constituir un comité de nombramientos y un comité de remuneraciones.
+
+No obstante, las entidades podrán constituir un comité conjunto de nombramientos y remuneraciones cuando su volumen total de activos a nivel individual sea inferior a 10.000 millones de euros a la fecha de cierre de los dos ejercicios inmediatamente anteriores. A estos efectos, en el caso de entidades de crédito para las que, por ser entidades de nueva creación, no se disponga de datos sobre el volumen total de activos de dos ejercicios, se considerarán los datos de cierre de un ejercicio, y en caso de no existir, los datos de cierre del último trimestre. Y ello, sin perjuicio de la facultad de la autoridad competente para exigir la separación de ambos comités cuando lo considere necesario a la luz de la organización interna, la naturaleza, el alcance y la complejidad de las actividades de la entidad de crédito.
+
+2\. La autoridad competente tendrá por cumplida la obligación de constituir los comités de nombramientos y remuneraciones cuando la entidad de crédito cumpla las condiciones de exención establecidas en el artículo 36.5 del Real Decreto 84/2015, salvo que considere necesaria la constitución de ambos comités.
+
+3\. El comité de nombramientos y el comité de remuneraciones, o, en su caso, el comité conjunto de nombramientos y remuneraciones, estarán compuestos, cada uno de ellos, por consejeros no ejecutivos en un número mínimo de tres. Al menos un tercio de estos miembros, y en todo caso el presidente, deberán ser independientes.
+
+#### Norma 27. Función de gestión de riesgos y comité de riesgos.
+
+1\. De conformidad con el artículo 38 de la Ley 10/2014, las entidades de crédito deberán disponer de una unidad u órgano que asuma la función de gestión de riesgos, proporcional a la naturaleza, escala y complejidad de sus actividades, independiente de las funciones operativas, que tenga autoridad, rango y recursos suficientes, así como el oportuno acceso al consejo de administración.
+
+2\. Las entidades cuyo volumen total de activos a nivel individual sea mayor o igual a 10.000 millones de euros a la fecha de cierre de alguno de los dos ejercicios inmediatamente anteriores deberán constituir un comité de riesgos. A estos efectos, en el caso de entidades de crédito para las que, por ser entidades de nueva creación, no se disponga de datos sobre el volumen total de activos de dos ejercicios, se considerarán los datos de cierre de un ejercicio, y en caso de no existir, los datos de cierre del último trimestre.
+
+3\. Las entidades a las que no alcance la obligación a la que se refiere el apartado 2 anterior y, de hecho, no establezcan un comité de riesgos, deberán constituir una comisión mixta de auditoría que asumirá las funciones correspondientes del comité de riesgos, y cuyos miembros deberán tener los conocimientos, capacidad y experiencia necesarios para asumir esos cometidos.
+
+4\. El comité de riesgos de las entidades de crédito estará compuesto por consejeros no ejecutivos en un número mínimo de tres. Al menos un tercio de estos miembros, y en todo caso el presidente, deberán ser independientes.
+
+#### Norma 28. Gobierno interno.
+
+1\. A efectos de lo dispuesto en el artículo 29 de la Ley 10/2014 y en el artículo 43 del Real Decreto 84/2015, las entidades deberán:
+
+a) Disponer de una unidad que desempeñe la función de cumplimiento normativo, de una función de auditoría interna y de una unidad u órgano que asuma la función de gestión de riesgos, de conformidad esta última con lo previsto en el artículo 38.1 de la Ley 10/2014 y la norma 27.1 de esta circular.
+
+b) Contar con procedimientos sólidos y adecuados, establecidos por escrito.
+
+i. Para el ejercicio de la función de cumplimiento normativo.
+
+ii. Para que en el ejercicio de la función de auditoría interna se garantice que las políticas, procedimientos y sistemas establecidos para la evaluación, gestión e información de los riesgos se cumplen y resultan coherentes y apropiados.
+
+c) Evaluar y controlar todos los riesgos que sean relevantes, ajustándose, a tal efecto, a las reglas establecidas en la presente circular y en la normativa de solvencia.
+
+d) Establecer por escrito políticas de asunción de riesgos y procedimientos adecuados de medición interna, pruebas de tensión, límites operativos, frecuencia de revisión, órgano o persona responsable y demás aspectos relevantes. En particular, deberán contar, de acuerdo con su nivel de actividad, con sistemas de medición e información de riesgos apropiados para su gestión, seguimiento y control. Asimismo, documentarán adecuadamente el funcionamiento de los sistemas de control interno establecidos.
+
+e) Disponer de procedimientos adecuados que permitan facilitar a las autoridades supervisoras cualquier tipo de dato e información que resulte pertinente para su supervisión.
+
+2\. Además, las entidades incluidas en un grupo consolidable de entidades de crédito deberán contar con:
+
+a) Sistemas que permitan identificar, medir y controlar adecuadamente sus operaciones con el resto de sociedades del grupo, incluyendo, en su caso, la sociedad financiera de cartera o la sociedad financiera mixta de cartera matriz.
+
+Cuando la empresa matriz de una o varias entidades sea una sociedad mixta de cartera, según se define en el artículo 4.1.(22) del Reglamento (UE) n.º 575/2013, dichas entidades deberán contar con sistemas de gestión de riesgos y mecanismos de control interno adecuados, incluidos unos procedimientos de información y de contabilidad sólidos, con el fin de identificar, medir y controlar debidamente las operaciones con su sociedad mixta de cartera matriz y las filiales de esta. La entidad deberá estar en condiciones de informar de sus grandes exposiciones y otras operaciones significativas con dichos entes.
+
+b) Mecanismos adecuados para recabar los datos y la información pertinentes para una efectiva supervisión en base consolidada.
+
+#### Norma 29. Director de la unidad de gestión de riesgos.
+
+De conformidad con lo previsto en el artículo 41.2 del Real Decreto 84/2015, en las entidades de crédito cuyo volumen total de activos a nivel individual sea inferior a 10.000 millones de euros a la fecha de cierre de los dos ejercicios inmediatamente anteriores, y en aquellas entidades que cumplan con las condiciones de exención establecidas en el artículo 36.5 del Real Decreto 84/2015, la función de gestión de riesgos podrá ser desempeñada por otro alto directivo, distinto de un alto directivo independiente que asuma específicamente esta responsabilidad, siempre que no exista conflicto de intereses. En este caso, la persona designada deberá ser un alto directivo responsable de un área de control y no de un área de negocio.
+
+A estos efectos, en el caso de entidades de crédito para las que, por ser entidades de nueva creación, no se disponga de datos sobre el volumen total de activos de dos ejercicios, se considerarán los datos de cierre de un ejercicio, y en caso de no existir, los datos de cierre del último trimestre.
+
+No obstante, la autoridad competente, a la luz de la naturaleza, escala y complejidad de las actividades de la entidad, podrá exigir que la función de gestión de riesgos sea desempeñada por una persona designada exclusivamente para ello.
+
+### Sección 2.ª Idoneidad
+
+#### Norma 30. Aplicación de los requisitos y procedimientos de evaluación de la idoneidad.
+
+De acuerdo con lo previsto en el artículo 24 de la Ley 10/2014 y el artículo 29 del Real Decreto 84/2015, los requisitos y procedimientos de evaluación de idoneidad se aplicarán por las entidades de crédito, sociedades financieras de cartera y sociedades financieras mixtas de cartera, de conformidad con el ámbito de aplicación definido en la norma 2 de esta circular, a:
+
+a) Los miembros del consejo de administración, así como a las personas físicas que representen a los consejeros que sean personas jurídicas.
+
+b) Los directores generales y asimilados. Serán asimilados a los directores generales los que se definen en el artículo 6.6 de la Ley 10/2014.
+
+c) Los responsables de las funciones de control interno y otro personal clave para el desarrollo diario de la actividad financiera de la entidad, que no esté incluido en los apartados a) y b) anteriores.
+
+> Se modifica por la norma primera.22 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 31. Procedimientos internos de evaluación de la idoneidad.
+
+1\. Las entidades y sociedades a que se refiere la norma 30 deberán contar con procedimientos internos adecuados para llevar a cabo, de conformidad con el artículo 25.1 de la Ley 10/2014 y con el artículo 33.1 del Real Decreto 84/2015, la selección y evaluación continua de los cargos sometidos al régimen de idoneidad.
+
+Los citados procedimientos especificarán los órganos que intervienen en la elaboración y aprobación de los informes de idoneidad y los métodos de selección de los candidatos, e identificarán los puestos que van a estar sujetos a evaluación, detallando sus funciones y características.
+
+2\. Se deberá evaluar la idoneidad de los cargos indicados en la norma 30. Sin perjuicio de lo dispuesto en las siguientes normas, se mantendrá a disposición de la autoridad competente el resultado de la evaluación, la documentación acreditativa de esta, una relación actualizada de los cargos evaluados y una descripción de sus responsabilidades y funciones.
+
+#### Norma 32. Requisitos de idoneidad.
+
+1\. Las entidades y sociedades a que se refiere la norma 30 deberán asegurar, en todo momento, que los miembros del colectivo sujeto a evaluación descrito en la citada norma poseen reconocida honorabilidad comercial y profesional, así como conocimientos, competencias y experiencia adecuados a sus funciones. Además, en el caso de los miembros del consejo de administración, se asegurarán de que actúan con honestidad, integridad e independencia de ideas, de manera que estén en disposición de ejercer un buen gobierno. En particular, respecto a la independencia de ideas, ser miembro de sociedades vinculadas o de entes vinculados no constituirá en sí mismo un obstáculo para tomar decisiones de forma independiente.
+
+2\. La valoración de los requisitos de idoneidad de los miembros del consejo de administración se llevará a cabo, de conformidad con el artículo 24 de la Ley 10/2014 y con los artículos 30, 31 y 32 del Real Decreto 84/2015, tanto a título individual como, en la parte aplicable, para el consejo en su conjunto.
+
+Individualmente, se valorará la capacidad de cada consejero para ejercer un buen gobierno, para lo que se tendrán en cuenta, entre otras cuestiones: la dedicación de tiempo suficiente, la presencia de potenciales conflictos de interés, y su capacidad para evaluar y cuestionar el proceso de toma de decisiones y las decisiones tomadas por la alta dirección.
+
+Adicionalmente, se valorará la capacidad del consejo en su conjunto para comprender adecuadamente las actividades sobre las que se deben tomar decisiones y para tomarlas de forma independiente y autónoma. A estos efectos, se tendrán en cuenta los conocimientos, competencias y experiencia que el consejo reúne en su conjunto. La composición general del consejo de administración u órgano equivalente reflejará de forma adecuada una amplia gama de experiencias.
+
+3\. Las entidades y sociedades a que se refiere la norma 30 deberán proporcionar a los miembros del consejo de administración formación adecuada y continua que les permita entender debidamente los riesgos de las decisiones sobre las que deben pronunciarse y participar activamente en las deliberaciones del consejo.
+
+> Se modifica por la norma primera.23 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 33. Evaluación de la idoneidad de los miembros del consejo de administración, directores generales y asimilados por la autoridad competente.
+
+1\. La autoridad competente evaluará, con carácter previo a su inscripción en el Registro de Altos Cargos, la concurrencia de los requisitos de idoneidad en los miembros del consejo de administración y directores generales o asimilados. Dicha evaluación comenzará con la notificación de la propuesta de nombramiento, según determina el artículo 33, apartados 3 y 4, del Real Decreto 84/2015, y se realizará dentro del plazo de tres meses establecido en el artículo 29.2.c) del Real Decreto 84/2015.
+
+La autoridad competente realizará todas las comunicaciones y notificaciones que se deriven de procedimientos de evaluación de idoneidad a la entidad o a la sociedad financiera de cartera o sociedad financiera mixta de cartera interesada, quien trasladará al candidato propuesto las comunicaciones que se refieran a él.
+
+2\. A fin de valorar la idoneidad, la autoridad competente considerará toda la información de que disponga y podrá:
+
+a) Consultar a otros supervisores, españoles o extranjeros.
+
+b) Entrevistar al evaluado.
+
+c) Requerir más información o documentación.
+
+d) Utilizar cualquier otro medio que considere conveniente para comprobar que el candidato reúne los requisitos de idoneidad y que la información aportada es veraz.
+
+3\. La autoridad competente emitirá una evaluación negativa, con la debida motivación, si comprueba que el evaluado no reúne los requisitos necesarios o si durante el proceso de evaluación se aporta información falsa o engañosa, o se omite información relevante, o no se subsanan las deficiencias identificadas durante el proceso a requerimiento de la autoridad competente.
+
+En esos casos, y con carácter previo a la adopción de la resolución, la autoridad competente lo comunicará a la entidad o sociedad y concederá un plazo de quince días hábiles para la formulación de alegaciones.
+
+Si el resultado de la evaluación es positivo, la autoridad competente también lo comunicará a la entidad o sociedad para que, una vez que el candidato haya sido nombrado y en el plazo máximo de quince días hábiles desde su aceptación, proceda a solicitar su inscripción en el Registro de Altos Cargos, en su caso, que se tramitará en procedimiento separado y posterior al procedimiento de evaluación de idoneidad.
+
+El Banco de España procederá entonces a inscribir a la persona nombrada en el Registro de Altos Cargos, y notificará este hecho.
+
+4\. Las entidades y sociedades a que se refiere la norma 30 deberán comunicar a la autoridad competente cualquier circunstancia relevante que, durante el ejercicio de la actividad de una persona ya inscrita en el Registro de Altos Cargos, afecte al cumplimiento de cualquiera de los requisitos de idoneidad establecidos en la norma 32, apartados 1 y 2, así como las incompatibilidades establecidas en la norma 34. La comunicación de la circunstancia relevante se acompañará de una evaluación de idoneidad en la que las entidades y sociedades a que se refiere la norma 30 analicen y justifiquen el cumplimiento específico de los requisitos de idoneidad que pudieran verse afectados a la luz de las circunstancias comunicadas. La comunicación deberá realizarse en un plazo máximo de quince días hábiles desde que se tuviera –o debiera haberse tenido– conocimiento del hecho. La autoridad competente evaluará si dichos cambios afectan al resultado de la evaluación realizada previamente.
+
+> Se modifica por la norma primera.24 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 34. Régimen de incompatibilidades.
+
+1\. En el caso de que el volumen total de activos de una entidad a nivel individual sea superior a 10.000 millones de euros a la fecha de cierre de los dos ejercicios inmediatamente anteriores, los miembros del consejo de administración y los directores generales o asimilados de dicha entidad no podrán ocupar al mismo tiempo más cargos de los previstos en ninguna de las siguientes combinaciones:
+
+a) Un cargo ejecutivo junto con dos cargos no ejecutivos.
+
+b) Cuatro cargos no ejecutivos.
+
+A estos efectos, en el caso de que, por nueva creación, no se disponga de datos sobre el volumen total de activos de dos ejercicios, se considerarán los datos de cierre de un ejercicio, y en caso de no existir, los datos de cierre del último trimestre.
+
+Se entenderá por cargos ejecutivos aquellos que desempeñen funciones de dirección, cualquiera que sea el vínculo jurídico que les atribuya estas funciones.
+
+No obstante, la autoridad competente podrá autorizar a los miembros del consejo de administración y a los directores generales o asimilados a ocupar un cargo no ejecutivo adicional, si considera que ello no impide el correcto desempeño de sus actividades. Dicha autorización será comunicada a la ABE.
+
+2\. La limitación establecida en el apartado 1 resultará también de aplicación a los miembros del consejo de administración u órgano equivalente y los directores generales o asimilados de las sociedades financieras de cartera y las sociedades financieras mixtas de cartera cuando superen dicho umbral.
+
+3\. En cualquier caso, salvo que dichos límites les apliquen por ser miembros del consejo de administración, directores generales o asimilados de otra entidad, sociedad financiera de cartera o sociedad financiera mixta de cartera, no estarán sujetos a estos límites los miembros del consejo de administración y los directores generales o asimilados designados en una medida de sustitución de administradores de las previstas en el capítulo V del título III de la Ley 10/2014.
+
+4\. A los efectos del apartado anterior:
+
+a) Se computará como un solo cargo el conjunto de los cargos ejecutivos o no ejecutivos ocupados dentro de un mismo grupo.
+
+b) Se computará como un solo cargo el conjunto de los cargos ejecutivos o no ejecutivos ocupados dentro de entidades que formen parte del mismo sistema institucional de protección, siempre que se cumplan las condiciones previstas en el artículo 113.7 del Reglamento (UE) n.º 575/2013.
+
+c) Se computará como un solo cargo el conjunto de los cargos ejecutivos o no ejecutivos ocupados dentro de sociedades mercantiles en las que la entidad posea una participación significativa, según esta se define en el artículo 4.1.(36) del Reglamento (UE) n.º 575/2013.
+
+La existencia de un cargo ejecutivo en el cómputo conjunto de varios cargos determinará la calificación del cargo resultante del conjunto como ejecutivo.
+
+5\. De conformidad con lo dispuesto en el artículo 26.3 de la Ley 10/2014, para la determinación del número máximo de cargos previstos en el apartado 1 no se computarán los ostentados en organizaciones o entidades sin ánimo de lucro o que no persigan fines comerciales.
+
+> Se modifica por la norma primera.25 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 35. Procedimientos y requisitos relativos a los préstamos a los miembros del consejo de administración.
+
+1\. Los préstamos, incluyendo a estos efectos cualesquiera operaciones de crédito, avales y garantías, otorgados a los miembros del consejo de administración de las entidades de crédito se someterán a los requisitos establecidos en la presente norma. No tendrán la consideración de créditos, avales y garantías las operaciones transitorias, como descubiertos en cuenta o saldos deudores en tarjeta de crédito, siempre que el importe dispuesto se halle dentro de los límites usuales en este tipo de contratos.
+
+2\. De acuerdo con el artículo 29.7 de la Ley 10/2014, las entidades de crédito mantendrán actualizada a disposición del Banco de España la siguiente documentación e información en relación con las operaciones de préstamo que se otorguen a los miembros del consejo de administración:
+
+a) Titular del préstamo y su DNI o NIF.
+
+b) Tipo o naturaleza del préstamo y su importe, así como el importe total de las operaciones vivas realizadas con el mismo titular.
+
+c) Información detallada de los términos y condiciones contractuales aplicables al préstamo, con expresión del plazo y el tipo de interés de la operación, las comisiones aplicables, las eventuales garantías personales y reales de la operación y otras condiciones materiales del préstamo.
+
+d) Fecha de aprobación de la operación por el consejo de administración o el órgano de la entidad encargado de aprobar dichas operaciones.
+
+e) Nombre del individuo u órgano encargado de aprobar dichas operaciones y su composición; en caso de que el órgano aprobador sea el órgano de administración, evidencia de que el acuerdo por el que se aprueba el otorgamiento del préstamo se ha adoptado sin la participación del consejero interesado.
+
+f) Declaración acerca de si la operación ha sido concedida en condiciones similares a las de operaciones de igual naturaleza otorgadas a la clientela o a todos los empleados.
+
+g) El tipo de interés medio de las operaciones de igual naturaleza concedidas en los últimos dos meses, y declaración de que la política de concesión de riesgos permite la aplicación a los miembros del consejo de administración de las condiciones otorgadas a los empleados.
+
+Las entidades mantendrán la información y documentación a que se refiere este apartado de forma completa y debidamente actualizada.
+
+La autoridad competente podrá requerir, en cualquier momento, que se le remita la información anterior, así como cualquier otra información o documentación que considere necesaria para la adecuada supervisión de la entidad.
+
+3\. De acuerdo con el artículo 35 del Real Decreto 84/2015, las entidades de crédito deberán solicitar al Banco de España autorización para la concesión de créditos, avales y garantías a los miembros de su consejo de administración. A estos efectos, las solicitudes de autorización deberán formularse de conformidad con lo dispuesto en los apartados 4 y 5 de la presente norma.
+
+Transcurridos treinta días naturales desde la presentación de la solicitud sin que la autoridad competente hubiese adoptado resolución al respecto, podrá considerarse concedida la autorización. Cuando se hubiesen requerido datos adicionales al solicitante, el plazo se contará a partir del momento en que aquellos sean recibidos por la autoridad competente.
+
+4\. La solicitud deberá incluir información detallada sobre:
+
+a) El titular de la operación.
+
+b) El cargo que desempeña en la entidad.
+
+c) El importe de la operación.
+
+d) El importe total de las operaciones vivas realizadas con el titular de la operación o con las personas indicadas en el artículo 35.2 del Real Decreto 84/2015.
+
+e) El plazo de la operación.
+
+f) El tipo de interés de la operación.
+
+g) Las comisiones aplicables.
+
+h) Las garantías de la operación.
+
+i) Otras condiciones.
+
+5\. La solicitud deberá acompañarse de la siguiente documentación:
+
+a. Certificado del órgano aprobador con el siguiente contenido:
+
+i. Declaración de que se ha analizado expresamente la operación y se ha concluido que no está exenta de autorización, al no cumplir con los requisitos de exención contemplados en artículo 35.2 del Real Decreto 84/2015.
+
+ii. Términos en los que se haya valorado la operación, con indicación de la documentación que se haya revisado y el resultado de la valoración efectuada.
+
+iii. Declaración de que la operación ha sido concedida en condiciones similares a las de operaciones de igual naturaleza otorgadas a la clientela o a todos los empleados.
+
+iv. Declaración de que el procedimiento de seguimiento que se aplicará a la operación aprobada será el establecido con carácter general para operaciones de la misma naturaleza.
+
+v. Declaración expresa de que la operación no afecta a la gestión sana y prudente de la entidad ni al correcto cumplimiento de la normativa de ordenación y disciplina.
+
+En caso de que el órgano aprobador sea el órgano de administración y el interesado sea un miembro de dicho consejo, declaración de que el acuerdo se ha adoptado sin la participación del interesado.
+
+b. Informe del departamento de cumplimiento normativo o de auditoría interna, según proceda, que incluya:
+
+i. Confirmación de que la operación ha sido aprobada por el órgano competente siguiendo el procedimiento de análisis y valoración correspondiente para operaciones de la misma naturaleza.
+
+ii. Confirmación de que la operación no interfiere en el adecuado reparto de responsabilidades dentro de la organización.
+
+iii. Confirmación de que las características de la operación cuya autorización se solicita, en particular en cuanto a importe, plazo, tipo de interés y garantías se refiere, son coherentes con la política de riesgos aprobada por el consejo de administración.
+
+6\. La autoridad competente evaluará la solicitud de autorización a la vista de la documentación anterior y de los datos de que disponga, en su caso, sobre el historial de crédito del interesado.
+
+7\. De conformidad con lo dispuesto en el artículo 35.2 del Real Decreto 84/2015, las operaciones que no requieran de la autorización a que se alude en el apartado 3 de esta norma deberán comunicarse al Banco de España inmediatamente después de su concesión. En la comunicación que se remita al Banco de España deberá constar la información señalada en el apartado 4 de la presente norma.
+
+> Se modifica por la norma primera.26 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 35 bis. Procedimientos y requisitos relativos a los préstamos a los directores generales o asimilados de la entidad de crédito.
+
+De acuerdo con el artículo 35.1 y 35.2 del Real Decreto 84/2015, los préstamos otorgados a los directores generales o asimilados de la entidad de crédito se someterán a los mismos procedimientos y requisitos establecidos para los préstamos a los miembros del consejo de administración previstos en los apartados 3 a 7 de la norma 35.
+
+A los efectos de esta norma, las operaciones de préstamo serán las mismas que se establecen en el apartado 1 de la norma 35.
+
+> Se añade por la norma primera.27 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 35 ter. Procedimientos y requisitos relativos a los préstamos a las partes vinculadas a los miembros del consejo de administración de la entidad de crédito.
+
+De acuerdo con el artículo 29.7 de la Ley 10/2014, los préstamos otorgados a las partes vinculadas a los miembros del consejo de administración de la entidad de crédito se someterán a los mismos procedimientos y requisitos establecidos para los préstamos a los miembros del consejo de administración en el apartado 2 de la norma 35. Asimismo, además de lo establecido en dicho apartado, las entidades deberán:
+
+a) indicar la relación personal o societaria que determina su consideración como parte vinculada y la identificación del consejero respecto del cual el titular es parte vinculada;
+
+b) indicar el importe total de las operaciones vivas realizadas con otras partes vinculadas al mismo consejero, y
+
+c) mantener evidencia de que el acuerdo por el que se aprueba el otorgamiento del préstamo se ha adoptado sin la participación del consejero respecto del cual el acreditado es parte vinculada.
+
+A los efectos de esta norma, las referencias realizadas en el apartado 2 de la norma 35 a los miembros del consejo de administración se entenderán hechas a las partes vinculadas a ellos, y las operaciones de préstamo serán las mismas que se establecen en el apartado 1 de la norma 35.
+
+> Se añade por la norma primera.28 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 35 quater. Otras obligaciones de comunicación a la autoridad competente relativas a los préstamos a los miembros del consejo de administración y sus partes vinculadas y a los directores generales o asimilados de la entidad de crédito.
+
+Las entidades de crédito comunicarán a la autoridad competente, con una periodicidad semestral, una relación de los miembros del consejo de administración y sus partes vinculadas, directores generales y asimilados a los que se les hubieran concedido préstamos, indicando el DNI o NIF del acreditado, en su caso, el cargo que desempeñe y, en el caso de ser consejero, si es o no ejecutivo, y, en el caso de ser una parte vinculada a un consejero, la relación personal o societaria que determine la comunicación. Asimismo, se desglosará entre créditos, por un lado, y avales y garantías, por otro.
+
+La comunicación a que se refiere este apartado indicará los importes concedidos en el semestre, en su caso, y los saldos vivos en la fecha de cierre del semestre.
+
+A los efectos de esta norma, las operaciones de préstamo serán las mismas que se establecen en el apartado 1 de la norma 35.
+
+No se incluirán en la relación las sociedades integradas en el propio grupo económico de la entidad declarante, salvo que tengan la consideración de partes vinculadas a los consejeros.
+
+> Se añade por la norma primera.29 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+### Sección 3.ª Remuneraciones
+
+#### Norma 36. Aplicación y personal sujeto a las normas de remuneraciones.
+
+1\. En desarrollo de lo dispuesto en el artículo 32.6 de la Ley 10/2014, los requisitos previstos en los artículos 32, 33, 34 y 36 de la Ley 10/2014 y su normativa de desarrollo serán aplicables en base consolidada al personal de las filiales que realice actividades profesionales que tengan una incidencia significativa directa en el perfil de riesgo o el negocio de las entidades del grupo, ya estén las filiales a las que pertenezcan en la UE o en un tercer país, independientemente de si dichas filiales están sujetas, o lo estarían si estuvieran establecidas en la Unión Europea, a requisitos de remuneración específicos de conformidad con otros actos jurídicos de la Unión Europea.
+
+2\. Lo dispuesto en las normas 38 a 42 de esta sección será únicamente aplicable al colectivo identificado, según se define en la norma 1, con la salvedad de la norma 42.1, que se aplicará a los administradores y directivos de las entidades contempladas en ella.
+
+> Se modifica por la norma primera.30 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 37. Informe anual de evaluación interna sobre la política de remuneraciones.
+
+Las entidades de crédito deberán elaborar y mantener a disposición de la autoridad competente el informe anual de la evaluación interna sobre sus políticas de remuneraciones, contemplada en el artículo 33.2 de la Ley 10/2014, no más tarde de la fecha en que se publique el documento «Información con relevancia prudencial», regulado en el artículo 85 de la Ley 10/2014, en el artículo 93 del Real Decreto 84/2015 y en la norma 59 de esta circular, o del 30 de junio de cada ejercicio.
+
+Dicho informe debe pronunciarse al menos sobre la evaluación de los siguientes aspectos:
+
+a) Empleados que conforman el colectivo identificado.
+
+b) Esquemas de remuneración variable del colectivo identificado, cláusulas de diferimiento, pago en acciones, ajustes ex post de las remuneraciones y períodos de retención y equilibrio respecto de la remuneración fija.
+
+c) Herramientas para la medición y valoración del desempeño ajustado al riesgo para el colectivo identificado.
+
+d) Compromisos por resolución anticipada de contratos asumidos frente al colectivo identificado.
+
+e) Compromisos por pensiones y beneficios discrecionales por pensión asumidos frente al colectivo identificado.
+
+f) Procedimientos de propuesta y aprobación del esquema de remuneraciones por parte del comité de remuneraciones y del consejo de administración, referido tanto al colectivo identificado como al resto del personal.
+
+g) Aplicación de la política no discriminatoria en cuanto al género.
+
+> Se añade la letra g) por la norma primera.31 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 38. Personal perteneciente al colectivo identificado.
+
+1\. Las entidades de crédito deberán mantener a disposición de la autoridad competente una lista con el detalle nominativo del colectivo identificado conforme se define en la norma 1, con el detalle que figura en el anejo VIII. Esta lista deberá actualizarse anualmente y, en todo caso, cuando se hayan producido alteraciones significativas.
+
+2\. Las entidades deberán contar con procedimientos internos adecuados para determinar la composición del colectivo identificado, que incluirán tanto criterios internos de selección, complementarios a los indicados en el artículo 32.1 de la Ley 10/2014 y en el Reglamento Delegado (UE) n.º 2021/923, como criterios de exclusión, a partir de la identificación de actividades que se considere que no tienen una incidencia importante en su perfil de riesgos, de acuerdo con lo señalado en el artículo 6.2 del citado reglamento delegado.
+
+No obstante, las posibles exclusiones del colectivo identificado (sin omitir las de personas inicialmente incluidas) requerirán la previa aprobación de la autoridad competente, en los términos que se establecen en los apartados 3 y 4 del artículo 6 del Reglamento Delegado (UE) n.º 2021/923.
+
+3\. Adicionalmente, la relación de todo el personal excluido se mantendrá igualmente a disposición de la autoridad competente, con el mismo detalle que figura en el anejo VIII.
+
+> Se modifica el apartado 2 por la norma primera.32 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 39. Política de remuneraciones.
+
+1\. Conforme a lo establecido en el artículo 34.1.g) 3.º de la Ley 10/2014, las entidades de crédito podrán aplicar un tipo de descuento teórico al 25%, como máximo, de la parte de la remuneración variable total que vayan a satisfacer mediante instrumentos de forma diferida, siempre que el período de diferimiento sea, como mínimo, de cinco años.
+
+2\. A efectos de lo establecido en el artículo 34.1.l) 2.º de la Ley 10/2014, se consideran adecuados para satisfacer los compromisos de remuneración variable por las entidades de crédito cotizadas o no cotizadas los siguientes instrumentos, siempre que sean emisiones colocadas en mercados mayoristas:
+
+a) Instrumentos de capital de nivel 1 adicional, en el sentido del artículo 52 del Reglamento (UE) n.º 575/2013.
+
+b) Instrumentos de capital de nivel 2, en el sentido del artículo 63 del Reglamento (UE) n.º 575/2013.
+
+c) Otros instrumentos que puedan convertirse en su totalidad en instrumentos de capital de nivel 1 ordinario o sean capaces de absorber pérdidas, y siempre que reflejen la calidad crediticia de la entidad de crédito en una perspectiva de continuidad de la explotación, de conformidad con los artículos 1 y 4 del Reglamento Delegado (UE) n.º 527/2014, previa autorización de la autoridad competente.
+
+3\. Cualquiera que sea el instrumento en que se materialice parte de la remuneración variable, será sometido a un período mínimo de retención de un año, durante el cual no podrá disponerse de él. No obstante, en el caso de instrumentos que correspondan a la parte diferida de la remuneración del personal perteneciente al colectivo identificado que no sea ni consejero ni alto directivo, el período mínimo de retención podrá reducirse hasta los seis meses si el diferimiento de estos instrumentos es, al menos, de cinco años.
+
+4\. A efectos del artículo 36.2.b) del Real Decreto 84/2015, la remuneración variable del colectivo identificado se reducirá en el momento de la evaluación de su desempeño, en caso de apreciarse un comportamiento negativo de los resultados de la entidad o de sus ratios de capital, ya sea en relación con los de ejercicios anteriores o con los de entidades semejantes, o un comportamiento negativo de otros parámetros como el grado de consecución de los objetivos presupuestados.
+
+En cualquier caso, la reducción de la remuneración variable se producirá siempre que esté en vigor una exigencia o recomendación de la autoridad competente a la entidad de restringir su política de distribución de dividendos.
+
+5\. Las entidades incorporarán en su política remuneratoria cláusulas de reducción aplicables hasta el 100% de la remuneración variable total, así como cláusulas de recuperación de la remuneración ya satisfecha, ligadas ambas a un deficiente desempeño financiero de la entidad en su conjunto o de una división o área concreta de esta o de las exposiciones generadas por esa persona. A estos efectos, las entidades compararán la evaluación del desempeño realizada con el comportamiento a posteriori de algunas de las variables que contribuyeron a conseguir los objetivos. Entre los factores que se han de tener en cuenta deberán considerarse, al menos:
+
+a) Los fallos significativos en la gestión del riesgo cometidos por la entidad, o por una unidad de negocio o de control del riesgo.
+
+b) El incremento sufrido por la entidad o por una unidad de negocio de sus necesidades de capital, no previstas en el momento de generación de las exposiciones.
+
+c) Las sanciones regulatorias o condenas judiciales por hechos que pudieran ser imputables a la unidad o al personal responsable de aquellos. Asimismo, el incumplimiento de códigos de conducta internos de la entidad.
+
+d) Las conductas irregulares, ya sean individuales o colectivas. Se considerarán especialmente los efectos negativos derivados de la comercialización de productos inadecuados y las responsabilidades de las personas u órganos que tomaron esas decisiones.
+
+6\. La recomendación pormenorizada del consejo de administración a la junta general de accionistas u órgano equivalente, preceptiva para la aprobación por este de un nivel de remuneración variable superior al 100% del salario fijo, según lo establecido en el artículo 34.1.g) 2.º i) de la Ley 10/2014, deberá tener en consideración las exigencias o recomendaciones vigentes de la autoridad competente de restringir su política de distribución de dividendos.
+
+7\. En desarrollo de lo dispuesto en el artículo 34.3 de la Ley 10/2014, el umbral al que se refiere la letra a) del artículo 34.2 de la Ley 10/2014 se reducirá a cero y los requisitos establecidos en las letras l) y m) y en el segundo párrafo de la letra ñ) del artículo 34.1 de la Ley 10/2014 no serán de aplicación a aquellas entidades que, no teniendo la consideración de entidad grande de acuerdo con el artículo 4.1.146) del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, en base consolidada, sean calificadas como entidad pequeña y no compleja de conformidad con el artículo 4.1.145) del Reglamento (UE) n.º 575/2013. En ningún caso, la exención aplicará a entidades que superen el umbral de 5.000 millones de euros de activo al que se refiere la letra a) del artículo 34.2 de la Ley 10/2014 o que pertenezcan a una entidad grande.
+
+> Se añade el apartado 7 por la norma primera.33 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 40. Pagos por resolución anticipada de contrato.
+
+1\. En el caso de que los pagos por resolución anticipada de contrato a los que se refiere el artículo 34.1.h) de la Ley 10/2014 superen el importe correspondiente a dos anualidades de la remuneración fija, la entidad deberá dar la debida transparencia a esta circunstancia, mediante su publicación de forma clara y por separado en el documento de «Información con relevancia prudencial».
+
+2\. Los acuerdos de remuneraciones o contratos suscritos deberán incorporar cláusulas que permitan una reducción de la cuantía de los pagos por resolución anticipada en función de los resultados obtenidos en el transcurso del tiempo, estableciéndose de forma tal que no se recompensen los malos resultados o conductas indebidas, de acuerdo con lo establecido en el artículo 34.1.h) de la Ley 10/2014. A estos efectos, se producirá una reducción de dichos pagos, al menos, ante la existencia de resultados negativos de la entidad, el cumplimiento ajustado de las ratios de solvencia o la existencia en vigor de exigencias o recomendaciones de la autoridad competente sobre limitaciones de distribución de dividendos.
+
+Respecto a los resultados, se tendrán en cuenta los resultados de la entidad en su conjunto, así como los imputables a la persona en cuestión y a la división o área concreta en la que ejerza su responsabilidad, y deberán establecerse las suficientes cautelas en el clausulado de los contratos para que, en su caso, se puedan considerar los resultados negativos que pudieran aflorar con posterioridad al cese de la persona, y que sean imputables a su gestión.
+
+#### Norma 41. Beneficios por pensiones.
+
+1\. El diseño de la política de pensiones deberá ser compatible con la estrategia empresarial, los objetivos, los valores y los intereses a largo plazo de la entidad. Para ello, los compromisos por pensiones deberán contemplar mecanismos que permitan el ajuste tanto de las aportaciones de la entidad como de la consolidación de los derechos correspondientes en función de resultados o circunstancias adversas.
+
+Para que la política de pensiones de las entidades cumpla con lo establecido en el párrafo anterior, al menos para los consejeros ejecutivos, los directores generales y personal asimilado, según este se define en el artículo 6.6 de la Ley 10/2014, una parte significativa de las aportaciones pactadas a partir de la entrada en vigor de esta circular a los compromisos por pensiones, que no será inferior a un 15%, debe girar sobre componentes variables, quedando esta parte encuadrada en los beneficios discrecionales de pensión definidos en el siguiente apartado 2 de esta norma.
+
+Cuando los compromisos por beneficios discrecionales de pensión estuvieran totalmente externalizados, la documentación que recoja los términos y condiciones de la delegación deberá incluir cláusulas que permitan a la entidad recuperar las aportaciones realizadas o que impidan la consolidación de los beneficios de pensión correspondientes, en función de resultados o circunstancias adversas.
+
+2\. A efectos de lo previsto en el artículo 34.1.ñ) de la Ley 10/2014 y en el artículo 36.1 del Real Decreto 84/2015, se considerarán beneficios discrecionales de pensión:
+
+a) La parte proporcional de los beneficios de pensión que exceda de lo establecido para los empleados con relación laboral común de la entidad (mediante acuerdos o convenios colectivos suscritos con la representación legal de los trabajadores y con afectación general a toda la plantilla) y cuyo importe se derive o se haya derivado de parámetros variables, tales como remuneraciones variables, consecución de objetivos, alcance de hitos o similares.
+
+b) Aquellos que sean consecuencia de aportaciones extraordinarias, no previstas en las condiciones contractuales iniciales ni derivadas de imposiciones legales, especialmente las realizadas en los seis años anteriores a la fecha de jubilación o cese.
+
+c) Los relacionados con cambios sustanciales en las condiciones de las jubilaciones, incluyendo los cambios derivados de procesos de fusión o combinaciones de negocios.
+
+A este respecto, las aportaciones basadas en una cualidad de carácter individual no se considerarán parte del sistema general de pensiones de la entidad.
+
+3\. Las aportaciones que originen beneficios discrecionales de pensión, conforme se indica en el apartado 2 anterior, tendrán la consideración de remuneración variable diferida a todos los efectos previstos en la presente circular y, como tal, deberán estar sujetas explícitamente a cláusulas de reducción, similares a las contempladas en la norma 39 anterior, formando, asimismo, parte del monto total de retribuciones variables a los efectos de límites u otras consideraciones que pudieran establecerse.
+
+4\. De conformidad con el artículo 34.1.ñ) de la Ley 10/2014, si un empleado abandona la entidad como consecuencia de su jubilación o previamente por cualquier otra causa, los beneficios discrecionales de pensión estarán sometidos a un período de retención de cinco años.
+
+El período de retención de cinco años a que se refiere el párrafo anterior se contará a partir de la fecha en que la persona deje de prestar servicios en la entidad por cualquier causa.
+
+La entidad aplicará durante el período de retención los mismos requisitos de cláusulas de reducción y de recuperación de la remuneración ya satisfecha que se establezcan para la remuneración variable.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 182, de 29 de julio de 2016. [Ref. BOE-A-2016-7305](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7305).
+
+#### Norma 42. Entidades que reciban apoyo financiero público para su saneamiento y reestructuración.
+
+1\. A efectos de lo previsto en el artículo 36.3 del Real Decreto 84/2015, cuando las entidades que hayan recibido apoyo financiero público para su saneamiento y reestructuración vayan a efectuar la evaluación del desempeño de sus administradores y directivos a efectos de cuantificar la remuneración variable, deberán informar a la autoridad competente sobre la propuesta de devengo y liquidación correspondiente, así como de las causas que justifican su abono. Esta información se facilitará tan pronto como la comisión de remuneraciones o, en su caso, el comité conjunto de nombramientos y remuneraciones apruebe la citada propuesta.
+
+2\. Asimismo, las entidades pondrán en conocimiento de la autoridad competente, con antelación de al menos un mes a la fecha prevista para hacerlas efectivas, las indemnizaciones por terminación de contrato que tengan previsto liquidar con las personas pertenecientes al colectivo identificado, o que hubieran pertenecido a este en los doce meses anteriores a la terminación del contrato.
+
+### Sección 4.ª Delegación de la prestación de servicios o del ejercicio de funciones
+
+#### Norma 43. Requisitos generales aplicables a la delegación de la prestación de servicios o del ejercicio de funciones.
+
+1\. La delegación de prestación de servicios o del ejercicio de funciones por parte de las entidades en un proveedor de servicios tercero, incluyendo proveedores pertenecientes al mismo grupo de la entidad, se regirá por lo establecido en el artículo 22 del Real Decreto 84/2015 y por lo establecido en la presente sección.
+
+2\. En la elección de proveedores de servicios o funciones, sean o no esenciales, las entidades deberán valorar, entre otros factores que puedan ser relevantes en cada caso, la calidad, la experiencia y la estabilidad de los proveedores, incluyendo, a estos efectos, sin limitación, su solvencia financiera y grado de continuidad en la prestación de los servicios, su reputación en el mercado y el grado en que estos cumplen con las leyes y normas más relevantes que les son de aplicación. En particular, deberá valorarse el modo en que se cumple con las normas de prevención de blanqueo de capitales y de protección a la clientela.
+
+3\. Las entidades vigilarán que sus propios planes de contingencia incluyan y contemplen adecuadamente los servicios o funciones que hayan sido objeto de delegación, en particular los que tengan carácter esencial, y establecerán alternativas a la delegación contratada.
+
+4\. La delegación de la prestación de servicios o de funciones, sean o no esenciales, no puede resultar en la obstaculización de las facultades de supervisión de la autoridad competente ni en la dependencia excesiva de la entidad respecto al proveedor de los servicios.
+
+> Se modifica por la norma primera.34 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Téngase en cuenta la disposición transitoria única de la citada Circular.
+
+#### Norma 43 bis. Definición de servicios o funciones esenciales.
+
+1\. De acuerdo con lo establecido en el artículo 22.5 del Real Decreto 84/2015, y a los efectos de lo establecido en esta sección, se entenderá que un servicio o función es esencial si una deficiencia o anomalía en su ejecución puede, bien afectar de modo considerable a la capacidad de la entidad de crédito para cumplir permanentemente las condiciones y obligaciones que se derivan de su autorización y del régimen establecido en la Ley 10/2014, bien afectar a sus rendimientos financieros, a su solvencia o a la continuidad de su actividad. El término función esencial se entenderá equivalente al término funciones esenciales o importantes.
+
+2\. Sin perjuicio de lo dispuesto en el apartado anterior, se entenderá, en todo caso, que un servicio o función es esencial cuando:
+
+a) esté relacionado con la ejecución de las funciones de control interno de la entidad, a menos que la evaluación determine que un fallo en la realización de la función delegada o la realización inadecuada de la función delegada no repercutiría negativamente en la eficacia de la función de control interno,
+
+b) sean funciones relativas a actividades que requieren autorización de la autoridad competente.
+
+3\. A los efectos de evaluar si un acuerdo de delegación afecta a un servicio o una función esencial, las entidades deberán considerar, al menos, los siguientes factores:
+
+a) Si el acuerdo de delegación está directamente relacionado con la prestación de las actividades o servicios para los que las entidades están autorizadas o si el servicio o función objeto de delegación afecta a actividades, procesos o servicios relativos a ramas de actividad principales de la entidad. A los efectos de lo establecido en esta circular, se entenderá por ramas de actividad principales aquellas a las que se refieren la Ley 11/2015 y su normativa de desarrollo.
+
+b) El impacto potencial de cualquier interrupción o disrupción en la prestación del servicio o desarrollo de la función por parte del proveedor, o la incapacidad del proveedor para prestar el servicio con los niveles de servicio acordados y de forma continuada, especialmente cuando pudiera afectar a su resiliencia y viabilidad financieras, a la continuidad de sus actividades, a su riesgo operacional, incluyendo el riesgo de conducta y legal, a la reputación de la entidad o, cuando proceda, a la continuidad de sus actividades en situación de actuación temprana, recuperación o resolución.
+
+c) El impacto potencial del acuerdo de delegación sobre su capacidad para identificar, supervisar y gestionar todos los riesgos relacionados con el servicio o la función objeto de delegación, cumplir todos los requisitos legales y regulatorios que resulten aplicables a la entidad, y llevar a cabo auditorías adecuadas de la función delegada.
+
+d) El impacto potencial sobre los servicios prestados a los clientes de la entidad.
+
+e) Todos los acuerdos de delegación que haya suscrito la entidad, la exposición agregada de la entidad frente a un mismo proveedor de servicios y el potencial impacto acumulado de los acuerdos de delegación en la misma área de negocio.
+
+f) El tamaño y la complejidad de cualquier área de negocio afectada por el servicio o función objeto de delegación.
+
+g) La posibilidad de que pudieran ampliarse las prestaciones del servicio sin hacer ninguna novación del contrato subyacente.
+
+h) La capacidad para transferir o ceder el acuerdo de delegación a otro proveedor de servicios, si fuera necesario o deseable, tanto desde el punto de vista contractual como en la práctica, incluidos los riesgos estimados, los impedimentos que afectan a la continuidad de las actividades, los costes y el plazo para dicha transferencia.
+
+i) La capacidad para reincorporar la función delegada en la entidad.
+
+j) El impacto de la delegación en la protección de datos y el impacto potencial de una vulneración de la confidencialidad o de la incapacidad para garantizar la disponibilidad e integridad de los datos personales o confidenciales sobre la entidad.
+
+> Se añade por la norma primera.35 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 43 ter. Política de delegación.
+
+1\. Las entidades que tengan acuerdos de delegación o tengan previsto celebrar dichos acuerdos deberán contar con una política de delegación aprobada por su consejo de administración, sujeta a expresas actualizaciones periódicas, que serán realizadas como mínimo cada dos años.
+
+2\. La política de delegación deberá especificar, asimismo, una unidad de control responsable de la documentación, gestión, seguimiento y control de los acuerdos de delegación.
+
+3\. En el desarrollo de esta política, la entidad deberá evaluar el potencial impacto de cualquier riesgo en que incurra y especificar la gestión que, en el caso de delegación de funciones esenciales, aplicará a estos. Al menos, deberá considerarse:
+
+a) El riesgo de incumplimiento de las normas que regulan la actividad de la entidad y de las normas más relevantes que son de aplicación al proveedor del servicio.
+
+b) El riesgo derivado de la concentración de múltiples acuerdos con un mismo proveedor o proveedores vinculados o de múltiples servicios o proveedores en una misma región geográfica.
+
+c) El riesgo de dependencia excesiva de la entidad frente a un mismo proveedor o proveedores vinculados, aunque no exista concentración de servicios en ellos.
+
+d) El riesgo que pueda derivarse de la necesidad de la entidad de proporcionar apoyo financiero a un proveedor de servicios en una situación de estrés financiero o de asumir sus operaciones de negocio.
+
+e) El riesgo inherente al país en el que esté radicado el proveedor del servicio.
+
+f) El riesgo reputacional derivado de las prácticas seguidas por el proveedor del servicio que pudieran generar en los clientes, los inversores, el supervisor o el mercado en general una opinión negativa sobre la entidad.
+
+g) El riesgo operacional, incluyendo, en su caso, el riesgo de conducta, los riesgos ligados a las tecnologías de la información y la comunicación, y el riesgo legal, debido a fallos en la prestación del servicio por parte del proveedor, como consecuencia, entre otros factores, de la inadecuación de los procesos, los sistemas internos o el personal asignado.
+
+h) Los riesgos relacionados con la subcontratación de servicios o funciones esenciales y la delegación en cadena.
+
+i) Los riesgos relacionados con la localización en la que se conservarán y tratarán los datos pertinentes relacionados con la delegación, incluidos los posibles efectos de la legislación aplicable al proveedor y su cadena de delegación.
+
+> Se añade por la norma primera.36 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 43 quater. Delegación de servicios o funciones esenciales.
+
+1\. El consejo de administración deberá asegurarse de que se cumplen los requisitos establecidos en su política en relación con la delegación de servicios o funciones esenciales mediante la recepción de informes de seguimiento, elaborados por el departamento interno correspondiente. La función de auditoría interna revisará el contenido de estos informes, que podrán variar tanto en su frecuencia como en su profundidad, en función de la naturaleza o de la esencialidad de los servicios o funciones delegados, pero que habrán de evaluar tanto los riesgos como los beneficios obtenidos con la delegación, y deberán ser actualizados, como mínimo, anualmente.
+
+2\. Los contratos de delegación de funciones esenciales deberán:
+
+a) Incluir una cláusula que contemple el acceso directo y sin restricciones de la entidad y de las autoridades competentes, y cualquier otra persona nombrada por ellas, a la información de la entidad de crédito en poder de los proveedores, así como la posibilidad de verificar, en los propios locales de estos, la idoneidad de los sistemas, herramientas o aplicaciones utilizados en la prestación de los servicios o funciones delegados. Si se permite la subcontratación de una función esencial o importante, o de partes significativas de ella, las entidades exigirán que sus proveedores incluyan esta cláusula en los contratos de todos los subcontratistas a lo largo de la cadena de subcontratación que presten servicios materiales en relación con la función esencial o importante delegada, de tal manera que los subcontratistas garanticen a la entidad y a la autoridad competente los mismos derechos contractuales de acceso y auditoría que los concedidos por el proveedor de servicios.
+
+b) Permitir el desistimiento y prever que los costes para la entidad de dicho desistimiento sean razonables.
+
+c) Establecer si se permite la subcontratación de una función esencial, o de partes significativas de ella, y, de ser así, las condiciones a las que está sujeta dicha subcontratación.
+
+d) Incluir la exigencia de que el proveedor de los servicios disponga de un plan de contingencia actualizado y puesto a prueba de forma regular que permita mantener su actividad y limitar las pérdidas de la entidad en caso de incidencias graves.
+
+Adicionalmente, deberá incluirse una cláusula que especifique la jurisdicción del país a la que estará sujeto el contrato, de forma que la entidad valore los potenciales riesgos legales en que pudiera incurrir en caso de conflicto.
+
+> Se añade por la norma primera.37 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 43 quinquies. Limitaciones a la delegación de servicios o funciones.
+
+En función de la naturaleza o esencialidad de algunas funciones o servicios, o de sus efectos en el régimen de gobierno interno de la entidad, la autoridad competente podrá establecer limitaciones a la delegación, a cuyo efecto tendrá en consideración, entre otros aspectos, la política de delegación que tenga establecida la entidad, su estructura organizativa, su entorno de control interno y las implicaciones de la delegación en relación con el ejercicio de la función supervisora de la autoridad competente.
+
+> Se añade por la norma primera.38 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 43 sexies. Obligaciones de comunicación a la autoridad competente en materia de delegación de servicios o funciones.
+
+1\. Las entidades deberán presentar una comunicación previa a la autoridad competente, con una antelación mínima de dos meses a la prestación del servicio de forma efectiva por parte del proveedor, informando la delegación prevista de funciones esenciales. Dicha comunicación previa deberá estar acompañada de la siguiente documentación:
+
+a) El correspondiente análisis de riesgos, las medidas de control y mitigadoras de los riesgos y el riesgo residual aceptado por la entidad que, en su caso, procedan.
+
+b) La política de delegación vigente de la entidad y evidencia de su aprobación por el consejo de administración.
+
+c) Análisis de la fórmula o diseño de delegación en el que se examinen los beneficios y riesgos involucrados en relación con la delegación de servicios o funciones, así como la descripción de la solución adoptada y evidencia de la aprobación de la delegación por el órgano correspondiente de la entidad.
+
+d) Contrato de delegación o el borrador de contrato de delegación en su versión más definitiva posible y, en su caso, el acuerdo de nivel de servicio pactado con el proveedor de servicios en el que la entidad delega o pretende delegar la función esencial. En caso de haber facilitado un borrador, tras la firma del contrato, la entidad enviará a la autoridad competente el contrato firmado en el plazo de 15 días, sin perjuicio de que la autoridad competente pueda requerir ese contrato en cualquier momento.
+
+e) Plan de salida o, en su caso, de reincorporación de la función o servicio objeto de delegación.
+
+f) Cualquier otra información o documentación que la autoridad competente juzgue necesaria para valorar la delegación.
+
+2\. Las entidades deberán comunicar formal e inmediatamente a la autoridad competente cada vez que una función no esencial que haya sido objeto de delegación hubiese devenido una función esencial.
+
+> Se añade por la norma primera.39 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 43 septies. Registro de acuerdos de delegación.
+
+1\. Las entidades deberán mantener un registro actualizado con información sobre todos sus acuerdos de delegación y, cuando proceda, a nivel subconsolidado y consolidado, diferenciando entre la delegación de servicios o funciones esenciales y la de los servicios o funciones no esenciales.
+
+2\. El registro al que se refiere el párrafo anterior deberá incluir, al menos, la siguiente información para todos los acuerdos de delegación:
+
+a) Un número de referencia o identificación para cada acuerdo.
+
+b) La fecha de entrada en vigor y, en su caso, la próxima fecha de renovación del contrato, la fecha de finalización y los plazos de preaviso para el proveedor de servicios y para la entidad.
+
+c) Una breve descripción de la función o servicio objeto de la delegación, incluidos los datos implicados en la delegación y, en particular, si se han transferido o no datos personales o si su tratamiento se ha delegado en un proveedor de servicios.
+
+d) Una categoría asignada por la entidad que refleje la naturaleza de la función o servicio.
+
+e) El nombre del proveedor de servicios, su número de registro, el identificador de entidad jurídica, cuando se disponga de él, el domicilio social, otra información de contacto pertinente, y, cuando proceda, el nombre de su entidad matriz.
+
+f) El país o los países en los que se desarrollará la delegación, incluidas las localizaciones en las que se tratarán o almacenarán los datos.
+
+g) Si el servicio o la función objeto de la delegación se considera esencial o no, así como, en su caso, las razones que justifican dicha clasificación.
+
+h) En el caso de delegación a un proveedor de servicios en la nube, el modelo de servicio en la nube, el modelo de despliegue y los países o regiones utilizados.
+
+i) La fecha de la última evaluación de la esencialidad del servicio o de la función objeto de delegación.
+
+3\. Además de la información prevista en el párrafo 2 de la presente norma, en el caso de los acuerdos de delegación que tengan por objeto servicios o funciones esenciales, el registro deberá incluir, como mínimo, la siguiente información adicional:
+
+a) Las entidades y otras empresas pertenecientes al grupo consolidable de la entidad o que formen parte del sistema institucional de protección, cuando proceda, que hacen uso del mismo acuerdo de delegación.
+
+b) Si el proveedor de servicios o subcontratista forma parte del grupo consolidable de la entidad de crédito o del mismo sistema institucional de protección o pertenece a las entidades del grupo consolidable o que forman parte del sistema institucional de protección, o no.
+
+c) La fecha del último análisis de riesgos efectuado y un breve resumen de los principales resultados derivados de dicho análisis.
+
+d) La persona u órgano de la entidad que aprobó la delegación.
+
+e) El derecho aplicable por el que se rige el acuerdo de delegación.
+
+f) Las fechas de las auditorías más recientes realizadas por la entidad al proveedor de servicios y de las próximas auditorías programadas, en su caso.
+
+g) Cuando proceda, los nombres de los subcontratistas a los que se hayan subcontratado partes significativas del servicio o la función esencial, incluido el país en que están registrados los subcontratistas, el país en el que se prestará el servicio y, si procede, la localización en la que se almacenarán los datos.
+
+h) El resultado de la evaluación de la sustituibilidad del proveedor de servicios, la posibilidad de reincorporar el servicio o la función esencial en la entidad, o el impacto de interrumpir el servicio o la función esencial.
+
+i) Identificación de proveedores de servicios alternativos.
+
+j) Si el servicio o la función esencial objeto de delegación asiste a operaciones de negocio en las que la disponibilidad es un factor crítico.
+
+k) El presupuesto anual estimado relacionado con la delegación del servicio o función esencial.
+
+l) Fecha en la que se realizó la última comunicación formal a la autoridad competente a la que se refiere la norma 43 *sexies* anterior.
+
+> Se añade por la norma primera.40 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## CAPÍTULO 5 — Autoevaluación del capital y proceso de revisión supervisora
+
+#### Norma 44. Proceso e informe de autoevaluación del capital.
+
+1\. El proceso de autoevaluación del capital previsto en el artículo 41 de la Ley 10/2014 estará integrado por un conjunto de estrategias y procedimientos sólidos, eficaces y exhaustivos que permitan evaluar y mantener de forma permanente los importes, los tipos y la distribución tanto del capital interno como de los fondos propios que las entidades consideren adecuados para cubrir, en función de su naturaleza y nivel, todos los riesgos a los que estén o puedan estar expuestas. Este proceso deberá incluir el establecimiento de un objetivo y estrategia de fondos propios adecuados a los riesgos asumidos, y para ello, además de evaluar sus riesgos presentes, las entidades realizarán pruebas de resistencia que permitan identificar acontecimientos o cambios en las condiciones de los mercados en los que operan que puedan afectar negativamente a su solvencia futura. Las referidas estrategias y procedimientos serán objeto de un examen periódico interno, a fin de garantizar que sigan siendo exhaustivos y proporcionados al carácter, escala y complejidad de las actividades de la entidad.
+
+2\. Las entidades deberán considerar todos los riesgos que les sean relevantes en su proceso de autoevaluación del capital.
+
+3\. Las estrategias y procedimientos a que se refiere el apartado 1 de esta norma se resumirán, junto con las políticas y procedimientos previstos en la norma 28 referida al gobierno interno, en un informe anual de autoevaluación del capital, que será aprobado por el consejo de administración y se remitirá al Banco de España antes del 30 de abril del año siguiente a la fecha de referencia, o en un plazo inferior, cuando así lo establezca el Banco de España.
+
+#### Norma 45. Proceso de revisión y evaluación supervisora.
+
+1\. La autoridad competente revisará los sistemas, estrategias, procedimientos y mecanismos aplicados por las entidades de crédito a fin de dar cumplimiento a lo dispuesto en la normativa de solvencia, según lo establecido en los artículos 51, 52 y 53 de la Ley 10/2014 y en el artículo 76 del Real Decreto 84/2015, y evaluará los riesgos que se mencionan en las citadas normas.
+
+2\. La revisión y evaluación a que se refiere el apartado anterior incluirá, entre otros, los siguientes aspectos:
+
+a) La exposición a los riesgos de crédito, de mercado y operacional, y su gestión.
+
+b) Los resultados de las pruebas de resistencia llevadas a cabo, de conformidad con el artículo 177 del Reglamento (UE) n.º 575/2013, por las entidades que utilicen el método basado en calificaciones internas para calcular las exigencias de capital por riesgo de crédito.
+
+c) La exposición al riesgo de concentración y su gestión por las entidades, incluido el cumplimiento por estas de los requerimientos establecidos en la parte cuarta del Reglamento (UE) n.º 575/2013 y en el artículo 48 del Real Decreto 84/2015.
+
+d) La solidez, adecuación y forma de aplicación de las políticas y de los procedimientos de gestión del riesgo residual asociado con el uso de técnicas reconocidas de reducción del riesgo de crédito.
+
+e) La adecuación de los fondos propios mantenidos con respecto a los activos titulizados atendiendo al fondo económico de la operación, para lo que se tendrá en cuenta el grado de transferencia significativa de riesgo alcanzado y los apoyos implícitos proporcionados en el pasado.
+
+f) La exposición al riesgo de liquidez y su medición y gestión, incluyendo la realización de análisis de diferentes escenarios, y la gestión de los factores reductores de riesgo, especialmente, el nivel, la composición y la calidad de los colchones de liquidez y los planes de contingencia efectivos. Asimismo, se evaluará si los planes de contingencia son realistas y están debidamente actualizados.
+
+g) La incidencia de los efectos de diversificación y el modo en que dichos efectos se tienen en cuenta en el sistema de evaluación del riesgo.
+
+h) Los resultados de las pruebas de resistencia llevadas a cabo por entidades que utilicen métodos internos para calcular las exigencias de capital para el riesgo de mercado, de acuerdo con la parte tercera, título IV, capítulo 5, del Reglamento (UE) n.º 575/2013.
+
+i) La ubicación geográfica de las exposiciones de las entidades.
+
+j) El modelo empresarial de la entidad.
+
+k) **(Suprimida).**
+
+l) La exposición al riesgo de tipo de interés del balance derivado de actividades ajenas a la cartera de negociación y su gestión.
+
+m) La exposición de las entidades al riesgo de apalancamiento excesivo, y su gestión.
+
+n) Los sistemas de gobierno corporativo de las entidades, su cultura, sus valores corporativos y la capacidad de los miembros del consejo de administración para desempeñar sus funciones. Al llevar a cabo esta revisión y evaluación, la autoridad competente tendrá acceso, como mínimo, a los órdenes del día y a la documentación de apoyo de las reuniones del consejo de administración y de sus comités, así como a los resultados de la evaluación interna o externa de la actuación del consejo de administración.
+
+o) Si los ajustes de valoración prudentes para posiciones o carteras específicas dentro de la cartera de negociación, según lo establecido en el artículo 105 del Reglamento (UE) n.º 575/2013, son suficientes y permiten a la entidad de crédito vender o cubrir sus posiciones en un corto período de tiempo sin incurrir en pérdidas importantes en condiciones de mercado normales.
+
+p) La exposición al riesgo de tipo de cambio estructural, y su gestión.
+
+q) La exposición al riesgo reputacional, y su gestión.
+
+r) La exposición a los riesgos derivados de las operaciones intragrupo, y su gestión.
+
+A efectos de lo dispuesto en la letra f), la autoridad competente efectuará periódicamente una profunda evaluación de la gestión global del riesgo de liquidez por las entidades de crédito y favorecerá el desarrollo de sólidas metodologías internas. Al realizar estos exámenes, la autoridad competente tomará en consideración el papel desempeñado por las entidades de crédito en los mercados financieros y la posible incidencia de sus decisiones en la estabilidad del sistema financiero de todos los demás Estados miembros afectados.
+
+3\. De conformidad con los artículos 68, 68 bis, 69 y 69 bis de la Ley 10/2014, el proceso de revisión y evaluación supervisora podrá dar como resultado la adopción por parte de la autoridad competente de una decisión respecto al nivel mínimo de capital de la entidad.
+
+Asimismo, cuando de dicha revisión y evaluación resulte que una entidad no disponga de procedimientos adecuados de gobierno interno, de políticas y prácticas de remuneración coherentes con la promoción de una gestión de riesgo sólida y efectiva, o resulte inadecuado su proceso de autoevaluación del capital, la referida entidad deberá subsanar las deficiencias advertidas y cumplir con las medidas que, en su caso, adopte la autoridad competente en virtud de lo establecido en los artículos 68.2 y 68 bis.3 de la Ley 10/2014. A tal efecto, la entidad elaborará, cuando así le sea requerido, un programa de cumplimiento y adecuación del capital, que presentará para su aprobación a la autoridad competente, en los casos y términos previstos en el artículo 57 del Real Decreto 84/2015.
+
+> Se suprimen los apartados 2.k) y 4 y se modifica el 3 por la norma primera.41 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## CAPÍTULO 6 — Tratamiento de riesgos
+
+#### Norma 46. Normativa aplicable al tratamiento de los riesgos.
+
+Las entidades de crédito deberán cumplir con lo establecido en el título II, capítulo I del Real Decreto 84/2015 respecto a los sistemas, procedimientos y mecanismos de gestión de riesgos, para lo que tendrán en cuenta las especificidades que se detallan en este capítulo, de acuerdo con el ámbito de aplicación definido en la norma 2.
+
+#### Norma 47. Riesgo de concentración.
+
+1\. A los efectos del artículo 48 del Real Decreto 84/2015, las entidades deberán contar con políticas y procedimientos escritos adecuados para:
+
+a) Medir y controlar el riesgo de concentración derivado de las exposiciones frente a cada una de las contrapartes, incluidas las entidades de contrapartida central, grupos de contrapartes vinculadas y contrapartes del mismo sector económico, de la misma región geográfica, de la misma actividad o dependientes de la misma materia prima.
+
+b) Evaluar la utilización de técnicas de reducción del riesgo de crédito que conlleven grandes riesgos crediticios indirectos, tales como los mantenidos frente a un mismo proveedor de garantías.
+
+c) Identificar la posible existencia de interrelaciones entre clientes a los efectos de la agregación y cálculo de las exposiciones. En particular, las entidades deberán analizar en profundidad las posibles interrelaciones, tanto jurídicas como económicas, de todos sus riesgos que representen más de un 2% de sus fondos propios, definidos de acuerdo con lo previsto en la parte segunda del Reglamento 575/2013, a nivel individual o consolidado.
+
+2\. Las entidades procurarán una adecuada diversificación del riesgo y vigilarán sus concentraciones de riesgo, adoptando, en su caso, y sin perjuicio de lo dispuesto en la parte cuarta del Reglamento (UE) n.º 575/2013, las medidas oportunas para corregir aquellas situaciones que comporten la asunción de un excesivo nivel de riesgo. Para una adecuada aplicación de este principio, se deberán tener en cuenta todas las circunstancias que puedan afectar a su concreción práctica, tales como el objeto social de la entidad y las condiciones de los mercados.
+
+#### Norma 48. Riesgo de titulización.
+
+A los efectos del artículo 49 del Real Decreto 84/2015, las entidades que actúen como inversora, originadora o patrocinadora deberán tener en cuenta los siguientes aspectos en relación con los riesgos derivados de operaciones de titulización:
+
+a) Establecerán por escrito y aplicarán políticas y procedimientos adecuados para evaluar y controlar los riesgos derivados de las operaciones de titulización, incluidos los riesgos reputacionales como los que se producen en relación con las estructuras o productos complejos. Estas políticas y procedimientos deberán permitir a las entidades, entre otros aspectos, determinar el grado de transferencia del riesgo y asegurarse de que el contenido económico de la operación quede plenamente reflejado en las decisiones de evaluación y gestión del riesgo. Asimismo, las entidades valorarán si del resultado de sucesivos programas de titulizaciones pueda resultar que solamente permanecen en el balance los activos de menor calidad o rentabilidad y, en su caso, adoptarán las medidas correctoras oportunas.
+
+b) Las entidades originadoras de operaciones de titulización renovables que incluyan cláusulas de amortización anticipada contarán con planes de liquidez para hacer frente a las implicaciones derivadas tanto de la amortización a su vencimiento como de la anticipada.
+
+c) Las entidades originadoras de titulizaciones que pretendan aplicar el tratamiento establecido en los artículos 244, 245 y 246 del Reglamento (UE) n.º 575/2013 para calcular sus requerimientos de capital en relación con dichas titulizaciones deberán notificar al Banco de España la información solicitada en la norma 66 de esta circular.
+
+> Se modifica la letra c) por la norma primera.42 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 49. Riesgo de mercado.
+
+A los efectos del artículo 50 del Real Decreto 84/2015, las políticas y procedimientos establecidos por las entidades deberán tener en cuenta, al menos, los siguientes aspectos:
+
+a) Las entidades deberán tomar en consideración todas las fuentes significativas de riesgos de mercado y los efectos de tales riesgos que sean significativos.
+
+b) Las entidades sujetas a los requerimientos establecidos en el título IV de la parte tercera del Reglamento (UE) n.º 575/2013, por aseguramiento de instrumentos de deuda o de renta variable, deberán establecer sistemas de vigilancia y control de sus riesgos de aseguramiento durante el período comprendido entre el compromiso inicial y el primer día hábil, en función de la naturaleza de las exposiciones que imperen en los mercados de que se trate.
+
+c) Cuando una posición corta venza antes que la posición larga que financia, las entidades tomarán las medidas necesarias contra el riesgo de insuficiencia de liquidez.
+
+d) Las entidades que cubran posiciones en acciones que formen parte de un índice bursátil con posiciones en contratos de futuros u otros productos basados en ese índice bursátil tendrán en cuenta el riesgo de base resultante de la diferencia entre la evolución del valor de los contratos de futuros o de los otros productos y la del valor de las acciones que se han cubierto. Asimismo, se tendrá en cuenta el riesgo de base que resulta de mantener posiciones opuestas en contratos de futuros basados en índices bursátiles cuyo vencimiento o composición no sean idénticos.
+
+#### Norma 50. Riesgo de tipo de interés del balance.
+
+**(Suprimida)**
+
+> Se suprime por la norma primera.43 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 51. Riesgo de liquidez.
+
+A los efectos del artículo 53 del Real Decreto 84/2015, para la gestión del riesgo de liquidez:
+
+a) Las entidades deberán contar con estrategias, políticas, procedimientos y sistemas sólidos para la identificación, medición, gestión y seguimiento de los riesgos asociados a las necesidades de liquidez con diferentes horizontes temporales, incluido el intradía, con objeto de garantizar el mantenimiento de unos niveles de liquidez adecuados. Dichas estrategias, políticas, procedimientos y sistemas se documentarán y deberán ser adecuados para las actividades y estructura del grupo (líneas de negocio, divisas, sucursales, entidades y subgrupos únicos de liquidez existentes) e incluirán mecanismos apropiados de imputación de los costes, los beneficios y los riesgos asociados a la liquidez.
+
+Las estrategias, políticas, procedimientos y sistemas establecidos deberán ser apropiados para la complejidad, el perfil de riesgo y el tipo de negocio de la entidad de crédito, y compatibles con el nivel de tolerancia al riesgo fijado por su órgano de dirección, y la importancia de la entidad de crédito en los países donde ejerza su actividad. Las entidades deberán comunicar su tolerancia al riesgo a todas las líneas de negocio.
+
+b) Las metodologías desarrolladas para la identificación, medición, gestión y seguimiento de las posiciones de financiación englobarán los flujos de tesorería, actuales y previstos, derivados de activos, pasivos y partidas de fuera de balance, incluidos los pasivos contingentes y la posible incidencia del riesgo reputacional.
+
+En particular, las entidades establecerán procedimientos internos adecuados para disponer de información, individual y consolidada, suficiente para valorar su estructura de financiación a corto, medio y largo plazo, incluyendo la clasificación de todos los activos y pasivos por plazos de vencimiento, los efectos sobre la liquidez de los compromisos, productos derivados y demás compromisos fuera de balance y las características de su estructura de financiación en los mercados.
+
+Los procedimientos internos deberán ser capaces de proporcionar información que permita a la entidad asignar distintos niveles de estabilidad a los depósitos minoristas, atendiendo a parámetros como la cobertura por un fondo de garantía de depósitos, el valor o la sofisticación del depósito, el canal de contratación (Internet…) o su contratación en moneda extranjera. Igualmente, las entidades habrán de poder identificar, entre sus clientes mayoristas, a aquellos con los que se mantiene una relación operativa estable. Para cualquier operación de financiación otorgada o recibida que esté colateralizada, deberá poder distinguirse en función del tipo de colateral.
+
+c) Las entidades clasificarán los activos líquidos en función de su grado de liquidez, diferenciando entre los activos que se encuentren pignorados y los activos libres de cargas de los que pueda disponerse en todo momento, especialmente en las situaciones de emergencia. Asimismo, tomarán en consideración a la persona jurídica o sucursal en la que estén localizados los activos, el país en el que estos estén registrados legalmente, ya sea en un registro o en una cuenta, así como su admisibilidad como garantía, y efectuarán un seguimiento de la forma en que los activos pueden utilizarse para cubrir necesidades de liquidez.
+
+Las entidades tomarán en consideración, asimismo, las limitaciones legales, reglamentarias u operativas a las posibles transferencias de liquidez y de activos libres de cargas y deudas entre entidades, tanto en el interior como fuera del Espacio Económico Europeo.
+
+d) Las entidades adoptarán herramientas de reducción del riesgo de liquidez, en particular las basadas en límites y niveles de liquidez que permitan afrontar diversos escenarios de tensión, y una estructura de financiación y un acceso a fuentes de financiación adecuadamente diversificadas. Estas medidas se someterán a revisión periódicamente.
+
+Se estudiarán diferentes escenarios en relación con las posiciones de liquidez y los factores reductores de riesgo y se revisarán periódicamente los supuestos en los que se basen las decisiones relativas a la estructura de financiación. A tal efecto, los escenarios contemplarán, en particular, las partidas de fuera de balance y otros pasivos contingentes, incluidos los de entidades especializadas en titulizaciones *(Securitisation Special Purpose Entities)* u otras entidades con fines especiales, en relación con las cuales la entidad de crédito actúe en calidad de patrocinador o proporcione un apoyo significativo en términos de liquidez.
+
+Los procedimientos internos permitirán evaluar el impacto de los escenarios definidos en las necesidades de liquidez, incluyendo, entre otros aspectos, el efecto que un descenso en la calificación crediticia de la entidad o un deterioro en la valoración de activos en garantía tengan en las necesidades adicionales de márgenes o colaterales para cubrir determinadas posiciones.
+
+Las entidades analizarán los efectos potenciales de diferentes escenarios, bien circunscritos a la propia entidad, bien extensivos a todo el mercado, o una combinación de ambos. Se tomarán en consideración diferentes horizontes temporales y escenarios con distintos grados de tensión.
+
+e) Las entidades deberán ajustar sus estrategias, políticas internas y límites en relación con el riesgo de liquidez y elaborar planes de contingencia efectivos, atendiendo a los resultados de los diferentes escenarios estudiados.
+
+Para hacer frente a las crisis de liquidez, las entidades tendrán planes de recuperación de liquidez en los que se establezcan estrategias adecuadas, junto a las oportunas medidas de aplicación, con objeto de subsanar posibles déficits de liquidez. Estos planes se pondrán a prueba al menos anualmente, se actualizarán en función de los resultados potenciales de los diferentes escenarios estudiados, se comunicarán a la alta dirección y se someterán a su aprobación, adaptando cuando corresponda las políticas y procedimientos internos.
+
+Las entidades tomarán por anticipado las medidas operativas necesarias para asegurar que los planes de recuperación de liquidez puedan aplicarse de forma inmediata. Entre dichas medidas se incluirá la de mantener garantías reales inmediatamente disponibles para poder obtener financiación suficiente de los bancos centrales en las diferentes monedas a las que esté expuesta y, cuando resulte imprescindible por motivos operativos, dentro del territorio de un Estado miembro de acogida o de un tercer país frente a cuya moneda estén expuestas. Ello supondrá que, cuando sea necesario, las entidades mantengan garantías que estén denominadas en esas monedas y que, cuando sea necesario por motivos operativos, estén dentro de los territorios de los Estados miembros de acogida o de los países no miembros de la UE frente a cuyas monedas estén expuestas.
+
+f) Las entidades establecerán los procedimientos adecuados para elaborar planes de financiación a tres años.
+
+> Se modifica la letra b) por la norma primera.44 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 52. Agregación de datos y presentación de informes de riesgos.
+
+1\. Las entidades dispondrán de una arquitectura de datos y una infraestructura tecnológica que les permitan agregar datos sobre riesgos y presentar informes de riesgos, tanto en situaciones normales como en situaciones de crisis.
+
+2\. Las entidades deberán tener en cuenta, entre otros, los siguientes principios a la hora de agregar datos:
+
+a) Deberán ser capaces de generar datos exactos y fiables sobre riesgos, que deberán agregarse de forma principalmente automatizada para minimizar la probabilidad de errores.
+
+b) Deberán poder identificar y agregar todos los datos de riesgos significativos en todo el grupo bancario. Estos datos deberán estar disponibles, al menos, por línea de negocio, persona jurídica, tipo de activo, sector y región, para poder informar sobre las exposiciones de riesgos, concentraciones de riesgos y riesgos incipientes.
+
+c) Deberán ser capaces de generar datos agregados de riesgos para satisfacer una amplia gama de peticiones específicas y discrecionales, tales como las efectuadas en momentos de crisis, las debidas a cambios en las necesidades internas y aquellas cursadas por los supervisores.
+
+d) Deberán poder generar información agregada y actualizada de riesgos con prontitud.
+
+## CAPÍTULO 7 — Conglomerados financieros
+
+#### Norma 53. Identificación de grupos financieros como conglomerados financieros.
+
+1\. Aquellos grupos previstos en el artículo 4.1 del Real Decreto 1332/2005, en los que el sector financiero de mayor dimensión del grupo sea el sector bancario y de servicios de inversión y en los que los resultados relativos al sector de seguros del grupo en los cálculos a que se refieren los párrafos primero y segundo del artículo 2.5 de la Ley 5/2005 sean superiores o iguales al 5% o a los 3.000 millones de euros, respectivamente, deberán cumplir con las obligaciones de información al Banco de España establecidas en la norma 65 de esta circular en lo que se refiere a identificación de los conglomerados financieros.
+
+El coordinador de la supervisión del conglomerado financiero utilizará la información referida en el párrafo anterior para realizar el ejercicio de identificación de conglomerados financieros y decidir el régimen de supervisión adicional que les sea aplicable, de conformidad con lo establecido en el artículo 15 del Real Decreto 1332/2005.
+
+2\. El coordinador de la supervisión del conglomerado financiero podrá solicitar a la entidad obligada cuanta información adicional considere necesaria para la adecuada identificación del conglomerado financiero, y en concreto:
+
+a) Información relativa a los parámetros alternativos de cálculo a que alude el artículo 4.4 del Real Decreto 1332/2005, especialmente en relación con las sociedades gestoras de instituciones de inversión colectiva y sociedades gestoras autorizadas conforme a las leyes 35/2003 y 22/2014 o a las normativas equivalentes de otros países.
+
+b) Información relativa a la asignación al sector bancario y de servicios de inversión o al de seguros de las sociedades gestoras de instituciones de inversión colectiva y sociedades gestoras autorizadas conforme a las leyes 35/2003 y 22/2014, o a las normativas equivalentes de otros países, si estas sociedades no perteneciesen exclusiva o específicamente a un sector.
+
+3\. El coordinador, cooperando estrechamente con el resto de autoridades competentes relevantes, sobre la base de la información referida en los apartados anteriores y al menos anualmente, identificará a los conglomerados financieros y, de común acuerdo con el resto de autoridades competentes relevantes identificadas, clasificará a los grupos referidos en el apartado 1 anterior en una de las siguientes categorías:
+
+a) Grupos no identificados como conglomerados financieros, a los que no será de aplicación más requerimiento que el de información referida en los apartados anteriores de esta norma.
+
+b) Grupos identificados como conglomerados financieros exentos totalmente, a los que será de aplicación el artículo 2.2.a) del Real Decreto 1332/2005.
+
+c) Grupos identificados como conglomerados financieros exentos parcialmente, a los que será de aplicación el artículo 2.2.b) del Real Decreto 1332/2005.
+
+d) Grupos identificados como conglomerados financieros afectos, a los que será de aplicación el artículo 2.1 del Real Decreto 1332/2005.
+
+4\. Con el fin de evitar cambios bruscos en el régimen de remisión de información referido en el apartado 1 de esta norma y en la norma 65, aquellos grupos que ya viniesen remitiendo dicha información y cuyos parámetros de identificación caigan por debajo del 5% y de los 3.000 millones de euros, habrán de continuar remitiéndola durante dos años, salvo que los parámetros calculados no superasen el 1% y los 1.000 millones de euros.
+
+#### Norma 54. Aplicación de la supervisión adicional y de la exención parcial.
+
+1\. Los grupos identificados como conglomerados financieros exentos parcialmente, mencionados en la norma 53.3.c), deberán cumplir con lo establecido en la norma 55.
+
+2\. Los grupos identificados como conglomerados financieros afectos, mencionados en la norma 53.3.d), deberán cumplir con lo establecido en las normas 55 a 58.
+
+#### Norma 55. Adecuación de capital.
+
+1\. Los grupos a que se refiere la norma 54 deberán mantener en todo momento un volumen de fondos propios calculados a nivel del conglomerado financiero suficiente para satisfacer los requerimientos aplicables a dicho nivel. El volumen de fondos propios y el nivel de requerimientos se calcularán teniendo en cuenta las reglas y principios técnicos establecidos en los artículos 6 y 7 del Real Decreto 1332/2005, así como lo establecido en el Reglamento Delegado (UE) n.º 342/2014.
+
+A tal fin, las entidades obligadas de los mencionados grupos deberán remitir cuanta información, adicional a la prevista en esta circular, les requiera el coordinador de la supervisión del conglomerado financiero en relación con la adecuación de capital. Cuando esa información sea periódica, su frecuencia de remisión se ajustará a la del estado de conglomerados financieros que recoge la norma 65, y habrá de adaptarse al formato que el coordinador determine para el método, de los referidos en el anejo del Real Decreto 1332/2005, que se haya comunicado a cada grupo que ha de emplear.
+
+2\. El coordinador de la supervisión del conglomerado financiero, en coordinación con el resto de autoridades competentes relevantes, podrá admitir la utilización de estados consolidados sectoriales de banca y servicios de inversión y de seguros en vez de la agregación de estados individuales.
+
+3\. Junto con la remisión de la información referida en esta norma y en las normas 53 y 65, las entidades obligadas de los grupos deberán satisfacer el requerimiento del artículo 4.2 del Reglamento Delegado (UE) n.º 342/2014 y remitir un informe al coordinador de la supervisión del conglomerado financiero confirmando y demostrando el cumplimiento de las condiciones de la efectiva transferibilidad y disponibilidad de los fondos propios que han sido considerados al nivel del conglomerado financiero.
+
+#### Norma 56. Concentración de riesgos.
+
+1\. Para dar cumplimiento a los requerimientos de información establecidos en el artículo 9 del Real Decreto 1332/2005 y el Reglamento Delegado (UE) n.º 2015/2303, las entidades obligadas de los grupos a que se refiere la norma 54.2 deberán informar al coordinador de la supervisión del conglomerado financiero de todos aquellos riesgos que, agregados al nivel del conglomerado financiero, superen el 10 % de los fondos propios de dicho conglomerado financiero, y, en cualquier caso, de los veinte mayores riesgos agregados. A tal fin, se deberá remitir semestralmente al coordinador de la supervisión del conglomerado financiero una relación de dichos riesgos, en la que consten, al menos, la identificación del cliente o grupo con que se mantiene la exposición y la naturaleza de las exposiciones (directa/indirecta, instrumentos de deuda, instrumentos de renta variable, derivados, fuera de balance), así como el efecto en el importe de la exposición de los ajustes de valor y provisiones y de las técnicas de mitigación de riesgos.
+
+2\. Los grupos realizarán los cálculos de concentración de riesgos siguiendo los principios técnicos establecidos en la parte cuarta del Reglamento (UE) n.º 575/2013. Sin perjuicio de lo anterior, la parte de los riesgos procedentes del sector de seguros del conglomerado financiero se calculará de acuerdo con sus normas sectoriales específicas y será agregado al resultado de los cálculos realizados conforme a la parte cuarta del Reglamento (UE) n.º 575/2013 para el sector bancario y de servicios de inversión. Los riesgos localizados en sociedades del grupo no pertenecientes en exclusiva a un sector concreto se calcularán de acuerdo con los principios establecidos en la parte cuarta del Reglamento (UE) n.º 575/2013.
+
+3\. El coordinador de la supervisión del conglomerado financiero, tras consultar a las demás autoridades competentes relevantes, podrá establecer principios técnicos específicos para cada grupo, así como, cuando lo considere necesario, umbrales de significación más reducidos o mayor frecuencia en la remisión de información.
+
+4\. Asimismo, el coordinador de la supervisión del conglomerado financiero podrá solicitar a la entidad obligada del grupo cuanta información adicional considere pertinente, y en particular:
+
+a) Información sobre la agregación de los riesgos procedentes de entidades del grupo en que no se mantenga una participación de control.
+
+b) Información sobre la agregación de los riesgos procedentes de entidades no reguladas del grupo.
+
+> Se modifica el apartado 1 por la norma primera.45 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 57. Operaciones intragrupo.
+
+1\. Para dar cumplimiento a los requerimientos de información establecidos en el artículo 8 del Real Decreto 1332/2005 y el Reglamento Delegado (UE) n.º 2015/2303, las entidades obligadas de los grupos a que se refiere la norma 54.2 deberán informar al coordinador de la supervisión del conglomerado financiero de todas aquellas operaciones intragrupo realizadas por entidades reguladas del sector bancario y de servicios de inversión o entidades reguladas del sector de seguros, con cualesquiera otras contrapartes del otro sector y que superen el 5 % de los fondos propios de dicho conglomerado financiero. A tal fin, los mencionados grupos deberán remitir semestralmente al coordinador de la supervisión del conglomerado financiero una relación de dichas operaciones, en la que conste, al menos, la siguiente información para cada transacción:
+
+a) Identificación de la entidad regulada implicada en la operación, que incluya referencia a su pertenencia al sector bancario y de servicios de inversión o al sector de seguros, y porcentaje de participación.
+
+b) Identificación de la contraparte, que incluya referencia a su pertenencia al sector bancario y de servicios de inversión o al sector de seguros, porcentaje de participación y naturaleza de entidad regulada, no regulada, financiera o no financiera o persona física.
+
+c) Información referida a la operación, que incluya su naturaleza (préstamo, garantía, fondos propios, inversión, aseguramiento, transacciones comerciales, etc.), importe vivo de la operación, precio de contratación y dimensión temporal de la operación.
+
+Cuando la entidad regulada o su contraparte hayan recibido un código identificativo en la información que han de remitir sobre concentración de riesgos, se consignará dicho código para su mejor identificación.
+
+2\. El coordinador de la supervisión del conglomerado financiero, tras consultar a las demás autoridades competentes relevantes, podrá establecer principios técnicos específicos para cada grupo, así como, cuando lo considere necesario, umbrales de significación más reducidos o mayor frecuencia en la remisión de información. En concreto, el coordinador de la supervisión del conglomerado financiero podrá establecer umbrales de significación relativos a los fondos propios de la entidad regulada implicada en la operación considerada individualmente.
+
+3\. Asimismo, el coordinador de la supervisión del conglomerado financiero podrá solicitar la inclusión en los informes periódicos de cualquier otra información que considere relevante, adicional a la mencionada en el apartado 1 anterior; en concreto:
+
+a) Información sobre las operaciones realizadas con entidades del grupo en las que no se mantenga una participación de control.
+
+b) Información sobre las operaciones realizadas entre entidades no reguladas del grupo.
+
+c) Información sobre la política de establecimiento de precio en las operaciones intragrupo.
+
+> Se modifica el apartado 1 por la norma primera.46 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 58. Mecanismos de control interno y procedimientos de gestión de riesgos.
+
+1\. Las entidades obligadas de los grupos a que se refiere la norma 54.2 deberán remitir al Banco de España un anejo al informe anual de autoevaluación de capital que para los grupos bancarios se establece en el artículo 45 del Real Decreto 84/2015, con objeto de permitir al coordinador del conglomerado financiero evaluar tanto el adecuado cumplimiento de los requisitos establecidos en el artículo 11 del Real Decreto 1332/2005 y en el artículo 4.1.b) de la Ley 5/2005, con criterios semejantes a los establecidos en los capítulos 4 y 6 de esta circular, como el cumplimiento satisfactorio del requisito establecido en el artículo 49.1.d) del Reglamento (UE) n.º 575/2013.
+
+2\. Para ello, el anejo resumirá, al nivel del conglomerado financiero, el proceso de autoevaluación de su capital y los mecanismos de control interno y los procedimientos de gestión de riesgos detallados en el artículo 11 del Real Decreto 1332/2005.
+
+3\. Asimismo, el anejo habrá de contener información detallada sobre la estructura jurídica, de gobernanza y organizativa, a nivel del conglomerado financiero, incluidas todas las entidades reguladas, las filiales no reguladas y las sucursales importantes.
+
+4\. El coordinador de la supervisión del conglomerado financiero podrá someter a los conglomerados financieros a pruebas de resistencia con la periodicidad y el alcance que establezca en cada caso.
+
+## CAPÍTULO 8 — Obligaciones de información al mercado
+
+#### Norma 59. Información con relevancia prudencial.
+
+De conformidad con el artículo 85 de la Ley 10/2014 y con el artículo 93 del Real Decreto 84/2015, las entidades de crédito o los grupos consolidables de entidades de crédito que estén obligadas a publicar el documento «Información con relevancia prudencial», de acuerdo con el ámbito de aplicación establecido en el artículo 13 del Reglamento (UE) n.º 575/2013, deberán someter el contenido del mencionado documento a verificación por la auditoría interna de la entidad, por las unidades de control de riesgos o por auditores o expertos independientes.
+
+#### Norma 60. Información sobre gobierno corporativo y política de remuneraciones en la página web de las entidades de crédito.
+
+Sin perjuicio de los requisitos de divulgación establecidos en la parte octava del Reglamento (UE) n.º 575/2013, la página web a que se refiere el artículo 29.5 de la Ley 10/2014 y el artículo 37 del Real Decreto 84/2015 ofrecerá, al menos, la siguiente información:
+
+a) Los estatutos sociales.
+
+b) Los reglamentos y otras normas de organización de sus órganos de gobierno y, en su caso, de las comisiones del consejo de administración.
+
+c) La estructura organizativa de la entidad, las líneas de responsabilidad en la toma de decisiones, el reparto de funciones en la organización y los criterios para la prevención de conflictos de intereses, incluyendo una descripción de los procedimientos internos relativos a la concesión de préstamos a los miembros del consejo de administración y a las partes vinculadas a estos.
+
+d) Los procedimientos establecidos para la identificación, medición, gestión, control y comunicación interna de los riesgos a los que esté o pueda estar expuesta la entidad.
+
+e) Los mecanismos de control interno de la entidad, incluyendo los procedimientos administrativos y contables.
+
+f) La composición del consejo de administración y la identificación de los consejeros ejecutivos, no ejecutivos e independientes.
+
+g) La identificación de las personas que ejercen los cargos de presidente del consejo de administración y de consejero delegado. En el caso de que la autoridad competente haya autorizado que una misma persona ejerza ambos cargos simultáneamente, se deberá indicar esta circunstancia y la justificación formulada por la entidad para la existencia de la dualidad de funciones en una misma persona.
+
+h) La composición del comité de nombramientos y del comité de remuneraciones o, en su caso, del comité conjunto de nombramientos y remuneraciones, y las funciones atribuidas a cada uno de estos órganos.
+
+i) La composición del comité de riesgos y del comité de auditoría o, en su caso, de la comisión mixta de riesgos y auditoría, incluyendo una descripción de las funciones atribuidas a cada uno y la identificación del director de la unidad de riesgos.
+
+j) Mención expresa a que los nombramientos de miembros del consejo de administración y directores generales o asimilados se han adoptado con informe favorable del comité de nombramientos o, en su caso, del comité de nombramientos y remuneraciones.
+
+k) En relación con el colectivo identificado según se define en la norma 1, se publicará, además de la información contemplada en el artículo 450 del Reglamento (UE) n.º 575/2013, la información siguiente:
+
+i. Descripción de las categorías del personal cuyas actividades profesionales inciden de manera significativa en el perfil de riesgo, con independencia del tipo de relación laboral de los empleados que las desempeñen, común o de alta dirección, y el número de personas identificadas en cada una de las categorías.
+
+ii. Las medidas previstas para ajustar la remuneración en caso de desempeño inferior al esperado.
+
+iii. Descripción de los criterios utilizados en la determinación de la remuneración para tomar en consideración los riesgos presentes y futuros, indicando los riesgos específicos tenidos en cuenta, las medidas usadas para valorarlos, el modo en que dichas medidas afectan a la remuneración y, en su caso, los cambios en estos criterios realizados en el ejercicio correspondiente.
+
+iv. Información cuantitativa agregada sobre las remuneraciones pagadas durante el ejercicio precedente a los miembros del órgano encargado de supervisar la remuneración, de ser este distinto al consejo de administración.
+
+v. Información cuantitativa agregada sobre las remuneraciones, desglosada por el ámbito de actividad de la entidad de crédito en el que presten servicios, según se trate de actividades de “banca de inversión” (que incluirá en todo caso las áreas de finanzas corporativas, capital riesgo y mercados de capitales), “banca comercial”, “área de gestión de activos” y “resto”.
+
+vi. En su caso, los términos en que la junta general de accionistas u órgano equivalente haya aprobado una remuneración variable superior al 100% de la remuneración fija, indicando el porcentaje máximo fijado, la recomendación emitida por el consejo de administración y el personal afectado por la medida.
+
+l) En relación con los miembros del consejo de administración, se publicará la información siguiente:
+
+i. Información sobre el resultado del sometimiento a la votación de la junta general de accionistas u órgano equivalente de la política de remuneraciones de los miembros del consejo de administración, indicándose el cuórum existente, el número total de votos válidos, el número de votos a favor y en contra, y el número de abstenciones.
+
+ii. Remuneración total devengada por cada uno de los miembros del consejo de administración en cada ejercicio económico, con un desglose individualizado por conceptos retributivos; todo ello en los términos previstos en el artículo 37 del Real Decreto 84/2015. En el caso de entidades significativas de acuerdo con la norma 1 de esta circular, la información cuantitativa individualizada se proporcionará con el desglose al que hace referencia el artículo 450.1.h) del Reglamento (UE) n.º 575/2013.
+
+m) Información sobre los procedimientos establecidos para asegurar la idoneidad de las personas referidas en la norma 30, así como sobre los mecanismos dispuestos para cumplir con las normas sobre incompatibilidades.
+
+> Se modifica por la norma primera.47 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 61. Configuración de la información sobre gobierno corporativo y política de remuneraciones en la página web de las entidades de crédito.
+
+1\. La información a que se refiere la norma 60 se recogerá en la página web de la entidad de crédito de forma completa, clara, comprensible, comparable y actualizada, y será accesible desde la página de inicio del sitio web, en un apartado bajo la denominación «Gobierno corporativo y política de remuneraciones». El acceso a los contenidos finales de ese apartado estará a no más de tres pasos de navegación (clics) desde la página de inicio.
+
+2\. La información requerida en la norma 60 que se encuentre ya publicada en otros apartados de la página web, o se ofrezca de forma gratuita en las bases telemáticas de los registros públicos del Banco de España o de otros organismos, podrá ofrecerse mediante enlaces directos a dichos apartados o registros.
+
+3\. Los contenidos deberán presentarse estructurados y jerarquizados, de modo que se permita un acceso rápido y directo a cada uno de ellos. Los títulos serán claros, concisos y significativos, y el lenguaje adecuado, evitando en la medida de lo posible el uso de tecnicismos y abreviaturas.
+
+4\. La estructura técnica de la página web y de los ficheros de contenidos permitirá su navegación y acceso con productos informáticos de uso común en el entorno de Internet y con un tiempo de respuesta que no impida la operatividad de la consulta.
+
+5\. Si la página web ofrece versiones para distintas plataformas (ordenador, tableta, teléfono móvil, etc.), sus contenidos y presentación deberán ser lo más homogéneos posibles.
+
+6\. Las entidades de crédito garantizarán la seguridad de su página web, la autenticidad y exactitud de la información y de los documentos publicados en ella, su acceso gratuito y la posibilidad de descarga e impresión de estos.
+
+## CAPÍTULO 9 — Obligaciones de información al Banco de España
+
+#### Norma 62. Disposiciones generales.
+
+1\. La información a que se refiere este capítulo debe entenderse sin perjuicio de la potestad del Banco de España de exigir cualquier otra información que precise en el desempeño de las funciones que le están encomendadas.
+
+2\. Las entidades deberán estar en disposición de informar al Banco de España sobre la composición de los activos, pasivos y patrimonio neto reflejados en sus estados financieros y, en su caso, de otros saldos que, no estando reflejados en aquellos, se utilicen en el cálculo de los fondos propios y sus requerimientos, de acuerdo con las normas de solvencia establecidas en el Reglamento (UE) n.º 575/2013 y en esta circular.
+
+3\. Además de las obligaciones de remisión de estados al Banco de España establecidas en el Reglamento de Ejecución (UE) n.º 2021/451, el Reglamento de Ejecución (UE) n.º 2021/453 y el Reglamento de Ejecución (UE) n.º 2016/2070, en su caso, las entidades remitirán al Banco de España los estados regulados en el presente capítulo de esta circular.
+
+4\. La frecuencia de los estados, que se establecen en esta circular, se señala en las normas siguientes de este capítulo y tendrán como fecha de referencia el día final del periodo natural al que correspondan.
+
+5\. La información solicitada en los estados que se establecen en esta circular que tenga la naturaleza de saldo se corresponderá con el saldo existente en la fecha de referencia del estado. Salvo especificación en contrario, la información relativa a divisas se expresará mediante su contravalor en euros, aplicando los tipos de cambio de contado.
+
+6\. La presentación de estados al Banco de España deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+Con independencia de la responsabilidad de la entidad y de los miembros de su consejo de administración con respecto a la veracidad de todos los estados que se remitan al Banco de España, los estados CA1 a CA3 [regulados en el Reglamento de Ejecución (UE) n.º 2021/451] deberán ser firmados electrónicamente por el presidente ejecutivo, consejero delegado o director general que presida el comité de dirección de la entidad. Alternativamente, estos estados podrán ser firmados por otro director general o cargo asimilado en el sentido del artículo 6.6 de la Ley 10/2014, entre cuyas responsabilidades se encuentre la elaboración de la información financiera de la entidad, a cuyo efecto la entidad informará de esta facultad en el momento de solicitar su inscripción en el Registro de Altos Cargos.
+
+En casos excepcionales, la entidad podrá designar a otra persona distinta de las anteriores con poder especial y bastante otorgado por el consejo de administración. Los datos de estas personas, junto con una copia del poder, se comunicarán al Banco de España a través del procedimiento establecido para los altos cargos, que los anotará, a efectos meramente informativos y de control del remitente de los estados CA1 a CA3.
+
+Lo anterior es también de aplicación en el caso de las sucursales en España de entidades de crédito con sede en Estados no miembros de la UE, y en la medida en que deban remitir los estados CA1 a CA3.
+
+Las entidades podrán designar a más de una persona para que, de manera indistinta, puedan firmar electrónicamente la citada información.
+
+Estos estados deberán enviarse, en todo caso, dentro del plazo máximo que se establece en la normativa aplicable. No obstante, y sin perjuicio de esa obligación de remisión, su firma electrónica podrá realizarse dentro de los veinte días naturales siguientes al vencimiento del citado plazo máximo.
+
+El Banco de España, además, podrá solicitar de manera individual la confirmación en impreso, debidamente cumplimentado, de cualquiera de los estados enviados mediante transmisión telemática.
+
+Excepcionalmente, y solo por causas debidamente justificadas, el Banco de España podrá permitir la presentación en papel de aquellos estados que deban ser firmados electrónicamente cuando la firma electrónica no sea posible. Dichos estados se entregarán fechados, sellados y visados en todas sus páginas, y firmados por alguna de las personas señaladas en los párrafos segundo y tercero de este apartado.
+
+7\. El Banco de España podrá elaborar aplicaciones técnicas que se publicarán en su sitio web, para facilitar la confección de los estados regulados en el presente capítulo de esta circular.
+
+> Se modifica el apartado 4 por la norma 1.b) de la Circular 3/2023, de 31 de octubre. [Ref. BOE-A-2023-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23052)
+
+> Se modifican los apartados 3 y 6 por la norma primera.48 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 63. Información periódica que hay que rendir sobre riesgo de tipo de interés del balance.
+
+1\. Los estados que se han de remitir sobre riesgo de tipo de interés figuran en el anejo III de esta circular y se detallan a continuación:
+
+| Estado | Denominación | Periodicidad |
+|---|---|---|
+| RI1 | Información sobre estimaciones internas del riesgo de tipo de interés en actividades que no sean de la cartera de negociación. | Semestral. |
+| RI2 | Información sobre posiciones sensibles a los tipos de interés en actividades que no sean de la cartera de negociación. | Semestral. |
+| RI3 | Información sobre opciones de tipo de interés en actividades que no sean de la cartera de negociación. | Semestral. |
+
+2\. Las entidades deberán llevar a cabo mediciones periódicas que servirán de base para la confección de los estados sobre riesgo de tipo de interés a los que se refiere el apartado 1, en los que se aplicarán las siguientes reglas:
+
+a) Se efectuarán cálculos separados del impacto potencial del riesgo de tipo de interés sobre el valor económico y sobre el margen de intermediación (ingresos netos por intereses) sensible al horizonte temporal de un año. Dicha medición debe tener en cuenta tanto el efecto de las opciones de tipo de interés automáticas como el de las opciones de tipo de interés comportamentales. Asimismo, en la evaluación del impacto potencial del riesgo de interés en los escenarios de descenso de los tipos de interés, en caso de resultar la aplicación de tipos de interés negativos, habrán de considerarse los suelos específicos de los productos.
+
+b) Se considerarán todas las posiciones sensibles a los tipos de interés, incluyendo los derivados de tipo de interés, tanto implícitos como explícitos, y excluyendo las posiciones que formen parte de la cartera de negociación según se define en el artículo 4.1.86 del Reglamento (UE) n.º 575/2013. Se incluirán también las posiciones por coberturas internas efectuadas para la gestión del riesgo de tipo de interés del balance que se correspondan con posiciones de signo contrario que formen parte de la mencionada cartera de negociación. Estas coberturas internas podrán ser realizadas, según el ámbito de aplicación, dentro de una misma entidad individual o entre las entidades individuales pertenecientes al mismo grupo consolidable. Además, no se considerarán posiciones sensibles a los tipos de interés los instrumentos CET1 y otros instrumentos de fondos propios perpetuos que no incluyan opción de cancelación anticipada. Por otro lado, se considerarán posiciones sensibles a los tipos de interés: la cartera de negociación de pequeño volumen –a menos que su riesgo de tipo de interés sea capturado en otra métrica de riesgo–, las obligaciones por pensiones y los activos de planes de pensiones –a menos que su riesgo de tipo de interés se recoja en otra medida de riesgo–, y las exposiciones dudosas, que se considerarán netas de coberturas de las pérdidas por riesgo de crédito por insolvencia.
+
+c) Se aplicará la hipótesis de balance estático.
+
+d) Se considerarán movimientos de tipos de interés paralelos y de carácter instantáneo en cada divisa. Todas las entidades utilizarán los mismos movimientos de tipo de interés respecto a las distintas divisas.
+
+Además, las entidades deben llevar a cabo estimaciones del impacto del riesgo de interés sobre el valor económico en los escenarios no paralelos de desplazamiento de los tipos de interés. Este impacto sobre el valor económico ante estos escenarios no paralelos no se reportará mediante el estado RI1, sino que se informará sobre él en el informe de autoevaluación del capital. Asimismo, se informará en el informe de autoevaluación del capital acerca de la situación de la entidad respecto de los umbrales establecidos en el artículo 68 bis.1 de la Ley 10/2014.
+
+e) Se efectuarán mediciones separadas del riesgo de tipo de interés para cada una de las divisas sobre las que existan posiciones importantes sensibles a los tipos de interés, así como mediciones agregadas del riesgo de tipo de interés de todas ellas.
+
+f) El impacto potencial del riesgo de tipo de interés sobre el valor económico calculado según lo establecido en los apartados anteriores se pondrá en relación con el valor económico del balance total y con los fondos propios computables totales definidos en la parte segunda del Reglamento (UE) n.º 575/2013.
+
+A estos efectos, se entenderá por valor económico del balance total la suma del valor razonable del neto de los activos y pasivos sensibles a los tipos de interés y del neto del valor contable de las partidas de activos y pasivos no sensibles a los tipos de interés. El valor razonable de las partidas sensibles a los tipos de interés, excluida la cartera de negociación regulatoria, se obtendrá como actualización de los flujos futuros de principal e intereses a una curva apropiada de tipos de interés libre de riesgo. A tal efecto, podrá emplearse la curva de tipos de interés del mercado interbancario a la fecha de referencia. Se considerará también el valor contable de las posiciones sensibles a los tipos de interés que formen parte de la cartera de negociación, según se define esta cartera en el artículo 4.1.(86) del Reglamento (UE) n.º 575/2013.
+
+g) El impacto potencial del riesgo de tipo de interés sobre el margen de intermediación sensible para el horizonte temporal de un año se pondrá en relación con el margen de intermediación sensible a los tipos de interés previsto a dicho horizonte bajo el escenario base de cumplimiento de la curva implícita de tipos de interés. En este caso, además de la hipótesis de balance estático, se utilizará la hipótesis de mantenimiento de la estructura del balance, de modo que se supondrá que las operaciones de activo o de pasivo que venzan en el horizonte temporal considerado se renueven con la misma estructura de repreciación que tenían contratada. No obstante, esta hipótesis no se aplicará a los saldos inestables de los depósitos a la vista, que se considerará que pasan a refinanciarse con otras fuentes de financiación de la clientela distintas de los depósitos a la vista.
+
+3\. Los estados RI1, RI2 y RI3 deberán remitirse al Banco de España, aplicando las reglas establecidas en el apartado 2, de acuerdo con el ámbito de aplicación establecido en la norma 2.8 y teniendo en cuenta lo siguiente:
+
+a) Las entidades de crédito individuales establecidas en España integradas en un grupo consolidable de entidades de crédito con matriz en España, solo deberán remitir esos estados a nivel individual cuando la diferencia entre las rúbricas “Intereses y rendimientos asimilados” e “Intereses y cargas asimiladas” de su cuenta de pérdidas y ganancias reservada, tomada en valor absoluto, suponga al menos el 5 % de la correspondiente diferencia en el estado de resultados consolidado del grupo en el que se integran. En estos casos, el Banco de España podrá eximir de la declaración individual, previa autorización, a las entidades que lo soliciten, cuando considere suficiente la declaración del grupo consolidable de entidades de crédito en el que se integran.
+
+b) En la declaración de los estados RI1, RI2 y RI3 a nivel individual de cualquier entidad de crédito que sea matriz, se integrarán, previa comunicación al Banco de España, las filiales instrumentales que cumplan las condiciones establecidas en los apartados c) y d) del artículo 7.1 del Reglamento (UE) n.º 575/2013 y cuyas exposiciones o pasivos, incluido el capital, sean significativos respecto de su entidad matriz, según se requiere en el artículo 9 del Reglamento (UE) n.º 575/2013.
+
+c) Las sucursales de entidades de crédito con sede en Estados no miembros de la UE no estarán obligadas a remitir esta información, salvo que el Banco de España, en el ejercicio de sus facultades supervisoras, se lo requiera.
+
+Los grupos consolidables de entidades de crédito con matriz en España deberán enviar los estados RI1, RI2 y RI3 a nivel consolidado; el resto de las entidades de crédito y sucursales, a nivel individual.
+
+4\. Con carácter general, los estados referidos en esta norma reflejarán la información correspondiente a las posiciones sensibles a los tipos de interés, de acuerdo con lo establecido en el apartado 2. No obstante, en el estado RI2 se excluirán las opciones de tipos de interés automáticas, implícitas o explícitas, por lo que los instrumentos de balance con opciones automáticas implícitas de tipo de interés aparecerán como si no tuvieran asociadas estas opciones.
+
+5\. En el estado RI1 se incluirá la información pormenorizada sobre la estimación de riesgo de tipo de interés de cada una de las divisas en las que existan posiciones importantes sensibles a los tipos de interés, según lo establecido en el apartado 2, así como agregada de todas ellas. Los estados RI2 y RI3 se remitirán por separado para el euro y para cada una de las divisas en las que existan posiciones importantes sensibles a los tipos de interés.
+
+6\. Los estados sobre riesgo de tipo de interés deberán remitirse al Banco de España antes del fin del segundo mes siguiente a la fecha de referencia. El Banco de España podrá requerir cualquiera de estos estados con mayor periodicidad a las entidades que determine.
+
+> Se modifica por la norma primera.49 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 64. Información periódica general que hay que rendir sobre remuneraciones.
+
+1\. Los estados generales que han de remitirse sobre remuneraciones son los siguientes:
+
+| Estado | Nombre del estado | Periodicidad |
+|---|---|---|
+| R 01.00 | Información general e información sobre la remuneración de todo el personal. | Anual |
+| R 02.00 | Información adicional sobre la remuneración del colectivo identificado. | Anual |
+| R 03.00 | Remuneración de 1 millón EUR o más al año. | Anual |
+| R 04.00 | Información sobre la remuneración de las personas con alta remuneración con arreglo a la Directiva 2013/36/UE. | Anual |
+| R 04.01 | Información sobre la remuneración de las personas con alta remuneración con arreglo a la Directiva (UE) 2019/2034 - Empresas de servicios de inversión del grupo consolidable de entidades de crédito. | Anual |
+| R 05.00 | Excepciones a la aplicación de los requisitos de pago de partes de la remuneración variable diferida y en instrumentos con arreglo a la Directiva 2013/36/UE. | Anual |
+| R 09.00 | Remuneración concedida respecto del ejercicio. | Anual |
+| R 10.00 | Pagos especiales al personal cuyas actividades profesionales inciden de manera importante en el perfil de riesgo de la entidad (colectivo identificado). | Anual |
+| R 11.00 | Remuneración diferida. | Anual |
+| R 12.00 | Información sobre la remuneración del personal cuyas actividades profesionales inciden de manera importante en el perfil de riesgo de la entidad (colectivo identificado). | Anual |
+
+2\. El estado R 03.00 y del estado R 09.00 al estado R 12.00 se corresponden con los estados EU REM1 a EU REM5 que figuran recogidos en el anexo XXXIII del Reglamento de Ejecución (UE) 2021/637 de la Comisión, y han de completarse teniendo en cuenta las instrucciones recogidas en el anexo XXXIV de dicho reglamento. El resto de estados figuran en el anejo IV de esta circular.
+
+3\. Los estados de remuneración listados en el apartado primero deberán remitirse al Banco de España con la información que en ellos se requiere a nivel consolidado. Las entidades no integradas en ningún grupo o subgrupo consolidable en España remitirán los estados con carácter individual, al igual que las sucursales de entidades de crédito con sede en un Estado no miembro de la Unión Europea. Los estados se remitirán de la forma siguiente:
+
+a) Las entidades grandes, incluidas las filiales grandes, enviarán todos los estados listados en el apartado primero.
+
+b) Las entidades pequeñas y no complejas que tengan valores admitidos a negociación en un mercado regulado de un Estado miembro remitirán todos los estados listados en el apartado primero, con excepción del estado R 12.00.
+
+c) Las entidades pequeñas y no complejas no cotizadas enviarán exclusivamente del estado R 01.00 al estado R 05.00.
+
+d) El resto de las entidades no mencionadas en las letras a), b) y c) anteriores, y que tengan valores admitidos a negociación en un mercado regulado de un Estado miembro, remitirán todos los estados listados en el apartado primero.
+
+e) El resto de las entidades no mencionadas en las letras a), b) y c) anteriores, y que sean no cotizadas, remitirán todos los estados listados en el apartado primero, con excepción del estado R 12.00.
+
+f) Las filiales de entidades matrices de otro estado miembro de la Unión Europea que no tengan la consideración de filial grande enviarán exclusivamente del estado R 01.00 al estado R 05.00.
+
+g) Las sucursales de entidades de crédito con sede en Estados que no sean miembros de la Unión Europea enviarán del estado R 01.00 al estado R 05.00, con la salvedad del estado R 04.01. Como excepción a lo dispuesto en esta letra, las sucursales de entidades de crédito con sede en Estados no miembros de la UE que hayan sido eximidas del cumplimiento de las obligaciones de la sección 3.ª del capítulo 4 de esta circular presentarán exclusivamente el estado R 03.00 y el estado R 04.00.
+
+4\. En el caso del estado R 04.01, será la entidad matriz en España quien lo remitirá al Banco de España. Dicho estado contendrá la información sobre las personas con alta remuneración que son miembros de las empresas de servicios de inversión del grupo sujetas a lo dispuesto en los artículos 25 y 34 de la Directiva (UE) 2019/2034 del Parlamento Europeo y del Consejo, de 27 de noviembre de 2019, relativa a la supervisión prudencial de las empresas de inversión.
+
+5\. Los estados listados en el apartado primero deberán remitirse al Banco de España antes del 15 de junio del año siguiente a la fecha de referencia correspondiente.
+
+> Se modifica por la norma 1.c) de la Circular 3/2023, de 31 de octubre. [Ref. BOE-A-2023-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23052)
+
+> Téngase en cuenta que la primera remisión de los estados R 01.00 a R 12.00 será la referida a la información correspondiente a 31 de diciembre de 2023, y se efectuará no más tarde del 15 de junio de 2024, según establece la disposición final única de la citada Circular.
+
+> Se modifica el apartado 1 por la norma primera.50 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 64 bis. Información periódica que hay que remitir sobre la brecha salarial de género.
+
+1\. El estado que ha de remitirse con la información sobre la brecha salarial de género figura en el anejo IV de esta circular y se detalla a continuación:
+
+| Estado | Nombre del estado | Periodicidad |
+|---|---|---|
+| R 06.00 | Información sobre la brecha salarial de género. | Trienal |
+
+2\. El estado incluido en el apartado anterior deberá ser remitido al Banco de España, en base individual, con la información que en el mismo se requiere, por todas las entidades de crédito constituidas en España, integradas o no en un grupo consolidable de entidades de crédito. Este estado no habrá de enviarse en el caso de entidades pequeñas y no complejas, ni en el caso de entidades que, a nivel individual, tengan una plantilla igual o inferior a 50 personas. Las filiales de entidades matrices de otro Estado miembro de la UE tampoco enviarán esta información.
+
+3\. El estado R 06.00 deberá remitirse al Banco de España antes del 15 de junio del año siguiente a la fecha de referencia correspondiente.
+
+> Se añade por la norma 1.d) de la Circular 3/2023, de 31 de octubre. [Ref. BOE-A-2023-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23052)
+
+> Téngase en cuenta que la primera remisión de los estados R 01.00 a R 12.00 será la referida a la información correspondiente a 31 de diciembre de 2023, y se efectuará no más tarde del 15 de junio de 2024, según establece la disposición final única de la citada Circular.
+
+#### Norma 64 ter. Información que hay que remitir sobre las ratios más elevadas autorizadas entre la remuneración variable y fija.
+
+1\. En aquellos casos en los que la junta general de accionistas u órgano equivalente de la entidad apruebe un nivel de remuneración variable superior al 100 % del componente fijo de la remuneración total, y sin perjuicio de las obligaciones de comunicación recogidas en el artículo 34.1.g) de la Ley 10/2014, la entidad remitirá, en base individual, el estado que figura en el anejo IV de esta circular y se detalla a continuación:
+
+| Estado | Nombre del estado | Periodicidad |
+|---|---|---|
+| R 07.00 | Ratios más elevadas autorizadas entre la remuneración variable y fija. | Bienal |
+
+2\. El estado R 07.00 deberá remitirse al Banco de España antes del 15 de junio del año siguiente a la fecha de referencia correspondiente.
+
+> Se añade por la norma 1.e) de la Circular 3/2023, de 31 de octubre. [Ref. BOE-A-2023-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23052)
+
+> Téngase en cuenta que la primera remisión del estado R 07.00 será la referida a la información correspondiente a 31 de diciembre de 2024, y se efectuará no más tarde del 15 de junio de 2025, según establece la disposición final única de la citada Circular.
+
+#### Norma 65. Información periódica que hay que rendir para la identificación de grupos financieros como conglomerados financieros.
+
+1\. El estado que debe remitirse para la identificación de conglomerados financieros figura en el anejo V de esta circular y se detalla a continuación:
+
+| Estado | Denominación | Periodicidad |
+|---|---|---|
+| CF1 | Identificación de los conglomerados financieros. | Semestral. |
+
+2\. El estado CF1 deberá remitirse al Banco de España por los grupos a que se refiere la norma 53.1, a través de la respectiva entidad obligada, según se define esta en el artículo 5.5 de la Ley 5/2005.
+
+La norma 53.4 recoge el mecanismo previsto para evitar cambios bruscos en el régimen de remisión de información previsto en este apartado.
+
+3\. El estado CF1 deberá remitirse al Banco de España, en la fecha en la que se envían las declaraciones semestrales de los estados de solvencia, según se establece en el artículo 3.1 del Reglamento de Ejecución (UE) n.º 2021/451.
+
+> Se modifica el apartado 3 por la norma primera.51 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 66. Notificación de titulizaciones.
+
+Las entidades originadoras de titulizaciones deberán notificar al Banco de España aquellas titulizaciones a las que pretendan aplicar los artículos 244, 245 y 246 del Reglamento (UE) n.º 575/2013, para calcular sus requerimientos de capital. Dicha notificación deberá realizarse de acuerdo con el formato incluido en el anejo VI de esta circular y en un plazo no superior a quince días naturales desde la formalización de la titulización.
+
+> Se modifica por la norma primera.52 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma 67. Información periódica que hay que rendir sobre la exposición al riesgo frente a los sectores recogidos en el apartado 2 de la norma 12 bis.
+
+1\. Las entidades remitirán al Banco de España el estado CCAS1 que figura en el anejo IX de esta circular para informar del desglose de las exposiciones pertinentes sectoriales ubicadas en cada territorio en cuestión, determinado conforme a la norma 8.6 de esta circular, añadiendo a la dimensión de país la correspondiente al sector, según establece la norma 12 bis.2 de esta circular.
+
+| Estado | Denominación | Periodicidad |
+|---|---|---|
+| CCAS1 | Desglose de las exposiciones crediticias para el cálculo del componente sectorial del colchón de capital anticíclico por país y sector y porcentaje de este. | Trimestral. |
+
+2\. El estado CCAS1 deberá remitirse al Banco de España de acuerdo con el ámbito del requerimiento establecido en la norma 8.1 de esta circular, por aquellas entidades obligadas a la presentación de información sobre requerimientos prudenciales, según lo establecido en el artículo 430.1.a) del Reglamento (UE) n.º 575/2013, así como por las sucursales de entidades de crédito con sede en Estados no miembros de la UE obligadas a la presentación de esa misma información, y teniendo en cuenta lo siguiente:
+
+a) Los grupos consolidables de entidades de crédito, definidos en el Reglamento (UE) n.º 575/2013, cuya matriz responda a alguna de las definiciones de los párrafos 28, 29 quáter, 29 quinquies, 30-33 del artículo 4.1 del Reglamento (UE) n.º 575/2013 o a las mencionadas en el artículo 11.2 de ese mismo reglamento, deberán remitir esta información a nivel consolidado. Las entidades que remitan información subconsolidada según lo establecido en el artículo 11.6 o el artículo 22 del Reglamento (UE) n.º 575/2013 deberán remitir este estado también a nivel subconsolidado.
+
+b) Las entidades de crédito individuales constituidas en España, integradas o no en un grupo consolidable de entidades de crédito, deberán remitir esta información a nivel individual, siempre que no hayan sido eximidas del cumplimiento individual de las obligaciones establecidas en el artículo 430.1.a) del Reglamento (UE) n.º 575/2013, conforme a lo establecido en los artículos 7 y 10 del citado reglamento.
+
+c) Las sucursales de entidades de crédito con sede en Estados no miembros de la UE deberán remitir esta información a nivel de la sucursal, siempre que no hayan sido eximidas del cumplimiento de las obligaciones establecidas en la norma 4.1 de esta circular.
+
+> Se añade por la norma única.d) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+## CAPÍTULO 10
+
+## Límites a la concentración sectorial
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 68. Objetivos.
+
+El Banco de España adoptará las medidas previstas en este capítulo cuando el establecimiento de límites a la concentración a un sector de actividad económica contribuya a salvaguardar la estabilidad financiera, reforzando la solvencia del sistema financiero y reduciendo la acumulación del riesgo sistémico, de modo que el sistema financiero contribuya al crecimiento económico de forma sostenible.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 69. Definiciones.
+
+1\. Los términos y conceptos utilizados en el presente capítulo se entenderán de acuerdo con las definiciones establecidas en el Reglamento (UE) n.º 575/2013, en la Ley 10/2014 y en sus normas de desarrollo, y lo establecido en el apartado 2 de esta norma.
+
+2\. A los efectos de este capítulo, se entenderá por:
+
+a) “Concentración”: El cociente entre, por una parte, la exposición crediticia total de una entidad a un sector de actividad económica y, por otra, el capital de nivel 1 ordinario de esa entidad.
+
+b) “Concentración agregada”: El cociente entre, por una parte, la exposición crediticia agregada de todas las entidades a un sector de actividad económica y, por otra, el capital de nivel 1 ordinario agregado.
+
+c) “Exposición crediticia”: la exposición de una entidad a cualesquiera instrumentos financieros, según se definen en la norma 19 de la Circular 4/2017 y valorados por su importe en libros bruto, de acuerdo con el apartado 11 de la norma 12 de la Circular 4/2017. Se tomarán en consideración exclusivamente las exposiciones crediticias que, por sus características, no puedan clasificarse en alguna de las categorías de exposición a las que se refieren las letras a) a e) del artículo 112 del Reglamento (UE) n.º 575/2013, con independencia del método de riesgo de crédito que la entidad aplique para calcular los requerimientos de fondos propios correspondientes. Asimismo, se tendrán en cuenta exclusivamente las exposiciones crediticias ubicadas en España. La ubicación geográfica de las exposiciones crediticias se determinará de conformidad con las normas técnicas de regulación a las que se refiere el artículo 140.7 de la Directiva (UE) n.º 2013/36, establecidas en el Reglamento Delegado (UE) n.º 1152/2014 o en cualquier otro que lo derogue o modifique.
+
+d) “Exposición crediticia total de una entidad”: La suma de las exposiciones crediticias ubicadas en España de una entidad.
+
+e) “Exposición crediticia agregada”: La suma de la exposición crediticia total para el conjunto de todas las entidades.
+
+f) “Capital de nivel 1 ordinario agregado”: La suma del capital de nivel 1 ordinario de todas las entidades.
+
+g) “Sector de actividad económica”: Uno de los sectores siguientes:
+
+i. Otras sociedades financieras, según se identifican en la norma 66.6.a) de la Circular 4/2017.
+
+ii. Sociedades no financieras y empresarios individuales (actividad empresarial), según se identifican en la norma 66.6.b) y en la norma 66.6.c).ii) de la Circular 4/2017, respectivamente, que desarrollen una actividad económica clasificada como “promoción inmobiliaria” o como “actividades inmobiliarias”, de acuerdo con el anexo del Real Decreto 475/2007, de 13 de abril, por el que se aprueba la CNAE 2009. En relación con los empresarios individuales (actividad empresarial), se recogerán exclusivamente las operaciones a nombre de los empresarios cuando tengan como finalidad su actividad empresarial.
+
+iii. Sociedades no financieras y empresarios individuales (actividad empresarial), según se identifican en la norma 66.6.b) y en la norma 66.6.c).ii) de la Circular 4/2017, respectivamente, que desarrollen una actividad económica que no se clasifique como “promoción inmobiliaria” o como “actividades inmobiliarias”, de acuerdo con el anexo del Real Decreto 475/2007. En relación con los empresarios individuales (actividad empresarial), se recogerán exclusivamente las operaciones a nombre de los empresarios cuando tengan como finalidad su actividad empresarial.
+
+iv. Hogares, según se identifican en la norma 66.6.c) de la Circular 4/2017, que sean destinatarios de un crédito a la vivienda, de acuerdo con la norma 69.2.e).i) de la Circular 4/2017, exclusivamente por el importe correspondiente a dicha financiación de la vivienda, excluidos aquellos cuya vivienda le conste a la entidad que se utiliza con carácter predominante para fines relacionados con negocios de los titulares, bien como empresarios individuales, bien a través de entidades sin personalidad jurídica.
+
+v. Hogares, según se identifican en la norma 66.6.c) de la Circular 4/2017, por la financiación no incluida en el apartado iv de esta letra g), y excluidos los empresarios individuales (actividad empresarial) recogidos en los apartados ii y iii de esta misma letra. Por tanto, solo se incluirán las operaciones concedidas a empresarios individuales cuando a la entidad le conste que se utilizan predominantemente para consumo personal.
+
+vi. Entidades de crédito, según se definen en el artículo 4.1.1) del Reglamento (UE) n.º 575/2013.
+
+Las exposiciones que cuenten con algún tipo de garantía personal se atribuirán al sector del obligado principal. No obstante, en el caso de exposiciones cuyo obligado principal pertenezca a alguno de los sectores mencionados en la letra g) del primer párrafo, garantizadas por sujetos también pertenecientes a alguno de dichos sectores:
+
+− Cuando el obligado principal y el garante pertenezcan al mismo sector sobre el que se aplique la medida, la exposición se atribuirá al obligado principal.
+
+− Cuando el obligado principal y el garante pertenezcan a sectores distintos, y los límites a la concentración se apliquen solo al sector al que pertenezca uno de ellos, la exposición se asignará al sector al que se haya aplicado la medida, sea el del obligado principal o el del garante, en este último caso por la parte garantizada. Si tanto el sector al que pertenezca el obligado principal como el del garante estuvieran afectados por límites a la concentración sectorial (iguales o distintos), la exposición se atribuirá a ambos sectores. En caso de garantías parciales, la exposición frente al garante será por el importe garantizado.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 70. Fijación de un límite a la concentración a un sector de actividad económica.
+
+1\. El Banco de España calculará la concentración de las entidades a un sector de actividad económica sobre la base de la información financiera reservada que las entidades le remitan con arreglo al título II de la Circular 4/2017, al título II de la Circular 4/2019 y al Reglamento de Ejecución (UE) n.º 2021/451 de la Comisión, de 17 de diciembre de 2020, por el que se establecen normas técnicas de ejecución para la aplicación del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en relación con la comunicación de información con fines de supervisión por parte de las entidades, y por el que se deroga el Reglamento de Ejecución (UE) n.º 680/2014.
+
+2\. Sobre la base de la información obtenida con arreglo al apartado anterior, el Banco de España evaluará periódicamente si procede fijar un límite a la concentración a un sector de actividad económica, de acuerdo con los indicadores contemplados en la norma 12 bis.4, y, adicionalmente, también lo siguiente:
+
+a) La concentración agregada y su evolución en el tiempo.
+
+b) La concentración para conjuntos de entidades y su evolución en el tiempo.
+
+c) El peso de la exposición crediticia en el producto interior bruto nominal que publica el Instituto Nacional de Estadística y su evolución, así como sobre los componentes del producto interior bruto más directamente relacionados con el sector de actividad económica implicado.
+
+d) La valoración sobre el riesgo sistémico existente en España.
+
+e) La fase del ciclo de crédito en el que se encuentre el sistema financiero.
+
+f) Los efectos en la economía real que pueda conllevar la adopción de medidas relativas a la concentración a un sector de actividad económica.
+
+g) Los criterios que, en su caso, establezcan la JERS, la Autoridad Bancaria Europea (ABE), el Banco Central Europeo, el FMI, el Consejo de Estabilidad Financiera y el BCBS, o cualesquiera otros organismos y autoridades europeas e internacionales, en relación con los objetivos, instrumentos e indicadores de naturaleza macroprudencial.
+
+3\. Con arreglo a los resultados obtenidos del análisis al que se refiere el apartado anterior, el Banco de España podría decidir fijar un límite a la concentración a un sector de actividad económica o mantener, modificar o finalizar la aplicación de uno existente. El Banco de España notificará su decisión a las entidades afectadas, que tendrán un plazo de diez días hábiles para presentar las alegaciones que interesen.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 71. Aplicación de un límite a la concentración a un sector de actividad económica.
+
+1\. El límite a la concentración será el mismo para las entidades destinatarias y se expresará como un valor equivalente a un porcentaje del capital de nivel 1 ordinario. No obstante, atendiendo a la naturaleza del negocio de algunas entidades, por ejemplo, la existencia de entidades especializadas en un determinado sector, o a otras características de estas, como el tamaño, el Banco de España podrá eximirlas de la aplicación del límite establecido o fijarlo en un nivel distinto al del resto de las entidades destinatarias.
+
+2\. El límite se aplicará en relación con uno de los sectores de actividad económica recogidos en la norma 69.2.g) o con varios de ellos simultáneamente.
+
+Cuando el Banco de España establezca límites a la concentración, las entidades dispondrán de un período transitorio de seis meses para aplicarlos, salvo circunstancias excepcionales debidamente justificadas, en las que podrá determinarse que sea distinto a los seis meses.
+
+3\. El límite se aplicará durante un período de tiempo que no podrá exceder de dos años. Ese período de tiempo podrá ser renovado, si el Banco de España lo considera necesario, de acuerdo con los criterios señalados en la norma 70.2.
+
+4\. El Banco de España evaluará regularmente y, en todo caso, al menos cada seis meses el impacto del límite a la concentración fijado.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 72. Publicidad del límite a la concentración a un sector de actividad económica.
+
+Sin perjuicio de la notificación a las entidades afectadas de la resolución adoptada, el Banco de España publicará, en su sitio web, un anuncio en el que incluirá la siguiente información:
+
+a) Las conclusiones alcanzadas en relación con el análisis al que se refiere la norma 70.2.
+
+b) El límite a la concentración a un sector de actividad económica que el Banco de España haya decidido fijar.
+
+c) El conjunto de entidades exentas de la aplicación del límite o, en su caso, a las que se aplica un nivel distinto de acuerdo con la norma 71.1.
+
+d) El período de aplicación del límite.
+
+e) Los factores que el Banco de España ha estimado relevantes para considerar procedente la fijación del límite.
+
+f) Los motivos por los cuales el límite es adecuado, necesario y razonable para afrontar el riesgo sistémico que el Banco de España ha identificado.
+
+g) Una evaluación del probable impacto derivado del cumplimiento del límite.
+
+h) Cualquier otra información que el Banco de España considere oportuna.
+
+Esta misma información se publicará en el caso de que el Banco de España hubiera resuelto mantener o modificar la medida adoptada.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 73. Cumplimiento del límite a la concentración a un sector de actividad económica.
+
+1\. Cuando una entidad prevea que no podrá cumplir la medida adoptada en la fecha de su entrada en vigor, lo notificará sin dilación al Banco de España y le presentará, en el plazo de un mes desde la fecha de notificación de la adopción de la medida, un plan que incluya las actuaciones que la entidad pretende adoptar para cumplir con el límite a la concentración establecido y un calendario con las fases que seguirá hasta cumplir con ese límite. Como medida provisional hasta la aprobación del plan, el Banco de España podrá limitar a la entidad la realización de nuevas operaciones con el sector o sectores para los que se hayan previsto límites a la concentración.
+
+2\. El plan tendrá en cuenta el grado de incumplimiento de la medida por la entidad.
+
+3\. El Banco de España evaluará el plan presentado y, en su caso, lo aprobará si considera que, de ejecutarse, resulta razonablemente previsible el cumplimiento del límite a la concentración establecido por el Banco de España en los plazos previstos. El calendario de ajuste contenido en el plan no podrá prever una fecha de cumplimiento del límite posterior a un plazo de tres meses desde la entrada en vigor de la medida.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 74. Publicidad de la eliminación de un límite a la concentración a un sector de actividad económica.
+
+Sin perjuicio de la notificación a las entidades afectadas de la resolución adoptada, cuando el Banco de España considere que debe eliminarse un límite a la concentración a un sector de actividad económica, publicará en su sitio web un anuncio en el que incluirá, como mínimo, la siguiente información:
+
+a) La decisión de eliminar el límite a la concentración.
+
+b) El momento a partir del cual la eliminación del límite será eficaz.
+
+c) Los factores que el Banco de España ha considerado relevantes para determinar la eliminación del límite.
+
+> Se añade por la norma única.e) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+## CAPITULO 11 — Otras herramientas macroprudenciales
+
+> Se añade por la norma única.f) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 75. Imposición de límites y condiciones para la concesión de préstamos y otras operaciones con garantía hipotecaria sobre bienes inmuebles residenciales o sobre bienes inmuebles comerciales a hogares y sociedades no financieras y empresarios individuales (actividad empresarial) radicados en España.
+
+1\. Cuando, a partir de la evaluación de los indicadores señalados en el apartado 3 de esta norma, el Banco de España concluya que las políticas y los criterios que las entidades de crédito están utilizando para la concesión de préstamos y otras operaciones con garantía hipotecaria sobre bienes inmuebles residenciales o con garantía hipotecaria sobre bienes inmuebles comerciales a hogares y sociedades no financieras y empresarios individuales (actividad empresarial) en España podrían repercutir negativamente en la intensidad del riesgo sistémico del sistema financiero, de tal forma que puedan entrañar perjuicios graves para el sistema financiero y la economía real española, podrá imponer límites y condiciones para la concesión de estos, de conformidad con lo establecido en el artículo 69 quáter de la Ley 10/2014 y en el artículo 15.1.c) del Real Decreto 102/2019.
+
+Al hacerlo, además de la evaluación de los indicadores recogidos en el apartado 3 de esta norma, el Banco de España tendrá en cuenta lo siguiente:
+
+i. Que la medida no conlleve para la totalidad o una parte del sistema financiero de otros Estados miembros o de la Unión en su conjunto efectos que puedan suponer o crear obstáculos al funcionamiento del mercado interior.
+
+ii. Las recomendaciones emitidas por la JERS.
+
+iii. Otros criterios que el Banco de España estime oportunos.
+
+La medida adoptada podrá consistir en imponer límites o condiciones a las características financieras u otros elementos de las operaciones, de acuerdo con el apartado 6 de esta norma, o a las políticas o criterios que utilizan las entidades para evaluar la solvencia, las rentas y el nivel de endeudamiento del prestatario a los efectos de la concesión de las operaciones, sobre la base de las ratios mencionadas en el apartado 7 de esta norma.
+
+2\. A los efectos de este capítulo, se entenderá por:
+
+a) “Bien inmueble comercial”: Aquel que genere ingresos, tanto construido como en fase de promoción, o sea susceptible de generarlos, incluidos los bienes inmuebles susceptibles de un uso residencial en alquiler cuando su uso sea para actividad empresarial, o el inmueble mantenido por su propietario para llevar a cabo su negocio, fines o actividad empresarial de cualquier tipo, tanto construido como en construcción. En particular, las promociones inmobiliarias tendrán la consideración de inmuebles comerciales a efectos de este capítulo, así como todos los solares, excepto los mencionados en la letra b) siguiente.
+
+b) “Bien inmueble residencial”: Aquel disponible para su uso como vivienda, adquirido, construido o reformado por una persona física, tanto construido como en construcción, incluidos los bienes inmuebles susceptibles de un uso residencial comprados para alquiler por una persona física o jurídica, aunque el arrendamiento se celebre por temporada. Los trasteros y garajes anejos a la vivienda se considerarán también inmuebles residenciales. Los solares destinados a la autopromoción de viviendas se considerarán asimismo bienes inmuebles residenciales.
+
+En caso de que un bien inmueble se utilice como inmueble comercial y residencial de manera simultánea, se considerará que son bienes inmuebles diferentes (en función, por ejemplo, de la superficie dedicada a cada uso) siempre que sea posible hacer dicho desglose; en caso contrario, el bien inmueble se podrá clasificar según su uso predominante.
+
+c) “Préstamos y otras operaciones": Cualquier exposición crediticia, de acuerdo con la norma 69.2.c).
+
+d) “Préstamos y otras operaciones con garantía hipotecaria sobre bienes inmuebles comerciales”: Aquella exposición crediticia, de acuerdo con la norma 69.2.c), que esté garantizada con una hipoteca sobre un inmueble considerado comercial de acuerdo con la letra a) anterior, con independencia de la finalidad con la que se haya solicitado la operación.
+
+e) “Préstamos y otras operaciones con garantía hipotecaria sobre bienes inmuebles residenciales”: Aquella exposición crediticia, de acuerdo con la norma 69.2.c), que esté garantizada con una hipoteca sobre un inmueble considerado residencial de acuerdo con la letra b) anterior, con independencia de la finalidad con la que se haya solicitado la operación.
+
+f) “Hogares, sociedades no financieras y empresarios individuales (actividad empresarial)”: Los mencionados en la norma 69.2.g) de esta circular.
+
+3\. Para la evaluación, el seguimiento y la determinación de la necesidad de imponer límites y condiciones para la concesión de préstamos y otras operaciones, de acuerdo con el apartado 1 de esta norma, el Banco de España utilizará, entre otros, además de los indicadores recogidos en la norma 70.2, los siguientes:
+
+– Indicadores de endeudamiento, rentas y solvencia de los acreditados y su evolución en el tiempo, entre los que se encontrarían los mencionados en el apartado 7 de esta norma.
+
+– El nivel de los indicadores (ratios) utilizados por las entidades para la concesión de préstamos y otras operaciones, recogidos asimismo en el apartado 7 de esta norma, para un porcentaje significativo de la cartera crediticia, y su evolución en el tiempo.
+
+– Cualesquiera otros indicadores relacionados con la concesión de préstamos y otras operaciones que el Banco de España considere relevantes.
+
+4\. El Banco de España evaluará y hará un seguimiento continuado de los indicadores señalados en el apartado 3 de esta norma y, en su caso, del grado de consecución de los objetivos como consecuencia de una medida ya impuesta, con el fin de adoptar en el momento pertinente cualquier decisión de imponer, mantener, recalibrar, revisar o poner fin a la medida. Si, de acuerdo con dicha evaluación, el Banco de España considerara necesario adoptar la correspondiente decisión, la notificará, cuando proceda, a las entidades afectadas, que tendrán un plazo de diez días hábiles para presentar las alegaciones que interesen.
+
+Cuando el Banco de España establezca límites y condiciones con arreglo a lo dispuesto en el apartado 1 de esta norma, las entidades dispondrán de un período transitorio de seis meses para aplicarlos, salvo circunstancias excepcionales debidamente justificadas, en las que podrá determinarse que sea distinto a los seis meses.
+
+Los límites y las condiciones se aplicarán por tiempo indefinido, salvo que la decisión por la que se establezcan fije su plazo de vigencia.
+
+En caso de que la recalibración o revisión de las medidas adoptadas suponga una relajación de uno o de varios de los límites y condiciones establecidos inicialmente, la decisión podrá ser inmediatamente aplicable o aplicarse en el plazo establecido en la decisión de modificación de la medida.
+
+5\. Los nuevos límites y condiciones se aplicarán a las nuevas exposiciones garantizadas por hipotecas sobre bienes inmuebles residenciales o comerciales a partir de la fecha establecida conforme al apartado 4 de esta norma.
+
+A los efectos de esta norma, se entenderán por exposiciones nuevas todas aquellas que impliquen una relación contractual entre la entidad de crédito y el prestatario no existente con anterioridad o que, habiendo existido, hayan sido objeto de refinanciación, reestructuración, renovación o renegociación, siendo elevadas a escritura pública a partir de la fecha establecida en el apartado 4 de esta norma. Asimismo, para el objetivo de esta norma, se considerarán exposiciones nuevas aquellas concedidas por la propia entidad o por otras entidades de su grupo al titular (o titulares) o a otra u otras empresas de su grupo, de acuerdo con lo establecido en los puntos 18 a 25 del anejo 9 de la Circular 4/2017; la subrogación de compradores en los préstamos hipotecarios de promotores, y, en general, cualquier otro tipo de subrogaciones o novaciones hipotecarias.
+
+Cuando las políticas o los criterios de concesión de préstamos y otras operaciones establecidas por las entidades de crédito como instrumento para la gestión del riesgo de crédito y contraparte de acuerdo con lo exigido en el título II, capítulo I, del Real Decreto 84/2015 sean más estrictos que los límites y las condiciones que establezca el Banco de España de acuerdo con esta norma, las entidades deberán aplicar, en todo caso, las políticas o los criterios internos más estrictos sobre los establecidos por el Banco de España para esta herramienta macroprudencial.
+
+6\. Entre los límites y las condiciones que el Banco de España podrá imponer en relación con las características financieras u otros elementos de las operaciones, se encontrarán los siguientes:
+
+a) Limitar el plazo de vencimiento de las operaciones.
+
+b) Limitar los períodos de carencia de las operaciones.
+
+c) Fijar una exigencia mínima de amortización del principal de la operación.
+
+7\. Entre las ratios para evaluar la solvencia, las rentas y el nivel de endeudamiento del prestatario y las utilizadas por las entidades para la concesión de préstamos y otras operaciones sobre las que el Banco de España podrá aplicar límites y condiciones, se encontrarán las siguientes:
+
+a) Ratio del importe de la operación sobre el valor de tasación o *loan to value* (LTV).
+
+b) Ratio del importe de la operación sobre el valor de la transacción inmobiliaria o *loan to price* (LTP).
+
+c) Ratio del importe de la operación sobre ingresos o *loan to income* (LTI).
+
+d) Ratio del servicio de la operación sobre ingresos o *loan service to income* (LSTI).
+
+e) Ratio de deuda sobre ingresos o *debt to income* (DTI).
+
+f) Ratio del servicio de la deuda sobre ingresos o *debt service to income* (DSTI).
+
+g) Ratio de cobertura de intereses o *interest coverage ratio* (ICR).
+
+h) Ratio del importe de la operación sobre la renta por alquiler o *loan to rent* (LTR).
+
+Adicionalmente, para las sociedades no financieras, se considerarán:
+
+a) Ratio del importe de la operación sobre el total activo o *loan to assets* (LTA).
+
+b) Ratio de deuda sobre el total activo o *debt to assets* (DTA).
+
+Las fórmulas de cálculo para cada ratio serán las recogidas en los anexos IV y V de la Recomendación de la JERS de 31 de octubre de 2016, JERS/2016/14, sobre la eliminación de lagunas de datos sobre bienes inmuebles.
+
+De acuerdo con la recomendación de la JERS, los valores de las anteriores ratios podrán considerarse, bien en origen, bien en su situación corriente o actual.
+
+A los efectos del apartado 3 y de este apartado, salvo que la decisión sobre la medida estableciera otra cosa, a nivel de cada entidad, el valor agregado de cada ratio se calculará como una media ponderada de las ratios calculadas individualmente para cada operación, utilizando el importe de dicha operación a los efectos de su ponderación.
+
+En el caso de las sociedades no financieras y de los empresarios individuales (actividad empresarial), se considerará como ingresos el EBITDA, que, a efectos de esta norma, se calcula como la diferencia entre ingresos procedentes de la actividad productiva y los gastos derivados de dicha actividad, excluyendo los impuestos, los intereses, las provisiones, las depreciaciones y las amortizaciones.
+
+En caso de que la sociedad no financiera pertenezca a un grupo de sociedades, los datos que se considerarán, a los efectos del apartado 3 y de este apartado, salvo que la decisión sobre la medida estableciera otra cosa, serán los correspondientes tanto a la sociedad como al grupo consolidado.
+
+Ello sin perjuicio de que en la decisión sobre la medida, de acuerdo con el apartado 8 de esta norma, se pudieran recoger las previsiones necesarias para completar las definiciones de las ratios mencionadas en este apartado, lo que podría hacerse por remisión a definiciones contenidas en otras circulares, normas técnicas de aplicación de estas, definiciones recogidas en estándares o recomendaciones internacionales, como, por ejemplo, de la ABE o de la JERS, o en otra normativa, como la relativa al mercado hipotecario o a los contratos de crédito inmobiliario.
+
+8\. Sin perjuicio de la notificación a las entidades afectadas de la resolución adoptada conforme al apartado 4, el Banco de España anunciará la medida mediante publicación en su sitio web. El anuncio incluirá la siguiente información:
+
+a) Las exposiciones con garantía hipotecaria afectadas.
+
+b) Los límites y condiciones impuestos a las operaciones o la ratio o ratios de solvencia, rentas y nivel de endeudamiento del prestatario sobre los que se aplican los límites y las condiciones para la concesión de las operaciones, así como su nivel.
+
+c) La definición de la ratio o ratios afectadas por la medida y su forma de cálculo, en caso de que fuera necesario complementar lo previsto en el apartado 7 de esta norma.
+
+d) Las indicaciones necesarias para una adecuada aplicación de la medida.
+
+e) Una justificación de la medida.
+
+f) La fecha de aplicación de la medida y, en su caso, su duración.
+
+g) Cualquier otro dato que el Banco de España considere oportuno, en particular a la luz de las posibles recomendaciones emitidas por la JERS.
+
+9\. El nivel de la medida establecida por el Banco de España podrá ser diferente en función del tipo de inmueble, su uso, localización, etc. Asimismo, podrá preverse la aplicación de franquicias o exenciones para la aplicación de la medida, como permitir un porcentaje de créditos nuevos no sujeto a esta.
+
+En el caso de medidas sobre ratios, el Banco de España podrá determinar la medida sobre una o varias ratios individualmente consideradas o como combinación de estas. Asimismo, podrá aplicar la medida correspondiente sobre ratios estresadas cuando el tipo de interés de la exposición sea variable o la exposición esté denominada en moneda extranjera.
+
+Para la determinación de la medida, el Banco de España podrá tener en cuenta, entre otros, la moneda del préstamo, si el tipo de interés es fijo o variable, el tipo de inmueble en garantía, su uso (como residencia habitual, segunda residencia, para arrendamiento), si se trata de una primera compra de vivienda habitual, el valor de tasación del inmueble y las características socioeconómicas del acreditado.
+
+10\. Cuando no se aprecien razones de estabilidad financiera, un aumento excesivo del riesgo bancario o un endeudamiento excesivo de los prestatarios que justifiquen la aplicación de la medida con carácter general, el Banco de España podrá dar un tratamiento diferenciado o incluso excluir de su aplicación préstamos para la financiación de viviendas de protección oficial, sociales o sujetas a ayudas públicas asimilables, u operaciones para la financiación especializada de obra civil, entre otras. En particular, podrá dar un tratamiento diferenciado o excluir de la aplicación de la medida a las sociedades no financieras y empresarios individuales (actividad empresarial) en función del número de años en el ejercicio de la actividad económica correspondiente, de su tamaño (medido por su volumen de negocio, total activo, número de empleados, etc.) o de su rama de actividad. Asimismo, el Banco de España podría excluir de la aplicación de la medida las operaciones que sean objeto de refinanciación, reestructuración, renovación o renegociación.
+
+11\. Al determinar la medida, el Banco de España podrá modular su aplicación atendiendo a condiciones subjetivas de las entidades, como su tamaño o su especialización, entre otras, cuando sea necesario para garantizar la estabilidad del sistema financiero.
+
+> Se añade por la norma única.f) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Norma 76. Imposición de límites y condiciones para la concesión de préstamos y otras operaciones sin garantía hipotecaria sobre bienes inmuebles a hogares y sociedades no financieras y empresarios individuales (actividad empresarial) radicados en España.
+
+1\. Cuando, a partir de la evaluación de los indicadores señalados en el apartado 2 de esta norma, el Banco de España concluya que las políticas y los criterios que las entidades de crédito utilizan para la concesión de préstamos y otras operaciones sin garantía hipotecaria a hogares y sociedades no financieras y empresarios individuales (actividad empresarial) en España podrían repercutir negativamente en la intensidad del riesgo sistémico del sistema financiero, de tal forma que puedan entrañar perjuicios graves para el sistema financiero y la economía real española, podrá imponer límites y condiciones para su concesión, de conformidad con lo establecido en el artículo 69 quáter de la Ley 10/2014 y en el artículo 15.1.c) del Real Decreto 102/2019.
+
+Al hacerlo, además de la evaluación de los indicadores recogidos en el apartado 2 de esta norma, el Banco de España tendrá en cuenta lo siguiente:
+
+i. Que la medida no conlleve para la totalidad o una parte del sistema financiero de otros Estados miembros o de la Unión en su conjunto efectos que puedan suponer o crear obstáculos al funcionamiento del mercado interior.
+
+ii. Las recomendaciones emitidas por la JERS.
+
+iii. Otros criterios que el Banco de España estime oportunos.
+
+La medida adoptada podrá consistir en imponer un límite o condición a las características financieras u otros elementos de las operaciones, de acuerdo con el apartado 5 de esta norma, o a las políticas o criterios que utilizan las entidades para evaluar la solvencia, las rentas y el nivel de endeudamiento del prestatario o de la contraparte a los efectos de la concesión de las operaciones, sobre la base de las ratios mencionadas en el apartado 6 de esta norma.
+
+2\. Para la evaluación, el seguimiento y la determinación de la necesidad de imponer límites y condiciones para la concesión de préstamos y otras operaciones, de acuerdo con el apartado 1 de esta norma, el Banco de España utilizará, entre otros, los indicadores pertinentes recogidos en la norma 75.3.
+
+3\. El Banco de España evaluará y hará un seguimiento continuado de los indicadores señalados en el apartado 2 de esta norma y, en su caso, del grado de consecución de los objetivos como consecuencia de una medida ya impuesta, con el fin de adoptar en el momento pertinente cualquier decisión de imponer, mantener, recalibrar, revisar o poner fin a la medida. Si, de acuerdo con dicha evaluación, el Banco de España considerara necesario adoptar la correspondiente decisión, la notificará, cuando proceda, a las entidades afectadas, que tendrán un plazo de diez días hábiles para presentar las alegaciones que interesen.
+
+Cuando el Banco de España establezca límites y condiciones con arreglo a lo dispuesto en el apartado 1 de esta norma, las entidades dispondrán de un período transitorio de seis meses para aplicarlos, salvo circunstancias excepcionales debidamente justificadas, en las que podrá ser distinto a seis meses.
+
+Los límites y las condiciones se aplicarán por tiempo indefinido, salvo que la decisión por la que se establezcan fije su plazo de vigencia.
+
+En caso de que la recalibración o revisión de las medidas adoptadas suponga la relajación de uno o varios de los límites y condiciones establecidos inicialmente, la decisión podrá ser inmediatamente aplicable o aplicarse en el plazo establecido en la decisión de modificación de la medida.
+
+4\. Los nuevos límites y condiciones se aplicarán a las nuevas exposiciones no garantizadas por hipotecas sobre bienes inmuebles a partir de la fecha establecida conforme al apartado 3 de esta norma.
+
+A los efectos de esta norma, se entenderán por exposiciones nuevas todas aquellas que impliquen una relación contractual entre la entidad de crédito y el prestatario o la contraparte no existente con anterioridad o que, habiendo existido, hayan sido objeto de refinanciación, reestructuración, renovación o renegociación en la fecha establecida en el apartado 3 de esta norma. Asimismo, para el objetivo de esta norma, se considerarán exposiciones nuevas aquellas concedidas por la propia entidad o por otras entidades de su grupo al titular (o titulares) o a otra u otras empresas de su grupo, de acuerdo con lo establecido en los puntos 18 a 25 del anejo 9 de la Circular 4/2017. En el caso de las operaciones con derivados, se entenderán como nuevas operaciones las nuevas posiciones frente a la contraparte aun cuando formen parte de un único contrato marco.
+
+Cuando las políticas o los criterios de concesión de préstamos y otras operaciones establecidas por las entidades de crédito como instrumento para la gestión del riesgo de crédito y de contraparte de acuerdo con lo exigido en el título II, capítulo I, del Real Decreto 84/2015 sean más estrictos que los límites y las condiciones que establezca el Banco de España de acuerdo con esta norma, las entidades deberán aplicar, en todo caso, las políticas o los criterios internos más estrictos sobre los establecidos por el Banco de España para esta herramienta macroprudencial.
+
+5\. Los límites y las condiciones que el Banco de España podrá imponer a las operaciones serán, entre otros, los que se recogen en la norma 75.6 de esta circular.
+
+6\. El Banco de España podrá aplicar límites y condiciones, entre otras, sobre todas o algunas de las ratios para evaluar la solvencia, las rentas y el nivel de endeudamiento del prestatario o de la contraparte recogidas en la norma 75.7, excepto las mencionadas en sus letras a), b) y h), y de acuerdo con las definiciones y otras previsiones establecidas en esta.
+
+7\. Sin perjuicio de la notificación a las entidades afectadas de la resolución adoptada conforme al apartado 3, el Banco de España anunciará la medida mediante publicación en su sitio web. El anuncio incluirá la siguiente información:
+
+a) Las exposiciones sin garantía hipotecaria y tipos de derivados y de contrapartes afectados.
+
+b) El sector o sectores de actividad afectados por la medida.
+
+c) Los límites y condiciones impuestos a las operaciones, o la ratio o ratios de solvencia, rentas y nivel de endeudamiento del prestatario o de la contraparte sobre los que se aplican los límites y condiciones para la concesión de las operaciones, así como su nivel.
+
+d) La definición de la ratio o ratios afectadas por la medida y su forma de cálculo, en caso de ser necesario complementar lo previsto en la norma 75.7 de esta circular.
+
+e) Las indicaciones necesarias para una adecuada aplicación de la medida.
+
+f) Una justificación de la medida.
+
+g) Fecha de aplicación de la medida y, en su caso, su duración.
+
+h) Cualquier otro dato que el Banco de España considere oportuno, en particular a la luz de las posibles recomendaciones emitidas por la JERS.
+
+8\. El Banco de España podrá establecer una medida que afecte a uno o varios sectores o subsectores de actividad económica, o incluso hacerla extensiva a todas las sociedades no financieras y empresarios individuales (actividad empresarial). Asimismo, podrá preverse la aplicación de franquicias o exenciones para la aplicación de la medida, como permitir un porcentaje de créditos nuevos no sujeto a esta.
+
+En el caso de medidas sobre ratios, el Banco de España podrá determinar la medida sobre una o varias ratios individualmente consideradas o como combinación de estas. Asimismo, el Banco de España podrá aplicar la medida correspondiente sobre ratios estresadas cuando el tipo de interés de la exposición sea variable o la exposición esté denominada en moneda extranjera.
+
+Para la determinación de la medida, el Banco de España podrá tener en cuenta, entre otros, la moneda del préstamo y si el tipo de interés es fijo o variable.
+
+9\. Cuando no se aprecien razones de estabilidad financiera, un aumento excesivo del riesgo bancario o un endeudamiento excesivo de los prestatarios o de las contrapartes que justifiquen la aplicación de la medida con carácter general, el Banco de España podrá dar un tratamiento diferenciado o incluso excluir de su aplicación ciertas exposiciones cuando, por sus características o por los efectos colaterales de su aplicación, se haya apreciado la idoneidad de un tratamiento diferente o que no es pertinente que queden sometidas a ella. En particular, podrá dar un tratamiento diferenciado o excluir de la aplicación de la medida a las sociedades no financieras y empresarios individuales (actividad empresarial) en función del número de años en el ejercicio de la actividad económica correspondiente, de su tamaño (medido por su volumen de negocio, total activo, número de empleados, etc.) o de su rama de actividad. Asimismo, el Banco de España podría excluir de la aplicación de la medida las operaciones que sean objeto de refinanciación, reestructuración, renovación o renegociación.
+
+10\. Al determinar la medida, el Banco de España podrá modular su aplicación atendiendo a condiciones subjetivas de las entidades, como su tamaño o su especialización, entre otras, cuando sea necesario para garantizar la estabilidad del sistema financiero.
+
+> Se añade por la norma única.f) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)
+
+#### Disposición adicional única. Obligaciones de presentación de documentación de procedimientos administrativos.
+
+1\. Las entidades, sociedades y quienes actúen en su representación estarán obligados a relacionarse a través de medios electrónicos con el Banco de España para la realización de cualquier trámite de un procedimiento administrativo, de conformidad con lo dispuesto en el artículo 14 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las Administraciones Públicas.
+
+2\. En particular, la presentación de solicitudes, comunicaciones y escritos por las entidades, sociedades y quienes actúen en su representación en el marco de los procedimientos administrativos previstos en esta circular se realizará a través de la sede electrónica del Banco de España.
+
+Cuando el Banco de España en un procedimiento concreto establezca expresamente modelos específicos de presentación de solicitudes, estos serán de uso obligatorio por las entidades, sociedades y quienes actúen en su representación.
+
+> Se añade por la norma primera.53 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Disposición transitoria primera. Régimen transitorio de los colchones de capital para otras entidades de importancia sistémica.
+
+**(Suprimida)**
+
+> Se suprime por la norma primera.54 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Disposición transitoria segunda. Sucursales de entidades de crédito con sede en Estados no miembros de la Unión Europea.
+
+1\. Las sucursales de entidades de crédito con sede en Estados no miembros de la UE dispondrán de un año para adaptarse a las obligaciones en materia de liquidez previstas en la parte sexta del Reglamento (UE) n.º 575/2013.
+
+2\. Adicionalmente, las sucursales de entidades de crédito con sede en Estados no miembros de la UE que, a la fecha de entrada en vigor de esta circular, hubieran obtenido, con arreglo al apartado 5 de la norma primera de la Circular del Banco de España 3/2008, la exención a la que ahora se refiere la norma 4.5 de la presente circular deberán, para mantener dicha exención, acreditar al Banco de España el cumplimiento de los requisitos establecidos en la mencionada norma 4.5, remitiendo toda la documentación prevista en la norma 4.6 en el plazo de un año a contar desde la entrada en vigor de la presente circular.
+
+Aquella exención también alcanzará durante este período transitorio a:
+
+a) La obligación de calcular la ratio de apalancamiento conforme a la parte séptima del Reglamento (UE) n.º 575/2013.
+
+b) La obligación de mantener el requerimiento combinado de colchones de capital de acuerdo con el capítulo 3 de esta circular.
+
+#### Disposición transitoria tercera. Registro de Altos Cargos.
+
+A efectos de actualizar el Registro de Altos Cargos del Banco de España, todas las entidades de crédito deberán informar al Banco de España de la relación de los consejeros, directores generales y asimilados, de conformidad con lo dispuesto en la presente circular, antes del 30 de junio de 2016. La Secretaría General, mediante escrito dirigido a las asociaciones de entidades de crédito, especificará el procedimiento y contenido de la información que deba ser remitida al Banco de España.
+
+#### Disposición transitoria cuarta. Notificación de titulizaciones.
+
+Para aquellas titulizaciones formalizadas con anterioridad a la entrada en vigor de esta circular y con posterioridad al 7 de julio de 2014, fecha de publicación de las «Guías sobre la transferencia significativa del riesgo de crédito contemplada en los artículos 243 y 244 del Reglamento (UE) n.º 575/2013» (EBA/GL/2014/05), las entidades originadoras que pretendan aplicar el tratamiento establecido en los mencionados artículos, para calcular sus requerimientos de capital en relación con dichas titulizaciones, deberán proporcionar al Banco de España la información sobre dichas titulizaciones conforme al formato incluido en el anejo VI de esta circular, en un plazo no superior a un mes desde la entrada en vigor de esta circular.
+
+#### Disposición transitoria quinta. Primera remisión de información sobre conglomerados financieros.
+
+La primera remisión del estado CF1 será la referida a la información relativa a 31 de diciembre de 2015, y se efectuará no más tarde del 30 de abril de 2016. Asimismo, la primera remisión de toda la información adicional mencionada en las normas 56, 57 y 58 de esta circular, por parte de los grupos a los que se refiere la norma 54.2, deberá referirse a 31 de diciembre de 2015, y se efectuará no más tarde del 30 de abril de 2016.
+
+#### Disposición transitoria sexta. Estados de medición de riesgo de liquidez.
+
+**(Suprimida)**
+
+> Se suprime por la norma primera.55 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Disposición transitoria séptima. Publicación en la página web de la información sobre gobierno corporativo y política de remuneraciones.
+
+Para la publicación en su página web de la información sobre gobierno corporativo y política de remuneraciones, las entidades de crédito contarán con un plazo de tres meses a contar desde el día siguiente de la publicación de la presente circular en el «Boletín Oficial del Estado».
+
+#### Disposición derogatoria.
+
+Por la presente circular quedan derogadas:
+
+a) La Circular del Banco de España 3/2008. No obstante, se mantendrá su vigencia en aquellos aspectos en los que la Circular del Banco de España 5/2008 remite al régimen establecido en aquella.
+
+b) La sección undécima de la Circular del Banco de España 2/2014.
+
+#### Disposición final primera. Modificación de la Circular del Banco de España 4/2004.
+
+Se da nueva redacción al apartado S.2 de la norma sexagésima de la Circular del Banco de España 4/2004.
+
+«S.2) Información exigida por el Real Decreto 84/2015.
+
+La relación de agentes de la entidad y la información sobre participaciones en el capital a que se refieren, respectivamente, los artículos 21 y 28 del Real Decreto 84/2015, de 13 de febrero, por el que se desarrolla la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de las entidades de crédito.»
+
+#### Disposición final segunda. Modificación de la Circular del Banco de España 4/2010.
+
+Se da nueva redacción al apartado 3 de la norma primera de la Circular del Banco de España 4/2010:
+
+«3. En caso de que la relación de agentes que debe figurar como anexo de la memoria anual de las entidades, conforme a lo dispuesto en el artículo 21.4 del Real Decreto 84/2015, de 13 de febrero, incluya a las personas a que se refiere el apartado anterior, estas se separarán de forma clara y comprensible de los agentes a que se refiere el apartado 1.»
+
+#### Disposición final tercera. Incorporación de derecho de la Unión Europea.
+
+Mediante la presente circular se incorporan al derecho español la Directiva 2013/36/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las Directivas 2006/48/CE y 2006/49/CE; y la Directiva 2011/89/UE del Parlamento Europeo y del Consejo, de 16 de noviembre de 2011, por la que se modifican las Directivas 98/78/CE, 2002/87/CE, 2006/48/CE y 2009/138/CE en lo relativo a la supervisión adicional de las entidades financieras que formen parte de un conglomerado financiero.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+La presente circular entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 2 de febrero de 2016.–
+
+El Gobernador del Banco de España,
+
+Luis María Linde de Castro
+
+## ANEJO I — Indicadores obligatorios para la identificación de otras entidades de importancia sistémica
+
+<table>
+<thead>
+<tr>
+<th>Criterio</th>
+<th>Indicadores</th>
+<th>Ponderación</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tamaño.</td>
+<td>Activos totales.</td>
+<td>25 %</td>
+</tr>
+<tr>
+<td rowspan="3">Importancia (incluida la sustituibilidad de la infraestructura financiera).</td>
+<td>Valor de las operaciones de pago nacionales.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td>Depósitos del sector privado residente en la UE.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td>Préstamos al sector privado residente en la UE.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td rowspan="3">Complejidad / actividad transfronteriza.</td>
+<td>Valor de los derivados OTC (nocional).</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td>Pasivos transnacionales.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td>Activos transnacionales.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td rowspan="3">Interconexión.</td>
+<td>Pasivos dentro del sistema financiero.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td>Activos dentro del sistema financiero.</td>
+<td>8,33 %</td>
+</tr>
+<tr>
+<td>Valores representativos de deuda en circulación.</td>
+<td>8,33 %</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica en la forma establecida en el anejo I de la Circular 3/2022, de 30 de marzo, según establece la norma primera.56. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## ANEJO II — Indicadores opcionales para la identificación de otras entidades de importancia sistémica
+
+Indicador opcional:
+
+EAD total.
+
+APR total.
+
+Partidas fuera de balance.
+
+Capitalización bursátil.
+
+EAD total/PIB del Estado miembro.
+
+Activos totales/PIB del Estado miembro.
+
+Préstamos al sector privado*.
+
+Préstamos hipotecarios*.
+
+Préstamos a empresas*.
+
+Préstamos minoristas*.
+
+Depósitos minoristas*.
+
+Depósitos garantizados por el sistema de garantía de depósitos*.
+
+Depósitos de empresas*.
+
+Cualquier depósito*.
+
+Número de clientes minoristas*.
+
+Participación en el sistema de compensación y liquidación*.
+
+Servicios de pago proporcionados a los participantes del mercado u otros*.
+
+Activos en custodia*.
+
+Colocaciones de emisiones de bonos*.
+
+Colocaciones de emisiones de renta variable*.
+
+Tenencias de bonos nacionales.
+
+Número de cuentas de depósito (empresas)*.
+
+Número de cuentas de depósito (minoristas)*.
+
+Desglose geográfico de la actividad bancaria.
+
+Tipo de clientes*.
+
+Activos de nivel 3.
+
+Derivados (activo/pasivo).
+
+Importe de los valores de la cartera de negociación y de los valores disponibles para la venta (teniendo en cuenta los activos altamente líquidos).
+
+Número de filiales.
+
+Número de filiales en el extranjero.
+
+Número de jurisdicciones activas.
+
+Grado de resolubilidad de acuerdo con la evaluación de resolubilidad de la entidad.
+
+Ingresos extranjeros netos / ingresos totales*.
+
+Ingresos no correspondientes a intereses / ingresos totales*.
+
+Valor de los pactos de recompra (repos).
+
+Valor de los pactos de recompra inversa.
+
+Posible contagio a través de entidades del conglomerado.
+
+Posible contagio reputacional.
+
+Activos y/o pasivos interbancarios.
+
+Operaciones de préstamo de valores.
+
+Volúmenes o valores de operaciones de mercado*.
+
+Importancia para un SIP del que la entidad es miembro.
+
+Emisión significativa de deuda garantizada.
+
+Deuda titulizada.
+
+Servicios de pago proporcionados*.
+
+Conectividad desde y hacia sistemas bancarios extranjeros.
+
+Conectividad desde y hacia entidades no bancarias en el extranjero.
+
+Activos mantenidos para negociar.
+
+Nota: Para los indicadores señalados con *, el Banco de España seleccionará el alcance adecuado (España, la UE, una región determinada, ámbito mundial, etc.).
+
+## ANEJO III — Estados que hay que remitir sobre riesgo de tipo de interés
+
+![1](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16556.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16598.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16636.png)
+
+![4](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16673.png)
+
+![5](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16710.png)
+
+![6](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16746.png)
+
+![7](https://www.boe.es/datos/imagenes/disp/2016/34/01238_16779.png)
+
+## ANEJO IV — Estados que hay que remitir sobre remuneraciones
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_2023-23052_01.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/272/23052_13787240_12.png)
+
+> Se sustituye por el que se indica en el Anejo I de la Circular 3/2023, de 31 de octubre. [Ref. BOE-A-2023-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23052)
+
+> Se sustituye este anejo por el que figura en el anejo II de la Circular 3/2022, de 30 de marzo, según establece la norma primera.57. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Redactado el estado RM1 conforme a la corrección de errores publicada en BOE núm. 182, de 29 de julio de 2016. [Ref. BOE-A-2016-7305](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7305).
+
+## ANEJO V — Identificación de los conglomerados financieros
+
+ESTADO CF1
+
+Importe en miles de euros
+
+|  | Importe o porcentaje |
+|---|---|
+| A. Balance total del sector de seguros del grupo |  |
+| B. Balance total de las entidades del sector financiero del grupo |  |
+| C. (A/B)*100 <sup>1</sup> |  |
+| D. Requerimientos de capital de solvencia obligatorio del sector de seguros del grupo |  |
+| E. Requerimientos de fondos propios del sector bancario y de servicios de inversión |  |
+| F. % Requerimientos de solvencia del sector de seguros sobre requerimientos totales de solvencia de las entidades del sector financiero del grupo ([D/(D+E)]*100) <sup>1</sup> |  |
+| G. Valor medio de C y F ([C+F]/2)<sup>1</sup> |  |
+
+<sup>1</sup> El porcentaje se expresará con dos decimales.
+
+## ANEJO VI — Información sobre titulaciones
+
+| Artículo del Reglamento (UE) n.º 575/2013 aplicable a la titulización. | < 244(2), 244(3), 245(2), 245(3) > |
+|---|---|
+| Opciones de compra a favor del originador incluidas en la transacción. | < sí, no > |
+| Tipo de activos subyacentes. | (RMBS, CMBS, préstamos a estudiantes, préstamos corporativos, *trade finance…)* |
+| Divisa de referencia. |  |
+| Nocional de la transacción. | miles de millones (mm) |
+
+| Exposiciones ponderadas por riesgo (RWA) antes de la titulización | mm |
+|---|---|
+| Deducciones de capital antes de la titulización | mm |
+| Equivalente en exposiciones ponderadas por riesgo de las deducciones de capital antes de la titulización | Deducciones de capital antes de la titulización / 8% (mm) |
+| Equivalente en exposiciones ponderadas por riesgo totales antes de la titulización | RWA equivalente de las deducciones de capital antes de la titulización + RWA antes de la titulización (mm) |
+
+| Exposiciones ponderadas por riesgo tras la titulización en los tramos retenidos | mm |
+|---|---|
+| Deducciones de capital tras la titulización | mm |
+| Equivalente en exposiciones ponderadas por riesgo de las deducciones de capital tras la titulización | Deducciones de capital tras la titulización / 8% (mm) |
+| Equivalente en exposiciones ponderadas por riesgo totales tras la titulización | RWA equivalente de las deducciones de capital tras la titulización + RWA tras la titulización de los tramos retenidos (mm) |
+
+| Reducción de exposiciones ponderadas por riesgo conseguida con la titulización | Total RWA equivalente antes de la titulización – total RWA equivalente tras la titulización (mm) |
+|---|---|
+| Reducción de exposiciones ponderadas por riesgo conseguida con la titulización (en %) | Reducción de RWA conseguida con la titulización / total RWA equivalente antes de la titulización (%) |
+
+| Tramo de primera pérdida | mm |
+|---|---|
+| Tramo de primera pérdida (en %) | % |
+| ¿Tramo de primera pérdida retenido ? | < sí, no > |
+| % del tramo de primera pérdida retenido | % |
+
+| Tramo de riesgo intermedio | mm |
+|---|---|
+| Tramo de riesgo intermedio (en %) | % |
+| ¿Tramo de riesgo intermedio retenido? | < sí, no > |
+| % del tramo de riesgo intermedio retenido | % |
+
+| Tramo preferente | mm |
+|---|---|
+| Tramo preferente (en %) | % |
+| ¿Tramo preferente retenido? | < sí, no > |
+| % del tramo preferente retenido | % |
+
+| Nivel de mejora crediticia del riesgo vendido (punto de *attachment)* (en %) | % |
+|---|---|
+| Nivel de mejora crediticia del riesgo vendido más grosor del tramo vendido (punto de *detachment*) (en %) | % |
+| Tamaño de la cartera de referencia | mm |
+
+| Pérdida esperada (EL) | mm |
+|---|---|
+| Pérdida esperada (en %) EL / tamaño de la cartera de referencia (%) |  |
+| Pérdida esperada + Pérdida inesperada (UL) | mm |
+| Pérdida esperada + Pérdida inesperada (en %) | (EL+UL) / tamaño de la cartera de referencia (%) |
+| % de riesgo transferido según la entidad originadora | % |
+
+> Se modifica la primera tabla en la forma establecida en el anejo III de la Circular 3/2022, de 30 de marzo, según establece la norma primera.58. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## ANEJO VII — Estados que hay que remitir sobre riesgo de liquidez
+
+**(Suprimido)**
+
+> Se suprime este anejo por la norma primera.59 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## ANEJO VIII — DETALLE DEL COLECTIVO IDENTIFICADO
+
+| Entidad<br> (1) | Nombre<br> (2) | Cargo<br> (3) | Nombre de la unidad: negocio/control(4) | Función: toma/control/otras(5) | Criterio: cualitativo/cuantitativo/interno(6) | % capital interno asignado<br>a la unidad de negocio(7) | Nombre de comités de asistencia(8) | Nivel de reporte del comité(9) | Atribuciones máximas<br>del comité en % s/CET1(10) | Nivel de facultades de riesgos<br>o de aprobación de la persona(11) | Reporta a alta dirección o consejo(12) | Remuneración total(13) | Ratio de remuneración variable y fija(14) |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+(1) Entidad donde se encuentra prestando servicios el miembro del colectivo identificado.
+
+(2) Nombre completo.
+
+(3) Cargo que desempeña en la entidad o responsabilidades en el grupo.
+
+(4) Nombre de la unidad, departamento, etc.
+
+(5) Función realizada: toma de riesgo, control de riesgo u otras funciones.
+
+(6) Criterio: indicación del criterio por el que la persona es considerada miembro del colectivo identificado (cualitativo, cuantitativo o interno).
+
+(7) Capital interno asignado a la unidad de negocio a la que pertenece, en su caso, según se establece en el artículo 3.5) del Reglamento Delegado 604/2014, de 4 de marzo de 2014.
+
+(8) Indicar el nombre del comité o comités a los que pertenece.
+
+(9) Indicar a qué comité superior u órgano reporta el comité al que pertenece.
+
+(10) Atribuciones máximas del comité al que pertenece, en su caso, la persona como porcentaje del Common Equity Tier 1 (CET1), según establece el artículo 3.11) del Reglamento Delegado.
+
+(11) Atribuciones máximas del miembro del colectivo identificado en términos nominales (millones de euros).
+
+(12) Indicar si el miembro del colectivo identificado reporta a la alta dirección o al consejo.
+
+(13) Remuneración total en el último año según se establece en el artículo 4.1.a) del Reglamento Delegado.
+
+(14) Ratio de remuneración variable sobre retribución fija en el último año a efectos del artículo 34.1.g) de la Ley 10/2014.
+
+## ANEJO IX — CCAS1
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/306/21220_10797531_1.png)
+
+> Se añade por la norma única.g) de la Circular 5/2021, de 22 de septiembre. [Ref. BOE-A-2021-21220](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21220)

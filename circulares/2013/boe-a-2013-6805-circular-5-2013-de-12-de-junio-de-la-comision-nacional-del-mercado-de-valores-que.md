@@ -1,0 +1,539 @@
+---
+title: "Circular 5/2013, de 12 de junio, de la Comisión Nacional del Mercado de Valores, que establece los modelos de informe anual de gobierno corporativo de las sociedades anónimas cotizadas, de las cajas de ahorros y de otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores"
+identifier: "BOE-A-2013-6805"
+eli: "https://www.boe.es/eli/es/cir/2013/06/12/5"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Comisión Nacional del Mercado de Valores"
+date: 2013-06-12
+published: 2013-06-24
+in_force_from: 2013-06-25
+last_amended: 2021-10-09
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 150"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-6805"
+retrieved: 2026-10-11
+---
+
+# Circular 5/2013, de 12 de junio, de la Comisión Nacional del Mercado de Valores, que establece los modelos de informe anual de gobierno corporativo de las sociedades anónimas cotizadas, de las cajas de ahorros y de otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores
+
+Esta norma pasa a denominarse "**Circular 5/2013, de 12 de junio, de la Comisión Nacional del Mercado de Valores, que establece los modelos de informe anual de gobierno corporativo de las sociedades anónimas cotizadas y de las cajas de ahorro que emitan valores admitidos a negociación en mercados regulados**", según establece la norma segunda.1 de la Circular 3/2021, de 28 de septiembre. [Ref. BOE-A-2021-16391](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16391)
+
+La Orden ECC/461/2013, de 20 de marzo, por la que se determinan el contenido y la estructura del informe anual de gobierno corporativo, del informe anual sobre remuneraciones y de otros instrumentos de información de las sociedades anónimas cotizadas, de las cajas de ahorros y otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores; reorganiza y completa los requisitos de transparencia establecidos en la Ley 24/1988, de 28 de julio, del Mercado de Valores, y el Real Decreto-ley 11/2010, de 9 de julio, de órganos de gobierno y otros aspectos del régimen jurídico de las cajas de ahorros, en relación con los informes anuales de gobierno corporativo.
+
+La disposición final segunda de la Orden ECC/461/2013, de 20 de marzo, faculta a la Comisión Nacional del Mercado de Valores para detallar el contenido y estructura de los informes anuales de gobierno corporativo previstos en sus artículos 5, 6 y 7, a cuyo efecto podrá establecer modelos o impresos con arreglo a los cuales las diferentes entidades deberán hacer públicos dichos informes anuales.
+
+Por tanto, en ejecución de las habilitaciones contenidas en la citada orden ministerial, en esta Circular se detalla el contenido y estructura de los modelos de referencia con arreglo a los cuales las sociedades anónimas cotizadas, las cajas de ahorros y otras entidades que emitan valores admitidos a negociación en mercados oficiales de valores, deberán presentar y difundir sus informes anuales de gobierno corporativo.
+
+En su virtud, el Consejo de la Comisión Nacional del Mercado de Valores, en su reunión de 12 de junio de 2013, en uso de las facultades conferidas, previo informe de su Comité Consultivo, ha dispuesto:
+
+## Norma primera. Modelo de informe anual de gobierno corporativo de las sociedades anónimas cotizadas.
+
+1\. El informe anual de gobierno corporativo de las sociedades anónimas cotizadas regulado en el artículo 5 de la Orden ECC/461/2013, de 20 de marzo, se ajustará en cuanto a formato, contenido y estructura, al modelo definido en el anexo I de la presente Circular.
+
+2\. Sin perjuicio de lo anterior, las sociedades que no cumplan las recomendaciones del Código de Buen Gobierno de las sociedades cotizadas que se indican a continuación, no están obligadas a cumplimentar los correspondientes apartados del anexo I:
+
+En relación con la recomendación 14, el apartado C.1.7.
+
+En relación con la recomendación 19, el apartado C.1.8.
+
+En relación con la recomendación 22, los apartados C.1.36 y C.1.37.
+
+En relación con la recomendación 27, el apartado C.1.26.
+
+En relación con la recomendación 36, el apartado C.1.17, segundo apartado y C.1.18.
+
+En relación con la recomendación 42.2.c), el apartado C.1.31.
+
+En todo caso, en el capítulo “G” del informe anual de gobierno corporativo se incluirán las explicaciones oportunas cuando la sociedad no siga, o siga parcialmente, las recomendaciones del Código de buen gobierno de las sociedades cotizadas.
+
+> Se modifica el apartado 2 por la norma segunda.2 de la Circular 1/2020, de 6 de octubre. [Ref. BOE-A-2020-12141](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12141)
+
+> Se modifica el apartado 2 por la norma segunda.2 de la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+> Téngase en cuenta la disposición final única para su aplicación.
+
+> Se modifica el apartado 2 por la norma 1.1 de la Circular 7/2015, de 22 de diciembre. [Ref. BOE-A-2015-14289](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14289).
+
+## Norma segunda. Modelo de informe anual de gobierno corporativo de otras entidades –distintas a las Cajas de ahorros– que emitan de valores que se negocien en mercados regulados.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Circular 3/2021, de 28 de septiembre. [Ref. BOE-A-2021-16391](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16391)
+
+## Norma tercera. Modelo de informe anual de gobierno corporativo de las cajas de ahorros que emitan valores admitidos a negociación en mercados regulados.
+
+1\. El informe anual de gobierno corporativo de las cajas de ahorros que emitan valores admitidos a negociación en mercados regulados regulado en el artículo 6 de la Orden ECC/461/2013, de 20 de marzo, se ajustará en cuanto a formato, contenido y estructura, al modelo definido en el anexo III de la presente Circular.
+
+2\. Sin perjuicio de lo anterior, las cajas de ahorros que no emitan cuotas participativas que se negocien en mercados regulados, no están obligadas a cumplimentar los correspondientes apartados del modelo definido en el anexo III de la presente Circular que se indican a continuación:
+
+Del apartado A.1.1, la «fecha de nombramiento» de los consejeros generales.
+
+Del apartado A.2.1, la identidad de los miembros del consejo que no ostentan la condición de consejero general.
+
+Del apartado A.2.14, el «número de reuniones del consejo sin la asistencia del Presidente».
+
+Apartados A.2.21; A.2.23; A.2.24; A.2.35; A.2.38.
+
+Epígrafe B: Cuotas Participativas.
+
+> Se modifica por la norma segunda.2 de la Circular 3/2021, de 28 de septiembre. [Ref. BOE-A-2021-16391](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16391)
+
+## Norma cuarta. Modelo de informe anual de gobierno corporativo de entidades que integran el sector público institucional que emitan valores que se negocien en mercados regulados.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Circular 3/2021, de 28 de septiembre. [Ref. BOE-A-2021-16391](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16391)
+
+> Se modifica por la norma segunda.4 de la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+> Téngase en cuenta la disposición final única para su aplicación.
+
+## Norma quinta. Instrucciones de cumplimentación.
+
+Al elaborar los informes anuales de gobierno corporativo, las entidades tendrán en cuenta las instrucciones de cumplimentación que acompañan a cada uno de los respectivos modelos que les sean de aplicación, de los definidos en los anexos I, II, III y IV en la presente Circular.
+
+Estas mismas instrucciones deberán tenerse en cuenta en la cumplimentación de los anexos estadísticos mencionados en la Norma sexta.
+
+> Se modifica por la norma segunda.5 de la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+> Téngase en cuenta la disposición final única para su aplicación. Su anterior numeración era norma cuarta.
+
+## Norma sexta. Forma de remisión del informe anual de gobierno corporativo.
+
+1\. Para su difusión como otra información relevante y a los efectos del tratamiento de la información con fines estadísticos, así como la publicación de información prevista en el apartado 5 del artículo 540 del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, los informes previstos en las normas primera, segunda, tercera y cuarta de la presente circular serán objeto de presentación en el Registro Electrónico de la CNMV, de acuerdo con lo establecido en la Resolución del Presidente de la Comisión Nacional del Mercado de Valores de 16 de noviembre de 2011, por la que se crea y regula el Registro Electrónico de la CNMV, como documento electrónico normalizado, cuando corresponda, o en formato PDF las entidades que opten por presentar los informes en formato libre, acompañados, en ese caso, por el correspondiente anexo estadístico a través del trámite habilitado en el servicio CIFRADOC/CNMV.
+
+2\. La obligación de remisión se entenderá cumplida cuando la entidad reciba por vía telemática de la CNMV un mensaje de incorporación correcta del correspondiente informe y, en su caso, del correspondiente anexo estadístico.
+
+3\. Las entidades sujetas al alcance de los modelos establecidos en las Normas primera y segunda, que así lo deseen, podrán presentar el informe anual de gobierno corporativo en formato PDF libre, sin utilizar el documento electrónico normalizado, siempre que se respete el contenido del modelo definido en las citadas Normas, según corresponda, siendo este informe, acompañado en ese caso por el correspondiente anexo estadístico, el que se difundirá a través de la CNMV y el que formará parte del Informe de gestión.
+
+4\. Las entidades a las que se refiere el párrafo anterior que utilicen un formato libre deberán necesariamente acompañar y publicar el informe anual con un anexo estadístico, que se ajustará, en todo caso, en cuanto formato, contenido y estructura, al modelo definido en el anexo V o VI, según corresponda, de la presente Circular y que se presentará, como documento electrónico normalizado, a través del trámite habilitado a tal efecto en el servicio CIFRADOC/CNMV. Tanto el informe anual de gobierno corporativo en formato libre como el anexo estadístico correspondiente deberán presentarse de forma simultánea.
+
+5\. Las cajas de ahorros que emitan valores admitidos a negociación en mercados regulados que lo deseen también podrán presentar el informe anual de gobierno corporativo en formato PDF libre, siempre que se respete el contenido del modelo definido en la Norma tercera. Las cajas de ahorros que opten por remitir el informe anual en formato libre no deberán remitir anexo estadístico.
+
+6\. Las entidades que integran el sector público institucional deberán remitir su informe anual de gobierno corporativo en formato PDF respetando el contenido y formato establecido en el modelo a que se refiere la norma cuarta.
+
+7\. No obstante lo dispuesto en los apartados anteriores y a solicitud de la entidad, la CNMV con carácter excepcional y por causas justificadas, podrá autorizar que los informes previstos en las normas primera, segunda, tercera y cuarta de la presente Circular sean remitidos por otro medio en el modelo que proceda, sin que ello exima a la entidad obligada de la posterior remisión del informe y, en su caso, del anexo estadístico, a través del trámite habilitado a tal efecto en el servicio CIFRADOC/CNMV.
+
+> Se modifica por la norma segunda.3 de la Circular 1/2020, de 6 de octubre. [Ref. BOE-A-2020-12141](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12141)
+
+> Téngase en cuenta la disposición final para su aplicación. En cuanto al informe anual correspondiente al ejercicio 2020, véase la disposición transitoria de la citada Circular.
+
+> Se añade por la norma segunda.6 de la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+> Téngase en cuenta la disposición final única para su aplicación. Su anterior numeración era norma quinta.
+
+## Disposición derogatoria única.
+
+Quedan derogadas las normas 1.ª1, 1.ª2, 2.ª en cuanto a las disposiciones establecidas para el Informe Anual de Gobierno Corporativo, 3.ª, 4.ª, 5.ª y 6.ª de la Circular 1/2004, de 17 de marzo, de la Comisión Nacional del Mercado de Valores, sobre el informe anual de gobierno corporativo de las sociedades anónimas cotizadas y otras entidades emisoras de valores admitidos a negociación en mercados secundarios oficiales de valores, y otros instrumentos de información de las sociedades anónimas cotizadas.
+
+Queda derogada la Circular 4/2007, de 27 de diciembre, de la Comisión Nacional del Mercado de Valores, por la que se modifica el modelo de informe anual de gobierno corporativo de las sociedades anónimas cotizadas.
+
+Quedan derogadas las normas 1.ª1, 1.ª2, 2.ª, 3.ª, 4.ª y 5.ª y las disposiciones adicionales primera y segunda de la Circular 2/2005, de 21 de abril, de la Comisión Nacional del Mercado de Valores, sobre el informe anual de gobierno corporativo y otra información de las cajas de ahorros que emitan valores admitidos a negociación en mercados secundarios oficiales.
+
+## Norma final.
+
+La presente Circular entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y resultará de aplicación a los informes anuales de gobierno corporativo que las entidades deban presentar a partir del 1 de enero de 2014.
+
+Madrid, 12 de junio de 2013.–La Presidenta de la Comisión Nacional del Mercado de Valores, María Elvira Rodríguez Herrer.
+
+## MODELO ANEXO I — Informe anual de Gobierno Corporativo de las Sociedades Anónimas Cotizadas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image26.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image27.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image28.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image29.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image30.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image31.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image32.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image33.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image34.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image35.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image36.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image37.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image38.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image39.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image40.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image41.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image42.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image43.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image44.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image45.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image46.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image47.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image48.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image49.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image50.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image51.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image52.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image53.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image54.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image55.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image56.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image57.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image58.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image59.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image60.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image61.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image62.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image63.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image64.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image65.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image66.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image67.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image68.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image69.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image70.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image71.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image72.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image73.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image74.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image75.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image76.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image77.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image78.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image79.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image80.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image81.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image82.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image83.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image84.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image85.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image86.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image87.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image88.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image89.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image90.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image91.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image92.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image93.png)
+
+> Se sustituye por el recogido en el anexo I del apéndice II de la Circular 3/2021, de 28 de septiembre, según establece la norma segunda.3. [Ref. BOE-A-2021-16391](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16391)
+
+> Téngase en cuenta la disposición final para su aplicación.
+
+> Se sustituye por el recogido en el anexo I del apéndice II de la Circular 1/2020, de 6 de octubre, según establece la norma segunda.1. [Ref. BOE-A-2020-12141](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12141)
+
+> Téngase en cuenta la disposición final para su aplicación.
+
+> Se sustituye por el recogido en el anexo I del apéndice II de la Circular 2/2018, de 12 de junio, según establece la norma segunda.1. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+> Téngase en cuenta la disposición final única para su aplicación.
+
+> Se sustituye por la norma 1.2 de la Circular 7/2015, de 22 de diciembre. [Ref. BOE-A-2015-14289](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14289).
+
+## ANEXO II
+
+![65](https://www.boe.es/datos/imagenes/disp/2018/171/09935_11834.png)
+
+![66](https://www.boe.es/datos/imagenes/disp/2018/171/09935_11907.png)
+
+![67](https://www.boe.es/datos/imagenes/disp/2018/171/09935_11980.png)
+
+![68](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12053.png)
+
+![69](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12126.png)
+
+![70](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12198.png)
+
+![71](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12269.png)
+
+![72](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12341.png)
+
+![73](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12413.png)
+
+![74](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12486.png)
+
+![75](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12557.png)
+
+![76](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12629.png)
+
+![77](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12701.png)
+
+![78](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12774.png)
+
+![79](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12846.png)
+
+![80](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12920.png)
+
+![81](https://www.boe.es/datos/imagenes/disp/2018/171/09935_12991.png)
+
+![82](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13066.png)
+
+![83](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13139.png)
+
+![84](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13212.png)
+
+![85](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13284.png)
+
+![86](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13356.png)
+
+![87](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13428.png)
+
+![88](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13533.png)
+
+![89](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13607.png)
+
+![90](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13678.png)
+
+![91](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13751.png)
+
+![92](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13822.png)
+
+![93](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13893.png)
+
+![94](https://www.boe.es/datos/imagenes/disp/2018/171/09935_13965.png)
+
+![95](https://www.boe.es/datos/imagenes/disp/2018/171/09935_14037.png)
+
+> Se sustituye por el recogido en el anexo II del apéndice II de la Circular 2/2018, de 12 de junio, según establece la norma segunda.3. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+> Téngase en cuenta la disposición final única para su aplicación.
+
+> Se sustituye por la norma 1.3 de la Circular 7/2015, de 22 de diciembre. [Ref. BOE-A-2015-14289](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14289).
+
+## ANEXO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_079.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_080.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_081.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_082.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_083.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_084.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_085.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_086.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_087.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_088.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_089.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_090.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_091.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_092.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_093.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_094.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_095.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_096.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_097.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_098.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_099.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_100.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_101.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_102.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_103.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_104.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_105.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_106.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_107.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_108.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_109.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_110.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_111.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/150/06805_112.png)
+
+## ANEXO IV
+
+![96](https://www.boe.es/datos/imagenes/disp/2018/171/09935_14109.png)
+
+![97](https://www.boe.es/datos/imagenes/disp/2018/171/09935_14181.png)
+
+![98](https://www.boe.es/datos/imagenes/disp/2018/171/09935_14253.png)
+
+![99](https://www.boe.es/datos/imagenes/disp/2018/171/09935_14326.png)
+
+![100](https://www.boe.es/datos/imagenes/disp/2018/171/09935_14400.png)
+
+> Se añade por la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+## ANEXO V — Estadístico del informe anual de Gobierno Corporativo de las Sociedades Anónimas Cotizadas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image94.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image95.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image96.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image97.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image98.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image99.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image100.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image101.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image102.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image103.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image104.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image105.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image106.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image107.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image108.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image109.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image110.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image111.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image112.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image113.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image114.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image115.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image116.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image117.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image118.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image119.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image120.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image121.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image122.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image123.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image124.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2021/242/16391_10460069_image125.png)
+
+> Se sustituye por el recogido en el anexo V del apéndice II de la Circular 3/2021, de 28 de septiembre, según establece la norma segunda.4. [Ref. BOE-A-2021-16391](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16391)
+
+> Téngase en cuenta la disposición final para su aplicación.
+
+> Se sustituye por el recogido en el anexo V del apéndice II de la Circular 1/2020, de 6 de octubre, según establece la norma segunda.1. [Ref. BOE-A-2020-12141](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12141)
+
+> Se añade por la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)
+
+## ANEXO VI
+
+![129](https://www.boe.es/datos/imagenes/disp/2018/171/09935_16631.png)
+
+![130](https://www.boe.es/datos/imagenes/disp/2018/171/09935_16703.png)
+
+![131](https://www.boe.es/datos/imagenes/disp/2018/171/09935_16776.png)
+
+![132](https://www.boe.es/datos/imagenes/disp/2018/171/09935_16848.png)
+
+![133](https://www.boe.es/datos/imagenes/disp/2018/171/09935_16921.png)
+
+![134](https://www.boe.es/datos/imagenes/disp/2018/171/09935_16992.png)
+
+![135](https://www.boe.es/datos/imagenes/disp/2018/171/09935_17064.png)
+
+> Se añade por la Circular 2/2018, de 12 de junio. [Ref. BOE-A-2018-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9935)

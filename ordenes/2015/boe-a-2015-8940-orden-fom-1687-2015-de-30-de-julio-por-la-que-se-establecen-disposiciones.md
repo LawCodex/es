@@ -1,0 +1,271 @@
+---
+title: "Orden FOM/1687/2015, de 30 de julio, por la que se establecen disposiciones complementarias sobre las marcas de nacionalidad y de matrícula de las aeronaves civiles"
+identifier: "BOE-A-2015-8940"
+eli: "https://www.boe.es/eli/es/o/2015/07/30/fom1687"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2015-07-30
+published: 2015-08-10
+in_force_from: 2015-09-10
+last_amended: 2023-01-05
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 190"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8940"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/1687/2015, de 30 de julio, por la que se establecen disposiciones complementarias sobre las marcas de nacionalidad y de matrícula de las aeronaves civiles
+
+Incluye la corrección de errores publicada en BOE núm. 242, de 9 de octubre de 2015. [Ref. BOE-A-2015-10872](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10872).
+
+El Anexo 7 al Convenio sobre Aviación Civil Internacional (Chicago 1944), Marcas de nacionalidad y de matrícula de las aeronaves, ha sido incorporado al ordenamiento jurídico español a través del Reglamento de Marcas de Nacionalidad y de Matrícula de las Aeronaves Civiles, cuyo texto refundido fue publicado por la Resolución de la Subsecretaría de Aviación Civil de 17 de noviembre de 1977, en aplicación de lo dispuesto en la Orden de 22 de septiembre de 1977, y de conformidad con lo dispuesto en el artículo 23 de la Ley 48/1960, de 21 de julio, de Navegación Aérea.
+
+Esta orden, que sustituye a la citada resolución, actualiza el régimen de las marcas de nacionalidad y matrícula e incorpora la última enmienda al Anexo 7 del Convenio sobre Aviación Civil Internacional antes citado. Además, incluye la regulación especial de las aeronaves históricas o destinadas a acrobacias con el fin de recoger en la misma norma todo lo relacionado con esta materia.
+
+El Reglamento de Matriculación de Aeronaves Civiles, aprobado por Real Decreto 384/2015, de 22 de mayo, que entrará en vigor el 1 de diciembre de 2015, establece los distintivos de nacionalidad y matrícula y su composición, mantiene la habilitación para su desarrollo por el Ministerio de Fomento y remite a dicho desarrollo en el régimen aplicable sobre la materia. Este reglamento cuando entre en vigor, sustituirá al vigente aprobado por Decreto 416/1969, de 13 de marzo.
+
+En la tramitación de esta orden se ha dado audiencia a las organizaciones representativas del sector aeronáutico.
+
+Esta orden se dicta al amparo de la competencia estatal sobre matriculación de aeronaves, establecida en el artículo 149.1.20.ª de la Constitución.
+
+En su virtud, a propuesta de la Dirección General de Aviación Civil, con la conformidad de la Secretaria General de Transporte y del Secretario de Estado de Infraestructuras, Transporte y Vivienda, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado, dispongo:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Esta orden tiene por objeto completar el régimen aplicable en materia de marcas de nacionalidad y de matrícula de las aeronaves civiles matriculadas en España.
+
+2\. Las disposiciones de esta orden no se aplicarán a los globos piloto meteorológicos, utilizados exclusivamente para fines meteorológicos, ni a aquellas aeronaves que estén exentas de su inscripción en el Registro de Matrícula de Aeronaves.
+
+## Artículo 2. Definiciones.
+
+1\. A los efectos de esta orden se entiende por:
+
+a) Aeronaves históricas, las que cumplan los criterios establecidos en el anexo I, apartado 1, letra a), del Reglamento (UE) 2018/1139 del Parlamento Europeo y del Consejo, de 4 de julio de 2018, sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea y por el que se modifican los Reglamentos (CE) número 2111/2005, (CE) número 1008/2008, (UE) número 996/2010, (CE) número 376/2014 y las Directivas 2014/30/UE y 2014/53/UE del Parlamento Europeo y del Consejo y se derogan los Reglamentos (CE) número 552/2004 y (CE) número 216/2008 del Parlamento Europeo y del Consejo y el Reglamento (CEE) número 3922/91 del Consejo, así como reproducciones de las mismas cuyo diseño estructural sea similar al de la aeronave original.
+
+b) Aeronave no tripulada, la definida en el artículo once, letra b), de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea.
+
+c) Material incombustible, material capaz de resistir el calor tan bien como el acero o mejor que éste, cuando las dimensiones, en ambos casos, son apropiadas para un fin determinado.
+
+d) Ornitóptero, aerodino que principalmente se mantiene en vuelo en virtud de reacciones que ejerce el aire sobre planos a los cuales se imparte un movimiento de batimiento.
+
+2\. Al resto de los conceptos utilizados en esta orden les serán de aplicación las definiciones contenidas en el Reglamento de Circulación Aérea, adoptado por Real Decreto 57/2002, de 18 de enero, y en el Reglamento de Ejecución (UE) n.º 923/2012, de la Comisión, de 26 de septiembre de 2012, por el que se establecen el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos de navegación aérea y por el que se modifican los Reglamento (CE) n.º 1035/2011, y los Reglamentos (CE) n.º 1265/2007, (CE) 1794/2006, (CE) n.º 730/2006, (CE) n.º 1033/2006 y (UE) n.º 255/2010.
+
+> Se modifican las letras a) y b) del apartado 1 por el art. único.1 de la Orden TMA/1354/2022, de 16 de diciembre. [Ref. BOE-A-2023-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-159)
+
+## Artículo 3. Clasificación de las aeronaves.
+
+1\. A los efectos de esta orden, las aeronaves se clasificarán de conformidad con lo establecido en el anexo I.
+
+2\. Sin perjuicio de la definición del artículo 2.1, letra b), los globos libres no tripulados se clasificarán, a los efectos de esta orden, además de conforme a lo previsto en el apartado 1, como aeronaves no tripuladas.
+
+> Se modifica el apartado 2 por el art. único.2 de la Orden TMA/1354/2022, de 16 de diciembre. [Ref. BOE-A-2023-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-159)
+
+## Artículo 4. Colocación, dimensiones y tipo de caracteres de las marcas de nacionalidad y de matrícula de las aeronaves civiles.
+
+1\. La marca de nacionalidad y la de matrícula se pintará sobre la aeronave o se fijarán a la misma de cualquier otra forma que les dé una permanencia similar. Las marcas deberán aparecer limpias y visibles en todo momento.
+
+2\. La colocación de las marcas de nacionalidad y matrícula, su tamaño, el tipo de sus caracteres y la exhibición de los colores de la bandera se ajustará a lo previsto en el anexo II.
+
+Cualquier marca, figura, emblema o escudo distinto de los previstos en este artículo podrá pintarse en la aeronave siempre que garantice que en el aspecto conjunto de ésta destacan las marcas de nacionalidad y matrícula y los colores de la bandera.
+
+3\. El tamaño de las marcas en los casos en los que, conforme a lo previsto en el anexo II, letra B, puede reducirse será el que en cada caso fije la Agencia Estatal de Seguridad Aérea, previa solicitud del titular u operador de la aeronave, la necesidad de que la aeronave pueda ser identificada fácilmente
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 242, de 9 de octubre de 2015. [Ref. BOE-A-2015-10872](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10872).
+
+## Artículo 5. Placa de identificación.
+
+1\. Toda aeronave matriculada en España llevará una placa de identificación en la que aparezcan inscritas, por lo menos, su marca de nacionalidad y la marca de matrícula. La placa en cuestión será de metal incombustible o de otro material incombustible que posea propiedades físicas adecuadas.
+
+2\. La placa de identificación se fijará a la aeronave en un lugar visible, cerca de una entrada principal o, en el caso de una aeronave no tripulada, se fijará, de modo que sea visible, cerca de la entrada o el compartimento principal, o bien, se fijará de modo que sobresalga, en la parte exterior de la aeronave si no hay entrada o compartimento principal.
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden TMA/1354/2022, de 16 de diciembre. [Ref. BOE-A-2023-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-159)
+
+## Artículo 6. Aeronaves no tripuladas, históricas o destinadas a acrobacias.
+
+1\. Previa autorización de la Agencia Estatal de Seguridad Aérea, siempre que permitan que la aeronave sea identificada fácilmente:
+
+a) Las aeronaves no tripuladas, las históricas y sus réplicas, y aquellas que realicen actividades de acrobacia aérea podrán ostentar las marcas de nacionalidad y matrícula en tamaño reducido.
+
+b) Además, las aeronaves históricas, sus réplicas y las aeronaves que realicen actividades de acrobacia aérea, incluidas, en su caso, las no tripuladas podrán exhibir la matrícula original o cualquier otro anagrama identificativo como parte de la decoración, además de las marcas de nacionalidad y matrícula de la aeronave.
+
+En el caso de aeronaves históricas que hubieran estado incluidas en el Registro de Aeronaves de la Defensa, para la autorización de uso de marcas de nacionalidad y matrícula originales se recabará la conformidad del Ministerio de Defensa.
+
+2\. En la solicitud de autorización se hará constar la descripción de las características técnicas de la aeronave, las causas invocadas y la propuesta de ubicación y tamaño de las marcas de nacionalidad y matrícula, así como, en su caso, de la matrícula original o anagrama identificativo que pretende exhibirse como decoración, mediante plano a escala comprensivo de las necesarias vistas de la aeronave en alzado, perfiles y plantas.
+
+Deberá justificarse documentalmente la concurrencia de las condiciones determinantes de su condición de histórica o de su actividad de acrobacia aérea, según corresponda.
+
+3\. La autorización de la Agencia Estatal de Seguridad Aérea para el uso de la matricula original conforme a lo previsto en el apartado 1, letra b), podrá limitar dicho uso a actividades concretas, tales como exhibiciones u otro tipo de demostraciones aéreas.
+
+4\. Las autorizaciones previstas en este artículo se adoptarán por el Director de Seguridad de Aeronaves de la Agencia Estatal de Seguridad Aérea en el plazo máximo de tres meses desde la fecha de solicitud. Contra el acuerdo por el que se conceda o deniegue la autorización podrá interponerse dentro del plazo de un mes recurso de alzada ante el Director de la Agencia Estatal de Seguridad Aérea, conforme a lo previsto en el artículo 4.3 de su Estatuto, aprobado por Real Decreto 184/2008, de 8 de febrero.
+
+Transcurrido el plazo de tres meses previsto en el párrafo anterior sin que se haya dictado resolución expresa, el interesado podrá entender estimada su solicitud por silencio administrativo conforme a lo previsto en el artículo 43.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica la denominación y el apartado 1 por el art. único.4 de la Orden TMA/1354/2022, de 16 de diciembre. [Ref. BOE-A-2023-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-159)
+
+## Disposición transitoria única. Normas transitorias.
+
+Mientras que las marcas de matrícula se sigan componiendo de tres letras, en su asignación no deberán usarse combinaciones que puedan confundirse con las combinaciones de tres letras que, comenzado con Q, se usan en el Código Q, ni con la señal de auxilio SOS, u otras señales de urgencia similares, como XXX, PAN y TTT, utilizadas conforme al Reglamento Internacional de Telecomunicaciones.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga la resolución de la Subsecretaría de Aviación Civil de 17 de noviembre de 1977, por la que se aprueba el texto refundido del Reglamento de Marcas de Nacionalidad y de Matrícula de las Aeronaves Civiles, salvo lo dispuesto en su artículo único, apartados 2.2, 2.3 y 2.4, que permanecerán vigentes hasta el 30 de noviembre de 2015.
+
+Asimismo, se deroga la Resolución de 16 de abril de 1991, de la Dirección General de Aviación Civil, por la que se autoriza por razones culturales e históricas de especial relevancia, a pintar en las aeronaves las marcas de identificación en tamaño reducido, y cualquier otra disposición de inferior o igual rango que se oponga o contradiga lo dispuesto en esta orden.
+
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta en el ejercicio de las competencias en materia de control del espacio aéreo, tránsito y transporte aéreo, y matriculación de aeronaves que el artículo 149.1.20.ª atribuye al Estado con carácter exclusivo.
+
+## Disposición final segunda. Circular aeronáutica.
+
+De conformidad con lo previsto en el artículo 8 de la Ley 21/2003, de 7 de julio, el Director General de Aviación Civil podrá adoptar, mediante Circular aeronáutica, disposiciones de carácter secundario y contenido técnico que completen y precisen lo previsto en esta orden mediante la adaptación de los anexos a las normas y recomendaciones de la Organización de Aviación Civil Internacional (OACI).
+
+## Disposición final tercera. Facultades de ejecución.
+
+La Agencia Estatal de Seguridad Aérea podrá dictar cuantas medidas sean precisas para la ejecución de esta orden; en particular, en relación con la aplicación de los criterios relativos a la definición de aeronave histórica contenidos en el anexo II, letra a) del Reglamento n.º 216/2008 del Parlamento Europeo y del Consejo, de 20 de febrero de 2008, sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia Europea de Seguridad Aérea, y se deroga la Directiva 91/670/CEE del Consejo, el Reglamento (CE) n.º 1592/2002 y la Directiva 2004/36/CE, previo informe del Ministerio de Defensa cuando la aeronave sea de origen militar, y la reducción del tamaño de las marcas de nacionalidad y de matrícula.
+
+## Disposición final cuarta. Entrada en vigor.
+
+Esta orden entrará en vigor al mes de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 30 de julio de 2015.
+
+La Ministra de Fomento,
+
+Ana María Pastor Julián
+
+## ANEXO I — Clasificación de aeronaves
+
+1\. Las aeronaves se clasifican en aerostatos y aerodinos.
+
+2\. Los aeróstatos, se clasifican en:
+
+a) Aeróstatos no propulsados por motor y, éstos, en:
+
+1.º Globo libre:
+
+(i) Globo libre esférico.
+
+(ii) Globo libre no esférico
+
+2.º Globo cautivo:
+
+(i) Globo cautivo esférico
+
+(ii) Globo cautivo no esférico<sup>1</sup>, generalmente conocido como «globo-cometa».
+
+b) Aeróstatos propulsado por motor, los dirigibles. Y éstos en:
+
+1.º Dirigible rígido.
+
+2.º Dirigible semirrígido.
+
+3.º Dirigible no rígido.
+
+3\. Los aerodinos se clasifican en:
+
+a) Aerodinos no propulsados por motor, los planeador/cometa<sup>4.</sup>
+
+1.º Planeador terrestre.
+
+2.º Planeador acuático<sup>2.</sup>
+
+b) Aerodinos propulsados por motor. Y éstos, en:
+
+1.º Avión:
+
+(i) Avión terrestre<sup>3</sup>.
+
+(ii) Hidroavión<sup>2</sup>.
+
+(iii) Anfibio<sup>2</sup>.
+
+2.º Giroavión:
+
+(i) Giroplano:
+
+– Giroplano terrestre<sup>3</sup>
+
+– Giroplano acuático<sup>2</sup>
+
+– Giroplano anfibio<sup>2</sup>
+
+(ii) Helicóptero:
+
+– Helicóptero terrestre<sup>3</sup>
+
+– Helicóptero acuático<sup>2</sup>
+
+– Helicóptero anfibio<sup>2</sup>
+
+3.º Ornitóptero:
+
+(i) Ornitóptero terrestre<sup>3</sup>.
+
+(ii) Ornitóptero acuático<sup>2</sup>.
+
+(iii) Ornitóptero anfibio<sup>2</sup>.
+
+<sup>1</sup> Generalmente conocido por «globo-cometa».
+
+<sup>2</sup> Pueden añadirse, según proceda, las palabras «flotador» o «casco».
+
+<sup>3</sup> Incluso aeronaves equipadas con tren de aterrizaje con esquís (sustitúyase la palabra «terrestre» por «esquís»).
+
+<sup>4</sup> Solamente con el fin de suministrar información completa.
+
+## ANEXO II — Normas técnicas aplicables a la colocación de las marcas de nacionalidad y matrícula, su tamaño, el tipo de sus caracteres y la exhibición de los colores de la bandera
+
+A) Colocación de las marcas de nacionalidad y matrícula.
+
+1\. En los aeróstatos las marcas de nacionalidad y matrícula se ubicarán en la siguiente forma:
+
+a) En los dirigibles se colocarán bien sea en la envoltura o en los planos estabilizadores. En el primer caso se orientarán a lo largo, a uno y otro lado del dirigible, y también se colocarán en la parte superior, sobre el eje de simetría. En el segundo caso irán en los estabilizadores horizontal y vertical. El estabilizador horizontal llevará las marcas en la cara superior del lado derecho y en la cara inferior del lado izquierdo, con la parte superior de las letras y números hacia el borde de ataque. El estabilizador vertical llevará las marcas en ambas caras de la mitad inferior, de modo que las letras y los números se lean horizontalmente.
+
+b) En los globos esféricos que no sean globos libres no tripulados, las marcas deberán aparecer en dos lugares diametralmente opuestos, y colocarse cerca del ecuador del globo.
+
+c) En los globos no esféricos que no sean globos libres no tripulados, las marcas deberán aparecer en cada lado, y deberán colocarse cerca de la máxima sección transversal del globo, por encima de la banda de cordaje o de los puntos de conexión de los cables de suspensión de la barquilla y lo más cerca posible de los mismos.
+
+d) Con relación al emplazamiento de las marcas de nacionalidad y matrícula será preferentemente horizontal; aceptándose la ubicación de manera vertical siempre que la disposición de las letras sea horizontal, en este último caso la matrícula se escribirá de arriba a abajo.
+
+En todo caso, las marcas laterales deberán ser visibles desde los lados y desde el suelo.
+
+2\. En los aerodinos las marcas se ostentarán, una sola vez, en el intradós del ala. Se colocarán en la mitad izquierda del intradós del ala, a no ser que se extiendan sobre la totalidad de dicho intradós. Las marcas se colocarán, siempre que sea posible, a igual distancia de los bordes de ataque y de salida de las alas. La parte superior de las letras y números deberá orientarse hacia el borde de ataque del ala.
+
+Además, las marcas deberán aparecer a cada lado del fuselaje o estructura equivalente, entre las alas y las superficies de la cola, o en las mitades superiores de las superficies verticales de cola. Cuando se coloquen en una sola superficie vertical de cola, deberán aparecer en ambos lados; y si hay más de un plano vertical de cola, deberán aparecer en la cara de afuera de los planos exteriores.
+
+No obstante, si un aerodino no posee las partes mencionadas en los párrafos anteriores, las marcas deberán aparecer en forma tal que permitan identificar fácilmente a la aeronave.
+
+B) Dimensiones de las marcas de nacionalidad y matrícula.
+
+1\. Los caracteres de cada grupo aislado de marcas serán de la misma altura.
+
+2\. En los aerostatos que no sean globos libres no tripulados, la altura de las marcas será, por lo menos, de 50 cm. No obstante, podrá reducirse el tamaño de las marcas cuando el aerostato no posea partes de tamaño adecuado para colocar las marcas con el tamaño previsto con carácter general.
+
+3\. En los aerodinos, la altura de las marcas será, por lo menos, de 50 cm en las alas y de 30 cm en el fuselaje o estructura equivalente y en las superficies verticales de cola. No obstante, cuando las partes correspondientes del aerodino sean demasiado pequeñas para colocar las marcas del tamaño previsto en el párrafo anterior, podrá reducirse el tamaño de estas marcas.
+
+C) Tipo de los caracteres empleados.
+
+1\. Las letras de las marcas de nacionalidad y matrícula serán mayúsculas y la anchura de cada uno de los caracteres, excepto la letra I, y la longitud de los guiones, serán dos tercios de la altura de los caracteres.
+
+2\. Los caracteres y guiones estarán constituidos por líneas continuas y serán de un color que contraste claramente con el fondo. El grosor de las líneas será igual a una sexta parte de la altura de los caracteres.
+
+3\. Cada uno de los caracteres estará separado, del que inmediatamente le preceda o siga, por un espacio por lo menos igual a la cuarta parte de la anchura de un carácter. A este fin, el guion se considerará como un carácter.
+
+D) Colocación y dimensiones de los colores de la bandera de España.
+
+1\. En la aeronave se pintará o se fijará de cualquier otra forma que le dé una permanencia similar una franja con los colores de la bandera nacional, o la propia bandera nacional, que deberá colocarse:
+
+(i) En los aerostatos que no sean globos libres no tripulados, junto a las marcas de nacionalidad y matrícula o justo encima o debajo de ella. Como alternativa, se permite la colocación de la bandera nacional en el cabo de corona, preferiblemente en su tercio inferior.
+
+(ii) En los aerodinos, cuando se exhiba la franja con los colores de la bandera, en el fuselaje de la aeronave o, alternativamente, a través de toda la superficie vertical de cola, por encima de la parte superior de las marcas de nacionalidad y matrícula y paralela a las mismas y a la línea de vuelo. Cuando se exhiba la propia bandera, podrá colocarse en cualquier superficie exterior, a ambos lados de la aeronave.
+
+2\. La altura de la franja con los colores de la bandera o la propia bandera, será, al menos, la que corresponda a las marcas de nacionalidad y matrícula según el apartado B de este anexo, incluida la reducción del tamaño cuando proceda conforme a dicho apartado.
+
+3\. Si la superficie sobre la que se pinta o fija la bandera nacional es de uno de los colores de la propia bandera, o si tiene un diseño que dificulta su identificación, la bandera se enmarcará en un recuadro de otro color, de suficiente grosor para facilitar su distinción.
+
+> Se añade la letra d) al apartado A).1 y se modifica el apartado D) por el art. único.5 y 6 de la Orden TMA/1354/2022, de 16 de diciembre. [Ref. BOE-A-2023-159](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-159)

@@ -1,0 +1,221 @@
+---
+title: "Real Decreto 1024/2015, de 13 de noviembre, por el que se aprueba el Reglamento del Consejo Asesor de Ciencia, Tecnología e Innovación"
+identifier: "BOE-A-2015-13250"
+eli: "https://www.boe.es/eli/es/rd/2015/11/13/1024"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Competitividad"
+date: 2015-11-13
+published: 2015-12-07
+in_force_from: 2015-12-08
+last_amended: 2023-12-21
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 292"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-13250"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1024/2015, de 13 de noviembre, por el que se aprueba el Reglamento del Consejo Asesor de Ciencia, Tecnología e Innovación
+
+El artículo 9 de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación crea el Consejo Asesor de Ciencia, Tecnología e Innovación, adscrito al Ministerio de Economía y Competitividad, como órgano de participación de la comunidad científica y tecnológica y de los agentes económicos y sociales en los asuntos relacionados con la ciencia, la tecnología y la innovación.
+
+De acuerdo con la mencionada Ley 14/2011, de 1 de junio, en este Consejo Asesor estarán representados miembros de la comunidad científica y tecnológica de reconocido prestigio internacional, así como las asociaciones empresariales y los sindicatos más representativos. Al menos dos tercios de los miembros del Consejo Asesor deberán pertenecer a la categoría de miembros destacados de la comunidad científica, tecnológica o innovadora.
+
+El Consejo Asesor de Ciencia, Tecnología e Innovación, una vez aprobada por mayoría cualificada de sus miembros reunidos el 25 de abril de 2013, ha elevado la propuesta de reglamento que este real decreto contiene, cumpliendo con lo establecido en el mencionado artículo 9 de la Ley 14/2011, de 1 de junio.
+
+Este real decreto se dicta conforme a lo dispuesto en el apartado 4 del artículo 9 de la Ley 14/2011, de 1 de junio.
+
+En su virtud, a propuesta del Ministro de Economía y Competitividad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación en Consejo de Ministros en su reunión del día 13 de noviembre de 2015,
+
+DISPONGO:
+
+### Artículo único. Aprobación del reglamento del Consejo Asesor de Ciencia, Tecnología e Innovación.
+
+Se aprueba el reglamento del Consejo Asesor de Ciencia, Tecnología e Innovación, cuyo texto se inserta en este real decreto.
+
+### Disposición adicional primera. No incremento del gasto público.
+
+El funcionamiento del Consejo Asesor de Ciencia, Tecnología e Innovación no implicará aumento del gasto, y su organización y funcionamiento serán atendidos con los medios personales y materiales del Ministerio de Ciencia, Innovación y Universidades.
+
+> Se modifica por el art. 1 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Disposición adicional segunda. Lenguaje no sexista.
+
+De conformidad con el artículo 14.11 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, todas las denominaciones que, en virtud del principio de economía del lenguaje, se hagan en género masculino inclusivo en el reglamento que este real decreto aprueba y referidas a titulares o miembros de órganos o a colectivos de personas, se entenderán realizadas tanto en género femenino como en masculino.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 413/2001, de 20 de abril, por el que se regula el Consejo Asesor para la Ciencia y la Tecnología y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 13 de noviembre de 2015.
+
+FELIPE R.
+
+El Ministro de Economía y Competitividad,
+
+LUIS DE GUINDOS JURADO
+
+## REGLAMENTO DEL CONSEJO ASESOR DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
+
+### Artículo 1. Disposiciones generales.
+
+1\. El Consejo Asesor de Ciencia, Tecnología e Innovación, en adelante el Consejo Asesor, creado de acuerdo a lo establecido en el artículo 9 de la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, es el órgano de participación de la comunidad científica y tecnológica y de los agentes económicos y sociales en los asuntos relacionados con la ciencia, la tecnología y la innovación, adscrito al Ministerio de Ciencia, Innovación y Universidades, a través del Consejo de Política Científica, Tecnológica y de Innovación.
+
+2\. Son funciones del Consejo Asesor las enumeradas en el apartado 2 del artículo 9 de la Ley 14/2011, de 1 de junio.
+
+3\. El Consejo Asesor realizará sus funciones y ajustará su actuación a este reglamento y de acuerdo con los principios de calidad, independencia y transparencia.
+
+> Se modifica el apartado 1 por el art. 2.1 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+## CAPÍTULO I — Composición y organización del Consejo Asesor
+
+### Artículo 2. Miembros del Consejo Asesor.
+
+El Consejo Asesor está constituido por el número de miembros que determine el Consejo de Política Científica, Tecnológica y de Innovación, en el que están representados miembros de la comunidad científica y tecnológica de reconocido prestigio internacional, así como las asociaciones empresariales, los sindicatos más representativos y otros representantes de la sociedad civil, teniendo en cuenta, además, los siguientes criterios:
+
+a) Al menos dos tercios de las personas que integren el Consejo Asesor deben pertenecer a la categoría de miembros, de prestigio contrastado, de la comunidad científica, tecnológica o innovadora, garantizándose que su formación y experiencia reúna a personas de diferentes ámbitos de conocimiento dentro de la I+D+I.
+
+b) La designación de las personas en representación de la comunidad científica, tecnológica o innovadora y en representación de la sociedad civil se realizará a partir de una convocatoria abierta de expresión de interés, mediante la cual las personas interesadas en formar parte de este Consejo Asesor presentarán su solicitud en el plazo y forma previsto.
+
+c) Debe haber, al menos, una persona que forme parte de la Conferencia de Rectores de las Universidades Españolas.
+
+d) Debe haber, al menos, una persona en representación de empresas cuyo objeto social esté ligado a la investigación, desarrollo e innovación, que será designada por el Consejo de Política Científica, Tecnológica y de Innovación.
+
+e) Debe haber, al menos, una persona en representación de las asociaciones empresariales y otra en representación de las organizaciones sindicales más representativas.
+
+f) Se atenderá al principio de presencia equilibrada de mujeres y hombres en el Consejo Asesor.
+
+Corresponde al Consejo de Política Científica, Tecnológica y de Innovación la designación de los miembros del Consejo Asesor. El Ministerio de Ciencia, Innovación y Universidades dará publicidad, a través de la página web del departamento, de la composición del Consejo Asesor de Ciencia, Tecnología e Innovación.
+
+> Se modifica por el art. 2.2 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 3. Mandato y cese de los miembros del Consejo Asesor.
+
+1\. Las personas que formen parte del Consejo Asesor serán designadas por un periodo de cuatro años, pudiendo ser renovado su mandato una sola vez y por igual periodo.
+
+Las vacantes producidas por causas distintas a la de expiración del mandato, serán cubiertas con arreglo al mismo procedimiento utilizado para la designación de la persona que hubiese causado vacante y por el tiempo que reste hasta completar los cuatro de años del mandato, sin perjuicio de la posibilidad de renovación por una sola vez y por un periodo de cuatro años.
+
+La renovación de los miembros se realizará por mitades cada dos años, salvo la primera renovación, que se realizará por sorteo.
+
+2\. Los consejeros cesarán por cualquiera de las siguientes causas:
+
+a) Expiración del plazo de permanencia en el Consejo Asesor.
+
+b) Renuncia.
+
+c) Revocación de su designación por acuerdo del Consejo de Política Científica, Tecnológica y de Innovación, en el supuesto de incumplimiento grave de sus funciones.
+
+d) Incapacidad permanente, apreciada por el Consejo Asesor, previa audiencia del interesado, y reconocida por acuerdo del Consejo de Política Científica, Tecnológica y de Innovación.
+
+> Se modifica el apartado 1 por el art. 2.3 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 4. Presidencia y vicepresidencia.
+
+1\. El Consejo de Política Científica, Tecnológica y de Innovación nombrará, de entre los miembros del Consejo Asesor, a su presidente, que deberá tener prestigio reconocido en el ámbito de la investigación científica y técnica o de la innovación.
+
+2\. El presidente del Consejo Asesor nombrará al vicepresidente de entre sus miembros, a propuesta de al menos dos tercios de los consejeros.
+
+### Artículo 5. Funciones de la presidencia y de la vicepresidencia.
+
+1\. El presidente ostenta la representación del Consejo Asesor, fija el orden del día del Consejo Asesor, convoca y preside las sesiones, dirime las votaciones en caso de empate y, en su caso, dispone la ejecución de los acuerdos.
+
+2\. El vicepresidente sustituirá al presidente en caso de vacante, ausencia o enfermedad. Por otra parte, realizará las funciones que la presidencia le haya delegado.
+
+### Artículo 6. La secretaría.
+
+La secretaría del Consejo Asesor corresponderá a la persona titular del órgano que determine el real decreto de estructura del Ministerio de Ciencia, Innovación y Universidades.
+
+> Se modifica por el art. 2.4 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 7. Funciones de la secretaría.
+
+De acuerdo con lo previsto por el artículo 16 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, serán funciones de la secretaría del Consejo Asesor velar por la legalidad formal y material de las actuaciones del órgano colegiado, certificar las actuaciones del mismo y garantizar que los procedimientos y reglas de constitución y adopción de acuerdos son respetadas.
+
+> Se modifica por el art. 2.5 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 8. El pleno y sus funciones.
+
+1\. Formarán parte del pleno del Consejo Asesor los consejeros mencionados en el artículo 2.
+
+2\. Corresponde al Consejo Asesor el ejercicio de las siguientes funciones:
+
+a) Asesorar al Ministerio de Ciencia, Innovación y Universidades en la elaboración de la propuesta de Estrategia Española de Ciencia, Tecnología e Innovación e informar dicha propuesta.
+
+b) Asesorar al Ministerio de Ciencia, Innovación y Universidades en la elaboración de la propuesta del Plan Estatal de Investigación Científica y Técnica y de Innovación e informar dicha propuesta.
+
+c) Proponer a iniciativa propia objetivos y modificaciones para su incorporación a los instrumentos indicados en los párrafos a) y b) anteriores, y conocer su desarrollo posterior mediante informes anuales.
+
+d) Asesorar a los Gobiernos del Estado y de las comunidades autónomas y al Consejo de Política Científica, Tecnológica y de Innovación en el ejercicio de sus funciones, e informar los asuntos que éstos determinen.
+
+e) Promover la introducción en el Sistema Español de Ciencia, Tecnología e Innovación de mecanismos rigurosos de evaluación que permitan medir la eficacia social de los recursos públicos utilizados, incluidos los aspectos relativos a la dimensión y perspectiva de género.
+
+f) Autorizar la participación en las reuniones del propio pleno de expertos externos, con voz pero sin voto, cuando así se proponga por la Presidencia o por un consejero de forma motivada y la naturaleza de las materias que deban ser tratadas así lo aconseje.
+
+g) Acordar la constitución de los grupos de trabajo a los que se refiere el artículo siguiente, así como la participación en los mismos de expertos externos.
+
+h) Aprobar, con el voto favorable de la mayoría absoluta de los consejeros, cualquier propuesta de modificación de este reglamento, que deberá ser tramitada y aprobada posteriormente mediante real decreto.
+
+3\. La Presidencia del Consejo Asesor, por decisión propia o a propuesta de un consejero, podrá invitar a personas que tengan la consideración de alto cargo o la condición de empleado público del Ministerio de Ciencia, Innovación y Universidades, de otros departamentos ministeriales u organismos o entidades del sector público estatal vinculadas, dependientes o adscritos a los mismos, o de otras administraciones públicas cuando la naturaleza de las materias incluidas en el orden del día de la reunión lo aconseje, que actuarán con voz pero sin voto.
+
+> Se modifica por el art. 2.6 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 9. Grupos de trabajo.
+
+1\. De acuerdo con el artículo anterior, el pleno podrá acordar la constitución de grupos de trabajo para realizar estudios, documentos e informes sobre los asuntos que se les encomienden.
+
+2\. Los grupos de trabajo estarán integrados por miembros del Consejo Asesor y, en su caso, expertos externos, y estarán coordinados en todo caso por un miembro del Consejo Asesor.
+
+3\. Los estudios, documentos e informes de los grupos de trabajo no tendrán carácter vinculante para el pleno del Consejo Asesor.
+
+## CAPÍTULO II — Funcionamiento del Consejo Asesor
+
+### Artículo 10. Reuniones del pleno.
+
+1\. La Presidencia convocará el pleno del Consejo Asesor, al menos, una vez al semestre y, además, cuando deba informar los asuntos que tengan carácter preceptivo y los que le someta el Consejo de Política Científica, Tecnológica y de Innovación o los Gobiernos del Estado y de las Comunidades Autónomas, así como a petición de un tercio de los consejeros. En este último caso, si existe urgencia no deberá transcurrir un plazo superior a quince días desde la petición hasta la celebración de la reunión. En todo caso, la convocatoria debe ir acompañada del orden del día.
+
+2\. Para la válida constitución del pleno del Consejo Asesor se requerirá la asistencia, presencial o a distancia, de la Presidencia y la Secretaría o en su caso, de las personas que les suplan, además de la mitad, al menos, de sus miembros.
+
+En segunda convocatoria el Consejo Asesor se entenderá válidamente constituido cuando asistan, además de la Presidencia y la Secretaría o, en su caso, de las personas que les suplan, un tercio de sus miembros.
+
+3\. Los acuerdos se adoptarán por mayoría de votos, dirimiendo los empates el presidente mediante su voto de calidad.
+
+> Se modifica por el art. 2.7 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 11. Normas de funcionamiento.
+
+1\. El funcionamiento del Consejo Asesor, en lo no regulado por este reglamento, se ajustará a lo dispuesto en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+2\. El Consejo Asesor se podrá constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia, en los términos previstos en el artículo 17.1 de la Ley 40/2015, de 1 de octubre.
+
+3\. Para el correcto ejercicio de las funciones descritas en el artículo 8 de este real decreto, y en particular de aquellas que tienen carácter preceptivo, el Consejo Asesor será consultado con una antelación adecuada, que no podrá ser inferior a un mes, salvo casos de urgencia.
+
+4\. Asimismo, el Ministerio de Ciencia, Innovación y Universidades colaborará con el Consejo Asesor para el mejor ejercicio de sus funciones de asesoramiento y propuesta.
+
+> Se modifica por el art. 2.8 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 12. Plazo de emisión de los informes.
+
+Los informes del Consejo Asesor que le sean solicitados por los Gobiernos del Estado y de las comunidades autónomas o por el Consejo de Política Científica, Tecnológica y de Innovación y a los que se refiere la letra d) del apartado 2 del artículo 9 de la Ley 14/2011, de 1 de junio, se evacuarán en el plazo máximo de cuatro meses, contados a partir de la fecha en que el Consejo Asesor reciba la solicitud del organismo que tenga atribuida la competencia. No obstante, el Consejo de Política Científica, Tecnológica y de Innovación podrá solicitar que el informe se realice en trámite de urgencia, en cuyo caso el plazo de emisión no será superior a quince días.
+
+### Artículo 13. Memoria anual.
+
+El Consejo Asesor elaborará anualmente una memoria sobre las actividades desarrolladas en el ejercicio de sus funciones, que podrá incluir recomendaciones y orientaciones técnicas en el ámbito de sus competencias.
+
+Esta memoria será remitida al Ministerio de Ciencia, Innovación y Universidades en el primer semestre del año siguiente.
+
+> Se modifica por el art. 2.9 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+### Artículo 14. Apoyo administrativo.
+
+Las funciones de apoyo administrativo al Consejo Asesor y a los grupos de trabajo que se constituyan serán desempeñadas por la persona titular del órgano que determine el real decreto de estructura del Ministerio de Ciencia, Innovación y Universidades.
+
+> Se añade por el art. 2.10 del Real Decreto 1014/2023, de 5 de diciembre. [Ref. BOE-A-2023-25884](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-25884)
+
+> Su anterior numeración era art. 13.

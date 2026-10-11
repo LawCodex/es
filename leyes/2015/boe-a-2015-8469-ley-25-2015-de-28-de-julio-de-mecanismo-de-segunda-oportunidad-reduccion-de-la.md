@@ -1,0 +1,1465 @@
+---
+title: "Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de la carga financiera y otras medidas de orden social"
+identifier: "BOE-A-2015-8469"
+eli: "https://www.boe.es/eli/es/l/2015/07/28/25"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2015-07-28
+published: 2015-07-29
+in_force_from: 2015-07-30
+last_amended: 2020-05-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 180"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8469"
+retrieved: 2026-10-11
+---
+
+# Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de la carga financiera y otras medidas de orden social
+
+Incluye la corrección de errores publicada en BOE núm. 296, de 11 de diciembre de 2015. [Ref. BOE-A-2015-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13432).
+
+FELIPE VI
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
+
+PREÁMBULO
+
+I
+
+La economía española lleva ya algunos meses dando signos esperanzadores de recuperación y consolidando un crecimiento económico que, merced a las reformas estructurales llevadas a cabo en los últimos años, está teniendo un efecto beneficioso en el empleo y en la percepción general de la situación que tienen los ciudadanos, las empresas y las diferentes instituciones.
+
+Pero ello no debe llevar a olvidar dos cosas: la primera es que la salida de la crisis es ante todo y sobre todo un éxito de la sociedad española en su conjunto, la cual ha dado una vez más muestras de su sobrada capacidad para sobreponerse a situaciones difíciles. La segunda es que todavía existen muchos españoles que siguen padeciendo los efectos de la recesión. Y es misión de los poderes públicos no cejar nunca en el empeño de ofrecer las mejores soluciones posibles a todos los ciudadanos, a través de las oportunas reformas encaminadas al bien común, a la seguridad jurídica y, en definitiva, a la justicia.
+
+En este ámbito se enmarca de manera muy especial la llamada legislación sobre segunda oportunidad. Su objetivo no es otro que permitir lo que tan expresivamente describe su denominación: que una persona física, a pesar de un fracaso económico empresarial o personal, tenga la posibilidad de encarrilar nuevamente su vida e incluso de arriesgarse a nuevas iniciativas, sin tener que arrastrar indefinidamente una losa de deuda que nunca podrá satisfacer.
+
+La experiencia ha demostrado que cuando no existen mecanismos de segunda oportunidad se producen desincentivos claros a acometer nuevas actividades e incluso a permanecer en el circuito regular de la economía. Ello no favorece obviamente al propio deudor, pero tampoco a los acreedores ya sean públicos o privados. Al contrario, los mecanismos de segunda oportunidad son desincentivadores de la economía sumergida y favorecedores de una cultura empresarial que siempre redundará en beneficio del empleo.
+
+A esta finalidad responde la primera parte de esta Ley, por la que se regulan diversos mecanismos de mejora del Acuerdo Extrajudicial de Pagos, introducido en nuestra legislación concursal por la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, y se introduce un mecanismo efectivo de segunda oportunidad para las personas físicas destinado a modular el rigor de la aplicación del artículo 1911 del Código Civil. Conviene explicar brevemente cuáles son los principios inspiradores de la regulación introducida a este respecto.
+
+El concepto de persona jurídica es una de las creaciones más relevantes del Derecho. La ficción consistente en equiparar una organización de bienes y personas a la persona natural ha tenido importantes y beneficiosos efectos en la realidad jurídica y económica. Mediante dicha ficción, las personas jurídicas, al igual que las naturales, nacen, crecen y mueren. Además, el principio de limitación de responsabilidad inherente a determinadas sociedades de capital hace que éstas puedan liquidarse y disolverse (o morir en sentido metafórico), extinguiéndose las deudas que resultaren impagadas tras la liquidación, y sin que sus promotores o socios tengan que hacer frente a las eventuales deudas pendientes una vez liquidado todo el activo.
+
+Puede afirmarse que el principio de limitación de responsabilidad propio de las sociedades de capital está en buena medida en el origen del desarrollo económico de los tres últimos siglos. En el fondo, este principio de limitación de la responsabilidad se configuró como un incentivo a la actividad empresarial y a la inversión. El legislador incentivaba la puesta en riesgo de determinados capitales garantizando que dichos capitales serían la pérdida máxima del inversor, sin posibilidad de contagio a su patrimonio personal.
+
+Pero la limitación de responsabilidad es una limitación de responsabilidad de los socios, que no de la sociedad, la cual habrá de responder de sus deudas con todo su patrimonio presente y futuro. La cuestión que se plantea entonces es el fundamento último para el diferente régimen de responsabilidad que se produce cuando una persona natural decide acometer una actividad empresarial a través de una persona jurídica interpuesta y cuando esa misma persona natural contrae obligaciones de forma directa. Si en el primer caso podrá beneficiarse de una limitación de responsabilidad, en el segundo quedará sujeta al principio de responsabilidad patrimonial universal recogido en el artículo 1911 del Código Civil.
+
+Además, muchas situaciones de insolvencia son debidas a factores que escapan del control del deudor de buena fe, planteándose entonces el fundamento ético de que el ordenamiento jurídico no ofrezca salidas razonables a este tipo de deudores que, por una alteración totalmente sobrevenida e imprevista de sus circunstancias, no pueden cumplir los compromisos contraídos. No puede olvidarse con ello que cualquier consideración ética a este respecto debe cohonestarse siempre con la legítima protección que el ordenamiento jurídico debe ofrecer a los derechos del acreedor, así como con una premisa que aparece como difícilmente discutible: el deudor que cumple siempre debe ser de mejor condición que el que no lo hace.
+
+Introducidas de este modo las premisas del problema a resolver acerca del alcance y eventual limitación del principio de responsabilidad patrimonial universal del artículo 1911 del Código Civil, no está de más acudir a los antecedentes históricos de dicho precepto, así como al contexto legislativo del mismo.
+
+La inteligencia completa de este artículo había de completarse con otros dos preceptos del mismo Código Civil ubicados sistemáticamente en el mismo Capítulo. Nos referimos a los hoy derogados artículos 1919 y 1920 del citado cuerpo legal que señalaban respectivamente lo siguiente: «Si el deudor cumpliere el convenio, quedarán extinguidas sus obligaciones en los términos estipulados en el mismo; pero, si dejare de cumplirlo en todo o en parte, renacerá el derecho de los acreedores por las cantidades que no hubiesen percibido de su crédito primitivo, y podrá cualquiera de ellos pedir la declaración o continuación del concurso» y «No mediando pacto expreso en contrario entre deudor y acreedores, conservarán éstos su derecho, terminado el concurso, para cobrar, de los bienes que el deudor pueda ulteriormente adquirir, la parte de crédito no realizada».
+
+Aparecían según estos dos preceptos dos ideas principales: la exoneración de pasivo ligada a un convenio entre deudor y acreedores y a su cumplimiento, así como el principio de limitación de la exoneración en caso de venir el deudor a mejor fortuna, pero también circunscrito al devenir del propio convenio. Pero paradójicamente no parecía haber ninguna previsión relativa a la exoneración del deudor en el caso de que éste hubiese liquidado su patrimonio es decir en el caso de que, simple y llanamente, lo hubiese perdido todo.
+
+El artículo 1920 suscitó bien pronto controversias doctrinales. Manresa, en sus comentarios al Código Civil, señalaba lo siguiente: «Esta disposición, criticada por algunos por dejar en lo incierto los derechos del deudor derivados del convenio, resulta, sin embargo, en extremo justa, si se tienen en cuenta las razones y los motivos, en virtud de los que se autoriza al deudor para celebrar convenios con los acreedores dentro o fuera del juicio de concurso (…) en consideración a las difíciles circunstancias en que se encuentra el que por carecer de bienes bastantes a cubrir su pasivo (…) no puede satisfacer puntualmente todas sus obligaciones; (…) nada extraño tiene (…) que desapareciendo dicha razón por haber cesado las dificultades (…) venga obligado el deudor a satisfacer la parte de crédito no realizada por sus acreedores». Y continuaba el mismo autor señalando que con ello se había conseguido disipar «las dudas que a los intérpretes de nuestro antiguo derecho sugería la inteligencia de la Ley 3.ª del Título 15.º de la Partida 5.ª».
+
+Pero lo cierto es que el artículo 1920 no establecía ninguna gradación de la mejora de fortuna ni tampoco ninguna limitación del derecho de los acreedores a cobrar, de lo que el deudor pudiera ulteriormente adquirir, la parte no satisfecha del crédito. Ello conllevaba una limitación manifiesta de la capacidad del deudor de mejorar de fortuna y también un escaso incentivo para intentar efectivamente dicha mejora.
+
+Y es que la Ley de las Partidas, que en opinión de Manresa había quedado superada por el artículo 1920 del Código Civil, era en cierto modo más favorable al deudor al señalar lo siguiente: «El desamparamiento que faze el debdor de sus bienes (…) ha tal fuerza que después non puede ser el debdor emplazado, nin es tenido de responder en juyzio a aquellos a quien deuiesse algo: fueras ende si oviesse fecho tan gran ganancia, que podría pagar los debdos todos, o parte dellos, e que fincasse a el de que podiesse vivir». Así pues, la Ley de Partidas ya previó la liberación del deudor tras un proceso de liquidación de sus bienes (que no necesariamente de convenio con los acreedores) y además, en cierto modo, estableció una modulación de la mejor fortuna al no permitir que ésta pudiera jugar en perjuicio del deudor salvo cuando éste pudiese pagar todas sus deudas (o, en expresión ciertamente algo confusa, parte de ellas) sin perjuicio de sus propias condiciones de vida, todo ello relacionado con «tan gran ganancia» que en principio debiera considerarse atípica.
+
+Se cumplen en el 2015 exactamente 750 años desde que terminó la redacción de la gran obra legislativa de Alfonso X el Sabio, que ha inspirado durante varios siglos los ordenamientos jurídicos hispanoamericanos, pero sorprende ver cómo en esta materia habían llegado en algunos aspectos a unos preceptos más avanzados que la codificación decimonónica.
+
+La segunda oportunidad que recoge esta Ley responde obviamente a una técnica legislativa más moderna pero se inspira de unos principios ya presentes, como se acaba de demostrar, en nuestro derecho histórico. Siempre debe constituir un motivo de confianza en las normas legales el que sus principios inspiradores no obedezcan a una improvisación, sino antes bien al resultado de muchos años o incluso siglos de reflexión sobre la materia. Es preciso que el legislador huya siempre de toda tentación demagógica que a la larga pueda volverse en contra de aquellos a quienes pretende beneficiar. Para que la economía crezca es preciso que fluya el crédito y que el marco jurídico aplicable dé confianza a los deudores; pero sin minar la de los acreedores, pues en tal caso se produciría precisamente el efecto contrario al pretendido: el retraimiento del crédito o, al menos, su encarecimiento.
+
+Por ello, el mecanismo de segunda oportunidad diseñado por esta Ley establece los controles y garantías necesarios para evitar insolvencias estratégicas o facilitar daciones en pago selectivas. Se trata de permitir que aquél que lo ha perdido todo por haber liquidado la totalidad de su patrimonio en beneficio de sus acreedores, pueda verse liberado de la mayor parte de las deudas pendientes tras la referida liquidación. Y se trata igualmente de cuantificar la mejora de fortuna que, eventualmente, permitirá revocar dicho beneficio por las razones de justicia hacia los acreedores que tan acertadamente expusieron autores como Manresa.
+
+Adicionalmente, se modifica la disposición adicional segunda de la Ley Concursal para explicitar que la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, así como el texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre, constituyen legislación especial aplicable en caso de concurso de determinados tipos de entidades. Esta previsión no afecta al régimen vigente, pues, tal y como prevé el apartado primero de la citada disposición, en el concurso de este tipo de entidades se aplicarán las especialidades previstas en su legislación específica, como es el caso.
+
+Con ello se alcanza el debido equilibrio y la necesaria justicia que debe inspirar cualquier norma jurídica.
+
+Además de la regulación del mecanismo de segunda oportunidad y de la mejora de ciertos institutos pre o paraconcursales, esta Ley contiene otras disposiciones de las cuales se da detalle sistemático a continuación.
+
+II
+
+Esta Ley se estructura en diez artículos, agrupados en dos títulos, seis disposiciones adicionales, cuatro disposiciones transitorias, una disposición derogatoria y veintiuna disposiciones finales.
+
+El título I, bajo la rúbrica «Medidas urgentes para la reducción de la carga financiera», contiene tres artículos de carácter modificativo a través de los que se da nueva redacción a determinados preceptos de otras tantas normas legales: La Ley 22/2003, de 9 de julio, Concursal, el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social.
+
+El título II, «Otras medidas de orden social», se estructura en tres capítulos.
+
+El primero de ellos recoge en sus cuatro artículos una serie de medidas relativas al ámbito tributario y de las Administraciones Públicas, a través de la modificación de aspectos concretos de las siguientes cuatro normas legales: la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio; la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público; el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad y la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+El capítulo II contiene dos medidas relativas al fomento del empleo en el ámbito de la Seguridad Social. Así, por un lado, se establece un nuevo incentivo para la creación de empleo estable, consistente en la fijación de un mínimo exento en la cotización empresarial por contingencias comunes a la Seguridad Social por la contratación indefinida de trabajadores. En segundo lugar, se establecen beneficios de Seguridad Social para aquellos supuestos en los que el profesional autónomo deba atender obligaciones familiares que puedan influir en su actividad.
+
+La parte dispositiva de la Ley se cierra con el Capítulo III, «Medidas relativas al ámbito de la Administración de Justicia», de su Título II, en cuyo único artículo se modifica la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses, para adecuar el régimen de tasas judiciales a la concreta situación de los sujetos obligados al pago de la misma.
+
+Por lo que se refiere a la parte final de esta Ley, las disposiciones adicionales primera a cuarta complementan las modificaciones introducidas por su Título I, al regular las funciones de mediación concursal, la remuneración del mediador concursal, la no preceptividad de la representación del deudor en el concurso consecutivo o la aplicación informática destinada a actuar a modo de medidor de solvencia. Todas estas previsiones regulan cuestiones que están directamente relacionadas con las contenidas en el Título I y que resultan necesarias para su efectividad. En la disposición adicional quinta se regula el impulso y coordinación de la negociación colectiva y en la sexta el informe de evaluación del funcionamiento de la cuenta de garantía arancelaria.
+
+Respecto a las disposiciones transitorias, la primera de ellas establece el régimen transitorio en materia concursal mientras que en la segunda se prevé el régimen aplicable a la contratación indefinida formalizada con anterioridad al 1 de marzo de 2015. En la tercera se hace referencia al arancel de derechos de los administradores concursales y en la cuarta al régimen transitorio de pago con cargo a la cuenta de garantía arancelaria.
+
+La disposición derogatoria se refiere a cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley, y las disposiciones finales establecen determinadas modificaciones legislativas, el título competencial, las habilitaciones para el desarrollo, ejecución y aplicación de la Ley y su entrada en vigor.
+
+III
+
+Las iniciativas contenidas en el título I de esta Ley para permitir que las familias y empresas reduzcan su carga financiera, suponen mejoras adicionales a las que ya se han adoptado durante esta Legislatura destinadas a quienes se encuentran en una situación más cercana a la insolvencia por sus circunstancias económicas y sociales de vulnerabilidad, sean PYMEs y autónomos, o personas naturales en general.
+
+Estas iniciativas se pueden resumir agrupándolas en tres bloques.
+
+En primer lugar, se propone flexibilizar los acuerdos extrajudiciales de pagos y prever un verdadero mecanismo de segunda oportunidad.
+
+En segundo término, se mejora también el «Código de Buenas Prácticas para la reestructuración viable de las deudas con garantía hipotecaria sobre la vivienda habitual», introducido por el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, del que ya se han beneficiado cerca de 14.000 familias.
+
+Por último, se amplía por un plazo adicional de dos años la suspensión de los lanzamientos sobre viviendas habituales de colectivos especialmente vulnerables contenido en la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, así como el colectivo que puede beneficiarse de esta medida.
+
+Por lo que se refiere a los acuerdos extrajudiciales de pago regulados en el Título X de la Ley 22/2003, de 9 de julio, Concursal, las modificaciones contenidas en esta Ley tienen por finalidad flexibilizar su contenido y efectos, asimilando su regulación a la de los acuerdos de refinanciación de la disposición adicional cuarta de la Ley Concursal. Como elementos principales del nuevo régimen están la ampliación de su ámbito de aplicación a las personas naturales no empresarios, regulándose además un procedimiento simplificado para éstas; la posibilidad de extender los efectos del acuerdo a los acreedores garantizados disidentes, lo que supone un avance frente al régimen de sometimiento voluntario vigente con anterioridad; y la potenciación de la figura del mediador concursal, introduciendo la posibilidad de que actúen como tal las Cámaras de Comercio, Industria, Navegación y Servicios, si el deudor es empresario, o los notarios, si se trata de personas naturales no empresarios.
+
+Como novedad fundamental, se instaura un régimen de exoneración de deudas para los deudores persona natural en el marco del procedimiento concursal. El sistema de exoneración tiene dos pilares fundamentales: que el deudor sea de buena fe y que se liquide previamente su patrimonio (o que se declare la conclusión del concurso por insuficiencia de masa).
+
+Cumplidas las anteriores condiciones, el deudor podrá ver exoneradas de forma automática sus deudas pendientes cuando haya satisfecho en su integridad los créditos contra la masa, los créditos concursales privilegiados y, si no ha intentado un acuerdo extrajudicial de pagos, el 25 por ciento de los créditos concursales ordinarios.
+
+Alternativamente, cuando no hayan podido satisfacer los anteriores créditos y siempre que acepte someterse a un plan de pagos durante los 5 años siguientes, el deudor podrá quedar exonerado provisionalmente de todos sus créditos, excepto los públicos y por alimentos, contra la masa y aquéllos que gocen de privilegio general. Para la liberación definitiva de deudas, el deudor deberá satisfacer en ese período las deudas no exoneradas o realizar un esfuerzo sustancial para ello.
+
+Respecto al Código de Buenas Prácticas para deudores hipotecarios, se amplía el ámbito subjetivo, incrementándose el límite anual de renta de las familias beneficiarias, que se calculará con base en el IPREM anual de 14 mensualidades, incluyendo como nuevo supuesto de especial vulnerabilidad que el deudor sea mayor de 60 años e introduciendo una nueva forma de cálculo del límite del precio de los bienes inmuebles adquiridos. Adicionalmente, se introduce la inaplicación definitiva de las cláusulas suelo de aquellos deudores situados en el nuevo umbral de exclusión que las tuvieran incluidas en sus contratos.
+
+Por último, se amplía hasta 2017 el período de suspensión de lanzamientos sobre viviendas habituales de colectivos especialmente vulnerables, y se posibilita, en términos similares a los previstos para el Código de Buenas Prácticas, que más personas puedan acogerse a la suspensión.
+
+IV
+
+El título II de esta Ley contiene diversas medidas de orden social.
+
+Así, en primer lugar, se acometen determinadas medidas en el ámbito tributario destinadas a rebajar la carga fiscal de determinados colectivos especialmente vulnerables. De esta manera, se modifica la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, con la finalidad de permitir a nuevos colectivos la aplicación de las deducciones previstas en el artículo 81 bis de esta Ley.
+
+De esta forma, se extiende el incentivo fiscal no solo a ascendientes que forman parte de familias numerosas sino también a aquellos que forman una familia monoparental con dos descendientes que, entre otros requisitos, dependen y conviven exclusivamente con aquel.
+
+Al mismo tiempo, se permitirá la aplicación de las nuevas deducciones reguladas en dicho artículo a los contribuyentes que perciban prestaciones del sistema público de protección de desempleo o pensiones de los regímenes públicos de previsión social o asimilados y tengan un ascendiente o descendiente con discapacidad a su cargo o formen parte de una familia numerosa o de la familia monoparental señalada anteriormente, y no sólo a los trabajadores por cuenta propia o ajena.
+
+Adicionalmente, se declaran exentas las rentas que se pudieran poner de manifiesto como consecuencia de quitas y daciones en pago de deudas, establecidas en un convenio aprobado judicialmente conforme al procedimiento establecido en la Ley 22/2003, de 9 de julio, Concursal, en un acuerdo de refinanciación judicialmente homologado a que se refiere el artículo 71 bis y la disposición adicional cuarta de dicha Ley, o en un acuerdo extrajudicial de pagos a que se refiere el título X de la misma Ley, siempre que las deudas no deriven del ejercicio de actividades económicas, ya que, en este caso, su régimen está previsto en la disposición final segunda del Real Decreto-ley 4/2014, de 7 de marzo, por el que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial.
+
+Por otra parte, con el objeto de aliviar del cumplimiento de obligaciones formales a las entidades parcialmente exentas, mediante el artículo 7 de esta Ley se establece la exclusión de la obligación de presentar declaración en el Impuesto sobre Sociedades a aquellas entidades cuyos ingresos totales del período impositivo no superen 50.000 euros anuales, siempre que el importe total de los ingresos correspondientes a rentas no exentas no supere 2.000 euros anuales y que todas sus rentas no exentas estén sometidas a retención, que no estén sujetas a la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, ni se trate de partidos políticos.
+
+En segundo lugar, en el ámbito de las Administraciones Públicas, el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, introdujo una serie de medidas en nuestro ordenamiento con la finalidad de homogeneizar los instrumentos existentes en materia de negociación colectiva, representación y participación del personal al servicio de las Administraciones Públicas. Entre otras modificaciones, dicho Real Decreto-ley efectuó una nueva ordenación de las unidades electorales en el ámbito de la Administración General del Estado estableciéndose así un marco adecuado en el que poder hacer efectivo el procedimiento de elección de los representantes de los empleados públicos ante los órganos de negociación y participación. Estos instrumentos de negociación y participación configuran un abanico de garantías para la representación del empleado público, de conformidad con lo previsto por nuestro ordenamiento constitucional, que pretenden afianzar la efectiva defensa de sus derechos e intereses en el ámbito de las Administraciones Públicas.
+
+La Mesa General de Negociación de la Administración General del Estado para materias comunes a personal funcionario, estatutario y laboral y la Mesa General de Negociación del personal funcionario de la Administración General del Estado, en su sesión conjunta celebrada el 31 de julio de 2014, acordaron proponer al Gobierno tres iniciativas de reforma normativa para la mejora de los mecanismos de participación y negociación colectiva en el ámbito de la Administración General del Estado. La finalidad de dicha propuesta consiste en la introducción de una serie de adaptaciones y mejoras técnicas en las medidas de reforma implantadas sobre esta materia por el Real Decreto-ley 20/2012, de 13 de julio.
+
+En primer lugar, se mejora la articulación contenida en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, en materia de órganos de representación del personal estatutario del ámbito sanitario, del personal docente no universitario, así como del correspondiente al personal al servicio de la Administración de Justicia; se trata de colectivos de personal específico que precisan de esta modificación para garantizar su adecuada representación.
+
+En segundo lugar, se introduce una mejora técnica en la redacción actual del artículo 35 del Estatuto Básico del Empleado Público que, al regular la composición y constitución de las Mesas de Negociación, en su versión hasta ahora vigente se refiere únicamente a materias que afectan al personal funcionario, cuando resulta necesario que dicha regulación se haga extensible también a las materias comunes al personal funcionario, estatutario y laboral. Con ello, se pretende dar apoyo legal a lo que hasta ahora es una práctica común en la negociación colectiva: efectuar una negociación global y de conjunto para las distintas tipologías de personal que concurren en la Administración.
+
+Y en tercer lugar, se introduce una nueva disposición adicional en el Estatuto Básico del Empleado Público en materia de Mesas de Negociación correspondientes a ámbitos específicos de negociación, distintos en puridad a los previstos en su artículo 34.4. En este sentido, es en dicho ámbito donde se lleva a cabo la negociación sobre las condiciones de trabajo y, si bien afecta a determinados colectivos de empleados públicos que pueden estar adscritos a distintas Administraciones Públicas, en realidad esta negociación recae sobre la competencia de la Administración General del Estado. Con la introducción de esta disposición adicional, se pretende suplir un importante vacío legal referido a estas Mesas, además de completar la insuficiencia del régimen normativo hasta ahora vigente.
+
+Esta distinta dependencia funcional y orgánica de los empleados públicos, determina que para conformar la representación de las organizaciones sindicales en cada una de las Mesas deban tenerse en cuenta sus respectivos ámbitos de negociación en su conjunto y no el de una Administración Pública determinada como sería el caso de las Mesas Sectoriales reguladas en el artículo 34.4 del Estatuto Básico del Empleado Público.
+
+Se trata, en definitiva, de dotar un marco legal específico y apropiado que permita articular adecuadamente la actividad negociadora en los distintos ámbitos en los que se articula el sistema de negociación, representación y participación en la Administración General del Estado y en la Administración de Justicia.
+
+Esta iniciativa legislativa ha sido impulsada, además, por las propias Mesas Generales de Negociación de la Administración General del Estado a las que se refieren los artículos 36.3 y 34.1 de la Ley 7/2007, de 12 de abril del Estatuto Básico del Empleado Público, que con el acuerdo alcanzado entre la Administración y las organizaciones con mayor representatividad presentes en las mismas, solicitaron su aprobación.
+
+Por cuanto se trata de una modificación propuesta por las citadas Mesas Generales de Negociación, esta propuesta normativa cumple con lo dispuesto en el artículo 37.1 del Estatuto Básico del Empleado Público, habiendo sido objeto de negociación y acuerdo en el seno de las mismas.
+
+Por su parte, en el ámbito de las políticas públicas de empleo y Seguridad Social, la reducción de las cotizaciones empresariales por contingencias comunes a la Seguridad Social por contratación indefinida, aprobada por el Real Decreto-ley 3/2014, de 28 de febrero, de medidas urgentes para el fomento del empleo y la contratación indefinida, y que se articula mediante el establecimiento de una tarifa plana de cotización, ha constituido una medida eficaz para contribuir a la creación de empleo estable.
+
+Así, según los datos de la Encuesta de Población Activa del cuarto trimestre de 2014, el empleo ha crecido en 433.900 personas en los 12 últimos meses, con una variación anual del 2,5 por ciento y el empleo asalariado indefinido se ha incrementado en 212.800 personas, un 2,0 por ciento.
+
+Con el objetivo de consolidar esta evolución positiva de la contratación indefinida y potenciar su impacto para los colectivos con mayores dificultades para la inserción laboral estable, y en cumplimiento de la resolución aprobada por el Congreso de los Diputados con motivo del Debate sobre el Estado de la Nación del 25 de febrero de 2015, mediante el artículo 8 de esta Ley se establece un nuevo incentivo para la creación de empleo estable, consistente en la fijación de un mínimo exento en la cotización empresarial por contingencias comunes a la Seguridad Social por la contratación indefinida de trabajadores.
+
+El establecimiento de un mínimo exento supone la creación de un incentivo de carácter progresivo que reduce en mayor medida las cotizaciones sociales por la contratación estable de trabajadores con menores retribuciones. Con esta medida se pretende favorecer a aquellos colectivos con más dificultades de inserción estable en el mercado laboral, tales como desempleados de larga duración, trabajadores con escasa formación y jóvenes sin experiencia laboral. Estos colectivos se ven más afectados por el desempleo y la temporalidad.
+
+Al amparo de esta nueva regulación, de la que se podrán beneficiar todas las empresas que contraten de forma indefinida y creen empleo neto, los primeros 500 euros de la base mensual correspondiente a contingencias comunes quedarán exentos de cotización empresarial cuando el contrato se celebre a tiempo completo. Cuando el contrato se celebre a tiempo parcial, dicha cuantía se reducirá en proporción al porcentaje en que disminuya la jornada de trabajo, que no podrá ser inferior al 50 por ciento de la jornada de un trabajador a tiempo completo.
+
+Este beneficio en la cotización consistirá en una bonificación, a cargo del Servicio Público de Empleo Estatal, en caso de que el contrato indefinido se formalice con jóvenes inscritos en el Sistema Nacional de Garantía Juvenil, y en una reducción, a cargo del sistema de la Seguridad Social, en los demás supuestos.
+
+Al igual que la tarifa plana de cotización, la bonificación o reducción se aplicará durante un período de 24 meses. En el caso de empresas con menos de diez trabajadores la medida se prolongará durante 12 meses más, quedando exentos durante este último período de la aplicación del tipo de cotización los primeros 250 euros de la base de cotización o la cuantía que proporcionalmente corresponda en los supuestos de contratación a tiempo parcial.
+
+Respecto a los requisitos para disfrutar del nuevo beneficio en la cotización, a los supuestos en que no procede su aplicación, a las incompatibilidades y el reintegro de cantidades por aplicación indebida del mismo, son muy similares a los establecidos para la tarifa plana de cotización en el Real Decreto-ley 3/2014, de 28 de febrero, en aras de la continuidad y simplicidad del sistema.
+
+La aplicación de la bonificación o reducción a que se refiere este artículo 8 no afectará a la determinación de la cuantía de las prestaciones económicas a que puedan causar derecho los trabajadores afectados, que se calculará aplicando el importe íntegro de la base de cotización que les corresponda.
+
+Para el supuesto de contratación indefinida de beneficiarios del Sistema Nacional de Garantía Juvenil, se permite la compatibilización de los incentivos previstos en el artículo 107 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, y también se declara compatible con la ayuda económica de acompañamiento que perciban los beneficiarios del Programa de Activación para el Empleo, en caso de formalizarse el contrato con ellos.
+
+Por otro lado, en cuanto a la medida prevista en el artículo 9, consistente en una bonificación a trabajadores autónomos por conciliación de la vida profesional y familiar vinculada a la contratación, la previsión de la disposición final segunda de la Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo, que establece la convergencia progresiva de los derechos de los trabajadores autónomos en relación con los establecidos para los trabajadores por cuenta ajena incluidos en el Régimen General de la Seguridad Social, hace necesaria la adopción de sucesivas medidas para el cumplimiento de dicho objetivo.
+
+Así, en la línea marcada para la equiparación de los derechos de los trabajadores por cuenta propia frente a los trabajadores por cuenta ajena, y para garantizar la protección de la conciliación de la vida familiar y profesional de los trabajadores por cuenta propia, se incluye una medida de apoyo a los mismos basada en beneficios de Seguridad Social para aquellos supuestos en los que el profesional deba atender obligaciones familiares que puedan influir en su actividad.
+
+Dicha medida consiste en una bonificación en la cuota del trabajador por cuenta propia a la Seguridad Social, en una cuantía vinculada a la base de cotización media de los últimos doce meses del trabajador autónomo, garantizando así la proporcionalidad de la medida.
+
+Además, el disfrute de esta bonificación queda sujeta a la contratación de un trabajador por cuenta ajena, con lo que se cumple un doble objetivo. Por un lado, se adoptan medidas que contribuyan a la viabilidad del proyecto profesional del trabajador autónomo, permitiéndole hacer frente a sus obligaciones familiares, manteniendo su actividad profesional. Por otro lado, al estar vinculada la medida a la contratación de un trabajador por cuenta ajena, se pretende contribuir a la dinamización del mercado de trabajo.
+
+Hay que tener en cuenta que dos de las piezas claves de la política de la Unión Europea son el principio de igualdad entre hombres y mujeres y el fomento del emprendimiento.
+
+Ambos principios convergen en la Directiva 2010/41/UE, del Parlamento Europeo y del Consejo, de 7 de julio de 2010, sobre la aplicación del principio de igualdad de trato entre hombres y mujeres que ejercen una actividad autónoma.
+
+Además, la Comisión Europea presentó el 9 de enero de 2013, el Plan de Acción de Emprendimiento 2020, Plan por el que la Comisión invitaba a los Estados miembros a que apliquen políticas que permitan que las mujeres consigan un equilibrio adecuado entre el trabajo y la vida cotidiana.
+
+La citada Directiva 2010/41/UE establecía que a más tardar el 5 de agosto de 2015 los estados miembros deberán transmitir a la Comisión Europea toda la información disponible sobre la aplicación de la misma.
+
+En este ámbito de la conciliación entre la vida familiar y profesional se enmarca la regulación específica para el colectivo de los trabajadores y trabajadoras autónomas que aborda esta Ley.
+
+Finalmente, por lo que se refiere al artículo 10 de esta Ley, debe indicarse que, transcurrido un plazo razonable desde la adopción del Real Decreto-ley 3/2013, de 22 de febrero, en materia de tasas por el ejercicio de la potestad jurisdiccional, se ha podido constatar que resulta inaplazable atender a la situación económica desfavorable de un importante número de ciudadanos que, no siendo beneficiarios del derecho de asistencia jurídica gratuita, debe ser objeto de atención en cuanto al impacto que sobre ellos está teniendo el sistema de tasas por el ejercicio de la potestad jurisdiccional.
+
+En este sentido, las modificaciones que se introducen conllevan un efecto favorable inmediato, dado que la entrada en vigor de esta Ley supondrá la exención del pago de la tasa por parte de las personas físicas.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 296, de 11 de diciembre de 2015. [Ref. BOE-A-2015-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13432).
+
+## TÍTULO I — Medidas urgentes para la reducción de la carga financiera
+
+#### Artículo 1. Modificación de la Ley 22/2003, de 9 de julio, Concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.u) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 2. Modificación del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos.
+
+Se modifica en los siguientes términos el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos:
+
+Uno. El apartado 1 del artículo 3, queda redactado del siguiente modo:
+
+«1. Se considerarán situados en el umbral de exclusión aquellos deudores de un crédito o préstamo garantizado con hipoteca sobre su vivienda habitual, cuando concurran en ellos todas las circunstancias siguientes:
+
+a) Que el conjunto de los ingresos de los miembros de la unidad familiar no supere el límite de tres veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas. A estos efectos se entenderá por unidad familiar la compuesta por el deudor, su cónyuge no separado legalmente o pareja de hecho inscrita y los hijos, con independencia de su edad, que residan en la vivienda, incluyendo los vinculados por una relación de tutela, guarda o acogimiento familiar.
+
+El límite previsto en el párrafo anterior será de cuatro veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas en caso de que alguno de los miembros de la unidad familiar tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite acreditadamente de forma permanente para realizar una actividad laboral, o de cinco veces dicho indicador, en el caso de que un deudor hipotecario sea persona con parálisis cerebral, con enfermedad mental, o con discapacidad intelectual, con un grado de discapacidad reconocido igual o superior al 33 por ciento, o persona con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65 por ciento, así como en los casos de enfermedad grave que incapacite acreditadamente, a la persona o a su cuidador, para realizar una actividad laboral.
+
+b) Que, en los cuatro años anteriores al momento de la solicitud, la unidad familiar haya sufrido una alteración significativa de sus circunstancias económicas, en términos de esfuerzo de acceso a la vivienda, o hayan sobrevenido en dicho período circunstancias familiares de especial vulnerabilidad.
+
+A estos efectos se entenderá que se ha producido una alteración significativa de las circunstancias económicas cuando el esfuerzo que represente la carga hipotecaria sobre la renta familiar se haya multiplicado por al menos 1,5; salvo que la entidad acredite que la carga hipotecaria en el momento de la concesión del préstamo era igual o superior a la carga hipotecaria en el momento de la solicitud de la aplicación del Código de Buenas Prácticas.
+
+Asimismo, se entiende que se encuentran en una circunstancia familiar de especial vulnerabilidad:
+
+1.º La familia numerosa, de conformidad con la legislación vigente.
+
+2.º La unidad familiar monoparental con dos hijos a cargo.
+
+3.º La unidad familiar de la que forme parte un menor de tres años.
+
+4.º La unidad familiar en la que alguno de sus miembros tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite de forma permanente, de forma acreditada, para realizar una actividad laboral.
+
+5.º El deudor mayor de 60 años, aunque no reúna los requisitos para ser considerado unidad familiar según lo previsto en la letra a) de este número.
+
+c) Que la cuota hipotecaria resulte superior al 50 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar. Dicho porcentaje será del 40 por cien cuando alguno de dichos miembros sea una persona en la que concurren las circunstancias previstas en el segundo párrafo de la letra a).
+
+A efectos de las letras a) y b) anteriores, se considerará que presentan una discapacidad en grado igual o superior al 33 por ciento los pensionistas de la Seguridad Social que tengan reconocida una pensión de incapacidad permanente en el grado de total, absoluta o gran invalidez, y los pensionistas de clases pasivas que tengan reconocida una pensión de jubilación o de retiro por incapacidad permanente para el servicio o inutilidad.»
+
+Dos. Los apartados 2 y 3 del artículo 5 quedan redactados del siguiente modo:
+
+«2. La aplicación del Código de Buenas Prácticas se extenderá a las hipotecas constituidas en garantía de préstamos o créditos, cuando el precio de adquisición del bien inmueble hipotecado no exceda en un 20 por ciento del que resultaría de multiplicar la extensión del inmueble, por el precio medio por metro cuadrado para vivienda libre que arroje el Índice de Precios de la Vivienda elaborado por el Ministerio de Fomento para el año de adquisición del bien inmueble y la provincia en que esté radicado dicho bien, con un límite absoluto de 300.000 euros. Los inmuebles adquiridos antes del año 1995 tomarán como precio medio de referencia el relativo al año 1995.
+
+No obstante, solo podrán acogerse a las medidas previstas en el apartado 3 del Código las hipotecas constituidas en garantía de préstamos o créditos concedidos, cuando el precio de adquisición del bien inmueble hipotecado no exceda del que resultaría de multiplicar la extensión del inmueble, por el precio medio por metro cuadrado para vivienda libre que arroje el Índice de Precios de la Vivienda elaborado por el Ministerio de Fomento para el año de adquisición del bien inmueble y la provincia en que esté radicado dicho bien, con un límite absoluto de 250.000 euros. Los inmuebles adquiridos antes del año 1995 tomarán como precio medio de referencia el relativo al año 1995.
+
+3\. Las entidades comunicarán su adhesión a la Secretaría General del Tesoro y Política Financiera.»
+
+Tres. Se introduce un nuevo apartado iv en la letra b) del punto 1 del Anexo, con la siguiente redacción:
+
+«iv. En todo caso, se inaplicarán con carácter indefinido las cláusulas limitativas de la bajada del tipo de interés previstas en los contratos de préstamo hipotecario.»
+
+#### Artículo 3. Modificación de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social.
+
+Los apartados 1, 2 y 3 del artículo 1 de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, quedan redactados como sigue:
+
+«1. Hasta transcurridos cuatro años desde la entrada en vigor de esta Ley, no procederá el lanzamiento cuando en un proceso judicial o extrajudicial de ejecución hipotecaria se hubiera adjudicado al acreedor, o a persona que actúe por su cuenta, la vivienda habitual de personas que se encuentren en los supuestos de especial vulnerabilidad y en las circunstancias económicas previstas en este artículo.
+
+2\. Los supuestos de especial vulnerabilidad a los que se refiere el apartado anterior son:
+
+a) Familia numerosa, de conformidad con la legislación vigente.
+
+b) Unidad familiar monoparental con dos hijos a cargo.
+
+c) Unidad familiar de la que forme parte un menor de tres años.
+
+d) Unidad familiar en la que alguno de sus miembros tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite acreditadamente de forma permanente para realizar una actividad laboral.
+
+e) Unidad familiar en la que el deudor hipotecario se encuentre en situación de desempleo y haya agotado las prestaciones por desempleo.
+
+f) Unidad familiar con la que convivan, en la misma vivienda, una o más personas que estén unidas con el titular de la hipoteca o su cónyuge por vínculo de parentesco hasta el tercer grado de consanguinidad o afinidad, y que se encuentren en situación personal de discapacidad, dependencia, enfermedad grave que les incapacite acreditadamente de forma temporal o permanente para realizar una actividad laboral.
+
+g) Unidad familiar en que exista una víctima de violencia de género, conforme a lo establecido en la legislación vigente, en el caso de que la vivienda objeto de lanzamiento constituya su domicilio habitual.
+
+h) El deudor mayor de 60 años.
+
+3\. Para que sea de aplicación lo previsto en el apartado 1 deberán concurrir, además de los supuestos de especial vulnerabilidad previstos en el apartado anterior, las circunstancias económicas siguientes:
+
+a) Que el conjunto de los ingresos de los miembros de la unidad familiar no supere el límite de tres veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas. Dicho límite será de cuatro veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas en los supuestos previstos en las letras d) y f) del apartado anterior, y de cinco veces dicho indicador en el caso de que el ejecutado sea persona con parálisis cerebral, con enfermedad mental o con discapacidad intelectual, con un grado de discapacidad reconocido igual o superior al 33 por ciento, o persona con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65 por ciento, así como en los casos de enfermedad grave que incapacite acreditadamente, a la persona o a su cuidador, para realizar una actividad laboral.
+
+b) Que, en los cuatro años anteriores al momento de la solicitud, la unidad familiar haya sufrido una alteración significativa de sus circunstancias económicas, en términos de esfuerzo de acceso a la vivienda.
+
+c) Que la cuota hipotecaria resulte superior al 50 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar.
+
+d) Que se trate de un crédito o préstamo garantizado con hipoteca que recaiga sobre la única vivienda en propiedad del deudor y concedido para la adquisición de la misma.»
+
+## TÍTULO II — Otras medidas de orden social
+
+### CAPÍTULO I — Medidas en el ámbito tributario y de las Administraciones Públicas
+
+#### Artículo 4. Modificación de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+Con efectos desde 1 de enero de 2015 se introducen las siguientes modificaciones en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio:
+
+Uno. Se modifican los apartados 1 y 2 del artículo 81 bis, que quedan redactados de la siguiente forma:
+
+«1. Los contribuyentes que realicen una actividad por cuenta propia o ajena por la cual estén dados de alta en el régimen correspondiente de la Seguridad Social o mutualidad podrán minorar la cuota diferencial del impuesto en las siguientes deducciones:
+
+a) Por cada descendiente con discapacidad con derecho a la aplicación del mínimo por descendientes previsto en el artículo 58 de esta Ley, hasta 1.200 euros anuales.
+
+b) Por cada ascendiente con discapacidad con derecho a la aplicación del mínimo por ascendientes previsto en el artículo 59 de esta Ley, hasta 1.200 euros anuales.
+
+c) Por ser un ascendiente, o un hermano huérfano de padre y madre, que forme parte de una familia numerosa conforme a la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, o por ser un ascendiente separado legalmente, o sin vínculo matrimonial, con dos hijos sin derecho a percibir anualidades por alimentos y por los que tenga derecho a la totalidad del mínimo previsto en el artículo 58 de esta Ley, hasta 1.200 euros anuales.
+
+En caso de familias numerosas de categoría especial, esta deducción se incrementará en un 100 por ciento. Este incremento no se tendrá en cuenta a efectos del límite a que se refiere el apartado 2 de este artículo.
+
+Asimismo podrán minorar la cuota diferencial del impuesto en las deducciones previstas anteriormente los contribuyentes que perciban prestaciones contributivas y asistenciales del sistema de protección del desempleo, pensiones abonadas por el Régimen General y los Regímenes especiales de la Seguridad Social o por el Régimen de Clases Pasivas del Estado, así como los contribuyentes que perciban prestaciones análogas a las anteriores reconocidas a los profesionales no integrados en el régimen especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos por las mutualidades de previsión social que actúen como alternativas al régimen especial de la Seguridad Social mencionado, siempre que se trate de prestaciones por situaciones idénticas a las previstas para la correspondiente pensión de la Seguridad Social.
+
+Cuando dos o más contribuyentes tengan derecho a la aplicación de alguna de las anteriores deducciones respecto de un mismo descendiente, ascendiente o familia numerosa, su importe se prorrateará entre ellos por partes iguales, sin perjuicio de lo dispuesto en el apartado 4 de este artículo.
+
+2\. Las deducciones se calcularán de forma proporcional al número de meses en que se cumplan de forma simultánea los requisitos previstos en el apartado 1 anterior, y tendrán como límite para cada una de las deducciones, en el caso de los contribuyentes a que se refiere el primer párrafo del apartado 1 anterior, las cotizaciones y cuotas totales a la Seguridad Social y Mutualidades devengadas en cada período impositivo. No obstante, si tuviera derecho a la deducción prevista en las letras a) o b) del apartado anterior respecto de varios ascendientes o descendientes con discapacidad, el citado límite se aplicará de forma independiente respecto de cada uno de ellos.
+
+A efectos del cálculo de este límite se computarán las cotizaciones y cuotas por sus importes íntegros, sin tomar en consideración las bonificaciones que pudieran corresponder.»
+
+Dos. Se añade una nueva disposición adicional cuadragésima segunda, que queda redactada de la siguiente forma:
+
+«Disposición adicional cuadragésima segunda. Procedimiento para que los contribuyentes que perciben determinadas prestaciones apliquen las deducciones previstas en el artículo 81 bis y se les abonen de forma anticipada.
+
+1\. Los contribuyentes que perciban las prestaciones a que se refiere el sexto párrafo del apartado 1 del artículo 81 bis de esta Ley podrán practicar las deducciones reguladas en dicho apartado y percibirlas de forma anticipada en los términos previstos en el artículo 60 bis del Reglamento del Impuesto sobre la Renta de las Personas Físicas, con las siguientes especialidades:
+
+a) A efectos del cómputo del número de meses para el cálculo del importe de la deducción, el requisito de percibir las citadas prestaciones se entenderá cumplido cuando tales prestaciones se perciban en cualquier día del mes, y no será aplicable el requisito de alta en el régimen correspondiente de la Seguridad Social o Mutualidad.
+
+b) Los contribuyentes con derecho a la aplicación de estas deducciones podrán solicitar a la Agencia Estatal de Administración Tributaria su abono de forma anticipada por cada uno de los meses en que se perciban tales prestaciones.
+
+c) No resultará de aplicación el límite previsto en el apartado 1 del artículo 60 bis del Reglamento del Impuesto ni, en el caso de que se hubiera cedido a su favor el derecho a la deducción, lo dispuesto en la letra c) del apartado 5 del artículo 60 bis del Reglamento del Impuesto.
+
+2\. El Servicio Público de Empleo Estatal, la Seguridad Social y las mutualidades de previsión social alternativas a las de la Seguridad Social y cualquier otro organismo que abonen las prestaciones y pensiones a que se refiere el sexto párrafo del apartado 1 del artículo 81 bis de esta Ley, estarán obligados a suministrar por vía electrónica a la Agencia Estatal de Administración Tributaria durante los diez primeros días de cada mes los datos de las personas a las que hayan satisfecho las citadas prestaciones o pensiones durante el mes anterior.
+
+El formato y contenido de la información serán los que, en cada momento, consten en la sede electrónica de la Agencia Estatal de Administración Tributaria en Internet.
+
+3\. Lo establecido en el apartado 1 de esta disposición adicional, así como el plazo, contenido y formato de la declaración informativa a que se refiere el apartado 2 de esta disposición adicional, podrá ser modificado reglamentariamente.»
+
+Tres. Se añade una nueva disposición adicional cuadragésima tercera, que queda redactada de la siguiente forma:
+
+«Disposición adicional cuadragésima tercera. Exención de rentas obtenidas por el deudor en procedimientos concursales.
+
+Estarán exentas de este Impuesto las rentas obtenidas por los deudores que se pongan de manifiesto como consecuencia de quitas y daciones en pago de deudas, establecidas en un convenio aprobado judicialmente conforme al procedimiento fijado en la Ley 22/2003, de 9 de julio, Concursal, en un acuerdo de refinanciación judicialmente homologado a que se refiere el artículo 71 bis y la disposición adicional cuarta de dicha Ley, en un acuerdo extrajudicial de pagos a que se refiere el Título X o como consecuencia de exoneraciones del pasivo insatisfecho a que se refiere el artículo 178 bis de la misma Ley, siempre que las deudas no deriven del ejercicio de actividades económicas.»
+
+#### Artículo 5. Modificación de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.10 del Real Decreto Legislativo 5/2015, de 30 de octubre. [Ref. BOE-A-2015-11719](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11719).
+
+#### Artículo 6. Modificación del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+El artículo 12 del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, queda redactado de la siguiente manera:
+
+«Artículo 12. Determinación de las unidades electorales en la Administración General del Estado y en la Administración de Justicia.
+
+1\. En cumplimiento de lo dispuesto en el artículo 39.4 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, en el ámbito de la Administración General del Estado se elegirá una Junta de Personal en cada una de las siguientes Unidades Electorales:
+
+a) Una por cada uno de los Departamentos ministeriales, incluidos en ellos sus Organismos Autónomos, Entidades gestoras y servicios comunes de la Administración de la Seguridad Social y todos los servicios provinciales de Madrid.
+
+b) Una por cada Agencia, ente público u organismo no incluido en la letra anterior, para todos los servicios que tenga en la provincia de Madrid.
+
+c) Una en cada provincia, excluida la de Madrid, y en las ciudades de Ceuta y de Melilla, en la Delegación o Subdelegación de Gobierno, en la que se incluirán los Organismos Autónomos, Agencias comprendidas en el ámbito de aplicación de la Ley 28/2006, de 18 de julio, las Entidades gestoras y servicios comunes de la Administración de la Seguridad Social y las unidades administrativas y servicios provinciales de todos los Departamentos Ministeriales en una misma provincia, incluidos los funcionarios civiles que presten servicios en la Administración militar.
+
+d) Una para cada ente u organismo público, no incluido en la letra anterior, para todos los servicios que tenga en una misma provincia o en las ciudades de Ceuta y de Melilla.
+
+e) Una para los funcionarios destinados en las misiones diplomáticas en cada país, representaciones permanentes, oficinas consulares e instituciones y servicios de la Administración del Estado en el extranjero.
+
+f) Una en cada provincia y en las ciudades de Ceuta y de Melilla, para el personal estatutario de los servicios públicos de salud.
+
+g) Una para el personal docente de los centros públicos no universitarios, en cada una de las ciudades de Ceuta y Melilla.
+
+2\. En aquellas Unidades Electorales a que se refiere el apartado anterior, con excepción de las referidas en la letra d), que no alcanzasen el mínimo de 50 funcionarios, éstos ejercerán su representación en la Junta de Personal del Departamento al que estuviera adscrito el Organismo o Unidad administrativa de que se trate.
+
+En las Unidades Electorales provinciales previstas en la letra d) que no alcanzasen el mínimo de 50 funcionarios, éstos ejercerán su representación en la Junta de Personal de Madrid del Organismo o Ente público que corresponda.
+
+3\. En la Administración de Justicia, se elegirá una Junta de Personal en cada provincia, y en las ciudades de Ceuta y de Melilla, para todo el personal funcionario a su servicio. Además de las anteriores, en Madrid se elegirá otra Junta de Personal para el personal adscrito a los órganos centrales de la Administración de Justicia.
+
+4\. En las elecciones a representantes del personal laboral en el ámbito de la Administración General del Estado y de la Administración de Justicia, no transferida, constituirá un único centro de trabajo:
+
+a) La totalidad de las unidades o establecimientos de cada Departamento Ministerial, incluidos en ellos los correspondientes a sus Organismos Autónomos, entidades gestoras y servicios comunes de la Administración de la Seguridad Social y todos sus servicios provinciales, en Madrid.
+
+b) La totalidad de las unidades o establecimientos en la provincia de Madrid de cada una de las Agencias comprendidas en el ámbito de aplicación de la Ley 28/2006, organismos o entes públicos no incluidos en la letra anterior y las dependientes de la Administración de Justicia.
+
+c) La totalidad de las unidades o establecimientos al servicio de la Administración General del Estado, sus Organismos Autónomos, Entidades gestoras, servicios comunes de la Administración de la Seguridad Social y Agencias comprendidas en el ámbito de aplicación de la Ley 28/2006 que radiquen en una misma provincia, excluida la de Madrid, o en la ciudades de Ceuta y de Melilla. Se incluirán en este apartado las unidades y establecimientos dependientes de la Administración de Justicia.
+
+d) Constituirá, igualmente un único centro de trabajo la totalidad de los establecimientos de cada ente u organismo público no incluido en las letras anteriores, radicados en una misma provincia o en las ciudades de Ceuta y de Melilla.
+
+5\. Lo dispuesto en este artículo producirá efectos al producirse el vencimiento de los mandatos electorales actualmente en vigor.
+
+6\. En todo caso las nuevas unidades electorales entrarán en vigor el 1 de marzo de 2015, fecha en que todos los mandatos en vigor o prorrogados se habrán extinguido como consecuencia de la elección de los nuevos órganos de representación, elección que deberá producirse en el plazo de 10 meses desde la fecha indicada.»
+
+#### Artículo 7. Modificación de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2015, se modifica el apartado 3 del artículo 124 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, que queda redactada de la siguiente forma:
+
+«3. Los contribuyentes a que se refieren los apartados 2, 3 y 4 del artículo 9 de esta Ley estarán obligados a declarar la totalidad de sus rentas, exentas y no exentas.
+
+No obstante, los contribuyentes a que se refiere el apartado 3 del artículo 9 de esta Ley no tendrán obligación de presentar declaración cuando cumplan los siguientes requisitos:
+
+a) Que sus ingresos totales no superen 50.000 euros anuales.
+
+b) Que los ingresos correspondientes a rentas no exentas no superen 2.000 euros anuales.
+
+c) Que todas las rentas no exentas que obtengan estén sometidas a retención.»
+
+### CAPÍTULO II — Medidas relativas al fomento del empleo indefinido y el empleo autónomo
+
+> Redactada la rúbrica conforme a la corrección de errores publicada en BOE núm. 296, de 11 de diciembre de 2015. [Ref. BOE-A-2015-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13432).
+
+#### Artículo 8. Mínimo exento de cotización a la Seguridad Social para favorecer la creación de empleo indefinido.
+
+1\. En los supuestos de contratación indefinida en cualquiera de sus modalidades, siempre y cuando se cumplan las condiciones y requisitos establecidos en este artículo, la aportación empresarial a la cotización a la Seguridad Social por contingencias comunes se determinará conforme a las siguientes reglas:
+
+a) Si la contratación es a tiempo completo, los primeros 500 euros de la base de cotización por contingencias comunes correspondiente a cada mes quedarán exentos de la aplicación del tipo de cotización en la parte correspondiente a la empresa. Al resto del importe de dicha base le resultará aplicable el tipo de cotización vigente en cada momento.
+
+b) Si la contratación es a tiempo parcial, cuando la jornada de trabajo sea, al menos, equivalente a un 50 por ciento de la jornada de un trabajador a tiempo completo comparable, la cuantía señalada en la letra a) se reducirá de forma proporcional al porcentaje de reducción de jornada de cada contrato.
+
+2\. El beneficio en la cotización previsto en este artículo consistirá en una bonificación cuando la contratación indefinida se produzca con trabajadores inscritos en el Sistema Nacional de Garantía Juvenil que cumplan con los requisitos establecidos en el artículo 105 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, y en una reducción para el resto de trabajadores contratados.
+
+3\. El beneficio en la cotización se aplicará durante un período de 24 meses, computados a partir de la fecha de efectos del contrato, que deberá formalizarse por escrito, y respecto de los celebrados entre el 1 de marzo de 2015 y el 31 de agosto de 2016.
+
+Finalizado el período de 24 meses, y durante los 12 meses siguientes, las empresas que en el momento de celebrar el contrato al que se aplique este beneficio en la cotización contaran con menos de diez trabajadores tendrán derecho a mantener la bonificación o reducción, si bien durante este nuevo período estarán exentos de la aplicación del tipo de cotización los primeros 250 euros de la base de cotización o la cuantía proporcionalmente reducida que corresponda en los supuestos de contratación a tiempo parcial.
+
+Cuando las fechas del alta y de la baja del trabajador en el régimen de Seguridad Social que corresponda no sean coincidentes con el primero o el último día del mes natural, el importe al que se aplique el beneficio a que se refiere este artículo será proporcional al número de días en alta en el mes.
+
+4\. Para beneficiarse de lo previsto en este artículo, las empresas deberán cumplir los siguientes requisitos:
+
+a) Hallarse al corriente en el cumplimiento de sus obligaciones tributarias y de Seguridad Social, tanto en la fecha de efectos del alta de los trabajadores como durante la aplicación del beneficio correspondiente. Si durante el período de bonificación o reducción existiese un incumplimiento, total o parcial, de dichas obligaciones en plazo reglamentario, se producirá la pérdida automática del beneficio respecto de las cuotas correspondientes a períodos no ingresados en dicho plazo, teniéndose en cuenta tales períodos como consumidos a efectos del cómputo del tiempo máximo de bonificación o reducción.
+
+b) No haber extinguido contratos de trabajo, bien por causas objetivas o por despidos disciplinarios que hayan sido declarados judicialmente improcedentes, bien por despidos colectivos que hayan sido declarados no ajustados a Derecho, en los seis meses anteriores a la celebración de los contratos que dan derecho al beneficio previsto en este artículo. La exclusión del derecho a la bonificación o reducción derivada del incumplimiento de este requisito afectará a un número de contratos equivalente al de las extinciones producidas.
+
+c) Celebrar contratos indefinidos que supongan un incremento tanto del nivel de empleo indefinido como del nivel de empleo total de la empresa. Para calcular dicho incremento, se tomará como referencia el promedio diario de trabajadores que hayan prestado servicios en la empresa en los treinta días anteriores a la celebración del contrato.
+
+d) Mantener durante un periodo de 36 meses, a contar desde la fecha de efectos del contrato indefinido con aplicación de la bonificación o reducción, tanto el nivel de empleo indefinido como el nivel de empleo total alcanzado, al menos, con dicha contratación.
+
+Se examinará el mantenimiento del nivel de empleo indefinido y del nivel de empleo total cada doce meses. Para ello, se utilizarán el promedio de trabajadores indefinidos y el promedio de trabajadores totales del mes en que proceda examinar el cumplimiento de este requisito.
+
+A efectos de examinar el nivel de empleo y su mantenimiento en la empresa, no se tendrán en cuenta las extinciones de contratos de trabajo por causas objetivas o por despidos disciplinarios que no hayan sido declarados improcedentes, los despidos colectivos que no hayan sido declarados no ajustados a Derecho, así como las extinciones causadas por dimisión, muerte o incapacidad permanente total, absoluta o gran invalidez de los trabajadores o por la expiración del tiempo convenido o realización de la obra o servicio objeto del contrato, o por resolución durante el periodo de prueba.
+
+e) No haber sido excluidas del acceso a los beneficios derivados de la aplicación de los programas de empleo por la comisión de la infracción grave del artículo 22.2 o las infracciones muy graves de los artículos 16 y 23 del Texto Refundido de la Ley sobre infracciones y sanciones en el orden social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, de conformidad con lo previsto en el artículo 46 de dicha Ley.
+
+5\. El beneficio en la cotización previsto en este artículo no se aplicará en los siguientes supuestos:
+
+a) Relaciones laborales de carácter especial previstas en el artículo 2 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, o en otras disposiciones legales.
+
+b) Contrataciones que afecten al cónyuge, ascendientes, descendientes y demás parientes por consanguinidad o afinidad, hasta el segundo grado inclusive, del empresario o de quienes tengan el control empresarial, ostenten cargos de dirección o sean miembros de los órganos de administración de las entidades o de las empresas que revistan la forma jurídica de sociedad, así como las que se produzcan con estos últimos.
+
+Se exceptúa de lo dispuesto en el párrafo anterior la contratación de los hijos que reúnan las condiciones previstas en la disposición adicional décima de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
+
+c) Contratación de trabajadores cuya actividad determine su inclusión en cualquiera de los sistemas especiales establecidos en el Régimen General de la Seguridad Social.
+
+d) Contratación de empleados que excepcionalmente pueda tener lugar en los términos establecidos en los artículos 20 y 21 así como en las disposiciones adicionales décima quinta a décima séptima de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015, y en preceptos equivalentes de posteriores Leyes de Presupuestos Generales del Estado.
+
+e) Contratación de trabajadores que hubiesen estado contratados en otras empresas del grupo de empresas del que formen parte y cuyos contratos se hubieran extinguido por causas objetivas o por despidos disciplinarios que hayan sido unos u otros declarados judicialmente como improcedentes, o por despidos colectivos que hayan sido declarados no ajustados a Derecho, en los seis meses anteriores a la celebración de los contratos que dan derecho a la reducción.
+
+f) Contratación de trabajadores que en los seis meses anteriores a la fecha del contrato hubiesen prestado servicios en la misma empresa o entidad mediante un contrato indefinido.
+
+El beneficio tampoco resultará aplicable a la cotización por horas complementarias que realicen los trabajadores a tiempo parcial cuyos contratos den derecho al mismo.
+
+6\. La aplicación de la bonificación o reducción a que se refiere este artículo no afectará a la determinación de la cuantía de las prestaciones económicas a que puedan causar derecho los trabajadores afectados, que se calculará aplicando el importe íntegro de la base de cotización que les corresponda.
+
+7\. La aplicación del beneficio previsto en este artículo será incompatible con la de cualquier otro beneficio en la cotización a la Seguridad Social por el mismo contrato, con independencia de los conceptos a los que tales beneficios pudieran afectar, con las siguientes excepciones:
+
+a) En el caso de que el contrato indefinido se formalice con personas beneficiarias del Sistema Nacional de Garantía Juvenil, será compatible con la bonificación establecida en el artículo 107 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia.
+
+b) En el caso de que el contrato indefinido se formalice con personas beneficiarias del Programa de Activación para el Empleo, será compatible con la ayuda económica de acompañamiento que aquellas perciban, en los términos previstos en el artículo 8 del Real Decreto-ley 16/2014, de 19 de diciembre, por el que se regula el Programa de Activación para el Empleo.
+
+8\. Lo dispuesto en los apartados anteriores será también de aplicación en el supuesto de personas que se incorporen como socios trabajadores o de trabajo de las cooperativas, siempre que estas hayan optado por un régimen de Seguridad Social propio de trabajadores por cuenta ajena, así como a los que se incorporen como socios trabajadores de las sociedades laborales.
+
+9\. La aplicación de este beneficio en la cotización será objeto de control y revisión por el Servicio Público de Empleo Estatal, por la Tesorería General de la Seguridad Social y por la Inspección de Trabajo y Seguridad Social, en el ejercicio de las funciones que respectivamente tienen atribuidas.
+
+10\. En los supuestos de aplicación indebida del respectivo beneficio, por incumplir las condiciones establecidas en este artículo, procederá el reintegro de las cantidades dejadas de ingresar con el recargo y el interés de demora correspondientes, conforme a lo establecido en la normativa recaudatoria de la Seguridad Social.
+
+En caso de incumplimiento del requisito previsto en el apartado 4.d), quedará sin efecto la bonificación o reducción y se deberá proceder al reintegro de la diferencia entre los importes correspondientes a las aportaciones empresariales a la cotización por contingencias comunes que hubieran procedido en caso de no aplicarse aquella y las aportaciones ya realizadas, en los siguientes términos:
+
+1.º Si el incumplimiento de la exigencia del mantenimiento del nivel de empleo se produce desde la fecha de inicio de la aplicación del respectivo beneficio hasta el mes 12, corresponderá reintegrar el 100 por cien de la citada diferencia.
+
+2.º Si el incumplimiento se produce desde el mes 13 y hasta el mes 24, corresponderá reintegrar la citada diferencia por los meses que hayan transcurrido desde el mes 13.
+
+3.º Si el incumplimiento se produce desde el mes 25 y hasta el mes 36, corresponderá reintegrar la citada diferencia por los meses que hayan transcurrido desde el mes 25.
+
+En los supuestos de reintegro por incumplimiento del requisito previsto en el apartado 4.d), que se llevarán a cabo conforme a lo establecido en la normativa recaudatoria de la Seguridad Social, no procederá exigir recargo e interés de demora.
+
+La obligación de reintegro prevista en este apartado se entiende sin perjuicio de lo dispuesto en el Texto Refundido de la Ley sobre infracciones y sanciones en el orden social.
+
+11\. La bonificación se financiará con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal, y será objeto de cofinanciación con cargo al Fondo Social Europeo cuando cumpla con los requisitos establecidos, y la reducción se financiará por el presupuesto de ingresos de la Seguridad Social.
+
+#### Artículo 9. Modificación de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
+
+Se añade un nuevo artículo 30 a la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, con la siguiente redacción:
+
+«Artículo 30. Bonificación a trabajadores incluidos en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos por conciliación de la vida profesional y familiar vinculada a la contratación.
+
+1\. Los trabajadores incluidos en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos tendrán derecho, por un plazo de hasta doce meses, a una bonificación del 100 por cien de la cuota de autónomos por contingencias comunes, que resulte de aplicar a la base media que tuviera el trabajador en los doce meses anteriores a la fecha en la que se acoja a esta medida, el tipo mínimo de cotización vigente en cada momento establecido en el citado Régimen Especial en los siguientes supuestos:
+
+a) Por cuidado de menores de 7 años que tengan a su cargo.
+
+b) Por tener a su cargo un familiar, por consanguinidad o afinidad hasta el segundo grado inclusive, en situación de dependencia, debidamente acreditada.
+
+c) Por tener a su cargo un familiar, por consanguinidad o afinidad hasta el segundo grado inclusive, con parálisis cerebral, enfermedad mental o discapacidad intelectual con un grado de discapacidad reconocido igual o superior al 33 por ciento o una discapacidad física o sensorial con un grado de discapacidad reconocido igual o superior al 65 por ciento, cuando dicha discapacidad esté debidamente acreditada, siempre que dicho familiar no desempeñe una actividad retribuida.
+
+En el caso de que el trabajador lleve menos de 12 meses de alta en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, la base media de cotización se calculará desde la fecha de alta.
+
+2\. La aplicación de la bonificación recogida en el apartado anterior estará condicionada a la permanencia en alta en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos y a la contratación de un trabajador, a tiempo completo o parcial, que deberá mantenerse durante todo el periodo de su disfrute. En todo caso, la duración del contrato deberá ser, al menos, de 3 meses desde la fecha de inicio del disfrute de la bonificación.
+
+Dicho trabajador contratado será ocupado en la actividad profesional que da lugar al alta en el Sistema de Seguridad Social del trabajador autónomo.
+
+Cuando se extinga la relación laboral, incluso durante el periodo inicial de 3 meses, el trabajador autónomo podrá beneficiarse de la bonificación si contrata a otro trabajador por cuenta ajena en el plazo máximo de 30 días.
+
+El contrato a tiempo parcial no podrá celebrarse por una jornada laboral inferior al 50 por ciento de la jornada de un trabajador a tiempo completo comparable. Si la contratación es a tiempo parcial, la bonificación prevista en el apartado 1 de este artículo será del 50 por ciento.
+
+3\. En caso de incumplimiento de lo previsto en el apartado anterior, el trabajador autónomo estará obligado a reintegrar el importe de la bonificación disfrutada.
+
+No procederá el reintegro de la bonificación cuando la extinción esté motivada por causas objetivas o por despido disciplinario cuando una u otro sea declarado o reconocido como procedente, ni en los supuestos de extinción causada por dimisión, muerte, jubilación o incapacidad permanente total, absoluta o gran invalidez del trabajador o por resolución durante el periodo de prueba.
+
+Cuando proceda el reintegro, este quedará limitado exclusivamente a la parte de la bonificación disfrutada que estuviera vinculada al contrato cuya extinción se hubiera producido en supuestos distintos a los previstos en el párrafo anterior.
+
+En caso de no mantenerse en el empleo al trabajador contratado durante, al menos, 3 meses desde la fecha de inicio del disfrute de la bonificación, el trabajador autónomo estará obligado a reintegrar el importe de la bonificación disfrutada, salvo que, conforme a lo dispuesto en el apartado anterior, se proceda a contratar a otra persona en el plazo de 30 días.
+
+En caso de que el menor que dio lugar a la bonificación prevista en este artículo alcanzase la edad de 7 años con anterioridad a la finalización del disfrute de la bonificación, esta se podrá mantener hasta alcanzar el periodo máximo de 12 meses previsto, siempre que se cumplan el resto de condiciones.
+
+En todo caso, el trabajador autónomo que se beneficie de la bonificación prevista en este artículo deberá mantenerse en alta en la Seguridad Social durante los seis meses siguientes al vencimiento del plazo de disfrute de la misma. En caso contrario el trabajador autónomo estará obligado a reintegrar el importe de la bonificación disfrutada.
+
+4\. Solo tendrán derecho a la bonificación los trabajadores autónomos que carezcan de trabajadores asalariados en la fecha de inicio de la aplicación de la bonificación y durante los doce meses anteriores a la misma. No se tomará en consideración a los efectos anteriores al trabajador contratado mediante contrato de interinidad para la sustitución del trabajador autónomo durante los periodos de descanso por maternidad, paternidad, adopción o acogimiento tanto preadoptivo como permanente o simple, riesgo durante el embarazo o riesgo durante la lactancia natural.
+
+5\. Los beneficiarios de la bonificación tendrán derecho a su disfrute una vez por cada uno de los sujetos causantes a su cargo señalados en el apartado 1, siempre que se cumplan el resto de requisitos previstos en el presente artículo.
+
+6\. La medida prevista en este artículo será compatible con el resto de incentivos a la contratación por cuenta ajena, conforme a la normativa vigente.
+
+7\. En lo no previsto expresamente, las contrataciones realizadas al amparo de lo establecido en este artículo se regirán por lo dispuesto en el artículo 15.1.c) del Estatuto de los Trabajadores y sus normas de desarrollo.»
+
+### CAPÍTULO III — Medidas en el ámbito de la Administración de Justicia
+
+#### Artículo 10. Modificación de la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses.
+
+La Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses, queda modificada como sigue:
+
+Uno. Se modifica el artículo 4, que queda redactado como sigue:
+
+«Artículo 4. Exenciones de la tasa.
+
+1\. Las exenciones objetivas de la tasa están constituidas por:
+
+a) La interposición de demanda y la presentación de ulteriores recursos cuando se trate de los procedimientos especialmente establecidos para la protección de los derechos fundamentales y libertades públicas, así como contra la actuación de la Administración electoral.
+
+b) La solicitud de concurso voluntario por el deudor.
+
+c) La presentación de petición inicial del procedimiento monitorio y la demanda de juicio verbal en reclamación de cantidad cuando la cuantía de las mismas no supere dos mil euros. No se aplicará esta exención cuando en estos procedimientos la pretensión ejercitada se funde en un documento que tenga el carácter de título ejecutivo extrajudicial de conformidad con lo dispuesto en el artículo 517 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+d) La interposición de recursos contencioso-administrativos cuando se recurra en casos de silencio administrativo negativo o inactividad de la Administración.
+
+e) La interposición de la demanda de ejecución de laudos dictados por las Juntas Arbitrales de Consumo.
+
+f) Las acciones que, en interés de la masa del concurso y previa autorización del Juez de lo Mercantil, se interpongan por los administradores concursales.
+
+g) Los procedimientos de división judicial de patrimonios, salvo en los supuestos en que se formule oposición o se suscite controversia sobre la inclusión o exclusión de bienes, devengando la tasa por el juicio verbal y por la cuantía que se discuta o la derivada de la impugnación del cuaderno particional a cargo del opositor, y si ambos se opusieren a cargo de cada uno por su respectiva cuantía.
+
+2\. Desde el punto de vista subjetivo, están, en todo caso, exentos de esta tasa:
+
+a) Las personas físicas.
+
+b) Las personas jurídicas a las que se les haya reconocido el derecho a la asistencia jurídica gratuita, acreditando que cumplen los requisitos para ello de acuerdo con su normativa reguladora.
+
+c) El Ministerio Fiscal.
+
+d) La Administración General del Estado, las de las Comunidades Autónomas, las Entidades locales y los organismos públicos dependientes de todas ellas.
+
+e) Las Cortes Generales y las Asambleas Legislativas de las Comunidades Autónomas.»
+
+Dos. Se suprime el párrafo segundo del apartado 2 del artículo 6.
+
+Tres. Se modifica el párrafo primero del apartado 2, que queda redactado como sigue, y se suprime el apartado 3 del artículo 7:
+
+«2. Deberá satisfacerse, además, la cantidad que resulte de aplicar a la base imponible determinada con arreglo a lo dispuesto en el artículo anterior, el tipo de gravamen que corresponda, según la siguiente escala.»
+
+Cuatro. Se añade un párrafo segundo al apartado primero del artículo 8, que queda redactado como sigue:
+
+«No obstante, no tendrán que presentar autoliquidación los sujetos a los que se refiere el apartado 2 del artículo 4.»
+
+#### Disposición adicional primera. Funciones de mediación concursal.
+
+1\. De acuerdo con lo dispuesto en los artículos 5.3 y 21.1.i) de la Ley 4/2014, de 1 de abril, Básica de las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación, las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación en los términos previstos en su normativa específica así como la Cámara Oficial de Comercio, Industria, Servicios y Navegación de España, podrán desempeñar las funciones de mediación concursal previstas en el título X de la Ley 22/2003, de 9 de julio, Concursal.
+
+2\. El sistema de mediación desarrollado por las Cámaras deberá ser transparente y se deberá garantizar la inexistencia de conflictos de interés. A tal efecto, podrán constituir una comisión de sobreendeudamiento u órgano equivalente, que deberá estar compuesto, al menos, por una persona que reúna los requisitos exigidos por el artículo 233.1 de la Ley Concursal, para ejercer como mediador concursal.
+
+3\. Sin perjuicio de las funciones señaladas anteriormente, las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación, en los términos previstos en su normativa específica, así como la Cámara Oficial de Comercio, Industria, Servicios y Navegación de España, podrán desempeñar funciones adicionales que permitan auxiliar a los comerciantes en materia concursal, tales como las de asesoramiento, preparación de solicitudes de designación de mediador, de acuerdos extrajudiciales de pagos, preparación de la documentación, elaboración de listas de acreedores, créditos y contratos, de evaluación previa de propuestas de convenio y cuantas otras funciones auxiliares se consideren precisas a los efectos de facilitar los trámites en los procedimientos concursales que corresponda cumplir al deudor.
+
+#### Disposición adicional segunda. Remuneración del mediador concursal.
+
+1\. La remuneración del mediador concursal se calculará conforme a las siguientes reglas:
+
+a) La base de remuneración del mediador concursal se calculará aplicando sobre el activo y el pasivo del deudor los porcentajes establecidos en el Anexo del Real Decreto 1860/2004, de 6 de septiembre, por el que se establece el arancel de derechos de los administradores concursales.
+
+b) Si el deudor fuera una persona natural sin actividad económica, se aplicará una reducción del 70 por ciento sobre la base de remuneración de la letra anterior.
+
+c) Si el deudor fuera una persona natural empresario, se aplicará una reducción del 50 por ciento sobre la base de remuneración de la letra a).
+
+d) Si el deudor fuera una sociedad, se aplicará una reducción del 30 por ciento sobre la base de remuneración de la letra a).
+
+e) Si se aprobara el acuerdo extrajudicial de pagos, se aplicará una retribución complementaria igual al 0,25 por ciento del activo del deudor.
+
+2\. Esta disposición será aplicable hasta que se desarrolle reglamentariamente el régimen retributivo del mediador concursal.
+
+#### Disposición adicional tercera. Representación del deudor en el concurso consecutivo.
+
+Por excepción a lo dispuesto en el apartado 2 del artículo 184 de la Ley 22/2003, de 9 de julio, Concursal, la representación por procurador no será preceptiva para el deudor persona natural en el concurso consecutivo.
+
+#### Disposición adicional cuarta. Medidor de solvencia.
+
+Con el objetivo de facilitar que cualquier interesado pueda tener conocimiento de su situación financiera personal, se habilitará una aplicación informática en la página web del Ministerio de Economía y Competitividad accesible de forma confidencial, gratuita y telemática a través de la cual se podrá determinar la situación de solvencia en la que se encuentra a los efectos de la aplicación de lo previsto en el Título I de esta Ley.
+
+#### Disposición adicional quinta. Impulso y coordinación de la negociación colectiva.
+
+La Secretaría de Estado de Administraciones Públicas estará representada en las Mesas de negociación del personal docente no universitario, del personal de la Administración de Justicia y del personal estatutario de los servicios de salud, a través de la Dirección General de la Función Pública.
+
+La Secretaría de Estado de Administraciones Públicas adoptará las medidas oportunas para impulsar y asegurar la coordinación de la negociación de la Administración a través de las distintas Mesas y ámbitos.
+
+#### Disposición adicional sexta. Evaluación del funcionamiento de la cuenta de garantía arancelaria.
+
+Transcurrido un año desde la efectiva puesta en marcha de la cuenta de garantía arancelaria, el Gobierno emitirá un informe de evaluación de su funcionamiento y de su suficiencia para atender el pago de los aranceles de administradores que no puedan sufragarse con cargo a la masa activa de los concursos.
+
+#### Disposición transitoria primera. Régimen transitorio en materia concursal.
+
+**(Derogada).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.u) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria segunda. Régimen aplicable a la contratación indefinida formalizada con anterioridad al 1 de marzo de 2015.
+
+Los beneficios a la cotización a la Seguridad Social que se vinieran disfrutando por los contratos indefinidos celebrados con anterioridad al 1 de marzo de 2015, se regirán por la normativa vigente en el momento de su celebración.
+
+#### Disposición transitoria tercera. Arancel de derechos de los administradores concursales.
+
+Hasta que se apruebe el nuevo desarrollo reglamentario del artículo 27 de la Ley 22/2003, de 9 de julio, Concursal, el arancel de la administración concursal se regirá por lo dispuesto en el del Real Decreto 1860/2004, de 6 de septiembre, por el que se establece el arancel de derechos de los administradores concursales, con las siguientes especialidades:
+
+a) La cantidad que resulte de la aplicación de lo establecido en los artículos 4 y 5 del Real Decreto 1860/2004, de 6 de septiembre, por el que se establece el arancel de derechos de los administradores concursales se incrementará hasta un 5 por ciento por cada uno de los supuestos enunciados en el artículo 6.1 del mismo Real Decreto, sin que el incremento total pueda ser superior al 15 por ciento si el concurso fuera clasificado como de tamaño medio o superior al 25 por ciento si fuera calificado de gran tamaño, respetando en todo caso los límites establecidos en el artículo 34.2.b) de la Ley 22/2003, de 9 de julio, Concursal.
+
+b) La retribución de los administradores concursales profesionales durante cada uno de los seis primeros meses de la fase de liquidación será equivalente al 10 por ciento de la retribución aprobada para la fase común.
+
+A partir del séptimo mes desde la apertura de la fase de liquidación sin que hubiera finalizado esta, la retribución de los administradores durante cada uno de los meses sucesivos será equivalente al 5 por ciento de la retribución aprobada para la fase común.
+
+A partir del decimotercer mes desde la apertura de la fase de liquidación la administración concursal no percibirá remuneración alguna salvo que el juez de manera motivada y previa audiencia de las partes decida, atendiendo a las circunstancias del caso, prorrogar dicho plazo. Las prórrogas acordadas serán trimestrales y no podrán superar en total los seis meses.
+
+#### Disposición transitoria cuarta. Régimen transitorio de pago con cargo a la cuenta de garantía arancelaria.
+
+Hasta que se apruebe reglamentariamente el régimen de distribución de la cuenta de garantía arancelaria será de aplicación el siguiente:
+
+1\. La cantidad máxima que podrá percibirse con cargo a la cuenta de garantía arancelaria por concurso será igual a la diferencia entre la remuneración efectivamente percibida y la que le hubiera correspondido conforme al arancel de la administración concursal, una vez deducidas en su caso las cantidades que hubieran debido destinarse a la propia cuenta de garantía arancelaria; y en todo caso con el límite de lo que resultase de dividir el total ingresado en la cuenta de garantía arancelaria durante un año, más el remanente de años anteriores si lo hubiere, entre el número de administradores con derecho a cobrar de la cuenta.
+
+Si lo ingresado en la cuenta de garantía arancelaria para su distribución anual no cubriese la retribución total debida a los administradores, la cantidad máxima a percibir por cada uno de ellos con cargo a la cuenta guardará la misma proporción que represente el total ingresado en dicha cuenta sobre el total pendiente de pago.
+
+2\. La cantidad máxima que se pueda percibir con cargo a la cuenta de garantía arancelaria será anotada en la cuenta por el Secretario judicial dentro de los quince días hábiles siguientes a la fecha del auto que declare la conclusión del concurso por insuficiencia de masa.
+
+3\. Una vez determinada la cuantía de los pagos con cargo a la cuenta de garantía arancelaria según la regla del apartado 1, las órdenes de transferencia a las cuentas indicadas por la administración concursal se llevarán a cabo de forma electrónica y automática, mediante la aplicación informática, a lo largo del mes de enero del año siguiente a aquel en el que se generó el derecho.
+
+4\. Si una vez efectuados los pagos existiera un remanente, este se conservará para financiar los pagos del año siguiente.
+
+#### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley y, de manera específica, el artículo sexto.Dos del Decreto 2766/1967, de 16 de noviembre, por el que se dictan normas sobre prestaciones de asistencia sanitaria y ordenación de los servicios médicos en el Régimen General de la Seguridad Social, y el Real Decreto 1564/1998, de 17 de julio, por el que se regula el convenio especial de asistencia sanitaria a favor de los trabajadores españoles que realizan una actividad por cuenta propia en el extranjero.
+
+#### Disposición final primera. Modificación del texto refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre.
+
+Se modifica la disposición adicional séptima del Texto Refundido de la Ley de Regulación de los Planes y Fondos de Pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre, que queda redactada como sigue:
+
+«Disposición adicional séptima. Disponibilidad de los planes de pensiones en caso de procedimiento de ejecución sobre la vivienda habitual.
+
+Durante el plazo de cuatro años desde la entrada en vigor de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, excepcionalmente, los partícipes de los planes de pensiones podrán hacer efectivos sus derechos consolidados en el supuesto de procedimiento de ejecución sobre la vivienda habitual del partícipe. Reglamentariamente podrán regularse las condiciones y términos en que podrán hacerse efectivos los derechos consolidados en dicho supuesto, debiendo concurrir al menos los siguientes requisitos:
+
+a) Que el partícipe se halle incurso en un procedimiento de ejecución forzosa judicial, administrativa o venta extrajudicial para el cumplimiento de obligaciones, en el que se haya acordado proceder a la enajenación de su vivienda habitual.
+
+b) Que el partícipe no disponga de otros bienes, derechos o rentas en cuantía suficiente para satisfacer la totalidad de la deuda objeto de la ejecución y evitar la enajenación de la vivienda.
+
+c) Que el importe neto de sus derechos consolidados en el plan o planes de pensiones sea suficiente para evitar la enajenación de la vivienda.
+
+El reembolso de derechos consolidados se hará efectivo a solicitud del partícipe, en un pago único en la cuantía necesaria para evitar la enajenación de la vivienda, sujetándose al régimen fiscal establecido para las prestaciones de los planes de pensiones. El reembolso deberá efectuarse dentro del plazo máximo de siete días hábiles desde que el partícipe presente la documentación acreditativa correspondiente.
+
+El Gobierno, a propuesta del Ministro de Economía y Competitividad, podrá ampliar el plazo previsto en esta disposición para solicitar el cobro de los planes de pensiones en caso de procedimiento de ejecución sobre la vivienda habitual o establecer nuevos periodos a tal efecto, teniendo en cuenta las necesidades de renta disponible ante la situación de endeudamiento derivada de las circunstancias de la economía.
+
+Lo dispuesto en esta disposición será igualmente aplicable a los asegurados de los planes de previsión asegurados, planes de previsión social empresarial y mutualidades de previsión social a que se refiere el artículo 51 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, y en general a los seguros colectivos que instrumentan compromisos por pensiones en los que se haya transmitido a los asegurados la titularidad de los derechos derivados de las primas pagadas por la empresa así como respecto a los derechos correspondientes a primas pagadas por aquellos».
+
+#### Disposición final segunda. Modificación de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Uno. Se modifica el título del artículo 54 bis y sus apartados 1 y 2, que pasan a tener la siguiente redacción:
+
+«Artículo 54 bis. Condiciones para la gestión transfronteriza de IIC y para la prestación de servicios en otros Estados miembros por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+
+1\. Las SGIIC autorizadas en España de conformidad con la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrán, ya sea directamente o mediante el establecimiento de una sucursal, gestionar IIC establecidas en otro Estado miembro siempre que la SGIIC esté autorizada a gestionar ese tipo de IIC así como prestar en otro Estado miembro los servicios a los que se refiere el artículo 40.1.a) y 40.2 para los que haya sido autorizada.
+
+2\. Toda gestora que se proponga gestionar IIC establecidas en otro Estado miembro o prestar los servicios a los que se refiere el apartado 1 por primera vez, comunicará a la Comisión Nacional del Mercado de Valores la siguiente información:
+
+a) El Estado miembro en el que se proponga gestionar las IIC directamente o mediante el establecimiento de una sucursal o prestar servicios a los que se refiere el artículo 40.1.a) y 40.2 para los que haya sido autorizada, y
+
+b) un programa de actividades en el que se indiquen, en particular, los servicios que se proponga prestar o se identifiquen las IIC que se proponga gestionar.»
+
+Dos. Se modifica el título del artículo 55 bis y sus apartados 1 y 5, que pasan a tener la siguiente redacción:
+
+«Artículo 55 bis. Condiciones para la gestión de IIC españolas y para la prestación de servicios en España por sociedades gestoras reguladas por la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, y autorizadas en otro Estado miembro de la Unión Europea.
+
+1\. Toda sociedad gestora autorizada en un Estado miembro de la Unión Europea al amparo de la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrá gestionar IIC así como prestar servicios en España, ya sea directamente o mediante el establecimiento de una sucursal, siempre que la gestora esté autorizada por dicho Estado miembro a gestionar ese tipo de IIC o a prestar esos servicios.
+
+5\. La Comisión Nacional del Mercado de Valores comunicará sin demora a las autoridades competentes del Estado miembro de origen de la sociedad gestora cualquier problema detectado que pueda afectar materialmente a la capacidad de la sociedad gestora para cumplir adecuadamente sus obligaciones legales o reglamentarias, que incidan en el ámbito supervisor de la Comisión Nacional del Mercado de Valores.»
+
+#### Disposición final tercera. Modificación de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+El apartado 3 del artículo 111 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria queda redactado en los siguientes términos:
+
+«3. Los organismos y entidades integrantes del sector público estatal, con excepción del Instituto de Crédito Oficial, se someterán a los principios de prudencia financiera que se fijen por la Comisión Delegada del Gobierno para Asuntos Económicos. Los principios que se fijen para las entidades y organismos distintos de las sociedades cotizadas mercantiles estatales cuyas acciones estén sometidas a negociación en un mercado secundario oficial de valores se referirán, al menos, a los límites máximos del coste financiero al que podrán suscribirse las citadas operaciones de crédito, así como a las limitaciones al uso de derivados financieros».
+
+#### Disposición final cuarta. Modificación de la Ley 59/2003, de 19 de diciembre, de firma electrónica.
+
+La Ley 59/2003, de 19 de diciembre, de firma electrónica, queda modificada como sigue:
+
+Uno. El apartado 2 del artículo 3, queda redactado del siguiente modo:
+
+«2. La firma electrónica avanzada es la firma electrónica que permite identificar al firmante y detectar cualquier cambio ulterior de los datos firmados, que está vinculada al firmante de manera única y a los datos a que se refiere y que ha sido creada por medios que el firmante puede utilizar, con un alto nivel de confianza, bajo su exclusivo control.»
+
+Dos. El apartado 2 del artículo 6, queda redactado del siguiente modo:
+
+«2. El firmante es la persona que utiliza un dispositivo de creación de firma y que actúa en nombre propio o en nombre de una persona física o jurídica a la que representa.»
+
+Tres. El apartado 2 del artículo 7, queda redactado como sigue:
+
+«2. La custodia de los datos de creación de firma asociados a cada certificado electrónico de persona jurídica o, en su caso, de los medios de acceso a ellos será responsabilidad de la persona física solicitante, cuya identificación se incluirá en el certificado electrónico.»
+
+Cuatro. La letra c) del artículo 12, queda redactada en los siguientes términos:
+
+«c) Asegurarse de que el firmante tiene el control exclusivo sobre el uso de los datos de creación de firma correspondientes a los de verificación que constan en el certificado.»
+
+Cinco. La letra a) del artículo 18, queda redactada en los siguientes términos:
+
+«a) No almacenar ni copiar, por sí o a través de un tercero, los datos de creación de firma de la persona a la que hayan prestado sus servicios, salvo en caso de su gestión en nombre del firmante. En este caso, se aplicarán los procedimientos y mecanismos técnicos y organizativos adecuados para garantizar que el firmante controle de modo exclusivo el uso de sus datos de creación de firma.
+
+Solo los prestadores de servicios de certificación que expidan certificados reconocidos podrán gestionar los datos de creación de firma electrónica en nombre del firmante. Para ello, podrán efectuar una copia de seguridad de los datos de creación de firma siempre que la seguridad de los datos duplicados sea del mismo nivel que la de los datos originales y que el número de datos duplicados no supere el mínimo necesario para garantizar la continuidad del servicio. No podrán duplicar los datos de creación de firma para ninguna otra finalidad».
+
+Seis. El punto 1.º de la letra b), del artículo 18, queda redactado como sigue:
+
+«1.º Las obligaciones del firmante, la forma en que han de custodiarse los datos de creación de firma, el procedimiento que haya de seguirse para comunicar la pérdida o posible utilización indebida de dichos datos, o, en su caso, de los medios que los protegen, así como información sobre los dispositivos de creación y de verificación de firma electrónica que sean compatibles con los datos de firma y con el certificado expedido.»
+
+Siete. La letra e) del apartado 1 del artículo 20, queda redactada como sigue:
+
+«e) Tomar medidas contra la falsificación de certificados y, en el caso de que el prestador de servicios de certificación genere datos de creación de firma, garantizar su confidencialidad durante el proceso de generación y su entrega por un procedimiento seguro al firmante. Si el prestador de servicios gestiona los datos de creación de firma en nombre del firmante, deberá custodiarlos y protegerlos frente a cualquier alteración, destrucción o acceso no autorizado, así como garantizar su continua disponibilidad para el firmante.»
+
+Ocho. Las letras c) y d) del apartado 1 del artículo 23, quedan redactadas en los siguientes términos:
+
+«c) Negligencia en la conservación de sus datos de creación de firma, en el aseguramiento de su confidencialidad y en la protección de todo acceso o revelación de éstos o, en su caso, de los medios que den acceso a ellos.
+
+d) No solicitar la suspensión o revocación del certificado electrónico en caso de duda en cuanto al mantenimiento de la confidencialidad de sus datos de creación de firma o, en su caso, de los medios que den acceso a ellos.»
+
+Nueve. Se añade un apartado 5 al artículo 29 con el siguiente contenido:
+
+«5. Podrá requerirse la realización de pruebas en laboratorios o entidades especializadas para acreditar el cumplimiento de determinados requisitos. En este caso, los prestadores de servicios correrán con los gastos que ocasione esta evaluación.»
+
+#### Disposición final quinta. Modificación del Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados.
+
+Se modifica el artículo 26 del Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados, que queda redactado como sigue:
+
+«Artículo 26. Asistencia sanitaria para españoles de origen retornados y para los trabajadores y pensionistas españoles de origen residentes en el exterior desplazados temporalmente al territorio nacional y para los familiares de los anteriores que se establezcan con ellos o les acompañen.
+
+1\. Los españoles de origen residentes en el exterior que retornen a España así como los trabajadores por cuenta ajena y por cuenta propia y los pensionistas españoles de origen residentes en el exterior en sus desplazamientos temporales a nuestro país tendrán derecho a la asistencia sanitaria cuando, de acuerdo con las disposiciones de la legislación de Seguridad Social española, las del Estado de procedencia o las normas o Convenios Internacionales de Seguridad Social establecidos al efecto, no tuvieran prevista esta cobertura.
+
+2\. Los familiares de los españoles de origen retornados que se establezcan con ellos en España, y los de los pensionistas y trabajadores por cuenta ajena y por cuenta propia españoles de origen, residentes en el exterior, que les acompañen en sus desplazamientos temporales a España, tendrán igualmente derecho a la asistencia sanitaria en España, a través del Sistema Nacional de Salud, cuando, de acuerdo con las disposiciones de Seguridad Social española, las del Estado de procedencia o las normas o Convenios internacionales de Seguridad Social establecidos al efecto, estos familiares no tuvieran prevista esta cobertura.
+
+A los efectos indicados, se entenderá que son familiares con derecho a asistencia sanitaria:
+
+a) El cónyuge de las personas indicadas en el apartado 1 o quien conviva con ellas con una relación de afectividad análoga a la conyugal, constituyendo una pareja de hecho.
+
+b) Los descendientes de las personas indicadas en el apartado 1 o los de su cónyuge o los de su pareja de hecho, que estén a cargo de aquellas y sean menores de 26 años o mayores de dicha edad con una discapacidad reconocida en un grado igual o superior al 65 por ciento.
+
+3\. El reconocimiento del derecho a la asistencia sanitaria en todos estos supuestos corresponde al Instituto Nacional de la Seguridad Social, el cual expedirá el documento acreditativo del derecho. Este derecho se conservará hasta que el beneficiario reúna los requisitos establecidos para obtenerlo de acuerdo con las disposiciones de Seguridad Social española, las del Estado de procedencia o las normas o Convenios Internacionales de Seguridad Social.
+
+Los españoles de origen retornados justificarán su condición mediante la presentación de la baja consular en el país de residencia y el certificado de empadronamiento en el municipio donde hayan fijado su residencia en nuestro país.»
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 296, de 11 de diciembre de 2015. [Ref. BOE-A-2015-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13432).
+
+#### Disposición final sexta. Modificación de la Ley 32/2010, de 5 de agosto, por la que se establece un sistema específico de protección por cese de actividad de los trabajadores autónomos.
+
+Se modifica el apartado 1 del artículo 7 de la Ley 32/2010, de 5 de agosto, por la que se establece un sistema específico de protección por cese de actividad de los trabajadores autónomos, que queda redactado en los siguientes términos:
+
+«1. Los trabajadores autónomos que cumplan los requisitos establecidos en el artículo 4 deberán solicitar a la misma Mutua Colaboradora con la Seguridad Social a la que se encuentren adheridos el reconocimiento del derecho a la protección por cese de actividad.
+
+Respecto de los trabajadores por cuenta propia que no se encuentren adheridos a una Mutua, será de aplicación lo establecido en la disposición adicional cuarta.
+
+Dicho reconocimiento supondrá el nacimiento del derecho al disfrute de la correspondiente prestación económica, a partir del primer día del mes inmediatamente siguiente a aquel en que se produjo el hecho causante del cese de actividad. Cuando el trabajador autónomo económicamente dependiente haya finalizado su relación con el cliente principal, para tener derecho al disfrute de la prestación, no podrá tener actividad con otros clientes a partir del día en que inicie el cobro de la prestación.»
+
+#### Disposición final séptima. Modificación del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.
+
+El artículo 327 del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, queda redactado como sigue:
+
+«Artículo 327. Competencia y efectos de las inscripciones en los Registros Oficiales de licitadores y empresas clasificadas.
+
+1\. Las Comunidades Autónomas podrán crear sus propios Registros Oficiales de licitadores y empresas clasificadas, en los que se inscribirán las condiciones de aptitud de los empresarios que así lo soliciten, que hayan sido clasificados por ellas, o que hayan incurrido en alguna prohibición de contratar cuya declaración corresponda a las mismas o a las Entidades Locales incluidas en su ámbito territorial.
+
+2\. Los órganos competentes de las Comunidades Autónomas que opten por no llevar su propio Registro independiente de licitadores y empresas clasificadas practicarán en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público las inscripciones de oficio de las prohibiciones de contratar a las que se refiere el apartado anterior. Podrán practicar igualmente en dicho Registro las demás inscripciones indicadas en el citado apartado cuando se refieran a empresarios domiciliados en su ámbito territorial y así les sea solicitado por el interesado.
+
+3\. La práctica de inscripciones en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público por los órganos competentes de las Comunidades Autónomas exigirá la previa suscripción de un convenio a tal efecto con el Ministerio de Hacienda y Administraciones Públicas.
+
+4\. Tanto las inscripciones practicadas en el Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público por las Comunidades Autónomas en virtud de lo dispuesto en los apartados 2 y 3 de este artículo como las practicadas por los órganos de la Junta Consultiva de Contratación Administrativa del Estado tendrán, sin distinción alguna, los mismos efectos acreditativos y eficacia plena frente a todos los órganos de contratación del Sector Público.»
+
+#### Disposición final octava. Modificación de la Ley 13/2011, de 27 de mayo, de regulación del juego.
+
+Se introduce una nueva disposición transitoria cuarta bis en la Ley 13/2011, de 27 de mayo, de regulación del juego, en relación con el régimen sancionador aplicable a los puntos de venta en régimen administrativo de la Sociedad Estatal Loterías y Apuestas del Estado.
+
+«Disposición transitoria cuarta bis. Régimen sancionador aplicable a los puntos de venta en régimen administrativo de la Sociedad Estatal Loterías y Apuestas del Estado.
+
+Uno.
+
+1\. El presente régimen de infracciones y sanciones administrativas se aplicará a los puntos de venta que se encuentren acogidos al régimen de Derecho Administrativo.
+
+2\. Son infracciones administrativas de los titulares de los puntos de venta de la red comercial de la Sociedad Estatal Loterías y Apuestas del Estado las acciones u omisiones tipificadas en la presente disposición, que serán sancionables incluso a título de simple negligencia.
+
+3\. Las infracciones y sanciones reguladas en esta disposición podrán ser especificadas en las disposiciones reglamentarias que la desarrollen, en los términos previstos en el artículo 129 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+4\. Serán sujetos infractores los titulares de los puntos de venta que realicen las acciones u omisiones tipificadas como infracciones en esta disposición. Asimismo también serán responsables de las acciones u omisiones tipificadas en esta disposición cuando sean realizadas por sus empleados o colaboradores.
+
+Dos.
+
+La competencia para ejercer la potestad sancionadora regulada en esta disposición corresponde al Director General de Ordenación del Juego.
+
+Tres.
+
+1\. El procedimiento sancionador se ajustará a las normas de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y al Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento de procedimiento para el ejercicio de la potestad sancionadora, sin perjuicio de las normas específicas establecidas en la presente disposición.
+
+2\. Cuando se haya iniciado un procedimiento sancionador, la Dirección General de Ordenación del Juego podrá acordar, previa solicitud adecuadamente motivada de la Sociedad Estatal Loterías y Apuestas del Estado, entre otras, alguna o algunas de las siguientes medidas provisionales:
+
+Cierre temporal del punto de venta.
+
+Desconexión, precinto o retirada, en su caso, de cualquier bien o documentación relativa al desarrollo de la actividad de punto de venta, incluyendo a título enunciativo los equipos o aparatos informáticos, importes en efectivo, décimos o resguardos pagados y la Lotería Nacional u otros títulos al portador gestionados en el punto de venta.
+
+3\. Las medidas señaladas en el apartado anterior podrán ser acordadas, conforme a lo establecido en el mismo, antes de la iniciación del procedimiento sancionador, en las condiciones establecidas en el artículo 72.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+4\. Adoptada, en su caso, alguna de las medidas establecidas en el apartado 2, la Dirección General de Ordenación del Juego acordará su ejecución, a cuyo efectos recabará la colaboración de la Sociedad Estatal Loterías y Apuestas del Estado, cuyo personal será acompañado por un funcionario del Ministerio de Hacienda y Administraciones Públicas, que tendrá carácter de autoridad pública, a los efectos de diligenciar el correspondiente acta de actuaciones.
+
+5\. Ejecutada la medida, la Sociedad Estatal Loterías y Apuestas del Estado comunicará dicha circunstancia a la Dirección General de Ordenación del Juego.
+
+Cuatro.
+
+1\. Las infracciones administrativas en las que pueden incurrir los titulares de los puntos de venta de la red comercial de la Sociedad Estatal Loterías y Apuestas del Estado se clasifican en leves, graves y muy graves.
+
+2\. Son infracciones leves:
+
+a) La ausencia injustificada del titular, de forma reiterada, en el punto de venta.
+
+b) La falta de orden, de aseo o de conservación del establecimiento donde radique el punto de venta.
+
+c) No exhibir en lugar visible del punto de venta el distintivo anunciador, elementos de la imagen corporativa, propaganda, publicidad, prospectos y demás elementos o documentos exigidos, o exhibirlos sin ajustarse a las normas o instrucciones especificas.
+
+d) Faltar al debido respeto y consideración a los usuarios de los puntos de venta.
+
+e) El incumplimiento de la normativa e instrucciones sobre gestión de puntos de venta, cuando no constituya infracción grave o muy grave.
+
+3\. Son infracciones graves:
+
+a) La resistencia, desobediencia u obstrucción a la actuación de los servicios de inspección de la Sociedad Estatal Loterías y Apuestas del Estado.
+
+b) Realizar reformas en el establecimiento donde radique el punto de venta sin la previa autorización, cuando impliquen modificación de las características que sirvieron de base para su adjudicación.
+
+c) Desarrollar en el punto de venta cualquier otra actividad distinta de la prestación de los servicios de punto de venta y, en el caso de los establecimientos mixtos, cualquier otra actividad distinta de la actividad principal autorizada, salvo consentimiento previo y por escrito de la Sociedad Estatal Loterías y Apuestas del Estado.
+
+d) Pérdida, deterioro o menoscabo de los bienes de la Sociedad Estatal Loterías y Apuestas del Estado cedidos para uso de los titulares de los puntos de venta en el ejercicio de su actividad, así como destinarlos a un uso distinto a su función, salvo cuando se trate de equipos o aparatos informáticos.
+
+e) Realizar actividades de promoción o publicidad por cualquier medio del punto de venta o de los juegos y apuestas contraviniendo la normativa o instrucciones específicas o sin la autorización de la Sociedad Estatal Loterías y Apuestas del Estado.
+
+f) El pago indebido o el impago total o parcial de premios cuando no constituya infracción muy grave.
+
+g) La reincidencia por la comisión de dos o más infracciones leves en un plazo de dos años contados desde la sanción por resolución firme en vía administrativa de la primera de ellas.
+
+h) El incumplimiento de las normas e instrucciones sobre gestión de puntos de venta o de las obligaciones impuestas en el título habilitante para el ejercicio de la actividad, cuando se cause perjuicio a la Sociedad Estatal Loterías y Apuestas del Estado o a terceros.
+
+4\. Constituyen infracciones muy graves:
+
+a) El pago indebido o el impago total o parcial de premios cuando se cause un perjuicio grave a la Sociedad Estatal Loterías y Apuestas del Estado o a terceros.
+
+b) La falta de ingreso en la Sociedad Estatal Loterías y Apuestas del Estado de las cantidades recaudadas por venta de juegos y apuestas.
+
+c) La detracción de los fondos recibidos para pago de premios o su aplicación a usos ajenos a su función.
+
+d) La cesión de comisiones por los titulares de los puntos de venta.
+
+e) El abandono del ejercicio de la prestación de los servicios de punto de venta o, cuando proceda, de la actividad principal autorizada.
+
+f) La transmisión de la titularidad del punto de venta sin la correspondiente autorización o la cesión de su uso por cualquier título.
+
+g) El traslado del punto de venta o de los elementos informáticos del mismo sin la correspondiente autorización.
+
+h) El suministro de información o documentación falsa a la Administración.
+
+i) La venta de participaciones y de billetes de Lotería Nacional en forma distinta a la que están representados o puedan ser autorizados.
+
+j) La pérdida, deterioro o menoscabo de los equipos o aparatos informáticos de la Sociedad Estatal Loterías y Apuestas del Estado cedidos para uso de los titulares de los puntos de venta en el ejercicio de su actividad, así como destinarlos a un uso distinto a su función.
+
+k) La no constitución de los avales, fianzas y demás garantías exigibles o su constitución sin sujeción a las condiciones establecidas por la Sociedad Estatal Loterías y Apuestas del Estado.
+
+l) El incumplimiento grave y reiterado de las normas e instrucciones sobre gestión de puntos de venta o de las obligaciones impuestas en el título habilitante para el ejercicio de la actividad, cuando se cause perjuicio a la Sociedad Estatal Loterías y Apuestas del Estado o a terceros.
+
+ll) La reincidencia por la comisión de dos o más infracciones graves en un plazo de dos años contados desde la sanción por resolución firme en vía administrativa de la primera de ellas.
+
+Cinco.
+
+Las infracciones administrativas reguladas en la presente disposición serán sancionadas en la forma siguiente:
+
+a) Por la comisión de infracciones leves se impondrá una o más de las siguientes sanciones: apercibimiento por escrito. Multa de hasta 600 euros.
+
+b) Por la comisión de infracciones graves se impondrá una o más de las siguientes sanciones:
+
+I. Multa desde 601 euros hasta 6.000 euros.
+
+II. Suspensión por un período máximo de tres meses del ejercicio de la actividad autorizada.
+
+c) Por la comisión de infracciones muy graves se impondrá una o más de las siguientes sanciones:
+
+I. Multa desde 6.001 euros hasta 60.000 euros.
+
+Il. Suspensión por un período máximo de seis meses del ejercicio de la actividad autorizada.
+
+III. Revocación de la concesión o autorización del titular del punto de venta.
+
+Seis.
+
+Las sanciones reguladas en el apartado anterior se graduarán teniendo en cuenta los siguientes criterios:
+
+a) La reiteración en la comisión de infracciones.
+
+b) La intencionalidad del sujeto infractor.
+
+c) La trascendencia económica, comercial y social de la infracción.
+
+d) La reincidencia por la comisión de infracciones de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+
+e) El perjuicio deparado a la imagen de la Sociedad Estatal Loterías y Apuestas del Estado.
+
+Siete.
+
+Las infracciones y sanciones reguladas en esta disposición prescribirán según lo dispuesto en el artículo 132 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Ocho.
+
+El régimen de recursos contra las resoluciones sancionadoras que se dicten en el marco de la presente disposición será el establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.»
+
+#### Disposición final novena. Modificación del Real Decreto 1192/2012, de 3 de agosto, por el que se regula la condición de asegurado y de beneficiario a efectos de la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud.
+
+El Real Decreto 1192/2012, de 3 de agosto, por el que se regula la condición de asegurado y de beneficiario a efectos de la asistencia sanitaria en España, con cargo a fondos públicos, a través del Sistema Nacional de Salud, queda modificado como sigue:
+
+Uno. Se da nueva redacción al artículo 5 en los siguientes términos:
+
+«Artículo 5. Reconocimiento de oficio de la condición de asegurado o de beneficiario.
+
+1\. El reconocimiento de oficio de la condición de persona asegurada se hará de forma automática, previa comprobación del cumplimiento de los requisitos establecidos en el artículo 2, en el caso de:
+
+a) Personas comprendidas en el artículo 2.1.a).
+
+b) Personas que pasen a estar comprendidas en el artículo 2.1.b) por dejar de cumplir alguna de las condiciones establecidas en el artículo 2.1.a) o en el artículo 3.1.c).
+
+c) Menores de edad sujetos a tutela administrativa al cumplimiento de la mayoría de edad.
+
+2\. La condición de beneficiario como descendiente de una persona asegurada se rehabilitará de oficio, de forma automática, cuando dicha condición se hubiere interrumpido por pasar aquel a estar comprendido como asegurado en el artículo 2.1.a) y dejar de estarlo posteriormente siendo aún menor de 26 años de edad».
+
+Dos. Se da nueva redacción al artículo 6 en los siguientes términos:
+
+«Artículo 6. Reconocimiento de la condición de asegurado o de beneficiario previa solicitud del interesado.
+
+1\. El reconocimiento de la condición de asegurado a que se refiere el artículo 2.1.b) y de beneficiario a que se refiere el artículo 3, se realizará a instancia del interesado en los supuestos no previstos, respectivamente, en los apartados 1.b) y 2 del artículo 5.
+
+2\. La solicitud de reconocimiento de la condición de persona asegurada irá acompañada de la siguiente documentación, según los casos:
+
+a) En el caso de ciudadanos españoles, el documento nacional de identidad en vigor.
+
+b) En el caso de personas que no tengan nacionalidad española:
+
+1.º Documento nacional de identidad o pasaporte en vigor, y certificado de inscripción en el Registro Central de Extranjeros para los ciudadanos de los Estados miembros de la Unión Europea, de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo o de Suiza.
+
+2.º Documento nacional de identidad o pasaporte en vigor, y tarjeta de residencia de familiar de ciudadano de la Unión Europea para los familiares de ciudadanos de los Estados miembros de la Unión Europea, de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo o de Suiza.
+
+3.º Para las demás personas que no tengan nacionalidad española, pasaporte en vigor y Tarjeta de Identidad de Extranjero que acredite la titularidad de una autorización para residir en España o, en caso de no tener obligación de obtener dicha Tarjeta, la autorización para residir en España en la que conste el correspondiente Número de Identidad de Extranjero.
+
+c) Certificado de empadronamiento en el municipio de residencia del solicitante.
+
+d) En el caso de personas que no sean contribuyentes del Impuesto sobre la Renta de las Personas Físicas, una declaración responsable de no superar el límite de ingresos previsto en el artículo 2.1.b), acompañada, para aquellas personas que no tengan nacionalidad española, de un certificado expedido por la administración tributaria del Estado en el que hayan tenido su última residencia acreditativo de no superar el citado límite de ingresos en atención a la declaración presentada en dicho Estado por un impuesto equivalente al Impuesto sobre la Renta de las Personas Físicas. No obstante lo anterior, los apátridas no estarán obligados a presentar este último certificado.
+
+e) Declaración responsable de no tener cobertura obligatoria de la prestación sanitaria por otra vía, acompañada, en su caso, de un certificado emitido por la institución competente en materia de Seguridad Social o de asistencia sanitaria del país de procedencia del interesado acreditativo de que no procede la exportación del derecho a la prestación de asistencia sanitaria en España. No obstante lo anterior, los apátridas no estarán obligados a presentar este último certificado.
+
+f) Resolución de la declaración de desamparo en el caso de menores sujetos a tutela administrativa.
+
+No será necesario aportar los documentos mencionados en los párrafos a) y c) anteriores cuando los interesados presten su consentimiento para que los datos de identidad, domicilio y residencia puedan ser consultados por la administración a través de los Sistemas de Verificación de Datos de Identidad y de Residencia.
+
+3\. La solicitud de reconocimiento de la condición de persona beneficiaria irá acompañada, además de los documentos previstos en los párrafos a), b) y c) del apartado anterior que correspondan, de la siguiente documentación, según los casos:
+
+a) Libro de familia o certificado de la inscripción del matrimonio para acreditar la condición de cónyuge de la persona asegurada.
+
+b) Certificación de la inscripción en alguno de los registros públicos existentes o, en su defecto, el documento público correspondiente para acreditar la existencia de una pareja de hecho.
+
+c) Documento acreditativo de la condición de ex cónyuge o de separado judicialmente de la persona asegurada, así como el de su derecho a percibir una pensión compensatoria por parte de esta última.
+
+d) Libro de familia o certificado de nacimiento para acreditar la condición de descendiente de la persona asegurada o de su cónyuge, ex cónyuge a cargo o pareja de hecho y, además, el certificado de reconocimiento del grado de discapacidad para aquellos que, siendo mayores de 26 años, tengan una discapacidad en grado igual o superior al 65 por ciento.
+
+e) Documento acreditativo de la tutela o del acogimiento acordado por la autoridad competente para acreditar la condición de menor tutelado o acogido legalmente por la persona asegurada, por su cónyuge, ex cónyuge a cargo o pareja de hecho.
+
+f) Libro de familia o documento equivalente para acreditar la condición de hermana o hermano de la persona asegurada.
+
+g) Declaración responsable de no tener unos ingresos anuales que superen el doble de la cuantía del Indicador Público de Renta de Efectos Múltiples (IPREM), también en cómputo anual.
+
+No será necesario aportar los documentos mencionados en los párrafos a) y c) del apartado 2 cuando los interesados presten su consentimiento para que los datos de identidad, domicilio y residencia puedan ser consultados por la administración a través de los Sistemas de Verificación de Datos de Identidad y de Residencia.
+
+4\. La dirección provincial correspondiente del Instituto Nacional de la Seguridad Social o, en su caso, del Instituto Social de la Marina, dictará resolución expresa y notificará en el plazo de 30 días, contados desde el día siguiente a la recepción de la solicitud, el reconocimiento o denegación de la condición de persona asegurada o beneficiaria en los casos a los que se refiere este artículo.
+
+Transcurrido el plazo de 30 días a que se refiere el párrafo anterior sin que se haya dictado y notificado resolución expresa, la solicitud se entenderá desestimada de conformidad con lo dispuesto en el apartado 3 de la disposición adicional vigésima quinta del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+Las resoluciones, expresas o presuntas, dictadas por la entidad gestora serán recurribles en la forma prevista en el artículo 71 de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social.»
+
+Tres. Se da nueva redacción a la disposición adicional primera, que queda como sigue:
+
+«Disposición adicional primera. Asistencia sanitaria para españoles de origen retornados y residentes en el exterior desplazados temporalmente a España y para los familiares de los anteriores que se establezcan con ellos o les acompañen.
+
+La asistencia sanitaria, a través del Sistema Nacional de Salud, para los españoles de origen residentes en el exterior que retornen a España, así como para sus familiares que se establezcan con ellos, y la asistencia sanitaria para los trabajadores por cuenta ajena y por cuenta propia y pensionistas, españoles de origen, residentes en el exterior, en sus desplazamientos temporales a España, así como para los familiares que les acompañen, se regirá por lo dispuesto en la Ley 40/2006, de 14 de diciembre, del Estatuto de la ciudadanía española en el exterior, y en el Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados, cuando, de acuerdo con las disposiciones de Seguridad Social española, las del Estado de procedencia o las normas o Convenios internacionales de Seguridad Social establecidos al efecto, no tuvieran prevista esta cobertura.»
+
+#### Disposición final décima. Modificación de la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario.
+
+La Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario, queda modificada como sigue:
+
+Uno. Se incluye un nuevo párrafo final en el Preámbulo, con la siguiente redacción:
+
+«Finalmente, resulta conveniente adecuar el texto de esta Ley al contenido de la Sentencia del Tribunal Constitucional 85/2015, de 30 de abril de 2015 en relación con el recurso de inconstitucionalidad número 6228-2013, interpuesto por la Generalitat de Cataluña, facilitando la participación de las Comunidades Autónomas en el procedimiento de reconocimiento, mediante su consulta, informando sobre modificaciones y simplificando el Registro Nacional de Entidades Asociativas Prioritarias.»
+
+Dos. Se modifica el apartado 2 del artículo 3, que queda con la siguiente redacción:
+
+«2. A solicitud de la entidad interesada, el Ministerio de Agricultura, Alimentación y Medio Ambiente procederá al reconocimiento de la entidad asociativa prioritaria, previa consulta a las Comunidades Autónomas afectadas por su carácter supra-autonómico.»
+
+Tres. Se introduce un apartado 4 en el artículo 3, que queda con la siguiente redacción:
+
+«4. Los responsables de las entidades asociativas prioritarias vendrán obligados a comunicar al Ministerio los cambios que pudieran afectar a su condición de prioritarias cuando se produzcan, así como a las Comunidades Autónomas afectadas por su carácter supra-autonómico. Adicionalmente, con carácter anual, procederán a actualizar la relación de productores que forman parte de las mismas».
+
+Cuatro. Se modifica el apartado 1 del artículo 5, que queda con la siguiente redacción:
+
+«1. Se crea en el Ministerio de Agricultura, Alimentación y Medio Ambiente, con carácter informativo, adscrito a la Dirección General de la Industria Alimentaria, un Registro Nacional de Entidades Asociativas Prioritarias, en el que se inscribirán las entidades de esta naturaleza reconocidas de acuerdo con lo establecido en la presente Ley y en su reglamento de desarrollo.»
+
+Cinco. Se suprimen los apartados 3, 4 y 5 del artículo 5.
+
+#### Disposición final undécima. Modificación de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización.
+
+La Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización queda modificada como sigue:
+
+Uno. El apartado 4 del artículo 62 queda redactado del siguiente modo:
+
+«4. El cónyuge o persona con análoga relación de afectividad, los hijos menores de edad o mayores que, dependiendo económicamente del titular, no hayan constituido por sí mismos una unidad familiar y los ascendientes a cargo, que se reúnan o acompañen a los extranjeros enumerados en el apartado 1 del artículo 61, podrán solicitar, conjunta y simultánea o sucesivamente, la autorización y, en su caso, el visado. Para ello deberá quedar acreditado el cumplimiento de los requisitos previstos en el apartado anterior.»
+
+Dos. El artículo 63 queda redactado del siguiente modo:
+
+«Artículo 63. Visado de residencia para inversores.
+
+1\. Los extranjeros no residentes que se propongan entrar en territorio español con el fin de realizar una inversión significativa de capital podrán solicitar el visado de estancia, o en su caso, de residencia para inversores que tendrá una duración de un año.
+
+2\. Se entenderá como inversión significativa de capital aquella que cumpla con alguno de los siguientes supuestos:
+
+a) Una inversión inicial por un valor igual o superior a:
+
+1.º Dos millones de euros en títulos de deuda pública española, o
+
+2.º Un millón de euros en acciones o participaciones sociales de sociedades de capital españolas con una actividad real de negocio, o
+
+3.º Un millón de euros en fondos de inversión, fondos de inversión de carácter cerrado o fondos de capital riesgo constituidos en España, incluidos dentro del ámbito de aplicación de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, o de la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, o
+
+4.º Un millón de euros en depósitos bancarios en entidades financieras españolas.
+
+b) La adquisición de bienes inmuebles en España con una inversión de valor igual o superior a 500.000 euros por cada solicitante.
+
+c) Un proyecto empresarial que vaya a ser desarrollado en España y que sea considerado y acreditado como de interés general, para lo cual se valorará el cumplimiento de al menos una de las siguientes condiciones:
+
+1.º Creación de puestos de trabajo.
+
+2.º Realización de una inversión con impacto socioeconómico de relevancia en el ámbito geográfico en el que se vaya a desarrollar la actividad.
+
+3.º Aportación relevante a la innovación científica y/o tecnológica.
+
+Podrá obtener el visado de residencia para inversores un representante, designado por el inversor y debidamente acreditado, para la gestión de un proyecto de interés general siempre y cuando el proyecto cumpla alguna de las condiciones enumeradas en la letra c).
+
+3\. Se entenderá igualmente que el extranjero solicitante del visado ha realizado una inversión significativa de capital cuando la inversión la lleve a cabo una persona jurídica, domiciliada en un territorio que no tenga la consideración de paraíso fiscal conforme a la normativa española, y el extranjero posea, directa o indirectamente, la mayoría de sus derechos de voto y tenga la facultad de nombrar o destituir a la mayoría de los miembros de su órgano de administración.
+
+4\. Si la inversión se lleva a cabo por un matrimonio en régimen de gananciales o análogo y la cuantía no asciende, al menos, al doble de los umbrales previstos en las letras a) y b) del apartado 2 se considerará que ha sido efectuada por uno de los cónyuges, pudiendo el otro cónyuge solicitar un visado de residencia como familiar en los términos establecidos en el artículo 62.4.»
+
+Tres. El artículo 64 queda redactado del siguiente modo:
+
+«Artículo 64. Forma de acreditación de la inversión.
+
+Para la concesión del visado de residencia para inversores será necesario cumplir los siguientes requisitos:
+
+a) En el caso previsto en la letra a) del apartado 2 del artículo 63, el solicitante deberá acreditar haber realizado la inversión en la cantidad mínima requerida, en un periodo no superior a un año a la presentación de la solicitud, de la siguiente manera:
+
+1.º En el supuesto de inversión en acciones no cotizadas o participaciones sociales, se presentará el ejemplar de la declaración de inversión realizada en el Registro de Inversiones Exteriores del Ministerio de Economía y Competitividad.
+
+2.º En el supuesto de inversión en acciones cotizadas, se presentará un certificado del intermediario financiero, debidamente registrado en la Comisión Nacional del Mercado de Valores o en el Banco de España, en el que conste que el interesado ha efectuado la inversión a efectos de esta norma.
+
+3.º En el supuesto de inversión en deuda pública, se presentará un certificado de la entidad financiera o del Banco de España en el que se indique que el solicitante es el titular único de la inversión para un periodo igual o superior a 5 años.
+
+4.º En el supuesto de inversión en fondos de inversión, fondos de inversión de carácter cerrado o fondos de capital riesgo constituidos en España, se presentará un certificado de la sociedad gestora del fondo, constituida en España, debidamente registrada en la Comisión Nacional del Mercado de Valores, en el que conste que el interesado ha efectuado una inversión de, al menos, un millón de euros en un fondo o fondos bajo su gestión.
+
+5.º En el supuesto de inversión en depósito bancario, se presentará un certificado de la entidad financiera en el que se constate que el solicitante es el titular único del depósito bancario.
+
+b) En el supuesto previsto en la letra b) del apartado 2 del artículo 63 el solicitante deberá acreditar haber adquirido la propiedad de los bienes inmuebles mediante certificación de dominio y cargas del Registro de la Propiedad que corresponda al inmueble o inmuebles. La certificación podrá incorporar un código electrónico de verificación para su consulta en línea. Esta certificación incluirá el importe de la adquisición; en otro caso, se deberá acreditar mediante la aportación de la escritura pública correspondiente.
+
+Si en el momento de la solicitud del visado, la adquisición de los inmuebles se encontrara en trámite de inscripción en el Registro de la Propiedad, será suficiente la presentación de la citada certificación en la que conste vigente el asiento de presentación del documento de adquisición, acompañada de documentación acreditativa del pago de los tributos correspondientes.
+
+El solicitante deberá acreditar disponer de una inversión en bienes inmuebles de 500.000 euros libre de toda carga o gravamen. La parte de la inversión que exceda del importe exigido podrá estar sometida a carga o gravamen.
+
+Si el extranjero no ha formalizado la compra del inmueble o inmuebles pero existe un precontrato con garantía en su cumplimiento por medio de arras u otro medio admitido en derecho formalizado en escritura pública, deberá presentar junto con el cumplimiento de los requisitos indicados en el artículo 62.3, el precontrato con garantía junto con un certificado de una entidad financiera establecida en España en el que se constate que el solicitante dispone de un depósito bancario indisponible con la cantidad necesaria para la adquisición, cumpliendo el contrato comprometido, del inmueble o inmuebles indicados, incluyendo cargas e impuestos. El importe del depósito sólo podrá ser utilizado para la compra final del inmueble o inmuebles indicados en el precontrato con garantía. En este supuesto, el interesado recibirá un visado de residencia para inversores de duración máxima de 6 meses.
+
+Si se acredita la compra efectiva del inmueble o inmuebles indicados, el interesado podrá solicitar un visado de residencia para inversores de un año de duración o una autorización de residencia para inversores conforme al artículo 66.
+
+c) En el supuesto previsto en la letra c) del apartado 2 del artículo 63, se deberá presentar un informe favorable para constatar que en el proyecto empresarial presentado concurren razones de interés general. El informe procederá de la Oficina Económica y Comercial del ámbito de demarcación geográfica donde el inversor presente la solicitud del visado.
+
+Si el inversor designara un representante para la gestión del proyecto empresarial y con el fin de que el mismo obtenga el visado de residencia para inversor, en el informe de la Oficina Económica y Comercial se valorará junto con los requisitos establecidos en el artículo 63.2.c) la necesidad de que intervenga dicho representante para la adecuada gestión del proyecto empresarial.
+
+El representante deberá acreditar ante la Oficina Consular que reúne los requisitos establecidos en el artículo 62.3 de la presente Ley.
+
+d) En el supuesto previsto en el apartado 3 del artículo 63, se deberá presentar un informe favorable procedente de la Oficina Económica y Comercial del ámbito de demarcación geográfica donde el inversor presente la solicitud del visado.»
+
+Cuatro. El artículo 65 queda redactado del siguiente modo:
+
+«Artículo 65. Efectos del visado de residencia para inversores.
+
+La concesión del visado de residencia para inversores constituirá título suficiente para residir y trabajar en España durante su vigencia».
+
+Cinco. El artículo 66 queda redactado del siguiente modo:
+
+«Artículo 66. Autorización de residencia para inversores.
+
+1\. Los inversores extranjeros que realicen una inversión significativa de capital podrán solicitar una autorización de residencia para inversores, que tendrá validez en todo el territorio nacional. La concesión corresponderá a la Dirección General de Migraciones y su tramitación se efectuará por la Unidad de Grandes Empresas y Colectivos Estratégicos.
+
+Podrá obtener la autorización de residencia para inversores un representante designado por el inversor, y debidamente acreditado, para la gestión de un proyecto siempre y cuando el proyecto cumpla alguna de las condiciones enumeradas el artículo 63.2.c).
+
+2\. Si el solicitante de la autorización de residencia es titular de un visado de residencia para inversores en vigor o se encuentra dentro del plazo de los noventa días naturales posteriores a la caducidad del visado, deberá acreditar, además del cumplimiento de los requisitos generales previstos en el artículo 62, los siguientes requisitos:
+
+a) En el supuesto previsto en la letra a) del apartado 2 del artículo 63 el inversor deberá demostrar que ha mantenido la inversión de un valor igual o superior a la cantidad mínima requerida:
+
+1.º En el supuesto de acciones no cotizadas o participaciones sociales, se deberá presentar un certificado notarial que demuestre que el inversor ha mantenido durante el período de referencia anterior la propiedad de las acciones no cotizadas o participaciones sociales que le facultaron para obtener el visado de inversores. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
+
+2.º En el supuesto de inversión en acciones cotizadas, se deberá presentar un certificado de una entidad financiera, en el que conste que el interesado ha mantenido, al menos, en valor promedio un millón de euros invertidos en acciones desde la fecha de obtención del visado de residencia para inversores. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
+
+3.º En el supuesto de inversión en títulos de deuda pública, se deberá presentar un certificado de una entidad financiera o del Banco de España en el que se verifique el mantenimiento, o ampliación, desde la fecha de obtención del visado de residencia para inversores, del número de títulos de deuda pública que adquirió el inversor en el momento en que realizó la inversión inicial. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
+
+4.º En el supuesto de inversión en fondos de inversión, fondos de inversión de carácter cerrado o fondos de capital riesgo constituidos en España se deberá presentar un certificado de la sociedad gestora del fondo, constituida en España, debidamente registrada en la Comisión Nacional del Mercado de Valores, en el que conste que el interesado ha mantenido, desde la fecha de obtención del visado de residencia para inversores, al menos, en valor promedio, un millón de euros invertido en un fondo o fondos bajo su gestión. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
+
+5.º En el supuesto de inversión en depósito bancario, se deberá presentar un certificado de la entidad financiera que verifique que el inversor ha mantenido, o ampliado, su depósito desde la fecha de obtención del visado de residencia para inversores. El certificado deberá estar fechado dentro de los 30 días anteriores a la presentación de la solicitud.
+
+b) En el supuesto previsto en la letra b) del apartado 2 del artículo 63, el solicitante deberá demostrar que el inversor es propietario del bien o bienes inmuebles por la cantidad mínima exigida en dicho artículo. Para ello deberá aportar el certificado o certificados de dominio y cargas del Registro de la Propiedad que corresponda al inmueble o inmuebles y debe estar fechado dentro de los 90 días anteriores a la presentación de la solicitud.
+
+Si el solicitante está en posesión de un visado de residencia para inversores de 6 meses, deberá demostrar que ha adquirido de forma efectiva el inmueble o inmuebles indicados mediante la documentación correspondiente.
+
+c) En el supuesto previsto en la letra c) del apartado 2 del artículo 63, se deberá presentar un informe favorable de la Dirección General de Comercio Internacional e Inversiones del Ministerio de Economía y Competitividad para constatar que las razones de interés general acreditadas inicialmente se mantienen.
+
+d) En el supuesto previsto en el apartado 3 del artículo 63, se deberá presentar un informe favorable de la Dirección General de Comercio Internacional e Inversiones del Ministerio de Economía y Competitividad para constatar que los elementos verificados en el momento de la concesión del visado se mantienen.
+
+e) El cumplimiento de las obligaciones en materia tributaria y de Seguridad Social.
+
+3\. Si el solicitante de la autorización de residencia para inversores se encuentra legalmente en España y no es titular del visado de residencia para inversores deberá acreditar, además del cumplimiento de los requisitos generales previstos en el artículo 62, la realización de una inversión significativa de capital conforme al artículo 64.
+
+Si la inversión se lleva a cabo por un matrimonio en régimen de gananciales o análogo y la cuantía no asciende, al menos, al doble de los umbrales previstos en el artículo 63.2 a) y b) se considerará que ha sido efectuada por uno de los cónyuges, pudiendo el otro cónyuge solicitar una autorización de residencia como familiar en los términos establecidos en el artículo 62.4.
+
+En el supuesto de inversiones del artículo 63.2.c), el informe de proyecto de interés general procederá de la Dirección General de Comercio Internacional e Inversiones.
+
+En el supuesto de inversiones del artículo 63.3 el informe procederá de la Dirección General de Comercio Internacional e Inversiones.
+
+Si el extranjero no ha formalizado la compra del inmueble o inmuebles pero existe un precontrato con garantía en su cumplimiento por medio de arras u otro medio admitido en derecho formalizado en escritura pública, deberá presentar junto con el cumplimiento de los requisitos indicados en el artículo 62.3, el precontrato con garantía junto con un certificado de una entidad financiera establecida en España en el que se constate que el solicitante dispone de un depósito bancario indisponible con la cantidad necesaria para la adquisición, cumpliendo el contrato comprometido, del inmueble o inmuebles indicados, incluyendo cargas e impuestos. El importe del depósito sólo podrá ser utilizado para la compra final del inmueble o inmuebles indicados en el precontrato con garantía. En este supuesto, el interesado recibirá una autorización de residencia para inversores de duración máxima de 6 meses.
+
+Si se acredita la compra efectiva del inmueble o inmuebles indicados, el interesado podrá solicitar una autorización de residencia para inversores.»
+
+Seis. El artículo 67 queda redactado del siguiente modo:
+
+«Artículo 67. Duración de la autorización de residencia para inversores.
+
+1\. La autorización inicial de residencia para inversores tendrá una duración de dos años sin perjuicio de lo establecido en el artículo 66.3 para compras de inmuebles no formalizadas.
+
+2\. Una vez cumplido dicho plazo, aquellos inversores extranjeros que estén interesados en residir en España por una duración superior podrán solicitar la renovación de la autorización de residencia por periodos sucesivos de cinco años, siempre y cuando se mantengan las condiciones que generaron el derecho.
+
+3\. Si durante el periodo de residencia autorizado se modifica la inversión deberá, en todo caso, mantenerse el cumplimiento de alguno de los supuestos previstos en el artículo 63. No será de aplicación esta previsión en el caso de que la variación del valor se deba a fluctuaciones del mercado.»
+
+Siete. El artículo 70 queda redactado del siguiente modo:
+
+«Artículo 70. Definición de actividad emprendedora y empresarial.
+
+1\. Se entenderá como actividad emprendedora aquella que sea de carácter innovador con especial interés económico para España y a tal efecto cuente con un informe favorable emitido por la Oficina Económica y Comercial del ámbito de demarcación geográfica o por la Dirección General de Comercio Internacional e Inversiones.
+
+En el caso de extranjeros que se hallen legalmente en España, la solicitud se dirigirá a la Unidad de Grandes Empresas y Colectivos Estratégicos que de oficio solicitará informe sobre la actividad emprendedora y empresarial a la Dirección General de Comercio Internacional e Inversiones. Este informe, de carácter preceptivo, será evacuado en el plazo de diez días hábiles.
+
+2\. Para la valoración se tendrá en cuenta especialmente y con carácter prioritario la creación de puestos de trabajo en España. Asimismo, se tendrá en cuenta:
+
+a) El perfil profesional del solicitante, su formación y experiencia profesional así como su implicación en el proyecto. En caso de que existan varios socios, se evaluará la participación de cada uno de ellos, tanto de los que solicitan un visado o autorización como de los que no requieran el mismo.
+
+b) El plan de negocio con mención, al menos, a los siguientes elementos:
+
+1.º Descripción del proyecto: actividad empresarial a desarrollar, fecha de inicio, localización, forma jurídica prevista de la empresa, impacto económico potencial que supone la inversión, descripción del número de puestos de trabajo que se estima que puedan crearse y sus funciones y cualificación, actividades previstas de promoción y estrategia de venta.
+
+2.º Descripción del producto o servicio: la descripción será detallada e incluirá los aspectos innovadores.
+
+3.º Análisis de mercado: valoración del mercado y evolución esperada, descripción de los posibles competidores, valoración de los consumidores potenciales y análisis de oferta y demanda.
+
+4.º Financiación: inversión requerida, fuentes de financiación y plan financiero.
+
+c) El valor añadido para la economía española, la innovación u oportunidades de inversión.»
+
+Ocho. El artículo 71 queda redactado del siguiente modo:
+
+«Artículo 71. Profesionales altamente cualificados.
+
+1\. Podrán solicitar una autorización de residencia para profesionales altamente cualificados, que tendrá validez en todo el territorio nacional, las empresas que requieran la incorporación en territorio español de profesionales extranjeros para el desarrollo de una relación laboral o profesional incluida en alguno de los siguientes supuestos:
+
+a) Personal directivo o altamente cualificado, cuando la empresa o grupo de empresas reúna alguna de las siguientes características:
+
+1.º Promedio de plantilla durante los tres meses inmediatamente anteriores a la presentación de la solicitud superior a 250 trabajadores en España, en alta en el correspondiente régimen de la Seguridad Social.
+
+2.º Volumen de cifra neta anual de negocios superior, en España, a 50 millones de euros; o volumen de fondos propios o patrimonio neto superior, en España, a 43 millones de euros.
+
+3.º Inversión bruta media anual, procedente del exterior, no inferior a 1 millón de euros en los tres años inmediatamente anteriores a la presentación de la solicitud.
+
+4.º Empresas con un valor del stock inversor o posición según los últimos datos del Registro de Inversiones Exteriores del Ministerio de Economía y Competitividad superiores a 3 millones de euros.
+
+5.º Pertenencia, en el caso de pequeñas y medianas empresas establecidas en España, a un sector considerado estratégico acreditado mediante informe de la Dirección General de Comercio Internacional e Inversiones.
+
+La acreditación del cumplimiento de los requisitos anteriores se efectuará una única vez, quedando inscrita en la Unidad de Grandes Empresas y Colectivos Estratégicos. Dicha inscripción tendrá una validez de 3 años renovables si se mantienen los requisitos. Cualquier modificación de las condiciones deberá ser comunicada a la Unidad de Grandes Empresas y Colectivos Estratégicos en el plazo de 30 días. En caso de no comunicar dicha modificación, la empresa dejará de estar inscrita en la Unidad.
+
+b) Personal directivo o altamente cualificado que forme parte de un proyecto empresarial que suponga, alternativamente y siempre que la condición alegada en base a este supuesto sea considerada y acreditada como de interés general por la Dirección General de Comercio Internacional e Inversiones de acuerdo con alguna o varias de las siguientes condiciones:
+
+1.º Un incremento significativo en la creación de puestos de trabajo directos por parte de la empresa que solicita la contratación.
+
+2.º Mantenimiento del empleo.
+
+3.º Un incremento significativo en la creación de puestos de trabajo en el sector de actividad o ámbito geográfico en el que se vaya a desarrollar la actividad laboral.
+
+4.º Una inversión extraordinaria con impacto socioeconómico de relevancia en el ámbito geográfico en el que se vaya a desarrollar la actividad laboral.
+
+5.º La concurrencia de razones de interés para la política comercial y de inversión de España.
+
+6.º Una aportación relevante a la innovación científica y/o tecnológica.
+
+c) Graduados, postgraduados de universidades y escuelas de negocios de reconocido prestigio».
+
+Nueve. El artículo 73 queda redactado del siguiente modo:
+
+«Artículo 73. Autorización de residencia por traslado intraempresarial.
+
+1\. Aquellos extranjeros que se desplacen a España en el marco de una relación laboral, profesional o por motivos de formación profesional, con una empresa o grupo de empresas establecida en España o en otro país deberán estar provistos del correspondiente visado de acuerdo con la duración del traslado y de una autorización de residencia por traslado intraempresarial, que tendrá validez en todo el territorio nacional.
+
+2\. Deberán quedar acreditados, además de los requisitos generales del artículo 62, los siguientes requisitos:
+
+a) La existencia de una actividad empresarial real y, en su caso, la del grupo empresarial.
+
+b) Titulación superior o equivalente o, en su caso, experiencia mínima profesional de 3 años.
+
+c) La existencia de una relación laboral o profesional, previa y continuada, de 3 meses con una o varias de las empresas del grupo.
+
+d) Documentación de la empresa que acredite el traslado.
+
+3\. La autorización de residencia por traslado intraempresarial tendrá dos modalidades:
+
+a) Autorización de residencia por traslado intraempresarial ICT UE: Procederá esta autorización en el supuesto de desplazamientos temporales para trabajar como directivo, especialista o para formación, desde una empresa establecida fuera de la Unión Europea a una entidad perteneciente a la misma empresa o grupo de empresas establecida en España.
+
+A estos efectos se entenderá por:
+
+1.º Directivo, aquel que tenga entre sus funciones la dirección de la empresa o de un departamento o subdivisión de la misma.
+
+2.º Especialista, quien posea conocimientos especializados relacionados con las actividades, técnicas o la gestión de la entidad.
+
+3.º Trabajador en formación, aquel titulado universitario que es desplazado con el fin de que obtenga una formación en las técnicas o métodos de la entidad y que perciba una retribución por ello.
+
+La duración máxima del traslado será de 3 años en el caso de directivos o especialistas y de uno en el caso de trabajadores en formación.
+
+Los titulares de una autorización de residencia por traslado intraempresarial ICT UE válida, expedida por España, podrán entrar, residir y trabajar en uno o varios Estados miembros previa comunicación o solicitud de autorización, en su caso, a las autoridades de dichos Estados de acuerdo con su normativa en aplicación de la Directiva 2014/66/UE del Parlamento Europeo y del Consejo, de 15 de mayo de 2014, relativa a las condiciones de entrada y residencia de nacionales de terceros países en el marco de traslados intraempresariales.
+
+Las entidades establecidas en otros Estados miembros de la Unión, podrán desplazar a España, previa comunicación a la Unidad de Grandes Empresas y Colectivos Estratégicos, a los extranjeros titulares de una autorización de traslado intraempresarial ICT UE durante la validez de dicha autorización. La Dirección General de Migraciones podrá oponerse, de manera motivada, a la movilidad en el plazo de 20 días en los siguientes supuestos:
+
+i) Cuando no se cumplan las condiciones previstas en este artículo.
+
+ii) Cuando los documentos presentados se hayan adquirido fraudulentamente, o hayan sido falsificados o manipulados.
+
+iii) Cuando haya transcurrido la duración máxima del traslado.
+
+En caso de oposición por parte de la Dirección General de Migraciones, el primer Estado permitirá la reentrada sin más trámites del extranjero desplazado y de su familia. Si no se hubiera producido todavía el desplazamiento a España, la resolución denegatoria impedirá el mismo.
+
+b) Autorización nacional de residencia por traslado intraempresarial. Procederá esta autorización en los supuestos no contemplados en la letra a) o una vez haya transcurrido la duración máxima del traslado prevista en el apartado anterior.»
+
+Diez. El artículo 74 queda redactado del siguiente modo:
+
+«Artículo 74. Traslados intraempresariales de grupos de profesionales y procedimiento simplificado.
+
+1\. Las empresas o grupos de empresas que cumplan los requisitos establecidos en el artículo 71.1.a) podrán solicitar la tramitación colectiva de autorizaciones que estará basada en la gestión planificada de un cupo temporal de autorizaciones presentadas por la empresa o grupos de empresas.
+
+2\. Las empresas o grupos de empresas que cumplan los requisitos establecidos en el artículo 71.1.a) podrán solicitar su inscripción en la Unidad de Grandes Empresas y Colectivos Estratégicos. La inscripción tendrá una validez de 3 años renovables si se mantienen los requisitos. Cualquier modificación de las condiciones deberá ser comunicada a la Unidad de Grandes Empresas y Colectivos Estratégicos en el plazo de 30 días. En caso de no comunicar dicha modificación, la empresa o grupo de empresa dejará de estar inscrita en la Unidad.
+
+Las empresas inscritas estarán exentas de acreditar, en el momento de la solicitud, los requisitos previstos en el artículo 73.2.a), b) y c). No obstante, la Administración podrá efectuar de oficio comprobaciones del cumplimiento de estos requisitos para lo cuál la entidad deberá disponer de la documentación acreditativa.
+
+3\. Este artículo no será de aplicación a las empresas o grupos de empresas que en los tres años inmediatamente anteriores a la solicitud de autorización:
+
+a) hayan sido sancionadas por infracción grave o muy grave en materia de extranjería e inmigración.
+
+b) no hayan acreditado el cumplimiento de los requisitos en las comprobaciones de oficio efectuadas por la Administración».
+
+Once. El artículo 76 queda redactado del siguiente modo:
+
+«Artículo 76. Procedimiento de autorización.
+
+1\. La tramitación de las autorizaciones de residencia previstas en esta sección se efectuará por la Unidad de Grandes Empresas y Colectivos Estratégicos, contemplará la utilización de medios telemáticos y su concesión corresponderá a la Dirección General de Migraciones.
+
+El plazo máximo de resolución será de veinte días desde la presentación de la solicitud en el órgano competente para su tramitación. Si no se resuelve en dicho plazo, la autorización se entenderá estimada por silencio administrativo. Las resoluciones serán motivadas y podrán ser objeto de recurso de alzada, de acuerdo con lo previsto en los artículos 114 y 115 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común.
+
+La solicitud de autorizaciones de residencia previstas en esta sección prorrogará la vigencia de la situación de residencia o de estancia de la que fuera titular el solicitante hasta la resolución del procedimiento.
+
+2\. Los titulares de una autorización regulada en esta sección podrán solicitar su renovación por periodos de dos años siempre y cuando mantengan las condiciones que generaron el derecho, sin perjuicio de lo establecido en el artículo 67.2. Las renovaciones se tramitarán utilizando medios electrónicos. La Dirección General de Migraciones podrá recabar los informes necesarios para pronunciarse sobre el mantenimiento de las condiciones que generaron el derecho.
+
+La presentación de la solicitud de renovación prorrogará la validez de la autorización hasta la resolución del procedimiento. También se prorrogará en el supuesto en que la solicitud se presentara en los noventa días posteriores a la finalización de la anterior autorización, sin perjuicio de la incoación, en su caso, del correspondiente expediente sancionador.»
+
+Doce. La disposición adicional séptima queda rectada del siguiente modo:
+
+«Disposición adicional séptima. Mantenimiento de los requisitos.
+
+1\. Los extranjeros deberán mantener durante la vigencia de los visados o autorizaciones las condiciones que les dieron acceso a los mismos.
+
+2\. Cualquier modificación durante la residencia que afecte a las condiciones de admisión deberá ser comunicada por el interesado a la Unidad de Grandes Empresas y Colectivos Estratégicos en el plazo de 30 días.
+
+3\. Los órganos competentes de la Administración General del Estado podrán llevar a cabo las comprobaciones que consideren oportunas para verificar el cumplimiento de la legislación vigente.
+
+4\. Si, de acuerdo con lo previsto en esta disposición, se verifica que no se cumplen las condiciones legalmente establecidas el órgano competente podrá extinguir, de manera motivada, previo trámite de audiencia el visado o la autorización.»
+
+#### Disposición final duodécima. Modificación de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia.
+
+Se modifica la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, que queda redactada de la siguiente forma:
+
+Uno. Se modifica la letra d) del artículo 88 que queda redactada de la siguiente forma:
+
+«d) Los jóvenes mayores de 16 años y menores de 25, o menores de 30 años en el caso de personas con un grado de discapacidad igual o superior al 33 por ciento, que cumplan con los requisitos recogidos en esta Ley para beneficiarse de una acción derivada del Sistema Nacional de Garantía Juvenil.
+
+Asimismo, los jóvenes mayores de 25 años y menores de 30, que cumplan con los requisitos recogidos en esta Ley para beneficiarse de una acción derivada del Sistema Nacional de Garantía Juvenil, hasta que su tasa de desempleo se sitúe por debajo del 20 por ciento, según la Encuesta de Población Activa correspondiente al último trimestre del año.»
+
+Dos. Se modifica la letra c) del artículo 97 que queda redactado de la siguiente forma:
+
+«c) Tener más de 16 años y menos de 25, o menos de 30 años en el caso de personas con un grado de discapacidad igual o superior al 33 por ciento, en el momento de solicitar la inscripción en el Fichero del Sistema Nacional de Garantía Juvenil.
+
+Además, los mayores de 25 años y menores de 30 cuando, en el momento de solicitar la inscripción en el Fichero del Sistema Nacional de Garantía Juvenil, la tasa de desempleo de este colectivo sea igual o superior al 20 por ciento.»
+
+Tres. Se modifica el apartado 4 del artículo 101 que queda redactado de la siguiente forma:
+
+«4. La baja en el sistema se producirá de oficio cuando un usuario inscrito cumpla la edad límite aplicable en el momento de su inscripción de conformidad al artículo 97.c), y haya sido atendido previamente con alguna de las medidas implementadas por parte de los sujetos incluidos en las letras a), b) y c) del artículo 88.
+
+Los usuarios inscritos en el sistema no serán dados de baja mientras estén recibiendo algunas de las medidas o acciones previstas en el artículo 106.
+
+Los usuarios inscritos que hayan rechazado alguna de las medidas implementadas en el marco de este sistema por los sujetos referidos causarán baja automática en el mismo al alcanzar la edad prevista en el primer párrafo.
+
+Aquellos usuarios inscritos que, habiendo superado la edad prevista en el primer párrafo, no hayan sido atendidos previamente permanecerán en el sistema sin causar baja de oficio.»
+
+Cuatro. Se añade una disposición adicional vigesimoctava que queda redactada de la siguiente forma:
+
+«Disposición adicional vigesimoctava. Resoluciones sobre la tasa de desempleo, aplicables a los jóvenes mayores de 25 años y menores de 30.
+
+La ampliación de la edad máxima de acceso al Sistema Nacional de la Garantía Juvenil prevista en el artículo 88. d), y en el artículo 97.c), será de aplicación tras la publicación de la resolución que dicte la Dirección General con competencias para administrar el Fondo Social Europeo, teniendo en cuenta la Encuesta de Población Activa del último trimestre de año. Dicha resolución será actualizada con carácter anual.
+
+La falta de resolución expresa en los tres primeros meses del ejercicio posterior al de referencia, implicará la prórroga tácita de la ampliación del ámbito de aplicación del Sistema Nacional de Garantía Juvenil, salvo resolución expresa en contra.»
+
+#### Disposición final decimotercera. Modificación de la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Uno. Se modifica el título del artículo 81 y sus apartados 1 y 2 que pasan a tener la siguiente redacción:
+
+«Artículo 81. Condiciones para la gestión transfronteriza de ECR y EICC y para la prestación de servicios en otros Estados miembros por sociedades gestoras autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011.
+
+1\. Las SGEIC autorizadas en España de conformidad con la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrán, ya sea directamente o mediante el establecimiento de una sucursal, gestionar ECR y EICC establecidas en otro Estado miembro, siempre que la SGEIC esté autorizada a gestionar ese tipo de entidades de inversión así como prestar en otro Estado miembro los servicios a los que se refiere el artículo 43.1 para los que haya sido autorizada.
+
+2\. Toda gestora que se proponga gestionar una ECR o EICC establecida en otro Estado miembro o prestar los servicios a los que se refiere el apartado 1 por primera vez, comunicará a la Comisión Nacional del Mercado de Valores la siguiente información:
+
+a) El Estado miembro en el que se proponga gestionar la ECR o EICC directamente o mediante el establecimiento de una sucursal, o prestar los servicios a los que se refiere el artículo 43.1 para los que haya sido autorizada, y
+
+b) un programa de actividad en el que se indiquen, en particular, los servicios que se proponga prestar o se identifiquen las ECR o EICC que se proponga gestionar.»
+
+Dos. Se modifica el título del artículo 82 y sus apartados 1 y 6 que pasan a tener la siguiente redacción:
+
+«Artículo 82. Condiciones para la gestión de ECR y EICC españolas y para la prestación de servicios en España por sociedades gestoras reguladas por la Directiva 2011/61/UE, del Parlamento Europeo y del Consejo, de 8 de junio de 2011, autorizadas en otro Estado miembro de la Unión Europea.
+
+1\. Toda sociedad gestora autorizada en un Estado miembro de la Unión Europea conforme a la Directiva 2011/61/UE del Parlamento Europeo y del Consejo, de 8 de junio de 2011, podrá gestionar ECR y EICC así como prestar servicios en España, ya sea directamente o mediante el establecimiento de una sucursal, siempre que esté autorizada por dicho Estado miembro a gestionar ese tipo de entidades de inversión o a prestar esos servicios.
+
+6\. La Comisión Nacional del Mercado de Valores comunicará sin demora a las autoridades competentes del Estado miembro de origen de la sociedad gestora cualquier problema detectado que pueda afectar materialmente a la capacidad de la gestora para cumplir adecuadamente sus obligaciones legales o reglamentarias, que incidan en el ámbito supervisor de la Comisión Nacional del Mercado de Valores.»
+
+#### Disposición final decimocuarta. Modificación de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015.
+
+La disposición adicional décima quinta de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015, queda redactada de la siguiente manera:
+
+«Décima quinta. Contratación de personal de las sociedades mercantiles públicas en 2015.
+
+Uno. En el año 2015, las sociedades mercantiles públicas a que se refiere el artículo 20 apartado Uno de esta Ley, no podrán proceder a la contratación de nuevo personal.
+
+Esta limitación no será de aplicación cuando se trate de contratación de personal, funcionario o laboral, con una relación preexistente de carácter fija e indefinida en el sector público estatal, autonómico o local en el que, respectivamente esté incluida la correspondiente sociedad mercantil. Los contratos celebrados al amparo de lo establecido en este apartado generarán derecho a seguir percibiendo, desde la fecha de su celebración, el complemento de antigüedad en la misma cuantía que se viniera percibiendo en el Departamento Ministerial, Organismo Público, sociedad, fundación o consorcio de procedencia.
+
+Solo en casos excepcionales y para cubrir necesidades urgentes e inaplazables, podrán llevar a cabo contrataciones temporales.
+
+Además, las sociedades mercantiles públicas que hayan tenido beneficios en los últimos dos ejercicios podrán realizar, exclusivamente para procesos de consolidación de empleo temporal, contratos indefinidos con un límite del 90 por ciento de su tasa de reposición, calculada conforme a las reglas del artículo 21.Uno.3 de esta Ley.
+
+Las sociedades mercantiles públicas que en el momento de entrada en vigor de esta disposición, y al amparo de la normativa vigente hasta ese momento, hubieran celebrado ya contratos de carácter indefinido, aplicarán lo dispuesto en el párrafo anterior teniendo en cuenta que en ningún caso la suma de los contratos celebrados antes de la entrada en vigor de esta norma y de los celebrados al amparo de la misma, podrá superar el límite del 90 por ciento de su tasa de reposición, calculada conforme a las reglas del artículo 21.uno.3 de esta Ley.
+
+Dos. En el caso de las sociedades mercantiles estatales, la contratación indefinida de personal requerirá, en todo caso, además de lo establecido en el apartado Uno, informe favorable del Ministerio de Hacienda y Administraciones Públicas y del accionista mayoritario.
+
+Asimismo, la contratación temporal en las citadas sociedades, teniendo en cuenta lo indicado en el apartado anterior, se hará de conformidad con los criterios e instrucciones que, previo informe favorable del Ministerio de Hacienda y Administraciones Públicas, se dicten por el accionista mayoritario de las respectivas sociedades.
+
+Las sociedades mercantiles estatales deberán remitir al Ministerio de Hacienda y Administraciones Públicas, junto con la solicitud de autorización de la masa salarial, información relativa a la contratación temporal realizada en el ejercicio anterior, detallando el número de jornadas anualizadas y el coste de las mismas.
+
+Tres. Lo dispuesto en el apartado Uno de esta disposición adicional tiene carácter básico y se dicta al amparo de lo dispuesto en los artículos 149.1.13.ª y 156.1 de la Constitución.»
+
+#### Disposición final decimoquinta. Modificación de la Ley 2/2015, de 30 de marzo, de desindexación de la economía española.
+
+Uno. Se modifica el párrafo quinto del parágrafo ll del preámbulo, que queda redactado como sigue:
+
+«Por su parte, el apartado 2 del artículo 3 establece expresamente las exclusiones del ámbito de aplicación de la Ley. En primer lugar, queda excluida la negociación colectiva, por estar expresamente reconocida como derecho constitucional, de forma que la actualización de salarios no puede sustraerse a lo acordado por las partes; en segundo lugar, las pensiones, que se rigen por su normativa específica. Se hace notar, por otro lado, que dicha normativa identifica un índice de revalorización de pensiones que se basa en un conjunto amplio de variables económicas que aseguran la sostenibilidad del sistema de pensiones de la Seguridad Social. Se excluyen, por último, las operaciones financieras y de tesorería, de forma que éstas tengan la máxima capacidad y flexibilidad de formatos para captar el ahorro nacional e internacional al menor precio, en un contexto de competencia intensa por un recurso escaso como es el ahorro, y donde los productos extranjeros generalmente no están sometidos a restricción alguna en este sentido.»
+
+Dos. Se modifica el apartado 2 del artículo 3, que queda redactado como sigue:
+
+«2. Quedan excluidos del ámbito de aplicación de esta Ley:
+
+a) La negociación salarial colectiva.
+
+b) Las revisiones, revalorizaciones o actualizaciones previstas en el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y en el texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril, así como las revisiones del resto de las pensiones abonadas con cargo a los créditos de la Sección 07 del Presupuesto de Gastos del Estado, cualquiera que sea su legislación reguladora.
+
+c) Las operaciones financieras y de tesorería, que se recogen en el Título IV de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en las que intervenga el sector público estatal, autonómico o local».
+
+#### Disposición final decimosexta. Modificación de disposiciones reglamentarias.
+
+Las normas reglamentarias que son objeto de modificación por esta Ley podrán ser modificadas en el futuro por normas de rango reglamentario correspondiente a la norma en que figuran.
+
+#### Disposición final decimoséptima. Incorporación de derecho de la Unión Europea.
+
+Mediante esta Ley se incorpora al derecho español la Directiva 2014/66/UE, del Parlamento Europeo y del Consejo, de 15 de mayo de 2014, relativa a las condiciones de entrada y residencia de nacionales de terceros países en el marco de traslados intraempresariales.
+
+#### Disposición final decimoctava. Modificación por disposición reglamentaria.
+
+Reglamentariamente se podrán modificar:
+
+a) Los porcentajes del apartado 1 del artículo 34 quáter, que se modifica en el artículo 1.cuarto.cuatro.
+
+b) El porcentaje del 50 por ciento previsto en el artículo 34.2.b), que se modifica en el artículo 1.cuarto.uno.
+
+#### Disposición final decimonovena. Título competencial.
+
+1\. Las modificaciones de textos legales contenidas en esta ley se amparan en el título competencial establecido en la norma objeto de modificación.
+
+2\. Los artículos 4 y 7 se dictan al amparo de lo dispuesto en el artículo 149.1.14.ª de la Constitución Española que atribuye al Estado la competencia en materia de Hacienda general.
+
+3\. El artículo 8 y la disposición transitoria segunda se dictan al amparo de lo establecido en el artículo 149.1.17.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre el régimen económico de la Seguridad Social.
+
+4\. Las disposiciones adicionales primera a quinta y la disposición transitoria primera se dictan al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación mercantil y de legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
+
+5\. La disposición adicional sexta se dicta al amparo de los artículos 149.1.7.ª y 18.ª de la Constitución Española.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 296, de 11 de diciembre de 2015. [Ref. BOE-A-2015-13432](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13432).
+
+#### Disposición final vigésima. Desarrollo reglamentario, ejecución y aplicación.
+
+1\. El Gobierno, a propuesta conjunta de los Ministros de Justicia y de Hacienda y Administraciones Públicas, dictará las disposiciones reglamentarias complementarias que sean necesarias para la aplicación de las tasas por el ejercicio de la potestad jurisdiccional con las modificaciones efectuadas por esta Ley.
+
+2\. Por orden del Ministro de Hacienda y Administraciones Públicas se modificarán los modelos de autoliquidación de la tasa para adaptarlos a las reformas efectuadas en esta Ley.
+
+3\. Se autoriza al Ministerio de Hacienda y Administraciones Públicas, a través de la Secretaría de Estado de Administraciones Públicas, para que dicte las disposiciones, instrucciones y medidas que sean necesarias para el desarrollo efectivo de los procesos electorales a los órganos de participación y negociación colectiva de los empleados públicos, en el ámbito de sus competencias.
+
+4\. Sin perjuicio de lo dispuesto en los apartados anteriores de esta disposición, se autoriza al Gobierno y a los Ministros de Justicia, Hacienda y Administraciones Públicas, Empleo y Seguridad Social y Economía y Competitividad, para que, en el ámbito de sus competencias, dicten las disposiciones reglamentarias y medidas que sean precisas para el desarrollo y aplicación de esta Ley.
+
+#### Disposición final vigesimoprimera. Entrada en vigor.
+
+Esta Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+
+Madrid, 28 de julio de 2015.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+MARIANO RAJOY BREY

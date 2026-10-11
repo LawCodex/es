@@ -1,0 +1,1634 @@
+---
+title: "Orden EHA/3012/2008, de 20 de octubre, por la que se aprueba el modelo 347 de Declaración anual de operaciones con terceras personas, así como los diseños físicos y lógicos y el lugar, forma y plazo de presentación"
+identifier: "BOE-A-2008-16973"
+eli: "https://www.boe.es/eli/es/o/2008/10/20/eha3012"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2008-10-20
+published: 2008-10-23
+in_force_from: 2009-01-01
+last_amended: 2025-12-12
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 256"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-16973"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/3012/2008, de 20 de octubre, por la que se aprueba el modelo 347 de Declaración anual de operaciones con terceras personas, así como los diseños físicos y lógicos y el lugar, forma y plazo de presentación
+
+La aprobación de la Ley 58/2003, General Tributaria, de 17 de diciembre, cuya entrada en vigor se produjo el 1 de julio de 2004, hacía necesaria la aprobación de normas reglamentarias que completaran el régimen jurídico tributario, en particular, las normas comunes sobre los procedimientos tributarios y la regulación de las actuaciones y los procedimientos de gestión e inspección. Con esta finalidad el Real Decreto 1065/2007, de 27 de julio, aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
+
+En el ámbito de la gestión tributaria, el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos tiene una gran trascendencia ya que, por primera vez, regula en una norma única todos los aspectos relacionados con la gestión de los tributos. En este sentido, no sólo se limita al desarrollo de las disposiciones de la Ley General Tributaria, sino que, a su vez codifica y sistematiza las normas contenidas en diversos reglamentos hasta ahora vigentes que se dictaron en desarrollo, fundamentalmente, de la Ley 230/1963, de 28 de diciembre, General Tributaria, actualmente derogada.
+
+En relación con la obligación de informar sobre las operaciones con terceras personas el Reglamento General de aplicación de los tributos deroga el Real Decreto 2027/1995, de 22 de diciembre, por el que se regulaba la declaración anual de operaciones con terceras personas, estableciendo en sus artículos 31 a 35, ambos inclusive, una nueva regulación de la citada declaración informativa.
+
+Las principales novedades introducidas se refieren tanto al ámbito subjetivo como a la información a suministrar en la propia declaración. En cuanto al ámbito subjetivo, y de acuerdo con lo dispuesto en el artículo 32 del Reglamento General de aplicación de los tributos, quedan obligados a presentar la declaración informativa de operaciones con terceras personas aquellas personas físicas y entidades en atribución de rentas en el Impuesto sobre la Renta de las Personas Físicas, que tributen en dicho impuesto por el método de estimación objetiva y, simultáneamente, en el Impuesto sobre el Valor Añadido por los regímenes especiales simplificado o de la agricultura, ganadería y pesca o del recargo de equivalencia, por las operaciones en las que emitan factura, por otra parte, el mismo artículo 32 establece que quedan excluidos de la obligación de presentar la declaración informativa las entidades en régimen de atribución de rentas constituidas en el extranjero, que no tengan presencia en territorio español, así como los obligados tributarios que deban informar sobre las operaciones incluidas en los libros registro del Impuesto sobre el Valor Añadido de acuerdo con el artículo 36 del Reglamento, salvo cuando realicen las operaciones recogidas en el apartado 1.e) del citado artículo 32, en cuyo caso deberán cumplimentar la declaración anual consignando exclusivamente estas operaciones. Por lo que se refiere a la información a suministrar a través de declaración anual de operaciones con terceras personas, el artículo 33.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos establece la obligación de incluir las subvenciones, auxilios o ayudas no reintegrables que se otorguen, y a su vez, el artículo 34.1 del Reglamento exige que se consignen de forma separada los importes superiores a 6.000 euros que se hubieran percibido en metálico de cada una de las personas o entidades relacionadas en la declaración y las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor Añadido.
+
+Considerando las importantes modificaciones introducidas por el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, a las que se ha hecho referencia en los párrafos anteriores, es necesario aprobar un nuevo modelo 347 de Declaración anual de operaciones con terceras personas a través del cual se pueda suministrar la información legalmente exigida, recogiendo los citados cambios normativos, así como estableciendo la posibilidad de presentación de declaraciones complementarias o sustitutivas tal y como éstas se definen en el artículo 118 del Reglamento General de aplicación de los tributos.
+
+Por otra parte, en relación con las formas de presentación, se ha eliminado la modalidad de presentación de la declaración mediante soporte colectivo directamente legible por ordenador, dada la escasa utilización que en la actualidad tiene esta vía por los obligados tributarios. Asimismo, se establece en 30.000 registros el límite para poder realizar la presentación por vía telemática a través de Internet, de forma que si se supera el citado límite la presentación se realizará obligatoriamente por vía telemática por teleproceso o en soporte individual directamente legible por ordenador.
+
+El artículo 117 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, habilita, en el ámbito del Estado, al Ministro de Economía y Hacienda para aprobar los modelos de declaración, autoliquidación y comunicación de datos, así como establecer la forma, lugar y plazos de su presentación.
+
+Por todo lo expuesto, y haciendo uso de las autorizaciones referidas anteriormente, en su virtud dispongo:
+
+## Artículo 1. Aprobación del modelo 347.
+
+1\. Se aprueba el modelo 347 «Declaración anual de operaciones con terceras personas», de formato electrónico y cuyo contenido se ajustará a los diseños lógicos que figuran en el anexo de esta orden.
+
+El número identificativo que habrá de figurar en el modelo 347 será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 347.
+
+2\. La presentación de las declaraciones complementarias o sustitutivas de otra declaración presentada anteriormente que se refieran al mismo período, se realizará de acuerdo con los requisitos técnicos que consten en el momento de la presentación en la Sede electrónica de la Agencia Estatal de Administración Tributaria, en la dirección electrónica https://sede.agenciatributaria.gob.es.
+
+> Se modifica por el art. 2.1 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+> Esta modificación entra en vigor el día 3 de enero de 2022 y será aplicable por primera vez a la Declaración anual de operaciones con terceras personas correspondiente a 2021, según establece la disposición final única de la citada Orden.
+
+## Artículo 2. Formas de presentación.
+
+La presentación del modelo 347 se regirá por lo dispuesto en la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria.
+
+> Se modifica por el art. 2.2 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+> Esta modificación entra en vigor el día 3 de enero de 2022 y será aplicable por primera vez a la Declaración anual de operaciones con terceras personas correspondiente a 2021, según establece la disposición final única de la citada Orden.
+
+## Artículo 3. Formas de presentación del modelo 347.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 4. Lugar y procedimiento de presentación del modelo 347 en impreso.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 5. Lugar y procedimiento de presentación del modelo 347 en soporte directamente legible por ordenador.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 6. Identificación de los soportes directamente legibles por ordenador del modelo 347.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 7. Condiciones generales para la presentación telemática por Internet del modelo 347.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 8. Procedimiento para la presentación telemática por Internet del modelo 347.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 9. Presentación telemática por teleproceso del modelo 347.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.3 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+## Artículo 10. Plazo de presentación del modelo 347.
+
+La presentación de la declaración anual de operaciones con terceras personas, modelo 347, se realizará durante el mes de febrero de cada año en relación con las operaciones realizadas durante el año natural anterior, sin perjuicio de lo dispuesto en el artículo 17.2 de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria.
+
+> Se modifica por el art. 2 de la Orden HAC/1148/2018, de 18 de octubre. [Ref. BOE-A-2018-14901](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14901)
+
+> Téngase en cuenta para su aplicación la disposición final única de la citada Orden.
+
+> Se modifica, con efectos de 1 de enero de 2018, por el art. 5 de la Orden HFP/1106/2017, de 16 de noviembre. [Ref. BOE-A-2017-13279](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13279)
+
+> Se modifica por el art. 1.3 de la Orden EHA/3378/2011, de 1 de diciembre. [Ref. BOE-A-2011-19397](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19397).
+
+## Disposición derogatoria única. Derogación de modelos de declaración, diseños físicos y lógicos así como de determinadas normas de presentación.
+
+Quedan derogadas la Orden de 24 de noviembre de 2000, por la que se aprueban los modelos 347, en pesetas y en euros, de declaración anual de operaciones con terceras personas, así como los diseños físicos y lógicos para la sustitución de las hojas interiores por soportes directamente legibles por ordenador y se establecen las condiciones generales y el procedimiento para su presentación telemática, y el artículo décimo de la Orden EHA/3061/2005, de 3 de octubre, por la que se establecen las condiciones y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 038 y el procedimiento para la presentación telemática por teleproceso de las declaraciones correspondientes al modelo 180, se regula el lugar, plazo y forma de presentación de la declaración-resumen anual correspondiente al modelo 392 y se modifican determinadas normas de presentación de los modelos de declaración 180, 193, 345, 347 y 349, y otras normas tributarias.
+
+## Disposición final única. Entrada en vigor.
+
+La presente Orden entrará en vigor el día 1 de enero de 2009.
+
+Madrid, 20 de octubre de 2008.–El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, Pedro Solbes Mira.
+
+## ANEXO — DISEÑOS FÍSICOS Y LÓGICOS A LOS QUE DEBEN AJUSTARSE LOS ARCHIVOS QUE SE GENEREN PARA LA PRESENTACIÓN TELEMÁTICA Y LOS SOPORTES DIRECTAMENTE LEGIBLES POR ORDENADOR DEL MODELO 347
+
+A) Características de los soportes magnéticos.
+
+Los soportes directamente legibles por ordenador para la presentación de la declaración anual de operaciones con terceras personas (Modelo 347), habrán de cumplir las siguientes características:
+
+– Tipo: DVD-R o DVD+R.
+
+– Capacidad: Hasta 4,7 GB.
+
+– Sistema de archivos UDF.
+
+– De una cara y una capa simple.
+
+Si las características del equipo de que dispone el declarante no le permite ajustarse a las especificaciones técnicas exigidas, y pretende presentar la declaración anual de operaciones con terceras personas (Modelo 347), en soporte directamente legible por ordenador, deberá dirigirse por escrito a la Subdirección General de Aplicaciones del Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria (A.E.A.T.), calle Santa María Magdalena, 16, 28016 Madrid, exponiendo sus propias características técnicas y el número de registros que presentaría, con objeto de encontrar, si lo hay, un sistema compatible con las características técnicas de la A.E.A.T.
+
+B) Diseños lógicos.
+
+Descripción de los registros.
+
+Para cada declarante se incluirán dos tipos diferentes de registro, que se distinguen por la primera posición, con arreglo a los siguientes criterios:
+
+Tipo 1: Registro del declarante: Datos identificativos y resumen de la declaración. Diseño de tipo de registro 1 de los recogidos más adelante en estos mismos apartados y Anexo de la presente Orden.
+
+Tipo 2: Registro de declarado y Registro de inmueble. Diseño de tipo de registro 2 de los recogidos más adelante en estos mismos apartados y Anexo de la presente Orden.
+
+El orden de presentación será el del tipo de registro, existiendo un único registro del tipo 1 y tantos registros del tipo 2 como declarados e inmuebles tenga la declaración, siendo diferentes los de declarados y los de inmuebles.
+
+Todos los campos alfanuméricos y alfabéticos se presentarán alineados a la izquierda y rellenos de blancos por la derecha, en mayúsculas sin caracteres especiales, y sin vocales acentuadas.
+
+Para los caracteres específicos del idioma se utilizará la codificación ISO-8859-1. De esta forma la letra «Ñ» tendrá el valor ASCII 209 (Hex. D1) y la «Ç» (cedilla mayúscula) el valor ASCII 199 (Hex. C7).
+
+Todos los campos numéricos se presentarán alineados a la derecha y rellenos a ceros por la izquierda sin signos y sin empaquetar.
+
+Todos los campos tendrán contenido, a no ser que se especifique lo contrario en la descripción del campo. Si no lo tuvieran, los campos numéricos se rellenarán a ceros y tanto los alfanuméricos como los alfabéticos a blancos.
+
+El primer registro del fichero (tipo 1), contendrá un campo de 13 caracteres, en las posiciones 488 a 500, reservado para el sello electrónico, que será cumplimentado exclusivamente por los programas oficiales de la A.E.A.T. En cualquier otro caso se rellenará a blancos.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_13866850_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_13866850_image8.png)
+
+**MODELO 347**
+
+A. TIPO DE REGISTRO 1: REGISTRO DE DECLARANTE
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Numérico.</td>
+<td>TIPO DE REGISTRO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante número «1».</td>
+</tr>
+<tr>
+<td>2-4</td>
+<td>Numérico.</td>
+<td>MODELO DECLARACIÓN.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «347».</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td>Numérico.</td>
+<td>EJERCICIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Las cuatro cifras del ejercicio fiscal al que corresponde la declaración.</td>
+</tr>
+<tr>
+<td>9-17</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL DECLARANTE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará el NIF del declarante.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones de la izquierda, de acuerdo con las reglas previstas en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007 de 27 de Julio (BOE del 5 de septiembre).</p>
+</td>
+</tr>
+<tr>
+<td>18-57</td>
+<td>Alfanumérico.</td>
+<td>APELLIDOS Y NOMBRE, RAZÓN SOCIAL O DENOMINACIÓN DEL DECLARANTE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Si es una persona física se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este orden. Para personas jurídicas y entidades sin personalidad jurídica, se consignará la razón social completa o denominación, sin anagrama.</p>
+<p>En ningún caso podrá figurar en este campo un nombre comercial.</p>
+</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Alfabético.</td>
+<td>TIPO DE SOPORTE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se cumplimentará una de las siguientes claves:</p>
+<p>«C»: Si la información se presenta en soporte.</p>
+<p>«T»: Transmisión telemática.</p>
+</td>
+</tr>
+<tr>
+<td>59-107</td>
+<td>Alfanumérico.</td>
+<td>PERSONA CON QUIÉN RELACIONARSE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Datos de la persona con quién relacionarse. Este campo se subdivide en dos:</p>
+<p>59-67 TELÉFONO: Campo numérico de 9 posiciones.</p>
+<p>68-107 APELLIDOS Y NOMBRE: Se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este orden.</p>
+</td>
+</tr>
+<tr>
+<td>108-120</td>
+<td>Numérico.</td>
+<td>NÚMERO IDENTIFICATIVO DE LA DECLARACIÓN.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará el número identificativo correspondiente a la declaración. Campo de contenido numérico de 13 posiciones.</p>
+<p>El número identificativo que habrá de figurar, será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 347.</p>
+</td>
+</tr>
+<tr>
+<td>121-122</td>
+<td>Alfabético.</td>
+<td>DECLARACIÓN COMPLEMENTARIA O SUSTITUTIVA.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>En el caso excepcional de segunda o posterior presentación de declaraciones, deberá cumplimentarse obligatoriamente uno de los siguientes campos:</p>
+<p>121 DECLARACIÓN COMPLEMENTARIA:</p>
+<p>Se consignará una «C» si la presentación de esta declaración tiene por objeto incluir registros que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidas en la misma.</p>
+<p>La presentación de una declaración complementaria que tenga por objeto la.</p>
+<p>modificación del contenido de datos declarados en otra declaración del mismo ejercicio presentada anteriormente se realizará desde el servicio de consulta y modificación de declaraciones informativas en la Sede Electrónica de la Agencia Tributaria (https://www.agenciatributaria.gob.es ).</p>
+<p>122 DECLARACIÓN SUSTITUTIVA:</p>
+<p>Se consignará una «S» si la presentación tiene como objeto anular y sustituir completamente a otra declaración anterior, del mismo ejercicio. Una declaración sustitutiva sólo puede anular a una única declaración anterior.</p>
+</td>
+</tr>
+<tr>
+<td>123-135</td>
+<td>Numérico.</td>
+<td>NÚMERO IDENTIFICATIVO DE LA DECLARACIÓN ANTERIOR.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>En el caso de que se haya consignado una «C» en el campo «Declaración complementaria» o en el caso de que se haya consignado «S» en el campo «Declaración sustitutiva», se consignará el número identificativo correspondiente a la declaración a la que complementa o sustituye.</p>
+<p>Campo de contenido numérico de 13 posiciones.</p>
+<p>En cualquier otro caso deberá rellenarse a CEROS.</p>
+</td>
+</tr>
+<tr>
+<td>136-144</td>
+<td>Numérico.</td>
+<td>NÚMERO TOTAL DE PERSONAS Y ENTIDADES.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Se consignará el número total de personas y entidades declaradas en el registro de declarado (registro de detalle de tipo 2) por la entidad declarante. Si un mismo declarado figura en varios registros, se computará tantas veces como figure relacionado. (Número de registros de tipo 2).</td>
+</tr>
+<tr>
+<td>145-160</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE TOTAL ANUAL DE LAS OPERACIONES.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Campo alfanumérico de 16 posiciones.</p>
+<p>Se consignará la suma total de las cantidades reflejadas en el campo «IMPORTE TOTAL ANUAL DE LAS OPERACIONES» (posiciones 84 a 98) correspondientes a los registros de declarados. En el supuesto de que en estos registros de declarados se hubiera consignado «N» en el campo «SIGNO IMPORTE TOTAL ANUAL DE LAS OPERACIONES» (posición 83 del registro de tipo 2) las cantidades se computarán con signo menos a efecto de esta suma.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>145 SIGNO: campo alfabético que se cumplimentará cuando el resultado de la suma a que se acaba de hacer referencia sea menor que 0 (cero); en este caso se consignará una «N». En cualquier otro caso el contenido del campo será un espacio.</p>
+<p>146-160 IMPORTE: Campo numérico de 15 posiciones. Se consignará el importe resultante de la suma a que se ha hecho referencia más arriba. Los importes deben consignarse en EUROS. El importe no irá precedido de signo alguno (+/–), ni incluirá coma decimal. Este campo se subdivide en dos:</p>
+<p>146-158 Parte entera del importe total anual de las operaciones, si no tiene contenido se consignará a ceros.</p>
+<p>159-160 Parte decimal del importe total anual de las operaciones, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>161-169</td>
+<td>Numérico.</td>
+<td>NÚMERO TOTAL DE INMUEBLES.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Se consignará el número total de inmuebles declarados en el registro de inmueble (registro de detalle de tipo 2) por la entidad declarante. Si un mismo inmueble figura en varios registros, se computará tantas veces como figure relacionado. (Número de registros de tipo 2).</td>
+</tr>
+<tr>
+<td>170-185</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE TOTAL DE LAS OPERACIONES DE ARRENDAMIENTO DE LOCALES DE NEGOCIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Campo alfanumérico de 16 posiciones.</p>
+<p>Se consignará la suma total de las cantidades reflejadas en el campo «IMPORTE DE LA OPERACIÓN» (posiciones 100 a 114) correspondientes a los registros de inmuebles.</p>
+<p>En el supuesto de que en estos registros de inmuebles se hubiera consignado «N» en el campo «SIGNO IMPORTE DE LA OPERACIÓN» (posición 99 del registro de tipo 2) las cantidades se computarán con signo menos a efecto de esta suma.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>170 SIGNO: Campo alfabético que se cumplimentará cuando el resultado de la suma a que se acaba de hacer referencia sea menor que 0 (cero); en este caso se consignará una «N». En cualquier otro caso el contenido del campo será un espacio.</p>
+<p>171-185 IMPORTE: Campo numérico de 15 posiciones. Se consignará el importe resultante de la suma a que se ha hecho referencia más arriba. Los importes deben consignarse en EUROS. El importe no irá precedido de signo alguno (+/–), ni incluirá coma decimal. Este campo se subdivide en dos:</p>
+<p>171-183 Parte entera del importe total de las operaciones de arrendamiento de locales de negocio, si no tiene contenido se consignará a ceros. 184-185 Parte decimal del importe total de las operaciones de arrendamiento de locales de negocio, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>186-390</td>
+<td>------------</td>
+<td>BLANCOS.</td>
+</tr>
+<tr>
+<td>391-399</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL REPRESENTANTE LEGAL.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Si el declarante es menor de 14 años se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor). Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+</td>
+</tr>
+<tr>
+<td>400-487</td>
+<td>------------</td>
+<td>BLANCOS.</td>
+</tr>
+<tr>
+<td>488-500</td>
+<td>Alfanumérico.</td>
+<td>SELLO ELECTRÓNICO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Campo reservado para el sello electrónico en presentaciones individuales, que será cumplimentado exclusivamente por los programas de la AEAT En cualquier otro caso se rellenará a blancos.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Todos los importes serán positivos.</p>
+<p>* Los campos numéricos que no tengan contenido se rellenarán a ceros.</p>
+<p>* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.</p>
+<p>* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.</p>
+<p>* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_13866850_image9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_13866850_image10.png)
+
+**MODELO 347**
+
+B. TIPO DE REGISTRO 2: REGISTRO DE DECLARADO
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Numérico.</td>
+<td>TIPO DE REGISTRO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «2».</td>
+</tr>
+<tr>
+<td>2-4</td>
+<td>Numérico.</td>
+<td>MODELO DECLARACIÓN.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «347».</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td>Numérico.</td>
+<td>EJERCICIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</td>
+</tr>
+<tr>
+<td>9-17</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL DECLARANTE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</td>
+</tr>
+<tr>
+<td>18-26</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL DECLARADO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Si el declarado dispone de NIF asignado en España, se consignará:</p>
+<p>Si es una persona física se consignará el NIF del declarado de acuerdo con las reglas previstas en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, (BOE del 5 de septiembre).</p>
+<p>Si el declarado es una persona jurídica o una entidad sin personalidad jurídica (Comunidad de bienes, Sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
+<p>Para la identificación de los menores de 14 años en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+<p>Sólo se cumplimentará con los NIF asignados en España.</p>
+<p>Este campo es incompatible (excluyente) con el campo NIF operador comunitario.</p>
+</td>
+</tr>
+<tr>
+<td>27-35</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL REPRESENTANTE LEGAL.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Si el declarado es menor de 14 años se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor). Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+</td>
+</tr>
+<tr>
+<td>36-75</td>
+<td>Alfanumérico.</td>
+<td>APELLIDOS Y NOMBRE, RAZÓN SOCIAL O DENOMINACIÓN DEL DECLARADO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este mismo orden. Si el declarado es menor de 14 años, se consignarán en este campo los apellidos y nombre del menor de edad.</p>
+<p>b) Tratándose de personas jurídicas y entidades sin personalidad jurídica, se consignará la razón social o la denominación completa de la entidad, sin anagramas.</p>
+</td>
+</tr>
+<tr>
+<td>76</td>
+<td>Alfabético.</td>
+<td>TIPO DE HOJA.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «D».</td>
+</tr>
+<tr>
+<td>77-80</td>
+<td>Numérico.</td>
+<td>CÓDIGO PROVINCIA/PAIS.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>77-78 CÓDIGO PROVINCIA:</p>
+<p>Campo numérico de dos posiciones.</p>
+<p>En el caso de residentes o de no residentes que operen en territorio español mediante establecimiento permanente, se consignará el correspondiente al domicilio fiscal del declarado. Se consignarán los dos dígitos que corresponden a la provincia o ciudad autónoma, del domicilio del declarado, según la siguiente relación:</p>
+<table>
+<tbody>
+<tr>
+<td>ARABA/ÁLAVA.</td>
+<td>01</td>
+<td>LEÓN.</td>
+<td>24</td>
+</tr>
+<tr>
+<td>ALBACETE.</td>
+<td>02</td>
+<td>LLEIDA.</td>
+<td>25</td>
+</tr>
+<tr>
+<td>ALICANTE/Alacant.</td>
+<td>03</td>
+<td>LUGO.</td>
+<td>27</td>
+</tr>
+<tr>
+<td>ALMERÍA.</td>
+<td>04</td>
+<td>MADRID.</td>
+<td>28</td>
+</tr>
+<tr>
+<td>ASTURIAS.</td>
+<td>33</td>
+<td>MÁLAGA.</td>
+<td>29</td>
+</tr>
+<tr>
+<td>ÁVILA.</td>
+<td>05</td>
+<td>MELILLA.</td>
+<td>52</td>
+</tr>
+<tr>
+<td>BADAJOZ.</td>
+<td>06</td>
+<td>MURCIA.</td>
+<td>30</td>
+</tr>
+<tr>
+<td>BARCELONA.</td>
+<td>08</td>
+<td>NAVARRA.</td>
+<td>31</td>
+</tr>
+<tr>
+<td>BURGOS.</td>
+<td>09</td>
+<td>OURENSE.</td>
+<td>32</td>
+</tr>
+<tr>
+<td>CÁCERES.</td>
+<td>10</td>
+<td>PALENCIA.</td>
+<td>34</td>
+</tr>
+<tr>
+<td>CÁDIZ.</td>
+<td>11</td>
+<td>PALMAS, LAS.</td>
+<td>35</td>
+</tr>
+<tr>
+<td>CANTABRIA.</td>
+<td>39</td>
+<td>PONTEVEDRA.</td>
+<td>36</td>
+</tr>
+<tr>
+<td>CASTELLÓN/Castell.</td>
+<td>12</td>
+<td>RIOJA, LA.</td>
+<td>26</td>
+</tr>
+<tr>
+<td>CEUTA.</td>
+<td>51</td>
+<td>SALAMANCA.</td>
+<td>37</td>
+</tr>
+<tr>
+<td>CIUDAD REAL.</td>
+<td>13</td>
+<td>S.C. TENERIFE.</td>
+<td>38</td>
+</tr>
+<tr>
+<td>CÓRDOBA.</td>
+<td>14</td>
+<td>SEGOVIA.</td>
+<td>40</td>
+</tr>
+<tr>
+<td>CORUÑA, A.</td>
+<td>15</td>
+<td>SEVILLA.</td>
+<td>41</td>
+</tr>
+<tr>
+<td>CUENCA.</td>
+<td>16</td>
+<td>SORIA.</td>
+<td>42</td>
+</tr>
+<tr>
+<td>GIRONA.</td>
+<td>17</td>
+<td>TARRAGONA.</td>
+<td>43</td>
+</tr>
+<tr>
+<td>GRANADA.</td>
+<td>18</td>
+<td>TERUEL.</td>
+<td>44</td>
+</tr>
+<tr>
+<td>GUADALAJARA.</td>
+<td>19</td>
+<td>TOLEDO.</td>
+<td>45</td>
+</tr>
+<tr>
+<td>GIPÚZKOA.</td>
+<td>20</td>
+<td>VALENCIA/Valéncia.</td>
+<td>46</td>
+</tr>
+<tr>
+<td>HUELVA.</td>
+<td>21</td>
+<td>VALLADOLID.</td>
+<td>47</td>
+</tr>
+<tr>
+<td>HUESCA.</td>
+<td>22</td>
+<td>BIZKAIA.</td>
+<td>48</td>
+</tr>
+<tr>
+<td>ILLES BALEARS.</td>
+<td>07</td>
+<td>ZAMORA.</td>
+<td>49</td>
+</tr>
+<tr>
+<td>JAÉN.</td>
+<td>23</td>
+<td>ZARAGOZA.</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>
+<p>En el caso de no residentes sin establecimiento permanente se consignará 99.</p>
+<p>79-80 CÓDIGO PAÍS.</p>
+<p>Campo alfabético de 2 posiciones.</p>
+<p>En el caso de no residentes sin establecimiento permanente se consignará XX, siendo XX el Código del país de residencia del declarado, de acuerdo con los códigos alfabéticos de países y territorios que figuran en la Orden EHA/3496/2011, de 15 de Diciembre, en su Anexo II (BOE 26/12/2011).</p>
+</td>
+</tr>
+<tr>
+<td>81</td>
+<td>------------</td>
+<td>BLANCOS.</td>
+</tr>
+<tr>
+<td>82</td>
+<td>Alfabético.</td>
+<td>CLAVE OPERACIÓN.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará la que corresponda según el siguiente detalle:</p>
+<p>A Adquisiciones de bienes y servicios superiores a 3.005,06 euros.</p>
+<p>B Entregas de bienes y prestaciones de servicios superiores a 3.005,06 euros.</p>
+<p>C Cobros por cuenta de terceros superiores a 300,51 euros.</p>
+<p>D Adquisiciones de bienes o servicios al margen de cualquier actividad empresarial o profesional superiores a 3.005,06 euros, realizadas por Entidades Públicas, partidos políticos, sindicatos o asociaciones empresariales, por entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, y por las entidades o establecimientos privados de carácter social a que se refiere el artículo 20.Tres de la Ley 37/1992 de 28 de diciembre.</p>
+<p>E Subvenciones, auxilios y ayudas satisfechos por las Administraciones Públicas cualquiera que sea su importe. (Clave de uso exclusivo para Administraciones Públicas a que se refiere el artículo 3.2 del Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público que satisfagan dichas subvenciones, auxilios y ayudas. Nunca deben utilizar esta clave los declarados de las mismas).</p>
+<p>F Ventas agencia viaje: Servicios documentados mediante facturas expedidas por agencias de viajes, al amparo de la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación aprobado por el Real Decreto 1619/2012, de 30 de noviembre.</p>
+<p>G Compras agencia viaje: Prestaciones de servicios de transportes de viajeros y de sus equipajes por vía aérea a que se refiere la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación aprobado por el Real Decreto 1619/2012, de 30 de noviembre.</p>
+</td>
+</tr>
+<tr>
+<td>83-98</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE ANUAL DE LAS OPERACIONES.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>83 SIGNO: Campo alfabético. Se consignará una «N» cuando el importe anual de las operaciones sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>84-98 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal el importe total anual de las operaciones realizadas con cada persona o entidad durante el año natural con excepción de los importes correspondientes a las operaciones que de acuerdo con el artículo 34.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, deben consignarse separadamente de este total en registros diferentes.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>84-96 Parte entera del importe anual de las operaciones, si no tiene contenido se consignará a ceros.</p>
+<p>97-98 Parte decimal del importe anual de las operaciones, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>99</td>
+<td>Alfabético.</td>
+<td>OPERACIÓN SEGURO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>(Sólo Entidades Aseguradoras).</p>
+<p>Las Entidades Aseguradoras pondrán una «X» en este campo para identificar las operaciones de seguros, debiendo consignarlas separadamente del resto de operaciones.</p>
+</td>
+</tr>
+<tr>
+<td>100</td>
+<td>Alfabético.</td>
+<td>ARRENDAMIENTO LOCAL NEGOCIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>(Sólo arrendadores y arrendatarios de Locales de Negocio). Se pondrá en este campo una «X» para operaciones de arrendamiento de locales de negocio, debiendo consignarlas separadamente del resto.</p>
+<p>Además los arrendadores deberán cumplimentar los campos que componen el REGISTRO DE INMUEBLE, consignando el Importe Total de cada arrendamiento correspondiente al año natural al que se refiere la declaración, con independencia de que éste ya haya sido incluido en la clave «B» (ventas).</p>
+</td>
+</tr>
+<tr>
+<td>101-115</td>
+<td>Numérico.</td>
+<td>IMPORTE PERCIBIDO EN METÁLICO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará sin signo y sin coma decimal los importes superiores a 6.000 euros que se hubieran percibido en metálico (moneda o billetes de curso legal) de cada una de las personas o entidades relacionadas en la declaración. Las operaciones que deben consignarse separadamente del resto de acuerdo con lo dispuesto en el artículo 34.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, también deberán consignar las cantidades percibidas en metálico superiores a 6.000 euros si son percibidas de la misma persona o entidad.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>101-113 Parte entera del importe percibido en metálico, si no tiene contenido se consignará a ceros.</p>
+<p>114-115 Parte decimal del importe percibido en metálico, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>116-131</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE ANUAL PERCIBIDO POR TRANSMISIONES DE INMUEBLES SUJETAS A IVA.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>116 SIGNO: campo alfabético. Se consignará una «N» cuando el importe anual de percibido por transmisiones de inmuebles sujetas a IVA sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>117-131 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal, separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles correspondientes al año, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor Añadido (IVA incluido).</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>117-129 Parte entera del importe anual percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros.</p>
+<p>130-131 Parte decimal del importe anual percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>132-135</td>
+<td>Numérico.</td>
+<td>EJERCICIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Se consignarán las cuatro cifras del ejercicio en el que se hubieran declarado las operaciones que dan origen al cobro en metálico por importe superior a 6.000 euros.</td>
+</tr>
+<tr>
+<td>136-151</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE DE LAS OPERACIONES PRIMER TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>136 SIGNO: campo alfabético. Se consignará una «N» cuando el importe de las operaciones del primer trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>137-151 IMPORTE: campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal el importe de las operaciones realizadas en el primer trimestre, con cada persona o entidad, con excepción de los importes correspondientes a las operaciones que de acuerdo con el artículo 34.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, deben consignarse separadamente de este total en registros diferentes.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>137-149 Parte entera del importe de las operaciones primer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>150-151 Parte decimal del importe de las operaciones primer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>152-167</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE PERCIBIDO POR TRANSMISIONES DE INMUEBLES SUJETAS A IVA PRIMER TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>152 SIGNO: campo alfabético. Se consignará una «N» cuando el importe percibido por transmisiones de inmuebles sujetas a IVA del primer trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>153-167 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal, separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido (IVA incluido) durante el primer trimestre.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>153-165 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA primer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>166-167 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA primer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>168-183</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE DE LAS OPERACIONES SEGUNDO TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>168 SIGNO: campo alfabético. Se consignará una «N» cuando el importe de las operaciones del segundo trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>169-183 IMPORTE: campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal el importe de las operaciones realizadas en el segundo trimestre, con cada persona o entidad, con excepción de los importes correspondientes a las operaciones que de acuerdo con el artículo 34.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, deben consignarse separadamente de este total en registros diferentes.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>169-181 Parte entera del importe de las operaciones segundo trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>182-183 Parte decimal del importe de las operaciones segundo trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>184-199</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE PERCIBIDO POR TRANSMISIONES DE INMUEBLES SUJETAS A IVA SEGUNDO TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>184 SIGNO: campo alfabético. Se consignará una «N» cuando el importe percibido por transmisiones de inmuebles sujetas a IVA del segundo trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>185-199 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido (IVA incluido) durante el segundo trimestre.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>185-197 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA segundo trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>198-199 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA segundo trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de operaciones de un sujeto pasivo que resulte destinatario de una operación incluida en el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido.</p>
+</td>
+</tr>
+<tr>
+<td>200-215</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE DE LAS OPERACIONES TERCER TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>200 SIGNO: campo alfabético. Se consignará una «N» cuando el importe de las operaciones del tercer trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>201-215 IMPORTE: campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal el importe de las operaciones realizadas en el tercer trimestre, con cada persona o entidad, con excepción de los importes correspondientes a las operaciones que de acuerdo con el artículo 34.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, deben consignarse separadamente de este total en registros diferentes.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>201-213 Parte entera del importe de las operaciones tercer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>214-215 Parte decimal del importe de las operaciones tercer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>216-231</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE PERCIBIDO POR TRANSMISIONES DE INMUEBLES SUJETAS A IVA TERCER TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>216 SIGNO: campo alfabético. Se consignará una «N» cuando el importe percibido por transmisiones de inmuebles sujetas a IVA del tercer trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>217-231 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido(IVA incluido) durante el tercer trimestre.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>217-229 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA tercer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>230-231 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA tercer trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>232-247</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE DE LAS OPERACIONES CUARTO TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>232 SIGNO: campo alfabético. Se consignará una «N» cuando el importe de las operaciones del cuarto trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>233-247 IMPORTE: campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal el importe de las operaciones realizadas en el cuarto trimestre, con cada persona o entidad, con excepción de los importes correspondientes a las operaciones que de acuerdo con el artículo 34.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, deben consignarse separadamente de este total en registros diferentes.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>233-245 Parte entera del importe de las operaciones cuarto trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>246-247 Parte decimal del importe de las operaciones cuarto trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>248-263</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE PERCIBIDO POR TRANSMISIONES DE INMUEBLES SUJETAS A IVA CUARTO TRIMESTRE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>248 SIGNO: campo alfabético. Se consignará una «N» cuando el importe percibido por transmisiones de inmuebles sujetas a IVA del cuarto trimestre sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>249-263 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal, separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido(IVA incluido) durante el cuarto trimestre.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>249-261 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA cuarto trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>262-263 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA cuarto trimestre, si no tiene contenido se consignará a ceros.</p>
+<p>Este campo no tendrá contenido cuando se trate de información suministrada por las entidades a las que sea de aplicación la Ley 49/1960, de 21 de julio sobre la propiedad horizontal, o por sujetos pasivos que realicen operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido. Tampoco tendrá contenido cuando se trate de suministrar información relativa a operaciones incluidas en el régimen especial del criterio de caja por parte de los sujetos pasivos destinatarios de las mismas.</p>
+</td>
+</tr>
+<tr>
+<td>264-280</td>
+<td>Alfanumérico.</td>
+<td>NIF OPERADOR COMUNITARIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Alfanumérico de 17 posiciones.</p>
+<p>Se compone de los subcampos:</p>
+<p>264-265 Código país.</p>
+<p>Alfabético de 2 posiciones.</p>
+<p>Se compone de las dos primeras letras identificativas del Estado miembro de la UE.</p>
+<p>266-280 Número.</p>
+<p>Alfanumérico de 15 posiciones.</p>
+<p>Campo alfanumérico, que se ajustará a la izquierda y se rellenará con blancos a la derecha en los casos en que dicho número tenga menos de 15 posiciones.</p>
+<p>Composición del NIF comunitario de los distintos Estados miembros:</p>
+<table>
+<thead>
+<tr>
+<th>País</th>
+<th>Cód. País</th>
+<th>Número</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Austria.</td>
+<td>AT</td>
+<td>9 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Bélgica.</td>
+<td>BE</td>
+<td>9 ó 10 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Bulgaria.</td>
+<td>BG</td>
+<td>9 ó 10 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Chipre.</td>
+<td>CY</td>
+<td>9 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Chequia.</td>
+<td>CZ</td>
+<td>8, 9 ó 10 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Alemania.</td>
+<td>DE</td>
+<td>9 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Dinamarca.</td>
+<td>DK</td>
+<td>8 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Estonia.</td>
+<td>EE</td>
+<td>9 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Grecia.</td>
+<td>EL</td>
+<td>9 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Finlandia.</td>
+<td>FI</td>
+<td>8 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Francia.</td>
+<td>FR</td>
+<td>11 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Gran Bretaña.</td>
+<td>GB</td>
+<td>5, 9 ó 12 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Croacia.</td>
+<td>HR</td>
+<td>11 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Hungría.</td>
+<td>HU</td>
+<td>8 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Irlanda.</td>
+<td>IE</td>
+<td>8 ó 9 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Irlanda del Norte.</td>
+<td>XI</td>
+<td>5, 9 o 12 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Italia.</td>
+<td>IT</td>
+<td>11 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Lituania.</td>
+<td>LT</td>
+<td>9 ó 12 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Luxemburgo.</td>
+<td>LU</td>
+<td>8 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Letonia.</td>
+<td>LV</td>
+<td>11 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Malta.</td>
+<td>MT</td>
+<td>8 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Países Bajos.</td>
+<td>NL</td>
+<td>12 caracteres alfanuméricos.</td>
+</tr>
+<tr>
+<td>Polonia.</td>
+<td>PL</td>
+<td>10 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Portugal.</td>
+<td>PT</td>
+<td>9 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Rumania.</td>
+<td>RO</td>
+<td>2, 3, 4, 5, 6, 7, 8, 9 ó 10 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Suecia.</td>
+<td>SE</td>
+<td>12 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Eslovenia.</td>
+<td>SI</td>
+<td>8 caracteres numéricos.</td>
+</tr>
+<tr>
+<td>Eslovaquia.</td>
+<td>SK</td>
+<td>10 caracteres numéricos.</td>
+</tr>
+</tbody>
+</table>
+<p>Este campo es incompatible (excluyente) con el campo NIF del declarado.</p>
+</td>
+</tr>
+<tr>
+<td>281</td>
+<td>Alfabético.</td>
+<td>OPERACIONES RÉGIMEN ESPECIAL CRITERIO DE CAJA IVA.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>(Tanto para sujetos pasivos acogidos al régimen especial como para destinatarios de las operaciones incluidas en el mismo).</p>
+<p>Se pondrá una «X» en este campo para operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido, debiendo consignarlas separadamente del resto.</p>
+<p>Respecto de estas operaciones, se debe informar del importe devengado durante el año natural conforme a la regla general de devengo contenida en el artículo 75 de la Ley 37/1992, de 28 de diciembre, así como del importe devengado durante el año natural de acuerdo con lo establecido en el artículo 163 terdecies de la Ley 37/1992, de 28 de diciembre. Ambos importes deberán informarse sobre una base de cómputo anual.</p>
+<p>La identificación de estas operaciones es compatible con la identificación de las operaciones de seguro y de arrendamientos de locales de negocio.</p>
+</td>
+</tr>
+<tr>
+<td>282</td>
+<td>Alfabético.</td>
+<td>OPERACIÓN CON INVERSIÓN DEL SUJETO PASIVO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>(Sólo el destinatario de la operación).</p>
+<p>Se pondrá una «X» en este campo para identificar separadamente del resto las operaciones en las que el sujeto pasivo sea el destinatario de la operación de acuerdo con lo establecido en el artículo 84.Uno.2.º de la Ley 37/1992, de 28 de diciembre.</p>
+</td>
+</tr>
+<tr>
+<td>283</td>
+<td>Alfabético.</td>
+<td>OPERACIÓN CON BIENES VINCULADOS O DESTINADOS A VINCULARSE AL RÉGIMEN DE DEPÓSITO DISTINTO DEL ADUANERO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Se pondrá una «X» en este campo para identificar separadamente del resto las operaciones que hayan resultado exentas del Impuesto sobre el Valor Añadido por referirse a bienes vinculados o destinados a vincularse al régimen de depósito distinto de los aduaneros.</td>
+</tr>
+<tr>
+<td>284-299</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE ANUAL DE LAS OPERACIONES DEVENGADAS CONFORME AL CRITERIO DE CAJA DEL IVA.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Este campo se subdivide en dos:</p>
+<p>284 SIGNO: campo alfabético. Se consignará una «N» cuando el importe anual de las operaciones sea menor que 0 (cero). En cualquier otro caso el contenido de este campo será un espacio.</p>
+<p>285-299 IMPORTE: campo numérico de 15 posiciones. Se consignará sin signo y sin coma decimal el importe anual de las operaciones a las que sea de aplicación el régimen especial del criterio de caja del Impuesto sobre el Valor Añadido, devengadas total o parcialmente de conformidad con los criterios contenidos en el artículo 163 tercedies de la Ley 37/1992, de 28 de diciembre. Estos importes deben ser informados sobre una base de cómputo anual, tanto por el sujeto pasivo que realice operaciones a las que sea de aplicación este régimen especial como por los destinatarios de las operaciones incluidas en el mismo.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>285-297 Parte entera del importe anual de las operaciones, si no tiene contenido se consignará a ceros.</p>
+<p>298-299 Parte decimal del importe anual de las operaciones, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>300-305</td>
+<td>Numérico.</td>
+<td>NÚMERO DE CONVOCATORIA BDNS.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Código de convocatoria de la subvención o ayuda en Base de Datos Nacional de Subvenciones (BDNS).</p>
+<p>Solo se podrá cumplimentar cuando la clave de operación sea "E".</p>
+</td>
+</tr>
+<tr>
+<td>306-500</td>
+<td>--------</td>
+<td>BLANCOS.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Todos los importes serán positivos.</p>
+<p>* Los campos numéricos que no tengan contenido se rellenarán a ceros.</p>
+<p>* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.</p>
+<p>* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.</p>
+<p>* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_13866850_image11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2014/234/09740_13866850_image12.png)
+
+**MODELO 347**
+
+B. TIPO DE REGISTRO 2: REGISTRO DE INMUEBLE
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Numérico.</td>
+<td>TIPO DE REGISTRO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «2».</td>
+</tr>
+<tr>
+<td>2-4</td>
+<td>Numérico.</td>
+<td>MODELO DECLARACIÓN.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «347».</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td>Numérico.</td>
+<td>EJERCICIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</td>
+</tr>
+<tr>
+<td>9-17</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL DECLARANTE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</td>
+</tr>
+<tr>
+<td>18-26</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL ARRENDATARIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Si el arrendatario dispone de NIF asignado en España, se consignará:</p>
+<p>Si es una persona física se consignará el NIF del declarado de acuerdo con las reglas previstas en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, (BOE del 5 de septiembre).</p>
+<p>Si el declarado es una persona jurídica o una entidad sin personalidad jurídica (Comunidad de bienes, Sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
+<p>Para la identificación de los menores de 14 años en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+<p>Sólo se cumplimentará con los NIF asignados en España.</p>
+</td>
+</tr>
+<tr>
+<td>27-35</td>
+<td>Alfanumérico.</td>
+<td>NIF DEL REPRESENTANTE LEGAL.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Si el arrendatario es menor de 14 años se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor).</p>
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+</td>
+</tr>
+<tr>
+<td>36-75</td>
+<td>Alfanumérico.</td>
+<td>APELLIDOS Y NOMBRE, RAZÓN SOCIAL O DENOMINACIÓN DEL ARRENDATARIO.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este mismo orden. Si el arrendatario es menor de 14 años, se consignarán en este campo los apellidos y nombre del menor de 14 años.</p>
+<p>b) Tratándose de personas jurídicas y entidades sin personalidad jurídica, se consignará la razón social o la denominación completa de la entidad, sin anagramas.</p>
+</td>
+</tr>
+<tr>
+<td>76</td>
+<td>Alfabético.</td>
+<td>TIPO DE HOJA.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Constante «I».</td>
+</tr>
+<tr>
+<td>77-98</td>
+<td>--------</td>
+<td>BLANCOS.</td>
+</tr>
+<tr>
+<td>99-114</td>
+<td>Alfanumérico.</td>
+<td>IMPORTE DE LA OPERACIÓN.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará el importe total, del arrendamiento del local de negocios correspondiente al año natural al que se refiere la declaración, cualquiera que sea la cuantía a la que ascienda el mismo.</p>
+<p>Los importes deben consignarse en EUROS.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>99 SIGNO: Campo alfabético que se cumplimentará cuando el resultado de la suma a que se acaba de hacer referencia sea menor que 0 (cero); en este caso se consignará una «N». En cualquier otro caso el contenido del campo será un espacio.</p>
+<p>100-114 IMPORTE: Campo numérico de 15 posiciones. Se consignará el importe resultante de la suma a que se ha hecho referencia más arriba. Los importes deben consignarse en EUROS. El importe no irá precedido de signo alguno (+/–), ni incluirá coma decimal. Este campo se subdivide en dos:</p>
+<p>100-112 Parte entera del importe de la operación, si no tiene contenido se consignará a ceros.</p>
+<p>113-114 Parte decimal del importe de la operación, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>115</td>
+<td>Numérico.</td>
+<td>SITUACIÓN DEL INMUEBLE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará de entre las siguientes claves la que corresponda a la situación del local de negocio arrendado:</p>
+<p>1. Inmueble con referencia catastral situado en cualquier punto del territorio español, excepto País Vasco y Navarra.</p>
+<p>2. Inmueble situado en la Comunidad Autónoma del País Vasco o en la Comunidad Foral de Navarra.</p>
+<p>3. Inmueble en cualquiera de las situaciones anteriores pero sin referencia catastral.</p>
+<p>4. Inmueble situado en el extranjero.</p>
+</td>
+</tr>
+<tr>
+<td>116-140</td>
+<td>Alfanumérico.</td>
+<td>REFERENCIA CATASTRAL.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>Se consignará la referencia catastral correspondiente al local de negocio arrendado.</td>
+</tr>
+<tr>
+<td>141-333</td>
+<td>Alfanumérico.</td>
+<td>DIRECCIÓN DEL INMUEBLE.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Se consignará la dirección correspondiente al local de negocio arrendado.</p>
+<p>Este campo se subdivide en:</p>
+<p>141-145 TIPO DE VÍA.</p>
+<p>Se consignará el código alfabético de tipo de vía, normalizado según Instituto Nacional de Estadística (INE).</p>
+<p>146-195 NOMBRE VÍA PÚBLICA.</p>
+<p>Se consignará el nombre largo de la vía pública, si no cupiese completo el nombre, no se harán constar los artículos, preposiciones ni conjunciones y se pondrán en abreviatura los títulos (vgr. cd = Conde). Los demás casos se abreviarán utilizando las siglas de uso general.</p>
+<p>196-198 TIPO DE NUMERACIÓN.</p>
+<p>Se consignará el tipo de numeración (Valores: NÚM; KM.; S/N; etc.).</p>
+<p>199-203 NÚMERO DE CASA.</p>
+<p>Se consignará el número de casa o punto kilométrico.</p>
+<p>204-206 CALIFICADOR DEL NÚMERO.</p>
+<p>Se consignará el calificador del número (valores BIS; DUP; MOD; ANT; etc / metros si Tipo Numer = KM.).</p>
+<p>207-209 BLOQUE.</p>
+<p>Se consignará el bloque (número o letras).</p>
+<p>210-212 PORTAL.</p>
+<p>Se consignará el portal (número o letras).</p>
+<p>213-215 ESCALERA.</p>
+<p>Se consignará la escalera (número o letras).</p>
+<p>216-218 PLANTA O PISO.</p>
+<p>Se consignará la planta o el piso (número o letras).</p>
+<p>219-221 PUERTA.</p>
+<p>Se consignará la puerta (número o letras).</p>
+<p>222-261 COMPLEMENTO.</p>
+<p>Datos complementarios del domicilio. Valores: Literal libre. (Ejemplos: «Urbanización ..........»; «Centro Comercial ........, local ..........»; «Mercado de .......... puesto n.º ........»; «Edificio .........»; etc.).</p>
+<p>262-291 LOCALIDAD O POBLACIÓN.</p>
+<p>Se consignará el nombre de la localidad, de la población, etc., si es distinta al Municipio.</p>
+<p>292-321 MUNICIPIO.</p>
+<p>Se consignará el nombre de municipio.</p>
+<p>Se consignará el correspondiente al local de negocio arrendado.</p>
+<p>322-326 CÓDIGO DE MUNICIPIO.</p>
+<p>Se consignará el CODIGO de municipio normalizado según Instituto Nacional de Estadística (INE).</p>
+<p>327-328 CÓDIGO PROVINCIA.</p>
+<p>Se consignará el código de la provincia.</p>
+<p>Se consignarán los dos dígitos numéricos que correspondan a la provincia o, en su caso, ciudad autónoma, que corresponda al local de negocios arrendado, según la siguiente relación:</p>
+<table>
+<tbody>
+<tr>
+<td>ÁLAVA/ARABA.</td>
+<td>01</td>
+<td>LEÓN.</td>
+<td>24</td>
+</tr>
+<tr>
+<td>ALBACETE.</td>
+<td>02</td>
+<td>LLEIDA.</td>
+<td>25</td>
+</tr>
+<tr>
+<td>ALICANTE/Alacant.</td>
+<td>03</td>
+<td>LUGO.</td>
+<td>27</td>
+</tr>
+<tr>
+<td>ALMERÍA.</td>
+<td>04</td>
+<td>MADRID.</td>
+<td>28</td>
+</tr>
+<tr>
+<td>ASTURIAS.</td>
+<td>33</td>
+<td>MÁLAGA.</td>
+<td>29</td>
+</tr>
+<tr>
+<td>ÁVILA.</td>
+<td>05</td>
+<td>MELILLA.</td>
+<td>52</td>
+</tr>
+<tr>
+<td>BADAJOZ.</td>
+<td>06</td>
+<td>MURCIA.</td>
+<td>30</td>
+</tr>
+<tr>
+<td>BARCELONA.</td>
+<td>08</td>
+<td>NAVARRA.</td>
+<td>31</td>
+</tr>
+<tr>
+<td>BURGOS.</td>
+<td>09</td>
+<td>OURENSE.</td>
+<td>32</td>
+</tr>
+<tr>
+<td>CÁCERES.</td>
+<td>10</td>
+<td>PALENCIA.</td>
+<td>34</td>
+</tr>
+<tr>
+<td>CÁDIZ.</td>
+<td>11</td>
+<td>PALMAS, LAS.</td>
+<td>35</td>
+</tr>
+<tr>
+<td>CANTABRIA.</td>
+<td>39</td>
+<td>PONTEVEDRA.</td>
+<td>36</td>
+</tr>
+<tr>
+<td>CASTELLÓN/Castell.</td>
+<td>12</td>
+<td>RIOJA, LA.</td>
+<td>26</td>
+</tr>
+<tr>
+<td>CEÚTA.</td>
+<td>51</td>
+<td>SALAMANCA.</td>
+<td>37</td>
+</tr>
+<tr>
+<td>CIUDAD REAL.</td>
+<td>13</td>
+<td>S.C. TENERIFE.</td>
+<td>38</td>
+</tr>
+<tr>
+<td>CÓRDOBA.</td>
+<td>14</td>
+<td>SEGOVIA.</td>
+<td>40</td>
+</tr>
+<tr>
+<td>CORUÑA, A.</td>
+<td>15</td>
+<td>SEVILLA.</td>
+<td>41</td>
+</tr>
+<tr>
+<td>CUENCA.</td>
+<td>16</td>
+<td>SORIA.</td>
+<td>42</td>
+</tr>
+<tr>
+<td>GIRONA.</td>
+<td>17</td>
+<td>TARRAGONA.</td>
+<td>43</td>
+</tr>
+<tr>
+<td>GRANADA.</td>
+<td>18</td>
+<td>TERUEL.</td>
+<td>44</td>
+</tr>
+<tr>
+<td>GUADALAJARA.</td>
+<td>19</td>
+<td>TOLEDO.</td>
+<td>45</td>
+</tr>
+<tr>
+<td>GIPÚZKOA.</td>
+<td>20</td>
+<td>VALENCIA.</td>
+<td>46</td>
+</tr>
+<tr>
+<td>HUELVA.</td>
+<td>21</td>
+<td>VALLADOLID.</td>
+<td>47</td>
+</tr>
+<tr>
+<td>HUESCA.</td>
+<td>22</td>
+<td>BIZKAIA.</td>
+<td>48</td>
+</tr>
+<tr>
+<td>ILLES BALEARS.</td>
+<td>07</td>
+<td>ZAMORA.</td>
+<td>49</td>
+</tr>
+<tr>
+<td>JAÉN.</td>
+<td>23</td>
+<td>ZARAGOZA.</td>
+<td>50</td>
+</tr>
+</tbody>
+</table>
+<p>329-333 CÓDIGO POSTAL.</p>
+<p>Se consignará el código postal correspondiente a la dirección del local de negocio arrendado.</p>
+</td>
+</tr>
+<tr>
+<td>334-500</td>
+<td>--------</td>
+<td>BLANCOS.</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Todos los importes serán positivos.</p>
+<p>* Los campos numéricos que no tengan contenido se rellenarán a ceros.</p>
+<p>* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.</p>
+<p>* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.</p>
+<p>* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica el campo «BLANCOS» y se añade el campo «NÚMERO DE CONVOCATORIA BDNS» en el tipo de registro 2, registro de declarado, por el art. 1.1 y 2 de la Orden HAC/1431/2025, de 3 de diciembre. [Ref. BOE-A-2025-25390](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25390)
+
+> Téngase en cuenta que será de aplicación por primera vez para la presentación del modelo 347 correspondientes al ejercicio 2025 y siguientes, según establece su disposición final única de la citada Orden.
+
+> Se modifica el campo «NIF operador comunitario» del tipo de registro 2, registro de declarado, posiciones 264-280, y pasa a denominarse Anexo por el art. 2.4 y 6 de la Orden HFP/1395/2021, de 9 de diciembre. [Ref. BOE-A-2021-20577](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-20577)
+
+> Su anterior denominación era Anexo II. El Anexo I se suprime por el art. 2.5 de la citada Orden.
+
+> Se sustituye por el art.1.2 y el Anexo II de la Orden HAP/1732/2014, de 24 de septiembre. [Ref. BOE-A-2014-9740](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9740).
+
+> Téngase en cuenta que será de aplicación por primera vez para la presentación de las declaraciones informativas correspondientes al ejercicio 2014, según establece la disposición final única de la citada Orden.
+
+> Se sustituye por el art. 1.2 y el Anexo II de la Orden EHA/3378/2011, de 1 de diciembre. [Ref. BOE-A-2011-19397](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19397).
+
+> Se añade un campo en las posiciones 130 a 133 de los registros tipo 2- Registro de declarado por el el art. 1.2 de la Orden EHA/3061/2010, de 22 de noviembre, [Ref. BOE-A-2010-18367](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18367).

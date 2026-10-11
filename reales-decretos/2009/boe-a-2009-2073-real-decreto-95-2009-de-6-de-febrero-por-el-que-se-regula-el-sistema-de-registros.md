@@ -1,0 +1,603 @@
+---
+title: "Real Decreto 95/2009, de 6 de febrero, por el que se regula el Sistema de registros administrativos de apoyo a la Administración de Justicia"
+identifier: "BOE-A-2009-2073"
+eli: "https://www.boe.es/eli/es/rd/2009/02/06/95"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 2009-02-06
+published: 2009-02-07
+in_force_from: 2009-02-08
+last_amended: 2025-07-09
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-2073"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 95/2009, de 6 de febrero, por el que se regula el Sistema de registros administrativos de apoyo a la Administración de Justicia
+
+Por Real Decreto de 2 de octubre de 1878 se dispuso ya el establecimiento en el Ministerio de Gracia y Justicia de un Registro Central de Procesados y otro de Penados, consecuencia de la necesidad de satisfacer un fin jurídico elemental: hacer posible la demostración de la reincidencia para la aplicación más justificada de los correspondientes preceptos del Código Penal, así como para poder establecer las medidas cautelares necesarias que aseguraran la presencia del inculpado en el juicio.
+
+La promulgación de leyes generales de tanta trascendencia pública y privada como son la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, constituyen elementos determinantes en su evolución. Por otro lado, los acuerdos o convenios suscritos con Estados en ámbitos de cooperación bilateral o multilateral y las normas comunitarias obligan al Registro a una continua evaluación de sus procedimientos, innovándolos cuando sea necesario, pero con respeto a los principios a que responde su creación.
+
+Con posterioridad, y en virtud de los Reales Decretos 231/2002, de 1 de marzo, 232/2002, de 1 de marzo y 355/2004, de 5 de marzo, entraron en funcionamiento los Registros Centrales de Rebeldes Civiles, de Sentencias de Responsabilidad Penal de los Menores y para la Protección de las Victimas de Violencia Doméstica.
+
+El Plan de Transparencia Judicial, aprobado por Acuerdo del Consejo de Ministros de 25 de octubre de 2005, establece dentro de sus objetivos la mejora del sistema de Registros Judiciales, que constituye un referente ineludible para el ejercicio eficaz de las funciones que, en materia penal, y en el caso del Registro Central de Rebeldes Civiles, en materia civil, las leyes atribuyen a la Administración de Justicia.
+
+La consecución de este objetivo pasa por proporcionar a los jueces, fiscales, secretarios judiciales y policía judicial nuevas herramientas de trabajo que faciliten el manejo de la información y permita que determinados usuarios -previamente definidos, en función del tipo de información que van a manejar- tengan un conocimiento completo de la información que precisan para el ejercicio de las funciones que tienen encomendadas y para la correcta toma de decisiones.
+
+Ahora, como novedad más destacada, mediante este real decreto, se lleva a cabo la creación y puesta en funcionamiento del Registro de Medidas Cautelares, Requisitorias y Sentencias no Firmes, previsto en la disposición adicional segunda de la Ley de Enjuiciamiento Criminal, que, en el orden jurisdiccional penal, constituirá un instrumento de gran utilidad que permitirá al órgano judicial disponer de otros elementos de juicio, además de los ya existentes, a fin de ponderar sus resoluciones en las distintas fases del proceso penal. Igualmente es importante ofrecer información sobre la existencia de órdenes en vigor de busca y captura o de detención y puesta a disposición, que permiten al Juez valorar la existencia de riesgo de fuga, en la resolución en la que decida sobre la prisión o libertad provisional del imputado, tal como se establece en el artículo 503.1.3º a), párrafo 3.º de la Ley de Enjuiciamiento Criminal de 14 de septiembre de 1882.
+
+La peligrosidad del sujeto es un dato fundamental a la hora de individualizar la pena en la sentencia, ya que el Juez debe tener en cuenta al imponer aquélla no sólo la gravedad del hecho, sino también las circunstancias personales del culpable, conforme a lo dispuesto en el artículo 66.1.6.º de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, y para la concesión del beneficio de suspensión de la condena no sólo es necesario que se cumplan los requisitos que se determinan en el artículo 81 del Código Penal, sino que es preciso que el Tribunal también tenga en cuenta la peligrosidad del sujeto, así como la existencia de otros procedimientos penales contra éste, de conformidad con el artículo 80.1 del mismo texto legal, para lo que puede ser un dato fundamental si se encuentra en prisión provisional o sufriendo otra medida cautelar en causa penal distinta. También para el instituto de la sustitución de las penas de prisión por las de localización permanente o de multa, es preciso tener en cuenta las circunstancias personales del reo, y su conducta, tal como prevé el artículo 88.1 del Código Penal, para cuya valoración es igualmente preciso conocer si se encuentra incurso en otras causas criminales por delito, y si en esas causas se han acordado medidas cautelares contra él.
+
+Además, aunque este Registro no está concebido como registro específico de agresores sexuales, sin duda alguna su puesta en funcionamiento contribuirá a prevenir la especial reincidencia que se produce en estos tipos delictivos. Por otro lado, uno de los objetivos perseguidos es la protección específica de las víctimas de delitos contra la libertad e indemnidad sexual que sean menores de edad. Así, uno de los aspectos novedosos que reflejará la información contenida en el Registro será precisamente la condición de menor de edad de las víctimas de esta clase de delitos, proporcionando tanto a los Juzgados y Tribunales como a la Policía Judicial nuevos elementos de conocimiento que permitan una protección más eficaz de los menores.
+
+Estas, y otras muchas razones, avalan la necesidad de organizar este nuevo Registro, no en forma aislada sino en un conjunto organizado que constituya un sistema de información integrado en el que los distintos usuarios puedan obtener, en función del acceso que les ha sido concedido, una información adecuada a sus necesidades, rápida y veraz.
+
+Todo lo expuesto justifica la conveniencia de publicar una norma en la que, en un sistema único, se recojan y sistematicen todas las disposiciones, con frecuencia obsoletas, que regulan las competencias, organización y ámbito de actuación de diferentes Registros. La finalidad pretendida es que desde un único punto los Juzgados y Tribunales gestionen, tanto la incorporación de datos a los distintos Registros como las consultas que realicen. En un periodo razonable, se logrará que la información acceda a los Registros mediante el volcado de datos desde el sistema de gestión procesal, de ese modo el tiempo invertido en la gestión ordinaria de los expedientes servirá para la inscripción en el Registro. Al mismo tiempo, se establece para todos los Registros que la trasmisión y el acceso a la información contenida en los mismos se realice a través de procedimientos telemáticos.
+
+En definitiva, este Sistema de registros administrativos de apoyo a la Administración de Justicia, tiene como objeto principal servir de apoyo a la actividad de los órganos judiciales e impulsar su modernización. Al mismo tiempo, se persigue contribuir a la conexión del Sistema de registros con los Registros de otros países de la Unión Europea conforme a lo previsto en la Decisión 2005/876/JAI del Consejo, de 21 de noviembre de 2005 y la propuesta de Decisión Marco del Consejo relativa a la organización y al contenido del intercambio de información de los registros de antecedentes penales entre los Estados miembros.
+
+El real decreto dedica el capítulo I a establecer una serie de disposiciones generales sobre el objeto y naturaleza del Sistema de registros, destacando su carácter no público y su dependencia del Ministerio de Justicia. El artículo tercero se refiere a la inscripción de la información procedente de órganos judiciales extranjeros y el artículo cuarto a la organización del Sistema integrado.
+
+El capítulo II establece quienes pueden acceder a los diferentes niveles de información en función del perfil adjudicado.
+
+El capítulo III detalla la información que debe contenerse en cada uno de los Registros y los plazos para el envío de la misma. Como novedad destacada, se ha optado por incluir los autos de rebeldía dentro de la información que debe inscribirse en el Registro de Medidas Cautelares, Requisitorias y Sentencias No Firmes al entender que la declaración de rebeldía puede adoptarse en distintas fases del procedimiento.
+
+Las medidas de seguridad del Sistema y de los datos contenidos en el mismo, de conformidad con lo previsto en la legislación sobre protección de datos, son objeto de regulación en el capítulo IV.
+
+El capítulo V se ocupa de la emisión del certificado de las inscripciones contenidas en el Sistema de registros administrativos de apoyo a la Administración de Justicia. Se regula su emisión a instancia del titular, extremando las cautelas con el fin de evitar que los datos registrales sean obtenidos por persona diferente del afectado. Se establece el procedimiento de la certificación de datos penales obtenidos directamente por los órganos judiciales, respecto a las causas que se tramiten en los juzgados; eliminando trámites burocráticos sin ninguna merma de la seguridad jurídica y regulando el marco de colaboración entre administraciones públicas, en línea con lo que se establece en la Ley 30/1992 de 26 de noviembre.
+
+El capítulo VI desarrolla cuestiones relativas a la cancelación de inscripciones. De este modo, se ha podido regular de forma unitaria algunos aspectos importantes del sistema registral, con las particularidades propias de cada tipo de asiento y respetando, por lo que a los antecedentes penales se refiere, la regulación contenida en el artículo 136 del Código Penal. Concluye el real decreto con una referencia a la elaboración de la información estadística que de los datos contenidos en el sistema de Registros puede derivarse, información de calidad y de enorme significado que debe configurarse como un importante aspecto del Plan de Transparencia Judicial.
+
+El presente real decreto ha sido informado por el Consejo General del Poder Judicial, la Fiscalía General del Estado, la Agencia Española de Protección de Datos, y el Consejo del Secretariado.
+
+En su virtud, a propuesta del Ministro de Justicia, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de febrero de 2009,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+1\. El presente real decreto tiene por objeto crear el sistema de registros administrativos de apoyo a la Administración de Justicia, y regular su organización y funcionamiento.
+
+2\. Dicho Sistema de Registros estará integrado por el Registro Central de Penados, el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género, el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes, el Registro Central de Rebeldes Civiles, el Registro Central de Menores y el Registro Central de Delincuentes Sexuales y de Trata de seres humanos.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto 1110/2015, de 11 de diciembre. [Ref. BOE-A-2015-14264](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14264).
+
+> Se modifica la referencia al "Registro Central para la Protección de las Víctimas de Violencia Doméstica" por la efectuada al "Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género", conforme a lo dispuesto en la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 2. Naturaleza del sistema de registros de apoyo a la Administración de Justicia.
+
+1\. El sistema de registros constituye un sistema de información de carácter no público cuyo objetivo fundamental es servir de apoyo a la actividad de los órganos judiciales y del Ministerio Fiscal, de las Fuerzas y Cuerpos de Seguridad del Estado y Cuerpos de Policía de las comunidades autónomas con competencias plenas en materia de seguridad pública, y de otros órganos administrativos, en el ámbito de las competencias delimitadas en el presente real decreto.
+
+2\. Su ámbito de actividad se extiende a todo el territorio nacional, sin perjuicio de lo dispuesto por los tratados internacionales suscritos en esta materia por España.
+
+3\. Este sistema, integrado por las bases de datos de los Registros que a continuación se relacionan, tiene por objeto, en cada caso:
+
+a) Registro Central de Penados: la inscripción de las resoluciones firmes por la comisión de un delito que impongan penas o medidas de seguridad, dictadas por los Juzgados o Tribunales del orden jurisdiccional penal.
+
+b) Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes: La inscripción de penas y medidas de seguridad impuestas en sentencia no firme por delito y medidas cautelares acordadas que no sean objeto de inscripción en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género, autos de declaración de rebeldía y requisitorias adoptadas en el curso de un procedimiento penal por los Juzgados o Tribunales del orden jurisdiccional penal, anotándose la fecha de notificación cuando la misma se produzca.
+
+c) Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género: la inscripción de penas y medidas de seguridad impuestas en sentencia por delito, medidas cautelares y órdenes de protección, requisitorias y autos de rebeldía, acordadas en procedimientos penales en tramitación, contra alguna de las personas a las que se refiere el artículo 173.2 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal. Asimismo, la inscripción de los quebrantamientos de cualquier pena, medida u orden de protección acordada en dichos procedimientos penales.
+
+d) Registro Central de Rebeldes Civiles: la inscripción de demandados en cualquier procedimiento civil cuyo domicilio se desconozca y siempre que no hayan tenido resultado positivo las averiguaciones de domicilio a que se refiere el artículo 156 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+e) Registro Central de Menores: la inscripción de sentencias, medidas cautelares, requisitorias y rebeldías dictadas o acordadas en todos los procesos tramitados con arreglo a la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.
+
+f) Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos: la inscripción de la información relativa a quienes hayan sido condenados por sentencia judicial firme por los delitos contra la libertad sexual, así como por trata de seres humanos de conformidad con el artículo 3 del Real Decreto 1110/2015, de 11 de diciembre, por el que se regula el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos en desarrollo de la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia, de conformidad con la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia, así como con lo establecido en la disposición final cuarta de la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual.
+
+4\. Dependiendo del Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes y del Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género, existirá un Fondo Documental de Requisitorias cuya creación y régimen jurídico queda establecido en la disposición adicional cuarta.
+
+> Se modifica el apartado 3 por el art. único.2 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se añade la letra f) al apartado 3 por la disposición final 1.2 del Real Decreto 1110/2015, de 11 de diciembre. [Ref. BOE-A-2015-14264](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14264).
+
+> Se modifica el apartado 3.b) y se añade el 4 por el art. único.1 del Real Decreto 576/2014, de 4 de julio. [Ref. BOE-A-2014-7573](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7573).
+
+> Se modifican las referencias al "Registro Central para la Protección de las Víctimas de Violencia Doméstica" por las efectuadas al "Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género", conforme a lo dispuesto en la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 3. Información procedente de órganos jurisdiccionales extranjeros.
+
+Además de las sentencias y autos a que se refiere el apartado 3.a) del artículo anterior, se inscribirán en el Registro Central de Penados las siguientes sentencias firmes dictadas por los órganos jurisdiccionales extranjeros:
+
+a) Las dictadas por los Juzgados y Tribunales de cualquier Estado extranjero, cuando así se determine por los tratados internacionales sobre esta materia suscritos por España.
+
+b) Las dictadas por Juzgados y Tribunales europeos, de acuerdo con lo previsto en los tratados internacionales de asistencia judicial en materia penal suscritos por España y las disposiciones dictadas por la Unión Europea.
+
+c) Las dictadas por Juzgados y Tribunales extranjeros cuando la ejecución de las mismas se realice en España. La inscripción se practicará a instancia del órgano judicial español que conozca de la ejecución.
+
+### Artículo 4. Organización.
+
+1\. La gestión de las bases de datos que integran el Sistema de registros administrativos de apoyo a la Administración de Justicia corresponde al Ministerio con competencias en materia de Justicia, a través de la Secretaría de Estado de Justicia.
+
+2\. En cada Registro existirá una persona encargada, que será responsable de su organización y gestión, adoptará las medidas necesarias para asegurar su correcto funcionamiento, velará por la veracidad, confidencialidad e integridad de las inscripciones e impulsará el cumplimiento de lo previsto en materia de cancelaciones de las mismas.
+
+3\. Sin perjuicio de lo dispuesto en el apartado anterior, las personas titulares de las Secretarías de Gobierno o aquellas personas designadas por ellas, podrán tener acceso a los diferentes Registros con el fin de llevar a cabo las funciones de inspección de la calidad de las anotaciones realizadas por los Letrados o Letradas de la Administración de Justicia de su respectivo ámbito de competencia.»
+
+> Se modifica por el art. único.3 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+## CAPÍTULO II — Acceso a la información
+
+### Artículo 5. Acceso general a la información contenida en el Sistema de Registros.
+
+1\. El Ministerio con competencias en materia de Justicia autorizará, estableciendo las medidas de seguridad oportunas, el acceso directo a la información contenida en los Registros Centrales integrados en el Sistema, a:
+
+a) Los órganos judiciales, a través del personal de cada oficina judicial autorizado por el letrado o letrada de la Administración de Justicia, a los efectos de su utilización en los procedimientos y actuaciones de los que están conociendo en el ámbito de sus respectivas competencias, conforme a las disposiciones legales vigentes.
+
+b) El Ministerio Fiscal, a través del personal de cada Fiscalía autorizado por su jefatura, cuando ello resulte necesario para el cumplimiento de las funciones atribuidas al mismo por la Ley de Enjuiciamiento Criminal aprobada por Real Decreto de 14 de septiembre de 1882, la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores y la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.
+
+2\. En cualquier caso, las personas interesadas, acreditando su identidad, tendrán derecho a solicitar el acceso, mediante certificación expedida por la persona encargada de los Registros, únicamente a los datos relativos a su persona contenidos en cualquiera de los Registros a los que se refiere este real decreto.
+
+> Se modifica por el art. único.4 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 6. Acceso a la información contenida en el Registro Central de Penados y en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes.
+
+1\. Además de los indicados en el artículo anterior, el Ministerio con competencias en materia de Justicia autorizará, estableciendo las medidas de seguridad oportunas, el acceso directo a la información contenida en el Registro Central de Penados y en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes, siempre que en uno y otro caso se refiera a inscripciones no canceladas, a:
+
+a) La policía judicial, a través del personal funcionario autorizado que desempeñe estas funciones, en tanto sea necesario para el ejercicio de las competencias previstas en el artículo 549.1 de la Ley Orgánica del Poder Judicial.
+
+b) Las unidades de Intervención de Armas y Explosivos de la Guardia Civil responsables de la concesión de los permisos y licencias, a través del personal funcionario autorizado en relación con los fines que tienen encomendados.
+
+c) Las unidades del Cuerpo Nacional de Policía responsables de la expedición del pasaporte, a través del personal funcionario autorizado en relación con los fines que tienen encomendados.
+
+d) Las unidades del Cuerpo Nacional de Policía responsables del control de entrada y salida del territorio nacional, a través del personal funcionario autorizado en relación con los fines que tienen encomendados.
+
+e) Las unidades y funcionarios del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria a los que se encomiende la instrucción y resolución de los procedimientos de inscripción en el Registro Especial de Operadores de Embarcaciones Neumáticas y Semirrígidas de Alta Velocidad y de autorización de uso de sus embarcaciones, a los efectos previstos en el Real Decreto 807/2021, de 21 de septiembre, por el que se aprueba el Reglamento de control de las embarcaciones neumáticas y semirrígidas a las que se refieren las letras f), g), h) e i) del apartado 3 del artículo único del Real Decreto-ley 16/2018, de 26 de octubre, por el que se adoptan determinadas medidas de lucha contra el tráfico ilícito de personas y mercancías en relación a las embarcaciones utilizadas, y por el que se modifica el Real Decreto 95/2009, de 6 de febrero, por el que se regula el sistema de registros administrativos de apoyo a la Administración de Justicia.
+
+f) Las Policías Locales de los municipios con una población superior a los 250.000 habitantes, de más de 175.000 habitantes en el caso de las capitales de provincia, de los municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas, así como de los municipios cuya población supere los 75.000 habitantes que presenten circunstancias económicas, sociales, históricas o culturales especiales, a través del personal funcionario autorizado que pertenezcan a unidades que efectivamente colaboren con las Fuerzas y Cuerpos de Seguridad del Estado de conformidad con el artículo 29.2 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+
+g) Las Fuerzas y Cuerpos de Seguridad dependientes de las comunidades autónomas, a través del personal funcionario autorizado que pertenezcan a unidades que efectivamente colaboren con las Fuerzas y Cuerpos de Seguridad del Estado de conformidad con el artículo 29.2 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+
+h) Podrán ser autorizados para el acceso, el personal funcionario que pertenezcan a las unidades del resto de Policías Locales y Autonómicas no constituidas como Policía Judicial, solo cuando realicen funciones de persecución e investigación de los delitos y así lo soliciten de manera motivada.
+
+i) La Administración penitenciaria, a través del personal funcionario autorizado en el ejercicio de las funciones de clasificación y programación del tratamiento de las personas privadas de libertad que la legislación penitenciaria atribuye a las Juntas de Tratamiento de los Centros Penitenciarios, de conformidad con lo dispuesto en la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria.
+
+2\. La persona encargada del Registro Central de Penados y del Registro de Medidas Cautelares, Requisitorias y Sentencias no Firmes comunicará al menos semanalmente a la Dirección General de Tráfico del Ministerio del Interior los datos relativos a penas, medidas de seguridad y medidas cautelares en las que se haya dispuesto la privación del derecho a conducir vehículos a motor y ciclomotores o cualquier pena o medida relacionada con la seguridad vial, de acuerdo con lo previsto en los artículos 529 bis, 764.4 y 794.2 y concordantes de la Ley de Enjuiciamiento Criminal.
+
+3\. Mediante los medios electrónicos adecuados a tal fin, la persona encargada del Registro Central de Penados proporcionará a los órganos administrativos, Organismos Públicos y Entidades de Derecho Público vinculados o dependientes, la información que conste en dicho Registro que resulte necesaria para la tramitación de sus procedimientos administrativos, siempre que se encuentren habilitados a tal efecto mediante una norma con rango de ley.
+
+> Se modifica por el art. único.5 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifica por la disposición final 2 del Real Decreto 807/2021, de 21 de septiembre. [Ref. BOE-A-2021-15312](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15312)
+
+> Se modifica por el art. único.2 del Real Decreto 576/2014, de 4 de julio. [Ref. BOE-A-2014-7573](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7573).
+
+### Artículo 7. Acceso a la información contenida en el Registro Central de Protección a las Victimas de la Violencia Doméstica y de Género.
+
+1\. Además de los indicados en el artículo 5, el Ministerio con competencias en materia de Justicia autorizará, estableciendo las medidas de seguridad oportunas, el acceso directo a la información contenida en el Registro Central de Protección a las Víctimas de Violencia Doméstica y de Género a:
+
+a) La policía judicial, a través del personal funcionario autorizado que desempeñe estas funciones, en tanto sea necesario para el ejercicio de las competencias previstas en el artículo 549.1 de la Ley Orgánica del Poder Judicial.
+
+b) Las unidades de Intervención de Armas y Explosivos de la Guardia Civil responsables de la concesión de los permisos y licencias, a través del personal funcionario autorizado en relación con los fines que tienen encomendados.
+
+c) Las unidades del Cuerpo Nacional de Policía responsables de la expedición del pasaporte, a través del personal funcionario autorizado en relación con los fines que tienen encomendados.
+
+d) Las unidades del Cuerpo Nacional de Policía responsables del control de entrada y salida del territorio nacional, a través del personal funcionario autorizado en relación con los fines que tienen encomendados.
+
+e) Las unidades de policía especialmente encargadas del control y seguimiento de la violencia doméstica y de género, exclusivamente en el ámbito de sus competencias de protección de víctimas de violencia doméstica o de género, a través del personal funcionario autorizado.
+
+f) Las comunidades autónomas, exclusivamente en el ámbito de sus competencias de protección de las víctimas de violencia doméstica o de género, a través del responsable del punto de coordinación o, en su caso, a través de las personas designadas por dicho responsable. Este acceso directo se entenderá sin perjuicio de las comunicaciones previstas por la disposición adicional primera de este real decreto.
+
+g) Las delegaciones y subdelegaciones del Gobierno, exclusivamente en el ámbito de sus competencias de protección de víctimas de violencia doméstica o de género. En el caso de las delegaciones del Gobierno, a través del responsable de la unidad de coordinación contra la violencia sobre la mujer o las personas que este designe; en el caso de las subdelegaciones del Gobierno, a través del responsable de la unidad contra la violencia sobre la mujer o las personas que este designe.
+
+h) La Administración Penitenciaria, exclusivamente en el ámbito de sus competencias de protección de las víctimas de la violencia doméstica o de género, a través del personal funcionario autorizado.
+
+2\. La persona encargada del Registro Central de Protección de Víctimas de Violencia Doméstica y de Género comunicará al menos semanalmente al Instituto Nacional de la Seguridad Social, al Instituto Social de la Marina y a la Dirección General de Costes de Personal del Ministerio de Hacienda la información relativa a los procedimientos terminados por sentencia firme condenatoria que se inscriban en dicho Registro por la comisión de un delito doloso de homicidio en cualquiera de sus formas o de lesiones cuando la ofendida por el delito fuera cónyuge o ex cónyuge del condenado o estuviera o hubiera estado ligada a él por una análoga relación de afectividad a efectos de dar cumplimiento a lo previsto en la disposición adicional primera de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Genero.
+
+3\. La persona encargada del Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género comunicará al menos semanalmente a la Dirección General de Tráfico del Ministerio del Interior los datos relativos a penas, medidas de seguridad y medidas cautelares en las que se haya dispuesto la privación del derecho a conducir vehículos a motor y ciclomotores o cualquier pena o medida relacionada con la seguridad vial, de acuerdo con lo previsto en los artículos 529 bis, 764.4 y 794.2 y concordantes de la Ley de Enjuiciamiento Criminal.
+
+> Se modifica por el art. único.6 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se añade el apartado 3 por el art. único.3 del Real Decreto 576/2014, de 4 de julio. [Ref. BOE-A-2014-7573](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7573).
+
+> Se modifican las referencias al "Registro Central para la Protección de las Víctimas de Violencia Doméstica" por las efectuadas al "Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género", conforme a lo dispuesto en la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+## CAPÍTULO III — Información contenida en el sistema
+
+### Artículo 8. Información de carácter general contenida en los Registros integrados en el Sistema.
+
+La información contenida en los Registros Centrales integrados en el Sistema deberá comprender, con carácter general, los siguientes datos:
+
+a) Datos identificativos.
+
+Nombre y apellidos del condenado, rebelde, sometido a medidas de seguridad o medida cautelar, alias en su caso, sexo, fecha de nacimiento, nombre de los padres, localidad, provincia, país de nacimiento, domicilio conocido, nacionalidad y documento nacional de identidad o NIE, pasaporte o tarjeta de identidad en el caso de las personas extranjeras, número ordinal informático policial, número y fecha del atestado.
+
+En relación con las personas jurídicas se hará constar la razón o denominación social, nacionalidad, domicilio social y domicilio fiscal, actividad principal, tipo de sociedad, número o código de identificación fiscal y datos registrales.
+
+En el supuesto de entes sin personalidad jurídica se hará constar denominación, número o código de identificación fiscal o cualquier otro dato que sirva para su identificación.
+
+Cuando en una misma causa resulten condenadas personas físicas y personas jurídicas o entes sin personalidad se hará contar esta circunstancia en el Sistema de registros administrativos de apoyo a la Administración de Justicia.
+
+b) Órgano judicial que acuerda la resolución, fecha de la misma, clase y número de procedimiento, y número de identificación general.
+
+c) Los datos personales identificativos de la víctima, domicilio o domicilios conocidos de la víctima, relación de parentesco entre la víctima y el condenado o denunciado, indicador de discapacidad de la víctima cuando proceda, así como la indicación de la convivencia, siempre que sea necesario y, en todo caso, en los procedimientos de violencia doméstica o de género.
+
+d) La condición de menor de edad de la víctima cuando se trate de delitos contra la libertad sexual, así como su fecha de nacimiento.
+
+> Se modifica por el art. único.7 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifica el párrafo a) por el art. único.1 del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 9. Información contenida en la inscripción de sentencias firmes.
+
+Cuando se trate de sentencias firmes que impongan penas o medidas de seguridad a personas físicas mayores de edad, penas a personas jurídicas o consecuencias accesorias a entes sin personalidad se inscribirán, además, los siguientes datos:
+
+a) Fecha de la sentencia que imponga la pena o medida de seguridad.
+
+b) Fecha de firmeza de la sentencia y fecha de efectos del requerimiento del cumplimiento.
+
+c) Órgano judicial sentenciador.
+
+d) Condición de reincidente y/o reo habitual del condenado en su caso.
+
+e) Órgano judicial de ejecución de la sentencia, en su caso.
+
+f) Número y año de la ejecutoria.
+
+g) Delito o delitos y precepto penal aplicado.
+
+h) Pena o penas principales y accesorias, medida de seguridad y su duración y cuantía de la multa con referencia a su duración y cuota diaria o multa proporcional.
+
+i) Fecha de comisión del delito.
+
+j) Participación como autor o cómplice y grado de ejecución.
+
+k) Sustitución de las penas o medidas de seguridad, en su caso.
+
+l) Suspensión de la ejecución de las penas o medidas de seguridad, en su caso, fecha de notificación, y plazo por el que se concede la suspensión, así como las prohibiciones, deberes y condiciones derivadas de la suspensión impuestas y, en especial, las que deban ser comunicadas a las Fuerzas y Cuerpos de Seguridad.
+
+m) Prórroga del auto de suspensión de las penas.
+
+n) Fecha de la revocación del auto de suspensión de las penas o medidas de seguridad.
+
+ñ) Fecha de la remisión definitiva de la pena, cumplimiento efectivo de la misma o prescripción.
+
+o) Fecha del cese de la medida de seguridad.
+
+p) Expulsión y fecha de la misma, cuando se acuerde como sustitución de la pena o medida de seguridad.
+
+q) Cumplimiento.
+
+r) Acumulación de penas.
+
+s) Responsabilidad civil derivada de la infracción penal.
+
+t) Resoluciones judiciales que se pronuncien sobre el traslado de la pena de acuerdo con el artículo 130.2 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+
+u) La profesión u oficio de la persona condenada a penas de inhabilitación absoluta, suspensión de empleo y cargo público, e inhabilitación especial para profesión, oficio o actividad, sean o no retribuidos. Para los condenados que desarrollen su actividad en el ámbito docente será exigible, única y exclusivamente, cuando ello conlleve contacto con personas menores de edad. En cualquier caso, la profesión se anotará solo cuando conste en la sentencia.
+
+v) La cuantía de lo sustraído en los delitos de hurto. En cualquier caso, esta cuantía se anotará solo cuando conste en la sentencia.
+
+> Se modifica la letra l) y se añade la letra v) por el art. único.8 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifica por el art. único.1 del Real Decreto 913/2024, de 17 de septiembre. [Ref. BOE-A-2024-18615](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18615)
+
+> Se modifica la letra b) por el art. único.4 del Real Decreto 576/2014, de 4 de julio. [Ref. BOE-A-2014-7573](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7573).
+
+> Se modifica por el art. único del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 10. Información contenida en la inscripción de medidas cautelares, requisitorias, autos de rebeldía o sentencias no firmes.
+
+Cuando se trate de medidas cautelares, requisitorias, autos de rebeldía o Sentencias No Firmes impuestas a personas físicas mayores de edad y, en su caso, a personas jurídicas y entes sin personalidad se inscribirán, además, los siguientes datos:
+
+a) Medidas cautelares, personales o reales y órdenes de protección en los procedimientos de violencia doméstica o de género, indicando fecha de adopción, de notificación al sometido a la medida u orden de protección y de cancelación y, en su caso tipo, contenido, ámbito y duración, así como sus modificaciones o sustituciones, y delito objeto del procedimiento. En relación con las órdenes de protección se indicará la situación y origen de la solicitud.
+
+b) Sentencias No Firmes indicando órgano enjuiciador, procedimiento, fecha de la misma y, en su caso, delitos, penas o medidas de seguridad impuestas, su duración o cuantía.
+
+c) Requisitorias, indicando el órgano judicial que la acuerda, fecha de la misma, tipo de procedimiento, delito objeto del procedimiento y fecha de cese.
+
+d) Órdenes europeas de detención, búsqueda internacional, averiguación de paradero y búsqueda y detención internacional emitidas por las autoridades judiciales españolas.
+
+e) Auto de rebeldía indicando fecha del auto y de su anulación.
+
+> Se modifica por el art. único.9 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifica por el art. único.3 del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 11. Información contenida en las inscripciones en el Registro Central de Sentencias Firmes de Menores.
+
+Cuando se trate de inscripciones en el Registro Central de Sentencias Firmes de Menores, se inscribirán, además, los siguientes datos:
+
+a) Fecha en que adquiere firmeza la sentencia, así como la suspensión, reducción o sustitución de la medida que acuerde el Juez mediante auto motivado, cuando éste sea firme, y demás datos de la ejecutoria.
+
+b) Las medidas impuestas al menor, su duración y, en su caso, el lugar de cumplimiento.
+
+c) La fecha de prescripción, de cumplimiento o finalización por cualquier causa de la medida o medidas impuestas.
+
+### Artículo 12. Información contenida en las inscripciones en el Registro Central de Rebeldes Civiles.
+
+Cuando se trate de inscripciones en el Registro Central de Rebeldes Civiles, se inscribirán, además, los siguientes datos:
+
+a) Órganos judiciales que hubieran promovido la inscripción o solicitado información sobre la localización de la persona inscrita, así como referencia a los procesos en que aparezca como demandado.
+
+b) Fecha de la resolución en que se acuerde la comunicación mediante edictos al demandado, cuyo domicilio se desconoce y no hayan tenido resultado positivo las averiguaciones practicadas.
+
+### Artículo 13. Inclusión de datos en el sistema.
+
+1\. La trasmisión de datos a los Registros Centrales se realizará a través de procedimientos electrónicos por el letrado de la Administración de Justicia que corresponda. A tal efecto, el letrado de la Administración de Justicia verificará la exactitud del contenido de la información que, previamente cumplimentada por el personal de la oficina judicial bajo su dirección, se trasmita a los Registros Centrales. Esta información deberá remitirse en los siguientes plazos:
+
+a) De forma inmediata y, en cualquier caso, en el plazo máximo de tres días desde la firmeza de la sentencia o auto de rebeldía, desde que se adopte la medida cautelar o sentencia no firme o desde que se acuerde la comunicación edictal cuando se trate de inscripciones en los Registros Centrales de Penados, Medidas Cautelares, Requisitorias y Sentencias No Firmes, Rebeldes Civiles y Sentencias de Responsabilidad Penal de los Menores.
+
+b) De forma inmediata y, en cualquier caso, en el plazo máximo de veinticuatro horas desde la firmeza de la sentencia o desde que se adopte la medida cautelar o sentencia no firme cuando se trate de inscripciones en el Registro Central para la Protección de las Víctimas de Violencia Doméstica y de Género. Cuando las circunstancias técnicas impidan la trasmisión telemática a este Registro Central, la trasmisión de datos podrá realizarse mediante la remisión a la persona encargada del registro de los modelos aprobados por Orden del titular del Ministerio competente en la materia. Los letrados de la Administración de Justicia ordenarán que se remita en dicho plazo copia impresa de los mismos a la policía judicial a efectos de su ejecución y seguimiento.
+
+2\. En cuanto las condiciones técnicas lo permitan, la transmisión de la información se realizará directamente desde las aplicaciones de gestión procesal y las firmas plasmadas en los documentos serán sustituidas por las correspondientes firmas electrónicas reconocidas.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 913/2024, de 17 de septiembre. [Ref. BOE-A-2024-18615](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18615)
+
+> Se modifica la referencia al "Registro Central para la Protección de las Víctimas de Violencia Doméstica" por la efectuada al "Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género", conforme a lo dispuesto en la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+## CAPÍTULO IV — Medidas de seguridad
+
+### Artículo 14. Seguridad del sistema.
+
+1\. Se implantarán en el Sistema de registros administrativos de apoyo a la Administración de Justicia las medidas de seguridad que correspondan, de conformidad con el Real Decreto 1720/2007, de 21 de diciembre por el que se aprueba el Reglamento de desarrollo de la ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+De cada intento de acceso se guardará como mínimo la identificación del usuario, la fecha y hora en que se realizó, el fichero accedido, el tipo de acceso y si ha sido autorizado o denegado. En el caso de que el acceso haya sido autorizado, será preciso guardar la información que permita identificar el registro accedido.
+
+2\. Las redes de comunicación electrónica gestionadas por las comunidades autónomas que den soporte a los órganos judiciales estarán conectadas con el Sistema de Registros Centrales, en un entorno integrado en red, que garantice la confidencialidad y autenticidad de dichas comunicaciones.
+
+### Artículo 15. Seguridad de los datos.
+
+Se aplicarán a los datos de carácter personal contenidos en el Sistema de registros administrativos de apoyo a la Administración de Justicia las medidas de seguridad que correspondan, de conformidad con el Real Decreto 1720/2007, de 21 de diciembre por el que se aprueba el Reglamento de desarrollo de la ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+## CAPÍTULO V — Certificación de los datos
+
+### Artículo 16. Certificación de los datos inscritos en el Sistema de registros administrativos de apoyo a la Administración de Justicia.
+
+Se emitirán certificaciones de los datos inscritos en el Sistema de registros administrativos de apoyo a la Administración de Justicia en los siguientes casos:
+
+a) Los órganos judiciales, en relación con las causas que tramiten y para su unión al procedimiento, podrán, a través del personal de la oficina judicial autorizado por el letrado o letrada de la Administración de Justicia, obtener directamente los datos incluidos en las Bases de Datos del Sistema de registros administrativos de apoyo a la Administración de Justicia. Los datos así obtenidos se aportarán al procedimiento judicial mediante diligencia de constancia del letrado o letrada de la Administración de Justicia con plena validez jurídica, sin necesidad de solicitar certificación a la persona responsable del Registro.
+
+Sin perjuicio de lo anterior, cuando los órganos judiciales no puedan acceder a la información, podrán recabar del Registro la certificación mediante solicitud que recoja los datos necesarios para su consulta.
+
+b) Por la persona encargada de los Registros integrados en el Sistema de registros administrativos de apoyo a la Administración de Justicia se informará a las autoridades de Estados extranjeros, en las formas y supuestos que determinen las normas europeas y los tratados internacionales de asistencia judicial en materia penal suscritos por España, acerca de las sentencias condenatorias firmes impuestas a personas físicas mayores de edad relativas a personas extranjeras o personas españolas de las que exista constancia y en su caso, a personas jurídicas y entes sin personalidad.
+
+c) Por la persona encargada de los Registros integrados en el Sistema de registros administrativos de apoyo a la Administración de Justicia, siempre que no se trate de información reservada a Jueces y Tribunales, se informará igualmente de los datos contenidos en las inscripciones de los Registros Centrales de Penados, Registro de Delincuentes Sexuales y Trata de Seres Humanos, Registro de Medidas Cautelares, Requisitorias y Sentencias No Firmes, Registro de Protección de las Víctimas de Violencia Doméstica y de Género y Registro de Rebeldes Civiles, a instancia de cualquier órgano de las Administraciones Públicas ante el que se tramite un procedimiento en el que sea preceptivo este certificado para acceder a un derecho o adquirir una condición determinada con consentimiento de la persona interesada, ya sea persona física, jurídica o entes sin personalidad, manifestado directamente o a través de su representante, salvo que una norma con rango de ley lo exceptúe. Dicha información se limitará únicamente a los datos relativos a la persona física, jurídica o ente sin personalidad interesado en el procedimiento.
+
+> Se modifica por el art. único.10 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifican los párrafos b) y c) por el art. único.4 y la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 17. Certificación a petición del titular interesado.
+
+1\. A petición del titular interesado, podrán certificarse directamente los datos relativos a su persona contenidos en las inscripciones de los Registros Centrales de Penados, de Medidas Cautelares Requisitorias y Sentencias No Firmes, de Protección de las Víctimas de la Violencia Doméstica y de Género, de Sentencias de Responsabilidad Penal de los Menores y de Rebeldes Civiles y suscribir certificaciones negativas respecto a personas que no figuren inscritas en los mismos.
+
+2\. Las certificaciones podrán solicitarse respecto de uno o varios registros integrados en el sistema o respecto de todos ellos. Tratándose de personas jurídicas, entes sin personalidad o menores de edad la solicitud deberá efectuarse, en todo caso, por su representante legal. La certificación positiva contendrá la transcripción de los datos inscritos, tal y como obren en el Registro en el momento de su expedición, excluyendo las inscripciones que, conforme a una norma con rango de ley, se hallen a disposición únicamente de los órganos jurisdiccionales.
+
+3\. Las certificaciones serán entregadas directamente al titular de la información penal o a su representante debidamente acreditado por cualquier medio válido en derecho que deje constancia fidedigna.
+
+4\. Las solicitudes de los interesados para la obtención de las certificaciones, podrán presentarse a través de cualquiera de los registros previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Cuando los interesados sean personas jurídicas, entes sin personalidad, los cuales actuaran por medio de representante legal, o personas físicas obligadas a relacionarse electrónicamente con las Administraciones Públicas conforme a los apartados 2 y 3 del artículo 14 de la Ley 39/2015, la solicitud deberá presentarse por medios electrónicos y la certificación se expedirá por el mismo cauce.
+
+Los restantes titulares interesados podrán optar por solicitar y recibir el certificado correspondiente a sus datos personales por correo o por vía electrónica.
+
+5\. Las personas españolas que se encuentran en el extranjero podrán solicitar el certificado en la oficina consular de España, previa acreditación de su personalidad. Podrán solicitar la remisión del certificado a dicho consulado, por correo al lugar señalado al efecto, o nombrar un representante para recoger la certificación en el Registro Central o en una Gerencia Territorial del Ministerio con competencias en materia de Justicia.
+
+6\. Cuando se trate de ciudadanos y ciudadanas de la Unión Europea con nacionalidad distinta a la española el Registro Central de Penados solicitará a la autoridad central del Estado de nacionalidad de la persona que realiza la petición, o a las autoridades centrales en caso de que la persona tuviera más de una nacionalidad, un extracto de antecedentes penales y de información sobre dichos antecedentes para poder incluirla en el certificado que se le facilite.
+
+7\. Cuando se trate de ciudadanos o ciudadanas no pertenecientes a la Unión Europea, el Registro Central de Penados solicitará, a la autoridad central del Estado o Estados miembros que conserven información penal de dicha persona, un extracto de antecedentes penales y de información sobre dichos antecedentes para poder incluirla en el certificado que se le entregue.
+
+> Se modifica por el art. único.11 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se renumera el apartado 6 como 7 y se añade un apartado 6 por el art. único.5 del Real Decreto 576/2014, de 4 de julio. [Ref. BOE-A-2014-7573](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7573).
+
+> Se modifican los apartados 1, 2 y 4 por el art. único.5 y la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+## CAPÍTULO VI — Cancelación o rectificación de inscripciones
+
+### Artículo 18. Normas generales de cancelación o rectificación de inscripciones.
+
+1\. La cancelación de las inscripciones se practicará de oficio, a instancia del titular interesado, o por comunicación del órgano judicial.
+
+Corresponde al Ministerio con competencias en materia de Justicia resolver el procedimiento para la cancelación de las inscripciones, cualquiera que sea la forma de iniciación del procedimiento.
+
+2\. Las solicitudes de los interesados para la obtención de las certificaciones, podrán presentarse a través de cualquiera de los registros previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Cuando los interesados sean personas jurídicas, entes sin personalidad, los cuales actuaran por medio de representante legal, o personas físicas obligadas a relacionarse electrónicamente con las Administraciones Públicas conforme a los apartados 2 y 3 del artículo 14 de la Ley 39/2015, la solicitud deberá presentarse por medios electrónicos y la certificación se expedirá por el mismo cauce.
+
+Los restantes titulares interesados podrán optar por solicitar y recibir el certificado correspondiente a sus datos personales por correo o por vía electrónica.
+
+A estos efectos, dirigirán una solicitud en la que se hará constar, nombre y apellidos, filiación, localidad, provincia, fecha de nacimiento y documento nacional de identidad, NIE o tarjeta de identidad o pasaporte en el caso de personas extranjeras, todos ellos en vigor, acompañando al modelo de solicitud, original de los documentos anteriores o copia auténtica de los mismos. En el caso de personas jurídicas o entes sin personalidad, nombre y apellidos del representante, documento nacional de identidad, NIE o tarjeta de identidad o pasaporte en el caso de personas extranjeras, todos ellos en vigor, acompañando al modelo de solicitud, original de los documentos anteriores o copia auténtica de los mismos, así como la documentación que acredite su condición de representante legal. En la solicitud deberá hacerse constar de manera obligatoria un domicilio a efectos de notificaciones.
+
+3\. También deberá hacerse constar la causa o causas de la cancelación o rectificación que se solicita, pudiendo aportar cuantos documentos puedan ser determinantes para el fin solicitado.
+
+4\. Al expediente iniciado a instancia de la persona interesada se llevarán las inscripciones afectadas y si del análisis de las mismas, o de lo aportado por el solicitante, se dedujera que no se dan los requisitos necesarios para proceder a la cancelación o rectificación, el Ministerio con competencias en materia de Justicia denegará motivadamente la petición. El plazo máximo para resolver y notificar la resolución será de tres meses, de acuerdo con lo previsto en el artículo 21.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En estos casos, la falta de resolución tendrá carácter desestimatorio de acuerdo con lo previsto en los artículos 24 y 25.1.a) de la referida ley.
+
+Contra dicha resolución se podrá interponer recurso contencioso-administrativo con arreglo a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+5\. La persona encargada del Registro, de oficio, cuando tenga conocimiento a través de los datos obrantes en el Registro de que se dan los requisitos legalmente establecidos para la cancelación de una inscripción, procederá a elevar propuesta de cancelación. Cuando se trate de procedimientos penales que hayan dado lugar a inscripciones en los que no se haya comunicado modificación alguna durante los plazos de prescripción establecidos en los artículos 131 y 133 del Código Penal, la persona encargada del Registro Central se dirigirá al letrado o letrada de la Administración de Justicia del correspondiente órgano judicial a los efectos de verificar su estado procesal, procediendo a elevar propuesta de cancelación de la inscripción cuando así resulte de la comunicación que este le remita.
+
+> Se modifica por el art. único.12 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+> Se modifican los apartados 1 y 2 por el art. único.6 del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 19. Cancelación de inscripciones de antecedentes penales.
+
+1\. Las inscripciones de antecedentes penales se cancelarán, de oficio o a instancia del titular de los datos, o por comunicación del órgano judicial, cuando habiéndose extinguido la responsabilidad penal, hubiesen trascurrido, sin delinquir de nuevo los plazos previstos y se hubiesen cumplido los restantes requisitos señalados en el artículo 136 del Código Penal.
+
+2\. Cuando el procedimiento se inicie de oficio o a instancia de la persona interesada y no constara anotada la fecha de extinción de las responsabilidades penales en el Registro Central de Penados, a efectos de dar cumplimiento al artículo 136 del Código Penal, el Registro de Penados requerirá al Letrado de la Administración de Justicia para que revise y actualice la nota de condena en un plazo máximo de diez días. El plazo máximo para resolver y notificar la resolución será de tres meses, de acuerdo con lo previsto en el artículo 21.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En estos casos, la falta de resolución tendrá carácter desestimatorio de acuerdo con lo previsto en los artículos 24 y 25.1.a) de la referida ley.
+
+Contra dicha resolución se podrá interponer recurso contencioso-administrativo con arreglo a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+3\. La información relativa a las inscripciones canceladas se conservará en una sección especial y separada a disposición únicamente de los Juzgados y Tribunales españoles.
+
+4\. Serán canceladas las inscripciones correspondientes a las personas fallecidas, una vez constatado su fallecimiento por la persona encargada del Registro, pasando a estar disponible esta información a efectos estadísticos y para aquellos supuestos recogidos por la ley.
+
+> Se modifica por el art. único.13 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 20. Cómputo del plazo de cancelación de inscripciones de penas suspendidas.
+
+Cuando la cancelación de las inscripciones de antecedentes penales se refiera a penas privativas de libertad suspendidas por habérseles aplicado la remisión condicional, el plazo de cancelación, una vez obtenida la remisión definitiva, se computará en la forma establecida en el artículo 136.3 del Código Penal.
+
+### Artículo 21. Comunicación telemática del expediente de cancelación.
+
+Cuando se inicie un expediente de cancelación de antecedentes penales de oficio o a instancia de parte, se comunicará por vía telemática a través del Sistema de registros administrativos de apoyo a la Administración de Justicia al órgano u órganos ejecutores para que actualice el estado de las penas.
+
+> Se modifica por el art. único.14 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 22. Cancelación de inscripciones de medidas cautelares, órdenes de protección, órdenes de busca, Sentencias No Firmes y autos de rebeldía penal.
+
+1\. La cancelación de inscripciones de medidas cautelares, órdenes de protección, medidas de seguridad, requisitorias y autos de rebeldía penal, se producirá con carácter automático cuando el letrado o letrada de la Administración de Justicia inscriba la resolución por la que se acuerde el cese de su vigencia. De precisar su reapertura por el órgano judicial y tener que inscribirse una nueva anotación, dicha información podrá ser recuperada del Sistema de registros administrativos de apoyo a la Administración de Justicia.
+
+2\. La cancelación de la inscripción de sentencias no firmes anotadas en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes se producirá cuando se proceda a la inscripción de la firmeza de la sentencia.
+
+3\. Asimismo, la acumulación de un procedimiento o la inhibición en favor de otro juzgado, producirán la cancelación de las correspondientes anotaciones cuando la persona encargada del Registro verifique la inscripción de la medida cautelar, orden de protección, orden de busca o auto de rebeldía penal en el procedimiento resultante de la acumulación o la inhibición.
+
+4\. Serán canceladas las inscripciones correspondientes a las personas fallecidas, una vez constatado su fallecimiento por la persona encargada del Registro, pasando a estar disponible esta información a efectos estadísticos y para aquellos supuestos recogidos por la ley.
+
+> Se modifica por el art. único.15 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 23. Cancelación de las inscripciones de rebeldes civiles.
+
+1\. Procederá la cancelación de la inscripción del rebelde civil a instancia del interesado. También podrá el interesado dirigirse al órgano judicial remitente de la comunicación originaria para que sea el órgano judicial el que se dirija al Registro solicitando la cancelación de la inscripción en cuestión. En la solicitud deberá indicar el domicilio al que se puedan dirigir las comunicaciones judiciales. El plazo máximo para resolver y notificar la resolución será de tres meses, de acuerdo con lo previsto en el artículo 21.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En estos casos, la falta de resolución tendrá carácter desestimatorio de acuerdo con lo previsto en los artículos 24 y 25.1.a) de la referida ley.
+
+Contra dicha resolución se podrá interponer recurso contencioso-administrativo con arreglo a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+2\. Cuando se acuerde la cancelación, el Registro deberá comunicar el nuevo domicilio a los órganos judiciales que aparecieran anotados junto a la inscripción.
+
+3\. En el caso de que se deniegue la cancelación instada por el interesado por existir dudas racionales sobre la exactitud del domicilio facilitado, el Registro deberá indicarle los defectos que haya apreciado y recordarle la posibilidad de instar nuevamente esa cancelación en cuanto hayan quedado subsanados.
+
+4\. Serán canceladas las inscripciones correspondientes a las personas fallecidas, una vez constatado su fallecimiento por la persona encargada del Registro, pasando a estar disponible esta información a efectos estadísticos y para aquellos supuestos recogidos por la ley.
+
+> Se modifica por el art. único.16 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 24. Cancelación de las inscripciones del Registro Central de Menores.
+
+1\. Trascurridos diez años, a contar desde que el menor hubiera alcanzado la mayoría de edad y siempre que las medidas judicialmente impuestas hayan sido ejecutadas en su plenitud o hayan prescrito, el Ministerio con competencias en materia de Justicia procederá de oficio a la cancelación de cuantas inscripciones de sentencias referentes al mismo consten en el Registro.
+
+2\. Serán canceladas las inscripciones correspondientes a las personas fallecidas, una vez constatado su fallecimiento por la persona encargada del Registro, pasando a estar disponible esta información a efectos estadísticos y para aquellos supuestos recogidos por la ley.
+
+> Se modifica por el art. único.17 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 25. Efectos de la cancelación.
+
+La cancelación registral prevista en este real decreto dará lugar a la eliminación de los datos de carácter personal, sin perjuicio de lo dispuesto en el artículo 19.3 del presente real Decreto y a excepción de aquellos que resulten necesarios para que sea posible elaborar las estadísticas previstas en su artículo 27.
+
+### Artículo 26. Tutela de derechos.
+
+De conformidad con lo dispuesto en la normativa vigente en materia de protección de datos de carácter personal, las personas interesadas podrán recabar la tutela de la Agencia Española de Protección de Datos, A.A.I., en relación con el ejercicio de los derechos reconocidos en los artículos 12 a 18 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+> Se modifica por el art. único.18 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Artículo 27. Información estadística.
+
+La Administración General del Estado y las comunidades autónomas con competencias en materia de justicia, en el marco del Plan de Transparencia Judicial, podrán elaborar estadísticas de los datos contenidos en los Registros Centrales, eludiendo toda referencia personal en la información y teniendo en cuenta lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre de Protección de Datos y sus disposiciones complementarias. En particular, el Registro para la Protección de las Victimas de la Violencia Doméstica y de Género proporcionará a la Delegación de Gobierno para la Violencia de Género la información necesaria para permitir el adecuado conocimiento, análisis y evaluación de la violencia de género, con excepción de los datos de carácter personal de los intervinientes en los procedimientos judiciales. Los datos estadísticos deberán seguir los criterios que establezca la Comisión Nacional de Estadística Judicial.
+
+> Se modifica la referencia al "Registro Central para la Protección de las Víctimas de Violencia Doméstica" por la efectuada al "Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género", conforme a lo dispuesto en la disposición adicional única del Real Decreto 1611/2011, de 14 de noviembre. [Ref. BOE-A-2011-18912](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18912).
+
+### Artículo 28. Cancelación de inscripciones de sentencias firmes en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género.
+
+Las inscripciones de las sentencias firmes anotadas en el Registro Central para la protección de las Víctimas de la Violencia Doméstica y de Género se cancelarán previa su cancelación en el Registro Central de Penados, cumplidos los requisitos del artículo 136 del Código Penal.
+
+> Se añade por el art. único.19 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición adicional primera. Comunicación de las órdenes de protección a las Administraciones públicas competentes en materia de protección social.
+
+1\. Los letrados o letradas de la Administración de Justicia comunicarán las órdenes de protección de las víctimas de violencia doméstica y de género que se adopten y sus respectivas solicitudes, mediante testimonio íntegro, a aquel o aquellos puntos de coordinación designados por la comunidad autónoma correspondiente, que constituirán el canal único de notificación de estas resoluciones a centros, unidades, organismos e instituciones competentes en materia de protección social en relación con estas víctimas, de acuerdo con lo establecido en el apartado 8 del artículo 544 ter de la Ley de Enjuiciamiento Criminal. La comunicación del letrado o letrada de Administración de Justicia se remitirá en un plazo nunca superior a veinticuatro horas desde su adopción, por vía telemática o electrónica o, por indisponibilidad técnica de cualquier medio electrónico, por medio de fax o correo urgente.
+
+2\. El punto de coordinación designado hará referencia al centro, unidad, organismo o institución que centraliza la información, su dirección postal y electrónica, números de teléfono y fax, régimen horario y persona o personas responsables de aquel. En el caso de comunidades autónomas pluriprovinciales, podrá identificarse un punto de conexión específico para cada provincia.
+
+3\. El Consejo General del Poder Judicial mantendrá una relación actualizada de los puntos de coordinación designados, remitirá tal identificación en su integridad y sus modificaciones o actualizaciones a los Ministerios de Igualdad y del Interior, al Ministerio con competencias en materia de Justicia, así como a la Fiscalía General del Estado y al Tribunal Superior de Justicia, decanatos y juzgados de instrucción del ámbito autonómico correspondiente.
+
+> Se modifica por el art. único.20 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición adicional segunda. Prestación de consentimiento.
+
+A efectos de lo dispuesto en los artículos 6.1.b) y c) y 7.1.b) y c) del presente real decreto, el acceso de las Unidades de Intervención de Armas y Explosivos de la Guardia Civil y de las Unidades del Cuerpo Nacional de Policía responsables de la expedición del pasaporte a la información contenida en las Bases de Datos del Sistema de registros administrativos de apoyo a la Administración de Justicia, tiene como base legitimadora el ejercicio de misiones realizadas en interés público, de conformidad lo establecido en la normativa vigente relativa a protección de datos.
+
+> Se modifica por el art. único.21 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición adicional tercera. Jurisdicción militar.
+
+Los órganos de la Jurisdicción Militar estarán sujetos a lo dispuesto en la presente norma salvo en lo que no les sea de aplicación.
+
+### Disposición adicional cuarta. Fondo documental de requisitorias.
+
+1\. Se crea en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes y en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género, el Fondo Documental de Requisitorias.
+
+2\. El Fondo Documental de Requisitorias estará formado por todos los testimonios de las resoluciones judiciales y de particulares correspondientes, de acuerdo con el artículo 516 de la Ley de Enjuiciamiento Criminal.
+
+3\. Para formar el fondo documental de requisitorias, será suficiente la digitalización material de los testimonios y su inclusión en el sistema informático, garantizando su autenticidad, integridad y conservación del documento imagen, conforme lo previsto en los apartados 2 y 3 del artículo 28 de la Ley 18/2011, de 5 julio, reguladora del uso de las tecnologías de la comunicación y la información en la Administración de Justicia.
+
+4\. La documentación asociada a cada requisitoria inscrita en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes o en el Registro Central para la Protección de las Víctimas de la Violencia Doméstica y de Género, a partir de la entrada en vigor del presente Real Decreto estará disponible únicamente para los órganos judiciales y el Ministerio Fiscal, y exclusivamente a los efectos de los procedimientos y actuaciones de los que estén conociendo, en el ámbito de sus respectivas competencias. Dicho acceso se llevará a cabo por el personal de la oficina judicial autorizado por el Secretario del Órgano Judicial del que emana la requisitoria.
+
+5\. Los documentos asociados a cada requisitoria quedarán automáticamente eliminados cuando se produzca la cancelación de la requisitoria.
+
+> Se añade por el art. único.6 del Real Decreto 576/2014, de 4 de julio. [Ref. BOE-A-2014-7573](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7573).
+
+### Disposición adicional quinta. Uso de la Plataforma de Intermediación de Datos de la Administración del Estado por parte de las Administraciones Públicas.
+
+Las Administraciones Públicas, salvo oposición de la persona interesada, deberán obtener la certificación negativa del Registro Central de Penados y del Registro Central de Delincuentes Sexuales y Trata de Seres Humanos a través de la Plataforma de Intermediación de Datos gestionada por la Agencia Estatal de Administración Digital o por los medios electrónicos habilitados al efecto, cuando la certificación de la ausencia de antecedentes penales o por delitos de naturaleza sexual o de trata de seres humanos deba aportarse en un procedimiento administrativo, constituya un requisito para el acceso a un derecho o adquirir una condición determinada, así como para ejercer profesiones, actividades u oficios que conlleven un contacto directo y habitual con personas menores de edad.
+
+> Se añade por el art. único.22 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición adicional sexta. Condiciones técnicas generales para el acceso a SIRAJ.
+
+La unidad encargada de la gestión de los registros administrativos de apoyo a la Administración de Justicia establecerá las condiciones técnicas para los accesos establecidos en el artículo 6, para cumplir con las garantías de accesibilidad, seguridad, trazabilidad, confidencialidad y disponibilidad necesarias en el tratamiento de información penal. Se establecerán las condiciones técnicas para el acceso de los usuarios de los distintos organismos al sistema de información de los registros administrativos de apoyo a la actividad de justicia. En particular, cuando el acceso a la información del Sistema de registros administrativos de apoyo a la Administración de Justicia se realice a través de la Plataforma de Intermediación de Datos, su establecimiento deberá realizarse en colaboración con la Agencia Estatal de Administración Digital.
+
+> Se añade por el art. único.23 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición transitoria primera. Comunicaciones anteriores a la entrada en vigor del real decreto.
+
+Las comunicaciones que los órganos judiciales hayan dirigido al Ministerio con competencias en materia de Justicia antes de la entrada en vigor del presente real decreto, se regirán por la normativa anterior, si la hubiese.
+
+> Se modifica por el art. único.24 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición transitoria segunda. Inscripción de medidas cautelares personales, requisitorias y Sentencias No Firmes acordadas con anterioridad a la entrada en vigor del presente real decreto.
+
+Las medidas cautelares de carácter personal y las requisitorias y las Sentencias No Firmes acordadas o dictadas con anterioridad a la entrada en vigor del presente real decreto y que se encuentren en vigor, deberán inscribirse en el Registro Central de Medidas Cautelares, Requisitorias y Sentencias no Firmes.
+
+Estas inscripciones deberán efectuarse en el plazo de tres meses desde la entrada en vigor del presente real decreto.
+
+### Disposición transitoria tercera. Inscripción de penas derivadas de la comisión de una falta en los Registros de Penados y Rebeldes y Medidas Cautelares, Requisitorias y Sentencias no Firmes.
+
+La inscripción de resoluciones firmes en los Registros de Penados y Rebeldes y Medidas Cautelares, Requisitorias y Sentencias No Firmes por la comisión de una falta, se producirá a partir del momento en que se encuentre en funcionamiento el sistema de envío automático de datos previsto en el artículo 13.2 del presente real decreto.
+
+### Disposición transitoria cuarta. Referencias al Registro Central de Menores.
+
+Las referencias hechas en el presente real decreto al Registro Central de Menores previsto en la disposición adicional tercera de la Ley Orgánica 5/2000, de 12 de enero, de responsabilidad penal de los menores, deberán entenderse realizadas, hasta su entrada en funcionamiento al Registro Central de Sentencias de Responsabilidad Penal de los Menores.
+
+De conformidad con la disposición transitoria única de la Ley Orgánica 4/2024, de 18 de octubre, por la que se modifica la Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea, para su adecuación a la normativa de la Unión Europea sobre el Sistema Europeo de Información de Antecedentes Penales (ECRIS), la entrada en funcionamiento del Registro Central de Menores se producirá en el plazo de un año desde su entrada en vigor.
+
+> Se añade por el art. único.25 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan expresamente derogados el Real Decreto de 2 de Octubre de 1878, la Real Orden de 1 de Abril de 1896, el Real Decreto 2012/1983, de 28 de Julio, sobre cancelación de antecedentes penales, Real Decreto 231/2002, de 1 de marzo, por el que se regula el Registro Central de Rebeldes Civiles, el Real Decreto 232/2002, de 1 de marzo, por el que se regula el Registro de Sentencias Firmes sobre Responsabilidad Penal de los Menores, el Real Decreto 355/2004, de 5 de marzo, por el que se regula el Registro Central para la protección de las víctimas de la violencia doméstica y cuantas disposiciones contenidas en normas de igual o inferior rango al presente real decreto se opongan a lo previsto en él.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.5 de la Constitución, que atribuye al Estado la competencia exclusiva en materia de Administración de Justicia.
+
+### Disposición final segunda. Facultades de desarrollo.
+
+Se autoriza a la persona titular del Ministerio con competencias en materia de Justicia a dictar cuantas disposiciones sean necesarias para el desarrollo de la presente norma.
+
+> Se modifica por el art. único.26 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición final tercera. Alimentación automática de la información contenida en el Sistema.
+
+El Ministerio con competencias en materia de Justicia y las comunidades autónomas con traspasos recibidos en materia de Justicia deberán realizar las modificaciones oportunas en los respectivos sistemas de gestión procesal para que la transmisión de la información prevista en el artículo 13.2 del presente real decreto tenga lugar en el plazo máximo de dieciocho meses, a partir de la entrada en vigor del presente real decreto.
+
+> Se modifica por el art. único.27 del Real Decreto 607/2025, de 8 de julio. [Ref. BOE-A-2025-14085](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14085)
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 6 de febrero de 2009.
+
+JUAN CARLOS R.
+
+El Ministro de Justicia,
+
+MARIANO FERNÁNDEZ BERMEJO

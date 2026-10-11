@@ -1,0 +1,50 @@
+---
+title: "Resolución de 19 de septiembre de 2012, de la Intervención General de la Administración del Estado, por la que se posibilita la tramitación de los modelos normalizados de cuentas justificativas de los pagos a justificar y para la reposición de anticipos de caja fija en soporte fichero"
+identifier: "BOE-A-2012-12399"
+eli: "https://www.boe.es/eli/es/res/2012/09/19/(4)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2012-09-19
+published: 2012-10-04
+in_force_from: 2012-10-05
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 239"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-12399"
+retrieved: 2026-10-11
+---
+
+# Resolución de 19 de septiembre de 2012, de la Intervención General de la Administración del Estado, por la que se posibilita la tramitación de los modelos normalizados de cuentas justificativas de los pagos a justificar y para la reposición de anticipos de caja fija en soporte fichero
+
+Los modelos normalizados de las cuentas justificativas de los pagos a justificar y de reposición de anticipos de caja fija se regulan, respectivamente, en la Resolución de 23 de diciembre de 1987, de la Intervención General de la Administración del Estado, por la que se aprueban las normas de contabilidad de las caja pagadoras y se establecen los modelos normalizados de cuentas justificativas, y la Resolución de 14 de septiembre de 1989, de la Intervención General de la Administración del Estado, por la que se dictan instrucciones para la contabilización de los anticipos de Caja Fija y se modifica parcialmente la de 23 de diciembre de 1987.
+
+Las normas anteriores no regulan el soporte en el que deben rendirse las mencionadas cuentas justificativas, pudiendo, por tanto, tramitarse las mismas no sólo en papel sino también mediante la utilización de medios electrónicos informáticos o telemáticos (EIT).
+
+La presente resolución regula el formato estructurado que deberán tener las cuentas justificativas (carátula de la cuenta, anexo, en su caso, así como la relación de justificantes) de pagos a justificar y las de reposición de anticipos de caja fija así como los propios justificantes de las mismas, cuando la tramitación y rendición de la cuenta se efectúe mediante la utilización de medios EIT.
+
+En su virtud, esta Intervención General, dispone:
+
+## Primero. Ámbito de aplicación.
+
+La presente resolución será de aplicación a las cuentas justificativas de los pagos a justificar así como a las relativas a la reposición de los anticipos de caja fija que se emitan mediante la utilización de medios electrónicos, informáticos o telemáticos.
+
+## Segundo. Cuentas justificativas con justificantes electrónicos.
+
+En las cuentas justificativas que se emitan de acuerdo a lo dispuesto en esta resolución tanto la carátula, el anexo, en su caso, y las relaciones de justificantes, así como los propios justificantes electrónicos, se generarán en soporte electrónico.
+
+La carátula, el anexo, en su caso, así como las relaciones de justificantes de las cuentas justificativas que se emitan mediante la utilización de medios electrónicos, informáticos o telemáticos deberán cumplir las especificaciones técnicas de estructura y las condiciones de empaquetamiento con los justificantes electrónicos de las mismas que se publiquen al efecto en el portal de Internet de la Intervención General de la Administración del Estado (www.igae.pap.minhap.gob.es).
+
+Los formatos admitidos para la documentación de la cuenta justificativa y las especificaciones de firma electrónica se ajustarán a lo establecido en el Real Decreto 686/2005, de 10 de junio, por el que se modifica el Real Decreto 2188/1995, de 28 de diciembre, que desarrolla el régimen de control interno ejercido por la Intervención General de la Administración del Estado, y disposiciones de desarrollo, ajustado al marco que se derive del desarrollo de los Reales Decretos 3/2010 y 4/2010, por los que se regulan los Esquemas Nacionales de Seguridad e Interoperabilidad, respectivamente.
+
+## Tercero. Cuentas justificativas con justificantes electrónicos y en papel.
+
+Cuando la cuenta justificativa comprenda tanto justificantes electrónicos como en papel, se procederá de acuerdo con lo dispuesto en el apartado quinto, subapartado 1, segundo párrafo, de la Resolución de 28 de noviembre de 2005, de la Intervención General de la Administración del Estado, por la que se aprueba la aplicación IRIS. En este caso la enumeración de todos los justificantes con indicación del soporte, electrónico o papel, en el que se remita cada uno de ellos se realizará a través de la propia relación de justificantes generada en soporte electrónico como se indica en el apartado segundo.
+
+## Disposición final única. Entrada en vigor.
+
+La presente resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 19 de septiembre de 2012.–El Interventor General de la Administración del Estado, José Carlos Alcalde Hernández.

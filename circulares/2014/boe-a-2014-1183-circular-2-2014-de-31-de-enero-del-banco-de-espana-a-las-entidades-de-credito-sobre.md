@@ -1,0 +1,351 @@
+---
+title: "Circular 2/2014, de 31 de enero, del Banco de España, a las entidades de crédito, sobre el ejercicio de diversas opciones regulatorias contenidas en el Reglamento (UE) n.º 575/2013, del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012"
+identifier: "BOE-A-2014-1183"
+eli: "https://www.boe.es/eli/es/cir/2014/01/31/2"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2014-01-31
+published: 2014-02-05
+in_force_from: 2014-02-06
+last_amended: 2022-04-06
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 31"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-1183"
+retrieved: 2026-10-11
+---
+
+# Circular 2/2014, de 31 de enero, del Banco de España, a las entidades de crédito, sobre el ejercicio de diversas opciones regulatorias contenidas en el Reglamento (UE) n.º 575/2013, del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012
+
+El Real Decreto-ley 14/2013, de 29 de noviembre, de medidas urgentes para la adaptación del derecho español a la normativa de la Unión Europea en materia de supervisión y solvencia de entidades financieras (en adelante, el RDL), ha venido a 1) realizar las adaptaciones más urgentes del ordenamiento jurídico español a las novedades derivadas de la Directiva 2013/36/UE, de 26 de junio, del Parlamento Europeo y del Consejo, relativa al acceso a la actividad de las entidades de crédito y las empresas de inversión y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las directivas 2006/48/CE y 2006/49/CE, y del Reglamento (UE) n.º 575/2013, de 26 de junio de 2013, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, y 2) a abordar otras reformas de carácter urgente.
+
+Dicho RDL solo ha realizado una transposición parcial al derecho español de la Directiva 2013/36/UE y ha habilitado al Banco de España, en su disposición final quinta, para hacer uso de las opciones que se atribuyen a las autoridades competentes nacionales en el Reglamento (UE) n.º 575/2013.
+
+El objeto de esta circular es establecer, de acuerdo con las facultades conferidas, qué opciones, que el Reglamento (UE) n.º 575/2013 atribuye a las autoridades competentes nacionales, van a tener que cumplir inmediatamente, desde la entrada en vigor del nuevo marco regulatorio de la solvencia, los grupos consolidables de entidades de crédito y las entidades de crédito españolas integradas o no en un grupo consolidable, y con qué alcance.
+
+Para ello, en esta circular, el Banco de España hace uso de algunas de las opciones regulatorias de carácter permanente previstas en el Reglamento (UE) n.º 575/2013, en general con el fin de permitir una continuidad en el tratamiento que la normativa española había venido dando a determinadas cuestiones antes de la entrada en vigor de dicha norma comunitaria, cuya justificación, en algún caso, viene por el modelo de negocio que tradicionalmente han seguido las entidades españolas. Ello no excluye el ejercicio futuro de otras opciones previstas para las autoridades competentes en el Reglamento (UE) n.º 575/2013, en muchos casos, principalmente cuando se trate de opciones de carácter no general, por aplicación directa del Reglamento (UE) n.º 575/2013, sin necesidad de plasmación en una circular del Banco de España.
+
+Asimismo, en uso de la citada habilitación conferida, el Banco de España también determina en esta circular la forma en que las entidades tendrán que cumplir las opciones regulatorias de carácter transitorio previstas en el Reglamento (UE) n.º 575/2013.
+
+Como el objetivo del regulador comunitario, en relación con estas últimas, ha sido facilitar, durante un período transitorio, una adaptación progresiva y suave a los nuevos requerimientos derivados de la introducción del marco de Basilea III en la Unión Europea, como regla general, el Banco de España ha optado por tomar los plazos más largos permitidos por el Reglamento (UE) n.º 575/2013 y los coeficientes correctores menos exigentes, a los efectos de cumplir de la manera más eficaz la finalidad pretendida. No obstante, en ciertos casos en que la normativa española, en particular, en la Circular del Banco de España 3/2008, de 22 de mayo, sobre determinación y control de los recursos propios mínimos (en adelante, CBE 3/2008), venía siendo más exigente que la permitida por el Reglamento (UE) n.º 575/2013, esta se ha considerado un suelo, a partir del cual se ejercitaría la opción.
+
+Asimismo, se precisa el tratamiento que las entidades deberán seguir aplicando para ciertas cuestiones, hasta la entrada en vigor de las normas técnicas de regulación que está elaborando la Autoridad Bancaria Europea.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva y de acuerdo con el Consejo de Estado, ha aprobado la presente circular, que contiene las siguientes normas:
+
+#### Norma primera. Ámbito de aplicación y definiciones.
+
+1\. Lo dispuesto en esta circular será de aplicación a las entidades y grupos referidos en los apartados a) y b) siguientes, siempre que se consideren menos significativos según el Reglamento (UE) n.º 1024/2013 del Consejo, que encomienda al Banco Central Europeo tareas específicas respecto de políticas relacionadas con la supervisión prudencial de las entidades de crédito, y se encuentren bajo la supervisión directa del Banco de España:
+
+a) Los grupos y subgrupos consolidables de entidades de crédito, definidos en el Reglamento (UE) n.º 575/2013, de 26 de junio de 2013, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, cuya matriz esté establecida en España y responda a alguna de las definiciones de los párrafos 28, 30 o 32 del artículo 4.1 del Reglamento (UE) n.º 575/2013.
+
+b) Las entidades de crédito individuales constituidas en España, integradas o no en un grupo consolidable de entidades de crédito.
+
+Lo dispuesto en esta circular también será de aplicación a las sucursales en España de entidades de crédito con sede en Estados no miembros de la Unión Europea.
+
+Adicionalmente, a los exclusivos efectos de garantizar que los requisitos o facultades de supervisión establecidos en la presente circular se aplican de forma adecuada en base consolidada o subconsolidada, se entenderá que los términos “entidad”, “entidad matriz de un Estado miembro”, “entidad matriz de la UE” y “empresa matriz” también incluirán a las sociedades previstas en las letras a), b) y c) del artículo 1 bis de la Ley 10/2014.
+
+2\. No obstante lo dispuesto en el apartado anterior, la norma decimoséptima de esta circular será de aplicación a todos los grupos y entidades, significativos o menos significativos, señalados en las letras a) y b) anteriores, así como a las sucursales en España de entidades de crédito con sede en Estados no miembros de la Unión Europea a las que se refiere el apartado primero de esta norma.
+
+3\. Los términos y conceptos utilizados en la presente circular se entenderán de acuerdo con las definiciones recogidas en el Reglamento (UE) n.º 575/2013 y en la Directiva 36/2013/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013, relativa al acceso a la actividad de las entidades de crédito y a la supervisión prudencial de las entidades de crédito y las empresas de inversión, por la que se modifica la Directiva 2002/87/CE y se derogan las directivas 2006/48/CE y 2006/49/CE y sus normas de transposición al derecho español.
+
+> Se modifica el apartado 1 por la norma segunda.1 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se modifica por la norma única.1 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+## CAPÍTULO 1 — Cuestiones generales
+
+#### Norma segunda. Tratamiento de determinadas participaciones.
+
+1\. En el caso de las tenencias de instrumentos de fondos propios de un ente del sector financiero en el que las entidades tengan una inversión significativa, el Banco de España, de acuerdo con lo dispuesto en el artículo 49.1 del Reglamento (UE) n.º 575/2013, podrá autorizar que las entidades no deduzcan de sus fondos propios dichas tenencias, en cuyo caso las someterán a ponderación a efectos del cálculo de los requisitos de recursos propios según se indica en el artículo 49.4 del Reglamento (UE) n.º 575/2013.
+
+2\. En el caso de las participaciones cualificadas en entidades de carácter no financiero, de conformidad con lo dispuesto en el artículo 89.3 del Reglamento (UE) n.º 575/2013, y de acuerdo con lo establecido en él sobre el tratamiento de las participaciones cualificadas en entidades de carácter no financiero, las entidades deberán aplicar el tratamiento previsto en su letra a), esto es, aplicar la ponderación del 1.250% en ella establecida.
+
+#### Norma tercera. Tratamiento de determinadas exposiciones.
+
+**(Suprimida)**
+
+> Se suprime por la norma segunda.2 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma tercera bis. Salidas de liquidez en productos relacionados con las partidas de fuera de balance de financiación comercial.
+
+**(Suprimida)**
+
+> Se suprime por la norma segunda.3 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se añade por la norma única.2 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma tercera ter. Salidas de depósitos minoristas estables.
+
+A los efectos del artículo 24.4 del Reglamento Delegado (UE) n.º 2015/61 de la Comisión, de 10 de octubre de 2014, por el que se completa el Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo en lo que atañe al requisito de cobertura de liquidez aplicable a las entidades de crédito, las entidades de crédito multiplicarán por un 3 % el importe de los depósitos minoristas estables cubiertos por un sistema de garantía de depósitos, siempre y cuando la Comisión Europea haya dado la previa autorización de acuerdo con el artículo 24.5 del citado reglamento, certificando el cumplimiento de las condiciones establecidas en el mencionado artículo 24.4.
+
+> Se modifica por la norma segunda.4 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se añade por la norma única.3 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma tercera quater. Activos de nivel 2B en caso de entidades que no puedan poseer activos que devenguen intereses.
+
+Las entidades de crédito que conforme a sus estatutos, por razones de práctica religiosa, no puedan poseer activos que devenguen intereses podrán incluir valores representativos de deuda de empresas como activos líquidos de nivel 2B, conforme a todos los requisitos establecidos en el artículo 12.1.b del Reglamento Delegado (UE) n.º 2015/61.
+
+El Banco de España puede revisar periódicamente este tratamiento y permitir una exención de los requisitos de los artículos 12.1.b.(ii) y 12.1.b.(iii) del Reglamento Delegado (UE) 2015/61, cuando se cumplan las condiciones establecidas en el artículo 12.3 del Reglamento Delegado (UE) 2015/61.
+
+> Se modifica por la norma segunda.5 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se añade por la norma única.4 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma tercera quinquies. Excepción en caso de fallo generalizado de un sistema.
+
+En caso de que el Banco de España determine, a través de una declaración pública, que se ha producido un fallo generalizado en el sentido del artículo 380 del Reglamento (UE) n.º 575/2013, las entidades de crédito quedarán dispensadas de los requerimientos de fondos propios calculados con arreglo a los artículos 378 y 379 del Reglamento (UE) n.º 575/2013, hasta que el Banco de España considere que la situación se ha rectificado. En este caso, el hecho de que una contraparte no liquide una transacción no se considerará un impago a efectos del riesgo de crédito. Al analizar si se ha producido un fallo generalizado, el Banco de España tomará en consideración el criterio del Banco Central Europeo al respecto.
+
+> Se añade por la norma única.5 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma tercera sexies. Impago de un deudor.
+
+Las entidades de crédito aplicarán el criterio de la “situación de vencido durante más de 90 días” a las categorías de exposiciones que se especifican en el artículo 178.1.b. del Reglamento (UE) n.º 575/2013.
+
+> Se añade por la norma segunda.6 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma tercera septies. Cálculo del importe de la financiación estable requerida.
+
+De acuerdo con lo dispuesto en los artículos 428 *septdecies.*10 y 428 bis *octodecies.*10 del Reglamento (UE) n.º 575/2013, los factores de financiación estable requerida que las entidades de crédito deben aplicar a las exposiciones fuera de balance no contempladas en el capítulo 4 del Título IV de la Parte Sexta del Reglamento (UE) n.º 575/2013 deben ser los índices de salida relativos a otros productos y servicios especificados en el artículo 23 del Reglamento Delegado (UE) n.º 2015/61.
+
+> Se añade por la norma segunda.7 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma tercera octies. Vencimiento residual de un activo.
+
+De acuerdo con lo dispuesto en los artículos 428 octodecies.2 y 428 bis novodecies.2 del Reglamento (UE) n.º 575/2013, las entidades de crédito tratarán los activos que hayan sido segregados de conformidad con el artículo 11.3 del Reglamento (UE) n.º 648/2012 con arreglo a la exposición subyacente de estos. No obstante, si las entidades no pueden disponer libremente de tales activos, deberán tratarlos como activos gravados durante el período correspondiente al plazo de los pasivos con los clientes de las entidades a los que esté vinculado ese requisito de segregación.
+
+> Se añade por la norma segunda.8 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma tercera nonies. Activos de nivel 2B.
+
+Los siguientes índices se considerarán índices bursátiles importantes, a efectos de determinar las acciones que pueden calificarse como activos de nivel 2B con arreglo al artículo 12.1.c).i) del Reglamento Delegado (UE) n.º 2015/61:
+
+(i) Los índices enumerados en el Anexo 1 del Reglamento de Ejecución de la Comisión (UE) 2016/1646.
+
+(ii) Cualquier índice bursátil importante, no incluido en el punto (i), en un Estado miembro o en un tercer país, identificado como tal a efectos del presente punto por la autoridad competente del Estado miembro o por la autoridad pública pertinente del tercer país.
+
+(iii) Cualquier índice bursátil importante, no incluido en los puntos (i) o (ii), compuesto por acciones de las principales empresas del país en cuestión.
+
+> Se añade por la norma segunda.9 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+#### Norma tercera decies. Exenciones de grandes exposiciones.
+
+De acuerdo con lo dispuesto en el artículo 400.2 del Reglamento (UE) n.º 575/2013, las entidades podrán excluir de manera plena del cumplimiento de los límites a sus grandes exposiciones las exposiciones referidas a las letras (k) y (l) de dicho artículo.
+
+> Se añade por la norma segunda.10 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+## CAPÍTULO 2 — Ejercicio por el Banco de España de opciones regulatorias de carácter transitorio previstas en el reglamento (UE) n.º 575/2013
+
+### Sección primera. Requisitos de recursos propios
+
+#### Norma cuarta. Requisitos de recursos propios.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección segunda. Ajustes y filtros prudenciales
+
+#### Norma quinta. Pérdidas y ganancias valoradas a valor razonable.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma sexta. Ganancias y pérdidas valoradas al valor razonable, procedentes de pasivos derivados, resultantes de su propio riesgo de crédito.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección tercera. Deducciones en los elementos del capital de nivel 1 ordinario
+
+#### Norma séptima. Mantenimiento del nivel de deducción de ciertos elementos durante el período transitorio.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+> Se suprime el apartado 2 por la disposición final 2.1 de la Circular 3/2014, de 30 de julio. [Ref. BOE-A-2014-8189](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8189).
+
+#### Norma séptima bis. Deducción de activos intangibles.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+> Se añade por la disposición final 2.2 de la Circular 3/2014, de 30 de julio. [Ref. BOE-A-2014-8189](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8189).
+
+#### Norma octava. Deducción de los importes negativos resultantes del cálculo del importe de las pérdidas esperadas durante el período transitorio.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma novena. Deducción de los activos de fondos de pensión de prestaciones definidas durante el período transitorio.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.6 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma novena bis. Reconocimiento transitorio en el capital de nivel 1 ordinario del mayor valor de los activos y pasivos de los fondos o planes de pensiones de prestación definida, neto de las obligaciones asociadas, debido a las modificaciones en la Norma Internacional de Contabilidad 19.
+
+**(Suprimida)**
+
+> Se suprime por la norma segunda.11 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se añade por la norma única.7 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma décima. Deducción, durante el período transitorio, de las tenencias de instrumentos de capital de nivel 1 ordinario de entes del sector financiero cuando la entidad no tenga una inversión significativa en un ente del sector financiero.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.8 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma undécima. Tratamiento durante el período transitorio de las deducciones de activos fiscales diferidos.
+
+1\. A efectos de la deducción prevista en el artículo 469.1(c) del Reglamento (UE) n.º 575/2013, entre el 1 de enero de 2018 y el 31 de diciembre de 2023 las entidades que se encuentren en alguno de los supuestos i) a iii) siguientes deducirán de los elementos del capital de nivel 1 ordinario el porcentaje aplicable que se indica en el apartado 1 de la norma decimocuarta del importe correspondiente a activos por impuestos diferidos que dependen de rendimientos futuros y existían con anterioridad al 1 de enero de 2014 y que, tras aplicar lo establecido en los artículos 470 y 469.2 del Reglamento (UE) n.º 575/2013, resulte a deducir:
+
+i) Entidades que, a 14 de abril de 2017, estuvieran sujetas a un plan de reestructuración aprobado por la Comisión Europea.
+
+ii) Entidades sujetas a un plan de reestructuración aprobado por la Comisión Europea antes del 14 de abril de 2017 que sean adquiridas o se fusionen con otras entidades, siempre que, tras la adquisición o fusión, dicho plan de reestructuración siga vigente y sin modificaciones en cuanto al tratamiento prudencial de los activos por impuestos diferidos. En este caso, el tratamiento previsto en este apartado será de aplicación a la entidad adquirente o resultante de la fusión en la misma medida en la que hubiera resultado aplicable a la entidad adquirida.
+
+iii) En caso de que el Banco de España determine que se ha producido un incremento inesperado y material del impacto de las deducciones correspondientes a activos por impuestos diferidos que dependen de rendimientos futuros y que existían con anterioridad al 1 de enero de 2014.
+
+2\. **(Suprimido).**
+
+3\. Los importes residuales no deducidos que resulten de la aplicación del apartado anterior no se deducirán de los fondos propios y recibirán una ponderación de riesgo del 0 %.
+
+> Se suprime el apartado 2 y se modifica el apartado 3 por la norma segunda.12 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se modifica por la norma única.9 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+#### Norma duodécima. Tratamiento durante el período transitorio de participaciones en entidades aseguradoras.
+
+**(Suprimida)**
+
+> Se suprime por la norma segunda.13 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se modifica el primer párrafo del apartado 1 y se suprime el apartado 3 por la norma única.10 y 11 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección cuarta. Deducciones en los elementos de capital de nivel 1 adicional y de capital de nivel 2
+
+#### Norma decimotercera. Deducciones en los elementos del capital de nivel 1 adicional y de capital de nivel 2.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.12 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección quinta. Porcentajes aplicables a las deducciones
+
+#### Norma decimocuarta. Porcentajes aplicables para la deducción de distintos epígrafes de fondos propios.
+
+1\. El porcentaje aplicable a efectos del apartado 1 de la norma undécima será:
+
+a) del 40 % durante el período comprendido entre el 1 de enero de 2018 y el 31 de diciembre de 2018;
+
+b) del 50 % durante el período comprendido entre el 1 de enero de 2019 y el 31 de diciembre de 2019;
+
+c) del 60 % durante el período comprendido entre el 1 de enero de 2020 y el 31 de diciembre de 2020;
+
+d) del 70 % durante el período comprendido entre el 1 de enero de 2021 y el 31 de diciembre de 2021;
+
+e) del 80 % durante el período comprendido entre el 1 de enero de 2022 y el 31 de diciembre de 2022;
+
+f) del 90 % durante el período comprendido entre el 1 de enero de 2023 y el 31 de diciembre de 2023.
+
+2\. **(Suprimido).**
+
+> Se suprime el apartado 2 por la norma segunda.14 de la Circular 3/2022, de 30 de marzo. [Ref. BOE-A-2022-5524](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-5524)
+
+> Se modifica por la norma única.13 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+> Se modifica el primer párrafo del apartado 1 por la disposición final 2.3 de la Circular 3/2014, de 30 de julio. [Ref. BOE-A-2014-8189](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8189).
+
+### Sección sexta. Intereses minoritarios e instrumentos de capital de nivel 1 adicional y de capital de nivel 2 emitidos por filiales
+
+#### Norma decimoquinta. Reconocimiento en los fondos propios consolidados durante el período transitorio.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.14 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección séptima. Cómputo durante el periodo transitorio de instrumentos de capital emitidos con anterioridad al reglamento (ue) n.º 575/2013
+
+#### Norma decimosexta. Porcentajes aplicables al cómputo transitorio como elementos de capital de nivel 1 ordinario, de nivel 1 adicional y de nivel 2, de instrumentos de capital emitidos con anterioridad al Reglamento (UE) n.º 575/2013.
+
+De acuerdo con lo dispuesto en el artículo 486 del Reglamento (UE) n.º 575/2013, los porcentajes aplicables contemplados en los apartados 2 a 4 de dicho artículo que determinan el importe de los instrumentos a que se refieren los apartados 3 a 5, respectivamente, del artículo 484 del Reglamento (UE) n.º 575/2013 serán:
+
+a) del 80% durante el período comprendido entre el 1 de enero de 2014 y el 31 de diciembre de 2014;
+
+b) del 70% durante el período comprendido entre el 1 de enero de 2015 y el 31 de diciembre de 2015;
+
+c) del 60% durante el período comprendido entre el 1 de enero de 2016 y el 31 de diciembre de 2016;
+
+d) del 50% durante el período comprendido entre el 1 de enero de 2017 y el 31 de diciembre de 2017;
+
+e) del 40% durante el período comprendido entre el 1 de enero de 2018 y el 31 de diciembre de 2018;
+
+f) del 30% durante el período comprendido entre el 1 de enero de 2019 y el 31 de diciembre de 2019;
+
+g) del 20% durante el período comprendido entre el 1 de enero de 2020 y el 31 de diciembre de 2020;
+
+h) del 10% durante el período comprendido entre el 1 de enero de 2021 y el 31 de diciembre de 2021.
+
+### Sección octava. Grandes riesgos
+
+#### Norma decimoséptima. Exenciones temporales a los grandes riesgos.
+
+De acuerdo con lo dispuesto en el artículo 493.3 del Reglamento (UE) n.º 575/2013, las entidades podrán excluir del cumplimiento de los límites a sus grandes exposiciones las exposiciones referidas en dicho artículo, hasta la entrada en vigor de algún acto legislativo subsiguiente a la revisión a la que se refiere el artículo 507 del Reglamento (UE) n.º 575/2013 o hasta el 31 de diciembre de 2028, lo que antes ocurra. La exención será plena salvo para las exposiciones señaladas en las letras (a), (b), (f) y (j) del referido artículo, en las que dicha exención será del 50%.
+
+### Sección novena. Ratio de apalancamiento
+
+#### Norma decimoctava. Ratio de apalancamiento.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.14 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección décima. Otras deducciones
+
+#### Norma decimonovena. Otras deducciones y ajustes.
+
+**(Suprimida)**
+
+> Se suprime por la norma única.14 de la Circular 3/2017, de 24 de octubre. [Ref. BOE-A-2017-12562](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12562)
+
+### Sección undécima. Otras opciones de carácter transitorio
+
+> Se deroga por la letra b) de la disposición derogatoria de la Circular 2/2016, de 2 de febrero. [Ref. BOE-A-2016-1238](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1238).
+
+#### Norma vigésima. Riesgos distintos del delta en instrumentos de cartera de negociación.
+
+**(Derogada)**
+
+> Se deroga por la letra b) de la disposición derogatoria de la Circular 2/2016, de 2 de febrero. [Ref. BOE-A-2016-1238](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1238).
+
+#### Norma vigésima primera. Índices bursátiles.
+
+**(Derogada)**
+
+> Se deroga por la letra b) de la disposición derogatoria de la Circular 2/2016, de 2 de febrero. [Ref. BOE-A-2016-1238](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1238).
+
+#### Norma vigésima segunda. Riesgos distintos del delta en instrumentos sobre materias primas.
+
+**(Derogada)**
+
+> Se deroga por la letra b) de la disposición derogatoria de la Circular 2/2016, de 2 de febrero. [Ref. BOE-A-2016-1238](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1238).
+
+#### Disposición derogatoria.
+
+Queda derogada la Circular del Banco de España 7/2012, de 30 de noviembre, del Banco de España, a entidades de crédito, sobre requerimientos mínimos de capital principal.
+
+#### Disposición final única.
+
+La presente circular entrará en vigor el día siguiente a su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 31 de enero de 2014.–El Gobernador del Banco de España, Luis María Linde de Castro.

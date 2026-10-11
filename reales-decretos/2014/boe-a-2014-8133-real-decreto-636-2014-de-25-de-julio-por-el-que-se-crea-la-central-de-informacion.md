@@ -1,0 +1,225 @@
+---
+title: "Real Decreto 636/2014, de 25 de julio, por el que se crea la Central de Información económico-financiera de las Administraciones Públicas y se regula la remisión de información por el Banco de España y las entidades financieras al Ministerio de Hacienda y Administraciones Públicas"
+identifier: "BOE-A-2014-8133"
+eli: "https://www.boe.es/eli/es/rd/2014/07/25/636"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2014-07-25
+published: 2014-07-30
+in_force_from: 2014-07-31
+last_amended: 2019-12-28
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 184"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-8133"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 636/2014, de 25 de julio, por el que se crea la Central de Información económico-financiera de las Administraciones Públicas y se regula la remisión de información por el Banco de España y las entidades financieras al Ministerio de Hacienda y Administraciones Públicas
+
+Contar con información económico-financiera coordinada, ordenada y clara, elaborada con unos criterios homogéneos y referida a las distintas Administraciones Públicas, resulta fundamental para cumplir con el principio de transparencia en la información pública. Para atender esta necesidad, se considera clave crear una Central de Información económico-financiera que simplifique el acceso a la información pública y la forma de ofrecerla.
+
+Los antecedentes de este instrumento se encuentran en la Ley Orgánica 5/2001, de 13 de diciembre, complementaria a la Ley General de Estabilidad Presupuestaria, que estableció la creación de una Central de Información, dependiente del entonces Ministerio de Economía y Hacienda, encargada de proveer con carácter público de información relativa al endeudamiento de las comunidades autónomas y sus entes dependientes. Sin embargo, esta Central no llegó a ponerse en funcionamiento y desde entonces se han ido incrementando las obligaciones de transparencia, al publicarse cada vez más información económica de las distintas Administraciones, lo que ha acrecentado el problema de la dispersión.
+
+El artículo 28 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, establece que el Ministerio de Hacienda y Administraciones Públicas mantendrá una Central de Información, de carácter público, que provea de información sobre la actividad económico-financiera de las distintas Administraciones Públicas, disponiendo que dicha Central se nutrirá con la información que remitan las Administraciones Públicas, los bancos, cajas de ahorro y demás entidades financieras, así como por la información que provea el Banco de España en relación con el endeudamiento de las comunidades autónomas y corporaciones locales.
+
+Asimismo, el artículo 6 de la Ley Orgánica 2/2012, de 27 de abril, establece el principio de transparencia, disponiendo la obligación de las Administraciones Públicas de suministrar toda la información necesaria para el cumplimiento de las disposiciones de la citada ley así como de las normas y acuerdos que se adopten en su desarrollo.
+
+Este principio se completa a su vez con lo dispuesto en el artículo 27 de la citada ley orgánica al establecer, entre otros aspectos, que el Ministerio de Hacienda y Administraciones Públicas podrá publicar información económico-financiera de las Administraciones Públicas con el alcance, metodología y periodicidad que se determine conforme a los acuerdos y normas nacionales y las disposiciones comunitarias.
+
+Por otra parte, el 21 de junio de 2013 fue elevado al Consejo de Ministros el informe elaborado por la Comisión para la Reforma de las Administraciones Públicas, en el que se incluyó como propuesta la creación y puesta en funcionamiento por parte del Ministerio de Hacienda y Administraciones Públicas de una Central de Información de carácter económico-financiero de las Administraciones Públicas.
+
+Esta Central facilitará la información que es pública en el portal del Ministerio de Hacienda y Administraciones Públicas, www.minhap.gob.es, y se alimentará de los contenidos que aportarán los centros directivos, que serán los responsables de los datos que generan, de su custodia y archivo. Para ello, se llevará a cabo la homogeneización de los criterios de publicación de la información y se establecerá un sistema de gobernanza que permita el mantenimiento permanentemente actualizado y completo de los contenidos de la Central.
+
+La creación y puesta en marcha de la Central de Información económico-financiera de las Administraciones Públicas supondrá una reducción de los tiempos de búsqueda de la información, mejorará la cantidad y calidad de la información económica, presupuestaria, financiera y estadística que publica el Ministerio de Hacienda y Administraciones Públicas, aumentará la interoperabilidad y reutilización de la misma y evitará la duplicidad y dispersión de las publicaciones. En particular, siempre que sea posible, no existirá duplicidad en el almacenamiento de los datos que corresponderá al centro o entidad fuente de los datos. Todo ello generará mayor transparencia y confianza en la información económico-financiera del sector público.
+
+Desde la aprobación de la Ley Orgánica 2/2012, de 27 de abril, y ante las nuevas exigencias en materia de obligaciones de información y transparencia establecidas en la normativa europea, se ha ido aprobando numerosa normativa de desarrollo en el ámbito presupuestario, tributario, y financiero que regula las obligaciones de información, especificando quiénes deben remitir la información, qué información, con qué periodicidad y por qué medio, así como qué información debe publicarse. De entre estas normas destaca la Orden HAP/2105/2012, de 1 de octubre, por la que se desarrollan las obligaciones de suministro de información previstas en la Ley Orgánica 2/2012, de 27 de abril, que, en desarrollo de los artículos 27.4 y 28.5 de la citada ley orgánica, ha concretado las obligaciones periódicas y no periódicas de remisión de información de las diferentes Administraciones autonómicas y locales, y designa al Ministerio de Hacienda y Administraciones Públicas como responsable de especificar los modelos y formatos de remisión de información y de su publicación en su portal web.
+
+Por otra parte, a través de este real decreto se profundiza en el desarrollo de la Ley Orgánica 2/2012, de 27 de abril, su artículo 28, al desarrollar las obligaciones de suministro de información del Banco de España y los bancos, cajas de ahorro y demás entidades financieras al Ministerio de Hacienda y Administraciones Públicas, sobre el endeudamiento de las Administraciones Públicas y sus entidades u organismos vinculados o dependientes.
+
+Para culminar el cumplimiento de lo previsto sobre esta materia en la Ley Orgánica 2/2012, de 27 de abril, y de acuerdo con la propuesta incluida en el informe de la Comisión para la Reforma de las Administraciones Públicas y el mandato establecido en el artículo 28, se dicta este real decreto que, se compone de 12 artículos, estructurados en dos capítulos y dos disposiciones finales, y que tiene por fin la creación y puesta en funcionamiento de la Central de Información a la que se refiere el artículo 28 de la Ley Orgánica 2/2012, de 27 de abril, cuyo mandato se entenderá cumplido con la entrada en vigor de este real decreto, así como el establecimiento de las obligaciones de información al Ministerio de Hacienda y Administraciones Públicas por parte del Banco de España y las entidades financieras.
+
+El capítulo I, Central de Información económico-financiera de las Administraciones Públicas, crea la Central y regula los sujetos obligados al suministro de información, su adscripción, funcionamiento, contenido, los medios y periodicidad de la remisión de la información así como las consecuencias derivadas del incumplimiento de la obligación de suministro de información. De este modo, la Central permitirá sistematizar y coordinar la información económico-financiera referida a las diferentes Administraciones Públicas que ya se publica de acuerdo con su normativa especial aplicable.
+
+En efecto, son las diferentes normas reglamentarias especiales, por razón de la materia, las que han ido concretando las obligaciones de información y publicación de la información económico-financiera referida a todas las Administraciones Públicas. Este real decreto no afecta a esa regulación, sino que en cumplimiento de la Ley Orgánica 2/2012, de 27 de abril, crea una Central de información económico-financiera de las Administraciones Públicas que permite presentar la información pública de forma coordinada y sistematizada para evitar duplicidades e ineficiencias. Ello permitirá avanzar en la sindicación de contenidos, cuando por la calidad de los datos o de los gestores de contenidos ello sea posible, o publicación directa de datos a través de la Central, que irá evolucionando a medida que los medios técnicos le permitan ir desarrollando nuevas potencialidades tecnológicas al servicio de sus funciones.
+
+De este modo, el presente real decreto no incrementa las obligaciones de suministro de información o publicación de las comunidades autónomas o entidades locales, que seguirán remitiendo la información a la que están ya obligadas con la misma periodicidad y a través de los mismos canales que establece la normativa vigente. Por el contrario, este real decreto, lejos de ser una carga para estas Administraciones, les facilitará el poder consultar de manera ordenada y a través de un único punto toda la información económico-financiera de carácter público que les afecta directamente.
+
+El capítulo II de remisión de información por el Banco de España y de las entidades financieras, regula la información que deben remitir el Banco de España, los bancos, cajas de ahorro y demás entidades financieras al Ministerio de Hacienda y Administraciones Públicas, la periodicidad y medios para su remisión, así como las consecuencias asociadas a su incumplimiento.
+
+En la tramitación de este real decreto se ha solicitado informe de la Comisión nacional de Administración Local y del Consejo de Política Fiscal y Financiera.
+
+Este real decreto se dicta en ejercicio de la habilitación legal contenida en el artículo 28 y en la disposición final segunda, apartado primero de la Ley Orgánica 2/2012, de 27 de abril.
+
+En su virtud, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de julio de 2014,
+
+DISPONGO:
+
+## CAPÍTULO I — Central de información económico-financiera de las Administraciones Públicas
+
+### Artículo 1. Creación de la Central de Información económico-financiera de las Administraciones Públicas.
+
+1\. Se crea la Central de Información económico-financiera de las Administraciones Públicas, a la que se refiere el artículo 28 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, a través de la cual se proveerá con carácter público de información sobre la actividad económico-financiera de las distintas Administraciones Públicas, en el portal web del Ministerio de Hacienda.
+
+2\. La gestión de la Central de Información económico-financiera de las Administraciones Públicas será competencia del órgano adscrito al Ministerio de Hacienda que se establezca en su real decreto de estructura orgánica.
+
+3\. En aplicación del principio de eficiencia, conforme al artículo 7 de la Ley Orgánica 2/2012, de 27 de abril, la información económico-financiera que deba ser pública, porque así lo prevea la normativa económico-financiera que resulte aplicable, será objeto de publicación en la Central de Información económico-financiera de las Administraciones Públicas. Todo ello, sin perjuicio de la difusión institucional que pueda corresponder a cada órgano, organismo o entidad.
+
+4\. La publicación de información a través de la Central de Información económico-financiera de las Administraciones Públicas se hará respetando el principio de transparencia al que se refieren los artículos 6 y 27 de la Ley Orgánica 2/2012, de 27 de abril, identificando la fuente que ha elaborado los datos.
+
+> Se modifica por el art. único.1 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+### Artículo 2. Funciones.
+
+1\. El órgano competente para gestionar la Central de Información económico-financiera de las Administraciones Públicas tendrá las siguientes funciones:
+
+a) Proveer públicamente la información sobre la actividad económico-financiera de las distintas Administraciones Públicas en cumplimiento de lo previsto en la Ley Orgánica 2/2012, de 27 de abril, su normativa de desarrollo, la normativa de la Unión Europea y el resto de la normativa económico-financiera que resulte aplicable.
+
+b) Establecer criterios homogéneos de suministro y publicación de la información procedente de los sujetos comprendidos en el artículo 5 y aplicar un sistema de gobernanza que permita la gestión y el mantenimiento permanentemente actualizado y completo de los contenidos que se proporcionen desde la Central, para lo que podrá acceder a la información que resulte necesaria.
+
+c) La captación de datos y estructuración de la información sobre la actividad económico-financiera sin modificación de su contenido, procedente de los sujetos establecidos en el artículo 5 sobre la actividad económico-financiera, a efectos de su publicación a través del portal web del Ministerio de Hacienda.
+
+d) Coordinar el suministro de la información económico-financiera de las diferentes Administraciones Públicas que deba publicarse a través de la Central, procedente de los sujetos previstos en el artículo 5.
+
+e) Coordinar, hacer seguimiento y publicar el calendario mensual de publicación de datos indicando los centros directivos responsables que los elaboran, de conformidad con lo previsto en la normativa económico-financiera que resulte de aplicación, respetando los plazos en los procesos de elaboración de los mismos.
+
+2\. Cuando la información objeto de publicación por la Central de Información económico-financiera de las Administraciones Públicas se refiera a las estadísticas incorporadas al programa estadístico europeo, el ejercicio de las funciones recogidas en el apartado anterior se hará respetando en todo caso las obligaciones que corresponde ejercer a las autoridades designadas para cada estadística europea, de acuerdo con las previsiones y principios recogidos en el Reglamento (CE) n.º 223/2009 del Parlamento europeo y del Consejo, de 11 de marzo de 2009, relativo a la estadística europea, entre ellos el principio de imparcialidad recogido en el artículo 18.1, y el Código de Buenas Prácticas de las Estadísticas Europeas aprobado en su desarrollo. La publicación de esta información en la Central de Información económico-financiera de las Administraciones Públicas se hará sin perjuicio de la que de manera simultánea pueda realizar la autoridad estadística correspondiente, de acuerdo con los principios de independencia profesional, imparcialidad, objetividad, fiabilidad, secreto estadístico y el resto de los previstos en el marco común del Sistema Estadístico Europeo.
+
+> Se modifica por el art. único.2 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+### Artículo 3. Información que se publicará a través de la Central de Información económico- financiera de las Administraciones Públicas.
+
+1\. Se publicará en la Central la Información económico-financiera de las Administraciones Públicas la información que, de acuerdo con su normativa reguladora, deba ser pública, atendiendo a los términos y periodicidad prevista en dicha normativa. Entre esta información estará la siguiente:
+
+a) La información que debe publicarse de conformidad con la Ley Orgánica 2/2012, de 27 de abril; la Orden HAP/2105/2012, de 1 de octubre, por la que se desarrollan las obligaciones de suministro de información previstas en la Ley Orgánica 2/2012, de 27 de abril, y el resto de la normativa de desarrollo de la mencionada ley orgánica.
+
+b) Las previsiones utilizadas para la planificación presupuestaria, así como la metodología, supuestos y parámetros en los que se basen, de conformidad con lo dispuesto en el artículo 6.3 de la Ley Orgánica 2/2012, de 27 de abril.
+
+c) La información relativa a los ingresos de todas las Administraciones Públicas y los datos de ejecución presupuestaria, incluidos los datos que tengan carácter público relativos a las pensiones del Régimen de Clases Pasivas del Estado.
+
+d) Información relativa a la participación de las Entidades Locales en los tributos del Estado.
+
+e) Información relativa al endeudamiento del Estado, las Comunidades Autónomas y Corporaciones Locales.
+
+f) Información relativa al período medio de pago de las Administraciones Públicas.
+
+g) Información sobre el coste efectivo de los servicios de las Entidades Locales.
+
+h) La información del Inventario de Entes del Sector Público Estatal, Autonómico y Local previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, publicada en el portal de Internet de la Intervención General de la Administración del Estado estará disponible para cualquier usuario a través de la Central de Información económico-financiera de las Administraciones Públicas.
+
+i) Información presupuestaria y económico-financiera de las Administraciones Públicas. Elaborada por la Oficina de Contabilidad Nacional. Dicha información será remitida por la mencionada Oficina a la central de información económico-financiera de las Administraciones Públicas, de acuerdo con lo previsto en el artículo 6, para la publicación de la citada información por dicha Central, sin perjuicio de que la misma y de manera simultánea pueda ser publicada por la Oficina Nacional de Contabilidad en cumplimiento de las previsiones del Código de Buenas Prácticas de las Estadísticas Europeas, aprobado en cumplimiento del Reglamento CE n.º 223/2009, del Parlamento Europeo y del Consejo.
+
+j) Las previsiones macroeconómicas y presupuestarias de los Presupuestos Generales del Estado, del Programa de Estabilidad y del Plan Presupuestario, así como las metodologías utilizadas para su elaboración, los supuestos y parámetros que las sostienen y la evaluación *ex post* de las mismas, de acuerdo con lo previsto en el Real Decreto 337/2018, de 25 de mayo, sobre los requisitos aplicables a las previsiones macroeconómicas y presupuestarias.
+
+k) La información relativa a los Fondos Europeos concedidos por las diferentes Administraciones Públicas y sus entidades u organismos dependientes o vinculados.
+
+l) La información relativa a pensiones y afiliaciones a la seguridad social procedente del Ministerio de Trabajo, Migraciones y Seguridad Social.
+
+m) Los informes preceptivos evacuados por la Oficina Nacional de Evaluación, así como el informe de la Administración General del Estado en el caso de que se apartase de las recomendaciones contenidas en el primero, de acuerdo con lo previsto en el artículo 333 de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+n) El resto de información económico-financiera relativa a cualquiera de las Administraciones Públicas, sus entidades u organismos vinculados o dependientes.
+
+2\. Cuando se produzca la modificación, corrección o actualización de la información ya suministrada a la Central de Información económico-financiera de las Administraciones Públicas, los centros responsables de dicha modificación, corrección o actualización deberán remitir esta información a la Central, de forma inmediata y mediante los procedimientos previstos en el artículo 6, a los efectos de mantener actualizada la información allí publicada.
+
+> Se modifica por el art. único.3 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+### Artículo 4. Publicidad.
+
+A través de la Central de Información económico-financiera de las Administraciones Públicas se publicará la información a la que se refiere el artículo 3, en el portal web del Ministerio de Hacienda y Administraciones Públicas, cuando la normativa especial reguladora de la materia haya previsto su publicidad y con la periodicidad indicada en la mencionada normativa.
+
+### Artículo 5. Sujetos obligados al suministro de la información.
+
+1\. Están obligados al suministro de la información al responsable de la Central de Información económico-financiera de las Administraciones Públicas, a través de la propia Central:
+
+a) Los centros directivos del Ministerio de Hacienda responsables de la información, así como sus entidades u organismos dependientes o vinculados.
+
+b) Los centros directivos del resto de Departamentos Ministeriales en los que se estructura la Administración General del Estado, así como sus entidades u organismos dependientes o vinculados.
+
+2\. Los sujetos a los que se refiere el apartado anterior estarán obligados a proporcionar, de oficio, a la Central de Información económico-financiera de las Administraciones Públicas, con carácter periódico e individual, los datos e información necesaria a que se refiere el artículo 3 de este real decreto, de forma que esté permanentemente actualizada. Asimismo, deberán atender los requerimientos de información que a estos efectos les formule el responsable de la mencionada Central.
+
+3\. El cumplimiento de la obligación de suministro de información a la Central de Información económico-financiera de las Administraciones Públicas no exime a los sujetos mencionados en el apartado primero de este artículo de sus obligaciones y responsabilidad respecto al contenido de la información suministrada, su archivo y custodia.
+
+> Se modifica por el art. único.4 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+### Artículo 6. Periodicidad y medios de suministro de la información.
+
+1\. El cumplimiento de las obligaciones de suministro de información a las que se refiere el capítulo I de este real decreto se efectuará por medios electrónicos a través del sistema que el Ministerio de Hacienda habilite al efecto. En aquellos casos en los que el Ministerio de Hacienda lo considere necesario, se efectuará mediante firma electrónica avanzada basada en un certificado reconocido, de los regulados en la Ley 59/2003, de 19 de diciembre, de firma electrónica.
+
+2\. La disponibilidad, el envío y captura de la información prevista en el capítulo I de este real decreto se realizará, a través de modelos normalizados o sistemas de carga masiva de datos habilitados al efecto, de acuerdo con las especificaciones que establezca la Central de Información económico-financiera de las Administraciones Públicas.
+
+3\. La información prevista en el capítulo I de este real decreto se suministrará al responsable de la Central de Información económico-financiera de las Administraciones Públicas, al menos 2 días hábiles antes de la fecha prevista para su publicación, y con una periodicidad mensual, trimestral, semestral o anual u otra, según corresponda, de conformidad con lo establecido en la normativa económico-financiera que resulte aplicable de acuerdo con la naturaleza de la información.
+
+> Se modifica por el art. único.5 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+### Artículo 7. Incumplimiento de la obligación de suministro de información.
+
+1\. Sin perjuicio de la posible responsabilidad personal que corresponda de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno u otra normativa de aplicación, el incumplimiento de las obligaciones de suministro de información recogidas en capítulo I de este real decreto, tanto en lo referido a los plazos establecidos, el correcto contenido e idoneidad de los datos requeridos o el modo de envío, dará lugar a que el responsable de la Central de Información económico-financiera de las Administraciones Públicas formule un requerimiento de cumplimiento que notificará tanto al sujeto incumplidor de su obligación, de acuerdo con lo previsto en el artículo 5, como al titular del Ministerio del que dependa.
+
+2\. El requerimiento de cumplimiento indicará el plazo, no superior a quince días naturales, ni inferior a diez, para atender la obligación incumplida con apercibimiento de que transcurrido el mencionado plazo se procederá a dar publicidad del incumplimiento en el portal web del Ministerio de Hacienda y Administraciones Públicas. Asimismo, el Ministro de Hacienda y Administraciones Públicas lo pondrá en conocimiento del Consejo de Ministros.
+
+### Artículo 8. Acceso a la información ubicada en la Central de Información económico-financiera de las Administraciones Públicas.
+
+Con independencia de que la información obrante en la Central de información sea pública para general conocimiento, el responsable de la Central pondrá a disposición de la Autoridad Independiente de Responsabilidad Fiscal, del Consejo de Política Fiscal y Financiera de las Comunidades Autónomas y de la Comisión Nacional de Administración Local, en los ámbitos que les afecten, la información que estos le soliciten expresamente. Para ello, el responsable de la central podrá canalizar estas peticiones de información económico-financiera que reciba a los centros directivos que correspondan para que den respuesta en el plazo de 10 días.
+
+### Artículo 9. Conservación de los datos.
+
+1\. El responsable de la Central de Información económico-financiera de las Administraciones Públicas asumirá el archivo y custodia de la información obrante en la mencionada Central de Información.
+
+2\. Los datos e información publicados a través de la Central de Información económico-financiera de las Administraciones Públicas se conservarán, al menos, durante diez años contados desde la fecha a la que se refieran. No obstante, podrán conservarse indefinidamente aquellos datos e información con un fin histórico, estadístico o científico.
+
+> Se modifica por el art. único.6 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+## CAPÍTULO II — Remisión de información por el Banco de España y las entidades financieras
+
+### Artículo 10. Remisión de información por el Banco de España y las entidades financieras.
+
+1\. El Banco de España remitirá al Ministerio de Hacienda y Administraciones Públicas la información suministrada por los bancos, cajas de ahorro y las demás entidades financieras a la Central de Información de Riesgos del Banco de España, relativa a las operaciones de crédito concertadas por las Administraciones Públicas con esas entidades financieras, incluidos los avales, reavales o cualquier otra clase de garantías otorgadas en el marco de estas operaciones de crédito. Asimismo, deberá remitir al órgano competente, por razón de la materia, del Ministerio de Hacienda y Administraciones Públicas, la información relativa a las operaciones de crédito que hayan concertado cada una de las Administraciones Públicas y sus entidades y organismos vinculados o dependientes con los bancos, cajas de ahorro y demás entidades financieras, así como su posición deudora, u otros datos concretos relativos a su endeudamiento o determinadas operaciones de crédito.
+
+2\. El Ministerio de Hacienda y Administraciones Públicas podrá solicitar a los bancos, cajas de ahorro y a las demás entidades financieras otra información relativa a las operaciones de crédito e información sobre avales, reavales o cualquier otra clase de garantías concertadas con las Administraciones Públicas y sus entidades y organismos dependientes, diferente a la suministrada a la Central de Información de Riesgos del Banco de España, cuando esta sea insuficiente o fuera necesario conocer información más detallada sobre determinadas operaciones de crédito.
+
+### Artículo 11. Periodicidad y medios de remisión de la información.
+
+1\. El cumplimiento de las obligaciones de suministro de información a las que se refiere el artículo anterior se efectuará por medios electrónicos a través del sistema que el Ministerio de Hacienda y Administraciones Públicas habilite al efecto, previa consulta al Banco de España. En aquellos casos en los que el Ministerio de Hacienda y Administraciones Públicas lo considere necesario, el envío se efectuará mediante firma electrónica avanzada basada en un certificado reconocido, de los regulados en la Ley 59/2003, de 19 de diciembre, de firma electrónica.
+
+2\. El Banco de España suministrará antes del día 30 de cada mes la información referida a cada una de las Administraciones Públicas, Estado, cada Comunidad Autónoma y cada Entidad Local relativa al mes inmediatamente anterior.
+
+El Ministerio de Hacienda y Administraciones Públicas podrá formular, en cualquier momento, requerimientos de información a los sujetos previstos en el artículo 10 para obtener los datos con mayor frecuencia u obtener otros datos más concretos cuando la información remitida no resultara suficiente, fuera necesario actualizarla o conocer información más detallada sobre determinadas operaciones de crédito.
+
+### Artículo 12. Incumplimiento de la obligación de suministro de información.
+
+1\. Sin perjuicio de la posible responsabilidad personal que corresponda, de acuerdo con lo previsto en la Ley 19/2013, de 9 de diciembre, u otra normativa de aplicación, el incumplimiento de las obligaciones de suministro de información recogidas en el capítulo II este real decreto, tanto en lo referido a los plazos establecidos, el correcto contenido e idoneidad de los datos requeridos o el modo de envío, dará lugar a que el Ministerio de Hacienda y Administraciones Públicas formule un requerimiento de cumplimiento que notificará al sujeto incumplidor de su obligación.
+
+2\. El requerimiento de cumplimiento indicará el plazo, no superior a quince días naturales, para atender la obligación incumplida con apercibimiento de que transcurrido el mencionado plazo se procederá a dar publicidad del incumplimiento en el portal web del Ministerio de Hacienda y Administraciones Públicas y:
+
+a) Si el sujeto incumplidor es un banco, caja de ahorro u otra entidad financiera, el Ministerio de Hacienda y Administraciones Públicas lo comunicará al Banco de España.
+
+b) Si el sujeto incumplidor es el Banco de España el Ministro de Hacienda y Administraciones Públicas lo pondrá en conocimiento del Consejo de Ministros.
+
+### Disposición final primera. Habilitación normativa.
+
+Se habilita al Ministro de Hacienda y Administraciones Públicas, en el ámbito de sus competencias, para dictar las disposiciones y adoptar las medidas necesarias para el desarrollo y ejecución de lo establecido en este real decreto.
+
+### Disposición final segunda. Instrucciones en el ámbito del Ministerio de Hacienda.
+
+Sin perjuicio de lo dispuesto en la disposición final primera, se autoriza a la persona titular de la Subsecretaría de Hacienda a dictar instrucciones sobre los medios técnicos, formatos electrónicos y procedimientos de transmisión de la información a la Central de Información económico-financiera de las Administraciones Públicas que los centros directivos del Ministerio de Hacienda responsables de dicha información, así como sus entidades u organismos dependientes o vinculados, deben cumplir para hacer efectivas sus obligaciones de suministro de información según lo dispuesto en este real decreto.
+
+> Se modifica por el art. único.7 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se renumera por el art. único.7 del Real Decreto 748/2019, de 27 de diciembre. [Ref. BOE-A-2019-18613](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18613)
+
+> Su anterior numeración era disposición final segunda.
+
+Dado en Madrid, el 25 de julio de 2014.
+
+FELIPE R.
+
+El Ministro de Hacienda y Administraciones Públicas,
+
+CRISTÓBAL MONTORO ROMERO

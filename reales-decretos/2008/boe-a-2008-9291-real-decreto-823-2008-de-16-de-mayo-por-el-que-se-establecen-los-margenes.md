@@ -1,0 +1,209 @@
+---
+title: "Real Decreto 823/2008, de 16 de mayo, por el que se establecen los márgenes, deducciones y descuentos correspondientes a la distribución y dispensación de medicamentos de uso humano"
+identifier: "BOE-A-2008-9291"
+eli: "https://www.boe.es/eli/es/rd/2008/05/16/823"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2008-05-16
+published: 2008-05-30
+in_force_from: 2008-05-31
+last_amended: 2022-11-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 131"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-9291"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 823/2008, de 16 de mayo, por el que se establecen los márgenes, deducciones y descuentos correspondientes a la distribución y dispensación de medicamentos de uso humano
+
+El artículo 90.1, segundo párrafo, de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, dispone que el Gobierno, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, fijará las cuantías económicas correspondientes a los conceptos de la distribución y dispensación de los medicamentos, de forma general o por grupos o sectores, tomando en consideración criterios de carácter técnico-económico y sanitario.
+
+Hasta ahora, los márgenes correspondientes a la distribución y dispensación de los medicamentos se establecían en el Real Decreto 164/1997, de 7 de febrero, por el que se establecen los márgenes correspondientes a los almacenes mayoristas por la distribución de especialidades farmacéuticas de uso humano, y el Real Decreto 165/1997, de 7 de febrero, por el que se establecen los márgenes correspondientes a la dispensación al público de especialidades farmacéuticas de uso humano, modificados por el Real Decreto 2402/2004, de 30 de diciembre, por el que se desarrolla el artículo 104 de la Ley 25/1990, de 20 de diciembre, del Medicamento, para las revisiones coyunturales de precios de especialidades farmacéuticas y se adoptan medidas adicionales para la contención del gasto farmacéutico.
+
+Es aconsejable, tras la aprobación de la Ley 29/2006, de 26 de julio, y tras las diversas modificaciones que la anterior regulación de los márgenes de los medicamentos citados ha sufrido, la elaboración de un real decreto único, que a su vez recoja las actualizaciones anuales exigidas por el Real Decreto 2402/2004, de 30 de diciembre.
+
+Como consecuencia de lo anterior, la norma deroga el Real Decreto 164/1997, de 7 de febrero, y el Real Decreto 165/1997, de 7 de febrero.
+
+Por último, se faculta a la Dirección General de Farmacia y Productos Sanitarios para que, en los casos de medicamentos que cumplan las condiciones para ser considerados de aportación reducida, y en tanto en cuanto no se actualice el anexo III del Real Decreto 1348/2003, de 31 de octubre, por el que se adapta la clasificación anatómica de medicamentos al sistema de clasificación ATC, establezca motivadamente la aportación reducida de un determinado medicamento.
+
+Con base en lo anterior, se dicta este real decreto al amparo de lo dispuesto en el artículo 149.1.16.ª de la Constitución y en desarrollo y aplicación de lo dispuesto en el artículo 90.1, segundo párrafo, y en el apartado 1 de la disposición final primera de la Ley 29/2006, de 26 de julio, de garantías y uso racional de medicamentos y productos sanitarios.
+
+En virtud, a propuesta del Ministro de Sanidad y Consumo, de acuerdo con el Consejo de Estado, previa aprobación de la Comisión Delegada del Gobierno para Asuntos Económicos y previa deliberación del Consejo de Ministros en su reunión del día 16 de mayo de 2008.
+
+## D I S P O N G O :
+
+### Artículo 1. Márgenes correspondientes a la distribución de medicamentos de uso humano fabricados industrialmente.
+
+1\. El margen correspondiente a la distribución de medicamentos de uso humano fabricados industrialmente para las presentaciones de medicamentos cuyo precio de venta de laboratorio sea igual o inferior a 91,63 euros se fija en el 7,6 por ciento del precio de venta del distribuidor sin impuestos.
+
+2\. El margen en concepto de distribución de medicamentos de uso humano fabricados industrialmente para las presentaciones de medicamentos cuyo precio de venta de laboratorio sea superior a 91,63 euros se fija en 7,54 euros por envase.
+
+3\. El margen correspondiente a la distribución de medicamentos de uso humano fabricados industrialmente acondicionados en envase clínico será del 5 por ciento del precio de venta del almacén sin impuestos.
+
+### Articulo 2. Márgenes y deducciones correspondientes a la dispensación al público de medicamentos de uso humano fabricados industrialmente.
+
+1\. El margen de las oficinas de farmacia por dispensación y venta al público de medicamentos de uso humano fabricados industrialmente, para aquellos medicamentos cuyo precio industrial sea igual o inferior a 91,63 euros, se fija en el 27,9 % del precio de venta al público sin impuestos.
+
+2\. El margen de las oficinas de farmacia por dispensación y venta al público de medicamentos de uso humano fabricados industrialmente, para aquellos medicamentos cuyo precio industrial sea superior a 91,63 euros e igual o inferior a 200 euros, se fija en 38,37 euros por envase.
+
+3\. El margen de las oficinas de farmacia por dispensación y venta al público de medicamentos de uso humano fabricados industrialmente, para aquellos medicamentos cuyo precio industrial sea superior a 200 euros e igual o inferior a 500 euros se fija en 43,37 euros por envase.
+
+4\. El margen de las oficinas de farmacia por dispensación y venta al público de medicamentos de uso humano fabricados industrialmente, para aquellos medicamentos cuyo precio industrial sea superior a 500 euros se fija en 48,37 euros por envase.
+
+5\. Los márgenes de las oficinas de farmacia correspondientes a las recetas u órdenes de dispensación de medicamentos de uso humano fabricados industrialmente dispensados con cargo a fondos públicos de las Comunidades Autónomas, del Instituto Nacional de Gestión Sanitaria, de la Mutualidad General de Funcionarios Civiles del Estado, de la Mutualidad General Judicial y del Instituto Social de las Fuerzas Armadas se establecerán, aplicando a la factura mensual de cada oficina de farmacia por dichas recetas la siguiente escala de deducciones:
+
+| Ventas totales<br>a PVP IVA hasta<br>–<br>Euros | Deducción<br>–<br>Euros | Resto hasta<br>–<br>Euros | Porcentaje<br>aplicable |
+|---|---|---|---|
+| 0,00 | 0,00 | 37.500,00 | 0,00 |
+| 37.500,01 | 0,00 | 45.000,00 | 7,80 |
+| 45.000,01 | 585,00 | 58.345,61 | 9,10 |
+| 58.345,62 | 1.799,45 | 120.206,01 | 11,40 |
+| 120.206,02 | 8.851,53 | 208.075,90 | 13,60 |
+| 208.075,91 | 20.801,83 | 295.242,83 | 15,70 |
+| 295.242,83 | 34.487,04 | 382.409,76 | 17,20 |
+| 382.409,77 | 49.479,75 | 600.000,00 | 18,20 |
+| 600.000,01 | 89.081,17 | En adelante | 20,00 |
+
+6\. La facturación mensual a que se refiere el apartado anterior se calculará en términos de precio de venta al público incrementado con el Impuesto sobre el Valor Añadido (IVA). Por lo que se refiere a las presentaciones de medicamentos con precio industrial superior a 91,63 euros y a efectos de dicha facturación mensual, se excluirá de la escala de deducciones la cantidad que, calculada en términos de precio de venta al público con IVA incluido, exceda del citado precio industrial.
+
+7\. Las deducciones correspondientes a las administraciones y mutualidades mencionadas en el apartado 5 serán las que resulten de aplicar el porcentaje que representa cada una de ellas en la facturación mensual de cada oficina de farmacia, consideradas conjuntamente.
+
+8\. Con el objeto de garantizar la accesibilidad y calidad en la prestación farmacéutica, a las oficinas de farmacia que resulten exentas de la escala de deducciones regulada en el apartado 5, les será de aplicación a su favor un índice corrector de los márgenes de las oficinas de farmacia correspondiente a las recetas u órdenes de dispensación de medicamentos de uso humano fabricados industrialmente dispensados con cargo a fondos públicos, conforme a la siguiente escala:
+
+<table>
+<thead>
+<tr>
+<th colspan="2">Diferencial</th>
+<th rowspan="2">Porcentaje</th>
+<th rowspan="2">Fijo</th>
+</tr>
+<tr>
+<th>De</th>
+<th>A</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0,01</td>
+<td>2.750,00</td>
+<td>8,52</td>
+<td> </td>
+</tr>
+<tr>
+<td>2.750,01</td>
+<td>5.500,00</td>
+<td>9,11</td>
+<td>234,27</td>
+</tr>
+<tr>
+<td>5.500,01</td>
+<td>8.250,00</td>
+<td>9,69</td>
+<td>484,69</td>
+</tr>
+<tr>
+<td>8.250,01</td>
+<td>10.466,66</td>
+<td>10,28</td>
+<td>751,26</td>
+</tr>
+<tr>
+<td>10.466,67</td>
+<td>12.500,00</td>
+<td> </td>
+<td>979,16</td>
+</tr>
+</tbody>
+</table>
+
+Para la aplicación del tramo correspondiente de la mencionada escala se tendrá en cuenta la cuantía de la diferencia entre 12.500,00 euros y el importe de la facturación mensual correspondiente a las recetas u órdenes de dispensación de medicamentos de uso humano fabricados industrialmente dispensados con cargo a fondos públicos. Dicha facturación mensual se calculará en términos de precio de venta al público incrementado con el impuesto sobre el valor añadido. Por lo que se refiere a las presentaciones de medicamentos con precio industrial superior a 91,63 euros y a efectos de dicha facturación mensual, se excluirá de dicho cómputo la cantidad que, calculada en términos de precio de venta al público, incluido el impuesto sobre el valor añadido, exceda del citado precio industrial.
+
+A la diferencia entre dicha cuantía y el tramo inferior que corresponda de la mencionada escala se le aplicará el porcentaje señalado en la misma y a la cantidad resultante se le añadirá el importe fijo especificado en cada tramo de la escala. En ningún caso el importe derivado de la aplicación del índice corrector de los márgenes podrá superar, a favor de la farmacia, los 979,16 euros mensuales.
+
+Tales oficinas de farmacia deberán cumplir, además, todos los siguientes requisitos:
+
+a) Que no hayan sido objeto de sanción administrativa en el año anterior, ni estén excluidas de su concertación, y que sus titulares no estén inhabilitados profesionalmente.
+
+b) Que los titulares de estas oficinas de farmacia participen en los programas de atención farmacéutica y en la realización del conjunto de actividades destinadas a la utilización racional de los medicamentos que establezca la administración sanitaria correspondiente.
+
+c) Que sus ventas anuales totales, en términos de precio de venta al público incrementado con el impuesto sobre el valor añadido, no superen los 235.000 euros en el ejercicio económico correspondiente al año natural anterior.
+
+d) Que presten servicio a núcleos de población pertenecientes a municipios que dispongan, como máximo, de 1.500 habitantes censados en el último padrón municipal, o bien en otros núcleos en los que la autoridad competente delimite y designe como de riesgo para disponer de la adecuada cobertura o acceso a la prestación farmacéutica.
+
+e) Que la oficina de farmacia haya prestado sus servicios durante los doce meses del año natural anterior, excepción hecha del periodo de vacaciones.
+
+La decisión sobre el cumplimiento de los requisitos exigidos, así como la resolución de las incidencias que se produzcan al efecto, corresponderá a las distintas administraciones sanitarias competentes en materia de ordenación y/o prestación farmacéutica que establecerán el procedimiento para su aplicación. De todo ello se dará audiencia previa a la Mutualidad General de Funcionarios de la Administración Civil del Estado, a la Mutualidad General Judicial, al Instituto Social de las Fuerzas Armadas y, en su caso, al Instituto Nacional de Gestión Sanitaria.
+
+La cuantía derivada de la aplicación del índice corrector de los márgenes correspondiente a las administraciones sanitarias del Sistema Nacional de Salud, incluyendo la Mutualidad General de Funcionarios de la Administración Civil del Estado, la Mutualidad General Judicial y el Instituto Social de las Fuerzas Armadas, será la que resulte de aplicar el porcentaje que representa cada una de ellas en la facturación mensual de cada oficina de farmacia, consideradas conjuntamente. El procedimiento de gestión de dicha información se ajustará a las reglas establecidas respecto de los informes relativos a la aplicación de la escala conjunta de deducciones.
+
+9\. El margen en la dispensación de medicamentos acondicionados en envase clínico será del 10 % del precio de venta al público sin impuestos.
+
+> Se modifica el apartado 8, con efectos de 1 de enero de 2023, por el art. único del Real Decreto 997/2022, de 29 de noviembre. [Ref. BOE-A-2022-19917](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19917)
+
+> Se modifica el apartado 8 por el art. 5 del Real Decreto-ley 16/2012, de 20 de abril. [Ref. BOE-A-2012-5403](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403)., en la redacción dada por la disposición final 4 de la Ley 12/2012, de 26 de diciembre. [Ref. BOE-A-2012-15595](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15595).
+
+> Se modifica el apartado 8 por el art. 5 del Real Decreto-ley 16/2012, de 20 de abril. [Ref. BOE-A-2012-5403](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403)., en la redacción dada por la disposición final 4 del Real Decreto-ley 19/2012. [Ref. BOE-A-2012-6929](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-6929).
+
+> Se modifica el apartado 8 por el art. 5 del Real Decreto-ley 16/2012, de 20 de abril. [Ref. BOE-A-2012-5403](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5403).
+
+> Se renumera el apartado 8 como 9 y se añade el 8, por el art. 3 del Real Decreto-ley 9/2011 de 19 de agosto. [Ref. BOE-A-2011-14021](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14021).
+
+> Se modifica por la disposición final 3 del Real Decreto-Ley 4/2010, de 26 de marzo. [Ref. BOE-A-2010-5030](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5030).
+
+### Artículo 3. Actualización anual de los márgenes.
+
+Anualmente se actualizarán los márgenes a los que se refieren los artículos 1.2, 2.2 y 2.3, teniendo en cuenta la evolución del índice de precios de consumo, la variación del producto interior bruto y el aumento de las ventas de las oficinas de farmacia.
+
+### Artículo 4. Descuentos de oficinas de farmacia en medicamentos publicitarios.
+
+En el caso de dispensación de medicamentos publicitarios, las oficinas de farmacia disponen de la facultad de aplicar descuentos de hasta el 10 por ciento en el precio de venta al público, impuestos incluidos. El precio fijado en el envase, o en su caso el precio que se haga constar en el recibo que se entrega al paciente, será considerado como precio máximo de venta al público.
+
+### Disposición adicional única. Cumplimiento de los requisitos previstos en el artículo 70 de la Ley 29/2006, de 26 de julio.
+
+El percibo de los márgenes de distribución previstos en este real decreto estará supeditado a la acreditación del cumplimiento de los requisitos previstos en el artículo 70 de la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, y en las normas que lo desarrollen.
+
+### Disposición transitoria primera. Distribución y dispensación de existencias con precio antiguo.
+
+Las existencias de medicamentos de uso humano fabricados industrialmente que, en la fecha de entrada en vigor de este real decreto, se encuentren en los almacenes de los distribuidores y en las oficinas de farmacia, así como las que les suministren los laboratorios, con precios antiguos, podrán ser vendidas a dichos precios hasta que hayan transcurrido dos meses desde el primer día del mes siguiente a la entrada en vigor de este real decreto.
+
+### Disposición transitoria segunda. Distribución y dispensación con precios calculados con los márgenes establecidos en este real decreto.
+
+Transcurridos dos meses desde el primer día del mes siguiente a la entrada en vigor de este real decreto, los precios de los medicamentos de uso humano fabricados industrialmente serán los que resulten de la aplicación de los márgenes establecidos en este real decreto.
+
+### Disposición transitoria tercera. Precios de facturación al Sistema Nacional de Salud.
+
+La facturación de las recetas con cargo a fondos públicos del Sistema Nacional de Salud, así como de los regímenes especiales de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), del Instituto Social de las Fuerzas Armadas (ISFAS) y de la Mutualidad General Judicial (MUGEJU) se efectuará a precios antiguos hasta que hayan transcurrido dos meses desde el primer día del mes siguiente a la entrada en vigor de este real decreto. A partir del día siguiente a dicha fecha, la facturación se efectuará con los precios nuevos resultantes de lo establecido en este real decreto.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en este real decreto y, en particular, el Real Decreto 164/1997, de 7 de febrero, por el que se establecen los márgenes correspondientes a los almacenes mayoristas por la distribución de especialidades farmacéuticas de uso humano, y el Real Decreto 165/1997, de 7 de febrero, por el que se establecen los márgenes correspondientes a la dispensación al público de especialidades farmacéuticas de uso humano.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta en desarrollo y aplicación de lo dispuesto en el artículo 90.1, segundo párrafo, de la Ley 29/2006, de 26 de julio, de garantías y uso racional de medicamentos y productos sanitarios, y tiene carácter de legislación de productos farmacéuticos con arreglo a lo previsto en el artículo 149.1.16.ª de la Constitución y en el apartado 1 de la disposición final primera de la citada Ley 29/2006, de 26 de julio.
+
+### Disposición final segunda. Modificación del Real Decreto 1348/2003, de 31 de octubre, por el que se adapta la clasificación anatómica de medicamentos al sistema de clasificación ATC.
+
+Se añade un apartado 2 a la disposición final cuarta del Real Decreto 1348/2003, de 31 de octubre, con la siguiente redacción:
+
+«2. Se faculta a la Dirección General de Farmacia y Productos Sanitarios para que, en los casos de medicamentos que cumplan las condiciones para ser considerados de aportación reducida, y en tanto en cuanto no se actualice el anexo III del Real Decreto 1348/2003, de 31 de octubre, por el que se adapta la clasificación anatómica de medicamentos al sistema de clasificación ATC, establezca motivadamente la aportación reducida de un determinado medicamento.»
+
+### Disposición final tercera. Facultad de desarrollo.
+
+Se faculta al Ministro de Sanidad y Consumo para dictar cuantas normas sean necesarias para el desarrollo y aplicación de este real decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 16 de mayo de 2008.
+
+JUAN CARLOS R.
+
+El Ministro de Sanidad y Consumo,
+
+BERNAT SORIA ESCOMS

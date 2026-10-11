@@ -1,0 +1,6801 @@
+---
+title: "Real Decreto 885/2011, de 24 de junio, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de seis cualificaciones profesionales de la Familia Profesional Marítimo-Pesquera y se actualizan determinadas cualificaciones profesionales de las establecidas en el Real Decreto 295/2004, de 20 de febrero, en el Real Decreto 1179/2008, de 11 de julio, y en el Real Decreto 101/2009, de 6 de febrero"
+identifier: "BOE-A-2011-12070"
+eli: "https://www.boe.es/eli/es/rd/2011/06/24/885"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2011-06-24
+published: 2011-07-13
+in_force_from: 2011-07-14
+last_amended: 2021-01-29
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 167"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-12070"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 885/2011, de 24 de junio, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de seis cualificaciones profesionales de la Familia Profesional Marítimo-Pesquera y se actualizan determinadas cualificaciones profesionales de las establecidas en el Real Decreto 295/2004, de 20 de febrero, en el Real Decreto 1179/2008, de 11 de julio, y en el Real Decreto 101/2009, de 6 de febrero
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, tiene por objeto la ordenación de un sistema integral de formación profesional, cualificaciones y acreditación, que responda con eficacia y transparencia a las demandas sociales y económicas a través de las diversas modalidades formativas. Para ello, crea el Sistema Nacional de Cualificaciones y Formación Profesional, definiéndolo en el artículo 2.1 como el conjunto de instrumentos y acciones necesarios para promover y desarrollar la integración de las ofertas de la formación profesional, a través del Catálogo Nacional de Cualificaciones Profesionales, así como la evaluación y acreditación de las correspondientes competencias profesionales, de forma que se favorezca el desarrollo profesional y social de las personas y se cubran las necesidades del sistema productivo.
+
+El Catálogo Nacional de Cualificaciones Profesionales, tal como indica el artículo 7.1, se crea con la finalidad de facilitar el carácter integrado y la adecuación entre la formación profesional y el mercado laboral, así como la formación a lo largo de la vida, la movilidad de los trabajadores y la unidad del mercado laboral. Dicho catálogo está constituido por las cualificaciones identificadas en el sistema productivo y por la formación asociada a las mismas, que se organiza en módulos formativos.
+
+En desarrollo del artículo 7, se establecieron la estructura y el contenido del Catálogo Nacional de Cualificaciones Profesionales, mediante el Real Decreto 1128/2003, de 5 de septiembre, modificado por el Real Decreto 1416/2005, de 25 de noviembre. Con arreglo al artículo 3.2, según la redacción dada por este último real decreto, el Catálogo Nacional de Cualificaciones Profesionales permitirá identificar, definir y ordenar las cualificaciones profesionales y establecer las especificaciones de la formación asociada a cada unidad de competencia; así como establecer el referente para evaluar y acreditar las competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación.
+
+Por el presente real decreto se establecen seis nuevas cualificaciones profesionales, correspondientes a la Familia profesional Marítimo-Pesquera, que se definen en los Anexos 572 a 577, así como sus correspondientes módulos formativos, avanzando así en la construcción del Sistema Nacional de Cualificaciones y Formación Profesional.
+
+Según establece el artículo 5.1 de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, corresponde a la Administración General del Estado, en el ámbito de la competencia exclusiva que le es atribuida por el artículo 149.1.1.ª y 30.ª de la Constitución Española, la regulación y la coordinación del Sistema Nacional de Cualificaciones y Formación Profesional, sin perjuicio de las competencias que corresponden a las comunidades autónomas y de la participación de los agentes sociales.
+
+Las comunidades autónomas han participado en la elaboración de las cualificaciones que se anexan a la presente norma a través del Consejo General de Formación Profesional en las fases de solicitud de expertos para la configuración del Grupo de Trabajo de Cualificaciones, contraste externo y en la emisión del informe positivo que de las mismas realiza el propio Consejo General de Formación Profesional, necesario y previo a su tramitación como Real Decreto.
+
+Conforme al artículo 7.2 de la misma ley orgánica, se encomienda al Gobierno, previa consulta al Consejo General de la Formación Profesional, determinar la estructura y el contenido del Catálogo Nacional de Cualificaciones Profesionales y aprobar las cualificaciones que proceda incluir en el mismo, así como garantizar su actualización permanente. El presente real decreto ha sido informado por el Consejo General de Formación Profesional y por el Consejo Escolar del Estado, de acuerdo a lo dispuesto en el artículo 9.1 del Real Decreto 1128/2003, de 5 de septiembre.
+
+En la redacción final del proyecto y de los anexos que lo acompañan se han tenido en cuenta las observaciones del Dictamen del Consejo Escolar del Estado Nº 67/2010, de 5 de octubre, en relación con los errores detectados en la parte dispositiva del proyecto y la actualización de las titulaciones universitarias de los formadores a la normativa vigente.
+
+En su virtud, a propuesta de los Ministros de Educación y de Trabajo e Inmigración, y previa deliberación del Consejo de Ministros en su reunión del día 24 de junio de 2011,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+Este real decreto tiene por objeto establecer determinadas cualificaciones profesionales y sus correspondientes módulos formativos, que se incluyen en el Catálogo Nacional de Cualificaciones Profesionales regulado por el Real Decreto 1128/2003, de 5 de septiembre, modificado por el Real Decreto 1416/2005, de 25 de noviembre. Dichas cualificaciones y su formación asociada correspondiente tienen validez y son de aplicación en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
+
+## Artículo 2. Cualificaciones profesionales que se establecen.
+
+Las Cualificaciones profesionales que se establecen corresponden a la Familia Profesional Marítimo-Pesquera son las que a continuación se relacionan, ordenadas por Niveles de cualificación, cuyas especificaciones se describen en los anexos que se indican:
+
+Actividades de extracción y recogida de crustáceos adheridos a las rocas. Nivel 1. Anexo DLXXII.
+
+Mantenimiento de los equipos de un parque de pesca y de la instalación frigorífica. Nivel 2. Anexo DLXXIII.
+
+Operaciones de bombeo para carga y descarga en buques. Nivel 2. Anexo DLXXIV.
+
+Operaciones de coordinación en cubierta y parque de pesca. Nivel 2. Anexo DLXXV.
+
+Documentación pesquera. Nivel 3. Anexo DLXXVI.
+
+Observación de la actividad y control de las capturas de un buque pesquero. Nivel 3. Anexo DLXXVII.
+
+## Disposición adicional única. Actualización.
+
+Atendiendo a la evolución de las necesidades del sistema productivo y a las posibles demandas sociales, en lo que respecta a las cualificaciones establecidas en el presente real decreto, se procederá a una actualización del contenido de los anexos cuando sea necesario, siendo en todo caso antes de transcurrido el plazo de cinco años desde su publicación.
+
+## Disposición final primera. Actualización de determinadas cualificaciones profesionales de la Familia profesional Marítimo-Pesquera establecidas en el Real Decreto 295/2004, de 20 de febrero, por el que se establecen determinadas cualificaciones profesionales que se incluyen en el Catálogo nacional de cualificaciones profesionales, así como sus correspondientes módulos formativos que se incorporan al Catálogo modular de formación profesional.
+
+Conforme a lo establecido en la disposición adicional única del Real Decreto 295/2004, de 20 de febrero, se modifican las cualificaciones profesionales establecidas por el mismo real decreto como Anexos IV, V y VI:
+
+Uno. Se modifica la cualificación profesional establecida como Anexo IV "Actividades en pesca de palangre, arrastre y cerco y en transporte marítimo" perteneciente a la Familia profesional Marítimo-Pesquera, sustituyendo respectivamente la unidad de competencia UC0010_1 "Contribuir a las operaciones básicas de arranchado, maniobra y mantenimiento del buque" y el módulo formativo asociado MF0010_1 "Maniobra y mantenimiento del buque", con una duración de 80 horas, por la unidad de competencia UC0010_1 "Contribuir a las operaciones de cubierta en una embarcación pesquera" y su correspondiente módulo formativo MF0010_1 "Labores de cubierta en buque de pesca", con una duración de 30 horas, modificándose igualmente la duración total de la formación asociada a la cualificación de 360 horas a 310 horas; que se establecen en este real decreto en el Anexo 572_1 "Actividades de extracción y recogida de crustáceos adheridos a las rocas" perteneciente a la Familia profesional Marítimo-Pesquera. Asimismo, se modifica el entorno profesional de la cualificación eliminando del apartado de Ocupaciones y puestos de trabajo relevantes las ocupaciones de "amarrador", "contramaestre" y "redero"; sustituyendo la ocupación de "marinero (de pesca y mercante)" por "marinero-pescador y marinero de puente"; e incorporando la ocupación de "marinero".
+
+Dos. Se modifica la cualificación profesional establecida como Anexo V, "Confección y mantenimiento de artes y aparejos", perteneciente a la Familia profesional Marítimo-Pesquera, sustituyendo respectivamente la unidad de competencia UC0010_1 "Contribuir a las operaciones básicas de arranchado, maniobra y mantenimiento del buque" y el módulo formativo asociado MF0010_1 "Maniobra y mantenimiento del buque", con una duración de 80 horas, por la unidad de competencia UC0010_1 "Contribuir a las operaciones de cubierta en una embarcación pesquera" y su correspondiente módulo formativo MF0010_1 "Labores de cubierta en buque de pesca", con una duración de 30 horas, modificándose igualmente la duración total de la formación asociada a la cualificación de 460 horas a 410 horas; que se establecen en este real decreto en el Anexo 572_1 "Actividades de extracción y recogida de crustáceos adheridos a las rocas" perteneciente a la Familia profesional Marítimo-Pesquera. Asimismo, se modifica el entorno profesional de la cualificación sustituyendo la ocupación de "marinero de pesca" por "marinero-pescador" e incorporando la ocupación de "marinero".
+
+Tres. Se modifica la cualificación profesional establecida como Anexo VI, "Manipulación y conservación en pesca y acuicultura", perteneciente a la Familia profesional Marítimo-Pesquera, sustituyendo respectivamente la unidad de competencia UC0010_1 "Contribuir a las operaciones básicas de arranchado, maniobra y mantenimiento del buque" y el módulo formativo asociado MF0010_1 "Maniobra y mantenimiento del buque", con una duración de 80 horas, por la unidad de competencia UC0010_1 "Contribuir a las operaciones de cubierta en una embarcación pesquera" y su correspondiente módulo formativo MF0010_1 "Labores de cubierta en buque de pesca", con una duración de 30 horas, modificándose igualmente la duración total de la formación asociada a la cualificación de 525 horas a 475 horas; que se establecen en este real decreto en el Anexo 572_1 "Actividades de extracción y recogida de crustáceos adheridos a las rocas" perteneciente a la Familia profesional Marítimo-Pesquera. Asimismo, se modifica el entorno profesional de la cualificación incorporando las ocupaciones de "marinero" y "marinero-pescador".
+
+> Se modifica por el art. único.1 del Real Decreto 1587/2012, de 23 de noviembre. [Ref. BOE-A-2012-14816](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14816).
+
+## Disposición final segunda. Actualización de determinadas cualificaciones profesionales de la Familia profesional Marítimo-Pesquera establecidas en el Real Decreto 1179/2008, de 11 de julio, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de diecisiete cualificaciones profesionales de nivel 1, correspondientes a determinadas familias profesionales.
+
+Conforme a lo establecido en la disposición adicional única del Real Decreto 1179/2008, de 11 de julio, se modifica la cualificación profesional establecida por el mismo real decreto como Anexo CDIV, "Amarre de puerto y monoboyas", perteneciente a la Familia profesional Marítimo-Pesquera, eliminando la unidad de competencia UC0010_1 "Contribuir a las operaciones básicas de arranchado, maniobra y mantenimiento del buque" y el módulo formativo asociado MF0010_1 "Maniobra y mantenimiento del buque", con una duración de 80 horas, modificándose la duración total de la formación asociada a la cualificación de 260 horas a 180 horas. Asimismo, se modifica el entorno profesional de la cualificación incorporando en el apartado de Ocupaciones y puestos de trabajo relevantes la ocupación de "marinero".
+
+> Se modifica por el art. único.2 del Real Decreto 1587/2012, de 23 de noviembre. [Ref. BOE-A-2012-14816](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14816).
+
+## Disposición final tercera. Actualización de determinadas cualificaciones profesionales de la Familia profesional Marítimo-Pesquera establecidas en el Real Decreto 101/2009, de 6 de febrero, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales mediante el establecimiento de seis cualificaciones profesionales de la Familia Profesional Marítimo Pesquera, y se actualizan determinadas cualificaciones profesionales de las establecidas por el Real Decreto 295/2004, de 20 de febrero.
+
+Conforme a lo establecido en la disposición adicional única del Real Decreto 101/2009, de 6 de febrero, se modifica la cualificación profesional establecida por el mismo real decreto como Anexo CCXXX "Actividades en pesca con artes de enmalle y marisqueo, y en transporte marítimo", sustituyendo respectivamente la unidad de competencia UC0010_1 "Contribuir a las operaciones básicas de arranchado, maniobra y mantenimiento del buque" y el módulo formativo asociado MF0010_1 "Maniobra y mantenimiento del buque", con una duración de 80 horas, por la unidad de competencia UC0010_1 "Contribuir a las operaciones de cubierta en una embarcación pesquera" y su correspondiente módulo formativo MF0010_1 "Labores de cubierta en buque de pesca", con una duración de 30 horas, modificándose igualmente la duración total de la formación asociada a la cualificación de 330 horas a 280 horas; que se establecen en este real decreto en el Anexo 572_1 "Actividades de extracción y recogida de crustáceos adheridos a las rocas" perteneciente a la Familia profesional Marítimo-Pesquera. Asimismo, se modifica el entorno profesional de la cualificación eliminando en el apartado del ámbito profesional la expresión "sin límites de tonelaje", e incorporando en el apartado de Ocupaciones y puestos de trabajo relevantes la ocupación de "marinero" y se elimina "contramaestre".
+
+> Se modifica por el art. único.3 del Real Decreto 1587/2012, de 23 de noviembre. [Ref. BOE-A-2012-14816](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14816).
+
+## Disposición final cuarta. Título competencial.
+
+Este real decreto se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.1.ª, sobre regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales y 30.ª de la Constitución Española que atribuye al Estado la competencia para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales.
+
+## Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 24 de junio de 2011.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+RAMÓN JÁUREGUI ATONDO
+
+## ANEXO DLXXII — **Cualificación profesional: Actividades de extracción y recogida de crustáceos adheridos a las rocas**
+
+**Familia Profesional: Marítimo - Pesquera**
+
+**Nivel: 1**
+
+**Código: MAP572_1**
+
+**Competencia general**
+
+Realizar actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, cumpliendo lo dispuesto en materia de seguridad y salud laboral y protección al medio natural.
+
+**Unidades de competencia**
+
+**UC1889_1:** Realizar las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje
+
+**UC0010_1:** Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en el área de extracción de recursos marisqueros, dedicado a la pesca, en entidades de naturaleza pública o privada, con independencia del tamaño de la empresa, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector de la pesca y marisqueo, y concretamente en las actividades productivas de extracción de recursos.
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Marineros en buques de pesca
+
+Marineros en buques mercantes
+
+Perceberos a flote
+
+Perceberos a pie
+
+**Formación Asociada** **(150 horas)**
+
+**Módulos Formativos**
+
+**MF1889_1:** Labores de extracción y preparación para la venta de crustáceos adheridos a las rocas (60 horas)
+
+**MF0010_1:** Labores de cubierta en buque de pesca (30 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: REALIZAR LAS ACTIVIDADES DE EXTRACCIÓN Y PREPARACIÓN PARA LA VENTA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS EN ZONAS DE ALTA EXPOSICIÓN AL OLEAJE**
+
+**Nivel: 1**
+
+**Código: UC1889_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Mantener en estado de uso los útiles de trabajo, equipos de protección y materiales de ayuda empleados en la extracción de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, para obtener el máximo rendimiento de la actividad, aplicando la normativa de riesgos laborales.
+
+CR1.1 Los útiles de trabajo se adaptan teniendo en cuenta las características de la especie objetivo y de las zonas de pesca delimitadas, tratando de causar el mínimo daño posible a las demás especies y al medio natural.
+
+CR1.2 Los útiles de trabajo, rasquetas, raspas y bolsas de red, así como cualquier parte dañada, se reparan de forma eficaz para garantizar su funcionalidad.
+
+CR1.3 La indumentaria, los útiles de trabajo y los equipos de protección se lavan con agua dulce, secándolos, cuando proceda, para evitar el deterioro del material y garantizar la seguridad.
+
+CR1.4 Los materiales de ayuda utilizados durante la extracción (cuerdas, arneses, mosquetones, entre otros) se revisan al principio de cada jornada de trabajo para comprobar su estado de funcionamiento y al final de cada jornada para valorar su sustitución o reparación.
+
+CR1.5 Los útiles de trabajo, equipos de protección y materiales de ayuda empleados durante los periodos de inactividad se estiban vigilando los parámetros de aireación y humedad, para evitar deterioros en los mismos y garantizar la seguridad de la actividad.
+
+RP2: Recoger los crustáceos previamente extraídos, observando las normas de seguridad y explotación de recursos (causando el menor daño posible a la zona de trabajo), a fin de garantizar el rendimiento sostenible de la actividad y la conservación del medio ambiente (evitando actuaciones tales como la eliminación de basuras y desechos en el medio marino).
+
+CR2.1 Las operaciones de extracción y recogida de los crustáceos se desarrollan atendiendo al plan de gestión para garantizar una explotación sostenible y responsable, poniendo especial atención en la conservación de especies protegidas que puedan estar ubicadas en el mismo sustrato y evitar molestias a las aves marinas, en especial a sus áreas de nidificación.
+
+CR2.2 La zona de extracción, dentro del área definida en el plan de gestión y/o explotación establecida por la entidad responsable se selecciona en función de las condiciones meteorológicas (estado de la mar, viento y marea), para realizar la actividad en condiciones de seguridad.
+
+CR2.3 La aproximación a pie o mediante embarcación, si la hubiera, a la zona de trabajo se efectúa atendiendo a las condiciones del tiempo, rompientes y relieve de la costa, evitando caídas, resbalones o ser arrastrados por los embates del mar.
+
+CR2.4 La actividad extractiva en la zona de trabajo se ejecuta utilizando los materiales de ayuda (recipientes, cabos, entre otros) que procedan, para garantizar las condiciones de seguridad y obtener el máximo rendimiento de la actividad.
+
+CR2.5 El recurso se selecciona para llevar a cabo su posterior extracción, atendiendo a la calidad y limpieza de las piñas y tamaño de las cabezas de los individuos que la componen.
+
+CR2.6 Los crustáceos se extraen utilizando con una mano la rasqueta y separando la piña del sustrato y con la otra mano libre introduciéndolo en la bolsa de red.
+
+CR2.7 Las superficies donde se detecte gran cantidad de cría del recurso se rarean antes de que crezca, a fin de permitir que el resto de los individuos pueda desarrollarse más rápido y obtener una calidad superior.
+
+RP3: Clasificar las capturas, a partir de su acondicionamiento y conservación, para el transporte y posterior venta, atendiendo a la calidad del producto y protocolos higiénico-sanitarios.
+
+CR3.1 Las capturas se limpian una vez extraídas, eliminando todo tipo de organismos asociados, restos de roca y suciedad, atendiendo a lo indicado en los protocolos higiénico-sanitarios, para poder realizar su clasificación posterior.
+
+CR3.2 Los productos de deshecho asociados a las capturas extraídas se llevan a los puntos de recogida selectiva de residuos para evitar daños al medio ambiente.
+
+CR3.3 El producto resultante se lleva a los puntos de control establecidos en el plan de gestión y explotación de la zona, para comprobar el cumplimiento de los protocolos de actuación.
+
+CR3.4 Las capturas se clasifican visual y manualmente según tamaño y calidad en diferentes lotes para obtener el máximo beneficio en la primera venta.
+
+CR3.5 Los procesos de acondicionamiento para el transporte y conservación de las capturas hasta la primera venta se ejecutan en función del medio de transporte, condiciones medioambientales y distancia, para garantizar el estado higiénico-sanitario y las condiciones de trazabilidad de las capturas.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Útiles de trabajo: rasquetas, raspas, salabardos, bolsas de red, entre otros. Materiales de ayuda, tales como cuerdas, arneses, mosquetones, navajas, aletas, boyas, equipos de comunicación. Equipos de protección: Equipos de Protección Individual (EPI), cascos, rodilleras, guantes, chalecos salvavidas, traje de neopreno, escarpines, calzado antideslizante. Recipientes de plástico para el transporte de las capturas. Embarcación.
+
+**Productos y resultados:**
+
+Mantenimiento en estado de uso los útiles de trabajo, equipos de protección y materiales de ayuda empleados. Crustáceos extraídos. Capturas clasificadas.
+
+**Información utilizada o generada:**
+
+Instrucciones de uso de diferentes equipos y materiales de ayuda. Plan de gestión y/o explotación de la zona (tallas mínimas, vedas, topes de capturas, paros biológicos, zonas y épocas de extracción). Normativa de prevención de riesgos laborales. Información meteorológica (partes de estado de la zona de trabajo). Tablas de mareas. Protocolos de actuación higiénico-sanitarios. Listados de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas. Normativas vinculadas a la protección de especies y hábitats.
+
+**UNIDAD DE COMPETENCIA 2: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA**
+
+**Nivel: 1**
+
+**Código: UC0010_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+**Productos y resultados:**
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+**Información utilizada o generada:**
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 3: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: LABORES DE EXTRACCIÓN Y PREPARACIÓN PARA LA VENTA DE CRUSTÁCEOS ADHERIDOS A LAS ROCAS**
+
+**Nivel: 1**
+
+**Código: MF1889_1**
+
+**Asociado a la UC: Realizar las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Aplicar procesos de preparación y mantenimiento de útiles de trabajo, equipos de protección y materiales de ayuda a emplear en la extracción de crustáceos, teniendo en cuenta la normativa sobre prevención de riesgos laborales.
+
+*CE1.1 Describir sobre un plano las modificaciones a realizar en los útiles de trabajo, en función de la especie objetivo, zona de trabajo y minimización de daños al medio natural.*
+
+*CE1.2 Enumerar los puntos a tener en cuenta a efectos de preparación y reparación de los útiles de trabajo, rasquetas, raspas y bolsas de red, que garanticen su rendimiento conforme a la práctica diaria.*
+
+*CE1.3 Explicar los trabajos de limpieza a realizar en los útiles de trabajo y equipos de protección, una vez utilizados, para evitar el deterioro del material.*
+
+*CE1.4 Enumerar la indumentaria y los equipos de protección individual, así como las condiciones que deben cumplir, teniendo en cuenta el trabajo a realizar y la importancia de la seguridad en este tipo de actividad.*
+
+*CE1.5 Explicar las pruebas y revisiones a efectuar a los materiales de ayuda utilizados durante la extracción, antes y después de cada jornada de trabajo.*
+
+*CE1.6 Describir el tratamiento y cuidados a emplear para la conservación y estiba de los útiles de trabajo, equipos de protección y materiales de ayuda, durante los periodos de inactividad.*
+
+*CE1.7 En un supuesto práctico de preparación de útiles de trabajo, materiales de ayuda y equipos de protección individual:*
+
+*- Sustituir o reparar, si procede, las cuerdas, raspas, bolsas de red, arneses y mosquetones que se emplearon en una jornada de trabajo.*
+
+*- Revisar los equipos de protección utilizados en una jornada de trabajo y repararlos, si fuera necesario.*
+
+C2: Aplicar operaciones de extracción y recogida de crustáceos, teniendo en cuenta las características de las zonas de trabajo y condiciones meteorológicas, para que éstas se desarrollen con seguridad, garantizando el rendimiento sostenible y la conservación del medio ambiente (evitando actuaciones tales como la eliminación de basuras y desechos en el medio marino).
+
+*CE2.1 Identificar aquellos apartados de un plan de gestión y/o explotación que afecten a las actividades de extracción de crustáceos, teniendo en cuenta las particularidades del mismo.*
+
+*CE2.2 Fijar zonas de trabajo que permitan realizar operaciones de extracción con seguridad, considerando condiciones meteorológicas, riesgos existentes y garantizando una explotación sostenible y responsable, poniendo especial atención en la conservación de especies protegidas que puedan estar ubicadas en el mismo sustrato y evitar molestias a las aves marinas, en especial a sus áreas de nidificación.*
+
+*CE2.3 Describir condiciones climáticas y geográficas a tener en cuenta para la aproximación por tierra y por mar de forma segura a zonas de extracción.*
+
+*CE2.4 Indicar parámetros a observar en las piñas del producto objetivo, garantizando una captura rentable.*
+
+*CE2.5 Identificar las normas a tener en cuenta durante las operaciones de extracción y recogida del crustáceo respecto a la seguridad personal y daños al recurso y al medio ambiente.*
+
+*CE2.6 En un supuesto práctico de extracción del recurso y teniendo en cuenta las condiciones de seguridad:*
+
+*- Utilizar los materiales de ayuda y los equipos de protección individual.*
+
+*- Llevar a cabo la operación de extracción del recurso.*
+
+*CE2.7 En un supuesto práctico de rareo en una zona de extracción del recurso, teniendo en cuenta las condiciones de seguridad, realizar dicha práctica tirando al mar el recurso extraído, garantizando la permanencia del ciclo biológico marino.*
+
+C3: Aplicar procesos de clasificación y acondicionamiento para el transporte y conservación de capturas para su venta, teniendo en cuenta los protocolos higiénico-sanitarios, de manera que se preserve la calidad del producto.
+
+*CE3.1 Describir las operaciones a realizar para la limpieza del producto, teniendo en cuenta los aspectos higiénico-sanitarios y enumerando los elementos a eliminar.*
+
+*CE3.2 Enumerar los pasos a realizar para eliminar los productos de deshecho asociados a las capturas extraídas teniendo en cuenta la protección al medio ambiente.*
+
+*CE3.3 Identificar aquellos apartados de un plan de gestión y/o explotación respecto a la comprobación de cantidades y tamaños del producto que se extrae, teniendo en cuenta las particularidades del propio plan.*
+
+*CE3.4 Enumerar los parámetros a vigilar en cuanto al transporte y conservación del producto, garantizando su trazabilidad y condiciones higiénico-sanitarias en la primera venta.*
+
+*CE3.5 En un supuesto práctico de clasificación de capturas, con el objetivo de conseguir el máximo beneficio en la primera venta:*
+
+*- Agrupar las capturas en lotes según tamaño.*
+
+*- Agrupar las capturas en lotes según interés comercial.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.7; C2 respecto a CE2.6 y CE2.7; C3 respecto a CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Caracterización de crustáceos adheridos a las rocas**
+
+El percebe: estructura interna y externa; reproducción; crecimiento; alimentación; hábitat, distribución; especies afines. Explotación racional del recurso: plan de gestión y/o explotación del recurso; rendimiento máximo biológico y rendimiento máximo económico: subexplotación y sobreexplotación. Rareo.
+
+**2. Extracción y recogida de crustáceos adheridos a las rocas**
+
+Elementos para la extracción de crustáceos adheridos a las rocas: útiles (tipos y características); preparación, reparación y conservación. Equipos de protección: particularidades, cuidados y mantenimiento. Utilización atendiendo a la seguridad. Materiales de ayuda: clases y aprovechamiento. Pruebas y revisiones. Estiba de útiles, equipos de protección y materiales de ayuda.
+
+Operaciones de extracción y recogida de crustáceos adheridos a las rocas. Condiciones climáticas y geográficas: viento y mar locales, relieve de la costa y formación del oleaje y los rompientes; mareas: amplitud, hora y altura. Partes meteorológicos. Operaciones a realizar: características de las piñas; corte o extracción; conservación de la captura; protección al recurso y medio ambiente.
+
+Especies Silvestres en Régimen de Protección Especial y Catálogo Español de Especies Amenazadas. Normativas vinculadas a la protección de especies y hábitats.
+
+**3. Clasificación y acondicionamiento de crustáceos adheridos a las rocas para su transporte y comercialización**
+
+Limpieza de las piñas.
+
+Clasificación del recurso por tamaños y cantidades.
+
+Conservación del producto: protocolos higiénico-sanitarios de manipulación y transporte.
+
+La primera venta. Las lonjas.
+
+**4. Seguridad en las operaciones de extracción y recogida de crustáceos adheridos a las rocas**
+
+Riesgos laborales en el proceso extractivo.
+
+Los equipos de protección individual (EPI).
+
+Seguridad individual e implicaciones del compañero como base principal de seguridad.
+
+Primeros auxilios en las operaciones de extracción y recogida de percebes.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la realización de las actividades de extracción y preparación para la venta de crustáceos adheridos a las rocas en zonas de alta exposición al oleaje, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: LABORES DE CUBIERTA EN BUQUE DE PESCA**
+
+**Nivel: 1**
+
+**Código: MF0010_1**
+
+**Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera**
+
+**Duración: 30 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+*CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.*
+
+*CE1.2 En un supuesto práctico de arranche del buque pesquero:*
+
+*- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.*
+
+*- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.*
+
+*CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.*
+
+*CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.*
+
+*CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.*
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+*CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.*
+
+*CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:*
+
+*- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.*
+
+*- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.*
+
+*- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.*
+
+*- El uso de medios de protección personal a bordo.*
+
+*- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.*
+
+*- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.*
+
+*CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.*
+
+*CE2.4 En un supuesto práctico de gobierno del buque pesquero:*
+
+*- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.*
+
+*- Realizar cambios de rumbo utilizando el timón.*
+
+*- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.*
+
+*CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:*
+
+*- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.*
+
+*- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.*
+
+*CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.*
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+*CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.*
+
+*CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:*
+
+*- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.*
+
+*- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.*
+
+*CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).*
+
+*CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.*
+
+*CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.*
+
+*CE3.6 En un supuesto práctico de actividades pesqueras:*
+
+*- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque**
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+**2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino**
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 3 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 3: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes
+
+> Se modifica por el art. 12 y anexo XX de la Orden EFP/63/2021, de 21 de enero. [Ref. BOE-A-2021-1266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1266)
+
+> Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.1 de la misma. [Ref. BOE-A-2020-12259](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12259)
+
+## ANEXO DLXXIII — **Cualificación profesional: Mantenimiento de los equipos de un parque de pesca y de la instalación frigorífica**
+
+**Familia Profesional: Marítimo - Pesquera**
+
+**Nivel: 2**
+
+**Código: MAP573_2**
+
+**Competencia general**
+
+Realizar las operaciones de mantenimiento y reparación de las máquinas y equipos que integran el parque de pesca y la instalación frigorífica a bordo de buques pesqueros, cumpliendo la normativa aplicable y en condiciones de seguridad.
+
+**Unidades de competencia**
+
+**UC0010_1:** Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+**UC1890_2:** Efectuar los trabajos de limpieza y preparación de la maquinaria del parque de pesca
+
+**UC1891_2:** Efectuar las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca
+
+**UC1892_2:** Mantener y reparar los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en buques pesqueros como en buques dedicados al transporte marítimo, así como en instalaciones de refrigeración comerciales e industriales de diversos sectores productivos en entidades de naturaleza privada, empresas de tamaño pequeño/mediano/grande, por cuenta ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de pesca extractiva. Empresas en tierra de elaboración y procesado de productos de la pesca. Empresas de mantenimiento de instalaciones frigoríficas.
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Marineros en buques de pesca.
+
+Marineros en buques mercantes.
+
+Mantenedores frigoristas en instalaciones comerciales.
+
+Mantenedores de equipos en una empresa de elaboración y procesado de productos de la pesca.
+
+Mantenedores frigoristas de instalaciones de congelación y conservación de la pesca.
+
+Mantenedores frigoristas de instalaciones de refrigeración de mercancías a bordo de buques mercantes.
+
+Mantenedores frigoristas en procesos industriales.
+
+Mecánicos de parque de pesca.
+
+**Formación Asociada** **(450 horas)**
+
+**Módulos Formativos**
+
+**MF0010_1:** Labores de cubierta en buque de pesca (30 horas)
+
+**MF1890_2:** Preparación y control de la maquinaria del parque de pesca (120 horas)
+
+**MF1891_2:** Mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca (120 horas)
+
+**MF1892_2:** Mantenimiento de los equipos mecánicos del parque de pesca (120 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA**
+
+**Nivel: 1**
+
+**Código: UC0010_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+**Productos y resultados:**
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+**Información utilizada o generada:**
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 2: EFECTUAR LOS TRABAJOS DE LIMPIEZA Y PREPARACIÓN DE LA MAQUINARIA DEL PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: UC1890_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Efectuar las operaciones de limpieza de la maquinaria del parque de pesca para que se encuentre en condiciones de operatividad, cumpliendo con la normativa higiénico-sanitaria aplicable.
+
+CR1.1 La maquinaria del parque de pesca se adecua, revisando, limpiando y probando los puntos de luz, tomas de energía y sistemas de transporte de los residuos de las capturas de las máquinas, teniendo en cuenta las normas higiénico-sanitarias aplicables, para que las operaciones de manipulación y elaboración de las capturas se realicen con seguridad y sin demoras.
+
+CR1.2 Las cintas transportadoras y canaletas del parque de pesca se limpian, asegurando su funcionamiento para evitar demoras o atascos en las faenas de producción.
+
+CR1.3 El funcionamiento de las máquinas lavadoras, descabezadoras y cortadoras se comprueba, limpiándolas previamente, antes de comenzar la manipulación de las capturas para asegurar el desarrollo del proceso productivo.
+
+CR1.4 Las máquinas fileteadoras, peladoras y desolladoras se adecuan, revisando, limpiando y comprobando las cintas de arrastre, cuchillas, rodillos y gomas teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel y composición de las capturas.
+
+RP2: Controlar la maquinaria y la tripulación al cargo de las mismas, de forma que las operaciones se puedan realizar con seguridad, para conseguir el máximo aprovechamiento y rentabilidad de la producción.
+
+CR2.1 El tamaño del pescado en las tinas de recepción se comprueba, con el fin de regular y adaptar la máquina a utilizar, para obtener la producción establecida.
+
+CR2.2 Las faenas de colocación del pescado en las cintas de arrastre de las fileteadoras se verifican, de manera que éste vaya situado derecho y en el centro, para evitar que se atasque la máquina y se produzca un paro en la producción.
+
+CR2.3 Los surtidores de agua de las fileteadoras se comprueban, evitando que las cuchillas trabajen en seco, para facilitar la evacuación de los desperdicios.
+
+CR2.4 La posición de los filetes en las cintas transportadoras entre las máquinas fileteadoras y las peladoras se controla, asegurando que la piel del pescado entre en contacto con el tambor de la peladora, para lograr la presentación requerida comercialmente.
+
+RP3: Reparar los fallos producidos en la maquinaria del parque de pesca, detectados al observar las anomalías que presente el procesado de las especies, comunicándoselo a su superior para que éstas lleguen a puerto en las condiciones del mercado.
+
+CR3.1 La acumulación del pescado en las cintas transportadoras se evita ajustando la tracción y velocidad de las mismas, para optimizar el rendimiento de la instalación.
+
+CR3.2 Los desperdicios de pescado se controlan visualmente para efectuar, en caso necesario, los ajustes mecánicos de las cuchillas de las máquinas descabezadoras, cortadoras, evisceradoras y fileteadoras.
+
+CR3.3 Las máquinas termoselladoras y etiquetadoras de pescado se controlan, detectando los posibles fallos en el envasado, y en caso necesario, reajustando o cambiando las resistencias eléctricas, para que el producto tenga la presentación requerida en el mercado.
+
+CR3.4 Los fallos producidos en el sistema de glaseado se reparan cambiando, si fuese necesario, los difusores para que su presentación después de la congelación se ajuste a los criterios de comercialización.
+
+CR3.5 La documentación técnica de los equipos, certificados de garantía, entre otros, se interpreta, si es el caso, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP4: Recepcionar los recambios, respetos y materiales de la maquinaria del parque de pesca, controlando su utilización, para garantizar el mantenimiento de uso durante la campaña o marea.
+
+CR4.1 Los recambios, respetos y herramientas a utilizar en la maquinaria del parque de pesca se estiban previa preparación, clasificando los manuales de funcionamiento de la maquinaria, para utilizar con la mayor rapidez en caso de avería y así evitar el colapso de la factoría.
+
+CR4.2 Los elementos de limpieza y engrase utilizados en las labores de mantenimiento se depositan en pañoles próximos al parque de pesca, pero totalmente aislados de éste, para garantizar las condiciones higiénico-sanitarias durante las operaciones de procesado.
+
+CR4.3 El inventario de todos los elementos de mantenimiento del parque de pesca se controla durante la campaña, a partir del momento de la salida para poder realizar el pedido al final de la misma.
+
+CR4.4 Las horas de trabajo y las averías de cada máquina se controlan a través de un registro, para que cumplan tanto con el protocolo de mantenimiento como para llevar a cabo las reparaciones.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Elementos de limpieza, paños, aceites, grasas, cables, gomas, material aislante, rodamientos, cuchillas, cintas de arrastre, rodillos, gomas, entre otros, para mantener en buen estado higiénico y operativo el parque de pesca. Guías, canaletas, cintas transportadoras. Máquinas limpiadoras, cortadoras y descabezadoras. Máquinas clasificadoras. Máquinas peladoras, fileteadoras y desolladoras. Máquinas para aprovechamiento de descartes, entre otras, para la elaboración y procesado de las capturas. Libretas de trabajo y averías de la distinta maquinaria. Libros y libretas de inventario.
+
+**Productos y resultados:**
+
+Operaciones de limpieza de la maquinaria del parque de pesca efectuadas. Maquinaria y tripulación al cargo de las mismas controladas. Fallos producidos en la maquinaria del parque de pesca detectados y/o reparados. Recambios, respetos y materiales de la maquinaria del parque de pesca recepcionados.
+
+**Información utilizada o generada:**
+
+Órdenes del superior. Vocabulario marítimo-pesquero y tecnológico. Catálogos varios de cintas de arrastre, cuchillas, rodillos, gomas y demás útiles para la maquinaria. Planos de la maquinaria del parque de pesca. Libros de instrucciones de la maquinaria y manuales de funcionamiento. Normas sobre clasificación y elaboración de las capturas. Libretas de control de horas de trabajo y averías de la maquinaria del parque de pesca. Información sobre elementos y útiles de engrase y limpieza. Procedimientos y/o instrucciones de mantenimiento preventivo, predictivo y correctivo. Protocolo de gestión de residuos generados durante las actividades de mantenimiento y reparación. Fichas para procedimiento y/o instrucciones según tipo de mantenimiento. Protocolo para el manejo y gestión de los residuos generados.
+
+**UNIDAD DE COMPETENCIA 3: EFECTUAR LAS LABORES DE MANTENIMIENTO DE LOS EQUIPOS QUE COMPONEN LA INSTALACIÓN FRIGORÍFICA DEL PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: UC1891_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Verificar el estado de los elementos constituyentes de la instalación frigorífica del parque de pesca, de acuerdo con los manuales de los mismos, para conseguir su funcionamiento.
+
+CR1.1 Los niveles de refrigerante y aceite en la instalación se comprueban, teniendo en cuenta los parámetros (máximo y mínimo), para evitar exceso o carencia de los mismos.
+
+CR1.2 La hermeticidad de los túneles, cámaras y serpentines se comprueba visualmente para asegurar la transmisión de calor.
+
+CR1.3 Las uniones tanto mecánicas como soldadas, entre los elementos de la instalación, se comprueban visualmente para garantizar su estanqueidad.
+
+CR1.4 El funcionamiento de las bombas y ventiladores se comprueba, de acuerdo con las condiciones de diseño de la instalación, para conseguir los parámetros de congelación indicados.
+
+CR1.5 Los elementos de regulación y control se localizan en su posición de trabajo, de acuerdo con sus especificaciones técnicas para evitar posibles averías.
+
+RP2: Realizar la puesta en marcha y regulación de la instalación frigorífica, de acuerdo con las condiciones de trabajo establecidas por el superior, para lograr el máximo rendimiento y seguridad.
+
+CR2.1 Las conexiones eléctricas, mecánicas y frigoríficas entre los elementos de la instalación se comprueban, empleando los equipos de medición, para determinar que se encuentran dentro de los parámetros de diseño de la misma.
+
+CR2.2 Los elementos de seguridad (válvulas, termostatos, presostatos, entre otros) de la instalación, tanto de agua como de aceite y refrigerante se comprueban visualmente para verificar su funcionamiento.
+
+CR2.3 El equipo frigorífico se pone en marcha observando el automatismo eléctrico y frigorífico, siguiendo las técnicas de cada operación, a fin de verificar su funcionamiento.
+
+CR2.4 Los parámetros de la instalación se regulan siguiendo los procedimientos establecidos en los manuales con el fin de obtener la seguridad y eficiencia de la misma.
+
+RP3: Realizar el mantenimiento de la instalación por periodos de tiempo, según lo establecido en los manuales de los fabricantes, con el fin de evitar disfunciones.
+
+CR3.1 La operatividad de la instalación frigorífica se revisa sistemáticamente, utilizando para ello planes, procedimientos técnicos, herramientas y criterios establecidos en protocolos, con el fin de garantizar su funcionamiento.
+
+CR3.2 El mantenimiento preventivo de los equipos que conforman la instalación se efectúa sustituyendo los elementos según su estado y fichas de trabajo, para evitar posibles averías.
+
+CR3.3 Las alineaciones, corrección de holguras, tensado de correas de transmisión, así como el estado de los elementos de unión y fijación se comprueban, empleando las herramientas específicas y observando los criterios de seguridad establecidos en la normativa aplicable, para evitar pérdidas en el rendimiento de la instalación.
+
+CR3.4 Las operaciones del cuadro de mando y el control eléctrico de la instalación, así como el consumo de los motores eléctricos se gestionan según lo indicado en los manuales correspondientes, para realizar el control efectivo sobre los parámetros de funcionamiento de la instalación.
+
+RP4: Reparar posibles averías de la instalación, diagnosticadas y localizadas previamente por un responsable superior, empleando las herramientas específicas y siguiendo los criterios de seguridad para subsanarlas.
+
+CR4.1 Las anomalías en la instalación se corrigen a la vista de la documentación técnica, analizando los parámetros de funcionamiento de la misma, para garantizar su rendimiento.
+
+CR4.2 Las variables de funcionamiento de los elementos que conforman la instalación se valoran, mediante procedimientos de observación y medición (temperaturas, presiones, ruidos, consumos, vibraciones, entre otros), para identificar la naturaleza de la avería en función de los efectos que produce en la instalación.
+
+CR4.3 El equipo o elemento averiado se localiza, realizando para ello las medidas y pruebas al uso, procediendo a su desmontaje, verificación y reparación o sustitución, observando los criterios de seguridad, para eliminar las anomalías detectadas.
+
+CR4.4 El elemento causante de la avería, una vez reparado o en su caso sustituido, se monta para restablecer los parámetros de la instalación y comprobar su operatividad.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Cámaras y túneles de congelación, armarios de placas, cubas de salmuera. Compresores alternativos, rotativos. Condensadores. Elementos de expansión, evaporadores secos e inundados. Bombas, ventiladores, correas de transmisión, termómetros, higrómetros, anemómetros. Equipos de medidas eléctricas. Bombas de vacío, puente manométrico, detectores de fugas, equipo de medida de acidez de aceite de refrigeración y lubricación, separadores de aceite. Presostato diferencial de aceite, presostatos de baja y alta, termostatos, válvula presostática de agua, solenoide. Filtros deshidratadores. Herramientas de mano. Máquina de taladrado, aserrado, roscado y curvado. Flexómetro, nivel, pie de rey. Equipo de soldadura eléctrica y autógena. Unidades de carga y recuperación de fluidos frigorígenos. Fluidos frigorígenos, aceites, libros de instrucciones y mantenimiento. Planos y esquemas de la instalación. Diario de mantenimiento, control de respetos.
+
+**Productos y resultados:**
+
+Estado de los elementos constituyentes de la instalación frigorífica verificados. Puesta en marcha y regulación de la instalación frigorífica realizada. Mantenimiento de la instalación realizado. Averías de la instalación frigorífica del parque de pesca reparadas.
+
+**Información utilizada o generada:**
+
+Especificaciones técnicas. Planos de conjunto y despiece. Listado de piezas y componentes. Instrucciones de montaje y funcionamiento, así como manuales de operación y utilización. Diagramas termodinámicos de los agentes frigoríficos. Reglamentos: seguridad para plantas e instalaciones frigoríficas, electrotécnico de baja tensión, aparatos a presión, medioambiente. Partes de mantenimiento. Normativa que vaya surgiendo con relación a dicha materia. Procedimientos y/o instrucciones de mantenimiento preventivo, predictivo y correctivo. Protocolo de gestión de residuos generados durante las actividades de mantenimiento y reparación. Fichas para procedimiento y/o instrucciones según tipo de mantenimiento. Protocolo para el manejo y gestión de los residuos generados.
+
+**UNIDAD DE COMPETENCIA 4: MANTENER Y REPARAR LOS EQUIPOS MECÁNICOS DEL PARQUE DE PESCA ACTUANDO SEGÚN LAS NORMAS DE SEGURIDAD Y EMERGENCIA**
+
+**Nivel: 2**
+
+**Código: UC1892_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Comprobar el estado de ajuste de todos los órganos móviles y fijos de los compresores de la instalación del parque de pesca, siguiendo los protocolos establecidos para evitar averías y cumpliendo la normativa aplicable de seguridad y emergencia.
+
+CR1.1 La operatividad de los compresores frigoríficos se controla según los hitos fijados, comprobando el huelgo de segmentos en los pistones y con respecto a los cilindros, cojinetes de cabeza de biela, pie de biela, collarines del cigüeñal, plato de válvulas, ateniéndose a los manuales de instrucciones del fabricante con el fin de minimizar el riesgo de averías.
+
+CR1.2 Los repuestos almacenados para el mantenimiento del parque de pesca se contabilizan, según su codificación, para determinar el stock de existencias.
+
+CR1.3 Los órganos y/o luchaderos que se encuentren en condiciones de desgaste o posible rotura se sustituyen bajo la supervisión de un responsable superior, para evitar daños en los compresores de la instalación del parque de pesca.
+
+CR1.4 Los reconocimientos efectuados en el parque de pesca se registran en el libro de mantenimiento de los compresores, según las indicaciones del fabricante, para controlar el estado de los mismos.
+
+CR1.5 Los repuestos utilizados se dan de baja en el fichero de existencias, procediendo a su reposición, para garantizar su disponibilidad en el stock del parque de pesca.
+
+RP2: Revisar el estado de funcionamiento de los condensadores y evaporadores de la instalación del parque de pesca, reparándolos, si procede, siguiendo las instrucciones del fabricante, para lograr el rendimiento de la misma.
+
+CR2.1 La estanqueidad de los haces tubulares de los condensadores se comprueba utilizando las técnicas especificadas para cada tipo de equipo con el fin de evitar posibles fugas.
+
+CR2.2 Los electrógenos de cinc de los condensadores férricos se sustituyen, cuando su estado de desgaste por la acción galvánica así lo requiera, para evitar corrosiones.
+
+CR2.3 El circuito de circulación del agua refrigerante se analiza, comprobándolo y/o desmontándolo, siguiendo los protocolos establecidos, para garantizar la obtención de la presión y el caudal adecuado al funcionamiento.
+
+CR2.4 El estado de los serpentines, tanto de expansión directa (fluido frigorígeno), como de expansión indirecta (salmuera, glicol, entre otros) se comprueba visualmente, para evitar pérdida de fluido.
+
+CR2.5 La instalación eléctrica y mecánica (estado de los rodamientos) de los ventiladores se revisa, siguiendo las instrucciones del fabricante, para evitar desfases de trabajo en los equipos mecánicos del parque de pesca.
+
+CR2.6 La presión del cilindro hidráulico y el estado de las placas de contacto de los evaporadores se comprueban, accionando el funcionamiento de la instalación, para controlar el sistema y detectar posibles pérdidas.
+
+CR2.7 El funcionamiento del sistema se controla, comprobando visualmente y ajustando, si se requiere, los valores de los manómetros, termómetros y niveles.
+
+RP3: Supervisar el funcionamiento de las fileteadoras para mantener su operatividad, sustituyendo sus componentes en caso necesario y siguiendo instrucciones del superior.
+
+CR3.1 Los elementos de las vías clasificadoras se ajustan, engrasando si procede, siguiendo los plazos establecidos en los protocolos, para evitar atascos.
+
+CR3.2 La cinta transportadora se revisa, comprobando su estado de desgaste, para garantizar la tracción de la misma.
+
+CR3.3 El funcionamiento de las máquinas y su conexión con el sistema informático se comprueba, realizando medidas de tiempo y peso, para determinar que se ajustan a lo establecido en la programación informática.
+
+RP4: Ajustar las cortadoras de cabeza y eviscerado de pescado, ajustando y limpiando las piezas, para conseguir la extracción de las vísceras.
+
+CR4.1 Los rodillos cónicos se ajustan según las horas de funcionamiento indicado en los manuales, para lograr el aprovechamiento del pescado al cortar la cabeza.
+
+CR4.2 La estrella giratoria utilizada para la limpieza final del pescado se mantiene limpia y carente de desperfectos, para evitar demoras en la producción.
+
+CR4.3 Los cangilones y cuchillas circulares se ajustan cada vez que se intercambian, según la necesidad del tamaño del pescado requerido por el responsable del parque de pesca, para lograr el mayor aprovechamiento comercial del pescado.
+
+RP5: Ajustar las máquinas fileteadoras y secadoras de pescado, realizando ajustes si procede según manuales de los fabricantes, para evitar averías en las mismas.
+
+CR5.1 La velocidad de las máquinas se regula, en función de las características del pescado a filetear, para controlar los tiempos y evitar atascos.
+
+CR5.2 El funcionamiento de las cuchillas con soporte elástico y la tensión de los muelles de presión axial se comprueban, garantizando la precisión en el corte, para minimizar las pérdidas.
+
+CR5.3 La cuchilla raspadora se ajusta a la carga del soporte del muelle, adaptándola a diferentes partidas del pescado, para lograr su mejor aprovechamiento.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Engrasadores manuales y automáticos. Rodamientos de bolas y de rodillos. Equipo y material para realizar el recauchutado de las cintas transportadoras. Equipo y material para realizar soldadura eléctrica, oxiacetilénica y con argón. Tipos de juntas (teflón, aluminio, cobre, klingerit, entre otros). Equipos y máquinas en el parque de pesca para realizar la elaboración del pescado desde su captura hasta su estiba en bodega. Tramos de serpentines de repuesto (expansión directa e indirecta) de los evaporadores y bodegas. Botellas de fluido para los sistemas hidráulicos. Cuchillas, muelles, resortes y todo tipo de elementos susceptibles de desgaste y posible rotura por fatiga de las máquinas y equipos del parque de pesca. Trajes y equipos de protección para realizar los trabajos de mantenimiento y reparación. Equipo informático conectado a las máquinas procesadoras de pescado y sus repuestos correspondientes de programación. Bandejas para la estiba y posterior congelación del pescado para túneles de congelación y evaporadores de placas de contacto. Herramientas para máquinas y equipos.
+
+**Productos y resultados:**
+
+Estado de ajuste de los compresores de la instalación del parque de pesca comprobados. Funcionamiento de los condensadores y evaporadores de la instalación del parque de pesca revisados. Funcionamiento de las fileteadoras supervisado. Mantenimiento de las cortadoras de cabeza y eviscerado de pescado realizado. Mantenimiento del funcionamiento de las máquinas fileteadoras y secadoras de pescado.
+
+**Información utilizada o generada:**
+
+Manuales, catálogos y libros de instrucciones de los equipos y máquinas del parque de pesca. Instrucciones de un responsable superior. Ley de Protección de Riesgos Laborales. Planos de la maquinaria y complementos del parque de pesca. Normativa que vaya surgiendo con relación a dicha materia. Procedimientos y/o instrucciones de mantenimiento preventivo, predictivo y correctivo. Protocolo de gestión de residuos generados durante las actividades de mantenimiento y reparación. Fichas para procedimiento y/o instrucciones según tipo de mantenimiento. Protocolo para el manejo y gestión de los residuos generados.
+
+**UNIDAD DE COMPETENCIA 5: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA**
+
+**Nivel: 1**
+
+**Código: MF0010_1**
+
+**Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera**
+
+**Duración: 30 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+*CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.*
+
+*CE1.2 En un supuesto práctico de arranche del buque pesquero:*
+
+*- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.*
+
+*- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.*
+
+*CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.*
+
+*CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.*
+
+*CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.*
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+*CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.*
+
+*CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:*
+
+*- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.*
+
+*- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.*
+
+*- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.*
+
+*- El uso de medios de protección personal a bordo.*
+
+*- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.*
+
+*- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.*
+
+*CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.*
+
+*CE2.4 En un supuesto práctico de gobierno del buque pesquero:*
+
+*- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.*
+
+*- Realizar cambios de rumbo utilizando el timón.*
+
+*- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.*
+
+*CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:*
+
+*- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.*
+
+*- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.*
+
+*CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.*
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+*CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.*
+
+*CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:*
+
+*- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.*
+
+*- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.*
+
+*CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).*
+
+*CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.*
+
+*CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.*
+
+*CE3.6 En un supuesto práctico de actividades pesqueras:*
+
+*- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque**
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+**2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino**
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 3 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: PREPARACIÓN Y CONTROL DE LA MAQUINARIA DEL PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: MF1890_2**
+
+**Asociado a la UC: Efectuar los trabajos de limpieza y preparación de la maquinaria del parque de pesca**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Aplicar operaciones de limpieza y pruebas a realizar en la maquinaria, cumpliendo la normativa higiénico-sanitaria, para que el parque de pesca se encuentre en condiciones de operatividad a la recepción de las capturas.
+
+*CE1.1 Describir el proceso de revisión de los puntos de luz, tomas de energía y sistemas de transporte de los residuos del parque de pesca, indicando las medidas a tomar en caso de deficiencias en alguno de ellos.*
+
+*CE1.2 Explicar la manera de limpiar las cintas transportadoras y canaletas del parque de pesca, detallando los puntos de las mismas susceptibles de acumular desperdicios.*
+
+*CE1.3 Indicar la forma de comprobar el funcionamiento de las máquinas lavadoras, descabezadoras, evisceradoras y cortadoras del parque de pesca señalando las partes donde pueda haber suciedad o riesgos de avería.*
+
+*CE1.4 En un supuesto práctico de operaciones de mantenimiento del parque de pesca, realizar las acciones de limpieza, ajuste y reparación en las cintas de arrastre, cuchillas, rodillos y gomas de las máquinas fileteadoras, peladoras y desolladoras.*
+
+C2: Especificar las medidas a tomar con las capturas y en la maquinaria del parque de pesca, de forma que se obtenga el rendimiento establecido en el plan de producción en cuanto a la realización de faenas de elaboración, bajo condiciones de seguridad.
+
+*CE2.1 Explicar la manera de adaptar la maquinaria procesadora, dentro de los límites de la misma, al tamaño de las capturas que se desean elaborar.*
+
+*CE2.2 En un supuesto práctico de manipulación de las capturas y la maquinaria del parque de pesca, señalar a la vista de la colocación de varias piezas de pescado a elaborar sobre las cintas de arrastre de las máquinas fileteadoras, las que están mal colocadas y los cambios a realizar en la colocación de estas piezas para el buen funcionamiento de las máquinas.*
+
+*CE2.3 Describir la forma de comprobar el trabajo de los surtidores de agua de las fileteadoras evitando que las cuchillas trabajen en seco.*
+
+*CE2.4 Detallar la forma en que las piezas de pescado a elaborar deben ir colocadas en las cintas transportadoras entre las fileteadoras y las peladoras de manera que éstas puedan desarrollar su función.*
+
+C3: Detectar anomalías que puede presentar el procesado de especies, así como fallos y averías en la maquinaria de un parque de pesca, de manera que la elaboración se realice de acuerdo a las normas del mercado.
+
+*CE3.1 Definir anomalías que se pueden presentar en la maquinaria de un parque de pesca teniendo en cuenta el procesado de la pesca.*
+
+*CE3.2 En un supuesto práctico relativo al sistema de conducción de agua en un parque de pesca, controlar el sistema de conducción de agua para el glaseado del pescado, verificando que la velocidad de las cintas se corresponda con las cortinas de agua de los difusores.*
+
+*CE3.3 En un supuesto práctico relativo a procedimientos de sellado y etiquetado en un parque de pesca, utilizar los procedimientos en el sellado y etiquetado de los filetes de pescado, reconociendo la hermeticidad de los mismos.*
+
+*CE3.4 En un supuesto práctico de verificación de estado del sistema eléctrico en un parque de pesca, comprobar el estado de las líneas y circuitos eléctricos de los motores de tracción y máquinas selladoras, evaluando su consumo.*
+
+C4: Explicar los procesos de recepción, estiba y control de recambios, respetos y materiales a utilizar en la maquinaria del parque de pesca, asegurándose que se garantice el mantenimiento de la misma durante la campaña o marea.
+
+*CE4.1 Interpretar las señalizaciones externas y marcas de los embalajes de recambios, respetos y herramientas, indicando la manera de realizar el control y estiba de los mismos.*
+
+*CE4.2 Identificar los elementos de limpieza y engrase utilizados en las labores de puesta a punto de la maquinaria del parque de pesca, detallando las precauciones a tomar con los mismos, para evitar problemas higiénicos y de contaminación durante la elaboración de las capturas.*
+
+*CE4.3 En un supuesto práctico de cálculo y control de los elementos a utilizar en el mantenimiento de la maquinaria del parque de pesca, identificar el estado real del inventario referente a la maquinaria del parque de pesca, en el momento de la salida a la mar, a la vista del stock del buque a la llegada a puerto y de una tabla de altas y bajas realizadas sobre el mismo en puerto por reparaciones.*
+
+*CE4.4 En un supuesto práctico de valoración de disponibilidad y necesidad de respetos, calcular las disponibilidades y necesidades de respetos al final de la campaña, a la vista de las bajas previstas por periodos de tiempo durante la campaña y el stock al comienzo de la misma.*
+
+*CE4.5 Enumerar los datos que se deben hacer constar en el libro registro de horas de trabajo y averías de la maquinaria del parque de pesca, teniendo en cuenta el seguimiento de la maquinaria afectada.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.4; C2 respecto a CE2.2; C3 respecto a CE3.2, CE3.3 y CE3.4; C4 respecto a CE4.3 y CE4.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Preparación de la maquinaria del parque de pesca**
+
+Limpieza: productos a utilizar, forma de empleo, útiles y vestimenta.
+
+Iluminación: puntos de luz y conducciones eléctricas.
+
+Cintas transportadoras y canaletas: de capturas, de residuos, de traslados.
+
+Máquinas y elementos mecánicos: lavadoras, cortadoras, fileteadoras, desolladoras, exprimidoras, cintas de arrastre, cuchillas, gomas, rodillos y elementos de ajuste y engrase.
+
+**2. Parque de pesca y elaboración de las capturas**
+
+Distribución.
+
+Maquinaria según especie objeto de captura.
+
+Colocación de operadores.
+
+Normativa de higiene y seguridad.
+
+Manipulación: tamaño, colocación, dirección de las especies según maquinaria a utilizar.
+
+Ajustes mecánicos: control de surtidores y difusores, tracción y velocidad de las cintas, cuchillas, rodillos y gomas.
+
+**3. Recepción, estiba y control de recambios, respetos y materiales**
+
+Marcas y señalizaciones externas.
+
+Procedimientos de estiba.
+
+Condiciones de los productos de limpieza y engrase.
+
+Inventarios: normas para altas y bajas.
+
+Libretas de registro de trabajos y mantenimiento de maquinaria: anotaciones a realizar.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 7,5 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la realización de los trabajos de limpieza y preparación de la maquinaria del parque de pesca, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 3: MANTENIMIENTO DE LOS EQUIPOS QUE COMPONEN LA INSTALACIÓN FRIGORÍFICA DEL PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: MF1891_2**
+
+**Asociado a la UC: Efectuar las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Especificar máquinas y equipos que integran una instalación frigorífica, identificando las características técnicas de cada uno de ellos.
+
+*CE1.1 Enumerar los equipos mecánicos, hidráulicos y eléctricos que conforman la instalación frigorífica, reconociendo sus esquemas de funcionamiento.*
+
+*CE1.2 Interpretar la documentación técnica de las máquinas y equipos de la instalación frigorífica relacionándola con el mantenimiento y características de los mismos.*
+
+*CE1.3 En un supuesto práctico de mantenimiento de una instalación frigorífica, a la vista de la documentación técnica de mantenimiento de la misma:*
+
+*- Identificar cada uno de sus elementos, así como sus órganos de regulación comprobando que se ajusta a la misma.*
+
+*- Detectar aquellos elementos que han de ser objeto de especial atención durante el montaje y mantenimiento de la misma, utilizando los esquemas de despiece.*
+
+*- Aplicar las técnicas y medios a emplear sobre los elementos de la instalación para que cualquier intervención se realice con las condiciones de seguridad requeridas.*
+
+C2: Explicar el funcionamiento de las máquinas y equipos que componen la instalación frigorífica, identificando las partes constituyentes de los mismos y explicando la función que realizan.
+
+*CE2.1 Identificar los elementos que componen la instalación frigorífica, explicando la función de cada uno de ellos en el ciclo de funcionamiento de la instalación.*
+
+*CE2.2 Explicar la función del compresor en el sistema frigorífico, enumerando los tipos existentes en las instalaciones de los sistemas de refrigeración, identificando los órganos que lo componen, así como los elementos auxiliares empleados en el funcionamiento del mismo.*
+
+*CE2.3 Describir la función del condensador en el sistema frigorífico explicando sus características constructivas.*
+
+*CE2.4 Enumerar los tipos de elementos de expansión utilizados en las instalaciones, así como la importancia de su regulación en la eficiencia del ciclo funcional de la instalación utilizando la documentación de los fabricantes.*
+
+*CE2.5 Explicar la función que realiza el evaporador en la instalación, describiendo los tipos existentes e identificando sus parámetros característicos.*
+
+*CE2.6 Describir el funcionamiento de los elementos electromecánicos empleados en la regulación y control de la instalación frigorífica, analizando su función en el conjunto de la instalación.*
+
+*CE2.7 En un supuesto práctico de mantenimiento de las máquinas y equipos que componen una instalación frigorífica:*
+
+*- Describir las características constructivas del condensador y evaporador teniendo en cuenta la instalación de mantenimiento.*
+
+*- Manipular el dispositivo empleado para la alimentación del evaporador explicando su funcionamiento.*
+
+C3: Especificar las variables de funcionamiento de una instalación frigorífica y su incidencia en el rendimiento de la misma, registrando las marcaciones de los aparatos de regulación y control.
+
+*CE3.1 Especificar los métodos empleados para la regulación de la capacidad de los compresores, así como los elementos utilizados para el mando y protección de los mismos, en función de sus características técnicas.*
+
+*CE3.2 Explicar los sistemas empleados para la lubricación de los compresores frigoríficos enumerando las características que deben tener los aceites empleados.*
+
+*CE3.3 Describir los métodos empleados para regular la presión de condensación en función del elemento de regulación utilizado.*
+
+*CE3.4 Explicar los métodos empleados para la regulación del elemento de expansión en función de las características del evaporador resaltando su incidencia en el recalentamiento y el rendimiento de la instalación.*
+
+*CE3.5 Enumerar los procedimientos empleados en el desescarche de evaporadores (tanto de expansión directa como de salmuera), en función del sistema utilizado.*
+
+*CE3.6 En un supuesto práctico de un equipo frigorífico en funcionamiento:*
+
+*- Utilizar el instrumento de medida atendiendo a la magnitud que se va a medir para obtener los parámetros de funcionamiento de la instalación.*
+
+*- Representar los resultados obtenidos sobre un diagrama de presión-entalpía (p-h) para obtener el ciclo termodinámico de la instalación.*
+
+*- Comparar los resultados obtenidos con las condiciones de diseño de la instalación y proponer mejoras en la regulación de la misma para optimizar su rendimiento.*
+
+C4: Aplicar operaciones de mantenimiento de equipos que componen la instalación frigorífica aplicando protocolos establecidos.
+
+*CE4.1 Identificar los equipos y elementos sobre los que se deben realizar operaciones de mantenimiento a la vista de la documentación técnica.*
+
+*CE4.2 Describir las operaciones de comprobación, ajuste y mantenimiento que deben ser realizadas en equipos, elementos y cámaras, de acuerdo con sus características y documentación técnica.*
+
+*CE4.3 Describir las herramientas y equipos empleados en las operaciones de comprobación, ajuste y mantenimiento, según la función que realizan, explicando la forma de utilización de las mismas.*
+
+*CE4.4 En un supuesto práctico de un equipo frigorífico en funcionamiento:*
+
+*- Identificar, tanto en el propio equipo como en la documentación técnica, aquellos elementos sobre los que se deben realizar operaciones de mantenimiento preventivo.*
+
+*- Revisar las alineaciones de los elementos mecánicos de transmisión, ajustes de los elementos de unión y fijación utilizando útiles y herramientas en condiciones de seguridad.*
+
+*- Comprobar el estado y funcionamiento de los elementos de regulación y control, reajustándose en su caso, para corregir las disfunciones observadas.*
+
+*- Verificar los reglajes, ajustes y engrases de los elementos electromecánicos aplicando procedimientos establecidos y en condiciones de seguridad.*
+
+*- Comprobar las válvulas de seguridad verificando su estado y estanqueidad, verificando que se ajustan a los requerimientos reglamentarios.*
+
+*- Confeccionar un parte de mantenimiento en el que se hará constar las operaciones realizadas y los elementos revisados.*
+
+C5: Relacionar las anomalías, reales o provocadas, en las máquinas y equipos de la instalación frigorífica, con las causas que las originan, empleando los procedimientos establecidos.
+
+*CE5.1 Enumerar las características de las anomalías (averías) que se puedan producir en las instalaciones frigoríficas en función de su naturaleza y sus efectos.*
+
+*CE5.2 Citar los procedimientos utilizados para la detección de averías en las instalaciones, tanto de origen mecánico como hidráulico y eléctrico, de acuerdo con las técnicas establecidas.*
+
+*CE5.3 En un supuesto práctico de una hipotética avería en una instalación:*
+
+*- Utilizar la documentación técnica y los equipos necesarios para, en base a los efectos que produce en el funcionamiento de la instalación, identificar el origen y alcance de la avería.*
+
+*- Determinar los síntomas de la avería en base a los parámetros de funcionamiento del equipo.*
+
+*- Plantear, en base a los efectos que produce en la instalación, hipótesis sobre la causa de la avería.*
+
+*- Realizar las comprobaciones (medidas, consultas, pruebas, entre otras) para localizar el elemento/s causantes de la avería.*
+
+*- Reflejar los resultados obtenidos en un informe que incluya los procedimientos empleados.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.7; C3 respecto a CE3.6; C4 respecto a CE4.4; C5 respecto a CE5.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Tecnología frigorífica**
+
+Termodinámica. Calorimetría. Transmisión de calor. Estudio termodinámico de los ciclos frigoríficos. Termometría y psicometría.
+
+Sistemas frigoríficos. Clasificación. Variables de funcionamiento.
+
+Fluidos frigorígenos. Propiedades. Manipulación.
+
+**2. Instalaciones frigoríficas**
+
+Instalaciones de refrigeración y congelación. Instalaciones tipo.
+
+Elementos constitutivos de las instalaciones. Compresores, evaporadores, condensadores.
+
+Dispositivos de seguridad y regulación.
+
+Elementos auxiliares. Función de los mismos y características.
+
+Esquemas y planos de instalaciones frigoríficas. Simbología.
+
+**3. Mantenimiento de las instalaciones**
+
+Tipología de las averías. Diagnóstico y localización.
+
+Técnicas de montaje y desmontaje de los elementos mecánicos, eléctricos e hidráulicos de las máquinas y equipos frigoríficos.
+
+Técnicas de mantenimiento preventivo y sistemático sobre máquinas y equipos frigoríficos.
+
+Accesorios y herramientas en el mantenimiento de las instalaciones.
+
+Medidas de seguridad a adoptar en el desarrollo de las operaciones.
+
+**4. Prevención de riesgos en lo relativo a las labores de mantenimiento de los equipos que componen una instalación frigorífica**
+
+Precauciones generales durante la realización de todas las actividades.
+
+Normativa sobre prevención de riesgos laborales.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la realización de las labores de mantenimiento de los equipos que componen la instalación frigorífica del parque de pesca, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 4: MANTENIMIENTO DE LOS EQUIPOS MECÁNICOS DEL PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: MF1892_2**
+
+**Asociado a la UC: Mantener y reparar los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Manipular elementos, equipos y máquinas del parque de pesca distinguiendo sus funciones y cometidos.
+
+*CE1.1 Identificar la nomenclatura y trabajo de las partes que conforman los equipos del parque de pesca, describiendo los esfuerzos y desgastes a que están sometidos.*
+
+*CE1.2 Enumerar los repuestos por catálogo, según su código, interpretando su función en los compresores.*
+
+*CE1.3 En un supuesto práctico de mantenimiento de los equipos mecánicos de un parque de pesca:*
+
+*- Desmontar una culata de un compresor, comprobando el estado del plato de válvulas y segmento de los pistones.*
+
+*- Limpiar los filtros de aspiración y deshidratación, evaluando su estado de suciedad y deterioro.*
+
+C2: Explicar los condensadores y evaporadores que emplean los buques congeladores, según sus características y tipos.
+
+*CE2.1 Reconocer los elementos constitutivos de condensadores y evaporadores determinando el cometido de cada uno de ellos.*
+
+*CE2.2 Enumerar las actuaciones a tomar en el caso de producirse una anomalía en algún elemento de condensación o evaporación siguiendo procedimientos establecidos para no incidir negativamente en el desarrollo del proceso.*
+
+*CE2.3 En un supuesto práctico de mantenimiento y limpieza de condensadores y evaporadores:*
+
+*- Desmontar tapas de condensadores, comprobando la estanqueidad del haz tubular y estado de los electrógenos.*
+
+*- Utilizar una bomba hidráulica, interpretando manométricamente la presión indicada por el aparato de medida.*
+
+C3: Distinguir las características de las máquinas fileteadoras, identificando las partes constitutivas de las mismas.
+
+*CE3.1 Citar los tipos de vías clasificadoras y cintas transportadoras, teniendo en cuenta el modelo de la máquina fileteadora.*
+
+*CE3.2 Interpretar y explicar la conexión de las máquinas fileteadoras con el sistema informático, mientras se mantenga operativa durante el proceso.*
+
+*CE3.3 En un supuesto práctico de limpieza y engrase de las vías clasificadoras, teniendo en cuenta el tipo de clasificación y fileteado del pescado:*
+
+*- Limpiar las cuchillas y ajustarlas.*
+
+*- Reconocer las cintas transportadoras, detectando si hay deficiencias en el recauchutado.*
+
+C4: Utilizar medios y herramientas para realizar controles de mantenimiento de máquinas cortadoras y evisceradoras de pescado, determinando la utilización de cada uno de ellos.
+
+*CE4.1 Enumerar los medios para ajustar los rodillos cónicos y estrella giratoria de las máquinas cortadoras, interpretando los esquemas suministrados por los fabricantes.*
+
+*CE4.2 En un supuesto práctico de control de mantenimiento de las máquinas cortadoras y evisceradoras de pescado, realizar los ajustes de la estrella giratoria y cuchillas circulares, según los tamaños del pescado.*
+
+*CE4.3 Citar las medidas y precauciones a tomar durante el ajuste de las cuchillas, enumerando los procedimientos establecidos.*
+
+C5: Describir los procedimientos de actuación en caso de una parada por desajustes o por emergencias en base a las especificaciones técnicas de las máquinas.
+
+*CE5.1 Reconocer el motivo de parada de una máquina por desajuste de los equipos de medida, identificando el fallo que la produce.*
+
+*CE5.2 Identificar en la instalación los lugares donde se encuentran los elementos de seguridad, reconociendo la misión de cada uno de ellos.*
+
+*CE5.3 Enumerar los procedimientos a seguir ante cualquier emergencia sobrevenida por un fallo en el sistema frigorífico mecánico y/o eléctrico.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.3; C3 respecto a CE3.3; C4 respecto a CE4.2.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Tecnología mecánica relativa a los equipos mecánicos de un parque de pesca**
+
+Soldadura eléctrica, oxiacetilénica y argón.
+
+Sistemas de engranajes.
+
+Ajustes de elementos fijos y móviles.
+
+Aparatos de medida.
+
+Fundamentos del recauchutado.
+
+**2. Electrotecnia relativa a los equipos mecánicos de un parque de pesca**
+
+Acciones de la corriente eléctrica.
+
+Instrumentos y aparatos electromagnéticos.
+
+Intercalación de resistencias.
+
+Motores de corriente continua.
+
+Motores de corriente alterna.
+
+Convertidores, rectificadores y transformadores.
+
+**3. Instalaciones de un parque de pesca: nomenclatura, fundamento y tipos**
+
+Compresores alternativos y rotativos.
+
+Bombas de circulación.
+
+Descabezadoras.
+
+Evisceradoras.
+
+Fileteadoras.
+
+Termoselladoras.
+
+Ventiladores.
+
+**4. Prevención de riesgos laborales en lo relativo a los equipos mecánicos de un parque de pesca**
+
+Precauciones generales durante la realización de las actividades en el parque de pesca.
+
+Normativa sobre prevención de riesgos laborales.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con el mantenimiento y reparación de los equipos mecánicos del parque de pesca actuando según las normas de seguridad y emergencia, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 5: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXI de la Orden EFP/63/2021, de 21 de enero. [Ref. BOE-A-2021-1266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1266)
+
+> Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.2 de la misma. [Ref. BOE-A-2020-12259](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12259)
+
+## ANEXO DLXXIV — **Cualificación profesional: Operaciones de bombeo para carga y descarga en buques**
+
+**Familia Profesional: Marítimo - Pesquera**
+
+**Nivel: 2**
+
+**Código: MAP574_2**
+
+**Competencia general**
+
+Manipular y mantener el estado operativo de los sistemas de bombas y tuberías, tanto neumáticas como hidráulicas, durante las cargas, descargas y trasiegos de las mercancías a bordo de un buque, respetando las condiciones de seguridad, la normativa medioambiental y de prevención de riesgos laborales específicos.
+
+**Unidades de competencia**
+
+**UC1893_2:** Realizar las operaciones de carga y descarga del buque mediante el sistema de bombas
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en buques mercantes o auxiliares sin limitación de tonelaje dedicados al transporte de productos líquidos, sólidos o gaseosos que precisen ser manipulados tanto para la carga, descarga y trasiego a través de un sistema de bombas puro o combinado, en entidades de naturaleza pública o privada, empresas de tamaño mediano y/o grande, por cuenta ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector marítimo-pesquero, concretamente en las actividades productivas de transporte marítimo. Empresas auxiliares de servicios portuarios. Refinerías petrolíferas o derivadas en puerto.
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Marineros en buques mercantes
+
+Manipuladores del sistema de bombeo en buques
+
+**Formación Asociada** **(150 horas)**
+
+**Módulos Formativos**
+
+**MF1893_2:** Manejo del sistema de bombeo en buques (90 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: REALIZAR LAS OPERACIONES DE CARGA Y DESCARGA DEL BUQUE MEDIANTE EL SISTEMA DE BOMBAS**
+
+**Nivel: 2**
+
+**Código: UC1893_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Manipular el sistema de bombas y dispositivos de bombeo siguiendo las instrucciones del oficial responsable para efectuar la carga y/o descarga o trasiego de las mercancías objeto del transporte a bordo de un buque.
+
+CR1.1 El manejo de bombas y los dispositivos de bombeo se adecuan al planeamiento de las operaciones de carga, descarga o trasiego, dependiendo del producto para garantizar un manejo de la mercancía seguro.
+
+CR1.2 La cámara de bombas se arrancha, previa preparación, para operar según criterios temporales establecidos, siguiendo instrucciones de su superior al objeto de garantizar su operatividad.
+
+CR1.3 La terminología y la señalización normalizada de los dispositivos de bombeo se interpretan de acuerdo a los planes de carga/descarga para llevar a cabo la actividad.
+
+RP2: Acondicionar el sistema de bombas de carga/descarga del buque en función de los productos manipulados, considerando la información técnica de cada uno de ellos y cumpliendo con la normativa aplicable de riesgos laborales.
+
+CR2.1 Los productos objeto de la carga, descarga o trasiego se identifican, según sus características físicas y químicas, para actuar de forma eficaz con los mismos.
+
+CR2.2 Los espacios de carga se adecuan, limpiando y ventilando, siguiendo órdenes de su superior, y teniendo en cuenta las características de los productos a embarcar o los anteriormente embarcados para garantizar la seguridad y minimizar riesgos de contaminación.
+
+CR2.3 La atmósfera de los tanques de carga se comprueba, según las indicaciones de los equipos de control, para evitar riesgos.
+
+CR2.4 El comportamiento de los equipos producido por la influencia de los productos embarcados se interpreta en función de las condiciones de trabajo, comunicándoselo al superior responsable para evitar cualquier situación de riesgo.
+
+RP3: Utilizar las medidas de seguridad en caso de reboses, según protocolos establecidos, para minimizar los riesgos a las personas y al medioambiente.
+
+CR3.1 Los instrumentos de contención de la carga en caso de reboses se disponen, según procedimientos establecidos, para ser accionados en los plazos fijados.
+
+CR3.2 El equipo de protección individual (EPI) se utiliza, según las instrucciones de uso e indicaciones del fabricante, para evitar y prevenir riesgos.
+
+CR3.3 Los equipos de protección del medioambiente se mantienen siguiendo las instrucciones de cada uno de ellos para garantizar su uso.
+
+CR3.4 El sistema de conexión de buque/terminal o buque/buque se revisa de forma manual y mecánica para comprobar y evitar derrames o pérdidas.
+
+RP4: Emplear los procedimientos de emergencia para casos de derrames u otros accidentes sobrevenidos por fallo en el sistema de bombeo de la carga/descarga del buque, teniendo en cuenta la normativa aplicable de riesgos laborales y sustancias peligrosas, para minimizar los daños.
+
+CR4.1 Los planes de emergencia se aplican según instrucciones establecidas para poder actuar en caso de que se produzca alguna de ellas.
+
+CR4.2 Las alarmas de emergencia se identifican según su tipología (señales acústicas, duración, entre otros) para actuar, si procede.
+
+CR4.3 Las acciones a tomar y el puesto a ocupar en caso de una emergencia real se identifican atendiendo a las instrucciones del cuadro orgánico, poniendo diligencia especial en los periodos de carga/descarga/trasiego, para una actuación segura en caso de necesidad.
+
+RP5: Comprobar el funcionamiento de los dispositivos de expansión, presión, vacío, succión, flujo y altura manométrica, así como filtros y purgadores, según los manuales de los equipos, al objeto de asegurar la operatividad del sistema de bombas de carga/descarga del buque.
+
+CR5.1 El circuito de tuberías y su recorrido se localiza, según los planos de disposición general del buque, al objeto de identificar el lugar por donde se desplaza el producto tanto a la entrada de tanques como a su salida y trasiego entre estos.
+
+CR5.2 La operatividad del sistema de bombeo, la disposición de tanques en cubierta, así como la cámara de bombas se controlan de forma especial en los periodos de carga/descarga/trasiego para evitar riesgos y garantizar la seguridad.
+
+CR5.3 Los sistemas de limpieza de tanques y de desgasificación e inertización se revisan, según tiempos fijados, para asegurar su estado de funcionamiento.
+
+CR5.4 Los sistemas de calefacción, ventilación y medición de tanques de carga se preparan según los manuales al uso para cargar/descargar/trasegar las mercancías.
+
+CR5.5 Las válvulas y todo el sistema de bombas se manejan siguiendo el planeamiento del superior responsable para realizar las operaciones de carga/descarga/trasiego.
+
+CR5.6 La documentación técnica de los equipos, certificados de garantía, se interpreta, si es el caso, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Sistemas de contención de la carga (construcción y reconocimiento). Equipo de manipulación de la carga (bombas, sistemas de tuberías). Sistemas de acondicionamiento de la carga (calentamiento y refrigeración). Sistema de control de la atmósfera en los tanques de carga. Instrumentos para la contención de la carga y sistemas de manipulación. Sistemas de presión, vacío, succión y flujo. Sistema de filtros, purgadores e intercambiadores de calor. Instrumentos y sistemas auxiliares.
+
+**Productos y resultados:**
+
+Sistema de bombas y dispositivos de bombeo manipulado. El sistema de bombas de carga/descarga del buque acondicionado. Medidas de seguridad utilizadas. Procedimientos de emergencia empleados. Funcionamiento de los dispositivos de expansión, presión, vacío, succión, flujo y altura manométrica, así como filtros y purgadores comprobados.
+
+**Información utilizada o generada:**
+
+Convenio Internacional de Formación, Titulación y Guardia para la Gente de Mar, STCW 78/95-97, OMI. SOLAS, Seguridad Convenio Internacional para la Seguridad de la Vida Humana en el mar, 1974 y sus enmiendas posteriores, OMI. Código para buques existentes que transportan gas licuado a granel, petróleo y derivados, sus enmiendas y suplementos, OMI. Código para la construcción y equipo de buques que transportan carga de gases licuados a granel, petróleo y derivados Código BCH., OMI. Guía de primeros auxilios médicos para accidentes que involucran mercancías peligrosas, MFAG, OMI. MARPOL 73/78 y sus enmiendas posteriores. Código sobre la Gestión de Seguridad a bordo. Código ISM.
+
+**UNIDAD DE COMPETENCIA 2: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: MANEJO DEL SISTEMA DE BOMBEO EN BUQUES**
+
+**Nivel: 2**
+
+**Código: MF1893_2**
+
+**Asociado a la UC: Realizar las operaciones de carga y descarga del buque mediante el sistema de bombas**
+
+**Duración: 90 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Utilizar medios y elementos que integran un sistema de bombeo de un buque dedicado al transporte de cargas líquidas o de gases.
+
+*CE1.1 Reconocer los elementos hidráulicos y neumáticos del sistema de carga/descarga con la ayuda de los planos y esquemas propios del buque.*
+
+*CE1.2 Interpretar y explicar el significado de la simbología representada en los planos e instrucciones para la carga/descarga de un producto determinado.*
+
+*CE1.3 Identificar las señales de alarma para distinguir las situaciones de emergencia que se pueden producir durante la carga/descarga.*
+
+*CE1.4 En un supuesto práctico de simulación, determinar las acciones a acometer ante la pérdida del producto objeto de la carga/descarga en una tubería para minimizar el riesgo de contaminación, realizando las siguientes actividades:*
+
+*- Activar el sistema de alarma y parado automático del sistema de carga.*
+
+*- Accionar los sistemas alternativos para hacer frente a la emergencia.*
+
+*- Utilizar los equipos de comunicación para advertir a la terminal y a los responsables finales de la carga.*
+
+C2: Distinguir las características de los productos transportados en buques tanques, identificando los orígenes y la composición de los mismos.
+
+*CE2.1 Identificar los símbolos y las abreviaturas usados a bordo de los buques tanque y en los terminales petroleros de acuerdo a los manuales establecidos.*
+
+*CE2.2 Enumerar las normas y regulaciones internacionales, nacionales y las convenciones adoptadas por la Organización Marítima Internacional (OMI) con respecto a los aspectos de seguridad y contaminación (SOLAS, MARPOL).*
+
+*CE2.3 Reconocer los efectos agudos o crónicos que pueden producir en la salud de las personas la exposición al petróleo, o a productos químicos o gases.*
+
+*CE2.4 Describir los elementos que puedan originar el fuego en un momento determinado según las propiedades químicas y como afectan las propiedades de las cargas.*
+
+C3: Utilizar instrumentos y medios para la contención de carga y de sistemas de manipulación en caso de producirse reboses durante las operaciones de carga/descarga.
+
+*CE3.1 Identificar los sistemas de contención de la carga y las medidas a adoptar en caso de que se produzca un derrame del producto.*
+
+*CE3.2 Citar los procedimientos destinados a contener los derrames según el tipo de buque y producto objeto de la carga.*
+
+*CE3.3 Reconocer las líneas, los circuitos, los sistemas de bombeo y las tuberías, así como la disposición de los tanques y de la cubierta al objeto de realizar la carga/descarga según las instrucciones del superior responsable.*
+
+*CE3.4 En un supuesto práctico de rebose en un tanque de carga:*
+
+*- Activar el plan de emergencia y cegado de imbornales minimizando la propagación de la contaminación del medio marino.*
+
+*- Utilizar los flotadores perimetrales sobre la superficie de la mar, evitando que el derrame se expanda.*
+
+*CE3.5 Interpretar la información técnica exigida para el manejo de posibles instrumentos y medios para la contención de la carga y los sistemas de manipulación en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C4: Interpretar las medidas de emergencia planificadas, así como la estructura de un procedimiento de emergencia ante cualquier fallo sobrevenido en el sistema de bombeo durante las operaciones de carga/descarga.
+
+*CE4.1 Identificar los espacios y lugares del buque donde se encuentran los equipos de seguridad atendiendo a los «planos de seguridad del buque», para actuar ante cualquier emergencia.*
+
+*CE4.2 Enumerar los cuidados para un mantenimiento activo de los equipos que deben ser empleados ante cualquier emergencia sobrevenida por un fallo en el sistema de bombeo, teniendo en cuenta el procedimiento establecido en los manuales técnicos.*
+
+*CE4.3 Distinguir las alarmas visuales o acústicas que impliquen un desarrollo anormal durante las operaciones de carga y descarga y explicar las situaciones que se pueden presentar.*
+
+*CE4.4 Citar las precauciones y medidas a tomar según los procedimientos establecidos en los manuales para minimizar los riesgos de fuego, reactividad, riesgos de corrosión y riesgos electroestáticos.*
+
+C5: Manipular bombas y dispositivos de bombeo que emplean los buques dedicados al transporte de cargas.
+
+*CE5.1 Distinguir los tipos de bombas según la función que realizan dentro del sistema de carga/descarga.*
+
+*CE5.2 Citar los procedimientos a seguir en una operación común de carga desde la sala de bombas en el momento de la conexión buque-terminal, buque-buque; teniendo en cuenta el purgado y desgasificación, el comportamiento de los fluidos y la elección de las bombas.*
+
+*CE5.3 Interpretar y explicar los esquemas neumáticos e hidráulicos teniendo en cuenta que el sistema se mantenga operativo durante las operaciones de carga/descarga.*
+
+*CE5.4 En un supuesto práctico de mantenimiento y limpieza de los dispositivos de bombeo previos a las operaciones de carga/descarga:*
+
+*- Limpiar los filtros y su recambio.*
+
+*- Desmontar una válvula de seguridad o de caudal.*
+
+*- Montar una brida ciega sobre un tramo de tubería.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.4; C3 respecto a CE3.4; C5 respecto a CE5.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Características de los productos embarcados/desembarcados**
+
+Propiedades químicas de los productos y sus vapores.
+
+Naturaleza y propiedades de las soluciones o mezclas.
+
+Comportamiento de los gases en espacios libres de carga.
+
+**2. Tipos de buques y sistemas de contención en lo relativo al manejo del sistema de bombeo en buques**
+
+Buques para el transporte de cargas especiales.
+
+Sistemas de contención de la carga.
+
+Equipo de manipulación de la carga.
+
+Sistemas de acondicionamiento de la carga.
+
+Sistemas de control de la atmósfera en los tanques.
+
+Instrumentos para la contención de la carga.
+
+**3. Manejo del sistema de carga en lo relativo al manejo del sistema de bombeo en buques**
+
+Equipos: tanques, tuberías y válvulas; sistema de ventilación de los tanques de carga; bombas y sistemas de descarga; intercambiadores de calor; sistemas de licuación y control de apagado de calentadores; sistema de gas inerte y lavado con crudo; instrumentos y sistemas auxiliares.
+
+**4. Procedimientos de prevención de riesgos, seguridad y emergencia en el manejo del sistema de bombeo en buques**
+
+Procedimientos de prevención de riesgos: riesgos a la salud (toxicidad, inhalación y riesgos inherentes al contacto con la piel); tratamiento de primeros auxilios, administración de antídotos; reactivos; peligros de explosión e inflamación; reparaciones y trabajos en caliente.
+
+Procedimientos de seguridad: medición de la atmósfera de los tanques de carga; función, calibrado y utilización de instrumentos de medición en los tanques de carga; equipos de seguridad para el personal que trabaja en espacios cerrados; protocolos de actuación para el trabajo en espacios cerrados; prevención de incendio y equipamiento; prevención de la contaminación medio ambiental.
+
+Procedimientos de emergencia: planes de emergencia; procedimientos de emergencia antes, durante y/o al término de las operaciones; alarmas; tipos de medidas que pueden tomarse.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la realización de las operaciones de carga y descarga del buque mediante el sistema de bombas, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+## ANEXO XXIII
+
+(Sustituye al anexo DLXXV establecido por el Real Decreto 885/2011, de 24 de junio)
+
+****Cualificación profesional: Operaciones de coordinación en cubierta y parque de pesca****
+
+**Familia Profesional: Marítimo - Pesquera**
+
+**Nivel: 2**
+
+**Código: MAP575_2**
+
+**Competencia general**
+
+Distribuir a la tripulación de cubierta del buque y del parque de pesca para ejecutar las órdenes recibidas del superior responsable, coordinando las operaciones de mantenimiento, maniobras, montaje y reparación de artes y aparejos, así como de clasificación, elaboración, y conservación de las especies capturadas y su estiba en las bodegas, observando las normas higiénico-sanitarias y de seguridad aplicables.
+
+**Unidades de competencia**
+
+**UC0010_1:** Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+**UC1894_2:** Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas
+
+**UC1895_2:** Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en buques de pesca, industrias pesqueras, rederías y en plantas industriales dedicadas a la conservación, manipulación de los productos pesqueros, en empresas de cualquier tamaño, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de pesca extractiva. Plantas industriales pesqueras. Industrias auxiliares de la pesca (fábricas de redes, manipulación de productos pesqueros).
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Rederos
+
+Marineros en buques de pesca
+
+Marineros en buques mercantes
+
+Contramaestres de congelación
+
+Contramaestres de pesca
+
+**Formación Asociada** **(300 horas)**
+
+**Módulos Formativos**
+
+**MF0010_1:** Labores de cubierta en buque de pesca (30 horas)
+
+**MF1894_2:** Labores de pesca y cubierta (120 horas)
+
+**MF1895_2:** Labores de parque de pesca (90 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA**
+
+**Nivel: 1**
+
+**Código: UC0010_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+**Productos y resultados:**
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+**Información utilizada o generada:**
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 2: DISTRIBUIR Y EFECTUAR LAS OPERACIONES DE MANTENIMIENTO, MANIOBRAS DE CUBIERTA Y PESCA, MONTAJE Y REPARACIÓN DE ARTES Y APAREJOS, Y MANIPULACIÓN DE LAS CAPTURAS**
+
+**Nivel: 2**
+
+**Código: UC1894_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Controlar los pertrechos, provisiones, materiales y equipos, procediendo a su recepción y estiba, atendiendo a las características del buque y sus pañoles, a fin de garantizar su mantenimiento durante la campaña o marea.
+
+CR1.1 Los pertrechos, provisiones, materiales y equipos se gestionan (recepción, control, almacenado, estibado y organización) en el buque para evitar peligros e incidentes durante la campaña o marea, siguiendo las instrucciones del superior responsable.
+
+CR1.2 Los pañoles de pinturas y cabuyería se controlan diariamente, asegurando el mantenimiento de la aireación y estanqueidad, para evitar posibles incendios o deterioros.
+
+CR1.3 El inventario de los materiales y demás elementos de mantenimiento almacenados en los pañoles se controla, mediante un registro en función de protocolos establecidos durante la campaña o marea, para poder realizar el oportuno pedido a la finalización de la misma.
+
+CR1.4 Las herramientas que se utilizan en el trabajo diario se recepcionan (emisión y entrega) en función de protocolos establecidos, para evitar la pérdida o mal uso de las mismas.
+
+CR1.5 El estado de uso de los equipos de pesca y sus elementos se mantienen, limpiándolos, secándolos, desmontándolos y estibándolos, asegurando que se coloquen en lugares con buena aireación, protegidos del sol y de agentes nocivos para garantizar su conservación.
+
+RP2: Contribuir al funcionamiento del buque a partir de operaciones de mantenimiento, conservación y guardias, colaborando en las maniobras con otros profesionales, observando las normas de seguridad para favorecer el desarrollo de la travesía.
+
+CR2.1 La jarcia de labor (nudos y cuerdas) se prepara después de cada maniobra, revisándola y aclarándola, siguiendo procedimientos marineros al uso, para que esta pueda realizarse con rapidez y seguridad.
+
+CR2.2 Los elementos mecánicos móviles como pescantes, maquinillas, pastecas, chigres, entre otros, se mantienen llevando a cabo la revisión, pruebas y engrases según protocolos establecidos, para garantizar un funcionamiento seguro.
+
+CR2.3 El mantenimiento vinculado con la limpieza, rascado y pintado se distribuye entre la tripulación en función de las zonas de trabajo según las instrucciones del superior, dotándola del material preciso para realizar los trabajos.
+
+CR2.4 Las guardias de mar y puerto se reparten entre la tripulación atendiendo a los horarios y otros trabajos de los mismos, según las instrucciones recibidas, para garantizar la seguridad del buque.
+
+CR2.5 Las «medidas de policía» se controlan garantizado la actividad en pasillos, comedores, camarotes, entre otros, siguiendo las indicaciones del superior responsable, para cumplir las normas higiénicas y de convivencia en el buque.
+
+RP3: Distribuir la tripulación de acuerdo al sistema de pesca empleado, atendiendo a las características de los equipos de cubierta y las condiciones meteorológicas, para que la maniobra pueda realizarse con rapidez y seguridad.
+
+CR3.1 Los elementos fijos y móviles de cubierta que intervienen en las maniobras de pesca se preparan antes del comienzo de las mismas, comprobando su funcionamiento, para evitar posibles retrasos o averías que afecten a los índices de seguridad y eficacia.
+
+CR3.2 El equipo de pesca a utilizar se prepara en cubierta según las órdenes del capitán o patrón, llevando acabo su chequeo para asegurar que la largada se efectúe en el menor tiempo posible y de forma segura.
+
+CR3.3 El personal de cubierta que participa en las maniobras de pesca se destina siguiendo las indicaciones del capitán o patrón, teniendo en cuenta la disposición espacial de la cubierta y las condiciones meteorológicas del momento, para evitar cualquier tipo de accidente.
+
+CR3.4 Las maniobras de largado, virado y cualquier otra que pueda producirse durante el lance, así como la intervención de los marineros en las mismas, se controlan atendiendo a criterios de seguridad y eficacia, para evitar posibles riesgos al personal y al equipo de pesca.
+
+CR3.5 Las anomalías que se puedan detectar en el equipo de pesca, durante y al finalizar la maniobra de virada se comunican de inmediato, para tratar de evitar posibles averías.
+
+RP4: Preparar el equipo de pesca ya sea montándolo o reparándolo de forma que se garantice su funcionalidad para efectuar las capturas.
+
+CR4.1 Las partes que componen los equipos de pesca a utilizar, así como las abreviaturas y símbolos se localizan conforme a los planos a fin de favorecer el montaje del útil, aparejo o arte de que se trate una vez identificado.
+
+CR4.2 Las relingas y costadillos, así como el montaje de los paños y refuerzos sobre ellos en las artes y los elementos que componen los útiles y aparejos se arman, atendiendo a las indicaciones del plano correspondiente, para el ajuste de los mismos.
+
+CR4.3 Los daños, averías o roturas producidos durante el lance en el equipo de pesca se evalúan una vez detectados a fin de buscar los materiales de repuesto y efectuar las reparaciones oportunas para mantener al útil, arte o aparejo deteriorado en condiciones de pesca.
+
+CR4.4 Las mallas averiadas de los paños en las artes se adecuan para el nuevo uso (preparar, limpiar y picar, si procede), comprobando la falta o no de paño, para mantener la capacidad de pesca.
+
+CR4.5 Los elementos dañados de los útiles y aparejos se ajustan, desliando y/o limpiando, si procede, a fin de reparar las averías producidas, siguiendo las especificaciones establecidas y técnicas al uso, para conseguir conservar la misma capacidad pesquera anterior a la avería.
+
+CR4.6 Las composiciones primitivas de los equipos de pesca a utilizar se modifican, siguiendo las indicaciones del capitán o patrón, atendiendo a las prácticas marineras y respetos que se tengan a bordo, para tratar que dicha modificación sea efectiva.
+
+CR4.7 La documentación técnica de los equipos, certificados de garantía, entre otros, se interpreta, si es el caso, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP5: Acondicionar las capturas a partir de operaciones de manipulación, estiba y conservación cumpliendo las normas higiénico-sanitarias y de estiba, para preservar la calidad del producto.
+
+CR5.1 Las capturas se introducen a bordo con ayuda de la tripulación, de tal manera que se eviten riesgos a la misma y daños a las especies, para que el producto llegue a las fases de manipulación y elaboración en el mejor estado posible.
+
+CR5.2 La limpieza y salubridad de la cubierta y el parque de pesca se controlan cumpliendo con las condiciones higiénico-sanitarias aplicables, para beneficiar el estado de conservación de las especies objeto de captura.
+
+CR5.3 La tripulación encargada de procesar, elaborar y clasificar las capturas se distribuye atendiendo a la estructura del parque de pesca y situación de su maquinaria, para que cumpliendo con los criterios de seguridad e higiene, se pueda obtener eficacia y rendimiento.
+
+CR5.4 Los procesos de tratamiento para la conservación de las capturas (tales como manipulación, refrigeración, congelación) se garantizan, atendiendo a las condiciones medioambientales, especies, temperaturas, duración de la marea, entre otras, para que a la vez de cumplir las normas higiénico-sanitarias, se logre la mejor conservación y presentación del producto.
+
+CR5.5 Las capturas se introducen en las neveras y bodegas ya sea cargándolas, distribuyéndolas o estibándolas, siguiendo las instrucciones del capitán o patrón, situando a los marineros de forma que puedan realizarse en el menor tiempo posible, con seguridad y sin dañar al producto para que éste llegue con todas sus propiedades al mercado.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Cabos, cables, mordazas, grilletes, útiles y herramientas utilizadas en las maniobras y las estibas. Maquinillas, molinete, haladores, chigres, grúas, pescantes, pastecas, entre otros, utilizados en las maniobras del buque y en las de pesca. Picadoras, rasquetas, escobas, brochas, pinturas, paños, aceites, grasas, entre otros, utilizados para el mantenimiento y conservación del buque. Paños de red, flotadores, burlones, malletas, esferas, puertas, cables, salabardos, rodillos, calas, cabos, boyas señalizadoras, pelotas, balones, anzuelos, carnadas, entre otros, utilizados para el armamento de útiles, aparejos y artes. Agujas, malleros, calibrador, metro, navajas, tijeras, hilos, paños, cabos, entre otros, utilizados para reparar útiles, aparejos y artes. Elementos de limpieza, guías transportadoras, cuchillos, máquinas limpiadoras y procesadoras, canaletas, mesas, plásticos, cajas, carretillas, entre otros, utilizados en la limpieza del parque de pesca y en la elaboración y estiba de las capturas. Equipos de Protección Individual (EPI).
+
+**Productos y resultados:**
+
+Pertrechos, provisiones, materiales y equipos controlados. Funcionamiento del buque a partir de operaciones de mantenimiento, conservación y guardias, mejorado. Tripulación de acuerdo al sistema de pesca empleado distribuida. Equipo de pesca preparado. Capturas acondicionadas.
+
+**Información utilizada o generada:**
+
+Órdenes del superior. Vocabulario marítimo y pesquero. Libretas y notas para inventario. Instrucciones de mantenimiento y conservación de los equipos de maniobra y seguridad del buque. Catálogos varios de hilos, cables, pinturas, grasas y otros productos. Planos de útiles, aparejos y artes. Información sobre elementos y útiles de limpieza.
+
+**UNIDAD DE COMPETENCIA 3: DISTRIBUIR Y EJECUTAR LOS TRABAJOS DEL PARQUE DE PESCA Y ESTIBA DE LAS CAPTURAS**
+
+**Nivel: 2**
+
+**Código: UC1895_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Comprobar la maquinaria y el estado de limpieza del parque de pesca a fin de que las operaciones puedan desarrollarse con rapidez, seguridad y cumpliendo con la normativa higiénico-sanitaria aplicable.
+
+CR1.1 Los mamparos, techo y suelo del parque de pesca, así como sus luces y conducciones eléctricas y desagües del mismo se revisan limpiando, aislando y probando su funcionamiento, de acuerdo a las normas higiénico-sanitarias aplicables, para que las operaciones de manipulación se realicen con seguridad y sin demoras causadas por obstrucciones.
+
+CR1.2 Las puertas del pantano y de los trancaniles, las cintas transportadoras del parque de pesca, lavadoras y cortadoras, entre otros, se limpian asegurando su funcionamiento, para evitar demoras a la hora de comenzar la manipulación de las capturas.
+
+CR1.3 Las cintas de arrastre, cuchillas y rodillos de las máquinas fileteadoras se adecuan, limpiando, ajustando y comprobando su funcionamiento, teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel bruto de capturas.
+
+CR1.4 Los elementos de limpieza, engrase, ajuste y recambio usados en las operaciones anteriores se depositan próximos al parque de pesca, pero completamente aislados de éste, para garantizar las condiciones higiénico-sanitarias a la hora de efectuar las operaciones de manipulación.
+
+RP2: Distribuir la tripulación en el parque de pesca de acuerdo a las características del mismo, de forma que todas las operaciones de manipulación, se puedan realizar consiguiendo su aprovechamiento y rentabilidad.
+
+CR2.1 La ropa y material de trabajo se reparte a los marineros, una vez comprobado su estado de limpieza y uso, para que en las labores a realizar se cumplan las normas higiénico-sanitarias aplicables.
+
+CR2.2 Los marineros se distribuyen atendiendo a las órdenes del capitán o patrón, de acuerdo a las características del parque de pesca y la situación de las cintas de transporte y máquinas, para que la producción se logre con seguridad, en el mínimo tiempo y con el máximo aprovechamiento.
+
+CR2.3 El lavado, clasificado, cortado, fileteado, entre otros, de las capturas se verifica respetando la normativa pesquera de la zona, para conseguir su máximo aprovechamiento.
+
+CR2.4 El tratamiento de las capturas no deseadas se gestiona clasificándolas, preparándolas, almacenándolas, conservándolas y/o descartándolas, cuando proceda, para obtener los resultados pesqueros.
+
+CR2.5 Los trabajos de empaque de las capturas se controlan en bandejas, cartones, entre otros, así como el número de piezas y peso de las mismas, para conseguir un producto adaptado a la marca que se desea en calidad e higiene.
+
+CR2.6 Los mensajes, expresiones y/u órdenes relativas a las operaciones de manipulación de la pesca se transmiten, si es necesario, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP3: Controlar los procesos de conservación de las capturas según los protocolos establecidos, para que éstas lleguen al mercado en condiciones de calidad.
+
+CR3.1 Los túneles, armarios, cubas o cualquier otro elemento susceptible de ser empleado en el proceso posterior a la manipulación para la conservación de las capturas se adecuan desescarchándolos, limpiándolos o preparándolos, respetando las normas higiénico-sanitarias para conseguir que las capturas que se introduzcan en los mismos, obtengan las cualidades que se proponen en el mínimo tiempo según la especie de la que se trate.
+
+CR3.2 La carga de las capturas se efectúa en los espacios destinados a la congelación o preservación para su posterior conservación, teniendo en cuenta las características de la especie y el espacio del que se trate, para que la pesca llegue al mercado en condiciones de calidad.
+
+CR3.3 Las temperaturas, concentración de sal o cualquier otro factor que perjudique la calidad del producto se controla, informando al superior encargado de cualquier anomalía en los mismos, para evitar un posible deterioro de las capturas.
+
+CR3.4 La descarga de túneles, armarios, entre otros, y los posteriores trabajos de glaseado, encajado, flejeado y marcado se efectúan, previa consulta con el oficial encargado, para conseguir que las capturas lleguen a puerto envasadas y plenamente identificadas.
+
+RP4: Controlar la estiba de las capturas siguiendo las indicaciones de su superior, para evitar el deterioro de las mismas y los riesgos para la estabilidad del buque.
+
+CR4.1 El grado de limpieza de la bodega, escalas, termómetros de ambiente, higrómetros y funcionamiento de los pozos de sentinas se revisan antes de comenzar la carga, informando y reparando cualquier anormalidad, para que la carga pueda efectuarse con las debidas garantías y en condiciones de seguridad.
+
+CR4.2 El estado y sujeciones de las canaletas de conducción de las capturas a las bodegas se comprueban antes de comenzar las operaciones, para evitar atrasos en la estiba y riesgos personales.
+
+CR4.3 Las partidas se colocan con orden y seguridad, estibándolas previamente y salvaguardando la integridad de los marineros que trabajan en la misma y siguiendo las instrucciones del capitán o patrón.
+
+CR4.4 La temperatura, grado de humedad, pequeños corrimientos interiores, entre otros, se controlan diariamente, dando cuenta al superior responsable de cualquier anomalía, para evitar que se puedan producir daños a la carga o al buque.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Elementos de limpieza, luces y tubos, cables eléctricos y material aislante, grasa, cintas transportadoras, lavadoras, cortadoras, cuchillas, rodillos, entre otros, utilizados para mantener en buen estado higiénico y operativo el parque de pesca. Gorros, guantes, mandiletas, botas, cuchillos, plásticos, cajas, entre otros, utilizados en la vestimenta de los manipuladores, y elaboración de los productos pesqueros. Túneles, armarios, cubas, útiles de limpieza, carga y descarga de los mismos, termómetros, densímetros, equipos de glaseado, flejado y marcado, entre otros, utilizados en los procesos de conservación de las capturas. Guías, canaletas, útiles de estiba, girómetros, termómetros, entre otros, utilizados en los procesos de estiba de la carga. Equipos de Protección Individual (EPI).
+
+**Productos y resultados:**
+
+Maquinaria y estado de limpieza del parque de pesca, comprobados. Tripulación en el parque de pesca distribuida. Procesos de conservación de capturas controlados. Estiba de las capturas a realizar vigilada.
+
+**Información utilizada o generada:**
+
+Órdenes del superior. Vocabulario marítimo y pesquero. Información sobre elementos y útiles de limpieza. Instrucciones de mantenimiento y conservación de la maquinaria del parque de pesca. Normas sobre vestimenta y medidas higiénicas. Normas sobre descartes, clasificación y elaboración de las capturas. Libreta de control de las capturas por lance y en bodega. Información sobre la fauna marina protegida afectada por posibles capturas accidentales. Información sobre buenas prácticas para la gestión de capturas accidentales.
+
+**UNIDAD DE COMPETENCIA 4: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA**
+
+**Nivel: 1**
+
+**Código: MF0010_1**
+
+**Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera**
+
+**Duración: 30 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+*CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.*
+
+*CE1.2 En un supuesto práctico de arranche del buque pesquero:*
+
+*- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.*
+
+*- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.*
+
+*CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.*
+
+*CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.*
+
+*CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.*
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+*CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.*
+
+*CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:*
+
+*- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.*
+
+*- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.*
+
+*- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.*
+
+*- El uso de medios de protección personal a bordo.*
+
+*- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.*
+
+*- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.*
+
+*CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.*
+
+*CE2.4 En un supuesto práctico de gobierno del buque pesquero:*
+
+*- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.*
+
+*- Realizar cambios de rumbo utilizando el timón.*
+
+*- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.*
+
+*CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:*
+
+*- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.*
+
+*- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.*
+
+*CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.*
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+*CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.*
+
+*CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:*
+
+*- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.*
+
+*- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.*
+
+*CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).*
+
+*CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.*
+
+*CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.*
+
+*CE3.6 En un supuesto práctico de actividades pesqueras:*
+
+*- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque**
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+**2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino**
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 3 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: LABORES DE PESCA Y CUBIERTA**
+
+**Nivel: 2**
+
+**Código: MF1894_2**
+
+**Asociado a la UC: Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Determinar la recepción, estiba, control y mantenimiento de pertrechos, provisiones y equipos, de forma que garantice el desarrollo de la campaña o marea.
+
+*CE1.1 Interpretar las marcas y señalizaciones externas en los embalajes de los pertrechos, provisiones y equipos, mediante el oportuno control y estiba de los mismos.*
+
+*CE1.2 Indicar las labores de vigilancia a realizar en los pañoles mediante procedimientos que garanticen su aireación y estanqueidad.*
+
+*CE1.3 En un supuesto práctico de cálculo y control de los pertrecho, provisiones y equipos para una campaña o marea determinada, conociendo los consumos semanales aproximados:*
+
+*- Calcular el inventario inicial a la salida a la mar teniendo en cuenta las altas y bajas efectuadas en el mismo hasta el momento de la salida.*
+
+*- Calcular el inventario final al término de la marea o campaña, conociendo la duración posible de la misma.*
+
+*CE1.4 Localizar en un listado de actividades aquellas que son función del contramaestre respecto a la recepción, estiba, control y mantenimiento de pertrechos, provisiones y equipos.*
+
+*CE1.5 Enumerar los elementos que se deben desmontar de los equipos de pesca, describiendo el tratamiento y cuidados a emplear para su conservación.*
+
+C2: Aplicar trabajos de mantenimiento, conservación y guardias en un buque y la manera de efectuarlos con seguridad, de forma que se garantice el funcionamiento de la embarcación.
+
+*CE2.1 Explicar las revisiones a efectuar en la jarcia de labor y su preparación, antes y después de cada maniobra.*
+
+*CE2.2 Enumerar las pruebas y cuidados de mantenimiento a realizar en maquinillas, pastecas, pescantes, entre otros, con objeto de que puedan ser utilizables en todo momento.*
+
+*CE2.3 En un supuesto práctico sobre un trabajo determinado de mantenimiento de la cubierta, indicar las herramientas y material a utilizar, teniendo en cuenta el número de marineros a emplear.*
+
+*CE2.4 En un supuesto práctico, referente al procedimiento del reparto de guardias para una campaña o marea determinada, realizar el reparto de guardias en la mar y en tierra, teniendo en cuenta la tripulación disponible y las instrucciones recibidas.*
+
+*CE2.5 Enumerar las medidas de limpieza que se deben observar en pasillos, comedores, camarotes, entre otros, para cumplir con las normas higiénico-sanitarias aplicables que favorezcan a la convivencia en el buque.*
+
+C3: Explicar la distribución de la tripulación para las maniobras de pesca, atendiendo a las indicaciones del superior y teniendo en cuenta las características de la cubierta, equipo a emplear y condiciones meteorológicas, para que éstas se desarrollen en el mínimo tiempo y con seguridad.
+
+*CE3.1 Enumerar las pruebas a realizar en los elementos fijos y móviles de cubierta que intervienen en las maniobras de pesca, antes del comienzo de las mismas, para que estas puedan realizarse con eficacia.*
+
+*CE3.2 Describir la manera de repasar y colocar los elementos que forman parte del equipo de pesca para las maniobras, teniendo en cuenta las instrucciones recibidas y las características de la cubierta.*
+
+*CE3.3 En un supuesto práctico donde se contemplen el equipo de pesca a utilizar, los tripulantes que intervienen, la distribución de la cubierta y las condiciones meteorológicas, explicar la colocación y función de cada marinero según la maniobra a realizar.*
+
+*CE3.4 Explicar secuencialmente las maniobras de largado, virado u otra cualquiera que pueda producirse durante el lance, indicando el papel del contramaestre en cada una de estas secuencias.*
+
+*CE3.5 En un supuesto práctico de avería de un equipo de pesca recién utilizado, detectar, informar y reparar las averías producidas durante el lance a la vista del mismo.*
+
+C4: Aplicar técnicas de montaje, reparación y modificación en el equipo de pesca, atendiendo a las informaciones de los planos o a instrucciones recibidas, para llevar a cabo las operaciones extractivas.
+
+*CE4.1 Reconocer las partes y elementos que componen el equipo de pesca e interpretar las abreviaturas y símbolos según los usos y costumbres de modo que permitan el montaje del mismo.*
+
+*CE4.2 En un supuesto práctico, a la vista de un plano determinado y con los cabos, paños y demás elementos a utilizar, armar el equipo de pesca que corresponda, empleando las técnicas y nudos al uso.*
+
+*CE4.3 Detectar y evaluar, los daños, averías y roturas producidos durante el lance en el equipo de pesca, mediante observación visual, identificando los materiales y elementos para su reparación.*
+
+*CE4.4 En un supuesto práctico ante un equipo de pesca con roturas y averías, reparar las partes dañadas, conforme las especificaciones y técnicas establecidas, efectuando los cortes, uniones, limpiezas y sustituciones que devuelvan al mismo la capacidad pesquera anterior a la avería.*
+
+*CE4.5 En un supuesto práctico de modificaciones en el equipo de pesca primitivo, contando con unos pertrechos concretos, interpretar y realizar las transformaciones previstas con los materiales y elementos que se encuentren a bordo, que permitan que dicho cambio sea efectivo.*
+
+*CE4.6 Identificar la información técnica exigida para el manejo de un equipo de pesca en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) proveniente de manuales, sabiendo distinguir datos relevantes de información no relevante.*
+
+C5: Aplicar procesos de manipulación, elaboración y conservación de las capturas identificando la normativa higiénico-sanitaria aplicable y cuidando la estiba, de manera que se preserve la calidad del producto y la seguridad de la tripulación y del buque.
+
+*CE5.1 Explicar los trabajos de limpieza a realizar, indicando los productos y materiales que se utilizan en cubierta, parque de pesca, neveras y bodegas, para conseguir la salubridad de dichos espacios.*
+
+*CE5.2 Relacionar el número y colocación de los marineros en el parque de pesca para la elaboración de las capturas, con la estructura del mismo, cantidad y situación de su maquinaria, cintas y mesas, teniendo en cuenta la producción diaria que es posible alcanzar.*
+
+*CE5.3 Indicar las funciones del contramaestre durante las operaciones de descabezado, eviscerado, lavado, cortado/fileteado y empacado, así como en las de refrigerado, congelado y salado.*
+
+*CE5.4 En un supuesto práctico de un proceso de capturas desde su llegada a bordo hasta ser depositadas en el parque de pesca, determinar la mejor posición de los marineros en la carga de neveras y bodegas, realizando la estiba de cajas, bloques o graneles, de acuerdo con las instrucciones recibidas, según las especies y embalajes de que se trate.*
+
+*CE5.5 En un supuesto práctico de un proceso seguido con las capturas desde su llegada a bordo hasta ser depositadas en el parque de pesca, describir la distribución de los marineros y la función del contramaestre, teniendo en cuenta el sistema extractivo concreto, el tipo de buque y el número de marineros que intervienen en las operaciones.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.3 y CE2.4; C3 respecto a CE3.3 y CE3.5; C4 respecto a CE4.2, CE4.4 y CE4.5; C5 respecto a CE5.4 y CE5.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Recepción, control y estiba de pertrechos y materiales**
+
+Marcas y señalizaciones externas.
+
+Normas de aireación y estanqueidad.
+
+Partes de los equipos de pesca susceptibles de ser desmontados.
+
+Jarcia de trabajo.
+
+Equipos fijos y móviles de maniobra.
+
+Herramientas a utilizar en los trabajos de cubierta.
+
+Materiales de limpieza a utilizar en los habitáculos de a bordo.
+
+**2. Guardias en lo relativo a las labores de pesca y cubierta**
+
+Concepto, horarios y trabajos.
+
+**3. Maniobras de pesca en lo relativo a las labores de pesca y cubierta de buques**
+
+Equipos fijos y móviles de cubierta que intervienen en las maniobras.
+
+Características de las maniobras según tipo de pesca (útiles, aparejos, artes).
+
+Medidas de seguridad.
+
+Averías (durante las maniobras, en el transcurso del lance).
+
+**4. Montajes de equipos en parques de pesca y cubierta de buques**
+
+Reconocimiento de los diversos planos.
+
+Nomenclatura de las partes que lo forman.
+
+Montaje y/o modificaciones de los equipos de pesca.
+
+Detección y evaluación de daños y averías.
+
+Reparación.
+
+**5. Manipulación y conservación en lo relativo a las labores de pesca y cubierta de buques**
+
+Cuidados a tener con el pescado a bordo.
+
+Procesamiento del pescado según la especie.
+
+Sistemas de conservación del pescado. Empacado.
+
+Distribución del parque de pesca.
+
+Medidas higiénicas en las zonas de manipulación y conservación: productos a utilizar; forma de empleo; material a utilizar; vestimenta.
+
+Seguridad del personal y de la estiba.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 7 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con distribución y realización de las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos y manipulación de las capturas, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 3: LABORES DE PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: MF1895_2**
+
+**Asociado a la UC: Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas**
+
+**Duración: 90 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Describir los procesos de revisión, pruebas y limpieza del parque de pesca y sus elementos, antes de la llegada de las capturas, para que la elaboración de las mismas pueda realizarse con rapidez y seguridad, cumpliendo con las normas higiénico-sanitarias aplicables.
+
+*CE1.1 Explicar el proceso de revisión en mamparos, iluminación, conducciones eléctricas y desagües del parque de pesca, indicando las medidas a tomar en caso de deficiencias en alguno de estos elementos.*
+
+*CE1.2 Enumerar los puntos a tener en cuenta a efectos de limpieza, en la revisión de las puertas del pantano, trancaniles, cintas transportadoras, lavadoras y cortadoras, conforme a la práctica diaria.*
+
+*CE1.3 Detallar las operaciones a realizar en cuanto a limpieza, ajuste y comprobación, en cintas de arrastre, cuchillas y rodillos, de las máquinas fileteadoras.*
+
+*CE1.4 Identificar los productos y elementos utilizados en las labores de limpieza, engrase, ajuste y recambio, en las operaciones de puesta a punto del parque de pesca.*
+
+*CE1.5 En un supuesto práctico de acondicionamiento de un parque de pesca, limpiar el mismo y sus elementos cumpliendo con las normas higiénico-sanitarias aplicables.*
+
+C2: Determinar la posición de los marineros para llevar a cabo las labores de procesado del pescado, teniendo en cuenta la configuración y maquinaria del parque de pesca, de manera que se puedan realizar las operaciones con seguridad y se consiga su aprovechamiento y rentabilidad, cumpliendo con las normas higiénico-sanitarias aplicables.
+
+*CE2.1 Enumerar las condiciones que deben cumplir la ropa y material de trabajo, según la función a desempeñar.*
+
+*CE2.2 En un supuesto práctico en el que se contemplen la estructura del parque de pesca, el número de marineros de factoría y la captura realizada, explicar dónde ha de situarse cada marinero y cuál debe ser la función de cada uno de ellos, teniendo en cuenta las condiciones contempladas en el supuesto.*
+
+*CE2.3 Elaborar un listado de las misiones del contramaestre de frío, durante los trabajos de manipulación de las capturas, en virtud de sus atribuciones.*
+
+*CE2.4 Describir los tipos de empaque, atendiendo a las características de la especie, recipiente de embalaje y método de conservación.*
+
+*CE2.5 En un supuesto práctico de procesado del pescado, expresarse oralmente en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) en una actividad de posicionamiento de los marineros para llevar a cabo las labores de dicho procesado.*
+
+C3: Aplicar procesos de conservación de las capturas según los protocolos establecidos para obtener el producto final deseado.
+
+*CE3.1 Detallar los procesos de desescarchado, limpieza y preparación, previos a la introducción de las capturas una vez manipuladas, según se trate de túneles, armarios, cubas o cualquier otro habitáculo que pueda utilizarse.*
+
+*CE3.2 Definir la carga y estiba en los habitáculos destinados a la congelación o preservación de las capturas, teniendo en cuenta las características de estos y las de la especie de que se trate.*
+
+*CE3.3 Enumerar las obligaciones del contramaestre respecto al control y vigilancia de temperaturas, densidades de sal o cualquier otro factor que afecta a la buena marcha del proceso.*
+
+*CE3.4 En un supuesto práctico de un parque de pesca, describir la situación y función a realizar por cada marinero, teniendo en cuenta la estructura del mismo, las características y capacidad del habitáculo a descargar, número de marineros y operaciones que se desea realizar con las capturas descargadas antes de introducirlas en la bodega.*
+
+C4: Aplicar procesos de estiba y vigilancia de las capturas hasta la llegada a puerto, indicando las medidas a tomar para evitar el deterioro y corrimiento de las mismas.
+
+*CE4.1 Explicar las revisiones y reparaciones a efectuar, en su caso, antes de comenzar la carga en las bodegas, a fin de asegurar la salubridad de las mismas y el funcionamiento de termómetros, higrómetros y pozos de sentina, para garantizar su conservación.*
+
+*CE4.2 En un supuesto práctico en el que se conoce el camino a seguir por los productos desde el parque de pesca a la bodega, el número y tipo de canaletas a utilizar, el tipo de envase del producto y el número de tripulantes que realizarán las operaciones, indicar la colocación de canaletas y tripulantes para que la carga en la bodega se realice sin riesgos personales y con celeridad.*
+
+*CE4.3 En un supuesto práctico en el que se conoce el estado de carga de la bodega, el producto a cargar (cantidad y tipo de envase) y el número de tripulantes que realizarán la operación, describir la colocación de los marineros y el orden en que se debe efectuar la estiba para que el producto sea transportado con seguridad al buque y en las condiciones exigidas por la normativa aplicable.*
+
+*CE4.4 Enumerar los puntos a vigilar diariamente mediante observación visual, en cuanto a temperatura, humedad, corrimientos, entre otros, de los que se deba informar al superior, para evitar que se produzcan daños al buque o a la carga.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.5; C2 respecto a CE2.2 y CE2.5; C3 respecto a CE3.4; C4 respecto a CE4.2 y CE4.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Preparación del parque de pesca**
+
+Limpieza: productos a utilizar, forma de empleo, útiles y vestimenta.
+
+Iluminación: puntos de luz y conducciones eléctricas.
+
+Desagües y estanqueidad: puertas del pantano y trancaniles.
+
+Máquinas y elementos mecánicos: lavadoras, cortadoras, fileteadoras, despellejadoras, cintas transportadoras, cuchillas, rodillos y elementos de ajuste y engrase.
+
+**2. Manipulación y conservación de las capturas en un parque de pesca**
+
+Manipulación: cuidados a tener con el pescado; procesamiento del pescado según la especie.
+
+Sistemas de empaque y conservación.
+
+Conservación: desescarchado, limpieza y preparación de las capturas; carga, estiba y descarga; control de temperaturas y densidades.
+
+Fauna marina protegida afectada por posibles capturas accidentales.
+
+Buenas prácticas para la gestión de capturas accidentales.
+
+**3. Parque de pesca en lo relativo a las labores a realizar en el mismo**
+
+Distribución de las labores del parque de pesca.
+
+Maquinaria según especie de captura.
+
+**4. Distribución de la bodega del buque**
+
+Limpieza y carga de las mismas.
+
+Elementos de estiba.
+
+Control de temperaturas, humedad y pozos de sentinas.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 10 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la distribución y ejecución de los trabajos del parque de pesca y estiba de las capturas, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 4: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXII de la Orden EFP/63/2021, de 21 de enero. [Ref. BOE-A-2021-1266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1266)
+
+> Se modifica la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.3 de la misma. [Ref. BOE-A-2020-12259](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12259)
+
+## ANEXO DLXXV — **Cualificación profesional: Operaciones de coordinación en cubierta y parque de pesca**
+
+**Familia Profesional: Marítimo - Pesquera**
+
+**Nivel: 2**
+
+**Código: MAP575_2**
+
+**Competencia general**
+
+Distribuir a la tripulación de cubierta del buque y del parque de pesca para ejecutar las órdenes recibidas del superior responsable, coordinando las operaciones de mantenimiento, maniobras, montaje y reparación de artes y aparejos, así como de clasificación, elaboración, y conservación de las especies capturadas y su estiba en las bodegas, observando las normas higiénico-sanitarias y de seguridad aplicables.
+
+**Unidades de competencia**
+
+**UC0010_1:** Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+**UC1894_2:** Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas
+
+**UC1895_2:** Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en buques de pesca, industrias pesqueras, rederías y en plantas industriales dedicadas a la conservación, manipulación de los productos pesqueros, en empresas de cualquier tamaño, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector marítimo-pesquero, y concretamente en las actividades productivas de pesca extractiva. Plantas industriales pesqueras. Industrias auxiliares de la pesca (fábricas de redes, manipulación de productos pesqueros).
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Rederos
+
+Marineros en buques de pesca
+
+Marineros en buques mercantes
+
+Contramaestres de congelación
+
+Contramaestres de pesca
+
+**Formación Asociada** **(300 horas)**
+
+**Módulos Formativos**
+
+**MF0010_1:** Labores de cubierta en buque de pesca (30 horas)
+
+**MF1894_2:** Labores de pesca y cubierta (120 horas)
+
+**MF1895_2:** Labores de parque de pesca (90 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA**
+
+**Nivel: 1**
+
+**Código: UC0010_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+**Productos y resultados:**
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+**Información utilizada o generada:**
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 2: DISTRIBUIR Y EFECTUAR LAS OPERACIONES DE MANTENIMIENTO, MANIOBRAS DE CUBIERTA Y PESCA, MONTAJE Y REPARACIÓN DE ARTES Y APAREJOS, Y MANIPULACIÓN DE LAS CAPTURAS**
+
+**Nivel: 2**
+
+**Código: UC1894_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Controlar los pertrechos, provisiones, materiales y equipos, procediendo a su recepción y estiba, atendiendo a las características del buque y sus pañoles, a fin de garantizar su mantenimiento durante la campaña o marea.
+
+CR1.1 Los pertrechos, provisiones, materiales y equipos se gestionan (recepción, control, almacenado, estibado y organización) en el buque para evitar peligros e incidentes durante la campaña o marea, siguiendo las instrucciones del superior responsable.
+
+CR1.2 Los pañoles de pinturas y cabuyería se controlan diariamente, asegurando el mantenimiento de la aireación y estanqueidad, para evitar posibles incendios o deterioros.
+
+CR1.3 El inventario de los materiales y demás elementos de mantenimiento almacenados en los pañoles se controla, mediante un registro en función de protocolos establecidos durante la campaña o marea, para poder realizar el oportuno pedido a la finalización de la misma.
+
+CR1.4 Las herramientas que se utilizan en el trabajo diario se recepcionan (emisión y entrega) en función de protocolos establecidos, para evitar la pérdida o mal uso de las mismas.
+
+CR1.5 El estado de uso de los equipos de pesca y sus elementos se mantienen, limpiándolos, secándolos, desmontándolos y estibándolos, asegurando que se coloquen en lugares con buena aireación, protegidos del sol y de agentes nocivos para garantizar su conservación.
+
+RP2: Contribuir al funcionamiento del buque a partir de operaciones de mantenimiento, conservación y guardias, colaborando en las maniobras con otros profesionales, observando las normas de seguridad para favorecer el desarrollo de la travesía.
+
+CR2.1 La jarcia de labor (nudos y cuerdas) se prepara después de cada maniobra, revisándola y aclarándola, siguiendo procedimientos marineros al uso, para que esta pueda realizarse con rapidez y seguridad.
+
+CR2.2 Los elementos mecánicos móviles como pescantes, maquinillas, pastecas, chigres, entre otros, se mantienen llevando a cabo la revisión, pruebas y engrases según protocolos establecidos, para garantizar un funcionamiento seguro.
+
+CR2.3 El mantenimiento vinculado con la limpieza, rascado y pintado se distribuye entre la tripulación en función de las zonas de trabajo según las instrucciones del superior, dotándola del material preciso para realizar los trabajos.
+
+CR2.4 Las guardias de mar y puerto se reparten entre la tripulación atendiendo a los horarios y otros trabajos de los mismos, según las instrucciones recibidas, para garantizar la seguridad del buque.
+
+CR2.5 Las «medidas de policía» se controlan garantizado la actividad en pasillos, comedores, camarotes, entre otros, siguiendo las indicaciones del superior responsable, para cumplir las normas higiénicas y de convivencia en el buque.
+
+RP3: Distribuir la tripulación de acuerdo al sistema de pesca empleado, atendiendo a las características de los equipos de cubierta y las condiciones meteorológicas, para que la maniobra pueda realizarse con rapidez y seguridad.
+
+CR3.1 Los elementos fijos y móviles de cubierta que intervienen en las maniobras de pesca se preparan antes del comienzo de las mismas, comprobando su funcionamiento, para evitar posibles retrasos o averías que afecten a los índices de seguridad y eficacia.
+
+CR3.2 El equipo de pesca a utilizar se prepara en cubierta según las órdenes del capitán o patrón, llevando acabo su chequeo para asegurar que la largada se efectúe en el menor tiempo posible y de forma segura.
+
+CR3.3 El personal de cubierta que participa en las maniobras de pesca se destina siguiendo las indicaciones del capitán o patrón, teniendo en cuenta la disposición espacial de la cubierta y las condiciones meteorológicas del momento, para evitar cualquier tipo de accidente.
+
+CR3.4 Las maniobras de largado, virado y cualquier otra que pueda producirse durante el lance, así como la intervención de los marineros en las mismas, se controlan atendiendo a criterios de seguridad y eficacia, para evitar posibles riesgos al personal y al equipo de pesca.
+
+CR3.5 Las anomalías que se puedan detectar en el equipo de pesca, durante y al finalizar la maniobra de virada se comunican de inmediato, para tratar de evitar posibles averías.
+
+RP4: Preparar el equipo de pesca ya sea montándolo o reparándolo de forma que se garantice su funcionalidad para efectuar las capturas.
+
+CR4.1 Las partes que componen los equipos de pesca a utilizar, así como las abreviaturas y símbolos se localizan conforme a los planos a fin de favorecer el montaje del útil, aparejo o arte de que se trate una vez identificado.
+
+CR4.2 Las relingas y costadillos, así como el montaje de los paños y refuerzos sobre ellos en las artes y los elementos que componen los útiles y aparejos se arman, atendiendo a las indicaciones del plano correspondiente, para el ajuste de los mismos.
+
+CR4.3 Los daños, averías o roturas producidos durante el lance en el equipo de pesca se evalúan una vez detectados a fin de buscar los materiales de repuesto y efectuar las reparaciones oportunas para mantener al útil, arte o aparejo deteriorado en condiciones de pesca.
+
+CR4.4 Las mallas averiadas de los paños en las artes se adecuan para el nuevo uso (preparar, limpiar y picar, si procede), comprobando la falta o no de paño, para mantener la capacidad de pesca.
+
+CR4.5 Los elementos dañados de los útiles y aparejos se ajustan, desliando y/o limpiando, si procede, a fin de reparar las averías producidas, siguiendo las especificaciones establecidas y técnicas al uso, para conseguir conservar la misma capacidad pesquera anterior a la avería.
+
+CR4.6 Las composiciones primitivas de los equipos de pesca a utilizar se modifican, siguiendo las indicaciones del capitán o patrón, atendiendo a las prácticas marineras y respetos que se tengan a bordo, para tratar que dicha modificación sea efectiva.
+
+CR4.7 La documentación técnica de los equipos, certificados de garantía, entre otros, se interpreta, si es el caso, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP5: Acondicionar las capturas a partir de operaciones de manipulación, estiba y conservación cumpliendo las normas higiénico-sanitarias y de estiba, para preservar la calidad del producto.
+
+CR5.1 Las capturas se introducen a bordo con ayuda de la tripulación, de tal manera que se eviten riesgos a la misma y daños a las especies, para que el producto llegue a las fases de manipulación y elaboración en el mejor estado posible.
+
+CR5.2 La limpieza y salubridad de la cubierta y el parque de pesca se controlan cumpliendo con las condiciones higiénico-sanitarias aplicables, para beneficiar el estado de conservación de las especies objeto de captura.
+
+CR5.3 La tripulación encargada de procesar, elaborar y clasificar las capturas se distribuye atendiendo a la estructura del parque de pesca y situación de su maquinaria, para que cumpliendo con los criterios de seguridad e higiene, se pueda obtener eficacia y rendimiento.
+
+CR5.4 Los procesos de tratamiento para la conservación de las capturas (tales como manipulación, refrigeración, congelación) se garantizan, atendiendo a las condiciones medioambientales, especies, temperaturas, duración de la marea, entre otras, para que a la vez de cumplir las normas higiénico-sanitarias, se logre la mejor conservación y presentación del producto.
+
+CR5.5 Las capturas se introducen en las neveras y bodegas ya sea cargándolas, distribuyéndolas o estibándolas, siguiendo las instrucciones del capitán o patrón, situando a los marineros de forma que puedan realizarse en el menor tiempo posible, con seguridad y sin dañar al producto para que éste llegue con todas sus propiedades al mercado.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Cabos, cables, mordazas, grilletes, útiles y herramientas utilizadas en las maniobras y las estibas. Maquinillas, molinete, haladores, chigres, grúas, pescantes, pastecas, entre otros, utilizados en las maniobras del buque y en las de pesca. Picadoras, rasquetas, escobas, brochas, pinturas, paños, aceites, grasas, entre otros, utilizados para el mantenimiento y conservación del buque. Paños de red, flotadores, burlones, malletas, esferas, puertas, cables, salabardos, rodillos, calas, cabos, boyas señalizadoras, pelotas, balones, anzuelos, carnadas, entre otros, utilizados para el armamento de útiles, aparejos y artes. Agujas, malleros, calibrador, metro, navajas, tijeras, hilos, paños, cabos, entre otros, utilizados para reparar útiles, aparejos y artes. Elementos de limpieza, guías transportadoras, cuchillos, máquinas limpiadoras y procesadoras, canaletas, mesas, plásticos, cajas, carretillas, entre otros, utilizados en la limpieza del parque de pesca y en la elaboración y estiba de las capturas. Equipos de Protección Individual (EPI).
+
+**Productos y resultados:**
+
+Pertrechos, provisiones, materiales y equipos controlados. Funcionamiento del buque a partir de operaciones de mantenimiento, conservación y guardias, mejorado. Tripulación de acuerdo al sistema de pesca empleado distribuida. Equipo de pesca preparado. Capturas acondicionadas.
+
+**Información utilizada o generada:**
+
+Órdenes del superior. Vocabulario marítimo y pesquero. Libretas y notas para inventario. Instrucciones de mantenimiento y conservación de los equipos de maniobra y seguridad del buque. Catálogos varios de hilos, cables, pinturas, grasas y otros productos. Planos de útiles, aparejos y artes. Información sobre elementos y útiles de limpieza.
+
+**UNIDAD DE COMPETENCIA 3: DISTRIBUIR Y EJECUTAR LOS TRABAJOS DEL PARQUE DE PESCA Y ESTIBA DE LAS CAPTURAS**
+
+**Nivel: 2**
+
+**Código: UC1895_2**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Comprobar la maquinaria y el estado de limpieza del parque de pesca a fin de que las operaciones puedan desarrollarse con rapidez, seguridad y cumpliendo con la normativa higiénico-sanitaria aplicable.
+
+CR1.1 Los mamparos, techo y suelo del parque de pesca, así como sus luces y conducciones eléctricas y desagües del mismo se revisan limpiando, aislando y probando su funcionamiento, de acuerdo a las normas higiénico-sanitarias aplicables, para que las operaciones de manipulación se realicen con seguridad y sin demoras causadas por obstrucciones.
+
+CR1.2 Las puertas del pantano y de los trancaniles, las cintas transportadoras del parque de pesca, lavadoras y cortadoras, entre otros, se limpian asegurando su funcionamiento, para evitar demoras a la hora de comenzar la manipulación de las capturas.
+
+CR1.3 Las cintas de arrastre, cuchillas y rodillos de las máquinas fileteadoras se adecuan, limpiando, ajustando y comprobando su funcionamiento, teniendo en cuenta las normas de seguridad, para garantizar la producción deseada sobre el nivel bruto de capturas.
+
+CR1.4 Los elementos de limpieza, engrase, ajuste y recambio usados en las operaciones anteriores se depositan próximos al parque de pesca, pero completamente aislados de éste, para garantizar las condiciones higiénico-sanitarias a la hora de efectuar las operaciones de manipulación.
+
+RP2: Distribuir la tripulación en el parque de pesca de acuerdo a las características del mismo, de forma que todas las operaciones de manipulación, se puedan realizar consiguiendo su aprovechamiento y rentabilidad.
+
+CR2.1 La ropa y material de trabajo se reparte a los marineros, una vez comprobado su estado de limpieza y uso, para que en las labores a realizar se cumplan las normas higiénico-sanitarias aplicables.
+
+CR2.2 Los marineros se distribuyen atendiendo a las órdenes del capitán o patrón, de acuerdo a las características del parque de pesca y la situación de las cintas de transporte y máquinas, para que la producción se logre con seguridad, en el mínimo tiempo y con el máximo aprovechamiento.
+
+CR2.3 El lavado, clasificado, cortado, fileteado, entre otros, de las capturas se verifica respetando la normativa pesquera de la zona, para conseguir su máximo aprovechamiento.
+
+CR2.4 El tratamiento de las capturas no deseadas se gestiona clasificándolas, preparándolas, almacenándolas, conservándolas y/o descartándolas, cuando proceda, para obtener los resultados pesqueros.
+
+CR2.5 Los trabajos de empaque de las capturas se controlan en bandejas, cartones, entre otros, así como el número de piezas y peso de las mismas, para conseguir un producto adaptado a la marca que se desea en calidad e higiene.
+
+CR2.6 Los mensajes, expresiones y/u órdenes relativas a las operaciones de manipulación de la pesca se transmiten, si es necesario, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP3: Controlar los procesos de conservación de las capturas según los protocolos establecidos, para que éstas lleguen al mercado en condiciones de calidad.
+
+CR3.1 Los túneles, armarios, cubas o cualquier otro elemento susceptible de ser empleado en el proceso posterior a la manipulación para la conservación de las capturas se adecuan desescarchándolos, limpiándolos o preparándolos, respetando las normas higiénico-sanitarias para conseguir que las capturas que se introduzcan en los mismos, obtengan las cualidades que se proponen en el mínimo tiempo según la especie de la que se trate.
+
+CR3.2 La carga de las capturas se efectúa en los espacios destinados a la congelación o preservación para su posterior conservación, teniendo en cuenta las características de la especie y el espacio del que se trate, para que la pesca llegue al mercado en condiciones de calidad.
+
+CR3.3 Las temperaturas, concentración de sal o cualquier otro factor que perjudique la calidad del producto se controla, informando al superior encargado de cualquier anomalía en los mismos, para evitar un posible deterioro de las capturas.
+
+CR3.4 La descarga de túneles, armarios, entre otros, y los posteriores trabajos de glaseado, encajado, flejeado y marcado se efectúan, previa consulta con el oficial encargado, para conseguir que las capturas lleguen a puerto envasadas y plenamente identificadas.
+
+RP4: Controlar la estiba de las capturas siguiendo las indicaciones de su superior, para evitar el deterioro de las mismas y los riesgos para la estabilidad del buque.
+
+CR4.1 El grado de limpieza de la bodega, escalas, termómetros de ambiente, higrómetros y funcionamiento de los pozos de sentinas se revisan antes de comenzar la carga, informando y reparando cualquier anormalidad, para que la carga pueda efectuarse con las debidas garantías y en condiciones de seguridad.
+
+CR4.2 El estado y sujeciones de las canaletas de conducción de las capturas a las bodegas se comprueban antes de comenzar las operaciones, para evitar atrasos en la estiba y riesgos personales.
+
+CR4.3 Las partidas se colocan con orden y seguridad, estibándolas previamente y salvaguardando la integridad de los marineros que trabajan en la misma y siguiendo las instrucciones del capitán o patrón.
+
+CR4.4 La temperatura, grado de humedad, pequeños corrimientos interiores, entre otros, se controlan diariamente, dando cuenta al superior responsable de cualquier anomalía, para evitar que se puedan producir daños a la carga o al buque.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Elementos de limpieza, luces y tubos, cables eléctricos y material aislante, grasa, cintas transportadoras, lavadoras, cortadoras, cuchillas, rodillos, entre otros, utilizados para mantener en buen estado higiénico y operativo el parque de pesca. Gorros, guantes, mandiletas, botas, cuchillos, plásticos, cajas, entre otros, utilizados en la vestimenta de los manipuladores, y elaboración de los productos pesqueros. Túneles, armarios, cubas, útiles de limpieza, carga y descarga de los mismos, termómetros, densímetros, equipos de glaseado, flejado y marcado, entre otros, utilizados en los procesos de conservación de las capturas. Guías, canaletas, útiles de estiba, girómetros, termómetros, entre otros, utilizados en los procesos de estiba de la carga. Equipos de Protección Individual (EPI).
+
+**Productos y resultados:**
+
+Maquinaria y estado de limpieza del parque de pesca, comprobados. Tripulación en el parque de pesca distribuida. Procesos de conservación de capturas controlados. Estiba de las capturas a realizar vigilada.
+
+**Información utilizada o generada:**
+
+Órdenes del superior. Vocabulario marítimo y pesquero. Información sobre elementos y útiles de limpieza. Instrucciones de mantenimiento y conservación de la maquinaria del parque de pesca. Normas sobre vestimenta y medidas higiénicas. Normas sobre descartes, clasificación y elaboración de las capturas. Libreta de control de las capturas por lance y en bodega. Información sobre la fauna marina protegida afectada por posibles capturas accidentales. Información sobre buenas prácticas para la gestión de capturas accidentales.
+
+**UNIDAD DE COMPETENCIA 4: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA**
+
+**Nivel: 1**
+
+**Código: MF0010_1**
+
+**Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera**
+
+**Duración: 30 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+*CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.*
+
+*CE1.2 En un supuesto práctico de arranche del buque pesquero:*
+
+*- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.*
+
+*- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.*
+
+*CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.*
+
+*CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.*
+
+*CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.*
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+*CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.*
+
+*CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:*
+
+*- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.*
+
+*- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.*
+
+*- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.*
+
+*- El uso de medios de protección personal a bordo.*
+
+*- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.*
+
+*- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.*
+
+*CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.*
+
+*CE2.4 En un supuesto práctico de gobierno del buque pesquero:*
+
+*- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.*
+
+*- Realizar cambios de rumbo utilizando el timón.*
+
+*- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.*
+
+*CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:*
+
+*- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.*
+
+*- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.*
+
+*CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.*
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+*CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.*
+
+*CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:*
+
+*- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.*
+
+*- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.*
+
+*CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).*
+
+*CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.*
+
+*CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.*
+
+*CE3.6 En un supuesto práctico de actividades pesqueras:*
+
+*- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque**
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+**2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino**
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 3 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: LABORES DE PESCA Y CUBIERTA**
+
+**Nivel: 2**
+
+**Código: MF1894_2**
+
+**Asociado a la UC: Distribuir y efectuar las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos, y manipulación de las capturas**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Determinar la recepción, estiba, control y mantenimiento de pertrechos, provisiones y equipos, de forma que garantice el desarrollo de la campaña o marea.
+
+*CE1.1 Interpretar las marcas y señalizaciones externas en los embalajes de los pertrechos, provisiones y equipos, mediante el oportuno control y estiba de los mismos.*
+
+*CE1.2 Indicar las labores de vigilancia a realizar en los pañoles mediante procedimientos que garanticen su aireación y estanqueidad.*
+
+*CE1.3 En un supuesto práctico de cálculo y control de los pertrecho, provisiones y equipos para una campaña o marea determinada, conociendo los consumos semanales aproximados:*
+
+*- Calcular el inventario inicial a la salida a la mar teniendo en cuenta las altas y bajas efectuadas en el mismo hasta el momento de la salida.*
+
+*- Calcular el inventario final al término de la marea o campaña, conociendo la duración posible de la misma.*
+
+*CE1.4 Localizar en un listado de actividades aquellas que son función del contramaestre respecto a la recepción, estiba, control y mantenimiento de pertrechos, provisiones y equipos.*
+
+*CE1.5 Enumerar los elementos que se deben desmontar de los equipos de pesca, describiendo el tratamiento y cuidados a emplear para su conservación.*
+
+C2: Aplicar trabajos de mantenimiento, conservación y guardias en un buque y la manera de efectuarlos con seguridad, de forma que se garantice el funcionamiento de la embarcación.
+
+*CE2.1 Explicar las revisiones a efectuar en la jarcia de labor y su preparación, antes y después de cada maniobra.*
+
+*CE2.2 Enumerar las pruebas y cuidados de mantenimiento a realizar en maquinillas, pastecas, pescantes, entre otros, con objeto de que puedan ser utilizables en todo momento.*
+
+*CE2.3 En un supuesto práctico sobre un trabajo determinado de mantenimiento de la cubierta, indicar las herramientas y material a utilizar, teniendo en cuenta el número de marineros a emplear.*
+
+*CE2.4 En un supuesto práctico, referente al procedimiento del reparto de guardias para una campaña o marea determinada, realizar el reparto de guardias en la mar y en tierra, teniendo en cuenta la tripulación disponible y las instrucciones recibidas.*
+
+*CE2.5 Enumerar las medidas de limpieza que se deben observar en pasillos, comedores, camarotes, entre otros, para cumplir con las normas higiénico-sanitarias aplicables que favorezcan a la convivencia en el buque.*
+
+C3: Explicar la distribución de la tripulación para las maniobras de pesca, atendiendo a las indicaciones del superior y teniendo en cuenta las características de la cubierta, equipo a emplear y condiciones meteorológicas, para que éstas se desarrollen en el mínimo tiempo y con seguridad.
+
+*CE3.1 Enumerar las pruebas a realizar en los elementos fijos y móviles de cubierta que intervienen en las maniobras de pesca, antes del comienzo de las mismas, para que estas puedan realizarse con eficacia.*
+
+*CE3.2 Describir la manera de repasar y colocar los elementos que forman parte del equipo de pesca para las maniobras, teniendo en cuenta las instrucciones recibidas y las características de la cubierta.*
+
+*CE3.3 En un supuesto práctico donde se contemplen el equipo de pesca a utilizar, los tripulantes que intervienen, la distribución de la cubierta y las condiciones meteorológicas, explicar la colocación y función de cada marinero según la maniobra a realizar.*
+
+*CE3.4 Explicar secuencialmente las maniobras de largado, virado u otra cualquiera que pueda producirse durante el lance, indicando el papel del contramaestre en cada una de estas secuencias.*
+
+*CE3.5 En un supuesto práctico de avería de un equipo de pesca recién utilizado, detectar, informar y reparar las averías producidas durante el lance a la vista del mismo.*
+
+C4: Aplicar técnicas de montaje, reparación y modificación en el equipo de pesca, atendiendo a las informaciones de los planos o a instrucciones recibidas, para llevar a cabo las operaciones extractivas.
+
+*CE4.1 Reconocer las partes y elementos que componen el equipo de pesca e interpretar las abreviaturas y símbolos según los usos y costumbres de modo que permitan el montaje del mismo.*
+
+*CE4.2 En un supuesto práctico, a la vista de un plano determinado y con los cabos, paños y demás elementos a utilizar, armar el equipo de pesca que corresponda, empleando las técnicas y nudos al uso.*
+
+*CE4.3 Detectar y evaluar, los daños, averías y roturas producidos durante el lance en el equipo de pesca, mediante observación visual, identificando los materiales y elementos para su reparación.*
+
+*CE4.4 En un supuesto práctico ante un equipo de pesca con roturas y averías, reparar las partes dañadas, conforme las especificaciones y técnicas establecidas, efectuando los cortes, uniones, limpiezas y sustituciones que devuelvan al mismo la capacidad pesquera anterior a la avería.*
+
+*CE4.5 En un supuesto práctico de modificaciones en el equipo de pesca primitivo, contando con unos pertrechos concretos, interpretar y realizar las transformaciones previstas con los materiales y elementos que se encuentren a bordo, que permitan que dicho cambio sea efectivo.*
+
+*CE4.6 Identificar la información técnica exigida para el manejo de un equipo de pesca en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) proveniente de manuales, sabiendo distinguir datos relevantes de información no relevante.*
+
+C5: Aplicar procesos de manipulación, elaboración y conservación de las capturas identificando la normativa higiénico-sanitaria aplicable y cuidando la estiba, de manera que se preserve la calidad del producto y la seguridad de la tripulación y del buque.
+
+*CE5.1 Explicar los trabajos de limpieza a realizar, indicando los productos y materiales que se utilizan en cubierta, parque de pesca, neveras y bodegas, para conseguir la salubridad de dichos espacios.*
+
+*CE5.2 Relacionar el número y colocación de los marineros en el parque de pesca para la elaboración de las capturas, con la estructura del mismo, cantidad y situación de su maquinaria, cintas y mesas, teniendo en cuenta la producción diaria que es posible alcanzar.*
+
+*CE5.3 Indicar las funciones del contramaestre durante las operaciones de descabezado, eviscerado, lavado, cortado/fileteado y empacado, así como en las de refrigerado, congelado y salado.*
+
+*CE5.4 En un supuesto práctico de un proceso de capturas desde su llegada a bordo hasta ser depositadas en el parque de pesca, determinar la mejor posición de los marineros en la carga de neveras y bodegas, realizando la estiba de cajas, bloques o graneles, de acuerdo con las instrucciones recibidas, según las especies y embalajes de que se trate.*
+
+*CE5.5 En un supuesto práctico de un proceso seguido con las capturas desde su llegada a bordo hasta ser depositadas en el parque de pesca, describir la distribución de los marineros y la función del contramaestre, teniendo en cuenta el sistema extractivo concreto, el tipo de buque y el número de marineros que intervienen en las operaciones.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.3 y CE2.4; C3 respecto a CE3.3 y CE3.5; C4 respecto a CE4.2, CE4.4 y CE4.5; C5 respecto a CE5.4 y CE5.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Recepción, control y estiba de pertrechos y materiales**
+
+Marcas y señalizaciones externas.
+
+Normas de aireación y estanqueidad.
+
+Partes de los equipos de pesca susceptibles de ser desmontados.
+
+Jarcia de trabajo.
+
+Equipos fijos y móviles de maniobra.
+
+Herramientas a utilizar en los trabajos de cubierta.
+
+Materiales de limpieza a utilizar en los habitáculos de a bordo.
+
+**2. Guardias en lo relativo a las labores de pesca y cubierta**
+
+Concepto, horarios y trabajos.
+
+**3. Maniobras de pesca en lo relativo a las labores de pesca y cubierta de buques**
+
+Equipos fijos y móviles de cubierta que intervienen en las maniobras.
+
+Características de las maniobras según tipo de pesca (útiles, aparejos, artes).
+
+Medidas de seguridad.
+
+Averías (durante las maniobras, en el transcurso del lance).
+
+**4. Montajes de equipos en parques de pesca y cubierta de buques**
+
+Reconocimiento de los diversos planos.
+
+Nomenclatura de las partes que lo forman.
+
+Montaje y/o modificaciones de los equipos de pesca.
+
+Detección y evaluación de daños y averías.
+
+Reparación.
+
+**5. Manipulación y conservación en lo relativo a las labores de pesca y cubierta de buques**
+
+Cuidados a tener con el pescado a bordo.
+
+Procesamiento del pescado según la especie.
+
+Sistemas de conservación del pescado. Empacado.
+
+Distribución del parque de pesca.
+
+Medidas higiénicas en las zonas de manipulación y conservación: productos a utilizar; forma de empleo; material a utilizar; vestimenta.
+
+Seguridad del personal y de la estiba.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 7 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con distribución y realización de las operaciones de mantenimiento, maniobras de cubierta y pesca, montaje y reparación de artes y aparejos y manipulación de las capturas, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 3: LABORES DE PARQUE DE PESCA**
+
+**Nivel: 2**
+
+**Código: MF1895_2**
+
+**Asociado a la UC: Distribuir y ejecutar los trabajos del parque de pesca y estiba de las capturas**
+
+**Duración: 90 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Describir los procesos de revisión, pruebas y limpieza del parque de pesca y sus elementos, antes de la llegada de las capturas, para que la elaboración de las mismas pueda realizarse con rapidez y seguridad, cumpliendo con las normas higiénico-sanitarias aplicables.
+
+*CE1.1 Explicar el proceso de revisión en mamparos, iluminación, conducciones eléctricas y desagües del parque de pesca, indicando las medidas a tomar en caso de deficiencias en alguno de estos elementos.*
+
+*CE1.2 Enumerar los puntos a tener en cuenta a efectos de limpieza, en la revisión de las puertas del pantano, trancaniles, cintas transportadoras, lavadoras y cortadoras, conforme a la práctica diaria.*
+
+*CE1.3 Detallar las operaciones a realizar en cuanto a limpieza, ajuste y comprobación, en cintas de arrastre, cuchillas y rodillos, de las máquinas fileteadoras.*
+
+*CE1.4 Identificar los productos y elementos utilizados en las labores de limpieza, engrase, ajuste y recambio, en las operaciones de puesta a punto del parque de pesca.*
+
+*CE1.5 En un supuesto práctico de acondicionamiento de un parque de pesca, limpiar el mismo y sus elementos cumpliendo con las normas higiénico-sanitarias aplicables.*
+
+C2: Determinar la posición de los marineros para llevar a cabo las labores de procesado del pescado, teniendo en cuenta la configuración y maquinaria del parque de pesca, de manera que se puedan realizar las operaciones con seguridad y se consiga su aprovechamiento y rentabilidad, cumpliendo con las normas higiénico-sanitarias aplicables.
+
+*CE2.1 Enumerar las condiciones que deben cumplir la ropa y material de trabajo, según la función a desempeñar.*
+
+*CE2.2 En un supuesto práctico en el que se contemplen la estructura del parque de pesca, el número de marineros de factoría y la captura realizada, explicar dónde ha de situarse cada marinero y cuál debe ser la función de cada uno de ellos, teniendo en cuenta las condiciones contempladas en el supuesto.*
+
+*CE2.3 Elaborar un listado de las misiones del contramaestre de frío, durante los trabajos de manipulación de las capturas, en virtud de sus atribuciones.*
+
+*CE2.4 Describir los tipos de empaque, atendiendo a las características de la especie, recipiente de embalaje y método de conservación.*
+
+*CE2.5 En un supuesto práctico de procesado del pescado, expresarse oralmente en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) en una actividad de posicionamiento de los marineros para llevar a cabo las labores de dicho procesado.*
+
+C3: Aplicar procesos de conservación de las capturas según los protocolos establecidos para obtener el producto final deseado.
+
+*CE3.1 Detallar los procesos de desescarchado, limpieza y preparación, previos a la introducción de las capturas una vez manipuladas, según se trate de túneles, armarios, cubas o cualquier otro habitáculo que pueda utilizarse.*
+
+*CE3.2 Definir la carga y estiba en los habitáculos destinados a la congelación o preservación de las capturas, teniendo en cuenta las características de estos y las de la especie de que se trate.*
+
+*CE3.3 Enumerar las obligaciones del contramaestre respecto al control y vigilancia de temperaturas, densidades de sal o cualquier otro factor que afecta a la buena marcha del proceso.*
+
+*CE3.4 En un supuesto práctico de un parque de pesca, describir la situación y función a realizar por cada marinero, teniendo en cuenta la estructura del mismo, las características y capacidad del habitáculo a descargar, número de marineros y operaciones que se desea realizar con las capturas descargadas antes de introducirlas en la bodega.*
+
+C4: Aplicar procesos de estiba y vigilancia de las capturas hasta la llegada a puerto, indicando las medidas a tomar para evitar el deterioro y corrimiento de las mismas.
+
+*CE4.1 Explicar las revisiones y reparaciones a efectuar, en su caso, antes de comenzar la carga en las bodegas, a fin de asegurar la salubridad de las mismas y el funcionamiento de termómetros, higrómetros y pozos de sentina, para garantizar su conservación.*
+
+*CE4.2 En un supuesto práctico en el que se conoce el camino a seguir por los productos desde el parque de pesca a la bodega, el número y tipo de canaletas a utilizar, el tipo de envase del producto y el número de tripulantes que realizarán las operaciones, indicar la colocación de canaletas y tripulantes para que la carga en la bodega se realice sin riesgos personales y con celeridad.*
+
+*CE4.3 En un supuesto práctico en el que se conoce el estado de carga de la bodega, el producto a cargar (cantidad y tipo de envase) y el número de tripulantes que realizarán la operación, describir la colocación de los marineros y el orden en que se debe efectuar la estiba para que el producto sea transportado con seguridad al buque y en las condiciones exigidas por la normativa aplicable.*
+
+*CE4.4 Enumerar los puntos a vigilar diariamente mediante observación visual, en cuanto a temperatura, humedad, corrimientos, entre otros, de los que se deba informar al superior, para evitar que se produzcan daños al buque o a la carga.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.5; C2 respecto a CE2.2 y CE2.5; C3 respecto a CE3.4; C4 respecto a CE4.2 y CE4.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Preparación del parque de pesca**
+
+Limpieza: productos a utilizar, forma de empleo, útiles y vestimenta.
+
+Iluminación: puntos de luz y conducciones eléctricas.
+
+Desagües y estanqueidad: puertas del pantano y trancaniles.
+
+Máquinas y elementos mecánicos: lavadoras, cortadoras, fileteadoras, despellejadoras, cintas transportadoras, cuchillas, rodillos y elementos de ajuste y engrase.
+
+**2. Manipulación y conservación de las capturas en un parque de pesca**
+
+Manipulación: cuidados a tener con el pescado; procesamiento del pescado según la especie.
+
+Sistemas de empaque y conservación.
+
+Conservación: desescarchado, limpieza y preparación de las capturas; carga, estiba y descarga; control de temperaturas y densidades.
+
+Fauna marina protegida afectada por posibles capturas accidentales.
+
+Buenas prácticas para la gestión de capturas accidentales.
+
+**3. Parque de pesca en lo relativo a las labores a realizar en el mismo**
+
+Distribución de las labores del parque de pesca.
+
+Maquinaria según especie de captura.
+
+**4. Distribución de la bodega del buque**
+
+Limpieza y carga de las mismas.
+
+Elementos de estiba.
+
+Control de temperaturas, humedad y pozos de sentinas.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 10 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la distribución y ejecución de los trabajos del parque de pesca y estiba de las capturas, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 4: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXIII de la Orden EFP/63/2021, de 21 de enero. [Ref. BOE-A-2021-1266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1266)
+
+> Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.4 de la misma. [Ref. BOE-A-2020-12259](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12259)
+
+## ANEXO DLXXVI — **Cualificación profesional: Documentación pesquera**
+
+**Nivel: 3**
+
+**Código: MAP576_3**
+
+**Competencia general**
+
+Gestionar y coordinar ante las Administraciones competentes las actividades del buque, tanto en puerto como en la mar, relacionadas con los despachos, certificados, seguridad, tripulación y la actividad pesquera y comercial del producto extraído, respetando la normativa aplicable.
+
+**Unidades de competencia**
+
+**UC0010_1:** Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+**UC1896_3:** Gestionar la documentación del buque y de su actividad pesquera durante el viaje y/o marea.
+
+**UC1897_3:** Gestionar la documentación vinculada con el buque como elemento estructural y su seguridad en puerto.
+
+**UC1898_3:** Gestionar la documentación relacionada con la pesca como actividad comercial en puerto.
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en buques dedicados a la pesca extractiva o a las actividades de la acuicultura, en entidades de naturaleza pública o privada, con independencia del tamaño de la empresa, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector marítimo-pesquero y principalmente en los subsectores de la industria pesquera donde se desarrollan procesos de: pesca extractiva y acuicultura.
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Marineros en buques de pesca.
+
+Marineros en buques mercantes.
+
+Administrativos de gestión pesquera.
+
+Despachantes de buques pesqueros.
+
+Responsables técnicos de documentación administrativa de buques pesqueros.
+
+**Formación Asociada** **(450 horas)**
+
+**Módulos Formativos**
+
+**MF0010_1:** Labores de cubierta en buque de pesca (30 horas)
+
+**MF1896_3:** Gestión de la actividad pesquera del buque (90 horas)
+
+**MF1897_3:** Documentación para la gestión del buque (150 horas)
+
+**MF1898_3:** Documentación para la actividad pesquera (120 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA**
+
+**Nivel: 1**
+
+**Código: UC0010_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+**Productos y resultados:**
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+**Información utilizada o generada:**
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 2: GESTIONAR LA DOCUMENTACIÓN DEL BUQUE Y DE SU ACTIVIDAD PESQUERA DURANTE EL VIAJE Y/O MAREA**
+
+**Nivel: 3**
+
+**Código: UC1896_3**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Formalizar los documentos y los trámites administrativos vinculados con el buque, la tripulación y su actividad pesquera durante el viaje y/o marea, según criterios normativos aplicables y jurídicos, con el fin de efectuar los registros y anotaciones exigidos por la empresa naviera.
+
+CR1.1 El autodespacho del buque se realiza en la sección tercera del Rol, según el modelo de Rol de Despachos y Dotación para Buques de Pesca.
+
+CR1.2 Los enroles y desenroles de los tripulantes en el Rol del buque se efectúan conforme a las exigencias de titulación, certificados y reconocimientos establecidos, según las características del buque.
+
+CR1.3 La lista de tripulantes se confecciona conforme a los datos contenidos en el Rol del buque y en la documentación individual de los tripulantes, sean de la nacionalidad del buque o extranjeros, al objeto de presentarlas a las Autoridades que las requieran a la entrada o salida del buque en puerto.
+
+CR1.4 La documentación relativa a la evacuación de tripulantes en la mar por razones de enfermedad, accidente o de otra índole, se cumplimenta atendiendo a las características y necesidades de la misma a fin de programar y agilizar la recepción en tierra.
+
+RP2: Coordinar la gestión administrativa relacionada con la actividad pesquera del buque durante el viaje y/o marea, formalizando los documentos y cumpliendo tanto la normativa pesquera aplicable a nivel de administración, como la establecida por la empresa naviera, para llevar su control efectivo.
+
+CR2.1 Los mensajes de entradas y salidas de las zonas de pesca se elaboran conforme a los modelos establecidos, cursándolos a las autoridades competentes por los medios disponibles, al objeto de dejar constancia del inicio y finalización de la actividad pesquera del viaje o marea.
+
+CR2.2 La suspensión de las actividades pesqueras durante la marea se informa a las autoridades competentes, justificándola documentalmente para deducir los días de pesca no utilizados de la licencia y poder recuperarlos, en su caso, en viajes sucesivos.
+
+CR2.3 En el diario de pesca se anotan, conforme a las disposiciones de la normativa pesquera aplicable, las capturas obtenidas en especie y cantidad de cada lance, así como las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando, siempre que sea posible, el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y en caso de que los ejemplares tuviesen una etiqueta, anilla, o marca (convencional o satélite) deberá anotarse la referencia y número que aparece en dichas marcas, comunicándolo a las administraciones, al objeto de llevar un control efectivo de la actividad.
+
+CR2.4 La documentación requerida por los inspectores pesqueros que visiten el buque durante las faenas de captura se cumplimenta según los registros del diario de pesca, para que éstos comprueben los datos y extiendan el acta de inspección.
+
+RP3: Coordinar la información administrativa generada durante el viaje y/o marea con la establecida por el armador en puerto, atendiendo a la rapidez en la transmisión de la misma y a los medios de comunicación disponibles, para optimizar ésta y la toma de decisiones por parte de la empresa naviera.
+
+CR3.1 La llegada del buque a los puertos designados se informa, enviando con la antelación mínima establecida la documentación relativa a las operaciones a realizar y consignando en la misma, las especies y peso a desembarcar, a fin de que las autoridades pesqueras puedan ejercer las acciones de control oportunas.
+
+CR3.2 Las operaciones de transbordo de pescado entre buques se gestionan en las administraciones competentes del país donde se realicen, presentando la documentación en la que figuren la declaración de las cantidades y especies transbordadas y su destino posterior, a fin de garantizar el control de las capturas.
+
+CR3.3 La declaración de las capturas se remite a la administración pesquera a la llegada del buque a puerto, especificando las cantidades que han de desembarcarse, a fin de conseguir un control efectivo.
+
+CR3.4 El cumplimiento de las disposiciones sobre vedas, cupos y zonas de captura que afecten a la actividad del buque se coordinan con las administraciones competentes y empresa armadora, para evitar la pérdida de días de pesca y optimizar su rentabilidad.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Patente de navegación. Rol de despacho y dotación para buques. Licencia de Navegación para buques. Rol informático. Tarjeta de identificación del buque. Certificado de Navegabilidad. Libreta de Inscripción Marítima. Títulos y Certificados de los tripulantes. Lista de tripulantes. Diario de pesca. Hojas de declaración de capturas. Hojas de manifiesto de carga de pescado. Licencia de pesca. Normativa aplicable sobre vedas, tallas y cuotas de pesca.
+
+**Productos y resultados:**
+
+Documentos y trámites administrativos vinculados con el buque y su tripulación formalizados. Documentos cumplimentados. Actividad e información administrativa relacionada con la actividad pesquera coordinada.
+
+**Información utilizada o generada:**
+
+Reglamento sobre el Despacho de Buques. Convenio Internacional sobre Formación, Titulación y Guardia para la Gente de Mar. Ley de Pesca Marítima del Estado. Censo de Buques de Pesca Marítima. Ley española sobre vedas y tallas mínimas. Leyes de Pesca de los estados en los que faena el buque. Lista de tripulantes. Manifiestos de carga de pescado. Declaración de las capturas. Comunicación al departamento correspondiente sobre capturas mensuales, desembarques y transbordos. Documentos escritos y/o en soporte digital para el control y desarrollo de la actividad pesquera. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 3: GESTIONAR LA DOCUMENTACIÓN VINCULADA CON EL BUQUE COMO ELEMENTO ESTRUCTURAL Y SU SEGURIDAD EN PUERTO**
+
+**Nivel: 3**
+
+**Código: UC1897_3**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Formalizar los documentos vinculados con el Registro Marítimo de Buques, teniendo en cuenta las construcciones, obras o modificaciones, tanto estructurales como de los elementos mecánicos e hidráulicos, entre otros, con el fin de adecuarse a la normativa aplicable.
+
+CR1.1 Los expedientes que conforman el total de construcción del buque (permiso de construcción, botadura, reserva de folio, asignación de distintivo, entre otros) se documentan según criterios temporales y formales, con el fin de cumplir con la normativa aplicable.
+
+CR1.2 Las obras y cambios de motor se ejecutan, previa autorización de la Autoridad Marítima, documentando los expedientes con los requisitos legales establecidos (solicitud de taller, conformidad de propietario, proyecto de obras, justificación de potencia de motor, entre otros) con el fin de preservar la seguridad de la navegación y de la vida humana en la mar.
+
+CR1.3 La inscripción de los actos jurídicos que supongan una modificación, tanto en derechos obligacionales como, en especial, en derechos reales incluidos las cargas y los gravámenes que recaigan sobre el buque se tramita en el Registro Marítimo, atendiendo a criterios normativos para conseguir que las anotaciones registrales entre en Registro de Bienes Muebles y el Registro Marítimo de Buques sean coincidentes.
+
+RP2: Despachar los trámites administrativos relacionados con la Inspección/Certificación del buque y con la Seguridad Marítima, teniendo en cuenta la normativa aplicable para mantener el mismo en condiciones de estabilidad y seguridad y los mares limpios, bajo la supervisión del Capitán.
+
+CR2.1 Los certificados se revisan de forma periódica comprobando si limitan al buque para navegar en determinadas zonas, para cargar pesos en posibles espacios, para llevar a un número máximo de tripulantes, entre otros y, en general para comprobar su período de vigencia.
+
+CR2.2 Las revisiones del buque se solicitan a la Autoridad Marítima con antelación suficiente, teniendo en cuenta las fechas de caducidad de los certificados o períodos de prórroga para mantenerlos vigentes.
+
+CR2.3 Los accidentes o cualquier otro acaecimiento que pueda provocar algún riesgo para la seguridad del buque, de su tripulación, o la contaminación del mar se documentan según criterios normativos, para colaborar con el patrón/armador a notificar los hechos a las Autoridades competentes (parte de accidentes, protesta de averías, entre otros), con el fin de preservar la seguridad de la navegación y de la vida humana en el mar.
+
+CR2.4 La documentación recibida en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) se interpreta, con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP3: Solicitar a trámite los expedientes de los títulos profesionales y certificados de especialidad de la tripulación cumplimentados, teniendo en cuenta los requisitos legales y normativos, para su posterior tramitación y expedición por las Autoridades competentes.
+
+CR3.1 La inscripción marítima de los miembros de la tripulación se solicita ante las Autoridades marítimas, una vez documentada según establece la normativa aplicable, para la obtención de la libreta marítima.
+
+CR3.2 Los días de embarco se formalizan, previa justificación, atendiendo a los modelos preestablecidos, las características del buque y la normativa aplicable para su posterior unión a los expedientes de títulos y/o certificados de especialidad.
+
+CR3.3 Los expedientes de títulos profesionales se documentan, según la normativa aplicable para su posterior tramitación y expedición por las Autoridades competentes.
+
+CR3.4 Los cursos de los certificados de especialidad se programan, y sus expedientes se formalizan ante las Autoridades competentes, según los criterios normativos exigidos a los miembros de la tripulación atendiendo a las características de buque o zona de navegación, para su posterior expedición y registro.
+
+CR3.5 Los distintos tipos de informes se cumplimentan utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP4: Gestionar los expedientes vinculados con el despacho del buque, teniendo en cuenta la normativa aplicable para posibilitar su salida a la mar en el tiempo previsto y de forma segura.
+
+CR4.1 Los requisitos previos (titulación, reconocimiento médico, entre otros) se gestionan con antelación suficiente para permitir el enrole de la tripulación, por el patrón o armador con garantías jurídicas suficientes y la formalización del mismo en la libreta marítima por parte de la Autoridad Marítima.
+
+CR4.2 El expediente del despacho del buque se solicita ante la Autoridad Marítima con antelación suficiente, una vez documentado, previa comprobación de que se cumplen todos los requisitos exigidos por la normativa aplicable, con el fin de obtener una resolución estimatoria del mismo.
+
+CR4.3 Las anotaciones que se practican en el Rol de Despacho y Dotación, como consecuencia de un enrole, un despacho o una escala del buque en puerto se planifican y toman en consideración según criterios legales vigentes, con el fin de colaborar con el patrón o armador a que éstos las formalicen atendiendo a criterios temporales y formales y así, mantener el Rol actualizado.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Hojas de asiento, libros de registro de buques, certificaciones del Registro Mercantil, modelos de resoluciones administrativas, certificados del buque, proyectos de construcción y de obras, notas simples informativas, escrituras notariales, actas de notoriedad, actos de testamentaría, libretas marítimas, tarjetas y títulos profesionales, certificados de especialidad, manuales de gestión de calidad, roles de despacho y dotación, licencias de pesca.
+
+**Productos y resultados:**
+
+Documentos vinculados con el Registro Marítimo de Buques, formalizados. Trámites administrativos relacionados con la Inspección/Certificación del Buque y con la Seguridad Marítima, despachados. Expedientes de los títulos profesionales y certificados de especialidad de la tripulación, cumplimentados y solicitados a trámite. Expedientes vinculados con el despacho del buque, gestionados.
+
+**Información utilizada o generada:**
+
+Libros de registro de buques, tarjetas profesionales y títulos, certificados de especialidad, libreta marítima, rol de despacho y dotación. Normativa aplicable sobre registro de buques, titulaciones, inspección y certificación de buques civiles, resoluciones administrativas. Normativa pesquera, licencias de pesca, resoluciones de cambios de actividad pesquera.
+
+**UNIDAD DE COMPETENCIA 4: GESTIONAR LA DOCUMENTACIÓN RELACIONADA CON LA PESCA COMO ACTIVIDAD COMERCIAL EN PUERTO**
+
+**Nivel: 3**
+
+**Código: UC1898_3**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Despachar ante las autoridades pesqueras competentes localizadas en el puerto, los expedientes vinculados con las ayudas y subvenciones a la pesca, para su gestión y explotación, teniendo en cuenta la normativa aplicable y la actividad comercial de la empresa.
+
+CR1.1 Las ayudas para la construcción y modernización de buques pesqueros se solicitan, una vez documentadas, ante las Autoridades Pesqueras Autonómicas, atendiendo a la normativa aplicable para una explotación eficiente de la actividad empresarial.
+
+CR1.2 Los expedientes de ayuda para paralización temporal o definitiva de la actividad se documentan, según los requisitos establecidos por las autoridades pesqueras competentes, ya sean estatales o autonómicas, para conseguir la subvención que se solicita.
+
+CR1.3 Las subvenciones que establezcan las autoridades pesqueras competentes para actualización de equipos, o mejoras de la actividad pesquera de la empresa (instalación de la caja azul, retiradas del mercado de productos pesqueros o constitución de sociedades mixtas, entre otras) se tramitan, según los criterios establecidos en las bases de la convocatoria, con el fin de adecuarse a las exigencias de la actividad del mercado.
+
+CR1.4 La documentación recibida en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) en el sector se interpreta, a fin de facilitar la tramitación de la misma ante las Autoridades pesqueras.
+
+RP2: Tramitar ante las Autoridades pesqueras competentes, localizadas en el puerto, los expedientes de actividad pesquera (censo de flota, reactivación, compromisos de baja, entre otros) vinculados con la construcción, desguaces, obras o modificación de características y/o elementos principales del buque una vez formalizados, atendiendo a la normativa aplicable, para conseguir el obligado sincronismo entre la actividad de la pesca con la identificación y seguridad del buque.
+
+CR2.1 Las altas, reactivaciones, modificaciones o bajas del censo de flota operativa se tramitan ante la Autoridad pesquera competente, atendiendo a los requisitos establecidos en cada caso para conseguir la catalogación del buque como buque pesquero.
+
+CR2.2 Los expedientes de permisos para la construcción del buque, obras o cambios de motor se tramitan ante las autoridades pesqueras competentes, atendiendo a criterios normativos de esfuerzo pesquero para poder iniciar el posterior expediente ante la Autoridad Marítima por criterios de seguridad de la navegación y de la vida humana en el mar.
+
+CR2.3 Los compromisos de baja se formalizan en presencia de la Autoridad Pesquera competente, con el fin de aportar el buque para una nueva construcción o para realizar obras que supongan un aumento de arqueo.
+
+CR2.4 Los distintos tipos de informes se cumplimentan utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP3: Documentar los expedientes pesqueros relacionados con las licencias de pesca, los cambios de modalidad o autorizaciones especiales para determinadas especies, atendiendo a los requisitos normativos aplicables para la explotación del buque y las pesquerías.
+
+CR3.1 Los reconocimientos de los equipos de pesca se solicitan ante las autoridades pesqueras competentes, en el momento de la construcción del buque o modernización del equipo, para conseguir la expedición del certificado que acredite que el equipo de pesca se ajusta a criterios normativos pesqueros, tanto de esfuerzo como de homologación.
+
+CR3.2 La fijación o cambio del puerto base se solicita, atendiendo tanto a criterios económicos empresariales como normativos y legales, ante las autoridades pesqueras competentes, para conseguir un puerto de base pesquera para el buque.
+
+CR3.3 La expedición de la célula y licencia de pesca se tramita durante la construcción del buque, con antelación suficiente y documentando el expediente con los requisitos exigidos por la normativa pesquera aplicable, para conseguir la licencia pesquera del buque y la posibilidad de que éste sea despachado a la mar para la pesca al finalizar su construcción sin demora.
+
+CR3.4 Los cambios de modalidad de pesca o permisos especiales de pesca para determinadas artes o especies (verdel, anchoa, bonito, entre otros) se solicitan ante las autoridades pesqueras competentes, con antelación suficiente, según criterios normativos aplicables o de oportunidad económica empresarial, con el fin de optimizar la actividad pesquera y permitir el despacho del buque.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Licencias de pesca, roles de despacho y dotación, censo de flota pesquera operativa, modelos de resoluciones administrativas de despacho de buques, células de pesca, diario de pesca de las Comunidades Europeas, libretas marítimas, altas y bajas en la Seguridad Social, copias de asiento, notas simples informativas, información sobre pesca obtenida.
+
+**Productos y resultados:**
+
+Expedientes vinculados con las ayudas y subvenciones a la pesca despachados ante las autoridades pesqueras competentes. Expedientes de actividad pesquera formalizados y tramitados. Expedientes pesqueros relacionados con las licencias de pesca, los cambios de modalidad o autorizaciones especiales para determinadas especies, documentados.
+
+**Información utilizada o generada:**
+
+Normativa marítima y pesquera, rol de despacho y dotación, censo de flota pesquera operativa, diario de pesca de las Comunidades Europeas, libreta marítima, diario de navegación, información sobre esfuerzo pesquero. Registro de capturas.
+
+**UNIDAD DE COMPETENCIA 5: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA**
+
+**Nivel: 1**
+
+**Código: MF0010_1**
+
+**Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera**
+
+**Duración: 30 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+*CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.*
+
+*CE1.2 En un supuesto práctico de arranche del buque pesquero:*
+
+*- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.*
+
+*- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.*
+
+*CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.*
+
+*CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.*
+
+*CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.*
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+*CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.*
+
+*CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:*
+
+*- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.*
+
+*- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.*
+
+*- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.*
+
+*- El uso de medios de protección personal a bordo.*
+
+*- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.*
+
+*- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.*
+
+*CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.*
+
+*CE2.4 En un supuesto práctico de gobierno del buque pesquero:*
+
+*- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.*
+
+*- Realizar cambios de rumbo utilizando el timón.*
+
+*- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.*
+
+*CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:*
+
+*- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.*
+
+*- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.*
+
+*CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.*
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+*CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.*
+
+*CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:*
+
+*- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.*
+
+*- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.*
+
+*CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).*
+
+*CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.*
+
+*CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.*
+
+*CE3.6 En un supuesto práctico de actividades pesqueras:*
+
+*- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque**
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+**2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino**
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 3 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: GESTIÓN DE LA ACTIVIDAD PESQUERA DEL BUQUE**
+
+**Nivel: 3**
+
+**Código: MF1896_3**
+
+**Asociado a la UC: Gestionar la documentación del buque y de su actividad pesquera durante el viaje y/o marea**
+
+**Duración: 90 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Especificar los documentos oficiales utilizados para el enrole de los tripulantes y el autodespacho del buque, de acuerdo a la normativa aplicable, a fin de proceder al despacho del mismo.
+
+*CE1.1 Describir el proceso para efectuar el autodespacho del buque citando las circunstancias en las que se realiza, de acuerdo a la normativa aplicable.*
+
+*CE1.2 Especificar la documentación para el enrole de los tripulantes, de acuerdo a las características del buque atendiendo al cargo que ocupen a bordo, a fin de cumplir con la normativa aplicable.*
+
+*CE1.3 Definir el proceso para la elaboración de la lista de tripulantes, atendiendo a las documentaciones individuales de los mismos, al objeto de informar a las autoridades que las soliciten acerca de la composición de la dotación del buque.*
+
+*CE1.4 Citar la documentación a cumplimentar y el procedimiento para informar al servicio correspondiente, según la práctica habitual, en los casos de evacuación de tripulantes, a fin de conseguir la coordinación en las operaciones.*
+
+C2: Determinar la documentación administrativa relacionada con la actividad pesquera del buque, de acuerdo a la normativa aplicable, para informar y controlar las operaciones del mismo durante el desarrollo de la marea y las operaciones en puerto.
+
+*CE2.1 Describir el proceso para informar a las autoridades del inicio y finalización de la actividad pesquera, según el permiso de pesca y la zona o área de que se trate.*
+
+*CE2.2 Explicar las causas que justifiquen la suspensión de la actividad pesquera en la/s zona/s de pesca asignada/s, conforme a las condiciones de la licencia, a fin de evitar la pérdida de los días no utilizados.*
+
+*CE2.3 Citar la normativa aplicable y forma de efectuar las anotaciones de las capturas en el diario de pesca, de acuerdo a la modalidad de pesca, para llevar registro de las especies y cantidades extraídas.*
+
+*CE2.4 En un supuesto práctico de gestión documental de un buque, anotar en el diario de pesca, conforme a las disposiciones de la normativa pesquera aplicable, potenciales capturas obtenidas en especie y cantidad por lance, así como las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y ejemplares con etiqueta, anilla, o marca (convencional o satélite), referencia y número que aparece en dichas marcas y comunicación a las administraciones.*
+
+C3: Determinar las acciones de índole administrativo a desarrollar, tanto institucionales como empresariales, con el fin de organizar y gestionar las actividades pesqueras del buque.
+
+*CE3.1 Detallar la documentación que ha de enviarse previamente a la entrada del buque en puerto, de acuerdo a la normativa aplicable, para comunicar a las autoridades las operaciones a realizar.*
+
+*CE3.2 En un supuesto práctico de gestión documental de un buque, describir el proceso para gestionar los transbordos de pescado y la documentación que ha de cumplimentarse ante las autoridades del país donde se realice, a fin de obtener las autorizaciones oportunas.*
+
+*CE3.3 Citar los trámites que han de realizarse al entrar el buque en puerto, de acuerdo a la normativa aplicable, con el fin de efectuar la descarga del pescado.*
+
+*CE3.4 En un supuesto práctico de gestión documental de un buque, aplicar la documentación facilitada por los organismos competentes referente a la actividad del buque, según las características del mismo, modalidad, zona y período de pesca.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Gestión de la documentación del buque y de la tripulación**
+
+El buque: naturaleza jurídica.
+
+Propiedad del buque: patente de navegación.
+
+Certificado de navegabilidad.
+
+Certificados de los equipos.
+
+Rol de despacho y dotación.
+
+Rol electrónico.
+
+Tarjeta de identificación del buque.
+
+Licencia de navegación.
+
+Explotación del buque: sus formas.
+
+Sociedades mixtas.
+
+La tripulación: titulaciones exigidas; certificados de formación; reconocimiento médico; libreta de inscripción marítima; documentación personal acreditativa; lista de tripulantes.
+
+**2. Gestión de documentación ante la Administración Pesquera**
+
+Comisariado de Pesca de la Unión Europea.
+
+Ministerio competente con responsabilidades en el área de pesca.
+
+Secretaría General de Pesca Marítima.
+
+Administraciones Autonómicas de Pesca.
+
+Fondo de Regulación y Organización del Mercado de los productos de la pesca y cultivos marinos (FROM).
+
+Instituto Español de Oceanografía.
+
+Instituto de Investigaciones Pesqueras.
+
+Actividad Portuaria: Capitanía Marítima; Autoridad Portuaria; Sanidad Marítima. Aduanas.
+
+Documentos: diario de pesca; anotaciones en el diario de pesca; diario electrónico; licencia de pesca; permisos de pesca; tipos de buques pesqueros; registro de buques pesqueros; censo operativo de buques pesqueros; cambios de modalidad de pesca; plan de pesca; totales admisibles de capturas (TACs); suspensión temporal de la actividad pesquera; declaración de capturas; declaración de transbordo; declaración de descarga; guía de transporte del pescado.
+
+**3. Servicios y comercialización, en lo relativo a la gestión de la documentación del buque y de su actividad pesquera durante el viaje y/o marea**
+
+Cofradías de pescadores.
+
+Organizaciones de productores.
+
+Lonjas de subasta del pescado.
+
+**4. Normativa aplicable a la actividad pesquera durante el viaje y/o marea**
+
+La ordenación pesquera.
+
+Ley de pesca de la Unión Europea.
+
+Ley de pesca marítima del estado: artes mayores y menores.
+
+Normativa aplicable de las Administraciones Autonómicas de Pesca.
+
+Regiones pesqueras del litoral español.
+
+Aguas interiores.
+
+Mar litoral.
+
+Zona contigua.
+
+Zona de seguridad y zona de ejercicios.
+
+Zona económica exclusiva.
+
+Áreas de pesca.
+
+Zonas de pesca.
+
+Aguas internacionales (alta mar).
+
+Períodos de vedas de las especies.
+
+Tallas mínimas permitidas.
+
+La inspección pesquera.
+
+Acuerdos de pesca con otros países.
+
+Legislación marítima: auxilios y salvamentos; el contrato de remolque marítimo; abordajes; hallazgos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la gestión de la documentación del buque y de su actividad pesquera durante el viaje y/o marea, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 3: DOCUMENTACIÓN PARA LA GESTIÓN DEL BUQUE**
+
+**Nivel: 3**
+
+**Código: MF1897_3**
+
+**Asociado a la UC: Gestionar la documentación vinculada con el buque como elemento estructural y su seguridad en puerto**
+
+**Duración: 150 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Elaborar expedientes administrativos vinculados con el Registro Marítimo de Buques, relacionando los documentos que deben conformar esos expedientes.
+
+*CE1.1 Enumerar la normativa aplicable que regula tanto las obras de reforma como los cambios de motor propulsor, teniendo en cuenta el tipo de buque y la obra a realizar.*
+
+*CE1.2 En un supuesto práctico de gestión documental de un buque, redactar la solicitud de cualesquiera de los permisos que conforman el total de construcción de un buque (permiso de construcción, botadura, reserva de folio, entre otros), teniendo en cuenta la personalidad jurídica, tanto del astillero constructor como del titular contratante.*
+
+*CE1.3 En un supuesto práctico de gestión documental de un buque, redactar la solicitud de anotaciones registrales por parte del Registro Marítimo de Buques; así como enumerar los documentos que conforman los expedientes de anotación registral teniendo en cuenta la naturaleza de éste (cambio de propiedad, hipoteca naval, actos de testamentaría, entre otros).*
+
+*CE1.4 En un supuesto práctico de gestión documental de un buque, interpretar la documentación vinculada con la tramitación administrativa recibida en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar, tanto los certificados que debe tener el buque como sus períodos de vigencia y/o prórroga, analizando la normativa aplicable relativa a la inspección y certificación de buques civiles.
+
+*CE2.1 Explicar los certificados que debe tener un buque en función de su actividad.*
+
+*CE2.2 En un supuesto práctico, a la vista de una serie de certificados de un buque, señalar si son todos los certificados que debe llevar, o identificar cuál es el que faltaría en su caso, teniendo en cuenta el tipo de buque; así como explicar si alguno limita al barco para navegar en determinadas zonas, cargar pesos en determinados espacios o cual es el límite máximo de tripulantes que puede tener.*
+
+*CE2.3 En un supuesto práctico, a la vista de una serie de certificados de un buque, determinar cuáles son sus fechas de caducidad y sus períodos de prórroga; así como redactar la solicitud de revisión del buque y equipos para mantenerlos siempre vigentes, teniendo en cuenta los certificados del buque.*
+
+*CE2.4 En un supuesto práctico de gestión documental de un buque, redactar un parte de accidentes o protesta de mar, teniendo en cuenta la relación de hechos relatados por el patrón y los tripulantes.*
+
+C3: Secuenciar el procedimiento de documentación de los expedientes relacionados con los títulos profesionales y certificados de especialidad, analizando la normativa aplicable de títulos profesionales e identificando los exigidos a los miembros de la tripulación, en función del buque y la zona de pesca.
+
+*CE3.1 Citar cuales son los documentos y requisitos para tramitar la expedición de la libreta marítima, teniendo en cuenta la normativa aplicable.*
+
+*CE3.2 En un supuesto práctico de gestión documental de un buque, cumplimentar los modelos preestablecidos de justificación del tiempo de embarco, en función del título a tramitar y de la normativa aplicable.*
+
+*CE3.3 Enumerar los documentos y requisitos para tramitar la expedición/renovación de un título profesional, en función de la normativa aplicable.*
+
+*CE3.4 Exponer cuales son los certificados de especialidad que debe tener cada miembro de la tripulación atendiendo al tipo de barco y el cargo a bordo.*
+
+C4: Redactar documentos y solicitudes, en función de las necesidades de trámite de los procesos administrativos exigidos, analizando la normativa aplicable relativa al despacho del buque y a la actividad pesquera.
+
+*CE4.1 Describir cuales son los requisitos previos exigibles a cada miembro de la tripulación para su enrole y posterior formalización del embarque por la Autoridad Marítima, teniendo en cuenta la normativa aplicable.*
+
+*CE4.2 En un supuesto práctico de gestión documental de un buque, formalizar y cumplimentar los documentos para la tramitación y posterior autorización por la Autoridad Marítima del despacho del buque a la mar, en función de la normativa aplicable.*
+
+*CE4.3 Enumerar cuales son las anotaciones que debe practicar el Capitán/Patrón en el Rol de Despacho y Dotación como consecuencia de un enrole, un despacho o una escala en puerto.*
+
+*CE4.4 En un supuesto práctico de gestión documental de un buque, cumplimentar los distintos tipos de informes utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2, CE1.3 y CE1.4; C2 respecto a CE2.2, CE2.3 y CE2.4; C3 respecto a CE3.2; C4 respecto a CE4.2 y CE4.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Administración Marítima y procedimiento de gestión de la documentación del buque**
+
+Estructura central y periférica.
+
+Funciones y ámbito competencial de la Administración Marítima.
+
+Concepto y naturaleza del procedimiento administrativo.
+
+La Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+**2. Registro de buques, en lo relativo a la gestión de la documentación del buque**
+
+Legislación y procedimiento.
+
+Régimen jurídico aplicable al registro de buques y empresas navieras.
+
+Expedientes de construcción de buques y obras de reforma, cambios de motor, expedientes de anotaciones registrales de derechos reales, entre otros.
+
+**3. Despacho de buques, en lo relativo a la gestión de la documentación**
+
+Concepto.
+
+Convenio internacional IMO-FAL de Facilitación del Tráfico Marítimo.
+
+Normativa de aplicación al despacho de buques y enrole y desenrole de la tripulación.
+
+El Rol de Despacho y Dotación: funciones y modo de uso y cumplimentación.
+
+**4. Titulaciones Marítimas, en lo relativo a la documentación para la gestión del buque**
+
+El Convenio Internacional sobre normas de Formación, Titulación y Guardia para la Gente de Mar (STCW/78/95).
+
+Normativa nacional aplicable a las titulaciones marítimas (mercantes, pesqueros y de recreo).
+
+Atribuciones de las titulaciones marítimas.
+
+El refrendo de las titulaciones marítimas.
+
+El Convenio Internacional sobre normas de Formación, Titulación y Guardia para Pescadores (STCW-F/78/95).
+
+**5. Inspección y certificación de buques**
+
+Funciones, tipos de inspecciones.
+
+Normativa aplicable a las inspecciones y certificación de los buques.
+
+**6. La seguridad y contaminación marina**
+
+Convenio Internacional MARPOL 73/78.
+
+Concepto y tipos de averías: la Protesta de Mar.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la gestión de la documentación vinculada con el buque como elemento estructural y su seguridad en puerto, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 4: DOCUMENTACIÓN PARA LA ACTIVIDAD PESQUERA**
+
+**Nivel: 3**
+
+**Código: MF1898_3**
+
+**Asociado a la UC: Gestionar la documentación relacionada con la pesca como actividad comercial en puerto**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Redactar los documentos y explicar el proceso de documentación de un expediente administrativo, analizando la normativa pesquera relacionada con las ayudas y subvenciones a la pesca para la posterior recepción de las ayudas sin demora.
+
+*CE1.1 Describir cuáles son los documentos para formalizar y solicitar ante la Autoridad pesquera competente ayudas por paralización temporal o definitiva de la actividad, teniendo en cuenta la normativa aplicable.*
+
+*CE1.2 En un supuesto práctico de gestión documental en un buque, documentar un expediente de solicitud de ayudas para la construcción y modernización de un buque pesquero, teniendo en cuenta los requisitos normativos aplicables.*
+
+*CE1.3 En un supuesto práctico de solicitud de subvenciones para un buque, explicar cuáles son los documentos necesarios para la posterior tramitación de un expediente para la Autoridad pesquera competente, en función del tipo de ayuda solicitada y atendiendo a criterios normativos aplicables.*
+
+*CE1.4 En un supuesto práctico de gestión documental, cumplimentar los distintos tipos de informes utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Cumplimentar expedientes vinculados con la construcción, desguaces, obras y modificación de las características del buque, redactando los documentos que los conforman en función de la normativa aplicable sobre actividad pesquera.
+
+*CE2.1 Enumerar los trámites y documentos para solicitar ante la Autoridad pesquera competente las altas, reactivaciones o bajas del censo de flota pesquera operativa, en función de la normativa aplicable.*
+
+*CE2.2 En un supuesto práctico de gestión documental en un buque, formalizar y documentar un expediente de permiso para la construcción, obras o cambios de motor, teniendo en cuenta los requisitos normativos aplicables, para su posterior tramitación por la Autoridad pesquera en el ámbito de su competencia.*
+
+*CE2.3 Exponer cuál es el procedimiento a seguir para formalizar un compromiso de baja, y especificar ante qué autoridad hay que realizarlo, teniendo en cuenta la normativa aplicable y el tipo de expediente.*
+
+C3: Cumplimentar expedientes a partir de la formalización de los documentos que los conforman vinculados con la explotación del buque y las pesquerías, interpretando los requisitos normativos aplicables relativos a los mismos.
+
+*CE3.1 Describir el procedimiento a seguir para solicitar y tramitar ante la Autoridad pesquera competente la expedición del certificado del equipo de pesca, teniendo en cuenta los requisitos normativos aplicables y el equipo de pesca montado a bordo.*
+
+*CE3.2 Exponer el procedimiento para solicitar la fijación o cambio del puerto base, teniendo en cuenta las autoridades competentes para su tramitación y según criterios, tanto económico empresariales como normativos.*
+
+*CE3.3 En un supuesto práctico de gestión documental en un buque, documentar un expediente de solicitud de la célula y la licencia de pesca del buque teniendo en cuenta la normativa aplicable y el momento temporal de la construcción del barco.*
+
+*CE3.4 Enumerar cuáles son los documentos y los trámites de carácter administrativo para solicitar un cambio de modalidad de pesca o un permiso especial para determinadas especies o artes, teniendo en cuenta tanto criterios normativos como de oportunidad económica con el fin de optimizar la actividad pesquera del buque.*
+
+*CE3.5 En un supuesto práctico de gestión documental en un buque, cumplimentar los distintos tipos de informes utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2, CE1.3 y CE1.4; C2 respecto a CE2.2; C3 respecto a CE3.3 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. La Administración pesquera y gestión de documentación relacionada con la pesca como actividad comercial en puerto**
+
+La Unión Europea: estructura y normas comunitarias que regulan la actividad del sector pesquero.
+
+La Administración General del Estado: estructura y competencias.
+
+Las Comunidades Autónomas: organización y distribución competencial.
+
+**2. La gestión de las actividades pesqueras como actividad comercial en puerto**
+
+La pesca marítima: ámbito de aplicación; medidas de conservación, protección y regeneración de los recursos pesqueros.
+
+Requisitos generales: el censo de buques de pesca marítima. Las autorizaciones de pesca.
+
+Requisitos específicos: cambio temporal de actividad. Permiso especial de pesca. Censos específicos.
+
+Documentos y comunicaciones relativas a la gestión de la actividad pesquera.
+
+El diario de pesca y las declaraciones de desembarque y transbordo.
+
+**3. Agentes del sector pesquero**
+
+Cofradías de pescadores y las organizaciones de productores.
+
+**4. Flota pesquera y gestión de la documentación relacionada con la pesca como actividad comercial en puerto**
+
+Programas de construcción, modernización y reconversión.
+
+Paralización definitiva y temporal de buques pesqueros.
+
+Requisitos para establecimientos y cambios de puertos base. Concepto de puerto de desembarque y primera venta.
+
+La comercialización y transformación de productos pesqueros.
+
+Gestión de ayudas y subvenciones en el sector pesquero como actividad comercial en puerto: concepto y tipos de ayudas.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la gestión de la documentación relacionada con la pesca como actividad comercial en puerto, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 5: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXIV de la Orden EFP/63/2021, de 21 de enero. [Ref. BOE-A-2021-1266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1266)
+
+> Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.5 de la misma. [Ref. BOE-A-2020-12259](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12259)
+
+## ANEXO DLXXVII — **Cualificación profesional: Observación de la actividad y control de las capturas de un buque pesquero**
+
+**Nivel: 3**
+
+**Código: MAP577_3**
+
+**Competencia general**
+
+Registrar e informar sobre la actividad, controlando la posición del buque, la utilización de las artes de pesca y las capturas realizadas, así como elaborando los informes necesarios para el seguimiento científico de la pesquería de referencia.
+
+**Unidades de competencia**
+
+**UC0010_1:** Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+**UC1899_1:** Comprobar la posición del buque y establecer comunicaciones marítimas
+
+**UC1900_3:** Comprobar, registrar e informar las actividades pesqueras de un buque, en un caladero determinado
+
+**UC1901_3:** Controlar las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación
+
+**UC0733_1:** Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+**Entorno Profesional**
+
+**Ámbito Profesional**
+
+Desarrolla su actividad profesional en buques pesqueros que faenan en aguas sometidas a regulación pesquera, en entidades de naturaleza pública o privada, empresas de tamaño mediano o grande, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+**Sectores Productivos**
+
+Se ubica en el sector marítimo-pesquero, y concretamente en las áreas donde se desarrollan actividades de pesca extractiva en zonas reguladas.
+
+**Ocupaciones y puestos de trabajo relevantes**
+
+*Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.*
+
+Observadores de buques de pesca
+
+Muestreadores de lonjas
+
+Encargados de recepción de planta de productos pesqueros
+
+Marineros en buques de pesca
+
+Marineros en buques mercantes
+
+**Formación Asociada** **(390 horas)**
+
+**Módulos Formativos**
+
+**MF0010_1:** Labores de cubierta en buque de pesca (30 horas)
+
+**MF1899_1:** Posición del buque y comunicaciones marítimas (90 horas)
+
+**MF1900_3:** Capacitación pesquera (90 horas)
+
+**MF1901_3:** Control de la actividad pesquera de un buque (120 horas)
+
+**MF0733_1:** Seguridad y primeros auxilios a bordo (60 horas)
+
+**UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA**
+
+**Nivel: 1**
+
+**Código: UC0010_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+**Productos y resultados:**
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+**Información utilizada o generada:**
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 2: COMPROBAR LA POSICIÓN DEL BUQUE Y ESTABLECER COMUNICACIONES MARÍTIMAS**
+
+**Nivel: 1**
+
+**Código: UC1899_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Determinar la posición del buque para identificar su localización registrando los datos de sondas, tipos de fondo, entre otros, teniendo en cuenta las cartas de navegación y equipos a bordo, durante las operaciones de pesca.
+
+CR1.1 Las informaciones que figuran en las cartas convencionales y electrónicas (escalas, signos y abreviaturas, entre otras) se interpretan atendiendo a las publicaciones náuticas editadas, con el fin de ser tenidas en cuenta durante la faena del buque en la zona de pesca regulada.
+
+CR1.2 Los útiles que se emplean para trabajar en las cartas de navegación se manejan, siguiendo procedimientos náuticos para determinar rumbos, posiciones del buque, distancias, sondas, entre otros, de interés en el intervalo del lance.
+
+CR1.3 Los rumbos, distancias y situaciones del buque se determinan en las cartas de navegación, de acuerdo con los criterios y procedimientos náuticos establecidos, para registrar y constatar las posiciones y maniobras del buque desde el inicio hasta el final de la faena.
+
+RP2: Comprobar la situación del buque cuando se encuentre faenando para verificar su posicionamiento, mediante los sistemas de radionavegación, vía satélite o sistema de registro automático a distancia.
+
+CR2.1 Las líneas de posición de los equipos de radionavegación se obtienen a bordo del buque, teniendo en cuenta las características técnicas de los mismos, para calcular su situación.
+
+CR2.2 La información de los equipos de posicionamiento vía satélite o de registro automático a distancia se obtiene, según el manejo y funcionamiento de los mismos, con el fin de determinar la posición del buque.
+
+CR2.3 La situación del buque obtenida de los equipos de posicionamiento de radionavegación, vía satélite o de registro automático a distancia se traslada a la carta de navegación, siguiendo procedimientos náuticos.
+
+RP3: Operar con los equipos y sistemas de comunicación del buque, según protocolos establecidos, para establecer comunicaciones y enviar todo tipo de informes.
+
+CR3.1 Los equipos de comunicaciones del buque se manejan, siguiendo la información de los manuales y las características técnicas de los mismos, con el fin de garantizar su establecimiento.
+
+CR3.2 Las comunicaciones entre el observador científico y la Administración competente se establecen, de acuerdo con el Reglamento Internacional de Radiocomunicaciones, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), para informar de la actividad pesquera del buque.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Material náutico: cartas de navegación, cartas electrónicas, escuadra, cartabón, reglas paralelas, lupa, transportador náutico, material de oficina. Instrumentos de navegación y equipos de posicionamiento: compás magnético y giroscópico, radar, gonio, sonda, corredera, G.P.S. (Sistema de Posicionamiento Global), plotter. Sistema de registro automático a distancia. Equipos de comunicaciones, cartas del tiempo, cartas batimétricas, anemómetro, correntímetro. Simulador de navegación con equipos electrónicos para realizar ejercicios en cartas convencionales y electrónicas. Simulador de comunicaciones. Calculadora científica no programable y/o tablas náuticas.
+
+**Productos y resultados:**
+
+Posición del buque determinada. Datos de sondas y tipos de fondo registrados. Situación del buque cuando se encuentre faenando comprobada. Equipos y sistemas de comunicación del buque operativos.
+
+**Información utilizada o generada:**
+
+Cartas de navegación y electrónicas. Símbolos y abreviaturas empleadas en las cartas náuticas españolas y su correspondiente en el lenguaje normalizado de la Organización Marítima Internacional (OMI). Manuales de manejo y funcionamiento de los equipos de posicionamiento del buque y de comunicaciones. Reglamento Internacional de Radiocomunicaciones Marítimas. Informes sobre el desarrollo de la actividad pesquera relativa a las posiciones del buque, sondas, tipos de fondo, entre otros, durante la campaña en la zona de pesca regulada. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Cartas de corrientes, pilots charts.
+
+**UNIDAD DE COMPETENCIA 3: COMPROBAR, REGISTRAR E INFORMAR LAS ACTIVIDADES PESQUERAS DE UN BUQUE, EN UN CALADERO DETERMINADO**
+
+**Nivel: 3**
+
+**Código: UC1900_3**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Verificar la operatividad de los equipos de captura utilizados a bordo del buque para garantizar la actividad pesquera, según la especialidad y la zona de intervención.
+
+CR1.1 Las artes utilizadas para las capturas se revisan, comprobando sus características técnicas (geometría, materiales de fabricación, dimensiones, entre otras), a efectos de determinar su impacto potencial y su selectividad.
+
+CR1.2 Los aparejos calados en las zonas de trabajo se revisan, comprobando sus características técnicas (geometría, materiales de fabricación, dimensiones, entre otras), a efectos de determinar su impacto potencial y su selectividad.
+
+CR1.3 Los útiles de pesca para capturas de especies determinadas se revisan, comprobando sus características técnicas (geometría, materiales de fabricación, dimensiones, entre otras), a efectos de determinar su impacto potencial y su selectividad.
+
+RP2: Comprobar las entradas diarias de información sobre la actividad en los cuadernos de pesca y de producción, mediante el factor de conversión empleado por el Patrón, contrastándolo con datos de otras fuentes para estimar la captura en peso vivo de las especies comerciales.
+
+CR2.1 Los diarios de pesca de a bordo se comprueban cada jornada, contrastando los datos que constan en los mismos con las anotaciones en poder del observador, para verificar la fiabilidad de los datos en él reflejados.
+
+CR2.2 Los espacios de bodega se cubican a menudo según las técnicas al uso, teniendo en cuenta los planos de la bodega y los factores de estiba y conversión de las especies pesqueras depositadas en ella, para comparar la relación entre las capturas y la ocupación de bodega.
+
+RP3: Interpretar la información meteorológica y oceanográfica, tanto la observada como la recibida a través de los equipos electrónicos una vez descifrada, según protocolos medioambientales, para garantizar la actividad pesquera sin incidentes.
+
+CR3.1 La representación del fondo de la mar (líneas isobáticas, cartas batimétricas, cartas litológicas, entre otras) se maneja con los medios disponibles a bordo, para identificar el lugar donde se calan las artes de pesca.
+
+CR3.2 Las variables meteorológicas, así como el estado de viento y mar se miden con los equipos disponibles a bordo, para obtener la información del tiempo presente y su eventual influencia sobre la calada de las artes de pesca.
+
+CR3.3 La existencia y la influencia de las corrientes, tanto las de superficie como las de fondo, se obtienen por medio de los equipos y las cartas al uso para determinar la posición de la calada de las artes de pesca.
+
+CR3.4 La previsión sinóptica del estado de la mar se determina por medio del Fetch y su persistencia, valorando, además, la relación entre la intensidad del viento y de la mar, todo ello para ser tenido en cuenta a la hora de mantener la posición de la calada de los aparejos.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Ropa de Trabajo. Elementos de los equipos de pesca: útiles, aparejos o artes a utilizar. Calibradores, malleros, metro, cinta métrica. Básculas, cámaras, calculadoras. Cajas, marcas y embalajes. Libretas de control de capturas y de ocupación de bodegas. Cartas de pesca. Equipos electrónicos utilizados para la pesca.
+
+**Productos y resultados:**
+
+Operatividad de los equipos de captura verificados. Entradas diarias en los cuadernos de pesca y de producción comprobadas. Información meteorológica y oceanográfica descifrada e interpretada.
+
+**Información utilizada o generada:**
+
+Vocabulario marítimo pesquero y técnico. Planos de bodegas. Planos de útiles, aparejos y artes. Normativa aplicable pesquera de la zona. Tablas de factores de conversión y estiba. Catálogos y bibliografía de especies pesqueras. Cuadernos de pesca y producción. Licencias y permisos de pesca. Documentación técnica especifica.
+
+**UNIDAD DE COMPETENCIA 4: CONTROLAR LAS CAPTURAS DEL BUQUE Y EL CUMPLIMIENTO DE LA NORMATIVA PESQUERA EN LA ZONA SOMETIDA A REGULACIÓN**
+
+**Nivel: 3**
+
+**Código: UC1901_3**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Determinar el esfuerzo pesquero a que se somete la pesquería en la zona regulada para garantizar la gestión del área controlando especialmente las especies capturadas.
+
+CR1.1 La captura se controla a partir de su composición específica (especie, tamaño, entre otros), para calcular el peso total de la misma en cada operación de pesca.
+
+CR1.2 La información recopilada se registra en función del tipo de arte o aparejo utilizado, según protocolo establecido, para calcular el esfuerzo pesquero (tiempo utilizado, tamaño y cantidad de equipamiento, tamaño del buque, caballos de potencia de los motores, consumo combustible, mano de obra).
+
+CR1.3 La información referente a datos de capturas y esfuerzo se registra, en base a las directrices del formato existente, para la posterior elaboración de resultados.
+
+CR1.4 Los datos de captura se verifican, teniendo en cuenta las informaciones recibidas y el control de los desembarcos, para su posterior corrección, en caso necesario.
+
+RP2: Controlar los descartes y las capturas accesorias (bycatch) que se produzcan, registrando las causas que dan lugar a ello, para determinar la cantidad de pesca real obtenida.
+
+CR2.1 La composición de los descartes se registra teniendo en cuenta los protocolos establecidos, para determinar las especies rechazadas, considerando las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando, siempre que sea posible, el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y en caso de que los ejemplares tuviesen una etiqueta, anilla, o marca (convencional o satélite) deberá anotarse la referencia y número que aparece en dichas marcas, comunicándolo a las administraciones.
+
+CR2.2 El encuentro fortuito con ecosistemas marinos vulnerables se registra según los protocolos establecidos para comunicar el impacto potencial de las actividades pesqueras.
+
+CR2.3 Las especies pesqueras sometidas a control y previamente identificadas se registran a través de un formulario, conforme a los protocolos de pesca, para disponer de un registro de capturas por especie y por lance de pesca.
+
+CR2.4 Los descartes de especies pesqueras, cuando se dan procesos de elaboración, se estiman utilizando factores de conversión para obtener el peso vivo.
+
+RP3: Determinar la composición en longitud (o en peso) de las especies comerciales y sus parámetros poblacionales a partir de la obtención de muestras biológicas para identificar las características del área/zona donde se desarrolla la actividad.
+
+CR3.1 El material y los útiles de muestreo se seleccionan, en función del tipo de ejemplares a obtener y de las especies pesqueras elegidas, para asegurar la eficacia del proceso.
+
+CR3.2 Los muestreos de tallas se ejecutan, siguiendo los protocolos establecidos, para proporcionar información sobre la composición en longitud (o en peso) de las especies pesqueras que habitan en el área de trabajo.
+
+CR3.3 Las muestras relativas a las especies pesqueras se conservan, una vez recogidas, en función de las necesidades que se establezcan, para determinar los parámetros poblacionales.
+
+RP4: Medir las variables ambientales y ecológicas para su posterior registro como sistema de protección a la biodiversidad, teniendo en cuenta el medio marino en el que interactúan.
+
+CR4.1 La presencia de especies sensibles (mamíferos, aves, reptiles, entre otros) se detecta en el área de pesca a través de sistemas de observación visual y teniendo en cuenta la información suministrada en mapas indicativos de zonas de asentamiento, adoptando medidas de prevención para evitar infringir molestias que deterioren su hábitat.
+
+CR4.2 Las variables ambientales tales como temperatura, conductividad (salinidad), transparencia, entre otras, se miden utilizando sensores, correntímetros y termómetros, así como interpretando datos obtenidos a partir de sistemas de comunicación (satélites, entre otros) y mapas para definir la situación del medio marino en el momento en que se realiza la observación científica.
+
+CR4.3 Las variables ecológicas relativas a especies sensibles tales como mamíferos, aves, reptiles, entre otros, se miden según criterios de edad, tamaño, comunidad, convivencia de especies en un mismo espacio, temporalidad, alimentación, entre otros, para comprobar el mantenimiento de la zona de pesca sin deterioros.
+
+CR4.4 Los datos obtenidos (variables ambientales y ecológicas) se registran según formato documental y/o informático establecido por las autoridades competentes para garantizar la trazabilidad.
+
+RP5: Enviar informes periódicos sobre la actividad pesquera, según formatos determinados, con la finalidad de que la organización gestora tenga un conocimiento inmediato sobre las operaciones de la flota en las aguas de su competencia jurisdiccional.
+
+CR5.1 La información con la organización gestora se intercambia, teniendo en cuenta los protocolos de comunicación existentes a bordo de los buques, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), para notificar el desarrollo de las actividades pesqueras.
+
+CR5.2 Los datos relativos a la actividad pesquera se transmiten a la organización gestora, teniendo en cuenta el esquema de notificaciones, para informar sobre la actividad del buque.
+
+CR5.3 La comunicación con los servicios de inspección y vigilancia se establece, siguiendo protocolos determinados, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), para una comprobación exhaustiva del cumplimiento de la normativa pesquera.
+
+RP6: Elaborar el informe final de resultados obtenidos durante el periodo de observación científica de la actividad pesquera, teniendo en cuenta los modelos predefinidos, para comprobar el cumplimiento de las medidas de conservación y ejecución.
+
+CR6.1 La información obtenida de la actividad pesquera se administra, teniendo en cuenta programas informáticos específicos, para el registro de los resultados.
+
+CR6.2 Los datos sobre la actividad pesquera tratados a través de medios informáticos se evalúan, según lo establecido en los protocolos específicos, para llevar a cabo la elaboración del informe final.
+
+CR6.3 El informe final se elabora, teniendo en cuenta las instrucciones de la organización gestora y la supervisión de los superiores científicos del observador, para la comprobación del cumplimiento de la metodología aplicable al área en que se ha realizado la actividad.
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Ropa de trabajo (guantes, mandiletas, botas, gorro, ropa de aguas, casco, entre otros), material de disección (cuchillos, tijeras y pinzas de disección), estadillos, ictiómetros, cinta métrica, calibres, mallero, básculas, pesolas, recipientes, líquidos y/o reactivos conservantes. Equipos de extracción, muestreo y conservación de especies/muestras. Equipo informático y programas específicos. Máquina fotográfica. Prismáticos.
+
+**Productos y resultados:**
+
+Capturas de especies comerciales observadas y estimadas y esfuerzo pesquero determinado. Descartes y capturas accesorias (bycatch) controlados. Parámetros poblacionales determinados y muestras biológicas obtenidas. Variables ambientales y ecológicas medidas. Informes periódicos enviados y comunicaciones establecidas. Informe final de resultados obtenidos durante el periodo de observación de la actividad pesquera elaborados.
+
+**Información utilizada o generada:**
+
+Vocabulario pesquero. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Glosario de términos. Biología de las especies y estado de los stocks. Manual del observador. Bibliografía para la identificación de especies. Protocolos de muestreo. Normativa aplicable pesquera. Órdenes impartidas por el responsable del programa de observación. Plan de protección y conservación de especies. Directrices sobre la protección de los ecosistemas marinos vulnerables. Documentación técnica específica. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**UNIDAD DE COMPETENCIA 5: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO**
+
+**Nivel: 1**
+
+**Código: UC0733_1**
+
+**Realizaciones profesionales y criterios de realización:**
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contexto profesional:**
+
+**Medios de producción:**
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+**Productos y resultados:**
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+**Información utilizada o generada:**
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA**
+
+**Nivel: 1**
+
+**Código: MF0010_1**
+
+**Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera**
+
+**Duración: 30 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+*CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.*
+
+*CE1.2 En un supuesto práctico de arranche del buque pesquero:*
+
+*- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.*
+
+*- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.*
+
+*CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.*
+
+*CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.*
+
+*CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.*
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+*CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.*
+
+*CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:*
+
+*- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.*
+
+*- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.*
+
+*- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.*
+
+*- El uso de medios de protección personal a bordo.*
+
+*- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.*
+
+*- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.*
+
+*CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.*
+
+*CE2.4 En un supuesto práctico de gobierno del buque pesquero:*
+
+*- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.*
+
+*- Realizar cambios de rumbo utilizando el timón.*
+
+*- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.*
+
+*CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:*
+
+*- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.*
+
+*- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.*
+
+*CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:*
+
+*- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.*
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+*CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.*
+
+*CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:*
+
+*- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.*
+
+*- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.*
+
+*CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).*
+
+*CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.*
+
+*CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.*
+
+*CE3.6 En un supuesto práctico de actividades pesqueras:*
+
+*- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque**
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+**2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino**
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 3 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 2: POSICIÓN DEL BUQUE Y COMUNICACIONES MARÍTIMAS**
+
+**Nivel: 1**
+
+**Código: MF1899_1**
+
+**Asociado a la UC: Comprobar la posición del buque y establecer comunicaciones marítimas**
+
+**Duración: 90 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Manejar cartas de navegación y reconocer información meteorológica a través de equipos disponibles a bordo de un buque, interpretándolas mediante las técnicas o procedimientos náuticos al uso.
+
+*CE1.1 Describir una carta náutica indicando cómo se representan en la misma: la escala, los meridianos y paralelos, las sondas, la naturaleza del fondo, los veriles y los faros.*
+
+*CE1.2 Exponer con qué instrumentos y cómo se miden los rumbos y las distancias en una carta de navegación siguiendo procedimientos náuticos.*
+
+*CE1.3 En un supuesto práctico de manejo de cartas de navegación, calcular sobre una carta náutica, teniendo en cuenta la posición inicial de un buque en el inicio de un lance, las derrotas efectuadas durante el mismo y la posición final en la virada:*
+
+*- Las coordenadas del buque (latitud y longitud) en su posición inicial y final.*
+
+*- Los rumbos realizados durante el lance.*
+
+*- Las sondas y tipo de fondo en las que realizó la faena.*
+
+*- Las millas náuticas navegadas.*
+
+*- Las distancias a la costa más próxima al iniciar y finalizar el lance.*
+
+*CE1.4 Definir la forma de obtener la información meteorológica a través de los equipos a bordo de un buque.*
+
+C2: Determinar la forma de obtener posiciones geográficas a través de la información recibida de los equipos electrónicos de navegación, vía satélite o de registro automático.
+
+*CE2.1 Relacionar los equipos electrónicos de navegación que utilizan los buques para determinar su posición, indicando sus diferencias.*
+
+*CE2.2 En un supuesto práctico mediante simuladores de posicionamiento marítimo, poner en funcionamiento los equipos electrónicos de posicionamiento, identificando e interpretando la información observada en los mismos de acuerdo a criterios y procedimientos náuticos.*
+
+*CE2.3 En un supuesto práctico mediante simuladores de posicionamiento marítimo, calcular la situación del buque a través de la información obtenida de los receptores de posicionamiento, trasladarla a la carta de navegación, siguiendo procedimientos náuticos, indicando a la vista de la misma: la sonda, la naturaleza del fondo y la distancia en millas náuticas a la costa más cercana.*
+
+C3: Manipular equipos y sistemas de comunicación que utilizan los buques para realizar comunicaciones y/o transmitir información de la actividad pesquera, siguiendo normas y/o códigos establecidos.
+
+*CE3.1 Relacionar los equipos y sistemas de comunicación que utilizan los buques, para transmitir información de la actividad pesquera, distinguiendo las diferencias que existen entre cada uno de ellos.*
+
+*CE3.2 Describir los procedimientos operacionales para establecer comunicaciones de correspondencia pública según se efectúen por radiotelefonía, llamada selectiva digital (LSD) o de servicios satelitarios de comunicaciones (INMARSAT).*
+
+*CE3.3 En un supuesto práctico en el que se utilicen simuladores de posicionamiento marítimo, realizar comunicaciones de correspondencia pública en radiotelefonía y LSD utilizando los equipos de VHF, MF/HF y en terminales de satélite INMARSAT, en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), observando el Reglamento de Radiocomunicaciones, para informar de la actividad pesquera del buque.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.2 y CE2.3; C3 respecto a CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Recursos a utilizar en el proceso de navegación**
+
+Esfera terrestre: líneas y puntos de la esfera terrestre: eje terrestre, polos, ecuador, meridianos y paralelos; coordenadas terrestres: latitud, longitud; diferencia de latitud y longitud; unidades empleadas en navegación: milla marina; nudo; horizonte de la mar: puntos cardinales; rumbo loxodrómico.
+
+Cartas de navegación: proyecciones de la superficie terrestre: cartas mercatorianas.
+
+Cartas náuticas: Interpretación y manejo de las cartas náuticas: útiles usados para trabajar en las cartas. Situación en la carta. Medida de rumbos y distancias en las cartas náuticas. Signos y abreviaturas de las cartas náuticas.
+
+Escala de las cartas: clasificación de las cartas según su escala.
+
+**2. Navegación y posición del buque**
+
+Aguja magnética líquida: bitácora; rumbo y sus clases.
+
+Navegación de estima en la carta: navegación de estima con viento; abatimiento; navegación de estima con corriente; deriva; triángulo de velocidades.
+
+Navegación electrónica: goniómetro: radiofaros; radar: fundamento del radar. Interpretación de la pantalla del radar; navegación por satélite (G.P.S.) y (D.G.P.S): plotters; cartas electrónicas.
+
+Equipos de ayuda a la navegación: corredera; ecosonda; aguja giroscópica; vocabulario básico normalizado.
+
+**3. Comunicaciones marítimas, con relación a la comprobación de la posición del buque**
+
+Procedimientos operacionales de correspondencia pública: frecuencias radiotelefónicas, de LSD e INMARSAT, utilizadas para la correspondencia pública. Procedimientos para realizar llamadas de correspondencia pública en Radiotelefonía y LSD con equipos de VHF, MF y HF, y en terminales de satélite INMARSAT.
+
+Reglamento de radiocomunicaciones.
+
+Vocabulario normalizado de comunicaciones.
+
+**4. Parámetros medioambientales, con relación a la comprobación de la posición del buque y establecimiento de comunicaciones marítimas**
+
+Variables meteorológicas: temperatura, dirección y velocidad del viento.
+
+Corrientes marinas.
+
+Estado del mar.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la comprobación de la posición del buque y el establecimiento de las comunicaciones marítimas, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 3: CAPACITACIÓN PESQUERA**
+
+**Nivel: 3**
+
+**Código: MF1900_3**
+
+**Asociado a la UC: Comprobar, registrar e informar las actividades pesqueras de un buque, en un caladero determinado**
+
+**Duración: 90 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Describir los equipos de pesca que se puedan utilizar a bordo de un buque, y su forma de trabajo, teniendo en cuenta la especie objeto de captura y la zona de pesca.
+
+*CE1.1 Identificar las partes de las artes de pesca y la función que realizan durante la captura.*
+
+*CE1.2 Reconocer los elementos que forman parte de un aparejo de pesca, su forma de trabajo y la función que desarrolla cada uno de ellos en la captura.*
+
+*CE1.3 Diferenciar en la actividad pesquera los tipos de útiles y la forma de trabajo de cada uno de ellos, señalando las partes a tener en cuenta en cada uno.*
+
+C2: Definir formas de medida de los equipos de pesca, de las dimensiones de las mallas y de la longitud y colocación de los estrobos en función de la actividad pesquera a desarrollar.
+
+*CE2.1 Indicar la manera de revisar y medir los útiles, aparejos y artes de pesca según protocolos de pesca establecidos.*
+
+*CE2.2 Describir la forma de medir los paños de un arte de pesca, determinando la longitud de las mallas y la manera de contar y medir los anzuelos en un aparejo.*
+
+*CE2.3 Exponer las consecuencias de colocar un número excesivo de estrobos sobre los paños teniendo en cuenta la influencia que puede producir sobre el tamaño de las mallas en el ámbito de la actividad pesquera.*
+
+C3: Aplicar procesos de comprobación de diarios de pesca, de cubicación de bodegas y de vigilancia de la carga, para determinar la actividad pesquera del buque.
+
+*CE3.1 En un supuesto práctico de capacitación pesquera, determinar los espacios vacíos y ocupados de la bodega, teniendo en cuenta:*
+
+*- Los planos de cubicación de la misma.*
+
+*- El volumen de las cantidades depositadas en ella.*
+
+*CE3.2 En un supuesto práctico de capacitación pesquera, calcular las toneladas necesarias para el sellado de la bodega, teniendo en cuenta:*
+
+*- Los planos de cubicación de la bodega.*
+
+*- Los factores de estiba y conversión según la especie a capturar.*
+
+*- La cantidad ocupada de la bodega.*
+
+*CE3.3 En un supuesto práctico de capacitación pesquera, señalar a la vista de un diario de pesca cubierto y con unos datos puntuales de la captura, los datos erróneos que constan en el mismo, cubriéndolo conforme a los procedimientos establecidos.*
+
+C4: Evaluar información meteorológica y oceanográfica disponible prediciendo y determinando la posición y calada de las artes de pesca tanto presente como futura.
+
+*CE4.1 Describir las variables batimétricas que definen y determinan una carta de fondos marinos, indicando su influencia sobre las faenas con las artes de pesca.*
+
+*CE4.2 Explicar la forma de determinar la calada de las artes de pesca teniendo en cuenta el efecto del viento y la corriente presente y futura.*
+
+*CE4.3 Explicar la forma de obtener la información meteorológica a través de los equipos de comunicaciones del buque y con qué estaciones se conectaría, dependiendo de una situación del buque determinada.*
+
+*CE4.4 En un supuesto práctico de capacitación pesquera:*
+
+*- Determinar la posición de los aparejos sobre el fondo teniendo en cuenta el efecto del viento y la corriente reinante.*
+
+*- Calcular la altura de las olas en función del Fetch y su persistencia para un área determinada.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C3 completa; C4 respecto a CE4.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Buques de pesca, vinculado a la comprobación, registro e información de las actividades pesqueras**
+
+Tipos de buques pesqueros.
+
+Nomenclatura de las partes que forman un equipo de pesca. Función de cada una de estas partes.
+
+Características de los mismos según tipo de pesca.
+
+Documentación pesquera: autorizaciones de pesca; diario de pesca; cuadernos de bodegas.
+
+Interpretación de planos.
+
+Ayudas técnicas a la pesca: cartas de pesca; equipos electrónicos de detección.
+
+**2. Forma de trabajo de los equipos de pesca**
+
+Características y forma de trabajo durante la captura de las partes de un equipo de pesca.
+
+Comportamiento de los equipos de pesca atendiendo a las condiciones medio-ambientales.
+
+Forma de medir los equipos de captura: útiles, aparejos y artes.
+
+Mallas: características, forma de trabajo, manera de medirlas y contarlas.
+
+Estrobos: su función en las redes, influencia sobre los paños y las mallas, manera de medirlos.
+
+Anzuelos: características, forma de trabajo, manera de medirlos y contarlos.
+
+Rejillas y otros elementos selectivos.
+
+**3. Bodegas, en lo relativo a la comprobación, registro e información de las actividades pesqueras**
+
+Factores de conversión y estiba.
+
+Cubicación: normas a tener en cuenta.
+
+Examen y control de cajas, marcas y contenidos.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 7,5 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la comprobación, registro e información de las actividades pesqueras de un buque, en un caladero determinado, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 4: CONTROL DE LA ACTIVIDAD PESQUERA DE UN BUQUE**
+
+**Nivel: 3**
+
+**Código: MF1901_3**
+
+**Asociado a la UC: Controlar las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación**
+
+**Duración: 120 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Obtener capturas de las diferentes especies una vez identificadas, considerando cada operación de pesca.
+
+*CE1.1 Reconocer las especies que aparecen en la composición de la captura, de acuerdo a las claves de identificación, para calcular la captura total por especie.*
+
+*CE1.2 Describir la forma de calcular la captura retenida a bordo, en base a las capacidades de las bandejas, túneles de congelación, bodegas u otro tipo de recipientes donde se almacenen las capturas.*
+
+*CE1.3 En un supuesto práctico de control de la actividad pesquera en un buque, aplicar los factores de conversión en base a los protocolos de actuación, para obtener el peso vivo cuando se produce el procesado de la captura (fileteado, descabezado, eviscerado, entre otros).*
+
+*CE1.4 En un supuesto práctico de control de la actividad pesquera en un buque, determinar la composición específica mediante la observación de la captura total de la operación de pesca.*
+
+*CE1.5 En un supuesto práctico de desembarco de capturas, verificar los datos registrados a bordo con los obtenidos de la descarga para su corrección, en caso necesario.*
+
+C2: Estimar la composición de los descartes y capturas accesorias en cada operación de pesca una vez identificadas.
+
+*CE2.1 Reconocer las especies de pesca no objetivo y los descartes que aparecen en la composición de la captura, para establecer la captura retenida a bordo.*
+
+*CE2.2 Reconocer los grupos taxonómicos de invertebrados marinos bentónicos, de acuerdo a las claves de identificación, para registrar la presencia de organismos indicadores de ecosistemas marinos vulnerables.*
+
+*CE2.3 En un supuesto práctico de control de la actividad pesquera en un buque, registrar las especies pesqueras no objetivo y las capturas rechazadas incluyendo los invertebrados bentónicos, especificando las causas que originan su descarte con el fin de obtener la captura total de un lance.*
+
+*CE2.4 Enumerar los cálculos que se deben realizar para estimar la fracción de la captura descartada.*
+
+*CE2.5 En un supuesto práctico de control de la actividad pesquera en un buque:*
+
+*- Establecer la distribución de tallas de las especies pesqueras.*
+
+*- Registrar la composición de los descartes teniendo en cuenta los protocolos establecidos, considerando las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando, siempre que sea posible, el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y en caso de que los ejemplares tuviesen una etiqueta, anilla, o marca (convencional o satélite) deberá anotarse la referencia y número que aparece en dichas marcas, comunicándolo a las administraciones.*
+
+*CE2.6 Identificar las medidas de gestión y conservación según la normativa aplicable de cada área de pesca.*
+
+*CE2.7 En un supuesto práctico relacionado con un encuentro fortuito con ecosistemas marinos vulnerables (aves, tortugas marinas, cetáceos y elasmobranquios protegidos, entre otros), registrar según protocolos establecidos:*
+
+*- Identificación de los animales capturados.*
+
+*- Determinación de coordenadas geográficas del punto de captura.*
+
+*- Situación del individuo, aún vivo o muerto y cuál ha sido su destino final.*
+
+*- Detección de etiqueta, anilla, o marca -convencional o satélite-, posterior anotación de la referencia y número que aparece en dichas marcas, y comunicación a las administraciones.*
+
+*- Número de ejemplares y especie a la que pertenecen.*
+
+C3: Estimar el esfuerzo pesquero a que se somete una pesquería teniendo en cuenta el control de la actividad del buque.
+
+*CE3.1 Describir las especificaciones del arte utilizado en función del tipo de pesca.*
+
+*CE3.2 Reconocer los parámetros utilizados según los distintos artes o aparejos para registrar el tiempo de pesca.*
+
+*CE3.3 Describir las operaciones diarias del buque en el área de trabajo de pesca.*
+
+C4: Obtener información biológica de especies pesqueras presentes en una captura atendiendo a protocolos establecidos.
+
+*CE4.1 Describir los tipos de muestreo, teniendo en cuenta la especie pesquera para la obtención de la información solicitada.*
+
+*CE4.2 Enumerar los protocolos utilizados en la recogida y conservación de muestras biológicas, en función de las características de las especies pesqueras.*
+
+*CE4.3 En un supuesto práctico de toma de muestras de especies pesqueras siguiendo instrucciones y procedimientos establecidos:*
+
+*- Describir los medios y útiles para la extracción de muestras de especies pesqueras.*
+
+*- Aplicar la metodología para la realización de los muestreos sobre especies pesqueras.*
+
+*CE4.4 En un supuesto práctico de control de la actividad pesquera en un buque, rellenar un estadillo de registro de la información, siguiendo las instrucciones concretas de cumplimentación del mismo.*
+
+C5: Aplicar técnicas de medición de las variables ambientales y ecológicas para su posterior registro como sistema de protección a la biodiversidad, teniendo en cuenta el medio marino en el que interactúan.
+
+*CE5.1 Definir los términos de temperatura, conductividad (salinidad), transparencia entre otras teniendo en cuenta su comportamiento en el medio marino.*
+
+*CE5.2 Relacionar las especies sensibles (mamíferos, aves, reptiles, entre otros) según su presencia e influencia en el medio marino.*
+
+*CE5.3 En un supuesto práctico de medida de variables ambientales en el medio marino:*
+
+*- Utilizar sensores para medir la conectividad (salinidad).*
+
+*- Utilizar correntímetros para medir la velocidad y dirección de las corrientes marinas.*
+
+*- Utilizar termómetros eléctricos y comprobar en mapas las características de la temperatura de las aguas.*
+
+*-Interpretar datos a partir de mapas o de sistemas de comunicación (satélites, entre otros).*
+
+*CE5.4 En un supuesto práctico de variables ecológicas (especies sensibles: mamíferos, aves, reptiles) en el medio marino, realizar un registro contemplando las siguientes variables:*
+
+*- Edad, tamaño, comunidad, convivencia de especies en un mismo espacio, temporalidad, alimentación, entre otras.*
+
+C6: Determinar comunicaciones en cada área de pesca, seleccionadas a fin de establecer las notificaciones predefinidas con las administraciones responsables del seguimiento y de la gestión de las pesquerías.
+
+*CE6.1 Enumerar e identificar los formularios, en función de la información solicitada, para cumplimentar los informes periódicos relativos a especies pesqueras.*
+
+*CE6.2 Seleccionar el tipo de información y el esquema vinculados a la actividad del buque de las notificaciones con las Administraciones competentes, en base a los protocolos de comunicación.*
+
+*CE6.3 En un supuesto práctico de observación de la actividad pesquera en un buque:*
+
+*- Utilizar los medios técnicos a bordo del buque, previamente identificados en función del tipo de comunicación.*
+
+*- Emplear el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI), cuando el establecimiento de las comunicaciones lo requiera.*
+
+C7: Aplicar procesos de elaboración del informe final, teniendo en cuenta la normativa aplicable para obtener los resultados del periodo de observación de la actividad pesquera.
+
+*CE7.1 Describir la estructura del informe final vinculado con la actividad pesquera, para elaborarlo de acuerdo a las especificaciones particulares de cada área de trabajo.*
+
+*CE7.2 En un supuesto práctico de observación de la actividad pesquera en un buque, almacenar y tratar los datos obtenidos a bordo, utilizando los programas informáticos específicos.*
+
+*CE7.3 En un supuesto práctico de observación de la actividad pesquera en un buque, seleccionar la información contenida en los estadillos, según las características requeridas para la elaboración del informe final.*
+
+*CE7.4 Verificar las salidas de resultados de los programas informáticos vinculados con la actividad pesquera previamente analizadas, según el informe final a elaborar.*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3, CE1.4 y CE1.5; C2 respecto a CE2.3, CE2.5 y CE2.7; C4 respecto a CE4.3 y CE4.4; C5 respecto a CE5.3 y CE5.4; C6 respecto a CE6.3; C7 respecto a CE7.2 y CE7.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+**Contenidos:**
+
+**1. Identificación de especies y obtención de capturas**
+
+Características externas de las especies.
+
+Manejo de claves taxonómicas.
+
+Guías de identificación de especies.
+
+Identificación y diferenciación de las especies.
+
+Procedimientos para calcular las capacidades de los recipientes.
+
+Estimaciones visuales.
+
+Peso procesado.
+
+Factores de conversión utilizados.
+
+Descarga en puerto: verificación de las capturas.
+
+**2. Descartes y capturas accesorias atendiendo a la actividad pesquera de un buque**
+
+Especies pesqueras explotadas.
+
+Ecosistemas marinos vulnerables (aves, tortugas marinas, cetáceos y elasmobranquios protegidos, entre otros). Registro: situación del individuo, destino final; etiqueta, anilla, o marca -convencional o satélite-.
+
+Aprovechamiento de recursos pesqueros.
+
+Procedimientos para la estimación del descarte.
+
+Técnicas para el establecimiento de las distribuciones de tallas.
+
+Reglamentación pesquera.
+
+Tallas mínimas legales.
+
+Medidas de gestión y conservación.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+**3. Observación de la actividad pesquera de un buque**
+
+Zonas estadísticas de pesca (caladeros, áreas, divisiones, entre otros).
+
+Operación de pesca.
+
+Esfuerzo pesquero.
+
+Normativa aplicable pesquera.
+
+**4. Muestreo biológico en el proceso de la actividad pesquera de un buque**
+
+Concepto y tipos de muestreo.
+
+Anatomía de peces, moluscos y crustáceos.
+
+Formularios: cumplimentación.
+
+Técnicas de conservación de muestras biológicas.
+
+Útiles para la extracción de muestras: manipulación.
+
+Sistemas de comunicación (satélites, entre otros).
+
+**5. Obtención y registro de variables ambientales**
+
+Técnicas de medición de variables ambientales y ecológicas en el medio marino.
+
+Variables ambientales y ecológicas (especies sensibles (mamíferos, aves, reptiles, entre otros)).
+
+Sistema de Medición de variables ambientales y ecológicas.
+
+**6. Notificaciones e informes de la actividad pesquera de un buque**
+
+Encuentros fortuitos con ecosistemas marinos vulnerables.
+
+Informes periódicos de actividad.
+
+Informe final de campaña: procesamiento y tratamiento de datos.
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Taller de 7 m² por alumno o alumna.
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con el control de las capturas del buque y el cumplimiento de la normativa pesquera en la zona sometida a regulación, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+**MÓDULO FORMATIVO 5: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO**
+
+**Nivel: 1**
+
+**Código: MF0733_1**
+
+**Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo**
+
+**Duración: 60 horas**
+
+**Capacidades y criterios de evaluación:**
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+*CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.*
+
+*CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.*
+
+*CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:*
+
+*- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.*
+
+*- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.*
+
+*- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.*
+
+*CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+*CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.*
+
+*CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.*
+
+*CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.*
+
+*CE2.4 En un supuesto práctico de incendio a bordo:*
+
+*- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.*
+
+*- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.*
+
+*CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.*
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+*CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.*
+
+*CE3.2 En un supuesto práctico de accidente a bordo:*
+
+*- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.*
+
+*CE3.3 En un supuesto práctico de accidente a bordo:*
+
+*- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.*
+
+*CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.*
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+*CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.*
+
+*CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.*
+
+*CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.*
+
+*CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.*
+
+*CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).*
+
+**Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:**
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Contenidos:**
+
+**1. Técnicas de supervivencia personal**
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+**2. Prevención y lucha contra incendios**
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+**3. Primeros auxilios básicos**
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+**4. Seguridad personal y responsabilidades sociales**
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+**Parámetros de contexto de la formación:**
+
+**Espacios e instalaciones:**
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+\- Instalación de 2 m² por alumno o alumna.
+
+**Perfil profesional del formador o formadora:**
+
+1\. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+\- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+\- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2\. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXV de la Orden EFP/63/2021, de 21 de enero. [Ref. BOE-A-2021-1266](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1266)
+
+> Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.6 de la misma. [Ref. BOE-A-2020-12259](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-12259)

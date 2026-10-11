@@ -1,0 +1,732 @@
+---
+title: "Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario"
+identifier: "BOE-A-2014-7575"
+eli: "https://www.boe.es/eli/es/rd/2014/06/27/550"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2014-06-27
+published: 2014-07-17
+in_force_from: 2014-10-17
+last_amended: 2023-06-21
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 173"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-7575"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario
+
+El impulso y fomento de la integración de entidades asociativas agroalimentarias, constituyen unas herramientas de gran importancia para favorecer su competitividad, redimensionamiento, modernización e internacionalización En efecto, el fortalecimiento de las estructuras asociativas y el incremento de su dimensión facilitarán el desarrollo de la innovación y la incorporación de nuevas tecnologías, aumentará su productividad y eficiencia y mejorará su capacidad de competir, más eficazmente, tanto en el mercado nacional como en los mercados internacionales.
+
+La Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario, contempla un instrumento básico para contribuir a mejorar la estructuración de la oferta y la integración, mediante el redimensionamiento de las entidades asociativas: la nueva figura de la Entidad Asociativa Prioritaria (EAP).
+
+La citada Ley 13/2013, de 2 de agosto, en sus artículos 1, 3 y 5 y en su disposición adicional única, definen la nueva figura de la Entidad Asociativa Prioritaria, establece las condiciones para su reconocimiento, mediante el correspondiente procedimiento reglamentario, y se crea en el Ministerio de Agricultura, Alimentación y Medio Ambiente, el Registro Nacional de Entidades Asociativas Prioritarias, adscrito a la Dirección General de la Industria Alimentaria.
+
+Resulta, por tanto, necesario para cumplir el mandato previsto en la Ley 13/2013, de 2 de agosto, proceder al desarrollo reglamentario, en concreto en la determinación del montante económico de facturación por sectores productivos, que se requerirá para acceder a la condición de prioritaria, el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias de carácter supra-autonómico y el procedimiento para su inscripción en el Registro Nacional de Entidades Asociativas Prioritarias.
+
+El presente real decreto ha sido sometido a consulta de las comunidades autónomas y entidades representativas del sector y se dicta al amparo de lo previsto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, con el objetivo de profundizar en las reformas estructurales en un sector estratégico de nuestra economía para favorecer su desarrollo y la generación de empleo.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de junio de 2014,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto desarrollar lo dispuesto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario, en particular:
+
+a) Determinar el montante económico de facturación por sectores productivos, de acuerdo con el código de la Clasificación Nacional de Actividades Económicas (CNAE), que se requerirá para acceder a la condición de prioritaria.
+
+b) Regular el procedimiento para el reconocimiento de Entidades Asociativas Prioritarias de carácter supra-autonómico.
+
+c) Regular el procedimiento para su inscripción en el Registro Nacional de Entidades Asociativas Prioritarias.
+
+### Artículo 2. Ámbito del reconocimiento.
+
+1\. Las entidades asociativas agroalimentarias susceptibles de reconocimiento como Entidad Asociativa Prioritaria (en adelante EAP), tal como establece el artículo 1.3 de la Ley 13/2013, de 2 de agosto, son las sociedades cooperativas agroalimentarias, las cooperativas de segundo y ulterior grado, los grupos cooperativos, las sociedades agrarias de transformación y las entidades civiles o mercantiles, siempre que más del 50 por ciento de su capital social pertenezca a sociedades cooperativas o a sociedades agrarias de transformación En el caso de que estas entidades económicas tengan la forma de sociedad anónima, sus acciones deberán ser nominativas.
+
+2\. Dichas entidades podrán ser reconocidas como prioritarias a los efectos del cumplimiento del requisito previsto en el artículo 3.1 d) de la Ley 13/2013, de 2 de agosto, en alguno de los siguientes supuestos:
+
+a) Si se solicita el reconocimiento para uno de los productos/sectores incluidos en el apartado a) del anexo I, su facturación anual, correspondiente a la producción comercializada de dicho producto, deberá ser superior a la cuantía que se señala en dicho apartado.
+
+Podrá solicitarse el reconocimiento para uno o varios de los productos que se definen en el apartado a) del anexo I, establecidos de conformidad con el Real Decreto 475/2007, de 13 de abril, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2009 (CNAE-2009).
+
+En el caso de entidades asociativas de carácter agroalimentario cuyas actividades cooperativizadas estén referidas a varias producciones de las mencionadas en el apartado a) del anexo I y en las que se lleve a cabo una integración vertical en la cadena de suministro, el volumen mínimo exigido para el reconocimiento será el previsto en el apartado c) del anexo I.
+
+b) Si se solicita un reconocimiento genérico, su facturación total anual correspondiente al conjunto de productos comercializados por la entidad, deberá ser superior a la cuantía que se señala en el apartado b) del anexo I, debiendo indicarse asimismo la relación de productos concretos que forman parte de dicho reconocimiento genérico.
+
+3\. En los supuestos en los que la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado, los valores de facturación referidos en el apartado anterior se reducirán un 30 %.
+
+4\. El volumen de operaciones, en términos económicos, con socios o entidades participantes en el reconocimiento, deberá superar el 50 por ciento del total de la cooperativa. Asimismo, en el caso de entidades civiles o mercantiles, los socios participantes en el reconocimiento deberán superar el 50 por ciento del capital social.
+
+5\. A efectos de determinación del ámbito de actuación supraautonómico, se entenderá que existe cuando se dé alguna de las dos condiciones siguientes:
+
+a) Dispone de socios en más de una comunidad autónoma, sin que el número de socios participantes en el reconocimiento exceda del 90 por ciento en el ámbito de una concreta. En el caso de sociedades de capital, dicho porcentaje se determinará exclusivamente respecto de las entidades asociativas integradas en ellas.
+
+b) Su volumen de operaciones, en términos económicos, incluyendo las operaciones generadas al amparo de acuerdos intercooperativos, no excede del 90 por ciento en una comunidad autónoma concreta.
+
+Cuando, para un producto agrario o alimentario determinado la producción nacional se localice en más de un 60 por ciento en una única comunidad autónoma, los porcentajes previstos anteriormente, serán del 95 por ciento para el número de socios del apartado a) y para el volumen de operaciones del apartado b). Estos mismos porcentajes serán de aplicación cuando la entidad desarrolle más del 50 por ciento de su volumen de operaciones en una comunidad autónoma con cinco o más provincias.
+
+6\. En todos los casos, los valores a los que se hace referencia en el apartado 2 de este artículo estarán referidos a cualquiera de los tres últimos ejercicios económicos cerrados, previos a la solicitud.
+
+> Se modifica por el artículo único.1 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica por el art. único.1 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+## CAPÍTULO II — Reconocimiento de las Entidades Asociativas Prioritarias
+
+### Artículo 3. Solicitud de reconocimiento como EAP.
+
+1\. La presentación de la solicitud de reconocimiento como EAP deberá realizarse por el representante legal de la propia entidad, se dirigirá al Director General de la Industria Alimentaria del Ministerio de Agricultura, Pesca y Alimentación, y se cumplimentará según el modelo que figura como anexo II de este real decreto. Conforme a lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, es obligatoria la presentación electrónica de la solicitud y de la documentación correspondiente, en el registro electrónico accesible a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación, cuya dirección es https://sede.mapa.gob.es/portal/site/seMAPA.
+
+2\. Deberá acompañarse de la siguiente documentación:
+
+a) Acuerdo del órgano de gobierno de la entidad solicitante, de obtener el reconocimiento como EAP, con indicación de la denominación o razón social, domicilio y el número de identificación fiscal, lugar y fecha de otorgamiento.
+
+b) Relación actualizada de todas las entidades que la integran en su caso, con identificación de todos los productores que las componen, indicación del territorio de la comunidad autónoma y provincia donde desarrollan su actividad productiva, así como la documentación acreditativa para la verificación de lo dispuesto en el artículo 2.5 del presente real decreto, en relación con los productos objeto de reconocimiento.
+
+c) Estatutos o disposiciones reguladoras de la entidad solicitante y de cada una de las que la componen, que deberán contemplar todos los extremos que se establecen en el artículo 3 de la Ley 13/2013, de 2 de agosto, y asimismo contener expresamente:
+
+1.º La obligación de los socios de entregar un volumen determinado de sus producciones para su comercialización o transformación en común, o bien, para su abastecimiento, en el caso de aquellas entidades cuya actividad corresponda a suministros y servicios, todo ello sin perjuicio de las excepciones o limitaciones previstas en las normas europeas o de rango legal, circunstancias climatológicas o de mercado excepcionales, razones de sanidad vegetal y/o animal, por capacidad de las instalaciones, normas de campaña o condiciones de entrega aplicables, en su caso.
+
+2.º Previsiones para el control democrático en su funcionamiento, en la toma de sus decisiones por los asociados y garantías para evitar las posiciones de dominio, cuidando igualmente de respetar el principio de libre adhesión voluntaria y abierta.
+
+3.º Consentimiento de los socios a la cesión de datos referentes a la actividad económica realizada en el seno de la entidad, relevantes a efectos del control y cumplimiento de lo dispuesto en la Ley 13/2013, de 2 de agosto, y en este real decreto, de conformidad con lo previsto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+d) Facturación de la entidad solicitante para los productos específicos para los que se solicita el reconocimiento como EAP, o en caso de reconocimiento genérico, del conjunto de productos comercializado por la entidad, conforme a lo establecido en el artículo 2.6.
+
+e) Documento descriptivo del sistema de control del cumplimiento de las obligaciones relativo a la entrega de la producción establecida estatutariamente, para su comercialización conjunta, y el abastecimiento de productos para las entidades de suministros y servicios.
+
+> Se modifica por el art. único.2 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica por el art. único.2 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+> Se añade el apartado 2.f) por el art. 1.1 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876).
+
+### Artículo 4. Subsanación.
+
+Cuando se adviertan defectos en la solicitud o en la documentación que la acompaña se requerirá al interesado para que, en un plazo de 10 días, subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa la correspondiente resolución, de conformidad con lo previsto en el artículo 68 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.3 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+### Artículo 5. Procedimiento de reconocimiento.
+
+1\. Corresponde a la Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Pesca y Alimentación, en coordinación con las comunidades autónomas afectadas por su ámbito supraautonómico, realizar las comprobaciones para el reconocimiento.
+
+2\. La Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Pesca y Alimentación remitirá las solicitudes de reconocimiento e inscripción a los órganos competentes de las comunidades autónomas afectadas territorialmente para su informe en el plazo de un mes a contar desde la recepción de la petición del mismo, de conformidad con lo dispuesto en el artículo 80.4 de la Ley 39/2015, de 1 de octubre, en cumplimiento del deber de colaboración entre administraciones públicas. Se entenderá que existe afectación territorial de una comunidad autónoma cuando existan socios de base en dicha comunidad. En caso de no recibir respuesta en dicho plazo, se proseguirán las actuaciones. Durante el referido periodo las comunidades autónomas afectadas o la propia dirección general podrán proponer la celebración de una reunión con la participación de todas las comunidades autónomas interesadas para resolver cualquier duda o sugerencia que pudiera plantearse respecto al reconocimiento.
+
+3\. Una vez recibidos los informes de los órganos competentes de las comunidades autónomas afectadas, o transcurrido el plazo para emitirlos, el Director General de la Industria Alimentaria, resolverá motivadamente, sin que esta resolución ponga fin a la vía administrativa.
+
+4\. La resolución anterior y notificación habrá de producirse en el plazo de seis meses a contar desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración General del Estado, transcurrido el cual podrá entenderse estimada la solicitud.
+
+5\. La resolución estimatoria será comunicada a los órganos competentes de las comunidades autónomas afectadas por el ámbito de la EAP, para su conocimiento y constancia.
+
+6\. Contra dicha resolución podrá interponerse recurso de alzada, ante la Secretaría General de Agricultura y Alimentación, en el plazo de un mes contado a partir del día siguiente al de su notificación, de conformidad con lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.3 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifican los apartados 2 y 7 por el art. único.4 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+> Se modifica por el art. 1.2 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876).
+
+### Artículo 6. Obligación de comunicación anual de las EAP.
+
+1\. Las EAP deberán presentar anualmente la siguiente documentación:
+
+a) Cuentas anuales auditadas e informe de auditoría correspondiente.
+
+b) Certificación de la relación de productores que formen parte de la EAP y de las entidades que la integran, así como de los socios productores de estas últimas.
+
+c) Memoria de la EAP, que ofrezca una idea lo más completa y exacta posible de la situación y evolución de la entidad, y que deberá especificar los cambios producidos que no supongan una solicitud de modificación del reconocimiento, de acuerdo a lo contemplado en el artículo 8.3.
+
+d) Informe de los resultados del sistema de control previsto en el artículo 3.2.e), que deberá contemplar detalladamente las acciones correctoras desarrolladas.
+
+2\. La documentación irá dirigida al Director General de la Industria Alimentaria y se presentará electrónicamente, a través de la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación, cuya dirección es https://sede.mapama.gob.es, en el plazo de tres meses siguientes a la aprobación de las cuentas anuales por parte de la asamblea general o junta general. En el caso de que no se hubiera producido la aprobación de dichas cuentas, la citada documentación anual deberá presentarse en el plazo máximo de un año, contado desde la última comunicación anual o, en su defecto, del reconocimiento como EAP.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica por el art. único.5 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+## CAPÍTULO III — Registro Nacional de Entidades Asociativas Prioritarias
+
+### Artículo 7. Funcionamiento del Registro Nacional de Entidades Asociativas Prioritarias.
+
+1\. El Registro Nacional de Entidades Asociativas Prioritarias, de carácter informativo, y adscrito a la Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Alimentación y Medio Ambiente, de acuerdo con lo previsto en el artículo 5, de la Ley 13/2013, de 2 de agosto, será el encargado del mantenimiento de los datos de las entidades reconocidas.
+
+2\. Cada EAP tendrá asignado un número correlativo, independiente y único, cuya relación será publicada en la web del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+> Se modifica por el art. 1.3 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876).
+
+### Artículo 8. Modificación de las condiciones y cancelación del reconocimiento.
+
+1\. La cancelación del reconocimiento de la EAP podrá tener lugar de oficio o a instancia del interesado.
+
+2\. Los representantes de las entidades asociativas prioritarias deberán comunicar a la Dirección General de la Industria Alimentaria, en el plazo de un mes desde que ésta se produjera, cualquier información que pueda motivar la pérdida de su condición de prioritarias. Dicha comunicación, que se presentará electrónicamente, a través de la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación, cuya dirección es https://sede.mapama.gob.es, deberá estar debidamente acompañada de la documentación acreditativa.
+
+3\. Asimismo, deberán presentar a la Dirección General de la Industria Alimentaria una solicitud de modificación del reconocimiento, acompañada de la documentación acreditativa, cuando se produzca alguna de las siguientes situaciones:
+
+a) Altas de entidades de base, solo en el caso de que supongan una ampliación en las comunidades autónomas para las que está reconocida la supraautonomía de la entidad.
+
+b) Bajas de entidades de base, solo en el caso de que supongan una reducción en las comunidades autónomas para las que está reconocida la supraautonomía de la entidad.
+
+c) Variación de los productos objeto de reconocimiento de la EAP, solo cuando la entidad esté reconocida para alguno de los productos contemplados en el apartado a) del anexo I.
+
+d) Modificaciones en la personalidad jurídica de la EAP.
+
+Otros aspectos derivados de la evolución de la entidad asociativa prioritaria, tales como altas y bajas de entidades de base que no afecten a la supraautonomía o altas y bajas de socios, podrán ser comunicados en el marco de lo previsto en el artículo 6.
+
+Las solicitudes se presentarán en el registro electrónico accesible a través de la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación, cuya dirección es https://sede.mapa.gob.es/portal/site/seMAPA.
+
+La Dirección General de la Industria Alimentaria resolverá y notificará la resolución sobre dicha solicitud de modificación en el plazo de seis meses, previo informe de las comunidades autónomas afectadas por la modificación, de acuerdo con el artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, que será posteriormente comunicada a las comunidades autónomas del ámbito territorial de la EAP.
+
+4\. En el supuesto de que, a la vista de la información comunicada por la EAP, en virtud de lo previsto en el presente artículo o en el artículo 6, se apreciase el incumplimiento de cualquiera de los requisitos previstos en los artículos 2 y 3, la Dirección General de la Industria Alimentaria, previa audiencia del interesado, mediante resolución motivada acordará la suspensión provisional del reconocimiento durante un plazo de tres meses. Transcurrido dicho plazo sin haberse subsanado o aportado documentación acreditativa de que, a la luz de las nuevas circunstancias, se cumple lo previsto en los referidos artículos, se procederá a la cancelación del reconocimiento, previa instrucción del procedimiento administrativo, que en todo caso garantizará la audiencia del interesado e informe de las comunidades autónomas afectadas, conforme a lo previsto en el apartado 5.
+
+No obstante lo anterior, a efectos del mantenimiento del reconocimiento como EAP, se entenderá cumplido el requisito relativo al volumen de facturación, cuando la facturación alcanzada en el último ejercicio o la facturación media de dos de los últimos tres ejercicios, fuere igual o superior al mínimo establecido.
+
+5\. La Dirección General de la Industria Alimentaria procederá de oficio, previo apercibimiento, a la cancelación del reconocimiento como EAP de aquellas entidades que incumplan las obligaciones previstas en el artículo 6. Dicho procedimiento incluirá audiencia de los interesados e informe de las comunidades autónomas afectadas por el ámbito territorial de la EAP. La Dirección General de la Industria Alimentaria dictará y notificará resolución motivada en el plazo de seis meses tras la notificación del apercibimiento. Contra esta resolución podrá interponerse recurso de alzada ante el Secretario General de Agricultura y Alimentación en el plazo de un mes, de acuerdo con lo dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifica el apartado 3 por el art. único.5 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica por el art. único.6 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+> Se modifica por el art. 1.4 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876).
+
+### Disposición adicional única. No incremento de gasto.
+
+Las medidas incluidas en este real decreto no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+### Disposición transitoria única. Periodo transitorio.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.6 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Se modifica por el art. único.7 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+### Disposición final primera. Titulo competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica.
+
+### Disposición final segunda. Facultad de modificación.
+
+Se faculta a la Ministra de Agricultura, Alimentación y Medio Ambiente para modificar los volúmenes de facturación a los que se hace referencia el anexo I del presente real decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrara en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de junio de 2014.
+
+FELIPE R.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente,
+
+ISABEL GARCÍA TEJERINA
+
+## ANEXO I — Volúmenes mínimos de facturación requeridos para el reconocimiento
+
+a) Volúmenes mínimos para el reconocimiento por producto<sup><sup>1</sup></sup>:
+
+<sup>1</sup> Los sectores que no se encuentran específicamente recogidos en el apartado a) del presente anexo, han de considerarse incluidos en el apartado b) «reconocimiento genérico».
+
+<table>
+<thead>
+<tr> </tr>
+</thead>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">Reconocimiento por producto</th>
+<th rowspan="2">
+<p>Facturación total de la entidad<sup>3</sup></p>
+<p>(millones de euros)</p>
+</th>
+</tr>
+<tr>
+<th>Productos</th>
+<th>CNAE 2009<sup>2</sup></th>
+<th>Descripción CNAE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fabricación de productos para la alimentación de animales de compañía.</td>
+<td>1092</td>
+<td>Piensos para animales de compañía.</td>
+<td>8</td>
+</tr>
+<tr>
+<td>Apícola.</td>
+<td>0149</td>
+<td>Otras explotaciones de ganado.</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Arroz.</td>
+<td>0112</td>
+<td>Cultivo de arroz.</td>
+<td>60</td>
+</tr>
+<tr>
+<td rowspan="2">Avicultura de puesta.</td>
+<td>1089</td>
+<td>Elaboración de otros productos alimenticios ncop.</td>
+<td rowspan="2">32</td>
+</tr>
+<tr>
+<td>0147</td>
+<td>Avicultura.</td>
+</tr>
+<tr>
+<td>Carne de conejo.</td>
+<td>0149</td>
+<td>Otras explotaciones de ganado.</td>
+<td>35</td>
+</tr>
+<tr>
+<td>Hongos y/o setas comestibles.</td>
+<td>0113</td>
+<td>Cultivo de hortalizas, raíces y tubérculos.</td>
+<td>110</td>
+</tr>
+<tr>
+<td rowspan="2">Flores y plantas de vivero.</td>
+<td>0130</td>
+<td>Propagación de plantas.</td>
+<td rowspan="2">25</td>
+</tr>
+<tr>
+<td>0128</td>
+<td>Cultivo de especias, plantas aromáticas, medicinales y farmacéuticas.</td>
+</tr>
+<tr>
+<td>Forrajes deshidratados.</td>
+<td>0119</td>
+<td>Otros cultivos no perennes.</td>
+<td>17</td>
+</tr>
+<tr>
+<td>Frutas de hueso y pepitas.</td>
+<td>0124</td>
+<td>Cultivo de frutos con hueso y pepitas.</td>
+<td>50</td>
+</tr>
+<tr>
+<td>Frutas tropicales y subtropicales y plátanos.</td>
+<td>0122</td>
+<td>Cultivo de frutos tropicales y subtropicales.</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Frutos secos.</td>
+<td>0125</td>
+<td>Cultivo de otros árboles y arbustos frutales y frutos secos.</td>
+<td>40</td>
+</tr>
+<tr>
+<td rowspan="5">Mostos, vinos y alcoholes.</td>
+<td>1101</td>
+<td>Destilación, rectificación y mezcla de bebidas alcohólicas.</td>
+<td rowspan="5">100</td>
+</tr>
+<tr>
+<td>1102</td>
+<td>Elaboración de vinos.</td>
+</tr>
+<tr>
+<td>1104</td>
+<td>Elaboración de otras bebidas no destiladas, procedentes de la fermentación.</td>
+</tr>
+<tr>
+<td>1103</td>
+<td>Elaboración de sidra y otras bebidas fermentadas.</td>
+</tr>
+<tr>
+<td>1105</td>
+<td>Fabricación de cerveza.</td>
+</tr>
+<tr>
+<td>Ovino de leche y/o carne.</td>
+<td>0145</td>
+<td>Explotación de ganado ovino y caprino.</td>
+<td>70</td>
+</tr>
+<tr>
+<td>Caprino de leche y/o carne.</td>
+<td>0145</td>
+<td>Explotación de ganado ovino y caprino.</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Patata.</td>
+<td>0113</td>
+<td>Cultivo de hortalizas, raíces y tubérculos.</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Porcino ibérico.</td>
+<td>0146</td>
+<td>Explotación de ganado porcino.</td>
+<td>50</td>
+</tr>
+<tr>
+<td rowspan="5">Tomate transformado.</td>
+<td>1039</td>
+<td>Otro procesado y conservación de frutas y hortalizas.</td>
+<td rowspan="5">80</td>
+</tr>
+<tr>
+<td>1032</td>
+<td>Elaboración de zumos frutas y hortalizas.</td>
+</tr>
+<tr>
+<td>0113</td>
+<td>Cultivo de hortalizas, raíces y tubérculos.</td>
+</tr>
+<tr>
+<td>1084</td>
+<td>Elaboración de especies, salsas y condimentos.</td>
+</tr>
+<tr>
+<td>1085</td>
+<td>Elaboración de platos y comidas preparadas.</td>
+</tr>
+<tr>
+<td rowspan="4">Transformados hortofrutícolas (excepto tomate).</td>
+<td>1032</td>
+<td>Elaboración de zumos de frutas y hortalizas.</td>
+<td rowspan="4">60</td>
+</tr>
+<tr>
+<td>1039</td>
+<td>Otro procesado y conservación de frutas y hortalizas.</td>
+</tr>
+<tr>
+<td>1085</td>
+<td>Elaboración de platos y comidas preparadas.</td>
+</tr>
+<tr>
+<td>1089</td>
+<td>Elaboración de otros productos alimenticios ncop.</td>
+</tr>
+<tr>
+<td>Vacuno de carne.</td>
+<td>0142</td>
+<td>Explotación de otro ganado bovino y búfalos.</td>
+<td>35</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="4">
+<p><sup>2 </sup>Incluidos en cada apartado los códigos CNAE en materia de transformación y comercialización correspondientes a los productos objeto de reconocimiento.</p>
+<p><sup>3 </sup>Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios). Los valores de facturación se reducirán un 30 % cuando la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+b) Volúmenes mínimos para un reconocimiento genérico:
+
+<table>
+<thead>
+<tr>
+<th>Reconocimiento genérico</th>
+<th>
+<p>Facturación total de la entidad<sup>4</sup></p>
+<p>(millones de euros)</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conjunto de productos comercializados por la entidad.</td>
+<td>150</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2">
+<p><sup>4 </sup>Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios) Los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una cooperativa agroalimentaria de primer grado.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+c) Volúmenes mínimos para las integraciones verticales en el reconocimiento por producto:
+
+En aquellas entidades asociativas de carácter agroalimentario, cuyas actividades cooperativizadas estén referidas a varias y distintas producciones de las mencionadas en el apartado a) del anexo I y en las que se lleve a cabo una integración vertical en la cadena de suministro, el volumen mínimo exigido para el reconocimiento será el 50 % de la facturación establecida por los distintos subsectores para los que se solicita el reconocimiento.
+
+> Se sustituye por el art. único.7 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 35, de 9 de febrero de 2024. [Ref. BOE-A-2024-2386](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2386)
+
+> Se sustituye por el art. único de la Orden APA/1056/2022, de 4 de noviembre. [Ref. BOE-A-2022-18149](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-18149)
+
+> Téngase en cuenta, sobre el reconocimiento automático, la disposición transitoria única de la citada Orden.
+
+> Se modifica la letra a) y se añade la c) por el art. único de la Orden APM/1259/2017, de 20 de diciembre. [Ref. BOE-A-2017-15285](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15285)
+
+## ANEXO II — Modelo de solicitud de reconocimiento de Entidades Asociativas Prioritarias (EAP)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/147/14681_13354421_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/147/14681_13354421_2.png)
+
+<table>
+<thead>
+<tr>
+<th colspan="2">
+<p>Productos (seleccionar)</p>
+</th>
+<th>Volumen mínimo facturación total de la entidad (millones de euros)<sup>1 y 2</sup></th>
+<th>Volumen facturación total de la entidad para ese producto (millones de euros)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>FABRICACION DE PRODUCTOS PARA LA ALIMENTACION DE ANIMALES DE COMPAÑIA.</td>
+<td>☐</td>
+<td>8</td>
+<td> </td>
+</tr>
+<tr>
+<td>APÍCOLA.</td>
+<td>☐</td>
+<td>10</td>
+<td> </td>
+</tr>
+<tr>
+<td>ARROZ.</td>
+<td>☐</td>
+<td>60</td>
+<td> </td>
+</tr>
+<tr>
+<td>AVICULTURA DE PUESTA.</td>
+<td>☐</td>
+<td>32</td>
+<td> </td>
+</tr>
+<tr>
+<td>CARNE DE CONEJO.</td>
+<td>☐</td>
+<td>35</td>
+<td> </td>
+</tr>
+<tr>
+<td>HONGOS Y/O SETAS COMESTIBLES.</td>
+<td>☐</td>
+<td>110</td>
+<td> </td>
+</tr>
+<tr>
+<td>FLORES Y PLANTAS DE VIVERO.</td>
+<td>☐</td>
+<td>25</td>
+<td> </td>
+</tr>
+<tr>
+<td>FORRAJES DESHIDRATADOS.</td>
+<td>☐</td>
+<td>17</td>
+<td> </td>
+</tr>
+<tr>
+<td>FRUTAS DE HUESO Y PEPITAS.</td>
+<td>☐</td>
+<td>50</td>
+<td> </td>
+</tr>
+<tr>
+<td>FRUTAS TROPICALES Y SUBTROPICALES Y PLÁTANOS.</td>
+<td>☐</td>
+<td>100</td>
+<td> </td>
+</tr>
+<tr>
+<td>FRUTOS SECOS.</td>
+<td>☐</td>
+<td>40</td>
+<td> </td>
+</tr>
+<tr>
+<td>MOSTOS, VINOS Y ALCHOLES.</td>
+<td>☐</td>
+<td>100</td>
+<td> </td>
+</tr>
+<tr>
+<td>OVINO DE LECHE Y/O CARNE.</td>
+<td>☐</td>
+<td>70</td>
+<td> </td>
+</tr>
+<tr>
+<td>CAPRINO DE LECHE Y/O CARNE.</td>
+<td>☐</td>
+<td>40</td>
+<td> </td>
+</tr>
+<tr>
+<td>PATATA.</td>
+<td>☐</td>
+<td>40</td>
+<td> </td>
+</tr>
+<tr>
+<td>PORCINO IBÉRICO.</td>
+<td>☐</td>
+<td>50</td>
+<td> </td>
+</tr>
+<tr>
+<td>TOMATE TRANSFORMADO.</td>
+<td>☐</td>
+<td>80</td>
+<td> </td>
+</tr>
+<tr>
+<td>TRANSFORMADOS HORTOFRUTÍCOLAS (EXCEPTO TOMATE).</td>
+<td>☐</td>
+<td>60</td>
+<td> </td>
+</tr>
+<tr>
+<td>VACUNO DE CARNE.</td>
+<td>☐</td>
+<td>35</td>
+<td> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="4">
+<p><sup>1</sup> Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios). Los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado en los términos establecidos en el artículo 2.3 y el anexo I a) del Real Decreto 550/2014.</p>
+<p><sup>2</sup> El volumen mínimo exigido se reducirá un 50% para los distintos subsectores para los que se solicita el reconocimiento por producto cuando la entidad solicitante lleve a cabo una integración vertical en la cadena de suministro en los términos del anexo I c).</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+b) Volúmenes mínimos para el reconocimiento genérico<sup><sup>3</sup></sup>:
+
+<sup>3</sup> Según el artículo 2.2.b) del Real Decreto 550/2014, de 27 de junio.
+
+<table>
+<thead>
+<tr>
+<th>Conjunto de productos (contemplados en el objeto de la entidad)</th>
+<th>
+<p>Volumen mínimo facturación total de la entidad<sup>3</sup></p>
+<p>(millones de euros)</p>
+</th>
+<th>
+<p>Volumen facturación total de la entidad</p>
+<p>(millones de euros)</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>– </p>
+<p>– </p>
+<p>– </p>
+<p>– </p>
+</td>
+<td>150</td>
+<td> </td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p><sup>3</sup> Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios). Los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado en los términos establecidos en el artículo 2.3 y el anexo I b) del Real Decreto 550/2014, de 27 de junio.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+**V. DOCUMENTACIÓN QUE SE ADJUNTA CON LA SOLICITUD**
+
+☐ Certificación del acuerdo de solicitud de reconocimiento como Entidad Asociativa Prioritaria (EAP).
+
+☐ Memoria del proyecto empresarial y asociativo de la EAP.
+
+☐ Para entidades civiles y mercantiles: certificación de que más del 50 por ciento de su capital social pertenece a sociedades cooperativas, o a sociedades agrarias de transformación.
+
+☐ Certificación de la relación de entidades que integran la EAP, n.º de socios que las componen e indicación del territorio de la comunidad autónoma donde desarrollan su actividad productiva.
+
+☐ Certificación de la relación de entidades que integran cada una de las cooperativas de 2.º y ulterior grado, n.º de socios que las componen e indicación del territorio de la comunidad autónoma donde desarrollan su actividad productiva.
+
+☐ Certificación de la relación detallada de los socios que componen cada una de las entidades que integran la EAP.
+
+☐ Estatutos o disposiciones reguladoras de la entidad solicitante y de cada una de las entidades que integran la EAP.
+
+☐ Obligaciones estatutarias (compromiso de entrega, cesión de datos y control democrático) de la entidad solicitante y de cada una de las entidades que integran la EAP.
+
+☐ Certificación expedida por auditor, órganos rectores o administradores relativa al volumen de facturación de cualquiera de los tres últimos ejercicios económicos cerrados, previos a la solicitud, en relación con los productos para los que se pretende obtener el reconocimiento. Esta documentación ha de corresponder al mismo ejercicio
+
+☐ Memoria, balance y cuenta de resultados de la entidad solicitante con personalidad jurídica, referido al mismo ejercicio elegido anteriormente.
+
+☐ Otra documentación. En su caso, indíquese:
+
+....................................................................................................................
+
+....................................................................................................................
+
+...................................................................................................................
+
+**VI. SOLICITUD**
+
+El abajo firmante solicita el RECONOCIMIENTO al que se refiere la presente instancia, y declara que son ciertos los datos consignados en ella, reuniendo los requisitos exigidos, aceptando las condiciones establecidas en el Real Decreto 550/2014, de 27 de junio, comprometiéndose a probar documentalmente todos los datos que figuran en esta solicitud:
+
+En ............................................, a ...... de ....................... de 20....
+
+(Firma)
+
+Director General de la Industria Alimentaria.
+
+P.º Infanta Isabel n.º 1. 28071 Madrid.
+
+El Ministerio de Agricultura, Pesca y Alimentación mantiene un compromiso de cumplimiento de la legislación vigente en materia de tratamiento de datos personales y seguridad de la información con el objeto de garantizar que la recogida y tratamiento de los datos facilitados se realiza conforme al Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos, RGPD) y de la normativa nacional vigente en la materia. Por este motivo, le ofrecemos a continuación información sobre la política de protección de datos aplicada al tratamiento de los datos de carácter personal derivado del procedimiento de reconocimiento de las entidades asociativas prioritarias:
+
+1\. Responsable del tratamiento: Ministerio de Agricultura, Pesca y Alimentación.
+
+Dirección General de la Industria Alimentaria-Subdirección General de Competitividad de la Cadena Alimentaria.
+
+P.º Infanta Isabel, 1. 28071 Madrid.
+
+Teléfono: 91 3475346.
+
+Correo: sgcca@mapa.es.
+
+Delegado de Protección de datos: bzn-DPD@mapa.es.
+
+2\. Finalidad del tratamiento: Los datos personales incorporados serán utilizados exclusivamente para la tramitación del procedimiento de reconocimiento como entidad asociativa prioritaria y se conservarán mientras la legislación aplicable obligue a su conservación (Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español).
+
+3\. Legitimación del tratamiento: el tratamiento es necesario para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable del tratamiento de la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario.
+
+4\. Destinatarios de los datos: no están previstas cesiones de datos ni transferencias internacionales de datos.
+
+5\. Derechos sobre el tratamiento de datos: conforme a lo previsto en el RGPD y en la Ley Orgánica 3/2018, de 5 de diciembre, podrá solicitar al Ministerio de Agricultura, Pesca y Alimentación, a través de su sede electrónica (https://sede.mapa.gob.es/portal/site/se), el acceso, rectificación y supresión de sus datos personales, la limitación y oposición al tratamiento de sus datos y a no ser objeto de decisiones automatizadas. Asimismo, si considera vulnerados sus derechos, podrá presentar una reclamación de tutela ante la Agencia Española de Protección de Datos: Sede Electrónica - Agencia Española de Protección de Datos (sedeagpd.gob.es).
+
+> Se sustituye por el art. único.8 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 35, de 9 de febrero de 2024. [Ref. BOE-A-2024-2386](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2386)
+
+> Se modifica por el art. único.8 del Real Decreto 161/2019, de 22 de marzo. [Ref. BOE-A-2019-5086](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5086)
+
+## ANEXO III — Modelo declaración compromiso
+
+**(Suprimido)**
+
+> Se suprime por el art. único.9 del Real Decreto 526/2023, de 20 de junio. [Ref. BOE-A-2023-14681](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14681)

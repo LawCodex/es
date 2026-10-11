@@ -1,0 +1,2059 @@
+---
+title: "Real Decreto 126/2013, de 22 de febrero, por el que se aprueban los Estatutos Generales de la Organización Colegial Veterinaria Española"
+identifier: "BOE-A-2013-2607"
+eli: "https://www.boe.es/eli/es/rd/2013/02/22/126"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2013-02-22
+published: 2013-03-09
+in_force_from: 2013-03-10
+last_amended: 2024-02-03
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 59"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-2607"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 126/2013, de 22 de febrero, por el que se aprueban los Estatutos Generales de la Organización Colegial Veterinaria Española
+
+La Organización Colegial Veterinaria Española es una Corporación de Derecho Público con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines, de acuerdo con lo dispuesto en el artículo 36 de la Constitución.
+
+Fue creada por la Real Orden de 7 de noviembre de 1924, que autorizaba la creación de las agrupaciones veterinarias. En ese momento, la organización profesional veterinaria española se agrupó bajo el nombre de Asociación Nacional de Veterinaria Española, reconociéndose la denominación de Colegio Nacional y Provinciales de Veterinarios por la Orden Ministerial del entonces Ministerio de Agricultura de 19 de octubre de 1940.
+
+Posteriormente, las ordenanzas que lo regían fueron modificadas por las órdenes ministeriales de 30 de agosto de 1945 y 13 de febrero de 1957, en donde se denominó a la Organización Colegial Española con el nombre de Consejo General y Colegios Provinciales de Veterinarios de España. Dichas Ordenanzas, en vigor hasta 1970, regulaban el ejercicio profesional de acuerdo con las estructuras legales y profesionales que entonces regían. Las profundas modificaciones legales operadas durante los años sesenta respecto a las elecciones de las organizaciones colegiales, a su representatividad y, particularmente, al ejercicio profesional veterinario llevaron a su substitución por la Orden del Ministerio de Agricultura de 25 de septiembre de 1970, posteriormente modificada en los años ochenta.
+
+En la actualidad, la Organización Colegial Veterinaria viene rigiéndose por unos Estatutos aprobados por el Real Decreto 1840/2000, de 10 de noviembre, por el que se aprueban los Estatutos Generales de la Organización Colegial Veterinaria Española, vigentes hasta la actualidad.
+
+Sin embargo, el proceso de adaptación del ordenamiento jurídico español a los cambios introducidos por la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior y por sus normas de transposición, hace necesario aprobar unos nuevos Estatutos de la Organización Colegial Veterinaria Española.
+
+Esta modificación ha supuesto un profundo cambio normativo en la regulación de los Colegios Profesionales y de los Consejos Generales de aquellas organizaciones de estructura múltiple, como la veterinaria. Ello exige una modificación de los Estatutos Generales para adecuarlos a la nueva realidad jurídica.
+
+Así, con el objeto de actualizar sus Estatutos y de adaptarlos a las modificaciones incorporadas en la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, por la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, el presente real decreto aprueban los nuevos Estatutos Organización Colegial Veterinaria Española.
+
+El Consejo General de Colegios de Veterinarios de España, oídos los Colegios Profesionales de su especialidad, ha elevado propuesta de nuevos Estatutos a la consideración del Ministerio de Agricultura, Alimentación y Medio Ambiente, de acuerdo con las previsiones del artículo 6.2 de la Ley 2/1974, de 13 de febrero.
+
+En su virtud, a propuesta del Ministro de Agricultura, Alimentación y Medio Ambiente, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 22 de febrero de 2013,
+
+DISPONGO:
+
+##### Artículo único. Aprobación de los Estatutos Generales de la Organización Colegial Veterinaria Española.
+
+Este real decreto tiene por objeto la aprobación de los Estatutos Generales de la Organización Colegial Veterinaria Española, cuyo texto figura en el anexo de la presente disposición.
+
+##### Disposición derogatoria única. Derogación del Real Decreto 1840/2000, de 10 de noviembre.
+
+Queda derogado el Real Decreto 1840/2000, de 10 de noviembre, por el que se aprueban los Estatutos Generales de la Organización Colegial Veterinaria Española.
+
+##### Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.18.ª de la Constitución, que atribuye al Estado la competencia exclusiva para dictar las bases del régimen jurídico de las Administraciones Públicas.
+
+##### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 22 de febrero de 2013.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Alimentación y Medio Ambiente,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO — Estatutos Generales de la Organización Colegial Veterinaria Española
+
+## TÍTULO I — Disposiciones generales
+
+### CAPÍTULO I — Naturaleza jurídica de la Organización Colegial Veterinaria
+
+##### Artículo 1. Naturaleza jurídica de la Organización Colegial Veterinaria.
+
+1\. La Organización Colegial Veterinaria estará integrada por: el Consejo General de Colegios de la Profesión Veterinaria de España; los Consejos de Colegios existentes en las comunidades autónomas y los que, en su caso, se constituyan, y los Colegios Oficiales de la Profesión Veterinaria existentes en cada provincia y en las Ciudades de Ceuta y Melilla. Todos ellos son corporaciones de derecho público, que se regirán, en desarrollo de lo dispuesto en el artículo 36 de la Constitución Española, por la Ley 2/1974, de 13 de febrero, sobre Colegios Profesionales, por las leyes autonómicas de Colegios Profesionales y por lo dispuesto en estos Estatutos Generales. Su estructura y funcionamiento serán democráticos, tiene carácter representativo y personalidad jurídica propia, independientes de la Administración General del Estado y de la de las comunidades autónomas, en su caso, de las que no forman parte integrante, sin perjuicio de las relaciones de derecho público que, con ellas, legalmente les correspondan.
+
+2\. El Consejo General, los Consejos de Colegios Autonómicos y los Colegios Oficiales de la Profesión Veterinaria dentro de su propio y respectivo ámbito de actuación, gozarán separada e individualmente de plena capacidad para el cumplimiento de sus fines, pudiendo adquirir a título oneroso o lucrativo, enajenar, vender, gravar, poseer y reivindicar toda clase de bienes; contraer obligaciones y, en general, ser titulares de toda clase de derechos, ejecutar o soportar cualquier acción judicial, reclamación o recurso en todas las vías y jurisdicciones, civil, penal, laboral, contencioso-administrativa, económica-administrativa e incluso los recursos extraordinarios de revisión y casación en el ámbito de su competencia.
+
+3\. La representación legal del Consejo General, de los Consejos de Colegios Autonómicos y de los Colegios Oficiales, tanto en juicio como fuera de él, recaerá en sus respectivas Presidencias, quienes se hallarán legitimadas para otorgar poderes generales o especiales a Procuradores, Letrados o a cualquier clase de mandatarios, previo acuerdo de las Juntas de Gobierno respectivas.
+
+4\. De acuerdo con el artículo 3.2 de la Ley 2/1974, de 13 de febrero, cuando así lo establezca una ley estatal, los Colegios Profesionales agruparán obligatoriamente a todos los veterinarios que ejerzan la profesión en cualquiera de sus modalidades, ya sea libremente, ya en entidades privadas, y en toda actividad de la misma índole en que sea necesario estar en posesión del título, o siempre que dicha titulación fuera condición para desempeñarla. Voluntariamente podrán solicitar su colegiación quienes, con título de veterinario, no ejerzan la profesión.
+
+Quedan exceptuados de la colegiación obligatoria los militares de carrera pertenecientes al Cuerpo Militar de Sanidad especialidad fundamental veterinaria, y militares de complemento adscritos al mismo cuerpo con la misma especialidad fundamental de acuerdo con lo previsto en el artículo 42 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+5\. La Organización Colegial de la profesión veterinaria española tiene como emblema el siguiente:
+
+a) Un campo de fondo con unos montículos tras de los cuales aparece el disco del sol naciente, alrededor del cual campea la inscripción “Hygia Pecoris, Salus Populi”.
+
+b) Delante de este motivo aparecen dos ovejas en medio de las cuales va colocada la Cruz de Malta.
+
+c) Todo ello estará rodeado por dos ramas arqueadas convergentes de abajo arriba, de hojas de laurel.
+
+6\. La Organización Colegial Veterinaria Española está colocada bajo el patronazgo de San Francisco de Asís.
+
+7\. El emblema se reflejará en la medalla corporativa a utilizar por todos los miembros de los órganos rectores de la Organización Colegial Veterinaria (Presidentes/as de Colegios Oficiales Provinciales, miembros de los Consejos de Colegios de comunidades autónomas y del Consejo General de Colegios de la profesión Veterinaria de España) en los actos oficiales y circunstancias de honor y protocolo a que asistan en representación de la profesión colegiada.
+
+El emblema corporativo se materializa en una medalla suspendida en cordón de seda verde con espiral de hilo de oro.
+
+> Se modifica por el art. único.1 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO II — Relaciones con la Administración General del Estado
+
+##### Artículo 2. Relaciones con la Administración General del Estado.
+
+1\. El Consejo General de Colegios Veterinarios de España se relacionará con la Administración General del Estado, a través del Ministerio de Agricultura, Pesca y Alimentación. Esta relación se entiende sin perjuicio de las funciones que el Ministerio de Sanidad ostenta en relación a la profesión veterinaria dada su condición de profesión sanitaria.
+
+2\. La Organización Colegial Veterinaria, destinada a colaborar en la realización del interés general, gozará del amparo de la Ley y del reconocimiento por el Estado, las comunidades autónomas y las Ciudades de Ceuta y Melilla.
+
+3\. El Consejo General, los Consejos de Colegios Autonómicos y los Colegios Oficiales tendrán el tratamiento de ilustre y sus Presidentes el de ilustrísimos señores.
+
+> Se modifica por el art. único.2 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO III — Fines de la Organización Colegial Veterinaria
+
+##### Artículo 3. Fines de la Organización Colegial Veterinaria.
+
+Son fines de la Organización Colegial Veterinaria:
+
+a) La ordenación, en el ámbito de su competencia, del ejercicio de la profesión veterinaria, la representación institucional exclusiva de la misma cuando esté sujeta a colegiación obligatoria, la defensa de los intereses profesionales de las personas colegiadas y la protección de los intereses de los consumidores y usuarios de los servicios de sus personas colegiadas, todo ello sin perjuicio de la competencia de la Administración pública por razón de la relación funcionarial.
+
+b) La salvaguarda y observancia de los principios deontológicos y ético-sociales de la profesión veterinaria y de su dignidad y prestigio, a cuyo efecto le corresponde elaborar los códigos correspondientes y la aplicación de estos.
+
+c) La promoción, por todos los medios a su alcance, de la constante mejora de los niveles científico, técnico, cultural, económico y social de las personas colegiadas, a cuyo efecto podrá organizar y promover toda clase de asociaciones en materia veterinaria en sus diferentes especialidades, instituciones culturales y sistemas de previsión y protección social.
+
+d) La colaboración con los poderes públicos en la prevención de enfermedades de origen animal y/o medioambiental y que afecten a la salud pública y a la población humana, mejora de la sanidad y bienestar animal, ganadería española y la más eficiente, justa y equitativa regulación y ordenación del sector ganadero y alimentario desde la fase de producción al consumo, así como la atención al medio ambiente.
+
+> Se modifica por el art. único.3 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO IV — Ámbito y distribución territorial de la Organización Colegial Veterinaria
+
+##### Artículo 4. Competencia territorial.
+
+El Consejo General de Colegios de la Profesión Veterinaria de España extiende su competencia a todo el territorio español. Su domicilio, con la totalidad de sus servicios, radicará en Madrid, sin perjuicio de poder celebrar reuniones en cualquier otro lugar del territorio español, siempre y cuando así lo acuerde la Junta Ejecutiva Permanente.
+
+Los Colegios Oficiales de la Profesión Veterinaria extienden su competencia, respectivamente, a cada una de las provincias que integran el territorio de España y a las ciudades de Ceuta y Melilla.
+
+Los Consejos de Colegios de la Profesión Veterinaria de ámbito autonómico constituidos o que se constituyan tendrán la denominación, composición, competencias y funciones que les correspondan dentro del territorio respectivo, con arreglo a la legislación aplicable.
+
+> Se modifica por el art. único.4 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+## TÍTULO II — Estatutos del Consejo General de Colegios Veterinarios
+
+### CAPÍTULO I — Naturaleza y funciones
+
+##### Artículo 5. Naturaleza.
+
+El Consejo General de Colegios Veterinarios de España es el superior órgano representativo y coordinador en el ámbito estatal e internacional de los ilustres Colegios Oficiales de Veterinarios de España. Tiene, a todos los efectos, la condición de corporación de derecho público, con personalidad jurídica propia y plena capacidad para el cumplimiento de sus fines.
+
+##### Artículo 6. Funciones.
+
+Son funciones del Consejo General de Colegios Veterinarios de España:
+
+a) Las atribuidas por el artículo 5 de la Ley de Colegios Profesionales a los Colegios Oficiales de Veterinarios, en cuanto tengan ámbito o repercusión nacional o internacional.
+
+b) Las que sean de aplicación en virtud del artículo 9 de la misma Ley y cuantas otras pudieren venirle atribuidas por virtud de disposiciones generales o especiales.
+
+c) Ostentar la representación exclusiva y la defensa de la profesión veterinaria, cuando esté sujeta a colegiación obligatoria, haciendo suyas sus aspiraciones legítimas, dentro del ámbito de sus respectivas competencias.
+
+d) Emitir, cuando proceda y siempre que se considere necesario, los informes que le sean solicitados por la Administración, Colegios de la Profesión Veterinaria y Corporaciones Oficiales respecto a asuntos relacionados con sus fines o que acuerde formular de propia iniciativa e intervenir en todas las cuestiones que afecten a la veterinaria española, informando preceptivamente cualquier otro proyecto de disposición estatal que afecte a las condiciones generales del ejercicio profesional, entre las que figuran el ámbito, los títulos oficiales requeridos, las condiciones de ejercicio y el régimen de incompatibilidades con otras profesiones. Informar preceptivamente todo proyecto estatal de modificación de la legislación sobre Colegios Profesionales.
+
+e) Velar por el prestigio de la profesión de veterinario y cuidar de ordenar y armonizar en todo momento la actuación de la profesión con las exigencias del interés general. La promoción y realización de actividades de cooperación al desarrollo y ayuda humanitaria, tanto en el ámbito nacional como internacional.
+
+f) Representar y ser portavoz del conjunto de los Ilustres Colegios Oficiales de Veterinarios de España en el ámbito estatal e internacional.
+
+g) Defender los derechos de los Colegios Oficiales de Veterinarios, así como los de sus colegiados cuando para ello sea requerido por el Colegio respectivo o venga determinado por las leyes. El Consejo General podrá promover, en el cumplimiento de los fines antedichos, las acciones y recursos que procedan ante las autoridades y jurisdicciones competentes, sin perjuicio de la legitimación que corresponda a cada uno de los distintos Colegios Oficiales de Veterinarios o, individualmente, a cada veterinario.
+
+h) Elaborar los Estatutos Generales de la Organización Colegial Veterinaria, así como sus modificaciones, que serán objeto de aprobación por el Gobierno. Con carácter previo, deberán ser sometidos a la aprobación de la Asamblea General de Presidentes de este Consejo General.
+
+i) Establecer las relaciones con los organismos y corporaciones similares de otros países, así como con las organizaciones internacionales, asumiendo la representación de la veterinaria española en los términos señalados por el artículo 1.3 de la Ley 2/1974, de 13 de febrero.
+
+j) Dirimir los conflictos que puedan suscitarse entre Colegios pertenecientes a diferentes comunidades autónomas en el ámbito de sus competencias.
+
+k) Resolver los recursos que se interpongan contra los acuerdos de los Colegios en los términos prevenidos en los presentes Estatutos Generales, cuando así esté previsto en sus Estatutos Particulares, lo disponga la correspondiente legislación autonómica y también en ausencia de tal legislación.
+
+l) Cuantas funciones redunden en beneficio de la protección de los intereses de los consumidores y usuarios de los servicios de los colegiados.
+
+m) Establecer modelos de documentos e impresos utilizados en la actividad profesional de los veterinarios, siempre y cuando se trate de documentos que hayan de ser uniformes en todo el territorio nacional y, por tanto, sin perjuicio de otros modelos de documentos que por razón de la legislación autonómica hayan de existir dentro del territorio de la Comunidad respectiva y puedan preverse en los Estatutos particulares.
+
+n) Adoptar las medidas necesarias para que los Colegios cumplan las resoluciones del propio Consejo General, dictadas en materia de su competencia, a petición de los propios Colegios afectados.
+
+ñ) Ejercer, en el ámbito de sus competencias, las funciones disciplinarias con respecto a los miembros de las Juntas de Gobierno de los Colegios Oficiales de la Profesión Veterinaria, así como respecto a los miembros del propio Consejo General, en los términos y supuestos previstos en el artículo 116 de los presentes Estatutos. Igualmente, le corresponde llevar el fichero y registro, de ámbito estatal, de las sanciones que afecten a las personas veterinarias colegiadas.
+
+o) Elaborar y aprobar sus presupuestos anuales y la cuenta de liquidación de los mismos, así como la aportación equitativa de los Colegios Oficiales y su régimen. Igualmente, podrá subvencionar el régimen económico de los organismos colegiales que lo precisen, en cuyo caso, estará facultado para verificar que la subvención se ha destinado a la finalidad para la que se solicitó.
+
+p) En general, en materia económica y sin exclusión alguna, realizar, respecto al patrimonio propio del Consejo, toda clase de actos de disposición y de gravamen y, en especial: 1) administrar bienes; 2) pagar y cobrar cantidades; 3) hacer efectivos libramientos, dar o aceptar bienes en o para pago; 4) otorgar transacciones, compromisos y renuncias; 5) comprar, vender, retraer y permutar, pura o condicionalmente con precio confesado o aplazado o pagado al contado toda clase de bienes muebles e inmuebles, derechos reales y personales; 6) disolver comunidades de bienes y condominios, declarar obras nuevas, mejoras y exceso de cabida; 7) constituir, aceptar, dividir, enajenar, gravar, redimir y extinguir usufructos, servidumbres, opciones y arrendamientos inscribibles y demás derechos reales, ejercitando todas las facultades derivadas de los mismos; 8) constituir hipotecas; 9) tomar parte en concursos y subastas, hacer propuestas y aceptar adjudicaciones; 10) aceptar a beneficio de inventario y repudiar herencias y hacer aprobar o impugnar particiones de herencia y legar o recibir legados; 11) contratar, modificar, rescindir y liquidar seguros de todas clases; 12) operar en cajas oficiales, cajas de ahorro y bancos, incluso el de España y sus sucursales, haciendo cuanto la legislación y prácticas bancarias permitan; seguir, abrir y cancelar cuentas y libretas de ahorro, cuentas corrientes y de crédito y cajas de seguridad; 13) librar, aceptar, endosar, cobrar, intervenir y cobrar letras de cambio y otros efectos; 14) comprar, vender, canjear y pignorar valores y cobrar sus intereses, dividendos y amortizaciones, concertar pólizas de crédito ya sea personal o con pignoración de valores, con bancos y establecimientos de crédito, incluso el Banco de España y sus sucursales, firmando los oportunos documentos; y 15) modificar, transferir, cancelar, retirar y constituir depósitos de efectivo o valores provisionales o definitivos.
+
+q) 1) Instar actas notariales de todas clases; hacer, aceptar y contestar notificaciones y requerimientos notariales; 2) comparecer ante centros y organismos del Estado, comunidades autónomas, Ciudades de Ceuta y Melilla, Provincia y Municipio, Jueces, Tribunales, Fiscalías, Delegaciones, Comités, Juntas, Jurados y Comisiones y en ellos instar, seguir y terminar como actor, demandado o en cualquier otro concepto toda clase de expedientes, juicios y procedimientos civiles, penales, administrativos, contencioso-administrativos, gubernativos, laborales, de todos los grados, jurisdicciones e instancias, elevando peticiones y ejerciendo acciones y excepciones en cualesquiera procedimientos, trámites y recursos, incluso de casación, prestar cuanto se requiera la ratificación personal; y otorgar poderes con las facultades que detalle; revocar poderes y sustituciones; 3) interponer toda clase de recursos ante la Administración del Estado, de las comunidades autónomas, de las Ciudades de Ceuta y Melilla, Provincia o Municipios; 4) aceptar, desempeñar y renunciar, dentro de su ámbito de competencia, mandatos y poderes de los Colegios Oficiales de Veterinarios.
+
+r) Adoptar las medidas conducentes a evitar el intrusismo en el ejercicio profesional, para cuya persecución, denuncia y, en su caso, sanción, está el Consejo General amplia y especialmente legitimado, sin perjuicio de la iniciativa y competencia de cada Colegio.
+
+s) Impedir la competencia desleal y velar por la plena efectividad de las leyes que regulen las incompatibilidades del ejercicio de la Veterinaria con otras profesiones.
+
+t) Formar y mantener actualizado el censo de ámbito estatal de los veterinarios españoles (altas, bajas, etc.) y de los veterinarios procedentes de otros Estados miembros de la Unión Europea y de terceros países, así como el Registro General de Sociedades Profesionales, pudiendo dar a los datos la publicidad legalmente prevista o autorizada por la Asamblea General de Presidentes, así como emitir, con el visto bueno del Presidente, las certificaciones que le sean solicitadas.
+
+u) Designar representantes de la veterinaria para su participación en los consejos y organismos consultivos de la Administración de ámbito nacional e internacional. Cooperar con los poderes públicos en la formulación de la política sanitaria y alimentaria, participando en la elaboración de cuantas disposiciones afecten a la Veterinaria de Salud Pública, al medio ambiente, a la higiene alimentaria, a la producción y sanidad animal, al desarrollo ganadero, a la protección y bienestar animal, a la protección de los intereses de los consumidores y usuarios de los servicios de sus colegiados y a cuantas otras disposiciones se relacionen con estos fines.
+
+v) Organizar con carácter nacional instituciones y servicios de aseguramiento, asistencia y previsión para los veterinarios y colaborar con la Administración para la aplicación a los mismos del sistema de Seguridad Social más adecuado.
+
+w) Elaborar y aprobar un Código Deontológico de ámbito estatal de normas ordenadoras del ejercicio de la profesión veterinaria, el cual tendrá carácter obligatorio, y aplicar e interpretar dichas normas, velando por su observancia y uniforme ejecución. Estará sujeto a las leyes y será accesible de forma telemática, de acuerdo con lo dispuesto en la legislación de Colegios Profesionales.
+
+x) Colaborar con la función de perfeccionamiento profesional, participando en la elaboración de los planes oficiales de estudios, si son requeridos para ello por dichos Centros, controlando y coadyuvando a la docencia de graduados y recién graduados y formación continuada y participando en la formación y registro de especialistas y su titulación, con arreglo al apartado 2 del artículo 2 de la Ley de Colegios Profesionales.
+
+y) Organizar cuantos servicios de asesoramiento científico, jurídico, administrativo, laboral y fiscal, fueren necesarios o convenientes para mejor orientación y defensa de los Colegios de Veterinarios y sus colegiados, así como la publicación de cuantos medios informativos estimare pertinentes. Tratar de conseguir el mayor nivel de empleo de los colegiados, sin perjuicio de declarar la incompatibilidad del ejercicio profesional cuando, ética y deontológicamente, así se considere. Impulsar y desarrollar, a través de los Colegios Oficiales de Veterinarios, la mediación, así como desempeñar funciones de arbitraje, nacional e internacional, de conformidad con lo establecido en la legislación vigente.
+
+z) Editar los medios de expresión y comunicación del Consejo General, que se regirán por la normativa que exista al efecto.
+
+También corresponderán al Consejo General, finalmente, cuantas otras funciones y prerrogativas estén establecidas en las disposiciones vigentes y las que se le puedan atribuir en el futuro.
+
+> Se modifican las letras d) y ñ) por el art. único.5 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO II — Constitución y órganos del Consejo General
+
+#### Sección 1.ª
+
+##### Artículo 7. Constitución.
+
+El Consejo General de Colegios Veterinarios de España estará integrado por la Asamblea General de Presidentes, por la Junta Interterritorial y por la Junta Ejecutiva Permanente.
+
+##### Artículo 8. Condiciones para ser elegible.
+
+Son condiciones de elegibilidad para cualquiera de los órganos que integran el Consejo General: encontrarse en el ejercicio de la profesión; no hallarse incurso en ninguna de las incompatibilidades previstas en la Ley de Colegios Profesionales, los Estatutos Generales de la Organización Colegial Veterinaria o en otras disposiciones legales, y tener una antigüedad de colegiación de, como mínimo, cinco años, que además serán ininterrumpidos, para cualquiera de los cargos de la Junta Ejecutiva Permanente, salvo el caso del Presidente para el que se requerirá una antigüedad de colegiación mínima de diez años.
+
+#### Sección 2.ª De la Asamblea General de Presidentes
+
+##### Artículo 9. Asamblea General de Presidentes.
+
+La Asamblea General de Presidentes de los Colegios Oficiales de Veterinarios, órgano supremo del Consejo General, estará integrada por:
+
+a) Un Presidente.
+
+b) Un Vicepresidente.
+
+c) Un Secretario General.
+
+d) Los Presidentes de todos los Colegios Oficiales de Veterinarios.
+
+##### Artículo 10. Funciones de la Asamblea General de Presidentes de Colegios Oficiales.
+
+Corresponderán a la Asamblea General, entre otras, las siguientes funciones:
+
+a) Aprobar la liquidación del Presupuesto y la Memoria Anual de los correspondientes ejercicios económicos del Consejo General, que habrá de ser redactada por el Secretario general dentro del primer trimestre de cada año.
+
+b) Aprobar el presupuesto correspondiente de ingresos y gastos del Consejo General para el ejercicio económico siguiente, que habrá de ser presentado en el último trimestre de cada año.
+
+c) Todas aquellas cuestiones que por su importancia y trascendencia le sean sometidas a estudio y aprobación por la Junta Interterritorial y la Junta Ejecutiva Permanente.
+
+d) Ratificar, en el ámbito de sus competencias, las sanciones que la Junta Ejecutiva Permanente del Consejo General imponga a miembros del propio Consejo o a miembros de Junta de Gobierno del Colegio, en los términos y supuestos previstos en el artículo 116 de los presentes Estatutos Generales.
+
+e) Aprobar el Código deontológico para el ejercicio de la profesión y sus modificaciones.
+
+f) Conocer la memoria anual de actividades.
+
+g) Aprobar los Estatutos Generales de la profesión, sus modificaciones, los reglamentos de régimen interior y otros de funcionamiento.
+
+h) Ejercer y votar la moción de censura contra la Junta Ejecutiva Permanente o alguno de sus miembros, en los términos previstos en los presentes Estatutos.
+
+i) Votar la cuestión de confianza planteada por la Junta Ejecutiva Permanente o por alguno de sus miembros, en los términos previstos en los presentes Estatutos.
+
+> Se modifican las letras d) y f) por el art. único.6 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 11. Reuniones de la Asamblea General.
+
+1\. La Asamblea General se podrá constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia. Las reuniones se celebrarán, con carácter preferente y siempre que fuere posible, de forma presencial. En las sesiones que celebre la Asamblea General a distancia, sus miembros podrán encontrarse en distintos lugares siempre y cuando se asegure por medios electrónicos, considerándose también tales los telefónicos y audiovisuales, la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que estas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos las audioconferencias y las videoconferencias.
+
+2\. La Asamblea General se reunirá con carácter ordinario dos veces al año, sin perjuicio de poder ser convocada por el/la Presidente/a, con carácter extraordinario, cuando la importancia de los asuntos lo requiera. El/La Presidente/a deberá convocar la Asamblea, también con carácter extraordinario, cuando así lo soliciten, al menos, dieciocho Presidentes/as de los Colegios, que deberán acompañar su solicitud de la correspondiente propuesta del orden día para la sesión cuya convocatoria solicitan. En este supuesto, la reunión deberá celebrarse en el plazo máximo de treinta días hábiles a contar desde el siguiente a la presentación de la solicitud.
+
+3\. Las convocatorias para la reunión de la Asamblea General se harán por la Secretaría, previo mandato de la Presidencia, con veinte días naturales de antelación, al menos, salvo casos de urgencia, en que podrán convocarse por cualquier medio de comunicación con cuarenta y ocho horas de anticipación.
+
+4\. Las convocatorias serán remitidas a los miembros de la Asamblea General a través de medios electrónicos. Se formularán por escrito e irán acompañadas del orden del día correspondiente, debiendo ponerse a disposición de los integrantes de la Asamblea General en la sede del Consejo General la información sobre los temas que figuren en el orden del día con, al menos, dos días naturales de antelación. En la convocatoria se hará constar, si procede, la celebración de la sesión en segunda convocatoria, no pudiendo mediar entre la primera y segunda convocatoria de la reunión un plazo inferior a media hora. En el caso de reuniones a distancia, en la convocatoria se harán constar las condiciones en que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
+
+5\. Quedará válidamente constituida la Asamblea, en primera convocatoria, cuando concurran, de forma presencial o a distancia, la mayoría de sus miembros. Quedará válidamente constituida en segunda convocatoria cuando asistan, como mínimo, un tercio de los componentes de la Asamblea. En ambas convocatorias habrán de estar presentes, necesariamente para la validez de los acuerdos adoptados, también el/la Presidente/a y el/la Secretario/a General, o personas en quien éstos deleguen.
+
+6\. Las reuniones de la Asamblea General no son públicas. No serán admitidos los votos delegados en Presidentes/as de otros Colegios, admitiéndose en cambio la representación debidamente acreditada, a través de otro miembro de la Junta de Gobierno del Colegio respectivo. Podrá convocarse, con carácter asesor, a cualquier persona que el/la Presidente/a o la Junta consideren idónea. El/La Presidente/a tendrá voto de calidad en caso de empate en la votación. Se prohíbe adoptar acuerdos respecto a asuntos que no figuren en el orden del día, salvo que estén presentes todos los miembros de la Asamblea General y sea declarada la urgencia del asunto por el voto favorable de la mayoría. En el caso de las sesiones celebradas a distancia, opcionalmente, el Consejo General podrá articular un sistema de voto telemático, de acuerdo con lo que disponga al efecto la normativa correspondiente aprobada por la propia Asamblea General.
+
+7\. Los acuerdos se adoptarán por mayoría de votos de los miembros asistentes, fijándose la siguiente ponderación de voto para los/las Presidentes/as de los Colegios Provinciales, que contarán con los votos que resulten de la siguiente escala de ponderación, según el número de personas colegiadas inscritas en el Colegio:
+
+a) Colegios de hasta 100 personas colegiadas, 1 voto.
+
+b) Colegios de 101 a 600 personas colegiadas, 2 votos.
+
+c) Colegios de 601 a 1.200 personas colegiadas, 3 votos.
+
+d) Colegios de 1.201 a 3.000 personas colegiadas, 4 votos.
+
+e) Colegios de 3.001 a 5.000 personas colegiadas, 5 votos.
+
+f) Colegios de 5.000 personas colegiadas en adelante, 6 votos.
+
+Como excepción, los siguientes acuerdos que se relacionan se aprobarán por la Asamblea General bajo el principio de “un Colegio, un voto”:
+
+1.º Las elecciones de cargos del Consejo General.
+
+2.º Las mociones de censura y, en su caso, cuestiones de confianza.
+
+A los efectos de los cómputos anteriores, se tendrán en cuenta el número de personas colegiadas a fecha 1 de enero de cada año, manteniéndose el resultado así obtenido para todas las sesiones de la Asamblea General que se celebren en ese año natural. Para ello, el/la Secretario/a General del Consejo General certificará el 1 de enero de cada año el número de personas colegiadas existentes en cada Colegio a esa fecha.
+
+8\. Cuando los miembros de la Asamblea General voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados.
+
+> Se modifica por el art. único.7 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 12. De la moción de censura.
+
+1\. El voto de censura a la Junta Ejecutiva Permanente o a alguno de sus miembros competerá siempre a la Asamblea General extraordinaria de Presidentes, convocada a ese solo efecto.
+
+2\. La solicitud de esa convocatoria de Asamblea General extraordinaria de Presidentes requerirá la firma de un mínimo de la mitad más uno de los Presidentes de Colegios que la integran. La solicitud deberá expresar con claridad las razones o motivos en que se funde.
+
+3\. La Asamblea General extraordinaria de Presidentes habrá de celebrarse dentro de los treinta días hábiles contados desde el siguiente a aquel en que se hubiera presentado la solicitud y no podrán tratarse en la misma más asuntos que los expresados en la convocatoria.
+
+4\. Para que el voto de censura sea aprobado y se produzca el consiguiente cese de la Junta Ejecutiva Permanente o del miembro de este órgano a quien afecte, será necesario el voto favorable de las dos terceras partes de la totalidad de los Presidentes de Colegios integrantes de la Asamblea General.
+
+Si el voto de censura fuera aprobado por la mayoría referida en el párrafo anterior, se convocarán elecciones en la forma prevista en los presentes Estatutos Generales.
+
+##### Artículo 13. De la cuestión de confianza.
+
+1\. La Junta Ejecutiva Permanente o cualquiera de sus miembros puede plantear ante la Asamblea General de Presidentes la cuestión de confianza sobre su programa de actuaciones, si considerase contestado mayoritariamente el mismo o sobre su actuación en el desempeño de sus funciones.
+
+2\. El otorgamiento o rechazo de la confianza competerá siempre a la Asamblea General extraordinaria de Presidentes, convocada a ese solo efecto por la Junta Ejecutiva Permanente del Consejo, por acuerdo de la misma o a petición de aquel de sus miembros que desee plantear individualmente la cuestión de confianza.
+
+3\. La confianza se entenderá otorgada cuando vote a favor la mayoría simple de los asistentes, en los términos previstos en el artículo 11 de los presentes Estatutos.
+
+#### Sección 3.ª De la Junta Interterritorial
+
+##### Artículo 14. Junta Interterritorial del Consejo General.
+
+1\. La Junta Interterritorial del Consejo General de Colegios Veterinarios de España estará integrada por:
+
+a) El Presidente.
+
+b) El Secretario General.
+
+c) Un Consejero integrante de la Junta Ejecutiva Permanente.
+
+d) Un representante por cada una de las comunidades autónomas y Ciudades de Ceuta y Melilla, que deberá ostentar la condición de Presidente del Consejo de Colegios de la comunidad autónoma que corresponda (o persona que legalmente lo represente) o, en su defecto, que será designado de acuerdo con el sistema de elección que al efecto esté establecido en los Estatutos Particulares de los citados Colegios y en los del Consejo de Colegios de la comunidad autónoma, en su caso.
+
+2\. En defecto de tal previsión estatutaria, el representante será elegido mediante votación personal de los Presidentes de Colegios de las provincias que integran la comunidad autónoma.
+
+3\. Caso de existir un solo Colegio de Veterinarios en la comunidad autónoma o en las Ciudades de Ceuta y Melilla, su Presidente formará parte directamente de este órgano como representante de la misma.
+
+##### Artículo 15. Reuniones de la Junta Interterritorial del Consejo General.
+
+1\. La Junta Interterritorial se podrá constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia. Las reuniones se celebrarán, con carácter preferente y siempre que fuere posible, de forma presencial. En las sesiones que celebre la Junta Interterritorial a distancia, sus miembros podrán encontrarse en distintos lugares siempre y cuando se asegure por medios electrónicos, considerándose también tales los telefónicos y audiovisuales, la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que estas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos las audioconferencias y las videoconferencias.
+
+2\. La Junta Interterritorial del Consejo General se reunirá ordinariamente cuatro veces al año, sin perjuicio de que, cuando los asuntos lo requieran, a juicio del Presidente/a, lo efectúe con mayor frecuencia.
+
+3\. También se reunirá con carácter extraordinario cuando lo soliciten al menos los representantes de siete comunidades autónomas, que deberán motivar la petición y acompañarla de la correspondiente propuesta del orden del día para la sesión cuya convocatoria solicitan.
+
+4\. Las convocatorias serán remitidas a los miembros de la Junta Interterritorial a través de medios electrónicos. Se cursarán, con el orden del día, al menos, con veinte días naturales de antelación, salvo casos de urgencia, en que podrán convocarse con cuarenta y ocho horas de antelación, y, obligatoriamente, por escrito o por cualquier medio de comunicación, debiendo ponerse a disposición de los integrantes de la Junta Interterritorial la información sobre los temas que figuren en el orden del día con, al menos, diez días naturales de antelación, cuando sea posible.
+
+5\. En la convocatoria se hará constar, si procede, la celebración de la sesión en segunda convocatoria, no pudiendo mediar entre la primera y la segunda convocatoria de la reunión un plazo inferior a media hora. En el caso de reuniones a distancia, en la convocatoria se harán constar las condiciones en que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
+
+6\. La Junta Interterritorial podrá trasladar a la decisión de la Asamblea General cuestiones que sean de su competencia. Los acuerdos se adoptarán por mayoría simple. Se prohíbe adoptar acuerdos respecto a asuntos que no figuren en el orden del día, salvo que estén presentes todos los miembros de la Junta Interterritorial y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+
+En cualquier caso, para que los acuerdos se consideren válidos en primera convocatoria, deberán concurrir, de forma presencial o a distancia la mitad más uno de sus miembros.
+
+Serán válidos los acuerdos adoptados en la segunda convocatoria cuando concurran, de forma presencial o a distancia, como mínimo, una tercera parte de los componentes de la Junta Interterritorial. En ambas convocatorias habrán de estar presentes, necesariamente para la validez de los acuerdos adoptados, también el/la Presidente/a y el/la Secretario/a General, o personas en quien éstos deleguen.
+
+Cuando los miembros de la Junta Interterritorial voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados.
+
+7\. El/La Presidente/a y la Junta Interterritorial podrán convocar, con carácter asesor, a cualquier persona que consideren idónea. Cuando el asunto objeto de debate afecte a alguna de las áreas de gestión encomendadas a cualquiera de los/las Consejeros/as integrantes de la Junta Ejecutiva Permanente, que no formen parte además de la Junta Interterritorial, éste deberá asistir a la sesión de que se trate, si bien lo hará con voz pero sin voto.
+
+8\. Las reuniones de la Junta Interterritorial no son públicas. La asistencia y el ejercicio de derechos políticos en la Junta Interterritorial es personal, no admitiéndose delegaciones en representantes de otras comunidades autónomas. Se admitirá, en cambio, la representación debidamente acreditada, de conformidad con los Estatutos particulares de los Colegios y del Consejo de Colegios de la comunidad autónoma, en su caso, a través de otro miembro del órgano de gobierno del Consejo Autonómico respectivo o del de cualquier Colegio de la misma comunidad autónoma.
+
+9\. De las actas de las reuniones se dará traslado a todos los miembros integrantes de la Junta Interterritorial, debiendo, a su vez, cada representante autonómico remitirlas a los Colegios de su respectiva Comunidad Autónoma.
+
+10\. Corresponde a la Junta Interterritorial:
+
+a) La coordinación interautonómica de la política general de la Organización Colegial Veterinaria y la coordinación de los intereses de los distintos Colegios Oficiales de la Profesión Veterinaria (siempre que se hallen implicados Colegios pertenecientes a diferentes Comunidades Autónomas) y de los Consejos de Colegios de las Comunidades Autónomas, en su caso.
+
+b) La elaboración de proyectos que puedan ser presentados a la Asamblea General y la preparación de los asuntos que puedan ser tratados por este órgano colegiado.
+
+c) La proposición al Presidente/a de la convocatoria de la Asamblea con carácter extraordinario.
+
+d) La proposición de los programas o líneas generales de actuación en materia de formación continuada.
+
+e) La proposición de actuaciones en materia de imagen de la profesión, sin perjuicio de las competencias de la Junta Ejecutiva Permanente y de la Asamblea General de Presidentes/as.
+
+f) Proponer a la Junta Ejecutiva Permanente la realización de los estudios sociológico-sanitarios y profesionales sobre la atención veterinaria en España y el encargo de la organización de los Congresos Nacionales e Internacionales de la Veterinaria en conjunto.
+
+g) Promover las iniciativas encaminadas a resolver los problemas de la Veterinaria y crear y promover becas y premios de distinta naturaleza.
+
+h) Proponer las medidas de persecución y denuncia del intrusismo.
+
+i) Trasladar las propuestas en materias de su competencia a la Junta Ejecutiva Permanente o a la Asamblea General de Presidentes/as, según proceda.
+
+> Se modifica por el art. único.8 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+#### Sección 4.ª De la Junta Ejecutiva Permanente del Consejo General
+
+##### Artículo 16. Elección del Presidente, Vicepresidente y Secretario General.
+
+El Presidente, el Vicepresidente y el Secretario general serán elegidos por todos los Presidentes de los Colegios Oficiales de Veterinarios de España o por quienes estatutariamente les representen, de entre los Presidentes de Colegio integrantes de la Asamblea General que cumplan los requisitos del artículo 8. Será también elegible, además de los anteriores, quien ostente el cargo de Presidente del Consejo General cuando opte a la reelección.
+
+Con independencia de lo dispuesto en el párrafo anterior, en el caso particular del Presidente del Consejo General, será elegible también cualquiera entre todos los colegiados siempre que, al menos, tenga una antigüedad de colegiación mínima de diez años y presente su candidatura con la firma de quince Presidentes de Colegios.
+
+##### Artículo 17. Elección de los Consejeros de la Junta Ejecutiva Permanente.
+
+De entre los miembros de la Asamblea General de Presidentes y también por sus integrantes se elegirán los Consejeros de la Junta Ejecutiva Permanente, en número de ocho, que asumirán la titularidad de las distintas Secciones.
+
+##### Artículo 18. Cese de los miembros de la Junta Ejecutiva Permanente.
+
+Los miembros de la Junta Ejecutiva Permanente cesarán en sus cargos por las siguientes causas:
+
+a) Condena por sentencia firme que lleve aparejada la inhabilitación absoluta o especial para cargo público.
+
+b) Sanción disciplinaria firme por la comisión de falta muy grave.
+
+c) Pérdida de la confianza del Presidente razonada ante la Asamblea General y tras la aprobación de ésta.
+
+d) Faltas de asistencia durante tres reuniones consecutivas de la Junta Ejecutiva, sin causa justificada.
+
+e) La denegación por parte de la Asamblea General de Presidentes de la confianza en los términos previstos en los presentes Estatutos.
+
+f) La aprobación de la moción de censura en los términos previstos en los presentes Estatutos.
+
+g) Pérdida de las condiciones de elegibilidad expresadas en los artículos 8 y 16.
+
+h) Renuncia expresa del interesado ante la Asamblea General de Presidentes.
+
+i) Expiración o término del plazo para el que fueron elegidos.
+
+j) Por nombramiento para un cargo político de carácter ejecutivo del Gobierno o de la Administración General del Estado, Autonómica, Local o Institucional, o para cualquier otro que esté afecto por la legislación estatal o autonómica vigente en materia de incompatibilidades.
+
+Si durante el mandato de los miembros de la Junta Ejecutiva Permanente del Consejo General se produjere alguna vacante, ésta deberá notificarse a la Asamblea General y cubrirse mediante la elección de un sustituto, Presidente de Colegio, en el plazo de seis meses, en la forma prevista en los presentes Estatutos Generales. La Junta Ejecutiva Permanente, con la ratificación de la Asamblea General de Presidentes, designará, si lo considera oportuno, un sustituto con carácter de interinidad, hasta que se verifique la convocatoria de elecciones, en el plazo antes citado.
+
+Una vez se verifique la elección, el electo permanecerá en su cargo hasta que se agote el mandato electoral para el que fueron elegidos el resto de los miembros de la Junta, incluido el que causó la vacante.
+
+##### Artículo 19. Convocatoria de elecciones a los cargos de la Junta Ejecutiva Permanente del Consejo General.
+
+El Consejo General convocará las elecciones a los cargos de la Junta Ejecutiva Permanente con, al menos, una antelación de dos meses antes de que se produzca la expiración del mandato, que se computará desde la toma de posesión. El acuerdo se comunicará a los Colegios por escrito. Las candidaturas respectivas serán abiertas, individuales o conjuntas, y deberán obrar en el Consejo con treinta días de antelación a la fecha en que hayan de celebrarse las elecciones. En los cinco días siguientes, el Consejo General comunicará a los Colegios los/las candidatos/as que, por reunir los requisitos oportunos, han sido proclamados.
+
+Serán proclamados candidatos todos los que, reuniendo las circunstancias aludidas en el artículo 8, expresen por escrito, ante el órgano que haya de elegirlos, su expreso deseo de presentarse para la elección y el cargo al que quieran optar.
+
+Una vez convocado el proceso electoral, la Junta Ejecutiva Permanente completa pasará a la situación de *«en funciones»*, no pudiendo adoptar acuerdos que comprometan, presupuestariamente, al futuro equipo que se forme a consecuencia del proceso electoral iniciado.
+
+> Se modifica el primer párrafo por el art. único.9 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 20. Procedimiento electoral.
+
+La elección para los cargos de la Junta Ejecutiva Permanente del Consejo General se efectuará por votación en la sede del Consejo, conforme a los artículos precedentes y de acuerdo con la normativa electoral que reglamentariamente se apruebe por la Organización Colegial Veterinaria. Los electores podrán votar a cualesquiera candidatos/as de los proclamados por la Junta Ejecutiva Permanente, con independencia de que pertenezcan a candidaturas, individuales o conjuntas, diferentes. Se aceptará la representación debidamente acreditada del Presidente/a del Colegio respectivo por cualquiera de los miembros de la Junta de Gobierno correspondiente, pero en ningún caso la delegación en el/la Presidente/a o cualquier miembro de Junta de Gobierno pertenecientes a otro Colegio. Excepcionalmente y por acuerdo de la Junta Ejecutiva Permanente, la elección podrá realizarse en otro lugar que reúna las condiciones de solemnidad que el acto requiere.
+
+La mesa electoral en el Consejo General estará constituida en el día y hora que se fije en la convocatoria, y estará conformada por tres Presidentes/as de Colegio y sus respectivos suplentes, cuya designación se hará por sorteo, siendo obligatoria la aceptación. Cada uno/una de los/las candidatos/as podrá además designar un Interventor para que forme parte de la mesa.
+
+Actuarán de Presidente/a y Secretario/a de la mesa electoral, los/las Presidentes/as Colegiales de mayor y menor edad, respectivamente, de sus componentes elegidos en la forma antedicha.
+
+El voto podrá ser, presencial, por correo y telemático, de acuerdo con las normas electorales que para cada caso acuerde el Consejo General.
+
+Finalizada la votación, se procederá seguidamente al escrutinio de los votos obtenidos por cada candidato/a a los cargos objeto de la elección, concluido el cual, el/la Presidente/a de la mesa proclamará a los que resulten electos por mayoría simple. En caso de empate entre dos candidatos/as, la Mesa proclamará al candidato/a que resulte elegido mediante sorteo público. Del desarrollo de la votación y del resultado del escrutinio se levantará acta seguidamente, debiendo figurar en la misma relación nominal de los votos emitidos.
+
+Copia del acta se remitirá a todos los Colegios Oficiales de la Profesión Veterinaria.
+
+> Se modifica por el art. único.10 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 21. Posesión y duración de los cargos.
+
+Realizada la proclamación de los cargos de la Junta Ejecutiva Permanente electos, se reunirá la Asamblea General de Presidentes/as en sesión extraordinaria, procediéndose al relevo presidencial y del resto de los cargos en acto protocolario, dirigido por el/la Presidente/a saliente; si éste repitiera en el cargo, la investidura correría a cargo del presidente/a colegial de mayor edad, auxiliado por el más joven.
+
+El mandato de los elegidos miembros de la Junta Ejecutiva Permanente será de seis años, computados a partir de la fecha de su toma de posesión, pudiendo ser reelegidos por dos mandatos adicionales de otros seis años cada uno como máximo. En el caso del Presidente/a y del Secretario/a General del Consejo, el que resulte elegido/a deberá cesar en su condición de Presidente/a de Colegio, lo que no le impedirá ser reelegido/a Presidente/a o Secretario/a General del Consejo General en elección sucesiva, aunque ya no ostente el cargo de Presidente/a de Colegio.
+
+En la primera reunión de la Junta Ejecutiva Permanente tras la elección, el/la Presidente/a electo delimitará las áreas de gestión y competencias correspondientes a cada uno de los miembros electos de la misma que le corresponde presidir, debiendo presentar también las líneas básicas de su programa.
+
+> Se modifica por el art. único.11 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 22. Reuniones de la Junta Ejecutiva Permanente del Consejo General.
+
+1\. La Junta Ejecutiva Permanente se podrá constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia. Las reuniones se celebrarán, con carácter preferente y siempre que fuere posible, de forma presencial. En las sesiones que celebre la Junta Ejecutiva Permanente a distancia, sus miembros podrán encontrarse en distintos lugares siempre y cuando se asegure por medios electrónicos, considerándose también tales los telefónicos y audiovisuales, la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que estas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos las audioconferencias y las videoconferencias.
+
+2\. La Junta Ejecutiva Permanente del Consejo General se reunirá ordinariamente una vez al mes, sin perjuicio de que, cuando los asuntos lo requieran, a juicio del Presidente/a o de la mayoría de sus miembros integrantes, lo efectúe con carácter extraordinario. En este último caso, los mencionados miembros integrantes de la Junta deberán motivar la petición y acompañarla de la correspondiente propuesta del orden del día para la sesión cuya convocatoria solicitan.
+
+3\. Las convocatorias serán remitidas a los miembros de la Junta Ejecutiva Permanente a través de medios electrónicos. Se cursarán, con el orden del día, con cinco días naturales de antelación, al menos, salvo casos de urgencia, en que podrá convocarse con veinticuatro horas de antelación y, obligatoriamente, por escrito o por cualquier medio de comunicación, debiendo ponerse a disposición de los integrantes de la Junta Ejecutiva Permanente la información sobre los temas que figuren en el orden del día con la máxima antelación posible. En la citación se hará constar la celebración de la sesión en primera y segunda convocatoria, no pudiendo mediar un plazo inferior a media hora entre ambas. En el caso de reuniones a distancia, en la convocatoria se harán constar las condiciones en que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
+
+4\. Quedará válidamente constituida la Junta Ejecutiva Permanente del Consejo General en primera convocatoria cuando asistan, de forma presencial o a distancia, la mitad más uno de sus miembros. Y en segunda convocatoria, cuando concurran a la sesión de forma presencial o a distancia, al menos, una tercera parte de los miembros de la Junta Ejecutiva Permanente. En ambas convocatorias habrán de estar presentes, necesariamente para la validez de los acuerdos adoptados, también el/la Presidente/a y el/la Secretario/a General, o personas en quien éstos deleguen.
+
+5\. La Junta Ejecutiva Permanente preparará las materias que deban ser tratadas por la Asamblea, resolverá las cuestiones administrativas reglamentarias y atenderá los asuntos urgentes. Las reuniones de la misma no son públicas y sus deliberaciones son secretas.
+
+6\. Los acuerdos se adoptarán por mayoría simple de los asistentes, de forma presencial o a distancia. El/La Presidente/a tendrá voto de calidad, en caso de empate. No se admiten delegaciones para la asistencia a las reuniones. Se prohíbe adoptar acuerdos respecto a asuntos que no figuren en el orden del día, salvo que estén presentes todos los miembros de la Junta Ejecutiva Permanente y sea declarada la urgencia del asunto por el voto favorable de la mayoría. Cuando los miembros de la Junta Ejecutiva Permanente voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados.
+
+7\. Podrá convocarse, con carácter asesor, a cualquier persona que el/la Presidente/a o la Junta consideren idónea.
+
+> Se modifica por el art. único.12 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 23. Funciones de la Junta Ejecutiva Permanente del Consejo General.
+
+Corresponderán a la Junta Ejecutiva Permanente del Consejo General, entre otras, las siguientes funciones:
+
+a) Aprobar la compraventa por el Consejo de toda clase de bienes muebles e inmuebles hasta un límite del 5 por cien del presupuesto anual.
+
+b) Acordar la convocatoria de la Junta Interterritorial y la Asamblea General en sesión extraordinaria en aquellos casos en que la índole de los asuntos así lo requiera.
+
+c) Resolver los expedientes de todas clases, así como los recursos que ante el Consejo General se interpongan, en los supuestos previstos en los presentes Estatutos.
+
+d) Hacer cumplir a los Colegios las obligaciones que les incumben de acuerdo con los presentes Estatutos.
+
+e) Realizar todas aquellas gestiones que le sean encomendadas por la Junta Interterritorial y la Asamblea y las necesarias para la coordinación del funcionamiento de la Organización Colegial.
+
+f) Preparar y presentar para su aprobación por la Asamblea los Presupuestos de Ingresos y Gastos y las liquidaciones de los mismos.
+
+g) Informar a la Junta Interterritorial y Asamblea General de cuantas cuestiones sean de interés.
+
+h) Vigilar el cumplimiento del «Código Deontológico para el ejercicio de la Profesión Veterinaria», adoptando todas las resoluciones que procedan.
+
+i) Proponer a la Asamblea General de Presidentes el Programa de Gobierno y gestionarlo bajo el control del citado órgano colegiado.
+
+j) Gestionar el Programa de Gobierno aprobado por la Asamblea General.
+
+k) Acordar la interposición de todo tipo de acciones judiciales contra cualesquiera disposiciones de carácter general y actos administrativos que se consideren lesivos para la Organización Colegial Veterinaria Española y las personas veterinarias colegiadas que la integran, así como de la profesión veterinaria en general.
+
+l) Cualesquiera otras funciones no atribuidas a la Junta Interterritorial o a la Asamblea General.
+
+> Se modifican las letras j) y k) y se añade la l) por el art. único.13 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 24. Remuneración de los cargos.
+
+Todos los cargos unipersonales de la Junta Ejecutiva Permanente del Consejo General son gratuitos y carecen, por lo tanto de sueldos o emolumentos, fijos y periódicos.
+
+Sin embargo, por razones justificadas y a propuesta de la Junta Ejecutiva Permanente, la Asamblea General de Presidentes/as podrá aprobar el abono de dietas u otras compensaciones para alguno o algunos de sus componentes, por la necesidad de una mayor dedicación de sus actividades, como en el caso del Presidente/a y del Secretario/a General.
+
+> Se modifica por el art. único.14 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+#### Sección 5.ª De los miembros de la Junta Ejecutiva Permanente del Consejo General
+
+##### Artículo 25. Presidente/a.
+
+1\. Corresponde al Presidente/a ostentar la representación máxima de la Organización Colegial Veterinaria en el ámbito estatal e internacional, estándole asignado el ejercicio de cuantos derechos y funciones le atribuyen la Ley de Colegios Profesionales y estos Estatutos en todas las relaciones con los poderes públicos, entidades, corporaciones y personas jurídicas o físicas de cualquier orden, siempre que se trate de materias que entrañen carácter general para la profesión; ejercitar, en la representación que ostenta, las acciones que correspondan, en defensa de los derechos de las personas colegiadas, ante los Tribunales de Justicia y autoridades de toda clase; autorizar los informes y comunicaciones que hayan de cursarse, y ejecutar o hacer que se ejecuten los acuerdos que la Asamblea General, la Junta Interterritorial o la Junta Ejecutiva Permanente, en su caso, adopten.
+
+2\. Convocará, presidirá y levantará las sesiones de la Asamblea General de Presidentes/as, de la Junta Interterritorial y de la Junta Ejecutiva Permanente, fijando el orden del día de las mismas; mantendrá el orden y el uso de la palabra y dirimirá, con su voto, los empates en las votaciones, moderando el desarrollo de los debates, pudiendo suspenderlos por causas justificadas. Autorizará las actas y certificados que procedan y presidirá, por sí o por delegación suya, cuantas comisiones se designen, así como también cualquier Junta, reunión o sesión a la que asistiere. Se responsabilizará del Departamento de Comunicación del Consejo General.
+
+3\. Visará los libramientos para la inversión de fondos y talones necesarios para el movimiento de las cuentas abiertas a nombre del Consejo, que se expidan por el/la Consejero/a de la Sección Económica.
+
+4\. Visará los escritos, documentos, actas y certificados e informes, etc., del Consejo, que no sean de mero trámite.
+
+5\. Además del ejercicio de las precedentes atribuciones inherentes a su cargo, se esforzará en mantener la mayor armonía y hermandad entre las personas colegiadas, procurando que todo litigio entre las mismas, sea cual fuere la índole o naturaleza, se resuelva dentro de la Organización Colegial, velando porque las actuaciones del Consejo, de los Consejos Autonómicos, en su caso, y de los Colegios se atemperen a los fines de la colegiación.
+
+6\. Nombrará, a propuesta de la Junta Ejecutiva Permanente, las comisiones, ponencias y grupos de trabajo que considere necesarios para el mejor desarrollo de la función colegial y el estudio de los asuntos o intereses que competen al Consejo General.
+
+7\. El cargo de Presidente/a será gratuito. Sin embargo, en los presupuestos anuales, se fijarán las partidas necesarias para atender los gastos de representación de la Presidencia del Consejo.
+
+> Se modifica por el art. único.15 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 26. Vicepresidente.
+
+El Vicepresidente llevará a cabo todas aquellas funciones que le confiera el Presidente, asumiendo las de éste en caso de ausencia, enfermedad o vacante.
+
+Vacante la Presidencia, el Vicepresidente ostentará la misma hasta que ésta se cubra de acuerdo con lo establecido en los presentes Estatutos Generales, situación que habrá de comunicarse a los miembros de la Asamblea General de Presidentes de Colegios.
+
+##### Artículo 27. Secretario General.
+
+1\. Es de competencia del Secretario General:
+
+a) Ejecutar los acuerdos de la Asamblea General, de la Junta Interterritorial y de la Junta Ejecutiva Permanente del Consejo General, así como las resoluciones que, con arreglo a los Estatutos, dicte la Presidencia.
+
+b) Informar al Consejo y a sus miembros, con facultad de iniciativa, en todos cuantos asuntos sean de competencia del propio Consejo General.
+
+c) Efectuar las convocatorias de la Asamblea General, de la Junta Interterritorial y de la Junta Ejecutiva Permanente por orden del Presidente/a, así como las citaciones a los miembros de tales órganos colegiados.
+
+d) Auxiliar en su misión al Presidente y orientar y promocionar cuantas iniciativas de orden técnico profesional se aporten.
+
+e) Extender las actas de las Juntas de la Asamblea General, de la Junta Interterritorial y de la Junta Ejecutiva Permanente del Consejo General; dar cuenta de las inmediatamente anteriores, para su aprobación, en su caso, e informar, si procede, los asuntos que en tales reuniones deban tratarse y le encomiende el Presidente.
+
+f) Llevar los libros de actas necesarios, extender y autorizar los certificados que procedan, así como las comunicaciones ordinarias y circulares que hayan sido, en su caso, autorizadas por la Asamblea General, la Junta Interterritorial, la Junta Ejecutiva Permanente o el Presidente.
+
+g) Formar el censo de colegiados de España inscritos en cada uno de los Colegios, llevando un fichero-registro de todos aquellos que lo constituyan, así como el Registro General de Sociedades Profesionales, pudiendo dar a los datos la publicidad legalmente prevista o autorizada por la Asamblea General de Presidentes, así como emitir, con el visto bueno del Presidente, las certificaciones que le sean solicitadas.
+
+h) Proponer y gestionar cuantos extremos sean conducentes a la buena marcha administrativa.
+
+i) Dirigir los servicios que los Estatutos le atribuyen, y de cualesquiera otros que la Junta Ejecutiva Permanente del Consejo le encomiende. Asumirá la jefatura de personal y de las dependencias del Consejo General, y actuará con plenitud de atribuciones en el ejercicio de las funciones propias de su cargo. Para ello, podrá oír las orientaciones e informes que, según la naturaleza de los asuntos a resolver, le faciliten la Oficialía Mayor y la Asesoría Jurídica; y cualesquiera que considere pertinente recabar.
+
+j) Conservar y actualizar, con la información recibida de los distintos Consejeros de Sección, un fichero donde consten los premios, recompensas y distinciones de cualquier clase, otorgados por el Consejo General.
+
+k) Redactar la memoria anual de acuerdo con los informes escritos que le remitan los integrantes de la Junta Ejecutiva Permanente en relación a los cometidos y actividades desempeñados por cada uno de ellos.
+
+l) Cuantas otras funciones sean inherentes a su condición de Secretario/a General.
+
+2\. El cargo de Secretario será ejercido gratuitamente. Sin embargo, los Presupuestos del Consejo General consignarán las partidas precisas para atender los gastos inherentes al cargo, por la necesidad de una mayor dedicación en sus actividades.
+
+Para colaborar en las tareas que le encomiende el Secretario general, podrá existir un Vicesecretario que asumirá las funciones del mismo, en caso de ausencia, enfermedad o vacante. Será nombrado por la Junta Ejecutiva Permanente, a propuesta del Secretario General, y tendrá dedicación y compensación adecuadas.
+
+> Se modifica la letra c) y se añade la l) por el art. único.16 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 28. Consejeros miembros de la Junta Ejecutiva Permanente.
+
+En el momento de su nombramiento les serán asignadas las funciones y competencias del área de gestión que se les encomiende por el Presidente electo. Estas funciones se comunicarán a la Asamblea General, para el conocimiento y oportuno control.
+
+##### Artículo 29. Comisiones.
+
+1\. En el Consejo General podrán existir comisiones, con finalidad exclusivamente asesora, sobre cuya creación, funciones y desarrollo se informará a la Asamblea General de Presidentes.
+
+2\. En todo caso, en el Consejo existirá una Comisión Deontológica que asesorará a las Comisiones Deontológicas colegiales y a las Juntas de Gobierno de los Colegios, a petición de éstos.
+
+3\. Cada una de estas comisiones será presidida por el Presidente o Consejero en quien éste delegue, y actuará como Secretario de las mismas el Secretario General del Consejo o colegiado en quien éste delegue. Sus miembros deberán ser colegiados.
+
+4\. Las comisiones estarán integradas por los veterinarios que, a propuesta del consejero coordinador correspondiente, se nombren por la Junta Ejecutiva Permanente del Consejo General.
+
+5\. Los estudios, propuestas y conclusiones de cada comisión serán remitidos a la Junta Ejecutiva Permanente, la cual decidirá si deben ser expuestos y defendidos, en su caso, por el miembro que designe la comisión correspondiente ante la Asamblea General.
+
+6\. Los informes y propuestas de su competencia, emitidos por esta comisión, serán expuestos ante la Junta Ejecutiva Permanente del Consejo por el representante-coordinador o el miembro de la comisión que designe la misma y, previa aprobación de la Asamblea General del Consejo, tendrán carácter vinculante.
+
+7\. La programación de los temas objeto de estudio podrá ser propuesta por la propia comisión o por el Presidente del Consejo.
+
+8\. Se habilitarán los medios económicos necesarios para el desarrollo de los programas de trabajo y para la compensación económica de los miembros de las Comisiones que se constituyan, cuya cuantía será aprobada por la Asamblea General de Presidentes/as de Colegios en los presupuestos anuales de ingresos y gastos.
+
+9\. Cuando los temas a tratar por una comisión estén relacionados con el área de competencia de otra u otras comisiones, se efectuará la coordinación necesaria para una mayor efectividad.
+
+> Se modifica el apartado 8 por el art. único.17 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 30. Delegados y Delegaciones.
+
+1\. La Junta Ejecutiva Permanente del Consejo General, a propuesta del Presidente, podrá nombrar, de entre los veterinarios colegiados, Delegados para el desarrollo de distintas áreas de la profesión veterinaria.
+
+2\. Inicialmente y, sin perjuicio de que puedan nombrarse nuevos Delegados y/o Delegaciones para áreas de actuación distintas, la Junta Ejecutiva Permanente del Consejo General podrá nombrar, de conformidad con lo previsto en el párrafo primero de este artículo, Delegados y/o Delegaciones para las siguientes áreas de actividades:
+
+a) Relaciones internacionales, que dependerá directamente de la Junta Ejecutiva Permanente del Consejo General.
+
+b) Formación continuada, que dependerá directamente de la Junta Ejecutiva Permanente del Consejo General.
+
+3\. Todos y cada uno de los Delegados informarán a la Junta Ejecutiva Permanente del Consejo General del proyecto de actividades a realizar y del resultado de las realizadas con la supervisión del Consejero de quien dependan o del Presidente, en su caso, en todas las sesiones del citado órgano de gobierno donde se vayan a tratar cuestiones de su competencia.
+
+4\. Los Delegados de las distintas áreas de actividades tendrán las funciones que les encomiende la Junta Ejecutiva Permanente con base en las propuestas que realicen los Consejeros de Sección de quien dependan o el Presidente, en su caso.
+
+5\. De los nombramientos de los Delegados y las funciones encomendadas se informará, preceptivamente, a la Asamblea General de Presidentes.
+
+### CAPÍTULO III — Personal del Consejo General
+
+##### Artículo 31. Derechos y obligaciones.
+
+Los derechos y obligaciones del personal del Consejo General serán los reconocidos y declarados en la legislación laboral vigente.
+
+##### Artículo 32. Nombramiento.
+
+1\. Los nombramientos, separaciones, ceses y destituciones del personal del Consejo General se harán por la Junta Ejecutiva Permanente, a propuesta elevada por el Secretario del Consejo, en su calidad de jefe de personal del mismo, dando conocimiento a la Asamblea General de Presidentes.
+
+2\. El procedimiento de dichas medidas, así como las sanciones y correcciones disciplinarias, será el consignado en la normativa laboral pertinente. Para toda la tramitación oficial respecto del personal del Consejo General, se considerará al Presidente del Consejo General como jefe de empresa laboral y al Secretario general como jefe de personal de dicha empresa.
+
+##### Artículo 33. Prestaciones sociales.
+
+Dicho personal podrá tener acceso, con carácter voluntario y previo dictamen de la Junta Ejecutiva Permanente, a las prestaciones sociales de la Organización Colegial.
+
+##### Artículo 34. Gerente.
+
+A las órdenes del Secretario/a General, podrá nombrarse un Gerente, que se encargará de la distribución y correcta organización del trabajo, el cumplimiento de las obligaciones laborales del personal, la gestión diaria de los diferentes acuerdos adoptados y cuantas otras funciones y gestiones le sean encomendadas por el/la Secretario/a General. Su nombramiento incumbe a la Junta Ejecutiva Permanente, a propuesta del Secretario/a del Consejo General y el mismo se adoptará de conformidad con las disposiciones legales vigentes.
+
+> Se modifica por el art. único.18 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 35. Oficial Mayor del Consejo.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.19 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 36. Asesoría Jurídica del Consejo General.
+
+La Asesoría Jurídica informará, en derecho, de toda clase de expedientes y recursos y atenderá cuantas consultas se le formulen por los Colegios acerca de la interpretación de disposiciones oficiales, normas dictadas y proyectos en los que se considere pertinente su dictamen.
+
+La designación de la Asesoría Jurídica corresponde a la Junta Ejecutiva Permanente, a propuesta del Secretario/a General del Consejo.
+
+> Se modifica el último párrafo por el art. único.20 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 37. Asesoría Fiscal del Consejo General.
+
+La Asesoría Fiscal del Consejo General informará en materia presupuestaria, contable, de obligaciones mercantiles, fiscales, laborales y atenderá cuantas consultas se le formulen por los colegios acerca de la interpretación de disposiciones y normas en esta materia que les afecten.
+
+La designación de la Asesoría Fiscal corresponde a la Junta Ejecutiva Permanente, a propuesta del Secretario/a General del Consejo.
+
+> Se modifica el último párrafo por el art. único.21 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+## TÍTULO III — Los Colegios Oficiales de Veterinarios
+
+### CAPÍTULO I — Constitución y órganos de gobierno
+
+##### Artículo 38. Estatutos particulares.
+
+1\. Los Colegios Oficiales de Veterinarios elaborarán sus Estatutos particulares con arreglo a las normas estatales y autonómicas, los cuales se notificarán al Consejo General.
+
+2\. Los Estatutos particulares deberán someterse a la normativa básica estatal y no contravenir lo establecido en los Estatutos Generales.
+
+3\. Aquellos Colegios Oficiales de Veterinarios que no hayan elaborado sus Estatutos particulares se regirán por las disposiciones contenidas en los presentes Estatutos Generales.
+
+##### Artículo 39. Órganos de gobierno.
+
+Los órganos de gobierno de los Colegios Oficiales de Veterinarios son:
+
+a) La Junta de Gobierno.
+
+b) La Asamblea General de Colegiados.
+
+##### Artículo 40. Juntas de Gobierno.
+
+1\. Las Juntas de Gobierno son los órganos rectores de los Colegios y estarán constituidas por:
+
+a) Un Presidente.
+
+b) Un Secretario.
+
+c) Cuatro vocales.
+
+2\. Los Estatutos particulares de cada Colegio podrán ampliar o reducir el citado número de vocales con arreglo a sus peculiaridades propias.
+
+3\. A propuesta del Presidente, la Junta de Gobierno designará un Vicepresidente, de entre los vocales elegidos. En los Colegios podrá existir además un Vicesecretario, que colaborará en las tareas que le encomiende el Secretario, a quien sustituirá en casos de ausencia, enfermedad o vacante.
+
+4\. Igualmente, podrá existir un representante de la Facultad de Veterinaria, en aquellas circunscripciones territoriales en que exista, que deberá ostentar la condición de colegiado. Dicho representante será designado por la facultad correspondiente y asistirá a las reuniones en que se traten cuestiones de su competencia, sin derecho de voto.
+
+Para el supuesto de que en la circunscripción territorial de que se trate exista más de una Facultad de Veterinaria, sus representantes ostentarán en la Junta de Gobierno respectiva dicha representación en la forma que determine la propia Junta de Gobierno.
+
+> Se añade un párrafo al final del apartado 4 por el art. único.22 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 41. Condiciones para ser elegible.
+
+Para todos los cargos, encontrarse en el ejercicio de la profesión, hallarse al corriente en el abono de las cuotas y demás obligaciones estatutarias y no estar incurso en ninguna de las incompatibilidades previstas en la Ley de Colegios Profesionales, los Estatutos Generales de la Organización Colegial Veterinaria y en cuantas disposiciones se dicten con carácter general.
+
+Para el cargo de Presidente, además, será preciso tener una antigüedad de cinco años, como mínimo, de colegiación ininterrumpida.
+
+##### Artículo 42. Forma de elección.
+
+Todos los colegiados con derecho a voto elegirán de entre ellos al Presidente, al Secretario, a los cuatro Vocales y, en su caso, al Vicesecretario. El Presidente, una vez elegidos los integrantes de la Junta de Gobierno, establecerá las áreas de gestión y competencias que se asignan a cada uno de los vocales elegidos, de conformidad con lo dispuesto en el respectivo Estatuto particular.
+
+Para ejercer el derecho de sufragio activo y pasivo los colegiados deberán figurar al corriente de sus obligaciones estatutarias con anterioridad al momento en que se acuerde la convocatoria.
+
+##### Artículo 43. Convocatoria.
+
+La Junta de Gobierno del Colegio convocará oportunamente las elecciones para la renovación de los cargos, a lo que dará la debida publicidad, señalando en la convocatoria los plazos para su celebración. A estos efectos, se publicarán en la página web del Colegio los hitos del proceso electoral, incluyendo, al menos, convocatoria, candidaturas presentadas y proclamadas y resultado de las votaciones. Adicionalmente, el Colegio comunicará la convocatoria electoral a sus personas colegiadas utilizando al efecto el procedimiento que siga habitualmente para informar de sus actividades (correo ordinario, correo electrónico, *newsletters*, etc.)
+
+Las candidaturas podrán presentarse en el plazo de treinta días a partir del día siguiente de la adopción del acuerdo de convocatoria de elecciones.
+
+> Se modifica por el art. único.23 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 44. Candidatos.
+
+Deberán reunir los requisitos que señala el artículo 41 de estos Estatutos y solicitarlo por escrito a la Junta de Gobierno del Colegio. La solicitud podrá hacerse en forma individual o en candidatura conjunta.
+
+##### Artículo 45. Aprobación de las candidaturas.
+
+1\. Al día siguiente de la expiración del plazo para la presentación de candidaturas, la Junta de Gobierno del Colegio se reunirá en sesión extraordinaria y proclamará la relación de los candidatos que reúnan las condiciones de elegibilidad, dando cuenta al Consejo General. Las votaciones tendrán lugar a partir de los veinte días naturales siguientes.
+
+En el caso de que se presente una única candidatura y, siempre que sus integrantes reúnan las condiciones de elegibilidad, serán proclamados electos sin necesidad de que se celebre votación alguna.
+
+2\. Queda prohibida toda actividad electoral que implique descrédito o falta de respeto personal a los demás candidatos y que esté en desacuerdo con los principios de carácter deontológico, de obligada aplicación en todo el territorio nacional. Su incumplimiento acarreará la depuración de la correspondiente responsabilidad deontológica.
+
+> Se añade un párrafo al final del apartado 1 por el art. único.24 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 46. Procedimiento electivo.
+
+1\. La elección de los miembros de las Juntas de gobierno será por votación, en la que podrán tomar parte todas las personas colegiadas con derecho a voto, conforme a lo dispuesto en estos Estatutos.
+
+2\. El voto podrá ser emitido personalmente o por correo certificado, de acuerdo con las normas electorales que para cada caso apruebe la Asamblea General de personas colegiadas, de acuerdo con lo dispuesto en el artículo 54.8.e) de los Presentes Estatutos Generales. Opcionalmente, los Colegios podrán articular un sistema de voto telemático, de acuerdo con lo que disponga al efecto la normativa correspondiente aprobada por la propia Asamblea General.
+
+3\. En aquellos Colegios en que se no se haya aprobado normativa electoral para el ejercicio del derecho de voto por correo, éste se regirá por las siguientes normas:
+
+a) Los sobres para la emisión del voto por correo serán editados en formato único oficial por la Junta de Gobierno del Colegio, siguiendo las características que figuran en estas normas y las que pueda concretar adicionalmente dicha Junta de Gobierno.
+
+b) En el día y hora señalados en la convocatoria para que tengan lugar las votaciones, deberá existir, a disposición de la Mesa Electoral, previamente constituida al efecto, una urna destinada tanto a los votos de las personas colegiadas que acudan personalmente a depositar el voto como a los votos que se hayan emitido por correo antes de la apertura de la mesa electoral, siendo nulos los que lleguen con posterioridad. La urna deberá estar cerrada, dejando únicamente una ranura para depositar los votos.
+
+c) Las papeletas de voto deberán ser todas del mismo tamaño y color, para lo que se fijará por la Junta de Gobierno un formato único para todas las candidaturas que deberán llevar impresos y correlativamente, los cargos y nombres a cuya elección se procede, a los efectos previstos en los Estatutos Particulares del Colegio y, en su defecto, en los Estatutos Generales de la Organización Colegial Veterinaria Española. Serán editadas gratuitamente por el Colegio. Igualmente, la Junta de Gobierno establecerá el modelo único de los sobres que contengan las papeletas de voto, que será el mismo tanto para los votos que sean emitidos por correo como para los que se emitan personalmente y que serán del mismo color y tamaño y con las inscripciones que acuerde la Junta de Gobierno. Asimismo establecerá el formato del sobre interior que debe emplearse para el voto por correo. Cualquier papeleta o bien sobres que no hayan sido editados por el propio Colegio según esta normativa, serán declarados nulos por la Mesa Electoral.
+
+d) Desde que se proclaman las candidaturas y hasta cuatro días antes de la fecha señalada para que tengan lugar las votaciones, las personas colegiadas que deseen emitir su voto por correo deberán solicitarlo a la Secretaría del Colegio, que comprobará que el/los solicitantes están incluidos en el censo de electores. La solicitud deberá formularse personalmente, bien por correo certificado, bien por cualquier otro medio (incluido el correo electrónico o la presentación física en la sede colegial). Todas las solicitudes de voto por correo quedarán incorporadas en el Registro General del Colegio, con independencia del modo en que se hayan verificado.
+
+e) El voto se efectuará en un sobre editado en cuyo exterior figurará la siguiente inscripción: "Al Presidente/a de la Mesa Electoral. Contiene papeletas para la elección de la Junta Directiva del Colegio Oficial de la Profesión Veterinaria de ……………………… ". Y al dorso, se hará constar: "Nombre, Apellidos, n.º de persona colegiada y firma".
+
+En este sobre se introducirán por las personas colegiadas electoras los sobres específicos ajustados al modelo oficial con las papeletas que toda persona colegiada recibirá en su domicilio, de las distintas candidaturas que hubiere para que ejerza su derecho al voto libre y secreto. También se incluirá en el sobre inexcusablemente una fotocopia (anverso y reverso) de su D.N.I.
+
+Estos sobres con su contenido, se remitirán por correo certificado con la antelación suficiente a fin de que lleguen a su destinatario antes de iniciarse la votación en la sede colegial.
+
+f) El/La Secretario/a del Colegio entregará los votos recibidos por correo a la Mesa Electoral tras su constitución y apertura del acto de votación, para comprobación final de todos sus aspectos externos. El/La Presidente/a de la Mesa Electoral, una vez terminado el plazo para la votación personal y comprobado en cada caso la anotación que figura en el censo, abrirá los sobres del voto por correo entregados por el/la Secretario/a e irá introduciendo en la urna los sobres correspondientes que contengan los votos emitidos, verificando si cumplen los requisitos exigidos (incluida la documentación que es necesario adjuntar). Todos aquellos sobres que no reúnan los requisitos serán anulados.
+
+g) El voto personal anulará el voto por correo y esta circunstancia estará anotada en las listas definitivas del Censo Electoral.
+
+4\. La mesa electoral estará constituida, en el día y hora que se fije en la convocatoria, por tres personas colegiadas y sus respectivos suplentes, cuya designación se hará por sorteo, siendo obligatoria la aceptación. La falta de aceptación no justificada en causa de fuerza mayor, podrá generar responsabilidad disciplinaria. El/la presidente/a de la mesa y su suplente serán designados por la Junta de Gobierno. La persona colegiada más joven actuará de secretario/a. Cualquier candidato/a podrá nombrar un interventor.
+
+5\. Serán nulos todos los votos recaídos en personas que no figuren en las candidaturas aprobadas, así como las papeletas que contengan frases o expresiones distintas del nombre y cargo del candidato/a propuesto/a.
+
+6\. Una vez que el/la Presidente/a de la Mesa Electoral señale el cierre de las votaciones, se procederá en público y en un mismo acto, a la apertura de la urna, procediéndose seguidamente al escrutinio de los votos obtenidos por cada candidato/a, concluido el cual, el/la presidente/a de la mesa proclamará a los que resulten electos.
+
+7\. Del desarrollo de la votación y del resultado del escrutinio se levantará acta seguidamente, firmada por todos los miembros de la mesa, la cual se elevará al Consejo General y al Consejo Autonómico, en su caso, para su conocimiento, expidiéndose por el Colegio los correspondientes nombramientos a los que hayan obtenido mayoría de votos y tomando posesión de sus nuevos cargos en el plazo máximo de quince días, a contar desde el siguiente a aquél en que hayan resultado elegidos. A tal efecto, podrá tener lugar una reunión entre los miembros de la Junta de Gobierno saliente y entrante.
+
+8\. Los sobres y papeletas extraídos de la urna se conservarán en la sede del Colegio, bajo la custodia del Secretario/a, en un sobre cerrado y firmado en su solapa por los miembros de la Mesa Electoral, hasta que transcurra el plazo de impugnación legal y estatutariamente previsto.
+
+> Se modifica por el art. único.25 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 47. Duración del mandato y causas del cese.
+
+1\. Todos los nombramientos de cargos directivos tendrán un mandato de actuación de seis años, pudiendo ser reelegidos.
+
+2\. Los miembros de las Juntas de Gobierno de los Colegios Oficiales de Veterinarios cesarán por las causas siguientes:
+
+a) Expiración o término del plazo para el que fueron elegidos.
+
+b) Renuncia del interesado.
+
+c) Condena por sentencia firme, que lleve aparejada la inhabilitación absoluta o especial para cargo público.
+
+d) Sanción disciplinaria firme por falta grave o muy grave.
+
+e) Pérdida de las condiciones de elegibilidad expresadas en los artículos 41 y 42.
+
+f) La denegación por parte de la Asamblea General de Colegiados de la confianza en los términos previstos en los presentes Estatutos.
+
+g) La aprobación de la moción de censura en los términos previstos en los presentes Estatutos.
+
+h) Por nombramiento para un cargo político de carácter ejecutivo del Gobierno o de la Administración General del Estado, Autonómica, Local o Institucional, o para cualquier otro que esté afecto por la legislación estatal o autonómica vigente en materia de incompatibilidades.
+
+3\. El Consejo General de Colegios de la Profesión Veterinaria adoptará las medidas que estime convenientes para completar provisionalmente las Juntas de Gobierno de los Colegios, cuando se produzca el cese de más de la mitad de los cargos de aquéllas, en los supuestos en que no exista Consejo Autonómico. La Junta provisional así constituida ejercerá sus funciones hasta que tomen posesión los/las designados/as en virtud de elección, que se celebrará conforme a las disposiciones de estos Estatutos, en un período máximo de seis meses.
+
+4\. Cuando las vacantes que se produzcan en la Junta de Gobierno afecten a menos de la mitad de sus cargos, la propia Junta designará el sustituto, con carácter de interinidad, hasta que se verifique la convocatoria de nuevas elecciones, en el plazo máximo de seis meses. Al cubrirse cualquiera de estos cargos en los supuestos referidos, la duración de los mismos alcanzará solamente hasta el próximo período electoral.
+
+La provisión del nuevo miembro de la Junta de Gobierno deberá comunicarse al Consejo General, dentro de los quince días naturales siguientes.
+
+> Se modifica el apartado 3 por el art. único.26 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 48. Reuniones de la Junta de Gobierno.
+
+1\. La Junta de Gobierno se podrá constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia. Las reuniones se celebrarán, con carácter preferente y siempre que fuere posible, de forma presencial. En las sesiones que celebre la Junta de Gobierno a distancia, sus miembros podrán encontrarse en distintos lugares siempre y cuando se asegure por medios electrónicos, considerándose también tales los telefónicos y audiovisuales, la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que estas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos las audioconferencias y las videoconferencias.
+
+2\. La Junta de Gobierno se reunirá, ordinariamente, una vez al mes y, con carácter extraordinario, cuando los asuntos lo requieran o lo soliciten por escrito tres de sus miembros. En este último caso, los mencionados miembros integrantes de la Junta deberán motivar la petición y acompañarla de la correspondiente propuesta del orden del día para la sesión cuya convocatoria solicita.
+
+3\. Las convocatorias serán remitidas a los miembros de la Junta de Gobierno a través de medios electrónicos. Se cursarán por el/la secretario/a, previo mandato de la presidencia, que fijará el orden del día, con cuarenta y ocho horas de antelación, por lo menos, salvo casos de urgencia, en que podrá convocarse con veinticuatro horas de antelación y, obligatoriamente, por escrito o por cualquier medio de comunicación, debiendo ponerse a disposición de los integrantes de la Junta de Gobierno la información sobre los temas que figuren en el orden del día con la máxima antelación posible. En la citación se hará constar la celebración de la sesión en primera y en segunda convocatoria, no pudiendo mediar un plazo inferior a media hora entre ambas. En el caso de reuniones a distancia, en la convocatoria se harán constar las condiciones en que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
+
+4\. Para que puedan adoptarse válidamente acuerdos en primera convocatoria, será requisito indispensable que concurra, de forma presencial o a distancia, la mayoría de los miembros que integran la Junta de Gobierno. En segunda convocatoria será suficiente con, al menos, una tercera parte de los miembros de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría simple. En caso de empate en la votación, decidirá, con voto de calidad, el/la Presidente/a.
+
+5\. Será obligatoria la asistencia a las sesiones. La falta no justificada a tres consecutivas se estimará como renuncia al cargo.
+
+6\. Cuando los miembros de la Junta de Gobierno voten en contra o se abstengan, quedarán exentos de la responsabilidad que, en su caso, pueda derivarse de los acuerdos adoptados.
+
+7\. Podrá convocarse, con carácter asesor, a cualquier persona que el/la Presidente/a o la Junta de Gobierno consideren idónea.
+
+> Se modifica por el art. único.27 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO II — Cargos de los Colegios Oficiales
+
+##### Artículo 49. Presidente.
+
+1\. Corresponde al Presidente ostentar la representación máxima del Colegio Oficial, teniendo asignado el ejercicio de cuantos derechos y funciones le atribuyen la Ley de Colegios Profesionales y estos Estatutos Generales, en todas las relaciones con los poderes públicos, entidades, corporaciones y personas jurídicas o físicas de cualquier orden, siempre que se trate de materias propias de su competencia; ejercitar las acciones que correspondan, en defensa de los derechos de los colegiados ante los Tribunales de Justicia y autoridades de toda clase; autorizar los informes y comunicaciones que hayan de cursarse, y ejecutar o hacer que se ejecuten los acuerdos que la Asamblea General o la Junta de Gobierno, en su caso, adopten.
+
+2\. El Presidente velará por el cumplimiento de las prescripciones reglamentarias y de los acuerdos y disposiciones que se dicten por los órganos del Consejo General, de los Consejos de Colegios de comunidades autónomas, en su caso, de las Juntas de Gobierno de los Colegios u otros órganos de gobierno de los Colegios. Las disposiciones adoptadas en el ejercicio de sus funciones, según las facultades que le confieren los presentes Estatutos, deberán ser acatadas, sin perjuicio de las reclamaciones que contra ellas procedan.
+
+3\. Además, le corresponderán los siguientes cometidos:
+
+a) Presidir todas las reuniones de la Asamblea General de Colegiados y de la Junta de Gobierno del Colegio, ordinarias y extraordinarias.
+
+b) Nombrar las comisiones que considere necesarias, presidiéndolas si lo estimara conveniente.
+
+c) Convocar, abrir, dirigir y levantar sesiones, fijando el orden del día de estas, moderando el desarrollo de los debates e incluso suspendiéndolos por causa justificada.
+
+d) Firmar las actas que le correspondan, después de ser aprobadas.
+
+e) Recabar de los centros administrativos correspondientes los datos que necesite para cumplir los acuerdos de la Junta de Gobierno.
+
+f) Autorizar el documento que apruebe la Junta de gobierno como justificante de que el facultativo está incorporado al Colegio.
+
+g) Autorizar los informes y comunicaciones que se dirijan a las autoridades, corporaciones o particulares.
+
+h) Autorizar las cuentas corrientes bancarias, las imposiciones que se hagan y los talones o cheques para retirar cantidades. Otorgar cuantos documentos públicos y privados sean necesarios para la compraventa de bienes muebles e inmuebles, en cumplimiento de los acuerdos de la Junta de Gobierno y de la Asamblea de Colegiados.
+
+i) Visar las actas de los acuerdos de la Junta de Gobierno y de la Asamblea General de personas colegiadas y las certificaciones que, de ellos/as, se expidan por el/la Secretario/a del Colegio.
+
+j) Aprobar los libramientos y órdenes de pago y libros de contabilidad, junto al Vocal de la Sección Económica del Colegio.
+
+k) Velar con el mayor interés por la buena conducta profesional de los colegiados y por el decoro del Colegio.
+
+l) Fijar las directrices para la elaboración de los Presupuestos Colegiales.
+
+m) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente/a del Colegio.
+
+4\. El cargo de Presidente será ejercido gratuitamente. Sin embargo, en los Presupuestos Colegiales, se fijarán las partidas precisas para atender a los gastos de representación de la Presidencia del Colegio.
+
+> Se modifican las letras c) e i) del apartado 3 y se añade la m) por el art. único.28 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 50. Vicepresidente.
+
+El Vicepresidente llevará a cabo todas aquellas funciones que le confiare el Presidente, asumiendo las de éste en caso de ausencia, enfermedad o vacante.
+
+Vacante la Presidencia, el Vicepresidente ostentará la Presidencia hasta que se agote el mandato. Para cubrir el puesto que en la Junta de Gobierno deje el Vicepresidente se procederá de conformidad con lo dispuesto en el artículo 47.4 de estos Estatutos.
+
+##### Artículo 51. Secretario.
+
+1\. Independientemente de las otras funciones que se derivan de los presentes Estatutos, de las disposiciones vigentes y de las órdenes emanadas de la Presidencia, corresponde al Secretario:
+
+a) Redactar y dirigir los oficios de citación para todos los actos del colegio, según las órdenes que reciba del Presidente y con la anticipación debida.
+
+b) Redactar las actas de las Asambleas Generales y de las reuniones que celebre la Junta de Gobierno, con expresión de los miembros que asisten, cuidando de que se copien, después de ser aprobadas, en el libro correspondiente, firmándolas con el Presidente.
+
+c) Llevar los libros que se precisen para el mejor y más ordenado servicio.
+
+d) Recibir y dar cuenta al Presidente de todas las solicitudes y comunicaciones que se remitan al Colegio.
+
+e) Firmar con el Presidente el documento acreditativo de que el veterinario está incorporado al Colegio.
+
+f) Expedir las certificaciones que se soliciten por los interesados.
+
+g) Redactar anualmente la memoria que refleje las vicisitudes del año, que habrá de leerse en la Asamblea General ordinaria y que será elevada a conocimiento del Consejo General de Colegios Veterinarios de España.
+
+h) Asumir la dirección de los servicios administrativos y la jefatura de personal del colegio con arreglo a las disposiciones de estos Estatutos, señalando, de acuerdo con la Junta de Gobierno, las horas que habrán de dedicarse a recibir visitas y al despacho de la secretaría.
+
+i) Promover y cuidar el servicio jurídico-laboral de defensa de los colegiados frente a terceros.
+
+j) Formar y mantener actualizado el censo de ámbito provincial de los veterinarios adscritos al Colegio, así como el Registro Colegial de Sociedades Profesionales, pudiendo dar a los datos la publicidad legalmente prevista o autorizada por la Asamblea de Colegiados, así como emitir, con el visto bueno del Presidente, las certificaciones que le sean solicitadas.
+
+2\. El cargo de Secretario será ejercido gratuitamente. Sin embargo, los presupuestos colegiales consignarán las partidas precisas para atender los gastos inherentes al cargo, por la necesidad de una mayor dedicación en sus actividades.
+
+##### Artículo 52. Vocales.
+
+Una vez resulten elegidos los Vocales en la forma prevista en los artículos precedentes les serán asignadas por el Presidente las funciones y competencias del área de gestión que se les encomiende, de conformidad con lo dispuesto en el Estatuto particular.
+
+### CAPÍTULO III — Asambleas Generales de los Colegios Oficiales de Veterinarios
+
+##### Artículo 53. Naturaleza.
+
+La Asamblea General de Colegiados constituye el órgano supremo de los Colegios Oficiales de Veterinarios y a la misma deberá dar cuenta la Junta de Gobierno de su actuación. Los acuerdos tomados en Asamblea General serán vinculantes para todos los colegiados.
+
+##### Artículo 54. Constitución, funcionamiento y funciones.
+
+1\. La Asamblea General es la reunión de todos los profesionales incorporados al Colegio.
+
+2\. La Asamblea General de personas colegiadas se podrá constituir, convocar, celebrar sus sesiones, adoptar acuerdos y remitir actas tanto de forma presencial como a distancia. Las reuniones se celebrarán, con carácter preferente y siempre que fuere posible, de forma presencial. En las sesiones que celebre la Asamblea General de personas colegiadas a distancia, sus miembros podrán encontrarse en distintos lugares siempre y cuando se asegure por medios electrónicos, considerándose también tales los telefónicos y audiovisuales, la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que estas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos las audioconferencias y las videoconferencias.
+
+3\. La Asamblea General se convocará, con carácter ordinario y preceptivamente, al menos, una vez al año, sin perjuicio de la posibilidad de realizar más convocatorias ordinarias cuando el Colegio lo considere pertinente. El/La Presidente/a del Colegio podrá además convocarla, con carácter extraordinario, cuando la importancia de los asuntos lo requiera o cuando así lo solicite el 20 por ciento de las personas colegiadas, en cuyo caso éstos deberán acompañar su solicitud de la correspondiente propuesta del orden del día para la sesión cuya convocatoria solicitan.
+
+4\. El orden del día de la Asamblea General será fijado por el/la Presidente/a y su convocatoria notificada a todas las personas colegiadas a través de medios electrónicos con, al menos, quince días naturales de anticipación. Se formularán por escrito, debiendo ponerse a disposición de los integrantes de la Asamblea General en la sede colegial la información sobre los temas que figuren en el orden del día con, al menos, diez días naturales de antelación, cuando sea posible.
+
+5\. En la convocatoria se hará constar la celebración de la sesión en segunda convocatoria, no pudiendo mediar entre la primera y la segunda convocatoria de la reunión un plazo inferior a media hora. En el caso de reuniones a distancia, en la convocatoria se harán constar las condiciones en que se va a celebrar la sesión, el sistema de conexión y, en su caso, los lugares en que estén disponibles los medios técnicos necesarios para asistir y participar en la reunión.
+
+6\. Los acuerdos serán adoptados por mayoría simple y, en ningún caso, será válido el voto delegado, ni remitido por correo. Se excepcionan del anterior supuesto las elecciones de los miembros de la Junta de Gobierno, en las que sí se permitirá el voto por correo, de acuerdo con la normativa que, al efecto, apruebe la propia Junta de Gobierno. Quedará válidamente constituida la Asamblea, en primera convocatoria, cuando concurran, de forma presencial o a distancia, la mayoría de sus miembros. Se entenderá válidamente constituida, en segunda convocatoria, cualquiera que sea el número de asistentes, de forma presencial o a distancia.
+
+7\. Sólo tendrán derecho a voz y voto quienes se encuentren en pleno disfrute de sus derechos colegiales y se hallen al corriente de sus obligaciones económicas.
+
+8\. Son funciones de la Asamblea General, las siguientes:
+
+a) Aprobar los presupuestos de ingresos y gastos del Colegio para el año siguiente.
+
+b) Aprobar las liquidaciones de los presupuestos del año precedente.
+
+c) Estudiar aquellos asuntos de excepcional importancia para la profesión y, una vez aprobados, ponerlos en conocimiento del Consejo General de Colegios de la Profesión Veterinaria de España y del Consejo de Colegios de la comunidad autónoma correspondiente, en su caso, a los efectos oportunos.
+
+d) Aprobar los acuerdos que la Junta de Gobierno haya tomado sobre compra o enajenación de bienes inmuebles propiedad del colegio, sin cuyo requisito no podrán llevarse a cabo. Dicho acuerdo se pondrá en conocimiento del Consejo General.
+
+e) Aprobar los Estatutos particulares del Colegio y sus modificaciones, así como los reglamentos de régimen interior, en los términos prevenidos en los presentes Estatutos Generales.
+
+f) Ejercer y votar la moción de censura contra la Junta de Gobierno del Colegio o alguno de sus miembros, en los términos previstos en los presentes Estatutos Generales.
+
+g) Votar la cuestión de confianza planteada por la Junta de Gobierno del Colegio o por alguno de sus miembros, en los términos previstos en los presentes Estatutos Generales.
+
+> Se modifica por el art. único.29 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 55. Moción de censura.
+
+1\. El voto de censura a la Junta de Gobierno o a alguno de sus miembros competerá siempre a la Asamblea General extraordinaria de Colegiados, convocada a ese solo efecto.
+
+2\. La solicitud de esa convocatoria de Asamblea General extraordinaria requerirá la firma de un mínimo de la tercera parte de los colegiados ejercientes en pleno disfrute de sus derechos colegiales y al corriente de sus obligaciones económicas, incorporados, al menos, con tres meses de antelación. La solicitud deberá expresar con claridad las razones o motivos en que se funde.
+
+3\. La Asamblea General extraordinaria de Colegiados habrá de celebrarse dentro de los treinta días hábiles contados desde el siguiente a aquél en que se hubiera presentado la solicitud y no podrán tratarse en la misma más asuntos que los expresados en la convocatoria.
+
+4\. Para que el voto de censura sea aprobado y se produzca el consiguiente cese de la Junta de Gobierno o del miembro de este órgano a quien afecte, será necesario el voto favorable de la mayoría absoluta de las personas colegiadas integrantes del Colegio respectivo que, además, han de estar presentes en la Asamblea General extraordinaria.
+
+Si el voto de censura afectara a la totalidad de la Junta de Gobierno y fuera aprobado por la mayoría referida en el párrafo anterior, se convocarán elecciones en la forma prevista en los presentes Estatutos Generales y en los particulares del Colegio.
+
+5\. Se habilitarán los medios económicos necesarios para el desarrollo de los programas de trabajo y para la compensación económica de los miembros de las Comisiones que se constituyan, cuya cuantía será aprobada por la Asamblea General de personas colegiadas.
+
+> Se modifica el apartado 4 y se añade el 5 por el art. único.30 y 31 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 56. Cuestión de confianza.
+
+1\. La Junta de Gobierno del Colegio o cualquiera de sus miembros puede plantear ante la Asamblea General de Colegiados la cuestión de confianza sobre su programa de actuaciones, si considerase contestado mayoritariamente el mismo, o sobre su actuación en el desempeño de sus funciones.
+
+2\. El otorgamiento o rechazo de la confianza competerá siempre a la Asamblea General extraordinaria de colegiados, convocada a ese solo efecto por la Junta de gobierno del Colegio, por acuerdo de la misma o a petición de aquél de sus miembros que desee plantear individualmente la cuestión de confianza.
+
+3\. La confianza se entenderá otorgada cuando vote a favor la mayoría simple de los asistentes, en los términos previstos en el artículo 54.5 de los presentes Estatutos.
+
+### CAPÍTULO IV — Comisiones
+
+##### Artículo 57. Comisiones asesoras.
+
+1\. En los Colegios Oficiales de Veterinarios podrán existir comisiones con finalidad exclusivamente asesora, sobre cuya creación, funciones y desarrollo se informará a la Asamblea General de Colegiados.
+
+2\. En todo caso, en cada Colegio existirá una Comisión Deontológica que asesorará e informará a la Junta de gobierno en los expedientes disciplinarios que se incoen a los colegiados.
+
+3\. Cada una de estas comisiones será presidida por el Presidente o Vocal en quien éste delegue, y actuará como Secretario de las mismas el Secretario del Colegio o colegiado en quien éste delegue; sus miembros deberán ser colegiados.
+
+4\. Las comisiones estarán integradas por los veterinarios que, a propuesta del coordinador de las mismas, se nombren por la Junta de Gobierno del Colegio Oficial.
+
+5\. Los estudios, propuestas y conclusiones de cada comisión serán remitidos a la Junta de Gobierno, la cual decidirá si deben ser expuestos y defendidos, en su caso, por el miembro que designe la comisión correspondiente ante la Asamblea General de Colegiados. La programación de los temas objeto de estudio podrá ser propuesta por la propia comisión o por el Presidente del Colegio.
+
+6\. Se habilitarán los medios económicos necesarios para el desarrollo de los programas de trabajo, cuya cuantía será aprobada por la Asamblea General de Colegiados.
+
+## TÍTULO IV — Régimen de competencias
+
+##### Artículo 58. Competencias genéricas del Consejo General.
+
+Corresponde al Consejo General de Colegios Veterinarios de España el ejercicio de las funciones señaladas en sus propias normas reguladoras, en relación con los fines que les están atribuidos en el artículo 3 de estos Estatutos Generales y en la Ley de Colegios Profesionales, por medio de sus órganos de gobierno: la Asamblea General de Presidentes, la Junta Interterritorial y la Junta Ejecutiva Permanente.
+
+##### Artículo 59. Competencias genéricas de los Consejos de Colegios de las comunidades autónomas.
+
+Corresponde a los Consejos de Colegios de las comunidades autónomas el ejercicio de las funciones señaladas en sus propias normas reguladoras, en relación con los fines que les sean atribuidos por la normativa estatal y autonómica vigente en materia de Colegios Profesionales.
+
+Los Estatutos de los Consejos Autonómicos, una vez aprobados, se notificarán por éstos al Consejo General.
+
+##### Artículo 60. Competencias genéricas de los Colegios Oficiales de Veterinarios.
+
+Corresponde a los Colegios Oficiales de Veterinarios, en su ámbito territorial, el ejercicio de las funciones que les atribuye el artículo 5 de la Ley de Colegios Profesionales y las señaladas en las normas reguladoras del Consejo General de Colegios Veterinarios, en relación con los fines atribuidos en el artículo 3 de estos Estatutos Generales.
+
+Corresponderán, igualmente, a los Colegios Oficiales de Veterinarios las funciones que les sean atribuidas por las disposiciones normativas autonómicas que se hayan dictado o se dicten en materia de Colegios Profesionales.
+
+##### Artículo 61. Competencias específicas de los Colegios Oficiales de Veterinarios.
+
+Sin perjuicio de lo dispuesto en el artículo anterior, corresponde a los Colegios Oficiales de Veterinarios ejercer, en su ámbito territorial, las siguientes funciones:
+
+a) Cuantas redunden en beneficio de la protección de los intereses de los consumidores y usuarios de los servicios de sus colegiados.
+
+b) Ostentar la representación que establezcan las Leyes para el cumplimiento de sus fines, y, especialmente, la representación exclusiva y defensa de la profesión cuando esté sujeta a colegiación obligatoria, ante la Administración, Instituciones, Tribunales, Entidades y Particulares, con legitimación para ser parte en cuantos litigios y causas afecten a los derechos e intereses profesionales y a los fines de la Veterinaria, y ejercitar las acciones que sean procedentes, así como para ejercitar el derecho de petición conforme a la Ley.
+
+c) Defender los derechos y prestigio de los colegiados que representan o de cualquiera de ellos, si fueran objeto de vejación, menoscabo, desconsideración o desconocimiento en cuestiones profesionales.
+
+d) Adoptar las medidas conducentes a evitar y perseguir el intrusismo profesional.
+
+e) Llevar el censo de profesionales y el fichero de ámbito de actuación veterinaria de la provincia, con los datos que se estimen necesarios para el cumplimiento de los fines y funciones del Colegio y elaborar las estadísticas que se consideren convenientes para la realización de estudios, proyectos y propuestas relacionadas con el ejercicio de la veterinaria.
+
+f) Ordenar la actividad profesional de los colegiados, velando por la formación, la ética y la dignidad profesional y por el respeto debido a los intereses de los consumidores y usuarios de los servicios de sus colegiados; ejercer la facultad disciplinaria en el orden profesional y colegial.
+
+g) Elaborar sus propios Estatutos Particulares con arreglo a las normas estatales y autonómicas y, una vez aprobados, notificarlos al Consejo General, en los términos prevenidos en este texto. Aprobar sus Normas Deontológicas de actuación profesional con sujeción a lo dispuesto en las aprobadas por el Consejo General para todo el territorio nacional.
+
+h) Elaborar sus Reglamentos de Régimen Interior.
+
+i) Cumplir y hacer cumplir a los colegiados, en cuanto afecte a la profesión, las disposiciones legales y estatutarias, así como las normas y decisiones adoptadas por los órganos colegiales en materia de su competencia.
+
+j) Evitar la competencia desleal.
+
+k) Cooperar con los poderes públicos, a solicitud de los mismos, en la formulación de las políticas ganadera, sanitaria, alimentaria, de medio ambiente y de protección de los intereses de los consumidores y usuarios de los servicios de sus colegiados.
+
+l) Elaborar y ejecutar programas formativos de carácter profesional, científico o cultural, a nivel provincial.
+
+ll) Desarrollar la gestión de previsión y protección social en el ámbito profesional.
+
+m) Promover acciones destinadas a solicitar que los organismos públicos o privados colaboren en la dotación a los colegiados de medios materiales para el ejercicio de una veterinaria de calidad.
+
+n) Organizar y promover actividades y servicios comunes de interés para los colegiados, de carácter profesional, formativo, cultural, asistencial y otros análogos.
+
+ñ) Visar los informes, proyectos y dictámenes en las condiciones previstas en el artículo 75 de los presentes Estatutos Generales.
+
+o) Atender las solicitudes de información sobre sus colegiados y sobre las sanciones firmes a ellos impuestas, así como las peticiones de inspección o investigación que les formule cualquier autoridad competente de un Estado miembro de la Unión Europea en los términos previstos en la Ley 17/2009, de 23 de noviembre, en particular, en lo que se refiere a que las solicitudes de información y de realización de controles, inspecciones e investigaciones estén debidamente motivadas y que la información obtenida se emplee únicamente para la finalidad para la que se solicitó.
+
+p) Las demás que vengan dispuestas por la legislación estatal o autonómica.
+
+## TÍTULO V — La colegiación
+
+### CAPÍTULO I
+
+##### Artículo 62. Ejercicio profesional.
+
+1\. Quien esté en posesión del título español de Licenciado o Grado en Veterinaria, o de los títulos extranjeros que, conforme a la normativa española y comunitaria, la Administración española competente haya homologado o reconocido para ejercer la profesión de veterinario en España y reúna las condiciones señaladas en los presentes Estatutos, tendrá derecho a ser admitido en el Colegio Oficial de Veterinarios que corresponda.
+
+2\. Será requisito indispensable y previo para el ejercicio de la profesión veterinaria hallarse incorporado al Colegio Profesional correspondiente, cuando la colegiación sea obligatoria. La cuota de inscripción o colegiación no podrá superar en ningún caso los costes asociados a la tramitación de la inscripción. Los Colegios Oficiales de Veterinarios dispondrán de los medios necesarios para que los solicitantes puedan tramitar su colegiación por vía telemática, de acuerdo con lo previsto en el artículo 10 de la Ley estatal de Colegios Profesionales.
+
+3\. El ejercicio profesional puede verificarse:
+
+a) Al servicio de la Administración General del Estado, de las comunidades autónomas y de las Ciudades de Ceuta y Melilla y de la Administración Local.
+
+b) Al servicio de empresas, entidades, explotaciones e industrias o negocios relacionados con la veterinaria.
+
+c) De forma libre, cuando el veterinario desarrolle actividades profesionales al amparo del título de Licenciado o Graduado en Veterinaria o cualesquiera otros que den derecho a ejercer la profesión, que no se encuentren incluidas en los apartados anteriores.
+
+4\. El ejercicio de la profesión, en cualquiera de sus modalidades, se desarrollará por los veterinarios colegiados con plena observancia de la normativa vigente y de acuerdo con las normas ordenadoras de la misma establecidas en estos Estatutos Generales y en las que, a tal fin, se dicten y adopten por la Organización Colegial Veterinaria.
+
+5\. Igualmente, serán de aplicación a todos los profesionales veterinarios en cuanto al ejercicio de su profesión, las normas contenidas en el Código Deontológico para el ejercicio de la Profesión Veterinaria.
+
+6\. El ejercicio profesional veterinario en forma societaria se regirá por lo previsto en las leyes. En ningún caso, la Organización Colegial Veterinaria podrá, por sí misma o a través de sus respectivos textos estatutarios o resto de normativa colegial, establecer restricciones al ejercicio profesional veterinario en forma societaria.
+
+7\. Los Colegios no podrán exigir a los profesionales que ejerzan en un territorio diferente al de colegiación, comunicación ni habilitación alguna, ni el pago de contraprestaciones económicas distintas de aquéllas que exijan habitualmente a sus colegiados por la prestación de los servicios de los que sean beneficiarios y que no se encuentren cubiertos por la cuota colegial.
+
+8\. En los supuestos de ejercicio profesional en territorio distinto al de colegiación, a los efectos de ejercer las competencias de ordenación y potestad disciplinaria que corresponden al Colegio del territorio en el que se ejerza la actividad profesional, en beneficio de los consumidores y usuarios, los Colegios deberán utilizar los oportunos mecanismos de comunicación y los sistemas de cooperación administrativa entre autoridades competentes previstos en la Ley 17/2009, de 23 de noviembre. Las sanciones impuestas, en su caso, por el Colegio del territorio en el que se ejerza la actividad profesional surtirán efectos en todo el territorio español.
+
+9\. El acceso y ejercicio a la profesión de veterinario se regirá por el principio de igualdad de trato y no discriminación, en particular por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, en los términos de la Sección III del Capítulo III del Título II de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+##### Artículo 63. Colegiación única.
+
+1\. Para ejercer en todo el territorio nacional bastará la incorporación a un solo Colegio Oficial de Veterinarios, que será el del domicilio profesional único o principal del solicitante.
+
+2\. En el caso de desplazamiento temporal tanto de un veterinario español a otro Estado miembro de la Unión Europea como de un veterinario de otro Estado miembro de la Unión Europea a España, se estará a lo dispuesto en la normativa vigente en aplicación del derecho comunitario relativa al reconocimiento de cualificaciones profesionales.
+
+3\. De toda inscripción, alta o baja en cualquier Colegio, se dará inmediata cuenta al Consejo General de Colegios Veterinarios de España.
+
+4\. Asimismo, los Colegios notificarán al Consejo General y a los Consejos Autonómicos respectivos, en su caso, para su inscripción en el Registro General de Sociedades Profesionales, las inscripciones practicadas en sus respectivos Registros de Sociedades Profesionales. El Consejo General remitirá al Ministerio de Justicia, al amparo de lo previsto legalmente, las inscripciones practicadas en el Registro de Sociedades Profesionales del Consejo General.
+
+### CAPÍTULO II — Incorporaciones y bajas
+
+##### Artículo 64. Incorporación colegial.
+
+1\. Quienes pretendan realizar actividades propias de los veterinarios en cualquiera de sus modalidades, están obligados a solicitar, previamente al inicio de la actividad profesional, sea por cuenta propia o ajena, y tanto al servicio de las Entidades públicas como privadas, o como socio profesional de una Sociedad Profesional, la inscripción en el Colegio Profesional correspondiente a la localidad donde radique su domicilio profesional único o principal, cuando la colegiación sea obligatoria.
+
+2\. Para la incorporación a un Colegio Oficial de Veterinarios, se requiere acreditar, como condiciones generales de aptitud, las siguientes:
+
+a) Ser mayor de edad y no estar incurso en causa de incapacidad.
+
+b) Estar en posesión del título de Licenciado o Grado en Veterinaria, o de los títulos extranjeros que, conforme a la normativa española y comunitaria, la Administración española competente haya homologado o reconocido para ejercer la profesión de veterinario en España y reúna las condiciones señaladas en los presentes Estatutos.
+
+c) Carecer de antecedentes penales que le inhabiliten para el ejercicio profesional.
+
+d) Satisfacer la cuota de ingreso y demás que tenga establecidas el Colegio.
+
+e) Aceptar por escrito los Estatutos, Código Deontológico y demás normativas y disposiciones colegiales.
+
+3\. A falta de colegiación, cuando ésta sea obligatoria, los Colegios Oficiales, previa instrucción de expediente en el que se compruebe la concurrencia de todos los requisitos exigibles, y previa audiencia del interesado/a por término de diez días, podrán proceder a la colegiación de oficio de quienes ejerzan lícitamente como profesionales veterinarios. La resolución por la que se proceda a la colegiación se notificará al interesado/a, quién, desde ese momento, y sin perjuicio de los recursos procedentes, quedará sujeto a la normativa colegial, así como a todas las obligaciones como persona colegiada incluidas las de índole económica.
+
+> Se modifican los apartados 2.e) y 3 por el art. único.32 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 65. Solicitudes de colegiación.
+
+1\. Para ser admitido en un Colegio Oficial de la Profesión Veterinaria, se acompañará a la solicitud en documento normalizado el correspondiente título original o testimonio notarial del mismo. La certificación supletoria provisional emitida por el Rector y que incorpore el número de Registro Nacional de Titulados Universitarios Oficiales podrá suplir la ausencia del título original o testimonio notarial del mismo. Se acompañará igualmente declaración responsable de ausencia de antecedentes penales que pudieran impedir su ejercicio profesional como profesional veterinario, pudiendo el Colegio solicitarle la aportación de certificación de antecedentes penales con esa finalidad.
+
+2\. Si el solicitante es extranjero, deberá presentar la documentación acreditativa del cumplimiento de los requisitos exigidos por la normativa aplicable.
+
+3\. El solicitante hará constar que va a ejercer la profesión, lugar en el que va a hacerlo, y, en su caso, la modalidad y la especialidad.
+
+4\. Corresponde a las Juntas de Gobierno de cada colegio resolver sobre las solicitudes de incorporación a los mismos. Las Juntas de Gobierno acordarán, en el plazo máximo de un mes, lo que estimen pertinente acerca de la solicitud de inscripción. Pasado ese plazo sin contestación, se entenderán aprobadas.
+
+5\. Las solicitudes de incorporación serán aprobadas o denegadas, de conformidad con lo dispuesto en estos Estatutos Generales. La Junta de Gobierno practicará las diligencias y recibirá los informes que, en su caso, considere oportunos y notificará la resolución motivada que proceda.
+
+6\. Contra la decisión de la Junta de Gobierno en esta materia cabrá recurso de alzada ante el Consejo de Colegios de la comunidad autónoma respectiva, si estuviere constituido, o ante el Consejo General, si no existiere aquél, conforme a lo dispuesto en los artículos 120 y siguientes de los presentes Estatutos Generales.
+
+> Se modifica el apartado 1 por el art. único.33 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 66. Denegación de colegiación.
+
+La solicitud de colegiación será denegada en los siguientes casos:
+
+a) Cuando los documentos presentados con la solicitud de ingreso sean insuficientes u ofrezcan dudas sobre su legitimidad y no se hayan complementado o subsanado en el plazo señalado al efecto.
+
+b) Cuando hubiere sufrido alguna condena por sentencia firme de los Tribunales que en el momento de la solicitud le inhabilite para el ejercicio profesional.
+
+c) Cuando hubiere sido expulsado de otro colegio de veterinarios sin haber sido rehabilitado.
+
+d) Cuando al formular la solicitud se hallare suspenso del ejercicio de la profesión, en virtud de corrección disciplinaria corporativa firme.
+
+Obtenida la rehabilitación o desaparecidos los obstáculos que se opusieran a la colegiación, ésta deberá aceptarse por el colegio sin dilación ni excusa alguna.
+
+##### Artículo 67. Trámites posteriores a la admisión.
+
+Admitido el solicitante en un Colegio Oficial de Veterinarios, se le expedirá la tarjeta de identidad correspondiente, dándose cuenta de su inscripción al Consejo General de Colegios Veterinarios de España en el modelo de ficha normalizada que éste establezca.
+
+Asimismo, se abrirá un expediente en el que se constatarán los datos profesionales y personales del solicitante necesarios para el cumplimiento de los fines y funciones del colegio, viniendo obligado el colegiado a informar a la corporación a la que pertenezca de los cambios que se produzcan en los mismos, con objeto de poder mantener un censo debidamente actualizado.
+
+##### Artículo 68. Pérdida y recuperación de la condición de colegiado.
+
+1\. La condición de colegiado se perderá:
+
+a) Por baja voluntaria, al cesar en el ejercicio profesional en cualquiera de sus modalidades, mediante solicitud por escrito, que deberá ir acompañada de la documentación acreditativa del cese.
+
+b) Por condena firme que lleve consigo la accesoria de inhabilitación para el ejercicio de la profesión o de inhabilitación absoluta o especial para cargo público.
+
+c) Por sanción firme de expulsión acordada en expediente disciplinario.
+
+d) Por pérdida de las condiciones que permitieron la colegiación.
+
+e) Por muerte o declaración de fallecimiento.
+
+2\. La pérdida de la condición de colegiado será acordada por la Junta de Gobierno del Colegio en resolución motivada, que será debidamente notificada al mismo.
+
+3\. Las bajas serán comunicadas al Consejo General de Colegios Veterinarios de España.
+
+4\. Se recuperará la condición de colegiado mediante petición de reingreso que, en los casos del apartado 1.b) y c), requerirá además probar la prescripción de la sanción de cualquier clase que hubiera dado lugar a la pérdida de su condición de colegiado, solicitar la admisión y que ésta sea aceptada de acuerdo con el artículo 111.5; y en el caso del apartado 1.d), probar que se poseen los requisitos para la colegiación que incumplía.
+
+> Se modifica el apartado 1.a) por el art. único.34 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO III — Ventanilla única
+
+##### Artículo 69. Ventanilla única.
+
+1\. La Organización Colegial Veterinaria Española dispondrá de una página web para que, a través de la ventanilla única prevista en la Ley 17/2009, de 23 de noviembre, los profesionales veterinarios puedan realizar todos los trámites necesarios para la colegiación, su ejercicio y su baja en el Colegio Oficial de Veterinarios respectivo, a través de un único punto, por vía electrónica y a distancia. Concretamente, la Organización Colegial Veterinaria Española hará lo necesario para que, a través de esta ventanilla única, los profesionales veterinarios puedan de forma gratuita:
+
+a) Obtener toda la información y formularios necesarios para el acceso a la actividad profesional y su ejercicio.
+
+b) Presentar toda la documentación y solicitudes necesarias, incluyendo la de la colegiación.
+
+c) Conocer el estado de tramitación de los procedimientos en los que tenga consideración de interesado y recibir la correspondiente notificación de los actos de trámite preceptivos y la resolución de los mismos por el Colegio, Consejo Autonómico, en su caso, y Consejo General, incluida la notificación de los expedientes disciplinarios cuando no fuera posible por otros medios.
+
+d) Convocar a los colegiados a las Juntas Generales Ordinarias y Extraordinarias y poner en su conocimiento la actividad pública y privada del Colegio Profesional.
+
+2\. A través de la referida ventanilla única, para la mejor defensa de los derechos de los consumidores y usuarios, la Organización Colegial Veterinaria Española ofrecerá la siguiente información, que deberá ser clara, inequívoca y gratuita:
+
+a) El acceso a los registros de colegiados, que estará permanentemente actualizado y en el que constarán, al menos, los siguientes datos: nombre y apellidos de los profesionales colegiados, número de colegiación, títulos oficiales de los que estén en posesión, domicilio profesional y situación de habilitación profesional.
+
+b) El acceso a los registros de sociedades profesionales, que tendrá el contenido descrito en el artículo 8 de la Ley 2/2007, de 15 de marzo, de Sociedades Profesionales.
+
+c) Las vías de reclamación y los recursos que podrán interponerse en caso de conflicto entre el consumidor o usuario y un colegiado o el Colegio Oficial de Veterinarios respectivo.
+
+d) Los datos de las asociaciones u organizaciones de consumidores y usuarios a las que los destinatarios de los servicios profesionales pueden dirigirse para obtener asistencia.
+
+e) El contenido de los códigos deontológicos.
+
+3\. Los Colegios Oficiales de Veterinarios, los Consejos Autonómicos, en su caso, y el Consejo General de Colegios Veterinarios de España, deberán adoptar las medidas necesarias para el cumplimiento de lo previsto en este artículo e incorporar para ello las tecnologías precisas que garanticen la interoperabilidad entre los distintos sistemas y la accesibilidad de las personas con discapacidad. Para ello podrán poner en marcha los mecanismos de coordinación y colaboración necesarios, inclusive con las corporaciones de otras profesiones.
+
+4\. Los Colegios Oficiales de Veterinarios y los Consejos Autonómicos, en su caso, facilitarán al Consejo General de Colegios Veterinarios de España, la información concerniente a las altas, bajas y cualesquiera otras modificaciones que afecten a los Registros de colegiados y de sociedades profesionales, para su conocimiento y anotación en los Registros centrales de colegiados y de sociedades del Consejo General.
+
+### CAPÍTULO IV — Clases de colegiados
+
+##### Artículo 70. Clases de colegiados.
+
+1\. A los fines de estos Estatutos Generales, los colegiados se clasificarán en:
+
+a) Ejercientes.
+
+b) No ejercientes.
+
+c) Honoríficos.
+
+d) Miembros de Honor.
+
+2\. Serán colegiados ejercientes cuantos practiquen la veterinaria en cualquiera de sus diversas modalidades.
+
+3\. Serán colegiados no ejercientes aquellos veterinarios que, perteneciendo a la Organización Colegial Veterinaria, no ejerzan la profesión.
+
+4\. Serán personas colegiadas honoríficas los profesionales veterinarios jubilados en el ejercicio de la profesión en cualquiera de sus modalidades, siempre que lleven un mínimo de veinte años de colegiación, y los que se encuentren en estado de invalidez o incapacidad permanente para el ejercicio de la profesión. Las personas colegiadas honoríficas estarán exentas del pago de las cuotas colegiales, sin perjuicio de que estén obligadas a abonar el importe de los servicios y prestaciones que puedan recibir del Colegio, siempre que los soliciten voluntariamente.
+
+5\. Serán miembros de honor aquellas personas físicas o jurídicas, veterinarios o no, que hayan realizado una labor relevante y meritoria en relación con la profesión veterinaria. Esta categoría será puramente honorífica. Podrá ser propuesto para una recompensa a la autoridad competente.
+
+> Se modifica el apartado 4 por el art. único.35 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO V — Derechos, deberes y prohibiciones de los colegiados y de las sociedades profesionales
+
+##### Artículo 71. Derechos de los colegiados y de las sociedades profesionales.
+
+1\. Los colegiados tendrán los siguientes derechos:
+
+a) Participar en la gestión corporativa, asistiendo a las Asambleas de Colegiados, con derecho de voto. Asimismo, podrán ejercitar el derecho de petición en los términos en que se regula en la vigente legislación.
+
+b) Sufragio, activo y pasivo, en las elecciones a la Junta de Gobierno, en la forma determinada por los presentes Estatutos Generales y en los particulares de cada Colegio.
+
+c) Ser amparados por el Colegio, el Consejo de Colegios Autonómico y por el Consejo General de Colegios Veterinarios de España, cuando se consideren vejados o molestados por motivos de ejercicio profesional.
+
+d) Ser representados por el Colegio y, en su caso, el Consejo de Colegios Autonómico de la comunidad autónoma y el Consejo General de Colegios Veterinarios de España cuando necesiten presentar reclamaciones judiciales o extrajudiciales con ocasión del ejercicio profesional, otorgando los poderes del caso y siendo de cargo del colegiado solicitante los gastos y costas judiciales que el procedimiento ocasione.
+
+e) Disfrutar de todos los beneficios que se establezcan por el colegio y el Consejo General en cuanto se refiere a recompensas, cursillos, becas, así como al uso de la Biblioteca colegial, tanto en el local social como en el propio domicilio, mediante el cumplimiento de los requisitos que se señalen.
+
+f) Proponer razonadamente todas las iniciativas que estime beneficiosas para la profesión y elevar las quejas fundamentadas de actos o hechos que puedan ir en perjuicio suyo, del colegio o de la profesión.
+
+Podrán también solicitar de la Junta de Gobierno la convocatoria de Asambleas Generales extraordinarias, siempre que lo sea en unión de, al menos, el 20 por ciento de las personas colegiadas. Asimismo, y en los términos prevenidos en los presentes Estatutos Generales y en los particulares del colegio respectivo, podrán solicitar de la Junta de gobierno la convocatoria de Asamblea General extraordinaria para el ejercicio del voto de censura a la citada Junta de Gobierno o algunos de sus miembros.
+
+Igualmente, les corresponde el derecho de sufragio activo en la forma prevista estatutariamente en el supuesto de planteamiento por parte de la Junta de Gobierno o de alguno de sus miembros de la cuestión de confianza.
+
+g) Percibir todas y cada una de las prestaciones sociales o asistenciales que tenga bajo su tutela y preste el Consejo General de Colegios Veterinarios de España o el Colegio respectivo.
+
+h) Ostentar los cargos para los cuales sean nombrados y ejercitar, en general, todos los demás derechos que las disposiciones vigentes les concedan.
+
+i) Solicitar del Colegio la tramitación del cobro de los honorarios a percibir por servicios, informes, etc., siempre que el Colegio tenga creados los servicios oportunos.
+
+j) Ejercer su profesión de acuerdo con lo dispuesto en los presentes Estatutos Generales, en la normativa deontológica vigente y en las demás disposiciones que regulen el ejercicio profesional.
+
+k) Formular recursos y peticiones. Examinar archivos, registros y cuentas del Colegio en los términos previstos en el artículo 13 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, dando cumplimiento a la normativa de transparencia y buen gobierno y a la de protección de datos de carácter personal.
+
+1 bis. A las personas colegiadas no ejercientes se les reconocerán los derechos contemplados para las personas colegiadas ejercientes excepto el derecho de sufragio pasivo previsto en la letra b) de este artículo, salvo que los Estatutos Particulares reserven alguno o algunos de sus cargos a personas colegiadas no ejercientes.
+
+2\. A las sociedades profesionales se les reconocerán los derechos contemplados en los apartados c), d), f), párrafo primero (relativo a la proposición de iniciativas), i) y j) del apartado 1 de este artículo.
+
+3\. En ningún caso, el ejercicio mediante sociedades profesionales podrá conllevar la imposición de cargas o tratamiento discriminatorios en relación al ejercicio individual.
+
+> Se modifican las letras f) y k) del apartado 1 y se añade el apartado 1 bis por el art. único.36 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 72. Deberes de los colegiados.
+
+1\. Es deber fundamental de todo colegiado, aun cuando la profesión se ejerza a través de una Sociedad Profesional, ejercer la profesión con arreglo a la más pura ética y dentro del espíritu que dimana de los presentes Estatutos Generales y del Código Deontológico para el ejercicio de la profesión.
+
+2\. Son también deberes de los colegiados, aun cuando la profesión se ejerza a través de una Sociedad Profesional, entre otros, los siguientes:
+
+a) Cumplir cuanto disponen los presentes Estatutos Generales, los Estatutos del Consejo Autonómico respectivo, en su caso, los Particulares de su Colegio, los reglamentos de régimen interno y los acuerdos y decisiones de las autoridades colegiales, de su Consejo de Colegios Autonómico y del Consejo General.
+
+b) Estar al corriente en el pago de todas y cada una de las cuotas de la Organización Colegial Veterinaria y satisfacer toda clase de débitos que tuviese pendientes por suministro de documentos oficiales.
+
+c) Desempeñar los cargos para los cuales fuesen designados en las Juntas de Gobierno y cualesquiera otras comisiones colegiales, incluidos los relacionados con las elecciones colegiales como ostentar la condición de integrante de la Mesa Electoral.
+
+d) Ajustar su situación y actuación profesional en todo momento a las exigencias legales, estatutarias y deontológicas que rigen el ejercicio de la profesión de veterinario preservando y protegiendo, en todo caso, los intereses de los consumidores y usuarios.
+
+e) Emplear la mayor corrección y lealtad en sus relaciones con el Colegio y con los otros colegiados, comunicando a aquél cualquier incidencia vejatoria a un colegiado en el ejercicio profesional de que tenga noticia.
+
+f) Denunciar por escrito al Colegio todo acto de intrusismo que llegue a su conocimiento, así como los casos de ejercicio ilegal.
+
+g) Comunicar su domicilio profesional y los eventuales cambios del mismo al Colegio, la denominación y domicilio social de las Sociedades Profesionales a través de las cuales ejerzan, como socios o no, la profesión, así como todos los demás extremos de éstas previstos legalmente en caso de que tal ejercicio se efectúe como socio profesional.
+
+h) Facilitar al Colegio los datos que se le soliciten para la formación del fichero de colegiados, a los solos efectos del cumplimiento de los fines y funciones del Colegio. Atenderá, asimismo, cualquier requerimiento que le haga la Junta de Gobierno de su Colegio, el Consejo de Colegios Autonómico o el Consejo General de Colegios Veterinarios de España para formar parte de las comisiones especiales de trabajo para fines de interés general de la profesión, prestando a las mismas su mayor colaboración.
+
+i) Los colegiados deberán cumplir, además, aquellos deberes que les sean impuestos como consecuencia de acuerdos adoptados por el Colegio, por el Consejo de Colegios Autonómico o por el Consejo General en el marco de sus competencias.
+
+j) Cualquier otro deber que se desprenda de las prescripciones de estos Estatutos o de las comprendidas en los Estatutos particulares de cada Colegio.
+
+3\. En caso de que la profesión se ejerza a través de una Sociedad Profesional, ésta también será directamente responsable del cumplimiento de los referidos deberes, en cuanto le sean de aplicación.
+
+> Se modifican las letras a) y c) del apartado 2 por el art. único.37 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 73. Prohibiciones.
+
+1\. En general, se prohíbe expresamente a los colegiados, aun cuando la profesión se ejerza a través de una Sociedad Profesional, realizar prácticas profesionales contrarias a lo dispuesto en la legislación vigente o a las normas éticas, deontológicas y jurídicas de la profesión veterinaria y, especialmente, atentar o perjudicar los intereses de los consumidores y usuarios prestatarios de sus servicios profesionales.
+
+2\. Además, se prohíbe específicamente a los colegiados:
+
+a) Ofrecer la eficacia garantizada de procedimientos curativos o de medios personales que no hubieren recibido la confirmación de entidades científicas o profesionales de reconocido prestigio.
+
+b) Emplear tratamientos o medios no controlados científicamente y disimular o fingir la aplicación de elementos diagnósticos y terapéuticos.
+
+c) Tolerar o encubrir en cualquier forma a quien, sin título suficiente o no homologado, sin estar colegiado, trate de ejercer o ejerza la profesión veterinaria.
+
+d) Ejercer la profesión en un consultorio veterinario o en cualquier otro centro del que, sea o no titular, tenga conocimiento de prácticas ilegales por parte de otras personas, aun cuando se efectúen fuera de su presencia y en horas distintas a las de su ejercicio profesional.
+
+e) Permitir el uso de un centro veterinario a personas que, aun disponiendo de título oficial para ejercer la veterinaria, no se hallen debidamente colegiadas, cuando la colegiación sea obligatoria.
+
+f) Prestar su nombre para que figure como director facultativo o asesor de clínica veterinaria, pero que no dirija y atienda o asesore personal y directamente, o que no se ajuste a las leyes vigentes y a los presentes Estatutos o se violen en ella las normas deontológicas, sin perjuicio de la competencia de los tribunales sobre la materia y el control de éstos sobre las decisiones que se adopten por la organización colegial a este respecto.
+
+g) Actuar, siempre que estén en ejercicio, en funciones de delegados de visita médica, representantes, comisionistas o agentes informadores de los laboratorios de medicamentos o productos sanitarios o actuar incumpliendo cualesquiera otros requisitos, obligaciones o prohibiciones establecidos en la normativa vigente sobre el medicamento de uso veterinario.
+
+h) Ejercer la veterinaria cuando se evidencian manifiestamente alteraciones orgánicas, psíquicas o hábitos tóxicos que le incapaciten para dicho ejercicio, mediante la confirmación de reconocimiento médico.
+
+i) Realizar comunicaciones comerciales sobre sus servicios profesionales contrariando lo dispuesto en la Ley.
+
+j) Efectuar manifestaciones públicas, o a través de la prensa, radio o televisión, de las cuales se pueda derivar un peligro potencial para la salud de la población o un desprestigio o perjuicio para el colegio, sus colegiados o miembros de su Junta de Gobierno, siempre que no estén amparadas por el derecho fundamental a la libertad de expresión.
+
+k) Utilizar la condición de especialista en alguna rama de la profesión sin tener la titulación acreditativa pertinente.
+
+l) Ejercer la telemedicina veterinaria contraviniendo lo dispuesto en las normas legales, deontológicas y de régimen interior, que rigen el ejercicio profesional de la veterinaria.
+
+m) En general, realizar prácticas profesionales contrarias a lo dispuesto en las normas, legales o deontológicas, que rigen el ejercicio profesional de la veterinaria.
+
+3\. Las referidas prohibiciones también se aplicarán a las Sociedades Profesionales cuando la profesión se ejerza a través de las mismas, en cuanto les sean de aplicación.
+
+> Se modifica la letra e), se reordena la l) como m) y se añade una nueva l) en el apartado 2 por el art. único.38 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO VI — Divergencias entre colegiados
+
+##### Artículo 74. Diferencias de carácter profesional.
+
+En las diferencias de carácter profesional que pudieran surgir entre colegiados podrá intervenir, en vía de conciliación o arbitraje, la Junta de Gobierno del Colegio, del Consejo Autonómico (cuando se trate de colegiados adscritos a colegios de la misma comunidad autónoma) o, en su caso, del Consejo General (cuando se trate de colegiados que pertenezcan a colegios situados en diferentes comunidades autónomas o a aquellos supuestos en que, perteneciendo a la misma comunidad autónoma, no se haya constituido el correspondiente Consejo Autonómico).
+
+Las resoluciones de las respectivas Juntas de Gobierno de los Colegios, de los Consejos Autonómicos y, en su caso, del Consejo General se adoptarán de conformidad con las previsiones contenidas en la Ley 60/2003, de 23 de diciembre, de Arbitraje, para los arbitrajes de equidad.
+
+### CAPÍTULO VII — Visado colegial
+
+##### Artículo 75. Características del visado.
+
+1\. Los Colegios Oficiales de Veterinarios visarán los trabajos profesionales en su ámbito de competencia únicamente cuando se solicite por petición expresa de los clientes, incluidas las Administraciones Públicas cuando actúen como tales, o cuando así se establezca conforme a lo dispuesto en el Real Decreto 1000/2010, de 5 de agosto, sobre visado colegial obligatorio, previa consulta a los colegiados afectados.
+
+En ningún caso los Colegios podrán imponer la obligación de visar los trabajos profesionales, ni por sí mismos ni a través de sus previsiones estatutarias.
+
+2\. El objeto del visado será comprobar, al menos:
+
+a) La identidad y habilitación profesional del autor del trabajo, utilizando para ello los registros de colegiados previstos en el artículo 10.2 de la Ley estatal de Colegios Profesionales.
+
+b) La corrección e integridad formal de la documentación del trabajo profesional, de acuerdo con la normativa aplicable al mismo.
+
+En todo caso, el visado expresará claramente cuál es su objeto, detallando qué extremos son sometidos a control e informará sobre la responsabilidad que, de acuerdo con lo previsto en el apartado siguiente, asume el Colegio. En ningún caso comprenderá los honorarios ni las demás condiciones contractuales, cuya determinación queda sujeta al libre acuerdo entre las partes, ni tampoco comprenderá el control técnico de los elementos facultativos del trabajo profesional.
+
+3\. En caso de daños derivados de los trabajos que haya visado el Colegio, en los que resulte responsable el autor del mismo, el Colegio responderá subsidiariamente de los daños que tengan su origen en defectos que hubieran debido ser puestos de manifiesto por el Colegio al visar el trabajo profesional, y que guarden relación directa con los elementos que se han visado en ese trabajo concreto.
+
+4\. Cuando el visado sea preceptivo, su coste será razonable, no abusivo ni discriminatorio. Los Colegios harán públicos los precios de los visados de los trabajos profesionales, que podrán tramitarse por vía telemática.
+
+## TÍTULO VI — Régimen económico y financiero
+
+### CAPÍTULO I — Competencias
+
+#### Sección 1.ª Patrimonio del Consejo General. Confección y liquidación de sus presupuestos. Recursos económicos
+
+##### Artículo 76. Obligaciones económicas.
+
+Los Colegios tienen la obligación de contribuir al sostenimiento del Consejo General, en los términos señalados en este Estatuto.
+
+##### Artículo 77. Autonomía de gestión.
+
+El Consejo General de Colegios Veterinarios de España tendrá plena autonomía para la gestión y administración de sus bienes y su presupuesto, de conformidad con lo establecido en el presente Título VI.
+
+##### Artículo 78. Confección y liquidación de presupuestos del Consejo General.
+
+1\. La Junta Ejecutiva Permanente del Consejo General someterá a la aprobación de la Asamblea General de Presidentes/as, durante el último trimestre de cada año, los presupuestos de ingresos y gastos necesarios para su correcto funcionamiento, señalando las cuotas de aportación al Consejo General que deberán satisfacer los diferentes Colegios Oficiales.
+
+2\. Asimismo, dentro del primer trimestre de cada año, la Asamblea deberá conocer y aprobar el balance y liquidación presupuestaria, cerrados al 31 de diciembre del año anterior.
+
+3\. Los integrantes de la Asamblea General tendrán derecho a examinar en la sede del Consejo General la información detallada del contenido de cualesquiera de las partidas incluidas en los presupuestos de ingresos y gastos y en sus correspondientes liquidaciones, siempre que medie petición previa y detallada y dando pleno cumplimiento a la normativa transparencia y buen gobierno y de protección de datos de carácter personal.
+
+4\. Anualmente, se llevará a cabo una auditoría de las cuentas del Consejo General por experto independiente cuya designación compete a la Junta Ejecutiva Permanente.
+
+> Se modifica por el art. único.39 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 79. Ejecución del presupuesto.
+
+El Consejero de la Sección Económica del Consejo General informará a la Junta Ejecutiva Permanente, trimestralmente, para su conformidad, de la evolución del presupuesto aprobado, de acuerdo con el artículo anterior.
+
+##### Artículo 80. Recursos económicos del Consejo General.
+
+Para atender a los gastos que se originen para el cumplimiento de los fines señalados en las disposiciones vigentes y en los presentes Estatutos Generales, el Consejo General de Colegios Veterinarios de España contará con los siguientes ingresos:
+
+a) Las cuotas ordinarias que se señalen a los Colegios Oficiales de Veterinarios, que se determinarán en razón del número de colegiados, y que se fijarán por la Asamblea General de Presidentes, en la reunión a que se refiere el artículo 78, párrafo primero, en relación con el ejercicio siguiente. Dicha cuota se satisfará trimestralmente en la forma prevista en los presentes Estatutos Generales.
+
+b) Las cuotas extraordinarias que deban aportar los Colegios, previa aprobación por la Asamblea General de Presidentes.
+
+c) El importe de las certificaciones que se expidan.
+
+d) Las subvenciones oficiales, donativos o legados, tanto de personas físicas como jurídicas, privadas o públicas.
+
+e) Cuantos otros ingresos pudieran ser arbitrados por medios legales y hubieran sido aprobados por el Consejo General, a través de su Asamblea General de Presidentes.
+
+f) Los rendimientos de cualquier naturaleza que produzcan los bienes y derechos que integran el patrimonio del Consejo General.
+
+g) Los demás recursos que, con motivo de sus actividades corporativas, pueda obtener el Consejo General.
+
+##### Artículo 81. Patrimonio del Consejo General.
+
+El patrimonio del Consejo General estará compuesto por todos los bienes muebles e inmuebles que adquiera, en virtud de cualquier título jurídico, y por el saldo de su tesorería.
+
+#### Sección 2.ª Régimen económico y patrimonial de los Consejos de Colegios de las comunidades autónomas
+
+##### Artículo 82. Régimen económico y patrimonial.
+
+La economía de los Consejos de Colegios de las comunidades autónomas es independiente de la del Consejo General y de la de los colegios que los puedan integrar, por lo que cada Consejo de Colegios será autónomo en la gestión y administración de sus bienes, todo ello de conformidad con lo dispuesto en la legislación autonómica vigente en materia de Colegios Profesionales.
+
+#### Sección 3.ª Régimen económico y patrimonial de los Colegios Oficiales. Confección y liquidación de sus presupuestos. Recursos económicos. Cuotas y su recaudación
+
+##### Artículo 83. Régimen económico de los Colegios.
+
+La economía de los Colegios es independiente de la del Consejo General y de la de los Consejos de Colegios de las comunidades autónomas, por lo que cada Colegio será autónomo en la gestión y administración de sus bienes, sin perjuicio de que deba contribuir al sostenimiento de dichas Corporaciones, tal y como se señala en la vigente legislación de Colegios Profesionales, en los presentes Estatutos Generales y en el resto del ordenamiento jurídico.
+
+##### Artículo 84. Confección y liquidación de presupuestos de los Colegios Oficiales.
+
+1\. Los Colegios Oficiales de Veterinarios confeccionarán anualmente el proyecto de presupuestos de sus ingresos y gastos, debiendo presentarlo durante el último trimestre de cada año a la aprobación de la Asamblea General de Colegiados correspondiente.
+
+2\. Una vez aprobados, podrán ser remitidos al Consejo General para su conocimiento a efectos estadísticos, en los términos y casos previstos en los presentes Estatutos Generales. No obstante lo antedicho, si se hubiere producido alguna subvención por parte del Consejo General del régimen económico de algún organismo colegial, los presupuestos y balances deberán ser remitidos para su control.
+
+3\. Asimismo, dentro del primer trimestre de cada año, los Colegios Oficiales de la Profesión Veterinaria deberán presentar, ante la Asamblea General de personas colegiadas, el balance y liquidación presupuestaria, cerrados al 31 de diciembre del año anterior, para su aprobación o rechazo. Previamente, dicho balance, acompañado de los justificantes de ingresos y gastos efectuados, habrá quedado a disposición de cualquier persona colegiada que lo requiera, para poder examinarlo en la sede del Colegio durante los quince días anteriores a la fecha de celebración de la Asamblea General de personas colegiadas correspondiente, dando pleno cumplimiento a la normativa de transparencia y buen gobierno y de protección de datos de carácter personal.
+
+4\. Los Estatutos particulares de cada Colegio Oficial regularán, en su caso, las normas relativas a los procedimientos de información a los colegiados, auditorías, presentación de cuentas y aprobación de las mismas.
+
+> Se modifican los apartados 2 y 3 por el art. único.40 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 85. Recursos económicos ordinarios de los Colegios.
+
+Constituyen recursos ordinarios de los Colegios Oficiales de Veterinarios:
+
+a) Los rendimientos de cualquier naturaleza que produzcan las actividades corporativas, los bienes o los derechos que integran el patrimonio del Colegio, así como los fondos depositados en sus cuentas.
+
+b) Las cuotas de incorporación al Colegio.
+
+c) Los derechos que fije la Junta de Gobierno de cada colegio por emisión de dictámenes, resoluciones, informes o consultas que evacue la misma sobre cualquier materia. En ningún caso podrán provenir estos derechos de la prestación de servicios veterinarios, o servicios técnicos o científicos relacionados con los mismos, por parte de las los Colegios, los Consejos de Colegios o del Consejo General, así como por parte de sus órganos, que colisionen con la libre competencia con sus colegiados.
+
+d) El importe de las cuotas ordinarias, fijas o variables, así como las cuotas extraordinarias establecidas por la Junta de Gobierno de cada Colegio, previa aprobación de la Asamblea General de Colegiados.
+
+e) Los derechos que fije la Junta de Gobierno de cada colegio por expedición de certificaciones.
+
+f) La participación que se pueda asignar por el Consejo General en los impresos de carácter oficial y cualesquier otros elementos de certificación, garantía e identificación. El precio que se cobre por los mismos a los colegiados reflejará, únicamente, el coste en que incurra el colegio para elaborarlos y gestionar su distribución, en su caso.
+
+g) Las cantidades derivadas de la prestación de otros servicios generales a sus colegiados. La recepción de este tipo de servicios por los colegiados será voluntaria. Asimismo, los precios que se cobren a los colegiados no incluirán costes ajenos a la prestación específica de que se trate.
+
+h) Cualesquier otros establecidos o que se establezcan en sus Estatutos particulares.
+
+##### Artículo 86. Recursos económicos extraordinarios de los Colegios.
+
+Constituirán recursos extraordinarios de los Colegios Oficiales de Veterinarios:
+
+a) Las subvenciones o donativos que se concedan al Colegio por las Administraciones públicas o corporaciones oficiales, entidades o particulares.
+
+b) Los bienes y derechos de toda clase que, por herencia o por cualquier otro título, pasen a formar parte del patrimonio del Colegio.
+
+c) Las cantidades que por cualquier otro concepto corresponda percibir al Colegio cuando administre, en cumplimiento de algún cargo temporal o perpetuo, incluso cultural o benéfico, determinados bienes o rentas.
+
+d) Cualquier otro que legalmente procediere.
+
+##### Artículo 87. Cuotas de incorporación.
+
+Los colegiados satisfarán al inscribirse en el Colegio que corresponda una cuota de entrada, cuyo importe fijará y podrá modificar la Junta de Gobierno, que será igual para todos los colegiados. La cuota de incorporación no podrá superar en ningún caso los costes asociados a la tramitación de la inscripción.
+
+##### Artículo 88. Cuotas ordinarias.
+
+Serán cuotas ordinarias las cuotas que se abonan para el normal sostenimiento y funcionamiento de los Colegios.
+
+Los veterinarios colegiados, ejercientes o no ejercientes, vienen obligados a satisfacer las cuotas, que serán fijadas por la Junta de Gobierno y ratificadas por la Asamblea General de Colegiados.
+
+##### Artículo 89. Cuotas extraordinarias.
+
+En caso de débitos o pagos extraordinarios, los Colegios, previo acuerdo adoptado por las Asambleas Generales, podrán establecer cuotas extraordinarias, que serán satisfechas obligatoriamente por los colegiados.
+
+##### Artículo 90. Recaudación de cuotas.
+
+1\. Las cuotas ordinarias y extraordinarias serán recaudadas por el respectivo Colegio Oficial de Veterinarios. Cada Colegio Oficial, trimestralmente y en la forma que se describe en el presente artículo, remitirá al Consejo General relación nominal y numérica de los colegiados por los que ha de contribuir y de las cantidades a ellos cobradas, procediendo a abonar al Consejo General la cuota que le corresponda por cada colegiado.
+
+2\. Asimismo, los Colegios recaudarán los derechos que les correspondan por dictámenes, tasaciones, reconocimientos de firmas, sanciones previstas en estos estatutos y cuantas prestaciones o servicios se establezcan en favor de los colegiados.
+
+3\. La recaudación de las cantidades destinadas al sostenimiento de los Colegios y del Consejo General de Colegios de la Profesión Veterinaria de España se hará por trimestres naturales, sin perjuicio de que tal período pueda reducirse porque así se establezca en los Estatutos particulares de cada colegio. El Consejo General remitirá electrónicamente a cada Colegio antes del inicio de cada trimestre natural información nominal y numérica de las personas colegiadas que consten en sus archivos en situación de alta. En el caso de que en la relación remitida se observare por el Colegio Oficial respectivo alguna omisión o hubiere de realizarse alguna modificación por alta o baja de alguna persona colegiada, se comunicará inmediatamente al Consejo General por la misma vía. En estos supuestos el Colegio Oficial respectivo corregirá estas incidencias en el recibo correspondiente.
+
+4\. Recibida en el Colegio Oficial la información nominal y numérica antes citada, cada Colegio Oficial, dentro del trimestre natural, procederá a recaudar las cantidades destinadas al sostenimiento económico de los colegios y del Consejo General. En ningún caso se admitirán por el Colegio Oficial pagos parciales con referencia a las cantidades que deben satisfacer las personas colegiadas. Una vez recaudadas, cada Colegio Oficial deberá remitir al Consejo General las cuotas que le correspondan por cada persona colegiada antes de que finalice el segundo mes del trimestre natural correspondiente.
+
+5\. Los Estatutos particulares de los Colegios y los reglamentos de régimen interior del Consejo General y de los Colegios podrán, respectivamente, desarrollar el sistema de recaudación previsto en el presente artículo.
+
+> Se modifican los apartados 3 y 4 por el art. único.41 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 91. Gastos.
+
+1\. Los gastos de los Colegios serán los necesarios para el sostenimiento de los servicios, sin que pueda efectuarse pago alguno no previsto en el presupuesto aprobado, salvo casos justificados, en los cuales, y habida cuenta de las disposiciones de tesorería, la Junta de Gobierno podrá acordar la habilitación de un suplemento de crédito que precisará la previa aprobación de la Asamblea General en el caso de que se exceda el presupuesto total anual.
+
+2\. Sin la autorización expresa del Presidente, el Vocal de la Sección Económica no podrá realizar gasto alguno. En la caja del Colegio existirá la cantidad necesaria para hacer frente a los pagos del mismo, negociándose éstos, siempre que sea posible, por una entidad bancaria.
+
+3\. Lo expuesto en los apartados anteriores se entenderá sin perjuicio de las previsiones que en materia de gastos puedan establecer los Estatutos particulares de cada Colegio.
+
+##### Artículo 92. Impago de cuotas.
+
+1\. El colegiado que no abone las cuotas en los plazos correspondientes recibirá del Colegio por escrito reclamación advirtiéndole del impago.
+
+2\. Si persistiere en su actitud de impago y se acumulan más de dos períodos consecutivos, será requerido para hacerlos efectivos, concediéndosele al efecto el plazo de quince días, transcurrido el cual, se le recargará un 20 por 100 anual, si no hubiere satisfecho su obligación.
+
+3\. Si el colegiado persistiere en no pagar en la forma y plazo previstos en el párrafo anterior, con independencia del recargo y la reclamación de las cantidades adeudadas, quedará suspendido en el disfrute de todos sus derechos colegiales previstos en el artículo 71 mientras no haga efectivo el pago de sus obligaciones. La suspensión se levantará automáticamente en el momento en que cumpla sus débitos colegiales.
+
+4\. La suspensión en el disfrute de los derechos colegiales no tiene carácter de sanción disciplinaria y podrá llevar aparejada la baja de la persona colegiada en el Colegio en las condiciones que éste determine en sus Estatutos Particulares.
+
+> Se modifica el apartado 4 por el art. único.42 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 93. Patrimonio colegial.
+
+El patrimonio de los Colegios estará compuesto por todos los bienes muebles e inmuebles que adquiera en virtud de cualquier título jurídico y por el saldo de su tesorería.
+
+#### Sección 4.ª Responsabilidades. Compraventa de inmuebles. Destino de los bienes en caso de disolución
+
+##### Artículo 94. Responsabilidades.
+
+1\. La responsabilidad del manejo de los fondos queda vinculada directamente al encargado de su custodia.
+
+2\. Cuando un Colegio Oficial no cumpla sus obligaciones (falta de pago de las liquidaciones relativas a los correspondientes trimestres) respecto al Consejo de Colegios Autonómico o al Consejo General de Colegios Veterinarios, el órgano competente de estas últimas Corporaciones podrá acordar la intervención de la contabilidad de dicho Colegio. Igualmente, designará un interventor que, con gastos y retribución a cargo del Colegio intervenido, actuará con plenos poderes económicos hasta la normalización de la economía colegial, considerándose preferentes las actuaciones que correspondan a los débitos que motivaron la intervención.
+
+3\. Si fuere preciso, dicho órgano competente del Consejo de Colegios Autonómico o del Consejo General, mediante el acuerdo correspondiente, podrá ordenar que se realice una auditoría tras la designación de los expertos correspondientes, que realizarán su labor bajo la supervisión de la persona que se designe a tal efecto, quien informará preceptiva y puntualmente al mismo de la auditoría efectuada.
+
+4\. La Junta Ejecutiva Permanente deberá dar cuenta a la Asamblea General de Presidentes de las actuaciones realizadas y del resultado de las mismas.
+
+##### Artículo 95. Compraventa de bienes inmuebles.
+
+La compraventa de bienes inmuebles por parte de los Colegios Oficiales de Veterinarios se tendrá que llevar a cabo previa autorización expresa de una Asamblea General extraordinaria de Colegiados, legal y estatutariamente constituida, convocada a ese solo efecto, debiendo darse conocimiento al Consejo General. Deberán justificarse, al menos, ante la Asamblea General de Colegiados:
+
+a) Situación material y régimen económico en la sede actual.
+
+b) Estado de los fondos económicos del Colegio.
+
+c) Cuantía del débito pendiente de liquidación al Consejo General.
+
+d) Coste del nuevo bien inmueble por metro cuadrado construido.
+
+e) Coste total del bien inmueble.
+
+f) Presupuesto de mobiliario adecuado, caso de no ser utilizado el viejo.
+
+g) Forma de pago.
+
+h) Certificación de la existencia de suficientes fondos económicos para responder al pago.
+
+i) Cuantos otros justificantes se consideren oportunos y puedan establecerse por los Estatutos particulares de cada Colegio.
+
+##### Artículo 96. Destino de los bienes en caso de disolución.
+
+En caso de disolución de los Colegios Oficiales, se nombrará una comisión liquidadora, la cual, en caso de que hubiere bienes y valores sobrantes después de satisfacer las deudas, adjudicará los mismos a entidades benéficas relacionadas con la Organización Colegial Veterinaria, de acuerdo con los presentes Estatutos Generales y con lo que dispongan los Estatutos particulares del Colegio respectivo.
+
+### CAPÍTULO II — Certificados oficiales
+
+##### Artículo 97. Organización, edición y distribución.
+
+El Consejo General de Colegios Veterinarios de España establecerá modelos de impresos de certificados veterinarios oficiales, cualesquiera que sea la finalidad de los mismos, y de impresos con arreglo a la legislación vigente, correspondiéndole la organización y dirección de este servicio y a los colegios la distribución de aquéllos dentro de su territorio, en los términos previstos en el artículo 6.m) de los presentes Estatutos Generales, es decir, siempre y cuando se trate de documentos que hayan de ser uniformes en todo el territorio nacional. Lo antedicho será de aplicación a todos los impresos que se editen con arreglo a la legislación vigente.
+
+### CAPÍTULO III — Receta oficial veterinaria
+
+##### Artículo 98. Recetas.
+
+1\. La Organización Colegial velará por el cumplimiento de las normas legales sobre la receta veterinaria como documento profesional y adoptará las medidas que considere más idóneas para garantizar su correcto uso y prescripción. La receta veterinaria es el instrumento del ejercicio clínico de la profesión, existiendo la libertad de prescripción dentro de un marco técnico (diagnóstico, tratamiento y prevención), deontológico y normativo.
+
+2\. La Organización Colegial Veterinaria editará un modelo de receta veterinaria para el ejercicio libre, de conformidad con la normativa estatal y autonómica vigente en la materia, y acordará su distribución a través de los Colegios Oficiales de Veterinarios.
+
+3\. La dispensación de medicamentos veterinarios estará imprescindiblemente condicionada a la entrega de la correspondiente receta, en todos los casos previstos en la legislación vigente.
+
+4\. El profesional veterinario podrá prescribir recetas de forma electrónica y será responsable de la custodia y buen uso del dispositivo o mecanismo habilitado para su identificación personal. La prescripción de un medicamento o producto sanitario mediante receta electrónica sólo deberá realizarse cuando se den las condiciones para ser prescrito conforme a la normativa vigente, aunque el sistema electrónico, por error u otro motivo, permita técnicamente la prescripción del mismo.
+
+> Se añade el apartado 4 por el art. único.43 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO IV — Régimen de la nota-encargo o presupuesto
+
+##### Artículo 99. Nota-encargo.
+
+Los colegiados presentarán a sus clientes una nota-encargo o presupuesto que contendrá, como mínimo, la determinación suficiente del objeto de la prestación y su coste previsto o previsible, en razón de la actividad a realizar o el método para su determinación.
+
+Los colegiados no comunicarán al colegio, para su control o visado, la nota-encargo del trabajo profesional, salvo requerimiento justificado en el curso de un procedimiento disciplinario.
+
+### CAPÍTULO V — Honorarios Profesionales
+
+##### Artículo 100. Honorarios Profesionales y servicio de cobro de honorarios a través de los Colegios.
+
+1\. Los Colegios Oficiales de Veterinarios y la Organización Colegial Veterinaria Española no podrán establecer baremos orientativos ni cualquier otra orientación, recomendación, directriz, norma o regla sobre honorarios profesionales.
+
+2\. Cada Colegio Oficial de Veterinarios establecerá, si lo estima conveniente, un servicio de cobro de honorarios profesionales, de acuerdo con la legislación vigente, que tendrá carácter voluntario para los colegiados.
+
+3\. Los Estatutos particulares de los Colegios Oficiales determinarán las condiciones de prestación del mismo.
+
+4\. Los Colegios Oficiales de Veterinarios elaborarán criterios orientativos a los exclusivos efectos de la tasación de costas y jura de cuentas en los procesos judiciales.
+
+## TÍTULO VII — Régimen de responsabilidad de los colegiados
+
+### CAPÍTULO I — Responsabilidad penal y civil
+
+##### Artículo 101. Responsabilidad penal.
+
+Los veterinarios están sujetos a responsabilidad penal por los delitos y faltas que cometan en el ejercicio de su profesión.
+
+##### Artículo 102. Responsabilidad civil.
+
+Las personas colegiadas, en su ejercicio profesional, están sujetos a responsabilidad civil cuando por culpa o negligencia dañen los intereses de los consumidores o usuarios de sus servicios cuya atención les hubiere sido confiada, responsabilidad que será exigible conforme a la legislación ordinaria ante los Tribunales de Justicia.
+
+> Se modifica por el art. único.44 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+### CAPÍTULO II — Responsabilidad disciplinaria
+
+#### Sección 1.ª Principios generales y facultades disciplinarias
+
+##### Artículo 103. Régimen disciplinario.
+
+1\. En ningún caso será obstáculo el ejercicio de la actividad profesional a través de una Sociedad Profesional para la efectiva aplicación a los colegiados, sean socios profesionales o no, del régimen disciplinario previsto en el presente Título.
+
+2\. Los colegiados que infrinjan sus deberes profesionales o los regulados por estos Estatutos serán sancionados disciplinariamente, con independencia de cualquier otra responsabilidad civil, penal o administrativa en que puedan incurrir.
+
+Igualmente, las personas que ocupen cargos directivos en la Organización Colegial, tanto en los Colegios Oficiales, como en el Consejo General o en los Consejos Autonómicos, en su caso, serán susceptibles de ser sancionados disciplinariamente.
+
+3\. Las Sociedades Profesionales están sujetas igualmente a responsabilidad disciplinaria e incurrirán en ella en los supuestos y circunstancias establecidos en la Ley y en estos Estatutos, si cometieran alguna de las infracciones previstas en el artículo 106 siguiente. La responsabilidad disciplinaria de la Sociedad Profesional se entenderá sin perjuicio de la responsabilidad disciplinaria que corresponda al profesional actuante, sea socio o no de la misma.
+
+##### Artículo 104. Potestad sancionadora.
+
+1\. No podrán imponerse sanciones disciplinarias, sino en virtud de expediente instruido al efecto, previa audiencia del interesado.
+
+2\. El ejercicio de la potestad sancionadora respecto de las personas colegiadas corresponde a las Juntas de Gobierno de los Colegios Oficiales de la Profesión Veterinaria del lugar donde se haya ejercitado la actividad profesional susceptible de ser sancionada, de acuerdo con lo establecido en el artículo 62.8 de los presentes Estatutos Generales.
+
+3\. El enjuiciamiento y potestad sancionadora, en relación con los miembros de las Juntas de Gobierno de los Colegios, corresponderá al Consejo General en el supuesto de que no esté constituido el correspondiente Consejo Autonómico. Corresponderá en todo caso al Consejo General el ejercicio de la potestad sancionadora respecto de los miembros de las Juntas de Gobierno de los Colegios en el supuesto de infracciones que éstos puedan cometer en relación con sus obligaciones relacionadas con su participación o funciones representativas en el Consejo General.
+
+4\. Los acuerdos sancionadores que pongan fin al procedimiento serán ejecutivos cuando no quepa contra ellos ningún recurso ordinario en vía administrativa, pudiendo adoptarse en los mismos las disposiciones cautelares precisas para garantizar su eficacia en tanto no sea ejecutiva y que podrán consistir en el mantenimiento de las medidas provisionales que en su caso se hubieran adoptado. Cuando la resolución sea ejecutiva, se podrá suspender cautelarmente en el supuesto previsto en el artículo 90.3 de la Ley 39/2015, de 1 de octubre.
+
+5\. Los Colegios Oficiales darán cuenta inmediata al Consejo General de todas las sanciones que impongan que lleven aparejada la suspensión en el ejercicio profesional (artículo 107, sanciones 4.ª a 7.ª, ambas inclusive) con remisión de un extracto del expediente. El Consejo General llevará un registro de sanciones de ámbito estatal en el que se recogerán todas las que se impongan por los Colegios Oficiales, tanto a los colegiados personas físicas como a las Sociedades Profesionales. Tales sanciones, además, se anotarán en el expediente personal del colegiado sancionado, o en su caso, en la hoja abierta a la Sociedad Profesional en el Registro de Sociedades Profesionales.
+
+6\. Las sanciones impuestas, en su caso, por el Colegio de la provincia en la que se ejerza la actividad profesional, surtirán efecto en todo el territorio español.
+
+> Se modifican los apartados 2 y 4 por el art. único.45 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+#### Sección 2.ª Infracciones susceptibles de comisión por los colegiados, de las sanciones a las mismas y de las facultades sancionadoras
+
+##### Artículo 105. Competencias sancionadoras de los Colegios.
+
+Los Colegios sancionarán disciplinariamente todas las acciones y omisiones de los colegiados que infrinjan las normas reguladoras de la profesión, los Estatutos Generales y particulares, los reglamentos de régimen interior, las normas deontológicas o cualesquiera otras normas colegiales.
+
+##### Artículo 106. Infracciones.
+
+Las infracciones cometidas por los colegiados veterinarios y por las Sociedades Profesionales e imputables a unos y otras, que puedan llevar aparejada sanción disciplinaria, se clasificarán en leves, graves y muy graves.
+
+1\. Son infracciones graves susceptibles de ser cometidas por los veterinarios colegiados e imputadas a los mismos:
+
+a) El incumplimiento de los deberes colegiales y profesionales determinados en el artículo 72 de los presentes Estatutos Generales, así como en la normativa deontológica vigente, señaladamente cuando se perjudiquen los intereses de los consumidores y usuarios prestatarios de sus servicios profesionales.
+
+b) La práctica de conductas profesionales con infracción de las prohibiciones contenidas en el artículo 73 de estos Estatutos Generales.
+
+c) La comisión de delitos dolosos, en cualquier grado de participación, cuya ejecución fuera realizada valiéndose de su condición profesional, previo pronunciamiento judicial firme.
+
+d) El incumplimiento reiterado (dos o más) de los acuerdos emanados de la Asamblea General del Colegio, de la Junta de Gobierno, de los Consejos Autonómicos, en su caso, y del Consejo General.
+
+e) La falta de denuncia a las autoridades competentes y al Colegio o Consejo General de las manifiestas infracciones cometidas por los colegiados en relación con las obligaciones administrativas o colegiales de que tenga conocimiento.
+
+f) El encubrimiento del intrusismo profesional, o la colaboración al ejercicio de actividades propias de la profesión de veterinario con quien no ostente el título correspondiente o no reúna la debida aptitud legal para ello, previo pronunciamiento judicial firme.
+
+g) El atentado contra la dignidad u honor de los compañeros con ocasión del ejercicio profesional.
+
+h) El atentado contra la dignidad u honor de los miembros de los órganos de gobierno del Colegio, del Consejo Autonómico, en su caso, y del Consejo General.
+
+i) El incumplimiento de las normas y acuerdos sobre modelos de documentos e impresos utilizados en la actividad profesional de los veterinarios, así como el falseamiento, falta de cumplimentación o inexactitud grave de los citados documentos y la ocultación o simulación de datos que el Colegio debe conocer para ejercitar sus funciones de ordenación y control de la actividad profesional.
+
+j) El ejercicio profesional en situación de embriaguez o bajo el influjo de drogas tóxicas.
+
+k) La realización de actividades, constitución de asociaciones o pertenencia a éstas, cuando tengan como fines o realicen funciones que sean exclusivas de los Colegios.
+
+l) La infracción grave del secreto profesional, por culpa o negligencia, con perjuicio para terceros.
+
+m) Amparar el ejercicio de la profesión sin la preceptiva colegiación o permitir el uso del centro veterinario a personas que no se hallen debidamente colegiadas, cuando la colegiación sea obligatoria.
+
+n) No respetar o perjudicar los derechos de los consumidores y usuarios contratantes de sus servicios o destinatarios de su ejercicio profesional.
+
+ñ) El incumplimiento de las normativas reguladoras de actividades profesionales que se ejercen en virtud de convenios o contratos suscritos entre el Colegio y cualquier Administración Pública o en virtud de funciones delegadas o encomendadas por la Administración o por cualquier disposición legal a los Colegios, a los Consejos Autonómicos o al Consejo General de Colegios Veterinarios de España.
+
+o) El incumplimiento de las sanciones impuestas por infracciones disciplinarias, una vez que sean exigibles por ser firmes o no haber sido suspendidas por los órganos competentes del orden jurisdiccional contencioso-administrativo.
+
+p) El incumplimiento de las previsiones contenidas en el Código Deontológico para el ejercicio de la profesión veterinaria y en la normativa deontológica aprobada por el Colegio respectivo y por el Consejo Autonómico, en su caso; así como el incumplimiento de las previsiones contenidas en los reglamentos de régimen interior aprobados por los órganos colegiados competentes de la Organización Colegial Veterinaria Española.
+
+q) La falta de comunicación al Registro Mercantil o al Colegio de la constitución de una Sociedad Profesional o de las modificaciones posteriores de socios, administradores o del contrato social.
+
+r) El incumplimiento de las previsiones legales en relación con los requisitos de capital, composición de órganos de administración, y representación de las Sociedades Profesionales, ya sea mediante acuerdos públicos, ya sea mediante acuerdos privados o actuaciones concertadas entre los socios.
+
+2\. Son infracciones graves susceptibles de ser cometidas por las Sociedades Profesionales e imputadas a las mismas todas las tipificadas en el apartado 1 de este artículo salvo las previstas en las letras c), j), k), l), m) y n).
+
+3\. Son leves las infracciones comprendidas en los apartados anteriores que revistan menor entidad por concurrir alguna de estas circunstancias: la falta de intencionalidad o escasa importancia del daño causado.
+
+4\. Merecerán la calificación de muy graves las infracciones reputadas como graves en los apartados 1 y 2 de este artículo, en las que concurra alguna de estas circunstancias: intencionalidad manifiesta; negligencia profesional inexcusable; daño o perjuicio grave a los intereses de los consumidores y usuarios; obtención de lucro ilegítimo merced a la actuación ilícita; haber sido sancionado anteriormente, por resolución colegial firme no cancelada o que debió haberlo sido, a causa de una infracción grave.
+
+> Se modifican las letras d), m) y p) del apartado 1 por el art. único.46 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 107. Sanciones.
+
+1\. Por razón de las infracciones previstas en el artículo anterior podrán imponerse las siguientes sanciones:
+
+a) A las personas veterinarias colegiadas:
+
+1.ª Amonestación privada.
+
+2.ª Apercibimiento por oficio.
+
+3.ª Amonestación pública, mediante la publicación de la resolución sancionadora firme en el tablón de anuncios del Colegio o en sus órganos de expresión o difusión.
+
+4.ª Multa de entre 1.001 euros y 5.000 euros.
+
+5.ª Exclusión de las propuestas efectuadas a la Administración competente por parte de los Colegios, Consejos Autonómicos y/o del Consejo General, en relación con actuaciones derivadas de funciones delegadas o encomendadas por la Administración o por cualquier disposición legal a estas corporaciones, tales como espectáculos taurinos, campañas de vacunación o identificación de animales, de acuerdo con lo previsto en el artículo 106.1.ñ) de estos Estatutos, por tiempo no inferior a un mes ni superior a tres años.
+
+6.ª Suspensión de la condición de colegiado hasta 1 mes.
+
+7.ª Suspensión de la condición de colegiado entre 1 mes y 1 día y 1 año.
+
+8.ª Suspensión de la condición de colegiado entre 1 año y 1 día y 3 años.
+
+9.ª Expulsión del Colegio, que conlleva la inhabilitación para cualquier colegiación o incorporación en otro Colegio Oficial de la Profesión Veterinaria.
+
+En todo caso, las sanciones de suspensión de la condición de colegiado comportarán la suspensión del ejercicio profesional en todo el territorio español cuando la adscripción del colegiado sancionado tuviera carácter obligatorio.
+
+b) A las Sociedades Profesionales:
+
+1.ª Amonestación privada dirigida a sus administradores.
+
+2.ª Apercibimiento por oficio dirigido a sus administradores.
+
+3.ª Amonestación pública, mediante la publicación de la resolución sancionadora firme en el tablón de anuncios del Colegio o en sus órganos de expresión o difusión.
+
+4.ª Multa por importe de entre el 0,5 y el 3 por ciento de su cifra neta de negocio en el ejercicio inmediatamente anterior al de la comisión de la infracción.
+
+5.ª Baja temporal del Registro de Sociedades Profesionales, por un plazo no inferior a un mes ni superior a dos años. En todo caso, la baja comportará la suspensión en el ejercicio profesional de la Sociedad por el tiempo que dure la baja.
+
+6.ª Exclusión definitiva del Registro de Sociedades Profesionales, momento a partir del cual la Sociedad no podrá ejercer la actividad profesional veterinaria.
+
+2\. Las sanciones 6.ª a 9.ª del apartado 1.a) de este artículo implican la accesoria de suspensión del ejercicio del derecho de sufragio activo y pasivo por el tiempo de su duración.
+
+3\. Tanto en el caso de sanción de expulsión de personas veterinarias colegiadas como en el de exclusión definitiva de Sociedades Profesionales de sus respectivos Registros, será necesario el voto favorable de, al menos, las dos terceras partes de los miembros integrantes de la Junta de Gobierno del Colegio.
+
+4\. Las sanciones de suspensión de ejercicio profesional y expulsión de las personas veterinarias colegiadas y las conductas que puedan afectar a la Salud Pública serán comunicadas a las autoridades sanitarias y gubernativas.
+
+5\. Las sanciones que se impusieran a las Sociedades Profesionales consistentes en la baja temporal o en la exclusión definitiva del Registro de Sociedades Profesionales, serán comunicadas al Ministerio de Justicia y el Registro Mercantil en el que la Sociedad sancionada estuviera inscrita.
+
+> Se modifica por el art. único.47 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 108. Correspondencia entre infracciones y sanciones.
+
+1\. Por la comisión por parte de las personas veterinarias colegiadas de infracciones calificadas como leves podrán imponerse las sanciones 1.ª a 2.ª del apartado 1.a) del artículo 107 de los presentes Estatutos Generales. A las infracciones graves corresponden las sanciones 3.ª a 7.ª del mismo artículo 107.1.a). Y sólo las muy graves serán acreedoras a las sanciones 8.ª a 9.ª tipificadas en el mencionado artículo 107.1.a) de estos Estatutos. Para la determinación de la concreta sanción imponible serán tomadas en consideración las circunstancias previstas en el propio artículo 106.4, que deberán ser expuestas, justificadas y motivadas suficientemente en la resolución.
+
+2\. Por la comisión por parte de las Sociedades Profesionales de infracciones calificadas como leves podrán imponerse las sanciones 1.ª a 2.ª del apartado 1.b) del artículo 107.1 de los presentes Estatutos Generales. A las infracciones graves corresponden las sanciones 3.ª a 5.ª del mismo artículo 107.1.b). Y sólo las muy graves serán acreedoras a la sanción 6.ª tipificadas en el mencionado artículo 107.1.b) de estos Estatutos. Para la determinación de la concreta sanción imponible serán tomadas en consideración igualmente las circunstancias previstas en el propio artículo 106.
+
+> Se modifica por el art. único.48 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 109. Competencia y recursos.
+
+La Junta de Gobierno en cada Colegio ejercerá la función disciplinaria, imponiendo, en su caso, las sanciones correspondientes.
+
+Contra las sanciones impuestas por la Junta de Gobierno cabe recurso de alzada ante el Consejo General, cuando esté previsto en los Estatutos del Colegio correspondiente, lo disponga la legislación autonómica y también en ausencia de tal legislación.
+
+##### Artículo 110. Procedimiento disciplinario.
+
+1\. El procedimiento disciplinario se iniciará de oficio por la Junta de Gobierno; a petición razonada de otro Colegio o del Consejo General; o en virtud de denuncia firmada por una persona veterinaria colegiada o por un tercero con interés legítimo (ya sea persona física, jurídica o Administración Pública). El órgano disciplinario competente, previo informe de la Comisión Deontológica, en su caso, al tener conocimiento de una supuesta infracción, decidirá, a la vista de los antecedentes disponibles, ordenar el archivo de las actuaciones o la incoación de expediente, designando, en ese momento, a un instructor de entre los miembros de la Junta de Gobierno o del resto de personas colegiadas.
+
+El plazo máximo para la tramitación y resolución del procedimiento disciplinario no excederá de seis meses y se computará desde la adopción del acuerdo de iniciación hasta la notificación al expedientado/a de la resolución que ponga fin al procedimiento, todo ello sin perjuicio de los ulteriores recursos.
+
+Son causas de abstención o recusación las previstas en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. A los efectos del ejercicio del derecho de recusación, el nombramiento de Instructor/a será comunicado al expedientado/a, quien podrá hacer uso de tal derecho, dentro del plazo de ocho días desde el siguiente al recibo de la notificación.
+
+2\. Tras las oportunas diligencias indagatorias, el Instructor/a propondrá el sobreseimiento del expediente, si no encontrara indicios de ilícito disciplinario, o formulará pliego de cargos, en caso contrario. En el pliego de cargos habrá de indicarse con precisión y claridad, y debidamente motivados: los actos profesionales o colegiales que se presumen ilícitos; la calificación del tipo de infracción en que incurre aquella conducta; la sanción a que, en su caso, puede ser acreedora la misma; así como la identidad del órgano competente para imponer la sanción. Se concederá al expedientado/a un plazo de quince días a contar desde el siguiente a la notificación para que pueda contestar por escrito, formulando el oportuno pliego de descargos y la propuesta de las pruebas que estime pertinente para su defensa.
+
+En el expediente se admitirán todos los medios de prueba admisibles en derecho, correspondiendo al Instructor/a la práctica de las que, habiendo sido propuestas, estime oportunas o las que él mismo pueda acordar. De las audiencias y pruebas practicadas deberá existir constancia escrita en el expediente.
+
+3\. Concluida la instrucción del expediente disciplinario, el Instructor/a lo elevará, con la correspondiente propuesta de resolución, al órgano disciplinario ante el cual se concederá al expedientado/a nuevo trámite de audiencia, por el mismo plazo de quince días a contar desde el siguiente a la notificación, para que pueda alegar cuanto estime oportuno o conveniente a su derecho. El Instructor/a no podrá intervenir en las deliberaciones ni en la toma de decisión del órgano disciplinario. El órgano encargado de resolver, antes de dictar resolución, mediante acuerdo motivado, podrá devolver al Instructor/a el expediente para la práctica de las diligencias que sean imprescindibles para la adopción de la resolución. En la práctica de nuevas diligencias podrá intervenir el/la interesado/a, si lo cree oportuno, debiéndosele comunicar, en todo caso, el resultado de las mismas. Tras conocer el resultado de estas diligencias el/la interesado/a dispondrá de un plazo de ocho días para formular las alegaciones que a su derecho convengan en relación a tales diligencias.
+
+La resolución, que será motivada, decidirá todas las cuestiones planteadas por el/la interesado/a y aquellas otras derivadas del procedimiento, debiendo notificarse al mismo/a en el plazo de los diez días hábiles siguientes a su adopción, con expresión de los recursos a los que hubiere lugar, así como los plazos para interponerlos, de acuerdo con la legislación vigente.
+
+4\. Las notificaciones podrán practicarse en papel o a través de medios electrónicos, conforme a lo dispuesto en la normativa del procedimiento administrativo común de las administraciones públicas vigente en cada momento.
+
+5\. Este procedimiento disciplinario podrá ser desarrollado, de conformidad con lo dispuesto en estos Estatutos Generales, por los Estatutos particulares de cada Colegio. En lo no previsto por los Estatutos Generales serán de aplicación la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.49 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 111. Prescripción de infracciones y sanciones. Cancelación. Rehabilitación en caso de expulsión.
+
+1\. Las infracciones, tanto de veterinarios colegiados como de sociedades profesionales, prescriben:
+
+a) Las leves: a los 6 meses.
+
+b) Las graves: al año.
+
+c) Las muy graves: a los 2 años.
+
+2\. Las sanciones, tanto de veterinarios colegiados como de sociedades profesionales, prescriben:
+
+a) Las leves: a los 6 meses.
+
+b) Las graves: al año.
+
+c) Las muy graves: a los 2 años.
+
+3\. Los plazos de prescripción de las infracciones, tanto de personas veterinarias colegiadas como de sociedades profesionales, comenzarán a contar desde la comisión de la infracción. En el caso de infracciones continuadas o permanentes, el plazo comenzará a correr desde que finalice la conducta infractora. La prescripción se interrumpirá por cualquier actuación colegial expresa y manifiesta dirigida a investigar la presunta infracción y con conocimiento del interesado/a.
+
+4\. La cancelación supone la anulación del antecedente sancionador a todos los efectos. Las sanciones por la comisión de infracciones leves, graves y muy graves se cancelarán, respectivamente, al año, a los dos años y a los cuatro años, a contar desde el cumplimiento de la sanción de que se trate. Las sanciones se cancelarán de oficio. Si la cancelación debió haberse producido y no se ha hecho, el interesado la podrá instar y el Colegio habrá de proceder a la misma de inmediato. En todo caso, las sanciones no canceladas que lo hubieren debido haber sido carecerán de efectos.
+
+5\. En los casos de expulsión la Junta de Gobierno del Colegio podrá, transcurridos al menos tres años desde la firmeza de la sanción, acordar la rehabilitación del expulsado, para lo que habrá de incoar el oportuno expediente a petición del mismo. La Junta de Gobierno, oído el Consejo General y, en su caso, el Consejo Autonómico, decidirá acerca de la rehabilitación, en atención a las circunstancias de hecho concurrentes en el solicitante.
+
+6\. En los casos de exclusión definitiva del Registro de Sociedades Profesionales, la Junta de Gobierno podrá, igual que en el supuesto del apartado 5 de este artículo, acordar la inclusión de la Sociedad sancionada de nuevo en el Registro colegial, previo el oportuno expediente a petición de la Sociedad y transcurridos, al menos, tres años desde la firmeza de la sanción. La Junta de Gobierno, oído el Consejo General y, en su caso, el Consejo Autonómico, decidirá acerca de la inclusión de nuevo en el Registro, en atención a las circunstancias de hecho concurrentes en el solicitante.
+
+> Se modifica el apartado 3 por el art. único.50 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+#### Sección 3.ª Infracciones susceptibles de comisión por los miembros de órganos de gobierno de la Organización Colegial, de las sanciones a las mismas y de las facultades sancionadoras
+
+##### Artículo 112. Infracciones cometidas por miembros de los órganos de gobierno de la Organización Colegial Veterinaria.
+
+Las infracciones cometidas por los miembros de los órganos de gobierno de la Organización Colegial Veterinaria en función de sus cargos, que puedan llevar aparejada sanción disciplinaria, se clasifican en leves, graves y muy graves.
+
+##### Artículo 113. Infracciones.
+
+1\. Son infracciones graves:
+
+a) La dejación de funciones o la falta de diligencia en el cumplimiento de sus obligaciones como directivos de la Organización Colegial.
+
+b) Todo grave incumplimiento de los deberes que los presentes Estatutos Generales o la legalidad vigente impongan a los miembros de las Juntas de Gobierno de los Colegios Oficiales o a los integrantes del Consejo General.
+
+c) La omisión, incumplimiento o retraso grave e injustificado en la ejecución de las órdenes o acuerdos emanados de los órganos de gobierno de la Organización Colegial.
+
+d) La ocultación de datos o elementos de juicio de interés general para la profesión que obren o que, por su naturaleza, deben obrar en poder de los responsables de los Colegios Oficiales o del Consejo General.
+
+e) La aplicación indebida e injustificada de cantidades consignadas en los presupuestos anuales para fines distintos a los previstos en éstos.
+
+f) El incumplimiento del pago de las cantidades destinadas al sostenimiento del Consejo General y del resto de las obligaciones económicas previstas en los presentes Estatutos o en las disposiciones legales vigentes.
+
+g) Las actuaciones, en función de su cargo, que atenten contra la dignidad y buen nombre de la profesión o de los órganos de representación de la misma.
+
+h) La comisión de delitos con ocasión del ejercicio del cargo, previo pronunciamiento judicial firme.
+
+2\. Son leves las infracciones comprendidas en el apartado anterior que revistan menor entidad por concurrir alguna de estas circunstancias: la falta de intencionalidad; o escasa importancia del daño causado.
+
+3\. Merecerán la calificación de muy graves las infracciones reputadas como graves en las que concurra alguna de estas circunstancias: daño o perjuicio grave a los intereses de los consumidores y usuarios; la puesta en peligro de la subsistencia o el entorpecimiento grave del funcionamiento de la Organización Colegial o de cualquiera de sus órganos de representación; intencionalidad manifiesta; desobediencia reiterada a acuerdos colegiales o del Consejo; haber sido sancionado anteriormente, por resolución colegial firme no cancelada o que debió haberlo sido, a causa de una infracción grave.
+
+##### Artículo 114. Sanciones.
+
+Podrán imponerse las siguientes sanciones:
+
+1.ª Amonestación privada.
+
+2.ª Amonestación pública.
+
+3.ª Suspensión del cargo directivo e inhabilitación para ocupar cualquier puesto de responsabilidad en la Organización Colegial entre 1 mes y 1 día y 1 año.
+
+4.ª Suspensión del cargo directivo e inhabilitación para ocupar cualquier puesto de responsabilidad en la Organización Colegial entre 1 año y 1 día y 2 años.
+
+5.ª Suspensión del cargo directivo e inhabilitación para ocupar cualquier puesto de responsabilidad en la Organización Colegial entre 2 años y 1 día y 5 años.
+
+6.ª Pérdida de la condición de cargo directivo e inhabilitación para ocupar cualquier puesto de responsabilidad en la Organización Colegial durante 6 años.
+
+##### Artículo 115. Correspondencia entre infracciones y sanciones.
+
+A las infracciones leves corresponderán las sanciones 1.ª a 2.ª A las infracciones graves, las sanciones 3.ª a 5.ª Y a las muy graves, la sanción 6.ª Para la determinación de la concreta sanción imponible serán tomadas en consideración las circunstancias previstas en el propio artículo 113, que deberán ser expuestas, justificadas y motivadas suficientemente en la resolución.
+
+##### Artículo 116. Competencia y recursos.
+
+1\. Corresponde al Consejo General la imposición de sanciones por la actuación, profesional o colegial, de los miembros de las Juntas de Gobierno de los Colegios Oficiales de la Profesión Veterinaria en el supuesto de que no estuviese constituido el correspondiente Consejo Autonómico. En todo caso, se estará a lo dispuesto en la normativa autonómica respectiva dictada en materia de Colegios Profesionales.
+
+2\. Corresponderá, en todo caso, al Consejo General la imposición de sanciones por la actuación, profesional o colegial, de los miembros integrantes de sus órganos colegiados.
+
+3\. Contra las sanciones acordadas en primera instancia por el Consejo General, cuando éste sea el competente, cabrá recurso potestativo de reposición ante el propio Consejo General frente a las mismas, en los términos prevenidos en los presentes Estatutos. En todo caso, se estará a lo dispuesto en la normativa autonómica respectiva dictada en materia de Colegios Profesionales.
+
+> Se modifican los apartados 1 y 3 por el art. único.51 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 117. Procedimiento disciplinario.
+
+Para el ejercicio de la potestad sancionadora sobre los miembros del Consejo General o de las Juntas de Gobierno de los Colegios, cuando la competencia sea del Consejo General de acuerdo con lo dispuesto en el artículo 104.3 de los presentes Estatutos Generales, será de aplicación el procedimiento disciplinario previsto en el artículo 110.
+
+##### Artículo 118. Prescripción de infracciones y sanciones. Cancelación.
+
+El régimen de prescripción, así como de cancelación, previsto en el artículo 111 es también aplicable a las infracciones y sanciones de los miembros de órganos directivos de la Organización Colegial.
+
+## TÍTULO VIII — Publicaciones de la organización colegial veterinaria
+
+##### Artículo 119. Publicaciones del Consejo General de Colegios Veterinarios y de los Colegios Oficiales de Veterinarios.
+
+1\. El Consejo General podrá editar periódicamente, con carácter ordinario, un boletín informativo o revista de la organización colegial y cualquier otro medio de difusión electrónico.
+
+El boletín del Consejo y de la Organización Colegial será el órgano de expresión de la misma y colaborarán en él de forma permanente las Juntas de Gobierno de los Colegios, miembros del Consejo General y Consejos Autonómicos, en su caso, y, en general, todas las personas colegiadas.
+
+A tal efecto, se constituirá un gabinete de prensa cuya presidencia ostentará el/la Presidente/a del Consejo General o Consejero/a en quien delegue, que podrá disponer de los servicios de relaciones públicas y prensa.
+
+2\. Las publicaciones deberán atenerse siempre a las normas deontológicas y disposiciones legales vigentes, así como a las de los presentes Estatutos Generales.
+
+> Se modifica el apartado 1 por el art. único.52 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+## TÍTULO IX — Régimen jurídico
+
+##### Artículo 120. Régimen jurídico.
+
+La Organización Colegial Veterinaria Española se rige en su organización y funcionamiento por:
+
+a) La legislación básica estatal y autonómica vigente en materia de Colegios Profesionales.
+
+b) Los presentes Estatutos Generales.
+
+c) Los respectivos Estatutos particulares y normas de alcance general adoptados en su desarrollo y aplicación.
+
+d) El resto del ordenamiento jurídico en cuanto sea aplicable.
+
+En lo no previsto por los Estatutos Generales, será de aplicación la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. El régimen jurídico de los órganos colegiados de las Corporaciones integrantes de la Organización Colegial Veterinaria Española se ajustará a las normas contenidas en este Estatuto General y en los Estatutos particulares, que establecerán el régimen de convocatoria, sesiones y adopción de acuerdos; y, en su defecto, será de aplicación lo previsto en los artículos 15 a 24 de la citada Ley 40/2015, de 1 de octubre.
+
+> Se modifica el último párrafo por el art. único.53 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 121. Nulidad.
+
+1\. Son nulos de pleno derecho cualesquiera actos de los órganos de gobierno de la Organización Colegial Veterinaria Española que incurran en cualquiera de los supuestos previstos en el artículo 47 de la Ley 39/2015, de 1 de octubre.
+
+2\. Son anulables los actos de los órganos colegiales que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder, de acuerdo con lo dispuesto en el artículo 48 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.54 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 122. Régimen de recursos en relación con actos y resoluciones de los Colegios ante el Consejo General.
+
+1\. Los actos, acuerdos y resoluciones de los Colegios Oficiales deberán ser objeto de recurso de alzada, como previo al recurso contencioso-administrativo, ante el Consejo de Colegios de la comunidad autónoma respectiva, si estuviere constituido o, en su defecto, ante el Consejo General de Colegios Veterinarios de España, en la forma y supuestos previstos en el presente artículo.
+
+2\. Contra las decisiones o resoluciones de cualesquiera órganos de los Colegios Oficiales de Veterinarios cabe interponer recurso de alzada, en el plazo de un mes desde su notificación a los interesados o en su caso publicación, ante el Consejo de Colegios de la comunidad autónoma respectiva, si estuviere constituido o, en su defecto, ante el Consejo General de Colegios Veterinarios de España.
+
+En caso de normas o acuerdos de naturaleza deontológica, contenciosos electorales, admisión o denegación de colegiaciones y sanciones que consistan en suspensión del ejercicio profesional y/o expulsión del Colegio, podrá formar parte del expediente administrativo informe del Consejo General, cuando éste no sea el órgano competente para resolver, siempre que lo solicite el órgano a quien corresponda tal competencia, en aras de garantizar en todo el territorio nacional una uniformidad en las resoluciones cuyo objeto sea la igualdad de trato de los profesionales colegiados y la igualdad de prestación del ejercicio profesional frente a los ciudadanos en general.
+
+3\. Los recursos podrán ser presentados ante el Consejo General, cuando éste sea el competente para resolver en los términos previstos en los presentes Estatutos, o ante la Junta de Gobierno del Colegio respectivo, la cual deberá elevarlo al Consejo competente, dentro de los diez días siguientes a la fecha de presentación, con su informe y con una copia completa y ordenada del expediente. El Consejo General, cuando sea el competente para resolver, previos los informes que estime convenientes, deberá dictar y notificar la resolución expresa dentro de los tres meses siguientes a su interposición, entendiéndose, en caso de silencio, que el recurso ha sido desestimado.
+
+4\. Los acuerdos que, en primera instancia, adopte el Consejo General, también serán recurribles, potestativamente, antes de acudir en su caso a la vía contencioso-administrativa, ante el propio Consejo General, en el plazo de un mes a contar desde el día de su notificación o, en su caso, de su publicación. Se exceptúan los acuerdos adoptados por la Asamblea General de Presidentes que agotarán la vía administrativa, siendo recurribles directamente en la vía contencioso-administrativa, sin perjuicio de la posibilidad de interponer recurso de reposición ante el citado órgano colegiado autor del acuerdo recurrido.
+
+##### Artículo 123. Ejercicio libre de la profesión.
+
+El ejercicio de la profesión de veterinario se realizará en régimen de libre competencia y estará sujeto a la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, y a la Ley 3/1991, de 10 de enero, de competencia desleal.
+
+Los acuerdos, decisiones y recomendaciones de los Colegios, Consejos Autonómicos, en su caso, y Consejo General, observarán los límites de la Ley 15/2007, de 3 de julio.
+
+##### Artículo 124. Libros de actas del Consejo General.
+
+1\. En el Consejo General de Colegios Veterinarios de España se llevarán obligatoriamente tres libros de actas, donde se transcribirán separadamente las correspondientes a la Asamblea General de Presidentes, a la Junta Interterritorial y a la Junta Ejecutiva Permanente.
+
+2\. Dichas actas deberán ser firmadas por el Presidente del Consejo General, o por quien le hubiere sustituido en la Presidencia, y por el Secretario General, o por quien hubiere desempeñado sus funciones.
+
+3\. El acta especificará necesariamente los asistentes, el orden del día de la reunión, las circunstancias del lugar, tiempo y forma en que se ha celebrado, los puntos principales de las deliberaciones, así como el contenido de los acuerdos adoptados. Podrán grabarse las sesiones.
+
+El fichero resultante de la grabación, junto a la certificación expedida por el/la Secretario/a de la autenticidad e integridad del mismo, y cuantos documentos en soporte electrónico se utilizasen como documentos de la sesión, podrán acompañar al acta de las sesiones, sin necesidad de hacer constar en ella los puntos principales de las deliberaciones.
+
+4\. El acta de cada sesión podrá aprobarse en la misma reunión o en la inmediata siguiente. El/La Secretario/a elaborará el acta con el visto bueno del Presidente/a y lo remitirá a través de medios electrónicos, a los miembros del órgano colegiado, quienes podrán manifestar por los mismos medios su conformidad o reparos al texto, a efectos de su aprobación, considerándose, en caso afirmativo, aprobada en la misma reunión.
+
+Cuando se hubiese optado por la grabación de las sesiones celebradas o por la utilización de documentos en soporte electrónico, deberán conservarse de forma que se garantice la integridad y autenticidad de los ficheros electrónicos correspondientes y el acceso a los mismos por parte de los miembros del órgano colegiado.
+
+> Se añaden los apartados 3 y 4 por el art. único.55 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+##### Artículo 125. Libros de actas de los Colegios Oficiales.
+
+1\. En cada Colegio se llevarán obligatoriamente dos libros de actas, donde se transcribirán separadamente las correspondientes a la Asamblea General y a la Junta de Gobierno.
+
+2\. Dichas actas deberán ser firmadas por el Presidente del Colegio, o por quien le hubiere sustituido en la Presidencia, y por el Secretario, o por quien hubiere desempeñado sus funciones.
+
+3\. Será de aplicación a los Colegios lo previsto en los apartados 3 y 4 del artículo 124 de estos Estatutos Generales.
+
+> Se añade el apartado 3 por el art. único.56 del Real Decreto 50/2024, de 16 de enero. [Ref. BOE-A-2024-2044](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-2044)
+
+## TÍTULO X — Régimen de distinciones y premios
+
+##### Artículo 126. Distinciones y honores.
+
+El Consejo General, a propuesta de la Junta Ejecutiva Permanente, podrá otorgar mediante información previa, distinciones y honores de distinta categoría, con arreglo a los merecimientos alcanzados en el orden corporativo y/o profesionales, por aquellas personas que se hicieran acreedores a los mismos, en concordancia con el artículo 70 de estos Estatutos.
+
+##### Artículo 127. Recompensas.
+
+1\. Las recompensas que el Consejo General puede conceder serán de dos clases: honoríficas y de carácter científico-económico.
+
+2\. Las honoríficas podrán ser:
+
+a) Felicitaciones o menciones.
+
+b) Veterinario honorario.
+
+c) Miembro de Honor del Consejo General.
+
+d) Presidente de Honor del Consejo General.
+
+e) Medalla de la Organización Colegial Veterinaria.
+
+Podrán ser miembros de honor del Consejo General aquellas instituciones o corporaciones, nacionales o extranjeras, o personas, profesionales o no, que, a juicio de la Junta Ejecutiva Permanente y a instancia de ésta o de la de algún Colegio o de miembros del Consejo, merezcan tal distinción por los méritos contraídos en favor de la profesión.
+
+3\. Las de carácter científico-económico podrán ser:
+
+a) Becas y subvenciones para estudio.
+
+b) Bolsas de estudio para la formación de especialistas.
+
+c) Premios a trabajos de investigación.
+
+d) Publicación, con cargo al Consejo General, de aquellos trabajos de destacado valor científico que éste acuerde editar.
+
+4\. Todas estas recompensas se otorgarán previa la incoación del oportuno expediente, y la de carácter honorífico, señalada en el párrafo d), del apartado 2, de este artículo, requerirá el acuerdo unánime de todos los miembros de la Junta Ejecutiva Permanente. En este último caso, dicha decisión deberá ser, además, ratificada por la Asamblea General de Presidentes de Colegios.
+
+##### Artículo 128. Menciones honoríficas y títulos.
+
+1\. Corresponde a las Juntas de Gobierno de los Colegios la concesión de menciones honoríficas y títulos de Colegiados o de Presidentes de Honor, dando conocimiento al Consejo General de Colegios Veterinarios de España de las condecoraciones, etc., a favor de cualquier veterinario, así como también de personalidades o entidades no veterinarias que, a su juicio, lo merezcan. Junto con la propuesta, los colegiados interesados deberán remitir una amplia y documentada información explicando las razones y servicios que la han motivado e incluyendo las adhesiones pertinentes.
+
+2\. Los colegiados veterinarios, en el momento de su jubilación, si cuentan con más de veinte años de colegiación y no tienen nota desfavorable de sus expedientes colegiales, serán designados automáticamente Colegiados Honoríficos.
+
+3\. La concesión del título de Colegiado o Presidente de Honor y la adquisición de la condición de Colegiado Honorífico, llevarán anexas la exención del pago de cuotas colegiales, tanto ordinarias como extraordinarias.
+
+4\. Las propuestas de becas y bolsas para estudios podrán hacerse también a favor de estudiantes de veterinaria.
+
+5\. Las Juntas de Gobierno de los Colegios Oficiales podrán acordar felicitaciones a favor de sus colegiados, e incluso de los de otros Colegios, cuando por su conducta ejemplar o por sus méritos y servicios extraordinarios prestados a los Colegios o a la profesión, se hayan hecho acreedores de ello.
+
+Cuando el beneficiario resida en una provincia de otra comunidad autónoma o en las Ciudades de Ceuta y Melilla, la propuesta será tramitada a través del Consejo General.
+
+6\. Lo expuesto en los artículos precedentes se entenderá sin perjuicio de las previsiones que en materia de distinciones y premios puedan establecer los Estatutos particulares de cada Colegio.
+
+## TÍTULO XI — Memoria Anual
+
+##### Artículo 129. Memoria Anual.
+
+1\. La Organización Colegial Veterinaria Española estará sujeta al principio de transparencia en su gestión. Para ello, los Colegios Oficiales de Veterinarios, los Consejos Autonómicos, en su caso, y el Consejo General de Colegios de Veterinarios de España, deberán elaborar, respectivamente, una Memoria anual que contenga al menos la información siguiente:
+
+a) Informe anual de gestión económica, incluyendo los gastos de personal suficientemente desglosados y especificando las retribuciones de los miembros de sus Órganos de Gobierno en razón de su cargo.
+
+b) Importe de las cuotas aplicables desglosadas por concepto y tipo de servicios prestados, así como las normas para su cálculo y aplicación.
+
+c) Información agregada y estadística relativa a los procedimientos informativos y sancionadores en fase de instrucción o que hayan alcanzado firmeza, con indicación de la infracción a la que se refieren, de su tramitación y de la sanción impuesta en su caso, de acuerdo, en todo caso, con la legislación en materia de protección de datos de carácter personal.
+
+d) Información agregada y estadística relativa a quejas y reclamaciones presentadas por los consumidores o usuarios o sus organizaciones representativas, así como sobre su tramitación y, en su caso, de los motivos de estimación o desestimación de la queja o reclamación, de acuerdo, en todo caso, con la legislación en materia de protección de datos de carácter personal.
+
+e) Los cambios en el contenido de sus códigos deontológicos, en el caso de disponer de ellos.
+
+f) Las normas sobre incompatibilidades y las situaciones de conflicto de intereses en que se encuentren los miembros de sus Órganos de Gobierno.
+
+g) Información estadística sobre su actividad de visado.
+
+Cuando proceda, los datos se presentarán desagregados territorialmente por los Colegios y Consejos Autonómicos, en su caso.
+
+2\. La Memoria Anual deberá hacerse pública a través de la página web de cada una de las Corporaciones integrantes de la Organización Colegial Veterinaria Española en el primer semestre de cada año.
+
+3\. El Consejo General de Colegios Veterinarios de España hará pública, junto a su Memoria, la información estadística a la que hace referencia el apartado 1 de este artículo de forma agregada para el conjunto de la Organización Colegial Veterinaria Española.
+
+4\. A los efectos de cumplimentar la previsión del apartado anterior, los Consejos Autonómicos, en su caso, y los Colegios Oficiales de Veterinarios facilitarán al Consejo General de Colegios Veterinarios de España la información necesaria para elaborar la Memoria Anual.
+
+## TÍTULO XII — Servicio de atención a los colegiados y a los consumidores y usuarios
+
+##### Artículo 130. Servicio de atención a los colegiados y a los consumidores o usuarios.
+
+1\. Los Colegios Oficiales de Veterinarios deberán atender las quejas o reclamaciones presentadas por los colegiados.
+
+2\. Asimismo, los Colegios Oficiales de Veterinarios dispondrán de un servicio de atención a los consumidores o usuarios, que necesariamente tramitará y resolverá cuantas quejas y reclamaciones referidas a la actividad colegial o profesional de los colegiados se presenten por cualquier consumidor o usuario que contrate los servicios profesionales, así como por asociaciones y organizaciones de consumidores y usuarios en su representación o en defensa de sus intereses.
+
+3\. Los Colegios Oficiales de Veterinarios, a través de este servicio de atención a los consumidores o usuarios, resolverán sobre la queja o reclamación según proceda: bien informando sobre el sistema extrajudicial de resolución de conflictos, bien remitiendo el expediente a los órganos colegiales competentes para instruir los oportunos expedientes informativos o disciplinarios, bien archivando o bien adoptando cualquier otra decisión conforme a derecho.
+
+4\. La regulación de este servicio deberá prever la presentación de quejas y reclamaciones por vía electrónica y a distancia.
+
+##### Disposición transitoria primera. Adaptación de los Estatutos Particulares.
+
+Los Colegios Oficiales de Veterinarios deberán adaptar sus correspondientes Estatutos particulares a lo dispuesto en los Estatutos Generales recogidos en el presente real decreto en el plazo de un año y, una vez aprobados por las Asambleas Generales, serán notificados al Consejo General.
+
+##### Disposición transitoria segunda. Adaptación de los reglamentos de régimen interior.
+
+Los reglamentos de régimen interior aprobados por el Consejo General y por los Colegios Oficiales de Veterinarios seguirán en vigor, si bien deberán adaptarse en el plazo de un año a los presentes Estatutos Generales.
+
+##### Disposición transitoria tercera. Obligatoriedad de colegiación.
+
+De conformidad con lo establecido en la disposición transitoria cuarta de la Ley 25/2009, de 22 de diciembre, hasta la entrada en vigor de la ley en ella referida (que determinará las profesiones para cuyo ejercicio será obligatoria la colegiación) se mantendrá la obligatoriedad de colegiación vigente y que se contiene en el artículo 62 de los presentes Estatutos Generales.
+
+##### Disposición transitoria cuarta. Permanencia transitoria de los miembros de los órganos rectores.
+
+Los miembros de los órganos rectores permanecerán en sus cargos hasta la conclusión del período de tiempo para el cual fueron elegidos, procediéndose a cubrir las vacantes que se produzcan conforme a la nueva normativa estatutaria.

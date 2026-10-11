@@ -1,0 +1,466 @@
+---
+title: "Orden ECC/2741/2012, de 20 de diciembre, de desarrollo metodológico de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera sobre el cálculo de las previsiones tendenciales de ingresos y gastos y de la tasa de referencia de la economía española"
+identifier: "BOE-A-2012-15499"
+eli: "https://www.boe.es/eli/es/o/2012/12/20/ecc2741"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Competitividad"
+date: 2012-12-20
+published: 2012-12-24
+in_force_from: 2012-12-25
+last_amended: 2016-10-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 308"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-15499"
+retrieved: 2026-10-11
+---
+
+# Orden ECC/2741/2012, de 20 de diciembre, de desarrollo metodológico de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera sobre el cálculo de las previsiones tendenciales de ingresos y gastos y de la tasa de referencia de la economía española
+
+La nueva redacción dada al artículo 135 de la Constitución Española, tras la reforma constitucional de 27 de septiembre de 2011 introdujo la utilización del concepto de déficit estructural y la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+En efecto, el artículo 11 de la Ley Orgánica 2/2012, de 27 de abril, establece que ninguna Administración Pública podrá incurrir en déficit estructural, salvo en algunas circunstancias fijadas en el párrafo tercero de dicho artículo. En el párrafo cuarto se establece la obligación, para las Corporaciones Locales, de mantener equilibrio o superávit presupuestario. De este artículo se deduce la necesidad de disponer de un cálculo del saldo estructural para cada Comunidad Autónoma, así como para el Estado y la Seguridad Social. Sin embargo, no resulta exigible disponer de dicho cálculo para cada una de las Corporaciones Locales, cálculo que además implicaría dificultades técnicas muy relevantes.
+
+De acuerdo con el artículo 15.5 de la Ley Orgánica, le corresponde al Ministerio de Economía y Competitividad elaborar periódicamente un informe de situación de la economía española. Dicho informe contendrá, entre otras informaciones, la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española, que limitará la variación del gasto de las Administraciones Públicas, y el saldo cíclico del conjunto de las Administraciones Públicas distribuido entre sus subsectores. Asimismo, en la fijación de los objetivos de estabilidad presupuestaria para la Administración Pública y cada uno de los subsectores, que corresponde al Gobierno a propuesta del Ministro de Hacienda y Administraciones Públicas, se tendrá en cuenta la regla de gasto recogida en el artículo 12 de la ley y el saldo estructural alcanzado en el ejercicio inmediato anterior.
+
+La Ley Orgánica 2/2012 de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, en su disposición transitoria segunda, insta al Ministerio de Economía y Competitividad a desarrollar metodológicamente estos aspectos de la Ley, entre otros fines para que las Administraciones que tengan que presentar planes económico financieros puedan elaborar las previsiones tendenciales de ingresos y gastos, necesarias en virtud del artículo 21.2.b).
+
+La elaboración de una metodología específica resulta necesaria por cuanto que algunas de las magnitudes utilizadas para la aplicación de la Ley Orgánica no son directamente observables. La Ley Orgánica 2/2002, de 27 de abril, establece que el cálculo de estas variables no observables se base en la metodología utilizada por la Comisión Europea al respecto. No obstante, esta metodología, y en general los numerosos estudios y aplicaciones que se han hecho para el cálculo de estas variables no observables, se aplican habitualmente a los Estados y al conjunto de Administraciones Públicas. La aplicación a los distintos subsectores de las Administraciones Públicas y a cada una de las Comunidades Autónomas añade complejidad a la utilización de dicha normativa y exige decisiones adicionales para aplicar la metodología.
+
+Habitualmente, la obtención del saldo estructural de una Administración pública consiste en medir el componente cíclico de dicho saldo y calcular el componente estructural como diferencia entre el observado y el cíclico. Esta es también la práctica utilizada por la Comisión Europea y, en consecuencia, la que se utilizará en el desarrollo de la Ley Orgánica 2/2012, de 27 de abril.
+
+El cálculo del componente cíclico se realiza en dos fases. En primer lugar, se procede al cálculo de la brecha de producción, expresada como la diferencia entre el Producto Interior Bruto (PIB) real observado y el PIB potencial, expresado en porcentaje del Producto potencial. En segundo lugar, se estima una relación (elasticidad) entre el saldo observado y la brecha cíclica.
+
+El producto potencial no es una magnitud directamente observable. De las distintas posibilidades metodológicas, la remisión a la normativa europea obliga a utilizar el método de la función de producción desarrollado por la Comisión Europea. El cálculo del PIB potencial es necesario a efectos de inferir después el saldo cíclico, y también será el primer paso para el cálculo de la tasa de referencia de crecimiento de medio plazo de la economía española que limitará el crecimiento del gasto público en cada Administración, según el artículo 12 de la Ley Orgánica. El cálculo de la tasa de referencia se completará aplicando la normativa europea vigente, que actualmente fija como criterio en términos reales el crecimiento medio del producto potencial en un periodo de 10 años. Estos diez años son los cinco previos al año para el que se calcula la tasa, el año para el que se realiza el cálculo y los cuatro siguientes. La tasa de referencia es el resultado de sumar a esa tasa media de crecimiento real una estimación del deflactor del PIB para fijar la referencia en términos nominales.
+
+El párrafo tercero del artículo 12 de la Ley Orgánica establece que esta referencia española sea la que se tenga en cuenta para cada una de las Administraciones en la elaboración de sus presupuestos. La coherencia necesaria entre las distintas reglas fiscales incluidas en la Ley Orgánica hace necesario que, a efectos de la obtención de un saldo cíclico, la referencia cíclica siga siendo la misma, esto es, la obtenida a partir del cálculo del producto potencial con la metodología de la Comisión Europea. La posibilidad de utilizar medidas de la posición cíclica diferentes en función del territorio, a efectos del cálculo de lo saldo estructurales, introduciría una gran complejidad, además de romper la coherencia entre las reglas referidas al gasto y al saldo. Por otro lado, la evidencia empírica demuestra la existencia de una gran sincronía cíclica entre los ciclos regionales y entre éstos y el ciclo nacional, sincronía que además se ha ido acrecentando con los años. En consecuencia, la metodología desarrollada implica la elaboración de una única señal cíclica de carácter nacional medida a partir del método de la función de producción desarrollado por la Comisión Europea.
+
+El segundo paso para el cálculo del saldo cíclico consiste en la fijación de elasticidades. Es sabido que el impacto del ciclo económico sobre los gastos e ingresos públicos es bastante diferente en función de la naturaleza de los gastos e ingresos. Partidas de gasto como el desempleo dependen de la posición cíclica, mientras que otras, por ejemplo el gasto en pensiones, apenas se ven afectadas por el ciclo. Lo mismo sucede con los ingresos, siendo la sensibilidad al ciclo mayor en general en aquellas figuras tributarias dotadas de mayor progresividad. La sensibilidad cíclica de un determinado componente del gasto o del ingreso depende de su naturaleza y no del territorio en que se realice o genere. La existencia de algunas diferencias en la normativa tributaria por territorios no justifica la aplicación de elasticidades diferentes. En consecuencia, la distinta influencia del ciclo en las cuentas de una Administración o un subsector de la Administración Pública vendrá marcada por las diferentes estructuras de ingresos y gastos. Las Administraciones en cuyos ingresos tengan mayor peso las partidas más sensibles al ciclo, como por ejemplo los gastos por desempleo o el impuesto sobre la renta de las personas físicas, tendrán un saldo cíclico comparativamente mayor.
+
+Hechas estas consideraciones, el cálculo del saldo cíclico para las distintas Administraciones se hará en las dos etapas mencionadas. En primer lugar, se obtiene la brecha de producción a partir del producto potencial derivado de la aplicación de la normativa europea. En segundo lugar, a partir de una estructura simplificada de ingresos y gastos públicos, se aplicará una elasticidad única para cada una de las partidas, tomada también en general de los estudios de la Comisión Europea al respecto. La multiplicación de la elasticidad por el peso en el PIB de la categoría de ingresos o gastos y por la brecha de producción da la aportación de cada categoría al saldo cíclico y, sumadas todas ellas, se obtiene el saldo cíclico de cada Administración o subsector como porcentaje del PIB.
+
+La metodología que se aprueba en esta orden consiste en la aplicación de estos principios a cada Administración o subsector. En cuanto a la división de los subsectores se calculará el saldo de tres subsectores, las Comunidades Autónomas, las Corporaciones Locales y un subsector que recoja el ámbito consolidado de la Administración Central, incluyendo la Seguridad Social. La razón de esta consolidación es que el ciclo económico afecta conjuntamente al sector consolidado influyendo directamente en el gasto final en desempleo, con independencia de que se financie vía cotizaciones, vía impuestos o vía deuda.
+
+En cuanto a la elaboración de previsiones tendenciales por parte de las Administraciones que tengan que hacer planes económico-financieros, la fijación de dichas tendencias consistirá en la extracción del componente cíclico, aplicando el mismo método de estimación del ciclo derivado de la normativa europea. Es decir, las sensibilidades cíclicas que se utilizarán son las que se calcularán según la metodología aneja y se deducirán del peso en su presupuesto de los distintos tipos de ingresos y gastos, mientras que la estimación de su PIB resultará de aplicar al último PIB anual conocido las correspondientes tasas de crecimiento del PIB nominal de España.
+
+Estas consideraciones son las que guían la adopción de las siguientes normas de carácter metodológico.
+
+La presente orden ha sido sometida a trámite de audiencia pública en el que han participado las Comunidades Autónomas y la Federación Española de Municipios y Provincias.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
+
+### Artículo 1. Aprobación de las metodologías.
+
+Se aprueban las metodologías de cálculo del PIB potencial de la economía española y de previsiones tendenciales de ingresos y gastos que se desarrollan en los anejos 1 y 2 respectivamente a esta orden.
+
+### Artículo 2. Revisión de las sensibilidades cíclicas.
+
+Los valores de la sensibilidad cíclica de las Comunidades Autónomas y del conjunto formado por la Administración Central incluyendo la Seguridad Social se actualizarán cuando la Unión Europea introduzca modificaciones en su procedimiento de cálculo. Los valores modificados por la Unión Europea de las elasticidades de ingresos y gastos o de las ponderaciones de los distintos ingresos se utilizarán en cuanto los aplique la Comisión Europea en sus estimaciones de saldo cíclico.
+
+> Se modifica por el art. único.1 de la Orden ECC/493/2014, de 27 de marzo. [Ref. BOE-A-2014-3380](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3380).
+
+### Artículo 3. Cálculo de las tasas de referencia del crecimiento del PIB de medio plazo de la economía española y de su deflactor.
+
+Las tasas de referencia de cada año se calcularán promediando las tasas de los 5 años anteriores, del año en curso y de los 4 años posteriores. Para el crecimiento del PIB en términos reales se tomarán los datos de crecimiento potencial del PIB en esos años. Para el crecimiento del deflactor, cada año se elegirá el menor de los dos valores siguientes: o bien el 2% o bien la tasa de crecimiento del deflactor del PIB prevista o efectivamente registrada según la Contabilidad Nacional.
+
+El Ministerio de Economía y Competitividad publicará antes del final de cada año las tasas de referencia del año siguiente y sucesivos. Las tasas de referencia del año siguiente no podrán ser objeto de modificación.
+
+### Disposición adicional única. Comunidad Foral de Navarra y Comunidad Autónoma del País Vasco.
+
+La presente orden será de aplicación a la Comunidad Autónoma del País Vasco y a la Comunidad Foral de Navarra de conformidad con lo dispuesto en la disposición final tercera de la Ley Orgánica 2/2012, de 27 de abril y sin perjuicio de que en el seno de la Comisión Mixta del Concierto y la Comisión Coordinadora, respectivamente, se puedan acordar especialidades derivadas del régimen foral.
+
+### Disposición final única. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 20 de diciembre de 2012.–El Ministro de Economía y Competitividad, Luis de Guindos Jurado.
+
+## ANEXO I — Metodología para la estimación del Crecimiento Potencial y del Output gap
+
+El crecimiento potencial y el *output gap*de una economía son conceptos de gran utilidad para el análisis económico y, en particular, para la toma de decisiones de política económica. Constituyen la referencia básica para valorar la posición cíclica de la economía y efectuar el diagnóstico sobre la orientación de las políticas macroeconómicas.
+
+Se define el *producto potencial* como el nivel de producción en términos reales que una economía es capaz de generar utilizando los factores productivos disponibles y la tecnología existente, sin generar presiones inflacionistas. Es importante resaltar, sin embargo, que no es una variable observable por lo que requiere ser estimada. Por su parte, el *output gap* o *brecha de producción,* se define como la diferencia entre el cociente entre el nivel de PIB observado o previsto, también en términos reales, y el nivel estimado para el PIB potencial y uno. Es decir, en tanto por uno la brecha de producción (OG) viene dada por:
+
+OG= (PIB observado/PIB potencial)-1
+
+La estimación del producto potencial está sujeta a un elevado grado de incertidumbre, razón por la que la literatura existente recomienda efectuar el diagnóstico de la evolución de la brecha de producción a partir de una horquilla de estimaciones obtenidas a partir de diferentes metodologías. Entre ellas destaca la basada en la estimación de una función de producción, aplicada por los principales organismos económicos internacionales (FMI, OCDE y Comisión Europea).
+
+La estimación del PIB potencial basada en la función de producción presenta la ventaja tener un fundamento teórico sólido, del que carecen otros métodos puramente estadísticos (por ejemplo, aplicación del filtro de suavizado Hodrick-Prescott al PIB real observado), lo que permite un análisis económico de las fuentes del crecimiento del producto potencial. Como principal inconveniente hay que mencionar, sin embargo, los elevados requerimientos de información para su cálculo. En concreto, esta metodología exige, por un lado, la estimación de la productividad total de los factores (PTF) y, por otro, la evaluación de los factores productivos (empleo y capital) en su nivel potencial.
+
+El Ministerio de Economía y Competitividad elabora estimaciones de PIB potencial y output gap anual para la economía española aplicando la metodología de la función de producción utilizada por la Comisión Europea y acordada en el seno del Grupo de Trabajo del Output Gap (*«Calculating potential growth rates and output gaps. A revised production function approach».* Denis C., Grenouilleau D., Mc Morrow K. and Róger W. European Commission. Economic papers number 247. March 2006). Sus principales características se detallan a continuación:
+
+Se utiliza una función de producción Cobb-Douglas del tipo:
+
+*PIB = PTF**∙**L*<sup>1-</sup><sup>α</sup>*∙**K*<sup>α</sup> [1]
+
+Donde *PIB* es el PIB real, *PTF* la productividad total de los factores, *K* el stock de capital y *L* el factor trabajo. A las elasticidades del producto respecto de los factores capital (a) y trabajo (1-a) se les han asignado los valores 0,35 y 0,65, respectivamente, valores fijados en la metodología de la Comisión Europea para todos los Estados Miembros. Al estimarse al PIB potencial anual, las series que se utilizan para esta estimación son también anuales.
+
+Para estimar el producto potencial es preciso evaluar cada uno de los componentes de la función de producción en su valor potencial y sustituirlos en la función de producción.
+
+En relación con la determinación de los factores determinantes del PIB potencial, el empleo potencial se corresponde con el total de horas trabajadas al año por los ocupados de la economía con el supuesto de plena utilización de los recursos disponibles y sin presiones inflacionistas, obteniéndose a partir de la siguiente expresión:
+
+*L**<sub>pot</sub>*= POB*∙*PART<sub>pot</sub>*∙*(1– *NAWRU)**∙**H**<sub>pot</sub>* [2]
+
+*POB* es la población en edad de trabajar (15-64 años), *PART**<sub>pot</sub>* la tasa de actividad potencial, *H**<sub>pot</sub>* el número de horas potenciales trabajadas al año por ocupado y *NAWRU* la tasa de desempleo no aceleradora de los salarios.
+
+A su vez, la tasa de participación y el número de horas potenciales se obtienen aplicando un filtro de Hodrick-Prescott (HP) a la tasa de actividad y al número de horas trabajadas al año por trabajador, respectivamente, mientras que la NAWRU se estima como componente no observable en una curva de Phillips que incluye como regresores la aceleración de la participación de los salarios en el PIB, la productividad del factor trabajo y los términos de comercio definidos como la diferencia entre las tasas de crecimiento de los deflactores del PIB y del consumo privado.
+
+Por su parte, el stock de capital potencial se supone que coincide con el capital observado, evaluándose mediante la aplicación del método de inventario permanente a través de la ecuación dinámica de acumulación del capital.
+
+*K**<sub>t</sub>**= K**<sub>t-1</sub>**∙*(1 – *δ*)*+ I**<sub>t</sub>*[3]
+
+Siendo *I* la inversión real y *δ* la tasa de depreciación del capital.
+
+De este modo, el capital de un período será igual a la inversión bruta efectuada más el capital del período anterior corregido de depreciación.
+
+Por último, la *productividad total de los factores potencial* se determina extrayendo cada año la productividad total de los factores observada a partir de los valores del PIB, stock de capital y trabajo, y se estima su tendencia utilizando, de entre todos los métodos disponibles, el que se considere se adapta mejor a la realidad cíclica de la economía española. La PTF (o Residuo de Solow) se obtiene a partir de la expresión.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/308/15499_001.png)
+
+Una vez obtenidos los diferentes componentes de la función de producción, en términos potenciales, esto es, el empleo potencial, el stock de capital y la PTF potencial, se está en disposición de calcular el PIB potencial aplicando la expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2012/308/15499_002.png)
+
+El periodo muestral analizado se extiende desde el año 1980 hasta 6 años más allá del año en curso (año t). Entre 1980 y t-1 se utilizan datos tomados de las series de la Contabilidad Nacional, de la Encuesta de Población Activa y de las estimaciones intercensales de población; entre t y t+3 se utilizan las previsiones incluidas en el escenario macroeconómico del Ministerio de Economía y Competitividad, y entre t+4 y t+6 se lleva a cabo una extensión de las series de horas por trabajador, tasa de participación y PTF mediante la aplicación de modelos ARIMA. Dicha extrapolación tiene por objetivo limitar la sensibilidad del filtro de Hodrick-Prescott a la información disponible en los extremos del periodo muestral (problema del «punto final»).
+
+El Ministerio de Economía y Competitividad en sus estimaciones de crecimiento potencial y *output gap* y, con el fin de obtener estimaciones más precisas y consistentes con la situación cíclica de la economía española utiliza las proyecciones de población de corto plazo publicadas por el Instituto Nacional de Estadística, al ser una fuente de datos más actualizada que la publicada por Eurostat.
+
+En línea con la práctica de la Comisión Europea, el parámetro de alisado del filtro de Hodrick Prescott utilizado para estimar la tasa de actividad potencial y las horas potenciales por trabajador en la expresión [2] toma el valor 10 para tener mejor en cuenta los cambios que se han producido en las horas por trabajador.
+
+## ANEXO II — Metodología del cálculo del saldo presupuestario cíclico
+
+## Sección 1.ª Cálculo del saldo presupuestario cíclico del conjunto de las Administraciones Públicas
+
+El saldo presupuestario estructural constituye un indicador central en el marco de supervisión fiscal en la UE que permite atribuir el saldo presupuestario de un país a dos tipos de factores: el automático, derivado de las variaciones de la actividad económica, y el discrecional, derivado de la política fiscal del gobierno.
+
+La Comisión Europea modificó en 2013 la metodología de cálculo del saldo estructural para que su nuevo cómputo capte con mayor precisión el concepto correcto: el saldo estructural es el que se observaría si la economía estuviera en su nivel potencial. Hasta ahora, la metodología utilizada por los países de la UE, entre ellos España tal como figuraba en el anexo II de la Orden ECC/2741/72, de 20 de diciembre, se basaba en el concepto de «sensibilidad» de las finanzas públicas al ciclo económico, lo que equivalía a expresar el saldo estructural en porcentaje del PIB observado en lugar del PIB potencial. La metodología revisada por la Comisión Europea implica sustituir el concepto de «sensibilidad» por el de «semielasticidad» en el cálculo del saldo presupuestario cíclico, a partir del cual se deriva el saldo estructural y sus componentes de ingresos y gastos. En consecuencia, formalmente, se pasa de la elasticidad que en una función y= f(x), será igual al cociente de variaciones porcentuales de y y de x (%∆y/%∆x), a la semielasticidad que es igual a %∆y/∆x, esto es, la variación porcentual de y por unidad de aumento de x.
+
+Para descomponer el saldo presupuestario en sus componentes cíclico y estructural, siguiendo la metodología de la Comisión Europea, primero se obtienen las semielasticidades de los ingresos y de los gastos públicos.
+
+La semielasticidad de los ingresos vendrá dada por la siguiente expresión
+
+![1](https://www.boe.es/datos/imagenes/disp/2016/238/08967_5257.png)
+
+siendo ε<sub>R</sub> la semielasticidad de los ingresos y η<sub>R </sub>la elasticidad del nivel de ingresos respecto del output gap o brecha de producción (OG), que a su vez se obtiene como media ponderada de las elasticidades individuales respecto a la brecha de producción de las cinco categorías de ingresos η<sub>R,i</sub> (IRPF, Impuesto de Sociedades, impuestos indirectos, cotizaciones sociales e ingresos no impositivos), utilizando como peso de cada uno de ellos su participación en el conjunto de los ingresos (R<sub>i </sub>/R). Se considera nula la elasticidad de los ingresos no impositivos dado que la influencia del ciclo económico sobre ellos no es significativa estadísticamente.
+
+La semielasticidad de los gastos (ε<sub>G</sub>) será:
+
+![2](https://www.boe.es/datos/imagenes/disp/2016/238/08967_5302.png)
+
+siendo la elasticidad respecto a la brecha de producción de la única categoría de gasto sensible al ciclo económico (gasto en prestaciones por desempleo) que, multiplicada por el peso del gasto en desempleo en el gasto total, da lugar a la elasticidad del gasto agregado.
+
+Para obtener las semielasticidades de los ingresos y gastos respecto a la brecha de producción, se les resta a las elasticidades η<sub>R</sub> y η<sub>G</sub> la unidad y se multiplican por las ratios de ingresos-PIB ![1](https://www.boe.es/datos/imagenes/disp/2016/238/08967_5209.png) y de gastos-PIB ![3](https://www.boe.es/datos/imagenes/disp/2016/238/08967_5352.png), respectivamente, puesto que las variables fiscales suelen expresarse en porcentaje del PIB.
+
+Una vez obtenidas las semielasticidades de ingresos (ε<sub>R</sub>) y gastos (ε<sub>G</sub>) la semi-elasticidad del saldo presupuestario se obtendrá por diferencia:
+
+ε = ε<sub>R</sub> - ε<sub>G</sub> [3]
+
+que multiplicada por la brecha de producción (OG, expresada como porcentaje del PIB potencial) dará el saldo cíclico en términos del PIB nominal:
+
+Saldo cíclico = ε * OG [4]
+
+Finalmente, el saldo ajustado del ciclo se obtendrá restando el saldo cíclico del saldo observado, en porcentaje del PIB nominal:
+
+Saldo ajustado al ciclo = Saldo observado - ε * OG [5]
+
+El paso al saldo estructural supone deducir del saldo ajustado del ciclo la diferencia entre ingresos y gastos no recurrentes, como pueden ser los derivados de un aumento de los impuestos para el que simultáneamente se anuncia su reducción o gastos como los asociados a una reestructuración bancaria:
+
+Saldo estructural = Saldo ajustado al ciclo – (ingresos no recurrentes – gastos no recurrentes) [6]
+
+La Ley Orgánica 2/2012, de 27 de abril, establece que el cálculo del saldo estructural (y de otras variables no directamente observables) se base en la metodología utilizada por la Comisión Europea. Como parte de esa metodología, la Comisión Europea facilita los parámetros para el cálculo de las semielasticidades del saldo presupuestario respecto a la brecha de producción. En el cuadro 1 aparecen las sensibilidades cíclicas de los distintos ingresos y gastos estimadas por la Comisión Europea, y los pesos calculados con los datos más recientes de la Contabilidad Nacional en SEC 1995, que difieren ligeramente de los de la Comisión Europea. El cuadro 1 detalla también las operaciones necesarias para obtener el valor de 0,54 que los servicios de la Comisión Europea calculan para la semielasticidad del saldo público español. Dichas operaciones se deducen de las expresiones [1], [2] y [3] tras redondear la semielasticidad obtenida al segundo decimal más próximo.
+
+CUADRO 1
+
+**Parámetros de España para el cálculo de las semielasticidades del saldo presupuestario respecto a la brecha de producción**
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">
+<p>Conceptos</p>
+</th>
+<th>
+<p>(A)</p>
+</th>
+<th>
+<p>(B)</p>
+</th>
+<th>
+<p>(C)</p>
+</th>
+<th>
+<p>(D)</p>
+</th>
+<th>
+<p>(E)</p>
+</th>
+<th>
+<p>(F)</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Elasticidades ingresos</p>
+<p>y gastos</p>
+</th>
+<th>
+<p>Pesos (%) (1)</p>
+</th>
+<th>
+<p>(A) x (B)/100</p>
+</th>
+<th>
+<p>Semielasticidades respecto del PIB de ingresos/PIB</p>
+<p>y gastos/PIB</p>
+<p>(C) - 1</p>
+</th>
+<th>
+<p>Pesos de</p>
+<p>ingresos y</p>
+<p>gastos totales</p>
+<p>(% PIB) (1)</p>
+</th>
+<th>
+<p>Semielasticidades</p>
+<p>de ingresos,</p>
+<p>gastos y saldo</p>
+<p>(D) x (E)/100</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>IRPF</p>
+</td>
+<td>
+<p>1,84</p>
+</td>
+<td>
+<p>18,65</p>
+</td>
+<td>
+<p>0,288</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Impuesto de Sociedades</p>
+</td>
+<td>
+<p>1,56</p>
+</td>
+<td>
+<p>8,19</p>
+</td>
+<td>
+<p>0,343</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Impuestos indirectos</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+<td>
+<p>28,78</p>
+</td>
+<td>
+<p>0,128</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Cotizaciones sociales</p>
+</td>
+<td>
+<p>0,72</p>
+</td>
+<td>
+<p>34,42</p>
+</td>
+<td>
+<p>0,248</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Ingresos no impositivos</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>9,96</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Total ingresos</p>
+</td>
+<td> </td>
+<td>
+<p>100,00</p>
+</td>
+<td>
+<p>1,007</p>
+</td>
+<td>
+<p>0,007</p>
+</td>
+<td>
+<p>38,18</p>
+</td>
+<td>
+<p>0,003</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gasto de desempleo</p>
+</td>
+<td>
+<p>-5,83</p>
+</td>
+<td>
+<p>5,03</p>
+</td>
+<td>
+<p>-0,293</p>
+</td>
+<td>
+<p>-1,293</p>
+</td>
+<td>
+<p>41,18</p>
+</td>
+<td>
+<p>-0,533</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Saldo presupuestario</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>
+<p>0,54</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Media 2002-2011.
+
+Fuentes: Economic papers 478 y 536 y Ministerio de Economía y Competitividad.
+
+En el caso de España, la Comisión Europea obtiene un resultado de una semi-elasticidad total de 0,54, que es la que se utilizará para calcular los saldos ajustados del ciclo mientras la Comisión Europea no modifique el período para el cálculo de las ponderaciones en el PIB de los distintos ingresos fiscales o la elasticidad de los distintos ingresos y gastos. Cuando alguno de los cambios anteriores tenga lugar, volverá a actualizarse este anexo II.
+
+## Sección 2.ª Distribución del saldo cíclico del conjunto de las Administraciones Públicas españolas entre sus subsectores
+
+La Ley Orgánica 2/2012, de 27 de abril, encomienda al Ministerio de Economía y Competitividad la elaboración de un informe que contenga, entre otras informaciones, el saldo cíclico de las Administraciones Públicas distribuido entre sus subsectores.
+
+En esta sección se determina el procedimiento de cálculo del saldo cíclico de cuatro subsectores: la Administración Central, las Comunidades Autónomas, las Corporaciones Locales y la Seguridad Social, así como del subsector formado por Administración Central y Seguridad Social. La Seguridad Social puede integrarse con la Administración Central porque el ciclo económico afecta conjuntamente al sector consolidado. Así, las prestaciones por desempleo, único gasto considerado cíclico en las metodologías de la UE y de la OCDE, pueden ser financiadas indistintamente por cotizaciones, impuestos o deuda del Estado.
+
+En esta metodología se opta por aplicar a cada tipo de impuesto las elasticidades que aplican la OCDE y la Comisión Europea a los impuestos españoles, por motivos de simplicidad, transparencia, y porque su comportamiento cíclico es independiente del subsector de la Administración Pública que finalmente recibe los ingresos.
+
+La metodología en este caso es similar a la descrita para el conjunto de las Administraciones Públicas en la sección primera del presente anexo (expresiones [1] y [2]), de modo que se calculan las elasticidades de los ingresos y gastos de cada subsector como media ponderada de las elasticidades de los componentes sensibles a la evolución cíclica: impuestos, cotizaciones sociales, transferencias asociadas al sistema de financiación de las Comunidades Autónomas y prestaciones por desempleo. Para obtener las semielasticidades, a las elasticidades de los ingresos y gastos así calculadas se les resta la unidad y el resultado se multiplica por los pesos en el PIB nacional de los correspondientes ingresos y gastos de cada subsector, netos de las demás transferencias entre Administraciones Públicas. La semielasticidad presupuestaria se obtendrá redondeando al segundo decimal más próximo la suma de las semielasticidades de ingresos y gastos calculada a cuatro decimales, para minimizar el riesgo de que el redondeo de la semielasticidad de algún ingreso o gasto pueda alterar el valor de la semielasticidad del subsector. Los resultados se redondearán al decimal más próximo de modo que si el quinto decimal o el tercero fueran 5, el cuarto o el segundo, respectivamente, se redondearán por exceso.
+
+Las transferencias asociadas al sistema de financiación autonómica que se toman en consideración para el cálculo de la semielasticidad del subsector Estado y del subsector Comunidades Autónomas son las que tienen su evolución condicionada a alguno de los ingresos que se consideran cíclicos, esto es, los impuestos, directos o indirectos. En el período 2002-2008, las transferencias del Estado a las Comunidades Autónomas de régimen común asociadas al Fondo de Suficiencia estuvieron indiciadas a los ingresos tributarios del Estado, mientras que en el período 2009-2011 estuvieron indiciadas a los ingresos tributarios del Estado las transferencias asociadas a los Fondos de Garantía de Servicios Públicos, de Suficiencia y de Cooperación.
+
+Los ingresos tributarios del Estado están constituidos por la recaudación estatal en el ejercicio, excluidos los recursos tributarios cedidos a las Comunidades Autónomas, por IRPF, IVA y los Impuestos Especiales de Fabricación sobre la Cerveza, sobre el Vino y Bebidas Fermentadas, sobre Productos Intermedios, sobre Alcohol y Bebidas Derivadas, sobre Hidrocarburos y sobre las Labores del Tabaco.
+
+Estas transferencias que suponen un gasto para el Estado y un ingreso para el subsector Comunidades Autónomas, tienen una elasticidad de 1,42 resultado de redondear a dos decimales la elasticidad media ponderada de los impuestos que integran los ingresos tributarios del Estado utilizando como pesos el peso promedio del período 2002-2011 de la recaudación de cada impuesto en los ingresos tributarios del Estado y como elasticidades 1,84 para el Impuesto sobre la Renta de las Personas Físicas y 1 para todos los demás impuestos.
+
+El importe a computar de estas transferencias asociadas al sistema de financiación autonómica es el que resulta de la liquidación anual del sistema de financiación, es decir, el rendimiento definitivo de los recursos que lo integran. La división de este importe por los ingresos o gastos anuales del subsector correspondiente y la posterior media de estos porcentajes permiten calcular el peso medio en el gasto del Estado y en los ingresos de las Comunidades Autónomas.
+
+Para calcular la semielasticidad del agregado formado por Estado y Seguridad Social, el total de gastos e ingresos del agregado se obtiene sumando ingresos y gastos y deduciendo de los ingresos y gastos totales que resulten las transferencias y pagos por intereses entre Estado y Seguridad Social.
+
+Una vez calculada la semielasticidad presupuestaria de cada subsector por diferencia de las semielasticidades de ingresos y gastos, su producto por la brecha de producción dará la medida del saldo cíclico de cada subsector (expresión [4]). La brecha de producción que se utilizará en todos los casos será la calculada para la economía nacional en su conjunto.
+
+El saldo cíclico del conjunto de las Corporaciones Locales se calculará aplicando los mismos procedimientos descritos para las Comunidades Autónomas. A tal fin se utilizarán la brecha de producción nacional y las elasticidades de ingresos y gastos del cuadro 1 de la sección primera y los pesos de ingresos y gastos que se derivan de las cifras de la Contabilidad Nacional.
+
+## Sección 3.ª Cálculo del saldo cíclico de cada Comunidad Autónoma
+
+La Ley Orgánica 2/2012, de 27 de abril, obliga a que ninguna Administración Pública incurra en déficit estructural lo que implica que el ejercicio metodológico de distribución del saldo cíclico (y estructural) entre las diferentes Administraciones Públicas no debe limitarse a la distribución de dichos saldos entre los subsectores analizados en el apartado anterior, sino que se trata de diseñar una metodología válida para todas y cada una de las Comunidades Autónomas españolas, lo que dificulta adicionalmente la tarea dado el elevado número de Administraciones y las diferencias en sus estructuras de ingresos tanto entre ellas como en el tiempo (como consecuencia de las modificaciones del sistema de financiación autonómica).
+
+La aplicación concreta de la metodología descrita al caso de las Comunidades Autónomas consideradas individualmente plantea las cuestiones del cálculo de las elasticidades de los impuestos de estas Administraciones Públicas y de la aplicación del ciclo económico nacional a cada Comunidad Autónoma.
+
+A este respecto, cabe señalar que la estimación de las elasticidades de los impuestos de las Comunidades Autónomas, además de difícil por su corta e inestable evolución histórica, como consecuencia de los cambios del sistema de financiación autonómica a lo largo del tiempo (con frecuentes sustituciones de transferencias del Estado por impuestos), aumentaría extraordinariamente la complejidad del cálculo, sin obtener, a cambio, ganancias significativas de precisión. La sensibilidad cíclica de un determinado componente del gasto o del ingreso depende de su naturaleza y no del territorio en que se realice o se recaude. La existencia de algunas diferencias en la normativa tributaria por territorios no justifica la aplicación de diferentes elasticidades para tomarlas en consideración. En consecuencia, la influencia del ciclo en las cuentas de una Administración o un subsector de la Administración Pública vendrá determinada por las diferentes estructuras de ingresos y gastos. Aquellas Administraciones donde tengan un mayor peso las partidas más sensibles al ciclo, como por ejemplo el impuesto sobre la renta de las personas físicas, tendrán un saldo cíclico con mayores oscilaciones.
+
+Al pasar del nivel del conjunto de las Comunidades Autónomas al de cada Comunidad Autónoma, se debe modificar la elasticidad asociada a las transferencias que las Comunidades Autónomas realizan al o reciben del Fondo de Garantía. En efecto, el Fondo de Garantía se forma con las aportaciones de las Comunidades Autónomas de régimen común por el 75% de sus recursos tributarios cedidos en términos normativos a las Comunidades Autónomas y con la aportación de recursos adicionales del Estado. De la comparación de la aportación de cada Comunidad Autónoma al Fondo de Garantía y su participación en ese Fondo de Garantía resulta un saldo que se traduce en una transferencia positiva o negativa para la Comunidad Autónoma.
+
+Se ha calculado la elasticidad de estas transferencias durante los años 2009 a 2011, como la media ponderada de la elasticidad de todos los recursos que lo integran. Los pesos empleados son el peso medio en esos tres años en los recursos del Fondo de Garantía de las transferencias del Estado, del Impuesto sobre la Renta de las Personas Físicas y de los distintos impuestos indirectos. La elasticidad de las transferencias del Estado es de 1,42; la del IRPF, de 1,84, y la de los impuestos indirectos, de 1. El resultado del cálculo de la elasticidad de las transferencias asociadas al Fondo de Garantía es de 1,38 tras redondearla a dos decimales.
+
+El importe de las transferencias a utilizar en el cálculo de las semielasticidades es la transferencia del o al Fondo de Garantía que resulte cada año de la liquidación anual del sistema de financiación. Cada año y para cada Comunidad Autónoma estas transferencias se integrarán, según proceda, en sus ingresos o gastos y se calculará el peso medio en los ingresos o en los gastos de cada Comunidad Autónoma para el período 2002-2011. Para las Comunidades Autónomas que unos años hayan sido receptoras de transferencias y otros años hayan transferido recursos al Fondo de Garantía se calculará por separado el peso de las transferencias en los ingresos o gastos anuales y posteriormente se calculará su peso medio tanto en ingresos como en gastos.
+
+Se atribuye una elasticidad de 1,42 al resto de transferencias recibidas con cargo a los Fondos de Suficiencia y de Cooperación. El importe anual de estas transferencias a utilizar en el cálculo de su peso medio en los ingresos es el que resulte para cada año de la liquidación anual del sistema de financiación.
+
+Por lo que se refiere a las elasticidades del gasto, cabe señalar que el único gasto que se considera cíclico en las metodologías de la UE y de la OCDE es el de las prestaciones por desempleo. Las Comunidades Autónomas realizan un pequeño porcentaje de este gasto, pero no existen datos públicos que permitan distribuir este gasto entre Comunidades Autónomas. Provisionalmente y mientras no se disponga del desglose por Comunidad Autónoma, el gasto realizado por el conjunto de las Comunidades Autónomas se prorrateará entre ellas proporcionalmente al gasto realizado por cada Comunidad Autónoma en prestaciones sociales distintas de las transferencias sociales en especie (D62).
+
+En lo que se refiere a la posible divergencia que pudiera existir entre el ciclo económico de cada una de las Comunidades Autónomas y el nacional, que exigiría una estimación separada para aquel, cabe señalar que la evidencia empírica disponible pone de manifiesto la existencia de un elevado grado de sincronía entre ambos ciclos y que, además, esta sincronía ha aumentado en los últimos años.
+
+En definitiva, en el cálculo del saldo cíclico de cada Comunidad Autónoma, por razones de la simplicidad y transparencia que debe poseer una regla fiscal, se utilizarán las mismas elasticidades y brecha de producción que a nivel nacional. Hay que recordar que en este anexo se analiza la metodología de cálculo de las semi-elasticidades cíclicas de cada Comunidad Autónoma, que constituye el primer paso para calcular el saldo cíclico, multiplicando dicha semielasticidad (que puede tomarse como fija durante un periodo más o menos prolongado de tiempo) por la brecha de producción que se calcule cada año.
+
+Las semielasticidades cíclicas de los ingresos y gastos de cada una de las Comunidades Autónomas se calcularán a partir de los datos de la ejecución presupuestaria de 2002 a 2011 preferentemente en Contabilidad Nacional. Dentro de los ingresos, se considerarán, junto a los impuestos propios y cedidos, las transferencias recibidas del Estado y vinculadas al sistema de financiación autonómica. A estas transferencias se les atribuirá como elasticidad la que resulta de los impuestos del Estado que conforman los ingresos tributarios del Estado, esto es, 1,42. A efectos del cálculo de la sensibilidad cíclica del País Vasco se tomarán también en cuenta los ingresos recaudados y los gastos realizados por las Diputaciones Forales de Álava, Guipúzcoa y Vizcaya.
+
+## Sección 4.ª Fuentes de datos
+
+El criterio de utilización de fuentes es dar prioridad a las fuentes en Contabilidad Nacional y utilizar subsidiariamente otras fuentes. Por otra parte, los datos que se utilizarán son los estimados según el Sistema Europeo de Cuentas de 1995 tanto por razón de disponibilidad de los datos, como de consistencia pues la OCDE ha estimado las semielasticidades a partir de datos obtenidos según el Sistema Europeo de Cuentas 1995.
+
+Los datos que se van a utilizar y sus fuentes son los siguientes:
+
+– PIB nominal para España y para cada Comunidad Autónoma, en la Contabilidad Nacional base 2008 y en la Contabilidad Regional base 2008 que publica el Instituto Nacional de Estadística.
+
+– Cuentas de los subsectores de las Administraciones Públicas en Contabilidad Nacional y transferencias entre subsectores, disponibles en los Cuadros contables 2000-2012 de la Contabilidad Nacional de España. Base 2008 que publica el Instituto Nacional de Estadística.
+
+– Pagos de intereses entre subsectores y gasto en prestaciones por desempleo, disponibles en la base de datos de Eurostat en el Sistema Europeo de Cuentas 1995.
+
+(Los pagos por transferencias e intereses entre subsectores son necesarios para consolidar Administración Central con Seguridad Social).
+
+– Cuentas Regionales Anuales para los años 2002 a 2011 que publica la Intervención General de la Administración del Estado. Estas publicaciones de la Intervención General de la Administración del Estado ofrecen las cuentas de cada Comunidad Autónoma en Contabilidad Nacional.
+
+Esta fuente se utiliza para calcular el total de ingresos y gastos de cada Comunidad Autónoma y de sus ingresos por cotizaciones sociales, y los rendimientos definitivos por impuestos indirectos, Impuesto sobre la Renta de las Personas Físicas y, en su caso, Impuesto sobre Sociedades.
+
+Las prestaciones de desempleo se prorratearán entre las Comunidades Autónomas en función de su gasto en prestaciones sociales distintas de las transferencias sociales en especie (D62) que recogen las Cuentas Regionales Anuales.
+
+En el caso de las transferencias asociadas a la financiación autonómica todos los años y de los ingresos por impuesto de la Renta de las Personas Físicas de 2011, las Cuentas Regionales no detallan su composición, por lo que es necesario recurrir a la fuente número cinco, siguiente.
+
+– Informes sobre la financiación definitiva de las Comunidades Autónomas a través del sistema de financiación. Los datos de las transferencias de todos los años del período se encuentran disponibles en estos informes que ha publicado primero la Dirección General de Coordinación Financiera con las Comunidades Autónomas y con las Entidades Locales y posteriormente la Secretaría General de Coordinación Autonómica y Local. Esta información se utilizará también para obtener los rendimientos definitivos por IRPF de las Comunidades Autónomas en 2011 pues este dato no aparece desglosado en las Cuentas Regionales.
+
+Finalmente, quedan pendientes dos grupos de datos, los del conjunto formado por el Gobierno Vasco y las Diputaciones Forales y los datos de ingresos por Impuesto de Sociedades de la Comunidad Foral de Navarra. Las fuentes para estos datos serían:
+
+– Para los ingresos por Impuestos de Sociedades y por impuesto sobre la renta, las publicaciones «Haciendas Autonómicas en cifras» que ha publicado la Secretaría General de Coordinación Autonómica y Local para el período 2002 a 2011, disponible en la página web del Ministerio de Hacienda y Administraciones Públicas.
+
+– Para el conjunto formado por el Gobierno Vasco y las Diputaciones Forales, los datos del total de ingresos y gastos y de ingresos por impuestos indirectos son los datos de ejecución presupuestaria de la Comunidad Autónoma del País Vasco consolidados por capítulos que publica el Instituto Vasco de Estadística. Los datos de impuestos directos desglosados en Impuestos sobre la Renta y sobre Sociedades, no disponibles en esta fuente, se toman de la fuente anterior.
+
+> Se modifica por el art. único de la Orden ECC/1556/2016, de 28 de septiembre. [Ref. BOE-A-2016-8967](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8967).
+
+> Se modifica por el art. único.2 de la Orden ECC/493/2014, de 27 de marzo. [Ref. BOE-A-2014-3380](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3380).

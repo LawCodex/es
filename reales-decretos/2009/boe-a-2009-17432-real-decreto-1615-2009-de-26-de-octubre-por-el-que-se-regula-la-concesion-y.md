@@ -1,0 +1,469 @@
+---
+title: "Real Decreto 1615/2009, de 26 de octubre, por el que se regula la concesión y utilización del distintivo \"Igualdad en la Empresa\""
+identifier: "BOE-A-2009-17432"
+eli: "https://www.boe.es/eli/es/rd/2009/10/26/1615"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2009-10-26
+published: 2009-11-03
+in_force_from: 2009-11-04
+last_amended: 2023-05-18
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 265"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-17432"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1615/2009, de 26 de octubre, por el que se regula la concesión y utilización del distintivo "Igualdad en la Empresa"
+
+El artículo 14 de la Constitución Española dispone que los españoles son iguales ante la Ley, sin que pueda prevalecer discriminación alguna, entre otras cuestiones, por razón de sexo, y el artículo 9.2 señala que corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+
+Asimismo, la igualdad entre mujeres y hombres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo es un principio fundamental en la Unión Europea, plasmado tanto en los Tratados constitutivos como en las directivas comunitarias en materia de igualdad de trato entre mujeres y hombres.
+
+No obstante, la experiencia demuestra las dificultades que las mujeres encuentran para alcanzar la igualdad real y efectiva en los diferentes ámbitos de la vida y, especialmente, en el laboral.
+
+Para avanzar en la consecución de este principio, y en desarrollo de las normas constitucionales y comunitarias, se promulgó la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+Esta disposición legal obliga a las empresas a adoptar medidas dirigidas a evitar cualquier discriminación laboral entre mujeres y hombres y, en su caso, a elaborar, concertar y aplicar un plan de igualdad.
+
+Con el fin de reconocer y estimular la labor de las empresas comprometidas con la igualdad, la Ley Orgánica 3/2007 prevé en su artículo 50 la creación de un distintivo empresarial en materia de igualdad, para aquellas empresas que destaquen por la aplicación de políticas de igualdad de trato y de oportunidades en las condiciones de trabajo, en los modelos de organización y en otros ámbitos, como los servicios, productos y publicidad de la empresa.
+
+Entre los aspectos más relevantes a tener en cuenta para la concesión del distintivo empresarial en material de igualdad se encuentran la participación equilibrada entre mujeres y hombres en los ámbitos de toma de decisión, y el acceso a los puestos de mayor responsabilidad, la presencia equilibrada de mujeres y hombres en los grupos y categorías profesionales, la adopción de planes de igualdad u otras medidas innovadoras de fomento de la igualdad, así como la publicidad no sexista de los productos o servicios de la empresa.
+
+Asimismo se valorará el establecimiento de criterios y sistemas de remuneración y clasificación profesional actualizados que permitan valorar equitativamente los trabajos desempeñados por mujeres y por hombres, tanto si se trata de trabajos diferentes como si se trata de los mismos trabajos, y eliminar los efectos perversos de la aplicación de criterios «comunes» en su denominación, pero que pueden estar arrastrando desde hace décadas una apreciación sesgada del valor de los trabajos desde la perspectiva de género.
+
+Igualmente, entre los aspectos de mayor relevancia en la valoración para la concesión del distintivo empresarial en material de igualdad, se incluyen las actuaciones tendentes facilitar la conciliación de la vida personal, familiar y profesional de todas las personas, estableciendo objetivos generales y articulando medidas flexibles que permitan su adaptación a la diversidad de necesidades, situaciones y carencias que se puedan presentar en el personal de las empresas.
+
+A la consecución de estos objetivos contribuye el presente real decreto, desarrollando reglamentariamente la denominación del distintivo empresarial en materia de igualdad, el procedimiento y las condiciones para su concesión, las facultades derivadas de su obtención, las condiciones de difusión institucional de las empresas que lo obtengan y de las políticas de igualdad aplicadas por ellas, así como los procedimientos de control sobre el mantenimiento de las condiciones y políticas que justifiquen su concesión y de retirada del mismo en caso de incumplimiento de aquéllas por parte de las empresas, todo ello en virtud de lo previsto en el artículo 50.3 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+Este real decreto se dicta al amparo del artículo 149.1.7.ª de la Constitución, que establece la competencia exclusiva del Estado sobre la legislación laboral y de acuerdo con la habilitación contenida en la disposición final tercera de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, para llevar a efecto la regulación del distintivo empresarial en materia de igualdad establecido en el artículo 50 de dicha Ley.
+
+En la tramitación del presente real decreto se ha recabado informe de las organizaciones empresariales y sindicales más representativas.
+
+El real decreto cuenta con informes favorables del Ministerio de Economía y Hacienda y del Ministerio de Política Territorial.
+
+En su virtud, a propuesta de la Ministra de Igualdad y del Ministro de Trabajo e Inmigración, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de octubre de 2009,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto desarrollar lo previsto en el artículo 50 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, relativo al distintivo empresarial en materia de igualdad, regulando reglamentariamente su denominación, el procedimiento y las condiciones para su concesión, las facultades derivadas de su obtención, las condiciones de difusión institucional de las empresas que lo obtengan y de las políticas de igualdad aplicadas por ellas, así como los procedimientos de control sobre el mantenimiento de las condiciones y políticas que justifiquen su concesión, y los procedimientos de retirada del mismo en caso de incumplimiento de aquéllas por parte de las empresas.
+
+### Artículo 2. Denominación del distintivo empresarial en materia de igualdad.
+
+El distintivo empresarial en materia de igualdad que regula el presente real decreto se denominará «Igualdad en la Empresa» y se representará con el logotipo que se determine mediante orden de la Ministra de Igualdad.
+
+### Artículo 3. Titularidad del distintivo.
+
+El logotipo y el nombre del distintivo empresarial en materia de igualdad al que se refiere este real decreto es titularidad exclusiva del Ministerio de Igualdad, y se encuentra registrado en la Oficina Española de Patentes y Marcas, de conformidad con lo dispuesto en la Ley 17/2001, de 7 de diciembre, de Marcas.
+
+> Se modifica por el art. único.1 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+### Artículo 4. Requisitos generales para la solicitud del distintivo “Igualdad en la Empresa”.
+
+1\. Cualquier entidad o empresa, de capital público o privado, que ejerza su actividad en territorio español, podrá presentar su candidatura al Ministerio de Igualdad para la concesión del distintivo "Igualdad en la Empresa".
+
+A estos efectos los términos entidad o empresa deben entenderse de acuerdo con lo previsto en el artículo 1.2 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado mediante el Real Decreto Legislativo 2/2015, de 23 de octubre.
+
+Quedan excluidas de la posibilidad de presentar candidatura las administraciones públicas, entendiendo por tales las relacionadas en el artículo 3.2 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+2\. Las entidades o empresas candidatas se diferenciarán en dos grupos en función de la obligatoriedad de elaborar y aplicar un plan de igualdad:
+
+a) Empresas o entidades que tienen la obligación de elaborar y aplicar un plan de igualdad, de acuerdo con lo establecido en el artículo 45 de la Ley Orgánica 3/2007, de 22 de marzo.
+
+b) Empresas o entidades que no tienen la obligación de elaborar y aplicar un plan de igualdad, de acuerdo con lo establecido en el artículo 45 de la Ley Orgánica 3/2007, de 22 de marzo.
+
+3\. Todas las entidades o empresas candidatas deberán reunir los siguientes requisitos:
+
+a) Estar inscrita en el correspondiente régimen de la Seguridad Social y, cuando proceda, encontrarse formalmente constituida e inscrita en el registro público que corresponda.
+
+b) Encontrarse al corriente en el cumplimiento de las obligaciones en materia tributaria y de Seguridad Social.
+
+c) No haber sido sancionada con carácter firme, por infracciones graves o muy graves en materia de igualdad y no discriminación, en los tres años anteriores a la fecha de finalización del plazo de presentación de candidaturas, de acuerdo con lo dispuesto en el texto refundido de la Ley sobre Infracciones y Sanciones del Orden Social, aprobado por Real Decreto Legislativo 5/2000, de 4 de agosto.
+
+d) No haber sido sancionada con carácter firme, por infracciones graves o muy graves en materia de igualdad y no discriminación en el acceso a los bienes y servicios, en los tres años anteriores a la fecha de finalización del plazo de presentación de candidaturas, de acuerdo con lo establecido en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre.
+
+e) No haber sido sancionada con carácter firme, por infracciones graves o muy graves en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, en los tres años anteriores a la fecha de finalización del plazo de presentación de candidaturas, de acuerdo con lo dispuesto en el texto refundido de la Ley General de Derechos de las Personas con Discapacidad y de su Inclusión Social, aprobada por Real Decreto Legislativo 1/2013, de 16 de noviembre.
+
+f) Presentar una declaración de apoyo a la candidatura, firmada por la mayoría de la representación legal de las personas trabajadoras cuando exista en la entidad o empresa o, en su defecto, por la mayoría de la plantilla.
+
+g) Disponer de un procedimiento específico para la prevención del acoso sexual y acoso por razón de sexo, conforme a lo dispuesto en el artículo 48 de la Ley Orgánica 3/2007, de 22 de marzo y en el artículo 12 de la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual.
+
+h) Disponer del registro retributivo conforme a lo previsto en el artículo 28 del Estatuto de los Trabajadores y los artículos 5 y 6 del Real Decreto 902/2020, de 13 de octubre.
+
+4\. Además de reunir los requisitos establecidos en el apartado 3, las entidades o empresas candidatas que tengan la obligación de elaborar y aplicar un plan de igualdad, de acuerdo con lo establecido en el artículo 45 de la Ley Orgánica 3/2007, de 22 de marzo, deberán, en el momento de la presentación de su candidatura:
+
+a) Tener vigente y registrado un plan de igualdad, que incluya una auditoria retributiva, conforme a la normativa aplicable.
+
+b) Haber realizado el correspondiente informe de seguimiento del plan de igualdad, durante un periodo mínimo de dos años. La concurrencia de este requisito se acreditará mediante un informe de seguimiento del plan de igualdad correspondiente a un periodo mínimo de dos años, que tendrá que incluir a su vez al menos un año de los dos años naturales inmediatamente anteriores a la convocatoria.
+
+c) Las sociedades que no puedan formular una cuenta de pérdidas y ganancias abreviada de conformidad con lo dispuesto por el artículo 258 del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y que cuenten con consejo de administración, deberán acreditar una presencia equilibrada de mujeres y hombres en su consejo de administración, de forma que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento.
+
+5\. Además de reunir los requisitos establecidos en el apartado 3, las entidades o empresas candidatas que no tengan la obligación de elaborar y aplicar un plan de igualdad, de acuerdo con lo establecido en el artículo 45 de la Ley Orgánica 3/2007, de 22 de marzo, deberán, en el momento de la presentación de su candidatura:
+
+a) Tener medidas de igualdad depositadas en el registro y depósito de convenios y acuerdos colectivos de trabajo y planes de igualdad, o, en su caso, contar con un plan de igualdad voluntario conforme a lo establecido en el artículo 45 y 46 de la Ley Orgánica 3/2007, de 22 de marzo.
+
+b) Haber implantado medidas de igualdad durante un periodo mínimo de dos años. La concurrencia de este requisito se acreditará mediante un informe de seguimiento de las medidas de igualdad implantadas o, en su caso, del plan de igualdad voluntario, correspondiente a un periodo mínimo de dos años, que tendrá que incluir a su vez al menos un año de los dos años naturales inmediatamente anteriores a la convocatoria.
+
+> Se modifica por el art. único.2 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Téngase en cuenta el régimen transitorio de los procedimientos establecido en la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el art. único.1 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+> Téngase en cuenta para la modificación del apartado 3 el régimen transitorio para los distintivos en vigor establecidos en la disposición transitoria 2.
+
+## CAPÍTULO II — Procedimiento para la concesión del distintivo «Igualdad en la Empresa»
+
+### Artículo 5. Convocatoria y solicitudes.
+
+1\. Mediante orden de la persona titular del Ministerio de Igualdad se procederá a convocar el procedimiento para la concesión del distintivo "Igualdad en la Empresa", que tendrá como mínimo un carácter bienal. La orden se publicará en el "Boletín Oficial del Estado" y establecerá las bases de cada convocatoria con arreglo a las disposiciones establecidas en el presente capítulo.
+
+2\. Las entidades o empresas que cumplan los requisitos exigidos en el artículo anterior deberán dirigir sus solicitudes al Ministerio de Igualdad por medios electrónicos conforme a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en la forma que se establezca en la correspondiente convocatoria.
+
+> Se modifica por el art. único.3 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+### Artículo 6. Documentación.
+
+Las candidaturas que se presenten para la obtención del distintivo deberán ir acompañadas de:
+
+a) Documentación acreditativa de los requisitos establecidos en el artículo 4.
+
+b) Documentación que acredite la información facilitada por la entidad o empresa candidata sobre cada uno de los apartados previstos en la solicitud que acompañara a la convocatoria por la que se desarrolle este real decreto.
+
+> Se modifica por el art. único.4 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifica por el art. único.2 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 7. Comisión evaluadora.
+
+1\. El Ministerio de Igualdad constituirá una Comisión Evaluadora para la concesión del distintivo "Igualdad en la Empresa", con la siguiente composición:
+
+a) Presidencia: la persona titular de la Dirección del Instituto de las Mujeres O.A.
+
+b) Vocalías: cuatro personas funcionarias del Ministerio de Igualdad, que ocupen puestos con nivel orgánico de subdirección general o subdirección adjunta, o nivel equivalente, nombradas por la Presidencia de la Comisión Evaluadora; tres de ellas estarán destinadas en el Instituto de las Mujeres O.A., y la persona que desempeñe la cuarta vocalía estará destinada en la Secretaria de Estado de Igualdad y contra la Violencia de Género, y designada a propuesta de su titular.
+
+c) Secretaría: una persona funcionaria de nivel mínimo 28, destinada en el Instituto de las Mujeres O.A., nombrada por la Presidencia de la Comisión Evaluadora.
+
+Las personas suplentes de las vocalías y de la secretaría serán nombradas por la Presidencia de la Comisión Evaluadora.
+
+Asimismo, podrán ser convocadas a la Comisión Evaluadora dos personas en representación de las organizaciones sindicales más representativas, a propuesta de dichas organizaciones, y otras dos en representación de las organizaciones empresariales más representativas, a propuesta de dichas organizaciones, todas ellas nombradas por la Presidencia de la Comisión Evaluadora, que asistirán con voz, pero sin voto.
+
+2\. La Comisión Evaluadora verificará y evaluará la documentación presentada, atendiendo a los criterios de valoración establecidos en el artículo 10, y a la vista de ello elevará la oportuna propuesta de resolución a la Ministra de Igualdad.
+
+3\. La Comisión Evaluadora podrá solicitar de otras administraciones públicas los informes que estime oportunos sobre las empresas candidatas al distintivo, para el mejor desarrollo de su función evaluadora.
+
+4\. La Comisión Evaluadora se regirá en su funcionamiento por lo dispuesto en el título preliminar, capítulo II, sección 3.ª de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifican los apartados 1 y 4 por el art. único.5 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifican los apartados 1 y 3 por el art. único.3 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 8. Resolución.
+
+1\. A la vista de la propuesta elevada por la Comisión evaluadora, la persona titular del Ministerio de Igualdad procederá a dictar resolución motivada sobre las solicitudes de concesión del distintivo “Igualdad en la Empresa”, que será publicada en el "Boletín Oficial del Estado".
+
+2\. La resolución se notificará, individualmente, a las entidades o empresas solicitantes, en el plazo máximo de seis meses, contados desde el día siguiente a la publicación de la convocatoria en el "Boletín Oficial del Estado". Esta resolución pondrá fin a la vía administrativa, pudiendo interponerse contra la misma recurso potestativo de reposición en el plazo de un mes a contar desde el siguiente al día de su publicación en el "Boletín Oficial del Estado", o recurso contencioso-administrativo en la forma y plazos previstos en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+
+Las entidades o empresas solicitantes enviarán comunicación de esta resolución a la representación legal de las personas trabajadoras.
+
+3\. De acuerdo con lo previsto en el artículo 25.1 de la Ley 39/2015, de 1 de octubre, transcurrido el plazo máximo establecido sin que se haya dictado y notificado resolución expresa, se entenderá desestimada la solicitud. En todo caso se resolverá la concesión mediante resolución motivada y se notificará a las empresas y entidades el motivo que, en su caso, justifica la no concesión del citado distintivo.
+
+Excepcionalmente, la persona titular del Ministerio de Igualdad podrá acordar una ampliación del referido plazo máximo de resolución y notificación, en los términos y con las limitaciones establecidas en el artículo 23 de la Ley 39/2015, de 1 de octubre, comunicándose dicho acuerdo a las entidades o empresas solicitantes, que deberán comunicar esta ampliación de plazo a la representación legal de las personas trabajadoras.
+
+> Se modifica por el art. único.6 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+### Artículo 9. Entrega del distintivo.
+
+El Ministerio de Igualdad procederá a la entrega del certificado del distintivo "Igualdad en la Empresa" en acto público convocado al efecto y al que se dotará de la solemnidad y difusión adecuada.
+
+> Se modifica por el art. único.7 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifica por el art. único.4 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 10. Criterios de valoración.
+
+La Comisión constituida al efecto de acuerdo con lo previsto en el artículo 7 realizará la evaluación de las solicitudes atendiendo especialmente a la implantación, seguimiento, evaluación y resultados de las medidas contenidas en los planes de igualdad o en las políticas de igualdad, su carácter integral, la aplicación de medidas de acción positiva, la implantación, seguimiento y evaluación del protocolo contra el acoso sexual y por razón de sexo, la desagregación por sexo de los datos, así como a aspectos relativos a la evolución y grado de implantación de las medidas de igualdad y de la situación de las mujeres y los hombres en la plantilla.
+
+La evaluación se realizará diferenciando si las empresas o entidades tienen la obligación de elaborar y aplicar un plan de igualdad, y además se atenderá a la dimensión de las empresas y entidades, específicamente, a las especiales características de las pequeñas y medianas, así como al sector de actividad de las mismas.
+
+Para la calificación de la dimensión de las empresas o entidades candidatas se atenderá a los criterios establecidos en la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003, sobre la definición de microempresas, pequeñas y medianas empresas, siendo calificadas de "grandes empresas" aquellas que no cumplan alguno de los tres criterios establecidos en la citada recomendación.
+
+En particular, la Comisión valorará los siguientes aspectos:
+
+a) Implantación, seguimiento, resultados y evaluación de las políticas y medidas de igualdad:
+
+1.º Aplicación de criterios adecuados al principio de igualdad entre mujeres y hombres, en los procesos de selección, contratación del personal y promoción profesional.
+
+2.º Aplicación de sistemas de clasificación profesional que cumplan con los parámetros de publicidad, objetividad y transparencia y fomenten el principio de igualdad entre mujeres y hombres.
+
+3.º Implantación de planes o acciones de formación con perspectiva de género.
+
+4.º Promoción de los derechos de conciliación de la vida personal, familiar y laboral y de su ejercicio corresponsable.
+
+5.º Establecimiento y seguimiento de una política retributiva que cumpla con los parámetros de publicidad, objetividad y transparencia, y con el principio de igual retribución por trabajos de igual valor, de conformidad con lo establecido en el Real Decreto 902/2020, de 13 de octubre.
+
+6.º Establecimiento de medidas de responsabilidad social que mejoren la calidad de vida de las personas trabajadoras.
+
+7.º Establecimiento de medidas de formación, sensibilización y seguimiento de las medidas implantadas para prevenir, detectar y erradicar el acoso sexual y el acoso por razón de sexo.
+
+8.º Integración de la perspectiva de género en la prevención de riesgos laborales.
+
+9.º Contratación de mujeres con mayores dificultades y/o en riesgo de exclusión social, especialmente mujeres que se enfrentan a discriminación múltiple e interseccional y mujeres víctimas de violencia de género y demás formas de violencia contra las mujeres.
+
+10.º Colaboración en proyectos que impulsen la inserción laboral de mujeres en riesgo de exclusión.
+
+11.º Información, sensibilización y formación a la plantilla en materia de igualdad entre mujeres y hombres.
+
+12.º Comunicación interna y externa incluyente y lenguaje no sexista; publicidad no sexista e incluyente.
+
+13.º Incorporación del enfoque de género en sus procesos, y en su oferta de productos y servicios.
+
+14.º Integración del compromiso con la igualdad de género en sus relaciones con terceros (clientela, proveedores, contratistas, subcontratistas, entre otros).
+
+15.º Adecuación de las materias que integren el plan de igualdad o las medidas de igualdad al resultado del diagnóstico realizado, con particular atención al equilibrio entre los objetivos, los recursos y los plazos establecidos.
+
+16.º Implicación de la representación legal de las personas trabajadoras y de la plantilla en la implantación y evaluación de las medidas de igualdad.
+
+17.º Idoneidad del sistema de seguimiento y evaluación del plan de igualdad y las medidas de igualdad.
+
+18.º Implicación de la plantilla en la difusión e implantación del protocolo contra el acoso sexual y por razón de sexo.
+
+19.º Cualesquiera otros aspectos que contribuyan especialmente a la consecución de la igualdad efectiva entre mujeres y hombres.
+
+b) Evolución y grado de implantación de las medidas de igualdad y de la situación de las mujeres y los hombres en la plantilla teniéndose en cuenta en particular, entre otros:
+
+1.º Antigüedad del primer plan de igualdad o de las medidas de igualdad según se trate de empresas o entidades obligadas o no a tener plan de igualdad.
+
+2.º Situación y evolución de la contratación indefinida y a tiempo completo de mujeres y hombres.
+
+3.º Segregación horizontal, entendida como la concentración de mujeres y hombres en sectores y ocupaciones específicas, y su evolución.
+
+4.º Segregación vertical, entendida como la concentración de mujeres y de hombres en grados y niveles específicos de responsabilidad o de puestos, y su evolución.
+
+5.º Presencia actual y la evolución reciente de mujeres en puestos directivos, comités de dirección y consejos de administración.
+
+6.º Brecha salarial entre mujeres y hombres, en todos los puestos y ocupaciones, incluidos los puestos de responsabilidad y su evolución.
+
+7.º Medidas para facilitar los derechos de conciliación de la vida personal, familiar y laboral y promover su ejercicio corresponsable.
+
+8.º Contratación de mujeres víctimas de violencia de género y otras formas de violencia sobre las mujeres.
+
+> Se modifica por el art. único.8 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifican los apartados 2 y 3 y se añaden el 4 y 5 por el art. único.5.1 a 3 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+## CAPÍTULO III — Facultades y obligaciones derivadas de la obtención del distintivo «Igualdad en la Empresa»
+
+### Artículo 11. Facultades.
+
+1\. Sin perjuicio de otros que pudieran establecerse, la obtención del distintivo «Igualdad en la Empresa» conllevará las siguientes facultades:
+
+a) La entrega a la empresa o entidad en acto público por parte del Ministerio de Igualdad de un certificado acreditativo de su concesión.
+
+b) El uso del distintivo en el tráfico comercial de la empresa y con fines publicitarios, en los términos y con las condiciones establecidas en el artículo 12 del presente real decreto.
+
+c) La valoración del distintivo a efectos de la obtención de subvenciones públicas en cuyas bases reguladoras se premie la efectiva consecución de la igualdad en los supuestos establecidos en el artículo 35 de la Ley Orgánica 3/2007 de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+
+d) La consideración del distintivo en la adjudicación de los contratos en los términos y condiciones establecidos en el articulo 34.2 de la Ley Orgánica 3/2007.
+
+A estos efectos, cuando los órganos de contratación dispongan en los pliegos de cláusulas administrativas particulares la preferencia para aquellas empresas que establezcan medidas tendentes a promover la igualdad entre mujeres y hombres en la empresa, se entenderá que cumplen tal requisito las poseedoras del distintivo empresarial, sin perjuicio de que tal circunstancia pueda acreditarse por cualesquiera otros medios que el órgano de contratación determine.
+
+La empresa que hubiera hecho uso de esta preferencia, estará obligada a mantener los parámetros de igualdad durante el plazo fijado en la adjudicación.
+
+e) La publicidad y difusión institucional por parte del Ministerio de Igualdad de las empresas que hayan obtenido el distintivo en materia de igualdad y de las políticas de igualdad aplicadas en las mismas.
+
+2\. La concesión del distintivo será compatible con el otorgamiento de otras distinciones o premios concedidos por diferentes administraciones públicas españolas o extranjeras o entes públicos adscritos o dependientes de dichas administraciones, así como por entidades privadas españolas o extranjeras en relación con la consecución de la igualdad real y efectiva.
+
+> Se modifica el apartado 1.a) por el art. único.9 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifica el apartado 1.a) por el art. único.6 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 12. Obligaciones generales para las empresas distinguidas en materia de igualdad.
+
+1\. Las empresas que obtengan el distintivo empresarial en materia de igualdad deberán promover activamente la igualdad efectiva de mujeres y hombres, especialmente en el cumplimiento y mejora de las medidas que integran el Plan de Igualdad, o las Políticas de Igualdad, que justifiquen la concesión de su distintivo.
+
+1 bis. Las empresas o entidades distinguidas están obligadas a comunicar al Ministerio de Igualdad, a través del Instituto de las Mujeres O.A., cualquier modificación de las circunstancias que dieron lugar a la concesión del distintivo, así como cualquier incumplimiento de la normativa en materia de igualdad entre mujeres y hombres, o cualquier litigio en que se encuentre inmersa relacionado con posibles infracciones graves o muy graves en materia de igualdad y no discriminación entre mujeres y hombres, y el resultado del mismo, que pueda dar lugar a la suspensión o revocación del distintivo, conforme se recoge en los artículos 17 y 18.
+
+2\. El uso del distintivo empresarial está sujeto al cumplimiento de las siguientes obligaciones:
+
+a) El distintivo deberá reproducir con exactitud el logotipo que figura en la orden ministerial que aprueba el logotipo y representación gráfica del distintivo "Igualdad en la empresa", en los colores y tipos de letra indicados.
+
+b) El distintivo deberá ir asociado, en todo caso, al nombre de la empresa o entidad distinguida con indicación del año de la concesión.
+
+c) El distintivo podrá reproducirse en cualquier tipo de soporte, a título enunciativo y no limitativo, en soportes electrónicos, sobre papel, textil, superficies metálicas, plásticas, metacrilatos o maderas, siempre que reproduzcan fielmente el logotipo original.
+
+d) Las empresas o entidades que hayan obtenido el distintivo deberán observar las especificaciones que, en cuanto a la forma de representación gráfica o reproducción, pueda aprobar el Ministerio de Igualdad.
+
+e) El uso del distintivo “Igualdad en la Empresa” deberá ajustarse a los límites temporales de vigencia inicial, prórroga o prórrogas de su concesión. Igualmente, el uso de dicho distintivo deberá ajustarse a los efectos temporales previstos en el capítulo IV, relativos a la suspensión, revocación de la concesión, o renuncia a la misma.
+
+La empresa o entidad a la que se le haya concedido el distintivo no podrá hacer uso del mismo desde el momento en que el período de validez del distintivo expire, desde que el Ministerio de Igualdad le comunique la suspensión temporal o la retirada definitiva del distintivo, o desde que la propia empresa o entidad solicite una suspensión voluntaria temporal o la renuncia al mismo.
+
+f) En todo caso, el uso del distintivo empresarial “Igualdad en la Empresa” estará sujeto a la plena observancia de la normativa aplicable, en particular, en materia de publicidad.
+
+> Se añade el apartado 1 bis y se modifica el 2 por el art. único.10 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+### Artículo 13. Informe de seguimiento intermedio.
+
+1\. La entidad o empresa distinguida en materia de igualdad deberá presentar un informe de seguimiento intermedio que refleje las actuaciones implantadas y los efectos de las mismas en el marco de los planes de igualdad o de las medidas de igualdad cuya valoración justificó la concesión o prórroga del distintivo empresarial en materia de igualdad. En el caso de que la entidad o empresa distinguida cuente con un plan de igualdad, éste será informado por la comisión encargada del seguimiento del plan de igualdad.
+
+2\. El plazo para entregar el informe de seguimiento intermedio terminará el último día hábil del mes de marzo, después de que hayan transcurrido dos años naturales, desde la publicación de su concesión en el “Boletín Oficial del Estado” o desde la concesión de la prórroga del distintivo.
+
+> Se modifica por el art. único.11 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifica el segundo párrafo por el art. único.7 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 14. Procedimiento de control.
+
+1\. Corresponde al Ministerio de Igualdad, a través del Instituto de las Mujeres O.A., realizar el seguimiento del mantenimiento de los requisitos que hayan justificado la concesión del distintivo. Para ello, las entidades o empresas están obligadas a notificar cualquier modificación de las circunstancias que dieron lugar a dicha concesión conforme a lo dispuesto en el artículo 12.2.
+
+2\. Para realizar el seguimiento señalado en el apartado anterior, el Ministerio de Igualdad, a través del Instituto de las Mujeres O.A., evaluará los informes de seguimiento intermedio que le remitirán las empresas y entidades distinguidas en materia de igualdad y podrá requerir a éstas la información adicional que resulte necesaria para una adecuada valoración de los planes y medidas de Igualdad, su implantación y resultados. Con este mismo propósito, podrán realizarse por el Instituto de las Mujeres O.A., previa comunicación a las empresas o entidades interesadas, acciones de verificación aleatoria presencial en las empresas o entidades distinguidas.
+
+> Se modifica por el art. único.12 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+## CAPÍTULO IV — Vigencia, suspensión y finalización de la concesión del distintivo «Igualdad en la Empresa»
+
+### Artículo 15. Vigencia.
+
+La concesión del distintivo "Igualdad en la Empresa" tendrá una vigencia inicial de cinco años, entendiéndose que la primera anualidad se cumplirá el último día hábil del mes de marzo siguiente debiendo haber transcurrido al menos un año desde la publicación de su concesión en el "Boletín Oficial del Estado".
+
+> Se modifica por el art. único.13 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifica por el art. único.8 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 16. Prórroga.
+
+1\. Antes de expirar el periodo de vigencia, la empresa o entidad distinguida podrá solicitar la prórroga de la concesión del distintivo "Igualdad en la Empresa". Para ello deberá remitir al Ministerio de Igualdad, a través del Instituto de las Mujeres O.A., la correspondiente solicitud de prórroga acompañada por un informe de evaluación final por medios electrónicos conforme a lo establecido en la Ley 39/2015, de 1 de octubre. El plazo para efectuar dicha solicitud terminará el último día hábil del mes de marzo después de que hayan transcurrido cinco años naturales, desde la publicación de la concesión del distintivo en el "Boletín Oficial del Estado" o desde la fecha de la resolución de concesión de la última prórroga.
+
+2\. El informe de evaluación final al que se refiere el apartado anterior deberá contemplar las actuaciones y medidas implantadas, su seguimiento y evaluación, los resultados obtenidos a lo largo de los cinco años de vigencia del distintivo, así como la activa participación de la empresa o entidad en la Red de empresas con distintivo "Igualdad en la Empresa".
+
+3\. La solicitud de prórroga deberá ir también acompañada de una declaración de apoyo firmada por la mayoría de la representación legal de las personas trabajadoras o, en su defecto, por la mayoría de la plantilla.
+
+4\. Cada prórroga tendrá una duración igual a la vigencia indicada en el artículo 15, y estará sujeta a los requisitos y obligaciones establecidas en la última convocatoria publicada. El incumplimiento de cualquiera de los referidos requisitos impedirá que se prorrogue la vigencia del distintivo, con independencia de que la entidad o empresa interesada pueda presentarse en futuras convocatorias.
+
+5\. El plazo para resolver y notificar la solicitud de prórroga será de seis meses desde la finalización del plazo de su presentación. En aquellos supuestos en que la solicitud de prórroga se presente en plazo y forma, las facultades y obligaciones derivadas de la concesión del distintivo empresarial "Igualdad en la Empresa" se mantendrán hasta que se resuelva el procedimiento.
+
+Transcurrido dicho plazo sin que se hubiera producido resolución expresa, se entenderá que la solicitud ha sido estimada por silencio administrativo.
+
+6\. Contra la resolución de la persona titular del Ministerio de Igualdad, que pone fin a la vía administrativa, puede interponerse recurso potestativo de reposición en el plazo de un mes a contar desde el día siguiente al de la notificación de la resolución, o recurso contencioso-administrativo en la forma y plazos previstos en la Ley 29/1998, de 13 de julio.
+
+> Se modifica por el art. único.14 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+> Se modifica el tercer párrafo por el art. único.9 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Artículo 17. Suspensión.
+
+1\. La persona titular del Ministerio de Igualdad, de oficio, previa audiencia de la empresa o entidad distinguida, notificará, mediante resolución motivada, la suspensión de concesión del distintivo empresarial en materia de igualdad en los siguientes supuestos:
+
+a) En caso de que la empresa o entidad distinguida no cumpla con la obligación de remisión del informe de seguimiento intermedio previsto en el artículo 13.
+
+b) En caso de alteración de las condiciones que dieron lugar a la concesión del distintivo, cuando supongan empeoramientos no sustanciales de los parámetros de igualdad que justificaron la concesión del distintivo.
+
+c) En los supuestos de incumplimiento de las obligaciones previstas en el artículo 12.3.
+
+d) En los supuestos en que la empresa se negara a la realización de las acciones de verificación aleatoria presencial prevista en el artículo 14.2, cuando el rechazo no estuviera suficientemente justificado.
+
+e) Cuando se inicie un procedimiento de revocación, como medida cautelar, hasta que recaiga la resolución.
+
+f) Cuando la empresa o entidad haya sido sancionada mediante resolución susceptible de recurso por infracciones graves o muy graves en materia de igualdad y no discriminación entre mujeres y hombres hasta la firmeza de la resolución.
+
+2\. En los supuestos de incumplimiento previstos en la letra a) del apartado anterior, la suspensión se mantendrá hasta que se cumpla con la obligación de remisión del informe de seguimiento intermedio en el plazo extraordinario que pudiera establecerse por la persona titular de la Dirección del Instituto de las Mujeres O.A., o, en los supuestos previstos en las letras b), c) d) y e) del apartado anterior, hasta que se certifique la subsanación de las circunstancias que justificaron la suspensión, o, cuando recaiga resolución firme en el supuesto previsto en la letra f).
+
+3\. La suspensión de la concesión del distintivo empresarial en materia de igualdad conllevará la de las facultades derivadas de aquélla, en los términos previstos en el artículo 11. Para las facultades y obligaciones derivadas de los supuestos previstos en las letras c) y d) del artículo 11.1, se estará a las especificaciones correspondientes en cada convocatoria de ayuda, subvención o adjudicación de contrato.
+
+4\. Contra la resolución de suspensión, que pone fin a la vía administrativa, puede interponerse recurso potestativo de reposición en el plazo de un mes a contar desde el día siguiente al de la notificación de la resolución, o recurso contencioso-administrativo en la forma y plazos previstos en la Ley 29/1998, de 13 de julio.
+
+> Se modifica por el art. único.15 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+### Artículo 18. Revocación.
+
+1\. Sin perjuicio de las responsabilidades que pudieran derivarse en los diferentes órdenes, la persona titular del Ministerio de Igualdad, de oficio, previa audiencia de la entidad o empresa distinguida, podrá revocar la concesión del distintivo empresarial en materia de igualdad, mediante resolución motivada, que será publicada en el "Boletín Oficial del Estado", en los siguientes supuestos:
+
+a) En caso de incumplimiento por parte de la empresa o entidad de la obligación de remisión del informe de seguimiento intermedio en la forma o en el plazo extraordinario que se establezca.
+
+b) En caso de que recaiga resolución firme que declare la existencia de incumplimiento de la normativa vigente en materia de igualdad entre mujeres y hombres.
+
+c) En caso de alteración de las condiciones que dieron lugar a la concesión del distintivo que supongan el empeoramiento sustancial de los parámetros de igualdad que justificaron dicha concesión.
+
+d) Cuando se produjera la pérdida de alguno de los requisitos necesarios para solicitar la concesión del distintivo empresarial en materia de igualdad.
+
+e) Cuando la entidad o empresa no cumpliera con el requisito establecido en el artículo 4.4.c), transcurrido el plazo previsto en la disposición transitoria única.
+
+f) Cuando la entidad o empresa no cumpliera con el requisito establecido en el artículo 4.5.a), transcurrido el plazo previsto en la disposición transitoria única.
+
+g) En caso de que en la entidad o empresa se produjeran o apreciaran condiciones o circunstancias incompatibles con los criterios de valoración señalados.
+
+h) En los supuestos de incumplimiento grave o reiterado de las obligaciones derivadas de la concesión del distintivo. Específicamente, cuando la entidad o empresa incurra en publicidad ilícita.
+
+2\. La revocación de la concesión del distintivo empresarial en materia de igualdad conllevará, en todo caso, pérdida de las facultades derivadas de aquélla. Para las facultades y obligaciones derivadas de los supuestos previstos en los apartados c) y d) del artículo 11.1 del presente real decreto, se estará a las especificaciones correspondientes en cada convocatoria de ayuda, subvención o adjudicación de contrato.
+
+3\. Aquella empresa a la que se haya revocado el distintivo quedará excluida durante tres años de la posibilidad de solicitarlo. En el caso de una segunda revocación, la empresa quedará excluida durante 10 años en los procedimientos de concesión del distintivo empresarial en materia de igualdad.
+
+4\. Contra la resolución de revocación, que pone fin a la vía administrativa, puede interponerse recurso potestativo de reposición en el plazo de un mes a contar desde el día siguiente al de la notificación de la resolución, o recurso contencioso-administrativo en la forma y plazos previstos en la Ley 29/1998, de 13 de julio.
+
+> Se modifica el apartado 1 y se añade el 4 por el art. único.16 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+### Artículo 19. Suspensión y renuncia voluntarias.
+
+La entidad o empresa distinguida en materia de igualdad podrá solicitar al Ministerio de Igualdad, a través del Instituto de las Mujeres O.A., la suspensión de la concesión de su distintivo, o renunciar a él.
+
+La suspensión conllevará la suspensión de las facultades derivadas de la concesión en los términos previstos en el artículo 17.
+
+La renuncia al distintivo conllevará la pérdida de las facultades derivadas de aquélla en los términos previstos en el artículo anterior.
+
+> Se modifica por el art. único.17 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+## CAPÍTULO V — Registro de concesiones, renovaciones, renuncias voluntarias, suspensiones y revocaciones del distintivo empresarial en materia de igualdad
+
+### Artículo 20. Registro de las empresas y entidades con distintivo "Igualdad en la Empresa".
+
+El Ministerio de Igualdad, a través del Instituto de las Mujeres O.A., mantendrá un Registro público de las concesiones, renovaciones, renuncias voluntarias, suspensiones y revocaciones de este distintivo empresarial.
+
+> Se modifica por el art. único.18 del Real Decreto 333/2023, de 3 de mayo. [Ref. BOE-A-2023-11737](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11737)
+
+## CAPÍTULO VI — Colaboración entre Administraciones públicas
+
+### Artículo 21. Colaboración entre Administraciones públicas.
+
+Las Administraciones públicas garantizarán la necesaria coordinación y colaboración en relación con la concesión y revocación del distintivo y de cualesquiera otras distinciones y premios a los que se refiere el artículo 11.2. A tal efecto podrán comunicar las correspondientes resoluciones de concesión, suspensión, renovación y revocación, así como las renuncias voluntarias que se produzcan.
+
+### Disposición adicional única. Definición de los términos entidad y empresa.
+
+Los términos entidad y empresa empleados en este real decreto deben ser entendidos en todo caso de conformidad con lo previsto en el primer párrafo del artículo 4.1.
+
+> Se añade por el art. único.10 del Real Decreto 850/2015, de 28 de septiembre. [Ref. BOE-A-2015-10984](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10984).
+
+### Disposición transitoria única. «Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres».
+
+Las empresas que hayan sido reconocidas como «Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres» de conformidad con lo previsto en la Orden de 25 de enero de 1996, podrán seguir utilizando en su publicidad y comunicaciones el citado reconocimiento hasta que se resuelva la primera de las convocatorias que realice el Ministerio de Igualdad para la concesión del distintivo regulado en el presente real decreto. A partir de esa fecha ninguna empresa podrá seguir utilizando ese reconocimiento.
+
+A las empresas a que se refiere el párrafo anterior, que concurran a la convocatoria del Ministerio de Igualdad para la concesión del distintivo «Igualdad en la empresa», les resultará de aplicación en su integridad el régimen jurídico previsto en el presente real decreto para la solicitud inicial de este distintivo, si bien les será valorado su reconocimiento como «Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres» junto con los demás criterios de valoración previstos el artículo 10.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo del artículo 149.1.7.ª de la Constitución, que establece la competencia exclusiva del Estado sobre la legislación laboral.
+
+### Disposición final segunda. Facultades de desarrollo.
+
+Se autoriza a la Ministra de Igualdad a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo dispuesto en el presente real decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 26 de octubre de 2009.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno
+
+y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

@@ -1,0 +1,10301 @@
+---
+title: "Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional"
+identifier: "BOE-A-2015-9462"
+eli: "https://www.boe.es/eli/es/rd/2015/08/28/774"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2015-08-28
+published: 2015-08-29
+in_force_from: 2015-08-30
+last_amended: 2024-05-28
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 207"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-9462"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 774/2015, de 28 de agosto, por el que se establecen seis Títulos de Formación Profesional Básica del catálogo de Títulos de las enseñanzas de Formación Profesional
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
+
+La Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, modifica el artículo 3.10 de la Ley Orgánica 2/2006, de 3 de mayo, y crea los ciclos de formación profesional básica dentro de la Formación Profesional del sistema educativo, como medida para facilitar la permanencia de los alumnos y las alumnas en el sistema educativo y ofrecerles mayores posibilidades para su desarrollo personal y profesional.
+
+Por otro lado, la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, señala en el artículo 10.1 que la Administración General del Estado, de conformidad con lo que se establece en el artículo 149.1.30.ª y 7.ª de la Constitución, y previa consulta al Consejo General de la Formación Profesional, determinará los títulos de formación profesional del sistema educativo y los certificados de profesionalidad del subsistema de formación profesional para el empleo, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+
+La disposición final cuarta del Real Decreto 127/2014, de 28 de febrero, por el que se regulan aspectos específicos de la Formación Profesional Básica de las enseñanzas de formación profesional del sistema educativo, se aprueban catorce títulos profesionales básicos, se fijan sus currículos básicos y se modifica el Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, indica que corresponde al Gobierno, previa consulta a las comunidades autónomas, la actualización y ampliación del catálogo de títulos de las enseñanzas de Formación Profesional y el establecimiento de nuevos títulos de Formación Profesional Básica y de los currículos básicos correspondientes, al amparo de lo establecido en el artículo 39.6 de la Ley Orgánica 2/2006, de 3 de mayo.
+
+Para hacer frente a los requerimientos citados, en el presente real decreto se establecen seis nuevos títulos de la formación profesional básica del catálogo de títulos de la formación profesional del sistema educativo, y se fija el currículo básico de cada título que asegure una formación común y garantice la validez de los títulos en todo el Estado, sin perjuicio de las competencias atribuidas a las comunidades autónomas en esta materia.
+
+Este real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de los títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. De acuerdo con la jurisprudencia del Tribunal Constitucional, es posible la intervención excepcional del reglamento en la delimitación de lo básico, entre otros supuestos, cuando la utilización del reglamento resulte justificada por el carácter marcadamente técnico de la materia y porque resulte un complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas que garantice la equidad en todo el territorio del Estado español.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas, ha emitido dictamen el Consejo Escolar del Estado, y han emitido informe el Consejo General de la Formación Profesional y el Ministerio de Hacienda y Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 28 de agosto de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto tiene por objeto desarrollar el catálogo de títulos de las enseñanzas de formación profesional mediante el establecimiento de seis nuevos títulos de Técnico Básico, de conformidad con el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+
+2\. Los títulos de Técnico Básico tienen carácter oficial y validez en todo el territorio nacional y no constituyen una regulación del ejercicio profesional.
+
+> Se modifica por el art. 2.Tres del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## Artículo 2. Títulos de Técnico Básico que se establecen.
+
+Los títulos de Técnico Básico que se establecen son los que a continuación se relacionan, cuyas especificaciones se describen en los anexos que se indican:
+
+a) Anexo I: Título de Técnico Básico en actividades de panadería y pastelería.
+
+b) Anexo II: Título de Técnico Básico en actividades domésticas y limpieza de edificios.
+
+c) Anexo III: Título de Técnico Básico en mantenimiento de viviendas.
+
+d) Anexo IV: Título de Técnico Básico en fabricación de elementos metálicos.
+
+e) Anexo V: Título de Técnico Básico en instalaciones electrotécnicas y mecánica.
+
+f) Anexo VI: Título de Técnico Básico en mantenimiento de embarcaciones deportivas y de recreo.
+
+El título de Técnico Básico se corresponde con un nivel 3A del Marco Español de Cualificaciones para el Aprendizaje Permanente.
+
+> Se modifica por los arts. 2.Tres y 3 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo del artículo 149.1.30.ª de la Constitución Española, que atribuye al Estado las competencias para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 28 de agosto de 2015.
+
+FELIPE R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+ÍÑIGO MÉNDEZ DE VIGO Y MONTOJO
+
+## ANEXO I — Título profesional básico en actividades de panadería y pastelería
+
+**1. Identificación del título.**
+
+El Título profesional básico en actividades de panadería y pastelería queda identificado por los siguientes elementos:
+
+– Denominación: Título profesional básico en actividades de panadería y pastelería.
+
+– Nivel: Formación Profesional Básica.
+
+– Duración: 2.000 horas.
+
+– Familia Profesional: Hostelería y Turismo e Industrias Alimentarias.
+
+– Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
+
+**2. Perfil profesional.**
+
+**2.1 Competencia general del título.**
+
+La competencia general del título consiste en recepcionar materias primas, preelaborar y elaborar productos básicos de panadería y pastelería, presentarlos para su venta y dispensarlos, aplicando los protocolos establecidos, las normas de higiene alimentaria, prevención de riesgos laborales, protección medioambiental correspondientes, y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
+
+**2.2 Competencias del título.**
+
+Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
+
+a) Realizar tareas básicas de recepción y preparación de materias primas y productos auxiliares para la elaboración de productos de panadería y pastelería, evitando daños y controlando el ritmo del proceso.
+
+b) Preparar la zona de trabajo (mesas, maquinaria y utensilios) y suministrar las materias primas requeridas.
+
+c) Reponer, siguiendo instrucciones, géneros y materias primas, en las zonas de preelaboración y elaboración de productos básicos de panadería y pastelería.
+
+d) Regenerar productos conservados de panadería y pastelería, utilizando las técnicas adecuadas de descongelación, entre otras.
+
+e) Realizar preelaboraciones y elaboraciones complejas de panadería, bollería y pastelería, siguiendo instrucciones y aplicando las técnicas de manipulación de materias primas.
+
+f) Conservar preelaboraciones y elaboraciones de panadería, bollería y pastelería, utilizando distintos métodos, tales como refrigeración y envase al vacío, entre otros, garantizando su posterior regeneración y uso.
+
+g) Envasar, embalar y etiquetar y colocar dispositivos de seguridad productos de panadería y pastelería destinados a la venta, manejando máquinas y equipos adecuados.
+
+h) Presentar de forma atractiva los productos acabados de panadería, bollería y pastelería para facilitar su promoción, venta y responder a imagen de la empresa, utilizando criterios comerciales y otras indicaciones.
+
+i) Atender a clientes durante la venta o en cualquier otro momento, siguiendo el procedimiento y los protocolos establecidos.
+
+j) Comunicar al superior las disfunciones y anomalías observadas en el funcionamiento de equipos y utillajes, utilizando fichas u otros procedimientos de comunicación establecidos.
+
+k) Obtener y comunicar información destinada al autoaprendizaje y a su uso en distintos contextos de su entorno personal, social o profesional mediante recursos a su alcance y los propios de las tecnologías de la información y de la comunicación.
+
+l) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+m) Actuar de forma saludable en distintos contextos cotidianos que favorezcan el desarrollo personal y social, analizando hábitos e influencias positivas para la salud humana.
+
+n) Valorar actuaciones encaminadas a la conservación del medio ambiente, diferenciado las consecuencias de las actividades cotidianas que pueda afectar al equilibrio del mismo.
+
+ñ) Actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas, apreciando su uso y disfrute como fuente de enriquecimiento personal y social.
+
+o) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+p) Comunicarse con claridad, precisión y fluidez en distintos contextos sociales o profesionales y por distintos medios, canales y soportes a su alcance, utilizando y adecuando recursos lingüísticos orales y escritos propios de la lengua castellana y, en su caso, de la lengua cooficial.
+
+q) Comunicarse en situaciones habituales tanto laborales como personales y sociales, utilizando recursos lingüísticos básicos en lengua extranjera.
+
+r) Realizar explicaciones sencillas sobre acontecimientos y fenómenos característicos de las sociedades contemporáneas a partir de información histórica y geográfica a su disposición.
+
+s) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en su actividad laboral, utilizando las ofertas formativas a su alcance y localizando los recursos mediante las tecnologías de la información y la comunicación.
+
+t) Cumplir las tareas propias de su nivel con autonomía y responsabilidad, empleando criterios de calidad y eficiencia en el trabajo asignado y efectuándolo de forma individual o como miembro de un equipo.
+
+u) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en su ámbito de trabajo, contribuyendo a la calidad del trabajo realizado.
+
+v) Asumir y cumplir las medidas de prevención de riesgos y seguridad laboral en la realización de las actividades laborales, evitando daños personales, laborales y ambientales.
+
+w) Cumplir las normas de calidad, de accesibilidad universal y diseño para todos que afectan a su actividad profesional.
+
+x) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la elección de los procedimientos de su actividad profesional.
+
+y) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+**2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.**
+
+2.3.1 Cualificación profesional completa:
+
+Operaciones básicas de pastelería HOT414_1 (Real Decreto 1179/2008, de 11 de julio), que comprende las siguientes unidades de competencia:
+
+UC1333_1: Ejecutar operaciones básicas de aprovisionamiento interno y conservación de preelaboraciones y elaboraciones de pastelería.
+
+UC1334_1: Preelaborar, elaborar y presentar elaboraciones sencillas de pastelería y asistir en elaboraciones complejas.
+
+2.3.2 Cualificaciones profesionales incompletas:
+
+a) Operaciones auxiliares de elaboración en la industria alimentaria INA172_1 (Real Decreto 1228/2006, de 27 de octubre):
+
+UC0543_1: Realizar tareas de apoyo a la recepción y preparación de las materias primas.
+
+UC0545_1: Manejar equipos e instalaciones para el envasado, acondicionado y empaquetado de productos alimentarios, siguiendo instrucciones de trabajo de carácter normalizado y dependiente.
+
+b) Actividades auxiliares de comercio COM412_1 (Real Decreto 1179/2008, de 11 de julio):
+
+UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.
+
+**2.4 Entorno profesional.**
+
+2.4.1 Este profesional ejerce su actividad en panaderías y pastelerías trabajando por cuenta ajena en pequeñas, medianas y grandes empresas de este sector productivo. Así mismo, puede desarrollar su actividad, siguiendo instrucciones y con cierto grado de autonomía, en pequeños establecimientos dedicados a la producción y venta de dichos productos.
+
+2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+– Auxiliar de panadería y bollería.
+
+– Auxiliar de pastelería.
+
+– Auxiliar de almacén de pastelería.
+
+– Empleado/a de establecimiento de pastelería.
+
+– Auxiliar de almacén.
+
+– Auxiliar de venta.
+
+**2.5 Prospectiva del título en el sector o sectores.**
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) Las actividades relacionadas con el sector productivo de panadería y pastelería se hallan actualmente sometidas a una profunda transformación, debida principalmente a los cambios introducidos por los consumidores en sus hábitos de vida cotidiana.
+
+b) El hecho de que España sea un destino turístico que recibe anualmente millones de visitantes provenientes de cualquier lugar del mundo, demandando productos gastronómicos muy variados y acordes a sus gustos, está contribuyendo a que las panaderías y pastelerías implementen y diversifiquen sus ofertas.
+
+c) Los cambios sociales relacionados con el modelo familiar y el incremento de domicilios unipersonales están haciendo que los productos de este subsector aumenten su presencia y de manera especial los relacionados con la pastelería salada.
+
+d) Para dar respuesta a la demanda actual del sector de la panadería y pastelería se requiere el uso de maquinaria especializada y de nuevas tecnologías que se ajustan más a las necesidades del servicio.
+
+e) La panadería y pastelería, cuya producción va destinada al consumo humano, es un sector que demanda un estricto respeto por la correspondiente normativa de seguridad e higiene que garantiza la calidad del producto.
+
+f) Es importante el manejo de lenguas extranjeras, pues estos profesionales, además de elaborar productos de panadería y pastelería, realizarán ventas por lo que tendrán trato directo con clientes nacionales y extranjeros.
+
+g) Finalmente, en este mundo globalizado e interconexionado se hace imprescindible la actitud favorable hacia el trabajo en equipo, la autoformación y la adecuada responsabilidad para alcanzar las competencias propias del perfil.
+
+**3. Enseñanzas del ciclo formativo.**
+
+**3.1 Objetivos generales del título.**
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Identificar y valorar las materias primas que se utilizan en la elaboración de productos de panadería y pastelería y sus aplicaciones en cada fase del proceso productivo para la realización de tareas básicas de recepción y preparación de materias primas y productos auxiliares.
+
+b) Realizar el mantenimiento básico de maquinaria, moldes y utillajes utilizados en la elaboración de productos de panadería y pastelería para la puesta a punto de la zona de trabajo.
+
+c) Aplicar las técnicas y maquinarias adecuadas según el tipo de productos preelaborados o elaborados para proceder a su conservación y posterior regeneración.
+
+d) Aplicar procedimientos y utilizar los equipos adecuados para etiquetar, envasar y embalar productos de panadería y pastelería.
+
+e) Aplicar las técnicas que se requieren para realizar preelaboraciones y elaboraciones de pastelería y panadería.
+
+f) Emplear procedimientos de registro y transmisión de información para la comunicación de disfunciones y anomalías.
+
+g) Aplicar procedimientos de acabado y presentación de los productos de panadería y pastelería para su atractiva exposición y venta.
+
+h) Aplicar protocolos de venta de productos de pastelería y panadería para la atención al cliente.
+
+i) Reconocer las especificaciones que deben cumplir las áreas de trabajo, equipos e instalaciones para realizar las operaciones de limpieza e higiene.
+
+j) Aplicar medidas higiénico-sanitarias, conociendo la normativa de seguridad alimentaria para intervenir en las operaciones de conservación, regeneración, preelaboración y elaboración de productos de panadería y pastelería.
+
+k) Identificar materiales y técnicas de empaquetado, relacionándolos con el tipo de producto y la imagen de la empresa para realizar la presentación atractiva de producto.
+
+l) Identificar las necesidades de los clientes y la información precisa para satisfacerlas, aplicando técnicas y protocolos de resolución de incidencias y quejas para atender a los clientes.
+
+m) Comprender los fenómenos que acontecen en el entorno natural mediante el conocimiento científico como un saber integrado, así como conocer y aplicar los métodos para identificar y resolver problemas básicos en los diversos campos del conocimiento y de la experiencia.
+
+n) Desarrollar habilidades para formular, plantear, interpretar y resolver problemas aplicar el razonamiento de cálculo matemático para desenvolverse en la sociedad, en el entorno laboral y gestionar sus recursos económicos.
+
+ñ) Identificar y comprender los aspectos básicos de funcionamiento del cuerpo humano y ponerlos en relación con la salud individual y colectiva y valorar la higiene y la salud para permitir el desarrollo y afianzamiento de hábitos saludables de vida en función del entorno en el que se encuentra.
+
+o) Desarrollar hábitos y valores acordes con la conservación y sostenibilidad del patrimonio natural, comprendiendo la interacción entre los seres vivos y el medio natural para valorar las consecuencias que se derivan de la acción humana sobre el equilibrio medioambiental.
+
+p) Desarrollar las destrezas básicas de las fuentes de información, utilizando con sentido crítico las tecnologías de la información y de la comunicación para obtener y comunicar información en el entorno personal, social o profesional.
+
+q) Reconocer características básicas de producciones culturales y artísticas, aplicando técnicas análisis básico de sus elementos para actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas.
+
+r) Desarrollar y afianzar habilidades y destrezas lingüísticas y alcanzar el nivel de precisión, claridad y fluidez requeridas, utilizando los conocimientos sobre la lengua castellana y, en su caso, la lengua cooficial para comunicarse en su entorno social, en su vida cotidiana y en la actividad laboral.
+
+s) Desarrollar habilidades lingüísticas básicas en lengua extranjera para comunicarse de forma oral y escrita en situaciones habituales y predecibles de la vida cotidiana y profesional.
+
+t) Reconocer causas y rasgos propios de fenómenos y acontecimientos contemporáneos, evolución histórica, distribución geográfica para explicar las características propias de las sociedades contemporáneas.
+
+u) Desarrollar valores y hábitos de comportamiento basados en principios democráticos, aplicándolos en sus relaciones sociales habituales y en la resolución pacífica de los conflictos.
+
+v) Comparar y seleccionar recursos y ofertas formativas existentes para el aprendizaje a lo largo de la vida para adaptarse a las nuevas situaciones laborales y personales.
+
+w) Desarrollar la iniciativa, la creatividad y el espíritu emprendedor, así como la confianza en sí mismo, la participación y el espíritu crítico para resolver situaciones e incidencias tanto de la actividad profesional como de la personal.
+
+x) Desarrollar trabajos en equipo, asumiendo sus deberes, respetando a los demás y cooperando con ellos, actuando con tolerancia y respeto a los demás para la realización eficaz de las tareas y como medio de desarrollo personal.
+
+y) Utilizar las tecnologías de la información y de la comunicación para informarse, comunicarse, aprender y facilitarse las tareas laborales.
+
+z) Relacionar los riesgos laborales y ambientales con la actividad laboral con el propósito de utilizar las medidas preventivas correspondientes para la protección personal, evitando daños a las demás personas y en el medio ambiente.
+
+aa) Desarrollar las técnicas de su actividad profesional asegurando la eficacia y la calidad en su trabajo, proponiendo, si procede, mejoras en las actividades de trabajo.
+
+bb) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+**3.2 Módulos profesionales.**
+
+3.2.1 Los módulos profesionales, proyecto intermodular de aprendizaje colaborativo y ámbitos son los que a continuación se relacionan:
+
+3007\. Procesos básicos de panadería.
+
+3017\. Procesos básicos de pastelería.
+
+3026\. Dispensación en panadería y pastelería.
+
+3133\. Operaciones auxiliares en la industria alimentaria.
+
+3005\. Atención al cliente.
+
+3159\. Itinerario personal para la empleabilidad;
+
+Ámbito de Comunicación y Ciencias Sociales;
+
+Ámbito de Ciencias Aplicadas.
+
+3160\. Proyecto intermodular de aprendizaje colaborativo y Tutoría.
+
+3.2.2 Otras especificaciones:
+
+1\. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+2\. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+3\. De acuerdo con lo establecido en el artículo 85 del Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+
+4\. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el título IV del Real Decreto 659/2023, de 18 de julio.
+
+5\. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.
+
+**3.3 Desarrollo de los módulos:**
+
+**Módulo Profesional: Procesos básicos de panadería.**
+
+**Código: 3007**
+
+**Resultados de aprendizaje y criterios de evaluación**.
+
+1\. Elabora diferentes tipos de panes, utilizando materias primas, maquinaria y aplicando las técnicas básicas para su obtención.
+
+Criterios de evaluación:
+
+a) Se han identificado y relacionado las materias primas que se utilizan en panadería con sus cualidades físicas, tales como colores y texturas, entre otras.
+
+b) Se ha preparado la maquinaría, utensilios y materias primas, según la ficha técnica de procedimientos para la elaboración de panes.
+
+c) Se ha relacionado la fermentación de las levaduras, prensada o fresca y química, entre otras, con los diferentes tipos de masas y elaboración de panes.
+
+d) Se han reconocido las texturas propias de las principales masas de acuerdo a estándares de idoneidad, como elasticidad, olor y color, entre otros, que se requieren para cada tipo de pan.
+
+e) Se ha obtenido la masa siguiendo el procedimiento establecido.
+
+f) Se han valorado los tiempos de reposo de las masas y la fermentación de las levaduras para la obtención de un producto que dé un resultado óptimo.
+
+g) Se ha dado forma a las masas para obtener el acabado y la presentación deseada del producto.
+
+h) Se han aplicado las técnicas de cocción adecuadas para elaborar distintos tipos de panes (pan común, panes especiales y panes semicocidos, entre otros).
+
+i) Se han seguido las fases de la elaboración de los tipos de panes más habituales.
+
+j) Se han aplicado técnicas de conservación y regeneración según la naturaleza del pan.
+
+k) Se han aplicado métodos y productos de limpieza para mantener a punto la maquinaria y utillaje utilizados en la elaboración de las pastas.
+
+2\. Elabora rellenos salados aptos para su utilización posterior en productos de panadería, utilizando técnicas básicas de cocción y fritura, y utilizando géneros crudos como vegetales y frutos secos, entre otros.
+
+Criterios de evaluación:
+
+a) Se ha realizado el aprovisionamiento de útiles de trabajo y materias primas a partir de fichas técnicas.
+
+b) Se ha verificado el funcionamiento de la maquinaria y equipos y, en su caso, se ha dejado constancia escrita de las anomalías detectadas.
+
+c) Se han elaborado distintos tipos de rellenos según los productos utilizados (verduras, picadillos de carne y frutos secos, entre otros) y las técnicas básicas de manipulación de alimentos crudos.
+
+d) Se han valorado las distintas técnicas de cocción establecidas para los diversos tipos de relleno, de acuerdo a procedimientos de verificación y según requerimientos de calidad y acabado.
+
+e) Se ha controlado el proceso de cocción, valorando tiempos y temperaturas y aplicando procedimiento de rectificación, según las observaciones realizadas.
+
+f) Se han almacenado para su conservación los productos elaborados, en recipientes y equipos asignados y a temperaturas adecuadas.
+
+g) Se han utilizado los métodos y equipos establecidos en la regeneración de productos a temperatura de servicio.
+
+h) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de cremas y rellenos dulces y salados, valorando las normas de higiene en la elaboración de alimentos.
+
+3\. Elabora y decora productos de bollería, utilizando técnicas y normas básicas de producción que les hace aptos para el consumo y atractivos para la venta.
+
+Criterios de evaluación:
+
+a) Se ha realizado el aprovisionamiento de útiles de trabajo y materias primas para su posterior elaboración a partir de la valoración de las fichas técnicas.
+
+b) Se ha verificado de forma manual el funcionamiento de la maquinaria y equipos y, en su caso, se ha informado de las anomalías detectadas.
+
+c) Se han reconocido las texturas propias de las principales masas para bollería de acuerdo a estándares de idoneidad, como elasticidad, olor y color, entre otros, que se requieren para cada tipo de pan.
+
+d) Se han valorado, de acuerdo a las técnicas básicas empleadas, los tiempos de reposo de las masas, la fermentación de las levaduras, el acabado y la presentación del producto de bollería.
+
+e) Se han aplicado las técnicas de cocción y fritura adecuadas para la elaboración de distintos productos de bollería (magdalenas, berlinas y ensaimadas, entre otros).
+
+f) Se han realizado decoraciones básicas para presentar los productos de bollería de forma más atractiva.
+
+g) Se han aplicado técnicas de conservación, según la naturaleza de los productos de bollería.
+
+h) Se han aplicado métodos y productos de limpieza para mantener a punto la maquinaria y utillaje utilizados en la elaboración de las pastas.
+
+4\. Elabora cremas y coberturas para productos de bollería, utilizando técnicas y normas básicas de producción.
+
+Criterios de evaluación:
+
+a) Se ha realizado el aprovisionamiento de útiles de trabajo y materias primas para su posterior elaboración a partir fichas técnicas.
+
+b) Se ha verificado de forma manual el funcionamiento de la maquinaria y equipos y, en su caso, se ha informado de las anomalías detectadas.
+
+c) Se han relacionado los diversos tipos de cremas, rellenos y coberturas, según el tipo de producto y su acabado.
+
+d) Se han preparado los ingredientes necesarios (leche, huevo, chocolate y azúcares, entre otros) para la elaboración de distintos tipos de cremas y coberturas.
+
+e) Se han reconocido las texturas propias de las principales cremas y coberturas para bollería de acuerdo a estándares de idoneidad, como elasticidad, olor y color, entre otros, que se requieren para cada tipo elaboración.
+
+f) Se han realizado las técnicas de cocción adecuadas para la elaboración de distintas cremas y coberturas (crema pastelera, cobertura de chocolate y cobertura de azúcar, entre otras) y se han aplicado medidas correctoras para subsanar posibles errores.
+
+g) Se han realizado operaciones de batido, amasado y refinado, entre otras, utilizando la maquinaria adecuada.
+
+h) Se han realizado coberturas básicas para presentar los productos de bollería de forma atractiva.
+
+i) Se han aplicado técnicas de conservación y regeneración, según la naturaleza de los productos de bollería.
+
+j) Se han aplicado métodos y productos de limpieza para mantener a punto la maquinaria y utillaje utilizados en la elaboración de las pastas.
+
+**Duración: 120 horas.**
+
+**Contenidos básicos:**
+
+Elaboración de diferentes tipos de panes utilizando maquinaría y materias primas:
+
+– Materias primas.
+
+– Maquinaria y utensilios.
+
+– Levaduras.
+
+– Características de las masas.
+
+– Preparación y fermentación de las masas.
+
+– Acabado y presentación de los panes.
+
+– Técnicas de cocción para los panes y fritura para determinados productos de bollería.
+
+– Fases de la elaboración del pan.
+
+– Limpieza de maquinaria y normas higiénico-sanitarias.
+
+Elaboración de rellenos salados para panes y bollos:
+
+– Materias primas para el relleno.
+
+– Maquinaria.
+
+– Elaboración de rellenos a partir de verduras, frutos secos, productos cárnicos y escabeches, entre otros.
+
+– Características de los rellenos.
+
+– Técnicas de cocción.
+
+– Control de la elaboración.
+
+– Técnicas de conservación y envasado de los rellenos elaborados.
+
+– Regeneración de los rellenos conservados.
+
+– Limpieza de maquinaria y normas higiénico-sanitarias.
+
+Elaboración y decoración de productos de bollería:
+
+– Materias primas.
+
+– Puesta a punto de la maquinaria.
+
+– Características de las masas de bollería.
+
+– Técnicas de cocción y fritura según los productos de bollería.
+
+– Decoraciones básicas para la presentación de los productos de bollería.
+
+– Técnicas de conservación y envasado de los productos de bollería.
+
+– Limpieza de maquinaria y normas higiénico-sanitarias.
+
+Elaboración de cremas y coberturas para los productos de bollería:
+
+– Materias primas.
+
+– Puesta a punto de la maquinaria.
+
+– Características de las cremas y cobertura para los productos de bollería.
+
+– Características de las cremas y coberturas.
+
+– Elaboración de distintos tipos de cremas y coberturas.
+
+– Decoraciones básicas para la presentación de los productos de bollería.
+
+– Técnicas de conservación y envasado de los productos de bollería.
+
+– Limpieza de maquinaria y normas higiénico-sanitarias.
+
+**Orientaciones pedagógicas.**
+
+Este módulo contiene la formación necesaria para desempeñar funciones de recepción, distribución y regeneración de materias primas utilizadas en el proceso de panadería y bollería, así como la preparación del lugar de trabajo y las correspondientes tareas relacionadas con la elaboración de una amplia gama de productos. También interviene en la presentación atractiva y comercial de los productos y en su venta.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), f), g), i), t), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales b), c), d), e), f), g), h), s), t), u), v), w), x) e, y) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La conservación, regeneración y distribución por el área de trabajo de los géneros de panadería.
+
+– La elaboración de masas, rellenos, cremas y coberturas para productos de panadería y bollería.
+
+– El acabado y presentación de los productos de panadería, así como la participación en su venta.
+
+**Módulo Profesional: Procesos básicos de pastelería.**
+
+**Código: 3017**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Conserva géneros crudos y elaborados para su posterior regeneración y uso, operando equipos sencillos y utilizando técnicas específicas al tipo de producto.
+
+Criterios de evaluación:
+
+a) Se han relacionado las materias primas que se utilizan en pastelería con sus cualidades físicas, tales como color, tamaño y sabor, entre otras.
+
+b) Se han identificado las formas como se suministran las materias primas utilizadas en pastelería.
+
+c) Se han diferenciado distintos métodos de conservación de géneros de pastelería tales como la congelación o el envase al vacío.
+
+d) Se han realizado las operaciones precisas para regenerar géneros crudos o elaborados, teniendo en cuenta su envasado, almacenamiento y conservación.
+
+e) Se han aplicado las operaciones previas que necesitan los productos crudos y elaborados en función del método o equipo elegido para su regeneración.
+
+f) Se ha reconocido la importancia de obtener el máximo rendimiento de las materias primas y productos conservados para rentabilizar los costes y evitar desgastes innecesarios.
+
+2\. Prepara masas de pastelería dulce y salada, utilizando técnicas básicas de elaboración de productos, como el amasado y la fermentación, entre otros.
+
+Criterios de evaluación:
+
+a) Se han preparado los útiles de trabajo y las materias primas para su posterior elaboración a partir de la valoración de las fichas técnicas.
+
+b) Se ha preparado la masa para fritos, aplicando procedimientos según tipo y acabado previsto (buñuelos, rosquillas, churros y empanadillas, entre otros).
+
+c) Se ha realizado la fritura de los productos, valorando el tiempo y la temperatura de cocción y aplicando los procedimientos de volteo y otros según requerimientos de calidad y acabado.
+
+d) Se han preparado las masas batidas y emulsionadas para productos horneados (bizcochos, plum cakes y madalenas, entre otros), según receta y procedimiento de aplicación.
+
+e) Se han aplicado las masas batidas y emulsionadas, verificando su fluidez, color y flexibilidad sobre el producto, según acabados previstos.
+
+f) Se ha controlado el proceso de horneado, valorando tiempos y temperaturas y aplicando procedimiento de rectificación, según las observaciones realizadas.
+
+g) Se ha valorado la utilización de los moldes, equipos y temperaturas de las masas obtenidas, según se destinen a su uso inmediato o almacenamiento.
+
+h) Se han aplicado procedimientos en el uso de las materias primas y de los medios energéticos, evaluando su efecto en los costes de producción.
+
+i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de masas, valorando las normas de higiene en la elaboración de alimentos.
+
+3\. Prepara pastas dulces y saladas de poca complejidad, utilizando técnicas básicas de cocinado para obtener productos de pastelería acabados o preparados de uso posterior.
+
+Criterios de evaluación:
+
+a) Se han preparado los útiles de trabajo y las materias primas para su posterior elaboración a partir de la valoración de las fichas técnicas.
+
+b) Se han preparado pastas básicas dulces y saladas, como sable, choux, brioche, quebrada y de hojaldre básica, entre otras, aplicando procedimientos según tipo y acabado previsto.
+
+c) Se ha valorado el tiempo y la temperatura de cocción y aplicado los procedimientos requeridos de calidad y acabado.
+
+d) Se han preparado las pastas batidas y emulsionadas para productos horneados (sable, choux, brioche, quebrada y de hojaldre básica, entre otras), según receta y procedimiento de aplicación.
+
+e) Se han aplicado sobre el producto las pastas dulces y saladas, verificando su fluidez, color y textura, según acabados previstos.
+
+f) Se ha controlado el proceso de horneado, valorando tiempos y temperaturas y aplicando procedimiento de rectificación, según las observaciones realizadas.
+
+g) Se ha valorado la utilización de los moldes los recipientes, equipos y temperaturas de las pastas obtenidas, según se destinen a su uso inmediato o almacenamiento.
+
+h) Se han aplicado procedimientos adecuados en el uso de las materias primas y de los medios energéticos, evaluando su efecto en los costes de producción.
+
+i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de masas, valorando las normas de higiene en la elaboración de alimentos.
+
+4\. Realiza actividades auxiliares en la preparación de cremas y rellenos dulces y salados, utilizando técnicas básicas de elaboración, de modo que resulten aptos para su consumo y uso posterior en productos de pastelería.
+
+Criterios de evaluación:
+
+a) Se han preparado los útiles de trabajo y las materias primas para su posterior elaboración a partir de la valoración de las fichas técnicas.
+
+b) Se han preparado cremas básicas elaboradas a partir de productos lácteos o batidos y los distintos tipos de rellenos, dulces y salados, realizados a partir de frutas, verduras, arroces y picadillos, entre otros, aplicando procedimientos según tipo y acabado previsto.
+
+c) Se ha valorado el tiempo y la temperatura de cocción y aplicado los procedimientos requeridos de calidad y acabado.
+
+d) Se han preparado cremas y rellenos para productos horneados, según receta y procedimiento de aplicación.
+
+e) Se han aplicado las cremas y rellenos sobre el producto, verificando su fluidez, color y textura, según acabados previstos.
+
+f) Se ha controlado el proceso de cocción, valorando tiempos y temperaturas y aplicando procedimientos de rectificación, según las observaciones realizadas.
+
+g) Se ha valorado la utilización de los moldes, equipos y temperaturas de las pastas y rellenos obtenidas, según se destinen a su uso inmediato o almacenamiento.
+
+h) Se han aplicado procedimientos en el uso de las materias primas y de los medios energéticos, evaluando su efecto en los costes de producción.
+
+i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de cremas y rellenos dulces y salados, valorando las normas de higiene en la elaboración de alimentos.
+
+5\. Realiza actividades auxiliares a la preparación de jarabes, confituras y gelatinas, utilizando técnicas básicas de elaboración de modo que resulten aptos para su consumo y uso posterior en productos de pastelería.
+
+Criterios de evaluación:
+
+a) Se han preparado los útiles de trabajo y las materias primas para su posterior elaboración a partir de la valoración de las fichas técnicas.
+
+b) Se han preparado jarabes, confituras y gelatinas realizados a partir de frutas, licores y azúcares, entre otros, aplicando procedimientos según tipo y acabado previsto.
+
+c) Se han preparado jarabes, confituras y gelatinas para productos horneados según receta y procedimiento de aplicación.
+
+d) Se han aplicado sobre el producto los jarabes, confituras y gelatinas verificando su fluidez, color y extensión, según acabados previstos.
+
+e) Se ha controlado el proceso de elaboración, valorando tiempos y temperaturas y aplicando procedimientos de rectificación, según las observaciones realizadas.
+
+f) Se ha valorado la utilización de los moldes, equipos y temperaturas de los jarabes, confituras y gelatinas obtenidos, según se destinen a su uso inmediato o almacenamiento.
+
+g) Se han aplicados procedimientos en el uso de las materias primas y de los medios energéticos, evaluando su efecto en los costes de producción.
+
+h) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de cremas y rellenos, valorando las normas de higiene en la elaboración de alimentos.
+
+6\. Prepara chocolates, granizados, batidos, zumos, cafés e infusiones y otras bebidas elaboradas a partir de especificaciones para su consumo directo.
+
+Criterios de evaluación:
+
+a) Se han preparado los útiles de trabajo y las materias primas para su posterior elaboración a partir de la valoración de las fichas técnicas.
+
+b) Se han preparado bebidas específicas de pastelerías realizadas a partir de frutas, licores y azúcares, entre otros, aplicando procedimientos según tipo y acabado previsto.
+
+c) Se ha valorado el tiempo y la temperatura de elaboración y aplicado los procedimientos requeridos, según requerimientos de calidad y acabado.
+
+d) Se han preparado bebidas específicas de pastelería para productos horneados, según receta y procedimiento de aplicación.
+
+e) Se han aplicado bebidas específicas de pastelerías, verificando su fluidez, color y textura sobre el producto, según acabados previstos.
+
+f) Se ha controlado el proceso de elaboración, valorando tiempos y temperaturas y aplicando procedimientos de rectificación, según las observaciones realizadas.
+
+g) Se ha valorado la utilización de los recipientes, equipos y temperaturas de las bebidas específicas obtenidas, según se destinen a su uso inmediato o almacenamiento.
+
+h) Se han aplicado procedimientos en el uso de las materias primas y de los medios energéticos, evaluando su efecto en los costes de producción.
+
+i) Se han aplicado métodos y productos de limpieza durante los procedimientos de elaboración y cocción para mantener a punto la maquinaria y utillaje utilizados en la elaboración de bebidas específicas de pastelerías, valorando las normas de higiene en la elaboración de alimentos.
+
+7\. Cumple las normas higiénico-sanitarias de seguridad laboral y de manipulación de alimentos para evitar riesgos laborales, ambientales y de toxiinfecciones alimentarias en pastelería.
+
+Criterios de evaluación:
+
+a) Se han observado las normas higiénico-sanitarias, de seguridad laboral y de manipulación de alimentos en pastelería, referentes a instalaciones, maquinaria y utensilios.
+
+b) Se ha valorado la peligrosidad que supone la manipulación de los materiales, herramientas, útiles y máquinas utilizados en la pastelería.
+
+c) Se han aplicado las medidas de seguridad y de protección personal y colectiva en la ejecución de operaciones en el área de trabajo.
+
+d) Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, máquinas y equipos de trabajo empleados.
+
+e) Se ha reconocido el etiquetado de los útiles y productos de limpieza, teniendo en cuenta sus propiedades y aplicaciones para garantizar eficacia, seguridad y respeto ambiental.
+
+f) Se han seleccionado los productos y útiles de limpieza autorizados, teniendo en cuenta la maquinaría y utillaje utilizados en las elaboraciones de productos de pastelería.
+
+**Duración: 210 horas.**
+
+**Contenidos básicos:**
+
+Conservación y regeneración de géneros crudos y elaborados:
+
+– Materias primas.
+
+– Presentación de las materias primas.
+
+– Métodos de conservación de las materias primas.
+
+– Envasado de las materias primas.
+
+– Métodos y equipos para la regeneración de las materias primas.
+
+Preparación de masas dulces y saladas de pastelería:
+
+– Fichas técnicas, maquinaría y utillaje.
+
+– Masas básicas.
+
+– Frituras.
+
+– Batidas y emulsionadas.
+
+– Horneado de masas.
+
+– Almacenamiento y uso de las masas.
+
+– Equipos para regenerar masas.
+
+– Métodos de limpieza.
+
+Preparación de pastas dulces y saladas básicas:
+
+– Fichas técnicas, maquinaría y utillaje.
+
+– Pastas básicas, dulces y saladas.
+
+– Métodos de cocción de las pastas.
+
+– Pastas batidas y emulsionadas.
+
+– Horneado de pastas.
+
+– Almacenamiento y uso de las pastas dulces y saladas.
+
+– Equipos para regenerar masas.
+
+– Métodos de limpieza.
+
+Preparación de cremas y rellenos dulces y salados:
+
+– Fichas técnicas, maquinaría y utillaje.
+
+– Cremas y rellenos básicos.
+
+– Métodos de cocción de las cremas y rellenos.
+
+– Horneados de cremas y rellenos.
+
+– Rectificaciones de cremas y rellenos.
+
+– Equipos para regenerar cremas y rellenos.
+
+– Métodos de limpieza.
+
+Preparación de jarabes, confituras y gelatinas:
+
+– Fichas técnicas, maquinaría y utillaje.
+
+– Jarabes, confituras y gelatinas.
+
+– Métodos de cocción de jarabes, confituras y gelatinas.
+
+– Aplicaciones de jarabes, confituras y gelatinas.
+
+– Almacenamiento y uso de los jarabes, confituras y gelatinas.
+
+– Equipos para regenerar jarabes, confituras y gelatinas.
+
+– Métodos de limpieza.
+
+Preparación de chocolates, granizados, batidos, zumos, cafés e infusiones:
+
+– Fichas técnicas, maquinaría y utillaje.
+
+– Bebidas de uso en pastelería.
+
+– Métodos de elaboración de las bebidas de uso en pastelería.
+
+– Aplicaciones de las bebidas de uso en pastelería.
+
+– Almacenamiento y uso de los jarabes, confituras y gelatinas.
+
+– Equipos para regenerar las bebidas de uso en pastelería.
+
+– Métodos de limpieza.
+
+Cumplimiento de las normas higiénico-sanitarias de seguridad laboral, y de manipulación de alimentos:
+
+– Normativas higiénico-sanitarias y de seguridad laboral.
+
+– Identificación de riesgos y peligrosidad.
+
+– Causas frecuentes de accidentes.
+
+– Prevención de riesgos.
+
+– Los productos de limpieza.
+
+**Orientaciones pedagógicas.**
+
+Este módulo contiene la formación necesaria para desempeñar funciones de recepción, distribución y regeneración de materias primas utilizadas en el proceso de pastelería, así como la preparación del lugar de trabajo y las correspondientes tareas relacionadas con la elaboración de una amplia gama de productos. También interviene en la presentación atractiva y comercial de los productos y en su venta.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), f), g), i), t), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales a), b), c), d), e), f), s), t), u), v), w), x) e, y) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La descripción, preparación y utilización de maquinaria, moldes y útiles propios de la pastelería.
+
+– La conservación, regeneración y distribución por el área de trabajo de los géneros.
+
+– La participación en la elaboración de masas, pastas, cremas, rellenos, jarabes, confituras, gelatinas, entre otras.
+
+– El acabado y presentación de los productos de pastelerías, así como la participación en su venta.
+
+**Módulo Profesional: Dispensación en panadería y pastelería.**
+
+**Código: 3026**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Monta expositores, elementos atractivos y de animación en puntos destinados a la venta de productos de panadería y pastelería, aplicando criterios comerciales propios de las técnicas de escaparatismo.
+
+Criterios de evaluación:
+
+a) Se han reconocido las distintas fases del proceso de montaje de un despacho de venta de productos de panadería y pastelería.
+
+b) Se han seleccionado y agrupado por sectores, dentro del punto de venta, los lugares idóneos donde ubicar los productos de panadería y pastelería.
+
+c) Se han montado expositores y góndolas de productos de panadería y pastelería con criterios comerciales para incrementar las ventas.
+
+d) Se han diferenciado, dentro del punto de venta, las zonas frías y calientes para la distribución de los productos.
+
+e) Se han comparado criterios comerciales de diseño y decoración de los puntos de venta, según la distribución de los productos.
+
+f) Se han diferenciado distintos tipos de mobiliario y los elementos promocionales utilizados en los puntos de venta, según la idoneidad del producto a exponer.
+
+g) Se han seguido las normas de seguridad y prevención de riesgos laborales y las instrucciones del fabricante de montaje y uso del mobiliario.
+
+2\. Coloca en mostradores, escaparates y expositores, productos de panadería y pastelería, atendiendo a las características de los productos y siguiendo técnicas básicas de venta.
+
+Criterios de evaluación:
+
+a) Se han identificado criterios físicos y comerciales que determinan la colocación de productos de panadería y pastelería en distintas zonas y niveles.
+
+b) Se han diferenciado los efectos que producen en el consumidor los distintos modelos de ubicar los productos.
+
+c) Se han comparado distintos métodos utilizados para la clasificación del producto por grupos y categorías en los expositores.
+
+d) Se han colocado los productos de panadería y pastelería, según el grupo, ubicación respecto con al obrador, efecto visual a lograr, entre otros.
+
+e) Se han marcado las etiquetas de identificación, venta y control de los productos, utilizando lectores ópticos y equipos de lectura de códigos de barras.
+
+f) Se han aplicado las medidas específicas de manipulación e higiene de los distintos productos.
+
+3\. Coloca etiquetas, dispositivos de seguridad y dispensa los productos de panadería y pastelería, valorando la relevancia del sistema de codificación en el control del punto de venta y las técnicas de dispensación al cliente.
+
+Criterios de evaluación:
+
+a) Se ha valorado el funcionamiento de los dispositivos de seguridad en el punto de venta.
+
+b) Se ha aplicado el procedimiento en la asignación del código de barras a los productos, identificando etiquetas normalizadas y códigos de barras.
+
+c) Se ha verificado que la codificación del producto concuerda con sus características, propiedades y localización.
+
+d) Se han elaborado documentos e informes sobre errores detectados en el etiquetado, utilizando aplicaciones informáticas (procesador de textos y hoja de cálculo, entre otros).
+
+e) Se han colocado dispositivos de seguridad en los productos de panadería y pastelería expuestos para la venta, utilizando los sistemas de protección pertinentes.
+
+f) Se ha valorado la importancia de codificar los productos para su control del punto de venta.
+
+g) Se han dispensado al cliente los productos de panadería y pastelería, atendiendo a su atractiva presentación, protección del contenido y fácil transporte.
+
+h) Se ha efectuado el cobro de los productos dispensados al cliente, aplicando procedimientos y sistemas de caja establecidos.
+
+**Duración: 90 horas**
+
+**Contenidos básicos:**
+
+Montaje de expositores, elementos atractivos y de animación en puntos destinados a la venta de productos de panadería y pastelería:
+
+– Fases del proceso de montaje.
+
+– Tipos de góndolas y expositores para el montaje de productos.
+
+– Zonas fría y calientes para distribución de los productos.
+
+– Diseño y decoración de los puntos de venta.
+
+– Normas de seguridad y prevención de riesgos laborales.
+
+Colocación de productos de panadería y pastelería en mostradores, escaparates y expositores:
+
+– Concepto y función del mostrador, escaparate y expositor.
+
+– Clasificación de productos dulces y salados de panadería, pastelería, según zonas de exposición.
+
+– Normas de seguridad y prevención de riesgos laborales.
+
+Colocación de etiquetas, dispositivos de seguridad y dispensación de los productos de panadería y pastelería:
+
+– Procedimiento de asignación de códigos de seguridad.
+
+– Dispositivos de seguridad en los puntos de venta.
+
+– Colocación de los dispositivos de seguridad.
+
+– Lectores ópticos y códigos de barras.
+
+– Verificación de etiquetado con el producto.
+
+– Detección e información de errores en el etiquetado.
+
+– Técnicas de dispensación de productos de panadería y pastelería.
+
+– Operaciones de cobro.
+
+**Orientaciones pedagógicas:**
+
+Este módulo profesional contiene la formación necesaria para realizar actividades básicas de venta de productos de panaderías y pastelerías.
+
+La definición de esta función incluye aspectos como:
+
+– Realización de montajes de elementos de animación del punto de venta, expositores, carteles y escaparates.
+
+– Etiquetado de productos y colocación de dispositivos de seguridad.
+
+– Dispensación y cobro de productos de panadería y pastelería.
+
+La formación del módulo contribuye a alcanzar los objetivos generales f), g), h), j), k), t), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales g), h), s), t), u), v), w), x) e, y) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– Montaje de los productos de pastelería y panadería en los expositores y escaparates, teniendo en cuenta la temperatura de la zona.
+
+– Elaboración manual o mediante el empleo de herramientas informáticas sencillas de carteles (especialmente de precios) y de etiquetas, rotulando diferentes tipos de letra y asociando formas y colores a la imagen a transmitir.
+
+– Empaquetado de productos de forma atractiva, utilizando los materiales adecuados y motivos ornamentales acordes con la imagen de la empresa.
+
+**Módulo Profesional: Atención al cliente.**
+
+**Código: 3005**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Atiende a posibles clientes, reconociendo las diferentes técnicas de comunicación.
+
+Criterios de evaluación:
+
+a) Se ha analizado el comportamiento del posible cliente.
+
+b) Se han adaptado adecuadamente la actitud y discurso a la situación de la que se parte.
+
+c) Se ha obtenido la información necesaria del posible cliente.
+
+d) Se ha favorecido la comunicación con el empleo de las técnicas y actitudes apropiadas al desarrollo de la misma.
+
+e) Se ha mantenido una conversación, utilizando las fórmulas, léxico comercial y nexos de comunicación (pedir aclaraciones, solicitar información, pedir a alguien que repita y otros).
+
+f) Se ha dado respuesta a una pregunta de fácil solución, utilizando el léxico comercial adecuado.
+
+g) Se ha expresado un tema prefijado de forma oral delante de un grupo o en una relación de comunicación en la que intervienen dos interlocutores.
+
+h) Se ha mantenido una actitud conciliadora y sensible a los demás, demostrando cordialidad y amabilidad en el trato.
+
+i) Se ha trasmitido información con claridad, de manera ordenada, estructura clara y precisa.
+
+2\. Comunica al posible cliente las diferentes posibilidades del servicio, justificándolas desde el punto de vista técnico.
+
+Criterios de evaluación:
+
+a) Se han analizado las diferentes tipologías de público.
+
+b) Se han diferenciado clientes de proveedores, y estos del público en general.
+
+c) Se ha reconocido la terminología básica de comunicación comercial.
+
+d) Se ha diferenciado entre información y publicidad.
+
+e) Se han adecuado las respuestas en función de las preguntas del público.
+
+f) Se ha informado al cliente de las características del servicio, especialmente de las calidades esperables.
+
+g) Se ha asesorado al cliente sobre la opción más recomendable, cuando existen varias posibilidades, informándole de las características y acabados previsibles de cada una de ellas.
+
+h) Se ha solicitado al cliente que comunique la elección de la opción elegida.
+
+3\. Informa al probable cliente del servicio realizado, justificando las operaciones ejecutadas.
+
+Criterios de evaluación:
+
+a) Se ha hecho entrega al cliente de los artículos procesados, informando de los servicios realizados en los artículos.
+
+b) Se han transmitido al cliente, de modo oportuno, las operaciones a llevar a cabo en los artículos entregados y los tiempos previstos para ello.
+
+c) Se han identificado los documentos de entrega asociados al servicio o producto.
+
+d) Se ha recogido la conformidad del cliente con el acabado obtenido, tomando nota, en caso contrario, de sus objeciones, de modo adecuado.
+
+e) Se ha valorado la pulcritud y corrección, tanto en el vestir como en la imagen corporal, elementos clave en la atención al cliente.
+
+f) Se ha mantenido en todo momento el respeto hacia el cliente.
+
+g) Se ha intentado la fidelización del cliente con el buen resultado del trabajo.
+
+h) Se han definido periodo de garantía y las obligaciones legales aparejadas.
+
+4\. Atiende reclamaciones de posibles clientes, reconociendo el protocolo de actuación.
+
+Criterios de evaluación:
+
+a) Se han ofrecido alternativas al cliente ante reclamaciones fácilmente subsanables, exponiendo claramente los tiempos y condiciones de las operaciones a realizar, así como del nivel de probabilidad de modificación esperable.
+
+b) Se han reconocido los aspectos principales en los que incide la legislación vigente, en relación con las reclamaciones.
+
+c) Se ha suministrado la información y documentación necesaria al cliente para la presentación de una reclamación escrita, si este fuera el caso.
+
+d) Se han recogido los formularios presentados por el cliente para la realización de una reclamación.
+
+e) Se ha cumplimentado una hoja de reclamación.
+
+f) Se ha compartido información con el equipo de trabajo.
+
+**Duración: 40 horas.**
+
+**Contenidos básicos:**
+
+Atención al cliente:
+
+– El proceso de comunicación. Agentes y elementos que intervienen.
+
+– Barreras y dificultades comunicativas.
+
+– Comunicación verbal: Emisión y recepción de mensajes orales.
+
+– Motivación, frustración y mecanismos de defensa. Comunicación no verbal.
+
+Venta de productos y servicios:
+
+– Actuación del vendedor profesional.
+
+– Exposición de las cualidades de los productos y servicios.
+
+– El vendedor. Características, funciones y actitudes. Cualidades y aptitudes para la venta y su desarrollo.
+
+– El vendedor profesional: modelo de actuación. Relaciones con los clientes.
+
+– Técnicas de venta.
+
+Información al cliente:
+
+– Roles, objetivos y relación cliente-profesional.
+
+– Tipología de clientes y su relación con la prestación del servicio.
+
+– Atención personalizada como base de la confianza en la oferta de servicio.
+
+– Necesidades y gustos del cliente, así como criterios de satisfacción de los mismos.
+
+– Objeciones de los clientes y su tratamiento.
+
+Tratamiento de reclamaciones:
+
+– Técnicas utilizadas en la actuación ante reclamaciones. Gestión de reclamaciones. Alternativas reparadoras. Elementos formales que contextualizan una reclamación.
+
+– Documentos necesarios o pruebas en una reclamación. Procedimiento de recogida de las reclamaciones.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de atención y servicio al cliente, tanto en la información previa como en la postventa del producto o servicio.
+
+La definición de esta función incluye aspectos como:
+
+– Comunicación con el cliente.
+
+– Información del producto como base del servicio. Atención de reclamaciones.
+
+La formación del módulo contribuye a alcanzar los objetivos generales e), g), h), t), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales i), j), k), s), t), u), v), w), x) e, y) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La descripción de los productos que comercializan y los servicios que prestan empresas tipo.
+
+– La realización de ejercicios de expresión oral, aplicando las normas básicas de atención al público.
+
+– La resolución de situaciones estándares mediante ejercicios de simulación.
+
+**Módulo Profesional: Operaciones auxiliares en la industria alimentaria.**
+
+**Código: 3133**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Colabora en el trabajo de control y recepción de materias primas y de productos auxiliares, registrando las mediciones previas y ejecutando posteriores instrucciones.
+
+Criterios de evaluación:
+
+a) Se han interpretado las instrucciones recibidas y la documentación asociada a la recepción de materias primas y productos auxiliares.
+
+b) Se han reconocido las materias primas y sus características, relacionándolas con el proceso y producto final.
+
+c) Se han realizado las mediciones previas registrando los datos.
+
+d) Se han transportado y depositado las materias primas, atendiendo a las instrucciones de trabajo.
+
+e) Se han realizado todas las operaciones, teniendo en cuenta la normativa higiénico-sanitaria, de seguridad laboral y de protección medioambiental.
+
+2\. Prepara las materias primas y los productos auxiliares, realizando las operaciones básicas necesarias y atendiendo a las instrucciones del proceso previo a la elaboración.
+
+Criterios de evaluación:
+
+a) Se ha puesto a punto el material que se ha de utilizar en la preparación de las materias primas.
+
+b) Se ha seleccionado la materia prima que se necesita, teniendo en cuenta el producto que se va a obtener.
+
+c) Se ha limpiado la materia prima, eliminando las partes sobrantes.
+
+d) Se han troceado, despiezado, molido o picado las materias primas y productos entrantes en los casos necesarios.
+
+e) Se ha controlado el ritmo del proceso, evitando atascos o excesos en la entrada.
+
+f) Se han realizado todas las operaciones, teniendo en cuenta la normativa higiénico-sanitaria, de seguridad laboral y de protección medioambiental.
+
+3\. Prepara materiales de envasado, acondicionado y embalaje de productos alimentarios, regulando los equipos específicos según las instrucciones de trabajo.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los útiles y materiales apropiados al trabajo de envasar y configurar.
+
+b) Se han identificado los principales tipos y modalidades de envasados de productos alimentarios.
+
+c) Se ha realizado la limpieza de los envases externos en las condiciones de higiene necesarias.
+
+d) Se han reconocido los materiales de embalaje.
+
+e) Se han regulado los equipos de la línea de envasado, según las instrucciones recibidas.
+
+f) Se ha asociado el tipo de envasado, acondicionado y embalaje con el proceso de producción y el producto obtenido.
+
+g) Se han comprobado los materiales de acondicionamiento asociados a la presentación final.
+
+h) Se ha aplicado la normativa higiénico-sanitaria, las medidas de seguridad y prevención de riesgos laborales y ambientales asociados a las operaciones de preparación de materiales y preparación de equipos.
+
+4\. Envasa y acondiciona los productos alimentarios, controlando las líneas automáticas del proceso de acuerdo con las instrucciones establecidas.
+
+Criterios de evaluación:
+
+a) Se han supervisado y puesto a punto las máquinas, equipos principales y auxiliares del proceso de envasado.
+
+b) Se ha realizado el control del llenado, cerrado y etiquetado automático de los envases de productos alimentarios.
+
+c) Se ha registrado en las hojas y partes de trabajo el recuento de consumibles y de los envases producidos.
+
+d) Se ha reconocido el lugar donde debe alojarse los envases contados.
+
+e) Se ha establecido la forma y el lugar donde deben depositarse los sobrantes y desechos para su recuperación o eliminación.
+
+f) Se han aplicado la normativa higiénico-sanitaria, las medidas de seguridad y prevención de riesgos laborales y ambientales aplicados a la utilización de máquinas y equipos de envasado y acondicionado de productos.
+
+5\. Empaqueta y embala los productos alimentarios envasados, operando con equipos automáticos o semiautomáticos, según las instrucciones de trabajo.
+
+Criterios de evaluación:
+
+a) Se ha comprobado la disposición correcta en las líneas o equipos de los materiales principales y auxiliares de embalaje.
+
+b) Se ha operado con las máquinas de embalaje, controlando su funcionamiento.
+
+c) Se han comprobado las operaciones finales de embalaje.
+
+d) Se ha identificado el lugar y la forma donde depositar los residuos del embalaje para su recuperación.
+
+e) Se ha registrado el número de consumibles y paquetes o unidades producidas.
+
+f) Se han aplicado la normativa higiénico-sanitaria, las medidas de seguridad y prevención de riesgos laborales y ambientales asociados a las operaciones de embalaje.
+
+**Duración: 90 horas**.
+
+**Contenidos básicos:**
+
+Control y recepción de materias primas:
+
+– Materias primas. Clasificación.
+
+– Productos auxiliares principales utilizados en la industria alimentaria.
+
+– Recepción de mercancías en la industria alimentaria. Operaciones y comprobaciones generales.
+
+– Medición y cálculo de cantidades de las distintas materias primas.
+
+– Utillaje y equipos de control y valoración de materias primas. Puesta a punto y control.
+
+– Registros y anotaciones de materias primas recepcionadas.
+
+– Conservación de materias primas y materiales auxiliares.
+
+– Aditivos y medios estabilizadores.
+
+Preparación de materias primas y productos auxiliares:
+
+– Operaciones básicas de preparación de materias primas. Descripción.
+
+– Operaciones y equipos específicos. Resultados.
+
+– Maquinaria y equipos específicos: Puesta a punto y manejo.
+
+Preparación de materiales:
+
+– Funciones y efectos del envasado de los productos alimentarios.
+
+– Características y propiedades de los materiales utilizados para el envasado de productos alimentarios.
+
+– Principales tipos y modalidades de envasado de productos alimentarios.
+
+– Envases metálicos. Constitución y propiedades. Envases de vidrio y cerámica. Envases de papel y cartón. Propiedades. Bolsas, bandejas.
+
+– Materiales de acondicionamiento: Envolturas diversas. Productos y materiales de acompañamiento y presentación.
+
+– Recubrimiento.
+
+– Etiquetas, rotulación y elementos de identificación e información.
+
+Envasado y acondicionado de productos alimentarios:
+
+– Operaciones de envasado y acondicionado.
+
+– Formación del envase «in situ».
+
+– Manipulación y preparación de envases.
+
+– Tipos o sistemas de cerrado.
+
+– Procedimientos de acondicionado e identificación.
+
+– Operaciones de envasado, regulación y manejo.
+
+– Tipos básicos, principales compuestos y funcionamiento del envasado.
+
+– Equipos auxiliares.
+
+– Máquinas manuales de envasado y acondicionado.
+
+– Máquinas automáticas de envasado acondicionado.
+
+Empaquetado y embalaje de productos alimentarios:
+
+– Materiales de embalaje.
+
+– Manipulación y preparación de materiales de embalaje.
+
+– Procedimientos de empaquetado, retractilado, orientación y formación de lotes.
+
+– Rotulación e identificación de lotes.
+
+– Paletización y movimiento de palets.
+
+– Destino y ubicación de sobrantes y desechos de envasado, acondicionado y embalaje.
+
+– Líneas automatizadas integrales.
+
+– Máquinas de embalaje. Tipos básicos, principales compuestos y funcionamiento del embalaje. Equipos auxiliares de embalaje.
+
+– Mantenimiento elemental y puesta a punto.
+
+– Máquinas manuales de embalaje. Máquinas automáticas y robotizadas.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para realizar las funciones de control y recepción de materias primas y el envasado y empaquetado de los productos alimentarios.
+
+La definición de estas funciones incluye aspectos como:
+
+– La aplicación de técnicas básicas de preparación de materias primas.
+
+– La preparación de materiales y equipos de envasado y empaquetado.
+
+– Envasado y acondicionamiento de productos alimentarios.
+
+– Empaquetado y embalaje.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), i), j), t), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales a), b), g), s), t), u), v), w), x) e, y) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La recepción de mercancías.
+
+– Preparación de materias primas y auxiliares.
+
+– Modalidades y tipos de envasado.
+
+– Operaciones de envasado y acondicionamiento.
+
+– Operaciones de embalaje.
+
+– Retirada de residuos.
+
+– La detección de los defectos relacionados con el proceso.
+
+**Módulo Profesional: Itinerario personal para la empleabilidad.**
+
+**Código: 3159**
+
+Ámbito de Comunicación y Ciencias Sociales I y II;
+
+Ámbito de Ciencias Aplicadas I y II.
+
+> Téngase en cuenta que el código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación del módulo profesional 3159 figura como anexo III del Real Decreto 659/2023, de 18 de julio; y que el Ámbito de Comunicación y Ciencias Sociales I y II y el Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo, según establece el art. 6.Dos.a), c) y d) del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+**Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico**
+
+**Módulo Profesional: Proyecto intermodular de aprendizaje colaborativo.**
+
+**Código: 3160**
+
+Duración: 25 horas.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+
+Criterios de evaluación:
+
+a) Se ha elaborado conjuntamente un esquema que contemple el conjunto de las empresas tipo del sector.
+
+b) Se han constituido equipos de trabajo y se han distribuido entre los grupos las empresas que se analizarán.
+
+c) Se ha identificado para la empresa seleccionada los productos o servicios que ofrece.
+
+d) Se han relacionado los productos o servicios ofertados con la consecución de los ODS (Objetivos de Desarrollo Sostenible).
+
+e) Se ha realizado un diagrama de bloques de los posibles departamentos que conforman la empresa.
+
+f) Se han tenido en cuenta las áreas transversales y su relación con las demás.
+
+g) Se ha presentado al gran grupo la configuración de la empresa y productos que ofrece.
+
+h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
+
+i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
+
+2\. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado un producto/servicio de la empresa a estudio.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se han identificado las características del público objetivo al que está destinado.
+
+d) Se ha comparado el producto con otros de empresas similares.
+
+e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
+
+3\. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+
+Criterios de evaluación:
+
+a) Se ha planteado en el grupo el concepto de una empresa tipo «spin off», indicando sus ventajas e inconvenientes.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se ha propuesto una posible organización de la empresa, atendiendo a una estructura lineal o circular.
+
+d) Se han indicado que tecnologías se incluirían para aumentar su competitividad.
+
+e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
+
+4\. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+
+Criterios de evaluación:
+
+a) Se ha analizado la responsabilidad de la empresa y los trabajadores en la consecución de entornos de trabajo seguros.
+
+b) Se han identificado los sistemas de protección generales e individuales de cada unidad en función de las actividades a realizar.
+
+c) Se ha estimado el coste de los elementos de protección individual.
+
+d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
+
+5\. Transmite información con claridad de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+b) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+c) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+d) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.
+
+**4. Requisitos mínimos de calidad del contexto formativo.**
+
+**4.1 Espacios.**
+
+Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
+
+– Aula polivalente.
+
+– Taller de cocina.
+
+– Taller de panadería y pastelería.
+
+**4.2 Equipamientos mínimos.**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Aula polivalente.</td>
+<td>Ordenadores instalados en red, sistema de proyección e internet.</td>
+</tr>
+<tr>
+<td>Medios audiovisuales.</td>
+</tr>
+<tr>
+<td>Programas informáticos de aplicación.</td>
+</tr>
+<tr>
+<td rowspan="22">Taller de panadería y pastelería.</td>
+<td>Servicios auxiliares de agua y energía eléctrica.</td>
+</tr>
+<tr>
+<td>Suelos, paredes, techos, protección de ventanas y desagües según la normativa técnico-sanitaria vigente.</td>
+</tr>
+<tr>
+<td>Cámaras de refrigeración, congelación y fermentación.</td>
+</tr>
+<tr>
+<td>Vitrinas expositoras con sistema de refrigeración e iluminación.</td>
+</tr>
+<tr>
+<td>Mesas de trabajo de acero inoxidable.</td>
+</tr>
+<tr>
+<td>Mobiliario en acero inoxidable para la guarda del utillaje.</td>
+</tr>
+<tr>
+<td>Batidoras, amasadoras, divisoras, laminadoras, rellenadoras o inyectoras.</td>
+</tr>
+<tr>
+<td>Freidoras, hornos, baños maría y cazos eléctricos.</td>
+</tr>
+<tr>
+<td>Cocina con al menos dos focos de calor.</td>
+</tr>
+<tr>
+<td>Temperador de cobertura.</td>
+</tr>
+<tr>
+<td>Elaboradora de helados o mantecadora.</td>
+</tr>
+<tr>
+<td>Balanzas de precisión y básculas.</td>
+</tr>
+<tr>
+<td>Carros portalatas y su correspondiente juego de latas para hornear.</td>
+</tr>
+<tr>
+<td>Termómetros, cronómetros, pesajarabes o refractómetros, cepillos, pinceles, cuchillas, y otros útiles propios de la profesión.</td>
+</tr>
+<tr>
+<td>Utensilios para contener: cuencos, cubetas, bandejas, moldes.</td>
+</tr>
+<tr>
+<td>Utensilios para medir. Jarras medidoras.</td>
+</tr>
+<tr>
+<td>Utensilios para mezclar. Lenguas, espátulas...</td>
+</tr>
+<tr>
+<td>Utensilios para extender y cortar. Espátulas y cuchillos de diferente tamaño.</td>
+</tr>
+<tr>
+<td>Utensilios para escudillar. Juegos de boquillas para mangas pasteleras y mangas reutilizables y desechables.</td>
+</tr>
+<tr>
+<td>Aros, hilador de huevo, chinos, coladores, tamices, planchas quemadoras de azúcar (salamandra), arañas, cazos, mármol, moldes para bombones, tenedores de baño.</td>
+</tr>
+<tr>
+<td>Fregaderos y lavamanos.</td>
+</tr>
+<tr>
+<td>Batería de cocción.</td>
+</tr>
+<tr>
+<td rowspan="6">Taller de cocina.</td>
+<td>Economato-bodega.</td>
+</tr>
+<tr>
+<td>Almacén para material.</td>
+</tr>
+<tr>
+<td>Office.</td>
+</tr>
+<tr>
+<td>Cuarto de basura refrigerado.</td>
+</tr>
+<tr>
+<td>Vestuarios de alumnos, alumnas, profesores y profesoras con taquillas.</td>
+</tr>
+<tr>
+<td>Sanitarios.</td>
+</tr>
+</tbody>
+</table>
+
+**5. Profesorado.**
+
+**5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades de Panadería y Pastelería son:**
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>3007. Procesos de panadería.</p>
+<p>3017. Procesos de pastelería.</p>
+<p>3026. Dispensación en panadería y pastelería.</p>
+<p>3133. Operaciones auxiliares en la industria alimentaria.</p>
+</td>
+<td>– Cocina y pastelería.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Operaciones de procesos.</p>
+<p>– Operaciones y equipos de elaboración de productos alimentarios.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">3005. Atención al cliente.</td>
+<td>– Cocina y pastelería.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Procesos comerciales.</p>
+<p>– Operaciones de procesos.</p>
+<p>– Operaciones y equipos de elaboración de productos alimentarios.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">3160. Proyecto intermodular de aprendizaje colaborativo.</td>
+<td>– Cocina y pastelería.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Procesos comerciales.</p>
+<p>– Operaciones de procesos.</p>
+<p>– Operaciones y equipos de elaboración de productos alimentarios.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>3159. Itinerario personal para la empleabilidad.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**5.2 Requisitos para el profesorado**.
+
+1\. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+**6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.**
+
+<table>
+<thead>
+<tr>
+<th>Módulos profesionales superados</th>
+<th>Unidades de competencia acreditables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">3017. Procesos de pastelería.</td>
+<td>UC1333_1: Ejecutar operaciones básicas de aprovisionamiento interno y conservación de preelaboraciones y elaboraciones de pastelería.</td>
+</tr>
+<tr>
+<td>UC1334_1: Preelaborar, elaborar y presentar elaboraciones sencillas de pastelería y asistir en elaboraciones complejas.</td>
+</tr>
+<tr>
+<td>3005. Atención al cliente.</td>
+<td>UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente.</td>
+</tr>
+<tr>
+<td rowspan="2">3133. Operaciones auxiliares en la industria alimentaria.</td>
+<td>UC0543_1: Realizar tareas de apoyo a la recepción y preparación de las materias primas.</td>
+</tr>
+<tr>
+<td>UC0545_1: Manejar equipos e instalaciones para el envasado, acondicionado y empaquetado de productos alimentarios, siguiendo instrucciones de trabajo de carácter normalizado y dependiente.</td>
+</tr>
+</tbody>
+</table>
+
+**6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.**
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC1333_1: Ejecutar operaciones básicas de aprovisionamiento interno y conservación de preelaboraciones y elaboraciones de pastelería.<br>UC1334_1: Preelaborar, elaborar y presentar elaboraciones sencillas de pastelería y asistir en elaboraciones complejas. | 3017. Procesos de pastelería. |
+| UC1329_1: Proporcionar atención e información operativa, estructurada y protocolarizada al cliente. | 3005. Atención al cliente |
+| UC0543_1: Realizar tareas de apoyo a la recepción y preparación de las materias primas.<br>UC0545_1: Manejar equipos e instalaciones para el envasado, acondicionado y empaquetado de productos alimentarios, siguiendo instrucciones de trabajo de carácter normalizado y dependiente. | 3133. Operaciones auxiliares en la industria alimentaria. |
+
+> Se modifican los apartados 3.2, 3.3 y 5, se añade el apartado 6 bis y se suprime el apartado 7 por los arts. 5, 6, 8.Veintidós, Veintinueve y Treinta, 9.Veintidós y 10 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## ANEXO II — Título profesional básico en actividades domésticas y limpieza de edificios
+
+**1. Identificación del título.**
+
+El Título profesional básico en actividades domésticas y limpieza de edificios queda identificado por los siguientes elementos:
+
+– Denominación: Título profesional básico en actividades domésticas y limpieza de edificios.
+
+– Nivel: Formación Profesional Básica.
+
+– Duración: 2.000 horas.
+
+– Familia Profesional: Servicios socioculturales y a la comunidad.
+
+– Referente europeo: CINE-3.5.3 (Clasificación Internacional Normalizada de la Educación).
+
+**2. Perfil profesional.**
+
+**2.1 Competencia general del título.**
+
+La competencia general del título consiste en realizar actividades domésticas de limpieza, cocina, cuidado de ropa y apoyo a personas en el ámbito doméstico, así como realizar operaciones básicas de limpieza en edificios, oficinas y locales comerciales, siguiendo instrucciones y respetando la normas de calidad, observando las normas vigentes medioambientales y de seguridad e higiene en el trabajo, y comunicándose de forma oral y escrita en lengua castellana y ,en su caso, en la lengua cooficial propia así como en alguna lengua extranjera.
+
+**2.2 Competencias del título.**
+
+Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
+
+a) Limpiar, higienizar y desinfectar aseos, cocinas y estancias en domicilios particulares, y edificios, aplicando las técnicas y productos adecuados, según prescripciones de uso establecidas
+
+b) Organizar y, en su caso realiza, las actividades domésticas relacionadas con la elaboración de alimentos en domicilios particulares, conservando los productos adquiridos, manipulando, almacenando y cocinando en condiciones higiénicas saludables y según las instrucciones recibidas
+
+c) Lavar, planchar, ordenar y coser la ropa del hogar y prendas de vestir, garantizando su mantenimiento en las condiciones requeridas, utilizando productos y equipos específicos.
+
+d) Limpiar suelos, cristales, paredes y techos en domicilios, edificios, oficinas y locales, aplicando las técnicas requeridas y los productos asociados.
+
+e) Limpiar, encerar y abrillantar superficies en domicilios, edificios, oficinas y locales, utilizando maquinaria específica, bajo la supervisión del superior responsable.
+
+f) Realiza actividades de apoyo (limpieza corporal, vestido y traslado, entre otras) a niños y niñas y personas adultas no dependientes presentes en una unidad convivencial, según necesidades específicas e instrucciones recibidas, manteniendo una actitud de respeto y profesionalidad.
+
+g) Dar respuesta en el ámbito doméstico durante el desarrollo de su actividad profesional a situaciones de emergencia y riesgo para la salud.
+
+h) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+i) Actuar de forma saludable en distintos contextos cotidianos que favorezcan el desarrollo personal y social, analizando hábitos e influencias positivas para la salud humana.
+
+j) Valorar actuaciones encaminadas a la conservación del medio ambiente, diferenciando las consecuencias de las actividades cotidianas que puedan afectar al equilibrio del mismo.
+
+k) Obtener y comunicar información destinada al autoaprendizaje y a su uso en distintos contextos de su entorno personal, social o profesional mediante recursos a su alcance y los propios de las tecnologías de la información y de la comunicación.
+
+l) Actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas, apreciando su uso y disfrute como fuente de enriquecimiento personal y social.
+
+m) Comunicarse con claridad, precisión y fluidez en distintos contextos sociales o profesionales y por distintos medios, canales y soportes a su alcance, utilizando y adecuando recursos lingüísticos orales y escritos propios de la lengua castellana y, en su caso, de la lengua cooficial.
+
+n) Comunicarse en situaciones habituales tanto laborales como personales y sociales, utilizando recursos lingüísticos básicos en lengua extranjera.
+
+ñ) Realizar explicaciones sencillas sobre acontecimientos y fenómenos característicos de las sociedades contemporáneas a partir de información histórica y geográfica a su disposición.
+
+o) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en su actividad laboral, utilizando las ofertas formativas a su alcance y localizando los recursos mediante las tecnologías de la información y la comunicación.
+
+p) Cumplir las tareas propias de su nivel con autonomía y responsabilidad, empleando criterios de calidad y eficiencia en el trabajo asignado y efectuándolo de forma individual o como miembro de un equipo.
+
+q) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en su ámbito de trabajo, contribuyendo a la calidad del trabajo realizado.
+
+r) Asumir y cumplir las medidas de prevención de riesgos y seguridad laboral en la realización de las actividades laborales, evitando daños personales, laborales y ambientales.
+
+s) Cumplir las normas de calidad, de accesibilidad universal y diseño para todos que afectan a su actividad profesional.
+
+t) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la elección de los procedimientos de su actividad profesional.
+
+u) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+**2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.**
+
+2.3.1 Cualificaciones profesionales completas:
+
+a) Empleo doméstico: SSC413_1 (Real Decreto 1179/2008, de 11 de julio, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de diecisiete cualificaciones profesionales de nivel 1, correspondientes a determinadas familias profesionales), que comprende las siguientes unidades de competencia:
+
+UC1332_1: Efectuar el proceso de lavado, planchado y cosido básico manual de prendas de vestir y ropa de hogar, y la preparación de camas, en domicilio particular.
+
+UC1330_1: Realizar la limpieza de domicilios particulares, en domicilio particular.
+
+UC1331_1: Realizar el proceso de elaboración de alimentos en sus fases de compra, organización, manipulación, cocinado y conservación, en domicilio particular.
+
+b) Limpieza de superficies y mobiliario en edificios y locales: SSC319_1 (Real Decreto 1368/2007, de 19 de octubre, por el que se complementa el Catálogo Nacional de Cualificaciones Profesionales, mediante el establecimiento de seis cualificaciones profesionales de la familia profesional servicios socioculturales y a la comunidad), que comprende las siguientes unidades de competencia:
+
+UC1087_1: Realizar la limpieza de cristales en edificios y locales.
+
+UC0996_1: Llevar a cabo la limpieza del mobiliario ubicado en el interior de los espacios a intervenir.
+
+UC1088_1: Realizar la limpieza y tratamiento de superficies en edificios y locales utilizando maquinaria.
+
+UC0972_1: Realizar la limpieza de suelos, paredes y techos en edificios y locales.
+
+2.3.2 Cualificación profesional incompleta:
+
+Operaciones básicas de cocina: HOT091_1 (Real Decreto 295/2004, de 20 de febrero, por el que se establecen determinadas cualificaciones profesionales que se incluyen en el Catálogo nacional de cualificaciones profesionales, así como sus correspondientes módulos formativos que se incorporan al Catálogo modular de formación profesional):
+
+UC0255_1: Ejecutar operaciones básicas de aprovisionamiento, preelaboración y conservación culinarios.
+
+**2.4 Entorno profesional.**
+
+2.4.1 Este profesional ejerce su actividad por cuenta ajena en domicilios particulares y en empresas públicas o privadas de cualquier tamaño. Además, puede desarrollar su actividad profesional en el sector de la limpieza e higienización de toda clase de edificios, locales, centros o instituciones sanitarias y de salud, públicos o privados, industrias, elementos de transporte (terrestre, aéreo, marítimo), máquinas, espacios e instalaciones, soportes publicitarios y mobiliario urbano. Desempeña sus funciones siguiendo instrucciones recibidas y bajo la supervisión directa de un responsable, pudiendo trabajar de forma autónoma o integrarse en un equipo de trabajo.
+
+2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+– Limpiador/a doméstico/a.
+
+– Cocinero/a doméstico/a.
+
+– Planchador/a doméstico/a.
+
+– Empleado/a de hogar.
+
+– Limpiador/a.
+
+– Peón especialista de limpieza.
+
+– Especialista de limpieza.
+
+– Limpiador/a de cristales.
+
+**2.5 Prospectiva del sector o de los sectores relacionados con el título.**
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) Los hábitos de vida derivados de la inserción laboral de los distintos miembros de las unidades convivenciales propiciarán un aumento de personas que prestan actividades de soporte en el ámbito doméstico, incluyendo el apoyo a personas adultas no dependientes y niños y niñas. Dicha situación favorece una mayor empleabilidad de este técnico básico, requiriendo profesionales con mayor competencia y versatilidad en la realización de actividades domésticas y en empresas de contratas de limpieza.
+
+b) La progresiva implantación de las nuevas tecnologías y la creciente complejidad de los electrodomésticos y de la maquinaria industrial de limpieza, hace necesaria una actualización permanente en este campo, para adaptarse a los cambios que se vayan introduciendo, requiriéndose personas con capacidad de aprendizaje, organización de su propio trabajo, un elevado nivel de discreción, responsabilidad y manejo seguro de instalaciones y equipos.
+
+c) El fuerte crecimiento del sector servicios y la vinculación de este profesional básico con el sector hotelero, lavanderías, residencias de estudiantes, residencias de la tercera edad, centros de día, albergues, apartamentos turísticos u hospitales, entre otros, aumentan sus posibilidades de inserción laboral.
+
+**3. Enseñanzas del ciclo formativo.**
+
+**3.1 Objetivos generales del título.**
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Aplicar técnicas de limpieza de mobiliario y desinfección de aseos, cocinas y estancias, seleccionando el procedimiento requerido y utilizando los recursos necesarios según prescripciones establecidas para los productos empleados.
+
+b) Preparar y elaborar platos de comida casera más habituales, utilizando técnicas básicas de cocinado e utilizando recetas culinarias y aplicando normas de higiene.
+
+c) Lavar, planchar y coser a mano ropa de hogar y prendas de vestir, seleccionando y aplicando la técnica requerida en función de su naturaleza, características, tipo y estado para conservarlas en condiciones de buen uso.
+
+d) Aplicar técnicas de limpieza de suelos, cristales y paramentos de materiales diversos, utilizando los productos requeridos, según recomendaciones de uso para evitar riesgos a sí mismo y a otras personas.
+
+e) Aplicar técnicas industriales de limpiezas y tratamiento de superficies, utilizando las principales máquinas específicas, siguiendo las prescripciones establecidas en el uso de los distintos productos empleados y manuales de conservación y mantenimiento
+
+f) Realizar, de forma simulada, actividades de acompañamiento en el cuidado de niños y personas adultas no dependientes, describiendo valorando las actividades según necesidades cotidianas o puntuales de una unidad convivencial y el tipo de servicio a desempeñar.
+
+g) Describir los procedimientos para la solicitud de ayuda o los protocolos establecidos y, en su caso, realizar operaciones sencillas de soporte vital básico, describiendo los aspectos a considerar en la comunicación de las incidencias detectadas,
+
+h) Comprender los fenómenos que acontecen en el entorno natural mediante el conocimiento científico como un saber integrado, así como conocer y aplicar los métodos para identificar y resolver problemas básicos en los diversos campos del conocimiento y de la experiencia.
+
+i) Desarrollar habilidades para formular, plantear, interpretar y resolver problemas aplicar el razonamiento de cálculo matemático para desenvolverse en la sociedad, en el entorno laboral y gestionar sus recursos económicos.
+
+j) Identificar y comprender los aspectos básicos de funcionamiento del cuerpo humano y ponerlos en relación con la salud individual y colectiva y valorar la higiene y la salud para permitir el desarrollo y afianzamiento de hábitos saludables de vida en función del entorno en el que se encuentra.
+
+k) Desarrollar hábitos y valores acordes con la conservación y sostenibilidad del patrimonio natural, comprendiendo la interacción entre los seres vivos y el medio natural para valorar las consecuencias que se derivan de la acción humana sobre el equilibrio medioambiental.
+
+l) Desarrollar las destrezas básicas de las fuentes de información utilizando con sentido crítico las tecnologías de la información y de la comunicación para obtener y comunicar información en el entorno personal, social o profesional.
+
+m) Reconocer características básicas de producciones culturales y artísticas, aplicando técnicas análisis básico de sus elementos para actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas.
+
+n) Desarrollar y afianzar habilidades y destrezas lingüísticas y alcanzar el nivel de precisión, claridad y fluidez requeridas, utilizando los conocimientos sobre la lengua castellana y, en su caso, la lengua cooficial para comunicarse en su entorno social, en su vida cotidiana y en la actividad laboral.
+
+ñ) Desarrollar habilidades lingüísticas básicas en lengua extranjera para comunicarse de forma oral y escrita en situaciones habituales y predecibles de la vida cotidiana y profesional.
+
+o) Reconocer causas y rasgos propios de fenómenos y acontecimientos contemporáneos, evolución histórica, distribución geográfica para explicar las características propias de las sociedades contemporáneas.
+
+p) Desarrollar valores y hábitos de comportamiento basados en principios democráticos, aplicándolos en sus relaciones sociales habituales y en la resolución pacífica de los conflictos.
+
+q) Comparar y seleccionar recursos y ofertas formativas existentes para el aprendizaje a lo largo de la vida para adaptarse a las nuevas situaciones laborales y personales.
+
+r) Desarrollar la iniciativa, la creatividad y el espíritu emprendedor, así como la confianza en sí mismo, la participación y el espíritu crítico para resolver situaciones e incidencias tanto de la actividad profesional como de la personal.
+
+s) Desarrollar trabajos en equipo, asumiendo sus deberes, respetando a los demás y cooperando con ellos, actuando con tolerancia y respeto a los demás para la realización eficaz de las tareas y como medio de desarrollo personal.
+
+t) Utilizar las tecnologías de la información y de la comunicación para informarse, comunicarse, aprender y facilitarse las tareas laborales.
+
+u) Relacionar los riesgos laborales y ambientales con la actividad laboral con el propósito de utilizar las medidas preventivas correspondientes para la protección personal, evitando daños a las demás personas y en el medio ambiente.
+
+v) Desarrollar las técnicas de su actividad profesional asegurando la eficacia y la calidad en su trabajo, proponiendo, si procede, mejoras en las actividades de trabajo.
+
+w) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+**3.2 Módulos profesionales.**
+
+3.2.1 Los módulos profesionales, proyecto intermodular de aprendizaje colaborativo y ámbitos son los que a continuación se relacionan:
+
+3098\. Mantenimiento de prendas de vestir y ropa de hogar.
+
+3102\. Cocina doméstica.
+
+3104\. Limpieza de domicilios particulares, edificios, oficinas y locales.
+
+3116\. Limpieza con máquinas.
+
+3145\. Actividades de apoyo a personas no dependientes en la unidad convivencial.
+
+3146\. Seguridad en el ámbito doméstico.
+
+3159\. Itinerario personal para la empleabilidad;
+
+Ámbito de Comunicación y Ciencias Sociales;
+
+Ámbito de Ciencias Aplicadas.
+
+3160\. Proyecto intermodular de aprendizaje colaborativo y Tutoría.
+
+3.2.2 Otras especificaciones:
+
+1\. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+2\. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+3\. De acuerdo con lo establecido en el artículo 85 del Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+
+4\. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el título IV del Real Decreto 659/2023, de 18 de julio.
+
+5\. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.
+
+**3.3 Desarrollo de los módulos.**
+
+**Módulo Profesional: Mantenimiento de prendas de vestir y ropa de hogar.**
+
+**Código: 3098**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Lava prendas de vestir y ropa de hogar utilizando medios mecánicos o de forma manual aplicando los procedimientos adecuados y siguiendo instrucciones de los fabricantes.
+
+Criterios de evaluación:
+
+a) Se han clasificado y organizado las prendas textiles por lotes para su lavado a mano o a máquina, atendiendo a criterios de hábitos y uso doméstico y personal, estado de limpieza de cada prenda y procedimiento de lavado a utilizar e interpretando las instrucciones del fabricante sobre color y tejido.
+
+b) Se ha seleccionado el programa de lavado y centrifugado mecánico adecuado a cada lote de ropa, interpretando el manual de uso del electrodoméstico empleado.
+
+c) Se ha realizado la dosificación de los productos de lavado (detergentes, suavizantes, acondicionadores u otros), en las proporciones indicadas por el fabricante y según requerimientos del programa seleccionado.
+
+d) Se ha realizado el lavado a mano de las prendas que lo requieren, utilizando los procedimientos y productos requeridos por el tipo de prenda.
+
+e) Se han aplicado medidas de rectificación del lavado, relacionando el estado esperado y el resultado obtenido, según tipo de prenda y procedimiento de lavado aplicado.
+
+f) Se han aplicado los procedimientos de mantenimiento a nivel de usuario para garantizar el funcionamiento de la lavadora y la conservación de las prendas textiles, revisando tomas y salidas de agua, tambores, filtros y otros elementos, según las instrucciones del fabricante.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales relacionadas con el uso de la lavadora y productos empleados.
+
+2\. Seca prendas de vestir y ropa de hogar utilizando medios mecánicos o tradicionales, justificando los procedimientos requeridos e instrucciones del fabricante.
+
+Criterios de evaluación:
+
+a) Se han clasificado y organizado las prendas textiles para su secado, atendiendo a las características del tejido, según recomendaciones del fabricante.
+
+b) Se ha seleccionado el programa de secado adecuado a cada lote de ropa, valorando criterios de velocidad, tiempo y grado de humedad requeridos, según el manual de uso del electrodoméstico empleado.
+
+c) Se han escurrido prendas y dosificado los productos utilizados en el secado (protectores del color, suavizantes, entre otros), según el programa seleccionado y en las proporciones indicadas por el fabricante.
+
+d) Se han aplicado los procedimientos de mantenimiento de usuario para garantizar el funcionamiento de la secadora y la conservación de las prendas textiles, revisando salidas de agua, tambores, filtros y otros elementos, según las instrucciones del fabricante.
+
+e) Se ha realizado el tendido manual en los espacios indicados, según condiciones de ventilación y exposición a las fuentes de calor, aplicando procedimientos adecuados para mantener la integridad de los tejidos.
+
+f) Se han aplicado las medidas de prevención en el secado de prendas, según el tipo de procedimiento y, en su caso, máquina empleada, valorando rutinas desarrolladas y daños evitados.
+
+3\. Plancha prendas de vestir y ropa de hogar utilizando medios mecánicos o manuales, garantizando la conservación e higiene de las prendas y aplicando procedimientos adecuados, según las instrucciones del fabricante.
+
+Criterios de evaluación:
+
+a) Se han clasificado y organizado por lotes las prendas textiles para su planchado, atendiendo a las características del tejido, según recomendaciones del fabricante.
+
+b) Se ha seleccionado el programa de planchado adecuado a cada lote de ropa, valorando criterios de tiempo, temperatura y cantidad de vapor requeridos, según el manual de uso del electrodoméstico empleado.
+
+c) Se han aplicado los procedimientos de mantenimiento a nivel de usuario para garantizar el funcionamiento del electrodoméstico de planchado, según las instrucciones del fabricante.
+
+d) Se han aplicado las medidas complementarias (aplicación de protectores, posicionamiento de la prenda, productos de acondicionamiento, entre otros) y de rectificación del planchado, valorando resultados obtenidos y resultados esperados.
+
+e) Se han aplicado las medidas de prevención postural y seguridad en el planchado de prendas, según el tipo de procedimiento y, en su caso, máquina empleada, valorando rutinas desarrolladas y daños evitados.
+
+f) Se han preparado y ordenado las prendas para su conservación en los espacios adecuados, valorando el procedimiento y los productos requeridos para garantizar el mantenimiento de las prendas.
+
+4\. Realiza arreglos básicos en prendas de vestir y ropa de hogar, seleccionando los útiles en función del tejido y necesidad de las prendas, para lograr su reparación y aspecto apropiado.
+
+Criterios de evaluación:
+
+a) Se ha comprobado el estado de la ropa, valorando, en su caso, los arreglos que es preciso realizar (agujeros, desgarros, corchetes y/o botones desprendidos, dobladillos deshechos y costuras que se abren, entre otros).
+
+b) Se ha seleccionado la técnica requerida de acuerdo al tipo de tejido, prenda y la necesidad identificada, valorando el resultado esperado según criterios de uso y estéticos.
+
+c) Se han relacionado los útiles y herramientas con las técnicas de empleadas, en función la intervención a realizar y de las necesidades de arreglo que pueden presentar.
+
+d) Se han aplicado las técnicas de arreglos básicos, identificando las posibles dificultades y riesgos asociados en su utilización.
+
+e) Se ha mantenido ordenado el costurero y se ha descrito lo elementos que contiene, identificando los lugares para guardar los útiles, herramientas y materiales.
+
+5\. Ordena la ropa en el espacio asignado y organiza estancias aplicando criterios de temporalidad y estacionalidad, facilitando su conservación y uso, así como valorando criterios de descanso, limpieza y orden.
+
+Criterios de evaluación:
+
+a) Se han identificado los ritmos y usos de cambio de ropa y tratamiento de los útiles de descanso (volteo, relleno de almohadas, colocación de cobertores, entre otros), según hábitos de la unidad convivencial o empresa.
+
+b) Se han establecido distintas programaciones para el cambio de ropa de cama y tratamiento de los útiles de descanso, garantizando la higiene, según los usos identificados y protocolos establecidos.
+
+c) Se ha seleccionado la ropa de cama, de acuerdo con las instrucciones recibidas, considerando el tipo de cama, la temperatura y las preferencias personales.
+
+d) Se han realizado las tareas previas a hacer la cama, tales como ventilación de la estancia, aireación de las prendas y comprobación del estado del colchón.
+
+e) Se ha realizado el procedimiento convencional de hacer las camas, valorando la forma de colocación de la ropa y de los complementos utilizados y evitando deficiencias estéticas.
+
+f) Se han aplicado las medidas de prevención durante la tarea de hacer la cama, valorando rutinas desarrolladas y daños evitados, según tipo de cama y ropa empleada.
+
+**Duración: 125 horas.**
+
+**Contenidos básicos:**
+
+Técnicas de lavado de prendas de vestir y ropa de hogar:
+
+– Clasificación y separación de la ropa para el lavado.
+
+– Recogida de ropa de hogar y prendas de vestir.
+
+– Características: fibras, colores, grado de suciedad, tamaño.
+
+– Interpretación del etiquetaje de la ropa.
+
+– Tratamientos especiales.
+
+– Revisión de las prendas antes del lavado.
+
+– Proceso de lavado manual de ropa de hogar y prendas de vestir.
+
+– Proceso de lavado automático de ropa de hogar y prendas de vestir
+
+– Máquinas de lavado: características y normas de uso.
+
+– Mantenimiento básico la lavadora y la lavadora-secadora.
+
+– Aplicación de productos específicos de lavado y desmanchado.
+
+– Dosificación de productos específicos de lavado y desmanchado.
+
+– Procedimientos específicos de desmanchado.
+
+– Normas de seguridad e impacto ambiental del lavado de ropa.
+
+Técnicas de secado de prendas de vestir y ropa de hogar:
+
+– Fases del proceso de secado.
+
+– Técnica de tendido y recogida de la ropa.
+
+– Tipología de electrodomésticos: secadora y lavadora-secadora.
+
+– Utilización de la secadora y la lavadora-secadora.
+
+– Interpretación de etiquetaje de la ropa.
+
+– Normas de seguridad y de minimización de energía en el secado.
+
+– Mantenimiento de primer nivel, prevención y actuación ante incidentes más comunes en este tipo de máquinas.
+
+Procedimientos de planchado de ropa:
+
+– Proceso de planchado.
+
+– Técnicas de planchado manual y con máquina.
+
+– Proceso de colocación en espacios habilitados.
+
+– Normas de seguridad y de minimización de energía en el planchado.
+
+– Mantenimiento de primer nivel, prevención y actuación ante incidentes más comunes en este tipo de máquinas.
+
+Técnicas básicas de costura y de prendas de vestir y ropa de hogar:
+
+– Selección de técnicas de cosido: tipos y características de tejidos.
+
+– Materiales de costura.
+
+– Técnicas básicas de costura a mano y a máquina.
+
+– Ordenación del costurero.
+
+– Hilvanar, rematar, meter el bajo, coser botones, entre otras.
+
+Ordena la ropa en el espacio asignado y organiza estancias.
+
+– Valoración, planificación y tratamiento de útiles de descanso.
+
+– Valoración, planificación y realización de rutinas en el cambio de ropa de cama.
+
+– Elementos que componen una cama.
+
+– Tipos de ropa de cama.
+
+– Prevención de riesgos ergonómicos en la realización de camas.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función del mantenimiento de prendas de vestir y ropa del hogar.
+
+La definición de esta función incluye aspectos como:
+
+– La preparación de equipos de lavado, secado, planchado.
+
+– La utilización de técnicas de lavado, secado, planchado.
+
+– El arreglo y reparación de prendas de vestir y ropa del hogar, mediante técnicas de costura básicas.
+
+– El mantenimiento de prendas de vestir y ropa del hogar, su higiene y desinfección.
+
+– La prevención de riesgos asociados a las actividades domésticas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales c), g), l), n), p), q), r), s), t), u), v) y w) del ciclo formativo, y las competencias profesionales, personales y sociales, c), g), h), i), j), l), ñ), o), p), q), r), s) y t) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La clasificación de prendas de vestir y ropa del hogar según sus características para lavado, secado y planchado.
+
+– La utilización de productos y útiles para el lavado y planchado.
+
+– La utilización de equipos específicos de lavado, secado y planchado.
+
+– Las técnicas básicas de costura.
+
+– Normas de prevención de riesgos laborales asociados a las actividades domésticas.
+
+– Normas de prevención medioambientales.
+
+**Módulo Profesional: Cocina doméstica.**
+
+**Código: 3102**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Elabora listas para la compra de alimentos, entre otros, según presupuesto establecido, garantizando la reposición y adecuándolas a características de la unidad convivencial y respetando las normas de consumo (caducidad, límite de consumo o conservación, entre otras).
+
+Criterios de evaluación:
+
+a) Se han identificado las materias primas alimentarias de uso común en la cocina, describiendo las principales variedades y cualidades.
+
+b) Se ha comprobado las existencias de alimentos y productos necesarios en la despensa, determinando las necesidades de reposición.
+
+c) Se ha establecido un programa de revisión y reposición de productos, a partir de los hábitos de consumo del entorno familiar.
+
+d) Se ha determinado el tipo de establecimiento más adecuado para realizar la compra conforme a la lista y a las instrucciones recibidas.
+
+e) Se ha interpretado las características e información de las etiquetas de los productos que forman parte de una lista de compra.
+
+f) Se ha comprobado la fecha de caducidad de las materias primas y productos comprados.
+
+g) Se ha realizado la compra de los alimentos y productos previstos, indicando las posibilidades de transporte de los mismos en condiciones de seguridad.
+
+h) Se han descrito la organización de la compra en el transporte de los productos, aplicando métodos de conservación, entre otros.
+
+i) Se han identificado los riesgos asociados al traslado de las compras desde el establecimiento al domicilio, aplicando las medidas de prevención correspondientes.
+
+2\. Realiza operaciones de almacenamiento de alimentos y otros productos de uso domiciliario, justificando los medios utilizados en la preservación y conservación de los mismos en condiciones de higiene y buen uso.
+
+Criterios de evaluación:
+
+a) Se han clasificado los productos, atendiendo al tipo de actuación requerida para su almacenaje y conservación.
+
+b) Se ha descrito el procedimiento de manipulación de alimentos para su almacenaje y conservación, extremando las medidas de higiene.
+
+c) Se han aplicado métodos sencillos de conservación y envasado de géneros crudos, semielaborados y elaboraciones culinarias terminadas de uso común.
+
+d) Se ha descrito el procedimiento de congelación de productos crudos, semielaborados y de elaboraciones culinarias.
+
+e) Se han aplicado procedimientos de congelación en productos crudos, semielaborados y de elaboraciones culinarias.
+
+f) Se han identificado los espacios para la colocación y almacenaje de los productos, en función de sus características y necesidades.
+
+g) Se han aplicado procedimientos higiénicos para la prevención de riesgos en el almacenamiento y conservación de productos de alimentos y otros productos de uso domiciliario.
+
+3\. Realiza operaciones de preelaboración de los productos culinarios más comunes en las elaboraciones culinarias que se vayan a realizar, valorando criterios de consumo y caducidad a partir de un plan actuación.
+
+Criterios de evaluación:
+
+a) Se han descrito las características de los productos, de los cortes o piezas más usuales utilizadas en preelaboración y se han relacionado con los procedimientos culinarios más comunes.
+
+b) Se han descrito los criterios aplicables para obtener el máximo provecho de las materias primas utilizadas en la preelaboración para evitar costes y desgastes innecesarios.
+
+c) Se han descrito los principales procedimientos de regeneración que precisan las materias primas de uso más común para su posterior preelaboración.
+
+d) Se han descrito los procedimientos que se aplican a los ingredientes que forman parte de la elaboración, previo al cocinado, (lavado, descongelado, cortado u otros)
+
+e) Se ha aplicado el tratamiento requerido para limpiar fruta, verduras o las latas antes de abrir para asegurar la inocuidad.
+
+f) Se han seleccionado y utilizado los útiles, herramientas y equipos de trabajo conforme a las instrucciones recibidas y actividad a realizar.
+
+g) Se ha realizado el mantenimiento a nivel de usuario para garantizar el funcionamiento de las herramientas y los equipos utilizados, de acuerdo con las instrucciones del fabricante.
+
+h) Se han identificado los riesgos asociados al uso de útiles, herramientas y equipos de trabajo, aplicando las medidas de prevención correspondientes.
+
+i) Se han aplicado las normas básicas de higiene para la prevención de riesgos sanitarios en las operaciones de preelaboración de alimentos.
+
+4\. Elabora menús sencillos, aplicando las técnicas domésticas de cocina y siguiendo el plan de actuación establecido en función de las características de los destinatarios.
+
+Criterios de evaluación:
+
+a) Se han tenido en cuenta las características y necesidades de los comensales.
+
+b) Se han descrito la elaboración de las recetas de cocina más habituales, relacionando las cantidades de los ingredientes y tiempo a utilizar con del número de comensales.
+
+c) Se ha identificado y descrito las características del menaje, los utensilios y electrodomésticos que se utilizan en la elaboración de menús.
+
+d) Se han utilizado los equipos, máquinas y herramientas básicas de cocina, relacionando los útiles adecuados con tipo de elaboración culinaria.
+
+e) Se han seleccionado y utilizado las principales técnicas de cocina doméstica como asar, cocer, freír, pelar, picar, entre otras, en relación con el tipo de comida a realizar.
+
+f) Se han realizado las principales técnicas de cocina doméstica, siguiendo las instrucciones incluidas en la receta a elaborar.
+
+g) Se han aplicado las normas de conservación de la comida preparada, de acuerdo al plan de trabajo.
+
+h) Se han aplicado las normas básicas de higiene para la prevención de riesgos sanitarios en las técnicas domésticas de cocina.
+
+5\. Realiza la limpieza de la vajilla, utensilios y electrodomésticos, cocina y zona de trabajo, aplicando criterios de eficacia y organización, siguiendo el plan de actuación trabajo.
+
+Criterios de evaluación:
+
+a) Se ha clasificado la vajilla y de los utensilios utilizados en la preparación, cocinado, conservación y consumo de alimentos seleccionado el procedimiento para su la limpieza.
+
+b) Se han realizado de operaciones de lavado a mano siguiendo la secuencia de orden adecuada y aplicando los productos eficazmente.
+
+c) Se ha ordenado la vajilla y utensilios en los departamentos del lavavajilla ocupando racionalmente todo el espacio, seleccionado el programa y garantizando el uso racional del agua.
+
+d) Se han clasificado los residuos domésticos generados, de acuerdo a la normativa medioambiental vigente, para su eliminación.
+
+e) Se han ordenado y clasificado la vajilla y utensilios limpios y ubicarlos en el lugar apropiado.
+
+f) Se ha elegido el método de limpieza del espacio y electrodomésticos en función de las características de dicho espacio.
+
+g) Se han identificado los riesgos asociados limpieza de la cocina y electrodomésticos, aplicando las medidas de prevención correspondientes.
+
+h) Se han identificado los posibles riesgos asociados a la limpieza de la cocina y electrodomésticos utilizados, indicando las actuaciones preventivas a llevar a cabo.
+
+6\. Identifica y previene riesgos de toxiinfecciones alimentarias en las operaciones de manipulación de alimentos y preparación de comidas, aplicando las normas básicas y las condiciones higiénico-sanitarias relacionadas con la cocina doméstica.
+
+Criterios de evaluación:
+
+a) Se han aplicado normas de higiene personal.
+
+b) Se han aplicado las normas higiénico-sanitarias, relacionadas con instalaciones, locales, utillaje y manipulación de alimentos.
+
+c) Se han aplicado las normas higiénico-sanitarias, relacionadas con la salubridad del agua.
+
+d) Se ha interpretado el etiquetado de productos y útiles de limpieza más comunes utilizados en la cocina doméstica para garantizar la higiene.
+
+e) Se han identificado los principales productos y útiles de limpieza autorizados y adecuados, teniendo en cuenta su finalidad.
+
+f) Se ha realizado la eliminación adecuada de los desechos sólidos para evitar la transmisión de enfermedades.
+
+g) Se ha realizado la eliminación de las aguas superficiales a través de desagües.
+
+h) Se han descrito las toxiinfecciones alimentarias más comunes, identificando sus posibles causas.
+
+i) Se han identificado los riesgos asociados a las principales toxiinfecciones alimentarias.
+
+j) Se han descritos los graves efectos provocados por las principales toxiinfecciones por incumplimiento de la normativa higiénico sanitaria alimentaria.
+
+**Duración: 160 horas.**
+
+**Contenidos básicos:**
+
+Procedimiento de compra de alimentos y productos para el domicilio:
+
+– Proceso de elaboración de la lista de la compra.
+
+– Proceso de selección de establecimientos.
+
+– Ofertas.
+
+– Selección de productos.
+
+– Fecha de caducidad de los productos de uso común en la cocina doméstica.
+
+– Salud postural. Técnicas de transporte de cargas.
+
+Realización de operaciones de almacenamiento de alimentos y otros productos de uso domiciliario:
+
+– Separación de los productos según característica.
+
+– Procedimiento de manipulación de alimentos para su almacenaje y conservación.
+
+– Métodos sencillos de conservación y envasado de alimentos.
+
+– Procedimiento de congelación.
+
+– Procedimientos higiénicos para la prevención de riesgos en el almacenamiento y conservación.
+
+Realización de operaciones de preelaboración de productos culinarios:
+
+– Procedimientos previos al cocinado.
+
+– Limpieza y preparaciones previas al lavado y corte de fruta y verdura.
+
+– Procedimientos de ejecución de cortes básicos a géneros de cocina.
+
+– Operaciones básicas. Elementos.
+
+– Medidas de prevención de riesgos de laborales.
+
+Aplicación de técnicas domésticas de cocina:
+
+– Técnicas de cocción.
+
+– Procedimientos de ejecución de las diferentes técnicas.
+
+– Medidas de prevención de riesgos laborales.
+
+– Descripción y clasificación de la batería, útiles y herramientas de cocina
+
+– Recetas, fichas técnicas, entre otros.
+
+– Interpretación y ejecución de las instrucciones recibidas.
+
+– Aplicación de normas mínimas de higiene en cualquier proceso de elaboración o manipulación de alimentos.
+
+Aplicación de procedimientos de limpieza de la vajilla, utensilios y electrodomésticos, cocina y zona de trabajo:
+
+– Procedimientos de limpieza e higienización de superficies.
+
+– Técnicas de limpieza en electrodomésticos: limpieza y secado.
+
+– Técnicas de limpieza de vajilla y útiles, procesos manuales o automáticos.
+
+– Aplicación de productos y útiles de limpieza.
+
+– Prevención de riesgos laborales.
+
+Riesgos de toxiinfecciones alimentarias en las operaciones culinarias:
+
+– Normas de higiene personal.
+
+– Eliminación de residuos sólidos.
+
+– Eliminación de aguas superficiales.
+
+– Toxiinfecciones alimentarias más comunes.
+
+– Limpieza y desinfección.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de la cocina doméstica, así como para desempeñar funciones de realizar la compra, la preparación del lugar de trabajo y las tareas relacionadas con las preelaboraciones y regeneración de alimentos en cocina.
+
+La definición de esta función incluye aspectos como:
+
+– La compra y reposición de alimentos para la realización de menús sencillos.
+
+– La preparación de equipos específicos para la cocina doméstica.
+
+– La utilización de técnicas de cocina doméstica.
+
+– La utilización de aplicaciones de normas higiénico sanitarias para la elaboración de alimentos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), l), n), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias profesionales, personales y sociales b), i), j), l), ñ), o), p), q), r), s) y t) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– Las fases de realización de la compra y de conservación de las materias primas.
+
+– Las fases de preelaboración de materias primas en cocina, incluyendo los tratamientos básicos de la misma.
+
+– La utilización de técnicas de cocina y de conservación de productos cocinados.
+
+– La utilización de equipos específicos para la cocina doméstica.
+
+– La valoración de los menús según el número y requisitos alimenticios específicos de los comensales (alergias, niños, personas mayores, dietas).
+
+– La interpretación y ejecución de las instrucciones recibidas.
+
+**Módulo Profesional: Limpieza de domicilios particulares, edificios, oficinas y locales.**
+
+**Código: 3104**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Identifica los factores que afectan a los procedimientos de limpieza domiciliaria, describiendo las posibles acciones a realizar en función cada espacio y características y circunstancias del mismo.
+
+Criterios de evaluación:
+
+a) Se han descrito los principales procedimientos de limpieza atendiendo a las características de la estancia en función del uso y de las personas que la utilizan.
+
+b) Se ha descrito la utilización responsable del agua y energía durante la limpieza de domicilios particulares.
+
+c) Se ha descrito la importancia de la ventilación de los espacios, teniendo en cuenta el tiempo y las condiciones meteorológicas.
+
+d) Se han descrito las principales propiedades, funciones y modos de aplicación de productos de limpieza en función de los procedimientos de limpieza.
+
+e) Se ha interpretado la información del etiquetado y ficha técnica de los productos de limpieza y condiciones de manipulación.
+
+f) Se ha descrito la importancia de aplicar las normas básicas de prevención de riesgos laborales en la utilización de los productos y equipos asociados a la limpieza de domicilios.
+
+2\. Realiza la limpieza de mobiliario y objetos, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+
+Criterios de evaluación:
+
+a) Se han descrito los factores que condicionan la limpieza de domicilios particulares, edificios, oficinas y locales a limpiar, reconociendo los materiales que lo configuran.
+
+b) Se han identificado los materiales y el tipo de mobiliario ubicado en el interior de los espacios a limpiar, describiendo sus características y cuidados a observar durante la limpieza.
+
+c) Se ha descrito la secuencia lógica de las actividades, medios a emplear, productos y el tiempo estimado de ejecución.
+
+d) Se han clasificado los útiles y productos de limpieza, de acuerdo con el tipo de mobiliario y objetos que se tienen que limpiar.
+
+e) Se han realizado las tareas previas a la limpieza, preparando las condiciones necesarias de ventilación y ejecución.
+
+f) Se ha procedido a la limpieza de muebles y objetos decorativos más habituales en el domicilio, seleccionando procedimientos, útiles y productos necesarios de acuerdo con los requerimientos e instrucciones recibidas.
+
+g) Se ha realizado una limpieza utilizando los productos requeridos para garantizar el mantenimiento de las cualidades de mobiliario y objetos del domicilio.
+
+h) Se ha realizado la retirada selectiva de residuos en los espacios que se han limpiado, valorando los beneficios medioambientales.
+
+i) Se ha inspeccionado, al final del trabajo, el lugar que se ha limpiado, para detectar posibles restos de suciedad, para cumplir el plan de trabajo establecido, y, en su caso, se ha cumplimentando la documentación requerida.
+
+j) Se han limpiado los útiles empleados, garantizando su conservación.
+
+k) Se han aplicado las normas básicas de prevención de riesgos laborales en la realización de la limpieza de domicilios.
+
+3\. Realiza la limpieza de paredes, ventanas, puertas, suelos y alfombras, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+
+Criterios de evaluación:
+
+a) Se han realizado las tareas previas a la limpieza de paredes, ventanas, puertas, suelos y alfombras en el interior de domicilios particulares, edificios, oficinas y locales, preparando las condiciones necesarias de ventilación y ejecución.
+
+b) Se ha procedido a la limpieza de paredes, ventanas, puertas y suelos, seleccionando procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+
+c) Se ha procedido a la limpieza de alfombras, en función del tejido, seleccionando procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+
+d) Se ha realizado una limpieza, utilizando los productos adecuados para garantizar el mantenimiento de las cualidades de paredes, ventanas, puertas, suelos y alfombras.
+
+e) Se ha realizado la retirada selectiva de residuos de paredes, ventanas, puertas, suelos y alfombras que se han limpiado, valorando los beneficios medioambientales.
+
+f) Se ha inspeccionado, al final del trabajo, la limpieza realizada para detectar posibles restos de suciedad.
+
+g) Se han limpiado y clasificado los útiles empleados, garantizando su conservación.
+
+h) Se han aplicado las normas básicas de prevención de riesgos laborales en la realización de la limpieza de domicilios.
+
+4\. Realiza la limpieza de superficies acristaladas, aplicando los procedimientos, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+
+Criterios de evaluación:
+
+a) Se han relacionado características de los diferentes tipos de superficies acristaladas con los procedimientos a utilizar en su limpieza.
+
+b) Se han identificado los accesorios y medios auxiliares de limpieza de cristales y descrito sus características y uso.
+
+c) Se ha realizado la limpieza de cristales, utilizando los accesorios y medios auxiliares requeridos para la limpieza.
+
+d) Se han limpiado los elementos del entorno circundante tales como marcos, persianas y rejas, entre otros.
+
+e) Se ha comprobado la eficacia y utilidad de la limpieza realizada.
+
+f) Se han aplicado las medidas de prevención de riesgos establecidas, de acuerdo con las características de los trabajos de limpieza.
+
+g) Se han aplicado las medidas de seguridad específicas para trabajos en altura.
+
+5\. Realiza la limpieza de cuartos de baño y aseos, aplicando los procedimientos de higienización y desinfección, útiles y productos necesarios, de acuerdo con los requerimientos e instrucciones recibidas.
+
+Criterios de evaluación:
+
+a) Se han descrito los factores que condicionan la limpieza de cuartos de baño y aseos en domicilios, oficinas y locales.
+
+b) Se han identificado los materiales y el tipo de mobiliario existente en el interior de cuartos de baño y aseos en domicilios, oficinas y locales.
+
+c) Se ha descrito el proceso de desinfección que se utiliza en los cuartos de baño.
+
+d) Se ha descrito el proceso de desinfección e higienización de los aseos, teniendo en cuenta la normativa de la sanidad pública en este ámbito.
+
+e) Se han identificado y clasificado los útiles y productos de limpieza, siguiendo las instrucciones de uso y dosificación, de acuerdo con el tipo de uso de los cuartos de baño, siguiendo las actuaciones previstas.
+
+f) Se han limpiado, desinfectado e higienizado los cuartos de baño y aseos.
+
+g) Se han realizado las acciones para la eliminación de residuos depositados en recipientes específicos, garantizando su higienización y desinfección.
+
+h) Se ha realizado la retirada selectiva de residuos de cuartos de baño, valorando los beneficios medioambientales.
+
+i) Se ha realizado el mantenimiento de los dispensadores en los aseos.
+
+j) Se ha inspeccionado, al final del trabajo, la limpieza de cuartos de baños y aseos para detectar posibles restos de suciedad.
+
+k) Se han aplicado las normas básicas de prevención de riesgos laborales en la realización de la limpieza de cuartos de baño en domicilios y aseos en oficinas y locales.
+
+**Duración: 115 horas.**
+
+**Contenidos básicos:**
+
+Factores determinantes en los procedimientos de limpieza domiciliaria:
+
+– Procedimientos de limpieza de estancias.
+
+– Ventilación de espacios.
+
+– Verificación del trabajo ejecutado.
+
+– Riesgos laborales derivados de la utilización de productos de limpieza.
+
+– Utilización de equipos de protección individual.
+
+– Salud postural.
+
+Realización de la limpieza de mobiliario y de objetos:
+
+– Tipología de espacios y elementos de limpieza.
+
+– Identificación de composición de materiales y superficies.
+
+– Caracterización de materiales y superficies.
+
+– Selección y uso de los diferentes útiles de limpieza.
+
+– Procesos de conservación de útiles de limpieza.
+
+– Tipología de productos de limpieza.
+
+– Identificación de riesgos para la salud derivados de un mal uso de los productos de limpieza.
+
+– Técnicas de limpieza del mobiliario y de objetos ubicados en el domicilio.
+
+– Secuenciación de actividades en cada técnica.
+
+– Normativa de previsión de riesgos laborales.
+
+Limpieza de paredes, ventanas, puertas, suelos y alfombras:
+
+– Interpretación de las instrucciones recibidas.
+
+– Identificación de composición de materiales y superficies de suelos y pavimentos, paredes y techos en domicilios, edificios, oficinas y locales.
+
+– Selección y uso de los diferentes útiles y productos de limpieza, en función de la limpieza a realizar.
+
+– Utilización de electrodomésticos: Aspiradoras de fácil manejo.
+
+– Clasificación y separación de residuos.
+
+– Eliminación en los contenedores adecuados.
+
+– Técnicas de verificación de las tareas de limpieza, de acuerdo al plan establecido.
+
+– Utilización de equipos de protección individual.
+
+– Normas de prevención de riesgos laborales.
+
+Limpieza de superficies acristaladas:
+
+– Limpieza de cristales en espacios exteriores e interiores.
+
+– Utilización de los útiles y herramientas de trabajo: criterios a seguir.
+
+– Utilización de productos de limpieza específicos.
+
+– Identificación de los riesgos relacionados con la limpieza de cristales.
+
+– Utilización de los equipos de protección individual.
+
+– Aplicación de medidas de seguridad ante la presencia de personas en el entorno de trabajo.
+
+Limpieza de cuartos de baño:
+
+– Técnicas de limpieza y desinfección de cuartos de baño en domicilios.
+
+– Técnicas de limpieza y desinfección e higienización de aseos en oficinas y locales.
+
+– Tipos de manchas en cuartos de baño de domicilios y aseos en oficinas y locales.
+
+– Clasificación y separación de residuos.
+
+– Normativa de previsión de riesgos laborales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función del mantenimiento de la limpieza del mobiliario y objetos del domicilio, así como en edificios, oficinas y locales.
+
+La definición de esta función incluye aspectos como:
+
+– El dominio y aplicación de técnicas de limpieza y mantenimiento en domicilio y en edificios, oficinas y locales.
+
+– La diferenciación de mobiliario, materiales y objetos en función de su mantenimiento y aplicaciones.
+
+– La realización de operaciones relacionadas con el mantenimiento para cuartos de baño de domicilios y aseos en oficinas y locales.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), d), g), l), n), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias profesionales, personales y sociales a), d), g), h), i), j), l), ñ), o), p), q), r), s) y t) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La utilización de técnicas de limpieza y mantenimiento en domicilio y en edificios, oficinas y locales.
+
+– La utilización de técnicas de limpieza y mantenimiento suelos, paredes y techos, y alfombras de domicilio y de edificios, oficinas y locales.
+
+– La utilización de productos y útiles de limpieza.
+
+– La utilización de técnicas de limpieza de zonas acristaladas de domicilios y aseos de oficinas y locales.
+
+– La utilización de productos y útiles de limpieza.
+
+– La utilización de técnicas de mantenimiento de cuartos de baño de domicilios y aseos de oficinas y locales.
+
+**Módulo Profesional: Limpieza con máquinas.**
+
+**Código: 3116**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Determina los procedimientos de limpieza industrial y de tratamiento de suelos, seleccionando las máquinas, accesorios y productos en función de las características del pavimento y de su superficie.
+
+Criterios de evaluación:
+
+a) Se han identificado los tipos de suciedad que se generan y acumulan según el tipo de materiales que revisten las superficies a limpiar, dando origen a intervenciones diferenciadas de limpieza.
+
+b) Se han descrito los procedimientos de limpieza y tratamiento de suelos: barrido, fregado, decapado, encerado, abrillantado-cristalizado, aspirado, peinado, entre otros, relacionándolos con los tipos de superficie en que se aplican.
+
+c) Se han identificado y clasificado los equipos.
+
+d) Se han identificado las principales aplicaciones, asociándolas a los trabajos que permiten realizar.
+
+e) Se han comprobado las conexiones entre las distintas máquinas y equipos, subsanando, en su caso, los errores observados.
+
+f) Se ha realizado el mantenimiento de usuario para garantizar el funcionamiento de los diferentes equipos.
+
+g) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos laborales derivados de la conexión y desconexión de los equipos.
+
+h) Se han situado los equipos, teniendo en cuenta criterios de ergonomía y salud laboral.
+
+2\. Barre suelos utilizando la maquinaría industrial y sus accesorios, y valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado los tipos de barredoras, accesorios y útiles de limpieza, señalando sus posibilidades, la manera de utilización y proceso de aplicación.
+
+b) Se han descrito los procedimientos de limpieza con las barredoras.
+
+c) Se han identificado las principales aplicaciones, asociándolas a los trabajos que permiten realizar.
+
+d) Se han comprobado las conexiones de la barredora, subsanando, en su caso, los errores observados.
+
+e) Se ha realizado el mantenimiento para garantizar el funcionamiento de las barredoras.
+
+f) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos laborales derivados de la conexión y desconexión de los equipos.
+
+g) Se ha manejado la barredora, teniendo en cuenta criterios de ergonomía y salud laboral.
+
+3\. Friega suelos utilizando la maquinaría industrial y sus accesorios, valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado los tipos de fregadoras, accesorios y útiles de limpieza, señalando sus posibilidades, la manera de utilización y proceso de aplicación.
+
+b) Se han descrito los procedimientos de limpieza con las fregadoras.
+
+c) Se han identificado las principales aplicaciones, asociándolas a los trabajos que permiten realizar.
+
+d) Se ha delimitado el perímetro de suelo a trabajar para evitar caídas o accidentes.
+
+e) Se ha realizado el mantenimiento para garantizar el funcionamiento de las fregadoras.
+
+f) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos laborales derivados de la conexión y desconexión de los equipos.
+
+g) Se ha manejado la fregadora, teniendo en cuenta criterios de ergonomía y salud laboral.
+
+4\. Abrillanta suelos utilizando la maquinaría industrial seleccionada y sus accesorios, valorando el funcionamiento y calidad de la limpieza, teniendo en cuanta las características de la superficie a limpiar.
+
+Criterios de evaluación:
+
+a) Se ha descrito el procedimiento de decapado para eliminar los restos de cera y/o la suciedad excesiva del suelo.
+
+b) Se ha realizado el decapado de las superficies para proteger el suelo, aplicando la técnica requerida según el pavimento existente.
+
+c) Se han identificado y clasificado los tipos de maquinaria, accesorios y útiles de limpieza, señalando sus posibilidades, la manera de utilización y proceso de aplicación.
+
+d) Se han descrito los procedimientos de limpieza con las enceradoras.
+
+e) Se han descrito los procedimientos de abrillantado del suelo.
+
+f) Se ha realizado en encerado y abrillantado de superficies, aplicando la técnica requerida según el pavimento existente
+
+g) Se han identificado las principales aplicaciones, asociándolas a los trabajos que permiten realizar.
+
+h) Se ha delimitado el perímetro de suelo a trabajar para evitar caídas o accidentes.
+
+i) Se ha realizado el mantenimiento de usuario para garantizar el funcionamiento de la maquinaria utilizada.
+
+j) Se han adoptado las medidas de seguridad necesarias para evitar los riesgos laborales derivados de la conexión y desconexión de los equipos.
+
+k) Se ha manejado la enceradora, teniendo en cuenta criterios de ergonomía y salud laboral.
+
+5\. Mantiene operativas las máquinas de limpieza, realizando las actividades requeridas en los manuales de uso y mantenimiento correspondiente.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las máquinas, accesorios y herramientas relacionadas con las operaciones de limpieza.
+
+b) Se han reconocido las aplicaciones de las máquinas, accesorios y herramientas relacionadas con las operaciones de limpieza.
+
+c) Se ha aplicado el plan de mantenimiento preventivo, de seguimiento y supervisión de la maquinaria, de acuerdo a las instrucciones del fabricante.
+
+d) Se han realizado las operaciones de puesta en marcha y parada de las máquinas, siguiendo los procedimientos establecidos.
+
+e) Se han realizado las operaciones de preparación y mantenimiento de las máquinas, accesorios y herramientas relacionadas con las operaciones de limpieza.
+
+f) Se han comprobado las condiciones de prevención y seguridad en las actividades de preparación máquinas, accesorios y herramientas relacionadas con las operaciones de limpieza.
+
+g) Se han realizado todas las operaciones, teniendo en cuenta la normativa de prevención de riesgos, de seguridad laboral y de protección medioambiental.
+
+**Duración: 50 horas.**
+
+**Contenidos básicos:**
+
+Procedimientos de limpieza industrial y tratamiento de suelos:
+
+– Tipos de suciedad generada y acumulada en las superficies a limpiar.
+
+– Procedimientos de limpieza y tratamiento de suelos.
+
+– Equipos empleados en la limpieza.
+
+– Operaciones básicas utilizadas en la limpieza industrial.
+
+– Riesgos laborales derivados de la utilización de equipos.
+
+– Salud postural.
+
+Barrido de suelos con maquinaria industrial:
+
+– Interpretación y ejecución de las instrucciones recibidas.
+
+– Tipos de productos de limpieza con máquinas de barrido.
+
+– Desarrollo de las tareas de limpieza con personas en su puesto de trabajo o en las inmediaciones (personas en tránsito).
+
+– Normas de prevención de riesgos laborales.
+
+Fregado de suelos con maquinaria industrial:
+
+– Interpretación y ejecución de las instrucciones recibidas.
+
+– Tipos de productos de limpieza con máquinas de fregado.
+
+– Desarrollo de las tareas de limpieza con personas en su puesto de trabajo o en las inmediaciones (personas en tránsito).
+
+– Normas de prevención de riesgos laborales.
+
+– Normas de salud medioambiental.
+
+Abrillantado de suelos con maquinaria industrial:
+
+– Técnica de decapado.
+
+– Técnica de encerado.
+
+– Técnica de abrillantado-cristalizado.
+
+– Procedimientos, productos, herramientas y maquinaria.
+
+– Desarrollo de las tareas de decapado, encerado y abrillantado-cristalizado con personas en su puesto de trabajo o en las inmediaciones (personas en tránsito).
+
+– Normas de prevención de riesgos laborales.
+
+– Normas de salud medioambiental.
+
+Mantenimiento básico de máquinas de limpieza:
+
+– Descripción de las herramientas y maquinaria industrial para la limpieza.
+
+– Procedimientos de uso.
+
+– Mantenimiento preventivo de la maquinaria industrial.
+
+– Tipos, adecuación y normativa.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de la limpieza de suelos con máquinas industriales.
+
+La definición de esta función incluye aspectos como:
+
+– La preparación de equipos.
+
+– La utilización de técnicas.
+
+– La aplicaciones de máquinas de barrido, fregado, encerado y abrillantado-cristalizado.
+
+– Mantenimiento básico de la maquinaria para limpieza.
+
+La formación del módulo contribuye a alcanzar los objetivos generales e), g), l), n), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias profesionales, personales y sociales d), e), g), h), i), j), l), ñ), o), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La utilización de equipos industriales de limpieza.
+
+– La utilización de equipos específicos de barrido, fregado, encerado y abrillantado.
+
+– La aplicación de las normas de seguridad laboral y medidas de protección individual en la utilización de la maquinaria industrial de limpieza.
+
+**Módulo Profesional: Actividades de apoyo a personas no dependientes en la unidad convivencial.**
+
+**Código: 3145**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza operaciones simuladas de apoyo a niños y otras personas no dependientes, identificando y describiendo las actuaciones que hay que realizar en función de su destinatario.
+
+Criterios de evaluación:
+
+a) Se han identificado las actividades incluidas en el plan de actuación o instrucciones recibidas.
+
+b) Se ha valorado la importancia de la adaptación del plan de actuación a las características de los niños y personas no dependientes.
+
+c) Se han tenido en cuenta las necesidades y demandas que se deben cubrir con los niños y personas no dependientes.
+
+d) Se han respetado las características propias de la unidad de convivencia.
+
+e) Se ha favorecido la autonomía personal de los niños.
+
+f) Se han respetado las directrices y orientaciones establecidas.
+
+g) Se ha mantenido una actitud positiva en la realización de las tareas encomendadas.
+
+2\. Mantiene una comunicación simulada con personas de diferentes sexo y edad, describiendo normas de buen comportamiento y aplicando técnicas básicas de comunicación.
+
+Criterios de evaluación:
+
+a) Se han identificado las características de los posibles miembros de una unidad doméstica de convivencia.
+
+b) Se han adaptado la actitud y discurso a la situación comunicativa.
+
+c) Se ha obtenido la información necesaria de los miembros de la unidad de convivencia.
+
+d) Se ha valorado la importancia de la comunicación para evitar posibles conflictos o malentendidos.
+
+e) Se ha mantenido una conversación fluida, solicitando, en su caso, la información y aclaraciones pertinentes.
+
+f) Se ha mantenido una actitud conciliadora y sensible a los demás, demostrando empatía, cordialidad y amabilidad en el trato.
+
+g) Se ha valorado la importancia de las habilidades sociales en el desempeño de la labor profesional.
+
+3\. Realiza operaciones relacionadas con las necesidades básicas y de acompañamiento de niños y niñas, aplicando las pautas de alimentación, higiene y descanso requeridas.
+
+Criterios de evaluación:
+
+a) Se han identificado las actividades relacionadas con la alimentación, la higiene y el descanso con los requerimientos de edad de los niños y niñas y las condiciones del plan de actuación.
+
+b) Se han identificado y descrito las características de los principales tipos de menús y su adecuación a la edad del niño o niña.
+
+c) Se han descrito las posibles alergias e intolerancias alimentarias y posibles actuaciones.
+
+d) Se han descrito y aplicado pautas de actuación en relación al aseo, higiene, vestido, descanso y sueño infantil.
+
+e) Se han realizado actividades básicas de entretenimiento de niños y niñas.
+
+f) Se han descrito y realizado las rutinas diarias establecidas.
+
+g) Se han realizado operaciones relacionadas con la atención a las necesidades básicas de los niños y las niñas en función de sus características.
+
+h) Se ha valorado la importancia de las actividades relacionadas con la satisfacción de las necesidades básicas de los niños y niñas.
+
+4\. Realiza actividades relacionadas con las necesidades básicas y de acompañamiento a personas adultas no dependientes, aplicando las instrucciones recibidas y atendiendo a las características de las personas.
+
+Criterios de evaluación:
+
+a) Se han identificado las actividades relacionadas con la alimentación, la higiene y el descanso con los requerimientos de edad de adultos no dependientes y las condiciones del plan de actuación.
+
+b) Se han identificado y descrito las características de los principales tipos de menús y su adecuación a la edad del adulto no dependiente.
+
+c) Se han descrito las posibles alergias e intolerancias alimentarias y posibles actuaciones.
+
+d) Se han descrito y aplicado pautas de actuación en relación al vestido y al descanso de los adultos no dependientes.
+
+e) Se ha valorado la importancia de las actividades relacionadas con la satisfacción de las necesidades de las personas adultas.
+
+5\. Realiza actividades de información relacionadas con la unidad de convivencia, transmitiendo posibles incidencias y describiendo comunicaciones habituales y la estructura que debe tener el mensaje
+
+Criterios de evaluación:
+
+a) Se han descrito los principios básicos de la inteligencia emocional en relación al proceso de comunicación de incidencias.
+
+b) Se han comunicado con precisión las incidencias surgidas de una manera clara y concisa.
+
+c) Se han descrito las tareas realizadas, de acuerdo con las instrucciones recibidas.
+
+d) Se ha mantenido en todo momento el respeto por las personas de su entorno profesional.
+
+e) Se ha demostrado una actitud positiva hacia el aprendizaje.
+
+f) Se ha valorado la importancia de la autocrítica en el desarrollo de sus funciones.
+
+g) Se ha valorado la importancia de la corrección en el vestir y de la pulcritud en la imagen personal.
+
+**Duración: 50 horas.**
+
+**Contenidos básicos:**
+
+Aplicación de técnicas de acompañamiento personas no dependientes:
+
+– Tipología de las personas no dependientes.
+
+– Necesidades y demandas de los niños y niñas.
+
+– Necesidades y demandas de las personas no dependientes.
+
+– Plan de trabajo doméstico con personas no dependientes.
+
+Aplicación de técnicas básicas de comunicación en la unidad de convivencia:
+
+– Comunicación con niños.
+
+– Comunicación con personas mayores.
+
+– Escucha activa.
+
+Atención a las necesidades básicas de los niños y niñas:
+
+– Planificación de las rutinas diarias.
+
+– Preparaciones de menús infantiles.
+
+– La higiene infantil. Pautas.
+
+– El descanso infantil.
+
+– El vestido infantil. Ayudas.
+
+Atención a las necesidades básicas de las personas adultas no dependientes:
+
+– Planificación de las rutinas diarias. Instrucciones.
+
+– Preparación de menús para personas adultas no dependientes.
+
+– Ayudas al vestido y calzado de las personas adultas no dependientes.
+
+Información relacionada con la unidad de convivencia:
+
+– Organización y desarrollo de las tareas domésticas encomendadas.
+
+– Información de las actividades realizadas.
+
+– Transmisión de incidencias.
+
+– Aplicación de los principios básicos de la inteligencia emocional a la comunicación de incidencias.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función del mantenimiento de prendas de vestir y ropa del hogar.
+
+La definición de esta función incluye aspectos como:
+
+– El acompañamiento a personas no dependientes.
+
+– La utilización de técnicas de comunicación específicas.
+
+– El cuidado, la alimentación y el aseo de niños y niñas.
+
+– La ayuda al calzado y vestido de niños y, en su caso, de personas mayores no dependientes.
+
+La formación del módulo contribuye a alcanzar los objetivos generales f), g), l), n), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias profesionales, personales y sociales f), g), h), i), j), l), m), ñ), o), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La simulación de situaciones de comunicación y tareas de atención a niños y niñas de diferentes edades.
+
+– La simulación de situaciones de comunicación y tareas de atención a las personas adultas no dependientes.
+
+**Módulo Profesional: Seguridad en el ámbito doméstico.**
+
+**Código: 3146**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza actividades relacionada con la seguridad en el domicilio de las instalaciones domésticas (electricidad, gas y conducciones de agua), comprobando su correcto funcionamiento y valorando los puntos potenciales de riesgo y las pautas de intervención.
+
+Criterios de evaluación:
+
+a) Se han identificado, con ayuda de planos o croquis, las características y funcionamiento de las instalaciones domésticas, identificando puntos principales de riesgo.
+
+b) Se ha realizado la revisión de las instalaciones, identificando posibles situaciones de deterioro, mal funcionamiento o ausencia de medidas de prevención, proponiendo alternativas de resolución.
+
+c) Se han identificado los puntos de riesgo eléctrico interruptores, tomas de corriente y puntos de luz, relacionándolos con el buen uso de los mismos y los elementos de protección correspondientes.
+
+d) Se ha identificado elementos de grifería y desagüe (filtros, gomas o similares, entre otros) relacionándolos con posibles averías y su prevención.
+
+e) Se han colocado los medios para impedir el acceso o el contacto accidental a los puntos de riesgo de las instalaciones domésticas de las personas más vulnerables por motivos de edad o limitaciones físicas presentes en el domicilio, valorando su utilidad y proponiendo alternativas.
+
+f) Se han identificado los elementos utilizados para la protección descargas eléctricas, escapes de gas o averías de agua, comprobando su funcionamiento con el fin de evitar riesgos de accidentes en las personas y los objetos.
+
+g) Se han descrito las pautas de actuación ante posibles accidentes o situaciones de riesgo relacionadas con las conducciones domésticas, valorándola la prontitud y serenidad en la actuación.
+
+2\. Aplica medidas de prevención relacionadas con la exposición o ingestión de productos tóxicos o alimentarios en mal estado, valorando las situaciones y conductas de riesgo y pautas de intervención.
+
+Criterios de evaluación:
+
+a) Se han identificado posibles riesgos potenciales por ingestión o exposición a productos tóxicos o peligrosos en un entorno dado, interpretando la información del fabricante.
+
+b) Se han identificado posibles riesgos por la ingestión de alimentos en mal estado, valorando sintomatologías habituales, a partir de información sobre salud e higiene alimentaria.
+
+c) Se han establecido medidas de almacenamiento y conservación para evitar ingestiones accidentales, derrames o incremento de la toxicidad por el estado de envases y prevenir el acceso de personas con mayor riesgo por motivos de edad o limitaciones físicas.
+
+d) Se han establecido medidas de conservación y consumo de productos alimentarios, tanto en crudo como cocinados, a partir de información obtenida del fabricante e información nutricional.
+
+e) Se han aplicado las pautas de actuación relacionadas con situaciones de intoxicación, describiendo el contenido de la información a facilitar a las personas y el procedimiento de comunicación en relación con los profesionales implicados.
+
+3\. Aplica medidas de prevención de primera intervención en relación con situaciones de riesgo frecuente para la seguridad de personas y bienes en el ámbito doméstico, valorando el entorno y las características de la unidad convivencial.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos potenciales para la seguridad de bienes y personas (robos, agresiones, vuelco de objetos sobre personas en el interior o hacia el exterior, entre otros) de un entorno dado, valorando hábitos cotidianos y riesgos frecuentes a partir de información de la unidad convivencial.
+
+b) Se han aplicado medidas para evitar el acceso de intrusos, tanto en presencia como en ausencia de personas en el domicilio, aplicando los protocolos derivados de las recomendaciones de los organismos competentes.
+
+c) Se han aplicado medidas para evitar el vuelco de objetos peligrosos en el interior del domicilio o hacia el exterior, valorando los riesgos para los afectados y sus consecuencias jurídicas.
+
+d) Se han descrito las prestaciones existentes en las pólizas de seguro, valorando beneficiosos de su aplicación en las actividades del hogar y responsabilidad civil.
+
+e) Se han aplicado las pautas de actuación relacionadas con situaciones de riesgo y de seguridad de personas y bienes domésticos, describiendo el contenido de la información a facilitar a las personas y el procedimiento de comunicación en relación con los profesionales implicados.
+
+4\. Aplica técnicas relacionadas con primeros auxilios de primera intervención, describiendo los protocolos aplicables.
+
+Criterios de evaluación:
+
+a) Se han aplicado criterios para la valoración relacionadas con accidentes personales.
+
+b) Se han descrito técnicas de desobstrucción de la vía aérea aplicadas sobre elementos simulados.
+
+c) Se han descrito técnicas primeros auxilios de primera intervención y aplicado sobre elementos simulados, siguiendo el protocolo establecido.
+
+d) Se han descrito y aplicado las técnicas básicas y, en su caso, instrumentales de reanimación cardiopulmonar sobre maniquíes, utilizando equipo de oxigenoterapia y desfibrilador automático.
+
+e) Se han descrito las causas, los síntomas, las pautas de actuación y los aspectos preventivos en las lesiones, patologías o traumatismos más significativos, en función de la actividad.
+
+f) Se han aplicado primeros auxilios de primera intervención ante simulación de patologías orgánicas de urgencia y de lesiones por agentes físicos, químicos y biológicos.
+
+g) Se han descrito las estrategias básicas de comunicación con el supuesto accidentado y sus acompañantes relacionándolo con estados emocionales básicos.
+
+h) Se han descrito técnicas básicas aplicables a posibles situaciones de duelo, ansiedad y angustia o agresividad.
+
+**Duración: 50 horas.**
+
+**Contenidos básicos:**
+
+Medidas de prevención relacionadas con las instalaciones domésticas:
+
+– Lectura de planos y croquis de instalaciones domésticas de luz, agua y gas.
+
+– Riesgos asociados:
+
+• Descargas eléctricas.
+
+• Inundaciones en el hogar.
+
+• Comportamiento de los gases y efectos sobre las personas.
+
+• Riesgos más frecuentes para personas de mayor riesgo por razones de edad o limitación física.
+
+– Mantenimiento y reparación básica de las conducciones eléctricas y de agua del domicilio.
+
+– Enchufes, interruptores y puntos de luz de la instalación eléctrica.
+
+– Grifos y desagües. Tipos, componentes y procedimientos de ajuste y sustitución.
+
+– Medios para evitar accidentes en relación con las conducciones del hogar.
+
+– Pautas de intervención ante inundaciones.
+
+– Pautas de intervención ante escapes de gas.
+
+– Coberturas de seguros y servicios de mantenimiento por accidentes, roturas y derrames de las conducciones del hogar.
+
+– Seguros del hogar y servicios de mantenimiento y reparación de conducciones domésticas.
+
+– Valoración del riesgo y protocolos de comunicación a los servicios de emergencia.
+
+Medidas de prevención relacionadas con la exposición o ingestión de productos tóxicos o alimentarios:
+
+– Productos tóxicos en el hogar. Clasificación según composición y riesgo potencial.
+
+– Pautas para resolver derrames de productos químicos en el ámbito doméstico.
+
+– Plan de conservación, reposición y sustitución de productos tóxicos.
+
+– Valoración del riesgo y protocolos de comunicación a los servicios de emergencia.
+
+Medidas de prevención relacionadas con situaciones de riesgo frecuente para la seguridad de personas y bienes en el ámbito doméstico:
+
+– Riesgos para la seguridad de las personas y bienes según composición de las unidades convivenciales.
+
+– Pautas de prevención del acceso de intrusos.
+
+– Pautas de actuación ante el robo de bienes.
+
+– Pautas para prevenir el vuelco de objetos peligrosos en el interior del domicilio.
+
+– Pautas para prevenir el vuelco de objetos peligrosos hacia el exterior del domicilio.
+
+– Seguros: tipos y coberturas.
+
+– Gestiones para la solicitud de aplicación de coberturas. Documentación.
+
+– Valoración del riesgo y protocolos de comunicación a los servicios de emergencia.
+
+Técnicas de soporte vital y primeros auxilios de primera intervención:
+
+– Hemorragias. Tipos.
+
+– Quemaduras. Tipos.
+
+– Vendajes. Tipos.
+
+– Reanimación.
+
+– Respiración boca a boca.
+
+– Técnicas de expulsión de ingestión accidental de alimentos, líquidos, objetos, entre otros.
+
+– Protocolo de actuación frente a emergencias: evaluación inicial del paciente, planificación de la actuación, localización y formas de acceso, identificación de posibles riesgos, protección de la zona, acceso al accidentado.
+
+– El botiquín de primeros auxilios: instrumentos, material de cura, fármacos básicos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de prevención de riesgos domésticos.
+
+La definición de esta función incluye aspectos como:
+
+– La utilización de técnicas de prevención de riesgos asociados a la manipulación de productos tóxicos y a la ingesta de alimentos en mal estado.
+
+– Comprobación de elementos de las instalaciones domestica para prevenir accidentes en el ámbito doméstico.
+
+– La utilización de técnicas de prevención de incendios.
+
+– Actuación frente a los accidentes ocurridos en el hogar.
+
+La formación del módulo contribuye a alcanzar los objetivos generales, g), l), n), p), q), r), s), t), u) y w) del ciclo formativo, y las competencias profesionales, personales y sociales, g), h), i), j), k), l), ñ), o), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La utilización de técnicas de prevención de riesgos asociados a la actividad doméstica.
+
+– La utilización de técnicas de prevención de accidentes en el ámbito doméstico.
+
+– Actuación frente a los accidentes ocurridos en el hogar.
+
+**Módulo Profesional: Itinerario personal para la empleabilidad.**
+
+**Código: 3159**
+
+Ámbito de Comunicación y Ciencias Sociales I y II;
+
+Ámbito de Ciencias Aplicadas I y II.
+
+> Téngase en cuenta que el código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación del módulo profesional 3159 figura como anexo III del Real Decreto 659/2023, de 18 de julio; y que el Ámbito de Comunicación y Ciencias Sociales I y II y el Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo, según establece el art. 6.Dos.a), c) y d) del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+**Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico**
+
+**Módulo Profesional: Proyecto intermodular de aprendizaje colaborativo.**
+
+**Código: 3160**
+
+Duración: 25 horas.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+
+Criterios de evaluación:
+
+a) Se ha elaborado conjuntamente un esquema que contemple el conjunto de las empresas tipo del sector.
+
+b) Se han constituido equipos de trabajo y se han distribuido entre los grupos las empresas que se analizarán.
+
+c) Se ha identificado para la empresa seleccionada los productos o servicios que ofrece.
+
+d) Se han relacionado los productos o servicios ofertados con la consecución de los ODS (Objetivos de Desarrollo Sostenible).
+
+e) Se ha realizado un diagrama de bloques de los posibles departamentos que conforman la empresa.
+
+f) Se han tenido en cuenta las áreas transversales y su relación con las demás.
+
+g) Se ha presentado al gran grupo la configuración de la empresa y productos que ofrece.
+
+h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
+
+i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
+
+2\. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado un producto/servicio de la empresa a estudio.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se han identificado las características del público objetivo al que está destinado.
+
+d) Se ha comparado el producto con otros de empresas similares.
+
+e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
+
+3\. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+
+Criterios de evaluación:
+
+a) Se ha planteado en el grupo el concepto de una empresa tipo «spin off», indicando sus ventajas e inconvenientes.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se ha propuesto una posible organización de la empresa, atendiendo a una estructura lineal o circular.
+
+d) Se han indicado que tecnologías se incluirían para aumentar su competitividad.
+
+e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
+
+4\. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+
+Criterios de evaluación:
+
+a) Se ha analizado la responsabilidad de la empresa y los trabajadores en la consecución de entornos de trabajo seguros.
+
+b) Se han identificado los sistemas de protección generales e individuales de cada unidad en función de las actividades a realizar.
+
+c) Se ha estimado el coste de los elementos de protección individual.
+
+d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
+
+5\. Transmite información con claridad de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+b) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+c) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+d) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.
+
+**4.****Requisitos mínimos de calidad del contexto formativo**.
+
+**4.1 Espacios.**
+
+Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
+
+– Aula polivalente.
+
+– Taller de actividades domésticas.
+
+**4.2 Equipamientos mínimos.**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Aula polivalente.</td>
+<td>Ordenadores instalados en red, sistema de proyección e internet.</td>
+</tr>
+<tr>
+<td>Medios audiovisuales.</td>
+</tr>
+<tr>
+<td>Programas informáticos de aplicación.</td>
+</tr>
+<tr>
+<td rowspan="19">Taller de actividades domésticas.</td>
+<td>Maquinaria y equipos para lavado acuoso.</td>
+</tr>
+<tr>
+<td>Maquinaria y equipos para secado, planchado.</td>
+</tr>
+<tr>
+<td>Maquinaria y herramientas para la confección de prendas de vestir y ropa de hogar.</td>
+</tr>
+<tr>
+<td>Carros equipados limpieza.</td>
+</tr>
+<tr>
+<td>Material de limpieza.</td>
+</tr>
+<tr>
+<td>Aspiradoras, pulidoras, enceradoras.</td>
+</tr>
+<tr>
+<td>Elementos de mobiliario y lencería para el hogar.</td>
+</tr>
+<tr>
+<td>Elementos de mobiliario de oficina.</td>
+</tr>
+<tr>
+<td>Generadores de calor : fogones, freidoras, salamandras, planchas y hornos</td>
+</tr>
+<tr>
+<td>Generadores de frío: cámaras de refrigeración y congelación.</td>
+</tr>
+<tr>
+<td>Batería de cocina: material de cocción, de preparación y conservación, accesorios.</td>
+</tr>
+<tr>
+<td>Pequeños electrodomésticos: batidoras, licuadoras, exprimidores, cortadoras, picadoras, brazos trituradores, entre otros.</td>
+</tr>
+<tr>
+<td>Material neutro: mesas de trabajo, lavamanos, carros, estantes, campanas, armarios.</td>
+</tr>
+<tr>
+<td>Enchufes, interruptores, cables, lámparas, bombillas.</td>
+</tr>
+<tr>
+<td>Grifos, tubos, elementos botes sifónicos.</td>
+</tr>
+<tr>
+<td>Caja de herramientas.</td>
+</tr>
+<tr>
+<td>Costurero básico.</td>
+</tr>
+<tr>
+<td>Botiquín de primeros auxilios.</td>
+</tr>
+<tr>
+<td>Equipos y medios de seguridad.</td>
+</tr>
+</tbody>
+</table>
+
+**5. Profesorado.**
+
+**5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Actividades Domésticas y Limpieza de Edificios son:**
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>3098. Mantenimiento de prendas de vestir y ropa de hogar.</p>
+<p>3102. Cocina doméstica.</p>
+<p>3104. Limpieza de domicilios particulares, edificios, oficinas y locales.</p>
+<p>3116. Limpieza con máquinas.</p>
+<p>3145. Actividades de apoyo a personas no dependientes en la unidad convivencial.</p>
+<p>3146. Seguridad en el ámbito doméstico.</p>
+</td>
+<td>
+<p>– Patronaje y confección.</p>
+<p>– Cocina y pastelería.</p>
+<p>– Servicios de restauración.</p>
+</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Servicios a la Comunidad.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">3160. Proyecto intermodular de aprendizaje colaborativo.</td>
+<td>
+<p>– Patronaje y confección.</p>
+<p>– Cocina y pastelería.</p>
+<p>– Servicios de restauración.</p>
+</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Servicios a la Comunidad.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>3159. Itinerario personal para la empleabilidad.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**5.2 Requisitos para el profesorado.**
+
+1\. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+**6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.**
+
+<table>
+<thead>
+<tr>
+<th>Módulos profesionales superados</th>
+<th>Unidades de competencia acreditables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3098. Mantenimiento de prendas de vestir y ropa de hogar.</td>
+<td>UC1332_1: Efectuar el proceso de lavado, planchado y cosido básico manual de prendas de vestir y ropa de hogar, y la preparación de camas, en domicilio particular.</td>
+</tr>
+<tr>
+<td rowspan="2">3102. Cocina doméstica.</td>
+<td>UC1331_1: Realizar el proceso de elaboración de alimentos en sus fases de compra, organización, manipulación, cocinado y conservación, en domicilio particular.</td>
+</tr>
+<tr>
+<td>UC0255_1: Ejecutar operaciones básicas de aprovisionamiento, preelaboración y conservación culinarios.</td>
+</tr>
+<tr>
+<td rowspan="4">3104. Limpieza de domicilios particulares, edificios, oficinas y locales.</td>
+<td>UC1330_1: Realizar la limpieza de domicilios particulares.</td>
+</tr>
+<tr>
+<td>UC0996_1: Llevar a cabo la limpieza del mobiliario ubicado en el interior de los espacios a intervenir.</td>
+</tr>
+<tr>
+<td>UC0972_1: Realizar la limpieza de suelos, paredes y techos en edificios y locales.</td>
+</tr>
+<tr>
+<td>UC1087_1: Realizar la limpieza de cristales en edificios y locales.</td>
+</tr>
+<tr>
+<td>3116. Limpieza con máquinas.</td>
+<td>UC1088_1: Realizar la limpieza y tratamiento de superficies en edificios y locales utilizando maquinaria.</td>
+</tr>
+</tbody>
+</table>
+
+**6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.**
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC1332_1: Efectuar el proceso de lavado, planchado y cosido básico manual de prendas de vestir y ropa de hogar, y la preparación de camas, en domicilio particular. | 3098. Mantenimiento de prendas de vestir y ropa de hogar. |
+| UC1331_1: Realizar el proceso de elaboración de alimentos en sus fases de compra, organización, manipulación, cocinado y conservación, en domicilio particular.<br>UC0255_1: Ejecutar operaciones básicas de aprovisionamiento, preelaboración y conservación culinarios. | 3102. Cocina doméstica. |
+| UC1330_1: Realizar la limpieza de domicilios particulares, en domicilio particular.<br>UC0996_1: Llevar a cabo la limpieza del mobiliario ubicado en el interior de los espacios a intervenir.<br>UC0972_1: Realizar la limpieza de suelos, paredes y techos en edificios y locales.<br>UC1087_1: Realizar la limpieza de cristales en edificios y locales. | 3104. Limpieza de domicilios particulares, edificios, oficinas y locales. |
+| UC1088_1: Realizar la limpieza y tratamiento de superficies en edificios y locales utilizando maquinaria. | 3116. Limpieza con máquinas. |
+
+> Se modifican los apartados 3.2, 3.3 y 5, se añade el apartado 6 bis y se suprime el apartado 7 por los arts. 5, 6, 8.Veintitrés, Veintinueve y Treinta, 9.Veintitrés y 10 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## ANEXO III — Título profesional básico en mantenimiento de viviendas
+
+**1. Identificación del título.**
+
+El Título profesional básico en mantenimiento de viviendas queda identificado por los siguientes elementos:
+
+– Denominación: Título profesional básico en mantenimiento de viviendas.
+
+– Nivel: Formación Profesional Básica.
+
+– Duración: 2000 horas.
+
+– Familia Profesional: Instalación y Mantenimiento.
+
+– Referente europeo: CINE-3.5.3 (Clasificación Internacional Normalizada de la Educación).
+
+**2. Perfil profesional.**
+
+**2.1 Competencia general del título.**
+
+La competencia general de este título consiste en realizar operaciones básicas de montaje y mantenimiento de elementos de fontanería, calefacción y climatización; pequeñas reparaciones y sustitución de elementos sencillos en instalaciones electrotécnicas, en revestimientos continuos, alicatado y pintura, así como montaje y colocación de mobiliario prefabricado y complementos mobiliarios de la vivienda, con la calidad indicada, aplicando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
+
+**2.2 Competencias del título.**
+
+Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
+
+a) Seleccionar materiales, herramientas y máquinas herramientas para la sustitución, montaje o colocación de elementos o reparaciones en las instalaciones, superficies o elementos de mobiliario de la vivienda a partir de órdenes de trabajo o instrucciones
+
+b) Abrir rozas y zanjas para el tendido de canalizaciones eléctricas, tuberías de evacuación y suministro de agua, circuitos de calefacción y climatización básica.
+
+c) Ensamblar elementos de tuberías de evacuación y suministro de agua e instalaciones de calefacción.
+
+d) Montar pequeñas instalaciones de riego automático y, en su caso, elaborar previamente pequeños esquemas de montaje, asegurando la cobertura de toda la superficie y el ahorro de agua.
+
+e) Instalar equipos sanitarios de la vivienda conectándolos a la red de evacuación y de agua.
+
+f) Realizar operaciones de montaje de unidades interiores y exteriores de equipos de climatización doméstica y de mantenimiento de primer nivel de las mismas.
+
+g) Realiza operaciones de ensamblaje de conductos de ventilación en fibra o similar, realizando operaciones de acabado de superficies y de sellado de juntas.
+
+h) Sustituir elementos sencillos que componen las instalaciones electrotécnicas en el ámbito de vivienda a partir de las instrucciones recibidas o de los manuales de uso.
+
+i) Reparar zonas deterioradas de revestimientos continuos de paredes y techos, pintado de la superficie afectada y sustitución de elementos cerámicos (solado y alicatado).
+
+j) Montar y colocar mobiliario prefabricado, complementos mobiliarios y accesorios de hogar, así como realizar las reparaciones básicas y sustitución de herrajes en dicho mobiliario.
+
+k) Realizar pruebas funcionales de los elementos sustituidos, empleando los instrumentos y el procedimiento requerido.
+
+l) Mantener en funcionamiento y buen estado de uso las máquinas herramientas, equipos, herramientas y útiles, cumpliendo los procedimientos establecidos en los manuales del fabricante.
+
+n) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+ñ) Actuar de forma saludable en distintos contextos cotidianos que favorezcan el desarrollo personal y social, analizando hábitos e influencias positivas para la salud humana.
+
+o) Valorar actuaciones encaminadas a la conservación del medio ambiente, diferenciando las consecuencias de las actividades cotidianas que pueda afectar al equilibrio del mismo.
+
+p) Obtener y comunicar información destinada al autoaprendizaje y a su uso en distintos contextos de su entorno personal, social o profesional mediante recursos a su alcance y los propios de las tecnologías de la información y de la comunicación.
+
+q) Actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas, apreciando su uso y disfrute como fuente de enriquecimiento personal y social.
+
+r) Comunicarse con claridad, precisión y fluidez en distintos contextos sociales o profesionales y por distintos medios, canales y soportes a su alcance, utilizando y adecuando recursos lingüísticos orales y escritos propios de la lengua castellana y, en su caso, de la lengua cooficial.
+
+s) Comunicarse en situaciones habituales tanto laborales como personales y sociales, utilizando recursos lingüísticos básicos en lengua extranjera.
+
+t) Realizar explicaciones sencillas sobre acontecimientos y fenómenos característicos de las sociedades contemporáneas a partir de información histórica y geográfica a su disposición.
+
+u) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en su actividad laboral, utilizando las ofertas formativas a su alcance y localizando los recursos mediante las tecnologías de la información y la comunicación.
+
+v) Cumplir las tareas propias de su nivel con autonomía y responsabilidad, empleando criterios de calidad y eficiencia en el trabajo asignado y efectuándolo de forma individual o como miembro de un equipo.
+
+w) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en su ámbito de trabajo, contribuyendo a la calidad del trabajo realizado.
+
+x) Asumir y cumplir las medidas de prevención de riesgos y seguridad laboral en la realización de las actividades laborales, evitando daños personales, laborales y ambientales.
+
+y) Cumplir las normas de calidad, de accesibilidad universal y diseño para todos que afectan a su actividad profesional.
+
+z) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la elección de los procedimientos de su actividad profesional.
+
+aa) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+**2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.**
+
+Cualificación profesional completa:
+
+Operaciones de fontanería y calefacción-climatización doméstica IMA367_1 (RD 182/2008, de 8 de febrero), que comprende las siguientes unidades de competencia:
+
+UC1154_1: Realizar la instalación de tuberías, preparando, cortando y uniendo tubos para la conducción de agua y desagües.
+
+UC1155_1: Realizar operaciones básicas de instalación y mantenimiento de aparatos sanitarios, radiadores y aparatos de climatización de uso doméstico.
+
+**2.4 Entorno profesional.**
+
+2.4.1 Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de productos mecánicos y electromecánicos, así como al montaje y mantenimiento de instalaciones de fontanería, calefacción y climatización.
+
+2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+– Ayudante de pintor/a.
+
+– Ayudante de mantenimiento de instalaciones electrotécnicas.
+
+– Ayudante de Fontanero/a.
+
+– Ayudante montador/a de equipos de calefacción.
+
+– Ayudante mantenedor/a de equipos de calefacción.
+
+– Ayudante montador/a de equipos de climatización.
+
+– Ayudante mantenedor/a de equipos de climatización.
+
+– Instalador/a de redes de suministro y distribución de agua.
+
+– Montador/a de muebles prefabricados de madera o similares.
+
+**2.5 Prospectiva del sector o de los sectores relacionados con el título.**
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) El perfil profesional de este título, dentro del sector terciario, evoluciona hacia un perfil de profesional que pueda realizar las reparaciones sencillas y más comunes y multiprofesionales que se requieran en el ámbito de la doméstico, así como realizar el montaje de elementos y utensilios de mobiliarios dando respuesta a las necesidades de los usuarios para adecuar y adaptar la viviendas a sus preferencias decorativas.
+
+b) El mantenimiento de viviendas prevé un fuerte crecimiento de la mano de las compañías aseguradoras como servicio a sus clientes.
+
+c) El desarrollo de nuevas tecnologías está haciendo posible el cambio de materiales y equipos para lograr una mayor eficiencia energética y seguridad eléctrica de previsible implantación obligatoria en los próximos años.
+
+d) La competitividad de las empresas constructoras dedicadas a la edificación y obra civil estarán cada vez más ligadas a su capacidad de satisfacer las necesidades del cliente en cuanto a las características del producto y del servicio ofrecido.
+
+e) Debido al cambio de modelo social y al auge de la introducción de nuevas tecnologías y materiales en las viviendas, surge la necesidad un profesional polivalente capaz de resolver situaciones específicas a los usuarios de la viviendas, tales como las averías simples de una vivienda, el montaje de muebles y mobiliario doméstico y mamparas, reparaciones sencillas de elementos de fontanería, climatización, albañilería básica, pintura y reparaciones simples en la instalación eléctrica y domótica.
+
+**3. Enseñanzas del ciclo formativo.**
+
+**3.1 Objetivos generales del título.**
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Identificar las herramientas, máquinas y medios de montaje y mantenimiento, describiendo sus características y aplicaciones para seleccionar las herramientas y máquinas y los medios necesarios en la intervención.
+
+b) Utilizar diferentes técnicas para realizar zanjas y rozas de instalaciones, utilizando las herramientas más adecuada y en condiciones de calidad y seguridad.
+
+c) Aplica técnicas de replanteo/trazado utilizando croquis y planos de pequeñas instalaciones electrotécnicas y de fontanería para la apertura de rozas y zanjas.
+
+d) Construir conducciones de fluidos aplicando técnicas básicas de soldadura y unión, identificando las principales fases del proceso y las características básicas de los elementos utilizados para ensamblar tuberías de cobre, PVC y nuevos materiales.
+
+e) Realizar pruebas de estanqueidad reglamentaria relacionando especificaciones de las instalaciones domésticas de distribución, evacuación y saneamiento con las comprobaciones que es preciso realizar.
+
+f) Identificar los elementos que intervienen en las instalaciones básicas de riego automático, así como sus características, elaborando el listado de elementos que intervienen en una estructura sencilla para el montaje de dichas instalaciones.
+
+g) Realizar operaciones de montaje instalaciones básicas de riego automático y la prueba funcional.
+
+h) Relacionar los elementos de redes domésticas de distribución, evacuación y saneamiento con los sistemas para su instalación, sujeción y regulación acoplando griferías, válvulas de corte y tuberías de desagüe para montar equipos sanitarios.
+
+i) Realizar operaciones montaje de redes domésticas de distribución, evacuación y saneamiento y efectuar presupuestos de pequeñas instalaciones habituales.
+
+j) Realizar operaciones de montaje de equipos de aire acondicionado y climatización doméstica y de mantenimiento de usuario, interpretando manuales de uso.
+
+k) Realizar operaciones de ensamblaje y construcción de conductos de la instalación de redes convencionales de ventilación aplicando técnicas básicas de mecanizado y unión.
+
+l) Instalar y desinstalar elementos sencillos de instalaciones electrotécnicas y domóticas de viviendas describiendo la función que realiza y pruebas a realizar.
+
+m) Realizar operaciones de revestimiento continuo de superficies y pintado, así como colocación de elementos cerámicos (solado y alicatado), aplicando la técnica más adecuada y utilizando adhesivos, pastas y morteros necesarios para cada intervención.
+
+n) Realizar operaciones de uniones fijas y desmontables de elementos de muebles pequeños y sencillos y montar y desmontar herrajes y cerraduras sencillas, así como identificar y montar complementos y accesorios del hogar más habituales, aplicando la técnica correspondiente.
+
+ñ) Mecanizar elementos sencillos de materiales metálicos y no metálicos utilizados en la vivienda aplicando la técnica requerida en función del elemento y material.
+
+o) Realizar operaciones de verificación del conexionado y el montaje de elementos instalados o sustituidos, utilizando los equipos de medida requeridos y realizando las pruebas funcionarles correspondientes.
+
+p) Comprender los fenómenos que acontecen en el entorno natural mediante el conocimiento científico como un saber integrado, así como conocer y aplicar los métodos para identificar y resolver problemas básicos en los diversos campos del conocimiento y de la experiencia.
+
+q) Desarrollar habilidades para formular, plantear, interpretar y resolver problemas aplicar el razonamiento de cálculo matemático para desenvolverse en la sociedad, en el entorno laboral y gestionar sus recursos económicos.
+
+r) Identificar y comprender los aspectos básicos de funcionamiento del cuerpo humano y ponerlos en relación con la salud individual y colectiva y valorar la higiene y la salud para permitir el desarrollo y afianzamiento de hábitos saludables de vida en función del entorno en el que se encuentra.
+
+s) Desarrollar hábitos y valores acordes con la conservación y sostenibilidad del patrimonio natural, comprendiendo la interacción entre los seres vivos y el medio natural para valorar las consecuencias que se derivan de la acción humana sobre el equilibrio medioambiental.
+
+t) Desarrollar las destrezas básicas de las fuentes de información utilizando con sentido crítico las tecnologías de la información y de la comunicación para obtener y comunicar información en el entorno personal, social o profesional.
+
+u) Reconocer características básicas de producciones culturales y artísticas, aplicando técnicas análisis básico de sus elementos para actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas.
+
+v) Desarrollar y afianzar habilidades y destrezas lingüísticas y alcanzar el nivel de precisión, claridad y fluidez requeridas, utilizando los conocimientos sobre la lengua castellana y, en su caso, la lengua cooficial para comunicarse en su entorno social, en su vida cotidiana y en la actividad laboral.
+
+w) Desarrollar habilidades lingüísticas básicas en lengua extranjera para comunicarse de forma oral y escrita en situaciones habituales y predecibles de la vida cotidiana y profesional.
+
+x) Reconocer causas y rasgos propios de fenómenos y acontecimientos contemporáneos, evolución histórica, distribución geográfica para explicar las características propias de las sociedades contemporáneas.
+
+y) Desarrollar valores y hábitos de comportamiento basados en principios democráticos, aplicándolos en sus relaciones sociales habituales y en la resolución pacífica de los conflictos.
+
+z) Comparar y seleccionar recursos y ofertas formativas existentes para el aprendizaje a lo largo de la vida para adaptarse a las nuevas situaciones laborales y personales.
+
+aa) Desarrollar la iniciativa, la creatividad y el espíritu emprendedor, así como la confianza en sí mismo, la participación y el espíritu crítico para resolver situaciones e incidencias tanto de la actividad profesional como de la personal.
+
+bb) Desarrollar trabajos en equipo, asumiendo sus deberes, respetando a los demás y cooperando con ellos, actuando con tolerancia y respeto a los demás para la realización eficaz de las tareas y como medio de desarrollo personal.
+
+cc) Utilizar las tecnologías de la información y de la comunicación para informarse, comunicarse, aprender y facilitarse las tareas laborales.
+
+dd) Relacionar los riesgos laborales y ambientales con la actividad laboral con el propósito de utilizar las medidas preventivas correspondientes para la protección personal, evitando daños a las demás personas y en el medio ambiente.
+
+ee) Desarrollar las técnicas de su actividad profesional asegurando la eficacia y la calidad en su trabajo, proponiendo, si procede, mejoras en las actividades de trabajo.
+
+ff) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+**3.2 Módulos profesionales.**
+
+3.2.1 Los módulos profesionales, proyecto intermodular de aprendizaje colaborativo y ámbitos son los que a continuación se relacionan:
+
+3088\. Mantenimiento básico de instalaciones electrotécnicas en viviendas.
+
+3090\. Operaciones de conservación en la vivienda y montaje de accesorios.
+
+3023\. Redes de evacuación.
+
+3024\. Fontanería y calefacción básica.
+
+3025\. Montaje de equipos de climatización.
+
+3159\. Itinerario personal para la empleabilidad;
+
+Ámbito de Comunicación y Ciencias Sociales;
+
+Ámbito de Ciencias Aplicadas.
+
+3160\. Proyecto intermodular de aprendizaje colaborativo y Tutoría.
+
+3.2.2 Otras especificaciones:
+
+1\. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+2\. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+3\. De acuerdo con lo establecido en el artículo 85 del Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+
+4\. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el título IV del Real Decreto 659/2023, de 18 de julio.
+
+5\. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.
+
+**3.3 Desarrollo de los módulos:**
+
+**Módulo Profesional: Mantenimiento básico de instalaciones electrotécnicas en viviendas.**
+
+**Código: 3088**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Identifica elementos, equipos y herramientas utilizados en instalaciones eléctricas de viviendas, describiendo sus características y aplicación.
+
+Criterios de evaluación:
+
+a) Se han identificado los conductos tubos, canaleta y accesorios de fijación, según el tipo de instalación (empotrado, de superficie, entre otros).
+
+b) Se han identificado los distintos tipos de conductores según su aplicación en las instalaciones eléctricas.
+
+c) Se han clasificado las cajas, registros, los mecanismos (interruptores, conmutadores y tomas de corriente, entre otros) según su función y aplicación.
+
+d) Se han identificado las luminarias y su fuente de luz (fluorescente, halógeno, y otros), relacionándolos con el espacio y utilización donde van a ser colocadas.
+
+e) Se han identificado los elementos típicos utilizados en las instalaciones domóticas y describiendo características principales.
+
+f) Se han asociado las herramientas seleccionadas con las operaciones que se van a realizar.
+
+g) Se han seleccionado elementos, equipos y herramientas de instalaciones eléctricas/domóticas para efectuar su montaje y mantenimiento
+
+2\. Realiza operaciones de montaje de canalizaciones, soportes y cajas de instalaciones eléctricas básicas de baja tensión y/o domótica de viviendas, efectuando el replanteo del trazado y aplicando la técnica de montaje correspondiente
+
+Criterios de evaluación:
+
+a) Se ha realizado el trazado utilizando croquis y planos básicos de instalaciones comprobando que corresponde el trazado realizado con los planos.
+
+b) Se han preparado los espacios destinados a la ubicación de cajas y canalizaciones.
+
+c) Se han aplicado diferentes técnicas en la sujeción de tubos y canalizaciones (mediante tacos y tornillos, abrazaderas, grapas, fijaciones químicas, entre otros).
+
+d) Se han realizado las operaciones de montaje de canalizaciones, soportes y cajas de la instalación eléctrica, respetando la integridad de los mismos.
+
+e) Se han montado las cajas de registro y conexión de elementos y domóticas, respetando la integridad de los mismos.
+
+f) Se han realizado los trabajos utilizando los equipos de protección individual requeridos con seguridad, orden y limpieza,
+
+3\. Realiza operaciones de cableado entre elementos, bajo tubo o superficie de las instalaciones eléctricas de baja tensión y/o domóticas, aplicando técnicas de montaje de acuerdo a la tipología de los conductores y las características de la instalación.
+
+Criterios de evaluación:
+
+a) Se han descrito las características principales de los conductores (sección, aislamiento, color, entre otras).
+
+b) Se han descrito los tipos de agrupación de conductores, según su aplicación en la instalación (cables monohilo, cables multihilo, mangueras, entre otros).
+
+c) Se han relacionado los colores de los cables con su aplicación, de acuerdo al código correspondiente.
+
+d) Se han identificado los tipos de guías pasacables más habituales la forma de sujeción, describiendo su utilización.
+
+e) Se ha aplicado técnicas de sujeción del cable en la guía en función del tipo de cable y ocupando el mínimo espacio.
+
+f) Se han introducido los cables por el tubo correspondiente sin dañar sus características.
+
+g) Se han aplicado la técnica requerida para el montaje de cables en montaje de superficie asegurando su fijación y estética.
+
+h) Se han preparado los cables tendidos dejando la longitud adecuada para posibilitar su conexionado y el etiquetado de los mismos.
+
+i) Se han utilizado los equipos de protección individual requeridos.
+
+j) Se han realizado los trabajos con orden y limpieza.
+
+4\. Realiza operaciones de montaje y sustitución de mecanismos y elementos de las instalaciones eléctricas y/o domóticas de viviendas, aplicando la técnica de conexión requerida y los elementos de conexión correspondientes.
+
+Criterios de evaluación:
+
+a) Se han identificado los mecanismos y elementos de las instalaciones describiendo sus características.
+
+b) Se han descrito las principales funciones de los mecanismos y elementos (interruptores, conmutadores, sensores, entre otros), en las instalaciones
+
+c) Se han colocado y fijado mecanismos, detectores y sensores de las instalaciones electrotécnicas de la vivienda aplicando las técnicas correspondientes.
+
+d) Se han preparado los terminales de conexión según su tipo.
+
+e) Se han conectado los cables con los mecanismos y aparatos eléctricos, asegurando un buen contacto eléctrico y la correspondencia entre el cable y el terminal del aparato o mecanismo.
+
+f) Se han colocado embellecedores y tapas cuando así se requiera.
+
+g) Se han utilizado las herramientas y materiales según requerimientos y seguridad requerida.
+
+5\. Comprueba el funcionamiento de instalaciones eléctricas y/o domóticas de viviendas, relacionando la disfunción producida con el mecanismo, elemento afectado o mala conexión.
+
+Criterios de evaluación:
+
+a) Se han descrito las averías tipo en instalaciones eléctricas y domóticas de viviendas, indicando el elemento afectado.
+
+b) Se han comprobado los efectos producidos por una disfunción o mala conexión de los elementos electrotécnicos en el funcionamiento de la instalación.
+
+c) Se han comprobado el funcionamiento eléctrico de elementos de instalaciones utilizando los equipos y herramientas requeridas
+
+d) Se ha comprobado el funcionamiento la instalación y de sus elementos efectuando pruebas funcionales o comprobaciones eléctricas elementales.
+
+e) Se han aplicado las normas de seguridad en las intervenciones realizadas.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Identifica elementos, equipos y herramientas utilizados en instalaciones eléctricas de viviendas:
+
+– Características de una instalación eléctrica tipo de vivienda.
+
+– Características y tipos de elementos: Puesta a tierra de las instalaciones.
+
+– Protección contra contactos directos e indirectos. Dispositivos.
+
+– Herramientas y equipos utilizados en el montaje de instalaciones. Características y modo de empleo
+
+– Seguridad en las instalaciones.
+
+Montaje de canalizaciones, soportes y cajas en instalaciones eléctricas de baja tensión y/o domóticas en viviendas:
+
+– Tipos de las canalizaciones
+
+– Técnicas de montaje en función del tipo de instalación.
+
+– Medios y equipos de seguridad. Prevención de accidentes. Normativa básica de seguridad eléctrica. Riesgos en altura.
+
+Cableado entre equipos y elementos de instalaciones eléctricas y domóticas de viviendas:
+
+– Técnicas de instalación y tendido de los conductores. Guías pasacables, tipos y características. Precauciones.
+
+– Medidas de seguridad y protección.
+
+Sustitución y/o montaje de mecanismos y elementos de las instalaciones eléctricas/domóticas en viviendas:
+
+– Aparatos de protección. Tipos y características.
+
+– Técnicas de montaje/sustitución de componentes en instalaciones.
+
+– Interruptores, conmutadores, pulsadores, entre otros., Tipos y características.
+
+– Tomas de corriente. Conexión.
+
+– Receptores eléctricos. Conexión.
+
+– Medidas de seguridad y protección.
+
+Comprobación del funcionamiento de instalaciones eléctricas y/o domóticas de viviendas:
+
+– Medida de las magnitudes eléctricas básicas: tensión, intensidad, resistencia y continuidad y aislamientos, entre otros.
+
+– Precauciones y medidas de seguridad y protección.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de realizar operaciones de montaje de instalaciones eléctricas de baja tensión y domóticas en edificios.
+
+La definición de esta función incluye aspectos como:
+
+– La identificación de equipos, elementos, herramientas y medios auxiliares.
+
+– El montaje de equipos, canalizaciones y soportes. El tendido de cables.
+
+– El mantenimiento de usuario o de primer nivel.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), l), o), x), y), z), aa), bb), cc), dd), ee), ff) del ciclo formativo; y las competencias profesionales, personales y sociales a), b), f), h), k), l), u), v), w), x), y), z), aa) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La identificación de los equipos, medios auxiliares, equipos y herramientas para la realización del montaje y mantenimiento de las instalaciones.
+
+– La aplicación de técnicas de montaje de equipos y elementos de las instalaciones.
+
+– La realización de medidas de las magnitudes específicas de las instalaciones.
+
+**Módulo Profesional: Operaciones de conservación en la vivienda y montaje de accesorios.**
+
+**Código: 3090**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza operaciones de preparación y mantenimiento del puesto de trabajo, seleccionando herramientas, medios auxiliares y materiales que se van a utilizar.
+
+Criterios de evaluación:
+
+a) Se han identificado las herramientas, medios auxiliares y materiales, describiendo sus características y forma de empleo.
+
+b) Se han identificado las distintas zonas de trabajo, según el tipo de la intervención a realizar.
+
+c) Se han mantenido limpias y ordenadas las zonas implicadas en la intervención.
+
+d) Se han clasificado y gestionado los residuos, según su procedencia y peligrosidad
+
+e) Se han señalizado las zonas de actuación, utilizando los elementos de señalización en función de los requerimientos de seguridad y peligro de las zonas de actuación.
+
+f) Se han identificado y descrito la utilidad y el uso de los medios auxiliares y de los elementos de protección colectiva.
+
+2\. Realiza operaciones de preparación y uso básico de morteros, pastas de yeso y adhesivos, relacionando las dosificaciones e instrucciones de uso con sus aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado los diferentes componentes de los morteros y mezclas, según su aplicación.
+
+b) Se ha respetado la dosificación, la granulometría del árido, el tipo de cemento, los tipos de arenas y cal en el caso de morteros.
+
+c) Se ha seleccionado el medio de preparación en función de la cantidad y de la composición.
+
+d) Se ha realizado la mezcla y comprobado que presenta la debida homogeneidad.
+
+e) Se han identificado y caracterizado los distintos tipos de revestimientos básicos.
+
+f) Se han realizado las operaciones elementales de revestimiento
+
+g) Se ha humedecido el paramento.
+
+h) Se ha replanteado el paramento con maestras verticales.
+
+i) Se han preparado los resaltes y huecos a respetar.
+
+j) Se han aplicado el espesor mínimo del revestimiento acabado.
+
+k) Se ha pañeado el paramento con regla.
+
+l) Se ha humedecido el paño después de la aplicación del revestimiento.
+
+m) Se ha operado con las herramientas aplicando los equipos de protección individual y seguridad requeridas.
+
+3\. Realiza operaciones auxiliares de albañilería para instalaciones de fontanería, saneamiento, electricidad y climatización, aplicando la técnica correspondientes y sin deterioro de los elementos a instalar.
+
+Criterios de evaluación:
+
+a) Se han efectuado las operaciones básicas de demolición.
+
+b) Se han realizado rozas en paramentos verticales o suelos.
+
+c) Se han realizado zanjas elementales aplicando la técnica correspondiente a partir de instrucciones recibidas.
+
+d) Se han realizado las operaciones de compactado básicas de suelos (tierras y otros).
+
+e) Se ha limpiado la zona intervenida una vez realizada la operación.
+
+f) Se han retirado y gestionado los residuos sobrantes de la actuación.
+
+g) Se han fijado equipos y elementos simples de las instalaciones relacionadas.
+
+h) Se ha comprobado el resultado obtenido y posible uso en el montaje de la instalación a realizar, determinando las posibles medidas de corrección en función de los resultados obtenidos.
+
+i) Se ha operado con las herramientas adecuadas, aplicando los equipos de protección individual y seguridad requeridas.
+
+4\. Realiza operaciones sencillas de colocación y sustitución de elementos cerámicos, solados y alicatados; y de revestimientos continuos de superficies aplicando la técnica correspondiente y con la estética requerida.
+
+Criterios de evaluación:
+
+a) Se ha preparado la zona de trabajo, distribuyendo los materiales y herramientas a emplear.
+
+b) Se han elimina los elementos dañados utilizando la herramienta requerida y aplicando protecciones para no afectar a la zona en buen estado
+
+c) Limpia y prepara la base de la zona dañada o de la zona a intervenir, aplicando técnica correspondiente.
+
+d) Se han adaptado las piezas a los requerimientos de ubicación, aplicando la técnica correspondiente
+
+e) Se han colocado los elementos cerámicos, solados o alicatados acorde con el entorno, utilizando el material de unión o pegamento requerido
+
+f) Se ha comprobado el resultado de la intervención, observando el nivel, alineación con el resto de piezas respetando la estética del conjunto.
+
+g) Se han retirado y gestionado los residuos sobrantes limpiado las superficies de trabajo, así como el entorno.
+
+h) Se ha utilizado las herramientas con los requerimientos correspondientes y con los equipos de protección individual y seguridad requeridas.
+
+5\. Realiza operaciones de pintado sencillas de diferentes superficies de interior y exterior aplicando las mezclas correspondientes y la técnica requerida en función de las características de la superficie a pintar.
+
+Criterios de evaluación:
+
+a) Se ha preparado la zona de trabajo, distribuyendo los materiales y herramientas a emplear.
+
+b) Se ha preparado la zona a pintar eliminando grietas, desperfectos, desniveles, posibles humedades entre otros, aplicando la técnica requerida.
+
+c) Se ha nivelado y alisado la superficie preparándola para la intervención.
+
+d) Se han despejado y cubierto las zonas circundantes y elementos para evitar posibles accidentes o evitar manchas en su entorno.
+
+e) Se ha adecuado el color a los requerimientos solicitados o estéticos de la zona aplicando la carta de colores correspondientes
+
+f) Se ha pintado la zona con las técnicas adecuadas y con la mezcla correspondiente.
+
+g) Se ha comprobado el resultado de la intervención, identificando posibles defectos, realizando las correcciones oportunas y respetando la estética del conjunto.
+
+h) Se ha limpiado y recogido el material, comprobando que no se ha manchado o dañado la zona de trabajo.
+
+6\. Realiza operaciones auxiliares en el montaje e instalación de muebles prefabricados y sencillos aplicando las técnicas requeridas y siguiendo instrucciones de montaje.
+
+Criterios de evaluación:
+
+a) Se ha descrito el procedimiento de toma de medidas y de ubicación del mueble a montar o elementos a construir.
+
+b) Se han obtenido los datos y las medidas para el montaje o la construcción a partir de croquis sencillos.
+
+c) Se han realizado uniones fijas y desmontables de elementos de mueble sencillos aplicando la técnica correspondiente.
+
+d) Se ha comprobado que la inclinación del canto en las hojas es la adecuada (alambor) y que la elección de los herrajes de apertura es la correcta (a derechas o a izquierdas).
+
+e) Se ha efectuado la instalación sin que los elementos arquitectónicos, cercos y precercos, las instalaciones o las personas sufran daños.
+
+f) Se han aplicado las normas de seguridad y prevención de riesgos laborales
+
+7\. Realiza operaciones de ajuste de piezas, herrajes y mecanismos, relacionándolos con su función en el elemento de carpintería o mueble.
+
+Criterios de evaluación:
+
+a) Se han relacionado los distintos sistemas de fijación de elementos con los soportes a los que se fijan.
+
+b) Se han identificado los principales herrajes a utilizar en muebles y elementos de carpintería para uniones con o sin movimiento describiendo su función.
+
+c) Se han enumerado los factores a tener en cuenta en el ajuste de subconjuntos en la instalación de muebles.
+
+d) Se han colocado las piezas, herrajes y mecanismos según las instrucciones de montaje, verificando que es la adecuada y que cumplen con la función para la que fueron instalados.
+
+e) Se han comprobado que las herramientas y medios utilizados para la instalación son los más idóneos.
+
+f) Se ha verificado que el desplazamiento de las piezas móviles se realiza sin impedimentos y responde a las especificaciones requeridas.
+
+g) Se han aplicado las normas de seguridad y prevención de riesgos laborales.
+
+8\. Realiza operaciones básicas de mecanizado sobre madera y derivados, elementos metálicos y no metálicas con herramientas manuales o con maquinaria portátil, aplicando la técnica correspondiente en función del material y las condiciones de mecanizado.
+
+Criterios de evaluación:
+
+a) Se han seleccionado las máquinas y herramientas en función del tipo de mecanizado a realizar.
+
+b) Se han realizado las operaciones de limado, siguiendo los procedimientos establecidos.
+
+c) Se han realizado las operaciones de aserrado manual aplicando la técnica correspondiente.
+
+d) Se han realizado las operaciones de taladrado, seleccionando las herramientas propias a cada material describiendo las características de las mismas.
+
+e) Se ha realizado las operaciones de remachado en piezas metálicas asegurando la unión y aplicando la técnica correspondiente.
+
+f) Se ha comprobado la calidad del producto resultante, corrigiendo las anomalías detectadas.
+
+g) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección
+
+h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+**Duración: 170 horas.**
+
+**Contenidos básicos:**
+
+Preparación y mantenimiento del puesto de trabajo,
+
+– Herramientas: Llana, espátula y maza, entre otras.
+
+– Medios auxiliares: andamios, borriquetas, escaleras y otros.
+
+– Selección de herramientas, medios auxiliares y materiales.
+
+– Identificación de señales de seguridad.
+
+– Señalización de las zonas de actuación.
+
+– Equipos de protección individual. Características y uso.
+
+– Medidas de protección colectivas.
+
+Preparación y uso básico de pastas, morteros y adhesivos:
+
+– Instrucciones de fabricante. Interpretación y dosificación.
+
+– Características y tipos de grava y arena.
+
+– Yesos. Tipos, característica y aplicaciones.
+
+– Adhesivos. Tipos, característica y aplicaciones.
+
+– Técnica de mezclado de materiales. Precauciones.
+
+– Características y tipos de guarnecidos y morteros. Continuidad entre paños.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+Realización de operaciones auxiliares de albañilería:
+
+– Herramientas y máquinas herramientas de albañilería básicas.
+
+– Operaciones auxiliares de albañilería para la realización de instalaciones en la vivienda: fontanería, electricidad, antenas, carpintería, climatización, entre otras.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+Realización de operaciones sencillas de colocación y sustitución de elementos cerámicos, solados y alicatados; y de revestimientos continuos.
+
+– Materiales cerámicos, solados y alicatados. Tipos, características y aplicaciones.
+
+– Diferenciación de los tipos de piezas en solados y alicatados.
+
+– Equipos y herramientas empleadas en el solado y alicatado. Características.
+
+– Preparación de masas y pegamentos; y su relación con los elementos de cerámica, solado y alicatado a utilizar.
+
+– Técnicas utilizadas en la sustitución de piezas en solados y alicatados.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+Realización de operaciones básicas de pintado de diferentes superficies de interior y exterior.
+
+– Materiales y pinturas. Tipos, características.
+
+– Herramientas utilizadas en el de pintado. Tipos, características y utilización. Limpieza y conservación.
+
+– Uso de pinturas en función del tipo de superficie y acabado a obtener.
+
+– Técnicas de pintado a mano y con máquinas sencillas
+
+– Precauciones a observar durante el pintado.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+Realización de operaciones de montaje e instalación de muebles prefabricados y sencillos.
+
+– Herramientas y materiales empleados en la instalación y montaje de muebles prefabricados y elementos de carpintería. Tipos, características y uso.
+
+– Interpretación de croquis básicos de montaje/instalación de muebles.
+
+– Montaje de muebles prefabricados. Instrucciones de montaje.
+
+– Protección del medio ambiente y personal en su uso material y la recogida y reciclado de productos.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+Realización de operaciones de ajuste de piezas, herrajes y mecanismos de elemento de carpintería o mueble.
+
+– Herrajes, mecanismos, piezas y accesorios que se utilizan en el montaje de muebles puertas.
+
+– Herramientas y empleadas en las operaciones el montaje y ajustes de herrajes. Tipos, utilización y conservación.
+
+– Sistemas de fijación de herrajes y soportes utilizados.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+Realización de operaciones básicas de mecanizado sobre madera y derivados, elementos metálicos y no metálicos.
+
+– Herramientas y empleadas en las operaciones de mecanizado de madera y elementos metálicos. Tipos, utilización y conservación.
+
+– Selección de la herramienta y útiles en función del material a mecanizar.
+
+– Técnicas de limado.
+
+– Técnicas de aserrado.
+
+– Técnicas de Taladrado.
+
+– Precauciones a tener en cuenta en la realización de mecanizados.
+
+– Condiciones de prevención y seguridad. Uso de los equipos de protección individual.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para realizar operaciones de albañilería básica en edificios o conjunto de edificios.
+
+La definición de esta función incluye aspectos como:
+
+– La aplicación de técnicas de albañilería básica.
+
+– Las medidas de seguridad a adoptar.
+
+– El montaje de muebles modulares.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), m), n), ñ), o), x), y), z), aa), bb), cc), dd), ee), ff) del ciclo formativo; y las competencias profesionales, personales y sociales a), b), c), i), j), k), l), u), v), w), x), y), z), aa) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La preparación de tajos en la obras.
+
+– La elaboración y tendido de pastas, morteros y adhesivos.
+
+– Las ayudas de albañilería a los distintos oficios.
+
+– Técnicas de montaje de muebles modulares.
+
+**Módulo Profesional: Redes de evacuación.**
+
+**Código: 3023**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza operaciones de acondicionamiento del puesto de trabajo describiendo las operaciones a realizar e identificando equipos y materiales.
+
+Criterios de evaluación:
+
+a) Se han interpretado los planos elementales y documentación básica de la instalación
+
+b) Se han identificado los elementos de las instalaciones y descrito sus características.
+
+c) Se han descrito las operaciones para la realización de la instalación, especificando los medios requeridos.
+
+d) Se ha limpiado el entorno de las zonas en las que se van a realizar los trabajos.
+
+e) Se han identificado y seleccionado los materiales, equipos y herramientas, describiendo sus características y aplicaciones.
+
+f) Se han abierto y compactado zanjas elementales en la zona.
+
+g) Se han mantenido las zonas de trabajo de su responsabilidad en condiciones de orden, limpieza y seguridad.
+
+h) Se han aplicado las normas de seguridad y salud laboral, utilizando los medios individuales de protección.
+
+2\. Realiza operaciones de montaje redes generales de evacuación de agua sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
+
+Criterios de evaluación:
+
+a) Se ha descrito la función de cada elemento en el conjunto de la instalación.
+
+b) Se ha identificado y descrito el sistema de montaje (vertical, horizontal, pendientes, conexiones, entre otros).
+
+c) Se ha realizado el trazado de instalaciones sencillas relacionando el elemento trazado con el plano utilizado.
+
+d) Se han montado elementos (cierres hidráulicos, bajantes, colectores colgados, elementos de conexión, entre otros) de una red general de evacuación sencilla y típica aplicando la técnica correspondiente.
+
+e) Se han montado los elementos (cierres hidráulicos, bajantes, colectores colgados, elementos de conexión, fosa séptica, entre otros) de una vivienda unifamiliar sencilla, aplicado la técnica requerida.
+
+f) Se han conectado los elementos de la instalación según el plano o documentación correspondiente.
+
+g) Se han realizado pruebas de funcionamiento describiendo los posibles defectos habituales.
+
+h) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento o reciclaje.
+
+i) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
+
+3\. Realiza operaciones de montaje redes de evacuación de aguas pluviales sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
+
+Criterios de evaluación:
+
+a) Se ha descrito la función que realiza cada elemento en el conjunto de la instalación
+
+b) Se ha identificado y descrito el sistema de montaje (vertical, horizontal, pendientes, conexiones, entre otros).
+
+c) Se ha realizado el trazado de instalaciones sencillas relacionando el elemento trazado con el plano utilizado.
+
+d) Se han montado las conducciones de una red de evacuación de aguas pluviales de evacuación sencilla y típica (canalones, bajantes, colectores colgados o enterrados, elementos de conexión, entre otros), aplicado la técnica requerida.
+
+e) Se han aplicado técnicas de anclaje y sujeción y descrito sus vent6ajes e inconvenientes.
+
+j) Se han realizado operaciones de conexionado de los elementos de la red de evacuación a la red general (colectores, arquetas, pozos, entre otros), aplicado la técnica requerida.
+
+k) Se han realizado pruebas de funcionamiento describiendo los posibles defectos habituales.
+
+l) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento o reciclaje.
+
+m) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
+
+4\. Realiza operaciones de montaje redes de evacuación de aguas residuales sencillas, aplicando la técnica requerida y relacionando cada componente con la función que realiza.
+
+Criterios de evaluación:
+
+a) Se ha descrito la función que realiza cada elemento en el conjunto de una instalación de evacuación de aguas residuales.
+
+b) Se ha identificado y descrito el sistema de montaje (vertical, horizontal, pendientes, conexiones, entre otros).
+
+c) Se ha realizado el trazado de instalaciones sencillas relacionando el elemento trazado con el plano utilizado.
+
+d) Se han unido y tendido las tuberías de evacuación de aguas residuales presentándolas desde cada equipo sanitario al colector o bajante correspondiente, aplicado la técnica requerida.
+
+e) Se ha unido cada conducción de la red de evacuación de aguas residuales de un cuarto de baño a cada equipo sanitario o elemento terminal, aplicado la técnica requerida.
+
+f) Se han insonorizado las tuberías de evacuación describiendo las ventajas e inconveniente de su insonorización.
+
+g) Se ha conectado la red de evacuación de aguas residuales a los elementos (colectores, arquetas, pozos, entre otros) de la red general de evacuación del edificio, aplicado la técnica requerida.
+
+h) Se han realizado pruebas de funcionamiento describiendo los posibles defectos habituales.
+
+i) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento o reciclaje.
+
+j) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
+
+5\. Mantiene redes de evacuación de aguas, asociando las disfunciones con su posible causa de origen.
+
+Criterios de evaluación:
+
+a) Se han descrito las posibles disfunciones que pueden presentar las redes generales de evacuación, redes de aguas pluviales y redes de aguas residuales.
+
+b) Se han relacionado las disfunciones de las distintas redes con las operaciones de mantenimiento.
+
+c) Se han seleccionado equipos, herramientas y utillaje necesarios para las operaciones de mantenimiento.
+
+d) Se han realizado operaciones de reparación y mantenimiento de instalaciones de las redes sencillas, aplicando la técnica requerida.
+
+e) Se han realizado pruebas de funcionamiento describiendo los la ventajas de su mantenimiento.
+
+f) Se ha retirado el material sobrante, clasificándolo para su aprovechamiento o reciclaje.
+
+g) Se han observado las normas de seguridad y salud laboral, utilizando los medios individuales de protección
+
+**Duración: 110 horas.**
+
+**Contenidos básicos:**
+
+Acondicionamiento de la zona de trabajo y acopio de materiales:
+
+– Sistemas de unidades. Medida de magnitudes. Longitudes, superficies y volúmenes.
+
+– Manejo de equipos de medida.
+
+– Identificación de componentes.
+
+– Manejo de herramientas portátiles.
+
+– Técnicas de marcaje de cajas y rozas.
+
+– Técnicas de clasificación de los residuos.
+
+– Técnicas de evacuación de residuos.
+
+– Marcaje de elementos.
+
+– Orden de desmontaje y montaje de elementos.
+
+– Condiciones de seguridad.
+
+Montaje de redes generales de evacuación de aguas:
+
+– Tipología de las instalaciones de evacuación de aguas.
+
+– Características de los materiales de las tuberías.
+
+– Configuraciones de los sistemas de evacuación.
+
+– Elementos que componen las instalaciones.
+
+– Técnicas de montaje y unión de tuberías plásticas, de gres, fundición y gres.
+
+– Normativa vigente.
+
+Montaje de redes de evacuación de aguas pluviales:
+
+– Tipología de las instalaciones de evacuación de aguas pluviales.
+
+– Características de los materiales de las tuberías.
+
+– Configuraciones de los sistemas de evacuación.
+
+– Elementos que componen las instalaciones.
+
+– Técnicas de montaje y unión de canalones y tuberías.
+
+– Sistemas de sujeción.
+
+– Pruebas de estanqueidad.
+
+– Instalaciones de recuperación del agua de lluvia.
+
+– Normativa vigente.
+
+Montaje de redes de evacuación de aguas residuales:
+
+– Tipología de las instalaciones de evacuación de aguas residuales.
+
+– Características de los materiales de las tuberías. Materiales y características. Dimensiones normalizadas.
+
+– Configuraciones de los sistemas de evacuación. Número de sumideros. Pendientes. Concepto de unidades de descarga.
+
+– Elementos que componen las instalaciones. Bajantes y canalones. Colectores. Tipología.
+
+– Técnicas de montaje y unión de tuberías para aplicaciones en evacuación de aguas residuales.
+
+– Pruebas de estanqueidad. Prueba con agua. Prueba con aire. Prueba con humo.
+
+– Normativa vigente.
+
+Mantenimiento de redes de evacuación:
+
+– Comprobaciones periódicas de estanqueidad.
+
+– Revisión de sifones y válvulas.
+
+– Disminución de caudales.
+
+– Eliminación de atascos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de montaje y mantenimiento de redes de evacuación de aguas.
+
+La definición de esta función incluye aspectos como:
+
+– Acondicionamiento de la zona de trabajo.
+
+– Montaje de redes generales de evacuación de agua.
+
+– Montaje de redes de evacuación de aguas pluviales.
+
+– Monta de redes de evacuación de aguas residuales.
+
+– Conservación de redes de evacuación de aguas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), l), o), x), y), z), aa), bb), cc), dd), ee), ff) del ciclo formativo; y las competencias profesionales, personales y sociales a), b), f), h), k), l), u), v), w), x), y), z), aa) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales y equipos para la ejecución de instalaciones de evacuación de aguas.
+
+– Las técnicas de unión y montaje de instalaciones de evacuación de aguas.
+
+– Los procedimientos para el mantenimiento y conservación de redes de evacuación de aguas.
+
+**Módulo Profesional: Fontanería y calefacción básica.**
+
+**Código: 3024**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Elabora presupuestos elementales identificando el coste de los materiales y de los recursos.
+
+Criterios de evaluación:
+
+a) Se han relacionado los elementos de la instalación con la documentación gráfica.
+
+b) Se ha estimado el tiempo necesario para ejecutar las instalaciones.
+
+c) Se han determinado los equipos de trabajo necesarios para realizar las instalaciones.
+
+d) Se han comparado equipos y elementos de diversos suministradores mediante catálogos físicos o virtuales.
+
+e) Se ha identificado el material a emplear en las tuberías y el sistema de instalación más adecuado.
+
+f) Se ha valorado el importe de los materiales a instalar.
+
+g) Se ha valorado el coste de desmontaje de instalaciones existente.
+
+h) Se ha confeccionado el presupuesto, utilizando medios informáticos.
+
+2\. Realiza operaciones de acondicionamiento del puesto de trabajo, seleccionando herramientas, medios auxiliares y materiales que se van a utilizar.
+
+Criterios de evaluación:
+
+a) Se ha localizado el lugar concreto en el que se instala cada equipo o tubería.
+
+b) Se ha marcado en los paramentos el trazado de las conducciones.
+
+c) Se han realizado operaciones de albañilería básica en las zonas de trabajo.
+
+d) Se han realizado los taladros necesarios para los elementos de fijación de las sujeciones de las tuberías.
+
+e) Se han realizado las rozas para el empotramiento de tuberías.
+
+f) Se han acondicionado las superficies.
+
+g) Se han realizado los trabajos con orden y limpieza.
+
+h) Se han acopiado los restos de materiales para su posterior retirada.
+
+i) Se han utilizado los elementos de protección necesarios.
+
+3\. Realiza operaciones de montaje de redes de suministro de agua sencillas, aplicando la técnica correspondiente y relacionando cada componente de la instalación con la función que realiza.
+
+Criterios de evaluación:
+
+a) Se ha identificado el recorrido de las tuberías de suministro de agua.
+
+b) Se ha seleccionado el sistema de unión de las tuberías (embutido, soldeo, pegado, entre otros).
+
+c) Se ha seleccionado el sistema de protección mecánica para las tuberías (tubo corrugado, entre otros).
+
+d) Se han acopiado los materiales y elementos necesarios para realizar la pasta para el tapado de las tuberías.
+
+e) Se han montado los elementos de sujeción de las tuberías.
+
+f) Se han montado las tuberías a los elementos de sujeción o se han empotrado en las rozas realizadas.
+
+g) Se han unido las tuberías utilizando el sistema que corresponda a cada material.
+
+h) Se han realizado las operaciones de albañilería necesarias para finalizar el empotramiento de las tuberías.
+
+i) Se han realizado las pruebas que indica la normativa vigente sobre las instalaciones interiores y las instalaciones de A.C.S.
+
+j) Se ha mantenido limpia y ordenada la zona de trabajo.
+
+k) Se han utilizado los elementos de protección adecuados a los trabajos.
+
+4\. Realiza operaciones de montaje de instalaciones de riego automático, distribuyendo los elementos y aplicando técnicas básicas de montaje.
+
+Criterios de evaluación:
+
+a) Se han configurado pequeñas instalaciones en función del área de riego.
+
+b) Se han seleccionado los elementos necesarios para acometer la instalación de riego.
+
+c) Se han acopiado los materiales, herramientas y equipos.
+
+d) Se han realizado las zanjas en la parcela objeto de la instalación.
+
+e) Se han tendido y conexionado las tuberías según las instrucciones de montaje.
+
+f) Se han cubierto las zanjas dejando el terreno nivelado.
+
+g) Se han realizado pruebas de estanqueidad y alcance de la instalación.
+
+h) Se ha acopiado el material sobrante para su posterior aprovechamiento o reciclaje.
+
+i) Se han utilizado las medidas de seguridad requeridas para realizar las instalaciones.
+
+5\. Realiza operaciones de montaje de instalaciones de calefacción, identificando los elementos y la función que realizan en la instalación.
+
+Criterios de evaluación:
+
+a) Se ha recopilado la documentación técnica relevante.
+
+b) Se ha interpretado la documentación gráfica (planos y esquemas) de los elementos implicados en la instalación y el sistema de instalación (monotubo, bitubo, suelo radiante, entre otros).
+
+c) Se han acopiado las herramientas y equipos necesarios.
+
+d) Se ha descrito la función que realiza cada uno de los elementos a instalar en el conjunto de la instalación.
+
+e) Se han fijado a los paramentos los elementos de sujeción de los equipos y tuberías a instalar.
+
+f) Se han unido y tendido las tuberías del sistema de emisión (radiadores, aerotermos o suelo radiante).
+
+g) Se han conexionado los elementos terminales al equipo de producción de calor.
+
+h) Se han realizado las pruebas de presión según la normativa vigente.
+
+i) Se ha acopiado el material sobrante para su posterior aprovechamiento o reciclaje.
+
+j) Se han utilizado las medidas de seguridad requeridas para realizar las instalaciones.
+
+6\. Realiza operaciones de montaje aparatos sanitarios, identificando la secuencia de operaciones en la documentación básica y aplicando la técnica requerida.
+
+Criterios de evaluación:
+
+a) Se ha relacionado la documentación técnica con los elementos a instalar.
+
+b) Se han descrito las principales características de los aparatos sanitarios (caudal, diámetro de las conexiones, entre otros).
+
+c) Se han acopiado los materiales y herramientas necesarios para realizar el montaje de los aparatos.
+
+d) Se han presentado los aparatos en el lugar que ocuparán en la instalación.
+
+e) Se han montado los soportes y las fijaciones de los aparatos.
+
+f) Se han montado y conectado los aparatos sanitarios a las tuberías correspondientes (abastecimientos y desagües).
+
+g) Se ha montado y regulado la grifería de cada aparato sanitario.
+
+h) Se han realizado las pruebas de estanqueidad sobre las instalaciones.
+
+i) Se han aplicado criterios de seguridad en el transporte y manipulación de las cargas.
+
+j) Se ha colaborado con los compañeros en el montaje de los equipos.
+
+7\. Realiza operaciones de mantenimiento de instalaciones de redes de suministro de agua y calefacción, identificando las operaciones a realizar y relacionando las disfunciones con sus posibles soluciones.
+
+Criterios de evaluación:
+
+a) Se ha aplicado la normativa específica para cada tipo de instalación.
+
+b) Se han preparado el material y los equipos necesarios.
+
+c) Se han preparado los equipos de prevención de riesgos necesarios.
+
+d) Se ha realizado el vaciado de las instalaciones.
+
+e) Se han lavado las instalaciones después de su vaciado.
+
+f) Se ha realizado el llenado de las instalaciones.
+
+g) Se ha realizado el mantenimiento de instalaciones siguiendo criterios higiénico-sanitarios.
+
+h) Se han realizado pruebas de funcionamiento.
+
+i) Se han aplicado técnicas de ahorro de agua y de eficiencia energética.
+
+**Duración: 125 horas.**
+
+**Contenidos básicos:**
+
+Elaboración de presupuestos:
+
+– Mediciones.
+
+– Estimación del coste de los materiales. Catálogos.
+
+– Estimación de tiempos de trabajo.
+
+– Aplicación de las TIC.
+
+Acondicionamiento de la zona de trabajo:
+
+– Sistemas de unidades. Medida de magnitudes. Longitudes, superficies y volúmenes. Manejo de equipos de medida.
+
+– Interpretación de planos.
+
+– Manejo de herramientas portátiles.
+
+– Técnicas de marcaje de huecos y rozas.
+
+– Técnicas de clasificación de los residuos.
+
+– Técnicas de evacuación de residuos.
+
+– Marcaje de elementos.
+
+– Orden de desmontaje y montaje de elementos.
+
+– Condiciones de seguridad.
+
+Montaje de redes de suministro de agua:
+
+– Sistemas de instalación.
+
+– Ejecución de redes de tuberías.
+
+– Protecciones.
+
+– Térmicas. Contra esfuerzos mecánicos. Contra ruidos.
+
+– Características de los materiales de las tuberías.
+
+– Red de agua fría.
+
+– Instalación de agua caliente sanitaria.
+
+– Elementos que componen la red de agua fría. Sistemas de tratamiento de agua.
+
+– Instalaciones de agua caliente sanitaria (ACS).
+
+– Protección contra retornos.
+
+– Técnicas de montaje y unión de tuberías plásticas, de gres, fundición y gres (pegado, embutido, soldeo, entre otras).
+
+– Normativa vigente.
+
+Realización de Instalaciones de riego automático:
+
+– Instalaciones de riego automático.
+
+– Tipos de aspersores.
+
+– Configuración de instalaciones de riego automático.
+
+– Elementos constituyentes de una instalación de riego.
+
+– Características de los materiales de las tuberías.
+
+– Técnicas de montaje y unión de tuberías plásticas.
+
+– Normativa vigente.
+
+Montaje de instalaciones de calefacción:
+
+– Sistemas de instalación.
+
+– Ejecución de redes de tuberías para instalaciones de calefacción. Técnicas de montaje y unión de tuberías plásticas y metálicas.
+
+– Características de los materiales de las tuberías.
+
+– Elementos que componen la instalación de calefacción.
+
+– Pruebas. Prueba de estanqueidad.
+
+– Prueba de resistencia mecánica.
+
+– Ajuste y equilibrado en circuitos de agua para calefacción.
+
+– Normativa vigente.
+
+Montaje de aparatos sanitarios:
+
+– Interpretación de planos y documentación técnica.
+
+– Aparatos sanitarios, tipología.
+
+– Técnicas de montaje de aparatos sanitarios.
+
+– Grifería. Tipos. Regulación.
+
+Mantenimiento de redes de suministro de agua y calefacción:
+
+– Medidas a tomar ante la interrupción del servicio.
+
+– Nueva puesta en servicio.
+
+– Averías y reparación.
+
+– Instalaciones de calefacción.
+
+– Programa de mantenimiento.
+
+– Revisión y limpieza de filtros.
+
+– Revisión de bombas.
+
+– Revisión del estado del aislamiento térmico.
+
+– Reglamentación vigente.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de montaje de instalaciones de fontanería y calefacción básica.
+
+La definición de esta función incluye aspectos como:
+
+– Elaboración de presupuestos.
+
+– Preparación de las zonas de trabajo.
+
+– Montaje de redes de suministro de agua.
+
+– Montaje de instalaciones de riego automático.
+
+– Montaje de instalaciones de riego automático.
+
+– Montaje de instalaciones de calefacción básica.
+
+– Montaje de aparatos sanitarios.
+
+– Mantenimiento de instalaciones de suministro de agua y calefacción.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), f), g), h), i), o), x), y), z), aa), bb), cc), dd), ee), ff) del ciclo formativo; y las competencias profesionales, personales y sociales a), b), c), d), e), k), l), u), v), w), x), y), z), aa) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales y equipos para la ejecución de instalaciones de suministro de agua y calefacción.
+
+– Las técnicas de unión y montaje de tuberías y equipos de instalaciones de agua y calefacción.
+
+– Los procedimientos para el mantenimiento y conservación de instalaciones de fontanería y calefacción.
+
+**Módulo Profesional: Montaje de equipos de climatización.**
+
+**Código: 3025**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara las zonas de trabajo identificando las operaciones a realizar, equipos y materiales.
+
+Criterios de evaluación:
+
+a) Se han identificado y descrito las características de elementos a instalar.
+
+b) Se ha identificado el lugar de montaje de cada equipo.
+
+c) Se ha identificado el trazado de una red de conductos y las dimensiones de cada tramo.
+
+d) Se han preparado los materiales y equipos necesarios para realizar las instalaciones.
+
+e) Se han realizado los taladros necesarios para el anclaje de los elementos de sujeción de los equipos o conductos.
+
+f) Se han montado los equipos de protección necesarios para los riesgos que implica el montaje (andamios, línea de vida, entre otros).
+
+g) Se ha mantenido limpia y ordenada la zona de trabajo.
+
+h) Se han utilizado los equipos de protección necesarios para realizar los trabajos con prevención y seguridad.
+
+2\. Realiza operaciones de montaje de equipos domésticos de climatización aplicando la técnica correspondiente y describiendo el funcionamiento de la instalación y la secuencia de operaciones a realizar.
+
+Criterios de evaluación:
+
+a) Se ha identificado y descrito el tipo de instalaciones.
+
+b) Se ha identificado la función que realiza cada uno de los elementos en el conjunto de la instalación.
+
+c) Se ha seleccionado el sistema de montaje de cada uno de los equipos y tuberías.
+
+d) Se han preparado los materiales y equipos necesarios para el montaje de las instalaciones.
+
+e) Se han montado las unidades interiores y exteriores de equipos de climatización doméstica.
+
+f) Se han montado las tuberías de refrigerante y se han conectado a los equipos.
+
+g) Se han montado dispositivos para la evacuación de condensados.
+
+h) Se han conectado los desagües de los equipos de climatización doméstica a la red de evacuación.
+
+i) Se ha colaborado con los compañeros en el montaje y puesta en marcha de las instalaciones.
+
+j) Se ha recogido la zona de trabajo.
+
+k) Se han seleccionado los materiales sobrantes para su reutilización o reciclaje.
+
+3\. Realiza operaciones de montaje de equipos de ventilación y conducciones de aire, aplicando la técnica requerida y describiendo el su funcionamiento de la instalación y la secuencia de operaciones a realizar.
+
+Criterios de evaluación:
+
+a) Se ha identificado y descrito el tipo de instalaciones.
+
+b) Se han identificado elementos, dimensiones y características de los conductos a instalar.
+
+c) Se ha relacionado el trazado de la instalación con las pérdidas de carga.
+
+d) Se han reconocido las principales características de los equipos de ventilación.
+
+e) Se han construido los conductos sencillos de una red de distribución de aire.
+
+f) Se han realizado operaciones de montaje de ductos y elementos.
+
+g) Se han realizado pruebas de funcionamiento de la instalación de ventilación.
+
+h) Se ha colaborado con los compañeros en el montaje de las instalaciones.
+
+i) Se ha recogido la zona de trabajo y se han acopiado los materiales sobrantes para su reutilización o reciclaje.
+
+4\. Monta soportes para unidades exteriores, aplicando la técnica requerida y aplicando las normas de seguridad.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la documentación gráfica y se han reconocido los elementos a instalar.
+
+b) Se han seleccionado los elementos de sujeción a utilizar para el montaje de unidades exteriores.
+
+c) Se ha evaluado el riesgo asociado a las operaciones de montaje a realizar.
+
+d) Se han seleccionado los equipos de protección necesarios para realizar el montaje.
+
+e) Se han montado los elementos de seguridad necesarios para este tipo de instalación.
+
+f) Se han montado los soportes de sujeción de las unidades exteriores.
+
+g) Se ha comprobado la fiabilidad del montaje de las sujeciones.
+
+h) Se han montado las unidades exteriores de climatización con seguridad.
+
+i) Se han utilizado correctamente los equipos de seguridad.
+
+j) Se ha colaborado con los compañeros en el montaje de las sujeciones.
+
+**Duración: 55 horas.**
+
+**Contenidos básicos:**
+
+Acondicionamiento de zonas de trabajo para instalaciones de ventilación y climatización doméstica:
+
+– Sistemas de unidades. Medida de magnitudes. Longitudes, superficies y volúmenes.
+
+– Manejo de equipos de medida.
+
+– Esquemas de instalaciones.
+
+– Manejo de herramientas portátiles.
+
+Montaje de equipos domésticos de climatización:
+
+– Tipología de los equipos.
+
+– Introducción al manejo de gases refrigerantes.
+
+– Interpretación de documentación técnica. Tendido de tuberías de refrigerante.
+
+– Evacuación de condensados.
+
+Instalación de equipos de ventilación y conductos de aire:
+
+– Interpretación de documentación técnica.
+
+– Ventiladores.
+
+– Técnicas de montaje de ventiladores.
+
+– Construcción de conductos.
+
+– Herramientas para la construcción de conductos.
+
+– Montaje de conductos.
+
+Técnicas de montaje de soportes para unidades exteriores:
+
+– Riesgos derivados del montaje de instalaciones de climatización.
+
+– Andamios. Tipología. Montaje y utilización.
+
+– Línea de vida. Montaje y utilización.
+
+– Equipos de protección.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de montaje de equipos de climatización doméstica y pequeñas redes de ventilación.
+
+La definición de esta función incluye aspectos como:
+
+– Preparación de las zonas de trabajo.
+
+– Montaje de equipos domésticos de climatización.
+
+– Montaje de equipos de ventilación y construcción de conductos de aire.
+
+– Técnicas de seguridad aplicada al montaje de instalaciones de climatización.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), j), k), o), x), y), z), aa), bb), cc), dd), ee), ff) del ciclo formativo; y las competencias profesionales, personales y sociales a), b), f), g), k), l), u), v), w), x), y), z), aa) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales y herramientas para el montaje de equipos de climatización doméstica.
+
+– Las técnicas de montaje de equipos de climatización doméstica.
+
+– Las técnicas de construcción y montaje de conductos de ventilación.
+
+– Las técnicas de seguridad frente a los riesgos inherentes al montaje de instalaciones de climatización.
+
+**Módulo Profesional: Itinerario personal para la empleabilidad.**
+
+**Código: 3159**
+
+Ámbito de Comunicación y Ciencias Sociales I y II;
+
+Ámbito de Ciencias Aplicadas I y II.
+
+> Téngase en cuenta que el código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación del módulo profesional 3159 figura como anexo III del Real Decreto 659/2023, de 18 de julio; y que el Ámbito de Comunicación y Ciencias Sociales I y II y el Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo, según establece el art. 6.Dos.a), c) y d) del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+**Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico**
+
+**Módulo Profesional: Proyecto intermodular de aprendizaje colaborativo.**
+
+**Código: 3160**
+
+Duración: 25 horas.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+
+Criterios de evaluación:
+
+a) Se ha elaborado conjuntamente un esquema que contemple el conjunto de las empresas tipo del sector.
+
+b) Se han constituido equipos de trabajo y se han distribuido entre los grupos las empresas que se analizarán.
+
+c) Se ha identificado para la empresa seleccionada los productos o servicios que ofrece.
+
+d) Se han relacionado los productos o servicios ofertados con la consecución de los ODS (Objetivos de Desarrollo Sostenible).
+
+e) Se ha realizado un diagrama de bloques de los posibles departamentos que conforman la empresa.
+
+f) Se han tenido en cuenta las áreas transversales y su relación con las demás.
+
+g) Se ha presentado al gran grupo la configuración de la empresa y productos que ofrece.
+
+h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
+
+i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
+
+2\. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado un producto/servicio de la empresa a estudio.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se han identificado las características del público objetivo al que está destinado.
+
+d) Se ha comparado el producto con otros de empresas similares.
+
+e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
+
+3\. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+
+Criterios de evaluación:
+
+a) Se ha planteado en el grupo el concepto de una empresa tipo «spin off», indicando sus ventajas e inconvenientes.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se ha propuesto una posible organización de la empresa, atendiendo a una estructura lineal o circular.
+
+d) Se han indicado que tecnologías se incluirían para aumentar su competitividad.
+
+e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
+
+4\. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+
+Criterios de evaluación:
+
+a) Se ha analizado la responsabilidad de la empresa y los trabajadores en la consecución de entornos de trabajo seguros.
+
+b) Se han identificado los sistemas de protección generales e individuales de cada unidad en función de las actividades a realizar.
+
+c) Se ha estimado el coste de los elementos de protección individual.
+
+d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
+
+5\. Transmite información con claridad de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+b) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+c) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+d) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.
+
+**4.****Requisitos mínimos de calidad del contexto formativo**.
+
+**4.1 Espacios.**
+
+– Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
+
+– Aula polivalente.
+
+– Taller polivalente de mantenimiento de viviendas.
+
+**4.2 Equipamientos mínimos.**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Aula polivalente.</td>
+<td>Ordenadores instalados en red, sistema de proyección e internet.</td>
+</tr>
+<tr>
+<td>Medios audiovisuales.</td>
+</tr>
+<tr>
+<td>Programas informáticos de aplicación.</td>
+</tr>
+<tr>
+<td rowspan="20">Taller Polivalente de mantenimiento de viviendas.</td>
+<td>Cabinas/zonas de prácticas para la realización de alicatados y prácticas de revestimientos continuos y picados de paramentos y solados.</td>
+</tr>
+<tr>
+<td>Medios auxiliares: escaleras, borriquetas y tableros para andamios, cuerpos de andamio, mesas de trabajo.</td>
+</tr>
+<tr>
+<td>Artesas, espuertas, cubos, hormigonera eléctrica, entre otros.</td>
+</tr>
+<tr>
+<td>Herramientas manuales: mazas, picas, llanas, espátulas.</td>
+</tr>
+<tr>
+<td>Herramientas de medición y nivelación: niveles de agua, miras metálicas, cuerdas de marcación, etc.</td>
+</tr>
+<tr>
+<td>Aparatos sanitarios</td>
+</tr>
+<tr>
+<td>Kit de herramientas para trabajo de tuberías.</td>
+</tr>
+<tr>
+<td>Bombas centrífugas para calefacción.</td>
+</tr>
+<tr>
+<td>Bombas centrífugas para agua sanitaria.</td>
+</tr>
+<tr>
+<td>Bancos de trabajo con tornillos.</td>
+</tr>
+<tr>
+<td>Paneles/zonas instalaciones eléctricas.</td>
+</tr>
+<tr>
+<td>Paneles/zonas instalaciones climatización.</td>
+</tr>
+<tr>
+<td>Equipos bomba de calor partidos para climatización doméstica.</td>
+</tr>
+<tr>
+<td>Equipos bomba de calor compactos para climatización doméstica.</td>
+</tr>
+<tr>
+<td>Equipos de soldadura para tuberías.</td>
+</tr>
+<tr>
+<td>Material para la construcción de tuberías para climatización.</td>
+</tr>
+<tr>
+<td>Maquinaria portátil: Sierra circular, caladora, taladros, atornillador, lijadora de banda, lijadora orbital, fresadora, entre otras.</td>
+</tr>
+<tr>
+<td>Herramienta manual carpintería: formones, martillos, destornilladores, limas, escofinas, cepillos sierras.</td>
+</tr>
+<tr>
+<td>Material eléctrico y domótico: Elementos de protección y maniobra, receptores, mecanismos, cajas, canaletas, cajas de registro, detectores entre otros.</td>
+</tr>
+<tr>
+<td>Instrumentos y aparatos de media eléctricos.</td>
+</tr>
+</tbody>
+</table>
+
+**5. Profesorado.**
+
+**5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Viviendas son:**
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>3088. Mantenimiento básico de instalaciones electrotécnicas en viviendas.</p>
+<p>3090. Operaciones de conservación en la vivienda y montaje de accesorios.</p>
+<p>3023. Redes de evacuación.</p>
+<p>3024. Fontanería y calefacción básica.</p>
+<p>3025. Montaje de equipos de climatización.</p>
+</td>
+<td>
+<p>– Instalación y mantenimiento de equipos térmicos y de fluidos.</p>
+<p>– Instalaciones Electrotécnicas.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Soldadura.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">3160. Proyecto intermodular de aprendizaje colaborativo.</td>
+<td>
+<p>– Instalación y mantenimiento de equipos térmicos y de fluidos.</p>
+<p>– Instalaciones Electrotécnicas.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Soldadura.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>3159. Itinerario personal para la empleabilidad.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**5.2 Requisitos para el profesorado.**
+
+1\. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+**6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.**
+
+| Módulos profesionales superados | Unidades de competencia acreditables |
+|---|---|
+| 3023. Redes de evacuación. | UC1154_1: Realizar la instalación de tuberías, preparando, cortando y uniendo tubos para la conducción de agua y desagües. |
+| 3024. Fontanería y calefacción básica.<br>3025. Montaje de equipos de climatización. | UC1155_1: Realizar operaciones básicas de instalación y mantenimiento de aparatos sanitarios, radiadores y aparatos de climatización de uso doméstico. |
+
+**6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.**
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC1154_1: Realizar la instalación de tuberías, preparando, cortando y uniendo tubos para la conducción de agua y desagües. | 3023. Redes de evacuación. |
+| UC1155_1: Realizar operaciones básicas de instalación y mantenimiento de aparatos sanitarios, radiadores y aparatos de climatización de uso doméstico. | 3024. Fontanería y calefacción básica.<br>3025. Montaje de equipos de climatización. |
+
+> Se modifican los apartados 3.2, 3.3 y 5, se añade el apartado 6 bis y se suprime el apartado 7 por los arts. 5, 6, 8.Veinticuatro, Veintinueve y Treinta, 9.Veinticuatro y 10 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## ANEXO IV — Título profesional básico en fabricación de elementos metálicos
+
+**1. Identificación del título.**
+
+El Título profesional básico en fabricación de elementos metálicos queda identificado por los siguientes elementos:
+
+– Denominación: Título profesional básico en fabricación de elementos metálicos.
+
+– Nivel: Formación Profesional Básica.
+
+– Duración: 2000 horas.
+
+– Familia Profesional: Fabricación mecánica y Electricidad y electrónica.
+
+– Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
+
+**2. Perfil profesional.**
+
+**2.1 Competencia general del título.**
+
+La competencia general de este título consiste en realizar operaciones básicas de mecanizado y montaje para la fabricación mecánica con materiales metálicos (férricos y no férricos) así como realizar operaciones auxiliares en el montaje y mantenimiento de elementos y equipos eléctricos y electrónicos, operando con la calidad indicada, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
+
+**2.2 Competencias del título.**
+
+Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
+
+a) Preparar el puesto de trabajo, herramientas, maquinaria auxiliar y equipos de mecanizado y montaje en taller y/o de instalación y mantenimiento en obra.
+
+b) Realizar uniones fijas y desmontables en materiales metálicos y no metálicos, siguiendo criterios de seguridad, funcionalidad y economía.
+
+c) Realizar el montaje y ajuste de elementos metálicos y no metálicos mediante herramientas portátiles, consiguiendo los ajustes, enrase o deslizamiento de las partes móviles.
+
+d) Alimentar y descargar las máquinas o sistemas automáticos para la realización de operaciones de mecanizado y tratamiento.
+
+e) Realizar las operaciones de soldeo de acuerdo con especificaciones, preparando los equipos y elementos de materiales metálicos, mediante procedimientos con electrodo revestido de rutilo.
+
+f) Verificar las uniones realizadas, utilizando los instrumentos básicos de medida y control.
+
+g) Identificar las operaciones que se deben realizar, interpretando la documentación técnica (planos y procesos de fabricación, órdenes de trabajo, entre otras) de productos de calderería ligera.
+
+h) Cortar manualmente, por procedimientos mecánicos, automáticos y semiautomáticos, chapas y perfiles para obtener productos de calderería ligera.
+
+i) Conformar por procedimientos convencionales chapas y perfiles para obtener productos de calderería ligera.
+
+j) Sustituir los elementos defectuosos, desmontando y montando los equipos y realizando los ajustes necesarios, para mantener y reparar instalaciones y equipos.
+
+k) Realizar el mantenimiento de máquinas, equipos, útiles e instalaciones, cumpliendo los procedimientos establecidos en los manuales para el uso y conservación de los mismos.
+
+l) Verificar el conexionado y parámetros característicos de la instalación, utilizando los equipos de medida en condiciones de calidad y seguridad, para realizar operaciones de mantenimiento.
+
+m) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+n) Actuar de forma saludable en distintos contextos cotidianos que favorezcan el desarrollo personal y social, analizando hábitos e influencias positivas para la salud humana.
+
+ñ) Valorar actuaciones encaminadas a la conservación del medio ambiente, diferenciando las consecuencias de las actividades cotidianas que puedan afectar al equilibrio del mismo.
+
+o) Obtener y comunicar información destinada al autoaprendizaje y a su uso en distintos contextos de su entorno personal, social o profesional mediante recursos a su alcance y los propios de las tecnologías de la información y de la comunicación.
+
+p) Actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas, apreciando su uso y disfrute como fuente de enriquecimiento personal y social.
+
+q) Comunicarse con claridad, precisión y fluidez en distintos contextos sociales o profesionales y por distintos medios, canales y soportes a su alcance, utilizando y adecuando recursos lingüísticos orales y escritos propios de la lengua castellana y, en su caso, de la lengua cooficial.
+
+r) Comunicarse en situaciones habituales tanto laborales como personales y sociales, utilizando recursos lingüísticos básicos en lengua extranjera.
+
+s) Realizar explicaciones sencillas sobre acontecimientos y fenómenos característicos de las sociedades contemporáneas a partir de información histórica y geográfica a su disposición.
+
+t) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en su actividad laboral, utilizando las ofertas formativas a su alcance y localizando los recursos mediante las tecnologías de la información y la comunicación.
+
+u) Cumplir las tareas propias de su nivel con autonomía y responsabilidad, empleando criterios de calidad y eficiencia en el trabajo asignado y efectuándolo de forma individual o como miembro de un equipo.
+
+v) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en su ámbito de trabajo, contribuyendo a la calidad del trabajo realizado.
+
+w) Asumir y cumplir las medidas de prevención de riesgos y seguridad laboral en la realización de las actividades laborales, evitando daños personales, laborales y ambientales.
+
+x) Cumplir las normas de calidad, de accesibilidad universal y diseño para todos que afectan a su actividad profesional.
+
+y) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la elección de los procedimientos de su actividad profesional.
+
+z) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+**2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.**
+
+Cualificaciones profesionales completas:
+
+a) Operaciones auxiliares de fabricación mecánica FME031_1 (Real Decreto 295/2004, de 20 de febrero), que comprende las siguientes unidades de competencia:
+
+UC0087_1: Realizar operaciones básicas de fabricación.
+
+UC0088_1: Realizar operaciones básicas de montaje.
+
+b) Operaciones auxiliares de montaje y mantenimiento de equipos eléctricos y electrónicos ELE481_1 (Real Decreto 144/2011, de 4 de febrero), que comprende las siguientes unidades de competencia:
+
+UC1559_1: Realizar operaciones de ensamblado en el montaje de equipos eléctricos y electrónicos.
+
+UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctricos y electrónicos.
+
+UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos.
+
+**2.4 Entorno profesional.**
+
+2.4.1 Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de elementos metálicos mediante procedimientos de soldadura y calderería ligera, así como al montaje y mantenimiento de equipos eléctricos y electrónicos, siempre bajo la supervisión de un titulado superior, y estando regulada la actividad por el Reglamento Electrotécnico de Baja Tensión.
+
+2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+– Operario/a de instalaciones eléctricas de baja tensión.
+
+– Ayudante/a de montador/a de antenas receptoras/ televisión satélites.
+
+– Operador/a de ensamblado de equipos eléctricos y electrónicos.
+
+– Montador/a de componentes en placas de circuito impreso.
+
+– Auxiliar de mantenimiento de equipos eléctricos y electrónicos.
+
+– Probador/a-ajustador/a de placas y equipos eléctricos y electrónicos.
+
+– Peones de industrias manufactureras.
+
+– Auxiliares de procesos automatizados.
+
+– Peones y auxiliares de industrias metalúrgicas, de fabricación de productos metálicos y manufactureras.
+
+– Auxiliar soldador/a de materiales de acero al carbono por arco eléctrico con electrodo revestido de rutilo.
+
+– Auxiliar de soldador/a de estructuras metálicas pesadas, ligeras y tubería.
+
+– Auxiliar de oxicortador/a a mano.
+
+– Auxiliar de cortador/a de metales por plasma, a mano.
+
+– Auxiliares de procesos automatizados.
+
+– Auxiliar de carpintero/a metálico.
+
+– Auxiliar de montador/a de estructuras metálicas.
+
+**2.5 Prospectiva del sector o de los sectores relacionados con el título.**
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) El perfil profesional dentro del sector productivo, evoluciona hacia un incremento en la toma de decisiones propias de los procesos automatizados, realización de funciones de planificación, mantenimiento, calidad y prevención de riesgos laborales en la pequeña empresa.
+
+b) Las estructuras organizativas tienden a configurarse sobre la base de decisiones descentralizadas, relaciones funcionales del trabajo en equipo, rotación de puestos de trabajo y canales de participación.
+
+c) La evolución tecnológica tiende a sistemas energéticamente más eficientes, por el uso de la electrónica, de automatismos y de la utilización de nuevos materiales.
+
+d) El sector productivo apunta a una evolución hacia las competencias relacionadas con el empleo de las energías renovables, sistemas electrónicos que incrementan el rendimiento y máquinas con altos rendimientos energéticos.
+
+e) Los procesos de montaje y mantenimiento se tendrán que adaptar a la normativa referente a los tratamientos y gestión de residuos y agentes contaminantes.
+
+f) El desarrollo de nuevas tecnologías está haciendo posible el cambio de materiales y equipos para lograr una mayor eficiencia energética y seguridad eléctrica de previsible implantación obligatoria en los próximos años.
+
+g) Las empresas en las que ejerce su actividad este profesional tienden a delegar en él funciones y responsabilidades, observándose en ellas la preferencia por un perfil polivalente con un alto grado de autonomía, capacidad para la toma de decisiones, el trabajo en equipo y la coordinación con profesionales de otros sectores.
+
+h) La recuperación y clasificación de residuos y chatarras y el tratamiento adecuado de residuos tóxicos y peligrosos se hacen totalmente imprescindibles.
+
+i) Las estructuras organizativas tienden a configurarse sobre la base de decisiones descentralizadas y equipos participativos de gestión, potenciando la autonomía y capacidad de decisión.
+
+j) Las características del mercado de trabajo, la movilidad laboral, la apertura económica, obligan a formar profesionales polivalentes capaces de adaptarse a las nuevas situaciones socioeconómicas, laborales y organizativas del sector.
+
+**3. Enseñanzas del ciclo formativo.**
+
+**3.1 Objetivos generales del título.**
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Aplicar el plan de mantenimiento de equipos y uso de espacios en taller y obra, interpretando las especificaciones establecidas para preparar el puesto de trabajo.
+
+b) Seleccionar los equipos, herramientas y accesorios necesarios, identificando los criterios que hay que aplicar para realizar uniones fijas y desmontables.
+
+c) Manejar las herramientas portátiles adecuadas, interpretando las especificaciones del procedimiento que hay que aplicar para realizar el montaje y ajuste de elementos.
+
+d) Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, reconociendo los materiales reales y considerando las operaciones a realizar, para acopiar los recursos y medios.
+
+e) Identificar y manejar las herramientas utilizadas para mecanizar y unir elementos de las instalaciones en diferentes situaciones que se produzcan en el mecanizado y unión de elementos de las instalaciones.
+
+f) Operar los equipos de corte térmico o mecánico, sobre chapas y perfiles metálicos de formas definidas para obtener productos metálicos y de calderería ligera, aplicando el plan de prevención de riesgos laborales y ambientales.
+
+g) Utilizar equipos de medida, relacionando los parámetros a medir con la configuración de los equipos y con su aplicación en las instalaciones, de acuerdo a las instrucciones de los fabricantes para realizar pruebas y verificaciones.
+
+h) Sustituir los elementos defectuosos, desmontando y montando los equipos y realizando los ajustes necesarios, para mantener y reparar instalaciones y equipos.
+
+i) Verificar el conexionado y parámetros característicos de la instalación, utilizando los equipos de medida, en condiciones de calidad y seguridad, para realizar operaciones de mantenimiento.
+
+j) Realizar uniones fijas y desmontables en materiales metálicos y no metálicos, siguiendo criterios de seguridad, funcionalidad y economía.
+
+k) Realizar el montaje y ajuste de elementos metálicos y no metálicos mediante herramientas portátiles, consiguiendo los ajustes, enrase o deslizamiento de las partes móviles.
+
+l) Interpretar manuales de uso de máquinas, equipos, útiles e instalaciones, identificando la secuencia de operaciones para realizar su mantenimiento básico.
+
+m) Comprender los fenómenos que acontecen en el entorno natural mediante el conocimiento científico como un saber integrado, así como conocer y aplicar los métodos para identificar y resolver problemas básicos en los diversos campos del conocimiento y de la experiencia.
+
+n) Desarrollar habilidades para formular, plantear, interpretar y resolver problemas, aplicar el razonamiento de cálculo matemático para desenvolverse en la sociedad, en el entorno laboral y gestionar sus recursos económicos.
+
+ñ) Identificar y comprender los aspectos básicos de funcionamiento del cuerpo humano y ponerlos en relación con la salud individual y colectiva y valorar la higiene y la salud para permitir el desarrollo y afianzamiento de hábitos saludables de vida en función del entorno en el que se encuentra.
+
+o) Desarrollar hábitos y valores acordes con la conservación y sostenibilidad del patrimonio natural, comprendiendo la interacción entre los seres vivos y el medio natural para valorar las consecuencias que se derivan de la acción humana sobre el equilibrio medioambiental.
+
+p) Desarrollar las destrezas básicas de las fuentes de información utilizando con sentido crítico las tecnologías de la información y de la comunicación para obtener y comunicar información en el entorno personal, social o profesional.
+
+q) Reconocer características básicas de producciones culturales y artísticas, aplicando técnicas de análisis básico de sus elementos para actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas.
+
+r) Desarrollar y afianzar habilidades y destrezas lingüísticas y alcanzar el nivel de precisión, claridad y fluidez requeridas, utilizando los conocimientos sobre la lengua castellana y, en su caso, la lengua cooficial para comunicarse en su entorno social, en su vida cotidiana y en la actividad laboral.
+
+s) Desarrollar habilidades lingüísticas básicas en lengua extranjera para comunicarse de forma oral y escrita en situaciones habituales y predecibles de la vida cotidiana y profesional.
+
+t) Reconocer causas y rasgos propios de fenómenos y acontecimientos contemporáneos, evolución histórica, distribución geográfica para explicar las características propias de las sociedades contemporáneas.
+
+u) Desarrollar valores y hábitos de comportamiento basados en principios democráticos, aplicándolos en sus relaciones sociales habituales y en la resolución pacífica de los conflictos.
+
+v) Comparar y seleccionar recursos y ofertas formativas existentes para el aprendizaje a lo largo de la vida para adaptarse a las nuevas situaciones laborales y personales.
+
+w) Desarrollar la iniciativa, la creatividad y el espíritu emprendedor, así como la confianza en sí mismo, la participación y el espíritu crítico para resolver situaciones e incidencias tanto de la actividad profesional como de la personal.
+
+x) Desarrollar trabajos en equipo, asumiendo sus deberes, respetando a los demás y cooperando con ellos, actuando con tolerancia y respeto a los demás para la realización eficaz de las tareas y como medio de desarrollo personal.
+
+y) Utilizar las tecnologías de la información y de la comunicación para informarse, comunicarse, aprender y facilitarse las tareas laborales.
+
+z) Relacionar los riesgos laborales y ambientales con la actividad laboral con el propósito de utilizar las medidas preventivas correspondientes para la protección personal, evitando daños a las demás personas y en el medio ambiente.
+
+aa) Desarrollar las técnicas de su actividad profesional asegurando la eficacia y la calidad en su trabajo, proponiendo, si procede, mejoras en las actividades de trabajo.
+
+bb) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+**3.2 Módulos profesionales.**
+
+3.2.1 Los módulos profesionales, proyecto intermodular de aprendizaje colaborativo y ámbitos son los que a continuación se relacionan:
+
+3015\. Equipos eléctricos y electrónicos.
+
+3020\. Operaciones básicas de fabricación.
+
+3021\. Soldadura y carpintería metálica.
+
+3022\. Carpintería de aluminio y PVC.
+
+3073\. Operaciones básicas de calderería ligera.
+
+3159\. Itinerario personal para la empleabilidad;
+
+Ámbito de Comunicación y Ciencias Sociales;
+
+Ámbito de Ciencias Aplicadas.
+
+3160\. Proyecto intermodular de aprendizaje colaborativo y Tutoría.
+
+3.2.2 Otras especificaciones:
+
+1\. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+2\. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+3\. De acuerdo con lo establecido en el artículo 85 del Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+
+4\. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el título IV del Real Decreto 659/2023, de 18 de julio.
+
+5\. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.
+
+**3.3 Desarrollo de los módulos.**
+
+**Módulo Profesional: Equipos eléctricos y electrónicos.**
+
+**Código: 3015**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Identifica el material, herramientas y equipo necesarios para el montaje y ensamblado de equipos eléctricos y electrónicos, describiendo sus principales características y funcionalidad.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado los elementos y componentes tipo de un equipo eléctrico o electrónico.
+
+b) Se han identificado y clasificado los anclajes y sujeciones tipo (tornillos, clips, pestañas, entre otros) de un equipo eléctrico o electrónico en función de su aplicación, rigidez y estabilidad.
+
+c) Se han identificado y clasificado las herramientas (atornillador eléctrico, atornilladores planos y de estrella y llaves, entre otros) normalmente empleadas en el ensamblado de un equipo eléctrico o electrónico en función de su aplicación e idoneidad.
+
+d) Se han identificado y clasificado los diferentes medios y equipos de seguridad personal (guantes de protección, gafas y mascarilla, entre otros) en función de su aplicación y teniendo en cuenta las herramientas a utilizar.
+
+2\. Determina la secuencia de las operaciones de montaje y desmontaje de equipos eléctricos y electrónicos, interpretando esquemas e identificando los pasos a seguir.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la simbología de representación gráfica de los elementos y componentes de los equipos eléctricos y electrónicos.
+
+b) Se ha interpretado el procedimiento y secuencia de montaje/conexión a partir de esquemas o guías de montaje.
+
+c) Se ha identificado cada uno de los elementos representados en el esquema con el elemento real.
+
+d) Se ha identificado el procedimiento y secuencia de montaje/conexión de los distintos elementos (inserción de tarjetas, fijación de elementos, entre otros).
+
+e) Se ha definido el proceso y secuencia de montaje/conexión a partir del esquema o guía de montaje.
+
+3\. Monta y desmonta elementos de equipos eléctricos o electrónicos, interpretando esquemas y guías de montaje.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los esquemas y guías de montaje indicados para un modelo determinado.
+
+b) Se han seleccionado las herramientas indicadas en los esquemas y guías de montaje.
+
+c) Se han preparado los elementos y materiales que se van a utilizar siguiendo procedimientos normalizados.
+
+d) Se ha identificado la ubicación de los distintos elementos en el equipo.
+
+e) Se han ensamblado los distintos componentes siguiendo procedimientos normalizados, aplicando las normas de seguridad de los mismos.
+
+f) Se han fijado los componentes con los elementos de sujeción indicados en los esquemas o guías de montaje, aplicando el par de apriete o presión establecidos.
+
+g) Se han aplicado técnicas de montaje de componentes y conectores electrónicos en placas de circuito impreso.
+
+h) Se han aplicado técnicas de desmontaje de equipos eléctricos o electrónicos.
+
+i) Se han observado los requerimientos de seguridad establecidos.
+
+j) Se ha elaborado un informe, recogiendo las actividades desarrolladas y resultados obtenidos.
+
+4\. Conexiona elementos en equipos eléctricos o electrónicos aplicando técnicas básicas y verificando la continuidad.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los esquemas y guías de montaje indicados para un modelo determinado de conexión.
+
+b) Se han seleccionado las herramientas indicadas en los esquemas y guías de conexión.
+
+c) Se han dispuesto y colocado las piezas del conector y los cables.
+
+d) Se han dispuesto y colocado las protecciones personales y de los elementos.
+
+e) Se han acondicionado los cables (pelar, estirar, ordenar), siguiendo procedimientos.
+
+f) Se han insertado las piezas del conector en el orden correcto y se han unido los cables (soldar, crimpar, embornar, entre otros) de la forma establecida en el procedimiento.
+
+g) Se ha realizado la conexión (soldadura, embornado, conector) según el procedimiento establecido (posición de elementos, inserción del elemento, maniobra de fijación, entre otros).
+
+h) Se han observado las medidas de seguridad en la utilización de equipos y herramientas.
+
+i) Se han dispuesto y colocado las etiquetas en los cables, según el procedimiento establecido.
+
+j) Se han tratado los residuos generados de acuerdo a la normativa sobre medio ambiente.
+
+5\. Realiza el mantenimiento básico de equipos eléctricos y electrónicos, aplicando las técnicas establecidas en condiciones de calidad y seguridad.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los esquemas y guías indicados para un modelo determinado.
+
+b) Se han seleccionado las herramientas según las operaciones a realizar.
+
+c) Se han identificado los elementos a sustituir.
+
+d) Se han acopiado los elementos de sustitución.
+
+e) Se han seleccionado las herramientas necesarias para las operaciones a realizar.
+
+f) Se han desmontado los elementos a sustituir, empleando las técnicas y herramientas apropiadas según los requerimientos de cada intervención.
+
+g) Se han montado los elementos de sustitución, empleando las técnicas y herramientas apropiadas, según los requerimientos de cada intervención.
+
+h) Se han realizado las operaciones observando las medidas de seguridad previstas para los componentes y personales.
+
+i) Se ha elaborado un informe con las operaciones realizadas en un documento con el formato establecido.
+
+**Duración: 140 horas.**
+
+**Contenidos básicos:**
+
+Identificación de materiales, herramientas y equipos de montaje, ensamblado, conexionado y mantenimiento:
+
+– Magnitudes eléctricas. Relación entre magnitudes. Instrumentos de medida.
+
+– Circuitos eléctricos básicos (elementos, protecciones, entre otros).
+
+– Conectores: características y tipología.
+
+– Cables: características y tipología. Normalización.
+
+– Fibra óptica. Aplicaciones más usuales. Tipología y características.
+
+– Tipos de equipos: máquinas herramientas, electrodomésticos, equipos informáticos, equipos de audio, equipos de vídeo, equipos industriales.
+
+– Herramientas manuales y máquinas herramientas.
+
+– Materiales auxiliares. Elementos de ensamblado y sujeción. Función, tipología y características.
+
+Proceso de montaje y mantenimiento de equipos:
+
+– Simbología eléctrica y electrónica. Normalización.
+
+– Interpretación de planos y esquemas.
+
+– Identificación de componentes comerciales.
+
+– Identificación de conectores y cables comerciales.
+
+– Interpretación de esquemas y guías de montaje y desmontaje.
+
+– Interpretación de esquemas y guías de conexionado.
+
+– Caracterización de las operaciones.
+
+– Secuencia de operaciones.
+
+– Selección de herramientas y equipos. Tipología de las herramientas.
+
+– Normas de prevención de riesgos, salud laboral y protección del medio ambiente.
+
+– Riesgos en la manipulación de sistemas e instalaciones.
+
+– Interpretación de órdenes de trabajo.
+
+– Elaboración de informes.
+
+Montaje y desmontaje de equipos:
+
+– Componentes electrónicos, tipos y características. Funciones básicas de los componentes.
+
+– Técnicas de montaje e inserción de componentes electrónicos.
+
+– Herramientas manuales. Tipología y características.
+
+– Técnicas de soldadura blanda. Aplicaciones más habituales.
+
+– Precauciones a tener en cuenta.
+
+– Utilización de herramientas manuales y máquinas herramientas.
+
+– Seguridad en el manejo de herramientas y máquinas.
+
+– Técnicas de montaje y ensamblado de equipos eléctricos y electrónicos.
+
+– Montaje de elementos accesorios.
+
+– Técnicas de montaje y desmontaje de equipos eléctricos y electrónicos.
+
+– Técnicas de sustitución de elementos y componentes de equipos eléctricos electrónicos.
+
+– Operaciones de etiquetado y control.
+
+– Equipos de protección y seguridad.
+
+– Normas de seguridad.
+
+– Normas medioambientales.
+
+Aplicación de técnicas de conexionado y “conectorizado”:
+
+– Técnicas de conexión. Características y aplicaciones.
+
+– Soldadura, embornado y fijación de conectores.
+
+– Herramientas manuales y máquinas herramientas. Crimpadora, tenazas, soldador, entre otros.
+
+– Operaciones de etiquetado y control.
+
+– Elementos de fijación: bridas, cierres de torsión, elementos pasa cables, entre otros.
+
+– Equipos de protección y seguridad.
+
+– Normas de seguridad.
+
+– Normas medioambientales.
+
+Aplicación de técnicas de sustitución de elementos:
+
+– Esquemas y guías.
+
+– Acopio de elementos.
+
+– Características eléctricas de los equipos y sus elementos: Tensión, corriente. Corriente alterna y corriente continua. Resistencia eléctrica.
+
+– Potencia eléctrica.
+
+– Anclajes y sujeciones. Tipos y características.
+
+– Operaciones básicas de mantenimiento preventivo.
+
+– Planes de emergencia.
+
+– Actuación en caso de accidente.
+
+– Elaboración de informes.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para realizar operaciones de ensamblado, conexionado y mantenimiento básico de equipos eléctricos y electrónicos.
+
+La definición de esta función incluye aspectos como:
+
+– La identificación de equipos, elementos, herramientas y medios auxiliares.
+
+– El montaje de equipos, canalizaciones y soportes.
+
+– El tendido de cables.
+
+– El mantenimiento de usuario o de primer nivel.
+
+La formación del módulo contribuye a alcanzar los objetivos generales d), e), g), h), i), j), k), l), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales j), k), l), r), s), t), v), w), x), y) y z) del título.
+
+Las líneas de actuación en el proceso enseñanza- aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La identificación de los equipos, medios auxiliares, equipos y herramientas, para la realización del montaje y mantenimiento de las instalaciones.
+
+– Las características de los equipos, medios auxiliares, equipos y herramientas, para la realización del montaje y mantenimiento de las instalaciones.
+
+– La aplicación de técnicas de montaje de equipos y elementos de las instalaciones.
+
+– La toma de medidas de las magnitudes típicas de las instalaciones.
+
+– El mantenimiento de las instalaciones.
+
+**Módulo Profesional: Operaciones básicas de fabricación.**
+
+**Código: 3020**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Organiza su trabajo en la ejecución del mecanizado, interpretando la información contenida en las especificaciones del producto a mecanizar.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la simbología normalizada aplicable en fabricación mecánica.
+
+b) Se han comprendido las instrucciones recibidas (tanto orales como escritas) para la realización del trabajo.
+
+c) Se ha extraído la información necesaria (de las hojas de trabajo, catálogos, y otros) que permita poner en práctica el proceso de trabajo.
+
+d) Se han explicado las operaciones a realizar, de tal forma que permitan la realización del proceso ajustándose a las especificaciones señaladas.
+
+e) Se han realizado a mano alzada dibujos sencillos que representen los productos a obtener.
+
+f) Se han tenido en cuenta las especificaciones de prevención de riesgos laborales y medioambientales requeridos en la organización del trabajo.
+
+g) Se han mantenido las zonas de trabajo de su responsabilidad en condiciones de orden, limpieza y seguridad.
+
+h) Se ha operado con autonomía en las actividades propuestas.
+
+2\. Prepara materiales, útiles y equipos de mecanizado, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se ha realizado el acopio de los materiales necesarios para el proceso de mecanizado.
+
+b) Se ha comprobado que los medios, herramientas y equipos que se van a utilizar están en las condiciones de uso que permitan optimizar su rendimiento.
+
+c) Se han seleccionado las herramientas, útiles y máquinas en función del tipo del material y calidad requerida.
+
+d) Se ha efectuado el transporte de materiales y equipos aplicando las normas de seguridad requeridas.
+
+e) Se ha realizado el mantenimiento y cuidado de los medios empleados en el proceso una vez finalizado.
+
+f) Se ha ajustado el acopio del material, herramientas y equipo al ritmo de la intervención.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
+
+h) Se han planificado metódicamente las tareas a realizar, con previsión de las dificultades y el modo de superarlas.
+
+3\. Realiza operaciones básicas de fabricación, seleccionando las herramientas y equipos y aplicando las técnicas de fabricación.
+
+Criterios de evaluación:
+
+a) Se ha realizado la preparación y limpieza de las superficies de las piezas a mecanizar.
+
+b) Se han trazado y marcado las piezas según especificaciones requeridas o instrucciones recibidas.
+
+c) Se han manipulado y colocado las piezas empleando los útiles y herramientas apropiados.
+
+d) Se han ajustado los parámetros de mecanizado en función del material, de las características de la pieza y de las herramientas empleadas.
+
+e) Se han realizado las operaciones de mecanizado en la máquina adecuada en función del material y de la calidad requerida.
+
+f) Se han realizado las operaciones de mecanizado siguiendo las especificaciones recibidas.
+
+g) Se ha aplicado la normativa de Prevención de Riesgos Laborales en la ejecución de las operaciones de mecanizado.
+
+h) Se han realizado los trabajos con orden y limpieza.
+
+4\. Manipula cargas en la alimentación y descarga de máquinas y sistemas automáticos para la realización de operaciones de fabricación, describiendo los dispositivos y el proceso.
+
+Criterios de evaluación:
+
+a) Se han descrito los procesos auxiliares de fabricación mecánica en mecanizado, soldadura, calderería, y otros.
+
+b) Se han analizado los procedimientos de alimentación y descarga de sistemas automáticos de fabricación mecánica.
+
+c) Se han descrito los procedimientos de manipulación de cargas.
+
+d) Se han ajustado los parámetros de operación según las instrucciones recibidas.
+
+e) Se han efectuado operaciones de carga y descarga de máquinas automáticas según las especificaciones requeridas.
+
+f) Se ha vigilado el sistema automatizado para su correcto funcionamiento, deteniendo el sistema ante cualquier anomalía que ponga en riesgo la calidad del producto.
+
+g) Se han aplicado los requerimientos de seguridad en la manipulación y transporte de cargas.
+
+h) Se han comunicado las incidencias surgidas y registrado en el documento apropiado.
+
+i) Se ha aplicado la normativa de prevención de riesgos laborales en la manipulación de máquinas y equipos.
+
+j) Se ha mostrado una actitud responsable e interés por la mejora del proceso.
+
+k) Se han mantenido hábitos de orden y limpieza.
+
+5\. Realiza operaciones de verificación sobre las piezas obtenidas, relacionando las características del producto final con las especificaciones técnicas.
+
+Criterios de evaluación:
+
+a) Se han identificado y descrito los instrumentos básicos de medida y control y su funcionamiento.
+
+b) Se ha operado con los instrumentos de verificación y control según los procedimientos establecidos.
+
+c) Se han comparado las mediciones realizadas con los requerimientos expresados en el plano u hojas de verificación.
+
+d) Se ha realizado el registro de los resultados en las fichas y documentos apropiados.
+
+e) Se han reflejado en los informes las incidencias observadas durante el control de materias primas, de las operaciones de mecanizado y de las piezas mecanizadas.
+
+f) Se ha realizado el mantenimiento de uso de los aparatos utilizados.
+
+g) Se ha operado con rigurosidad en los procedimientos desarrollados.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Organización del trabajo de mecanizado:
+
+– Recepción del plan.
+
+– Interpretación del proceso.
+
+– Representación gráfica.
+
+– Normalización, tolerancias, acabados superficiales.
+
+– Calidad, normativas y catálogos.
+
+– Planificación de las tareas.
+
+– Especificaciones de prevención de riesgos laborales y medioambientales en los trabajos de mecanizado.
+
+Preparación de materiales, útiles y equipos de mecanizado:
+
+– Conocimientos de materiales.
+
+– Propiedades y aplicaciones.
+
+– Principales herramientas auxiliares.
+
+– Máquinas herramientas manuales.
+
+– Manipulación de cargas.
+
+– Mantenimiento de primer nivel de los medios empleados.
+
+– Medidas de prevención de riesgos laborales aplicables.
+
+Operaciones básicas de fabricación:
+
+– Trazado plano.
+
+– Trazado al aire.
+
+– Herramientas manuales y auxiliares.
+
+– Máquinas herramientas: Normas de empleo y utilización.
+
+– Ejecución de las operaciones básicas de mecanizado.
+
+– Técnica de aplicación de los métodos de unión.
+
+– Normas de Prevención de Riesgos Laborales aplicables a las operaciones básicas de fabricación mecánica.
+
+Manipulación de cargas en la alimentación y descarga de máquinas y sistemas automáticos:
+
+– Operaciones auxiliares y de carga y descarga.
+
+– Sistemas de alimentación y descarga de máquinas.
+
+– Sistemas de seguridad empleados en los sistemas de carga y descarga.
+
+– Normas de Prevención de Riesgos Laborales aplicables a las operaciones de carga y descarga de materiales.
+
+Verificación de piezas:
+
+– Preparación de materiales para la verificación y control.
+
+– Instrumentos de medida para magnitudes lineales y angulares (calibre, goniómetro, reloj comparador, calas, galgas y otros).
+
+– Instrumentos de verificación de superficies planas y angulares.
+
+– Procedimiento de verificación y control.
+
+– Interpretación de los resultados obtenidos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de construcción y montaje de productos de construcciones metálicas.
+
+La definición de esta función incluye aspectos como:
+
+– La preparación del puesto de trabajo.
+
+– La interpretación de planos sencillos.
+
+– El reconocimiento de materiales y equipos para el mecanizado.
+
+– La ejecución de operaciones básicas de mecanizados por arranque de viruta.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), e), u), v), w), x), y), z) aa) y bb) del ciclo formativo y las competencias profesionales, personales y sociales a), d) q), r), s), t), u), v), w), x), y) y z) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales y equipos para el mecanizado.
+
+– Las técnicas de mecanizado por arranque de viruta.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Soldadura y carpintería metálica.**
+
+**Código: 3021**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara materiales de carpintería metálica férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+
+Criterios de evaluación:
+
+a) Se han identificado los materiales a utilizar, perfiles, herrajes y medios de unión, de acuerdo con los elementos a construir.
+
+b) Se han seleccionado los materiales a emplear en el proceso.
+
+c) Se han comprobado las características de los perfiles, herrajes y medios de unión.
+
+d) Se han realizado croquis, vistas y secciones sobre las piezas individuales que forman el conjunto.
+
+e) Se han descrito las características básicas de los perfiles, herrajes y medios de unión.
+
+f) Se ha trasmitido la información con claridad, de manera ordenada y estructurada.
+
+g) Se han aplicado las especificaciones de prevención de riesgos laborales y medioambientales requeridas.
+
+h) Se ha mantenido una actitud ordenada y metódica.
+
+2\. Prepara las máquinas y herramientas de construcciones metálicas, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado las máquinas y herramientas en función de sus prestaciones en el proceso de fabricación.
+
+b) Se han identificado los dispositivos de las máquinas y sus sistemas de control.
+
+c) Se han seleccionado y montado los accesorios y herramientas, según las operaciones que van a ser realizadas.
+
+d) Se ha comprobado el estado de funcionalidad de los accesorios y herramientas para ejecutar un correcto mecanizado.
+
+e) Se ha realizado el reglaje y ajuste de los equipos y herramientas en función de la operación que ha de ejecutarse.
+
+f) Se ha realizado la limpieza, lubricación y mantenimiento de primer nivel de los diferentes equipos y herramientas.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
+
+h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+3\. Prepara los equipos de soldadura por arco eléctrico y oxiacetilénica, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado los componentes de un puesto de trabajo de soldadura por arco eléctrico y de soldadura oxiacetilénica.
+
+b) Se ha descrito el funcionamiento de los componentes de un puesto de trabajo de soldadura por arco y oxiacetilénica.
+
+c) Se han regulado las variables de trabajo, como presión, intensidad y dardo de la llama, según el trabajo a realizar.
+
+d) Se han seleccionado los electrodos, relacionándolos con las características técnicas de los elementos a unir.
+
+e) Se han seleccionado y montado los accesorios, según las operaciones que van a ser realizadas.
+
+f) Se han realizado las uniones soldadas, utilizando las técnicas normalizadas.
+
+g) Se ha realizado la limpieza, lubricación y mantenimiento de primer nivel de los diferentes equipos de soldadura.
+
+h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+j) Se han aplicado los equipos de protección individual adecuados en cada fase de la preparación.
+
+4\. Realiza las operaciones básicas de mecanizado por conformado y soldeo sobre materiales férricos, relacionando la técnica a utilizar con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se han descrito las fases de proceso de mecanizado en función de las características de material y de la técnica de mecanizado.
+
+b) Se ha establecido un orden de ejecución en función de la optimización de los recursos.
+
+c) Se han realizado el recalcado, estirado, aplanado, curvado y doblado de perfiles y chapas de acuerdo a procedimientos normalizados.
+
+d) Se han preparado los bordes de las piezas a unir.
+
+e) Se han ejecutado los procesos de soldeo y uniones de acuerdo a las características técnicas de los productos.
+
+f) Se han alimentado correctamente las máquinas manuales, teniendo en cuenta las propiedades de los materiales.
+
+g) Se han alimentado las máquinas automáticas, teniendo en cuenta el proceso a desarrollar y los parámetros de la máquina.
+
+h) Se han verificado con plantillas o mediciones las piezas obtenidas, corrigiendo los posibles defectos.
+
+i) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+j) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
+
+5\. Realiza las operaciones básicas de montaje de productos férricos, relacionando las fases del mismo con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se ha realizado el plano de montaje del producto a obtener.
+
+b) Se han descrito las fases de proceso de montaje en función de las piezas a unir.
+
+c) Se han seleccionado los accesorios, medios de unión y herramientas en función de la orden de ejecución.
+
+d) Se han posicionado las piezas a montar para obtener un producto de calidad.
+
+e) Se han realizado las uniones fijas y desmontables, siguiendo criterios de seguridad, funcionalidad y economía.
+
+f) Se han verificado las características dimensionales y geométricas de los productos obtenidos, corrigiendo posibles defectos.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+6\. Transporta productos de carpintería metálica férrica, seleccionando los embalajes y útiles de transportes.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los productos de embalaje, de acuerdo a las características del producto final.
+
+b) Se han seleccionado los soportes y medios de amarres adecuados para su inmovilización durante el transporte.
+
+c) Se ha realizado el embalaje de los productos con los materiales apropiados y protegiendo los puntos débiles de deterioro.
+
+d) Se han identificado mediante etiquetas u otros medios especificados los productos embalados.
+
+e) Se ha manipulado el producto embalado con seguridad y cuidado hasta su ubicación en el medio de transporte.
+
+f) Se han realizado las sujeciones con los medios adecuados y se verifica su inmovilización.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales en el embalaje y transporte de cargas.
+
+h) Se ha realizado la descarga y desembalaje del producto, de acuerdo con normas de seguridad para evitar su deterioro.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de embalaje y transporte.
+
+**Duración: 85 horas.**
+
+**Contenidos básicos:**
+
+Preparación de materiales de carpintería metálica férrica:
+
+– Tipos de perfiles.
+
+– Tipos de chapas.
+
+– Formas comerciales.
+
+– Realización de croquis, vistas y secciones.
+
+– Tipos de herrajes.
+
+– Medios de unión.
+
+– Cálculo de la medida y del número de perfiles que necesitamos cortar.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+Preparación de máquinas y herramientas de construcciones metálicas:
+
+– Montaje y desmontaje de herramientas, útiles y piezas.
+
+– Máquinas de conformado.
+
+– Dispositivos de seguridad.
+
+– Normas de seguridad.
+
+– Equipos de protección individual.
+
+– Dispositivos de máquinas para la seguridad activa.
+
+– Medidas de prevención de riesgos laborales aplicables.
+
+Preparación de los equipos de soldadura por arco eléctrico y oxiacetilénica:
+
+– Regulación de los parámetros y regulación de las intensidades.
+
+– Tipos de electrodos y su elección.
+
+– Presiones y llama del soplete.
+
+– Dispositivos de seguridad en los equipos de soldadura.
+
+– Normas de seguridad.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+Operaciones básicas de mecanizado por conformado y soldeo:
+
+– Procedimientos de estirado, aplanado, curvado y doblado de perfiles y chapas.
+
+– Procedimiento de soldadura oxiacetilénica.
+
+– Procedimiento de soldadura por arco eléctrico.
+
+– Máquinas manuales.
+
+– Técnica de mecanizado por arranque viruta y conformado.
+
+– Técnica de soldeo.
+
+– Optimización de los recursos.
+
+– Máquinas automáticas.
+
+– Verificación piezas.
+
+– Medidas de prevención de riesgos laborales aplicables.
+
+Operaciones básicas de montaje de productos férricos:
+
+– Planos de montajes.
+
+– Proceso de montaje.
+
+– Medios de uniones fijas y desmontables.
+
+– Realización de uniones fijas y desmontables.
+
+– Verificación de productos.
+
+– Especificaciones de prevención de riesgos laborales aplicables.
+
+Transporte de productos de carpintería metálica férrica:
+
+– Soportes y medios de sujeción.
+
+– Medidas de seguridad para el transporte.
+
+– Procedimientos de inmovilización de productos férricos.
+
+– Procedimientos de descarga y desembalaje de los productos.
+
+– Normas de seguridad durante la manipulación y transporte.
+
+– Medidas de prevención de riesgos laborales en el embalaje y transporte de cargas aplicables.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de construcción y montaje de productos férricos de construcciones metálicas.
+
+La definición de esta función incluye aspectos como:
+
+– La diferenciación de los tipos de materiales comerciales.
+
+– El reconocimiento de productos y las técnicas para su construcción.
+
+– La preparación de máquinas, equipos de soldadura y herramientas.
+
+– La construcción de productos, como puertas, ventanas, balcones, bancos, estanterías, tolvas y depósitos.
+
+– Las técnicas de mecanizados por conformado y soldeo.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), e), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales b), c), e), q), r), s), t), u), v), w), x), y) y z) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales.
+
+– Las técnicas de construcción de productos.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Carpintería de aluminio y PVC.**
+
+**Código: 3022**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara materiales de carpintería metálica no férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+
+Criterios de evaluación:
+
+a) Se han identificado los materiales a utilizar, perfiles, herrajes y medios de unión, de acuerdo con los elementos a construir.
+
+b) Se han seleccionado los materiales a emplear en el proceso.
+
+c) Se han comprobado las características de los perfiles, herrajes y medios de unión.
+
+d) Se han realizado croquis, vistas y secciones sobre las piezas individuales que forman el conjunto.
+
+e) Se han descrito las características básicas de los perfiles, herrajes y medios de unión.
+
+f) Se ha trasmitido la información con claridad, de manera ordenada y estructurada.
+
+g) Se han aplicado las especificaciones de prevención de riesgos laborales y medioambientales requeridas.
+
+h) Se ha mantenido una actitud ordenada y metódica.
+
+2\. Prepara las máquinas y herramientas de construcciones metálicas no férricas, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado las máquinas y herramientas en función de sus prestaciones en el proceso de fabricación.
+
+b) Se han identificado los dispositivos de las máquinas y sus sistemas de control.
+
+c) Se han seleccionado y montado los accesorios y herramientas según las operaciones que van a ser realizadas.
+
+d) Se ha comprobado el estado de funcionalidad de los accesorios y herramientas para ejecutar un correcto mecanizado.
+
+e) Se ha realizado el reglaje y ajuste de los equipos y herramientas en función de la operación que ha de ejecutarse.
+
+f) Se ha realizado la limpieza, lubricación y mantenimiento de primer nivel de los diferentes equipos y herramientas.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+i) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
+
+3\. Realiza las operaciones de mecanizado sobre materiales no férricos, relacionando la técnica a utilizar con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se han descrito las fases de proceso de mecanizado en función de las características de material y de la técnica de mecanizado.
+
+b) Se ha establecido un orden de ejecución en función de la optimización de los recursos.
+
+c) Se ha realizado la sujeción de los perfiles de aluminio y PVC en las condiciones de seguridad requeridas.
+
+d) Se ha realizado el tronzado, troquelado, encastrado, fresado, taladrado y roscado de perfiles y chapas de aluminio y PVC de acuerdo a los procedimientos normalizados.
+
+e) Se ha realizado el acabado de las piezas mecanizadas para su posterior ensamblado.
+
+f) Se han verificado con plantillas o mediciones las piezas obtenidas, corrigiendo los posibles defectos.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
+
+4\. Realiza las operaciones de montaje de productos no férricos, relacionando las fases del mismo con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se han descrito las fases de proceso de ensamblado y montaje en función de las piezas a unir.
+
+b) Se han seleccionado los accesorios, medios de unión y herramientas, en función del orden de ejecución.
+
+c) Se ha realizado el montaje de bisagras, herrajes y accesorios sobre los elementos mecanizados.
+
+d) Se han realizado las uniones fijas y desmontables, siguiendo criterios de seguridad, funcionalidad y economía.
+
+e) Se ha realizado el ensamblaje de los componentes de la estructura, comprobando su rigidez y funcionalidad.
+
+f) Se han verificado las características dimensionales y geométricas de los productos obtenidos, corrigiendo posibles defectos.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han aplicado las normas de seguridad requeridas en el montaje de productos no férricos.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+5\. Transporta productos de carpintería metálica no férrica, seleccionando los embalajes y útiles de transportes.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los productos de embalaje, de acuerdo a las características del producto final.
+
+b) Se han seleccionado los soportes y medios de amarres adecuados para su inmovilización durante el transporte.
+
+c) Se ha realizado el embalaje de los productos con los materiales apropiados y protegiendo los puntos débiles de deterioro.
+
+d) Se han identificado mediante etiquetas u otros medios especificados los productos embalados.
+
+e) Se ha manipulado el producto embalado con seguridad y cuidado hasta su ubicación en el medio de transporte.
+
+f) Se han realizado las sujeciones con los medios adecuados, verificando su inmovilización.
+
+g) Se ha realizado la descarga y desembalaje del producto, de acuerdo con normas de seguridad para evitar su deterioro.
+
+h) Se han aplicado las medidas de prevención de riesgos laborales en el embalaje y transporte de cargas.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de embalaje y transporte.
+
+**Duración: 85 horas.**
+
+**Contenidos básicos:**
+
+Preparación de materiales de carpintería metálica no férrica:
+
+– Perfiles comerciales de aluminio.
+
+– Perfiles comerciales de PVC.
+
+– Manejo de perfiles.
+
+– Útiles de para el troquelado y encastrado.
+
+– Tipos de herrajes.
+
+– Elementos y materiales de unión.
+
+– Especificaciones de prevención de riesgos laborales y medioambientales aplicables.
+
+Preparación de máquinas y herramientas de construcciones metálicas no férricas:
+
+– Herramientas empleadas.
+
+– Montaje y desmontaje de herramientas, útiles y piezas.
+
+– Máquinas empleadas en carpintería de aluminio y PVC.
+
+– Troquelado, formas de troqueles.
+
+– Dispositivos de seguridad.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+– Equipos de protección individual.
+
+– Dispositivos de máquinas para la seguridad activa.
+
+Mecanizado de materiales no férricos:
+
+– Procedimientos de tronzado, troquelado, encastrado, fresado, taladrado y roscado de perfiles y chapas.
+
+– Técnicas de acabado.
+
+– Máquinas automáticas.
+
+– Verificación de piezas.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+Montaje de productos no férricos:
+
+– Fases del proceso de montaje.
+
+– Accesorios.
+
+– Medios de uniones fijas y desmontables.
+
+– Realización de uniones fijas y desmontables.
+
+– Normas sobre estanqueidad y métodos de ejecución.
+
+– Verificación y ajuste de los elementos montados.
+
+– Normas de seguridad y salud laboral durante el montaje.
+
+– Utilización de las protecciones en las máquinas y los medios individuales de protección.
+
+– Mantenimiento del área de trabajo.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables en el montaje.
+
+Transporte de productos de carpintería metálica no férrica:
+
+– Soportes y medios de sujeción.
+
+– Procedimientos de embalaje de productos.
+
+– Procedimientos de inmovilización de productos férricos.
+
+– Procedimientos de descarga y desembalaje de los productos.
+
+– Normas de seguridad y salud laboral durante la manipulación y transporte.
+
+– Medidas de prevención de riesgos laborales en el embalaje y transporte de cargas aplicables.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de construcción y montaje de productos férricos de construcciones metálicas.
+
+La definición de esta función incluye aspectos como:
+
+– La diferenciación de los tipos de materiales comerciales.
+
+– La preparación de máquinas, equipos de soldadura y herramientas.
+
+– El reconocimiento de productos y las técnicas para su construcción.
+
+– La construcción de productos, como puertas, ventanas, mamparas y cerramientos.
+
+– Las técnicas de mecanizados por arranque de viruta.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), e), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales a), b), c), f), q), r), s), t), u), v), w), x), y) y z) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales.
+
+– Las técnicas de construcción de productos.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Operaciones básicas de calderería ligera.**
+
+**Código: 3073**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Interpreta documentación técnica distinguiendo vistas, piezas, uniones, detalles, perfiles y cotas.
+
+Criterios de evaluación:
+
+a) Se ha identificado y trasladado al material la información relativa a escalas y cotas de la documentación técnica.
+
+b) Se ha interpretado y trasladado al material la información relativa a los tipos de superficies, cortes y uniones identificados en la documentación técnica.
+
+c) Se han utilizado las diferentes vistas y detalles de la pieza para conseguir una visión completa de la tarea a realizar.
+
+d) Se ha interpretado y trasladado al material de forma coherente toda información verbal, escrita o gráfica proporcionada por el encargado.
+
+e) Se han eliminado posibles errores de interpretación, dibujando bocetos y croquis acotados de las tareas que hay que realizar.
+
+f) Se han trazado planos sencillos, acotados y a escala a partir de las ideas, bocetos y croquis, siguiendo la normativa UNE.
+
+g) Se han elaborado vistas y detalles que complementan la información general.
+
+h) Se ha elaborado la nota de materiales y hoja de procesos a partir de la documentación gráfica realizada, maximizándose los recursos y eliminando tiempos muertos.
+
+2\. Opera equipos (manuales y semiautomáticos) de corte térmico, para obtener chapas y perfiles de formas definidas, cumpliendo el plan de seguridad personal y ambiental.
+
+Criterios de evaluación:
+
+a) Se han relacionado los distintos equipos de corte con los de acabados exigidos, expresando las prestaciones de los mismos.
+
+b) Se ha identificado y descrito los distintos componentes que forman los equipos de corte térmico, la función de cada uno de ellos y la interrelación de los mismos en el conjunto.
+
+c) Se han relacionado, entre sí, los diferentes parámetros del procedimiento de corte y los resultados que se pretenden obtener.
+
+d) Se han operado equipos de corte, utilizando las protecciones personales y de entorno requeridas, describiendo la «defectología» típica.
+
+e) Se han aplicado las medidas de seguridad establecidas en el plan de prevención de riesgos laborales y protección de medio ambiente.
+
+3\. Opera los equipos de corte mecánico, para obtener chapas y perfiles de formas definidas, aplicando el plan de prevención de riesgos laborales y ambientales.
+
+Criterios de evaluación:
+
+a) Se han relacionado los distintos equipos de corte mecánico, con los acabados exigidos, describiendo sus prestaciones.
+
+b) Se han identificado y descrito los distintos componentes que forman los equipos de corte mecánico, así como la función de cada uno de ellos y la interrelación de los mismos en el conjunto.
+
+c) Se han relacionado entre sí los diferentes parámetros del procedimiento y con los resultados que se pretenden obtener.
+
+d) Se ha operado con los diferentes equipos de corte mecánico empleando los equipos y medios de protección especificados en el plan prevención de riesgos laborales y ambientales, describiendo la «defectología» típica.
+
+e) Se han aplicado las medidas de seguridad que contiene el plan de prevención de riesgos laborales y ambientales exigibles en el uso de los diferentes equipos de corte mecánico.
+
+4\. Realiza, siguiendo instrucciones, operaciones básicas de conformado y enderezado de chapas y perfiles, para obtener los productos, cumpliendo las normas de calidad, Prevención de Riesgos Laborales y Medio Ambiente.
+
+Criterios de evaluación:
+
+a) Se han sujetado las piezas, según los procesos establecidos.
+
+b) Se han realizado tareas de medir, trazar, marcar, granetear, cortar, plegar, curvar, etc., para la preparación de las chapas y perfiles a montar, siguiendo instrucciones o bajo la supervisión de un técnico de nivel superior.
+
+c) Se han ajustado los distintos parámetros de trabajo (presión, velocidad, avance, etc.) a las especificaciones técnicas e instrucciones recibidas.
+
+d) Se han posicionado los materiales, teniendo en cuenta el proceso de curvado y sus limitaciones.
+
+e) Se ha ajustado la boquilla y la mezcla de gases a las instrucciones de trabajo.
+
+f) Se ha realizado el calentamiento de las zonas a tratar para el conformado o enderezado, siguiendo instrucciones, sin sobrepasar las temperaturas máximas permitidas por las especificaciones.
+
+g) Se han controlado las cotas y ángulos, así como el posicionado de las plantillas para un correcto conformado.
+
+h) Se han aplicado las medidas de seguridad que contiene el plan de prevención de riesgos laborales y ambientales, exigibles en el uso de los diferentes equipos de conformado.
+
+**Duración 150 horas.**
+
+**Contenidos básicos:**
+
+Interpretación gráfica de documentación técnica:
+
+– Interpretación de planos constructivos: Distinción de piezas, uniones y perfiles.
+
+– Sistemas de representación: Sistema diédrico.
+
+– Representación de vistas: sistema europeo y americano.
+
+– Representación gráfica y detalles de piezas.
+
+– Acotación.
+
+– Materiales metálicos. Propiedades.
+
+Procedimientos de corte térmico de chapas y perfiles:
+
+– Corte térmico.
+
+– Parámetros de corte.
+
+– Seguridad: Normas de seguridad. Riesgos.
+
+– Medidas preventivas y equipos de protección individual.
+
+Procedimientos de corte mecánico de chapas y perfiles:
+
+– Corte mecánico.
+
+– Parámetros de corte.
+
+– Seguridad: Normas de seguridad.
+
+– Medidas preventivas y equipos de protección individual.
+
+Procedimientos de conformado de chapas y perfiles:
+
+– Equipos y medios empleados en las operaciones de conformado. Técnicas operatorias.
+
+– Seguridad: Normas de seguridad. Riesgos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de elaboración de productos de calderería ligera con materiales metálicos.
+
+La definición de esta función incluye aspectos como:
+
+– La diferenciación de los tipos de materiales comerciales.
+
+– La preparación de máquinas, equipos de corte y conformado, así como herramientas.
+
+– El reconocimiento de productos y las técnicas para la elaboración de productos.
+
+– La construcción de productos, como cajas y armarios con chapa plegada, depósitos de formas geométricas sencillas y otros elementos metálicos.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), f), u), v), w), x), y), z), aa) y bb) del ciclo formativo, y las competencias profesionales, personales y sociales a), g), h), i), p), q), r), s), t), u), v), w), x), y) y z) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales.
+
+– Las técnicas de elaboración de productos.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Itinerario personal para la empleabilidad.**
+
+**Código: 3159**
+
+Ámbito de Comunicación y Ciencias Sociales I y II;
+
+Ámbito de Ciencias Aplicadas I y II.
+
+> Téngase en cuenta que el código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación del módulo profesional 3159 figura como anexo III del Real Decreto 659/2023, de 18 de julio; y que el Ámbito de Comunicación y Ciencias Sociales I y II y el Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo, según establece el art. 6.Dos.a), c) y d) del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+**Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico**
+
+**Módulo Profesional: Proyecto intermodular de aprendizaje colaborativo.**
+
+**Código: 3160**
+
+Duración: 25 horas.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+
+Criterios de evaluación:
+
+a) Se ha elaborado conjuntamente un esquema que contemple el conjunto de las empresas tipo del sector.
+
+b) Se han constituido equipos de trabajo y se han distribuido entre los grupos las empresas que se analizarán.
+
+c) Se ha identificado para la empresa seleccionada los productos o servicios que ofrece.
+
+d) Se han relacionado los productos o servicios ofertados con la consecución de los ODS (Objetivos de Desarrollo Sostenible).
+
+e) Se ha realizado un diagrama de bloques de los posibles departamentos que conforman la empresa.
+
+f) Se han tenido en cuenta las áreas transversales y su relación con las demás.
+
+g) Se ha presentado al gran grupo la configuración de la empresa y productos que ofrece.
+
+h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
+
+i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
+
+2\. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado un producto/servicio de la empresa a estudio.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se han identificado las características del público objetivo al que está destinado.
+
+d) Se ha comparado el producto con otros de empresas similares.
+
+e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
+
+3\. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+
+Criterios de evaluación:
+
+a) Se ha planteado en el grupo el concepto de una empresa tipo «spin off», indicando sus ventajas e inconvenientes.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se ha propuesto una posible organización de la empresa, atendiendo a una estructura lineal o circular.
+
+d) Se han indicado que tecnologías se incluirían para aumentar su competitividad.
+
+e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
+
+4\. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+
+Criterios de evaluación:
+
+a) Se ha analizado la responsabilidad de la empresa y los trabajadores en la consecución de entornos de trabajo seguros.
+
+b) Se han identificado los sistemas de protección generales e individuales de cada unidad en función de las actividades a realizar.
+
+c) Se ha estimado el coste de los elementos de protección individual.
+
+d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
+
+5\. Transmite información con claridad de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+b) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+c) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+d) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.
+
+**4.****Requisitos mínimos de calidad del contexto formativo**.
+
+**4.1 Espacios.**
+
+Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
+
+– Aula polivalente.
+
+– Taller de instalaciones electrotécnicas equipos eléctrico-electrónicos y redes.
+
+– Taller de construcciones metálicas.
+
+**4.2 Equipamientos mínimos.**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Aula polivalente.</td>
+<td>Ordenadores instalados en red, sistema de proyección e internet.</td>
+</tr>
+<tr>
+<td>Medios audiovisuales.</td>
+</tr>
+<tr>
+<td>Programas informáticos de aplicación.</td>
+</tr>
+<tr>
+<td rowspan="6">Taller de instalaciones electrotécnicas equipos eléctrico-electrónicos y redes.</td>
+<td>Herramientas manuales para trabajos eléctricos-electrónicos.</td>
+</tr>
+<tr>
+<td>Herramientas manuales para trabajos mecánicos.</td>
+</tr>
+<tr>
+<td>Equipos de medida de magnitudes eléctricas.</td>
+</tr>
+<tr>
+<td>Equipos de seguridad y protección.</td>
+</tr>
+<tr>
+<td>Equipos de soldadura para componentes.</td>
+</tr>
+<tr>
+<td>Fuentes de alimentación.</td>
+</tr>
+<tr>
+<td rowspan="13">Taller de construcciones metálicas.</td>
+<td>Bancos de trabajo con tornillos.</td>
+</tr>
+<tr>
+<td>Sierra.</td>
+</tr>
+<tr>
+<td>Curvadora de rodillos.</td>
+</tr>
+<tr>
+<td>Taladradoras.</td>
+</tr>
+<tr>
+<td>Cizalla.</td>
+</tr>
+<tr>
+<td>Equipos de corte.</td>
+</tr>
+<tr>
+<td>Prensa manual.</td>
+</tr>
+<tr>
+<td>Plegadora.</td>
+</tr>
+<tr>
+<td>Equipos de soldadura.</td>
+</tr>
+<tr>
+<td>Radiales, yunques bicórneos.</td>
+</tr>
+<tr>
+<td>Tronzadora con tope.</td>
+</tr>
+<tr>
+<td>Compresor.</td>
+</tr>
+<tr>
+<td>Taladros y remachadoras neumáticos.</td>
+</tr>
+</tbody>
+</table>
+
+**5. Profesorado.**
+
+**5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Fabricación de Elementos Metálicos son:**
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>3015. Equipos eléctricos y electrónicos.</p>
+<p>3020. Operaciones básicas de fabricación.</p>
+<p>3021. Soldadura y carpintería metálica.</p>
+<p>3022. Carpintería de aluminio y PVC.</p>
+<p>3073. Operaciones básicas de calderería Ligera.</p>
+</td>
+<td>
+<p>– Mecanizado y mantenimiento de máquinas.</p>
+<p>– Soldadura.</p>
+</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Instalaciones Electrotécnicas.</p>
+<p>– Equipos Electrónicos.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">3160. Proyecto intermodular de aprendizaje colaborativo.</td>
+<td>
+<p>– Mecanizado y mantenimiento de máquinas.</p>
+<p>– Soldadura.</p>
+</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Instalaciones Electrotécnicas.</p>
+<p>– Equipos Electrónicos.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>3159. Itinerario personal para la empleabilidad.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**5.2 Requisitos para el profesorado.**
+
+1\. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+**6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.**
+
+<table>
+<thead>
+<tr>
+<th>Módulos profesionales superados</th>
+<th>Unidades de competencia acreditables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">3015. Equipos eléctricos y electrónicos.</td>
+<td>UC1559_1: Realizar operaciones de ensamblado en el montaje de equipos eléctricos y electrónicos.</td>
+</tr>
+<tr>
+<td>UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctricos y electrónicos.</td>
+</tr>
+<tr>
+<td>UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos.</td>
+</tr>
+<tr>
+<td>3020. Operaciones básicas de fabricación.</td>
+<td>UC0087_1: Realizar operaciones básicas de fabricación.</td>
+</tr>
+<tr>
+<td>
+<p>3021. Soldadura y carpintería metálica.</p>
+<p>3022. Carpintería de aluminio y PVC.</p>
+</td>
+<td>UC0088_1: Realizar operaciones básicas de montaje.</td>
+</tr>
+</tbody>
+</table>
+
+**6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.**
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC1559_1: Realizar operaciones de ensamblado en el montaje de equipos eléctricos y electrónicos.<br>UC1560_1: Realizar operaciones de conexionado en el montaje de equipos eléctricos y electrónicos.<br>UC1561_1: Realizar operaciones auxiliares en el mantenimiento de equipos eléctricos y electrónicos. | 3015. Equipos eléctricos y electrónicos. |
+| UC0087_1: Realizar operaciones básicas de fabricación. | 3020. Operaciones básicas de fabricación. |
+| UC0088_1: Realizar operaciones básicas de montaje. | 3021. Soldadura y carpintería metálica.<br>3022. Carpintería de aluminio y PVC. |
+
+> Se modifican los apartados 3.2, 3.3 y 5, se añade el apartado 6 bis y se suprime el apartado 7 por los arts. 5, 6, 8.Veinticinco, Veintinueve y Treinta, 9.Veinticinco y 10 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## ANEXO V — Título profesional básico en instalaciones electrotécnicas y mecánica
+
+**1. Identificación del título.**
+
+El Título profesional básico en instalaciones electrotécnicas y mecánica queda identificado por los siguientes elementos:
+
+– Denominación: Título profesional básico en instalaciones electrotécnicas y mecánica.
+
+– Nivel: Formación Profesional Básica.
+
+– Duración: 2000 horas
+
+– Familia Profesional: Electricidad y Electrónica y Fabricación mecánica.
+
+– Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
+
+**2. Perfil profesional.**
+
+**2.1 Competencia general del título.**
+
+La competencia general de este título consiste en realizar operaciones auxiliares en el montaje y mantenimiento de instalaciones electrotécnicas y de telecomunicaciones en edificios, así como operaciones básicas de fabricación y montaje para fabricación mecánica, observando las normas de prevención de riesgos laborales y protección medioambiental correspondientes y comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
+
+**2.2 Competencias del título.**
+
+Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
+
+a) Acopiar los materiales y herramientas para acometer la ejecución del montaje o del mantenimiento en instalaciones eléctricas de baja tensión, domóticas y de telecomunicaciones en edificios.
+
+b) Montar canalizaciones y tubos en condiciones de calidad y seguridad y siguiendo el procedimiento establecido.
+
+c) Tender el cableado en instalaciones eléctricas de baja tensión y domóticas en edificios, aplicando las técnicas y procedimientos normalizados.
+
+d) Fijar equipos y otros elementos auxiliares de las instalaciones electrotécnicas en condiciones de calidad y seguridad y siguiendo el procedimiento establecido.
+
+e) Realizar pruebas y verificaciones básicas, tanto funcionales como reglamentarias de las instalaciones, utilizando los instrumentos adecuados y el procedimiento establecido.
+
+f) Preparar el puesto de trabajo, herramientas, maquinaria auxiliar y equipos de mecanizado y montaje en la instalación y mantenimiento.
+
+g) Realizar uniones fijas y desmontables en materiales metálicos y no metálicos, siguiendo criterios de seguridad, funcionalidad y economía.
+
+h) Realizar el montaje y ajuste de elementos metálicos y no metálicos mediante herramientas portátiles, consiguiendo los ajustes, enrase o deslizamiento de las partes móviles.
+
+i) Realizar el mantenimiento de máquinas, equipos, útiles e instalaciones, cumpliendo los procedimientos establecidos en los manuales para el uso y conservación de los mismos.
+
+j) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+k) Actuar de forma saludable en distintos contextos cotidianos que favorezcan el desarrollo personal y social, analizando hábitos e influencias positivas para la salud humana.
+
+l) Valorar actuaciones encaminadas a la conservación del medio ambiente, diferenciando las consecuencias de las actividades cotidianas que pueda afectar al equilibrio del mismo.
+
+m) Obtener y comunicar información destinada al autoaprendizaje y a su uso en distintos contextos de su entorno personal, social o profesional mediante recursos a su alcance y los propios de las tecnologías de la información y de la comunicación.
+
+n) Actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas, apreciando su uso y disfrute como fuente de enriquecimiento personal y social.
+
+ñ) Comunicarse con claridad, precisión y fluidez en distintos contextos sociales o profesionales y por distintos medios, canales y soportes a su alcance, utilizando y adecuando recursos lingüísticos orales y escritos propios de la lengua castellana y, en su caso, de la lengua cooficial.
+
+o) Comunicarse en situaciones habituales tanto laborales como personales y sociales, utilizando recursos lingüísticos básicos en lengua extranjera.
+
+p) Realizar explicaciones sencillas sobre acontecimientos y fenómenos característicos de las sociedades contemporáneas a partir de información histórica y geográfica a su disposición.
+
+q) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en su actividad laboral, utilizando las ofertas formativas a su alcance y localizando los recursos mediante las tecnologías de la información y la comunicación.
+
+r) Cumplir las tareas propias de su nivel con autonomía y responsabilidad, empleando criterios de calidad y eficiencia en el trabajo asignado y efectuándolo de forma individual o como miembro de un equipo.
+
+s) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en su ámbito de trabajo, contribuyendo a la calidad del trabajo realizado.
+
+t) Asumir y cumplir las medidas de prevención de riesgos y seguridad laboral en la realización de las actividades laborales, evitando daños personales, laborales y ambientales.
+
+u) Cumplir las normas de calidad, de accesibilidad universal y diseño para todos que afectan a su actividad profesional.
+
+v) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la elección de los procedimientos de su actividad profesional.
+
+w) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+**2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.**
+
+Cualificaciones profesionales completas:
+
+a) Operaciones auxiliares de montaje de instalaciones electrotécnicas y de telecomunicaciones en edificios, ELE255_1 (Real Decreto 1115/2007, de 24 de agosto), que comprende las siguientes unidades de competencia:
+
+UC0816_1: Realizar operaciones de montaje de instalaciones eléctricas de baja tensión y domóticas en edificios.
+
+UC0817_1: Realizar operaciones de montaje de instalaciones de telecomunicaciones.
+
+b) Operaciones auxiliares de fabricación mecánica FME031_1 (Real Decreto 295/2004, de 20 de febrero), que comprende las siguientes unidades de competencia:
+
+UC0087_1: Realizar operaciones básicas de fabricación.
+
+UC0088_1: Realizar operaciones básicas de montaje.
+
+**2.4 Entorno profesional.**
+
+2.4.1 Este profesional ejerce su actividad por cuenta ajena en grandes, medianas y pequeñas empresas dedicadas a la fabricación y montaje de productos mecánicos y electromecánicos, así como al montaje y mantenimiento de instalaciones electrotécnicas de edificios, viviendas, oficinas, locales comerciales e industriales, supervisado por un nivel superior y estando regulada la actividad por el Reglamento Electrotécnico de Baja Tensión y por la Normativa de las Infraestructuras Comunes de Telecomunicaciones.
+
+2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+– Operario/a de instalaciones eléctricas de baja tensión.
+
+– Ayudante/a de montador/a de antenas receptoras/ televisión satélites.
+
+– Ayudante/a de instalador/a y reparador/a de equipos telefónicos y telegráficos.
+
+– Ayudante/a de instalador/a de equipos y sistemas de comunicación.
+
+– Ayudante/a de instalador/a reparador/a de instalaciones telefónicas.
+
+– Peón de la industria de producción y distribución de energía eléctrica.
+
+– Peones de industrias manufactureras.
+
+– Auxiliares de procesos automatizados.
+
+**2.5 Prospectiva del sector o de los sectores relacionados con el título.**
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) En el sector de las instalaciones eléctricas se prevé un fuerte crecimiento en la demanda de instalaciones automatizadas, tanto domóticas como industriales, instalaciones solares fotovoltaicas y de infraestructuras de telecomunicaciones en edificios de viviendas y del sector terciario, manteniéndose estable en las instalaciones electrotécnicas.
+
+b) El desarrollo de nuevas tecnologías está haciendo posible el cambio de materiales y equipos para lograr una mayor eficiencia energética y seguridad eléctrica de previsible implantación obligatoria en los próximos años.
+
+c) Las empresas en las que ejerce su actividad este profesional tienden a delegar en él funciones y responsabilidades, observándose en ellas la preferencia por un perfil polivalente con un alto grado de autonomía, capacidad para la toma de decisiones, el trabajo en equipo y la coordinación con instaladores de otros sectores.
+
+d) Las estructuras organizativas tienden a configurarse sobre la base de decisiones descentralizadas y equipos participativos de gestión, potenciando la autonomía y capacidad de decisión.
+
+e) Las características del mercado de trabajo, la movilidad laboral, la apertura económica, obligan a formar profesionales polivalentes capaces de adaptarse a las nuevas situaciones socioeconómicas, laborales y organizativas del sector.
+
+**3. Enseñanzas del ciclo formativo.**
+
+**3.1 Objetivos generales del título.**
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Seleccionar el utillaje, herramientas, equipos y medios de montaje y de seguridad, reconociendo los materiales reales y considerando las operaciones a realizar, para acopiar los recursos y medios.
+
+b) Marcar la posición y aplicar técnicas de fijación de canalizaciones, tubos y soportes, utilizando las herramientas adecuadas y el procedimiento establecido para realizar el montaje.
+
+c) Aplicar técnicas de tendido y guiado de cables, siguiendo los procedimientos establecidos y manejando las herramientas y medios correspondientes para tender el cableado.
+
+d) Aplicar técnicas sencillas de montaje, manejando equipos, herramientas e instrumentos, según procedimientos establecidos, en condiciones de seguridad, para fijar equipos y elementos auxiliares de instalaciones electrotécnicas.
+
+e) Utilizar equipos de medida, relacionando los parámetros a medir con la configuración de los equipos y con su aplicación en las instalaciones de acuerdo a las instrucciones de los fabricantes para realizar pruebas y verificaciones.
+
+f) Preparar el puesto de trabajo, herramientas, maquinaria auxiliar y equipos de mecanizado y montaje en taller y/o de instalación y mantenimiento en obra.
+
+g) Realizar uniones fijas y desmontables en materiales metálicos y no metálicos, siguiendo criterios de seguridad, funcionalidad y economía.
+
+h) Realizar el montaje y ajuste de elementos metálicos y no metálicos mediante herramientas portátiles, consiguiendo los ajustes, enrase o deslizamiento de las partes móviles.
+
+i) Interpretar manuales de uso de máquinas, equipos, útiles e instalaciones, identificando la secuencia de operaciones para realizar su mantenimiento básico.
+
+j) Comprender los fenómenos que acontecen en el entorno natural mediante el conocimiento científico como un saber integrado, así como conocer y aplicar los métodos para identificar y resolver problemas básicos en los diversos campos del conocimiento y de la experiencia.
+
+k) Desarrollar habilidades para formular, plantear, interpretar y resolver problemas, aplicar el razonamiento de cálculo matemático para desenvolverse en la sociedad, en el entorno laboral y gestionar sus recursos económicos.
+
+l) Identificar y comprender los aspectos básicos de funcionamiento del cuerpo humano y ponerlos en relación con la salud individual y colectiva y valorar la higiene y la salud para permitir el desarrollo y afianzamiento de hábitos saludables de vida en función del entorno en el que se encuentra.
+
+m) Desarrollar hábitos y valores acordes con la conservación y sostenibilidad del patrimonio natural, comprendiendo la interacción entre los seres vivos y el medio natural para valorar las consecuencias que se derivan de la acción humana sobre el equilibrio medioambiental.
+
+n) Desarrollar las destrezas básicas de las fuentes de información utilizando con sentido crítico las tecnologías de la información y de la comunicación para obtener y comunicar información en el entorno personal, social o profesional.
+
+ñ) Reconocer características básicas de producciones culturales y artísticas, aplicando técnicas de análisis básico de sus elementos para actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas.
+
+o) Desarrollar y afianzar habilidades y destrezas lingüísticas y alcanzar el nivel de precisión, claridad y fluidez requeridas, utilizando los conocimientos sobre la lengua castellana y, en su caso, la lengua cooficial para comunicarse en su entorno social, en su vida cotidiana y en la actividad laboral.
+
+p) Desarrollar habilidades lingüísticas básicas en lengua extranjera para comunicarse de forma oral y escrita en situaciones habituales y predecibles de la vida cotidiana y profesional.
+
+q) Reconocer causas y rasgos propios de fenómenos y acontecimientos contemporáneos, evolución histórica, distribución geográfica para explicar las características propias de las sociedades contemporáneas.
+
+r) Desarrollar valores y hábitos de comportamiento basados en principios democráticos, aplicándolos en sus relaciones sociales habituales y en la resolución pacífica de los conflictos.
+
+s) Comparar y seleccionar recursos y ofertas formativas existentes para el aprendizaje a lo largo de la vida para adaptarse a las nuevas situaciones laborales y personales.
+
+t) Desarrollar la iniciativa, la creatividad y el espíritu emprendedor, así como la confianza en sí mismo, la participación y el espíritu crítico para resolver situaciones e incidencias tanto de la actividad profesional como de la personal.
+
+u) Desarrollar trabajos en equipo, asumiendo sus deberes, respetando a los demás y cooperando con ellos, actuando con tolerancia y respeto a los demás para la realización eficaz de las tareas y como medio de desarrollo personal.
+
+v) Utilizar las tecnologías de la información y de la comunicación para informarse, comunicarse, aprender y facilitarse las tareas laborales.
+
+w) Relacionar los riesgos laborales y ambientales con la actividad laboral con el propósito de utilizar las medidas preventivas correspondientes para la protección personal, evitando daños a las demás personas y en el medio ambiente.
+
+x) Desarrollar las técnicas de su actividad profesional asegurando la eficacia y la calidad en su trabajo, proponiendo, si procede, mejoras en las actividades de trabajo.
+
+y) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+**3.2 Módulos profesionales.**
+
+3.2.1 Los módulos profesionales, proyecto intermodular de aprendizaje colaborativo y ámbitos son los que a continuación se relacionan:
+
+3013\. Instalaciones eléctricas y domóticas.
+
+3014\. Instalaciones de telecomunicaciones.
+
+3020\. Operaciones básicas de fabricación.
+
+3021\. Soldadura y carpintería metálica.
+
+3022\. Carpintería de aluminio y PVC.
+
+3159\. Itinerario personal para la empleabilidad;
+
+Ámbito de Comunicación y Ciencias Sociales;
+
+Ámbito de Ciencias Aplicadas.
+
+3160\. Proyecto intermodular de aprendizaje colaborativo y Tutoría.
+
+3.2.2 Otras especificaciones:
+
+1\. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+2\. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+3\. De acuerdo con lo establecido en el artículo 85 del Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+
+4\. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el título IV del Real Decreto 659/2023, de 18 de julio.
+
+5\. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.
+
+**3.3 Desarrollo de los módulos.**
+
+**Módulo Profesional: Instalaciones eléctricas y domóticas.**
+
+**Código: 3013**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Selecciona los elementos, equipos y herramientas para la realización del montaje y mantenimiento de instalaciones eléctricas de edificios, relacionándolos con su función en la instalación.
+
+Criterios de evaluación:
+
+a) Se han identificado los canales, tubos y sus soportes y accesorios de fijación, según su uso, en la instalación (empotrado, de superficie, entre otros).
+
+b) Se han identificado los distintos tipos de conductores según su aplicación en las instalaciones eléctricas.
+
+c) Se han identificado las cajas, registros, los mecanismos (interruptores, conmutadores y tomas de corriente, entre otros) según su función.
+
+d) Se han descrito las distintas formas de ubicación de caja y registros (empotrado o de superficie).
+
+e) Se han identificado las luminarias y accesorios según el tipo (fluorescente, halógeno, entre otros), relacionándolos con el espacio donde van a ser colocadas.
+
+f) Se han identificado los equipos y elementos típicos utilizados en las instalaciones domóticas con su función y características principales.
+
+g) Se han asociado las herramientas y equipos utilizados en el montaje y el mantenimiento con las operaciones que se van a realizar.
+
+h) Se ha ajustado el acopio del material, herramientas y equipo al ritmo de la intervención.
+
+i) Se ha trasmitido la información con claridad, de manera ordenada y estructurada.
+
+j) Se ha mantenido una actitud ordenada y metódica.
+
+2\. Monta canalizaciones, soportes y cajas en una instalación eléctrica de baja tensión y/o domóticas, replanteando el trazado de la instalación.
+
+Criterios de evaluación:
+
+a) Se han identificado las herramientas empleadas según el tipo (tubos de PVC y tubos metálicos, entre otros).
+
+b) Se han descrito las técnicas y los elementos empleados en la unión de tubos y canalizaciones.
+
+c) Se han descrito las técnicas de curvado de tubos.
+
+d) Se han descrito las diferentes técnicas de sujeción de tubos y canalizaciones (mediante tacos y tornillos, abrazaderas, grapas y fijaciones químicas, entre otras).
+
+e) Se ha marcado la ubicación de las canalizaciones y cajas.
+
+f) Se han preparado los espacios (huecos y cajeados) destinados a la ubicación de cajas y canalizaciones.
+
+g) Se han montado los cuadros eléctricos y elementos de sistemas automáticos y domóticos de acuerdo con los esquemas de las instalaciones e indicaciones dadas.
+
+h) Se han respetado los tiempos estipulados para el montaje, aplicando las normas específicas del reglamento eléctrico en la realización de las actividades.
+
+i) Se han realizado los trabajos con orden y limpieza, respetando las normas de seguridad.
+
+j) Se ha operado con autonomía en las actividades propuestas.
+
+3\. Tiende el cableado entre equipos y elementos de las instalaciones eléctricas de baja tensión y/o domóticas, aplicando técnicas de acuerdo a la tipología de los conductores y a las características de la instalación.
+
+Criterios de evaluación:
+
+a) Se han descrito las características principales de los conductores (sección, aislamiento, agrupamiento, color, entre otros).
+
+b) Se han descrito los tipos de agrupación de conductores según su aplicación en la instalación (cables monohilo, cables multihilo, mangueras, barras, entre otros).
+
+c) Se han relacionado los colores de los cables con su aplicación de acuerdo al código correspondiente.
+
+d) Se han descrito los tipos de guías pasacables más habituales.
+
+e) Se ha identificado la forma de sujeción de los cables a la guía.
+
+f) Se han preparado los cables tendidos para su conexionado dejando una «coca» (longitud de cable adicional) y etiquetándolos.
+
+g) Se ha operado con las herramientas y materiales con la calidad y seguridad requerida.
+
+h) Se han realizado los trabajos con orden y limpieza.
+
+i) Se ha operado con autonomía en las actividades propuestas.
+
+j) Se ha mostrado una actitud responsable e interés por la mejora del proceso.
+
+4\. Instala mecanismos y elementos de las instalaciones eléctricas y/o domóticas, identificando sus componentes y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado los mecanismos y elementos de las instalaciones.
+
+b) Se han descrito las principales funciones de los mecanismos y elementos (interruptores, conmutadores y sensores, entre otros).
+
+c) Se han ensamblado los elementos formados por un conjunto de piezas.
+
+d) Se han colocado y fijado mecanismos, «actuadores» y sensores en su lugar de ubicación.
+
+e) Se han preparado los terminales de conexión según su tipo.
+
+f) Se han conectado los cables con los mecanismos y aparatos eléctricos, asegurando un buen contacto eléctrico y la correspondencia entre el cable y el terminal del aparato o mecanismo.
+
+g) Se han colocado embellecedores y tapas cuando así se requiera.
+
+h) Se ha operado con las herramientas y materiales y con la calidad y seguridad requerida.
+
+5\. Realiza operaciones auxiliares de mantenimiento de instalaciones eléctricas y/o domóticas de edificios, relacionando las intervenciones con los resultados a conseguir.
+
+Criterios de evaluación:
+
+a) Se han descrito las averías tipo en instalaciones eléctricas tanto en edificios.
+
+b) Se han descrito las averías tipo en instalaciones domóticas en edificios.
+
+c) Se ha inspeccionado la instalación comprobando visual o funcionalmente la disfunción.
+
+d) Se ha reconocido el estado de la instalación o de alguno de sus elementos, efectuando pruebas funcionales o medidas eléctricas elementales.
+
+e) Se ha verificado la ausencia de peligro para la integridad física y para la instalación.
+
+f) Se ha sustituido el elemento deteriorado o averiado, siguiendo el procedimiento establecido o de acuerdo a las instrucciones recibidas.
+
+g) Se han aplicado las normas de seguridad en todas las intervenciones de reparación de la instalación.
+
+h) Se ha demostrado responsabilidad ante errores y fracasos.
+
+**Duración: 175 horas.**
+
+**Contenidos básicos:**
+
+Selección de elementos, equipos y herramientas de instalaciones eléctricas/domóticas:
+
+– Instalaciones de enlace. Partes.
+
+– Instalaciones en viviendas: grado de electrificación.
+
+– Instalaciones con bañeras o duchas.
+
+– Características y tipos de elementos: cuadro de distribución, elementos de mando y protección, tubos y canalizaciones, cajas, conductores eléctricos, elementos de maniobra y de conexión, entre otros.
+
+– Clasificación. Instalaciones tipo. Circuitos. Características de las instalaciones. Tipos de elementos.
+
+– Protección contra contactos directos e indirectos. Dispositivos.
+
+– Instalaciones domóticas. Tipos y características. Sensores. Equipos de control, «actuadores».
+
+– Seguridad en las instalaciones.
+
+Montaje de canalizaciones, soportes y cajas en instalaciones eléctricas de baja tensión y/o domótica:
+
+– Características y tipos de las canalizaciones: tubos metálicos y no metálicos, canales, bandejas y soportes, entre otros.
+
+– Técnicas de montaje de los sistemas de instalación: empotrada, en superficie o aérea. Taladrado, tipos de superficie. Fijaciones, tipos y características. Herramientas.
+
+– Medios y equipos de seguridad. Prevención de accidentes. Normativa de seguridad eléctrica. Riesgos en altura.
+
+Tendido de cableado entre equipos y elementos de instalaciones eléctricas/domóticas:
+
+– Características y tipos de conductores: aislados y no aislados, monohilo, multihilo, mangueras, barras, entre otros.
+
+– Técnicas de instalación y tendido de los conductores. Guías pasacables, tipos y características. Precauciones.
+
+– Medidas de seguridad y protección.
+
+Instalación de mecanismos y elementos de las instalaciones eléctricas/domóticas:
+
+– Aparatos de protección. Tipos y características. Fusibles, interruptor de control de potencia, interruptor diferencial, interruptores magneto-térmicos, entre otros. Técnicas de montaje.
+
+– Técnicas de instalación y fijación sobre raíl. Conexión. Aparatos de maniobra. Tipos y características. Interruptores, conmutadores, pulsadores, entre otros.
+
+– Instalación y fijación. Conexión.
+
+– Tomas de corriente: Tipos, Instalación y fijación. Conexión.
+
+– Receptores eléctricos. Luminarias, motores, timbres, entre otros. Instalación y fijación. Conexión.
+
+– Instalación y fijación de equipos de control domóticos. Medidas de seguridad y protección.
+
+Mantenimiento de instalaciones eléctricas y/o domóticas de edificios:
+
+– Magnitudes eléctricas en: tensión, intensidad, resistencia y continuidad, potencia y aislamientos, entre otros.
+
+– Equipos de medida. Procedimientos de utilización. Reparación de averías. Sustitución de elementos. Técnicas rutinarias de mantenimiento.
+
+– Medidas de seguridad y protección.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de realizar operaciones de montaje de instalaciones eléctricas de baja tensión y domóticas en edificios.
+
+La definición de esta función incluye aspectos como:
+
+– La identificación de equipos, elementos, herramientas y medios auxiliares.
+
+– El montaje de equipos, canalizaciones y soportes. El tendido de cables.
+
+– El mantenimiento de usuario o de primer nivel.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), s), t), u), v), w), x) e y) del ciclo formativo, y las competencias profesionales, personales y sociales a), b), c), d), e), p), q), r), s), t), u), v) y w) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La identificación de los equipos, medios auxiliares, equipos y herramientas para la realización del montaje y mantenimiento de las instalaciones.
+
+– La aplicación de técnicas de montaje de equipos y elementos de las instalaciones.
+
+– La realización de medidas de las magnitudes típicas de las instalaciones.
+
+**Módulo Profesional: Instalaciones de telecomunicaciones.**
+
+**Código: 3014**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Selecciona los elementos que configuran las instalaciones de telecomunicaciones, identificando y describiendo sus principales características y funcionalidad.
+
+Criterios de evaluación:
+
+a) Se han identificado los tipos de instalaciones relacionados con la infraestructura común de telecomunicaciones en edificios.
+
+b) Se han identificado los elementos (canalizaciones, cableados, antenas, armarios («racks») y cajas, entre otros) de una instalación de infraestructura de telecomunicaciones de un edificio.
+
+c) Se han clasificado los tipos de conductores (par de cobre, cable coaxial, fibra óptica, entre otros).
+
+d) Se ha determinado la tipología de las diferentes cajas (registros, armarios, «racks», cajas de superficie, de empotrar, entre otros).
+
+e) Se han descrito los tipos de fijaciones (tacos, bridas, tornillos, tuercas, grapas, entre otros) de canalizaciones y equipos.
+
+f) Se han relacionado las fijaciones con el elemento a sujetar.
+
+g) Se ha relacionado el suministro de los elementos de la instalación con el ritmo de ejecución de la misma.
+
+h) Se han realizado todas las operaciones teniendo en cuenta la normativa de seguridad laboral y de protección ambiental.
+
+2\. Monta canalizaciones, soportes y armarios en instalaciones de infraestructuras de telecomunicaciones en edificios, interpretando los croquis de la instalación.
+
+Criterios de evaluación:
+
+a) Se han descrito las técnicas empleadas en el curvado de tubos de PVC, metálicos u otros.
+
+b) Se han indicado las herramientas empleadas en cada caso y su aplicación.
+
+c) Se han descrito las técnicas y elementos empleadas en las uniones de tubos y canalizaciones.
+
+d) Se han descrito las fases típicas de montaje de un «rack».
+
+e) Se han identificado en un croquis del edificio o parte del edificio los lugares de ubicación de los elementos de la instalación.
+
+f) Se han preparado los huecos y cajeados para la ubicación de cajas y canalizaciones.
+
+g) Se han preparado y/o mecanizado las canalizaciones y cajas.
+
+h) Se han montado los armarios («racks»).
+
+i) Se han montado canalizaciones, cajas y tubos, entre otros, asegurando su fijación mecánica.
+
+j) Se han aplicado normas de seguridad en el uso de herramientas y equipos.
+
+3\. Monta cables en instalaciones de telecomunicaciones en edificios, aplicando las técnicas establecidas y verificando el resultado.
+
+Criterios de evaluación:
+
+a) Se han descrito los conductores empleados en diferentes instalaciones de telecomunicaciones (radio, televisión, telefonía y otras).
+
+b) Se han enumerado los tipos de guías pasacables más habituales, indicando la forma óptima de sujetar los cables a la guía.
+
+c) Se han identificado los tubos y sus extremos.
+
+d) Se ha introducido la guía pasacables en el tubo.
+
+e) Se ha sujetado adecuadamente el cable a la guía pasacables de forma escalonada.
+
+f) Se ha tirado de la guía pasacables, evitando que se suelte el cable o se dañe.
+
+g) Se ha cortado el cable dejando una «coca» en cada extremo.
+
+h) Se ha etiquetado el cable, siguiendo el procedimiento establecido.
+
+i) Se han aplicado normas de seguridad en el uso de herramientas y equipos.
+
+4\. Instala elementos y equipos de instalaciones de infraestructuras de telecomunicaciones en edificios, aplicando las técnicas establecidas y verificando el resultado.
+
+Criterios de evaluación:
+
+a) Se han ensamblado los elementos que consten de varias piezas.
+
+b) Se ha identificado el cableado en función de su etiquetado o colores.
+
+c) Se han colocado los equipos o elementos (antenas, amplificadores, entre otros) en su lugar de ubicación.
+
+d) Se han fijado los equipos o elementos (antenas, amplificadores, entre otros).
+
+e) Se ha conectado el cableado con los equipos y elementos, asegurando un buen contacto.
+
+f) Se han colocado los embellecedores, tapas y elementos decorativos.
+
+g) Se han determinado las posibles medidas de corrección en función de los resultados obtenidos.
+
+h) Se han aplicado normas de seguridad en el uso de herramientas y equipos.
+
+**Duración: 115 horas.**
+
+**Contenidos básicos:**
+
+Selección de los elementos de instalaciones de telecomunicación:
+
+– Instalaciones de telefonía y redes locales. Características. Medios de transmisión. Equipos: Centralitas, «hub», «switch», «router», entre otros.
+
+– Instalaciones de infraestructuras de telecomunicación en edificios. Características. Medios de transmisión. Equipos y elementos.
+
+– Instalaciones de megafonía y sonorización. Tipos y características. Difusores de señal. Cables y elementos de interconexión. Equipos: amplificadores, reproductores, grabadores, entre otros.
+
+– Instalación de antenas.
+
+Montaje de canalizaciones, soportes y armarios en las instalaciones de telecomunicación:
+
+– Características y tipos de las canalizaciones: tubos rígidos y flexibles, canales, bandejas y soportes, entre otros.
+
+– Preparación y mecanizado de canalizaciones. Técnicas de montaje de canalizaciones y tubos.
+
+– Medios y equipos de seguridad.
+
+Montaje de cables en las instalaciones de telecomunicación:
+
+– Características y tipos de conductores: cable coaxial, de pares, fibra óptica, entre otros.
+
+– Técnicas de tendido de los conductores.
+
+– Normas de seguridad.
+
+Montaje de equipos y elementos de las instalaciones de telecomunicación:
+
+– Instalación y fijación de equipos en instalaciones de telecomunicación.
+
+– Técnicas de fijación: en armarios, en superficie. Normas de seguridad.
+
+– Riesgos en altura. Medios y equipos de seguridad.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de realizar operaciones de montaje de instalaciones de telecomunicaciones en edificios.
+
+La definición de esta función incluye aspectos como:
+
+– La identificación de equipos, elementos, herramientas y medios auxiliares.
+
+– El montaje de antenas.
+
+– El montaje de equipos, canalizaciones y soportes.
+
+– El tendido de cables.
+
+– El mantenimiento de usuario o de primer nivel.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), s), t), u), v), w), x) e y) del ciclo formativo, y las competencias profesionales, personales y sociales a), b), c), d), e), p), q), r), s), t), u), v) y w) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La identificación de los equipos, medios auxiliares, equipos y herramientas para la realización del montaje y mantenimiento de las instalaciones.
+
+– La aplicación de técnicas de montaje de equipos y elementos de las instalaciones.
+
+– La toma de medidas de las magnitudes típicas de las instalaciones.
+
+**Módulo Profesional: Operaciones básicas de fabricación.**
+
+**Código: 3020**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Organiza su trabajo en la ejecución del mecanizado, interpretando la información contenida en las especificaciones del producto a mecanizar.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la simbología normalizada aplicable en fabricación mecánica.
+
+b) Se han comprendido las instrucciones recibidas (tanto orales como escritas) para la realización del trabajo.
+
+c) Se ha extraído la información necesaria (de las hojas de trabajo, catálogos, y otros) que permita poner en práctica el proceso de trabajo.
+
+d) Se han explicado las operaciones a realizar, de tal forma que permitan la realización del proceso, ajustándose a las especificaciones señaladas.
+
+e) Se han realizado a mano alzada dibujos sencillos que representen los productos a obtener.
+
+f) Se han tenido en cuenta las especificaciones de prevención de riesgos laborales y medioambientales requeridos en la organización del trabajo.
+
+g) Se han mantenido las zonas de trabajo de su responsabilidad en condiciones de orden, limpieza y seguridad.
+
+h) Se ha operado con autonomía en las actividades propuestas.
+
+2\. Prepara materiales, útiles y equipos de mecanizado, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se ha realizado el acopio de los materiales necesarios para el proceso de mecanizado.
+
+b) Se ha comprobado que los medios, herramientas y equipos que se van a utilizar están en las condiciones de uso que permitan optimizar su rendimiento.
+
+c) Se han seleccionado las herramientas, útiles y máquinas en función del tipo del material y calidad requerida.
+
+d) Se ha efectuado el transporte de materiales y equipos, aplicando las normas de seguridad requeridas.
+
+e) Se ha realizado el mantenimiento y cuidado de los medios empleados en el proceso una vez finalizado.
+
+f) Se ha ajustado el acopio del material, herramientas y equipo al ritmo de la intervención.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
+
+h) Se han planificado metódicamente las tareas a realizar con previsión de las dificultades y el modo de superarlas.
+
+3\. Realiza operaciones básicas de fabricación, seleccionando las herramientas y equipos y aplicando las técnicas de fabricación.
+
+Criterios de evaluación:
+
+a) Se ha realizado la preparación y limpieza de las superficies de las piezas a mecanizar.
+
+b) Se han trazado y marcado las piezas según especificaciones requeridas o instrucciones recibidas.
+
+c) Se han manipulado y colocado las piezas empleando los útiles y herramientas apropiados.
+
+d) Se han ajustado los parámetros de mecanizado en función del material, de las características de la pieza y de las herramientas empleadas.
+
+e) Se han realizado las operaciones de mecanizado en la máquina adecuada en función del material y de la calidad requerida.
+
+f) Se han realizado las operaciones de mecanizado, siguiendo las especificaciones recibidas.
+
+g) Se ha aplicado la normativa de Prevención de Riesgos Laborales en la ejecución de las operaciones de mecanizado.
+
+h) Se han realizado los trabajos con orden y limpieza.
+
+4\. Manipula cargas en la alimentación y descarga de máquinas y sistemas automáticos para la realización de operaciones de fabricación, describiendo los dispositivos y el proceso.
+
+Criterios de evaluación:
+
+a) Se han descrito los procesos auxiliares de fabricación mecánica en mecanizado, soldadura, calderería y otros.
+
+b) Se han analizado los procedimientos de alimentación y descarga de sistemas automáticos de fabricación mecánica.
+
+c) Se han descrito los procedimientos de manipulación de cargas.
+
+d) Se han ajustado los parámetros de operación según las instrucciones recibidas.
+
+e) Se han efectuado operaciones de carga y descarga de máquinas automáticas según las especificaciones requeridas.
+
+f) Se ha vigilado el sistema automatizado para su correcto funcionamiento, deteniendo el sistema ante cualquier anomalía que ponga en riesgo la calidad del producto.
+
+g) Se han aplicado los requerimientos de seguridad en la manipulación y transporte de cargas.
+
+h) Se han comunicado las incidencias surgidas y registrado en el documento apropiado.
+
+i) Se ha aplicado la normativa de prevención de riesgos laborales en la manipulación de máquinas y equipos.
+
+j) Se ha mostrado una actitud responsable e interés por la mejora del proceso.
+
+k) Se han mantenido hábitos de orden y limpieza.
+
+5\. Realiza operaciones de verificación sobre las piezas obtenidas, relacionando las características del producto final con las especificaciones técnicas.
+
+Criterios de evaluación:
+
+a) Se han identificado y descrito los instrumentos básicos de medida y control y su funcionamiento.
+
+b) Se ha operado con los instrumentos de verificación y control según los procedimientos establecidos.
+
+c) Se han comparado las mediciones realizadas con los requerimientos expresados en el plano u hojas de verificación.
+
+d) Se ha realizado el registro de los resultados en las fichas y documentos apropiados.
+
+e) Se han reflejado en los informes las incidencias observadas durante el control de materias primas, de las operaciones de mecanizado y de las piezas mecanizadas.
+
+f) Se ha realizado el mantenimiento de uso de los aparatos utilizados.
+
+g) Se ha operado con rigurosidad en los procedimientos desarrollados.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Organización del trabajo de mecanizado:
+
+– Recepción del plan.
+
+– Interpretación del proceso.
+
+– Representación gráfica.
+
+– Normalización, tolerancias, acabados superficiales.
+
+– Calidad, normativas y catálogos.
+
+– Planificación de las tareas.
+
+– Especificaciones de prevención de riesgos laborales y medioambientales en los trabajos de mecanizado.
+
+Preparación de materiales, útiles y equipos de mecanizado:
+
+– Conocimientos de materiales.
+
+– Propiedades y aplicaciones.
+
+– Principales herramientas auxiliares.
+
+– Máquinas herramientas manuales.
+
+– Manipulación de cargas.
+
+– Mantenimiento de primer nivel de los medios empleados.
+
+– Medidas de prevención de riesgos laborales aplicables.
+
+Operaciones básicas de fabricación:
+
+– Trazado plano.
+
+– Trazado al aire.
+
+– Herramientas manuales y auxiliares.
+
+– Máquinas herramientas: Normas de empleo y utilización.
+
+– Ejecución de las operaciones básicas de mecanizado.
+
+– Técnica de aplicación de los métodos de unión.
+
+– Normas de Prevención de Riesgos Laborales aplicables a las operaciones básicas de fabricación mecánica.
+
+Manipulación de cargas en la alimentación y descarga de máquinas y sistemas automáticos:
+
+– Operaciones auxiliares y de carga y descarga.
+
+– Sistemas de alimentación y descarga de máquinas.
+
+– Sistemas de seguridad empleados en los sistemas de carga y descarga.
+
+– Normas de Prevención de Riesgos Laborales aplicables a las operaciones de carga y descarga de materiales.
+
+Verificación de piezas:
+
+– Preparación de materiales para la verificación y control.
+
+– Instrumentos de medida para magnitudes lineales y angulares (calibre, goniómetro, reloj comparador, calas, galgas y otros).
+
+– Instrumentos de verificación de superficies planas y angulares.
+
+– Procedimiento de verificación y control.
+
+– Interpretación de los resultados obtenidos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de construcción y montaje de productos de construcciones metálicas.
+
+La definición de esta función incluye aspectos como:
+
+– La preparación del puesto de trabajo.
+
+– La interpretación de planos sencillos.
+
+– El reconocimiento de materiales y equipos para el mecanizado.
+
+– La ejecución de operaciones básicas de mecanizados por arranque de viruta.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales f), i), r), s), t), u), v), w), y x) del ciclo formativo, y las competencias profesionales, personales y sociales f), i), o), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales y equipos para el mecanizado.
+
+– Las técnicas de mecanizado por arranque de viruta.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Soldadura y carpintería metálica.**
+
+**Código: 3021**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara materiales de carpintería metálica férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+
+Criterios de evaluación:
+
+a) Se han identificado los materiales a utilizar, perfiles, herrajes y medios de unión, de acuerdo con los elementos a construir.
+
+b) Se han seleccionado los materiales a emplear en el proceso.
+
+c) Se han comprobado las características de los perfiles, herrajes y medios de unión.
+
+d) Se han realizado croquis, vistas y secciones sobre las piezas individuales que forman el conjunto.
+
+e) Se han descrito las características básicas de los perfiles, herrajes y medios de unión.
+
+f) Se ha trasmitido la información con claridad, de manera ordenada y estructurada.
+
+g) Se han aplicado las especificaciones de prevención de riesgos laborales y medioambientales requeridas.
+
+h) Se ha mantenido una actitud ordenada y metódica.
+
+2\. Prepara las máquinas y herramientas de construcciones metálicas, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado las máquinas y herramientas en función de sus prestaciones en el proceso de fabricación.
+
+b) Se han identificado los dispositivos de las máquinas y sus sistemas de control.
+
+c) Se han seleccionado y montado los accesorios y herramientas, según las operaciones que van a ser realizadas.
+
+d) Se ha comprobado el estado de funcionalidad de los accesorios y herramientas para ejecutar un correcto mecanizado.
+
+e) Se ha realizado el reglaje y ajuste de los equipos y herramientas en función de la operación que ha de ejecutarse.
+
+f) Se ha realizado la limpieza, lubricación y mantenimiento de primer nivel de los diferentes equipos y herramientas.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
+
+h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+3\. Prepara los equipos de soldadura por arco eléctrico y oxiacetilénica, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado los componentes de un puesto de trabajo de soldadura por arco eléctrico y de soldadura oxiacetilénica.
+
+b) Se ha descrito el funcionamiento de los componentes de un puesto de trabajo de soldadura por arco y oxiacetilénica.
+
+c) Se han regulado las variables de trabajo como presión, intensidad y dardo de la llama, según el trabajo a realizar.
+
+d) Se han seleccionado los electrodos, relacionándolos con las características técnicas de los elementos a unir.
+
+e) Se han seleccionado y montado los accesorios, según las operaciones que van a ser realizadas.
+
+f) Se han realizado las uniones soldadas utilizando las técnicas normalizadas.
+
+g) Se ha realizado la limpieza, lubricación y mantenimiento de primer nivel de los diferentes equipos de soldadura.
+
+h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+j) Se han aplicado los equipos de protección individual adecuados en cada fase de la preparación.
+
+4\. Realiza las operaciones básicas de mecanizado por conformado y soldeo sobre materiales férricos, relacionando la técnica a utilizar con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se han descrito las fases de proceso de mecanizado en función de las características de material y de la técnica de mecanizado.
+
+b) Se ha establecido un orden de ejecución en función de la optimización de los recursos.
+
+c) Se han realizado el recalcado, estirado, aplanado, curvado y doblado de perfiles y chapas de acuerdo a procedimientos normalizados.
+
+d) Se han preparado los bordes de las piezas a unir.
+
+e) Se han ejecutado los procesos de soldeo y uniones de acuerdo a las características técnicas de los productos.
+
+f) Se han alimentado correctamente las máquinas manuales teniendo en cuenta las propiedades de los materiales.
+
+g) Se han alimentado las máquinas automáticas, teniendo en cuenta el proceso a desarrollar y los parámetros de la máquina.
+
+h) Se han verificado con plantillas o mediciones las piezas obtenidas, corrigiendo los posibles defectos.
+
+i) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+j) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
+
+5\. Realiza las operaciones básicas de montaje de productos férricos, relacionando las fases del mismo con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se ha realizado el plano de montaje del producto a obtener.
+
+b) Se han descrito las fases de proceso de montaje en función de las piezas a unir.
+
+c) Se han seleccionado los accesorios, medios de unión y herramientas, en función de la orden de ejecución.
+
+d) Se han posicionado las piezas a montar para obtener un producto de calidad.
+
+e) Se han realizado las uniones fijas y desmontables siguiendo criterios de seguridad, funcionalidad y economía.
+
+f) Se han verificado las características dimensionales y geométricas de los productos obtenidos, corrigiendo posibles defectos.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han aplicado las normas de seguridad y salud laboral, utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+6\. Transporta productos de carpintería metálica férrica, seleccionando los embalajes y útiles de transportes.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los productos de embalaje, de acuerdo a las características del producto final.
+
+b) Se han seleccionado los soportes y medios de amarres adecuados para su inmovilización durante el transporte.
+
+c) Se ha realizado el embalaje de los productos con los materiales apropiados y protegiendo los puntos débiles de deterioro.
+
+d) Se han identificado mediante etiquetas u otros medios especificados los productos embalados.
+
+e) Se ha manipulado el producto embalado con seguridad y cuidado hasta su ubicación en el medio de transporte.
+
+f) Se han realizado las sujeciones con los medios adecuados y se verifica su inmovilización.
+
+g) Se han aplicado las medidas de prevención de riesgos laborales en el embalaje y transporte de cargas.
+
+h) Se ha realizado la descarga y desembalaje del producto, de acuerdo con normas de seguridad para evitar su deterioro.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de embalaje y transporte.
+
+**Duración: 85 horas.**
+
+**Contenidos básicos:**
+
+Preparación de materiales de carpintería metálica férrica:
+
+– Tipos de perfiles.
+
+– Tipos de chapas.
+
+– Formas comerciales.
+
+– Realización de croquis, vistas y secciones.
+
+– Tipos de herrajes.
+
+– Medios de unión.
+
+– Cálculo de la medida y del número de perfiles que necesitamos cortar.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+Preparación de máquinas y herramientas de construcciones metálicas:
+
+– Montaje y desmontaje de herramientas, útiles y piezas.
+
+– Máquinas de conformado.
+
+– Dispositivos de seguridad.
+
+– Normas de seguridad.
+
+– Equipos de protección individual.
+
+– Dispositivos de máquinas para la seguridad activa.
+
+– Medidas de prevención de riesgos laborales aplicables.
+
+Preparación de los equipos de soldadura por arco eléctrico y oxiacetilénica:
+
+– Regulación de los parámetros y regulación de las intensidades.
+
+– Tipos de electrodos y su elección.
+
+– Presiones y llama del soplete.
+
+– Dispositivos de seguridad en los equipos de soldadura.
+
+– Normas de seguridad.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+Operaciones básicas de mecanizado por conformado y soldeo:
+
+– Procedimientos de estirado, aplanado, curvado y doblado de perfiles y chapas.
+
+– Procedimiento de soldadura oxiacetilénica.
+
+– Procedimiento de soldadura por arco eléctrico.
+
+– Máquinas manuales.
+
+– Técnica de mecanizado por arranque viruta y conformado.
+
+– Técnica de soldeo.
+
+– Optimización de los recursos.
+
+– Máquinas automáticas.
+
+– Verificación piezas.
+
+– Medidas de prevención de riesgos laborales aplicables.
+
+Operaciones básicas de montaje de productos férricos:
+
+– Planos de montajes.
+
+– Proceso de montaje.
+
+– Medios de uniones fijas y desmontables.
+
+– Realización de uniones fijas y desmontables.
+
+– Verificación de productos.
+
+– Especificaciones de prevención de riesgos laborales aplicables.
+
+Transporte de productos de carpintería metálica férrica:
+
+– Soportes y medios de sujeción.
+
+– Medidas de seguridad para el transporte.
+
+– Procedimientos de inmovilización de productos férricos.
+
+– Procedimientos de descarga y desembalaje de los productos.
+
+– Normas de seguridad durante la manipulación y transporte.
+
+– Medidas de prevención de riesgos laborales en el embalaje y transporte de cargas aplicables.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de construcción y montaje de productos férricos de construcciones metálicas.
+
+La definición de esta función incluye aspectos como:
+
+– La diferenciación de los tipos de materiales comerciales.
+
+– El reconocimiento de productos y las técnicas para su construcción.
+
+– La preparación de máquinas, equipos de soldadura y herramientas
+
+– La construcción de productos como puertas, ventanas, balcones, bancos, estanterías, tolvas y depósitos.
+
+– Las técnicas de mecanizados por conformado y soldeo.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales g), h), i), r), s), t), u), v), w) y x) del ciclo formativo, y las competencias profesionales, personales y sociales g), h), i), o), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales.
+
+– Las técnicas de construcción de productos.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Carpintería de aluminio y PVC.**
+
+**Código: 3022**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara materiales de carpintería metálica no férrica, relacionándolos con las características del producto final e interpretando la documentación técnica.
+
+Criterios de evaluación:
+
+a) Se han identificado los materiales a utilizar, perfiles, herrajes y medios de unión, de acuerdo con los elementos a construir.
+
+b) Se han seleccionado los materiales a emplear en el proceso.
+
+c) Se han comprobado las características de los perfiles, herrajes y medios de unión.
+
+d) Se han realizado croquis, vistas y secciones sobre las piezas individuales que forman el conjunto.
+
+e) Se han descrito las características básicas de los perfiles, herrajes y medios de unión.
+
+f) Se ha trasmitido la información con claridad, de manera ordenada y estructurada.
+
+g) Se han aplicado las especificaciones de prevención de riesgos laborales y medioambientales requeridas.
+
+h) Se ha mantenido una actitud ordenada y metódica.
+
+2\. Prepara las máquinas y herramientas de construcciones metálicas no férricas, reconociendo sus características y aplicaciones.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado las máquinas y herramientas en función de sus prestaciones en el proceso de fabricación.
+
+b) Se han identificado los dispositivos de las máquinas y sus sistemas de control.
+
+c) Se han seleccionado y montado los accesorios y herramientas, según las operaciones que van a ser realizadas.
+
+d) Se ha comprobado el estado de funcionalidad de los accesorios y herramientas para ejecutar un correcto mecanizado.
+
+e) Se ha realizado el reglaje y ajuste de los equipos y herramientas en función de la operación que ha de ejecutarse.
+
+f) Se ha realizado la limpieza, lubricación y mantenimiento de primer nivel de los diferentes equipos y herramientas.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+i) Se han aplicado las medidas de prevención de riesgos laborales requeridas.
+
+3\. Realiza las operaciones de mecanizado sobre materiales no férricos, relacionando la técnica a utilizar con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se han descrito las fases de proceso de mecanizado en función de las características de material y de la técnica de mecanizado.
+
+b) Se ha establecido un orden de ejecución en función de la optimización de los recursos.
+
+c) Se ha realizado la sujeción de los perfiles de aluminio y PVC en las condiciones de seguridad requeridas.
+
+d) Se ha realizado el tronzado, troquelado, encastrado, fresado, taladrado y roscado de perfiles y chapas de aluminio y PVC de acuerdo a los procedimientos normalizados.
+
+e) Se ha realizado el acabado de las piezas mecanizadas para su posterior ensamblado.
+
+f) Se han verificado con plantillas o mediciones las piezas obtenidas, corrigiendo los posibles defectos.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han aplicado las normas de seguridad y salud laboral utilizando correctamente las protecciones de las máquinas y los medios individuales de protección.
+
+4\. Realiza las operaciones de montaje de productos no férricos, relacionando las fases del mismo con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se han descrito las fases de proceso de ensamblado y montaje en función de las piezas a unir.
+
+b) Se han seleccionado los accesorios, medios de unión y herramientas, en función del orden de ejecución.
+
+c) Se ha realizado el montaje de bisagras, herrajes y accesorios sobre los elementos mecanizados.
+
+d) Se han realizado las uniones fijas y desmontables siguiendo criterios de seguridad, funcionalidad y economía.
+
+e) Se ha realizado el ensamblaje de los componentes de la estructura comprobando su rigidez y funcionalidad.
+
+f) Se han verificado las características dimensionales y geométricas de los productos obtenidos, corrigiendo posibles defectos.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han aplicado las normas de seguridad requeridas en el montaje de productos no férricos.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de preparación.
+
+5\. Transporta productos de carpintería metálica no férrica, seleccionando los embalajes y útiles de transportes.
+
+Criterios de evaluación:
+
+a) Se han seleccionados los productos de embalaje, de acuerdo a las características del producto final.
+
+b) Se han seleccionado los soportes y medios de amarres adecuados para su inmovilización durante el transporte.
+
+c) Se ha realizado el embalaje de los productos con los materiales apropiados y protegiendo los puntos débiles de deterioro.
+
+d) Se han identificado mediante etiquetas u otros medios especificados los productos embalados.
+
+e) Se ha manipulado el producto embalado con seguridad y cuidado hasta su ubicación en el medio de transporte.
+
+f) Se han realizado las sujeciones con los medios adecuados, verificando su inmovilización.
+
+g) Se ha realizado la descarga y desembalaje del producto, de acuerdo con normas de seguridad para evitar su deterioro.
+
+h) Se han aplicado las medidas de prevención de riesgos laborales en el embalaje y transporte de cargas.
+
+i) Se ha mantenido una actitud metódica y ordenada en el proceso de embalaje y transporte.
+
+**Duración: 85 horas.**
+
+**Contenidos básicos:**
+
+Preparación de materiales de carpintería metálica no férrica:
+
+– Perfiles comerciales de aluminio.
+
+– Perfiles comerciales de PVC.
+
+– Manejo de perfiles.
+
+– Útiles de para el troquelado y encastrado.
+
+– Tipos de herrajes.
+
+– Elementos y materiales de unión.
+
+– Especificaciones de prevención de riesgos laborales y medioambientales aplicables.
+
+Preparación de máquinas y herramientas de construcciones metálicas no férricas:
+
+– Herramientas empleadas.
+
+– Montaje y desmontaje de herramientas, útiles y piezas.
+
+– Máquinas empleadas en carpintería de aluminio y PVC.
+
+– Troquelado, formas de troqueles.
+
+– Dispositivos de seguridad.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+– Equipos de protección individual.
+
+– Dispositivos de máquinas para la seguridad activa.
+
+Mecanizado de materiales no férricos:
+
+– Procedimientos de tronzado, troquelado, encastrado, fresado, taladrado y roscado de perfiles y chapas.
+
+– Técnicas de acabado.
+
+– Máquinas automáticas.
+
+– Verificación de piezas.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables.
+
+Montaje de productos no férricos:
+
+– Fases del proceso de montaje.
+
+– Accesorios.
+
+– Medios de uniones fijas y desmontables.
+
+– Realización de uniones fijas y desmontables.
+
+– Normas sobre estanqueidad y métodos de ejecución.
+
+– Verificación y ajuste de los elementos montados.
+
+– Normas de seguridad y salud laboral durante el montaje.
+
+– Utilización de las protecciones en las máquinas y los medios individuales de protección.
+
+– Mantenimiento del área de trabajo.
+
+– Medidas de prevención de riesgos laborales y medioambientales aplicables en el montaje.
+
+Transporte de productos de carpintería metálica no férrica:
+
+– Soportes y medios de sujeción.
+
+– Procedimientos de embalaje de productos.
+
+– Procedimientos de inmovilización de productos férricos.
+
+– Procedimientos de descarga y desembalaje de los productos.
+
+– Normas de seguridad y salud laboral durante la manipulación y transporte.
+
+– Medidas de prevención de riesgos laborales en el embalaje y transporte de cargas aplicables.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación asociada a la función de construcción y montaje de productos férricos de construcciones metálicas.
+
+La definición de esta función incluye aspectos como:
+
+– La diferenciación de los tipos de materiales comerciales.
+
+– La preparación de máquinas, equipos de soldadura y herramientas.
+
+– El reconocimiento de productos y las técnicas para su construcción.
+
+– La construcción de productos, como puertas, ventanas, mamparas y cerramientos
+
+– Las técnicas de mecanizados por arranque de viruta.
+
+– La verificación de productos elaborados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales f), g), h), i), r), s), t), u), v), w), y x) del ciclo formativo y las competencias profesionales, personales y sociales f), g), h), i), o), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar las competencias del módulo versarán sobre:
+
+– La selección de materiales.
+
+– Las técnicas de construcción de productos.
+
+– Control de procesos y de calidad de los productos.
+
+**Módulo Profesional: Itinerario personal para la empleabilidad.**
+
+**Código: 3159**
+
+Ámbito de Comunicación y Ciencias Sociales I y II;
+
+Ámbito de Ciencias Aplicadas I y II.
+
+> Téngase en cuenta que el código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación del módulo profesional 3159 figura como anexo III del Real Decreto 659/2023, de 18 de julio; y que el Ámbito de Comunicación y Ciencias Sociales I y II y el Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo, según establece el art. 6.Dos.a), c) y d) del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+**Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico**
+
+**Módulo Profesional: Proyecto intermodular de aprendizaje colaborativo.**
+
+**Código: 3160**
+
+Duración: 25 horas.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+
+Criterios de evaluación:
+
+a) Se ha elaborado conjuntamente un esquema que contemple el conjunto de las empresas tipo del sector.
+
+b) Se han constituido equipos de trabajo y se han distribuido entre los grupos las empresas que se analizarán.
+
+c) Se ha identificado para la empresa seleccionada los productos o servicios que ofrece.
+
+d) Se han relacionado los productos o servicios ofertados con la consecución de los ODS (Objetivos de Desarrollo Sostenible).
+
+e) Se ha realizado un diagrama de bloques de los posibles departamentos que conforman la empresa.
+
+f) Se han tenido en cuenta las áreas transversales y su relación con las demás.
+
+g) Se ha presentado al gran grupo la configuración de la empresa y productos que ofrece.
+
+h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
+
+i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
+
+2\. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado un producto/servicio de la empresa a estudio.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se han identificado las características del público objetivo al que está destinado.
+
+d) Se ha comparado el producto con otros de empresas similares.
+
+e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
+
+3\. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+
+Criterios de evaluación:
+
+a) Se ha planteado en el grupo el concepto de una empresa tipo «spin off», indicando sus ventajas e inconvenientes.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se ha propuesto una posible organización de la empresa, atendiendo a una estructura lineal o circular.
+
+d) Se han indicado que tecnologías se incluirían para aumentar su competitividad.
+
+e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
+
+4\. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+
+Criterios de evaluación:
+
+a) Se ha analizado la responsabilidad de la empresa y los trabajadores en la consecución de entornos de trabajo seguros.
+
+b) Se han identificado los sistemas de protección generales e individuales de cada unidad en función de las actividades a realizar.
+
+c) Se ha estimado el coste de los elementos de protección individual.
+
+d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
+
+5\. Transmite información con claridad de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+b) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+c) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+d) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.
+
+**4.** **Requisitos mínimos de calidad del contexto formativo.**
+
+**4.1 Espacios.**
+
+Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
+
+– Aula polivalente.
+
+– Taller de instalaciones electrotécnicas.
+
+– Taller de construcciones metálicas.
+
+**4.2 Equipamientos mínimos.**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Aula polivalente.</td>
+<td>Ordenadores instalados en red, sistema de proyección e internet.</td>
+</tr>
+<tr>
+<td>Medios audiovisuales.</td>
+</tr>
+<tr>
+<td>Programas informáticos de aplicación.</td>
+</tr>
+<tr>
+<td rowspan="10">Taller de instalaciones electrotécnicas.</td>
+<td>Equipos para montar/simular instalaciones.</td>
+</tr>
+<tr>
+<td>Herramientas manuales para trabajos eléctricos-electrónicos.</td>
+</tr>
+<tr>
+<td>Herramientas manuales para trabajos mecánicos.</td>
+</tr>
+<tr>
+<td>Equipos de medida de magnitudes eléctricas.</td>
+</tr>
+<tr>
+<td>Equipos audiovisuales.</td>
+</tr>
+<tr>
+<td>Componentes para montaje de redes y de ordenadores.</td>
+</tr>
+<tr>
+<td>Comprobadores de redes.</td>
+</tr>
+<tr>
+<td>Equipos de soldadura para componentes.</td>
+</tr>
+<tr>
+<td>Fuentes de alimentación.</td>
+</tr>
+<tr>
+<td>Equipos y medios de seguridad.</td>
+</tr>
+<tr>
+<td rowspan="11">Taller de construcciones metálicas.</td>
+<td>Bancos de trabajo con tornillos.</td>
+</tr>
+<tr>
+<td>Sierra.</td>
+</tr>
+<tr>
+<td>Curvadora de rodillos.</td>
+</tr>
+<tr>
+<td>Taladradoras.</td>
+</tr>
+<tr>
+<td>Cizalla.</td>
+</tr>
+<tr>
+<td>Equipos de soldadura.</td>
+</tr>
+<tr>
+<td>Radiales, yunques bicorneos.</td>
+</tr>
+<tr>
+<td>Tronzadora con tope.</td>
+</tr>
+<tr>
+<td>Taladros y remachadoras.</td>
+</tr>
+<tr>
+<td>Equipos y medios de seguridad.</td>
+</tr>
+<tr>
+<td>Martillo y taladro.</td>
+</tr>
+</tbody>
+</table>
+
+**5. Profesorado.**
+
+**5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Instalaciones Electrotécnicas y Mecánica son:**
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>3013. Instalaciones eléctricas y domóticas.</p>
+<p>3014. Instalaciones de telecomunicaciones.</p>
+<p>3020. Operaciones básicas de fabricación.</p>
+<p>3021. Soldadura y carpintería metálica.</p>
+<p>3022. Carpintería de aluminio y PVC.</p>
+</td>
+<td>
+<p>– Mecanizado y mantenimiento de máquinas.</p>
+<p>– Soldadura.</p>
+</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Instalaciones Electrotécnicas.</p>
+<p>– Equipos Electrónicos.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">3160. Proyecto intermodular de aprendizaje colaborativo.</td>
+<td>
+<p>– Mecanizado y mantenimiento de máquinas.</p>
+<p>– Soldadura.</p>
+</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Instalaciones Electrotécnicas.</p>
+<p>– Equipos Electrónicos.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>3159. Itinerario personal para la empleabilidad.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**5.2 Requisitos para el profesorado.**
+
+1\. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+**6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.**
+
+| Módulos profesionales superados | Unidades de competencia acreditables |
+|---|---|
+| 3013. Instalaciones eléctricas y domóticas. | UC0816_1: Realizar operaciones de montaje de instalaciones eléctricas de baja tensión y domóticas en edificios. |
+| 3014. Instalaciones de telecomunicaciones. | UC0817_1: Realizar operaciones de montaje de instalaciones de telecomunicaciones. |
+| 3020. Operaciones básicas de fabricación. | UC0087_1: Realizar operaciones básicas de fabricación. |
+| 3021. Soldadura y carpintería metálica.<br>3022. Carpintería de aluminio y PVC. | UC0088_1: Realizar operaciones básicas de montaje. |
+
+**6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.**
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC0816_1: Realizar operaciones de montaje de instalaciones eléctricas de baja tensión y domóticas en edificios. | 3013. Instalaciones eléctricas y domóticas. |
+| UC0817_1: Realizar operaciones de montaje de instalaciones de telecomunicaciones | 3014. Instalaciones de telecomunicaciones. |
+| UC0087_1: Realizar operaciones básicas de fabricación. | 3020. Operaciones básicas de fabricación. |
+| UC0088_1: Realizar operaciones básicas de montaje. | 3021. Soldadura y carpintería metálica.<br>3022. Carpintería de aluminio y PVC. |
+
+> Se modifican los apartados 3.2, 3.3 y 5, se añade el apartado 6 bis y se suprime el apartado 7 por los arts. 5, 6, 8.Veintiséis, Veintinueve y Treinta, 9.Veintiséis y 10 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+## ANEXO VI — Título profesional básico en mantenimiento de embarcaciones deportivas y de recreo
+
+**1. Identificación del título.**
+
+El Título profesional básico en mantenimiento de embarcaciones deportivas y de recreo queda identificado por los siguientes elementos:
+
+– Denominación: Título profesional básico en mantenimiento de embarcaciones deportivas y de recreo.
+
+– Nivel: Formación Profesional Básica.
+
+– Duración: 2000 horas.
+
+– Familia Profesional: Transporte y Mantenimiento de Vehículos y Marítimo-pesquera.
+
+– Referente europeo: CINE-3.5.3. (Clasificación Internacional Normalizada de la Educación).
+
+**2. Perfil profesional.**
+
+**2.1 Competencia general del título.**
+
+La competencia general del título consiste en realizar operaciones auxiliares de mantenimiento electromecánico en sistemas y equipos, de reparaciones en elementos estructurales y aparejos, de protección y embellecimiento de superficies, tanto en embarcaciones deportivas como de recreo, siguiendo las instrucciones recibidas, adoptando las medidas de prevención de riesgos laborales y protección medioambiental correspondientes, comunicándose de forma oral y escrita en lengua castellana y en su caso en la lengua cooficial propia así como en alguna lengua extranjera.
+
+**2.2 Competencias del título.**
+
+Las competencias profesionales, personales, sociales y las competencias para el aprendizaje permanente de este título son las que se relacionan a continuación:
+
+a) Realizar operaciones auxiliares de mecanizado y soldadura en los procesos de mantenimiento de embarcaciones.
+
+b) Realizar operaciones auxiliares de elaboración, preparación del hueco y montaje de piezas estructurales en las embarcaciones de madera y plástico reforzado con fibras.
+
+c) Efectuar operaciones auxiliares de reparación de zonas dañadas de superficies de la estructura de plástico reforzado con fibras en las embarcaciones.
+
+d) Realizar operaciones auxiliares en los procesos de protección e igualación de superficies de las embarcaciones.
+
+e) Realizar operaciones auxiliares de aplicación de pinturas y barnices en las superficies de las embarcaciones.
+
+f) Efectuar las operaciones auxiliares del mantenimiento del motor de combustión interna, aplicando las instrucciones específicas del fabricante.
+
+g) Realizar las operaciones auxiliares de mantenimiento de los sistemas de propulsión, gobierno, frío y climatización y otros equipos auxiliares de las embarcaciones.
+
+h) Efectuar operaciones auxiliares de mantenimiento de los sistemas eléctricos de carga y arranque en las embarcaciones.
+
+i) Realizar las operaciones auxiliares el mantenimiento de los sistemas eléctricos de distribución de las embarcaciones.
+
+j) Realizar las operaciones auxiliares de mantenimiento de aparejos de las embarcaciones: mástiles, jarcias, sistemas de control, elementos de la arboladura, velas y elementos textiles auxiliares, entre otros.
+
+k) Resolver problemas predecibles relacionados con su entorno físico, social, personal y productivo, utilizando el razonamiento científico y los elementos proporcionados por las ciencias aplicadas y sociales.
+
+l) Actuar de forma saludable en distintos contextos cotidianos que favorezcan el desarrollo personal y social, analizando hábitos e influencias positivas para la salud humana.
+
+m) Valorar actuaciones encaminadas a la conservación del medio ambiente, diferenciando las consecuencias de las actividades cotidianas que pueda afectar al equilibrio del mismo.
+
+n) Obtener y comunicar información destinada al autoaprendizaje y a su uso en distintos contextos de su entorno personal, social o profesional mediante recursos a su alcance y los propios de las tecnologías de la información y de la comunicación.
+
+ñ) Actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas, apreciando su uso y disfrute como fuente de enriquecimiento personal y social.
+
+o) Comunicarse con claridad, precisión y fluidez en distintos contextos sociales o profesionales y por distintos medios, canales y soportes a su alcance, utilizando y adecuando recursos lingüísticos orales y escritos propios de la lengua castellana y, en su caso, de la lengua cooficial.
+
+p) Comunicarse en situaciones habituales tanto laborales como personales y sociales, utilizando recursos lingüísticos básicos en lengua extranjera.
+
+q) Realizar explicaciones sencillas sobre acontecimientos y fenómenos característicos de las sociedades contemporáneas a partir de información histórica y geográfica a su disposición.
+
+r) Adaptarse a las nuevas situaciones laborales originadas por cambios tecnológicos y organizativos en su actividad laboral, utilizando las ofertas formativas a su alcance y localizando los recursos mediante las tecnologías de la información y la comunicación.
+
+s) Cumplir las tareas propias de su nivel con autonomía y responsabilidad, empleando criterios de calidad y eficiencia en el trabajo asignado y efectuándolo de forma individual o como miembro de un equipo.
+
+t) Comunicarse eficazmente, respetando la autonomía y competencia de las distintas personas que intervienen en su ámbito de trabajo, contribuyendo a la calidad del trabajo realizado.
+
+u) Asumir y cumplir las medidas de prevención de riesgos y seguridad laboral en la realización de las actividades laborales, evitando daños personales, laborales y ambientales.
+
+v) Cumplir las normas de calidad, de accesibilidad universal y diseño para todos que afectan a su actividad profesional.
+
+w) Actuar con espíritu emprendedor, iniciativa personal y responsabilidad en la elección de los procedimientos de su actividad profesional.
+
+x) Ejercer sus derechos y cumplir con las obligaciones derivadas de su actividad profesional, de acuerdo con lo establecido en la legislación vigente, participando activamente en la vida económica, social y cultural.
+
+**2.3 Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.**
+
+Cualificaciones profesionales completas:
+
+a) Operaciones auxiliares de mantenimiento de elementos estructurales y de recubrimiento de superficies de embarcaciones deportivas y de recreo TMV452_1 (Real Decreto 1225/2010, de 1 de octubre), que comprende las siguientes unidades de competencia:
+
+UC1455_1: Realizar operaciones auxiliares de protección y embellecimiento de superficies de embarcaciones deportivas y de recreo.
+
+UC1456_1: Realizar operaciones auxiliares de reparación de elementos de madera de embarcaciones deportivas y de recreo.
+
+UC1457_1: Realizar operaciones auxiliares de reparación de elementos de plástico reforzado con fibra de embarcaciones deportivas y de recreo.
+
+b) Operaciones auxiliares de mantenimiento de sistemas y equipos de embarcaciones deportivas y de recreo TMV453_1 (Real Decreto 1225/2010, de 1 de octubre), que comprende las siguientes unidades de competencia:
+
+UC0620_1: Efectuar operaciones de mecanizado básico.
+
+UC1458_1: Realizar operaciones auxiliares en el mantenimiento de la planta propulsora, máquinas y sus equipos asociados de embarcaciones deportivas y de recreo.
+
+UC1459_1: Realizar operaciones auxiliares en el mantenimiento de los sistemas eléctricos y electrónicos de embarcaciones deportivas y de recreo.
+
+UC1460_1: Realizar operaciones auxiliares en el mantenimiento de aparejos de embarcaciones deportivas y de recreo.
+
+**2.4 Entorno profesional.**
+
+2.4.1 Este profesional ejerce su actividad en el sector del mantenimiento de embarcaciones deportivas y de recreo, principalmente en talleres de reparación y mantenimiento naval y construcción de embarcaciones de recreo y deporte.
+
+2.4.2 Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+– Auxiliar de carpintero/a de ribera.
+
+– Auxiliar de pintor/a de embarcaciones.
+
+– Auxiliar de mantenimiento de elementos de plástico reforzado con fibra.
+
+– Auxiliar de mantenimiento de sistemas mecánicos de embarcaciones.
+
+– Auxiliar de mantenimiento de sistemas eléctricos y electrónicos de embarcaciones.
+
+– Auxiliar de mantenimiento de aparejos de embarcaciones.
+
+**2.5 Prospectiva del sector o de los sectores relacionados con el título.**
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) La Unión Europea prevé un incremento de los puestos de trabajo en el sector de mantenimiento de embarcaciones deportivas y de recreo. En la actualidad en España se aprecia un creciente desarrollo, y esto representará un mayor incremento de empleos en el sector de mantenimiento de embarcaciones.
+
+b) Las funciones y tareas asociadas a este perfil deberán adaptarse a la incorporación de las tecnologías requeridas para la utilización eficiente de energías renovables en las instalaciones de embarcaciones, así como a la búsqueda de nuevos tipos de propulsión (diésel, eléctrica, híbridos o gas natural, entre otros) y al uso de la monitorización vía satélite para el diagnóstico de averías. Estos aspectos han de contribuir a la seguridad y eficiencia de embarcaciones, siguiendo las conclusiones de la Comisión Europea de 2007, que han estimulado la investigación y el desarrollo de buques y embarcaciones con motores limpios, que utilicen aguas de lastre y que empleen mecanismos de recuperación de petróleo, así como medidas para incrementar la seguridad y evitar accidentes y derrames que afecten al medioambiente marino.
+
+c) La automatización de los sistemas de regulación y control de las instalaciones de embarcaciones seguirá incrementándose, ganando terreno los sistemas de propulsión y gobierno informatizados, con prestaciones telemáticas. Asimismo, las instalaciones de distribución eléctrica se orientan al uso de tecnologías inalámbricas. Estos aspectos habrán de ser recogidos en un futuro en la formación de los profesionales del sector.
+
+d) El importante auge del sector marítimo asociado al turismo, con un creciente número de embarcaciones recreativas de pequeño y medio porte, puertos deportivos, embarcaciones turísticas de pasajeros, entre otros, y el uso de nuevas tecnologías en sus equipamientos, requerirán personal cualificado para la instalación y el mantenimiento de sus sistemas y equipos y una adaptación permanente a los avances tecnológicos.
+
+e) Así mismo, se prevé el empleo de nuevas fibras y resinas en la construcción de las embarcaciones, lo que contribuirá a obtener una mayor resistencia estructural y facilitará el deslizamiento sobre el agua, lo que dará lugar a una disminución del consumo energético.
+
+**3. Enseñanzas del ciclo formativo.**
+
+**3.1 Objetivos generales del título.**
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Efectuar operaciones de mecanizado y unión de piezas y elementos relacionadas con las embarcaciones a partir de croquis y planos sencillos, para realizar operaciones auxiliares en los procesos de mantenimiento de embarcaciones.
+
+b) Realizar operaciones de montaje y ensamblado de elementos o piezas estructurales de embarcaciones manejando planos sencillos y aplicando la técnica requerida para realizar operaciones auxiliares de mantenimiento de piezas estructurales de embarcaciones.
+
+c) Efectuar operaciones de preparación, corte y reposición de elementos de embarcaciones utilizando resinas, fibras y catalizadores específicos para efectuar operaciones auxiliares de reparación de zonas de superficies de plástico.
+
+d) Realizar operaciones de aplicación de imprimaciones, masillas y aparejos en superficies de embarcaciones, utilizando las técnicas y productos requeridos en la protección e igualación de las mismas.
+
+e) Realizar operaciones de preparación de superficies, del enmascarado de las zonas adyacentes y de pintado de las mismas utilizando los equipos herramientas y útiles específicos en igualación, protección y de embellecimiento de superficies de embarcaciones.
+
+f) Efectuar operaciones de desmontaje y montaje de elementos sencillos del motor de combustión interna y de sustitución de los fluidos y, en su caso, de correas auxiliares describiendo la función que realizan.
+
+g) Ejecutar operaciones de desmontaje, montaje y comprobación de elementos sencillos de los sistemas de propulsión, gobierno, frio y de climatización aplicando las técnicas requeridas y describiendo la funcionalidad de los mismos.
+
+h) Efectuar operaciones de desmontaje y montaje del motor de arranque, alternador, elementos eléctricos sencillos asociados a los mismos y comprobación del estado de baterías aplicando las técnicas requeridas y describiendo la funcionalidad de los mismos.
+
+i) Realizar operaciones de sustitución de elementos eléctricos sencillos (de lámparas, fusibles, interruptores eléctricos, entre otros), así como consumibles de los equipos informáticos, describiendo la funcionalidad de cada elemento.
+
+j) Efectuar operaciones de desmontaje y montaje de varillas, cables y de guarnido de aparejos, elementos textiles auxiliares y el engrase y limpieza de los sistemas enrollables y mordazas, entre otros, relacionan el elementos y la función que realiza en el sistema.
+
+k) Comprender los fenómenos que acontecen en el entorno natural mediante el conocimiento científico como un saber integrado, así como conocer y aplicar los métodos para identificar y resolver problemas básicos en los diversos campos del conocimiento y de la experiencia.
+
+l) Desarrollar habilidades para formular, plantear, interpretar y resolver problemas aplicar el razonamiento de cálculo matemático para desenvolverse en la sociedad, en el entorno laboral y gestionar sus recursos económicos.
+
+m) Identificar y comprender los aspectos básicos de funcionamiento del cuerpo humano y ponerlos en relación con la salud individual y colectiva y valorar la higiene y la salud para permitir el desarrollo y afianzamiento de hábitos saludables de vida en función del entorno en el que se encuentra.
+
+n) Desarrollar hábitos y valores acordes con la conservación y sostenibilidad del patrimonio natural, comprendiendo la interacción entre los seres vivos y el medio natural para valorar las consecuencias que se derivan de la acción humana sobre el equilibrio medioambiental.
+
+ñ) Desarrollar las destrezas básicas de las fuentes de información utilizando con sentido crítico las tecnologías de la información y de la comunicación para obtener y comunicar información en el entorno personal, social o profesional.
+
+o) Reconocer características básicas de producciones culturales y artísticas, aplicando técnicas de análisis básico de sus elementos para actuar con respeto y sensibilidad hacia la diversidad cultural, el patrimonio histórico-artístico y las manifestaciones culturales y artísticas.
+
+p) Desarrollar y afianzar habilidades y destrezas lingüísticas y alcanzar el nivel de precisión, claridad y fluidez requeridas, utilizando los conocimientos sobre la lengua castellana y, en su caso, la lengua cooficial para comunicarse en su entorno social, en su vida cotidiana y en la actividad laboral.
+
+q) Desarrollar habilidades lingüísticas básicas en lengua extranjera para comunicarse de forma oral y escrita en situaciones habituales y predecibles de la vida cotidiana y profesional.
+
+r) Reconocer causas y rasgos propios de fenómenos y acontecimientos contemporáneos, evolución histórica, distribución geográfica para explicar las características propias de las sociedades contemporáneas.
+
+s) Desarrollar valores y hábitos de comportamiento basados en principios democráticos, aplicándolos en sus relaciones sociales habituales y en la resolución pacífica de los conflictos.
+
+t) Comparar y seleccionar recursos y ofertas formativas existentes para el aprendizaje a lo largo de la vida para adaptarse a las nuevas situaciones laborales y personales.
+
+u) Desarrollar la iniciativa, la creatividad y el espíritu emprendedor, así como la confianza en sí mismo, la participación y el espíritu crítico para resolver situaciones e incidencias tanto de la actividad profesional como de la personal.
+
+v) Desarrollar trabajos en equipo, asumiendo sus deberes, respetando a los demás y cooperando con ellos, actuando con tolerancia y respeto a los demás para la realización eficaz de las tareas y como medio de desarrollo personal.
+
+w) Utilizar las tecnologías de la información y de la comunicación para informarse, comunicarse, aprender y facilitarse las tareas laborales.
+
+x) Relacionar los riesgos laborales y ambientales con la actividad laboral con el propósito de utilizar las medidas preventivas correspondientes para la protección personal, evitando daños a las demás personas y en el medio ambiente.
+
+y) Desarrollar las técnicas de su actividad profesional asegurando la eficacia y la calidad en su trabajo, proponiendo, si procede, mejoras en las actividades de trabajo.
+
+z) Reconocer sus derechos y deberes como agente activo en la sociedad, teniendo en cuenta el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+**3.2 Módulos profesionales.**
+
+3.2.1 Los módulos profesionales, proyecto intermodular de aprendizaje colaborativo y ámbitos son los que a continuación se relacionan:
+
+3043\. Mecanizado y soldadura.
+
+3028\. Reparación estructural básica de embarcaciones deportivas.
+
+3040\. Protección y embellecimiento de superficies de embarcaciones.
+
+3048\. Mantenimiento básico de la planta propulsora y equipos asociados.
+
+3066\. Mantenimiento básico de sistemas eléctricos e informáticos.
+
+3068\. Mantenimiento básico de aparejos de embarcaciones deportivas.
+
+3159\. Itinerario personal para la empleabilidad;
+
+Ámbito de Comunicación y Ciencias Sociales;
+
+Ámbito de Ciencias Aplicadas.
+
+3160\. Proyecto intermodular de aprendizaje colaborativo y Tutoría.
+
+3.2.2 Otras especificaciones:
+
+1\. Las administraciones competentes desdoblarán el Ámbito de Comunicación y Ciencias Sociales en 3161. Comunicación y Ciencias Sociales I, con una duración de currículo básico de 75 horas, y 3162. Comunicación y Ciencias Sociales II, con una duración de currículo básico de 80 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+2\. Las administraciones competentes desdoblarán el Ámbito de Ciencias Aplicadas en 3163. Ciencias Aplicadas I, con una duración de currículo básico de 60 horas, y 3164. Ciencias Aplicadas II, con una duración de currículo básico de 55 horas, sin perjuicio de lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio.
+
+3\. De acuerdo con lo establecido en el artículo 85 del Real Decreto 659/2023, de 18 de julio, el ámbito profesional incluirá los módulos profesionales vinculados a estándares de competencia y el módulo de Itinerario personal para la empleabilidad. Los módulos profesionales vinculados a estándares de competencia mantendrán el currículo básico recogido en los respectivos reales decretos de establecimiento a que hace referencia el artículo primero.Dos.
+
+4\. El periodo de formación en empresa u organismo equiparado se regulará de acuerdo con lo establecido en el artículo 88 y el título IV del Real Decreto 659/2023, de 18 de julio.
+
+5\. El proyecto intermodular de aprendizaje colaborativo se basará en una metodología basada en retos. Cada equipo docente deberá diseñar uno o varios retos para cada proyecto que impliquen la activación de varios resultados de aprendizaje contenidos en más de un módulo profesional del ciclo. Además de la selección concreta realizada por el equipo docente según la especialidad del ciclo, se trabajarán transversalmente los resultados de aprendizaje que figuran en el currículo del proyecto con código 3160.
+
+**3.3 Desarrollo de los módulos.**
+
+**Módulo Profesional: Mecanizado y soldadura.**
+
+**Código: 3043**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Interpreta y reproduce planos sencillos de diferentes elementos y piezas, interpretando las características de los mismos y aplicando procesos normalizados.
+
+Criterios de evaluación:
+
+a) Se ha identificado y comprendido el plano sencillo de la pieza o elemento que se ha de utilizar en el proceso de mecanización.
+
+b) Se ha realizado la reproducción del plano tanto sobre papel como en la superficie que se ha de mecanizar.
+
+c) Se han identificado y clasificado los útiles de dibujo y trazado en función al proceso que se ha de realizar.
+
+d) Se han organizado las actividades conforme a los medios y materiales que hay que utilizar, siguiendo los procedimientos establecidos.
+
+e) Se han seleccionado las herramientas de medida clasificándolas de acuerdo al plano y a la superficie donde se ha de realizar el proceso.
+
+f) Se han realizado las medidas con la precisión que el proceso exige y conforme a los procedimientos establecidos.
+
+g) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas.
+
+2\. Prepara y ajusta los equipos, útiles y herramientas para el mecanizado, interpretando los requerimientos del proceso que se va a realizar.
+
+Criterios de evaluación:
+
+a) Se han identificado las actividades relacionadas con el proceso de trabajo que se va a desarrollar.
+
+b) Se han clasificado los equipos, útiles y herramientas en función de sus prestaciones en el proceso.
+
+c) Se han relacionado los diferentes tipos de materiales con parámetros de velocidad, avance y tipo de herramienta.
+
+d) Se han realizado operaciones de montaje y desmontaje asociadas a cambios de herramienta y formato.
+
+e) Se ha llevado a cabo el lubricado, limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas.
+
+f) Se ha ordenado el puesto de trabajo evitando accidentes propios de la profesión.
+
+3\. Ejecuta el mecanizado a mano de piezas describiendo el proceso y aplicando las técnicas necesarias.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los equipos, herramientas y material que se va a utilizar, en relación a las características del trabajo encargado.
+
+b) Se ha sujetado la pieza de manera adecuada en el tornillo de banco.
+
+c) Se ha realizado la planitud, escuadra y paralelismo de las caras de la pieza, con la lima adecuada y siguiendo los procedimientos establecidos.
+
+d) Se han realizado con precisión las operaciones de corte, identificando sus parámetros y aplicando los procedimientos y técnicas establecidas.
+
+e) Se han realizado con destreza los procesos de taladrado, seleccionando las herramientas propias a cada material y describiendo las características de las mismas.
+
+f) Se ha ejecutado con habilidad el procedimiento de roscado a mano, identificando el tipo de rosca y manejando las herramientas precisas para roscar taladros y espárragos.
+
+g) Se ha realizado con precisión procesos de remachado y roblonado, asegurando que la unión se efectúa según las especificaciones técnicas y en condiciones de calidad.
+
+h) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas y siguiendo las órdenes establecidas.
+
+i) Se ha comprobado la calidad del producto resultante corrigiendo las anomalías detectadas.
+
+4\. Realiza uniones soldadas simples, seleccionando los equipos y aplicando las especificaciones técnicas del proceso.
+
+Criterios de evaluación:
+
+a) Se ha organizado el material identificando sus propiedades.
+
+b) Se han clasificado los equipos y herramientas en función de las características del material a soldar.
+
+c) Se ha preparado el material base, adecuándolo a la soldadura a realizar, (mecanizado de la superficie a soldar, preparación de bordes, entre otras).
+
+d) Se ha limpiado las superficies de unión eliminando los residuos existentes.
+
+e) Se ha seleccionado el material de aportación y desoxidantes en función del material a soldar.
+
+f) Se han conectado las fuentes de alimentación adecuadamente, seleccionando los diferentes parámetros de trabajo e identificando los elementos que las componen.
+
+g) Se ha realizado las uniones soldadas simples mediante soldadura eléctrica por arco voltaico, soldadura blanda y soldadura de plásticos, sin defectos aparentes.
+
+h) Se ha comprobado si la soldadura realizada cumple con las características prescritas.
+
+i) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas.
+
+5\. Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados y las medidas y equipos para prevenirlos.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos inherentes al trabajo en función de los materiales a emplear y de los equipos y las máquinas a manejar.
+
+b) Se han identificado los riesgos medioambientales asociados al proceso, de mecanizado o soldadura.
+
+c) Se han aplicado en el desarrollo de cada uno de los procesos las normas de seguridad personal y medioambiental.
+
+d) Se han empleado los equipos de protección individual en las diferentes actividades, de cada proceso.
+
+e) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+**Duración: 105 horas.**
+
+**Contenidos básicos:**
+
+Interpretación de planos y normalización:
+
+– Conceptos básicos de la normalización.
+
+– Representación de piezas. Vistas normalizadas.
+
+Metrología:
+
+– Concepto de apreciación y estimación.
+
+– Aparatos de medida directa: regla, metro, calibre pie de rey, micrómetros.
+
+– Aparatos de medida por comparación.
+
+Preparación y ajuste de equipos, útiles y herramientas:
+
+– Identificación del proceso de trabajo.
+
+– Clasificación de equipos, útiles y herramientas.
+
+Materiales:
+
+– Productos férreos.
+
+– Aceros.
+
+– Aleaciones no férreas.
+
+Ejecución de procesos de mecanizado:
+
+– Selección del procedimiento.
+
+– Orden en el desarrollo de los procesos.
+
+– Limado.
+
+– Serrado.
+
+– Roscado.
+
+– Remachado.
+
+– Taladrado.
+
+– Comprobación y verificación del desarrollo del trabajo.
+
+Soldadura:
+
+– Equipos de soldadura: Eléctrica por arco voltaico, soldadura blanda y soldadura de plásticos.
+
+– Técnicas de soldadura.
+
+Normas de prevención y medioambiente:
+
+– Normas de seguridad.
+
+– Equipos de protección individual.
+
+– Dispositivos de máquinas y equipos para la seguridad activa.
+
+– Reglas de orden y limpieza.
+
+– Protección del medioambiente.
+
+– Reciclaje de productos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de producción en las áreas de mecanizado básico a mano y uniones soldadas sencillas.
+
+La definición de esta función incluye aspectos como:
+
+– Interpretación de croquis y planos.
+
+– Conceptos sobre materiales y prácticas de metrología.
+
+– Operaciones de mecanizado y soldadura.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), t), u), v), w), x), y) y z) del ciclo formativo, y las competencias profesionales, personales y sociales a), r), s), t), u), v), w) y x) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Operaciones de mecanizado a mano realizando la preparación de las herramientas y equipos y la interpretación de especificaciones de planos o croquis.
+
+– Realización de operaciones de soldadura y la observación de las normas de Prevención de Riesgos Laborales.
+
+**Módulo Profesional: Reparación estructural de embarcaciones deportivas.**
+
+**Código: 3028**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza las operaciones de preparación de la zona de trabajo, de medios y equipamiento, aplicando las técnicas establecidas y las normas propias del sector.
+
+Criterios de evaluación:
+
+a) Se han descrito las normas, terminología, usos y costumbres relacionadas con el mantenimiento de las embarcaciones y de los puertos deportivos.
+
+b) Se han relacionado los medios básicos de amarre y acceso a una embarcación con su situación y los nombres de los elementos que intervienen.
+
+c) Se han realizado los nudos necesarios para el amarre y acceso a las embarcaciones y los que se utilizan en las operaciones de mantenimiento.
+
+d) Se han identificado los elementos y las partes principales de la estructura que constituyen una embarcación.
+
+e) Se ha realizado la preparación de la zona de trabajo y los medios necesarios para realizar la reparación de embarcaciones.
+
+f) Se ha ordenado el puesto de trabajo evitando accidentes propios de la profesión.
+
+g) Se ha operado de forma ordenada, y con seguridad, aplicando los procedimientos y técnicas adecuadas en condiciones de higiene.
+
+2\. Realiza operaciones de desmontaje de elementos de madera y la preparación del hueco, aplicando las técnicas requeridas y los productos adecuados según especificaciones del fabricante.
+
+Criterios de evaluación:
+
+a) Se han protegido las zonas próximas al área de reparación que pueden verse afectadas por las operaciones del desmontaje.
+
+b) Se han seleccionado los medios adecuados para el desmontaje de los elementos de madera y para la protección del hueco.
+
+c) Se han seleccionado las lijas de la granulometría adecuada en función de la zona y producto a lijar.
+
+d) Se ha lijado la zona para descubrir los elementos de unión (clavos, grapas) de los las tablas y componentes a reparar.
+
+e) Se han desmontado las tablas y tapado los orificios de los clavos (espichar).
+
+f) Se ha limpiado la zona de reparación y efectuado su preparación para la aplicación de los productos de protección.
+
+g) Se han seleccionado y preparado los productos de protección en condiciones de seguridad, según especificaciones técnicas.
+
+h) Se han aplicado los productos de protección a la zona, respetando especificaciones del fabricante (tiempo de secado, evaporación y número de manos).
+
+i) Se han cumplido las normas ambientales y se han clasificado y almacenado los residuos en los recipientes estipulados.
+
+3\. Efectúa operaciones de elaboración y montaje de piezas estructurales, identificando los distintos tipos de maderas que las constituyen y sus características.
+
+Criterios de evaluación:
+
+a) Se han identificado los principales tipos de maderas utilizados en la fabricación de elementos de embarcaciones.
+
+b) Se han seleccionado los distintos tipos de maderas, desechando las que presentaban defectos (aberturas de la veta, retorcimientos y nudos).
+
+c) Se han realizado mediciones y trazado de líneas de corte para la elaboración de piezas sencillas.
+
+d) Se han efectuado las operaciones de mecanizado para el acoplamiento de las tablas y piezas en su alojamiento (corte, cepillado, entre otros).
+
+e) Se ha realizado el clavado de tablas y elementos, seleccionando el clavo adecuado a la unión.
+
+f) Se han seleccionado los productos adhesivos para el montaje de elementos de madera, relacionándolos con los elementos a pegar en función de la resistencia de la unión, poder de adherencia y preparación de la zona.
+
+g) Se han seleccionado los equipos y medios de apriete, en función del proceso de ensamblado a efectuar.
+
+h) Se ha preparado el producto adhesivo siguiendo especificaciones técnicas del fabricante y aplicado sobre las piezas a unir.
+
+i) Se ha fijado la unión de las piezas mediante la utilización de gatos y sargentos, retirando el sobrante del adhesivo aplicado.
+
+j) Se han lijado las zonas de ensamblaje de los elementos y ha colaborado en el montaje de herrajes.
+
+k) Se ha operado de forma ordenada, y con seguridad, realizando la clasificación y almacenaje de los residuos y cumpliendo las normas de impacto ambiental.
+
+4\. Realiza operaciones de elaboración de piezas de plástico reforzadas con fibras, preparando plantillas y soportes sencillos.
+
+Criterios de evaluación:
+
+a) Se han identificado los principales tipos de fibras utilizadas en los procesos de fabricación y reparación de embarcaciones de plástico reforzado relacionándolas con su empleo.
+
+b) Se ha descrito el empleo de los desmoldeantes relacionándolos con los procesos.
+
+c) Se han realizado las plantillas y soportes sobre madera o tablero de contrachapado, para la elaboración de piezas sencillas de plástico reforzado con fibras.
+
+d) Se han aplicado productos desmoldeantes sobre el soporte para la elaboración de elementos de plástico con fibras en las condiciones de seguridad establecidas.
+
+e) Se han cortado y preparado los trozos necesarios de manta de fibra para conseguir el espesor determinado de la pieza.
+
+f) Se ha efectuado la preparación de la resina respetando en la mezcla las proporciones de catalizador, activador y producto.
+
+g) Se ha aplicado resina y manta sobre el soporte en capas sucesivas, hasta conseguir el espesor determinado de la pieza.
+
+h) Se han respetado los tiempos de curado y endurecido de la resina antes de pasar a su posterior lijado.
+
+i) Se han realizado los procesos de lijado necesarios para conseguir las formas dimensionales y geométricas estipuladas de la pieza.
+
+j) Se ha respetado durante el proceso las medidas de impacto ambiental y se han utilizado los EPI adecuados en cada operación.
+
+5\. Desarrolla operaciones de reparación de zonas dañadas en las embarcaciones con estructura de plástico reforzadas con fibras, relacionando la preparación del hueco con el daño.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los equipos, útiles y herramientas relacionándolos con las operaciones a realizar.
+
+b) Se han protegido las zonas adyacentes a la reparación para evitar su deterioro.
+
+c) Se ha realizado el lijado de la zona para la identificación exacta del daño.
+
+d) Se ha efectuado el corte de las zonas dañadas eliminando las roturas del plástico reforzado.
+
+e) Se ha realizado el lijado de los bordes para conseguir el achaflanado de los mismos.
+
+f) Se ha efectuado el taladrado de los extremos de grietas y fisuras para evitar su progresión.
+
+g) Se ha desengrasado y limpiado la zona, eliminando restos de polvo y agua.
+
+h) Se ha realizado la preparación de la resina respetando las proporciones de catalizador y activador.
+
+i) Se han superpuesto capas de fibra y resina hasta alcanzar el espesor determinado de la zona.
+
+j) Se ha respetado durante el proceso las medidas de impacto ambiental y se han utilizado los EPI adecuados en cada operación.
+
+6\. Realiza las operaciones de mantenimiento de embarcaciones deportivas y de recreo aplicando la técnica correspondiente y cumpliendo las condiciones de seguridad y relacionándolo con posibles riesgos para las personas y para el medioambiente.
+
+Criterios de evaluación:
+
+a) Se han cumplido las normas sobre los riesgos inherentes al trabajo en función de los materiales a emplear y las máquinas utilizadas.
+
+b) Se han identificado los riesgos medioambientales asociados al proceso.
+
+c) Se han aplicado las normas de seguridad personal y medioambiental en la realización de todas las operaciones.
+
+d) Se han empleado los equipos de protección individual en las diferentes actividades.
+
+e) Se han identificado los diferentes residuos producidos en las distintas actividades realizadas en el mantenimiento de las embarcaciones, depositándolos en sus contenedores específicos.
+
+f) Se han almacenado convenientemente los distintos residuos, preparándolos para su posterior recogida.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+**Duración: 140 horas.**
+
+**Contenidos básicos:**
+
+Accesos a las embarcaciones deportivas y de recreo:
+
+– Atraque y amarrado de la embarcación. Nudos básicos de amarrado y mantenimiento.
+
+– Normas y costumbres de comportamiento en la embarcación.
+
+Terminología básica náutica para el mantenimiento de embarcaciones deportivas y de recreo:
+
+– Medidas principales de la embarcación.
+
+– Partes importantes del casco.
+
+– Forro exterior de la embarcación.
+
+– Zonas principales de la embarcación.
+
+– Principales elementos de la estructura de la nave.
+
+Procedimiento de desmontaje de elementos de madera y protección:
+
+– Herramientas manuales y máquinas de lijar: Procesos de lijado.
+
+– Productos de limpieza y taponado de orificios (espichar).
+
+– Productos de protección de los huecos de la madera.
+
+– Medios de protección personal.
+
+– Normas de impacto ambiental para la clasificación y almacenaje de residuos.
+
+Ensamblado de piezas de madera:
+
+– Medidas y trazados de líneas de corte en la madera.
+
+– Mecanizado de la madera, máquinas clavadoras.
+
+– Herramientas utilizadas en el manejo de las máquinas.
+
+– Procedimientos de corte y cepillado de elementos de madera.
+
+– Tipos de adhesivos utilizados en el ensamblado de elementos de las embarcaciones.
+
+– Procedimientos y técnicas de unión.
+
+– Técnicas y procesos de montaje de herrajes y embellecedores.
+
+– Almacenamiento de residuos inflamables generados.
+
+Elaboración de piezas de plástico reforzadas con fibras:
+
+– Materiales y productos utilizados en el desmoldeo de piezas de plástico con fibras de vidrio.
+
+– Resinas, catalizadores y activadores.
+
+– Realización de plantillas y soportes.
+
+– Mantas de fibra.
+
+– Productos de limpieza.
+
+– Procesos de lijado.
+
+– EPI, para los distintos procesos.
+
+Operaciones auxiliares en la reparación de elementos de plástico con fibras:
+
+– Procesos de lijado.
+
+– Desengrasado de superficies de plástico.
+
+– Proceso de corte para la eliminación de la zona dañada o afectada.
+
+– Proceso de reparación.
+
+– EPI, para los distintos procesos.
+
+Normas de prevención y medioambiente en las operaciones auxiliares de reparación de embarcaciones deportivas y de recreo:
+
+– Normas de seguridad específicas en el mantenimiento de embarcaciones.
+
+– Normativa de impacto ambiental específica del mantenimiento de embarcaciones.
+
+– Equipos de protección individual.
+
+– Reciclaje de productos.
+
+– Recogida clasificación y almacenamiento de los residuos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de operaciones auxiliares de mantenimiento en embarcaciones deportivas y de recreo.
+
+La definición de esta función incluye aspectos como:
+
+– Preparación de la zona para el ensamblado de elementos.
+
+– Mecanizado de elementos de madera mediante corte, lijado, cepillado y regruesado.
+
+– Desmontaje, montaje y sustitución de piezas de madera.
+
+– Reparación de elementos de plástico reforzado con fibras.
+
+– Lijado de las piezas para obtener las formas dimensionales y geométricas estipuladas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), t), u), v), w), x), y) y z) del ciclo formativo y las competencias profesionales, personales y sociales b), c), r), s), t), u), v), w) y x) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La realización de operaciones de desmontaje de elementos de madera de la embarcación.
+
+– El trazado y la elaboración de elementos de madera.
+
+– La preparación del hueco.
+
+– El ensamblado de elementos de madera mediante distintas técnicas.
+
+– Preparación de resinas para la reparación de elementos.
+
+– Reparación y elaboración de elementos de plástico reforzado con fibras, observando en todos las acciones las normas de Prevención de Riesgos Laborales y de impacto ambiental específicas.
+
+**Módulo Profesional: Protección y embellecimiento de superficies de embarcaciones.**
+
+**Código: 3040**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza las operaciones de preparación de la zona de trabajo para proteger y embellecer las superficies de las embarcaciones, describiendo los procedimientos utilizados y las especificaciones de seguridad y medioambiente.
+
+Criterios de evaluación:
+
+a) Se han efectuado la sujeción y protección de la embarcación, y de bienes y equipos, siguiendo las especificaciones técnicas.
+
+b) Se han realizado las tareas auxiliares de montaje de andamios, gradas, plataformas y escaleras para facilitar el movimiento y la seguridad de operarios, siguiendo las especificaciones de montaje y cumpliendo las normas de seguridad personales.
+
+c) Se ha realizado las tareas auxiliares de montaje de carpas y pantallas de protección para sectorizar la zona de trabajo, siguiendo especificaciones.
+
+d) Se han acopiado los equipos, herramientas, sistemas de ventilación e iluminación necesarios, teniendo en cuenta la secuencia de procesos.
+
+e) Se ha realizado la protección de sensores, faros y luces, entre otros, para evitar que se puedan dañar por los distintos tratamientos.
+
+f) Se ha limpiado la superficie de la embarcación mediante chorro de agua a presión, cumpliendo las normas de seguridad.
+
+g) Se han retirado los residuos generados y se han almacenado en los recipientes correspondientes, cumpliendo las normas de impacto ambiental.
+
+h) Se han realizado todas las operaciones utilizando los EPI correspondientes y cumpliendo las normas de seguridad personal.
+
+2\. Realiza operaciones de protección de la superficie de la embarcación, relacionando los productos con el material a proteger y aplicando la técnica correspondiente.
+
+Criterios de evaluación:
+
+a) Se ha colaborado en la realización de decapados físicos mediante chorro de arena, teniendo en cuenta el tipo y tamaño del abrasivo y la presión en función de la superficie a decapar.
+
+b) Se han realizado decapados químicos sobre las superficies, efectuando su posterior lavado para la eliminación de los residuos, utilizando los equipos de protección especificados.
+
+c) Se han protegido con mantas protectoras, enmascarado plástico y cintas, las zonas adyacentes a las superficies que se van a reparar, con la habilidad y destreza adecuada.
+
+d) Se ha realizado la preparación de la zona mediante lijados con máquina, discos abrasivos y utilización de cepillos metálicos, teniendo en cuenta el material de la superficie.
+
+e) Se ha efectuado la limpieza y desengrasado de la superficie, retirando todos los restos de los decapados efectuados verificando que no existen resto de agua y humedad.
+
+f) Se ha colaborado en la aplicación de antiincrustantes (“antifouling”) a las zonas necesitadas (zonas vivas, hélices, ejes y colas entre otros), cumpliendo las especificaciones del fabricante.
+
+g) Se ha colaborado en la aplicación de una capa de enlace (aislante) sobre las antiguas y nuevas capas de antiincrustante y se ha relacionado su utilización con los problemas de incompatibilidad de productos.
+
+h) Se ha realizado la aplicación de imprimaciones mediante la utilización de brochas y rodillos, relacionando sus características con las zonas a proteger.
+
+i) Se han limpiado y desengrasado las hélices, ejes, tanques, arbotantes, sentinas entre otros, con los productos indicados y teniendo en cuenta las condiciones de seguridad y protección medioambiental requeridas.
+
+j) Se han retirado los residuos producidos, depositándolos en sus contenedores específicos.
+
+3\. Realiza operaciones de igualación de superficies de embarcaciones, relacionando los distintos tipos de masillas y aparejos con la superficie a igualar y aplicando la técnica correspondiente.
+
+Criterios de evaluación:
+
+a) Se han localizado los daños de las superficies por procedimientos visuales y/o táctiles para determinar las zonas necesitadas de aplicación de masillas.
+
+b) Se ha preparado la zona de reparación mediante lijados.
+
+c) Se ha realizado la aplicación de tapaporos sobre los elementos de madera con brocha y rodillo.
+
+d) Se ha seleccionado la masilla, relacionando sus características con el material de las superficies a reparar catalizándola y emulsionándola cumpliendo especificaciones técnicas.
+
+e) Se ha efectuado la aplicación de masillas, hasta obtener el espesor y extensión de la capa adecuada.
+
+f) Se ha seleccionado el aparejo en función de las superficies sobre las que se va aplicar, realizando su activación y dilución con la regla de volúmenes siguiendo especificaciones técnicas.
+
+g) Se ha realizado la aplicación de aparejos en las zonas a reparar mediante brocha o rodillo.
+
+h) Se han efectuado los lijados de la superficie, utilizando los equipos, útiles y abrasivos de la granulometría adecuada para obtener el acabado estipulado.
+
+i) Se han limpiado y desengrasado las superficies, con los productos establecidos y teniendo en cuenta las condiciones de seguridad y protección medioambiental.
+
+j) Se han retirado los residuos producidos, depositándolos en sus contenedores específicos.
+
+4\. Realiza operaciones de pintado y barnizado en embarcaciones deportivas y de recreo, justificando la adicción de antideslizantes en cubierta y aplicando la técnica correspondiente.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la documentación técnica del fabricante de productos (tiempos de secado, evaporación, catalizado y simbología).
+
+b) Se han identificado las zonas sobre las que se debe aplicar las pinturas y barnices de la embarcación y se han protegido las zonas adyacentes para evitar su pulverizado.
+
+c) Se ha realizado la preparación de la superficie lijando con discos de lija de la granulometría adecuada, teniendo en cuenta el producto que se va a aplicar y el acabado a obtener.
+
+d) Se han limpiado y desengrasado las superficies, con los productos establecidos y teniendo en cuenta las condiciones de seguridad y protección ambiental requeridas.
+
+e) Se ha colaborado en la preparación del color de las pinturas, relacionando el proceso con las especificaciones técnicas.
+
+f) Se han añadido aditivos antideslizantes a la pintura y barnices para el pintado de cubiertas (castillo a proa, principal, pasillos de acceso entre otros), respetando las reglas de proporcionalidad.
+
+g) Se han retirado los residuos producidos, depositándolos en sus contenedores específicos.
+
+h) Se ha operado de forma ordenada, aplicando los procedimientos y técnicas adecuadas.
+
+5\. Realiza la limpieza y el mantenimiento de primer nivel de los equipos, útiles y herramientas utilizados, justificando la frecuencia y su necesidad en la operatividad de los mismos.
+
+Criterios de evaluación:
+
+a) Se ha realizado la limpieza de las máquinas lijadoras y de los platos porta discos y se han lubricado las partes necesitadas de ello.
+
+b) Se ha realizado la limpieza de las pistolas, recipientes y reglas de mezclas entre otros, en la lavadora, describiendo el funcionamiento de la misma.
+
+c) Se ha realizado la limpieza y mantenimiento básico de los equipos de secado por infrarrojos, respetando las normas de cuidado y seguridad del aparato.
+
+d) Se ha realizado el mantenimiento básico (purgado de la instalación, reposición de aceite en los lubricadores, entre otros) de las instalaciones de aire a presión, identificando los elementos constructivos y funcionales.
+
+e) Se ha realizado la limpieza y extracción del polvo de los equipos de aspiración fijos y móviles, según especificaciones del fabricante.
+
+f) Se han mantenido las instalaciones en perfecto orden y limpieza, evitando los posibles riesgos en la zona de trabajo.
+
+6\. Realiza las intervenciones aplicando la técnica correspondiente y cumpliendo las condiciones de seguridad y relacionándolo con posibles riesgos para las personas y para el medioambiente y aplicando el procedimiento de recogida de residuos apropiado.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos inherentes al trabajo en función de los materiales a emplear y los equipos y máquinas a manejar.
+
+b) Se han identificado los riesgos medioambientales asociados a los procesos de protección y embellecimiento.
+
+c) Se han aplicado en todas las fases del proceso las normas de seguridad personal y medioambiental requeridas.
+
+d) Se han empleado los equipos de protección individual en las diferentes operaciones de mantenimiento.
+
+e) Se han identificado los diferentes residuos producidos en las distintas actividades realizadas, depositándolos en sus contenedores específicos.
+
+f) Se han preparado convenientemente los distintos residuos, fundamentalmente los líquidos, disponiéndolos para su posterior recogida.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han utilizado los equipos de protección individual estipulados en las distintas operaciones.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Preparación de la zona de trabajo:
+
+– Tipos de gradas, andamios, escaleras y elementos de seguridad utilizados para el anclaje de embarcaciones y acceso de personas a la reparación.
+
+– Carpas y pantallas de protección y utilizadas en los trabajos de reparación y pintado de embarcaciones deportivas y de recreo.
+
+– Sistemas de ventilación e iluminación.
+
+– Equipos de agua a presión.
+
+Operaciones auxiliares de protección de superficies:
+
+– Interpretación de la documentación técnica básica.
+
+– Decapados físicos: Características. Uso teniendo en cuenta la superficie a decapar.
+
+– Protecciones personales (respiratorias, gafas, guantes, entre otros).
+
+– Decapantes químicos.
+
+– Máquinas de lijar: tipos,
+
+– Antiincrustantes: Necesidad de la aplicación de los antiincrustantes (antifouling) en las embarcaciones.
+
+– Aislantes que se aplican sobre los antiincrustantes.
+
+– Imprimaciones utilizadas en las embarcaciones: Superficies sobre las que se pueden aplicar.
+
+– Catalizadores para activar las imprimaciones: Proporciones a utilizar en la preparación.
+
+– Masillas: Masillas estándar. Masillas de poliéster con fibras.
+
+– Productos de limpieza de tanques y sentinas.
+
+Operaciones auxiliares de igualación de superficies:
+
+– Interpretación de la documentación técnica de los fabricantes de los productos concerniente a las masillas y aparejos: Discos y lijas utilizados: Tipos de lijas.
+
+– Masillas: Masillas para maderas, masillas de uso general para plástico reforzado con fibra. Aparejos y tapaporos.
+
+– Procesos de lijado en función del producto. Productos de fileteado y estanqueidad de las uniones.
+
+Operaciones auxiliares en la aplicación de pinturas y barnices:
+
+– Interpretación de la documentación técnica.
+
+– Procedimientos de enmascarado. Productos de enmascarar:
+
+– Aditivos antideslizantes.
+
+– Preparación de productos mediante el uso de las reglas volúmenes o de proporcionalidad.
+
+– Barnices y pinturas utilizados en la protección y embellecimiento de las embarcaciones.
+
+– Recipientes utilizados para la preparación de los productos.
+
+– Técnicas de aplicación mediante el uso de brochas y rodillos.
+
+– Equipos de secado de los productos.
+
+Mantenimiento de equipos y herramientas:
+
+– Equipos de lijado.
+
+– Equipos de aspiración: Fijos y móviles. Operaciones básicas de mantenimiento determinadas por los fabricantes. Extracción del polvo acumulado en los mismos.
+
+– Equipos de secado por infrarrojos.
+
+– Equipos de aplicación: Pistolas aerográficas. Limpieza.
+
+– Brochas y rodillos.
+
+– Mantenimiento básico cuidado y limpieza de la zona de protección de superficies y pintado de embarcaciones.
+
+Normas de prevención y medioambiente:
+
+– Normas de seguridad específica en el área de pinturas.
+
+– Normativa sobre el manejo de productos inflamables
+
+– Equipos de protección individual.
+
+– Protección del medioambiente.
+
+– Reciclaje de productos.
+
+– Directiva de residuos.
+
+– Recogida clasificación y almacenamiento de los residuos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de mantenimiento básico en el área de preparación de superficies para su posterior pintado.
+
+La definición de esta función incluye aspectos como:
+
+– Decapado, limpieza y desengrasado de las superficies.
+
+– Protección de la superficie mediante la aplicación de productos.
+
+– Igualación de las superficies mediante la aplicación de productos de relleno.
+
+– Embellecimiento de las superficies de las embarcaciones.
+
+La formación del módulo contribuye a alcanzar los objetivos generales d), e), t), u), v), w), x), y) y z) del ciclo formativo, y las competencias profesionales, personales y sociales d), e), r), s), t), u), v), w) y x) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– El montaje de andamios y pasarelas para la realización del mantenimiento.
+
+– La realización de operaciones de lijado y desengrasado de superficies.
+
+– Protección de las zonas anexas a la reparación mediante enmascarados.
+
+– Aplicación de productos de protección y aislantes.
+
+– Aplicación de masillas.
+
+– Realización de operaciones auxiliares en la aplicación de pinturas y barnices observando en todos las acciones las normas de Prevención de Riesgos Laborales y ambientales.
+
+**Módulo Profesional: Mantenimiento básico de la planta propulsora y equipos asociados.**
+
+**Código: 3048**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Prepara la embarcación y acondiciona las zonas de trabajo en la planta propulsora y equipos asociados, describiendo la secuencia de los procedimientos y recursos utilizados.
+
+Criterios de evaluación:
+
+a) Se han relacionado los procesos de preparación de la embarcación con las operaciones de mantenimiento.
+
+b) Se han seleccionado los equipos, herramientas y materiales necesarios (repuestos, accesorios, equipos de protección, entre otros), identificándolos con su utilización.
+
+c) Se han identificado los sistemas básicos de amarre y acceso de la embarcación según su disposición.
+
+d) Se han realizado los nudos básicos necesarios para el amarre de las embarcaciones y en las operaciones de mantenimiento, aplicando los procedimientos y técnicas establecidas.
+
+e) Se han efectuado operaciones de protección de las zonas adyacentes al lugar de trabajo, así como aquellas susceptibles de ser dañadas, en función de las intervenciones y del material a preservar.
+
+f) Se han seguido las instrucciones y normas de trabajo y seguridad establecidas, y se cumplen, respetando las indicaciones dispuestas.
+
+2\. Efectúa operaciones de mantenimiento básico del motor de combustión interna, justificando las actuaciones de mantenimiento y aplicando las instrucciones específicas del fabricante.
+
+Criterios de evaluación:
+
+a) Se han relacionado los elementos constructivos de los motores de explosión de dos y cuatro tiempos, en gasolina y diésel, con las principales anomalías que se pueden producir.
+
+b) Se ha realizado el desmontaje, montaje y comprobación de los elementos sencillos del motor con los equipos, útiles y herramientas necesarios, siguiendo las especificaciones técnicas y teniendo en cuenta las condiciones de seguridad requeridas.
+
+c) Se han extraído y repuesto los fluidos del circuito de lubricación y refrigeración, en las condiciones de seguridad y protección medioambiental requeridas, comprobando sus niveles según las especificaciones técnicas.
+
+d) Se ha realizado la sustitución de componentes básicos del sistema de engrase (bomba de engrase, cárter, entre otros) utilizando los útiles y herramientas adecuados y siguiendo los procedimientos establecidos.
+
+e) Se han sustituido elementos básicos del sistema de refrigeración (manguitos, termostatos, entre otros), comprobando la ausencia de fugas relacionando su funcionamiento con la función en el circuito.
+
+f) Se ha realizado la sustitución de los filtros (filtro de aire, de aceite, de combustible, entre otros), comprobando su funcionamiento y siguiendo las normas y condiciones de seguridad y protección medioambiental establecidas.
+
+g) Se han sustituido las bujías de encendido y calentadores en motores de gasolina y diésel respectivamente, utilizando la herramienta adecuada y se ha comprobado su funcionamiento.
+
+h) Se han repuesto las correas de servicio, comprobando su ajuste y funcionamiento conforme a las especificaciones del fabricante.
+
+i) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+3\. Realiza operaciones de mantenimiento básico de los sistemas de propulsión, gobierno y otros equipos de embarcaciones deportivas y de recreo, describiendo el procedimiento y aplicando la técnica correspondiente, relacionando los elementos intervenidos con la funcionalidad en los sistemas.
+
+Criterios de evaluación:
+
+a) Se han relacionado los elementos constructivos de los sistemas de propulsión, gobierno y otros equipos de embarcaciones deportivas con las principales anomalías que se pueden producir.
+
+b) Se han realizado los procesos de control previos al arranque y postarranque de motores, teniendo en cuenta las normas y condiciones de seguridad establecidas.
+
+c) Se ha realizado el desmontaje, montaje y comprobación de los conjuntos sencillos (sistema de trimado, de direccionamiento del timón y de la cola propulsora entre otros), utilizando los útiles y herramientas adecuados y siguiendo las especificaciones técnicas.
+
+d) Se han efectuado las operaciones de limpieza de tanques, sentinas, filtros de fondo, entre otros, utilizando los productos indicados y teniendo en cuenta las condiciones de seguridad y protección medioambiental requeridas.
+
+e) Se han realizado las operaciones de engrase, identificando el tipo de grasa en función del sistema mecánico a mantener y según los procedimientos establecidos.
+
+f) Se ha efectuado el desmontaje y/o sustitución de los elementos mecánicos e hidráulicos simples, utilizando los útiles y herramientas adecuados y siguiendo las especificaciones técnicas.
+
+g) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+4\. Realiza operaciones de mantenimiento básico de los sistemas de saneamiento, de abastecimiento y de evacuación de fluidos, aplicando la técnica correspondiente y las normas de protección medioambiental.
+
+Criterios de evaluación:
+
+a) Se han relacionado los diferentes elementos que constituyen los sistemas de saneamiento, de abastecimiento y de evacuación de fluidos de embarcaciones deportivas con las principales anomalías que se pueden ocasionar.
+
+b) Se han relacionado los diferentes tipos de fluidos y sus características fundamentales con los sistemas de retención, trasiego, evacuación, comprobando su funcionamiento y realizando su extracción.
+
+c) Se ha realizado el filtrado, decantado y depurado de fluidos, siguiendo las normas y condiciones de seguridad y protección medioambiental establecidas.
+
+d) Se ha realizado la comprobación de estanqueidad en los circuitos de fluidos de los diferentes sistemas, siguiendo los procesos establecidos.
+
+e) Se ha realizado la sustitución y comprobación de los conjuntos sencillos (tanques, lavabos, inodoros, entre otros), siguiendo las especificaciones técnicas y teniendo en cuenta las condiciones de seguridad requeridas.
+
+f) Se han sustituido las juntas de unión de los circuitos de fluidos, comprobando su estanqueidad y utilizando los útiles y herramientas adecuados.
+
+g) Se ha realizado la sustitución de los filtros de fluidos, comprobando su funcionamiento clasificando y almacenando los residuos generados.
+
+h) Realiza la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+5\. Realiza operaciones básicas de mantenimiento de los sistemas de frio y climatización de embarcaciones deportivas y de recreo, justificando las actuaciones realizadas en el mantenimiento.
+
+Criterios de evaluación:
+
+a) Se han relacionado los principios de funcionamiento de los sistemas de frio y climatización de embarcaciones deportivas con los elementos que los componen.
+
+b) Se ha realizado la identificación sobre una embarcación deportiva de los diferentes elementos que constituyen los sistemas de frio y climatización y se han relacionado con las principales anomalías que pueden ocasionar.
+
+c) Se ha colaborado en la conexión del equipo de deshidratación, siguiendo las especificaciones técnicas y las condiciones de seguridad establecidas.
+
+d) Se ha ayudado en la comprobación de la carga y la estanqueidad en los circuitos de fluidos, contrastando que los valores de los parámetros coinciden con los indicados por el fabricante.
+
+e) Se ha realizado la sustitución y comprobación de los elementos sencillos (filtros, condensadores, focos de calor, ventiladores, entre otros), siguiendo las especificaciones técnicas y teniendo en cuenta las condiciones de seguridad requeridas.
+
+f) Se han sustituido las juntas de unión de los circuitos de fluidos, comprobando su estanqueidad, siguiendo las normas y condiciones de seguridad establecidas.
+
+g) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+6\. Realiza operaciones de mantenimiento aplicando las normas de seguridad, identificando los posibles riesgos para las personas y el medioambiente y aplicando el procedimiento de recogida de residuos apropiado.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos inherentes al trabajo en función de los materiales a emplear y los equipos y máquinas a manejar.
+
+b) Se han identificado los riesgos medioambientales asociados al proceso.
+
+c) Se han aplicado en todas las fases del proceso las normas de seguridad personal y medioambiental, requeridas.
+
+d) Se han empleado los equipos de protección individual en las diferentes operaciones de mantenimiento.
+
+e) Se han identificado los diferentes residuos producidos en las distintas actividades realizadas, depositándolos en sus contenedores específicos.
+
+f) Se han preparado convenientemente los distintos residuos, fundamentalmente los líquidos, disponiéndolos para su posterior recogida.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+**Duración: 90 horas.**
+
+**Contenidos básicos:**
+
+Preparación para el mantenimiento de la embarcación y el equipamiento:
+
+– Normas de trabajo y protección de los elementos a mantener.
+
+– Equipos, herramientas y material necesario.
+
+– Técnicas y procesos de preparación de la embarcación.
+
+– Sistemas básicos de amarre y acceso a la embarcación.
+
+– Normas de seguridad.
+
+– Equipos de protección.
+
+Mantenimiento básico del motor de combustión interna:
+
+– Elementos que constituyen los motores de combustión interna.
+
+– Principales averías.
+
+– Sistema de lubricación: Elementos principales que componen el circuito de engrase. Técnicas de sustitución.
+
+– Sistema de refrigeración: Principales elementos que constituyen el circuito de refrigeración. Técnicas de sustitución.
+
+– Tipos de filtros.
+
+– Tipos de encendido en motores de gasolina: Principales elementos que constituyen el circuito de encendido. Técnicas de sustitución.
+
+– Sistemas de caldeo en motores diésel: Elementos principales que componen el circuito de calentamiento y precalentamiento. Técnicas de sustitución.
+
+– Correas de servicio.
+
+– Técnicas de desmontaje y montaje.
+
+– Equipos de protección.
+
+Mantenimiento básico de los sistemas de propulsión, gobierno y otros equipos:
+
+– Componentes de los sistemas de propulsión, gobierno y otros equipos. Principales averías.
+
+– Sistema de propulsión: Técnicas de desmontaje y sustitución de los conjuntos sencillos.
+
+– Sistema de trimado: Técnicas de desmontaje y sustitución de los conjuntos sencillos.
+
+– Sistema de direccionamiento del timón y de la cola propulsora: Técnicas de desmontaje y sustitución de los conjuntos sencillos.
+
+– Técnicas de engrase.
+
+– Mantenimiento de tanques y sentinas.
+
+– Filtros de fondo.
+
+– Equipos de protección.
+
+Mantenimiento básico de los sistemas de saneamiento, abastecimiento y evacuación de fluidos:
+
+– Componentes de los sistemas de saneamiento, abastecimiento y evacuación de fluidos. Principales averías.
+
+– Técnicas de desmontaje y sustitución de los conjuntos sencillos de los sistemas de retención, filtrado y trasiego.
+
+– Técnicas de desmontaje y sustitución de los conjuntos sencillos de los sistemas de evacuación, decantado y depurado.
+
+– Técnicas de desmontaje y sustitución de los conjuntos sencillos de tanques, lavabos e inodoros.
+
+– Equipos de protección.
+
+Mantenimiento básico de los sistemas de frio y climatización:
+
+– Principales componentes de los sistemas de frio y climatización.
+
+– Técnicas de desmontaje y sustitución de los conjuntos sencillos de ventiladores, filtros, condensadores y focos de calor. Principales averías.
+
+– Técnicas de comprobación de estanqueidad.
+
+– Técnicas de sustitución de juntas de unión de los circuitos de fluidos.
+
+– Equipos de protección.
+
+Normas de prevención y medioambiente:
+
+– Normas de seguridad.
+
+– Equipos de protección individual.
+
+– Dispositivos de máquinas para la seguridad activa.
+
+– Protección medioambiental.
+
+– Reciclaje de productos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de mantenimiento básico de los elementos de la planta propulsora y equipos asociados de embarcaciones deportivas y de recreo.
+
+La definición de esta función incluye aspectos como:
+
+– Desmontaje y montaje de piezas sencillas del motor de combustión interna.
+
+– Sustitución de fluidos, filtros y correas.
+
+– Sustitución de elementos sencillos de los sistemas de propulsión y gobierno.
+
+– Limpieza y filtrado de fluidos de tanques y sentinas.
+
+– Mantenimiento básico de los sistemas de saneamiento, propulsión, gobierno, frio y climatización.
+
+La formación del módulo contribuye a alcanzar los objetivos generales f), g), t), u), v), w), x), y) y z) del ciclo formativo y las competencias profesionales, personales y sociales f), g), r), s), t), u), v), w) y x) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La preparación de la zona de trabajo.
+
+– La realización del desmontaje de elementos sencillos del motor.
+
+– La comprobación de las principales averías que se pueden producir en los sistemas de propulsión y gobierno.
+
+– La sustitución de fluidos, correas, filtros y juntas de unión, siguiendo procedimientos y observando las normas de Prevención de Riesgos Laborales.
+
+– La limpieza y evacuación de fluidos de tanques y sentinas.
+
+– La sustitución de elementos sencillos del sistema de climatización.
+
+**Módulo Profesional: Mantenimiento básico de sistemas eléctricos e informáticos.**
+
+**Código: 3066**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza medidas eléctricas elementales, relacionando el valor de las magnitudes con las características de los instrumentos de medida, en función del tipo de instalación.
+
+Criterios de evaluación:
+
+a) Se han relacionado los circuitos eléctricos básicos de una embarcación deportiva con su funcionamiento.
+
+b) Se ha comprobado el funcionamiento del circuito eléctrico básico de la embarcación, midiendo voltaje, resistencia e intensidad, relacionándolos con los especificados en la documentación técnica.
+
+c) Se han realizado mediciones eléctricas de asociaciones de resistencias en serie y paralelo sobre circuitos eléctricos básicos con el polímetro, según los procesos establecidos.
+
+d) Se ha realizado la comprobación del valor de las resistencias empleadas en los circuitos eléctricos básicos de las embarcaciones deportivas, según el código de colores de la ficha técnica.
+
+e) Se han realizado mediciones de intensidad con la pinza amperimétrica sobre circuitos eléctricos básicos de las embarcaciones, según los procesos establecidos.
+
+f) Se ha operado de forma ordenada, y con seguridad, aplicando los procedimientos y técnicas adecuadas.
+
+2\. Efectúa operaciones de mantenimiento básico de los equipos de generación eléctrica y acumulación de los sistemas de carga y del motor de arranque, describiendo su función y justificando las actuaciones de mantenimiento.
+
+Criterios de evaluación:
+
+a) Se ha relacionado el funcionamiento de la batería, alternador y motor de arranque, con las principales anomalías que se pueden producir.
+
+b) Se ha controlado el nivel de electrolito de la batería, reponiéndole en caso necesario, según especificaciones técnicas.
+
+c) Se ha realizado la carga de baterías, según los parámetros y características técnicas establecidas.
+
+d) Se ha verificado la densidad del electrolito con los aparatos de medida adecuados (densímetro y comprobador de carga), relacionando los parámetros de densidad y tensión.
+
+e) Se ha sustituido la batería comprobando su conexión y funcionamiento, cumpliendo las condiciones de seguridad requeridas.
+
+f) Se ha realizado la sustitución del motor de arranque comprobando la intensidad que recibe y su funcionamiento, conforme a los procesos establecidos.
+
+g) Se ha realizado la sustitución del alternador y comprobado que se produce la carga de la batería, conforme a los valores establecidos.
+
+h) Se ha llevado a cabo la limpieza y mantenimiento de primer nivel de los distintos equipos, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+3\. Realiza operaciones de mantenimiento básico de los sistemas eléctricos auxiliares, describiendo la función de los elementos implicados, aplicando la técnica correspondiente y utilizando las instrucciones específicas del fabricante.
+
+Criterios de evaluación:
+
+a) Se han relacionado los elementos básicos de los sistemas eléctricos auxiliares, con su ubicación, funcionamiento y las principales anomalías que se pueden producir.
+
+b) Se han diferenciado los circuitos de corriente continua de alumbrado, navegación y servicios de embarcaciones deportivas, de los circuitos de corriente alterna de conexiones de puerto.
+
+c) Se han identificado los tipos de lámparas de los sistemas eléctricos auxiliares según la nomenclatura serigrafiada, relacionando los parámetros de voltaje y potencia.
+
+d) Se ha realizado la sustitución de las lámparas de las embarcaciones deportivas, comprobando su funcionamiento y características, según las especificaciones del fabricante.
+
+e) Se ha comprobado la continuidad de los fusibles, sustituyéndolos en su caso, teniendo en cuenta las características del fusible y la cantidad de corriente que soporta.
+
+f) Se han sustituido las tomas de corriente de los sistemas eléctricos auxiliares, relacionando el tipo de conector con el circuito correspondiente.
+
+g) Se han sustituido los interruptores y conmutadores de los sistemas eléctricos auxiliares, utilizando los útiles y herramientas adecuados, siguiendo las normas y condiciones de seguridad establecidas.
+
+h) Se ha operado de forma ordenada, con pulcritud, precisión y seguridad, aplicando los procedimientos y técnicas adecuadas.
+
+4\. Realiza la sustitución de cables, terminales y conectores eléctricos, aplicando la técnica requerida y las condiciones de seguridad implícitas en la intervención.
+
+Criterios de evaluación:
+
+a) Se han relacionado los elementos de una instalación eléctrica básica con su ubicación, funcionamiento y las principales anomalías que se pueden producir.
+
+b) Se ha realizado la selección y tendido de conductores en un circuito eléctrico básico, según las especiaciones técnicas.
+
+c) Se ha efectuado la fijación de los conductores en sus canales de alojamiento, aplicando los procedimientos establecidos.
+
+d) Se ha realizado el montaje de bornes y terminales, mediante la técnica de engatillado y estañado, comprobando su continuidad y aislamiento, según las especificaciones del fabricante.
+
+e) Se ha efectuado el montaje de conectores, utilizando los útiles y herramientas adecuados, siguiendo las normas y condiciones de seguridad establecidas.
+
+f) Se ha comprobado que los conductores seleccionados, las uniones realizadas y demás elementos eléctricos utilizados, cumplen las especificaciones técnicas para su utilización en el medio marino.
+
+g) Se ha realizado la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+5\. Realiza operaciones de mantenimiento básico de equipos informáticos y periféricos, describiendo las fases de procedimiento requerido y las implicaciones de una intervención inapropiada.
+
+Criterios de evaluación:
+
+a) Se han relacionado los elementos que componen los equipos informáticos, con su ubicación, funcionamiento y las principales anomalías que se pueden producir.
+
+b) Se han limpiado los soportes y periféricos, realizando los procedimientos de limpieza establecidos.
+
+c) Se han sustituido los elementos consumibles, siguiendo las normas y condiciones de seguridad dispuestas por el fabricante.
+
+d) Se ha comprobado la funcionalidad del dispositivo informático y reciclado los consumibles sustituidos, según las instrucciones técnicas establecidas.
+
+e) Se ha manejado el sistema operativo, operando de manera sencilla con carpetas, archivos, sistemas de almacenamiento (CD, DVD, memorias USB, externas, entre otros), teniendo en cuenta las instrucciones recibidas.
+
+f) Se ha extraído la información de las unidades de almacenamiento e impreso el documento con la impresora asociada, según el sistema operativo.
+
+g) Se ha realizado la limpieza de la zona de trabajo y procedido al reciclaje del material sustituido, teniendo en cuenta las normas de seguridad y protección medioambiental establecidas.
+
+h) Se ha operado de forma ordenada, y con seguridad, aplicando los procedimientos y técnicas adecuadas.
+
+6\. Realiza las intervenciones en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente, aplicando el procedimiento de recogida de residuos establecido.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos inherentes al trabajo en función de los materiales a emplear y los equipos a manejar.
+
+b) Se han identificado los riesgos eléctricos en diferentes operaciones del proceso.
+
+c) Se han identificado los riesgos medioambientales asociados al proceso.
+
+d) Se han aplicado en todo el proceso las normas de seguridad personal y medioambiental.
+
+e) Se han empleado los equipos de protección individual en las diferentes actividades.
+
+f) Se han identificado los diferentes residuos producidos en las distintas actividades, depositándolos en sus contenedores específicos.
+
+g) Se han almacenado convenientemente los distintos residuos, preparándolos para su posterior recogida.
+
+h) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+i) Se han utilizado los EPI estipulados en el desarrollo de los procesos.
+
+**Duración: 65 horas.**
+
+**Contenidos básicos:**
+
+Medidas eléctricas básicas relacionando las magnitudes:
+
+– Unidades y magnitudes.
+
+– Composición de un circuito eléctrico básico.
+
+– Ley de Ohm. Intensidad. Resistencia. Voltaje.
+
+– Equipos y útiles de medida y comprobación.
+
+– Representación de simbología de elementos eléctricos y electrónicos básicos.
+
+Mantenimiento de los sistemas de carga y arranque:
+
+– Baterías y acumuladores.
+
+– Nomenclatura de la batería.
+
+– Asociación de baterías.
+
+– Carga de baterías y comprobación. Principales averías.
+
+– Técnicas de sustitución.
+
+– Motor de arranque. Técnicas de sustitución. Comprobaciones básicas.
+
+– Alternador. Técnicas de sustitución. Comprobaciones básicas.
+
+Mantenimiento básico de los sistemas eléctricos auxiliares de embarcaciones:
+
+– Principales componentes de los sistemas eléctricos auxiliares. Circuitos elementales de corriente continua y alterna.
+
+– Técnicas de desmontaje y sustitución de lámparas. Comprobación del funcionamiento.
+
+– Técnicas de sustitución de fusibles. Comprobación de continuidad.
+
+– Técnicas de sustitución de tomas de corriente.
+
+– Técnicas de sustitución de interruptores y conmutadores. Instalación de circuitos eléctricos básicos de embarcaciones deportivas.
+
+– Principales componentes de los circuitos eléctricos de embarcaciones.
+
+– Selección y tendido de conductores eléctricos.
+
+– Técnicas de montaje de bornes y terminales. Comprobación del montaje.
+
+– Técnicas de desmontaje y sustitución de conectores. Comprobación del funcionamiento.
+
+– Técnicas de conexionado.
+
+– Técnicas de soldadura blanda.
+
+Mantenimiento básico de equipos informáticos y periféricos:
+
+– Principales componentes de los equipos informáticos.
+
+– Soportes.
+
+– Conexión de periféricos. Técnicas de limpieza de soportes y periféricos. Comprobación del funcionamiento. Técnicas de desmontaje y sustitución de consumibles. Comprobación del funcionamiento. Seguridad en la manipulación y sustitución de consumibles.
+
+– El sistema operativo: el escritorio, archivos y carpetas.
+
+– Gestión y búsqueda de archivos. Funciones básicas de exploración y búsqueda.
+
+– Unidades de almacenamiento.
+
+Normas de prevención y medioambiente:
+
+– Normas de seguridad.
+
+– Tratamiento, eliminación y aprovechamiento de residuos informáticos.
+
+– Protección medioambiental.
+
+– Reciclaje de productos informáticos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de mantenimiento básico de los elementos del circuito de carga y arranque y de los sistemas eléctricos e informáticos de la embarcación.
+
+La definición de esta función incluye aspectos como:
+
+– Medida de magnitudes eléctricas.
+
+– Sustitución del alternador y motor de arranque.
+
+– Comprobación de la carga de la batería.
+
+– Sustitución de la batería.
+
+– Sustitución de fusibles y tomas de corrientes, conectores y bornes.
+
+– Sustitución de consumibles de los dispositivos informáticos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales h), i), t), u), v), w), x), y) y z) del ciclo formativo, y las competencias profesionales, personales y sociales h), i), r), s), t), u), v), w) y x) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La comprobación de parámetros eléctricos con el polímetro.
+
+– La realización de operaciones de desmontaje y montaje del alternador y el motor de arranque.
+
+– La comprobación de la carga y densidad del electrolito de la batería.
+
+– El montaje de circuitos eléctricos sencillos.
+
+– El manejo del sistema operativo de forma sencilla y sustitución de consumibles.
+
+**Módulo Profesional: Mantenimiento básico de aparejos de embarcaciones deportivas.**
+
+**Código: 3068**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Realiza operaciones de mantenimiento básico de las jarcias, relacionándolas con la función que deben cumplir en la embarcación.
+
+Criterios de evaluación:
+
+a) Se han relacionado la función, los tipos de aparejos y las partes con las principales averías que se pueden producir.
+
+b) Se ha comprobado el estado de los elementos principales de las jarcias firme y de labor (cables, varillas y cabos entre otros), teniendo en cuenta las normas de seguridad establecidas para trabajos en altura.
+
+c) Se ha realizado el desmontaje y montaje de elementos simples de las jarcias, conforme a los procesos establecidos y las condiciones de seguridad requeridas.
+
+d) Se ha efectuado el montaje de terminales de cable o varilla mediante gaza o prensado, comprobando su posición y verificando que funcionan correctamente.
+
+e) Se han engrasado los elementos roscados y articulados, teniendo en cuenta tipo de lubricante, puntos de engrase, nomenclatura del lubricante, entre otros.
+
+f) Se han realizado las operaciones básicas de cabullería (guarnido de aparejos, forros, ayustes y adujados entre otros), teniendo en cuenta las instrucciones recibidas.
+
+g) Se ha efectuado la limpieza de los elementos de las jarcias y las zonas de trabajo, siguiendo las normas y condiciones de seguridad y protección medioambiental establecidas.
+
+2\. Efectúa las operaciones de mantenimiento básico del mástil y de los elementos de la arboladura, aplicando las instrucciones específicas del fabricante y la técnica requerida.
+
+Criterios de evaluación:
+
+a) Se ha relacionado el funcionamiento y los elementos constructivos del mástil y de la arboladura con la función que tienen que desempeñar.
+
+b) Se ha comprobado el estado de los elementos principales del mástil y la arboladura, teniendo en cuenta las normas de seguridad establecidas para trabajos en altura.
+
+c) Se ha realizado el desmontaje y montaje de los elementos principales de la arboladura, siguiendo los procesos establecidos y las condiciones de seguridad requeridas.
+
+d) Se ha realizado el engrase de los puntos articulados, siguiendo los procesos de lubricación establecidos.
+
+e) Se ha efectuado la limpieza y pulido de los elementos de la arboladura y el mástil, cumpliendo con las normas de seguridad y utilizando los EPIs estipulados.
+
+f) Se ha realizado el desmontaje y montaje de los elementos sencillos que discurren por el mástil (drizas, amantes, entre otros), comprobado su funcionamiento.
+
+g) Se ha realizado el desmontaje y montaje de eslingas, cabos y elementos asociados, teniendo en cuenta las instrucciones recibidas.
+
+h) Se ha realizado la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+3\. Realiza operaciones sencillas de mantenimiento y reparación de los sistemas de control de las jarcias, aplicando las especificaciones del fabricante y las técnicas correspondientes.
+
+Criterios de evaluación:
+
+a) Se ha relacionado el funcionamiento y los elementos constructivos de los sistemas de control de las jarcias con las principales averías que se pueden producir.
+
+b) Se ha comprobado el estado de los elementos principales de los sistemas de control de las jarcias, teniendo en cuenta las instrucciones recibidas.
+
+c) Se han limpiado y pulido los elementos del sistema de control de las jarcias, utilizando los productos adecuados y la secuencia establecida.
+
+d) Se han engrasado los puntos de articulación y movimiento de los elementos mecánicos e hidráulicos de los sistemas de control de las jarcias, teniendo en cuenta los procedimientos establecidos.
+
+e) Se ha ayudado en el trabajo de montaje y desmontaje de los sistemas enrolladores, winches, mordazas, entre otros, siguiendo las instrucciones de las guías técnicas.
+
+f) Se han marcado y almacenado las piezas desmontadas el orden establecido y el etiquetado determinado.
+
+g) Se ha realizado la limpieza de la zona de trabajo, útiles y herramientas, teniendo en cuenta las normas de seguridad personal y medioambiental.
+
+h) Se ha operado de forma ordenada, con pulcritud y seguridad, aplicando los procedimientos y técnicas adecuadas en condiciones de higiene.
+
+4\. Efectúa operaciones de mantenimiento básico de las velas y elementos textiles auxiliares, aplicando las especificaciones técnicas del fabricante y las técnicas correspondientes.
+
+Criterios de evaluación:
+
+a) Se ha relacionado el funcionamiento de las velas y los elementos textiles auxiliares con las principales averías que se pueden producir.
+
+b) Se ha comprobado el estado de las velas y los elementos textiles, cumpliendo las normas de seguridad establecidas para trabajos en altura.
+
+c) Se ha realizado el desmontaje y montaje de los elementos principales de las velas y los elementos textiles auxiliares, teniendo en cuenta los procesos establecidos y las condiciones de seguridad requeridas.
+
+d) Se ha limpiado, desalado, secado y plegado las velas y los elementos textiles auxiliares, siguiendo los procesos establecidos y las normas de seguridad.
+
+e) Se ha efectuado la costura a mano de paños de elementos textiles auxiliares, teniendo en cuenta las instrucciones recibidas.
+
+f) Se han realizado las operaciones básicas de parcheado, teniendo en cuenta los procesos establecidos.
+
+g) Se han efectuado las técnicas básicas de pegado de paños de refuerzo en las zonas de los puños, siguiendo los procesos establecidos y las normas de seguridad.
+
+h) Se ha efectuado la limpieza de los útiles, herramientas y de las zonas de trabajo de los elementos textiles auxiliares y velas, siguiendo las normas y condiciones de seguridad y protección medioambiental establecidas.
+
+5\. Realiza las intervenciones implicadas en condiciones de seguridad, identificando los posibles riesgos para la salud y el medioambiente, aplicando el procedimiento de recogida de residuos apropiado.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos inherentes al trabajo en función de los materiales a emplear y los útiles y herramientas a manejar.
+
+b) Se han identificado los riesgos medioambientales asociados al proceso.
+
+c) Se han aplicado en todas las fases del proceso las normas de seguridad personal y medioambiental, requeridas.
+
+d) Se han empleado los equipos de protección individual en las diferentes operaciones de mantenimiento.
+
+e) Se han identificado los diferentes residuos producidos en las distintas actividades realizadas, depositándolos en sus contenedores específicos.
+
+f) Se han preparado convenientemente los distintos residuos, disponiéndolos para su posterior recogida.
+
+g) Se ha mantenido el área de trabajo con el grado apropiado de orden y limpieza.
+
+h) Se han utilizado los EPIs establecidos en los distintos procesos.
+
+**Duración: 60 horas.**
+
+**Contenidos básicos:**
+
+Mantenimiento básico de la jarcia firme y la jarcia de labor:
+
+– Función del aparejo.
+
+– Elementos constitutivos del aparejo: velas, jarcias, arboladura y sistemas de control.
+
+– La jarcia firme: Función. Elementos principales. Materiales. Procesos de desmontaje y montaje.
+
+– La jarcia de labor: Función. Elementos principales. Materiales. Procesos de desmontaje y montaje.
+
+– Trabajos de cabullería.
+
+Mantenimiento básico del mástil y los elementos de la arboladura:
+
+– El mástil: Función. Elementos principales. Materiales. Normas de seguridad de trabajos en altura.
+
+– La arboladura: Función. Elementos principales. Materiales. Mantenimiento básico. Técnicas de limpieza y pulido.
+
+– Procesos de desmontaje y montaje de drizas y amantes.
+
+– Técnicas de desmontaje y montaje de eslingas, cabos y elementos asociados.
+
+Mantenimiento y reparación de los sistemas de control de las jarcias:
+
+– Sistemas de control del aparejo: Clasificación. Función. Elementos constituyentes.
+
+– Sistemas de accionamiento: Clasificación. Función. Elementos constituyentes.
+
+– Técnicas de desmontaje y montaje. Técnicas de limpieza y pulido.
+
+– Procedimientos de engrase de elementos mecánicos e hidráulicos. Técnicas de desmontaje y montaje de los sistemas enrolladores, winches y mordazas.
+
+– Técnicas de marcado y almacenamiento de piezas desmontadas.
+
+Mantenimiento básico de las velas y elementos textiles auxiliares:
+
+– Velas: Función. Materiales.
+
+– Partes de una vela.
+
+– Desmontaje y montaje de los elementos principales de la arboladura.
+
+– Refuerzos.
+
+– Herrajes asociados.
+
+– Técnicas de limpieza.
+
+– Procesos de desalado.
+
+– Técnicas de secado y plegado de velas y elementos textiles auxiliares.
+
+– Técnicas de costura a mano de paños y elementos textiles auxiliares.
+
+– Procesos de parcheado.
+
+– Técnicas de pegado de paños de refuerzo.
+
+Normas de prevención y medioambiente:
+
+– Normas de seguridad.
+
+– Normativa sobre el manejo de productos de limpieza.
+
+– Equipos de protección individual. Protección del medioambiental.
+
+– Reciclaje de productos.
+
+– Recogida clasificación y almacenamiento de los residuos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de mantenimiento básico de los aparejos en embarcaciones deportivas y de recreo.
+
+La definición de esta función incluye aspectos como:
+
+– Engrase y limpieza de sistemas articulados de la arboladura.
+
+– Reparación de puños mediante operaciones básicas de costura a mano.
+
+– Pegado y parcheado de paños.
+
+– Sustitución de elementos sencillos que discurren por el mástil.
+
+– Marcado y almacenamiento de las piezas desmontadas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales j), t), u), v), w), x), y) y z) del ciclo formativo, y las competencias profesionales, personales y sociales j), r), s), t), u), v), w), y x) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– La comprobación de las principales averías que se pueden producir en los aparejos de las embarcaciones deportivas y de recreo.
+
+– La limpieza, pulido y engrase de los mecanismos articulados de las jarcias.
+
+– Desmontaje y montaje de elementos sencillos de la arboladura.
+
+– Las operaciones básicas de cabullería.
+
+– Las técnicas de pegado, parcheado y costura a mano de elementos textiles.
+
+**Módulo Profesional: Itinerario personal para la empleabilidad.**
+
+**Código: 3159**
+
+Ámbito de Comunicación y Ciencias Sociales I y II;
+
+Ámbito de Ciencias Aplicadas I y II.
+
+> Téngase en cuenta que el código, duración del currículo básico, y resultados de aprendizaje y criterios de evaluación del módulo profesional 3159 figura como anexo III del Real Decreto 659/2023, de 18 de julio; y que el Ámbito de Comunicación y Ciencias Sociales I y II y el Ámbito de Ciencias Aplicadas I y II, cuyas competencias específicas, criterios de evaluación y contenidos, enunciados en forma de saberes básicos figuran en el anexo V del Real Decreto 217/2022, de 29 de marzo, según establece el art. 6.Dos.a), c) y d) del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+**Currículo básico del módulo de Proyecto intermodular de aprendizaje colaborativo para grado básico**
+
+**Módulo Profesional: Proyecto intermodular de aprendizaje colaborativo.**
+
+**Código: 3160**
+
+Duración: 25 horas.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Busca información en internet sobre empresas «tipo» del sector/es relacionados con los estándares (unidades) de competencia incluidos en el ámbito profesional del título, elaborando un mapa de las mismas y los servicios o productos que ofrecen.
+
+Criterios de evaluación:
+
+a) Se ha elaborado conjuntamente un esquema que contemple el conjunto de las empresas tipo del sector.
+
+b) Se han constituido equipos de trabajo y se han distribuido entre los grupos las empresas que se analizarán.
+
+c) Se ha identificado para la empresa seleccionada los productos o servicios que ofrece.
+
+d) Se han relacionado los productos o servicios ofertados con la consecución de los ODS (Objetivos de Desarrollo Sostenible).
+
+e) Se ha realizado un diagrama de bloques de los posibles departamentos que conforman la empresa.
+
+f) Se han tenido en cuenta las áreas transversales y su relación con las demás.
+
+g) Se ha presentado al gran grupo la configuración de la empresa y productos que ofrece.
+
+h) Se ha hecho una valoración de los recursos necesarios para cada unidad.
+
+i) Se ha elaborado un informe en un formato establecido con la información recabada, indicando al menos: el sector en el que se encuadra, los principales países donde opera, y las áreas de las que se compone.
+
+2\. Selecciona un servicio o producto de una empresa del sector relacionándolo con su contribución a los ODS y sus destinatarios a nivel global.
+
+Criterios de evaluación:
+
+a) Se ha seleccionado un producto/servicio de la empresa a estudio.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se han identificado las características del público objetivo al que está destinado.
+
+d) Se ha comparado el producto con otros de empresas similares.
+
+e) Se ha desarrollado una propuesta innovadora para potenciar el producto o servicio.
+
+3\. Hace una propuesta de una empresa tipo «spin off» indicando los aspectos diferenciales con la empresa de referencia y elaborando un dossier con sus características.
+
+Criterios de evaluación:
+
+a) Se ha planteado en el grupo el concepto de una empresa tipo «spin off», indicando sus ventajas e inconvenientes.
+
+b) Se ha discutido en grupo con qué ODS pueda estar relacionado.
+
+c) Se ha propuesto una posible organización de la empresa, atendiendo a una estructura lineal o circular.
+
+d) Se han indicado que tecnologías se incluirían para aumentar su competitividad.
+
+e) Se han propuesto aspectos innovadores sobre algún producto de la empresa de referencia.
+
+4\. Relaciona cada unidad de una empresa tipo con la prevención de riesgos profesionales identificando los equipos/sistemas de protección generales y los propios de cada actividad.
+
+Criterios de evaluación:
+
+a) Se ha analizado la responsabilidad de la empresa y los trabajadores en la consecución de entornos de trabajo seguros.
+
+b) Se han identificado los sistemas de protección generales e individuales de cada unidad en función de las actividades a realizar.
+
+c) Se ha estimado el coste de los elementos de protección individual.
+
+d) Se han propuesto posibles elementos de mejora en relación con la seguridad.
+
+5\. Transmite información con claridad de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+b) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+c) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+d) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+Tutoría, de acuerdo con lo establecido en el artículo 87.4 del Real Decreto 659/2023, de 18 de julio, con, al menos, una hora de tutoría semanal.
+
+**4.****Requisitos mínimos de calidad del contexto formativo**.
+
+**4.1 Espacios.**
+
+Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son:
+
+– Aula polivalente.
+
+– Taller de electromecánica.
+
+– Taller de reparación estructural.
+
+**4.2 Equipamientos mínimos.**
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">Aula polivalente.</td>
+<td>Ordenadores instalados en red, sistema de proyección e internet.</td>
+</tr>
+<tr>
+<td>Medios audiovisuales.</td>
+</tr>
+<tr>
+<td>Programas informáticos de aplicación.</td>
+</tr>
+<tr>
+<td rowspan="11">Taller de electromecánica.</td>
+<td>Bancos de trabajo con tornillos de banco.</td>
+</tr>
+<tr>
+<td>Máquinas y herramientas de uso común y colectivo para mecanizado.</td>
+</tr>
+<tr>
+<td>Comprobador de inyectores.</td>
+</tr>
+<tr>
+<td>Comprobador, cargador, arrancador de baterías.</td>
+</tr>
+<tr>
+<td>Armario con herramienta específica e instrumentos de medida utilizados en electricidad.</td>
+</tr>
+<tr>
+<td>Equipos de soldadura blanda y eléctrica.</td>
+</tr>
+<tr>
+<td>Herramientas y útiles específicos para el desmontaje y comprobación de los componentes del motor.</td>
+</tr>
+<tr>
+<td>Utillaje específico para el desmontaje de elementos de los sistemas de propulsión y gobierno de la embarcación.</td>
+</tr>
+<tr>
+<td>Taladradoras portátiles.</td>
+</tr>
+<tr>
+<td>Taladradora de columna.</td>
+</tr>
+<tr>
+<td>Equipos y medios de seguridad.</td>
+</tr>
+<tr>
+<td rowspan="12">Taller de reparación estructural.</td>
+<td>Compresor.</td>
+</tr>
+<tr>
+<td>Herramientas y útiles específicos para el desmontaje y ensamblado de piezas de madera.</td>
+</tr>
+<tr>
+<td>Herramientas y útiles específicos para el desmontaje y reparación de piezas de plástico.</td>
+</tr>
+<tr>
+<td>Equipo de reparación de plásticos.</td>
+</tr>
+<tr>
+<td>Andamios y gradas.</td>
+</tr>
+<tr>
+<td>Equipo de secado.</td>
+</tr>
+<tr>
+<td>Equipo móvil de aspiración de polvo.</td>
+</tr>
+<tr>
+<td>Lijadoras rotorbitales.</td>
+</tr>
+<tr>
+<td>Reglas de volúmenes.</td>
+</tr>
+<tr>
+<td>Pistolas aerográficas de imprimación.</td>
+</tr>
+<tr>
+<td>Equipos y medios de seguridad.</td>
+</tr>
+<tr>
+<td>Lavadora de pistolas.</td>
+</tr>
+</tbody>
+</table>
+
+**5. Profesorado.**
+
+**5.1 Las especialidades del profesorado del sector público a las que se atribuye la impartición de los módulos profesionales y proyecto intermodular de aprendizaje colaborativo del ciclo formativo de grado básico en Mantenimiento de Embarcaciones Deportivas y de Recreo son:**
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>3043. Mecanizado y soldadura.</p>
+<p>3028. Reparación estructural básica de embarcaciones deportivas.</p>
+<p>3040. Protección y embellecimiento de superficies de embarcaciones.</p>
+<p>3048. Mantenimiento básico de la planta propulsora y equipos asociados.</p>
+<p>3066. Mantenimiento básico de sistemas eléctricos e informáticos.</p>
+<p>3068. Mantenimiento básico de aparejos de embarcaciones deportivas.</p>
+</td>
+<td>– Mantenimiento de Vehículos.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Máquinas, Servicios y Producción.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">3160. Proyecto intermodular de aprendizaje colaborativo.</td>
+<td>– Mantenimiento de Vehículos.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Máquinas, Servicios y Producción.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Especialidades docentes asignadas a los ámbitos no profesionales de los ciclos formativos de grado básico, según lo establecido en el anexo IV del Real Decreto 286/2023, de 18 de abril.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>3159. Itinerario personal para la empleabilidad.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**5.2 Requisitos para el profesorado.**
+
+1\. La docencia de los módulos profesionales y de proyecto intermodular de aprendizaje colaborativo que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el apartado 5.1 pertenecientes a los cuerpos indicados en dicha tabla, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales y del proyecto intermodular de aprendizaje colaborativo en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el apartado 5.1. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+**6. Correspondencia entre módulos profesionales y unidades de competencia para su acreditación o convalidación.**
+
+<table>
+<thead>
+<tr>
+<th>Módulos profesionales superados</th>
+<th>Unidades de competencia acreditables</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>3043. Mecanizado y soldadura.</td>
+<td>UC0620_1: Efectuar operaciones de mecanizado básico.</td>
+</tr>
+<tr>
+<td rowspan="2">3028. Reparación estructural básica de embarcaciones deportivas.</td>
+<td>UC1456_1: Realizar operaciones auxiliares de reparación de elementos de madera de embarcaciones deportivas y de recreo.</td>
+</tr>
+<tr>
+<td>UC1457_1: Realizar operaciones auxiliares de reparación de elementos de plástico reforzado con fibra de embarcaciones deportivas y de recreo.</td>
+</tr>
+<tr>
+<td>3040. Protección y embellecimiento de superficies de embarcaciones.</td>
+<td>UC1455_1: Realizar operaciones auxiliares de protección y embellecimiento de superficies de embarcaciones deportivas y de recreo.</td>
+</tr>
+<tr>
+<td>3048. Mantenimiento básico de la planta propulsora y equipos asociados.</td>
+<td>UC1458_1: Realizar operaciones auxiliares en el mantenimiento de la planta propulsora, máquinas y sus equipos asociados de embarcaciones deportivas y de recreo.</td>
+</tr>
+<tr>
+<td>3066. Mantenimiento básico de sistemas eléctricos e informáticos.</td>
+<td>UC1459_1: Realizar operaciones auxiliares en el mantenimiento de los sistemas eléctricos y electrónicos de embarcaciones deportivas y de recreo.</td>
+</tr>
+<tr>
+<td>3068. Mantenimiento básico de aparejos de embarcaciones deportivas.</td>
+<td>UC1460_1: Realizar operaciones auxiliares en el mantenimiento de aparejos de embarcaciones deportivas y de recreo.</td>
+</tr>
+</tbody>
+</table>
+
+**6 bis. Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación.**
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC0620_1: Efectuar operaciones de mecanizado básico | 3043. Mecanizado y soldadura. |
+| UC1456_1: Realizar operaciones auxiliares de reparación de elementos de madera de embarcaciones deportivas y de recreo.<br>UC1457_1: Realizar operaciones auxiliares de reparación de elementos de plástico reforzado con fibra de embarcaciones deportivas y de recreo. | 3028. Reparación estructural básica de embarcaciones deportivas. |
+| UC1455_1: Realizar operaciones auxiliares de protección y embellecimiento de superficies de embarcaciones deportivas y de recreo. | 3040. Protección y embellecimiento de superficies de embarcaciones |
+| UC1458_1: Realizar operaciones auxiliares en el mantenimiento de la planta propulsora, máquinas y sus equipos asociados de embarcaciones deportivas y de recreo. | 3048. Mantenimiento básico de la planta propulsora y equipos asociados. |
+| UC1459_1: Realizar operaciones auxiliares en el mantenimiento de los sistemas eléctricos y electrónicos de embarcaciones deportivas y de recreo. | 3066. Mantenimiento básico de sistemas eléctricos e informáticos. |
+| UC1460_1: Realizar operaciones auxiliares en el mantenimiento de aparejos de embarcaciones deportivas y de recreo. | 3068. Mantenimiento básico de aparejos de embarcaciones deportivas. |
+
+> Se modifican los apartados 3.2, 3.3 y 5, se añade el apartado 6 bis y se suprime el apartado 7 por los arts. 5, 6, 8.Veintisiete, Veintinueve y Treinta, 9.Veintisiete y 10 del Real Decreto 498/2024, de 21 de mayo. [Ref. BOE-A-2024-10683](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10683)
+
+> Información relacionada
+
+> Téngase en cuenta que cualquier referencia contenida en los anexos a "formación profesional básica", deberá entenderse hecha a "formación profesional de grado básico", cualquier mención a "Título Profesional Básico" deberá entenderse hecho a "Título de Técnico Básico", así como las referencias a las "competencias profesionales, personales y sociales" deben entenderse hechas a "competencias profesionales y para la empleabilidad", según establecen el art. 2.5 y la disposición adicional 6 del Real Decreto 498/2024, de 21 de mayo. Ref. BOE-A-2024-10683.

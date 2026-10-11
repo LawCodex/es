@@ -1,0 +1,379 @@
+---
+title: "Real Decreto 1002/2012, de 29 de junio, por el que se establecen medidas de aplicación de la normativa comunitaria en materia de comercialización y utilización de piensos y se modifica el Real Decreto 1409/2009, de 4 de septiembre, por el que se regula la elaboración, comercialización, uso y control de los piensos medicamentosos"
+identifier: "BOE-A-2012-9327"
+eli: "https://www.boe.es/eli/es/rd/2012/06/29/1002"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2012-06-29
+published: 2012-07-13
+in_force_from: 2012-07-14
+last_amended: 2021-06-08
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 167"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9327"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1002/2012, de 29 de junio, por el que se establecen medidas de aplicación de la normativa comunitaria en materia de comercialización y utilización de piensos y se modifica el Real Decreto 1409/2009, de 4 de septiembre, por el que se regula la elaboración, comercialización, uso y control de los piensos medicamentosos
+
+El Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre la comercialización y la utilización de los piensos, por el que se modifica el Reglamento (CE) n.º 1831/2003 y se derogan las Directivas 79/373/CEE del Consejo, 80/511/CEE de la Comisión, 82/471/CEE del Consejo, 83/228/CEE del Consejo, 93/74/CEE del Consejo, 93/113/CE del Consejo y 96/25/CE del Consejo y la Decisión 2004/217/CE, de la Comisión, supone una reforma de gran calado en la normativa comunitaria en materia de etiquetado y circulación de materias primas destinadas a la alimentación animal y de los piensos compuestos. Las Directivas y la Decisión derogadas fueron incorporadas a la normativa nacional por medio del Real Decreto 56/2002, de 18 de enero, por el que se regulan la circulación y utilización de materias primas para la alimentación animal y la circulación de piensos compuestos, el Real Decreto 1999/1995, de 7 de diciembre, relativo a los alimentos para animales destinados a objetivos de nutrición específicos, la Orden de 4 de julio de 1994, sobre utilización y comercialización de enzimas, microorganismos y sus preparados en la alimentación animal y la Orden de 31 de octubre de 1988, relativa a determinados productos utilizados en la alimentación de los animales.
+
+El mencionado reglamento sobre comercialización y utilización de los piensos deroga también el artículo 16 de la Directiva 70/524/CEE del Consejo, de 23 de noviembre de 1970, sobre los aditivos en la alimentación animal, que había sido incorporado a la normativa nacional en los artículos 17, 18 y 19 del Real Decreto 2599/1998, de 4 de diciembre, sobre los aditivos en la alimentación de los animales.
+
+Por todo ello, en aras a la necesaria seguridad jurídica y sin perjuicio de la directa aplicabilidad de los reglamentos comunitarios, se considera necesario derogar expresamente las normas de carácter nacional mencionadas anteriormente y recoger en una sola norma aquellos aspectos de la comercialización y uso de las materias primas y los piensos compuestos que continúan estando vigentes por estarlo la normativa comunitaria de la que derivan y aquellos cuyo desarrollo queda a criterio de los Estados miembros.
+
+En particular, debe asegurarse que siguen siendo de aplicación las disposiciones de la Directiva 82/475/CEE, de la Comisión, de 23 de junio de 1982, por la que se fijan las categorías de materias primas para la alimentación animal que pueden utilizarse para el etiquetado de los alimentos compuestos para animales domésticos y las disposiciones de la Directiva 2008/38/CE, de la Comisión, de 5 de marzo de 2008, por la que se establece una lista de usos previstos de los alimentos para animales destinados a objetivos de nutrición específicos. En consecuencia, el presente real decreto incorpora estas dos directivas a la normativa nacional.
+
+Además, las nuevas definiciones incluidas en el reglamento permiten que la definición de pienso intermedio medicamentoso incluida en el Real Decreto 1409/2009, de 4 de septiembre, por el que se regula la elaboración, comercialización, uso y control de los piensos medicamentosos, sea más específica. Asimismo, advertidos errores en el Anexo I del Real Decreto 1409/2009, de 4 de septiembre, se incluye en este real decreto una nueva versión del mismo.
+
+Por otra parte, el Real Decreto 3454/2000, de 22 de diciembre, por el que se establece y regula el Programa Integral Coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales, contiene algunas disposiciones relativas al control del uso de las proteínas procesadas de origen animal y a su etiquetado que, tras la entrada en vigor de la normativa comunitaria de controles y de los reglamentos que regulan el uso de los subproductos de origen animal y el control de las encefalopatías espongiformes transmisibles deben ser derogadas.
+
+El documento de entrada de piensos de origen no animal, al contrario de lo que ocurre en el caso de los productos de origen animal, no está armonizado por normativa comunitaria. Teniendo en cuenta que el Reglamento (CE) n.º 669/2009, de la Comisión, de 24 de julio de 2009, por el que se aplica el Reglamento (CE) 882/2004 del Parlamento Europeo y del Consejo en lo que respecta a la intensificación de los controles oficiales de las importaciones de determinados piensos y alimentos de origen no animal y se modifica la Decisión 2006/504/CE, establece el documento que debe utilizarse en los controles en frontera de determinados productos de origen no animal procedentes de terceros países, el Documento Común de Entrada, y con el fin de establecer un procedimiento de control en frontera simplificado, es preciso extender la utilización del Documento Común de Entrada para todos los productos de origen no animal destinados a la alimentación animal importados de terceros países.
+
+Dado el carácter marcadamente técnico de esta disposición, y en especial de sus anexos, se prevé la posibilidad de modificación de los mismos por norma con rango de Orden ministerial cuando aquella obedezca a la necesidad de adaptar las mismas a modificación del Derecho de la Unión Europea.
+
+La presente disposición ha sido sometida a consulta de las comunidades autónomas y de las asociaciones representativas de los sectores afectados y ha emitido informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta del Ministro de Agricultura, Alimentación y Medio Ambiente y de la Ministra de Sanidad, Servicios Sociales, e Igualdad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de junio de 2012,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto establecer medidas de aplicación del Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre la comercialización y utilización de los piensos, por el que se modifica el Reglamento (CE) n.º 1831/2003 y se derogan las Directivas 79/373/CEE del Consejo, 80/511/CEE de la Comisión, 82/471/CEE del Consejo, 83/228/CEE del Consejo, 93/74/CEE del Consejo, 93/113/CE del Consejo y 96/25/CE del Consejo y la Decisión 2004/217/CE de la Comisión, así como introducir disposiciones sobre el comercio exterior de los piensos.
+
+## Artículo 2. Definiciones.
+
+A efectos del presente real decreto se aplicarán las definiciones contenidas en el artículo 3 del Reglamento (CE) n.º 767/2009 del Parlamento Europeo y del Consejo, de 13 de julio de 2009.
+
+## Artículo 3. Etiquetado de piensos destinados a la exportación a países terceros.
+
+Para la expedición del certificado sanitario al que se hace referencia en el artículo 14 de la Ley 8/2003, de 24 de abril, de Sanidad Animal, deberán cumplirse los siguientes requisitos:
+
+a) En la etiqueta, o en el documento de acompañamiento, deberán figurar las indicaciones que sean aplicables en, al menos, la lengua española oficial del Estado.
+
+b) Cuando sea de aplicación el segundo párrafo del artículo 12.1 del Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria, deberá presentarse una prueba documental de la conformidad de las autoridades competentes del país de destino para la comercialización del pienso.
+
+c) Todos los piensos destinados a la exportación a los que se refiere el apartado anterior y aquellos que no estén etiquetados conforme a las disposiciones de la normativa comunitaria deberán incluir en la etiqueta o en el documento de acompañamiento la mención «para exportar a…», indicando el país de destino.
+
+## Artículo 4. Piensos destinados a objetivos de nutrición específicos.
+
+**(Derogado).**
+
+> Se deroga, con efectos desde el 28 de enero de 2022, por la disposición derogatoria única.2 del Real Decreto 370/2021 de 25 de mayo de 2021. [Ref. BOE-A-2021-9495](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9495)
+
+## Artículo 5. Solicitud de autorización para el uso de piensos con fines experimentales.
+
+1\. Los órganos competentes de las comunidades autónomas podrán autorizar el uso como aditivos de sustancias que no estén autorizadas en el ámbito comunitario, excepto los antibióticos, con fines experimentales siempre que dichos experimentos se efectúen con arreglo a los principios y condiciones previstas en el Reglamento (CE) n.º 429/2008, de la Comisión, sobre normas de desarrollo para la aplicación del Reglamento (CE) n.º 1831/2003 del Parlamento Europeo y del Consejo, por lo que se refiere a la preparación y presentación de solicitudes y a la evaluación y autorización de aditivos para piensos.
+
+2\. Para obtener dicha autorización, los interesados deberán presentar una solicitud en la que se incluya, como mínimo la información contenida en el anexo II de este real decreto, en la forma en la que lo determine el órgano competente de la comunidad autónoma.
+
+## Artículo 6. Requisitos para la importación de piensos con fines experimentales.
+
+1\. Cuando se desee importar un pienso con fines experimentales, se deberá presentar una solicitud de autorización de la importación a los inspectores adscritos orgánicamente a las Delegaciones y Subdelegaciones del Gobierno, del punto de entrada por el que se va a efectuar la importación, a la que se adjuntará una copia de la autorización expedida por la(s) comunidad(es) autónoma(s) para el uso del pienso experimental.
+
+2\. En la solicitud se incluirá, como mínimo, la información referida en los apartados 1, 2, 3 y 5 del anexo II cuando Esta no figure en la autorización de la comunidad autónoma.
+
+3\. Cuando se trate de piensos medicamentosos, se aplicará lo dispuesto en el Real Decreto 1409/2009, de 4 de septiembre, por el que se regula la elaboración, comercialización, uso y comercialización de los piensos medicamentosos.
+
+4\. Contra la resolución que adopten los inspectores cabrá recurso de alzada ante el Director General de Sanidad de la Producción Primaria del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+## Artículo 7. Etiquetado de piensos destinados a animales de experimentación.
+
+1\. El etiquetado de los piensos compuestos utilizados en experimentos con animales se ajustará a las siguientes disposiciones:
+
+a) Además de la información obligatoria contemplada en el Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, deberá figurar:
+
+1.º La mención «… para experimentación».
+
+2.º El centro de experimentación en el que se va a utilizar el pienso.
+
+b) Se podrá omitir una o más de las declaraciones obligatorias contempladas en el Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, únicamente si se sustituyen por una indicación del tratamiento experimental. En este caso, el centro de experimentación dispondrá de la información necesaria para poder relacionar la codificación de los tratamientos con las declaraciones que se hayan omitido.
+
+2\. Cuando los piensos contengan premezclas medicamentosas en fase de investigación clínica, la mención del apartado 1.a).1.º de este artículo se sustituirá por la indicación contenida en el artículo 7.3 del Real Decreto 1409/2009, de 4 de septiembre.
+
+3\. El etiquetado de los piensos compuestos destinados a animales de experimentación no contemplados en los apartados 1 y 2 de este artículo se ajustará a lo dispuesto en el Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, para los piensos destinados a animales no productores de alimentos.
+
+## Artículo 8. Notificación de alegaciones a la Comisión Europea.
+
+1\. Las dudas sobre la veracidad de las alegaciones efectuadas en el etiquetado en el marco del artículo 13 del Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, las resolverá la Comisión nacional de coordinación en materia de alimentación animal, de acuerdo con lo establecido en el artículo 9.2.d) del Real Decreto 1144/2006, de 6 de octubre, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene de los piensos, a instancias de las autoridades competentes.
+
+2\. En el caso de que la Comisión nacional estime que es necesario proceder a la consulta a la Comisión Europea prevista en el artículo 13.1.b) del reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, el presidente de la Comisión Nacional actuará como punto de contacto con la Comisión Europea.
+
+## Artículo 9. Documento común de entrada.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 20 de enero de 2020, por la disposición derogatoria única del Real Decreto 629/2019, de 31 de octubre. [Ref. BOE-A-2019-16636](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16636)
+
+## Artículo 10. Régimen sancionador.
+
+En caso de incumplimiento de lo dispuesto en este real decreto, en el Reglamento (CE) n.º 1831/2003 del Parlamento Europeo y del Consejo, de 22 de septiembre de 2003, sobre los aditivos en alimentación animal o en el Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, será de aplicación el régimen de infracciones y sanciones establecido en la Ley 8/2003, de 24 de abril, de Sanidad Animal, en la Ley 14/1986, de 25 de abril, General de Sanidad, en la Ley 17/2011, de 5 de julio, de Seguridad Alimentaria y Nutrición y en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+## Disposición transitoria única. Categorías de materias primas en el etiquetado de piensos destinados a animales no productores de alimentos.
+
+Hasta que se apruebe la lista de categorías de materias primas que se pueden declarar en el etiquetado de piensos destinados a animales no productores de alimentos prevista en el artículo 17.4 del Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre la comercialización y utilización de los piensos, por el que se modifica el Reglamento (CE) n.º 1831/2003 y se derogan las Directivas 79/373/CEE del Consejo, 80/511/CEE de la Comisión, 82/471/CEE del Consejo, 83/228/CEE del Consejo, 93/74/CEE del Consejo, 93/113/CE del Consejo y 96/25/CE del Consejo y la Decisión 2004/217/CE de la Comisión, se podrá utilizar la lista incluida en el anexo III de este real decreto a los efectos de lo dispuesto en el artículo 17.2.c) de dicho reglamento.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las siguientes disposiciones:
+
+a) La Orden de 31 de octubre de 1988, relativa a determinados productos utilizados en la alimentación de los animales.
+
+b) La Orden de 4 de julio de 1994, sobre utilización y comercialización de enzimas, microorganismos y sus preparados en la alimentación animal.
+
+c) El Real Decreto 1999/1995, de 7 de diciembre, relativo a los alimentos para animales destinados a objetivos de nutrición específicos.
+
+d) Los artículos 17, 18 y 19 del Real Decreto 2599/1998, de 4 de diciembre, sobre los aditivos en la alimentación de los animales.
+
+e) Los artículos 14 a 16, ambos inclusive, del Real Decreto 3454/2000, de 22 de diciembre, por el que se establece y regula el Programa Integral coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales.
+
+f) El Real Decreto 56/2002, de 18 de enero, por el que se regulan la circulación y utilización de materias primas para la alimentación animal y la circulación de piensos compuestos.
+
+g) El Real Decreto 893/2005, de 22 de julio, por el que se regulan las condiciones de aplicación de la normativa comunitaria sobre los aditivos en la alimentación animal.
+
+h) La Orden de 9 de febrero de 1999, por la que se establece el modelo de documento a que se refiere el punto 4 del artículo 8 del Real Decreto 557/1998, de 2 de abril, y determinadas normas relativas a los controles de los alimentos para animales procedentes de países terceros en el momento de su entrada en España.
+
+## Disposición final primera. Incorporación de la Directiva 2008/38/CE al ordenamiento jurídico español.
+
+Mediante el artículo 5 y el anexo I de este real decreto se incorpora al ordenamiento jurídico español la Directiva 2008/38/CE, de la Comisión, de 5 de marzo de 2008, por la que se establece una lista de usos previstos de los alimentos para animales destinados a objetivos de nutrición específicos.
+
+## Disposición final segunda. Incorporación de la Directiva 82/475/CEE al ordenamiento jurídico español.
+
+Mediante el Anexo III, en los términos en que se regula la disposición transitoria única se incorpora al ordenamiento jurídico español la Directiva 82/475/CEE, de la Comisión, de 23 de junio de 1982, por la que se fijan las categorías de materias primas para la alimentación animal que pueden utilizarse para el etiquetado de los alimentos compuestos para animales domésticos.
+
+## Disposición final tercera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1, reglas 13.ª y 16.ª, de la Constitución, por las que se atribuye al Estado la competencia exclusiva en materia de, respectivamente, bases y coordinación de la planificación general de la actividad económica, y bases y coordinación general de la sanidad, salvo la regulación correspondiente a importaciones y exportaciones, que se dicta al amparo de lo previsto en la regla 16.ª, primer inciso, de la Constitución, que atribuye al Estado la competencia exclusiva en materia de sanidad exterior.
+
+## Disposición final cuarta. Modificación del Real Decreto 1409/2009 de 4 de septiembre, por el que se regula la elaboración, comercialización, uso y control de los piensos medicamentosos.
+
+El Real Decreto 1409/2009, de 4 de septiembre, por el que se regula la elaboración, comercialización, uso y control de los piensos medicamentosos, queda modificado como sigue:
+
+Uno. La letra d) del artículo 2.2 queda redactada en los siguientes términos:
+
+«d) Pienso intermedio medicamentoso: el resultado de la dilución previa de una única premezcla medicamentosa con una materia prima para piensos, y necesariamente destinado a la elaboración final de un pienso medicamentoso. Sólo se podrán añadir a la materia prima para piensos aditivos pertenecientes a la categoría de aditivos tecnológicos contemplados en el artículo 6.a y en el anexo I del Reglamento (CE) n.º 1831/2003, de 22 de septiembre de 2003, sobre los aditivos en la alimentación animal.»
+
+Dos. El anexo I se sustituye por el que figura en el anexo IV de este real decreto.
+
+## Disposición final quinta. Facultad de modificación.
+
+Se faculta al Ministro de Agricultura, Alimentación y Medio Ambiente, y al Ministro de Sanidad, Servicios Sociales e Igualdad, mediante orden conjunta del Ministro de la Presidencia, para modificar los anexos de este real decreto para adaptarlos a la normativa comunitaria.
+
+## Disposición final sexta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 29 de junio de 2012.
+
+JUAN CARLOS R.
+
+La Vicepresidenta del Gobierno y Ministra de la Presidencia,
+
+SORAYA SÁENZ DE SANTAMARÍA ANTÓN
+
+## ANEXO I — Disposiciones aplicables a los piensos destinados a objetivos de nutrición específicos
+
+**(Derogado)**
+
+> Se deroga, con efectos desde el 28 de enero de 2022, por la disposición derogatoria única.2 del Real Decreto 370/2021 de 25 de mayo de 2021. [Ref. BOE-A-2021-9495](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9495)
+
+## ANEXO II — Información mínima para solicitar la autorización de uso de sustancias no autorizadas como aditivos con fines experimentales
+
+1\. Principio activo que se quiere estudiar.
+
+2\. Concentración en los piensos experimentales y cantidad que se prevé utilizar.
+
+3\. Especies y categorías animales de destino, conforme a lo establecido en el Anexo del Reglamento (CE) n.° 42912008, de la Comisión, de 25 de abril de 2008, sobre normas de desarrollo para la aplicación del Reglamento (CE) n.° 1831/2003 del Parlamento Europeo y del Consejo por lo que se refiere a la preparación y presentación de solicitudes y a la evaluación y autorización de aditivos para piensos.
+
+4\. Información disponible sobre la posible presencia de residuos en los tejidos animales.
+
+5\. Centro experimental o explotación ganadera en el que se va a utilizar el aditivo.
+
+6\. Número de de animales que se van utilizar en la experimentación.
+
+7\. Destino previsto de los animales de experimentación.
+
+## ANEXO III — Categorías de «materias primas para piensos» que pueden sustituir la indicación individual de las materias primas para piensos en el etiquetado de piensos compuestos no destinados a animales de producción de alimentos, excepto los de peletería
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Denominación de la categoría</p>
+</td>
+<td>
+<p>Definición</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> 1. Carnes y subproductos animales</p>
+</td>
+<td>
+<p>Todas las partes carnosas de animales terrestres de sangre caliente sacrificados, en estado fresco o conservadas mediante un tratamiento adecuado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todos los productos y subproductos procedentes de la transformación del cuerpo o partes del cuerpo de animales terrestres de sangre caliente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 2. Leche y productos lácteos</p>
+</td>
+<td>
+<p>Todos los productos lácteos , frescos o conservados mediante un tratamiento adecuado, así como los subproductos de su transformación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 3. Huevos y ovoproductos</p>
+</td>
+<td>
+<p>Todos los ovoproductos, frescos o conservados mediante un tratamiento adecuado, así como los subproductos de su transformación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 4. Aceites y grasas</p>
+</td>
+<td>
+<p>Todos los aceites y grasas animales o vegetales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 5. Levaduras</p>
+</td>
+<td>
+<p>Todas las levaduras cuyas células se hayan matado o secado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 6. Pescados y subproductos de pescado</p>
+</td>
+<td>
+<p>Los pescados o partes de pescados, frescos o conservados mediante un tratamiento adecuado, así como los subproductos de su transformación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 7. Cereales</p>
+</td>
+<td>
+<p>Todas las especies de cereales, sea cual fuere su presentación, o los productos obtenidos por la transformación de la semilla harinosa de los cereales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 8. Verduras</p>
+</td>
+<td>
+<p>Todas las especies de verduras y leguminosas, frescas o conservadas mediante un tratamiento adecuado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> 9. Subproductos de origen vegetal</p>
+</td>
+<td>
+<p>Subproductos procedentes del tratamiento de productos vegetales, en particular de cereales, legumbres, leguminosas y semillas oleaginosas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10. Extractos de proteínas vegetales</p>
+</td>
+<td>
+<p>Todos los productos de origen vegetal, cuyas proteínas se hayan concentrado mediante un tratamiento adecuado, que contengan por lo menos un 50 % de proteína bruta en relación a la materia seca y que pueden haber sido reestructuradas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11. Sustancias minerales</p>
+</td>
+<td>
+<p>Todas las sustancias inorgánicas aptas para la alimentación animal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12. Azúcares</p>
+</td>
+<td>
+<p>Todos los tipos de azúcar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13. Frutas</p>
+</td>
+<td>
+<p>Todas las variedades de frutas, frescas o conservadas mediante un tratamiento adecuado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14. Frutos secos</p>
+</td>
+<td>
+<p>Todas las semillas de los frutos de cáscara.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15. Semillas</p>
+</td>
+<td>
+<p>Todas las semillas enteras o molidas groseramente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16. Algas</p>
+</td>
+<td>
+<p>Todas las especies de algas, frescas o conservadas mediante un tratamiento adecuado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17. Moluscos y crustáceos</p>
+</td>
+<td>
+<p>Todos los moluscos crustáceos y mariscos, frescos o conservados mediante un tratamiento adecuado, así como los subproductos de su transformación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18. Insectos</p>
+</td>
+<td>
+<p>Todas las especies de insectos en todas las fases de su desarrollo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19. Productos de panadería</p>
+</td>
+<td>
+<p>Todos los productos de panadería: Pan, pasteles y galletas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO IV — Anexo I del Real Decreto 1409/2009
+
+**(Derogado)**
+
+> Se deroga, con efectos desde el 28 de enero de 2022, por la disposición derogatoria única.2 del Real Decreto 370/2021 de 25 de mayo de 2021. [Ref. BOE-A-2021-9495](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-9495)

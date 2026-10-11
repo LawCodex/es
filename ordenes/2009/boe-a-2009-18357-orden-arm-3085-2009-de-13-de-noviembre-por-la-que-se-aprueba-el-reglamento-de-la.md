@@ -1,0 +1,145 @@
+---
+title: "Orden ARM/3085/2009, de 13 de noviembre, por la que se aprueba el Reglamento de la Orden Civil del Mérito Medioambiental"
+identifier: "BOE-A-2009-18357"
+eli: "https://www.boe.es/eli/es/o/2009/11/13/arm3085"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Medio Ambiente, y Medio Rural y Marino"
+date: 2009-11-13
+published: 2009-11-18
+in_force_from: 2009-11-19
+last_amended: 2013-12-21
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 278"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-18357"
+retrieved: 2026-10-11
+---
+
+# Orden ARM/3085/2009, de 13 de noviembre, por la que se aprueba el Reglamento de la Orden Civil del Mérito Medioambiental
+
+El Real Decreto 1036/2009, de 29 de junio, por el que se crea la Orden Civil del Mérito Medioambiental, procede a la creación de la Orden Civil del Mérito Medioambiental, con el fin de premiar aquellas actuaciones meritorias en favor del medio ambiente.
+
+La Orden Civil del Mérito Medioambiental pretende distinguir a aquellas personas que hayan prestado servicios eminentes o hayan tenido una destacada actuación para la conservación de la naturaleza y protección del patrimonio natural y de la biodiversidad, la lucha contra el cambio climático, la calidad ambiental, la defensa y promoción de la sostenibilidad de los recursos hídricos marinos y continentales, y en general en defensa del medio ambiente.
+
+Mediante la presente orden se aprueba el Reglamento de la Orden Civil del Mérito Medioambiental, por el que se regula el procedimiento de otorgamiento de cada una de las categorías de las que consta la Orden.
+
+En su disposición final primera, faculta al titular del Ministerio de Medio Ambiente, y Medio Rural y Marino para dictar el Reglamento de la Orden Civil del Mérito Medioambiental y para el desarrollo y aplicación del referido Real Decreto.
+
+En su virtud, dispongo:
+
+## Artículo único. Aprobación del Reglamento de la Orden Civil del Mérito Medioambiental.
+
+Se aprueba el Reglamento de la Orden Civil del Mérito Medioambiental, cuyo texto se incluye a continuación.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 13 de noviembre de 2009.–La Ministra de Medio Ambiente, y Medio Rural y Marino, Elena Espinosa Mangana.
+
+## REGLAMENTO DE LA ORDEN CIVIL DEL MÉRITO MEDIOAMBIENTAL
+
+## Artículo 1. Objeto.
+
+La Orden Civil del Mérito Medioambiental tiene como objeto premiar a las personas que hayan prestado servicios eminentes o hayan tenido destacada actuación, en cualquiera de sus manifestaciones, para la conservación de la naturaleza y protección del patrimonio natural y de la biodiversidad, la lucha contra el cambio climático, la calidad ambiental, la defensa y promoción de la sostenibilidad de los recursos hídricos marinos y continentales, y en general en defensa del medio ambiente.
+
+## Artículo 2. Carácter personal de la Orden.
+
+En todo caso, la distinción y tratamientos regulados en el presente reglamento tienen carácter personal e intransferible.
+
+## Artículo 3. Categorías.
+
+1\. La Orden constará de las siguientes categorías:
+
+a) Gran Cruz.
+
+b) Encomienda de Número.
+
+c) Encomienda.
+
+d) Cruz de Oficial.
+
+e) Cruz.
+
+f) Medalla de Bronce.
+
+2\. Asimismo existirá dentro de la Orden una categoría especial, con la denominación Placa al Mérito Medioambiental, para premiar a Corporaciones, Instituciones y otras personas jurídicas, públicas o privadas, que hayan desarrollado una destacada labor en cualquiera de los ámbitos a que se refiere el artículo 1 del Real Decreto 1036/2009, de 29 de junio, por la que se crea la Orden Civil del Mérito Medioambiental. La Placa podrá ser de oro, plata o bronce.
+
+## Artículo 4. Características de las insignias.
+
+1\. Las insignias que ostentarán los distinguidos con las diversas categorías de esta Orden habrán de ajustarse a la descripción y reglas siguientes:
+
+a) Grandes Cruces. Las insignias de esta categoría consistirán en una banda de seda de color verde y azul, de 101 milímetros, de ancho, terciada desde el hombro derecho al costado izquierdo, unida en sus extremos con una roseta de la misma clase de la que penderá la Cruz en oro de la Orden. Esta Cruz será de 48 por 50 milímetros, ornamentada por rayos esmaltados de color verde y grabada sobre un círculo de oro destacarán un árbol principal, acompañado de dos esquejes en los laterales, protegidos por una estacas que facilitan su crecimiento. En la parte inferior del círculo y en una faja de esmalte blanco que rodea a aquél, se leerá en letras capitales la inscripción: Mérito Medioambiental. Sobre este círculo irá la Corona Real y arrancando de ella, de uno y otro lado, en forma de collar se enlazarán los signos del Zodíaco; en la parte inferior irá el Escudo de España, de suerte que su extremo superior aparezca superpuesto en la faja de esmalte blanco y dividiendo la inscripción Mérito Medioambiental. A derecha e izquierda del Escudo arrancarán por un lado una rama de vid y por el otro unas espigas de trigo.
+
+Sobre el lado izquierdo del pecho se ostentará la placa de oro de la Orden, de 74 por 77 milímetros de igual diseño que la Cruz anteriormente descrita.
+
+Con el fin de facilitar el acto material de colocación del distintivo, éste último podrá ser sustituido, si así lo decidiera la persona distinguida con el mismo, por una insignia con las dimensiones siguientes: placa, de 61 por 63 milímetros, banda, de 45 milímetros de ancho, y venera de 38 por 42 milímetros.
+
+b) Encomienda de Número. Las insignias correspondientes a la Encomienda de Número, consistirán en una placa de plata de igual tamaño, forma y alegoría que la correspondiente a la Gran Cruz que se ostentarán sobre el lado izquierdo del pecho.
+
+Con el fin de facilitar el acto material de colocación del distintivo, éste último podrá ser sustituido, si así lo decidiera la persona distinguida con el mismo, por una insignia con el tamaño reducido a 56 por 58 milímetros.
+
+c) Encomiendas. Las insignias de las Encomiendas del Mérito Medioambiental consistirán en una Cruz de oro de igual forma y alegoría que la de la correspondiente a la Gran Cruz, dimensiones de 59 por 61 milímetros que se llevarán colgadas al cuello, pendientes de una cinta de seda verde y azul de igual matiz que la banda y de 45 milímetros de ancho.
+
+Con el fin de facilitar el acto material de colocación del distintivo, éste último podrá ser utilizado, si así lo decidiera la persona distinguida con el mismo, sustentándolo de un lazo doble con caídas, con los colores de la Orden y portarlo, a modo de broche, sobre el lado izquierdo del pecho.
+
+d) Cruces de Oficial. Las insignias de las Cruces de Oficial del Mérito Medioambiental consistirán en una Cruz de oro de forma y alegoría análogas a la de la correspondiente Encomienda, y dimensiones de 49 por 51 milímetros que se usarán mediante una cinta de 30 milímetros de ancho de los colores de la Orden, prendidas en el lado izquierdo del pecho por un pasador hebilla de metal dorado.
+
+Con el fin de facilitar el acto material de colocación del distintivo, éste último podrá ser utilizado, si así lo decidiera la persona distinguida con el mismo, con el tamaño reducido a 38 por 42 milímetros, sustentado con un lazo doble, con caídas, con los colores de la Orden y portarlo, a modo de broche, sobre el lado izquierdo del pecho.
+
+e) Cruces sencillas. Las insignias de estas categorías consistirán en una cruz de plata de iguales dimensiones y forma que la respectiva Cruz de Oficial, utilizándose de igual manera que la misma.
+
+Con el fin de facilitar el acto material de colocación del distintivo, éste último podrá ser utilizado, si así lo decidiera la persona distinguida con el mismo, con el tamaño reducido a 38 por 42 milímetros, sustentado con un lazo doble, con caídas, con los colores de la Orden y portarlo, a modo de broche, sobre el lado izquierdo del pecho.
+
+f) Medalla de bronce. Las insignias de estas categorías serán idénticas a la de la respectiva Cruz sencilla, pero la Cruz será en bronce sin esmalte alguno utilizándose de igual manera que las de Oficial y Sencilla.
+
+Con el fin de facilitar el acto material de colocación del distintivo, éste último podrá ser utilizado, si así lo decidiera la persona distinguida con el mismo, con el tamaño reducido a 38 por 42 milímetros, sustentado con un lazo doble, con caídas, con los colores de la Orden y portarlo, a modo de broche, sobre el lado izquierdo del pecho.
+
+2\. Las condecoraciones que preceden podrán ser usadas en tamaño reducido y en miniatura para la solapa.
+
+3\. La Placa al Mérito Medioambiental será de forma rectangular, de 20 centímetros de largo por 15 centímetros de anchura e irá montada sobre un tablero de madera barnizada de 27 por 27 centímetros. El metal constitutivo de la Placa será, según su categoría, dorado, plateado o de bronce, con el grosor necesario para admitir las inscripciones que irán detalladas con buril y rellenos los huecos con el metal correspondiente.
+
+En el anverso de la Placa figurará el Emblema de la Sección grabado y la siguiente inscripción: Placa de (oro, plata o bronce) al Mérito Medioambiental otorgada a (nombre de la Entidad) por (Real Decreto u Orden) de (fecha). Al pie se hará constar Ministerio de Agricultura, Alimentación y Medio Ambiente, España.
+
+> Se modifica por el art. único de la Orden AAA/2394/2013, de 18 de diciembre. [Ref. BOE-A-2013-13433](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13433).
+
+## Artículo 5. Méritos.
+
+Se considerarán como méritos para que pueda ser propuesta la concesión de la Orden los siguientes:
+
+a) La fundación o mantenimiento de instituciones de investigación, enseñanza o divulgación en la conservación de la naturaleza y protección del patrimonio natural y de la biodiversidad.
+
+b) La lucha contra el cambio climático y la calidad ambiental.
+
+c) La defensa y promoción de la sostenibilidad de los recursos hídricos marinos y continentales.
+
+d) La defensa del medioambiente.
+
+## Artículo 6. Inicio del procedimiento de concesión.
+
+El procedimiento para la concesión de la Orden podrá iniciarse:
+
+1.º De oficio, por acuerdo del titular del Ministerio de Medio Ambiente y Medio Rural y Marino, adoptado por propia iniciativa o por moción razonada que al mismo se dirija.
+
+2.º A instancia de representantes legales de Corporaciones, Instituciones y Asociaciones o cualesquiera Entidades, mediante escrito en el que se hará constar suficientemente los méritos y circunstancias relevantes que concurran en la persona propuesta.
+
+## Artículo 7. Procedimiento de concesión.
+
+1\. El procedimiento de concesión será tramitado e informado por la Secretaría de la Orden.
+
+2\. La Concesión de las distintas categorías de la Orden se realizará conforme a lo dispuesto en el artículo 3 del Real Decreto 1036/2009, de 29 de junio.
+
+3\. El número de Grandes Cruces del Mérito Medioambiental no podrá exceder de 50, sin incluir los extranjeros, y el de Encomiendas de Número de 250, igualmente sin incluir los extranjeros.
+
+4\. Por el Ministerio de Medio Ambiente y Medio Rural y Marino se expedirán los correspondientes diplomas a los interesados.
+
+5\. El acto de imposición de las condecoraciones será adecuado en cada ocasión a las circunstancias que concurran, cuidando siempre de que queda suficientemente resaltado el carácter honorífico y de público reconocimiento que el mismo tiene.
+
+## Artículo 8. Consejo.
+
+1\. Para la representación oficial y entender en todos los asuntos relacionados con la Orden, habrá un Consejo presidido por el titular del Ministerio de Medio Ambiente y Medio Rural y Marino, como Gran Canciller, e integrado por un Vicepresidente, como Canciller y tres Vocales, todos ellos nombrados por el titular del Departamento; formará parte del Consejo, como Fiscal de la Orden, el Jefe del Servicio Jurídico del Estado en el Departamento.
+
+2\. Será Secretario/a del Consejo el titular de la Dirección General de Servicios del Departamento.

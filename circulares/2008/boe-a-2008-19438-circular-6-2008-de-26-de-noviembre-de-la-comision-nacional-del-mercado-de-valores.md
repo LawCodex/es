@@ -1,0 +1,355 @@
+---
+title: "Circular 6/2008, de 26 de noviembre, de la Comisión Nacional del Mercado de Valores, sobre la determinación del valor liquidativo y aspectos operativos de las instituciones de inversión colectiva"
+identifier: "BOE-A-2008-19438"
+eli: "https://www.boe.es/eli/es/cir/2008/11/26/6"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Comisión Nacional del Mercado de Valores"
+date: 2008-11-26
+published: 2008-12-02
+in_force_from: 2008-12-31
+last_amended: 2025-03-17
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 290"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-19438"
+retrieved: 2026-10-11
+---
+
+# Circular 6/2008, de 26 de noviembre, de la Comisión Nacional del Mercado de Valores, sobre la determinación del valor liquidativo y aspectos operativos de las instituciones de inversión colectiva
+
+El Reglamento de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, aprobado por el Real Decreto 1309/2005, de 4 de noviembre (en adelante Reglamento de IIC), habilita en sus artículos 48.9 y 51.3 a la CNMV para establecer reglas específicas para el cálculo del valor liquidativo de Fondos de Inversión y Sociedades de Inversión Mobiliaria de Capital Variable respectivamente. Por otra parte, el artículo 38.10 del Reglamento de IIC habilita al Ministro de Economía y Hacienda, y con su habilitación expresa, a la CNMV, para dictar normas precisas con el objeto de determinar qué ha de entenderse por patrimonio de la IIC. Esta habilitación expresa se encuentra recogida en el artículo 3 de la Orden EHA/35/2008, de 14 de enero. En cuanto a las IIC inmobiliarias, el apartado 3 del artículo 10 de la Orden del Ministerio de Economía y Hacienda, de 24 de septiembre de 1993, sobre fondos y sociedades de inversión inmobiliarias, modificada por la Orden EHA/3064/2008, de 28 de octubre de 2008, habilita a la CNMV para la determinación del patrimonio de las IIC inmobiliarias, así como para establecer las reglas específicas para el cálculo del valor liquidativo de los fondos de inversión inmobiliaria. Haciendo uso de estas habilitaciones, la presente Circular establece en su sección Primera las disposiciones necesarias para asegurar el correcto cálculo del patrimonio y valor liquidativo de las IIC, especialmente en el caso de existencia de clases de participaciones o series de acciones que, hasta la fecha, carecían de regulación.
+
+Por otra parte, el artículo 5.12 del Reglamento de IIC habilita al Ministro de Economía y Hacienda, y con su habilitación expresa, a la CNMV, para dictar las disposiciones necesarias para el desarrollo de dicho artículo sobre los gastos y comisiones de las IIC. A estos efectos, la Disposición Adicional Única de la Orden EHA/1199/2006, de 25 de abril, habilita a la CNMV para dictar las disposiciones necesarias en relación a la imputación de la comisión de gestión sobre resultados prevista en el artículo 5 del Reglamento de IIC. A ello se dedica la sección Segunda de esta Circular, en la que se recogen los parámetros generales por los que se deben regir los sistemas de cargo individual a partícipes de esta comisión.
+
+La sección Tercera, haciendo uso de las habilitaciones contenidas en el mencionado artículo 38.10 del Reglamento de IIC y en el artículo 41.1 del mismo, así como las habilitaciones contenidas en el artículo 3 de la Orden EHA/35/2008, precisa el cálculo del coeficiente de obligaciones frente a terceros y de ciertos coeficientes de diversificación de las IIC de carácter financiero.
+
+En la sección Cuarta se dictan las disposiciones necesarias para el desarrollo y control del cumplimiento de los coeficientes y límites operativos de las IIC inmobiliarias. Además, se desarrolla el concepto de patrimonio inmobiliario y las reglas adicionales necesarias para la distribución de los bienes inmuebles en el calendario de tasaciones referido en el artículo 63.4 del Reglamento de IIC. Todo ello, en base a la habilitación contenida en el apartado 10 del artículo 4 de la Orden del Ministerio de Economía y Hacienda, de 24 de septiembre de 1993, sobre fondos y sociedades de inversión inmobiliarias, modificada por la Orden EHA/3064/2008, de 28 de octubre de 2008.
+
+Por último, en la sección Quinta, por un lado, en virtud de las habilitaciones contenidas en el artículo 38.2.d) del Reglamento de IIC y del artículo 4 de la Orden Ministerial EHA/35/2008, se precisan los requisitos de las IIC que replican o reproducen un índice en lo relativo al establecimiento de una desviación máxima o «tracking error» respecto a dicho índice; por otro lado, en virtud de la habilitación contenida en el artículo 38.2.e) del Reglamento de IIC, se detallan las disposiciones relativas a las IIC cuya política de inversión toma como referencia un determinado índice en relación a la desviación máxima respecto a ese índice, que deberá medirse de acuerdo a un coeficiente de correlación.
+
+En su virtud, el Consejo de la Comisión Nacional del Mercado de Valores, en su reunión de 26 de noviembre de 2008, ha dispuesto:
+
+## Sección primera. Determinación del valor liquidativo de las IIC
+
+### Norma 1.ª Disposiciones generales sobre el valor liquidativo de las IIC.
+
+1\. Las IIC calcularán el valor liquidativo de sus participaciones y acciones de acuerdo con las siguientes reglas:
+
+a) Los fondos de inversión y sociedades de inversión de capital variable de carácter financiero calcularán su valor liquidativo diariamente, de acuerdo con lo previsto en el artículo 78.1 del Reglamento de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, aprobado por el Real Decreto 1082/2012, de 13 de julio (en adelante, Reglamento de IIC). Se podrá establecer en el folleto explicativo de la institución (en adelante, Reglamento de IIC). Se podrá establecer en el folleto explicativo de la institución otra frecuencia de cálculo del valor liquidativo, siempre que éste se calcule, al menos, cada quince días, de acuerdo con el artículo 78.3 del Reglamento de IIC.
+
+b) En las IIC de Inversión Libre, reguladas en el artículo 73 del Reglamento de IIC, e IIC de IIC de Inversión Libre, reguladas en el artículo 74 de dicho Reglamento, la periodicidad de cálculo del valor liquidativo a efectos de atender las operaciones de suscripción y reembolso será al menos trimestral. Dicha periodicidad podrá ser semestral cuando así lo exijan las inversiones previstas. No obstante, ambos tipos de instituciones estarán obligadas a calcular su valor liquidativo al menos con carácter mensual, aplicando las disposiciones de la presente Circular, a los efectos de informar a la CNMV en los estados reservados correspondientes. Para este cálculo al menos mensual deberán tener en cuenta las últimas valoraciones disponibles y las correspondientes periodificaciones.
+
+c) En los fondos de inversión inmobiliaria se calculará con la frecuencia establecida en el folleto, que deberá ser al menos mensualmente, según se establece en el artículo 93.3 del Reglamento de IIC.
+
+2\. Cuando en el fondo de inversión o sociedad de inversión de capital variable existan compartimentos, se calculará un valor liquidativo para cada uno de los compartimentos, sin perjuicio de lo dispuesto en el apartado siguiente.
+
+3\. Cuando en el fondo de inversión o sociedad de inversión de capital variable o en sus compartimentos existan clases de participaciones o series de acciones respectivamente, el valor liquidativo se calculará para cada clase o serie.
+
+4\. El valor liquidativo de la participación de los fondos de inversión o de la acción de las sociedades de inversión de capital variable, o de sus compartimentos o clases/series en su caso, resultará de dividir el patrimonio correspondiente entre el número de participaciones o acciones en circulación en la fecha de referencia.
+
+> Se modifica el apartado 1 por la norma primera.1 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+> Redactada la disposición final única sobre la entrada en vigor de la citada Circular conforme a la corrección de errores publicada en BOE núm. 80, de 2 de abril de 2025.
+
+### Norma 2.ª Cálculo del valor liquidativo de una IIC.
+
+1\. El valor del patrimonio de una IIC será el resultado de deducir las cuentas acreedoras de la suma de todos sus activos, valorados con sujeción a las normas contenidas en el Reglamento de IIC y normativa de desarrollo.
+
+2\. A efectos del cálculo del patrimonio de la IIC definido en el apartado anterior, se computarán las partidas recogidas en los modelos de estados reservados T01 y TI01 (Distribución del patrimonio de IIC financieras e IIC inmobiliarias, respectivamente).
+
+3\. Asimismo, el patrimonio también podrá computarse de acuerdo a la cifra de «Patrimonio atribuido a partícipes o accionistas» del balance de la IIC. En el caso de las sociedades de inversión, se descontarán los saldos de la cuenta «Socios por desembolsos exigidos» del epígrafe «Deudores» del Activo y, cuando proceda, el patrimonio será ajustado por los dividendos activos contabilizados hasta la fecha ex-dividendo.
+
+4\. El valor liquidativo de un fondo de inversión o de una sociedad de inversión de capital variable será el cociente entre el patrimonio calculado de acuerdo a lo establecido anteriormente y el número de participaciones o acciones, descontando las acciones propias, de la fecha de referencia. A los solos efectos del cálculo del valor liquidativo, no se tendrán en cuenta en el patrimonio las suscripciones y reembolsos, o la recompra y puesta en circulación de acciones, a las que se deba aplicar el valor liquidativo así calculado o siguientes. Los descuentos a favor de la IIC en suscripciones o reembolsos, y gastos de compraventa de las acciones de la Sociedad de Inversión de Capital Variable, se tendrán en cuenta en el siguiente valor liquidativo que corresponda.
+
+5\. En caso de existencia de compartimentos, el cálculo del valor liquidativo del compartimento se realizará de acuerdo a lo señalado en los apartados anteriores de esta Norma, referidos cada uno de los conceptos a la parte del patrimonio atribuida al compartimento. A estos efectos se tendrán en cuenta los estados T01 y TI01 referidos al compartimento, según el apartado 2 de esta Norma, o el «Patrimonio atribuido a partícipes o accionistas» del balance del compartimento, de acuerdo al apartado 3.
+
+### Norma 3.ª Cálculo del valor liquidativo de clases de participaciones o series de acciones.
+
+1\. Cuando en un fondo de inversión o SICAV, o en sus compartimentos, existan clases de participaciones o series de acciones, el cálculo del valor liquidativo se realizará de acuerdo a los siguientes pasos:
+
+(i) En primer lugar se calculará el valor del patrimonio previo de la IIC o compartimento, entendiendo como dicho patrimonio previo el valor del patrimonio calculado de acuerdo con la Norma 2.ª, pero anterior a la imputación de las comisiones de gestión y depósito de las clases o series, a la imputación del efecto fiscal en las clases o series por el impuesto sobre beneficios de la IIC, a la distribución de dividendos en su caso, los descuentos a favor de la IIC en suscripciones y reembolsos o gastos de compraventa asociados a estas operaciones que corresponda tener en cuenta y a la incorporación de las suscripciones y reembolsos, o la recompra y puesta en circulación de acciones, a las que se deba aplicar el valor liquidativo así calculado o siguientes.
+
+(ii) A continuación, se calculará el patrimonio previo atribuido a la clase o serie, que será la parte del patrimonio previo de la IIC o compartimento calculada en el paso anterior que le corresponde a la clase o serie en función del peso relativo del patrimonio final de la clase o serie respecto al último patrimonio final calculado de la IIC o compartimento.
+
+(iii) Seguidamente se calcularán las comisiones de gestión y depósito imputables a cada clase o serie. Los resultados antes de impuestos de las clases o series se determinarán teniendo en cuenta sus comisiones específicas y su participación, de acuerdo a la proporción del paso (ii) anterior, en el resultado agregado antes de comisiones e imputación del efecto fiscal, de la IIC o compartimento.
+
+(iv) La suma o agregación de los resultados individuales antes de impuestos de las clases o series determinará el gasto por impuesto sobre beneficios de la IIC o el efecto fiscal del compartimento, que se calculará de acuerdo a lo establecido en las normas contables de aplicación a las IIC.
+
+(v) El gasto por el impuesto sobre beneficios o efecto fiscal derivado de la compensación fiscal entre compartimentos, se distribuirán proporcionalmente entre las distintas clases o series en función del resultado de las mismas calculado en el paso (iii) anterior, de modo que la suma de los distintos saldos asignados a las clases o series, con sus correspondientes signos según las clases o series tengan beneficios o pérdidas, de lugar al saldo total distribuido.
+
+(vi) El valor liquidativo de la clase o serie será el cociente entre el patrimonio previo atribuido a la clase o serie después de la imputación de las comisiones, del efecto fiscal correspondiente y de los dividendos distribuidos en su caso, y el número de participaciones o acciones, descontando las acciones propias, de la fecha de referencia. A los solos efectos del cálculo del valor liquidativo, no se tendrán en cuenta en el patrimonio las suscripciones y reembolsos, o la recompra y puesta en circulación de acciones, a las que se deba aplicar el valor liquidativo así calculado o siguientes. Los descuentos a favor de la IIC en suscripciones o reembolsos, y gastos de compraventa de las acciones de la Sociedad de Inversión de Capital Variable, se tendrán en cuenta en el siguiente valor liquidativo que corresponda.
+
+(vii) Por último, el patrimonio final de la clase o serie se calculará incorporando a la cifra de patrimonio mencionada en el paso (vi) anterior las suscripciones y reembolsos, o recompra o puesta en circulación de acciones a las que se deba aplicar el valor liquidativo así calculado o siguientes.
+
+2\. Cuando existan clases de participaciones o series de acciones en una divisa distinta a la divisa de denominación de la IIC, el cálculo descrito en el apartado anterior se realizará utilizando ésta última como unidad de cuenta, sin perjuicio de la conversión final del valor liquidativo a la divisa de la clase o serie. Esta conversión deberá realizarse a un tipo de cambio representativo de acuerdo a lo que se establezca en los procedimientos internos de la gestora, teniendo en cuenta la vocación inversora del fondo. La sociedad gestora o sociedad de inversión deberá dotarse de un procedimiento expreso de control sobre la conversión, que evite los conflictos de interés entre partícipes o accionistas.
+
+## Sección segunda. Comisión de gestión sobre resultados
+
+### Norma 4.ª Determinación de la comisión de gestión sobre resultados.
+
+1\. La sociedad gestora, cuando haya establecido una comisión de gestión sobre resultados de conformidad con lo previsto en el artículo 5.3 del Reglamento de IIC, imputará a la IIC dicha comisión de acuerdo con el sistema de cálculo y el periodo de referencia de rentabilidad establecidos en su folleto. En todo caso, el establecimiento y la aplicación de la comisión deberá cumplir con lo previsto en las Directrices de ESMA sobre las comisiones de gestión sobre resultados en OICVM y ciertos tipos de FIA (ESMA34-39-992 ES) o en cualesquiera otras que las sustituyan o modifiquen en el futuro, siempre que la CNMV haya confirmado a ESMA su cumplimiento o la intención de cumplirlas de acuerdo con lo establecido en el artículo 16 del Reglamento (UE) número 1095/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre, por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados).
+
+2\. El devengo en firme o cristalización de la comisión de gestión sobre resultados será a fin de año, siempre que se cumplan las condiciones previstas en folleto, sin perjuicio de la periodificación que corresponda de la comisión. En todo caso la cristalización deberá tener lugar trascurridos como mínimo 12 meses desde la creación del fondo o sociedad, o desde el establecimiento de dicha comisión.
+
+3\. La gestora podrá establecer un sistema de cargo individual a cada partícipe de la comisión de gestión sobre resultados, pudiendo aplicar una de las dos siguientes alternativas:
+
+i) Que la comisión sea abonada directamente por el participe o accionista a la gestora.
+
+ii) Que la comisión se impute directamente a la IIC. En este caso, la gestora podrá optar por aplicar cualquiera de los siguientes métodos o combinaciones de ellos: emisión de nuevas clases de participaciones o acciones, saldos adicionales y ajuste por suscripciones y reembolsos de participaciones o acciones. En todo caso, la gestora podrá optar por otro método distinto siempre que se iguale o mejore la equidad entre participes o accionistas.
+
+En todo caso los sistemas de cargo individual deberán cumplir con las Directrices de ESMA sobre las comisiones de gestión sobre resultados en OICVM y ciertos tipos de FIA (ESMA34-39-992) o en cualesquiera otras que las sustituyan o modifiquen en el futuro, siempre que la CNMV haya confirmado a ESMA su cumplimiento o la intención de cumplirlas de acuerdo con lo establecido en el artículo 16 del Reglamento (UE) número 1095/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre, por el que se crea una Autoridad Europea de Supervisión (Autoridad Europea de Valores y Mercados).
+
+4\. En caso de fusiones, escisiones o disoluciones, el devengo en firme o cristalización de la comisión de gestión sobre resultados se realizará de acuerdo con lo dispuesto en esta Norma en la fecha en la que las mismas tengan lugar. También se permitirá el devengo en firme o cristalización de la comisión de resultados en caso de sustitución de sociedad gestora, cambio de política de inversión de la IIC y eliminación de la comisión de gestión sobre resultados.
+
+5\. Las referencias a la IIC contenidas en la presente Norma se entenderán realizadas a los compartimentos o clases de participaciones o participaciones cuando tengan establecida una comisión de gestión sobre resultados.
+
+> Se modifica por la norma primera.2 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+### Norma 5.ª Primera aplicación de la comisión de gestión sobre resultados.
+
+1\. En el primer ejercicio en que se aplique la comisión de gestión sobre resultados, el inicio del periodo de referencia de rentabilidad tendrá lugar el día de la inscripción en el registro de la CNMV del folleto en el que figure dicha comisión.
+
+2\. En el supuesto de que la comisión de gestión sobre resultados se impute a cada partícipe o accionista individualmente siendo abonada por éste directamente a la gestora, el inicio del periodo de referencia de rentabilidad será el correspondiente a la fecha de la primera suscripción o adquisición, caso de estar ya establecida la comisión de gestión sobre resultados.
+
+> Se modifica por la norma primera.3 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+## Sección tercera. Coeficientes operativos de IIC de carácter financiero
+
+### Norma 6.ª Coeficientes de diversificación del riesgo.
+
+1\. El patrimonio al que alude el artículo 50 y 51 del Reglamento de IIC y que constituye el denominador de los coeficientes de diversificación del riesgo recogidos en dicho artículo será el contemplado en la Norma 2.ª 1 de la presente Circular.
+
+2\. En caso de que existan compartimentos, los coeficientes de diversificación del riesgo recogidos en el artículo 50 y 51 del Reglamento de IIC se medirán a nivel de compartimento.
+
+3\. La exposición al riesgo de mercado del activo subyacente de instrumentos financieros derivados que debe tomarse en cuenta, según el artículo 52.4 del Reglamento de IIC para el cumplimiento de los coeficientes de diversificación del apartado 2 del artículo 50 y de los apartados 1, 4, 5 y 6 del artículo 51 de dicho Reglamento, se medirá de acuerdo con el valor de mercado de ese subyacente tal y como se define en la normativa que resulta de aplicación para el cálculo del límite por compromiso en estas operaciones de la IIC. Con carácter general, y de acuerdo con esta normativa, se tendrá en cuenta la delta en caso de que este parámetro resulte adecuado como medida de sensibilidad del instrumento en los términos que establece la Orden ECO EHA/888/2008, de 27 de marzo, sobre operaciones de las IIC financieras con instrumentos financieros derivados.
+
+4\. Los límites previstos en el artículo 51.2 del Reglamento de IIC respecto a los valores en circulación de una entidad se medirán separadamente, distinguiendo valores representativos de deuda e instrumentos de patrimonio. Para los primeros los límites se medirán considerando los valores nominales, y para los segundos el número de valores o títulos, que serán objeto de ponderación si coexisten distintos nominales.
+
+5\. Los saldos de efectivo, depósitos y cuentas a la vista, deberán ser tenidos en cuenta en la aplicación de las limitaciones por diversificación del riesgo del artículo 51. Lo anterior no será de aplicación en el plazo de un mes desde la inscripción en el registro de la CNMV del que se dispone para efectuar la inversión de las aportaciones dinerarias obtenidas con motivo de constitución de la IIC, de acuerdo con el artículo 77 de dicho Reglamento.
+
+> Se modifica por la norma primera.4 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+### Norma 6ª bis. Coeficiente de liquidez.
+
+**(Suprimida)**
+
+> Se suprime por la norma primera.5 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+> Se añade por la norma final 2 de la Circular 4/2016, de 29 de junio. [Ref. BOE-A-2016-6646](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6646).
+
+### Norma 7.ª Coeficiente de obligaciones frente a terceros.
+
+1\. El límite de obligaciones frente a terceros al que hace referencia el artículo 71 del Reglamento de IIC, se calculará como el cociente entre el total de saldos por deudas frente a entidades de crédito, contraídas para resolver dificultades transitorias de tesorería siempre que no superen el plazo de un mes o por adquisición de activos con pago aplazado, así como los saldos derivados de otras operaciones que tengan la misma finalidad, y el patrimonio de la institución al que hace referencia la Norma 2.ª 1 anterior. En ningún caso se incluirán los saldos acreedores por comisiones, los saldos acreedores de naturaleza tributaria o relativos al Impuesto de Sociedades, y los saldos acreedores resultantes de la liquidación según los usos del mercado de operaciones de inversión o del reembolso de las participaciones o recompra de acciones propias.
+
+2\. En caso de que existan compartimentos, el coeficiente se medirá a nivel de compartimento.
+
+> Se modifica el apartado 1 por la norma primera.6 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+> Se modifica el apartado 1 por la disposición adicional tercera.1 de la Circular 6/2010, de 21 de diciembre. [Ref. BOE-A-2011-551](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-551).
+
+## Sección cuarta. Coeficientes, límites operativos y definición de conceptos de IIC inmobiliarias
+
+### Norma 8.ª Cuestiones generales.
+
+1\. Nivel de cálculo de los coeficientes y límites operativos: En caso de que existan compartimentos los coeficientes y límites operativos desarrollados en esta sección se medirán a nivel de compartimento. En caso contrario, la medición se realizará a nivel de IIC.
+
+2\. Periodicidad de cálculo y cumplimiento de los coeficientes y límites operativos:
+
+i) El cálculo del coeficiente de inversión en inmuebles establecido en el apartado 1 (90 % para SII) y 2.ª (70 % para FII) del artículo 90 del Reglamento de IIC, se realizará a finales de cada año, como media de los saldos al final de cada mes del ejercicio.
+
+ii) Los coeficientes y límites señalados en las Normas 10.ª (Coeficientes de diversificación), 11.ª 2 (Límites a la compra de opciones de compra), 11.ª 3 (Inversiones a través de inmuebles en fase de construcción, compra sobre plano y de compromisos de compra), 11.ª 4 (Inmuebles arrendados a socios y partícipes) y 11.ª 5 (inmuebles adquiridos a entidades del mismo grupo de la IIC o del grupo de su sociedad gestora) de esta Circular deberán cumplirse en el momento de la firma, y en su caso renovación, del contrato que de lugar o pueda dar lugar al hecho limitado.
+
+iii) Los límites al endeudamiento y financiación ajena señalados en la Norma 11.ª 6 no podrán superarse en ningún momento, con la excepción señalada en el apartado 5.iv) de este artículo.
+
+iv) El coeficiente de liquidez del 10 % establecido para los FII en el artículo 90.2.b) del Reglamento de IIC se calculará el día de fijación del valor liquidativo que sea de aplicación a los reembolsos como un promedio diario de los saldos a considerar en el mes en curso. Si el valor liquidativo a aplicar no fuese el del último día del mes, se considerarán los saldos de los últimos treinta días naturales y su correspondiente media.
+
+3\. Referencia a utilizar como denominador: Con la excepción de los casos concretos señalados, como denominador de todos los coeficientes y límites establecidos en esta Sección se considerará el último patrimonio calculado, que no podrá ser más distante al del mes anterior al del momento de cumplimiento del límite o coeficiente.
+
+4\. Consideración de las inversiones indirectas en el cálculo de limitaciones operativas: En el cálculo del coeficiente que limita los inmuebles y derechos arrendados a un mismo grupo (Norma 10.ª 2), y en los límites a inmuebles arrendados a socios o partícipes (Norma 11.ª 4) e inmuebles adquiridos a entidades del mismo grupo de la IIC o del grupo de su sociedad gestora (Norma 11.ª 5) se considerarán las inversiones directas e indirectas en inmuebles, tanto a través de entidades de arrendamiento como de sociedades a las que se hace referencia en el artículo 86.1.a) del Reglamento de IIC, y en las que, en ambos casos, se tenga una participación de control.
+
+5\. Periodo transitorio de incumplimiento y actuaciones adicionales relacionados con este hecho:
+
+i) Los coeficientes de inversión señalados en las Normas 9.ª (Coeficiente de inversión en inmuebles) y 10.ª 1 (Adquisición de un inmueble o derecho) de esta Circular, y de acuerdo con lo recogido en el apartado 2 del artículo 91 del Reglamento de IIC, podrán alcanzarse por las IIC en el plazo de tres años a partir de su inscripción en el registro especial de la CNMV.
+
+ii) El límite a los inmuebles y derechos arrendados a un mismo grupo señalado en la Norma 10.ª 2 deberá cumplirse por las IIC en el plazo de doce meses a partir de su inscripción en el registro especial de la CNMV.
+
+iii) De manera puntual, en el mes de cumplimiento de los periodos transitorios señalados en los apartados 5.i) y 5.ii) anteriores, la IIC deberá realizar el cálculo de los coeficientes señalados en la Norma 10.ª y respetar el límite establecido independientemente de la adquisición o no de nuevas unidades funcionales del edificio, o de la realización o no de nuevos contratos de arrendamiento con entidades del mismo grupo en dicho mes.
+
+iv) Si como consecuencia de disminuciones patrimoniales se superara el límite al endeudamiento o el límite a la financiación ajena detallados en la Norma 11.ª 6, la Gestora o SII informará a la CNMV del hecho, junto con la forma y plazo en la que se pretende volver al cumplimiento del límite que se haya superado que, en todo caso, no podrá ser superior a dieciocho meses desde el momento del incumplimiento.
+
+> Se modifica por la norma primera.7 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+### Norma 9.ª Coeficiente de inversión en inmuebles.
+
+1\. El numerador del coeficiente lo formará la suma, para el conjunto de los meses del año para el cual se realiza el cálculo, del valor estimado de realización de la cartera de inversiones inmobiliarias, incluido los anticipos o entregas a cuenta, indemnizaciones a arrendatarios y las inversiones adicionales, complementarias o rehabilitaciones en curso.
+
+En la suma anterior, las inversiones en inmuebles en fase de construcción y compromisos de compra a plazo se tendrán en cuenta por el precio total de adquisición pactado o el importe comprometido, según corresponda y si no se hubiese realizado una tasación periódica, o por el valor de tasación del inmueble que subyace en el contrato, cuando exista una tasación periódica. En el caso de los compromisos de compra a plazo, este cómputo sólo se podrá aplicar cuando la inversión cuente con la autorización o licencia para edificar, si el subyacente es una compra sobre plano o inmueble en fase de construcción, y las posibles cláusulas que se establezcan en el contrato indiquen una probabilidad razonable de ser ejecutado.
+
+2\. Como denominador se utilizará la suma del patrimonio de cada mes del ejercicio que se trate, sin que se considere en cada uno de esos importes, si la sociedad gestora o los administradores de la sociedad de inversión así lo deciden, las aportaciones netas realizadas por los partícipes o las ampliaciones de capital desembolsadas por los accionistas en los 24 meses precedentes a cada uno de los meses considerados en su cálculo.
+
+### Norma 10.ª Coeficientes de diversificación.
+
+1\. Adquisición de un inmueble o derecho: Para el cálculo del numerador del coeficiente del 35 % establecido a la adquisición de un inmueble o derecho en el artículo 91.1 del Reglamento de IIC, se utilizará el valor de tasación previa a la compra, o el efectivamente pagado o comprometido cuando sea superior al de tasación, de los inmuebles que subyacen en el contrato.
+
+Cuando se adquiera una nueva unidad funcional en un mes posterior a la adquisición de otras unidades integrantes del mismo edificio, al numerador se le deberá añadir el valor razonable de las partes adquiridas con anterioridad. En el caso de que se trate de opciones, compromisos de compra o inmuebles en fase de construcción al numerador se le añadirá el importe comprometido o precio total pactado, si no se hubiese realizado aún la primera tasación periódica, o el valor de tasación del inmueble que subyace en el contrato cuando exista una tasación periódica.
+
+2\. Inmuebles y derechos arrendados a un mismo grupo: Para el cumplimiento del coeficiente del 35 % establecido a los bienes inmuebles arrendados a entidades de un mismo grupo en el artículo 91.3 del Reglamento de IIC como numerador se utilizará el valor razonable de los inmuebles o derechos en el mes de inicio o renovación del contrato de arrendamiento, de la totalidad de inmuebles en propiedad de la institución arrendadas a personas o entidades pertenecientes al mismo grupo. Para el concepto de grupo será de aplicación el artículo 5 del Real Decreto Legislativo 4/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Mercado de Valores.
+
+El importe de las inversiones indirectas a considerar será el valor razonable de los inmuebles o derechos arrendados a un mismo grupo multiplicado por el porcentaje de participación de la IIC en la sociedad o entidad de arrendamiento.
+
+> Se modifica por la norma primera.8 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+### Norma 11.ª Coeficientes de apalancamiento y limitaciones operativas.
+
+1\. Inversión en sociedades tenedoras: El límite del 15 % a la inversión en sociedades cuyo activo esté constituido mayoritariamente por bienes inmuebles, siempre que los inmuebles sean objeto de arrendamiento (en adelante sociedades tenedoras), establecido en el apartado a) del artículo 86.1 del Reglamento de IIC, deberá respetarse cada vez que se efectúe o incremente la inversión en alguna sociedad tenedora, utilizándose, en el numerador de dicho límite, los valores razonables de las inversiones realizadas en esas sociedades.
+
+2\. Compra de opciones de compra:
+
+i) Límite individual: El valor de la prima en la compra de opciones de compra no podrá superar el 5 % del precio de ejercicio del inmueble, según se establece en el artículo 86.1.c) del Reglamento de IIC.
+
+ii) Límite global: La suma de las primas pagadas en concepto de compra de opciones de compra no podrá superar el 10 % del patrimonio, según lo señalado en el artículo 86.2 del Reglamento de IIC.
+
+3\. Inversiones a través de inmuebles en fase de construcción, compra sobre plano y de compromisos de compra: En el numerador del límite del 40 % a las inversiones en inmuebles en fase de construcción, compra sobre plano y de compromisos de compra, establecido en el artículo 86.2 del Reglamento de IIC, se considerará el precio de compra pactado de los compromisos de compra, descontadas las entregas a cuenta, y los importes pendientes de desembolso de los inmuebles en fase de construcción y compra sobre plano. En el cálculo del límite, los contratos de arras se asimilarán a los compromisos de compra.
+
+4\. Inmuebles arrendados a socios o partícipes: El numerador del límite del 25 % establecido en el artículo 88.1 del Reglamento de IIC a los inmuebles arrendados por la IIC a sus socios o partícipes, así como a las personas o entidades que mantengan vínculos con ellos, lo compondrá el valor razonable de los inmuebles o derechos en el mes de inicio o renovación del contrato de arrendamiento, de la totalidad de inmuebles en propiedad de la institución arrendados a sus socios o partícipes.
+
+El importe de las inversiones indirectas a considerar será el valor razonable de los inmuebles o derechos arrendados a socios o partícipes multiplicado por el porcentaje de participación de la IIC en la sociedad o entidad de arrendamiento.
+
+5\. Inmuebles adquiridos a entidades del mismo grupo de la IIC o del grupo de su sociedad gestora:
+
+i) El numerador del límite del 25 %, establecido en el artículo 88.3 del Reglamento de IIC a los inmuebles adquiridos a entidades del mismo grupo de la IIC o del grupo de su sociedad gestora, será el precio total de adquisición del bien inmueble que subyace en el contrato.
+
+Cuando se trate de inversiones indirectas, se considerará el porcentaje de participación de la IIC en la sociedad o entidad de arrendamiento.
+
+ii) A los efectos de aplicación del límite desarrollado en esta norma, se entenderá como inmueble de nueva construcción los que se encuentren en fase de construcción, incluso si se adquiere sobre plano, siempre que al promotor o constructor le haya sido concedida la autorización o licencia para edificar, o en los que no haya transcurrido un plazo de dos años desde que se finalizó la construcción, computándose desde la expedición del certificado final de obra a que se refiere el artículo 6 de la Ley 38/1999, de Ordenación de la Edificación.
+
+6\. Endeudamiento y financiación ajena:
+
+i) Financiación ajena: En el cálculo del límite del 50 % a la financiación ajena establecido en el artículo 89.2 del Reglamento de IIC, se considerará el importe que en cada momento se mantenga en las cuentas acreedores, salvo la cuantía de la financiación que pueda obtenerse en virtud de lo establecido en la normativa de régimen de protección pública de la vivienda, el importe de las cuentas acreedoras derivadas de la compra de activos financieros y bienes inmuebles en el periodo de liquidación, los importes pendientes de liquidar con la Hacienda Pública, las fianzas por alquileres depositadas en los organismos oficiales correspondientes, los importes de acreedores por dificultades transitorias de tesorería y, en el caso de FII, el importe por solicitudes de suscripción pendientes de asignar participaciones.
+
+ii) Endeudamiento por dificultades transitorias de tesorería: El numerador del límite del 10 % al endeudamiento por dificultades transitorias de tesorería, establecido en el artículo 89.3 del Reglamento de IIC, lo compondrán los importes de los préstamos solicitados para hacer frente a las dificultades transitorias de tesorería que se mantengan en cada momento.
+
+iii) Como denominador de los límites establecidos en los incisos i) y ii) anteriores se considerará el último patrimonio calculado, que no podrá ser más distante al del mes anterior al del momento del cumplimiento del límite, al que se le agregarán los saldos acreedores computables en el numerador del límite.
+
+> Se modifica por la norma primera.9 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+> Se añade el inciso iii) al apartado 6 por la disposición adicional tercera.2 de la Circular 6/2010, de 21 de diciembre. [Ref. BOE-A-2011-551](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-551).
+
+### Norma 12.ª Coeficiente de liquidez en FII.
+
+El numerador del coeficiente de liquidez, establecido en el artículo 90.2.b) del RIIC, se determinará sumando el valor razonable de los activos e instrumentos de renta fija con plazo de vencimiento o remanente de amortización inferior a dieciocho meses y de las compraventas con pacto de recompra de valores de deuda pública negociadas en mercados secundarios de los previstos en el artículo 48.1.a) del Reglamento de IIC, más el saldo a coste amortizado de las cuentas de efectivo, depósitos y cuentas a la vista en entidades de crédito.
+
+> Se modifica por la norma primera.10 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+### Norma 13.ª Calendario de tasaciones de FII.
+
+1\. El artículo 93.4 del Reglamento de IIC establece que los bienes inmuebles de los fondos de inversión inmobiliaria se tasarán por primera vez dentro de los doce meses siguientes a su adquisición, en aquel mes en el que haya menor patrimonio inmobiliario cuya tasación corresponda realizar, con las excepciones expresamente previstas en el folleto informativo.
+
+2\. En la asignación de los bienes inmuebles en el calendario de tasaciones, se tendrán en cuenta las siguientes consideraciones:
+
+i) Por patrimonio inmobiliario de un determinado mes se entenderá, en general, la suma del valor razonable de los bienes inmuebles cuya tasación se haya asignado a ese mes.
+
+En el caso de la compra de opciones de compra y compromisos de compra para el cálculo del patrimonio inmobiliario se considerará, si no existe tasación periódica, el precio de ejercicio e importe comprometido, respectivamente, y si existe tasación periódica, el valor de tasación del inmueble subyacente.
+
+Cuando se trate de compras sobre plano o inmuebles en fase de construcción se considerará, si no existe tasación periódica, el precio de adquisición total pactado, y si existe tasación periódica, el valor de tasación del inmueble en hipótesis de edificio terminado.
+
+ii) En el cálculo del patrimonio inmobiliario no se tendrá en cuenta el valor de los bienes inmuebles en los que se estén realizando tasaciones intermedias. La asignación definitiva de estos bienes inmuebles en el calendario de tasaciones se efectuará una vez realizada la última tasación intermedia siguiendo el criterio establecido en el artículo 93.4 del Reglamento de IIC.
+
+iii) Cuando se trate de entidades de arrendamiento y sociedades en las que el FII mantenga una posición de control, se deberán tener en cuenta sus valores dentro del patrimonio inmobiliario.
+
+> Se modifica por la norma primera.11 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+## Sección quinta. Fondos referenciados a índices
+
+### Norma 14.ª Disposiciones sobre las IIC cuya política de inversión sea replicar o reproducir un índice.
+
+1\. Las IIC a las que hace referencia el artículo 50.2.d) del Reglamento de Instituciones de Inversión Colectiva cuya política de inversión sea replicar o reproducir un determinado índice bursátil o de renta fija deberán establecer en folleto la desviación máxima con respecto a ese índice. Esta desviación no podrá superar el 5 % y se medirá de acuerdo con la siguiente expresión:
+
+Desviación = √ 252 √ 1 / N - 1 ∑Nd = 1 (Rd - R)2
+
+Siendo:
+
+Rd = LN (VLd / VLd - 1) - LN (Índiced / Índiced - 1).
+
+R = 1 / N ∑Nd = 1 Rd.
+
+LN= Logaritmo neperiano.
+
+VL= Valor liquidativo de la IIC.
+
+Índice = Valor del índice de referencia.
+
+N= 252 (número de días hábiles en un año).
+
+El cálculo deberá realizarse los días que se publique el índice a partir del tercer mes desde la inscripción del fondo o de la modificación de su política de inversión, con los datos de los que se disponga en caso de no tener 252 observaciones. Para aquellas IIC en las que la periodicidad de cálculo del valor liquidativo supere el día, los cálculos contenidos en el apartado anterior se realizarán de la forma descrita, aun cuando no se utilicen valores liquidativos a aplicar a suscripciones y reembolsos.
+
+2\. Se deberá incluir en la información periódica de la institución datos sobre la desviación efectiva de la rentabilidad del periodo respecto al índice, así como explicación, en su caso, de las superaciones del límite máximo de desviación establecido en folleto. En esta circunstancia se deberá remitir a la CNMV, en un plazo máximo de 3 días hábiles desde que se produzca la superación del límite, una comunicación en la que se exponga la desviación alcanzada, las razones de la misma y las medidas correctoras adoptadas.
+
+3\. Sin perjuicio de lo dispuesto en los apartados anteriores, se podrá incluir en el folleto de la institución una desviación máxima superior al 5%, siempre que, atendiendo a la composición del índice que se pretenda replicar o reproducir y/o a la técnicas de réplica o reproducción que se apliquen, se aporten a la CNMV razones suficientes que justifiquen ese máximo.
+
+4\. Lo dispuesto en el apartado 1 de esta Norma será exigible a los fondos de inversión cotizados y a las SICAV índice cotizadas.
+
+> Se modifica el apartado 1 por la norma primera.12 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+> Se modifica el apartado 4 por la norma final cuarta de la Circular 2/2013, de 9 de mayo. [Ref. BOE-A-2013-5453](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5453).
+
+### Norma 15.ª Disposiciones sobre las IIC que desarrollen una política de inversión que tome como referencia un índice bursátil o de renta fija.
+
+1\. Se considera que una institución de inversión colectiva tiene por objeto desarrollar una política de inversión que tome como referencia un índice bursátil o de renta fija, de acuerdo con lo establecido en el artículo 50.2.e) del Reglamento de IIC, cuando su política de inversión tenga por objetivo mantener una correlación respecto al citado índice que sea como mínimo de un 75 %.
+
+2\. La correlación se calculará exclusivamente para los días en los que se publique el índice. Para el cálculo de la correlación se utilizará la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/290/19438_003.png)
+
+siendo:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/290/19438_004.png)
+
+LN= logaritmo neperiano.
+
+VL= valor liquidativo de la IIC.
+
+Indice = valor del índice de referencia.
+
+N= 252 (número de días hábiles en un año).
+
+Dicho coeficiente se calculará por primera vez transcurrido 3 meses desde la inscripción del fondo o de la modificación de su política de inversión, con los datos de que se disponga en caso de no tener 252 observaciones. Para aquellas IIC en las que la periodicidad de cálculo del valor liquidativo supere el día, los cálculos contenidos en el apartado anterior se realizarán de la forma descrita, aun cuando no se utilicen valores liquidativos a aplicar a suscripciones y reembolsos.
+
+3\. En el folleto informativo de la institución se deberá fijar el grado de correlación con el índice de referencia, que en cualquier caso deberá respetar el límite mínimo establecido en el anterior apartado 1. Asimismo, en la información periódica de la institución se deberá incluir datos sobre la rentabilidad del índice de referencia y de la institución, así como de la correlación efectiva del periodo, junto con la explicación, en su caso, de las correlaciones inferiores al límite mínimo establecido en folleto. En esta circunstancia se deberá remitir a la CNMV, en un plazo máximo de 3 días hábiles desde que se produzca una correlación inferior al límite, una comunicación en la que se exponga la correlación alcanzada, las razones de la misma y las medidas correctoras adoptadas.
+
+> Se modifica el apartado 1 por la norma primera.13 de la Circular 1/2025, de 5 de marzo. [Ref. BOE-A-2025-5190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5190)
+
+### Norma transitoria primera.
+
+1\. Los fondos que a la fecha de entrada en vigor de la presente Circular tengan establecida en folleto una comisión de resultados en los términos de la Sección 2.ª, dispondrán de un año desde la entrada en vigor para cumplir lo previsto en la Norma 4.º 4 sobre la inclusión en el folleto de la IIC de información sobre el método de imputación de la comisión de gestión sobre resultados.
+
+2\. Las IIC a las que hace referencia la Norma 14.ª de la presente Circular dispondrán de un plazo de un año desde la entrada en vigor de la Circular para adaptar sus folletos informativos a la mencionada Norma. Las obligaciones establecidas en la Norma 14.ª serán exigibles a partir de la inscripción de la modificación del folleto.
+
+### Norma transitoria segunda.
+
+1\. Los gastos a distribuir en varios ejercicios que, para cada inmueble, tuviesen contabilizados los fondos de inversión inmobiliaria y que deban ajustarse tras la aprobación de la Circular 3/2008, sobre normas contables, cuentas anuales y estados de información reservada de las instituciones de inversión colectiva, con cargo a reservas, se podrán periodificar, a efectos del cálculo del patrimonio establecido en los apartados 1 y 2 de la Norma 2.ª de esta Circular, de forma mensual y lineal en el plazo de cuatro años contados desde la fecha de adquisición del inmueble. El importe de los citados gastos pendientes de periodificar se informará en otras cuentas de orden del estado PI01 del fondo.
+
+2\. La periodificación de los gastos a distribuir en varios ejercicios se podrá realizar de la forma señalada en el párrafo anterior, siempre y cuando se establezcan sistemas de control interno que eviten los conflictos de intereses entre los partícipes que pretendan mantener su inversión en el fondo y aquellos que pretendan reembolsarla. Además, se deberán tener en cuenta las transacciones que se realicen con los bienes inmuebles que hubiesen originado dichos gastos.
+
+### Norma adicional.
+
+Se añade un nuevo apartado 4.º a la Norma 6.ª de la Circular 4/2008, de 11 de septiembre, de la CNMV, sobre el contenido de los informes trimestrales, semestral y anual de las Instituciones de Inversión Colectiva y estado de posición:
+
+«4. La informes a los que se refieren los apartados anteriores deberán ser remitidos a la entidad depositaria de la IIC al menos cinco días antes de que deban ser remitidos a la CNMV, a fin de que aquella contraste la exactitud, calidad y suficiencia de la información, de acuerdo con lo establecido en el artículo 2.3 sobre la función de vigilancia y supervisión del depositario de la Orden EHA/596/2008, de 5 de marzo, por la que se regulan determinados aspectos del régimen jurídico del depositario de instituciones de inversión colectiva, y se concreta el contenido de los estados de posición.»
+
+### Norma derogatoria.
+
+Quedan derogadas las siguientes normas:
+
+1\. Circular 8/1990, de 27 de diciembre, de la Comisión Nacional del Mercado de Valores sobre determinación del valor liquidativo de los fondos de inversión mobiliaria y coeficientes operativos y límites de inversión de las Instituciones de Inversión Colectiva.
+
+2\. La Sección Cuarta de la Circular 4/1994, de 14 de diciembre, de la CNMV, sobre normas contables, obligaciones de información, determinación del valor liquidativo y coeficientes de inversión y operativos y actuaciones en las tasaciones de inmuebles de las sociedades y fondos de inversión inmobiliaria.
+
+### Norma final.
+
+La presente Circular entrará en vigor el día 31 de diciembre de 2008.
+
+Madrid, 26 de noviembre de 2008.–El Presidente de la Comisión Nacional del Mercado de Valores, Julio Segura Sánchez

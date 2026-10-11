@@ -1,0 +1,3237 @@
+---
+title: "Real Decreto 1798/2008, de 3 de noviembre, por el que se establece el título de Técnico en Aceites de Oliva y Vinos, y se fijan sus enseñanzas mínimas"
+identifier: "BOE-A-2008-18993"
+eli: "https://www.boe.es/eli/es/rd/2008/11/03/1798"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Política Social y Deporte"
+date: 2008-11-03
+published: 2008-11-25
+in_force_from: 2008-11-26
+last_amended: 2024-05-28
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 284"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-18993"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1798/2008, de 3 de noviembre, por el que se establece el título de Técnico en Aceites de Oliva y Vinos, y se fijan sus enseñanzas mínimas
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece en el artículo 10.1 que la Administración General del Estado, de conformidad con lo dispuesto en el artículo 149.1.30.ª y 7.ª de la Constitución y previa consulta al Consejo General de la Formación Profesional, determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+
+El Real Decreto 1538/2006, de 15 de diciembre, ha establecido la ordenación general de la formación profesional del sistema educativo, y define en el artículo 6 la estructura de los títulos de formación profesional tomando como base el Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos de interés social.
+
+Por otra parte, del mismo modo, concreta en el artículo 7 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, de modo que cada título incorporará, al menos, una cualificación profesional completa, con el fin de lograr que, en efecto, los títulos de formación profesional respondan a las necesidades demandadas por el sistema productivo y a los valores personales y sociales para ejercer una ciudadanía democrática.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, establezca cada uno de los títulos que formarán el Catálogo de títulos de la formación profesional del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+A estos efectos, procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, la prospectiva del título en el sector o sectores, las enseñanzas del ciclo formativo, la correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención y los parámetros básicos de contexto formativo para cada módulo profesional (espacios, equipamientos necesarios, las titulaciones y especialidades del profesorado y sus equivalencias a efectos de docencia), previa consulta a las Comunidades Autónomas, según lo previsto en el artículo 95 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Asimismo, en cada título también se determinarán los accesos a otros estudios, en su caso, las modalidades y materias de bachillerato que facilitan la conexión con el ciclo formativo de grado superior, las convalidaciones, exenciones y equivalencias y la información sobre los requisitos necesarios según la legislación vigente para el ejercicio profesional cuando proceda.
+
+Así, el presente real decreto conforme a lo previsto en el Real Decreto 1538/2006, de 15 de diciembre, establece y regula, en los aspectos y elementos básicos antes indicados, el título de formación profesional del sistema educativo de Técnico en Aceites de Oliva y Vinos.
+
+En el proceso de elaboración de este real decreto han sido consultadas las Comunidades Autónomas y han emitido informe el Consejo General de la Formación Profesional, el Consejo Escolar del Estado y el Ministerio de Administraciones Públicas.
+
+En su virtud, a propuesta de la Ministra de Educación, Política Social y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 31 de octubre de 2008,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+1\. El presente real decreto tiene por objeto el establecimiento del título de Técnico en Aceites de Oliva y Vinos, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+2\. Lo dispuesto en este Real Decreto sustituye a la regulación del título de Técnico en Elaboración de Aceites y Jugos, contenido en el Real Decreto 2053/1995, de 22 de diciembre y a la del título de Técnico en Elaboración de Vinos y Otras Bebidas, contenida en el Real Decreto 2055/1995, de 22 de diciembre.
+
+## CAPÍTULO II — Identificación del título, perfil profesional, entorno profesional y prospectiva del título en el sector o sectores
+
+### Artículo 2. Identificación.
+
+El título de Técnico en Aceites de Oliva y Vinos queda identificado por los siguientes elementos:
+
+Denominación: Aceites de Oliva y Vinos.
+
+Nivel: Formación Profesional de Grado Medio.
+
+Duración: 2000 horas.
+
+Familia Profesional: Industrias Alimentarias.
+
+Referente europeo: CINE-3 (Clasificación Internacional Normalizada de la Educación).
+
+El título de Técnico se corresponde con un nivel 4A del Marco Español de Cualificaciones para el Aprendizaje Permanente.
+
+> Se añade un párrafo por el art. 2 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Artículo 3. Perfil profesional del título.
+
+El perfil profesional del título de Técnico en Aceites de Oliva y Vinos queda determinado por su competencia general, sus competencias profesionales, personales y sociales, y por la relación de cualificaciones del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+
+### Artículo 4. Competencia general.
+
+La competencia general de este título consiste en elaborar y envasar aceites de oliva, vinos y otras bebidas de acuerdo con los planes de producción y calidad, efectuando el mantenimiento de primer nivel de los equipos, aplicando la legislación vigente de higiene y seguridad alimentaria, de protección ambiental y de prevención de riesgos laborales.
+
+### Artículo 5. Competencias profesionales, personales y sociales.
+
+Las competencias profesionales, personales y sociales de este título son las que se relacionan a continuación:
+
+a) Aprovisionar y almacenar materias primas y auxiliares, atendiendo a las características del producto.
+
+b) Regular los equipos de producción en función de los requerimientos del proceso productivo.
+
+c) Extraer el aceite de oliva en las condiciones establecidas en los manuales de procedimientos y calidad.
+
+d) Conducir las operaciones de refinado y acondicionado de aceites de oliva de acuerdo con los requerimientos del producto que se va a obtener.
+
+e) Controlar las fermentaciones vínicas según el manual de procedimientos y las instrucciones de trabajo, resolviendo las contingencias que se presenten.
+
+f) Elaborar destilados y bebidas espirituosas en condiciones de calidad, seguridad y protección ambiental.
+
+g) Realizar las operaciones de acabado y estabilización, de acuerdo con los requerimientos de cada producto.
+
+h) Envasar, etiquetar y embalar los productos elaborados, asegurando su integridad durante su distribución y comercialización.
+
+i) Almacenar productos acabados realizando el control de existencias y verificando su expedición.
+
+j) Verificar la calidad de los productos elaborados, realizando controles básicos y registrando los resultados.
+
+k) Preparar y mantener los equipos e instalaciones garantizando el funcionamiento e higiene, en condiciones de calidad, seguridad y eficiencia.
+
+l) Cumplimentar los registros y partes de incidencia, utilizando los procedimientos de calidad.
+
+m) Promocionar y comercializar los productos elaborados aplicando las técnicas de marketing.
+
+n) Garantizar la trazabilidad y salubridad de los productos elaborados aplicando la normativa de seguridad alimentaria.
+
+ñ) Garantizar la protección ambiental utilizando eficientemente los recursos y recogiendo los residuos de manera selectiva.
+
+o) Cumplir con los objetivos de la producción colaborando con el grupo de trabajo y actuando conforme a los principios de responsabilidad y tolerancia.
+
+p) Actuar con responsabilidad y autonomía en el ámbito de su competencia, manteniendo relaciones fluidas con los miembros de su equipo de trabajo y teniendo en cuenta su posición dentro de la jerarquía de la empresa.
+
+q) Resolver problemas y tomar decisiones individuales siguiendo las normas y procedimientos establecidos en el ámbito de su competencia.
+
+r) Ejercer sus derechos y cumplir con las obligaciones derivadas de las relaciones laborales, de acuerdo con lo establecido en la legislación vigente.
+
+s) Gestionar su carrera profesional analizando las oportunidades de empleo, autoempleo y de aprendizaje.
+
+t) Adaptarse a los diferentes puestos de trabajo y nuevas situaciones laborales originados por cambios tecnológicos y organizativos en los procesos productivos.
+
+u) Participar de forma activa en la vida económica, social y cultural, con una actitud crítica y responsable.
+
+### Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+
+Cualificaciones profesionales completas:
+
+a) Obtención de aceites de oliva. INA 013_2 (RD 295/2004, de 20 de febrero) que comprende las siguientes unidades de competencia:
+
+UC0029_2: Conducir los procesos de extracción y realizar las operaciones de refinado y corrección de aceites de oliva.
+
+UC0030_2: Controlar el proceso de trasiego y almacenamiento de aceite de oliva en bodega.
+
+b) Elaboración de vinos y licores INA 174_2 (RD 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
+
+UC0548_2: Controlar la materia prima y preparar las instalaciones y la maquinaria de bodega.
+
+UC0549_2: Controlar las fermentaciones y el acabado de los vinos.
+
+UC0550_2: Realizar vinificaciones especiales.
+
+UC0551_2: Conducir el proceso de destilación y elaborar aguardientes y licores.
+
+UC0314_2: Controlar el proceso de envasado y acondicionamiento de bebidas.
+
+### Artículo 7. Entorno profesional.
+
+1\. Este técnico ejerce su actividad en la industria de elaboración y envasado de aceites de oliva, vinos y otras bebidas, en pequeñas, medianas o grandes empresas, con tecnología tradicional o avanzada. Se integra en equipos de trabajo con otras personas del mismo o inferior nivel de cualificación, dependiendo orgánicamente de un mando intermedio. En ciertos casos de pequeñas empresas puede tener bajo su responsabilidad a operarios y depender directamente del responsable de producción.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+Bodeguero, elaborador de vinos, cavas, sidra y otras bebidas y derivados.
+
+Maestro de almazara, extractora y refinado de aceites de oliva.
+
+Recepcionista de materias primas.
+
+Operador de sección de embotellado y/o envasado.
+
+Auxiliar de laboratorio en almazaras y bodegas.
+
+Auxiliar de control de calidad en almazaras y bodegas.
+
+Comercial de almazaras y bodegas.
+
+### Artículo 8. Prospectiva del título en el sector o sectores.
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) Las industrias de elaboración de aceites de oliva, vinos y otras bebidas constituyen sectores de gran importancia socioeconómica integrados de forma significativa tanto en la producción agraria como en la industria alimentaria.
+
+b) La política de las empresas incluidas en estos sectores, pertenecientes tanto a importantes grupos multinacionales como a pequeñas y medianas empresas, difiere en función de los mercados a los que se dirigen: las grandes empresas se centran en aumentar y diversificar su producción para minimizar posibles riesgos mientras que las pequeñas y medianas empresas fomentan la diferenciación de sus productos como estrategia de mercado.
+
+c) Las técnicas actuales abogan por una mejora de la calidad de los productos elaborados partiendo de la calidad inicial de la materia prima; la elaboración de productos amparados en denominaciones de origen o productos ecológicos; la innovación en los procesos productivos: maquinaria, automatismos, sistemas de control, aprovechando las oportunidades que ofrecen las nuevas tecnologías de la información y de la comunicación; la implantación de sistemas automáticos que afectan directamente a la optimización de espacios, tiempos y recursos energéticos y a las tareas de almacenamiento, con el consiguiente aumento de la productividad, reducción de costes y eliminación de tiempos muertos.
+
+d) Los cambios registrados en este sector afectan tanto a la dimensión empresarial como a la estructura interna de las distintas empresas. Los nuevos esquemas organizativos hacen que se demande personal más especializado y cualificado, que cuente con preparación específica para cada uno de los distintos niveles jerárquicos con conocimiento exhaustivo de la normativa técnico-específica para este sector (relativa a aditivos, seguridad alimentaria, APPCC, trazabilidad, normas de calidad y denominaciones de origen, entre otras), que es de obligado cumplimiento.
+
+e) Finalmente, a partir de la implantación de la Ley de Prevención de Riesgos Laborales, se ha producido un cambio importante en cuanto a seguridad laboral dentro del sector. Además, la creciente preocupación social por el ambiente ha hecho de la industria alimentaria un sector cada vez más comprometido, realizando un gran esfuerzo por adaptarse a la normativa nacional y a la legislación europea, lo que ha obligado a las empresas a realizar inversiones para reutilizar, reciclar y depurar los residuos generados.
+
+## CAPÍTULO III — Enseñanzas del ciclo formativo y parámetros básicos de contexto
+
+### Artículo 9. Objetivos generales.
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Identificar materias primas y auxiliares describiendo sus características y propiedades para su aprovisionamiento.
+
+b) Seleccionar materias primas y auxiliares analizando la documentación asociada para su almacenamiento.
+
+c) Reconocer y manipular los elementos de control de los equipos, relacionándolos con las variables del proceso para regularlos y/o programarlos.
+
+d) Identificar las operaciones de extracción de aceites de oliva, describiendo los fundamentos y parámetros de control para su aplicación.
+
+e) Identificar las operaciones de refinado y acondicionado de aceites de oliva relacionándolas con las características del producto para su aplicación.
+
+f) Reconocer y aplicar las operaciones y los parámetros de control justificando su utilización para controlar las fermentaciones vínicas.
+
+g) Analizar las operaciones del proceso describiendo sus fundamentos y parámetros de control para elaborar destilados y bebidas espirituosas.
+
+h) Describir las operaciones de acabado y estabilización relacionándolas con las características del producto para aplicarlas.
+
+i) Analizar las operaciones de envasado, etiquetado y embalaje relacionándolas con la conservación, distribución y trazabilidad de los productos alimentarios para su aplicación.
+
+j) Organizar y clasificar los productos acabados analizando sus requerimientos de conservación y necesidades de espacios para su almacenaje.
+
+k) Identificar y medir los parámetros de calidad de los productos relacionándolos con las exigencias del producto y del proceso para verificar su calidad.
+
+l) Identificar las necesidades de limpieza y desinfección de los equipos e instalaciones reconociendo los productos y técnicas aplicadas para garantizar su higiene.
+
+m) Identificar las necesidades de mantenimiento de equipos, máquinas e instalaciones justificando sus exigencias para prepararlos y mantenerlos.
+
+n) Analizar la documentación asociada a los procesos relacionándola con la actividad productiva y comercial para su cumplimentación.
+
+ñ) Identificar y seleccionar técnicas publicitarias valorando su adecuación a los productos y a las características de la empresa para promocionar y comercializar los productos elaborados.
+
+o) Analizar y aplicar la normativa de seguridad alimentaria, interpretándola y describiendo los factores y situaciones de riesgo para garantizar la salubridad de los productos elaborados.
+
+p) Identificar los aspectos ambientales asociados a su actividad, reconociendo y aplicando los procedimientos y operaciones de recogida selectiva de residuos para garantizar la protección ambiental.
+
+q) Identificar los riesgos asociados a su actividad profesional relacionándolos con las medidas de protección para cumplir las normas establecidas en los planes de prevención de riesgos laborales.
+
+r) Valorar las actividades de trabajo en un proceso productivo identificando su aportación al proceso global para participar activamente en los grupos de trabajo y conseguir los objetivos de la producción.
+
+s) Reconocer sus derechos y deberes como agente activo en la sociedad analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+t) Identificar las oportunidades que ofrece la realidad socio-económica de su zona analizando las posibilidades de éxito propias y ajenas para mantener un espíritu emprendedor a lo largo de la vida.
+
+u) Reconocer las oportunidades de negocio identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
+
+v) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral analizando las ofertas y demandas del mercado para mantener el espíritu de actualización e innovación.
+
+### Artículo 10. Módulos profesionales.
+
+1\. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:
+
+a) Quedan desarrollados en el anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+
+b) Son los que a continuación se relacionan:
+
+0316 Materias primas y productos en la industria oleícola, vinícola y de otras bebidas.
+
+0317 Extracción de aceites de oliva.
+
+0318 Elaboración de vinos.
+
+0116 Principios de mantenimiento electromecánico.
+
+0319 Acondicionamiento de aceites de oliva.
+
+0320 Elaboración de otras bebidas y derivados.
+
+0321 Análisis sensorial.
+
+0146 Venta y comercialización de productos alimentarios.
+
+0030 Operaciones y control de almacén en la industria alimentaria.
+
+0031 Seguridad e higiene en la manipulación de alimentos.
+
+0156\. Inglés Profesional (GM).
+
+1709\. Itinerario personal para la empleabilidad I.
+
+1710\. Itinerario personal para la empleabilidad II.
+
+1664\. Digitalización aplicada a los sectores productivos (GM).
+
+1708\. Sostenibilidad aplicada al sistema productivo.
+
+1713\. Proyecto intermodular y Módulo profesional optativo.
+
+2\. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 del Real Decreto 659/2023, de 18 de julio.
+
+3\. Los ciclos formativos de grado medio tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.
+
+4\. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales que conforman los diferentes ciclos formativos de grado medio a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.
+
+5\. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.
+
+> Se modifica por el art. 4.1 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Artículo 11. Espacios y equipamientos.
+
+1\. Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son los establecidos en el Anexo II de este real decreto.
+
+2\. Los espacios dispondrán de la superficie necesaria y suficiente para desarrollar las actividades de enseñanza que se deriven de los resultados de aprendizaje de cada uno de los módulos profesionales que se imparten en cada uno de los espacios. Además, deberán cumplir las siguientes condiciones:
+
+a) La superficie se establecerá en función del número de personas que ocupen el espacio formativo y deberá permitir el desarrollo de las actividades de enseñanza-aprendizaje con la «ergonomía» y la movilidad requeridas dentro del mismo.
+
+b) Deberán cubrir la necesidad espacial de mobiliario, equipamiento e instrumentos auxiliares de trabajo.
+
+c) Deberán respetar los espacios o superficies de seguridad que exijan las máquinas y equipos en funcionamiento.
+
+d) Respetarán la normativa sobre prevención de riesgos laborales, la normativa sobre seguridad y salud en el puesto de trabajo y cuantas otras normas sean de aplicación.
+
+3\. Los espacios formativos establecidos podrán ser ocupados por diferentes grupos de alumnos que cursen el mismo u otros ciclos formativos, o etapas educativas.
+
+4\. Los diversos espacios formativos identificados no deben diferenciarse necesariamente mediante cerramientos.
+
+5\. Los equipamientos que se incluyen en cada espacio han de ser los necesarios y suficientes para garantizar la adquisición de los resultados de aprendizaje y la calidad de la enseñanza a los alumnos. Además, deberán cumplir las siguientes condiciones:
+
+a) El equipamiento (equipos, máquinas, etc.) dispondrá de la instalación necesaria para su correcto funcionamiento, cumplirá con las normas de seguridad y prevención de riesgos y con cuantas otras sean de aplicación.
+
+b) La cantidad y características del equipamiento deberá estar en función del número de alumnos y permitir la adquisición de los resultados de aprendizaje, teniendo en cuenta los criterios de evaluación y los contenidos que se incluyen en cada uno de los módulos profesionales que se impartan en los referidos espacios.
+
+6\. Las Administraciones competentes velarán para que los espacios y el equipamiento sean los adecuados en cantidad y características para el desarrollo de los procesos de enseñanza y aprendizaje que se derivan de los resultados de aprendizaje de los módulos correspondientes y garantizar así la calidad de estas enseñanzas.
+
+### Artículo 12. Profesorado.
+
+1\. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+5\. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.
+
+> Se modifica por el art. 5 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## CAPÍTULO IV — Accesos y vinculación a otros estudios, y correspondencia de módulos profesionales con las unidades de competencia
+
+### Artículo 13. Acceso a otros estudios.
+
+1\. El título de Técnico en Aceites de Oliva y Vinos permite el acceso directo para cursar cualquier otro ciclo formativo de grado medio, en las condiciones de admisión que se establezcan.
+
+2\. El título de Técnico en Aceites de Oliva y Vinos permitirá acceder mediante prueba, con dieciocho años cumplidos, y sin perjuicio de la correspondiente exención, a todos los ciclos formativos de grado superior de la misma familia profesional y a otros ciclos formativos en los que coincida la modalidad de Bachillerato que facilite la conexión con los ciclos solicitados.
+
+3\. El título de Técnico en Aceites de Oliva y Vinos permitirá el acceso a cualquiera de las modalidades de Bachillerato de acuerdo con lo dispuesto en el artículo 44.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en el artículo 16.3 del Real Decreto 1538/2006, de 15 de diciembre.
+
+### Artículo 14. Convalidaciones y exenciones.
+
+1\. Las convalidaciones de módulos profesionales de los títulos de formación profesional establecidos al amparo de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, con los módulos profesionales de los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se establecen en el Anexo IV del presente real decreto.
+
+2\. Serán objeto de convalidación los módulos profesionales, comunes a varios ciclos formativos, de igual denominación, duración, contenidos, objetivos expresados como resultados de aprendizaje y criterios de evaluación, establecidos en los reales decretos por los que se fijan las enseñanzas mínimas de los títulos de Formación Profesional. No obstante lo anterior, y de acuerdo con el artículo 45.2 del Real Decreto 1538/2006, de 15 de diciembre, quienes hubieran superado el módulo profesional de Formación y orientación laboral o el módulo profesional de Empresa e iniciativa emprendedora en cualquiera de los ciclos formativos correspondientes a los títulos establecidos al amparo de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, tendrán convalidados dichos módulos en cualquier otro ciclo formativo establecido al amparo de la misma ley.
+
+3\. El módulo profesional de Formación y orientación laboral de cualquier título de formación profesional podrá ser objeto de convalidación siempre que se cumplan los requisitos establecidos en el artículo 45.3 del Real Decreto 1538/2006, de 15 de diciembre, que se acredite, al menos, un año de experiencia laboral, y se posea el certificado de Técnico en Prevención de Riesgos Laborales, Nivel Básico, expedido de acuerdo con lo dispuesto en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención.
+
+4\. De acuerdo con lo establecido en el artículo 49 del Real Decreto 1538/2006, de 15 de diciembre, podrá determinarse la exención total o parcial del módulo profesional de Formación en centros de trabajo por su correspondencia con la experiencia laboral, siempre que se acredite una experiencia relacionada con este ciclo formativo en los términos previstos en dicho artículo.
+
+### Artículo 15. Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención.
+
+1\. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 del Real Decreto 659/2023, de 18 de julio.
+
+2\. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 del Real Decreto 659/2023, de 18 de julio.
+
+a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+
+b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el anexo IV de cada uno de los respectivos reales decretos y complementariamente el Real Decreto 1085/2020, de 9 de diciembre.
+
+3\. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 del Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
+
+4\. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
+
+5\. A los efectos previstos en el punto 4, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+
+6\. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá la codificación frente a la denominación.
+
+7\. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 del Real Decreto 659/2023, de 18 de julio.
+
+> Se modifica por el art. 6 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de esta titulación en el marco nacional y su equivalente en el europeo.
+
+### Disposición adicional segunda. Oferta a distancia del presente título.
+
+Los módulos profesionales que forman las enseñanzas de este ciclo formativo podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+
+1\. El título de Técnico en Elaboración de Aceites y Jugos, establecido por el Real Decreto 2053/1995, de 22 de diciembre y el título de Técnico en Elaboración de Vinos y Otras Bebidas, establecido por el Real Decreto 2055/1995 de 22 de diciembre, tendrán los mismos efectos profesionales y académicos que el título de Técnico en Aceites de Oliva y Vinos, establecido en el presente Real Decreto.
+
+2\. La formación establecida en este real decreto en el módulo profesional de módulo de Itinerario personal para la empleabilidad I capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, siempre que tenga, al menos, 45 horas lectivas.
+
+3\. La formación establecida en el presente Real Decreto en el módulo profesional de Seguridad e higiene en la manipulación de alimentos garantiza el nivel de conocimiento necesario para posibilitar unas prácticas correctas de higiene y manipulación de alimentos, de acuerdo con la exigencia del artículo 4.6 del Real Decreto 202/2000, de 11 de febrero, por el que se establecen las normas relativas a los manipuladores de alimentos.
+
+> Se modifica la referencia del apartado 2 según establece la disposición adicional 2 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+### Disposición adicional cuarta. Regulación del ejercicio de la profesión.
+
+1\. De conformidad con lo establecido en el Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+2\. Asimismo, las equivalencias de titulaciones académicas establecidas en el apartado 1 de la disposición adicional tercera de este real decreto, se entenderán sin perjuicio del cumplimiento de las disposiciones que habilitan para el ejercicio de las profesiones reguladas.
+
+### Disposición adicional quinta. Equivalencias a efectos de docencia en los procedimientos selectivos de ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+
+El título de Técnico Superior o de Técnico Especialista se declara equivalente a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, cuando el titulado haya ejercido como profesor interino en centros públicos del ámbito territorial de la Administración convocante y en la especialidad docente a la que pretenda acceder durante un periodo mínimo de dos años antes del 31 de agosto de 2007.
+
+### Disposición adicional sexta. Accesibilidad universal en las enseñanzas de este título.
+
+1\. Las Administraciones educativas, en el ámbito de sus respectivas competencias, incluirán en el currículo de este ciclo formativo los elementos necesarios para garantizar que las personas que lo cursen desarrollen las competencias incluidas en el currículo en diseño para todos.
+
+2\. Asimismo, dichas Administraciones adoptarán las medidas que estimen necesarias para que este alumnado pueda acceder y cursar dicho ciclo formativo en las condiciones establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
+
+### Disposición transitoria única. Aplicabilidad de otras normas.
+
+1\. Hasta que sea de aplicación lo dispuesto en este real decreto, en virtud de lo establecido en sus disposiciones finales segunda y tercera, será de aplicación lo dispuesto en el Real Decreto 2053/1995, de 22 de diciembre por el que se establece el título de Técnico en Elaboración de Aceites y Jugos y las correspondientes enseñanzas mínimas; y en el Real Decreto 2055/1995, de 22 de diciembre por el que se establece el título de Técnico en Elaboración de Vinos y otras bebidas y las correspondientes enseñanzas mínimas.
+
+2\. Asimismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación, Política Social y Deporte, el currículo correspondiente al título de Técnico en Aceites de Oliva y Vinos, será de aplicación lo establecido en el Real Decreto 1142/1997, de 11 de julio, por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Elaboración de Aceites y Jugos; y en el Real Decreto 1144/1997, de 11 de julio, por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Elaboración de Vinos y Otras Bebidas.
+
+### Disposición derogatoria única. Derogación de normas.
+
+1\. Queda derogado el Real Decreto 2053/1995, de 22 de diciembre por el que se establece el título de Técnico en Elaboración de Aceites y Jugos y las correspondientes enseñanzas mínimas; y el Real Decreto 2055/1995, de 22 de diciembre por el que se establece el título de Técnico en Elaboración de Vinos y Otras Bebidas y las correspondientes enseñanzas mínimas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+2\. Quedan derogados el Real Decreto 1142/1997, de 11 de julio, por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Elaboración de Aceites y Jugos; y el Real Decreto 1144/1997, de 11 de julio, por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Elaboración de Vinos y Otras Bebidas.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto, tiene carácter de norma básica, al amparo de las competencias que atribuye al Estado el artículo 149.1.1.ª y 30.ª de la Constitución. Se exceptúa del carácter de norma básica el artículo 13.2.
+
+### Disposición final segunda. Implantación del nuevo currículo.
+
+Las Administraciones educativas implantarán el nuevo currículo de estas enseñanzas en el curso escolar 2009/2010. No obstante, podrán anticipar al año académico 2008/2009 la implantación de este ciclo formativo.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 3 de noviembre de 2008.
+
+JUAN CARLOS R.
+
+La Ministra de Educación, Política Social y Deporte,
+
+MERCEDES CABRERA CALVO-SOTELO
+
+## ANEXO I — MÓDULOS PROFESIONALES
+
+**Módulo Profesional: Materias primas y productos en la industria oleícola, vinícola y de otras bebidas**
+
+Código: 0316
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica las materias primas oleícolas, vinícolas y de otras bebidas describiendo sus características.
+
+Criterios de evaluación:
+
+a) Se han clasificado las principales materias primas de la industria oleícola, vinícola y de otras bebidas.
+
+b) Se han descrito las características físicas y químicas de las materias primas.
+
+c) Se han relacionado las características de las materias primas con su función tecnológica.
+
+d) Se han descrito las condiciones de almacenamiento y conservación de cada materia prima.
+
+e) Se han descrito los principales defectos higiénico-sanitarios que pueden presentar las materias primas.
+
+f) Se han identificado las medidas correctoras cuando la materia prima no cumple con las especificaciones establecidas.
+
+2\. Caracteriza los aditivos, coadyuvantes y productos auxiliares describiendo su función tecnológica.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la legislación asociada a la utilización de aditivos, coadyuvantes tecnológicos y productos auxiliares.
+
+b) Se han caracterizado las funciones tecnológicas de los aditivos, coadyuvantes y productos auxiliares.
+
+c) Se ha relacionado el tipo y la dosificación de los aditivos, coadyuvantes y productos auxiliares con el efecto esperado.
+
+d) Se han descrito las condiciones de almacenamiento y conservación de los aditivos, coadyuvantes y productos auxiliares.
+
+e) Se han identificado las medidas de seguridad durante el manejo de los productos.
+
+f) Se ha valorado la importancia de una correcta dosificación.
+
+g) Se ha reconocido la legislación específica relacionada con la indicación de los aditivos en el etiquetado.
+
+3\. Identifica las técnicas de producción de la materia prima valorando su influencia en la calidad del producto.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las variedades de aceitunas, uvas y otras materias primas y su aptitud tecnológica.
+
+b) Se han reconocido las principales labores culturales utilizadas en el cultivo de las aceitunas y uvas.
+
+c) Se ha valorado la influencia de las técnicas culturales empleadas en la calidad de la materia prima producida.
+
+d) Se han descrito los métodos de control de maduración para determinar el momento óptimo de recolección.
+
+e) Se han identificado los criterios de selección de la materia prima.
+
+f) Se han realizado los controles de madurez para fijar la fecha de recolección.
+
+g) Se han descrito los controles básicos para determinar el estado de la materia prima.
+
+h) Se han reconocido las técnicas de producción de materias primas respetuosas con el medio ambiente.
+
+4\. Caracteriza los productos finales y subproductos relacionándolos con su proceso de elaboración y reconociendo sus propiedades.
+
+Criterios de evaluación:
+
+a) Se han descrito las características físicas, químicas y organolépticas de los productos finales.
+
+b) Se han descrito los principales procesos de elaboración en la industria oleícola, vinícola y de otras bebidas.
+
+c) Se han descrito las modificaciones físicas, químicas y biológicas que sufre la materia prima.
+
+d) Se ha reconocido la función de las levaduras y bacterias en el proceso y su influencia en la calidad.
+
+e) Se han enumerado las desviaciones más frecuentes del proceso y sus medidas correctoras.
+
+f) Se han relacionado las características del producto final con su proceso de elaboración.
+
+g) Se han descrito las condiciones de almacenamiento y conservación de los productos finales.
+
+h) Se han identificado los principales subproductos originados en el proceso productivo y su valorización.
+
+i) Se han valorado las repercusiones ambientales de los subproductos originados en la industria oleícola y vinícola.
+
+j) Se ha mantenido una actitud innovadora para conocer nuevos productos o variantes de productos ya existentes adaptados a las nuevas exigencias socio-culturales.
+
+5\. Describe los controles básicos del producto reconociendo sus fundamentos.
+
+Criterios de evaluación:
+
+a) Se han identificado los equipos e instrumentos de análisis y controles básicos.
+
+b) Se han reconocido los procedimientos y métodos de muestreo.
+
+c) Se han reconocido los fundamentos físicos y químicos de los métodos de control.
+
+d) Se han descrito los principales controles básicos.
+
+e) Se han interpretado los resultados de los controles.
+
+f) Se han reconocido los intervalos óptimos de los parámetros que se van a controlar.
+
+g) Se han identificado las medidas de higiene, seguridad y prevención de riesgos laborales durante la realización de los controles.
+
+h) Se ha reconocido la documentación para el registro de los controles realizados.
+
+i) Se ha valorado el rigor, orden y limpieza como elemento imprescindible en la realización de los controles básicos.
+
+Duración: 115 horas.
+
+Contenidos básicos
+
+Identificación de las materias primas en la industria oleícola, vinícola y de otras bebidas:
+
+Clasificación de las principales materias primas utilizadas en la industria oleícola, vinícola y otras bebidas
+
+Características físicas y químicas de las materias primas de la industria oleícola, vinícola y de otras bebidas.
+
+Función tecnológica de las materias primas.
+
+Condiciones de almacenamiento y conservación de las materias primas. Defectos higiénico-sanitarios de las materias primas.
+
+Medidas correctoras cuando la materia prima no cumpla con las especificaciones establecidas.
+
+Caracterización de los aditivos, coadyuvantes tecnológicos y productos auxiliares:
+
+Normativa específica relacionada con el uso de aditivos coadyuvantes tecnológicos y productos auxiliares.
+
+Funciones tecnológicas de aditivos, coadyuvantes y productos auxiliares. Tipos. Dosis. Modo de empleo.
+
+Eliminación de coadyuvantes y productos auxiliares.
+
+Almacenamiento y conservación.
+
+Medidas de seguridad en el empleo de aditivos, coadyuvantes tecnológicos y productos auxiliares.
+
+Técnicas de producción de materias primas:
+
+Identificación de las variedades de aceitunas, uvas, frutas, cereales y otras materias primas. Aptitud tecnológica y agronómica.
+
+Producción de la materia prima. Principales técnicas de cultivo.
+
+Madurez de la materia prima.
+
+Recolección de la materia prima.
+
+Criterios de selección de la materia prima.
+
+Toma de muestras y controles básicos en la materia prima.
+
+Técnicas de producción de materias primas respetuosas con el medio ambiente.
+
+Caracterización de los productos y subproductos oleícolas, vinícolas y de otras bebidas:
+
+Clasificación de los principales productos finales.
+
+Características físicas, químicas y organolépticas de los productos finales.
+
+Procesos de elaboración de aceites de oliva, vinos y de otras bebidas: concepto, tipos, características.
+
+Procesos de fermentación.
+
+Desviaciones. Medidas correctoras.
+
+Relación de las características del producto final con su proceso de elaboración.
+
+Condiciones de almacenamiento y conservación de los productos finales.
+
+Actitud innovadora ante nuevos productos o variantes de los ya existentes.
+
+Subproductos de la industria oleícola, vinícola y de otras bebidas. Valorización.
+
+Descripción de los controles básicos del producto:
+
+Fundamentos físicos y químicos de los controles básicos.
+
+Equipos e instrumentación básica.
+
+Métodos y procedimientos de muestreo.
+
+Análisis básicos en el control del proceso de elaboración de los aceites de oliva.
+
+Análisis básicos en el control del proceso de elaboración de vinos y otras bebidas.
+
+Registro de resultados.
+
+Medidas de higiene, seguridad y prevención de riesgos laborales en la toma de muestras y en la realización de los ensayos.
+
+Importancia del orden, rigor y limpieza.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de producción de materias primas y elaboración/transformación de aceites de oliva, vinos y otras bebidas.
+
+La producción de materias primas incluye aspectos como:
+
+Conocimiento de las principales variedades.
+
+Control de la madurez de la materia prima.
+
+Selección de la materia prima.
+
+La elaboración/transformación de aceites de oliva, vinos y otras bebidas incluye aspectos como:
+
+Recepción y control de las materias primas y auxiliares.
+
+Caracterización de los productos auxiliares.
+
+Caracterización de los productos elaborados y de los subproductos.
+
+Control del proceso productivo y del producto final.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+Aceites de Oliva.
+
+Vinos.
+
+Cerveza.
+
+Sidra.
+
+Licores.
+
+Destilados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), j), k), p) y u) del ciclo formativo, y las competencias a), j), y ñ) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Descripción de materias primas y de productos auxiliares.
+
+Selección de las materias primas.
+
+Caracterización de los aceites de oliva, vinos y otras bebidas relacionándolos con el proceso de elaboración.
+
+Identificación de los métodos de control.
+
+**Módulo Profesional: Extracción de aceites de oliva**
+
+Código: 0317
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Recepciona la aceituna justificando los criterios establecidos en función de la calidad del aceite que se pretende obtener.
+
+Criterios de evaluación:
+
+a) Se han descrito las operaciones de recepción, limpieza y almacenamiento de la aceituna.
+
+b) Se han reconocido los equipos de recepción, limpieza y almacenamiento de la aceituna.
+
+c) Se han manejado y regulado los equipos, realizando el mantenimiento de primer nivel.
+
+d) Se ha efectuado la selección, clasificación, limpieza, lavado y almacenamiento de la aceituna.
+
+e) Se ha realizado la toma de muestra y los controles básicos.
+
+f) Se han cumplimentado los registros que aseguran la trazabilidad.
+
+g) Se ha valorado el orden y limpieza como elemento imprescindible en el proceso.
+
+h) Se han adoptado las medidas de seguridad y prevención de riesgos laborales.
+
+2\. Prepara la pasta describiendo las operaciones y parámetros de control.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las operaciones de molienda y batido.
+
+b) Se han identificado los equipos para el proceso de molienda y batido de la pasta comprobando su funcionamiento.
+
+c) Se ha relacionado el grado de molienda con el estado de madurez de la aceituna.
+
+d) Se han reconocido los servicios y materias auxiliares para la preparación de la pasta.
+
+e) Se han manejado y regulado los equipos realizando el mantenimiento de primer nivel.
+
+f) Se ha realizado la molienda y batido adicionando las materias auxiliares en el momento y dosis adecuadas.
+
+g) Se han descrito los parámetros de control en la preparación de la pasta y su influencia en la calidad del aceite.
+
+h) Se han realizado los controles básicos interpretando los resultados y aplicando las medidas correctoras.
+
+i) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales.
+
+3\. Extrae el aceite de oliva relacionando las operaciones con el producto a obtener.
+
+Criterios de evaluación:
+
+a) Se han identificado los métodos de extracción del aceite de oliva, justificando sus fundamentos.
+
+b) Se han manejado y regulado los equipos, realizando el mantenimiento de primer nivel.
+
+c) Se ha extraído el aceite de oliva virgen según los criterios establecidos.
+
+d) Se han tomado muestras de los subproductos para comprobar el agotamiento de orujos y alpechines.
+
+e) Se han realizado los controles básicos que aseguran la calidad.
+
+f) Se han enumerado las anomalías más frecuentes y sus medidas correctoras.
+
+g) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales.
+
+h) Se ha comprobado desde los paneles centrales el estado del proceso.
+
+i) Se ha reconocido la evolución histórica de los métodos y equipos de extracción de aceite de oliva.
+
+4\. Separa las impurezas sólidas y liquidas presentes en el aceite de oliva reconociendo los equipos y sus parámetros de control.
+
+Criterios de evaluación:
+
+a) Se han identificado los métodos de limpieza y decantación de los aceites, justificando su fundamento.
+
+b) Se han reconocido los equipos e instalaciones para la separación de la humedad e impurezas del aceite.
+
+c) Se han manejado y regulado los equipos realizando el mantenimiento de primer nivel.
+
+d) Se han realizado las operaciones de decantación y/o centrifugación de aceites.
+
+e) Se han identificado los parámetros de control y su influencia en la calidad del aceite.
+
+f) Se han realizado los controles básicos registrando y archivando la información obtenida durante el proceso.
+
+g) Se han recuperado las impurezas y justificado sus posibles aprovechamientos.
+
+h) Se ha reconocido la influencia de la falta de higiene en la calidad del aceite de oliva.
+
+i) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales.
+
+5\. Trata los subproductos de almazara justificando los procedimientos aplicados.
+
+Criterios de evaluación:
+
+a) Se han identificado los tipos de subproductos de almazara y su relación con el sistema de extracción.
+
+b) Se han reconocido los tratamientos de los subproductos para su reutilización y aprovechamiento.
+
+c) Se ha descrito la metodología para la extracción de aceite de orujo.
+
+d) Se han identificado los equipos e instalaciones y secuenciado las operaciones para la extracción de aceite de orujo.
+
+e) Se ha extraído el aceite de orujo según los criterios establecidos.
+
+f) Se han realizado los controles básicos y aplicado las medidas correctoras ante desviaciones.
+
+g) Se ha relacionado el poder contaminante de los subproductos con el método de extracción del aceite de oliva.
+
+h) Se ha justificado la posible aplicación del alpechín como riego fertilizante.
+
+i) Se ha valorado el ahorro energético que supone la utilización de los orujos como biomasa.
+
+j) Se han aplicado las medidas específicas de higiene y seguridad en la manipulación de los equipos.
+
+Duración: 110 horas.
+
+Contenidos básicos
+
+Recepción de la aceituna en almazara:
+
+Mantenimiento y regulación de equipos.
+
+Operaciones de selección, clasificación, limpieza y lavado.
+
+Toma de muestra y pesada continua.
+
+Influencia del almacenamiento de la aceituna en la calidad del aceite.
+
+Controles básicos. Análisis de aceitunas (humedad, grasa total y rendimiento industrial). Registros que aseguran la trazabilidad.
+
+Preparación de la pasta:
+
+Molienda. Objetivos y factores. Tipos de molinos.
+
+Batido. Objetivos y factores. Tipos de batidoras.
+
+Características de la pasta. Pastas difíciles. Coadyuvantes tecnológicos.
+
+Parámetros de control y su influencia en la calidad del aceite.
+
+Controles básicos. Interpretación. Desviaciones y medidas correctoras.
+
+Extracción del aceite de oliva:
+
+Sistemas de extracción.
+
+Métodos de extracción. Fundamentos.
+
+La extracción por presión.
+
+Sistemas continuos de extracción: características y tipos. Descripción de un decanter: características, tipos, manejo y regulación.
+
+Controles básicos de subproductos. Orujos (humedad, grasa sobre húmedo y grasa sobre seco). Medidas correctoras. Registros.
+
+Separación de las fases sólidas y líquidas en el aceite de oliva:
+
+Fundamentos. Equipos. Regulación y control en las operaciones. Parámetros de control y su influencia en la calidad.
+
+Controles básicos. Medidas correctoras. Registros.
+
+Tratamiento de los subproductos de almazara:
+
+El orujo. Características, tipos y aplicaciones.
+
+Segunda centrifugación. Extracción del aceite de orujo.
+
+El alpechín.
+
+Medidas de higiene, seguridad y prevención de riesgos laborales.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de extracción de aceites de oliva.
+
+La extracción de aceites de oliva incluye aspectos como:
+
+Recepción de la aceituna y materias auxiliares.
+
+Preparación y regulación de equipos e instalaciones.
+
+Preparación y acondicionado de la aceituna.
+
+Ejecución del proceso productivo.
+
+Control del proceso productivo.
+
+Toma de muestras y control durante el proceso.
+
+Respuesta ante contingencias y/o desviaciones del proceso productivo.
+
+Operaciones de acondicionamiento de los subproductos.
+
+Tratamiento de subproductos y su influencia en la contaminación.
+
+Registro de parámetros de control.
+
+El mantenimiento de equipos e instalaciones incluye aspectos como:
+
+Preparación y mantenimiento de equipos e instalaciones.
+
+Limpieza de equipos e instalaciones.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+Aceites de oliva virgen.
+
+Aceites de orujo de oliva.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), d), k), l), n), o), p) y q) del ciclo formativo, y las competencias a), b), c), j), l), n), ñ) y o) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Fundamentos de las operaciones de extracción de aceites de oliva.
+
+Caracterización y acondicionamiento de aceitunas y materias auxiliares.
+
+Selección, limpieza, preparación y regulación de equipos e instalaciones.
+
+Identificación, secuenciación y ejecución de las operaciones de extracción.
+
+Caracterización y tratamiento de los subproductos de almazara.
+
+Control del proceso y del producto. Toma de muestras y controles básicos. Registro de los parámetros de control.
+
+Respuesta ante contingencias y/o desviaciones del proceso.
+
+Adopción de medidas de seguridad y protección en el manejo de instalaciones y equipos.
+
+**Módulo Profesional: Elaboración de vinos**
+
+Código: 0318
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Realiza las operaciones prefermentativas describiendo sus fundamentos.
+
+Criterios de evaluación:
+
+a) Se han identificado las operaciones prefermentativas, relacionándolas con las características de la materia prima.
+
+b) Se han identificado los equipos e instalaciones de recepción, tratamientos mecánicos de la uva y obtención del mosto.
+
+c) Se han acondicionado y preparado las instalaciones para la elaboración.
+
+d) Se han manejado y regulado los equipos de recepción, selección, descarga, tratamientos mecánicos de la uva y encubado, realizando el mantenimiento de primer nivel.
+
+e) Se ha sulfitado en el momento y dosis adecuadas.
+
+f) Se han reconocido las características del mosto y establecido las variables del proceso en la obtención de mostos concentrados.
+
+g) Se han regulado las condiciones y equipos para el desfangado de los mostos.
+
+h) Se ha realizado la toma de muestras y los controles básicos.
+
+i) Se han realizado las correcciones necesarias según los criterios establecidos.
+
+j) Se ha registrado y archivado la información obtenida durante el desarrollo del proceso para garantizar la trazabilidad.
+
+k) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales en el manejo de maquinaria, equipos e instalaciones.
+
+2\. Conduce los procesos de fermentación alcohólica y maceración describiendo sus fundamentos y las técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se han descrito las diferencias entre maceración y fermentación alcohólica.
+
+b) Se han reconocido las técnicas que favorecen la maceración y su influencia en la calidad del vino.
+
+c) Se han dosificado las levaduras seleccionadas, productos auxiliares y otros, en las condiciones especificadas en los manuales de procedimiento.
+
+d) Se ha controlado que los parámetros de fermentación y maceración se mantienen dentro de los límites establecidos.
+
+e) Se han efectuado las operaciones de refrigeración, bazuqueos, remontado y otras.
+
+f) Se ha determinado la duración del encubado en función del tipo de vino que se va a obtener, estado de la materia prima y de las condiciones técnicas de la bodega.
+
+g) Se ha realizado el descube, prensado y trasiegos en el momento y la forma indicados.
+
+h) Se han realizado los controles analíticos y organolépticos durante el proceso aplicando las medidas correctoras ante las desviaciones.
+
+i) Se ha registrado y archivado la información obtenida sobre el desarrollo del proceso.
+
+j) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales.
+
+3\. Controla la fermentación maloláctica relacionando las variables del proceso con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se ha determinado la idoneidad de la fermentación maloláctica y su influencia en la calidad del vino.
+
+b) Se han identificado los agentes responsables y los factores que influyen en su desarrollo.
+
+c) Se han reconocido otras alternativas tecnológicas.
+
+d) Se han identificado las desviaciones o alteraciones de los vinos durante la fermentación maloláctica.
+
+e) Se han identificado las ventajas e inconvenientes del uso de bacterias lácticas comerciales para el desarrollo de la fermentación maloláctica.
+
+f) Se han realizado los análisis básicos para el seguimiento y control final de la fermentación maloláctica aplicando las medidas correctoras.
+
+g) Se ha trasegado y sulfitado el vino.
+
+h) Se ha registrado y archivado la información obtenida sobre el desarrollo del proceso para garantizar la trazabilidad.
+
+4\. Estabiliza los vinos, justificando los métodos y productos empleados.
+
+Criterios de evaluación:
+
+a) Se han reconocido los enturbiamientos, precipitaciones y alteraciones en los vinos y otras bebidas
+
+b) Se han caracterizado los productos clarificantes, el modo de empleo y los factores que influyen en la clarificación.
+
+c) Se han realizado los ensayos de clarificación para determinar el tipo de clarificante y la dosis que se debe aplicar.
+
+d) Se han preparado y adicionado los clarificantes elegidos según el protocolo establecido para cada producto.
+
+e) Se han caracterizado las materias filtrantes y los diferentes sistemas de filtración.
+
+f) Se han realizado las operaciones de preparación de los filtros.
+
+g) Se ha filtrado el producto obtenido controlando los parámetros y aplicando las medidas correctoras ante las desviaciones.
+
+h) Se ha realizado la estabilización tártrica de los vinos.
+
+i) Se han identificado los métodos de estabilización biológica.
+
+j) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales en las operaciones de estabilización de los vinos.
+
+5\. Efectúa el acabado y crianza de los vinos relacionando las técnicas de envejecimiento con el producto que se va a obtener.
+
+Criterios de evaluación:
+
+a) Se ha valorado la idoneidad de un vino para su crianza según sus características organolépticas y analíticas.
+
+b) Se ha reconocido la influencia del tipo de barrica y de las condiciones ambientales en la crianza.
+
+c) Se han controlado y regulado las condiciones ambientales de la nave de crianza.
+
+d) Se han realizado los trasiegos, rellenos, correcciones y otras operaciones durante la crianza.
+
+e) Se han realizado los controles básicos para conducir el proceso de crianza.
+
+f) Se han realizado los «coupages» según las especificaciones establecidas.
+
+g) Se han reconocido los factores que influyen en el envejecimiento en botella.
+
+h) Se ha registrado y archivado la información obtenida sobre el desarrollo del proceso para garantizar la trazabilidad.
+
+i) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales.
+
+6\. Elabora vinos espumosos, dulces, licorosos, generosos y otros describiendo los procedimientos y las técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la normativa que define la elaboración de los distintos productos.
+
+b) Se han identificado las características de la materia prima para la elaboración de vinos espumosos, dulces, licorosos y generosos.
+
+c) Se han reconocido los métodos de elaboración de vinos dulces y licorosos.
+
+d) Se han detallado los métodos de elaboración de vinos espumosos.
+
+e) Se ha identificado la maquinaria específica para la estabilización y envasado de los vinos espumosos.
+
+f) Se han reconocido las características específicas que se requieren para la elaboración de vinos generosos.
+
+g) Se han identificado las diferencias entre la crianza oxidativa y la crianza biológica y su influencia en las características organolépticas de los vinos generosos.
+
+h) Se han realizado las operaciones específicas para la elaboración de vinos espumosos, dulces, licorosos, generosos y otros.
+
+Duración: 155 horas.
+
+Contenidos básicos
+
+Operaciones prefermentativas:
+
+Sistemas de elaboración. Vino blanco, vino tinto, vino rosado y otros.
+
+Recepción. Selección. Toma de muestras, descarga, despalillado, estrujado, encubado.
+
+Preparación de instalaciones: depósitos, equipos de frío.
+
+Controles básicos en la recepción: peso, grado probable, acidez. Registro de datos identificativos y analíticos.
+
+Encubado. Modos operativos.
+
+Anhídrido sulfuroso: definición, propiedades e importancia. Formas de adicionarlo. Dosis.
+
+El mosto. Concentración de mostos. Tipos. Sistemas de elaboración.
+
+Desfangado en vinos blancos y rosados. Tipos: dinámico y estático.
+
+Determinaciones básicas en el encubado: densidad, masa volúmica, grado probable, acidez total y otros.
+
+Interpretación de resultados y realización de correcciones.
+
+Registro de operaciones, productos, dosis y controles realizados.
+
+Procesos de fermentación alcohólica y maceración:
+
+Fermentación alcohólica. Factores que influyen. Control. Desviación.
+
+Maceración. Controles. Índices de color y de compuestos fenólicos.
+
+Selección, adición y empleo de levaduras. LSA. (levaduras comerciales).
+
+Los compuestos polifenólicos y su influencia en la calidad de los vinos tintos.
+
+Operaciones que favorecen la maceración.
+
+Los problemas fermentativos: ralentizaciones y paradas de fermentación.
+
+Encubado. Criterios de aplicación: tipo de vino, estado de la materia prima, tipo y número de depósitos. Duración.
+
+Controles básicos en el vino descubado. Grado alcohólico, acidez total, acidez volátil, azúcares reductores, parámetros de color, anhídrido sulfuroso y otros.
+
+Prensado. Criterios de utilización. Presiones de trabajo según el tipo y calidad del producto.
+
+Parámetros analíticos y organolépticos en el vino descubado.
+
+Control de la fermentación maloláctica (FML):
+
+Influencia de la FML en la calidad de los vinos.
+
+Bacterias lácticas. Condiciones de desarrollo de la FML: factores que influyen (temperatura, nivel de anhídrido sulfuroso, pH).
+
+Utilización de bacterias lácticas comerciales y de nutrientes específicos para favorecer la FML.
+
+Desviaciones de la FML.
+
+Control del desarrollo de la FML: cromatografías de papel, control del ácido málico, acidez total y acidez volátil.
+
+Estabilización de los vinos:
+
+Enturbiamientos, precipitados y alteraciones.
+
+Fundamentos de la estabilización coloidal.
+
+Clarificación. Productos clarificantes. Factores que influyen. Ensayos y protocolo de clarificación. Control de la estabilidad coloidal.
+
+Filtración. Fundamentos. Tipos de filtración.
+
+Materias filtrantes. Caracterización.
+
+Manejo de los filtros. Sistemas de seguridad. Operaciones de limpieza y desinfección. Mantenimiento y preparación.
+
+Control de los parámetros de filtración y del estado de las materias filtrantes.
+
+Centrifugación. Aplicaciones tecnológicas.
+
+Tratamientos para la estabilización tártrica.
+
+Estabilización biológica. Métodos tecnológicos.
+
+Correcciones y acondicionado físico-químico de los vinos.
+
+Procesos de acabado y crianza:
+
+Parámetros analíticos y características organolépticas de los vinos destinados a crianza.
+
+El roble. Orígenes. Composición. Fabricación de barricas. Tratamientos térmicos de la madera y su influencia en las características organolépticas.
+
+Fenómenos físico-químicos durante la crianza.
+
+Operaciones durante la crianza.
+
+Controles básicos durante el acabado y crianza.
+
+Riesgos durante la crianza.
+
+Alternativas a la crianza.
+
+Envejecimiento en botella. Fenómenos físico-químicos. Condiciones ambientales.
+
+Elaboración de vinos espumosos, dulces, generosos y licorosos:
+
+Normativa de elaboración de vinos espumosos, dulces, licorosos, generosos y otros.
+
+Características de la materia prima. Variedades.
+
+Vinos espumosos. Tipos. Métodos de elaboración.
+
+Toma de espuma. Segunda fermentación.
+
+Estabilización y embotellado de los vinos espumosos.
+
+Vinos dulces y licorosos. Tipos.
+
+Vinos generosos. Tipos. Crianza biológica y crianza oxidativa. Fundamentos.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de elaboración/transformación de vinos y mantenimiento de equipos e instalaciones.
+
+La elaboración de vinos incluye aspectos como:
+
+Recepción de materias primas y auxiliares.
+
+Preparación y regulación de equipos e instalaciones.
+
+Preparación y acondicionado de materias primas y auxiliares.
+
+Ejecución del proceso productivo.
+
+Control del proceso productivo.
+
+Toma de muestras y control del producto durante el proceso.
+
+Respuesta ante contingencias y desviaciones del proceso productivo.
+
+Operaciones de estabilización y acabado.
+
+Operaciones de envasado y embalaje.
+
+Registro de parámetros del proceso.
+
+Prevención de riesgos laborales.
+
+El mantenimiento de equipos e instalaciones incluye aspectos como:
+
+Preparación y mantenimiento de equipos e instalaciones.
+
+Limpieza y desinfección de equipos e instalaciones.
+
+Las actividades profesionales asociadas a estas funciones se aplican en la elaboración de:
+
+Vinos.
+
+Vinos espumosos y generosos.
+
+Productos derivados de la uva y el vino.
+
+Concentración de mostos.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), f), h), i), k), l), m), n), o), p) y q) del ciclo formativo, y las competencias a), b), e), g), h), j), k), l), n), ñ) y o) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Conocimiento de los fundamentos de las operaciones de vinificación.
+
+Conocimiento de los fundamentos de la estabilización.
+
+Conocimiento de los vinos espumosos, dulces, licorosos y generosos así como sus especificidades en cuanto a elaboración, estabilización y envasado.
+
+Realización de las diferentes vinificaciones, operaciones de limpieza y desinfección, mantenimiento y regulación de equipos en el taller-bodega.
+
+Realización de las operaciones de estabilización y crianza en el taller-bodega.
+
+Realización de las operaciones de envasado y embalaje en el taller-bodega.
+
+Realización de los controles de las operaciones.
+
+Manejo de la información asociada al proceso. Instrucciones, controles, elaboración de informes.
+
+Adopción de medidas de seguridad y protección necesarias en instalaciones, manejo de equipos y productos de estabilización y envasado.
+
+**Módulo Profesional: Principios de mantenimiento electromecánico**
+
+Código: 0116
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Identifica los elementos mecánicos de equipos, máquinas e instalaciones describiendo la función que realizan y su influencia en el conjunto.
+
+Criterios de evaluación:
+
+a) Se han identificado los mecanismos principales que constituyen los grupos mecánicos de los equipos e instalaciones.
+
+b) Se ha descrito la función que realizan y las características técnicas básicas de los elementos.
+
+c) Se han descrito los elementos mecánicos transmisores y transformadores del movimiento, reconociéndose su presencia en los diferentes equipos de proceso.
+
+d) Se han clasificado los elementos mecánicos en función de la transformación que realizan.
+
+e) Se han descrito las relaciones funcionales de los elementos y piezas de los grupos.
+
+f) Se han identificado las propiedades y características de los materiales empleados en los mecanismos.
+
+g) Se han identificado las partes o puntos críticos de los elementos y piezas donde pueden aparecer desgastes razonando las causas que los originan.
+
+h) Se han analizado las medidas de prevención y seguridad que se deben tener en cuenta en el funcionamiento de los elementos mecánicos.
+
+2\. Reconoce los elementos que intervienen en las instalaciones neumáticas analizando la función que realizan y su influencia en el conjunto de la instalación.
+
+Criterios de evaluación:
+
+a) Se han descrito los usos de la neumática como técnica de aplicación del aire comprimido.
+
+b) Se han definido las propiedades del aire comprimido.
+
+c) Se han identificado los circuitos de producción y tratamiento del aire comprimido describiendo la misión de sus elementos principales.
+
+d) Se han identificado las redes de distribución del aire comprimido y sus elementos de protección.
+
+e) Se han identificado los elementos neumáticos de regulación y control y se ha reconocido su presencia en las instalaciones.
+
+f) Se han descrito los elementos neumáticos de accionamiento o de trabajo y se ha identificado su presencia en equipos de proceso.
+
+g) Se ha descrito el funcionamiento de esquemas de circuitos neumáticos simples manuales, semiautomáticos y automáticos.
+
+h) Se han enumerado las anomalías más frecuentes de las instalaciones neumáticas y sus medidas correctoras.
+
+i) Se ha valorado la utilidad del aire comprimido en la automatización de los procesos del sector.
+
+3\. Reconoce los elementos de las instalaciones hidráulicas describiendo la función que realizan.
+
+Criterios de evaluación:
+
+a) Se han descrito los sistemas hidráulicos como medios de producción y transmisión de energía.
+
+b) Se han enumerado los principios físicos fundamentales de la hidráulica.
+
+c) Se han enumerado los fluidos hidráulicos y sus propiedades.
+
+d) Se han relacionado los elementos hidráulicos con su simbología.
+
+e) Se ha identificado la unidad hidráulica y sus elementos funcionales y de protección.
+
+f) Se han relacionado los elementos hidráulicos de trabajo con el tipo de mantenimiento que hay que realizar.
+
+g) Se han descrito el funcionamiento de esquemas de circuitos hidráulicos simples.
+
+h) Se han valorado las ventajas e inconvenientes del empleo de instalaciones hidráulicas en la automatización de proceso del sector.
+
+i) Se han citado las anomalías más frecuentes de las instalaciones hidráulicas y sus medidas correctoras.
+
+4\. Identifica los elementos de las instalaciones eléctricas describiendo la misión que realizan en el conjunto de la instalación.
+
+Criterios de evaluación:
+
+a) Se ha descrito la estructura básica de las instalaciones eléctricas de interior.
+
+b) Se han reconocido los elementos de protección, maniobra y conexión de los circuitos eléctricos.
+
+c) Se han relacionado el funcionamiento de instalaciones eléctricas aplicadas a los equipos industriales con su esquema unifilar.
+
+d) Se han relacionado los elementos de protección y maniobra con el correcto funcionamiento y protección de las instalaciones eléctricas aplicadas a los equipos del sector.
+
+e) Se han calculado magnitudes eléctricas (tensión, intensidad, potencia y caída de tensión, entre otros) en instalaciones básicas aplicadas del sector.
+
+f) Se ha verificado la aplicación de las instrucciones técnicas del REBT en las instalaciones eléctricas aplicadas del sector.
+
+g) Se han reconocido los elementos eléctricos de control y maniobra y su función.
+
+h) Se han relacionado las características eléctricas de los dispositivos de protección con las líneas y receptores eléctricos que deben proteger.
+
+i) Se han descrito las condiciones de seguridad y prevención que se deben aplicar en la manipulación de los distintos componentes eléctricos/electrónicos.
+
+5\. Identifica las máquinas eléctricas y los elementos constructivos que intervienen en el acoplamiento de los equipos industriales del sector, describiendo su funcionamiento y aplicaciones
+
+Criterios de evaluación:
+
+a) Se han identificado las máquinas eléctricas utilizadas en los equipos e instalaciones del sector.
+
+b) Se han clasificado las máquinas eléctricas por su tipología y función.
+
+c) Se ha descrito el funcionamiento así como las características de las máquinas eléctricas y su aplicación en el sector.
+
+d) Se ha relacionado la información de la placa de características con las magnitudes eléctricas y mecánicas de la instalación.
+
+e) Se ha representado el esquema de conexionado (arranque e inversión de giro) de las máquinas eléctricas y sus protecciones mediante su simbología.
+
+f) Se ha relacionado el consumo de las máquinas con su régimen de funcionamiento de vacío y carga y sus protecciones eléctricas.
+
+g) Se ha verificado la aplicación de las instrucciones técnicas del REBT en las instalaciones de alimentación de las máquinas eléctricas.
+
+h) Se han identificado los sistemas de acoplamiento de las máquinas eléctricas a los equipos industriales del sector.
+
+i) Se han relacionado los sistemas de sujeción de las máquinas eléctricas al equipo (tipo de movimiento, potencia de transmisión, ruido, vibraciones, entre otros).
+
+j) Se han descrito las condiciones de seguridad y prevención que se deben aplicar en la manipulación de los circuitos y máquinas eléctricas en funcionamiento.
+
+6\. Aplica el mantenimiento de primer nivel relacionando los procedimientos utilizados con los equipos e instalaciones implicados.
+
+Criterios de evaluación:
+
+a) Se han descrito los procedimientos de cada una de las operaciones de mantenimiento de primer nivel que deben ser realizadas sobre los equipos.
+
+b) Se han identificado los elementos sobre los que se deben realizar las operaciones de mantenimiento preventivo/correctivo de primer nivel.
+
+c) Se han indicado las averías más frecuentes que se producen en los equipos e instalaciones.
+
+d) Se han identificado los equipos y herramientas necesarias para realizar las labores de mantenimiento de primer nivel.
+
+e) Se han determinado las condiciones requeridas del área de trabajo para intervenciones de mantenimiento.
+
+f) Se han puesto en marcha o invertido el sentido de giro de motores eléctricos midiendo las magnitudes fundamentales durante el proceso.
+
+g) Se han aplicado técnicas de mantenimiento o sustitución de elementos básicos en los equipos e instalaciones.
+
+h) Se han registrado en el soporte adecuado las operaciones de mantenimiento realizadas.
+
+i) Se han descrito las operaciones de limpieza, engrase y comprobación del estado de la instalación y equipos en el mantenimiento de primer nivel.
+
+j) Se ha analizado la normativa vigente sobre prevención y seguridad relativas al mantenimiento de equipos e instalaciones.
+
+Duración: 55 horas.
+
+Contenidos básicos
+
+Identificación de elementos mecánicos:
+
+Materiales. Comportamiento y propiedades de los principales materiales de los equipos e instalaciones.
+
+Nomenclatura y siglas de comercialización.
+
+Cinemática y dinámica de las máquinas.
+
+Elementos mecánicos transmisores del movimiento: descripción, funcionamiento, simbología, mantenimiento de primer nivel.
+
+Elementos mecánicos transformadores del movimiento: descripción, funcionamiento, simbología.
+
+Elementos mecánicos de unión: descripción, funcionamiento, mantenimiento de primer nivel.
+
+Elementos mecánicos auxiliares: descripción, funcionamiento, mantenimiento de primer nivel.
+
+Normas de prevención y seguridad en el manejo de elementos mecánicos.
+
+Valoración del desgaste de los elementos mecánicos: lubricación y mantenimiento preventivo.
+
+Reconocimiento de elementos de las instalaciones neumáticas:
+
+Circuitos de producción y tratamiento del aire comprimido: descripción, elementos, funcionamiento, simbología, mantenimiento y medidas de seguridad.
+
+Redes de distribución del aire comprimido: características y materiales constructivos.
+
+Elementos neumáticos de regulación y control: descripción, funcionamiento, simbología, mantenimiento y medidas de seguridad.
+
+Elementos neumáticos de accionamiento o actuadores: descripción, funcionamiento, simbología, mantenimiento y medidas de seguridad.
+
+Lectura de los esquemas de circuitos neumáticos manuales, semiautomáticos y automáticos.
+
+Uso eficiente del aire comprimido en los procesos del sector.
+
+Reconocimiento de elementos de las instalaciones hidráulicas:
+
+Unidad hidráulica: fundamentos, elementos, funcionamiento, mantenimiento de primer nivel y medidas de seguridad.
+
+Elementos hidráulicos de distribución y regulación: descripción, funcionamiento, simbología, mantenimiento y medidas de seguridad.
+
+Elementos hidráulicos de trabajo: descripción, funcionamiento, simbología y mantenimiento.
+
+Lectura de esquemas de circuitos hidráulicos.
+
+Impacto ambiental de las instalaciones hidráulicas.
+
+Identificación de elementos de las instalaciones eléctricas:
+
+Sistema eléctrico. Corriente trifásica y monofásica.
+
+Magnitudes eléctricas fundamentales: definición, unidades.
+
+Relaciones fundamentales. Cálculo de magnitudes básicas de las instalaciones.
+
+Elementos de control y maniobra de circuitos eléctricos: descripción, simbología y funcionamiento.
+
+Elementos de protección de circuitos eléctricos: descripción, simbología y funcionamiento.
+
+Normativa sobre instalaciones eléctricas (REBT) y de prevención de riesgos laborales.
+
+Identificación de máquinas eléctricas y su acoplamiento en equipos industriales:
+
+Máquinas eléctricas estáticas y rotativas. Tipología y características.
+
+Clasificación de las máquinas eléctricas: generadores, transformadores y motores.
+
+Partes constructivas. Funcionamiento.
+
+Placa de características. Cálculo de magnitudes de las instalaciones de alimentación y arranque de las máquinas.
+
+Acoplamientos y sujeciones de las máquinas a sus equipos industriales.
+
+Normativa sobre instalaciones eléctricas (REBT) y de prevención de riesgos laborales.
+
+Aplicación de técnicas de mantenimiento de primer nivel:
+
+Operaciones de mantenimiento preventivo: limpieza de filtros, cambio de discos ciegos, apretado de cierres, acondicionamiento de balsas, limpieza de mecheros, engrases, purgas, revisiones reglamentarias.
+
+Operaciones de mantenimiento correctivo (sustitución de elementos).
+
+Normativa sobre instalaciones eléctricas (REBT) y de prevención de riesgos laborales.
+
+Orientaciones pedagógicas
+
+Este módulo profesional es un módulo de soporte, por lo que da respuesta a la necesidad de proporcionar una adecuada base teórica y práctica para la comprensión y aplicación de técnicas básicas de mantenimiento de equipos e instalaciones utilizadas en el sector.
+
+Las actividades profesionales asociadas a esta función se aplican:
+
+Aceites de Oliva.
+
+Vinos.
+
+Cerveza.
+
+Sidra.
+
+Licores.
+
+Destilados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales c), d), e), f), g), h), i), l), m), o) y q) del ciclo formativo, y las competencias b), d), e), f), g), h), k), l), n), ñ), o) y p) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Reconocimiento y manejo de los elementos mecánicos, neumáticos, hidráulicos, eléctricos y electromagnéticos de los equipos.
+
+Conocimiento y manejo de los sistemas automáticos de control.
+
+Preparación del área de trabajo para actuaciones externas de mantenimiento.
+
+Realización del mantenimiento de primer nivel en equipos de extracción de aceites de oliva y procesos de vinificación.
+
+Reconocimiento y manejo de la maquinaria e instalaciones para el acondicionado y estabilización de aceites de oliva y de vinos.
+
+Aplicación de las normas de seguridad en el manejo de equipos e instalaciones.
+
+Realización de las operaciones de limpieza, mantenimiento y preparación de la maquinaria.
+
+Manejo y regulación de los equipos e instalaciones
+
+**Módulo Profesional: Acondicionamiento de aceites de oliva**
+
+Código: 0319
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Refina aceites de oliva y de orujo justificando los procedimientos y parámetros de control.
+
+Criterios de evaluación:
+
+a) Se han descrito los fundamentos de la refinación física, química y físico-química.
+
+b) Se ha seleccionado el tipo de refinación, relacionándolo con las características del aceite que se va a refinar.
+
+c) Se han secuenciado las operaciones de refinación dependiendo de las características de los aceites.
+
+d) Se han identificado los equipos para la refinación de aceites de oliva y orujo.
+
+e) Se ha realizado la carga de los equipos y se han dosificado las materias auxiliares.
+
+f) Se han refinado los aceites de oliva y de orujo, de acuerdo con los procedimientos establecidos, realizando los controles básicos.
+
+g) Se han enumerado las anomalías más frecuentes y sus medidas correctoras.
+
+h) Se han reconocido los residuos de refinería y los tratamientos para su posterior reutilización y aprovechamiento.
+
+i) Se han adoptado las medidas de higiene, seguridad y prevención de riesgos laborales.
+
+2\. Almacena aceites de oliva describiendo los procedimientos y parámetros de control.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las bodegas para el almacenamiento de los aceites de oliva.
+
+b) Se han reconocido las normas de funcionamiento de las bodegas.
+
+c) Se han seleccionado los equipos de trasiego y los depósitos de almacenamiento.
+
+d) Se han realizado las operaciones de limpieza de las instalaciones, utilizando los productos adecuados.
+
+e) Se ha trasegado el aceite y llenado los depósitos.
+
+f) Se han realizado los controles básicos de calidad.
+
+g) Se han reconocido las desviaciones más frecuentes, analizando las causas y las medidas correctoras.
+
+h) Se han cumplimentado los registros que aseguran la trazabilidad.
+
+i) Se han relacionado las existencias en bodega con los rendimientos del proceso.
+
+j) Se ha almacenado el aceite de oliva virgen en atmósferas pobres en oxígeno, justificando su utilización.
+
+k) Se han adoptado las medidas de higiene, seguridad y prevención de riesgos laborales.
+
+3\. Clasifica los aceites de oliva, realizando los análisis básicos que garantizan la calidad.
+
+Criterios de evaluación:
+
+a) Se han descrito las características de los tipos de aceites de oliva.
+
+b) Se han definido los criterios de calidad y los parámetros que la determinan.
+
+c) Se han reconocido los fundamentos y metodología de los controles básicos.
+
+d) Se han identificado los equipos e instrumentos de medida de los controles básicos.
+
+e) Se ha determinado la acidez, índice de peróxidos, K270, humedad y materias volátiles e impurezas.
+
+f) Se han interpretado los resultados de los controles básicos.
+
+g) Se ha realizado el análisis sensorial del aceite y asignado la valoración organoléptica.
+
+h) Se ha valorado la calidad del aceite de oliva virgen y sus beneficios para la salud.
+
+4\. Conduce las operaciones de filtración describiendo sus fundamentos e influencia en la conservación.
+
+Criterios de evaluación:
+
+a) Se ha realizado el «coupage» de los aceites de oliva de acuerdo con las especificaciones.
+
+b) Se han identificado los tipos y sistemas de filtración.
+
+c) Se han relacionado las características del aceite que se va a filtrar con el material filtrante que se tiene que utilizar.
+
+d) Se han reconocido las consecuencias de la filtración en la conservación del aceite.
+
+e) Se han identificado las operaciones de preparación de los filtros.
+
+f) Se han preparado los filtros y realizado las operaciones de filtración.
+
+g) Se han reconocido los parámetros y dispositivos de control.
+
+h) Se han identificado las desviaciones y sus medidas correctoras.
+
+i) Se ha valorado la influencia de la filtración en la imagen del producto y de la marca.
+
+5\. Envasa aceites de oliva justificando el material y el procedimiento seleccionado.
+
+Criterios de evaluación:
+
+a) Se han reconocido los métodos de envasado y embalaje.
+
+b) Se han identificado los materiales de envasado y su influencia en la conservación.
+
+c) Se han regulado y manejado los equipos de envasado, etiquetado y embalaje.
+
+d) Se han realizado los controles sistemáticos de llenado y cierre.
+
+e) Se ha etiquetado el producto envasado.
+
+f) Se ha aplicado el método de identificación de la producción para garantizar la trazabilidad.
+
+g) Se han embalado y paletizado los productos envasados.
+
+h) Se han aplicado las medidas de higiene y seguridad durante el envasado.
+
+i) Se ha realizado la recogida selectiva y reutilización de los materiales de envasado y embalaje.
+
+Duración: 90 horas.
+
+Contenidos básicos
+
+Refinación de aceites de oliva:
+
+Fundamentos de la refinación física, química y físico-química.
+
+Líneas de refinación. Equipos específicos. Equipos genéricos.
+
+Proceso de refinación. Objetivos, secuencia de operaciones, materiales auxiliares y dosificación.
+
+Control de calidad durante la refinación. Medidas correctoras.
+
+Almacenamiento de los aceites de oliva:
+
+Oxidación de aceites de oliva. Características fundamentales y factores.
+
+Características de una bodega.
+
+Manejo de los equipos e instalaciones de la bodega.
+
+Control de calidad en bodega. Desviaciones y medidas correctivas.
+
+Documentación y registros en bodega.
+
+Operaciones de limpieza de las instalaciones y equipos.
+
+Clasificación de los aceites de oliva:
+
+Normativa que regula la calidad de los aceites de oliva.
+
+Criterios de calidad.
+
+Fundamentos y metodología de los controles básicos. (Acidez, índice de peróxidos, K270, humedad y materias volátiles e impurezas).
+
+Equipos e instrumentos de medida para los controles básicos.
+
+Operaciones de filtración de aceite de oliva:
+
+Filtración. Fundamentos y tipos. Influencia en la conservación.
+
+Preparación y manejo de los filtros.
+
+Control de calidad en la filtración.
+
+Documentación y registros. Medidas correctoras.
+
+Operaciones de envasado:
+
+Características del envase y embalaje. Función. Materiales.
+
+Etiquetado. Normativa. Tipos y códigos. Productos adhesivos y otros auxiliares.
+
+Procedimientos de llenado y cierre de envases. Controles básicos.
+
+Control de calidad en envasado y embalaje.
+
+Documentación y registros. Medidas correctoras.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de acondicionamiento de aceites de oliva y de orujo.
+
+El acondicionamiento de aceites incluye aspectos como:
+
+Recepción de materia primas y auxiliares.
+
+Preparación y regulación de equipos e instalaciones.
+
+Preparación y acondicionamiento de materias primas y auxiliares.
+
+Ejecución del proceso productivo.
+
+Control del proceso productivo.
+
+Toma de muestras y control durante el proceso.
+
+Respuesta ante contingencias y/o desviaciones del proceso productivo.
+
+Operaciones de almacenamiento.
+
+Operaciones de envasado y embalaje.
+
+Registro de parámetros de control.
+
+Prevención de riesgos laborales.
+
+El mantenimiento de equipos e instalaciones incluye aspectos como:
+
+Preparación y mantenimiento de equipos e instalaciones.
+
+Limpieza de equipos e instalaciones.
+
+Las actividades profesionales asociadas a estas funciones se aplican en el acondicionamiento de:
+
+Aceites de oliva.
+
+Aceites de orujo de oliva.
+
+La formación del módulo contribuye a alcanzar los objetivos generales c), e), i), j), k), l), m), n), o), p), q) del ciclo formativo, y las competencias b), d), h), i), j), k), l), n), ñ), o), p), q), t) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Fundamentos de la refinación. Tipos y operaciones.
+
+Objetivos y factores de las diferentes etapas en la refinación.
+
+Almacenamiento y conservación del aceite de oliva.
+
+Operaciones de filtración, envasado y embalaje.
+
+Criterios de calidad y análisis del aceite de oliva.
+
+Adopción de medidas de seguridad y protección en el manejo de instalaciones y equipos.
+
+**Módulo Profesional: Elaboración de otras bebidas y derivados**
+
+Código: 0320
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Recepciona las materias primas y auxiliares relacionándolos con los procesos de elaboración.
+
+Criterios de evaluación:
+
+a) Se ha identificado e interpretado la normativa que define la composición de los productos y la utilización de las materias primas y auxiliares.
+
+b) Se han determinado las condiciones que deben cumplir los locales de almacenamiento.
+
+c) Se han recepcionado las materias primas y auxiliares.
+
+d) Se han reconocido los procedimientos utilizados en la identificación, clasificación y almacenamiento de materias primas y auxiliares.
+
+e) Se ha caracterizado la evolución y trasformación de las materias primas durante su almacenamiento.
+
+f) Se han almacenado las materias primas y auxiliares de acuerdo a sus características.
+
+g) Se ha registrado y archivado la información generada durante la recepción.
+
+2\. Elabora destilados y licores identificando las operaciones, productos y medios empleados.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la normativa asociada a los productos de destilería y licorería.
+
+b) Se han reconocido los fundamentos del proceso de destilación.
+
+c) Se ha identificado el funcionamiento y constitución de los equipos utilizados en los procesos de destilación y elaboración de licores y aguardientes.
+
+d) Se ha realizado la destilación de vinos y orujos.
+
+e) Se ha caracterizado la evolución y trasformación que puede producirse en los productos destilados durante su almacenamiento o envejecimiento.
+
+f) Se han caracterizado los subproductos de la destilación y su aprovechamiento.
+
+g) Se han identificado los residuos y vertidos obtenidos estableciendo su destino y los tratamientos que se van a emplear.
+
+h) Se han elaborado licores reconociendo los procesos y fórmulas de elaboración.
+
+i) Se ha realizado la toma de muestras y los controles básicos.
+
+j) Se han aplicado las medidas de higiene y prevención de riesgos laborales.
+
+3\. Elabora vinagre y sidra describiendo sus fundamentos tecnológicos.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la normativa asociada a los productos.
+
+b) Se han relacionado los productos que se desean obtener con las materias primas y auxiliares.
+
+c) Se han reconocido los fundamentos de la elaboración de vinagre, sus alteraciones y sus aplicaciones.
+
+d) Se han identificado los métodos de obtención de vinagre.
+
+e) Se ha obtenido vinagre a partir de diferentes sustratos.
+
+f) Se ha obtenido sidra identificando las principales etapas de elaboración.
+
+g) Se ha realizado la toma de muestras y los controles básicos.
+
+h) Se han aplicado las medidas de higiene y prevención de riesgos laborales.
+
+4\. Obtiene bebidas espirituosas relacionando las materias primas con las características del producto final.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la normativa asociada a las bebidas espirituosas.
+
+b) Se han relacionado las materias primas y auxiliares con los productos que se desean obtener.
+
+c) Se han reconocido las principales bebidas espirituosas.
+
+d) Se han caracterizado los procesos de elaboración y envejecimiento de bebidas espirituosas.
+
+e) Se ha valorado la influencia del envejecimiento en las características finales de las bebidas espirituosas.
+
+f) Se han realizado las operaciones de fermentación, destilación, añejamiento y mezcla.
+
+g) Se ha realizado la toma de muestras y los controles básicos.
+
+h) Se han aplicado las medidas de higiene y prevención de riesgos laborales.
+
+5\. Realiza la elaboración de vinos aromatizados, aperitivos y otros, describiendo sus fundamentos tecnológicos.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la normativa de vinos aromatizados, aperitivos y otros.
+
+b) Se han relacionado las materias primas y auxiliares con los productos a obtener.
+
+c) Se han caracterizado los procesos de elaboración de vinos aromatizados, aperitivos y otros.
+
+d) Se han regulado y/o programado los equipos de elaboración en función de los requerimientos del proceso.
+
+e) Se han obtenido vinos aromatizados, aperitivos y otros según los criterios establecidos.
+
+f) Se han identificado los defectos, alteraciones y sus medidas correctoras.
+
+g) Se ha realizado la toma de muestras y los controles básicos.
+
+h) Se han aplicado las medidas de higiene y prevención de riesgos laborales.
+
+6\. Elabora cerveza describiendo los procedimientos y las técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se han identificado y recepcionado las materias primas y auxiliares.
+
+b) Se ha identificado el funcionamiento y constitución de los equipos utilizados.
+
+c) Se han aplicado los procesos de elaboración de la malta.
+
+d) Se ha realizado la maceración y obtención del mosto.
+
+e) Se han realizado los procesos de filtración, ebullición y clarificación del mosto.
+
+f) Se ha conducido la fermentación inoculando levaduras y controlando la temperatura.
+
+g) Se han aplicado los procesos de almacenamiento, maduración y guarda de la cerveza.
+
+h) Se ha realizado la clarificación, filtración y pasteurización de la cerveza.
+
+i) Se ha realizado la toma de muestras y los controles básicos.
+
+j) Se han aplicado las medidas de higiene y prevención de riesgos laborales.
+
+7\. Envasa vinos y otras bebidas, justificando el material y la técnica seleccionada.
+
+Criterios de evaluación:
+
+a) Se han identificado las características de los locales o zonas destinados al envasado y embalaje.
+
+b) Se han caracterizado los diferentes tipos de líneas de envasado y embalaje.
+
+c) Se han reconocido las características de los materiales auxiliares de envasado y embalaje y su adecuación al producto.
+
+d) Se han seleccionado y regulado las máquinas, equipos e instalaciones, reconociendo los dispositivos de seguridad.
+
+e) Se han realizado las operaciones de mantenimiento, limpieza y desinfección de los equipos e instalaciones de envasado y embalaje.
+
+f) Se ha realizado el control de calidad de los materiales auxiliares de envasado.
+
+g) Se ha realizado el envasado, etiquetado, embalado y codificado del producto, supervisando su colocación.
+
+h) Se han realizado los ensayos básicos necesarios para el control de calidad del producto envasado.
+
+i) Se ha registrado y archivado la información obtenida sobre el desarrollo del proceso para garantizar la trazabilidad.
+
+j) Se han adoptado medidas de higiene, seguridad y prevención de riesgos laborales durante el envasado.
+
+Duración: 110 horas.
+
+Contenidos básicos
+
+Recepción de materias primas y auxiliares:
+
+Normativa de calidad de las materias primas y auxiliares (normas, reglamentaciones técnico-sanitarias).
+
+Locales de almacenamiento. Características.
+
+Identificación y caracterización de las materias primas y auxiliares.
+
+Condiciones de almacenamiento. Clasificación.
+
+Transformaciones de la materia prima durante el almacenamiento.
+
+Registro de la información.
+
+Destilación y elaboración de licores y aguardientes:
+
+Normativa.
+
+Fundamentos de la destilación.
+
+Tipos de destilados.
+
+Equipos de destilación: componentes, funcionamiento, regulación.
+
+Destilación discontinua. Destilación continua. Rectificación.
+
+Subproductos de destilería.
+
+Materias primas en licores y aguardientes.
+
+Métodos de elaboración de licores y aguardientes.
+
+Licores sin alcohol.
+
+Equipos para la elaboración de licores y aguardientes.
+
+Operaciones de acabado.
+
+Uso eficiente de los recursos energéticos.
+
+Elaboración de vinagre y sidra:
+
+Historia y normativa.
+
+El vinagre. Origen. Fermentación acética.
+
+Diferentes sistemas de producción.
+
+Controles y condiciones óptimas para favorecer la fermentación acética.
+
+Características de los diferentes tipos de vinagre.
+
+Elaboración y tipos de sidra.
+
+Prácticas y tratamientos permitidos. Operaciones de acabado.
+
+Composición química del vinagre y de la sidra. Determinaciones analíticas.
+
+Alteraciones del vinagre y de la sidra.
+
+Obtención de bebidas espirituosas:
+
+Denominaciones de origen e identificaciones geográficas protegidas de bebidas espirituosas. Normativa.
+
+Materias primas y auxiliares.
+
+Elaboraciones. Tipos
+
+Envejecimiento.
+
+Aguardientes de vino (Brandy, Cognac, Armagnac, y otros).
+
+Aguardientes de orujo de uva (orujo gallego, Marc y otros).
+
+Otras bebidas espirituosas.
+
+Elaboración de vinos aromatizados, aperitivos y otros:
+
+Normativa.
+
+Origen: vinos aromatizados, aperitivos vínicos, vinos quinados.
+
+Elaboración: especies vegetales empleadas. Técnicas: maceración, adición de extractos.
+
+Defectos y alteraciones.
+
+Elaboración de cerveza:
+
+Normativa.
+
+Materias primas y auxiliares.
+
+Repercusión de la calidad del agua en la elaboración de la cerveza.
+
+Malteado y maceración.
+
+Filtración, ebullición y clarificación del mosto.
+
+Microorganismos: levaduras y bacterias.
+
+Fermentación del mosto.
+
+Tratamientos post-fermentativos.
+
+Composición y calidad de la cerveza.
+
+Tipos de cervezas.
+
+Envasado de vinos y otras bebidas:
+
+Características de los locales y zonas de envasado.
+
+Funciones del envase y embalaje: fundamentos básicos.
+
+Equipos de envasado. Enjuagadoras, llenadoras, taponadoras.
+
+Mantenimiento de primer nivel, regulación y dispositivos de seguridad de los equipos de envasado.
+
+Limpieza y desinfección de los equipos e instalaciones de envasado.
+
+Controles básicos durante el envasado.
+
+Equipos de etiquetado/capsulado. Mantenimiento de primer nivel, regulación, dispositivos de seguridad y limpieza.
+
+Equipos de embalaje, mantenimiento de primer nivel y regulación.
+
+Codificación de la información del lote. Legislación. Equipos y técnicas empleadas.
+
+Medidas de higiene y seguridad de los equipos de etiquetado, capsulado y embalaje.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de elaboración/transformación y mantenimiento de equipos e instalaciones.
+
+La elaboración de otras bebidas incluye aspectos como:
+
+Recepción, conservación, almacenamiento y preparación de la materia prima, auxiliares y productos.
+
+Preparación y regulación de los equipos e instalaciones de los diferentes procesos.
+
+Ejecución de los procesos de destilación, obtención de vinagres y otros productos derivados.
+
+Ejecución de los procesos de elaboración de bebidas espirituosas, vinos aromatizados, aperitivos y otros.
+
+Aprovechamiento de los subproductos de la vinificación.
+
+Toma de muestras y control del producto durante el proceso.
+
+Aplicación de los productos específicos de limpieza.
+
+Control de los riesgos laborales en el manejo de los equipos e instalaciones.
+
+Actuación de acuerdo a los protocolos del plan de calidad.
+
+Aplicación de las medidas de protección ambiental: ahorro y alternativas energéticas. Residuos sólidos y envases. Emisiones a la atmósfera. Vertidos enológicos: líquidos y sólidos. Otras técnicas de prevención o protección.
+
+Las actividades profesionales asociadas a esta función se aplican en la elaboración de:
+
+Aguardientes y licores.
+
+Vinagres.
+
+Malta y cervezas.
+
+Sidra.
+
+Bebidas espirituosas.
+
+Aromatizados, aperitivos y otros.
+
+La formación del módulo contribuye a alcanzar los objetivos generales: a), b), c), f), g), h), i), k), l), m), n), o), p) y q) del ciclo formativo y las competencias a), b), e), f), g), h), j), k), l), n), ñ) y o) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Los procedimientos de elaboración de cervezas, sidras, mostos, destilados, vinagres y otros productos derivados de la uva y el vino.
+
+Identificación de los requerimientos y operaciones de limpieza, preparación y mantenimiento de los equipos de destilería y licorería.
+
+Realización en el taller-bodega de las diferentes operaciones de destilación, elaboración de licores, aperitivos, cervezas y vinos aromatizados.
+
+Realización de los diferentes controles de la materia prima, del proceso y del producto terminado.
+
+Manejo de la información asociada al proceso. Instrucciones, controles, elaboración de informes.
+
+Adopción de las medidas de seguridad necesarias en el manejo de los equipos, instalaciones y productos.
+
+**Módulo Profesional: Análisis sensorial**
+
+Código: 0321
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Prepara los materiales e instalaciones del análisis sensorial valorando su influencia en la apreciación de los atributos organolépticos.
+
+Criterios de evaluación:
+
+a) Se han descrito las condiciones ambientales de la sala de cata y su influencia en el análisis sensorial.
+
+b) Se han identificado las instalaciones y equipamientos de la sala de cata.
+
+c) Se han reconocido los materiales auxiliares de la cata (decantadores, calentadores, escupideras, termómetros, sacacorchos y otros).
+
+d) Se ha justificado la importancia de la forma y tamaño de la copa de cata en las percepciones sensoriales.
+
+e) Se ha valorado la temperatura en la apreciación de las características organolépticas.
+
+f) Se han identificado las pruebas sensoriales: triangulares, pareadas, analíticas, de clasificación, de análisis gustativo, descriptivo y otras.
+
+g) Se ha reconocido el vocabulario técnico que describe las sensaciones organolépticas.
+
+h) Se han identificado las fichas de cata y las hojas de perfil.
+
+i) Se ha valorado el orden y limpieza en la ejecución de la cata.
+
+2\. Realiza el análisis sensorial describiendo las fases de la degustación.
+
+Criterios de evaluación:
+
+a) Se han descrito los sentidos que intervienen en la degustación.
+
+b) Se han identificado los atributos positivos y negativos del aceite de oliva.
+
+c) Se han caracterizado las principales sustancias del vino y otras bebidas.
+
+d) Se han reconocido los sabores y aromas fundamentales, las zonas de impacto y los equilibrios y refuerzos entre ellos.
+
+e) Se han reconocido los umbrales de percepción de los aromas y sabores.
+
+f) Se ha descrito la metodología para la cata de aceites de oliva, vinos y otras bebidas.
+
+g) Se ha realizado el análisis sensorial de aceites de oliva, vino y otras bebidas.
+
+h) Se ha efectuado una valoración global del conjunto de sensaciones.
+
+i) Se ha realizado el registro de las sensaciones organolépticas en la ficha de cata y hoja de perfil.
+
+3\. Relaciona los atributos sensoriales con la calidad del producto, valorando los factores implicados.
+
+Criterios de evaluación:
+
+a) Se ha descrito la evolución del concepto de calidad en aceites de oliva, vinos y otras bebidas.
+
+b) Se han relacionado las sensaciones organolépticas con la calidad de la materia prima.
+
+c) Se ha identificado la influencia del sistema de elaboración en los atributos sensoriales del producto.
+
+d) Se ha reconocido la influencia de las condiciones de conservación y almacenamiento en las características organolépticas.
+
+e) Se ha valorado la importancia del análisis sensorial en la clasificación de los aceites de oliva.
+
+f) Se han reconocido los defectos organolépticos originados durante el proceso productivo.
+
+g) Se ha valorado la evolución de las características organolépticas.
+
+h) Se ha comprobado la concordancia de las características organolépticas apreciadas con el producto catado.
+
+4\. Identifica el origen geográfico y varietal de los productos, reconociendo sus atributos específicos.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las diferentes regiones productoras (clima, suelo, variedades, técnicas de cultivo).
+
+b) Se ha valorado la influencia de las técnicas de cultivo.
+
+c) Se ha analizado la influencia de las condiciones climáticas en la calidad de la cosecha.
+
+d) Se han descrito las características organolépticas de los aceites de oliva virgen, vinos y otras bebidas.
+
+e) Se han tipificado los productos relacionados con un área geográfica determinada y con una denominación de origen.
+
+f) Se han identificado los descriptores propios de cada variedad y de cada denominación de origen.
+
+g) Se ha adoptado una actitud abierta e innovadora ante la aparición de nuevos productos, nuevas variedades y nuevas regiones productoras.
+
+Duración: 50 horas.
+
+Contenidos básicos
+
+Preparación de materiales e instalaciones de cata:
+
+Sala de cata. Instalaciones. Equipamiento. Condiciones ambientales.
+
+Identificación de los útiles y accesorios de cata.
+
+Organización de la cata de aceites de oliva y de vinos.
+
+Fichas de cata. Hojas de perfil.
+
+Tipos de cata. Vocabulario.
+
+Paneles de cata. Formación.
+
+Análisis sensorial:
+
+Los sentidos. Funcionamiento.
+
+Atributos positivos y negativos de los aceites de oliva.
+
+Descripción de los componentes de los vinos y otras bebidas. Relación con las características organolépticas.
+
+Equilibrios y refuerzos entre los sabores y aromas. Umbrales de percepción.
+
+Metodología de la cata de aceites de oliva. Fases de la degustación.
+
+Metodología de la cata de vinos. Fases de la degustación.
+
+Registro de las sensaciones organolépticas en fichas de cata y hojas de perfil.
+
+Relación de los atributos sensoriales con la calidad del producto:
+
+Evolución del concepto de calidad.
+
+Relación de las sensaciones organolépticas con los componentes, calidad de las materias primas y sistema de elaboración.
+
+Influencia del almacenamiento y conservación en bodega.
+
+Valoración del estado de conservación de los productos.
+
+Aplicación de la cata en la clasificación de los aceites de oliva.
+
+Evolución de los aceites de oliva, vinos y otras bebidas en el tiempo.
+
+Concordancia de las características organolépticas con el producto catado.
+
+Valoración de la relación calidad/precio.
+
+Identificación del origen geográfico y varietal:
+
+Caracterización de las regiones productoras y sus países de origen.
+
+Denominaciones de origen. Normativa de aplicación.
+
+Técnicas de cultivo. Influencia en las características organolépticas.
+
+Cosecha. Influencia del clima.
+
+Descriptores organolépticos asociados a las variedades de aceituna y uva.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de elaboración/transformación y control de calidad y comercio y promoción, en el sector oleícola, vinícola y de otras bebidas.
+
+La elaboración/transformación de aceites de oliva, vinos y otras bebidas incluye aspectos como:
+
+Control organoléptico de la calidad de la materia prima.
+
+Control organoléptico del proceso de transformación de la materia prima.
+
+Control organoléptico de las desviaciones durante el proceso.
+
+El control de calidad incluye aspectos como:
+
+Control organoléptico del producto final.
+
+El comercio y la promoción incluye aspectos como:
+
+Conocimiento de las regiones productoras.
+
+Conocimiento de las denominaciones de origen.
+
+Conocimiento de nuevos productos.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+Aceites de Oliva.
+
+Vinos.
+
+Cerveza.
+
+Sidra.
+
+Licores.
+
+Destilados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), k) y u) del ciclo formativo, y las competencias j), o) y p) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Caracterización de los materiales e instalaciones utilizados en el análisis sensorial y su influencia.
+
+La metodología empleada en el análisis organoléptico.
+
+Relación de las características organolépticas del producto con su calidad.
+
+Relación de las características sensoriales con la materia prima y el origen geográfico.
+
+**Módulo Profesional: Venta y comercialización de productos alimentarios**
+
+Código: 0146
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Establece los precios de los productos alimentarios elaborados, analizando costes y beneficios.
+
+Criterios de evaluación:
+
+a) Se han identificado los tipos de costes existentes.
+
+b) Se han determinado las variables que intervienen en el coste y en el beneficio.
+
+c) Se ha realizado el escandallo del producto elaborado.
+
+d) Se han interpretado las fórmulas y conceptos de interés, descuento y márgenes comerciales.
+
+e) Se ha fijado el precio de un producto con un beneficio establecido.
+
+f) Se han actualizado los precios a partir de la variación de los costes.
+
+g) Se han identificado los condicionantes de los precios de venta de los productos alimentarios.
+
+2\. Aplica las técnicas de venta relacionándolas con los diferentes canales de comercialización.
+
+Criterios de evaluación:
+
+a) Se han identificado las características de los productos, la imagen de marca y el posicionamiento de la empresa y de la competencia.
+
+b) Se ha especificado la documentación necesaria de la operación de venta.
+
+c) Se han reconocido los sistemas de comunicación presencial y no presencial, aplicando las técnicas que facilitan la empatía con el cliente.
+
+d) Se han reconocido las variables que intervienen en la conducta y motivación de la compra por parte del cliente.
+
+e) Se ha identificado la tipología de cliente y sus necesidades de compra.
+
+f) Se han adaptado las técnicas de venta al medio de comunicación empleado (presencial, teléfono, Internet, televisión interactiva, telefonía móvil, correo postal, correo electrónico).
+
+3\. Realiza la operación de venta, justificando las fases y variables que intervienen.
+
+Criterios de evaluación:
+
+a) Se han enumerado las fases de la operación de venta.
+
+b) Se han descrito las variables que intervienen en el precio de venta.
+
+c) Se ha calculado el interés de aplazamiento, las cuotas de pago y el precio de la operación según las condiciones del proceso pactado.
+
+d) Se han calculado los descuentos, el precio de venta total y las ratios comerciales en función de las condiciones de pago e impuestos que gravan la operación de venta.
+
+e) Se ha identificado y cumplimentado la documentación asociada al cobro y al pago.
+
+f) Se ha descrito el proceso de anulación de operaciones de cobro.
+
+g) Se ha reconocido el potencial de las nuevas tecnologías como elemento de consulta y apoyo.
+
+4\. Atiende al cliente, describiendo las técnicas de comunicación empleadas.
+
+Criterios de evaluación:
+
+a) Se han descrito las variables que influyen en el proceso de atención al cliente.
+
+b) Se ha descrito la forma y actitud en la atención y asesoramiento al cliente.
+
+c) Se han explicado las técnicas de venta básicas para captar la atención, y despertar el interés en función del tipo de cliente.
+
+d) Se han seleccionado los argumentos adecuados ante las objeciones planteadas por el cliente.
+
+e) Se han analizado las estrategias para identificar la satisfacción del cliente.
+
+f) Se han descrito las técnicas que potencian el vínculo con el cliente.
+
+g) Se ha valorado el potencial de las nuevas tecnologías en la atención al cliente.
+
+5\. Resuelve quejas y reclamaciones, valorando sus implicaciones en la satisfacción del cliente.
+
+Criterios de evaluación:
+
+a) Se han identificado las técnicas para prever conflictos.
+
+b) Se han descrito las técnicas utilizadas para afrontar quejas y reclamaciones de los clientes.
+
+c) Se ha reconocido el proceso que se debe seguir ante una reclamación.
+
+d) Se han identificado los elementos formales que contextualizan una reclamación.
+
+e) Se ha identificado la documentación asociada a las reclamaciones.
+
+f) Se han analizado las consecuencias de una reclamación no resuelta.
+
+g) Se ha valorado la importancia del servicio post-venta en los procesos comerciales.
+
+Duración: 40 horas.
+
+Contenidos básicos
+
+Establecimiento de precios de los productos alimentarios:
+
+Costes y beneficios. Conceptos básicos y tipos.
+
+Cálculo del coste de las materias primas. Registro documental.
+
+Componentes del precio de venta y sus condicionantes.
+
+Métodos de fijación de precios.
+
+Márgenes y descuentos. Escandallo. Ratios.
+
+Cálculo de precios.
+
+Aplicación de las técnicas de venta:
+
+Posicionamiento e imagen de marca.
+
+Canales de venta. Métodos de búsqueda.
+
+Organización de la venta. Agenda comercial.
+
+Fases de la venta presencial y no presencial.
+
+Necesidades y gustos del cliente.
+
+Habilidades de comunicación.
+
+Realización de la operación de venta:
+
+Fases de la operación de venta.
+
+Precio de venta. Conceptos básicos y variables.
+
+Cálculo comercial en las operaciones de venta.
+
+Medios de pago.
+
+Documentación del cobro y del pago.
+
+Aplicación de las nuevas tecnologías en las operaciones de venta.
+
+Atención al cliente:
+
+Variables que intervienen.
+
+Proceso de comunicación.
+
+Técnicas de aplicación en la atención al cliente. Naturaleza. Efectos.
+
+Aplicación de las nuevas tecnologías en la atención al cliente.
+
+Estrategias de fidelización de clientes.
+
+Resolución de reclamaciones y quejas:
+
+Técnicas para prever conflictos.
+
+Técnicas para afrontar quejas y reclamaciones.
+
+Procedimiento de recogida de las reclamaciones/quejas presenciales y no presenciales.
+
+Elementos formales que contextualizan la reclamación.
+
+Configuración documental de la reclamación.
+
+Resolución de quejas y reclamaciones. Repercusiones económicas.
+
+Procedimientos utilizados en el servicio post-venta.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de comercio y promoción en pequeñas empresas.
+
+El comercio y promoción en pequeñas empresas incluye aspectos como:
+
+Atención al cliente.
+
+Promoción y venta.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+Aceites de Oliva.
+
+Vinos.
+
+Cerveza.
+
+Sidra.
+
+Licores.
+
+Destilados.
+
+La formación del módulo contribuye a alcanzar los objetivos generales n), ñ), t), u) y v) del ciclo formativo, y las competencias m), p), q), s) y u) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Estimación de precios de productos y bebidas elaborados.
+
+Cálculo de costes de materias primas, de producción y el margen comercial o beneficio.
+
+Presentación y disposición de los productos en expositores que motiven su compra, aplicando las condiciones de conservación adecuadas.
+
+Resolución de conflictos y reclamaciones.
+
+Atención y asesoramiento a posibles clientes.
+
+**Módulo Profesional: Operaciones y control de almacén en la industria alimentaria**
+
+Código: 0030
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Aprovisiona el almacén y la línea de producción, identificando las necesidades y existencias.
+
+Criterios de evaluación:
+
+a) Se han definido los tipos de stock y sus variables.
+
+b) Se han identificado los diferentes tipos de inventario.
+
+c) Se han efectuado los pedidos en cantidad, calidad y plazos.
+
+d) Se han caracterizado los medios de transporte interno.
+
+e) Se han determinado las necesidades de suministros de géneros, indicando las cantidades.
+
+f) Se han identificado las condiciones de seguridad asociadas al aprovisionamiento.
+
+g) Se ha valorado la relevancia del control de almacén en el proceso productivo.
+
+h) Se han valorado nuevas tendencias logísticas en la distribución y almacenamiento de productos.
+
+2\. Recepciona las materias primas y auxiliares describiendo la documentación asociada y los requerimientos de transporte.
+
+Criterios de evaluación:
+
+a) Se ha identificado la documentación que acompaña a las mercancías.
+
+b) Se han determinado los métodos de apreciación, medida y cálculo de cantidades.
+
+c) Se han descrito los sistemas de protección de las mercancías.
+
+d) Se han identificado las alteraciones que pueden sufrir las mercancías en el transporte.
+
+e) Se han caracterizado los distintos medios de transporte externo.
+
+f) Se ha determinado la composición del lote en la recepción de las mercancías.
+
+g) Se ha comprobado que la mercancía recepcionada se corresponde con la solicitada.
+
+3\. Almacena las mercancías seleccionando los procedimientos y técnicas en función de sus características.
+
+Criterios de evaluación:
+
+a) Se han descrito y aplicado los criterios de clasificación de mercancías.
+
+b) Se han interpretado los sistemas de codificación.
+
+c) Se han identificado los sistemas de almacenamiento.
+
+d) Se han descrito las características de los equipos de carga, descarga, transporte y manipulación interna.
+
+e) Se ha justificado la ubicación de las mercancías en el almacén.
+
+f) Se han identificado las condiciones de operatividad (orden, limpieza, temperatura, humedad y otras) del almacén.
+
+g) Se han determinado las normas de seguridad del almacén.
+
+4\. Expide los productos justificando las condiciones de transporte y conservación.
+
+Criterios de evaluación:
+
+a) Se ha cumplimentado la documentación relacionada con la expedición.
+
+b) Se ha registrado la salida de existencias actualizando el stock.
+
+c) Se han seleccionado las condiciones apropiadas para los distintos productos que se van a expedir.
+
+d) Se ha determinado la composición del lote y su protección.
+
+e) Se ha mantenido el orden y limpieza en la zona de expedición.
+
+f) Se han identificado las características de los medios de transporte para garantizar la calidad y seguridad alimentaria.
+
+5\. Maneja las aplicaciones informáticas valorando su utilidad en el control de almacén.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las aplicaciones informáticas.
+
+b) Se han identificado los parámetros iniciales de la aplicación según los datos propuestos.
+
+c) Se han modificado los archivos de productos, proveedores y clientes realizando altas y bajas.
+
+d) Se han registrado las entradas y salidas de existencias actualizando los archivos correspondientes.
+
+e) Se han elaborado, archivado e impreso los documentos de control de almacén.
+
+f) Se ha elaborado, archivado e impreso el inventario de existencias.
+
+Duración: 35 horas.
+
+Contenidos básicos
+
+Aprovisionamiento del almacén:
+
+Documentación técnica relacionada con el aprovisionamiento.
+
+Tipos de stock.
+
+Control de existencias. Inventario y sus tipos.
+
+Transporte interno.
+
+Recepción de mercancías:
+
+Operaciones y comprobaciones generales.
+
+Organización de la recepción.
+
+Medición y pesaje de cantidades.
+
+Documentación de entrada.
+
+Almacenamiento:
+
+Sistemas de almacenaje y tipos de almacén.
+
+Clasificación y codificación de mercancías.
+
+Ubicación de mercancías y señalización.
+
+Condiciones generales de conservación.
+
+Documentación de gestión del almacén.
+
+Expedición de mercancías:
+
+Operaciones y comprobaciones generales.
+
+Organización de la expedición.
+
+Documentación de salida.
+
+Transporte externo.
+
+Aplicación de las TIC en la gestión de almacén:
+
+Operaciones básicas en el manejo del ordenador.
+
+Aplicaciones informáticas (hojas de cálculo, procesadores de texto y aplicaciones específicas).
+
+Transmisión de la información: redes de comunicación y correo electrónico.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de logística en la elaboración de aceites de oliva, vinos y otras bebidas.
+
+La logística en la elaboración de aceites de oliva, vinos y otras bebidas incluye aspectos como:
+
+Control de aprovisionamientos.
+
+Control y manejo de almacenes.
+
+Control de expediciones.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+Todos los procesos o productos de la elaboración de aceites de oliva, vinos y otras bebidas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), j), p), q) y r) del ciclo formativo, y las competencias a), i), l), ñ) o), p) y q) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo están relacionadas con:
+
+Cumplimentar los documentos de control de almacén para su correcta gestión, empleando aplicaciones informáticas.
+
+Realizar supuestos prácticos de almacenamiento, recepción y control de existencias.
+
+**Módulo Profesional: Seguridad e higiene en la manipulación de alimentos**
+
+Código: 0031
+
+Resultados de aprendizaje y criterios de evaluación
+
+1\. Limpia/desinfecta utillaje, equipos e instalaciones, valorando su repercusión en la calidad higiénico-sanitaria de los productos.
+
+Criterios de evaluación:
+
+a) Se han identificado los requisitos higiénico-sanitarios que deben cumplir los equipos, utillaje e instalaciones de manipulación de alimentos.
+
+b) Se han evaluado las consecuencias para la inocuidad de los productos y la seguridad de los consumidores de una limpieza/desinfección inadecuada.
+
+c) Se han descrito los procedimientos, frecuencias y equipos de limpieza y desinfección (L+D).
+
+d) Se ha efectuado la limpieza o desinfección con los productos establecidos, asegurando la completa eliminación de éstos.
+
+e) Se han descrito los parámetros objeto de control asociados al nivel de limpieza o desinfección requeridos.
+
+f) Se han reconocido los tratamientos de Desratización, Desinsectación y Desinfección (DDD).
+
+g) Se han descrito los procedimientos para la recogida y retirada de los residuos de una unidad de manipulación de alimentos.
+
+h) Se han clasificado los productos de limpieza, desinfección y los utilizados para los tratamientos de DDD y sus condiciones de empleo.
+
+i) Se han evaluado los peligros asociados a la manipulación de productos de limpieza, desinfección y tratamientos DDD.
+
+2\. Mantiene Buenas Prácticas Higiénicas evaluando los peligros asociados a los malos hábitos higiénicos.
+
+Criterios de evaluación:
+
+a) Se han reconocido las normas higiénico-sanitarias de obligado cumplimiento relacionadas con las prácticas higiénicas.
+
+b) Se han identificado los peligros sanitarios asociados a los malos hábitos y sus medidas de prevención.
+
+c) Se han identificado las medidas de higiene personal asociadas a la manipulación de alimentos.
+
+d) Se han reconocido todos aquellos comportamientos o actitudes susceptibles de producir una contaminación en los alimentos.
+
+e) Se han enumerado las enfermedades de obligada declaración.
+
+f) Se ha reconocido la vestimenta de trabajo completa y sus requisitos de limpieza.
+
+g) Se han identificado los medios de protección de cortes, quemaduras o heridas del manipulador.
+
+3\. Aplica Buenas Prácticas de Manipulación de los Alimentos relacionando éstas con la calidad higiénico-sanitaria de los productos.
+
+Criterios de evaluación:
+
+a) Se han reconocido las normas higiénico-sanitarias de obligado cumplimiento relacionadas con las Prácticas de Manipulación.
+
+b) Se han clasificado y descrito los principales riesgos y toxiinfecciones de origen alimentario relacionándolas con los agentes causantes.
+
+c) Se ha valorado la repercusión de una mala manipulación de alimentos en la salud de los consumidores.
+
+d) Se han descrito las principales alteraciones de los alimentos.
+
+e) Se han descrito los diferentes métodos de conservación de alimentos.
+
+f) Se ha evitado el contacto de materias primas o semielaborados con los productos procesados.
+
+g) Se han identificado alergias e intolerancias alimentarias.
+
+h) Se ha evitado la posible presencia de trazas de alérgenos en productos libres de los mismos.
+
+i) Se han reconocido los procedimientos de actuación frente a alertas alimentarias.
+
+4\. Aplica los sistemas de autocontrol basados en el APPCC y de control de la trazabilidad justificando los principios asociados al mismo.
+
+Criterios de evaluación:
+
+a) Se ha identificado la necesidad y trascendencia para la seguridad alimentaria del sistema de autocontrol.
+
+b) Se han reconocido los conceptos generales del sistema de Análisis de Peligros y Puntos de Control Críticos (APPCC).
+
+c) Se han definido conceptos clave para el control de potenciales peligros sanitarios: punto crítico de control, límite crítico, medidas de control y medidas correctivas.
+
+d) Se han definido los parámetros asociados al control de los puntos críticos de control.
+
+e) Se han cumplimentado los registros asociados al sistema.
+
+f) Se ha relacionado la trazabilidad con la seguridad alimentaria.
+
+g) Se ha documentado y trazado el origen, las etapas del proceso y el destino del alimento.
+
+h) Se han reconocido las principales normas voluntarias implantadas en el sector alimentario (BRC, IFS, UNE-EN ISO 9001:2000, UNE-EN ISO 22000:2005 y otras).
+
+5\. Utiliza los recursos eficientemente, evaluando los beneficios ambientales asociados.
+
+Criterios de evaluación:
+
+a) Se ha relacionado el consumo de cada recurso con el impacto ambiental que provoca.
+
+b) Se han definido las ventajas que el concepto de reducción de consumos aporta a la protección ambiental.
+
+c) Se han descrito las ventajas ambientales del concepto de reutilización de los recursos.
+
+d) Se han reconocido aquellas energías y/o recursos cuya utilización sea menos perjudicial para el ambiente.
+
+e) Se han caracterizado las diferentes metodologías existentes para el ahorro de energía y el resto de recursos que se utilicen en la industria alimentaria y de restauración.
+
+f) Se han identificado las no-conformidades y las acciones correctivas relacionadas con el consumo de los recursos.
+
+6\. Recoge los residuos de forma selectiva reconociendo sus implicaciones a nivel sanitario y ambiental.
+
+Criterios de evaluación:
+
+a) Se han identificado y clasificado los distintos tipos de residuos generados de acuerdo a su origen, estado y necesidad de reciclaje, depuración o tratamiento.
+
+b) Se han reconocido los efectos ambientales de los residuos, contaminantes y otras afecciones originadas en el proceso productivo.
+
+c) Se han descrito las técnicas de recogida, selección, clasificación y eliminación o vertido de residuos.
+
+d) Se han reconocido los parámetros que posibilitan el control ambiental en los procesos de producción de los alimentos relacionados con los residuos, vertidos o emisiones.
+
+e) Se han establecido por orden de importancia las medidas tomadas para la protección ambiental.
+
+f) Se han identificado las no-conformidades y las acciones correctivas relacionadas con la gestión de los residuos.
+
+Duración: 35 horas.
+
+Contenidos básicos
+
+Limpieza y desinfección de equipos e instalaciones:
+
+Conceptos y niveles de limpieza.
+
+Legislación y requisitos de limpieza generales de utillaje, equipos e instalaciones.
+
+Peligros sanitarios asociados a aplicaciones de limpieza y desinfección o desratización y desinsectación inadecuados.
+
+Procesos y productos de limpieza.
+
+Mantenimiento de Buenas Prácticas Higiénicas:
+
+Normativa general de higiene aplicable a la actividad.
+
+Alteración y contaminación de los alimentos debido a hábitos inadecuados de los manipuladores.
+
+Guías de Prácticas Correctas de Higiene (GPCH).
+
+Aplicación de las Buenas Prácticas de Manipulación de alimentos:
+
+Normativa general de manipulación de alimentos.
+
+Alteración y contaminación de los alimentos debido a prácticas de manipulación inadecuadas.
+
+Peligros sanitarios asociados a prácticas de manipulación inadecuadas.
+
+Métodos de conservación de los alimentos.
+
+Aplicación de sistemas de autocontrol:
+
+Medidas de control relacionadas con los peligros sanitarios en la manipulación de los alimentos.
+
+Pasos previos a los siete principios del sistema de autocontrol APPCC.
+
+Los siete principios del sistema de autocontrol APPCC.
+
+Trazabilidad.
+
+Utilización de eficiente de recursos:
+
+Impacto ambiental provocado por el uso.
+
+Concepto de las 3 R-s: Reducción, Reutilización y Reciclado.
+
+Metodologías para la reducción del consumo de los recursos.
+
+Recogida selectiva de residuos:
+
+Legislación ambiental.
+
+Descripción de los residuos generados y sus efectos ambientales.
+
+Técnicas de recogida, clasificación y eliminación o vertido de residuos.
+
+Parámetros para el control ambiental en los procesos de producción de los alimentos.
+
+Orientaciones pedagógicas
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de seguridad alimentaria y ambiental.
+
+La seguridad alimentaria y ambiental incluye aspectos como:
+
+Aplicación de normas de higiene.
+
+Normas de manipulación de alimentos.
+
+Control de residuos.
+
+Minimización del impacto ambiental.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+Todos los procesos o productos de la Industria Alimentaria.
+
+La formación del módulo contribuye a alcanzar los objetivos generales l), o), p), r), s) y v) del ciclo formativo, y las competencias k), n), ñ), p), q), r), s) y t) del título.
+
+Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+Cumplimentación de los documentos asociados al control del proceso y de la trazabilidad.
+
+Limpieza/desinfección de equipos e instalaciones y comprobación de la eficacia de la misma.
+
+Aplicación del APPCC.
+
+Control de residuos.
+
+**0156. Inglés Profesional (GM)**
+
+**1709. Itinerario personal para la empleabilidad I**
+
+**1710. Itinerario personal para la empleabilidad II**
+
+**1664. Digitalización aplicada a los sectores productivos (GM)**
+
+**1708. Sostenibilidad aplicada al sistema productivo**
+
+> Téngase en cuenta que el código, duración del currículo básico, resultados de aprendizaje y criterios de evaluación de los módulos profesionales 0156, 1709, 1710,1664 y 1708, figuran como anexos IX, V, VI y VIII del Real Decreto 659/2023, de 18 de julio, según establece el art. 7 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+**1713. Proyecto intermodular**
+
+## Currículo básico módulo de Proyecto intermodular de grado medio
+
+Módulo Profesional: Proyecto intermodular.
+
+Duración: 50 horas.
+
+Código: 1713.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1\. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
+
+Criterios de evaluación:
+
+a) Se han identificado las empresas tipo más representativas del sector.
+
+b) Se ha descrito la estructura organizativa de las empresas.
+
+c) Se han caracterizado los principales departamentos.
+
+d) Se han determinado las funciones de cada departamento.
+
+e) Se ha evaluado el volumen de negocio de acuerdo a las necesidades de los clientes.
+
+f) Se ha definido la estrategia para dar respuesta a las demandas.
+
+g) Se han valorado los recursos humanos y materiales necesarios.
+
+h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia aplicada.
+
+i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
+
+2\. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
+
+Criterios de evaluación:
+
+a) Se han identificado las necesidades.
+
+b) Se han planteado en grupo posibles soluciones.
+
+c) Se ha obtenido la información relativa a las soluciones planteadas.
+
+d) Se han identificado aspectos innovadores que puedan ser de aplicación.
+
+e) Se ha realizado el estudio de viabilidad técnica.
+
+f) Se han identificado las partes que componen el proyecto.
+
+g) Se han previsto los recursos materiales y humanos para realizarlo.
+
+h) Se ha realizado el presupuesto económico correspondiente.
+
+i) Se ha definido y elaborado la documentación para su diseño.
+
+j) Se han identificado los aspectos relacionados con la calidad del proyecto.
+
+k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
+
+3\. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
+
+Criterios de evaluación:
+
+a) Se han temporizado las secuencias de las actividades.
+
+b) Se han determinado los recursos y la logística de cada actividad.
+
+c) Se han identificado permisos y autorizaciones en caso de ser necesarios.
+
+d) Se han identificado las actividades que implican riesgos en su ejecución.
+
+e) Se ha tenido en cuenta el plan de prevención de riesgos y los medios y equipos necesarios.
+
+f) Se han asignado recursos materiales y humanos a cada actividad.
+
+g) Se han tenido en cuenta posibles imprevistos.
+
+h) Se han propuesto soluciones a los posibles imprevistos.
+
+i) Se ha elaborado la documentación necesaria.
+
+4\. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
+
+Criterios de evaluación:
+
+a) Se ha definido el procedimiento de seguimiento de las actividades.
+
+b) Se ha verificado la calidad de los resultados de las actividades.
+
+c) Se han identificado posibles desviaciones de la planificación y/o los resultados esperados.
+
+d) Se ha informado de las desviaciones en caso de ser necesario.
+
+e) Se han solucionado las desviaciones y se han documentado las intervenciones.
+
+f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
+
+5\. Transmite información con claridad, de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+a) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+b) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+c) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+> Se modifica por el art. 7 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## ANEXO II — Espacios
+
+Espacio formativo
+
+Aula polivalente.
+
+Sala de cata.
+
+Taller – almazara – bodega.
+
+Laboratorio.
+
+Almacén.
+
+## ANEXO III — Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Aceites de Oliva y Vinos
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0316. Materias primas y productos en la industria oleícola, vinícola y de otras bebidas.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0317. Extracción de aceites de oliva.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0318. Elaboración de vinos.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">0116. Principios de mantenimiento electromecánico.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0319. Acondicionamiento de aceites de oliva.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0320. Elaboración de otras bebidas y derivados.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0321. Análisis sensorial.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0146. Venta y comercialización de productos alimentarios.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0030. Operaciones y control de almacén en la industria alimentaria.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0031. Seguridad e higiene en la manipulación de alimentos.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0156. Inglés profesional (GM).</td>
+<td>– Inglés.</td>
+<td>
+<p>– Catedráticos de enseñanza secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">1713. Proyecto intermodular.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– cuerpo de profesores especialistas en sectores singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1709. Itinerario personal para la empleabilidad I.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1710. Itinerario personal para la empleabilidad II.</td>
+<td>– Formación y Orientación Laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">1708. Sostenibilidad aplicada al sistema productivo.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Procesos en la industria alimentaria.</p>
+<p>– Formación y Orientación Laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">1664. Digitalización aplicada a los sectores productivos (GM).</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Procesos en la industria alimentaria.</p>
+<p>– Formación y Orientación Laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprimen los anexos III A, III B y III C y se añade el anexo III, con el contenido que figura como anexo XIV del Real Decreto 499/2024, de 21 de mayo, según establece su art. 8.12. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)
+
+## ANEXO IV — Convalidaciones entre módulos profesionales establecidos en los títulos de Técnico en Elaboración de Aceites y Jugos y Técnico en Elaboración de Vinos y Otras Bebidas, al amparo de la Ley Orgánica 1/1990 y los establecidos en el título de Técnico en Aceites de Oliva y Vinos al amparo de la Ley Orgánica 2/2006
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria.única.2 del Real Decreto 1085/2020, de 9 de diciembre. [Ref. BOE-A-2020-17274](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17274)
+
+## ANEXO V A) — Correspondencia de las unidades de competencia acreditadas de acuerdo a lo establecido en el artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, con los módulos profesionales para su convalidación
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC0029_2: Conducir los procesos de extracción y realizar las operaciones de refinado y corrección de aceites de oliva. | 0317 Extracción de aceites de oliva.<br>0031 Seguridad e higiene en la manipulación de alimentos. |
+| UC0030_2: Controlar el proceso de trasiego y almacenamiento de aceite de oliva en bodega. | 0319 Acondicionamiento de aceites de oliva. |
+| UC0548_2: Controlar la materia prima y preparar las instalaciones y la maquinaria de bodega.<br>UC0549_2: Controlar las fermentaciones y el acabado de los vinos.<br>UC0550_2: Realizar vinificaciones especiales. | 0318 Elaboración de vinos.<br>0031 Seguridad e higiene en la manipulación de alimentos. |
+| UC0551_2: Conducir el proceso de destilación y elaborar aguardientes y licores.<br>UC0314_2: Controlar el proceso de envasado y acondicionamiento de bebidas. | 0320 Elaboración de otras bebidas y derivados.<br>0031 Seguridad e higiene en la manipulación de alimentos. |
+
+## ANEXO V B) — Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación
+
+| Módulos profesionales superados | Unidades de competencia acreditables |
+|---|---|
+| 0317 Extracción de aceites de oliva.<br>0031 Seguridad e higiene en la manipulación de alimentos. | UC0029_2: Conducir los procesos de extracción y realizar las operaciones de refinado y corrección de aceites de oliva. |
+| 0319 Acondicionamiento de aceites de oliva. | UC0030_2: Controlar el proceso de trasiego y almacenamiento de aceite de oliva en bodega. |
+| 0318 Elaboración de vinos.<br>0031 Seguridad e higiene en la manipulación de alimentos. | UC0548_2: Controlar la materia prima y preparar las instalaciones y la maquinaria de bodega.<br>UC0549_2: Controlar las fermentaciones y el acabado de los vinos.<br>UC0550_2: Realizar vinificaciones especiales. |
+| 0320 Elaboración de otras bebidas y derivados.<br>0031 Seguridad e higiene en la manipulación de alimentos. | UC0551_2: Conducir el proceso de destilación y elaborar aguardientes y licores.<br>UC0314_2: Controlar el proceso de envasado y acondicionamiento de bebidas. |
+
+> Información relacionada
+
+> Téngase en cuenta que las referencias contenidas en el articulado a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad», y que se deja sin efecto cualquier referencia a titulaciones habilitantes a efectos de docencia que remita al extinto anexo III B), según establecen las disposiciones adicionales 3 y 4 del Real Decreto 499/2024, de 21 de mayo. [Ref. BOE-A-2024-10684](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10684)

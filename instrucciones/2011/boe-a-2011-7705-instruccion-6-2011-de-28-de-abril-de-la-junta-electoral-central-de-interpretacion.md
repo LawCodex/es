@@ -1,0 +1,149 @@
+---
+title: "Instrucción 6/2011, de 28 de abril, de la Junta Electoral Central, de interpretación del artículo 27.3 de la Ley Orgánica del Régimen Electoral General, sobre impedimentos y excusas justificadas para los cargos de Presidente y Vocal de las Mesas Electorales"
+identifier: "BOE-A-2011-7705"
+eli: "https://www.boe.es/eli/es/ins/2011/04/28/6"
+type: instruction
+rank: "Instrucción"
+jurisdiction: es
+language: es
+department: "Junta Electoral Central"
+date: 2011-04-28
+published: 2011-04-30
+in_force_from: 2011-05-01
+last_amended: 2025-02-05
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 103"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7705"
+retrieved: 2026-10-11
+---
+
+# Instrucción 6/2011, de 28 de abril, de la Junta Electoral Central, de interpretación del artículo 27.3 de la Ley Orgánica del Régimen Electoral General, sobre impedimentos y excusas justificadas para los cargos de Presidente y Vocal de las Mesas Electorales
+
+El artículo 27.3 de la Ley Orgánica de Régimen Electoral General (LOREG) establece que los designados Presidente y Vocal de las Mesas Electorales «disponen de un plazo de siete días para alegar ante la Junta Electoral de Zona causa justificada y documentada que les impida la aceptación del cargo». La eventual petición de excusa de los designados debe ser resuelta por la propia Junta Electoral de Zona «sin ulterior recurso en el plazo de cinco días», debiendo «en todo caso» considerarse «causa justificada el concurrir la condición de inelegible». En la redacción del propio artículo 27.3 LOREG contenida en Ley Orgánica 2/2011, de 28 de enero se ha añadido un nuevo pasaje donde se prevé que «las competencias de las Juntas Electorales de Zona» en la materia «se entenderán sin perjuicio de la potestad de unificación de criterios de la Junta Electoral Central».
+
+La condición de irrecurribles en vía administrativa de las resoluciones sobre las referidas excusas ha determinado que esta Junta Electoral Central solo se haya pronunciado sobre ellas en contadas ocasiones, normalmente por el procedimiento de consulta establecido en el artículo 20 LOREG. De ahí que el legislador haya considerado oportuno recordar de manera expresa a propósito de esta materia de excusas la competencia de la Junta Electoral Central para unificar los criterios de resolución de las distintas juntas electorales «en cualquier materia electoral» [artículo 19.1.c) LOREG]. Esta invitación a dictar una instrucción de obligado cumplimiento sobre excusas o impedimentos para el desempeño de los cargos de las Mesas Electorales ha sido formulada también por distintas instituciones, entre ellas, por el Defensor del Pueblo, por el «Sindic de Greuges» y por el Institut Català de les Dones.
+
+Dentro de la lista de causas de impedimento para formar parte de las Mesas Electorales conviene distinguir entre causas personales, causas familiares y causas profesionales. En cada uno de estos grupos interesa distinguir a su vez aquellas causas que en la vida social actual, por sí mismas, no ofrecen duda sobre la justificación de la excusa alegada, y aquellas otras en que la justificación o no de la excusa depende de circunstancias que han de ser apreciadas en cada caso. Respecto de los supuestos en los que se estima que la petición de excusa ha de ser atendida siempre, la labor de unificación encomendada a esta Junta Electoral permitirá la aplicación directa del criterio adoptado, una vez acreditada la causa en cuestión. Respecto de los supuestos en que la justificación de la causa alegada depende de las circunstancias del caso concreto, la unificación de criterios procurada en esta Instrucción se limita a ofrecer a las Juntas Electorales de Zona una indicación de los factores a tener en cuenta en la decisión a adoptar.
+
+No se incluye en la parte dispositiva referencia detallada a las causas justificadas de excusa consistentes en la condición de «inelegible» de la persona designada. Para la aplicación de este pasaje del artículo 27.3 LOREG basta en principio con la lectura de los artículos 6 y 154 de la propia Ley. Tampoco se detallan en la parte dispositiva de esta Instrucción aquellos supuestos particulares de excusa por incompatibilidad que se indican expresamente en la Ley, como el señalado en el artículo 27.1 LOREG.
+
+La lista de supuestos contenida en la presente disposición no es desde luego una lista cerrada. La competencia de las Juntas Electorales de Zona en la materia se extiende, no solo a los casos típicos previstos en la misma sino a otros distintos.
+
+Por otra parte, la experiencia en la aplicación del artículo 27.3 LOREG ha permitido la ampliación de dicha lista mediante las Instrucciones de esta Junta 2/2014, 3/2016 y 1/2018.
+
+INSTRUCCIÓN
+
+> Redactado conforme al texto consolidado publicado como Anexo de la Instrucción 1/2018, de 14 de marzo. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+## Primero. Objeto y alcance.
+
+1\. Esta Instrucción se dicta en ejercicio de la potestad de unificación de criterios atribuida a la Junta Electoral Central por el artículo 27.3 LOREG y de la potestad de cursar «Instrucciones de obligado cumplimiento» a las distintas Juntas Electorales «en cualquier materia electoral», reconocida en el artículo 19.1.c) LOREG.
+
+2\. Tanto los presidentes y vocales titulares como los suplentes designados de acuerdo con el artículo 26 LOREG pueden formular excusas para formar parte de las Mesas electorales. La acreditación de los impedimentos alegados debe constar en cualquier medio que tenga la cualidad legal de «documento». En los supuestos típicos previstos en la presente Instrucción los documentos acreditativos serán los expresamente indicados.
+
+3\. Los criterios unificados sobre excusas de participación en las Mesas electorales son los mismos para los presidentes y vocales titulares y para los presidentes y vocales suplentes.
+
+4\. La relación de los supuestos incluidos en esta Instrucción se lleva a cabo por vía de ejemplo y no debe por tanto considerarse exhaustiva. No se detallan en la presente disposición los supuestos legales de excusa por inelegibilidad (artículos 6 y 154 LOREG) ni los restantes casos en que la Ley indica directamente la condición de incompatibilidad con el desempeño de las funciones propias de las Mesas electorales (por ejemplo, artículo 27.1 LOREG).
+
+La Junta Electoral de Zona deberá valorar aquellas excusas que se acojan a situaciones análogas a las que, sin carácter exhaustivo, se enumeran a continuación.
+
+> Se añade un párrafo al punto 4 por el apartado primero de la Instrucción 7/2023, de 28 de junio. [Ref. BOE-A-2023-15138](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15138)
+
+> Redactado conforme al texto consolidado publicado como Anexo de la Instrucción 1/2018, de 14 de marzo. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+## Segundo. Causas relativas a la situación personal del miembro designado de la mesa electoral.
+
+1\. Deben entenderse como causas personales que en todo caso justifican, por sí solas, que el miembro designado de una Mesa electoral sea relevado del desempeño del cargo:
+
+1.ª Ser mayor de 65 años y menor de 70 (artículo 26.2 LOREG).
+
+2.ª La situación de discapacidad, declarada de acuerdo con el artículo 4 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+
+La aportación por el interesado de la declaración de discapacidad, cualquiera que sea el grado de ésta, bastará para la aceptación de la excusa por la Junta Electoral de Zona, sin que resulte necesario aportar certificado médico en el que se detallen las limitaciones que impidan o dificulten el desempeño de las funciones de miembro de una Mesa electoral.
+
+3.ª La condición de pensionista de incapacidad permanente absoluta y gran invalidez, declarada de acuerdo con el artículo 194 y concordantes de la Ley General de la Seguridad Social (LGSS).
+
+4.ª La situación de incapacidad temporal para el trabajo (artículo 169.1 LGSS), acreditada mediante la correspondiente baja médica.
+
+5.ª La gestación a partir de los seis meses de embarazo y el período correspondiente de descanso para el cuidado del menor por la madre biológica, por el progenitor distinto de ésta, o en los supuestos de adopción, de guarda con fines de adopción y de acogimiento, sea subsidiado o no por la Seguridad Social [artículos 45.1.d) y 48 –apartados 4, 5 y 6– del Estatuto de los Trabajadores (ET), artículo 177 y concordantes LGSS]. Estos supuestos deberán acreditarse mediante certificado médico, o copia del escrito que reconozca la suspensión del contrato de trabajo o, en el caso del período de descanso subsidiado, mediante copia del escrito de su reconocimiento. Igual tratamiento tendrán los supuestos establecidos en la normativa aplicable a los funcionarios públicos.
+
+6.ª El internamiento en centros penitenciarios o en hospitales psiquiátricos, lo que se acreditará mediante certificación de los responsables de los mismos.
+
+7.ª Haber formado parte de una Mesa electoral con anterioridad, al menos en tres ocasiones en los últimos diez años, siempre que con la aceptación de esta excusa quede garantizada la exigencia establecida en el artículo 26.2 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, de que una Mesa electoral esté formada por personas incluidas en la lista electoral de esa Mesa.
+
+8.ª La condición, debidamente acreditada, de víctima de un delito, declarado o presunto, en razón del cual se haya dictado una resolución judicial que permanezca en vigor, por la que se imponga una pena o medida cautelar de prohibición de aproximación, cuando el condenado o investigado destinatario de dicha prohibición figure inscrito en el Censo correspondiente a alguna de las Mesas del colegio electoral al que pertenezca la Mesa de la que deba formar parte la persona solicitante.
+
+2\. Son causas personales que pueden justificar la excusa del miembro designado de una Mesa electoral, atendiendo a las circunstancias de cada caso que corresponde valorar a la Junta Electoral de Zona:
+
+1.ª La lesión, dolencia o enfermedad física o psíquica que, aunque no haya dado lugar a una declaración de incapacidad para el trabajo, impida ejercer las funciones de miembro de una Mesa electoral, o convierta en particularmente difícil o penoso el ejercicio de tales funciones. La acreditación de esta causa se efectuará mediante certificado médico en el que se detallen las limitaciones que impidan o dificulten tal desempeño.
+
+2.ª La condición de pensionista de incapacidad permanente total para una determinada profesión, siempre que los factores determinantes de la incapacidad concurran también por analogía en el desarrollo de las funciones de miembro de la Mesa electoral. La acreditación de esta causa se efectuará mediante certificado médico en el que se detallen las limitaciones que impidan o dificulten tal desempeño.
+
+3.ª La situación de riesgo durante el embarazo o de riesgo durante la lactancia natural, declarada de acuerdo con los artículos 186 o 188 LGSS, siempre que los factores de riesgo determinantes de la situación concurran también por analogía en el desarrollo de las funciones de miembro de la Mesa Electoral. La acreditación se efectuará mediante certificado médico en el que se detallen las limitaciones que impidan o dificulten tal desempeño.
+
+4.ª La previsión de intervención quirúrgica o de pruebas clínicas relevantes en el día de la votación, en los días inmediatamente anteriores, o en el día siguiente a aquélla, siempre que resulten inaplazables, bien por las consecuencias que pueda acarrear para la salud del interesado, bien por los perjuicios que pudiera ocasionar en la organización de los servicios sanitarios. Estas circunstancias deberán ser acreditadas mediante los correspondientes informes o certificaciones de los facultativos y de los centros en que esté previsto realizar la intervención o las pruebas.
+
+5.ª La pertenencia a confesiones o comunidades religiosas en las que el ideario o el régimen de clausura resulten contrarios o incompatibles con la participación en una Mesa electoral. El interesado deberá acreditar dicha pertenencia y, si no fuera conocido por notoriedad, deberá justificar los motivos de objeción o de incompatibilidad.
+
+6.ª El cambio de la residencia habitual a un lugar situado en otra Comunidad Autónoma cuando, además de dicha circunstancia, se justifique la dificultad de poder formar parte de una Mesa electoral.
+
+> Se modifica la causa 5ª del punto 1 por el apartado primero de la Instrucción 7/2023, de 28 de junio. [Ref. BOE-A-2023-15138](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15138)
+
+> Se modifica por el apartado primero de la Instrucción 1/2018, de 14 de marzo, conforme al texto consolidado publicado como Anexo de la misma. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+> Se modifica la causa 2ª del apartado 1 por el apartado 1 de la Instrucción 3/2016, de 14 de septiembre. [Ref. BOE-A-2016-8484](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8484).
+
+> Se añade el punto 7 al apartado 2 por el apartado 1 de la Instrucción 2/2014, de 11 de diciembre. [Ref. BOE-A-2014-13263](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13263).
+
+## Tercero. Causas relativas a las responsabilidades familiares del miembro designado de la mesa electoral.
+
+1\. Deben entenderse como responsabilidades o razones familiares que en todo caso justifican, por sí solas, que el miembro designado de una Mesa electoral sea relevado del desempeño del cargo:
+
+1.ª El cuidado del lactante por sus progenitores, adoptantes, guardadores o acogedores (exartículos 37.4 y 5 ET y 188 LGSS). La acreditación del ejercicio corresponsable del cuidado del lactante se realizará mediante certificación de la reducción de la jornada por las empresas en que trabajen sus progenitores, adoptantes, guardadores o acogedores, así como mediante fotocopia del libro de familia o certificación del encargado del Registro Civil.
+
+2.ª El cuidado directo y continuo, por razones de guarda legal, de menores de doce años o de personas con discapacidad física, psíquica o sensorial. Para su acreditación podrá aportarse copia del escrito en que se reconozca la reducción de jornada de trabajo prevista para tal finalidad en el artículo 37.6 ET o en la normativa equivalente aplicable a los funcionarios públicos, o bien certificación de las unidades responsables de los servicios sociales de la Comunidad Autónoma o de la entidad local correspondiente.
+
+3.ª El cuidado directo y continuo de familiar hasta el segundo grado de consanguinidad o afinidad que por razones de edad, accidente o enfermedad, no pueda valerse por sí mismo. Para acreditar esta contingencia podrá aportarse o bien copia del escrito en que se reconozca la reducción de jornada de trabajo prevista para tal finalidad en el artículo 37.6 ET o en la normativa equivalente aplicable a los funcionarios públicos, o bien certificación de las unidades responsables de los servicios sociales de la Comunidad Autónoma o de la entidad local correspondiente.
+
+2\. Son causas familiares que pueden justificar, atendiendo a las circunstancias de cada caso, la excusa del miembro designado de una Mesa electoral:
+
+1.ª La concurrencia el día de la elección de eventos familiares de especial relevancia, que resulten inaplazables o en los que el aplazamiento provoque perjuicios económicos importantes, siempre que el interesado sea el protagonista o guarde con éste una relación de parentesco hasta el segundo grado de consanguinidad. En estos casos el interesado no solo deberá acreditar documentalmente la previsión de celebración del evento sino también el carácter inaplazable del mismo o los perjuicios económicos en caso de suspensión.
+
+2.ª La condición de madre o padre de menores de catorce años, cuando se acredite que se trata de una familia monoparental o que el otro progenitor no puede ocuparse del menor durante la jornada electoral. Estas circunstancias deberán acreditarse documentalmente.
+
+> Se modifica la causa 2ª del punto 2 por el apartado primero de la Instrucción 2/2025 de 30 de enero. [Ref. BOE-A-2025-2043](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2043)
+
+> Se modifican las causas 1ª y 2ª del punto 1 por el apartado primero de la Instrucción 7/2023, de 28 de junio. [Ref. BOE-A-2023-15138](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-15138)
+
+> Redactado conforme al texto consolidado publicado como Anexo de la Instrucción 1/2018, de 14 de marzo. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+## Cuarto. Causas relativas a las responsabilidades profesionales del miembro designado de la mesa electoral.
+
+Pueden excusarse de la participación en las Mesas Electorales por razones profesionales:
+
+1.º Quienes durante el día de la votación deban prestar sus servicios a las Juntas Electorales, a los Juzgados y a las Administraciones Públicas que tengan encomendadas funciones electorales. En estos supuestos, la acreditación consistirá en el informe de los responsables de los respectivos órganos donde se detallarán las dificultades para sustituir al interesado en la jornada electoral. Se entienden incluidos en esta causa los notarios que deban realizar en la jornada electoral las funciones previstas en el artículo 91.5 LOREG.
+
+2.º Quienes deban prestar durante la jornada electoral servicios esenciales de la comunidad de importancia vital, como los de carácter médico, sanitario, de protección civil, bomberos, etcétera. En estos casos la justificación consistirá en informe emitido por el responsable del servicio, en el que se detallarán los motivos que impidan o hagan particularmente difícil la sustitución del interesado durante la jornada electoral.
+
+3.º Los Directores de medios de comunicación de información general y los Jefes de los Servicios informativos que deban cubrir la jornada electoral.
+
+4.º Los profesionales que deban participar en acontecimientos públicos a celebrar el día de la votación, que estén previstos con anterioridad a la convocatoria electoral, cuando el interesado no pueda ser sustituido y la no participación del mismo obligue a suspender el acontecimiento, produciendo perjuicios económicos relevantes. Estas circunstancias deberán acreditarse documentalmente.
+
+> Redactado conforme al texto consolidado publicado como Anexo de la Instrucción 1/2018, de 14 de marzo. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+## Quinto. Competencia de las Juntas Electorales de Zona y reclamaciones.
+
+Conforme establece el artículo 27.3 LOREG corresponde a la Junta Electoral de Zona competente por razón de territorio aceptar o rechazar las causas alegadas para no ser miembro de una Mesa Electoral. La decisión de rechazo debe ser motivada, aunque sea de manera sucinta.
+
+La decisión de la Junta Electoral de Zona no es susceptible de recurso administrativo electoral. Contra la misma cabe interponer, en su caso, recurso contencioso-administrativo ante el Juzgado de lo Contencioso-administrativo correspondiente.
+
+> Redactado conforme al texto consolidado publicado como Anexo de la Instrucción 1/2018, de 14 de marzo. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+## Sexto. Publicación en el «BOE» y entrada en vigor.
+
+De acuerdo con el artículo 18.6 LOREG, la presente Instrucción se publicará en el «Boletín Oficial del Estado» y tendrá efectos a partir del día siguiente al de su publicación.
+
+> Redactado conforme al texto consolidado publicado como Anexo de la Instrucción 1/2018, de 14 de marzo. [Ref. BOE-A-2018-3807](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3807)
+
+Palacio del Congreso de los Diputados, 28 de abril de 2011.–El Presidente de la Junta Electoral, Antonio Martín Valverde.

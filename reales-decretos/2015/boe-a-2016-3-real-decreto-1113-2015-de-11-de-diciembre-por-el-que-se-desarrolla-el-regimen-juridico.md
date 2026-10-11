@@ -1,0 +1,305 @@
+---
+title: "Real Decreto 1113/2015, de 11 de diciembre, por el que se desarrolla el régimen jurídico del Consejo Español de Drogodependencias y otras Adicciones"
+identifier: "BOE-A-2016-3"
+eli: "https://www.boe.es/eli/es/rd/2015/12/11/1113"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad, Servicios Sociales e Igualdad"
+date: 2015-12-11
+published: 2016-01-01
+in_force_from: 2016-01-02
+last_amended: 2021-08-25
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 1"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-3"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1113/2015, de 11 de diciembre, por el que se desarrolla el régimen jurídico del Consejo Español de Drogodependencias y otras Adicciones
+
+Incluye la corrección de errores publicada en BOE núm. 53, de 2 de marzo de 2016. [Ref. BOE-A-2016-2139](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2139).
+
+El artículo 20.1 de la Ley 15/2014, de 16 de septiembre, de racionalización del Sector Público y otras medidas de reforma administrativa, en el marco del proceso de racionalización y simplificación general de la estructura organizativa del sector público estatal, establece la creación del Consejo Español de Drogodependencias y otras Adicciones, órgano colegiado de consulta y asesoramiento, que se adscribe al Ministerio de Sanidad, Servicios Sociales e Igualdad a través de la Delegación del Gobierno para el Plan Nacional sobre Drogas. El apartado 4 del artículo anteriormente mencionado establece que se determinará reglamentariamente la composición y funcionamiento del Consejo Español de Drogodependencias y otras Adicciones.
+
+El propio legislador atribuye al Consejo el cumplimiento de la finalidad general de mejora de la calidad técnica en la definición y ejecución de las políticas y actuaciones estatales de control de la oferta y reducción de la demanda de drogas, así como de otras adicciones como la ludopatía, y de sus perjudiciales efectos en la vida de las personas y en la sociedad que se promuevan, coordinen o lleven a cabo por la Delegación del Gobierno para el Plan Nacional sobre Drogas. A tal efecto, se le otorga, en particular, un conjunto no cerrado de funciones específicas que pueden ser objeto de desarrollo legal o reglamentario.
+
+Por otra parte, en lo que respecta a la composición del nuevo órgano, es preciso recordar que la ley obliga a que la norma reglamentaria de desarrollo garantice la presencia de las distintas administraciones públicas con competencias en materia de control de la oferta y reducción de la demanda de drogas y de otras adicciones, de la Fiscalía General del Estado y de los principales agentes sociales implicados en la prevención y el tratamiento de los problemas relacionados con las drogodependencias y otras conductas adictivas.
+
+En paralelo, la disposición adicional segunda de la Ley 15/2014, de 16 de septiembre, suprime, por un lado, el Grupo interministerial para el Plan Nacional sobre Drogas, regulado en el Real Decreto 1116/2006, de 2 de octubre, por el que se determina la composición y estructura del Grupo interministerial para el Plan Nacional sobre Drogas y, por otro lado, el Consejo Asesor del Observatorio Español sobre la Droga y las Toxicomanías, sometido a lo previsto en la Orden del Ministerio del Interior, de 24 de noviembre de 1998, por la que se regulan las funciones, composición y estructura del Consejo Asesor del Observatorio Español de la Droga y las Toxicomanías. Ambas normas se derogan de manera expresa.
+
+No obstante lo anterior, el apartado 1 de la disposición transitoria segunda de la Ley 15/2014, de 16 de septiembre, prevé que los órganos colegiados adscritos al Plan Nacional sobre Drogas que se suprimen continuarán desempeñando sus funciones, de acuerdo con su normativa reguladora respectiva, hasta el momento de la constitución del Consejo Español de Drogodependencias y otras Adicciones.
+
+Mediante este real decreto y para dar cumplimiento al mandato legal señalado, se acomete la regulación de este órgano de nueva creación y, en particular, se regula el régimen jurídico del Consejo en lo que respecta a sus fines, competencias, estructura, normas de funcionamiento y composición; el nombramiento, sustitución y cese de sus miembros; las funciones de la presidencia, vicepresidencia y secretaría y, finalmente, el régimen del pleno. Todo ello con vistas a garantizar el adecuado y eficaz funcionamiento, así como el cumplimiento de la finalidad que se le atribuye legalmente al propio Consejo.
+
+Asimismo, se considera necesario atribuir al Consejo, teniendo en cuenta su composición, estructura y normas de funcionamiento particulares, algunas de las funciones básicas que venían realizando los dos órganos suprimidos para evitar una posible disminución en la eficacia de dicha estructura específica y para que tales funciones sean ejercidas de una forma más coordinada, eficaz, eficiente y ágil por el órgano de nueva creación. Todo ello en aplicación de los objetivos o fines generales que fundamentan la Ley 15/2014, de 16 de septiembre.
+
+El real decreto consta, además del presente preámbulo, de doce artículos, tres disposiciones adicionales, una disposición derogatoria y cuatro disposiciones finales. En los artículos 1 a 12 se establecen las normas específicas aplicables al Consejo Español de Drogodependencias y otras Adicciones en lo referente a su adscripción, al apoyo al mismo, sus fines, sus funciones, su estructura, sus normas de funcionamiento, su composición, las normas para el nombramiento, sustitución y cese de sus miembros, régimen de su presidencia, vicepresidencia y secretaría, así como el régimen del pleno del órgano. Este régimen podrá, a su vez, ser completado, respetando la legalidad vigente y, en particular, lo dispuesto en el artículo 20 de la Ley 15/2014, de 16 de septiembre y en este real decreto, mediante la aprobación por el mismo órgano de su reglamento de régimen interior.
+
+Por lo que respecta a la determinación de la composición del Consejo se ha tenido en cuenta tanto lo dispuesto en los apartados 1, 2 y 3 del artículo 20 de la Ley 15/2014, de 16 de septiembre, sobre la naturaleza, los fines y las funciones de dicho órgano, como lo específicamente previsto en el apartado 4 del mismo artículo. Por esta razón, este real decreto contempla la representación mayoritaria, pero no exclusiva, de los ministerios y órganos superiores y directivos de la Administración General del Estado, así como de los organismos y agencias que dependen de ésta, que tienen atribuidas en la actualidad competencias que afectan o pueden afectar más directamente al cumplimiento de los fines y funciones legales ya mencionados y que, por tal motivo, deben estar presentes en el Consejo. Y, junto a dicha representación estatal, se contempla, de acuerdo con lo previsto legalmente, la representación de las administraciones públicas autonómicas y locales, de la Fiscalía General del Estado, así como de los principales agentes sociales implicados en la prevención y atención integral de la problemática relativa a las drogodependencias y otras adicciones. En este último caso, se han incorporado representantes de la comunidad científica, de las entidades privadas sin ánimo de lucro más representativas de ámbito estatal y de las organizaciones empresariales y sindicales más representativas también de ámbito estatal.
+
+El artículo 20.4 de la Ley 15/2014, de 16 de septiembre, garantiza que la Fiscalía General del Estado tenga representación en el Consejo. Esta presencia se justifica, asimismo, porque la mayor parte de los fines y funciones que antes tenía atribuidos el ahora extinto Consejo Asesor del Observatorio Español de la Droga y las Toxicomanías han sido asumidos por este Consejo. Por último, se considera que el asesoramiento técnico de la Fiscalía General del Estado a la Delegación del Gobierno para el Plan Nacional sobre Drogas tiene una importancia fundamental que se desarrolla en el ámbito de las competencias atribuidas en los párrafos l), m), ñ) y o) del artículo 7.2 del Real Decreto 200/2012, de 23 de enero, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad, Servicios Sociales e Igualdad y se modifica el Real Decreto 1887/2011, de 30 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+En cuanto a la determinación de la estructura del Consejo y, teniendo en cuenta tanto los fines técnicos del mismo como su heterogénea composición, se ha optado por establecer una configuración desconcentrada del órgano, lo que garantiza el cumplimiento de sus fines y el desarrollo de sus funciones de manera eficaz y sin merma del cumplimiento del principio de unidad de acción y de los deberes de coordinación correspondientes.
+
+El pleno, en el que estarán representados todos los miembros del Consejo, decidirá en última instancia sobre todos los asuntos de su competencia, así como sobre aquellos asuntos o materias concretas que aquél se reserve. Asimismo, se contempla la posibilidad de que el pleno, a iniciativa propia, disponga la creación de grupos de trabajo.
+
+La disposición adicional primera regula, por su parte, el procedimiento y los plazos para la constitución inicial del órgano creado, así como para el nombramiento inicial de las vocalías, de la secretaría y del pleno del órgano.
+
+Teniendo en cuenta la disposición adicional segunda, la actividad del nuevo órgano no podrá conllevar un aumento del gasto público.
+
+La disposición adicional tercera contiene el régimen específico que se aplicará solo a los miembros de la representación estatal en el Consejo en los casos en que se produzcan modificaciones orgánicas y/o funcionales de los Departamentos y órganos de la Administración General del Estado y/o en los organismos y entidades públicos de ella dependientes a los que aquellos representen, con la finalidad de garantizar, en condiciones de seguridad jurídica, el normal desempeño de sus funciones a dichos miembros y el normal desarrollo de sus funciones y actividades al propio órgano referido.
+
+La disposición final primera mantiene la figura de los coordinadores departamentales, por su gran importancia para el adecuado funcionamiento de la estructura específica del Plan Nacional sobre Drogas, ya que la misma se contenía en el derogado Real Decreto 1116/2006, de 2 de octubre. Si bien en la presente regulación se trata de adaptar dicha figura a la representación ministerial en el Consejo Español de Drogodependencias y otras Adicciones y en la Conferencia Sectorial del Plan Nacional sobre Drogas.
+
+En la disposición final segunda se establece la habilitación para el desarrollo de lo dispuesto en este real decreto.
+
+La disposición final tercera contiene una previsión sobre la adaptación de referencias normativas, necesaria tras la aprobación de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la cual será aplicable sólo hasta el momento en que se produzca la entrada en vigor de ésta por completo.
+
+Por último, en la disposición final cuarta, se determina el régimen de entrada en vigor de esta norma, que se ha adaptado a lo previsto en la disposición transitoria segunda de la Ley 15/2014, de 16 de septiembre.
+
+El presente real decreto se aprueba al amparo de las habilitaciones para el desarrollo reglamentario que están reguladas en el artículo 20.4 y en el primer párrafo de la disposición final quinta de la Ley 15/2014, de 16 de septiembre.
+
+Durante el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las ciudades de Ceuta y Melilla a través de sus representantes en la Conferencia Sectorial del Plan Nacional sobre Drogas, la Fiscalía General del Estado, así como los demás organismos públicos y entidades afectados directamente por el mismo.
+
+En su virtud, a propuesta del Ministro de Sanidad, Servicios Sociales e Igualdad, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de diciembre de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto desarrollar lo dispuesto en el artículo 20 de la Ley 15/2014, de 16 de septiembre de racionalización del Sector Público y de otras medidas de reforma administrativa, por el que se crea el Consejo Español de Drogodependencias y otras Adicciones, en adelante el «Consejo», particularmente en lo que respecta a la composición y el régimen de funcionamiento de éste.
+
+## Artículo 2. Naturaleza y adscripción.
+
+1\. El Consejo es, en el ámbito material de las drogas tóxicas, sustancias estupefacientes y psicotrópicas, de otras drogas diferentes a las anteriores y, en general, de las adicciones provocadas por el uso o consumo de los referidos productos o de otros diferentes, o por el desarrollo de actividades o conductas distintas de las anteriores, como ocurre con la ludopatía, un órgano colegiado interministerial:
+
+a) De consulta y asesoramiento de la Delegación del Gobierno para el Plan Nacional sobre Drogas, de los previstos en el artículo 22.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+b) De participación en las políticas o actuaciones de competencia estatal en los ámbitos de la prevención y/o la atención integral a las adicciones, que sean promovidas, llevadas a cabo o coordinadas por la Delegación del Gobierno para el Plan Nacional sobre Drogas por parte: de las administraciones públicas no estatales; de la Fiscalía General del Estado; y de los principales agentes sociales implicados en los ámbitos referidos.
+
+2\. El Consejo estará adscrito al Ministerio de Sanidad, Servicios Sociales e Igualdad, a través de la Delegación del Gobierno para el Plan Nacional sobre Drogas, la cual prestará al primero el apoyo, con sus recursos humanos y materiales, necesario para el desempeño de sus funciones.
+
+## Artículo 3. Fines.
+
+1\. El Consejo se crea con la finalidad general de mejorar la calidad técnica en la definición y ejecución de las políticas y actuaciones estatales de control de la oferta y de reducción de la demanda de drogas, así como de otras adicciones, y de sus perjudiciales efectos en la vida de las personas y en la sociedad, que se promuevan, coordinen o lleven a cabo por la Delegación del Gobierno para el Plan Nacional sobre Drogas en el ámbito de las competencias que ésta tiene atribuidas, y, con dicha mejora, la de la eficacia de las políticas y actuaciones indicadas.
+
+2\. En concreto, el Consejo deberá cumplir los siguientes fines:
+
+a) Colaborar con la Delegación del Gobierno para el Plan Nacional sobre Drogas a fin de conseguir la mayor coordinación y eficacia administrativas en la definición y ejecución técnicas de las políticas y actuaciones referidas en el apartado 1.
+
+b) Actuar como órgano permanente de consulta y asesoramiento técnico de la Delegación del Gobierno para el Plan Nacional sobre Drogas para el adecuado cumplimiento de las competencias que tiene encomendadas.
+
+c) Proponer a la Delegación del Gobierno para el Plan Nacional sobre Drogas las medidas y actuaciones de competencia estatal que deba adoptar el Gobierno y que el Consejo considere necesarias o convenientes para el adecuado y eficaz cumplimiento de la finalidad general indicada en el apartado 1, así como del fin concreto indicado en el párrafo a).
+
+## Artículo 4. Funciones.
+
+1\. Para el cumplimiento de sus fines, el Consejo tendrá las siguientes funciones:
+
+a) Elaborar cuantos informes, sugerencias y propuestas le sean solicitados por la Delegación del Gobierno para el Plan Nacional sobre Drogas.
+
+b) Promover y realizar, por propia iniciativa, cuantos informes, sugerencias, propuestas u otro tipo de actuaciones estime necesarios en el marco de sus competencias.
+
+c) Conocer e informar, antes de su aprobación, los proyectos de la Estrategia Nacional sobre Drogas por los cuales se actualice periódicamente el Plan Nacional sobre Drogas, los de los Planes de Acción para el desarrollo y complemento de la misma y, en su caso, los que tengan por objeto la planificación estatal en materia de adicciones.
+
+d) Analizar, debatir y seguir, en general, desde un punto de vista técnico, las iniciativas, proyectos, programas y actuaciones de la Delegación del Gobierno para el Plan Nacional sobre Drogas, así como la evaluación de los resultados o efectos de los mismos.
+
+e) Prestar apoyo técnico a la Delegación del Gobierno para el Plan Nacional sobre Drogas, cuando ésta se lo solicite, en la cooperación de la misma con otros organismos e instituciones públicos de cualquier ámbito territorial, incluyendo los de las organizaciones internacionales, los de la Unión Europea y los de otros Estados, siempre que tengan atribuidos fines similares a los de dicha Delegación o a los del Consejo, u otros fines en materia de drogas o adicciones.
+
+f) Aprobar su reglamento de régimen interior.
+
+g) Las demás que se le atribuyan por otra disposición de carácter general para el cumplimiento de los fines y funciones que tiene atribuidos en los apartados 2 y 3 del artículo 20 de la Ley 15/2014, de 16 de septiembre, y en el artículo 3 de este real decreto.
+
+2\. Los estudios, sugerencias, informes, propuestas y demás actuaciones que realice o promueva el Consejo en el ejercicio de las funciones que se le atribuyen en el apartado anterior no tendrán, en ningún caso, carácter vinculante, salvo que una norma con rango de ley así lo establezca.
+
+## Artículo 5. Estructura.
+
+El Consejo estará estructurado, cumplirá sus fines y ejercerá sus funciones en:
+
+a) Pleno.
+
+b) Grupos de trabajo especializados.
+
+## Artículo 6. Normas de funcionamiento.
+
+1\. El Consejo quedará sometido en su funcionamiento a lo establecido en este real decreto, en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, y en lo no previsto en ellos, a lo establecido en su reglamento de régimen interior.
+
+2\. Las reuniones del pleno y de los grupos de trabajo especializados, así como la adopción de acuerdos por los mismos, podrán tener lugar bien con la presencia física de sus miembros, o bien a distancia, con la utilización por éstos de medios electrónicos.
+
+La constitución y la convocatoria del pleno y de los grupos de trabajo especializados, así como también la celebración de sus sesiones y la adopción de acuerdos por los mismos, tanto de forma presencial como a distancia, quedarán sometidas a lo establecido en el artículo 17 de la Ley 40/2015, de 1 de octubre. De cada reunión, presencial o a distancia, del pleno o de los grupos de trabajo especializados se levantará acta por el secretario, la cual quedará sometida a lo previsto en el artículo 18 de la citada ley.
+
+El pleno podrá ser convocado por la persona titular de la presidencia del Consejo con la frecuencia que se estime necesaria para dar adecuado y eficaz cumplimiento a los fines atribuidos al mismo, por propia iniciativa o previa petición de la mayoría de los miembros que integren dicho órgano.
+
+El pleno deberá ser convocado y reunirse, como mínimo, dos veces al año.
+
+3\. Para la válida constitución del pleno y de los grupos de trabajo especializados, a efectos de la celebración de sus sesiones y deliberaciones y de la toma de acuerdos por los mismos, presencialmente o a distancia, se estará a lo previsto en el artículo 17.2 de la Ley 40/2015, de 1 de octubre.
+
+Los acuerdos del pleno y de los grupos de trabajo especializados deberán ser adoptados por mayoría simple de votos de los miembros concurrentes, salvo que se trate de la aprobación del reglamento de régimen interior o de sus modificaciones, en cuyo caso se requerirá un acuerdo adoptado por mayoría absoluta de los miembros del pleno del Consejo.
+
+A los efectos de obtención del quórum reseñado para las reuniones y deliberaciones y de las mayorías para la toma de acuerdos se computarán tanto los miembros presentes, como aquellos que expresamente hayan delegado su representación y voto para los asuntos a tratar en cualquier otro miembro del pleno.
+
+4\. El ejercicio de sus funciones por parte de todos los miembros del pleno del Consejo no generará derecho a percibir contraprestación económica alguna por tal circunstancia.
+
+## Artículo 7. Composición.
+
+El Consejo tendrá la siguiente composición:
+
+a) Presidencia: la persona titular de la secretaría de estado, o, a falta de la misma, de la secretaría general, competente en el ámbito material del Plan Nacional sobre Drogas y en la que esté integrada la Delegación del Gobierno para el Plan Nacional sobre Drogas, siempre que ésta no tenga el rango de secretaría de estado o de secretaría general.
+
+En el caso de que la Delegación del Gobierno para el Plan Nacional sobre Drogas tenga el rango de secretaría de estado o de secretaría general, ejercerá la presidencia la persona titular de dicha Delegación del Gobierno.
+
+b) Vicepresidencia: cuando no tenga atribuida la titularidad de la presidencia, la persona titular de la Delegación del Gobierno para el Plan Nacional sobre Drogas.
+
+En los casos de ausencia, vacancia o enfermedad de la persona titular de la vicepresidencia, o por otra causa legal o justificada diferente que afecte a dicha persona, ejercerá tal función la persona con mayor edad que sea titular de una de las dos vocalías de representación de la Delegación del Gobierno para el Plan Nacional sobre Drogas.
+
+c) Vocalías:
+
+1.ª Las personas titulares de dos subdirecciones generales o nivel asimilado en representación de la Delegación del Gobierno para el Plan Nacional sobre Drogas; y la persona titular de una subdirección general o nivel asimilado en representación de la Dirección General de Salud Pública, del Ministerio de Sanidad.
+
+Cuando el Ministerio de Sanidad no sea competente en el ámbito material del Plan Nacional sobre Drogas, se mantendrá, en todo caso, la vocalía de representación de la Dirección General de Salud Pública, o, en defecto de ésta, del órgano administrativo que asuma las actuales funciones de la primera en materia de salud pública.
+
+2.ª Las personas titulares de tres subdirecciones generales o nivel asimilado en representación del ministerio competente en materia de seguridad pública, con la siguiente distribución: una en representación de la secretaría de estado o, en su defecto, de la secretaría general, que sea competente en materia de seguridad pública; una en representación del órgano superior o directivo competente en materia penitenciaria; y una en representación del órgano superior o directivo competente en materia de seguridad vial.
+
+3.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio competente en materia penal.
+
+4.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio competente en materia de seguridad y salud en el trabajo.
+
+5.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio competente en materia de educación.
+
+6.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio en el que esté integrada la estructura orgánica de la administración territorial del Estado.
+
+7.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio competente en materia de relaciones internacionales.
+
+8.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio competente en materia de familia, infancia y juventud.
+
+9.ª La persona titular de una subdirección general o nivel asimilado en representación del ministerio competente en materia de juego.
+
+10.ª En representación de las Administraciones Públicas de las comunidades autónomas y de las Ciudades de Ceuta y Melilla: dos vocalías, pertenecientes a distintas comunidades autónomas o ciudades con estatuto de autonomía y que, preferentemente, sean miembros del pleno de la «Comisión interautonómica», o de la Comisión Sectorial, de la Conferencia Sectorial Plan Nacional sobre Drogas, en representación de dichas Administraciones Públicas.
+
+11.ª En representación de las Administraciones Públicas de las entidades locales: dos vocalías a propuesta de la asociación de entidades locales de ámbito estatal con mayor implantación.
+
+d) Tendrán también la condición de vocales del pleno:
+
+1.º En representación de la Fiscalía General del Estado, un miembro de la Carrera Fiscal en activo, de conformidad con los trámites previstos en la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.
+
+2.º En representación de los principales agentes sociales y de la comunidad científica: cuatro personas expertas, con reconocido prestigio y amplia experiencia profesional en los ámbitos de la prevención de las adicciones o de la atención a las mismas, así como de la docencia o la investigación en el campo de las ciencias experimentales; cuatro personas expertas con reconocido prestigio y amplia experiencia profesional en los ámbitos de la prevención de las adicciones o de la atención a las mismas, así como de la docencia o la investigación en el campo de las ciencias sociales; cuatro representantes de las entidades privadas sin ánimo de lucro de ámbito nacional; dos representantes de las organizaciones, federaciones o confederaciones más representativas de ámbito nacional de las grandes, medianas y pequeñas empresas; y, por último, dos representantes de las organizaciones, federaciones o confederaciones sindicales más representativas de ámbito nacional.
+
+e) Secretaría, con voz y sin voto: una persona funcionaria de carrera (destinada en la unidad correspondiente), que pertenezca a un Cuerpo o Escala clasificado en los subgrupos A1 o A2, de la Delegación del Gobierno para el Plan Nacional sobre Drogas, que no ejerza otras funciones en el Consejo.
+
+> Se modifican las letras a), b), c) y e) por la disposición final 3.1 a 4 del Real Decreto 740/2021, de 24 de agosto. [Ref. BOE-A-2021-14167](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14167)
+
+> Téngase en cuenta la disposicíon adicional 1 del citado Real Decreto.
+
+## Artículo 8. Nombramiento, sustitución y cese de titulares de vocalías y de la secretaría del Consejo.
+
+1\. El nombramiento y el cese de los titulares de las vocalías y de la secretaría del Consejo corresponderán a la persona titular de la presidencia del mismo, mediante resolución que será publicada en el «Boletín Oficial del Estado», previo cumplimiento de los requisitos que se indican a continuación:
+
+a) Vocalías mencionadas en el artículo 7.c), 1.ª a 9.ª, ambos inclusive: a propuesta de la persona titular del ministerio, del órgano administrativo o del organismo o agencia estatal al que respectivamente representen.
+
+b) Vocalías mencionadas en el artículo 7.c).10.ª: de forma rotatoria, cada dos años y siguiendo el orden de precedencia de las distintas comunidades autónomas y Ciudades de Ceuta y Melilla que esté establecido.
+
+c) Vocalías mencionadas en el artículo 7.c).11.ª: a propuesta efectuada por el órgano directivo competente de la asociación de entidades locales de ámbito estatal con mayor implantación.
+
+d) Vocalía mencionada en el artículo 7.d).1.º: a propuesta de la persona titular de la Fiscalía General del Estado.
+
+e) Vocalías de expertos de la comunidad científica mencionadas en el artículo 7.d).2.º: a propuesta de la persona titular de la Delegación del Gobierno para el Plan Nacional sobre Drogas previa consulta, en el caso del nombramiento, a expertos o expertas que reúnan los requisitos establecidos en dicho artículo y previa aceptación expresa de quienes vayan a ser propuestos, y, en el caso del cese, previa petición expresa de las personas concernidas.
+
+f) Vocalías representantes de las entidades, organizaciones, federaciones o confederaciones mencionadas en el artículo 7.d).2.º: a propuesta de los órganos de dirección de las mismas.
+
+g) Secretaría: a propuesta de la persona titular de la Delegación del Gobierno para el Plan Nacional sobre Drogas.
+
+2\. En los supuestos de vacante, ausencia o enfermedad, las personas titulares de las vocalías y de la secretaría podrán ser sustituidas por otras que reúnan los requisitos exigidos en esta norma a las personas sustituidas para el desempeño de sus respectivas funciones.
+
+El nombramiento y el cese de los sustitutos o sustitutas estarán sometidos también a lo establecido, en cada caso, en el apartado anterior.
+
+> Se modifican las letras a), b), c) y g) del apartado 1 por la disposición final 3.5 a 8 del Real Decreto 740/2021, de 24 de agosto. [Ref. BOE-A-2021-14167](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14167)
+
+## Artículo 9. Presidencia.
+
+Corresponden a la persona titular de la presidencia del Consejo las siguientes funciones:
+
+a) Dirigir, promover y coordinar la actuación del mismo, tanto del pleno como de los grupos de trabajo que pudieran crearse.
+
+b) Las establecidas en el artículo 19.2 de la Ley 40/2015, de 1 de octubre.
+
+c) Las demás que se atribuyen a la presidencia en este real decreto y, en su caso, las que se atribuyan al mismo en otra disposición de carácter general, en el reglamento de régimen interior o en un acuerdo del pleno.
+
+## Artículo 10. Vicepresidencia.
+
+1\. En los casos de vacante, ausencia o enfermedad del titular de la presidencia del Consejo, las funciones atribuidas al mismo en el artículo 9 serán ejercidas por la persona titular de la vicepresidencia.
+
+2\. La persona titular de la vicepresidencia del Consejo tendrá, asimismo, aquellas otras funciones distintas de las previstas en el apartado anterior que, en su caso, le sean atribuidas en el reglamento de régimen interior o en un acuerdo del pleno.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 53, de 2 de marzo de 2016. [Ref. BOE-A-2016-2139](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2139).
+
+## Artículo 11. Secretaría.
+
+La persona titular de la secretaría del Consejo tendrá las funciones establecidas en el artículo 19.4, segundo párrafo, de la Ley 40/2015, de 1 de octubre, y, aquellas otras que, en su caso, se le atribuyan en el reglamento de régimen interior o en un acuerdo del pleno.
+
+## Artículo 12. El pleno.
+
+Corresponden al pleno del Consejo:
+
+a) El cumplimiento de los fines y funciones establecidos en los apartados 2 y 3 del artículo 20 de la Ley 15/2014, de 16 de septiembre, y en el artículo 3 de este real decreto, sin perjuicio de su cumplimiento también por los grupos de trabajo que pudieran crearse en su caso.
+
+b) Conformar grupos de trabajo integrados por miembros del pleno.
+
+Para que los acuerdos adoptados por los grupos de trabajo sean representativos de la voluntad del Consejo y produzcan plenos efectos se requerirá obligatoriamente la ratificación expresa de los mismos por parte del pleno.
+
+## Disposición adicional primera. Nombramientos y constitución iniciales del Consejo.
+
+1\. Dentro del plazo máximo de tres meses contados desde el día de la entrada en vigor de este real decreto se deberá efectuar el nombramiento de las personas titulares de las vocalías y de la secretaría del Consejo.
+
+2\. La constitución inicial del Consejo deberá tener lugar dentro del plazo máximo de cuatro meses contados desde el día de la entrada en vigor de este real decreto.
+
+## Disposición adicional segunda. No incremento del gasto público.
+
+El funcionamiento del Consejo no supondrá incremento alguno del gasto público y será atendido con los medios personales, materiales, técnicos y presupuestarios asignados a la Delegación del Gobierno para el Plan Nacional sobre Drogas.
+
+## Disposición adicional tercera. Modificaciones orgánicas y/o funcionales.
+
+1\. Cuando se produzcan modificaciones orgánicas y/o funcionales en la estructura de la Administración General del Estado y/o de los organismos y entidades públicos de ella dependientes que afecten a los Departamentos, órganos, organismos, entidades o agencias con representación en el Consejo, de acuerdo con lo dispuesto en el artículo 7.a), b) y c), las menciones a los mismos, así como a sus titulares, que se contienen en dicho artículo y las que se hagan también a ellos en otros preceptos y disposiciones de este real decreto, o de su normativa de desarrollo, se entenderán hechas a los Departamentos, órganos, organismos, entidades y agencias a los que se atribuyan, posteriormente, las competencias que los primeros tienen reconocidas, en cada caso, en la actualidad en sus respectivas normas orgánicas y/o funcionales reguladoras, así como a sus titulares, salvo que se establezca otro régimen diferente en las normas jurídicas de modificación.
+
+2\. En los supuestos a que se refiere el apartado anterior las personas titulares de las vocalías del Consejo que representen a la Administración General del Estado o a los organismos y entidades públicos de ella dependientes continuarán desempeñando sus funciones en dicho órgano, excepto en los casos siguientes:
+
+a) Cuando exista una propuesta expresa y escrita de cese de dichas personas efectuada por los titulares de los Departamentos, órganos, organismos, entidades o agencias a los que sean atribuidas posteriormente las competencias y dirigida a la persona que ostente la presidencia del Consejo, la cual llevará a cabo dicho cese mediante resolución que será publicada en el «Boletín Oficial del Estado».
+
+b) Cuando concurra en las personas referidas otra causa, legal o reglamentariamente prevista, distinta de la indicada en el párrafo a) que impida a las mismas seguir desempeñando sus funciones en el Consejo. En tal caso, los miembros afectados deberán comunicar, por escrito y con la mayor brevedad posible, la concurrencia de dicha causa al titular de la presidencia, el cual procederá a efectuar su cese en la forma prevista en el párrafo a), si ha sido constatada por el mismo la existencia de la causa alegada, iniciando al tiempo los trámites para la designación del nuevo miembro sustituto según lo establecido en este real decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas, con carácter general, cuantas normas jurídicas, de igual o inferior rango, contradigan o se opongan a lo dispuesto en este real decreto.
+
+## Disposición final primera. Coordinadores departamentales del Plan Nacional sobre Drogas.
+
+1\. Con excepción del ministerio que tenga atribuida la competencia de coordinación y ejecución del Plan Nacional sobre Drogas, en todos los ministerios representados en el Consejo existirá una persona designada como coordinadora departamental a efectos del Plan Nacional sobre Drogas.
+
+La función de coordinación departamental será ejercida en cada ministerio, con la excepción indicada en el párrafo anterior, por la persona que represente al mismo en el Consejo salvo que otra norma jurídica con rango, al menos, de real decreto establezca otro régimen diferente, sin que ello pueda determinar un incremento de los puestos de trabajo actuales ni tampoco de las retribuciones de quienes ejerzan la función referida.
+
+Con la misma excepción, cuando un Departamento tenga varias vocalías en el Consejo, ejercerá la función de coordinación a efectos del Plan Nacional sobre Drogas en dicho Departamento la persona que tenga atribuida la representación del órgano superior o directivo, organismo, entidad o agencia que esté mencionado en primer lugar en el artículo 7.c) o al que hayan sido atribuidas sus competencias.
+
+2\. Cuando sea necesario, podrán nombrarse coordinadores o coordinadoras departamentales a efectos del Plan Nacional sobre Drogas, mediante orden del titular del Departamento que tenga atribuida la competencia de coordinación y ejecución del Plan Nacional sobre Drogas, en aquellos ministerios que no cuenten con representación permanente en el Consejo, previa audiencia y con el informe favorable de dichos ministerios.
+
+Dichos coordinadores o coordinadoras, que deberán tener, al menos, un rango administrativo de subdirector o subdirectora general, o asimilado, no formarán parte integrante del Consejo referido, salvo que la orden de su nombramiento u otra norma con rango de ley o de real decreto establezcan lo contrario. No obstante, podrán incorporarse, de forma eventual, al pleno del Consejo o a grupos de trabajo sin que puedan percibir por ello contraprestación económica alguna.
+
+## Disposición final segunda. Habilitación reglamentaria.
+
+Se habilita a la persona titular del Departamento que tenga atribuida la competencia de coordinación y ejecución del Plan Nacional sobre Drogas para desarrollar lo dispuesto en este real decreto.
+
+## Disposición final tercera. Referencias normativas.
+
+En tanto no se produzca la entrada en vigor de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, todas las referencias a artículos de la misma contenidas en este real decreto se entenderán hechas a los correspondientes artículos de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, o de la Ley 6/1997, de 14 de abril, de organización y funcionamiento de la Administración General del Estado.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 11 de diciembre de 2015.
+
+FELIPE R.
+
+El Ministro de Sanidad, Servicios Sociales e Igualdad,
+
+ALFONSO ALONSO ARANEGUI

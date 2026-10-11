@@ -1,0 +1,299 @@
+---
+title: "Orden FOM/1230/2013, de 31 de mayo, por la que se establecen normas de control en relación con los transportes públicos de viajeros por carretera"
+identifier: "BOE-A-2013-7218"
+eli: "https://www.boe.es/eli/es/o/2013/05/31/fom1230"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2013-05-31
+published: 2013-07-03
+in_force_from: 2013-07-03
+last_amended: 2019-02-20
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 158"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-7218"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/1230/2013, de 31 de mayo, por la que se establecen normas de control en relación con los transportes públicos de viajeros por carretera
+
+El artículo 222 del Real Decreto 1211/1990, de 28 de septiembre, por el que se aprueba el Reglamento de la Ley de Ordenación de los Transportes Terrestres, fue desarrollado en lo que a documentos de control administrativo se refiere, por la Orden FOM/3398/2002, de 20 de diciembre, por la que se establecen normas de control en relación con los transportes públicos de viajeros por carretera.
+
+Transcurrida una década desde su aprobación, se hace necesario revisar su contenido con el objeto de adecuarla a los cambios experimentados por el mercado de transporte terrestre de viajeros en el ámbito nacional y en el de la Unión Europea.
+
+Entre los objetivos prioritarios de la revisión se encuentra la reducción de cargas burocráticas para las empresas de transporte y de forma simultánea, la racionalización de las funciones de control e inspección encomendadas a los Servicios de Inspección del Transporte Terrestre.
+
+De este modo, se ha procedido, por considerarse innecesaria, a la eliminación de la documentación de control en determinados servicios de transporte, al existir documentación previa de contenido similar que ya permite controlar el transporte realizado. Asimismo, se ha simplificado el contenido de la documentación de control para que resulte sencilla y de fácil elaboración.
+
+En consecuencia, el libro de ruta se exige únicamente en los supuestos de transporte público discrecional, mientras que el libro u hojas de reclamaciones solamente se requieren en relación con los servicios de transporte regular de uso general y las estaciones de transporte.
+
+Por último, se procede a adaptar la terminología hasta ahora utilizada, en lo relativo a «concesión de transporte regular de viajeros», a la prevista en la actualidad por el Reglamento (CE) 1370/2007, del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los servicios públicos de transporte de viajeros por ferrocarril y carretera.
+
+En su virtud, solicitado informe del Comité Nacional del Transporte por Carretera y el Consejo Nacional de Transportes Terrestres, así como de los órganos competentes en materia de transportes de las Comunidades Autónomas y de las Ciudades de Ceuta y Melilla, y de conformidad con la autorización contenida en la disposición adicional undécima del Reglamento de la Ley de Ordenación de los Transportes Terrestres, dispongo:
+
+## Artículo 1. Hoja de ruta.
+
+1\. En ejecución de lo que se dispone en el artículo 147 de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y en el artículo 222 de su Reglamento, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, todos los autobuses destinados a la prestación de servicios de transporte público de viajeros deberán circular provistos de la correspondiente hoja de ruta.
+
+Únicamente quedarán exentos del cumplimiento de dicha obligación los siguientes supuestos:
+
+a) Vehículos expresamente adscritos a la prestación de un servicio público de transporte regular de viajeros de uso general, mientras se encuentren realizando una de las expediciones de dicho servicio.
+
+b) Vehículos de los que dispongan en nombre propio las empresas titulares de una autorización de transporte regular de viajeros de uso especial, mientras se encuentren realizando una de las expediciones contempladas en dicha autorización.
+
+2\. La empresa transportista estará obligada a conservar, a disposición de los Servicios de Inspección del Transporte Terrestre, las hojas de ruta relativas a cada uno de los servicios que realice, durante el plazo de un año contado desde la fecha en que fueron realizados.
+
+> Se modifica por el art. 8.1 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 2. Contenido y características de la hoja de ruta.
+
+1\. El Ministro de Fomento determinará las características y contenido de la hoja de ruta a que se refiere el artículo anterior, así como los criterios relativos a su cumplimentación y uso.
+
+En todo caso, deberán reflejarse en la hoja de ruta los siguientes datos relativos al servicio de transporte a que se encuentre referida:
+
+a) Nombre y Número de Identificación Fiscal de la empresa transportista.
+
+b) Nombre y Número de Identificación Fiscal de la persona, empresa o entidad contratante del servicio.
+
+c) Origen, destino y fecha de realización del servicio. En los servicios correspondientes a las clases 1.º y 4.º de la letra f) de este apartado deberán consignarse además las paradas intermedias que, en su caso, se hayan realizado durante el viaje.
+
+d) Matrícula del autobús que presta el servicio.
+
+e) Nombre y Número de Identificación Fiscal del conductor que presta el servicio.
+
+f) Naturaleza del servicio, conforme a la siguiente clasificación:
+
+1.º Servicio discrecional.
+
+2.º Servicio discrecional prestado como refuerzo de un servicio público de transporte regular de uso general (en cuyo caso habrá de identificarse el servicio que se refuerza).
+
+3.º Servicio discrecional prestado como colaboración en la prestación de un transporte regular de uso especial (en cuyo caso habrá de identificarse el transporte en cuya prestación se colabora).
+
+4.º Servicio turístico.
+
+2\. La hoja de ruta podrá consistir en un registro electrónico de datos que puedan ser transformados en signos de escritura legibles, debiendo en ese caso cumplirse las condiciones previstas en el artículo 222.2 del Reglamento de la Ley de Ordenación de los Transportes Terrestres.
+
+> Se modifica por el art. 8.2 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 3. Libro y hojas de reclamaciones.
+
+1\. Las empresas contratistas de los servicios de transporte público regular de viajeros de uso general y las empresas que gestionan las estaciones de transporte de viajeros deben disponer de un libro u hojas de reclamaciones en que los usuarios puedan formular sus quejas, de tal forma que éstas puedan ser conocidas por la Administración.
+
+2\. Un ejemplar del libro o un número suficiente de hojas de reclamaciones deberán encontrarse a disposición de los usuarios en los siguientes lugares:
+
+a) En las instalaciones fijas autorizadas para expender billetes.
+
+b) En todos los vehículos que realicen servicios que tengan paradas en lugares en que no haya instalaciones fijas, autorizadas para expender billetes.
+
+c) En todas las estaciones de transporte de viajeros.
+
+3\. En todos los locales y vehículos donde sea obligatorio disponer de un libro de reclamaciones existirá un rótulo que especifique: «Existe un libro de reclamaciones a disposición del público usuario».
+
+4\. El modelo y características del libro u hojas de reclamaciones es el que figura como anexo II de esta Orden, ajustándose su utilización a las siguientes reglas:
+
+a) las empresas deberán presentar el libro de reclamaciones ante el órgano competente para el otorgamiento de la autorización en que se ampara el vehículo o, cuando se trate de libros que deban ser adscritos a locales, ante el órgano competente en materia de transportes en el lugar en que se ubiquen los mismos, para su diligenciado, a cuyo fin habrá de cumplimentar los datos precisos que figuran en él.
+
+El referido libro será de libre edición, ajustándose al modelo contenido en el mencionado anexo II. Constará de varios ejemplares de hojas de reclamaciones, correlativamente numeradas. Cada hoja de reclamaciones se confeccionará por triplicado ejemplar, de igual numeración, en papel autocopiativo, destinándose:
+
+El primero, para su remisión obligatoria al órgano que ostente la competencia sobre el servicio o actividad. El segundo para su entrega obligatoria al reclamante.
+
+El tercero, para la propia empresa transportista o gestora, y quedará unido al libro para su constancia.
+
+b) Cada una de las reclamaciones se formulará por escrito en una hoja del libro, consignando los hechos objeto de la reclamación (nombre, apellidos, número del documento nacional de identidad, domicilio y firma del reclamante), así como el lugar y fecha de la reclamación.
+
+Asimismo, podrán consignarse por el reclamante cualesquiera otros datos que considere de interés para un mejor conocimiento de la reclamación.
+
+Las empresas estarán obligadas a facilitar el libro de reclamaciones a los usuarios que así lo soliciten, a los efectos previstos en este artículo.
+
+c) Formulada la reclamación por el usuario, la empresa entregará el ejemplar de la hoja correspondiente destinado al reclamante y, en el plazo de treinta días, remitirá al órgano que ostente la competencia sobre el servicio o actividad, el ejemplar de dicha hoja a él destinado, en unión del informe o las alegaciones que estime conveniente realizar sobre los hechos relatados por el reclamante, concluyendo con la indicación de si acepta o rechaza la reclamación.
+
+d) El diligenciado del segundo y sucesivos libros de reclamaciones para un mismo vehículo, servicio o actividad requerirá la devolución del libro anteriormente diligenciado, salvo que se acredite suficientemente la imposibilidad de hacerlo así.
+
+## Artículo 4. Recomendaciones en materia de seguridad y accesibilidad.
+
+1\. Las empresas transportistas de viajeros en autobús deberán arbitrar los medios necesarios para garantizar que los viajeros han tenido acceso a una información mínima suficiente sobre las disposiciones de viaje más relevantes y los elementos con que cuenta el vehículo destinados a garantizar su seguridad, desde el momento en que acceden al vehículo o inmediatamente antes.
+
+2\. A tal efecto, dicha información, que podrá ser comunicada oralmente o a través de cualquier medio gráfico o audiovisual, deberá hacer referencia como mínimo a los siguientes extremos:
+
+a) Localización de puertas, accesos y salidas de socorro, así como la forma más adecuada de utilizarlas.
+
+b) Ubicación de extintores.
+
+c) Uso de cinturones de seguridad, cuando el vehículo cuente con ellos, así como acerca de la obligatoriedad de su utilización y de los riesgos y la responsabilidad que podría derivarse del incumplimiento de aquella.
+
+d) Existencia de botiquín de primeros auxilios.
+
+e) Disposiciones sobre colocación de equipajes y bultos de mano.
+
+f) Obligatoriedad de seguir las indicaciones del conductor y demás personal acreditado de la empresa relativas a higiene, seguridad y cumplimiento de las normas que les afectan por parte de los viajeros.
+
+g) Principales recomendaciones a seguir en caso de emergencia.
+
+h) Condiciones de accesibilidad con que cuentan los vehículos y, en su caso, las estaciones de transporte de viajeros por carretera en las que se vaya a efectuar parada durante el viaje.
+
+> Se modifica por el art. 8.3 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 5. Documentación de la colaboración de otros transportistas en la realización de transportes regulares de uso general y especial.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 6. Comprobación anual de los requisitos relativos a las empresas contratistas de la gestión de servicios públicos de transporte regular de viajeros de uso general.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden PRE/907/2014, de 29 de mayo. [Ref. BOE-A-2014-5826](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5826).
+
+> Téngase en cuenta que las obligaciones de suministro de información contempladas en este artículo subsisten hasta el 31 de diciembre de 2015, según establece la disposición transitoria única de la citada Orden.
+
+## Artículo 7. Comprobación trimestral de los datos de explotación de los contratos de gestión de servicios públicos de transporte regular de viajeros de uso general.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 8. Distintivos de los vehículos de transporte público regular de uso general de viajeros por carretera.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 9. Facturación de los servicios de transporte discrecional y regular de uso especial por carretera.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 10. Recomendaciones en materia de seguridad en los transportes regulares y discrecionales de viajeros en autobús.
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Disposición adicional única. Otras normas.
+
+Lo dispuesto en la presente Orden se entenderá, en todo caso, sin perjuicio de las competencias que puedan tener atribuidas las Comunidades Autónomas en las distintas materias reguladas en la misma.
+
+## Disposición transitoria única. Validez de libros de ruta y reclamaciones.
+
+Los libros de ruta y de reclamaciones editados con arreglo a las exigencias y precisiones contenidas en la Orden FOM/3398/2002, de 20 de diciembre, por la que se establecen normas de control en relación con los transportes públicos de viajeros por carretera, que actualmente se encuentren en poder de las empresas, podrán continuar siendo utilizados hasta su cumplimentación definitiva.
+
+Cualquier nuevo libro de ruta y de reclamaciones que se edite a partir de la entrada en vigor de esta Orden, deberá ajustarse a las características que ésta prevé.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden FOM/3398/2002, de 20 de diciembre, por la que se establecen normas de control en relación con los transportes públicos de viajeros por carretera.
+
+## Disposición final primera. Ejecución y coordinación.
+
+El Director General de Transporte Terrestre adoptará las medidas necesarias para la ejecución de esta Orden, así como para establecer las reglas de coordinación que resulten necesarias para su aplicación de conformidad con lo dispuesto en el artículo 16.2 de la Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en Relación con los Transportes por Carretera y por Cable.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 31 de mayo de 2013.–La Ministra de Fomento, Ana María Pastor Julián.
+
+## ANEXO I — MODELO OFICIAL DE LIBRO DE RUTA
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## ANEXO II — MODELO OFICIAL DE LIBRO DE RECLAMACIONES
+
+(Tamaño mínimo 14 x 20 centímetros)
+
+En la portada:
+
+MINISTERIO DE FOMENTO
+
+Dirección General de Transporte Terrestre
+
+LIBRO DE RECLAMACIONES
+
+Empresa contratista o gestora
+
+Domicilio de la Empresa
+
+Servicio o actividad
+
+Matrícula del vehículo
+
+Local adscrito
+
+Libro número
+
+Al dorso de la portada:
+
+Se transcribirá el contenido de las reglas de utilización del libro u hojas de reclamaciones.
+
+En la primera hoja:
+
+Dirección General de Transporte Terrestre
+
+Unidad Provincial de Transportes
+
+Domicilio
+
+LIBRO DE RECLAMACIONES
+
+Empresa titular
+
+Domicilio de la Empresa
+
+Servicio o actividad
+
+Matrícula del vehículo
+
+Local adscrito
+
+Libro número
+
+Número de Inscripción en el Registro de Empresa
+
+Autorización de transporte clase número
+
+DILIGENCIA:
+
+Para hacer constar que este Libro se compone de juegos de hojas de reclamaciones triplicadas, selladas, numeradas, destinado a reclamaciones contra la Empresa titular del vehículo, actividad o servicio designado.
+
+. . . . . . . . . . a . . . . . . de . . . . . . . . . . . . de 2 . . . .
+
+(Firma y sello de la Unidad Provincial de Transporte)
+
+En la segunda y siguientes hojas:
+
+Libro número
+
+Hoja número
+
+Dirección General de Transporte Terrestre
+
+Nombre y apellidos del reclamante
+
+Documento nacional de identidad
+
+Domicilio, calle o plaza
+
+Municipio Provincia Código Postal
+
+Teléfono
+
+Trayecto Realizado
+
+Motivo de la reclamación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Los datos personales recogidos serán incorporados y tratados en el fichero de la entidad titular de este libro de reclamaciones (razón social de la empresa . . . . . . . . . . . . . . . . . . ), el responsable del fichero es (persona u órgano encargado del fichero y datos de contacto . . . . . . . . . . . . . . . . . . . . ). El interesado autoriza la cesión de los datos personales al órgano de la Administración Pública que sea competente para la resolución de esta reclamación. Sin perjuicio de lo anterior, estos datos no se cederán sin su consentimiento, salvo en los supuestos previstos en la Ley. Los derechos de acceso, rectificación, cancelación y oposición podrá interponerlos ante el responsable del fichero. Todo ello se informa en cumplimiento del artículo 5 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.”
+
+(fecha y firma)
+
+## ANEXO III — MODELO OFICIAL DE JUSTIFICANTE DE LA PRESTACIÓN DE SERVICIOS REGULARES DE VIAJEROS DE USO GENERAL O ESPECIAL EN CONCEPTO DE COLABORACIÓN
+
+**(Sin contenido).**
+
+> Se deja sin contenido por el art. 8.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)

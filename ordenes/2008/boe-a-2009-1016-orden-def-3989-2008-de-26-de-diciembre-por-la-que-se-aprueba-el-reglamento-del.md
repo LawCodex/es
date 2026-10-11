@@ -1,0 +1,383 @@
+---
+title: "Orden DEF/3989/2008, de 26 de diciembre, por la que se aprueba el Reglamento del Servicio de Estadística del Ministerio de Defensa"
+identifier: "BOE-A-2009-1016"
+eli: "https://www.boe.es/eli/es/o/2008/12/26/def3989"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2008-12-26
+published: 2009-01-22
+in_force_from: 2009-01-23
+last_amended: 2017-05-24
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 19"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-1016"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/3989/2008, de 26 de diciembre, por la que se aprueba el Reglamento del Servicio de Estadística del Ministerio de Defensa
+
+El Servicio de Estadística Militar fue creado por Orden de la Presidencia del Gobierno, de 14 de marzo de 1957.
+
+Por Orden de la Presidencia del Gobierno, de 2 de enero de 1958, se aprueba el Reglamento provisional del Servicio de Estadística Militar.
+
+Por Orden de la Presidencia del Gobierno, de 25 de septiembre de 1962, se aprueba el Reglamento del Servicio de Estadística Militar y por Orden de 6 de febrero de 1968, se modifican dos artículos del mismo.
+
+La Orden Ministerial 153/1982, de 12 de noviembre, por la que se dan nuevas denominaciones al Servicio de Estadística del Departamento, se reorganiza el mismo y se aprueba su Reglamento, establece la reorganización del Servicio de Estadística, pasando a denominarse Servicio de Estadística del Ministerio de Defensa.
+
+Posteriormente, el artículo 5 del Real Decreto 1207/1989, de 6 de octubre, por el que se desarrolla la estructura básica de los Ejércitos, establece la competencia, en su ámbito respectivo, de la Dirección de Servicios Técnicos del Cuartel General de cada ejército sobre aquella materia, fijándose, en la disposición adicional tercera.c), su dependencia funcional de la Secretaría General Técnica del Ministerio de Defensa.
+
+La Orden Ministerial 32/1993, de 14 de abril, por la que se regula la estructura, misiones y funcionamiento del Servicio de Estadística de las Fuerzas Armadas, definió un nuevo reglamento para adecuar el Servicio de Estadística de las Fuerzas Armadas a la nueva estructura de los ejércitos, establecida por el citado Real Decreto 1207/1989, de 6 de octubre y desarrollada por las Órdenes 21/1991, 22/1991 y 23/1991, de 12 de marzo de 1991.
+
+El Real Decreto 1883/1996, de 2 de agosto, de Estructura Orgánica Básica del Ministerio de Defensa, actualiza el Real Decreto 1/1987, de 1 de enero y establece en su artículo 13.2.f las mismas funciones que, en materia de estadística, establecía el mencionado Real Decreto, y que corresponden a la Secretaría General Técnica.
+
+El artículo 8.2.f) del Real Decreto 1126/2008, de 4 de julio, por el que se desarrolla la Estructura Orgánica Básica del Ministerio de Defensa, establece las funciones que en materia de estadística corresponden a la Secretaría General Técnica.
+
+La experiencia de funcionamiento acumulada durante estos últimos años aconsejan introducir una serie de modificaciones y complementos en el texto de la Orden Ministerial 32/1993, de 14 de abril, que, aunque no varían sustancialmente el espíritu de la misma, describen con mayor amplitud la estructura y funcionamiento del Servicio, eliminan determinados detalles organizativos que restaban capacidad operativa al mismo, introducen una armonización terminológica deseable, establecen el concepto de programa anual de desarrollo del Plan Estadístico de la Defensa al objeto de armonizar éste con las formas de actuación del Instituto Nacional de Estadística, y ello de acuerdo con la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, y finalmente, se dota de carácter colegiado asesor a la antigua Comisión Asesora Estadística de la Defensa, pasando a denominarse Comisión Ministerial de Estadística del Ministerio de Defensa.
+
+Por ello, con la aprobación previa de la Ministra de Administraciones Públicas,
+
+### DISPONGO:
+
+#### Apartado único. Aprobación del reglamento.
+
+Se aprueba el Reglamento del Servicio de Estadística del Ministerio de Defensa, cuyo texto se inserta a continuación.
+
+#### Disposición transitoria única. Diploma de Estadística Militar.
+
+Al personal que a la entrada en vigor de esta orden ministerial, estuviera realizando trabajos para la obtención del Diploma de Estadística Militar, regulado por la Orden Ministerial 32/1993, de 14 de abril, por la que se regula la estructura, misiones y funcionamiento del Servicio de Estadística de las Fuerzas Armadas, le será de aplicación lo dispuesto en el apartado 10.2.a) de la citada orden.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Sin perjuicio de lo establecido en la disposición transitoria única, queda derogada la Orden Ministerial 32/1993, de 14 de abril, por la que se regula la estructura, misiones y funcionamiento del Servicio de Estadística de las Fuerzas Armadas, y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en esta orden.
+
+#### Disposición final primera. Facultades de desarrollo.
+
+Se faculta al Subsecretario de Defensa para dictar cuantas instrucciones estime necesarias para la ejecución y desarrollo del reglamento que se aprueba con esta orden.
+
+#### Disposición final segunda. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 26 de diciembre de 2008.–La Ministra de Defensa, Carme Chacón Piqueras.
+
+## REGLAMENTO DEL SERVICIO DE ESTADÍSTICA DEL MINISTERIO DE DEFENSA
+
+#### Artículo 1. Objeto y ámbito de aplicación.
+
+Este reglamento tiene por objeto regular la estructura, misiones y actuación del Servicio de Estadística en el ámbito del Ministerio de Defensa, con la finalidad de conseguir la máxima eficacia de los recursos humanos, lógicos y materiales empeñados en labores estadísticas, mediante la oportuna coordinación de esfuerzos y la debida economía de medios, de tal forma que se alcance el necesario apoyo al mando para la toma de decisiones y, al mismo tiempo, complemente la información estadística de nivel nacional con los datos propios del Ministerio de Defensa.
+
+#### Artículo 2. Misiones del Servicio.
+
+Las misiones generales del Servicio de Estadística del Ministerio de Defensa son las siguientes:
+
+a) Asesorar en el ámbito del Ministerio de Defensa en materia de estadística.
+
+b) Llevar a cabo la planificación, y en su caso la ejecución y supervisión de las estadísticas y encuestas periódicas de interés para el Ministerio de Defensa.
+
+c) Adquirir, tratar y custodiar los datos que sean necesarios para la elaboración de las estadísticas planificadas, así como editarlas y controlar su distribución.
+
+d) Llevar a cabo las investigaciones, trabajos e informes estadísticos que le sean encomendados por las Autoridades correspondientes.
+
+e) Colaborar con el Instituto Nacional de Estadística y organismos estadísticos oficiales, de acuerdo con lo previsto en la Ley 12/1989, de 9 de mayo, de la Función Estadística Pública, en los campos que afecten al Ministerio de Defensa.
+
+f) Dar cumplimiento a las obligaciones del Estado, en materia de estadística relacionada con el Ministerio de Defensa, que se contraigan o se hayan contraído con otros Estados u Organismos internacionales.
+
+g) Proponer los perfiles profesionales que se requieren para ocupar los distintos puestos de trabajo en la estructura del servicio.
+
+h) Constituir y mantener actualizado un fondo documental y bibliográfico especializado.
+
+> Se modifica la letra g) por la disposición final 1.1 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 3. Estructura del Servicio.
+
+1\. El Servicio de Estadística del Ministerio de Defensa se estructura en:
+
+a) Jefatura: El Secretario General Técnico del Ministerio de Defensa.
+
+b) Órganos de Dirección:
+
+1.º Secretaría General Técnica.
+
+2.º Jefatura de los Sistemas de Información Telecomunicaciones y Asistencia Técnica del Ejército de Tierra.
+
+3.º Jefatura de Asistencia y Servicios Generales de la Armada.
+
+4.º Jefatura de Servicios Técnicos y de Sistemas de Información y Telecomunicaciones del Ejército del Aire.
+
+c) Órganos de Planificación y Ejecución:
+
+1.º Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+2.º Unidad de Estadística del Ejército de Tierra.
+
+3.º Unidad de Estadística de la Armada.
+
+4.º Unidad de Estadística del Ejército del Aire.
+
+d) Órganos de Ejecución:
+
+A propuesta de los Órganos de Dirección anteriores podrán crearse los siguientes:
+
+1.º Oficinas de Estadística en los Mandos y Jefaturas de la estructura básica de los ejércitos.
+
+2.º Enlaces de Estadística del resto de las unidades, centros u organismos de los ejércitos, con dependencia funcional de las oficinas de estadística citadas en el punto anterior.
+
+e) Órgano colegiado asesor de carácter técnico: Comisión Ministerial de Estadística del Ministerio de Defensa, en adelante CMEDEF.
+
+2\. Los órganos, unidades y oficinas de estadística de cada uno de los ejércitos podrán variar su denominación como consecuencia de instrucciones organizativas internas, pero deberán, independientemente de su denominación, estar encuadradas en el esquema anterior, y adaptar sus misiones y la ejecución de sus cometidos a lo que se determina a lo largo de este reglamento.
+
+Las modificaciones en las denominaciones realizadas, deberán ser informadas al Comité Permanente que se describe en el artículo 11.3.b del presente reglamento.
+
+#### Artículo 4. Jefatura del Servicio.
+
+La Jefatura del Servicio de Estadística del Ministerio de Defensa la desempeña el Secretario General Técnico del Ministerio, quien ostenta la representación del Ministro en el Consejo Superior de Estadística y preside la Comisión Ministerial de Estadística del Ministerio de Defensa.
+
+#### Artículo 5. Secretaría General Técnica.
+
+1\. En relación con los órganos de los ejércitos competentes en la materia, la Secretaría General Técnica tiene las atribuciones que le confiere el artículo 8.1 del Real Decreto 1126/2008, de 4 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa.
+
+2\. Al Secretario General Técnico le corresponden las siguientes funciones:
+
+a) Ejercer la Jefatura del Servicio de Estadística del Ministerio de Defensa.
+
+b) Elaborar y tramitar el Plan Estadístico de la Defensa (PLANESTADEF) para su aprobación por orden ministerial.
+
+c) Llevar a cabo la preparación, planeamiento y desarrollo de la política del Ministerio de Defensa en materia de estadística.
+
+d) Planificar y supervisar la ejecución del Plan Estadístico de la Defensa.
+
+e) Proponer a la Dirección General de Reclutamiento y Enseñanza Militar, las necesidades formativas en materia de estadística.
+
+f) **(Sin contenido)**
+
+g) Mantener relaciones e intercambio de información en materia de estadística con organizaciones civiles y militares tanto nacionales como extranjeras.
+
+h) Convocar y, en su caso, presidir las reuniones de la Comisión Ministerial de Estadística del Ministerio de Defensa.
+
+i) Ostentar la representación del Ministerio de Defensa en el Consejo Superior de Estadística.
+
+> Se modifica la letra e) y se deja sin contenido la f) del apartado 2 por la disposición final 1.2 y 3 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 6. Órganos de Dirección.
+
+1\. En virtud de su dependencia funcional respecto de la Secretaría General Técnica, podrán llevar a cabo las actuaciones que determina la disposición adicional única del Real Decreto 912/2002, de 6 de septiembre, por el que se desarrolla la estructura básica de los Ejércitos.
+
+2\. A los Jefes de los Órganos de Dirección de cada ejército les corresponden las siguientes funciones:
+
+a) Ejercer la Jefatura del Servicio de Estadística del Ministerio de Defensa en el ámbito de su ejército.
+
+b) Asesorar a su Jefe de Estado Mayor en materia de estadística.
+
+c) Dirigir y coordinar los trabajos que lleven a cabo los distintos órganos del Servicio de Estadística en el ámbito de su ejército.
+
+d) Atender a cuantas solicitudes de información estadística reciban, procedentes de la Jefatura del Servicio, relativas al ámbito de su ejército.
+
+e) Mantener relaciones e intercambio de información con organizaciones civiles y militares en materia de estadística de su propia responsabilidad, de acuerdo con las disposiciones oficiales que regulan esta materia.
+
+f) Proponer al Mando de su ejército la creación de oficinas de estadística de su ejército y organismos de estadística subordinados a éstas, así como sus funciones, organización y necesidades de plantilla.
+
+g) Proponer a la Dirección de Enseñanza de su Ejército, las necesidades formativas en materia de estadística.
+
+> Se modifica la letra g) del apartado 2 por la disposición final 1.4 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 7. Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+1\. Es el órgano de trabajo del Secretario General Técnico en materia de estadística.
+
+2\. Le corresponde desarrollar los cometidos generales del Servicio en el ámbito del Órgano Central del Ministerio y en particular, de acuerdo con las directrices recibidas de la Secretaría General Técnica:
+
+a) Elaborar el proyecto de Plan Estadístico de la Defensa y sus correspondientes programas anuales, así como proponerlos a la Comisión Ministerial de Estadística del Ministerio de Defensa para su aprobación.
+
+b) Ejecutar el Plan Estadístico de la Defensa y llevar a cabo las investigaciones, trabajos e informes estadísticos que se le encomienden.
+
+c) Coordinar, cuando proceda, las actuaciones de las Unidades de Estadística de los ejércitos y prestarles el apoyo técnico que soliciten.
+
+d) **(Sin contenido)**
+
+> Se deja sin contenido la letra d) del apartado 2 por la disposición final 1.5 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 8. Unidades de Estadística de los ejércitos.
+
+1\. Las Unidades de Estadística de los ejércitos son los órganos de trabajo de los respectivos Jefes de los Órganos de Dirección en materia de estadística.
+
+2\. Les corresponde desarrollar los cometidos generales del Servicio en el ámbito de su ejército y en particular, de acuerdo con las directrices recibidas de su Órgano de Dirección:
+
+a) Dirigir técnicamente el Servicio de Estadística en su ejército.
+
+b) Asesorar, apoyar y controlar técnicamente los trabajos de su responsabilidad a las Oficinas de Estadística dependientes funcionalmente.
+
+c) Actuar de enlace entre la Unidad de Estadística del Órgano Central y sus respectivas oficinas de estadística.
+
+d) Elaborar los informes estadísticos y de actividad que les sean solicitados por la Jefatura del Servicio, a través de la Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+e) Asesorar al Estado Mayor de su ejército desde el punto de vista de la estadística, llevando a cabo las investigaciones, trabajos e informes estadísticos que le sean encomendados.
+
+f) Recoger, depurar y remitir a la Unidad de Estadística del Órgano Central del Ministerio de Defensa los datos estadísticos que se le soliciten, relativos a su ejército.
+
+g) **(Sin contenido)**
+
+h) Ejecutar los planes y programas específicos que les hayan sido encomendados.
+
+i) Proponer al Jefe del Órgano de Dirección el establecimiento de nuevas oficinas de estadística y de los Órganos del Servicio dependientes de éstas que se consideren convenientes.
+
+j) Colaborar con la Unidad de Estadística del Órgano Central del Ministerio de Defensa en la elaboración del PLANESTADEF y sus programas anuales.
+
+> Se deja sin contenido la letra g) del apartado 2 por la disposición final 1.6 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 9. Oficinas de Estadística de los Mandos y Jefaturas de la estructura básica de los ejércitos.
+
+1\. Son los órganos de ejecución en los Mandos o Jefaturas de la estructura básica de los ejércitos, con dependencia funcional de la Unidad de Estadística de su ejército.
+
+2\. Les corresponde desarrollar los cometidos generales del Servicio en su ámbito y en particular:
+
+a) Canalizar las directrices procedentes de los niveles superiores del Servicio hacia los órganos de ellas dependientes.
+
+b) Obtener, depurar y remitir en tiempo oportuno a los órganos superiores del Servicio la información estadística que les sea solicitada por aquellos de acuerdo con lo indicado en el artículo 13.
+
+c) Elaborar los informes y resúmenes estadísticos que afecten a materias de la competencia de su Mando o Jefatura y les sean solicitados por la Unidad de Estadística de su ejército.
+
+d) Apoyar técnicamente a los organismos que les suministren los datos estadísticos.
+
+#### Artículo 10. Enlaces de estadística en las bases, acuartelamientos y establecimientos de los ejércitos.
+
+1\. Son los órganos de ejecución del Servicio que se constituyen en los órganos principales de las bases, acuartelamientos y establecimientos de los ejércitos, a propuesta del Jefe del Órgano de Dirección de su ejército, llevando a cabo, en su ámbito específico de actuación las funciones que éste les asigne. Dependen funcionalmente de la Unidad de Estadística de su ejército, a través de la oficina de estadística de nivel superior.
+
+2\. Los cometidos son los descritos en el artículo 9 de este reglamento referidos a su ámbito de actuación.
+
+#### Artículo 11. Comisión Ministerial de Estadística del Ministerio de Defensa.
+
+1\. La Comisión Ministerial de Estadística del Ministerio de Defensa, es el órgano colegiado asesor de carácter técnico del Jefe del Servicio de Estadística del Ministerio de Defensa.
+
+2\. Son funciones de la CMEDEF:
+
+a) Informar preceptivamente el Proyecto de Plan Estadístico de la Defensa (PLANESTADEF) y los programas anuales, así como, en su caso, proponer la supresión o modificación de alguna operación incluida en el expresado plan, o la incorporación de alguna operación estadística nueva, realizándose la eliminación o adición en el correspondiente programa anual.
+
+b) Proponer al Jefe del Servicio, para su aprobación, los informes de ejecución de los planes y programas de estadística.
+
+c) Acordar la formación de grupos de trabajo para la elaboración de informes o propuestas. En particular se formarán grupos de trabajo para la elaboración de los proyectos referidos en el artículo 7.2.a).
+
+d) Formular recomendaciones en materia de producción y uso de las estadísticas de Defensa y otras operaciones estadísticas.
+
+e) Tratar cualquier otra cuestión que le plantee la Secretaría de Estado de Defensa, Secretaría General de Política de Defensa, Subsecretaría de Defensa, el Jefe de Estado Mayor de la Defensa y los Jefes de Estado Mayor de los Ejércitos en materia de estadística.
+
+3\. Funcionamiento de la CMEDEF.–La CMEDEF podrá actuar en Pleno y en Comité Permanente. Además podrá nombrar los Grupos de Trabajo necesarios para el desarrollo de su función.
+
+a) Al menos una vez al año se reunirá la Comisión en Pleno, que estará compuesta como sigue:
+
+Presidente: El Secretario General Técnico o, en su defecto, el Vicesecretario General Técnico.
+
+Vocales:
+
+1.º El Vicesecretario General Técnico, cuando no presida la Comisión.
+
+2.º Los Jefes de los Órganos de Dirección del Servicio.
+
+3.º El Jefe del Área de Información y Ayuda a la Decisión de la Vicesecretaría General Técnica.
+
+4.º El Jefe de la Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+5.º El Jefe de la Unidad de Estadística de cada ejército.
+
+Secretario: Una persona designada por el Presidente de la Comisión entre el personal destinado en el Área de Información y Ayuda a la Decisión, que asistirá a las reuniones con voz pero sin voto.
+
+Asesores: El Presidente de la Comisión podrá autorizar, cuando lo considere conveniente, y de acuerdo con el asunto a tratar, la asistencia a las reuniones de asesores.
+
+b) En el seno de la Comisión Ministerial de Estadística existirá un Comité Permanente integrado por los siguientes miembros:
+
+1.º El Jefe de la Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+2.º El Jefe de la Unidad de Estadística del Ejército de Tierra.
+
+3.º El Jefe de la Unidad de Estadística de la Armada.
+
+4.º El Jefe de la Unidad de Estadística del Ejército del Aire.
+
+Atendiendo a la estructura funcional del Servicio, ejercerá la presidencia de esta Comisión Permanente el Jefe de la Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+El presidente del Comité Permanente designará al secretario de la misma entre el personal destinado en el Área de Información y Ayuda a la Decisión, que asistirá a las reuniones con voz pero sin voto.
+
+El presidente del Comité Permanente podrá convocar las reuniones de ésta a solicitud de cualquiera de sus miembros o por decisión del Secretario General Técnico.
+
+Corresponderá al Comité Permanente el estudio técnico y la formulación de las observaciones pertinentes sobre la documentación relativa a las funciones atribuidas al pleno de la Comisión, así como cualesquiera otras funciones que el Pleno delegue en ella.
+
+Adicionalmente el Pleno podrá encomendar funciones propias a la Comisión Permanente al objeto de tramitar de forma ágil y eficaz los asuntos que así lo requieran.
+
+c) La convocatoria de la Comisión en cualquiera de sus formas corresponderá al Presidente, que deberá acordarla con una antelación mínima de cuarenta y ocho horas, a la que acompañará el orden del día.
+
+El orden del día será fijado por el Presidente, teniendo, en su caso en cuenta, las peticiones de los demás miembros formuladas con antelación de al menos tres días.
+
+De cada sesión se levantará acta, que contendrá la indicación de las personas que hayan intervenido, así como las circunstancias de lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones y la forma y contenido de los acuerdos alcanzados.
+
+Los miembros de la Comisión podrán hacer constar en acta su opinión particular en relación a los acuerdos alcanzados.
+
+#### Artículo 12. Jefaturas de las Unidades y Oficinas de Estadística.
+
+1\. Las Jefaturas de las Unidades de Estadística serán desempeñadas por un oficial en posesión del Diploma Militar de Estadística.
+
+2\. Las jefaturas de las oficinas de estadística serán desempeñadas por oficiales que se encuentren en posesión del Diploma o Especialista Militar en Estadística. En su defecto, tendrán prioridad para ocupar dicha jefatura el personal que haya superado el Curso de Especialista Militar en Técnicas Estadísticas, tenga el Curso Básico Militar en Estadística o, posea una titulación estadística universitaria de grado superior o medio.
+
+3\. Los puestos de Enlaces de Estadística de las UCO,s deberán estar ocupados, preferentemente, por personal con la Aptitud Militar en Estadística.
+
+#### Artículo 13. Funcionamiento del Servicio.
+
+1\. Se establece una jerarquía de tipo funcional entre los órganos del Servicio de Estadística distribuida en cuatro niveles denominados escalones:
+
+a) Cuarto escalón: Unidad de Estadística del Órgano Central del Ministerio de Defensa.
+
+b) Tercer escalón: Unidades de Estadística de los ejércitos.
+
+c) Segundo escalón: Oficinas de Estadística de los Mandos y Jefaturas de la estructura básica de los ejércitos y enlaces de estadística de las unidades, centros y organismos que constituyen el segundo nivel de la estructura básica de los ejércitos.
+
+d) Primer escalón: Enlaces de Estadística del resto de las unidades, centros y organismos que se establezcan en los ejércitos.
+
+2\. Cada unidad u oficina de estadística solicitará los datos e informes estadísticos que precise a los órganos del Servicio que dependan funcionalmente de él o, en su defecto, a los organismos del Ministerio de Defensa que correspondan, quienes proporcionarán los datos solicitados de forma completa y dentro de los plazos fijados.
+
+Igualmente, remitirá a los órganos del Servicio de los que dependa, dentro de los plazos establecidos, los datos estadísticos que le hayan sido solicitados, previa comprobación y depuración de los mismos.
+
+3\. La elaboración de resúmenes estadísticos, tanto los programados como los realizados por iniciativa propia, se hará, en su caso, por las unidades, oficinas y enlaces de estadística que reciban la información estadística completa referente a cada materia específica. Dichos resúmenes se circunscribirán al ámbito específico del organismo en que estén ubicadas.
+
+4\. En el proceso estadístico, las unidades, oficinas y enlaces de estadística podrán solicitar apoyo técnico a los organismos de estadística de nivel superior de los que dependan, tanto en el Órgano Central como en cada ejército.
+
+#### Artículo 14. Plan Estadístico de la Defensa y programas anuales.
+
+1\. El Plan Estadístico de la Defensa (PLANESTADEF), que será aprobado por orden ministerial, previo informe de la CMEDEF, es el principal instrumento ordenador de la actividad estadística del Ministerio de Defensa. El PLANESTADEF contendrá la descripción de las estadísticas y las encuestas periódicas que el Servicio de Estadística del Ministerio de Defensa ha de elaborar durante su periodo de vigencia.
+
+2\. El PLANESTADEF contemplará el inventario de todas las operaciones estadísticas planificadas que debe ser desarrollado por el Servicio durante su vigencia y será propuesto por la Unidad de Estadística del Órgano Central del Ministerio de Defensa a la CMEDEF para su informe y posterior propuesta de aprobación.
+
+3\. Los períodos de vigencia del PLANESTADEF serán los mismos que los del Plan Estadístico Nacional elaborado por el Instituto Nacional de Estadística.
+
+4\. Antes de terminar cada año el Pleno de la CMEDEF, informará y aprobará, a propuesta de la Unidad de Estadística del Órgano Central del Ministerio de Defensa, el programa anual. En este programa se detallarán las operaciones estadísticas incluidas en el PLANESTADEF que vayan a ser desarrolladas durante el año, que necesariamente deberán incluir las estadísticas del Plan Estadístico Nacional.
+
+5\. En el tercer trimestre de cada año la Comisión Permanente elaborará un informe sobre la ejecución del programa anual del año anterior para su aprobación en el Pleno.
+
+6\. Las operaciones estadísticas o encuestas de ámbito general del órgano central o de los ejércitos no previstas en el Plan o programa anual o las modificaciones incluidas en él, que las autoridades correspondientes decidan, deberán ser comunicadas previamente a la Presidencia de la Comisión. En esta comunicación se hará constar su finalidad, descripción general y colectivo afectado, así como cualquier otra información que se considere de interés.
+
+#### Artículo 15. Cursos y estudios.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por la disposición final 1.7 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 16. Titulaciones.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por la disposición final 1.7 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)
+
+#### Artículo 17. Distintivos.
+
+La obtención de las diferentes titulaciones estadísticas, dará derecho al personal militar a usar sobre el uniforme el distintivo correspondiente que se describe a continuación y estará sujeto a los condicionamientos que fija la legislación vigente.
+
+Dicho distintivo consiste en un escudo de esmalte rodeado por dos circunferencias doradas de 29 y 34 milímetros de diámetro. Esta corona circular llevará en su parte superior la palabra «NUMEN» y la inferior «NUMERUS» ambas también en dorado, siendo calado en el resto de la corona, así como los espacios entre las letras.
+
+Sobre el esmalte de fondo y apoyado en sus puntas en la circunferencia interior llevará una rosa de los vientos en azul, y sobre ésta una estrella de cinco puntas, cuya distancia entre dos puntas consecutivas será de 7 milímetros.
+
+En la parte superior de la circunferencia exterior, y unida a ella, llevará la corona real del escudo de España, cuya anchura máxima superior será de 22 milímetros y la inferior mínima de 14.
+
+Los colores del esmalte de fondo del escudo serán: blanco, para el Diploma Militar en Estadística, verde para los que estén en posesión del título de Especialista Militar en Estadística y rojo para los que estén en posesión de la Aptitud Militar en Estadística.
+
+> Se modifica el primer párrafo por la disposición final 1.8 de la Orden DEF/464/2017, de 19 de mayo. [Ref. BOE-A-2017-5729](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5729)

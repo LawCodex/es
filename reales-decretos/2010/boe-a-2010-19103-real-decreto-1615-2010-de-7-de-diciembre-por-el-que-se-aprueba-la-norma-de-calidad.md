@@ -1,0 +1,689 @@
+---
+title: "Real Decreto 1615/2010, de 7 de diciembre, por el que se aprueba la norma de calidad del trigo"
+identifier: "BOE-A-2010-19103"
+eli: "https://www.boe.es/eli/es/rd/2010/12/07/1615"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2010-12-07
+published: 2010-12-11
+in_force_from: 2010-12-12
+last_amended: 2013-04-05
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 301"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-19103"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1615/2010, de 7 de diciembre, por el que se aprueba la norma de calidad del trigo
+
+Incluye la corrección de errores publicada en BOE núm. 168, de 14 de julio de 2011. [Ref. BOE-A-2011-12109](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12109).
+
+La Ley 16/1984, de 29 de mayo, por la que se regula la producción y el comercio del trigo, en su disposición final segunda, faculta al Gobierno y a los Ministerios correspondientes, para que en el ámbito de sus respectivas competencias, dicten disposiciones de desarrollo de la ley.
+
+Actualmente, existe en nuestro ordenamiento jurídico un vacío jurídico en materia de clasificación comercial de los trigos que nos sitúa en desventaja competitiva con nuestro entorno comunitario. El mercado español está dominado por mezclas de diferente aptitud industrial en las que la comercialización se hace sobre la base de variedades y no de grupos de calidad definidos para los diferentes usos industriales.
+
+La actual realidad agraria pone de manifiesto la necesidad de impulsar la competitividad del sector primario y agroalimentario y de reforzar particularmente los eslabones más débiles de la cadena. Con la adopción del presente real decreto se pretende poner en valor el producto agrario en origen, en este caso el trigo, ofreciendo a los agricultores un instrumento para alcanzar la normalización y homogeneidad demandada por la industria y que repercutirá sin duda en la rentabilidad de sus explotaciones. La utilización de semilla certificada y una mejora en las prácticas realizadas en la fase productiva redundará además positivamente en las industrias de derivados de cereales.
+
+Este real decreto establece una categorización en grupos y grados para el trigo blando y el trigo duro. La categorización en grupos numerados no se refiere a mayor o menor calidad del producto, sino que es indicativa del uso industrial óptimo para cada trigo y la categorización en grados hace referencia a las condiciones de entrega y otras variables de las que dependerá el rendimiento industrial del grano.
+
+Los parámetros a tener en cuenta para la categorización por grupos y grados y los rangos de valor establecidos para los mismos, son los más apreciados, en cada caso, por la industria transformadora de cereales.
+
+Los métodos oficiales de análisis de los parámetros tenidos en cuenta para la clasificación se recogen en la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva. Dado que éstos han quedado anticuados, procede modificar la citada orden para adaptar los métodos de análisis a la actual tecnología y a los métodos normalizados de análisis de los parámetros considerados.
+
+La ausencia de legislación al respecto durante décadas no permite una implantación de la clasificación de forma inmediata, siendo conveniente arbitrar un periodo transitorio durante el cual se establezca una relación directa entre las variedades comerciales utilizadas en España y su potencial para pertenecer a cada uno de los grupos establecidos. Esta asignación es teórica puesto que se basa en los resultados obtenidos en los ensayos para su inscripción en el catálogo común de variedades de especies de plantas agrícolas, pudiendo pertenecer el producto obtenido de dichas variedades en condiciones normales de cultivo, a un grupo distinto. Esta asignación teórica permitirá a los agricultores orientar su producción a aquellos grupos que, ya sea por las condiciones edáficas de sus parcelas, climáticas o de demanda en la zona en la que se ubican, o por cualquier otro motivo, tengan una mejor adaptación al mercado.
+
+Puesto que las características del producto obtenido en campo depende de otros muchos factores además del tipo de variedad utilizada en la siembra, la asignación, en dicha clasificación teórica provisional contenida en los anexos I y II del presente real decreto, de una variedad determinada a un grupo concreto no garantiza, en ningún caso, que el producto obtenido de dichas variedades sea clasificado como perteneciente a dicho grupo. Serán los valores obtenidos para los parámetros considerados los que determinen el grupo comercial.
+
+Esta norma se configura como una decisión estatal de política económica dirigida a alcanzar el objetivo constitucional de atender la modernización y el desarrollo de la agricultura.
+
+En este caso, dado el carácter marcadamente técnico de la norma y teniendo en cuenta la doctrina del Tribunal Constitucional, se considera ajustada su adopción mediante real decreto.
+
+En la elaboración de la presente disposición han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados. Asimismo, se ha sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previstos en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora dicha Directiva al ordenamiento jurídico español.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino y de la Ministra de Sanidad, Política Social e Igualdad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de diciembre de 2010,
+
+DISPONGO:
+
+## Artículo único. Aprobación de las norma de calidad del trigo.
+
+Se aprueba la norma de calidad del trigo cuyo texto se inserta a continuación.
+
+## Disposición adicional primera. Régimen de infracciones y sanciones.
+
+Será de aplicación a la norma técnica aprobada por el presente real decreto el régimen de infracciones y sanciones previsto en el Real Decreto 1945/1983, de 22 de junio, regulador de las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, y en las correspondientes normas de las comunidades autónomas.
+
+## Disposición adicional segunda. Cláusula de reconocimiento mutuo.
+
+Los requisitos de la norma técnica aprobada por el presente real decreto no se aplicarán a los trigos producidos y/o comercializados de acuerdo con otras especificaciones en los otros Estados miembros de la Unión Europea, ni a los productos originarios de los países de la Asociación Europea de Libre Comercio, Partes Contratantes en el Acuerdo Espacio Económico Europeo, ni a los Estados que tengan un Acuerdo de Asociación Aduanera con la Unión Europea.
+
+## Disposición transitoria única. Clasificación provisional.
+
+Hasta la utilización normalizada de la clasificación establecida en este real decreto que se aplicará obligatoriamente desde el 1 de julio 2011, se establece una clasificación teórica provisional de variedades, que no garantiza que el producto obtenido de las mismas sea clasificado como perteneciente a dicho grupo, para las operaciones comerciales con trigo blando o con trigo duro, en los anexos I y II respectivamente.
+
+## Disposición final primera. Modificación de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva.
+
+El anexo II de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva, queda modificado del siguiente modo:
+
+«1.º El método establecido en su apartado 2 “Humedad” se sustituye por el descrito en la norma UNE-EN ISO 712 “Cereales y productos derivados. Determinación del contenido de humedad. Método de referencia”.
+
+2.º El método establecido en su apartado 3 “Cenizas” se sustituye por el descrito en la norma UNE-EN ISO 2171 “Cereales, legumbres y subproductos. Determinación del rendimiento de cenizas por incineración”.
+
+3.º El método establecido en su apartado 4 “Proteína” se sustituye por el descrito en la norma UNE-EN ISO 20483 “Cereales y legumbres. Determinación del contenido de nitrógeno y cálculo del contenido de proteína bruta. Método de Kjeldahl”.
+
+4.º El método establecido en su apartado 12 “Gluten” se sustituye por el descrito en la norma UNE-EN ISO 21415-1 “Trigo y harina de trigo. Contenido de gluten. Parte 1: Determinación del gluten húmedo mediante un método manual”.
+
+5.º El apartado 14 “Alveógrafo Chopin” se sustituye por “Propiedades alveográficas” y el método establecido en dicho apartado por el descrito en la norma UNE-EN ISO 27971 «Cereales y productos a base de cereales. Trigo común (“Triticum aestivum L.”). Determinación de las propiedades alveográficas de la masa a hidratación constante preparada a partir de harinas comerciales o harinas para ensayo y la metodología del ensayo de molienda.»
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 168, de 14 de julio de 2011. [Ref. BOE-A-2011-12109](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12109).
+
+## Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final tercera. Facultad de modificación.
+
+Se faculta al titular del Ministerio de Medio Ambiente, y Medio Rural y Marino para, previa consulta a las comunidades autónomas, modificar los anexos I y II con objeto de incorporar, eliminar o cambiar de grupo variedades de trigo blando y/o trigo duro ya sea por nueva inscripción o por retirada del registro de variedades comerciales o por cambio en el grupo de distribución inicial.
+
+Asimismo, se faculta al titular del Ministerio de Medio Ambiente, y Medio Rural y Marino para diferir la fecha de aplicación obligatoria de la norma de calidad del trigo a la que se refiere la disposición final cuarta y por ende, para ampliar la fecha de uso transitorio de la clasificación provisional, a la que se refiere la disposición transitoria única. La aplicación obligatoria no podrá diferirse por un periodo superior a un año.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado». Ello no obstante, la norma técnica aprobada en el artículo único será de aplicación obligatoria desde el 1 de julio de 2011.
+
+Dado en Madrid, el 7 de diciembre de 2010.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+RAMÓN JÁUREGUI ATONDO
+
+## NORMA DE CALIDAD DEL TRIGO
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Se establece la norma de calidad del trigo, tanto para los trigos blandos como para los trigos duros, en función de los parámetros de calidad tenidos en cuenta para los diferentes usos y utilizaciones de los granos, sus harinas y sus sémolas. La norma de calidad del trigo tiene por objeto la comercialización normalizada de la oferta española de trigo.
+
+2\. La presente norma será de aplicación en las operaciones comerciales en territorio español de las que el trigo blando o el trigo duro sean objeto, excluidas las que tengan como destino la siembra.
+
+## Artículo 2. Parámetros utilizados.
+
+A los efectos de la presente norma se entenderá por:
+
+a) "W": Fuerza panadera.
+
+b) "P": Tenacidad.
+
+c) "L": Extensibilidad.
+
+d) "IGC": Índice General de Calidad.
+
+e) "Pr": Contenido de proteínas.
+
+f) "IG": Índice de gluten.
+
+g) "IC": Índice de amarillo.
+
+h) "Pe": Peso específico.
+
+> Se modifica por el art. único.1 del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).
+
+> Redactada la letra f) conforme a la corrección de errores publicada en BOE núm. 168, de 14 de julio de 2011. [Ref. BOE-A-2011-12109](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12109).
+
+## Artículo 3. Características mínimas.
+
+Para proceder a su clasificación, tanto los trigos blandos como los trigos duros tendrán calidad sana, cabal y comercial, el color propio del trigo, estarán exentos de olores anormales y de depredadores vivos (incluidos los ácaros) en todas sus fases de desarrollo y no sobrepasarán los niveles máximos de contaminantes establecidos conforme a lo dispuesto en el Reglamento (CEE) n.º 315/93 del Consejo, de 8 de febrero, por el que se establecen procedimientos comunitarios en relación con los contaminantes presentes en los productos alimenticios, incluidas las exigencias sobre el nivel de toxinas Fusarium para el trigo blando y el trigo duro fijadas en los puntos 2.4 a 2.7 del anexo del Reglamento (CE) n.º 1881/2006 de la Comisión, de 19 de diciembre, por el que se fija el contenido máximo de determinados contaminantes en los productos alimenticios.
+
+Si el trigo se destina a alimentación animal, no deberá sobrepasar los límites máximos en sustancias indeseables establecidos en el Real Decreto 465/2003, de 25 de abril, sobre las sustancias indeseables en la alimentación animal.
+
+## Artículo 4. Nomenclatura normalizada en la clasificación de trigos.
+
+1\. En las operaciones comerciales los trigos serán clasificados con dos números separados por un punto precedidos por las siglas «TB» para el trigo blando y «TD» para el trigo duro.
+
+El primero de los números hará referencia a la categorización en grupos, en función de los valores resultantes obtenidos para los diferentes parámetros de calidad tenidos en cuenta, y el segundo a la categorización en grados, en función de los valores resultantes obtenidos para los diferentes parámetros de presentación del producto tenidos en cuenta.
+
+2\. La categorización en grupos, que hace referencia al destino industrial más apropiado para ese grano, será efectuada con numeración arábiga.
+
+3\. La categorización en grados, que hace referencia a las condiciones de entrega y otros parámetros de los que dependerá el rendimiento industrial del grano, será efectuada con numeración romana.
+
+4\. Opcionalmente se podrá indicar, para los trigos duros de los grupos 1 y 2, a continuación de la categorización en grupos, si se trata de un trigo de «alto color» o de «alta calidad de gluten» en función de los valores de los parámetros recogidos en la siguiente tabla:
+
+|  | PARÁMETROS |
+|---|---|
+| Alta calidad de gluten | IG ≥ 75 |
+| Alto color | IC ≥ 19 o Contenido β-carotenos ≥ 8 ppm» |
+
+> Se añade el apartado 4 por el art. único.2 del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).
+
+## Artículo 5. Asignación de las diferentes partidas de trigo a los grupos y grados.
+
+1\. Para que las distintas partidas de trigo blando puedan ser incluidas en los grupos y grados correspondientes, definidos en el artículo 6, deberán proceder de la especie «Triticum aestivum L.» y estar dentro de los rangos de valores de todos y cada uno de los parámetros especificados para dicho grupo y grado.
+
+2\. Para que las distintas partidas de trigo duro puedan ser incluidas en los grupos y grados correspondientes, definidos en el artículo 7, deberán proceder de la especie «Triticum durum Desf.» y estar dentro de los rangos de valores de todos y cada uno de los parámetros especificados para dicho grupo y grado.
+
+3\. Las partidas de trigo podrán estar formadas por granos de más de una variedad.
+
+## Artículo 6. Grupos y grados establecidos para los trigos blandos.
+
+Los trigos blandos se clasificarán conforme a los siguientes grupos y grados:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2"> </td>
+<th colspan="5">
+<p>PARÁMETROS</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Proteína</p>
+<p>(%)</p>
+</th>
+<th>
+<p>W</p>
+</th>
+<th>
+<p>P/L</p>
+</th>
+<th>
+<p>Índice de caída</p>
+<p>(segundos)</p>
+</th>
+<th>
+<p>Degradación proteolítica</p>
+<p>(%)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Grupo</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>≥ 13</p>
+</td>
+<td>
+<p>≥ 300</p>
+</td>
+<td>
+<p>≤ 1,8</p>
+</td>
+<td>
+<p>≥ 250</p>
+</td>
+<td>
+<p>&lt; 15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>≥ 12</p>
+</td>
+<td>
+<p>200 ≤ W &lt; 300</p>
+</td>
+<td>
+<p>≤ 1,5</p>
+</td>
+<td>
+<p>≥ 250</p>
+</td>
+<td>
+<p>&lt; 15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>≥ 11</p>
+</td>
+<td>
+<p>100 ≤ W &lt; 200</p>
+</td>
+<td>
+<p>≤ 1</p>
+</td>
+<td>
+<p>≥ 250</p>
+</td>
+<td>
+<p>&lt; 15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>&gt; 10</p>
+</td>
+<td>
+<p>&lt; 100</p>
+</td>
+<td>
+<p>≤ 0,6</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td colspan="5">
+<p>El resto.»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2"> </td>
+<td colspan="4">
+<p>PARÁMETROS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad</p>
+<p>(%)</p>
+</td>
+<td>
+<p>Peso</p>
+<p>específico</p>
+<p>(kg/hl)</p>
+</td>
+<td>
+<p>Índice de Caída</p>
+<p>(segundos)</p>
+</td>
+<td>
+<p>Impurezas</p>
+<p>(%)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>GRADO</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>≤ 12</p>
+</td>
+<td>
+<p>≥ 80</p>
+</td>
+<td>
+<p>≥ 300</p>
+</td>
+<td>
+<p>&lt; 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>≤ 12,5</p>
+</td>
+<td>
+<p>≥ 78</p>
+</td>
+<td>
+<p>≥ 280</p>
+</td>
+<td>
+<p>&lt; 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>≤ 13</p>
+</td>
+<td>
+<p>≥ 75</p>
+</td>
+<td>
+<p>≥ 250</p>
+</td>
+<td>
+<p>&lt; 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>&gt; 13</p>
+</td>
+<td>
+<p>&lt; 75</p>
+</td>
+<td>
+<p>≥ 250</p>
+</td>
+<td>
+<p>&gt; 6</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica la tabla de clasificación de los trigos blandos en grupos por el art. único.3 del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).
+
+## Artículo 7. Grupos y grados establecidos para los trigos duros.
+
+Los trigos duros se clasificarán conforme a los siguientes grupos y grados:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2">
+<br>
+</td>
+<th colspan="3">
+<p>PARÁMETROS</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Proteína</p>
+<p>(%)</p>
+</th>
+<th>
+<p>Peso específico</p>
+<p>(kg/hl)</p>
+</th>
+<th>
+<p>Vitrosidad</p>
+<p>(%)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Grupo</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>≥ 13</p>
+</td>
+<td>
+<p>≥ 80</p>
+</td>
+<td>
+<p>&gt; 80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>≥ 12</p>
+</td>
+<td>
+<p>≥ 78</p>
+</td>
+<td>
+<p>&gt; 75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>≥ 11</p>
+</td>
+<td>
+<p>≥ 77</p>
+</td>
+<td>
+<p>&gt; 60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td colspan="3">
+<p>El resto.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2"> </td>
+<td colspan="6">
+<p>PARÁMETROS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Humedad</p>
+<p>(%)</p>
+</td>
+<td>
+<p>Cenizas</p>
+<p>(%)</p>
+</td>
+<td>
+<p>Índice de Caída</p>
+<p>(segundos)</p>
+</td>
+<td>
+<p>Impurezas</p>
+<p>(%)</p>
+</td>
+<td>
+<p>Otros cereales</p>
+<p>(%)</p>
+</td>
+<td>
+<p>Asurados</p>
+<p>&lt;1,9 mm</p>
+<p>y partidos</p>
+<p>(%)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>GRADO</p>
+</td>
+<td>
+<p>I</p>
+</td>
+<td>
+<p>≤ 12</p>
+</td>
+<td>
+<p>&lt; 1,75</p>
+</td>
+<td>
+<p>&gt; 300</p>
+</td>
+<td>
+<p>&lt; 3</p>
+</td>
+<td>
+<p>&lt; 2</p>
+</td>
+<td>
+<p>&lt; 4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II</p>
+</td>
+<td>
+<p>≤ 12,5</p>
+</td>
+<td>
+<p>&lt; 1,85</p>
+</td>
+<td>
+<p>&gt; 300</p>
+</td>
+<td>
+<p>&lt; 4</p>
+</td>
+<td>
+<p>&lt; 3</p>
+</td>
+<td>
+<p>&lt; 6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>III</p>
+</td>
+<td>
+<p>≤ 13</p>
+</td>
+<td>
+<p>&lt; 2,00</p>
+</td>
+<td>
+<p>&gt; 250</p>
+</td>
+<td>
+<p>&lt; 6</p>
+</td>
+<td>
+<p>&lt; 3</p>
+</td>
+<td>
+<p>&lt; 10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>IV</p>
+</td>
+<td>
+<p>&gt; 13</p>
+</td>
+<td>
+<p>&gt; 2,00</p>
+</td>
+<td>
+<p>&lt; 250</p>
+</td>
+<td>
+<p>&gt; 6</p>
+</td>
+<td>
+<p>&gt; 3</p>
+</td>
+<td>
+<p>&gt; 10</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica la tabla de clasificación de los trigos duros en grupos por el art. único.4 del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).
+
+## Artículo 8. Métodos de análisis de referencia.
+
+Para determinar los valores de los parámetros indicativos de grupo y grado se utilizará, cuando proceda, la última actualización de las normas por las que se establecen los siguientes métodos analíticos de referencia:
+
+a) Índice de caída: El método de referencia para el cálculo de la actividad amilásica será la norma UNE-EN ISO 3093 «Trigo, centeno y sus respectivas harinas, trigo duro y sémola de trigo duro. Determinación del Índice de Caída según Hagberg-Perten».
+
+b) Proteína: El método de referencia será el establecido en el punto 4 del anexo II de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva. El resultado se expresará en porcentaje sobre materia seca. Podrán asimismo utilizarse otros métodos equivalentes o basados en tecnología de infrarrojos (NIR), si bien, en caso de litigio, prevalecerá el método de referencia.
+
+c) «W», «P» y «L»: El método de referencia para determinar «W», «P» y «L» será el establecido para cada uno de los casos en el punto 14 del anexo II de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva.
+
+d) Degradación proteolítica: Se determinará como porcentaje de pérdida de «W» y «L» (calculados conforme a lo establecido en el apartado c) a las dos horas de reposo).
+
+e) Peso específico: El método de referencia será el UNE-EN ISO 7971-3 «Cereales. Determinación de la densidad volumétrica, denominada masa por hectolitro. Parte 3: método de rutina». Podrán utilizarse otros métodos equivalentes o métodos basados en la tecnología de infrarrojos (NIR), pero en caso de litigio prevalecerá el método de referencia.
+
+f) Humedad: El método de referencia será el establecido en el punto 2 del anexo II de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva. Podrán utilizarse otros métodos equivalentes o basados en la tecnología de infrarrojos (NIR), pero en caso de litigio prevalecerá el método de referencia.
+
+g) Impurezas: El método de referencia para su determinación será el establecido para el trigo blando y el trigo duro en la norma UNE-EN 15587 Cereales y productos derivados. Determinación de Besatz en trigo («Triticum aestivum L.»), trigo duro («Triticum durum Desf.»), centeno («Secale cereale L.») y cebada para alimentación animal («Hordeum vulgare L.»).
+
+h) Vitrosidad: El método de referencia para la determinación del grado de vitrosidad será el establecido en la norma UNE-EN 15585 «Cereales y productos derivados. Trigo duro («Triticum durum Desf.») Determinación del porcentaje de granos de mitadina y cálculo del porcentaje de granos vítreos».
+
+i) Calidad de gluten: Para su determinación se utilizará el índice de gluten. El método de referencia para el cálculo del contenido de gluten, será el establecido en el punto 12 del anexo II de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados. El resultado obtenido se expresará como índice de gluten.
+
+j) Cenizas: El método de referencia será el establecido en el punto 3 del anexo II de la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva.
+
+k) Otros cereales: Se entenderá por otros cereales todos los granos no pertenecientes a la especie de la muestra.
+
+l) Asurados <1,9 mm y partidos: Se aplicará para los granos asurados y los partidos lo establecido en la norma UNE-EN 15587 Cereales y productos derivados. Determinación de Besatz en trigo («Triticum aestivum L.»), trigo duro («Triticum durum Desf.»), centeno («Secale cereale L.» y cebada para alimentación animal («Hordeum vulgare L.»).
+
+m) Índice de amarillo: El método de referencia será el establecido en la norma UNE-CEN/TS 15465:2009 EX.
+
+n) Contenido de β-carotenos: El método de referencia será el establecido en la norma UNE-EN ISO 11052 "Harinas y sémolas de trigo duro. Determinación del contenido de pigmento amarillo".
+
+> Se modifican el primer párrafo, las letras b), e), f) e i) y se añaden las letras m) y n) por el art. único del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 168, de 14 de julio de 2011. [Ref. BOE-A-2011-12109](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-12109).
+
+## ANEXO I
+
+## Clasificación teórica (*) de variedades de trigos blandos
+
+| **GRUPO** | **VARIEDAD** |
+|---|---|
+| 1 | Alabanza, Babui, Badiel, Bitacora, Bologna, Cajeme 71, Califa Sur, Catedral, Crespon, Estero, Farak, Galera, Gazul, Greina, Jerezano, Patanegra, Perico, Pinzon, Sensas, Siena, Vejer, Yecora y Zarco. |
+| 2 | Abate, Alcala, Anapo, Antequera, Atomo, Atrevido, Aubusson, Aviso, Azuaga, Balneo, Bancal, Calden, Carles, CCB Ingenio, Cezanne, Chambo, Conil, Ecija, Escacena, Farmeur, Galeon, Granota, Guadalupe, Guru, Idalgo, Illico, Indor, Inoui, Kalango, Mane Nick, Mapeña, Matanza, Mecano, Nogal, Palesio, Pan Regio, Provinciale, Sogood, Soissons, Starpan, Subtil, Tejada y Tejon Nick. |
+| 3 | Abderraman, Acienda, Adagio, Aguila, Altria, Andalou, Andelos, Anforeta, Anza, Apache, Artur Nick, Astral, Atilio, Avelino, Bandera, Bastide, Berdun, Bokaro, Botticelli, Bramante, Buenno, Callobre, Camargo, Caramba, Cartaya, CCB Legion, Chatelet, Equilibre, Etecho, Exotic, Gades, Galpino, Garcia, Innov, Isengrain, Kumberri, Kuneo, Lubrican, Manda, Masaccio, Onan, Osado, Peñalon, Pistolero, Platero, Plethore, Raffy, Rodrigo, Sarina, Scaleo, Terron, Trebujena y Trocadero. |
+| 4 | Chamorro, Craklin, Marius, Odiel y Paledor. |
+| Sin asignación (**) | Abental, Academie, Aerobic, Ambos, Amiro, Andino, Aragon03, Arezzo, Asteroide, Baner, Betres, Bolero, Brigio, Campeador, Charger, Cortex, Crousty, Dollar, Escualo, Esperia, Fiel, Fiorenzo, Fiuza, Hekto, Horzal, Kilopondio, Maltus, Manal, Montcada, Mv Emese, Mv Suba, Negev, Negrillo, Ombu, Ovalo, Pane247, Premio, PR22R58, Resulton, Rudo, Salama, Santoyo, Serio, Sollario, Taber, Tigre, Torero, Trapio, Tremie, Tribel, Trimax y Valbona. |
+
+(*) Se trata de una clasificación teórica. La clasificación final de una variedad podrá diferir de la reflejada en la tabla por la influencia que tienen el medio ambiente y las prácticas agronómicas sobre los parámetros de calidad.
+
+(**) No existen datos para la asignación o no cumplen los requisitos de los grupos anteriores.
+
+> Se modifica por el art. único.12 del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).
+
+## ANEXO II
+
+## Clasificación teórica (*) de las variedades de trigos duros en función de su IGC
+
+| **IGC (**)** | **VARIEDAD** |
+|---|---|
+| IGC ≥ 105 | Canciller, Carpio, Cimbel, Aceres, Don Isidoro, Levante, Don Oro, Duramonte, Don Sebastian, Cannizzo, Sculptur, Catervo, Don Jaime, Averroes, Ayllon, Catasta, Ducados, Don Jose, Don Rafael, Calero, Concadoro, Saragolla, Athoris, Burgos, Latinur, Vitrosol, Pedroso, Claudio, Glucodur, Grecale, Boniduro, Don Valentin, Gigadur, Vítrico, Imhotep, Duilio, Boabdil, Alacon, Bolo, Ciccio, Aliron, Euroduro y Simeto. |
+| 100 ≤ IGC < 105 | Bronte, Antología, Don Francisco, Ariesol, Don Javier, Italo, Quijano, Don Juan, Ancalei, Vivadur, Bolido, Alfaro, Ismur, Debano, Molino, Astrodur, Estopa, Duroi, Ramirez, Core, Colosseo, Taranto, Asdrubal, Maestrale, Garrido, Serafo Nick, Vitromax, Moncayo, Amilcar, Regallo, Semolero, Mimmo, Prospero, Khandur, Kiko Nick y Beldur. |
+| 98 ≤ IGC < 100 | Calcas, Carioca, Ginseng, Pladur, Avispa, Don Pedro, Iride, Pelayo, Donduro, Durbel, Mexa, Vitronero, Don Ricardo, Nefer, Hispasano, Licinius, Durcal, Krucial, Seneca, Canyon, Gallatera, Durtres, Guallardo, Severo, Mellaria, Lusodur, Dorondon, Solea, Sula, Arcobaleno, Roqueño y Vitron. |
+
+(*) Se trata de una clasificación teórica. El IGC de una muestra podrá diferir de los valores reflejados en la tabla.
+
+(**) El IGC se ha calculado como porcentaje de la media del «IGC» para las variedades testigo (Amilcar, Avispa, Gallareta y Simeto) igualada a 100 y resultante de efectuar la siguiente operación:
+
+(Pr x 40%) + (IG x 30%) + (IC x 20%) + (Pe x 10%).
+
+> Se modifica por el art. único.12 del Real Decreto 190/2013, de 15 de marzo. [Ref. BOE-A-2013-3630](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3630).

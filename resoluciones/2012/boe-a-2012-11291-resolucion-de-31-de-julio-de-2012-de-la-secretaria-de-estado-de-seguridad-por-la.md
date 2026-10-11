@@ -1,0 +1,647 @@
+---
+title: "Resolución de 31 de julio de 2012, de la Secretaría de Estado de Seguridad, por la que se modifica la de 18 de enero de 1999, en lo relativo a la formación previa y uniformidad de los Guardas Particulares del Campo, en sus distintas especialidades"
+identifier: "BOE-A-2012-11291"
+eli: "https://www.boe.es/eli/es/res/2012/07/31/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 2012-07-31
+published: 2012-09-03
+in_force_from: 2012-09-04
+last_amended: 2024-02-22
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 212"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-11291"
+retrieved: 2026-10-11
+---
+
+# Resolución de 31 de julio de 2012, de la Secretaría de Estado de Seguridad, por la que se modifica la de 18 de enero de 1999, en lo relativo a la formación previa y uniformidad de los Guardas Particulares del Campo, en sus distintas especialidades
+
+La Resolución de 19 de enero de 1996, de la Secretaría de Estado de Seguridad, fue modificada parcialmente por la Resolución de la Secretaría de Estado de Interior, de 18 de enero de 1999, en lo referente a los módulos profesionales de formación y uniformidad de los Guardas Particulares del Campo y, en lo relativo a los módulos profesionales de formación de los Vigilantes de Seguridad.
+
+Dentro del ámbito del Guarda Particular del Campo, la Resolución de 18 de enero de 1999, adaptó el número de materias exigidas en los módulos profesionales de formación a los contenidos previstos en la Orden de 14 de enero de 1999, por la que se modifica lo dispuesto, sobre módulos de formación de los Vigilantes de Seguridad y Guardas Particulares del Campo, en la Orden de 7 de julio de 1995, y fueron modificados los requisitos relativos a su uniformidad recogiéndose, entre otros detalles, que ésta sería común para todas las especialidades, diferenciándose únicamente por el distintivo de la especialidad.
+
+Asimismo, y con motivo del tiempo transcurrido, han sido elaboradas diferentes normas, entre las que se cita la Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada, en cuyo artículo 4 y disposición derogatoria única, se da nueva redacción a la formación previa a superar por el aspirante a Guarda Particular del Campo y se deroga la Orden de 7 de julio de 1995, respectivamente.
+
+De ello se deriva la obligación de actualizar los contenidos formativos de la enseñanza de los guardas particulares del campo y de sus especialidades y, al mismo tiempo, adecuar la uniformidad del personal citado por otra más acorde a la peculiaridad de los servicios o actividades desarrolladas, lugares, climatología o, sencillamente, prendas de uniforme más funcionales.
+
+Por lo anterior y haciendo uso de las facultades que me confieren los artículos 4 y 30, de la Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada, y teniendo en cuenta, el informe de los Ministerios de Educación, Cultura y Deporte, de Empleo y Seguridad Social y del Ministerio de Agricultura, Alimentación y Medio Ambiente, las consideraciones, observaciones y sugerencias aportadas por las entidades representativas del sector, a propuesta de la Dirección General de la Guardia Civil, resuelvo:
+
+## Primero.
+
+El anexo 1 de la Resolución de la Secretaría de Estado de Seguridad de 18 de enero de 1999, queda sustituido por el anexo 1 de la presente que se refiere a la formación previa de los Guardas Particulares del Campo, en sus distintas especialidades, que constan de dos partes, una referida a los contenidos de formación técnico-profesional, y otra referida a las pruebas físicas, donde se añade una prueba de natación para los aspirantes a la especialidad de Guardapesca Marítimo.
+
+Los cursos de formación para los aspirantes a Guardas Particulares del Campo y sus especialidades, en su delimitación horaria, podrán comprender un porcentaje máximo del cincuenta por ciento de la formación no presencial o a distancia, debiendo impartirse obligatoriamente con carácter presencial las enseñanzas de naturaleza técnico profesional, instrumental, de contenido técnico operativo y las prácticas de tiro.
+
+## Segundo.
+
+El anexo 2 de la Resolución de la Secretaría de Estado de Seguridad de 18 de enero de 1999, queda sustituido por el anexo 2 de esta Resolución, que determina la relación de prendas que compondrá la uniformidad de los Guardas Particulares del Campo y especialidades.
+
+La citada uniformidad, variará según la especialidad del Guarda Particular del Campo si bien, se contemplan unas prendas de carácter optativo para todas ellas.
+
+La composición del uniforme de los guardas, en cuanto a la combinación de las distintas prendas de vestir, se determinará por la empresa de seguridad, persona física o jurídica contratante del Guarda Particular del Campo o por el propio guarda, en el supuesto que desarrolle su función por cuenta propia, en función de su conveniencia o necesidades, de las condiciones de trabajo, de la estación del año y de otras posibles circunstancias de orden funcional, laboral o personal.
+
+El uniforme, como ropa de trabajo, estará adaptado a la persona y deberá respetar, en todo momento, su dignidad y posibilitar la elección entre las distintas modalidades cuando se trate de prendas tradicionalmente asociadas a uno de los sexos.
+
+Asimismo, la Dirección General de la Guardia Civil podrá autorizar, en aquellos servicios que hayan de prestarse en determinados lugares de trabajo que así lo aconsejen, en especiales condiciones laborales que lo requieran, o en circunstancias climatológicas o de especial peligrosidad o riesgo, el uso de prendas específicas, accesorias o adecuadas al puesto de trabajo, según lo dispuesto en las normas sectoriales o legislaciones especiales en las que se vele por la salud, seguridad o prevención de riesgos en los puestos de trabajo.
+
+La solicitud será efectuada por la empresa de seguridad, persona física o jurídica contratante del Guarda Particular del Campo o por el propio guarda, en el supuesto que desarrolle su función por cuenta propia; y el distintivo del cargo siempre será visible conforme a lo establecido en el anexo 3 de esta Resolución.
+
+Todas las solicitudes de autorización y comunicaciones referidas a la uniformidad de los Guardas Particulares del Campo serán dirigidas al Servicio de Protección y Seguridad de la Guardia Civil.
+
+La uniformidad detallada en el anexo 2, podrá ser modificada por Resolución del Director General de la Guardia Civil.
+
+## Tercero.
+
+El distintivo profesional y los distintivos de Guarda Particular del Campo, Guarda de Caza y Guardapesca Marítimo se ajustarán a las características determinadas en el anexo 3 de la presente Resolución.
+
+El distintivo profesional se llevará permanentemente en la parte alta de la manga izquierda, de la prenda exterior, sin que pueda quedar oculto por otra prenda o elemento que se lleve.
+
+El distintivo de Guarda Particular del Campo, Guarda de Caza o Guardapesca Marítimo, se llevará permanente y en atención a la función que corresponda, en todas las prendas exteriores, parte alta superior izquierda correspondiente al pecho, sin que pueda quedar oculto por otra prenda o elemento que se lleve.
+
+## Cuarto.
+
+Cuando el Guarda Particular del Campo estuviera encuadrado en una empresa de seguridad, el uniforme llevará, en todas las prendas exteriores, parte alta superior derecha correspondiente al pecho, el escudo-emblema o anagrama específico de la empresa de seguridad.
+
+## Disposición transitoria única.
+
+La uniformidad, emblema profesional, distintivos de especialidad e identificación personal que vinieran utilizando los Guardas Particulares del Campo antes la entrada en vigor de esta Resolución, podrán continuar siendo usados de forma indefinida.
+
+## Disposición final única.
+
+La presente Resolución entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 31 de julio de 2012.–El Secretario de Estado de Seguridad, Ignacio Ulloa Rubio.
+
+## ANEXO 1 — FORMACIÓN PREVIA DE LOS GUARDAS RURALES Y SUS ESPECIALIDADES
+
+1\. FORMACIÓN TÉCNICO-PROFESIONAL
+
+**1.1 Guardas Rurales (unidades de competencia 1, 2, 5, 6, 7, 8, 9, 10 y 11)**
+
+Unidad 1.ª De competencia jurídica
+
+Área Jurídica
+
+Tema 1. La Constitución Española: Preámbulo. Título Preliminar. Título Primero: De los Derechos y Deberes Fundamentales (artículos 15 al 19). Título II: De la Corona (artículo 56). Título III: De las Cortes Generales (artículo 66). Título IV: Del Gobierno y de la Administración (artículos 97 y 98). Título VI: Del Poder Judicial (artículo 117). Título VIII: De la Organización Territorial del Estado (artículo 137).
+
+Tema 2. Código Civil (Real Decreto 24 de julio de 1889): Clasificación de los bienes. La propiedad. Usufructo: Usufructo en general. Servidumbres.
+
+Tema 3. Código Penal I (Ley Orgánica 10/1995 del 23 de noviembre). La infracción penal: Delitos y faltas, causas que eximen de la responsabilidad criminal, causas que atenúan la responsabilidad criminal, causas que agravan la responsabilidad criminal. Personas criminalmente responsables de los delitos y faltas.
+
+Tema 4. Código Penal II (Ley Orgánica 10/1995 del 23 de noviembre): El homicidio y sus formas. Lesiones. Delitos contra la libertad: Detenciones ilegales y secuestros. Amenazas. Coacciones. Torturas y otros delitos contra la integridad moral. La omisión del deber de socorro. Delitos contra el patrimonio y contra el orden socioeconómico: Hurtos, robos, extorsión, usurpación, daños, receptación y conductas afines. Delitos sobre la ordenación del territorio. Delitos sobre el patrimonio histórico. Delitos contra los recursos naturales y el medio ambiente. De los delitos contra los animales. Delitos relativos a la protección de la flora, fauna y animales domésticos. Delitos de incendios. Incendios forestales. Incendios en zonas no forestales. Incendios en bienes propios.
+
+Tema 5. Ley de Enjuiciamiento Criminal (Real Decreto 14 de septiembre de 1882): La denuncia. La detención y derechos del detenido.
+
+Tema 6. Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad: Protección de espacios. Espacios protegidos Red Natura 2000: Red Natura 2000, lugares de importancia comunitaria y Zonas Especiales de Conservación, Zonas de Especial Protección para las Aves, Declaración de las Zonas Especiales de Conservación y las Zonas de Especial protección para las Aves, Vigilancia y seguimiento. Otras figuras de protección de espacios.
+
+Tema 7. Ley 3/1995, de 23 de marzo, de Vías Pecuarias: Objeto, definición, naturaleza jurídica, tipos, conservación, creación, ampliación y restablecimiento. Desafectación y modificación del trazado. Ocupaciones y aprovechamiento en las vías pecuarias. Usos compatibles y complementarios. Infracciones.
+
+Tema 8. Reglamento de Epizootias (Decreto de 4 de febrero de 1955): Definiciones. Circulación y transporte del ganado: Guía de origen y sanidad pecuaria, proceder en caso de que los ganados circulen sin guía, conducción por caminos, cañadas y veredas. Cartilla ganadera.
+
+Tema 9. Ley 8/2003, de 24 de abril, de sanidad animal: Obligación de comunicación de enfermedades de carácter epizoótico. Prevención de las enfermedades de los animales: Obligaciones de los particulares. Lucha, control y erradicación de enfermedades de los animales: Obligaciones de los particulares.
+
+Tema 10. Ley 43/2003, de 21 de noviembre, de Montes: Concepto de monte. Competencias de las Administraciones Públicas. Clasificación de los Montes. Régimen jurídico de los montes demaniales. Incendios forestales. Uso social del monte. Infracciones: Tipificación de las infracciones.
+
+Tema 11. Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas: Objeto de la ley. Dominio público hidráulico del Estado: Bienes que lo integran, cauces riberas y márgenes, lagos, lagunas, embalses y terrenos inundables, acuíferos, aguas procedentes de la desalación. Servidumbres legales. Usos comunes y privativos: Usos comunes, usos comunes especiales sujetos a autorización, formas de adquirir el derecho al uso privativo, extinción del derecho al uso privativo, usos privativos por disposición legal. Vertidos al dominio público hidráulico. Infracciones.
+
+Unidad 2.ª De competencia profesional
+
+Área Socioprofesional
+
+Tema 1. Seguridad Privada: El personal de seguridad: Habilitación y formación. Funciones, deberes y responsabilidades: Colaboración con las Fuerzas y Cuerpos de Seguridad. Principios de actuación. Identificación. Custodia de armas y de sus documentos. Depósito de armas. Ejercicios de tiro. Pruebas psicotécnicas. Uniformes y distintivos. Funciones de los Guardas Rurales. Arma reglamentaria. Utilización de perros. Actuación en caso de delito. Controles de acceso a inmuebles. Infracciones del personal de seguridad privada.
+
+Tema 2. Deontología profesional: Principios de actuación, ética profesional, trato y relaciones con los ciudadanos. Apariencia externa.
+
+Tema 3. Relaciones con las Fuerzas y Cuerpos de Seguridad: Auxilio y colaboración, medios y métodos de enlace y comunicación. Menciones honoríficas.
+
+Tema 4. Régimen jurídico de los Guardas Rurales: Cometidos, ámbito territorial de actuación, régimen laboral, documentación profesional. Órganos competentes para la gestión y control de la actuación profesional, formación, tenencia y uso de armas de los Guardas Rurales.
+
+Área Técnico-Profesional
+
+Tema 5. Medios de protección y prevención: Medios técnicos pasivos, seguridad física. Medios técnicos activos, seguridad electrónica. Control de accesos. La autoprotección: Técnicas de autoprotección.
+
+Tema 6. Identificación de personas: Técnicas de descripción de personas y cosas.
+
+Tema 7. La detención: Formalidades y procedimientos. Cacheos, registros y esposamientos. La conducción y custodia de detenidos.
+
+Tema 8. Recogida y protección de pruebas de infracciones delictivas o administrativas.
+
+Área de Prácticas
+
+Confección de documentos y escritos: Redacción de informes, partes diarios y notas informativas: Contenido y puntos esenciales de los mismos.
+
+Denuncias: Redacción, contenido, presentación de las mismas (denuncias sobre infracciones de caza, pesca y medioambientales).
+
+Unidad 5.ª De competencia técnica en incendios forestales
+
+Área Técnico-Profesional
+
+Tema 1. Incendios forestales: Teoría del fuego, fases del fuego, causas de los incendios forestales, tipos de incendios, prevención, extinción, acciones.
+
+Unidad 6.ª De competencia técnica en primeros auxilios
+
+Área Socioprofesional
+
+Tema 1. Primeros Auxilios:
+
+Primeros auxilios: Definición, objetivos y consejos generales.
+
+Fase de actuación: PAS.
+
+Valoración del accidentado.
+
+Soporte Vital Básico (SVB) y Reanimación Cardiopulmonar Básica (RCP Básica).
+
+Protocolo de actuación ante una parada cardiorrespiratoria.
+
+Posición lateral de seguridad.
+
+Protocolo de actuación ante una obstrucción de la vía aérea.
+
+Heridas.
+
+Hemorragias.
+
+Amputaciones traumáticas.
+
+Cuerpos extraños.
+
+Picaduras y mordeduras.
+
+Quemaduras.
+
+Insolaciones.
+
+Lipotimia.
+
+Convulsiones.
+
+Contusiones, esguinces y luxaciones.
+
+Fracturas.
+
+Fracturas de consideración importante.
+
+Actuación ante intoxicaciones.
+
+Área de Prácticas
+
+Poner en práctica los conocimientos teóricos obtenidos sobre la materia en primeros auxilios.
+
+Unidad 7.ª De competencia técnica preparación física
+
+Área de Prácticas
+
+Preparación pruebas físicas para guarda rural especificadas en el punto 2 de la presente resolución.
+
+Unidad 8.ª De competencia técnica defensa personal
+
+Área Instrumental
+
+Tema 1. La defensa personal (I): Fundamentos. Posiciones fundamentales de defensa, ataque y desplazamientos. Técnicas de bloqueo y percusión. Técnicas de luxación: Muñeca, codo y hombro.
+
+Tema 2. La defensa personal (II): Defensa contra los ataques a órganos de frente, espalda y brazos. Las estrangulaciones. Defensa contra ataques de puño y pierna.
+
+Tema 3. La defensa personal (III): Defensa contra arma blanca y arma de fuego. Reducciones. Cacheos y esposamientos.
+
+Tema 4. Técnicas de empleo de la defensa: Característica de la defensa. Casuística de su utilización.
+
+Área de Prácticas
+
+Poner en práctica los conocimientos teóricos obtenidos sobre la materia de defensa personal.
+
+Unidad 9.ª De competencia técnica armamento y tiro
+
+Área Instrumental
+
+Tema 1. Armamento: Armas reglamentarias para su utilización por el Guarda Rural y sus especialidades. Estudio de las armas reglamentarias. Cartuchería y munición. Su tratamiento en el Reglamento de Armas.
+
+Tema 2. Manejo y conservación del arma: Interrupciones más frecuentes, conservación y limpieza. Técnicas de Tiro: Fundamentos básicos, postura de tiro, empuñamiento, toma de elementos de puntería, presión sobre el disparador, errores más frecuentes.
+
+Tema 3. Normas de seguridad en el manejo de armas: Generales y específicas. El principio de proporcionalidad.
+
+Unidad 10.ª De competencia técnica topografía
+
+Área Técnico-Profesional
+
+Tema 1. Topografía: Elementos geográficos. Mapas, cartas, planos y croquis. El terreno: Principales accidentes del terreno. Curvas de nivel. Vertientes, divisorias y vaguadas. Métodos de orientación (GPS, brújula, …). Escalas. Coordenadas.
+
+Área de Prácticas
+
+Poner en práctica los conocimientos teóricos obtenidos sobre la materia de topografía mediante la confección de planos y croquis.
+
+Unidad 11.ª De competencia técnica comunicaciones
+
+Área Instrumental
+
+Tema 1. Aparatos técnicos de comunicación y orientación que puedan ser utilizados en la práctica del servicio: Radioteléfonos, emisoras, teléfono móvil.
+
+**1.2 Guardas de Caza (unidad de competencia 3)**
+
+Unidad 3.ª De competencia técnica en caza
+
+Área Jurídica
+
+Tema 1. Ley 1/1970, de 4 de abril, de caza: Finalidad. Acción de cazar. El cazador. Las piezas de caza. Las armas de caza. Terrenos cinegéticos. Clasificación. Terrenos cinegéticos de aprovechamiento común. Terrenos cinegéticos de aprovechamiento especial. Caza en Parques Nacionales. Refugios de caza. Reservas nacionales de caza. Zonas de seguridad. Terrenos sometidos a régimen de caza controlada. Cotos de caza. Terrenos cercados. Protección de los cultivos. Propiedad de las piezas de caza. Vedas y otras medidas protectoras. Caza con fines industriales y comerciales. Perros y caza. Aves anilladas. Monterías. Limitaciones y prohibiciones dictadas en beneficio de la caza. Conducción y suelta de piezas de caza. Responsabilidad por daños. Inclusión de medidas de evitación de los daños por parte de las especies cinegéticas. Las medidas de autoprotección, el control poblacional, el papel de los predadores en el control de las especies dañinas, la valoración y peritación de los daños. Licencias de caza. Matrículas y precintos. Cuidado y policía de la caza. Delitos y faltas a la Ley de Caza. Infracciones administrativas: Definición, clasificación y sanciones. Competencia y procedimiento sancionador. Comisos y retirada de armas. Seguro obligatorio y seguridad en las cacerías.
+
+Tema 2. Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales: Disposiciones generales. Tenencia y convivencia responsable con animales. Empleo de animales en actividades culturales y festivas. Inspección y vigilancia. Régimen Sancionador.
+
+Tema 3. Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad: Conservación de la biodiversidad. Conservación *in situ* de la biodiversidad autóctona silvestre: Garantía de conservación de especies autóctonas silvestres, prohibiciones para las especies incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial. Catálogo Español de Especies Amenazadas, efectos de la inclusión en el Catálogo Español de Especies Amenazadas, excepciones. Protección de las especies en relación con la caza y la pesca continental. Infracciones: Tipificación y clasificación de las infracciones. Catálogo Español de Especies Exóticas Invasoras, efectos de la inclusión en el Catálogo de Especies Exóticas Invasoras, identificación de las mismas, medidas de control, el papel de la caza en el control de las especies exóticas invasoras.
+
+Tema 4. La actividad del silvestrismo: Regulación legal europea, nacional y autonómica. Directrices técnicas para la captura de especies.
+
+Tema 5. Ley de 20 de febrero de 1942 por la que se regula el fomento y conservación de la pesca fluvial: Especies objeto de pesca. Dimensiones mínimas. Vedas. Prohibiciones por razón de sitio. Redes, artificios y procedimientos de pesca prohibidos. Concepto jurídico de la pesca. Licencias. Guardería. Procedimiento y sanciones: Competencia. Denuncias. Infracciones.
+
+Área Técnico-Profesional
+
+Tema 6. Caza menor. Caza mayor.
+
+Tema 7. Modalidades de caza: En caza mayor, caza menor, aves acuáticas, cetrería, tradicionales.
+
+Tema 8. Armas de caza: Tipos, calibres y municiones.
+
+Tema 9. Los predadores.
+
+Tema 10. Especies cinegéticas: Morfología y biología, necesidades, hábitat, enfermedades. Distribución geográfica, dinámicas poblacionales, temporalidad, cría en cautividad, control de poblaciones, suelta y repoblación.
+
+Tema 11. Federaciones y sociedades de cazadores: Características. Reglamentación. Funcionamiento.
+
+Área de Prácticas
+
+Prácticas de campo en finca natural o fluvial.
+
+**1.3 Guardapesca Marítimo (unidad de competencia 4)**
+
+Unidad 4.ª De competencia técnica en guardapesca
+
+Área Jurídica
+
+Tema 1. Ley 5/2023 pesca sostenible e investigación pesquera: Disposiciones generales. Acceso a los recursos pesqueros. Medidas de conservación y uso sostenible de los recursos pesqueros. Medidas de protección y regeneración. Medidas de gestión de los recursos pesqueros. Pesca recreativa en aguas exteriores. Régimen sancionador.
+
+Tema 2. Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado: Infracciones y sanciones.
+
+Tema 3. Real Decreto 347/2011, de 11 de marzo, por el que se regula la pesca marítima de recreo en aguas exteriores.
+
+Tema 4. Ley 22/1988, de 28 de julio, de Costas: Objeto y finalidades de la ley. Bienes de dominio público marítimo-terrestre. Limitaciones de la propiedad sobre los terrenos contiguos a la ribera del mar por razones de protección del dominio público marítimo-terrestre. Utilización del dominio público marítimo terrestre. Infracciones y sanciones. Competencias administrativas.
+
+Área Técnico-Profesional
+
+Tema 5. Especies piscícolas: Biología. Hábitos de comportamiento. Distribución geográfica en el ámbito nacional y regional.
+
+Tema 6. Hábitat de las especies piscícolas: Procedimientos de mejora del hábitat. Poblaciones, dinámica de poblaciones. Control y seguimiento: Técnicas. Gestión de las especies piscícolas.
+
+Tema 7. Enfermedades de las especies piscícolas: Tratamientos. Procedimientos de vigilancias, protección y captura de especies piscícolas. Especies depredadoras y competidoras. Control. Equipos y medios.
+
+Tema 8. Modalidades de pesca: Características. Artes de pesca artesanal, industrial y deportiva. Uso de la caña. Redes. Artificios y procedimientos de pesca prohibidos. Prohibiciones: Temporales, absolutas y por razón del lugar, distancias, plazos, pesca en canales, cauces de derivación. Licencias. Cotos. Permisos.
+
+Tema 9. Federaciones y sociedades de pescadores: Características. Reglamentación. Funcionamiento. Cofradías. Concepto. Funciones. Órganos representativos.
+
+Tema 10. Pesca marítima: Artes y métodos de pesca. Tallas mínimas de captura y consumo.
+
+Tema 11. La acuicultura marítima: Generalidades. Zonas de explotación. Cultivo de peces. Cultivo de moluscos. Cultivo de crustáceos.
+
+Tema 12. Reservas marinas: Características y situación de las reservas marinas de España.
+
+Área de Prácticas
+
+Prácticas en medio marítimo u otro espacio acuícola.
+
+2\. PRUEBAS PREPARACIÓN FÍSICA
+
+Pruebas de preparación física a realizar por los aspirantes a Guarda Rural (las especialidades de Guarda de Caza y Guardapesca Marítimo carecen pruebas físicas específicas).
+
+2.1 Carrera 400 metros lisos (hombres y mujeres).
+
+Lugar: La prueba se realiza individualmente o en grupo. Sobre superficie lisa, plana y dura.
+
+Explicación de la prueba:
+
+– Posición de salida: de pie, detrás de la línea de salida.
+
+– Ejercicio: se ordenará «listo»…, «ya», y a esta señal, las personas aspirantes iniciarán el recorrido hasta completar los 400 metros.
+
+– El tiempo invertido se medirá en minutos y segundos.
+
+– Es obligatorio el uso de calzado deportivo, no estando permitido el uso de zapatillas de clavos.
+
+– Si la persona aspirante abandona la zona de carrera, será excluida. Igualmente, la persona aspirante que realice cualquier conducta antideportiva durante la prueba quedará eliminada.
+
+– Se realizará un solo intento.
+
+2.2 Potencia tren inferior (hombres y mujeres).
+
+Salto vertical.
+
+Lugar: Gimnasio, frontón o lugar similar de suelo horizontal con una pared vertical y lisa.
+
+Explicación de la prueba:
+
+– Posición de partida: en pie, de costado junto a una pared vertical, con un brazo totalmente extendido hacia arriba y sin levantar los talones del suelo, el candidato marca con los dedos la altura que alcanza en esta posición.
+
+– Ejecución: el candidato se separa 20 centímetros de la pared o aparatos, salta tan alto como pueda y marca nuevamente con los dedos el nivel alcanzado.
+
+– Se acredita la distancia entre la marca hecha desde la posición de partida y la conseguida en el salto.
+
+Reglas:
+
+Primera. Se pueden mover los brazos y flexionar el tronco y las rodillas, pero no se puede separar del suelo parte alguna de los pies antes de saltar.
+
+Segunda. Hay que realizar el salto con los dos pies a la vez.
+
+Tercera. Se permiten dos intentos sólo a los aspirantes que hagan nulo el primero.
+
+2.3 Potencia tren superior.
+
+2.3.1 Flexión de brazos en suspensión pura (hombres).
+
+Lugar: Gimnasio o campo de deportes.
+
+Material: Barra fija.
+
+Explicación de la prueba:
+
+– Posición de partida: suspensión pura con palmas al frente y total extensión de brazos.
+
+– Flexión de brazos, evitando el balanceo del cuerpo y/o ayudarse con movimientos de piernas. Se considera una flexión cuando la barbilla asome por encima de la barra, partiendo siempre de la posición de suspensión pura.
+
+– Se contará el número de flexiones completas.
+
+– Se permiten dos intentos sólo a los aspirantes que hagan nulo el primero.
+
+2.3.2 Lanzamiento de balón medicinal (mujeres y hombres de 40 años o más).
+
+Lugar: Campo de deportes.
+
+Material: Balón medicinal de tres kilogramos.
+
+Explicación de la prueba:
+
+– Posición de partida: detrás de una línea marcada en el suelo, pies separados y simétricos, balón sostenido con ambas manos por encima y por detrás de la cabeza.
+
+– Ejecución: lanzar el balón medicinal sujeto con ambas manos y por encima de la cabeza tan lejos como se pueda.
+
+Reglas:
+
+Primera. El lanzamiento se hace con los pies simétricamente colocados, impulsando el balón con las dos manos a la vez, por encima de la cabeza.
+
+Segunda. No se pueden levantar los pies del suelo. Se permite elevar los talones y plantas, siempre que las puntas de los pies estén en contacto con el suelo.
+
+Tercera. Ninguna parte del cuerpo puede tocar o rebasar la línea marcada en el suelo.
+
+Cuarta. El lanzamiento se mide desde la línea marcada hasta el punto de caída del balón más próximo a la citada línea.
+
+Quinta. El intento que no cumpla alguna de las reglas se considera nulo.
+
+Sexta. Se permiten dos intentos sólo a los aspirantes que hagan nulo el primero.
+
+2.4 Natación: 50 metros. (hombres y mujeres).
+
+Lugar: Piscina.
+
+Explicación de la prueba:
+
+– Posición de salida: en pie, al borde de la piscina.
+
+– Ejecución: se lanzará al agua, debiendo efectuar el recorrido con estilo libre y sin apoyo en un tiempo no superior a los expresados en la tabla de función.
+
+– Tomar el tiempo invertido.
+
+– Sólo se permite un intento.
+
+Tablas de función
+
+<table>
+<thead>
+<tr>
+<th>Edad</th>
+<th>Sexo</th>
+<th>Flexiones</th>
+<th>Balón<br> medicinal</th>
+<th>Salto<br> vertical</th>
+<th>Carrera<br> (400 metros)</th>
+<th>
+<p>Natación</p>
+<p>(50 metros)</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2">De 18 a 25 años.</td>
+<td>Hombres.</td>
+<td>4</td>
+<td> </td>
+<td>44 cm</td>
+<td>1'12''</td>
+<td>90 s</td>
+</tr>
+<tr>
+<td>Mujeres.</td>
+<td> </td>
+<td>4,75 m</td>
+<td>36 cm</td>
+<td>1'33''</td>
+<td>95 s</td>
+</tr>
+<tr>
+<td rowspan="2">De 26 a 32 años.</td>
+<td>Hombres.</td>
+<td>3</td>
+<td> </td>
+<td>42 cm</td>
+<td>1'14''</td>
+<td>95 s</td>
+</tr>
+<tr>
+<td>Mujeres.</td>
+<td> </td>
+<td>4,25 m</td>
+<td>34 cm</td>
+<td>1'40''</td>
+<td>100 s</td>
+</tr>
+<tr>
+<td rowspan="2">De 33 a 39 años.</td>
+<td>Hombres.</td>
+<td>2</td>
+<td> </td>
+<td>40 cm</td>
+<td>1'20''</td>
+<td>100 s</td>
+</tr>
+<tr>
+<td>Mujeres.</td>
+<td> </td>
+<td>4,00 m</td>
+<td>32 cm</td>
+<td>1'49''</td>
+<td>105 s</td>
+</tr>
+<tr>
+<td rowspan="2">De 40 a 50 años.</td>
+<td>Hombres.</td>
+<td> </td>
+<td>7,00 m</td>
+<td>36 cm</td>
+<td>1'30''</td>
+<td>105 s</td>
+</tr>
+<tr>
+<td>Mujeres.</td>
+<td> </td>
+<td>3,75 m</td>
+<td>28 cm</td>
+<td>1'56''</td>
+<td>110 s</td>
+</tr>
+<tr>
+<td rowspan="2">&gt;51 años.</td>
+<td>Hombres.</td>
+<td> </td>
+<td>6,50 m</td>
+<td>34 cm</td>
+<td>1'45''</td>
+<td>110 s</td>
+</tr>
+<tr>
+<td>Mujeres.</td>
+<td> </td>
+<td>3,50 m</td>
+<td>25 cm</td>
+<td>2'06''</td>
+<td>115 s</td>
+</tr>
+</tbody>
+</table>
+
+> Se sustituye por el anexo 1 de Resolución de 8 de febrero de 2024, según establece su apartado primero. [Ref. BOE-A-2024-3361](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3361)
+
+> Esta modificación surte efectos para la primera convocatoria del año siguiente a la fecha de aprobación de la citada Resolución, según establece su disposición final única.
+
+## ANEXO 2 — UNIFORMIDAD DE LOS GUARDAS PARTICULARES DEL CAMPO
+
+1\. El uniforme del Guarda Particular del Campo y de sus especialidades, Guardas de Caza y Guardapescas Marítimos, podrá conformarse con las siguientes prendas:
+
+Pantalón.
+
+Jersey de parches.
+
+Camisa de manga larga o corta.
+
+Anorak.
+
+Botas.
+
+Ceñidor.
+
+Gorra.
+
+Calcetines.
+
+Peto reflectante, cuando las circunstancias lo precisen.
+
+2\. Prendas de uniforme optativas.
+
+Forro polar.
+
+Bufanda tubular.
+
+Traje de agua.
+
+Polo de manga corta.
+
+Chaleco multibolsillos.
+
+Zapatos de color negro.
+
+Botas de agua, tipo pocero.
+
+Botas de agua, caña extra alta.
+
+Zapato naútico
+
+Faja riñonera para motoristas todo terreno.
+
+Botas motorista Todo Terreno.
+
+Casco motorista Todo Terreno.
+
+Pantalón de montar (jinete).
+
+Botas de montar (jinete).
+
+Casco protector (jinete).
+
+Chaleco salvavidas, cuando las circunstancias lo aconsejen.
+
+Traje de agua de neopreno.
+
+3\. Prendas de uniforme protocolario.
+
+Por razones de identidad e históricas se mantiene el uniforme tradicional del Guarda Particular del Campo, para ser utilizado con carácter potestativo en aquellos actos cuya relevancia así lo aconseje.
+
+Sombrero de ala ancha.
+
+Chaqueta de pana.
+
+Camisa blanca manga larga.
+
+Corbata.
+
+Pantalón recto de pana.
+
+Bandolera.
+
+Zapato de color negro.
+
+4\. Las características técnicas de las prendas de uniforme, incluyendo las representaciones gráficas de dichas prendas de vestir así como de las menciones honoríficas, se ajustarán a lo que se determine mediante la correspondiente Resolución del Director General de Guardia Civil.
+
+## ANEXO 3 — DISTINTIVOS DE LOS GUARDAS PARTICULARES DEL CAMPO
+
+**Distintivos**
+
+Los Guardas Particulares del Campo deberán llevar los siguientes distintivos.
+
+1\. Profesional.
+
+2\. Guarda Particular del Campo, Guarda de Caza y/o Guardapesca Marítimo.
+
+El distintivo profesional, en escudo español, tendrá unas dimensiones de 80 mm. de largo por 70 de ancho; el distintivo de especialidad o función, en escudo redondo, un diámetro de 75 mm., siendo su descripción heráldica y el lugar donde han de ostentarse, los que a continuación se detallan:
+
+1\. Profesional: Irá inyectado en plástico sobre soporte de tela del mismo color del uniforme, siendo su descripción heráldica y el lugar de colocación sobre el uniforme el siguiente:
+
+1.1 Descripción heráldica: De oro, una montaña de sinople cargada de río de azur que la atraviesa de siniestra a diestra, y de un roble con su tronco natural y su copa, de sinople aclarada, situada en el abismo. Bordura en gules.
+
+1.2 Lugar donde ha de ostentarse: Dicho emblema se mostrará permanentemente en la prenda exterior del uniforme e irá pegado o cosido, en la parte superior de la manga izquierda, a 9 cm. por debajo de la costura de la hombrera.
+
+![5629.png](https://www.boe.es/datos/imagenes/disp/2012/212/11291_5629.png)
+
+2\. De especialidad: Se utilizará un solo distintivo, precisamente el correspondiente a la función que desempeñe en cada momento el Guarda Particular del Campo.
+
+2.1 Distintivo de especialidad de «Guarda Particular del Campo»: Irá inyectado en plástico sobre soporte de tela del mismo color del uniforme e incorporará en la misma pieza el número de la tarjeta de identificación profesional, siendo su descripción heráldica y el lugar de colocación los siguientes:
+
+2.1.1 Descripción heráldica: De oro, una montaña de sinople cargada de río azur que la atraviesa de siniestra a diestra, y de un roble con su tronco natural y su copa, de sinople aclarada, situada en el abismo. Bordura en gules con la leyenda GUARDERIO RURAL en sable, componada de una pieza en plata sobrepuesta con la leyenda GUARDA PARTICULAR DEL CAMPO, en sable.
+
+2.1.2 Lugar donde ha de ostentarse: Dicho distintivo se mostrará permanentemente en todas las prendas exteriores del uniforme, parte alta superior izquierda correspondiente al pecho, irá pegado o cosido a 2 cm. por encima de la costura superior del bolsillo izquierdo.
+
+![5675.png](https://www.boe.es/datos/imagenes/disp/2012/212/11291_5675.png)
+
+2.2 Distintivo de la especialidad de «Guarda de Caza»: Irá inyectado en plástico sobre soporte de tela del mismo color del uniforme e incorporará en la misma pieza el número de identificación personal, siendo su descripción heráldica y el lugar de colocación los siguientes:
+
+2.2.1 Descripción heráldica: De gules, una trompa de caza de oro. Mantelado de sinople, con la enmanteladura diestra carpada de una cabeza de ciervo al natural mirando a la diestra, y a la siniestra cargada de una perdiz también al natural y mirando a la diestra. Bordura en gules con la leyenda GUARDERIO RURAL en sable, componada de una pieza sobrepuesta en plata con la leyenda GUARDA DE CAZA, en sable.
+
+2.2.2 Lugar donde ha de ostentarse: Dicho distintivo se mostrará permanentemente en todas las prendas exteriores del uniforme, parte alta superior izquierda correspondiente al pecho, irá pegado o cosido a 2 cm. por encima de la costura superior del bolsillo izquierdo.
+
+![5914.png](https://www.boe.es/datos/imagenes/disp/2012/212/11291_5914.png)
+
+2.3 Distintivo de la especialidad de «Guardapesca Marítimo»: Irá inyectado en plástico sobre soporte de tela del mismo color del uniforme e incorporará en la misma pieza el número de identificación personal, siendo su descripción heráldica y el lugar de colocación los siguientes:
+
+2.3.1 Descripción heráldica: De oro, una montaña de sinople cargada con un mar de azur y, sobre éste, dos peces de plata marcados de sable. Bordura en azur con la leyenda GUARDERIO MARÍTIMO en sable, componada de una pieza sobrepuesta en plata con la leyenda GUARDAPESCA MARÍTIMO, en sable.
+
+2.3.2 Lugar donde ha de ostentarse: Dicho distintivo se mostrará permanentemente en todas las prendas exteriores del uniforme, parte alta superior izquierda correspondiente al pecho, irá pegado o cosido a 2 cm. por encima de la costura superior del bolsillo izquierdo.
+
+![5997.png](https://www.boe.es/datos/imagenes/disp/2012/212/11291_5997.png)

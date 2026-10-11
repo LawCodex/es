@@ -1,0 +1,773 @@
+---
+title: "Real Decreto 739/2015, de 31 de julio, sobre declaraciones obligatorias en el sector vitivinícola"
+identifier: "BOE-A-2015-8647"
+eli: "https://www.boe.es/eli/es/rd/2015/07/31/739"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-07-31
+published: 2015-08-01
+in_force_from: 2015-08-02
+last_amended: 2025-07-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 183"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8647"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 739/2015, de 31 de julio, sobre declaraciones obligatorias en el sector vitivinícola
+
+El Reglamento (CE) n.º 436/2009, de la Comisión, de 26 de mayo de 2009, por el que se establecen disposiciones del Reglamento (CE) n.º 479/2008, del Consejo, en lo que respecta al registro vitícola, a las declaraciones obligatorias y a la recopilación de información para el seguimiento del mercado, a los documentos que acompañan al transporte de productos y a los registros que se han de llevar en el sector vitivinícola, establece la obligatoriedad de realizar, por parte de viticultores y operadores del sector, una serie de declaraciones.
+
+Dicho Reglamento ha sido objeto de desarrollo reglamentario mediante el Real Decreto 1303/2009, de 30 de julio, sobre declaraciones obligatorias en el sector vitivinícola, el cual reproduce el régimen de declaraciones obligatorias anuales a realizar por viticultores y operadores del sector, que fue modificado en cuanto a los plazos para formular las declaraciones obligatorias, por el Real Decreto 461/2011, de 1 de abril. Por lo expuesto, en principio no sería preciso modificar dicho Real Decreto 1303/2009, de 30 de julio, según el Derecho de la Unión Europea.
+
+Sin embargo, estimándose necesario que la información a declarar se amplíe por razones que obedecen a cambios habidos en la legislación española aplicable al sector que más abajo se señalan, se ha decidido que el contenido adicional (o nuevas obligaciones de declarar) que derivan de decisiones de derecho interno se integren en el sistema del citado real decreto para que no haya dos textos distintos, con declaraciones diferentes, sino que las que se hagan sirvan tanto a efectos del derecho de la Unión como a efectos de la legislación española consolidándose en un sólo texto, el presente real decreto, la regulación hasta ahora contenida en el Real Decreto 1303/2009, que se procede a derogar, y la nueva procedente de las innovaciones que ahora se introducen.
+
+Estas innovaciones obedecen a que la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, que en su disposición adicional primera (conforme a la redacción que a su apartado 5 ha dado recientemente la disposición final primera de la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito supraautonómico) permite atribuir a la Agencia de Información y Control Alimentarios el control de los sectores que se determinen reglamentariamente por lo que mediante el presente real decreto se procede a extender su ámbito de actuación al sector vitivinícola, pasando la misma a ejercer funciones relativas a la gestión y mantenimiento de los sistemas de información, seguimiento y análisis, así como el inicio y la instrucción de los expedientes sancionadores por incumplimientos en el pago de las aportaciones obligatorias a las organizaciones interprofesionales reconocidas por el citado Ministerio.
+
+Ello permitirá el adecuado seguimiento de la evolución del mercado y, a su vez, que tanto los operadores del sector como las administraciones adopten sus decisiones con mayor conocimiento.
+
+Es necesario por tanto dotar al sector de instrumentos que otorguen una mayor y mejor calidad de la información para conseguir una mayor transparencia de mercado.
+
+Mediante este real decreto se refuerza el sistema de declaraciones obligatorias, en cuanto se amplía la información que estas deberán contener y la periodicidad de su remisión, que pasa de ser anual a ser mensual y que afecta en concreto a las declaraciones de existencias y producciones. Con ello se crea un sistema unificado de información en el sector vitivinícola, que incluirá un registro de operadores así como toda esa información mínima que deben contener las declaraciones obligatorias en el sector vitivinícola.
+
+Este sistema de declaraciones mensuales por parte de los operadores permitirá realizar un seguimiento y análisis más pormenorizado de la realidad, de gran ayuda para el sector, mediante la implantación de un sistema adicional de información sectorial, lo cual no obsta para seguir buscando sinergias con otras obligaciones administrativas para racionalizar y simplificar la información solicitada de forma que suponga el menor coste para el operador.
+
+Dadas las modificaciones sustanciales que se incorporan procede la adopción de un nuevo real decreto que unifique toda la normativa en la materia y dé respuesta a las necesidades mencionadas del sector vitivinícola, así como a las obligaciones de comunicación previstas en la normativa comunitaria. En consecuencia, mediante este real decreto se deroga el Real Decreto 1303/2009, de 30 de julio.
+
+El sistema unificado de información en el sector vitivinícola, quedará adscrito al Ministerio de Agricultura, Alimentación y Medio Ambiente, que será el responsable de su funcionamiento coordinado. Éste, en colaboración con las comunidades autónomas, establecerá los protocolos técnicos necesarios para el correcto funcionamiento del sistema.
+
+Los operadores serán los responsables del mantenimiento debidamente actualizado de los datos en él contenidos, y de su veracidad y exactitud.
+
+Las autoridades competentes podrán establecer sus sistemas informáticos de tal modo que los operadores puedan realizar sus declaraciones conforme a lo establecido en este real decreto.
+
+El sistema unificado de información en el sector vitivinícola será accesible a todos los órganos competentes del Ministerio de Agricultura, Alimentación y Medio Ambiente, a las comunidades autónomas para las instalaciones establecidas en su ámbito territorial y a los declarantes para sus propios datos. Asimismo, el Ministerio pondrá a disposición del conjunto del sector vitivinícola la información extraída de este sistema de forma agregada y proporcionará a las organizaciones interprofesionales la información necesaria en el caso de que deseen aplicar la extensión de norma. Todo ello sin perjuicio de la normativa vigente en materia de protección de datos de carácter personal.
+
+El Ministerio de Agricultura, Alimentación y Medio Ambiente utilizará la información contenida en el sistema para el envío a la Comisión Europea de toda la información que exija la normativa comunitaria en materia declaraciones obligatorias de acuerdo al Reglamento (CE) n.º 436/2009 de la Comisión, de 26 de mayo de 2009.
+
+La Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, prevé en su disposición adicional primera, que la Agencia de Información y Control Alimentarios podrá desarrollar, para determinados sectores que el Ministerio de Agricultura, Alimentación y Medio Ambiente considere oportunos, funciones relativas a la gestión y mantenimiento de los sistemas de información, seguimiento y análisis, así como el inicio y la instrucción de los expedientes sancionadores por incumplimientos en el pago de las aportaciones obligatorias a las organizaciones interprofesionales reconocidas por el citado Ministerio.
+
+Las infracciones contra lo dispuesto en este real decreto se sancionarán conforme a lo previsto en la Ley 24/2003, de 10 de julio, de la Viña y del Vino, y por lo dispuesto en la normativa comunitaria en materia de incumplimiento de las declaraciones obligatorias.
+
+La regulación básica contenida en esta disposición se efectúa mediante real decreto, al amparo de la habilitación de la disposición final primera de la Ley 24/2003, de 10 de julio, de la Viña y del Vino, y del apartado 5 de la disposición adicional primera de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria dado que se trata de una materia de carácter marcadamente técnico, íntimamente ligada al desarrollo de la normativa comunitaria.
+
+Durante la tramitación de esta disposición han sido consultadas las comunidades autónomas, así como las entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 31 de julio de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto tiene por objeto establecer la normativa básica en materia de declaraciones obligatorias del sector vitivinícola, necesaria para dotar de una mayor transparencia al sector vitivinícola y para disponer de mejores informaciones de su mercado, así como para el desarrollo del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, y del Reglamento (CE) n.º 436/2009 de la Comisión, de 26 de mayo de 2009, por el que se establecen disposiciones de aplicación del Reglamento (CE) n.º 479/2008, del Consejo, en lo que respecta al registro vitivinícola, a las declaraciones obligatorias y a la recopilación de información para el seguimiento del mercado, a los documentos que acompañan al transporte de productos y a los registros que se han de llevar en el sector vitivinícola.
+
+## Artículo 2. Definiciones.
+
+A efectos de la aplicación del presente real decreto se entenderá como:
+
+a) «Cosechero». Es la persona física o jurídica, o agrupación de personas físicas o jurídicas con independencia de la forma jurídica de la agrupación o de sus miembros, que obtiene el producto anual de la parcela de viñedo, bien por ser el propietario de la misma o por tener atribuido un derecho sobre la misma.
+
+b) «Productor»: Cualquier persona física o jurídica, o agrupación de tales personas, que hayan producido mosto o vino de su propiedad, directamente o a través de terceros, a partir de uva fresca, de mosto de uva, de mosto de uva parcialmente fermentado o de vino nuevo en proceso de fermentación. Un productor que también realice la actividad amparada por la letra c) del presente artículo será considerado exclusivamente productor, sin perjuicio de tener que declarar la parte de vino o mosto que corresponda a su actividad como almacenista
+
+c) «Almacenista»: Cualquier persona física o jurídica, o agrupación de tales personas, propietarias de vino o mosto, que no siendo productores lo tengan almacenado, siempre que no se trate de:
+
+1.º Consumidores privados.
+
+2.º Minoristas, entendiendo como tales las personas que ejerzan profesionalmente una actividad económica lucrativa que implique la venta de vino en pequeñas cantidades directamente al consumidor, salvo los que utilicen bodegas equipadas para el almacenamiento y el envasado de los vinos en grandes cantidades.
+
+3.º Aquellas que compren y vendan exclusivamente vino o mosto en recipientes envasados y etiquetados y provistos, además, de un dispositivo de cierre irrecuperable.
+
+> Se modifican las letras b) y c) por el art. 1.1 del Real Decreto 313/2016, de 29 de julio. [Ref. BOE-A-2016-7339](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7339).
+
+## Artículo 3. Declaración de cosecha.
+
+1\. Todos los cosecheros deberán presentar anualmente una declaración de cosecha que deberá cumplimentarse en los soportes informáticos que dispongan al efecto las respectivas comunidades autónomas, los cuales contendrán, al menos, los datos que figuran en el anexo I, partes a y b. Quedan exentos en la presentación de la declaración de cosecha aquellos cosecheros que cumplan alguna de las siguientes condiciones:
+
+a) Su producción total de uva se destine al consumo en estado natural, a la pasificación o a la transformación directa en zumo de uva.
+
+b) La explotación tenga menos de 0,1 hectáreas de viña en producción, siempre que no comercialicen parte alguna de su cosecha o que entregue la totalidad de su cosecha a una bodega cooperativa o a una agrupación de la que sean socios o miembros.
+
+2\. La declaración de cosecha se presentará hasta el 10 de diciembre de cada año, en los soportes informáticos previstos al efecto por las comunidades autónomas. En todo caso, la inclusión de los datos permitirá su interconexión con el REA creado y regulado en el Real Decreto 1054/2022, de 27 de diciembre, por el que se establece y regula el Sistema de información de explotaciones agrícolas y ganaderas y de la producción agraria, así como el Registro autonómico de explotaciones agrícolas y el Cuaderno digital de explotación agrícola. Para ello, deberán utilizarse, por parte de las comunidades autónomas, las herramientas electrónicas adecuadas para ello.
+
+3\. Aquellas comunidades autónomas que dispongan de medios informáticos que permitan vincular a los cosecheros que deben presentar anualmente la declaración con la producción declarada y con las parcelas de viñedo de las que provienen esas producciones, podrán excluir a sus cosecheros de la presentación de la parte b del anexo I.
+
+> Se modifica, con efectos de 1 de julio de 2023, por la disposición final 3.1 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
+
+## Artículo 4. Sistema de Información de Mercados del Sector vitivinícola.
+
+1\. Se crea el sistema de información de mercados del sector vitivinícola (INFOVI), que contendrá:
+
+a) El Registro General de Operadores del Sector Vitivinícola (REOVI).
+
+b) La información de mercados resultante de las declaraciones obligatorias a las que se refiere en el artículo 5.
+
+El sistema de información de mercados en el sector vitivinícola, quedará adscrito al Ministerio de Agricultura, Alimentación y Medio Ambiente, que será el responsable de su funcionamiento coordinado con las comunidades autónomas, en la forma prevista en el presente real decreto.
+
+El Ministerio de Agricultura, Alimentación y Medio Ambiente, en colaboración con las comunidades autónomas, establecerá los protocolos técnicos necesarios para el correcto funcionamiento de las aplicaciones informáticas.
+
+2\. En el REOVI, se inscribirán los productores y almacenistas.
+
+Todo productor o almacenista, deberá solicitar su inscripción en el REOVI a la comunidad autónoma donde radique su sede social en el momento de inicio de la actividad. Asimismo toda nueva instalación deberá también inscribirse en el REOVI de la comunidad autónoma en el que radique la sede social del operador. Las solicitudes deberán realizarse, a más tardar, dentro del mes siguiente de inicio de la actividad, aportando, al menos, los datos recogidos en el cuadro A del anexo II.
+
+De forma análoga, deberá procederse a la comunicación de la baja, por cese definitivo de la actividad del operador o de cierre de la instalación, concediéndose para ello el mismo periodo de un mes.
+
+Toda modificación de los datos inscritos en el REOVI, así como cualquier otro error que se detecte deberá ser puesto de manifiesto por el operador a la comunidad autónoma en la que radique su sede social a fin de que proceda a su subsanación, a más tardar dentro del mes siguiente de producirse la modificación o la detección del error.
+
+Las comunidades autónomas registrarán mediante los procedimientos informáticos establecidos al efecto todas las altas de operadores e instalaciones, así como las bajas, modificaciones y errores constatados. Dichos procedimientos permitirán su interconexión con el SIEX creado y regulado por el Real Decreto 1054/2022, de 27 de diciembre.
+
+> Se modifica, con efectos de 1 de julio de 2023, el último párrafo del apartado 2 por la disposición final 3.2 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
+
+> Se modifica el apartado 2 por el art. 1.2 del Real Decreto 313/2016, de 29 de julio. [Ref. BOE-A-2016-7339](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7339).
+
+## Artículo 5. Declaraciones obligatorias en el INFOVI.
+
+1\. Todos los productores y almacenistas, salvo los contemplados en el apartado 5, estarán obligados a realizar las declaraciones obligatorias en el INFOVI.
+
+2\. Los almacenistas y los productores cuya producción media de vino y mosto sea mayor o igual a 1.000 hl, deberán presentar mensualmente una declaración de vino y mosto por instalación a más tardar el día veinte de cada mes, según el contenido del modelo del anexo III a.
+
+3\. Los productores con producción media de vino y mosto inferior a 1.000 hl, deberán realizar una declaración por instalación en los meses de diciembre y agosto, a más tardar, el día veinte de esos meses, según el contenido del modelo del anexo III b.
+
+4\. A los efectos de los apartados 2 y 3, la producción media de vino y mosto será calculada como la media de la producción declarada para el conjunto de sus instalaciones en las cuatro campañas anteriores a la campaña objeto de declaración, conforme a lo establecido en la normativa en vigor en el momento de la declaración, y a los datos recogidos en la aplicación informática existente en el INFOVI en los apartados »Declaración de producción de vino respecto a la cosecha de la campaña en curso» y «Declaración de producción de mosto respecto a la cosecha de la campaña en curso», que se recogen en la misma. En caso de que un productor no haya producido en alguna o algunas de las cuatro campañas anteriores, se tomarán las campañas en las que ha producido realmente.
+
+Cuando un productor inicie la actividad en el momento de su inscripción en el REOVI según el apartado 2 del artículo 4, deberá comunicar su producción de vino y mosto estimada a los efectos del cumplimiento de los apartados 2 o 3 del presente artículo.
+
+5\. No estarán obligados a declarar los siguientes productores:
+
+a) Los productores que son cosecheros exentos de la presentación de la declaración de cosecha, por cumplir las condiciones establecidas en los supuestos a) o b), del apartado 1 del artículo 3 del presente real decreto.
+
+b) Los productores que obtengan en sus instalaciones, mediante vinificación de productos comprados, una cantidad de vino inferior a 10 hectolitros (1.000 litros), no destinada a la comercialización.
+
+c) Los socios o miembros de una bodega cooperativa sujeta a la obligación de presentar una declaración, que entreguen toda su producción a dicha bodega cooperativa. Podrán, no obstante, reservarse una cantidad de vino inferior a 10 hectolitros (1.000 litros) para obtener mediante vinificación destinado a su consumo.
+
+6\. Las declaraciones a las que se hace referencia en los apartados 2 y 3 se realizarán directamente a través de la aplicación informática existente al efecto para las declaraciones en el INFOVI, incluso en el caso en el que los datos sean todos cero.
+
+Los criterios para una adecuada cumplimentación de las declaraciones serán los existentes en cada momento en la citada aplicación informática, siempre teniendo en cuenta que se trata de directrices complementarias meramente indicativas y no obligatorias.
+
+7\. A los datos existentes en el Sistema de Información de Mercados del Sector Vitivinícola, sólo podrán tener acceso el Ministerio de Agricultura, Alimentación y Medio Ambiente, las comunidades autónomas para las instalaciones establecidas en su ámbito territorial, y los declarantes para sus propios datos.
+
+8\. Además, los datos podrán ser utilizados para recabar la información necesaria para la elaboración, seguimiento y control de extensiones de norma en el sector del vino realizadas según lo dispuesto en la Ley 38/1994, de 30 de diciembre, reguladora de las organizaciones interprofesionales agroalimentarias y en su normativa de desarrollo.
+
+9\. El Ministerio de Agricultura, Alimentación y Medio Ambiente pondrá a disposición del conjunto del sector vitivinícola la información extraída de este sistema de forma agregada.
+
+10\. Toda la información a que se tenga acceso será confidencial, y se aplicará para el tratamiento de los datos personales la Ley Orgánica 15/1999 de 13 de diciembre de protección de datos de carácter personal.
+
+> Se modifica, con efectos de 1 de julio de 2023, el apartado 6 por la disposición final 3.3 del Real Decreto 1054/2022, de 27 de diciembre. [Ref. BOE-A-2022-23054](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23054)
+
+> Se modifica por el art. 1.3 del Real Decreto 313/2016, de 29 de julio. [Ref. BOE-A-2016-7339](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7339).
+
+## Artículo 6. Deber de comunicación a la Comisión Europea.
+
+1\. El Ministerio de Agricultura, Alimentación y Medio Ambiente utilizará la información recogida en las declaraciones mensuales para dar cumplimiento a las obligaciones establecidas en la normativa comunitaria en cuanto a las declaraciones de producción y de existencias establecidas en los artículos 9 y 11 del Reglamento (CE) n.º 436/2009, de la Comisión, de 26 de mayo de 2009.
+
+2\. Los productores contemplados en los apartados 2 y 3 del artículo 5 deberán, además, cumplimentar en los soportes que dispongan al efecto las comunidades autónomas por instalación, la información del anexo IVa y IVb, relativa a los datos de los proveedores y los justificantes de compraventa de productos, referida a 30 de noviembre.
+
+La información de estos anexos deberá presentarse entre el 1 de diciembre y el 10 de diciembre de cada año ante el órgano competente de la comunidad autónoma donde radique la instalación, directamente o a través de cualquiera de los lugares previstos en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica el apartado 2 por la disposición final 1 del Real Decreto 683/2025, de 29 de julio. [Ref. BOE-A-2025-15746](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-15746)
+
+> Se modifica el apartado 2 por el art. 1.4 del Real Decreto 313/2016, de 29 de julio. [Ref. BOE-A-2016-7339](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7339).
+
+## Artículo 7. Funciones de la AICA y plan de control.
+
+1\. Para la aplicación de los artículos 4 y 5 de este real decreto, la Agencia de Información y Control Alimentarios, llevará a cabo las funciones recogidas en las letras a) y d) del apartado 6 de la disposición adicional primera de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+2\. Los órganos competentes de las comunidades autónomas realizarán los controles oficiales para comprobar el cumplimiento de las obligaciones establecidas en el presente real decreto y asegurar la exactitud de las declaraciones de las instalaciones que se encuentren ubicadas en su territorio.
+
+3\. El Ministerio de Agricultura, Alimentación y Medio Ambiente coordinará con las comunidades autónomas, a través de la Agencia de Información y Control Alimentarios, la elaboración de un plan de control, en lo relativo a los controles indicados en el punto 2.
+
+4\. Los órganos competentes de las comunidades autónomas remitirán la información sobre el estado de los controles oficiales realizados al Ministerio de Agricultura, Alimentación y Medio Ambiente, por el sistema establecido al efecto.
+
+## Artículo 8. Incumplimiento de la obligación de declarar y sanciones.
+
+1\. Los obligados a presentar las declaraciones recogidas en el presente real decreto que no lo hagan en los plazos establecidos, o la falta de alguna de las declaraciones obligatorias así como los errores, inexactitudes u omisiones en ellas que afecten a las características de los productos o mercancías consignados, serán sancionados según la Ley 24/2003, de 10 de julio, de la Viña y del Vino.
+
+2\. Además de lo dispuesto en el apartado 1 también serán de aplicación, cuando proceda, las penalizaciones establecidas en el artículo 18 del Reglamento (CE) n.º 436/2009 de la Comisión, de 26 de mayo de 2009.
+
+## Disposición adicional primera. Contención del gasto.
+
+Las medidas incluidas en este real decreto serán atendidas con las dotaciones presupuestarias existentes, y no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+## Disposición adicional segunda. Factor de conversión de la uva en vino.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.5 del Real Decreto 313/2016, de 29 de julio. [Ref. BOE-A-2016-7339](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7339).
+
+## Disposición transitoria primera. Declaración de existencias 31 de julio 2015 y de producción de la campaña 2015/2016.
+
+No obstante lo previsto en la disposición derogatoria única, los artículos 3 y 5 del Real Decreto 1303/2009, de 31 de julio, seguirán siendo de aplicación hasta el final de la campaña 2015/2016.
+
+## Disposición transitoria segunda. Declaración de destino de producciones de plantaciones ilegales anteriores al 1 de enero de 2016.
+
+1.En el caso de las plantaciones ilegales anteriores al 1 de enero de 2016, sin perjuicio de lo dispuesto en los artículos 85 bis y 85 ter del Reglamento (CE) n.º 1234/2007, del Consejo, de 22 de octubre de 2007, por el que se crea una organización común de mercados agrícolas y se establecen disposiciones específicas para determinados productos agrícolas (Reglamento único de las OCM), el responsable de una plantación ilegal de viñedo o en su defecto el propietario de la parcela de viñedo, deberá presentar anualmente una declaración de destino de las producciones de plantaciones ilegales de viñedo para las producciones que no se pueden comercializar en virtud del artículo 15 del Real Decreto 1244/2008, de 18 de julio, por el que se regula el potencial de producción vitícola, en los formularios o soportes que dispongan al efecto las respectivas comunidades autónomas, que contendrán, al menos, los datos que figuran en el anexo V.
+
+2\. La declaración de destino de las producciones de plantaciones ilegales se presentará hasta el 10 de diciembre de cada año ante el órgano competente de la comunidad autónoma donde radiquen las plantaciones ilegales de viñedo, o en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 1303/2009, de 31 de julio de 2009 sobre declaraciones obligatorias en el sector vitivinícola.
+
+## Disposición final primera. Título competencial.
+
+1\. Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+2\. No tendrán carácter básico los artículos 3.1 y 3, 4.2, 5.1 y 3, y 6.2, ni los anexos a los que los mismos remiten, en lo relativo a los modelos que establecen, pudiendo las comunidades autónomas establecer los suyos propios, si bien en este último caso, en dichos modelos se incluirán, como mínimo, al ser básicos, los datos que figuran en los anexos del presente real decreto, y las aplicaciones informáticas de dichos modelos deberán posibilitar que la parte referida a los datos mínimos de los anexos del presente real decreto sea accesible y reusable mediante sistemas entendibles por máquinas conforme a los protocolos y estándares de interoperabilidad que apruebe el Sistema de Información de Mercados del Sector Vitivinícola (INFOVI), corriendo los costes de la interoperabilidad a cargo de las comunidades autónomas de que se trate.
+
+## Disposición final segunda. Facultad de modificación.
+
+Se faculta al titular del Ministerio de Agricultura, Alimentación y Medio Ambiente para modificar los anexos, las fechas y plazos contenidos en la presente disposición, en particular cuando sea necesario para adaptarse a las modificaciones derivadas de la normativa de la Unión Europea.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca, el 31 de julio de 2015.
+
+FELIPE R.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente
+
+ISABEL GARCÍA TEJERINA
+
+## ANEXO I — Declaraciones
+
+## ANEXO I a — Declaración de cosecha de uva
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08647_001.png)
+
+INSTRUCCIONES PARA LA CUMPLIMENTACIÓN
+
+PERSONAS OBLIGADAS A PRESENTAR LA DECLARACIÓN
+
+Todos los cosecheros definidos en el artículo 2 apartado a).
+
+PERSONAS EXENTAS DE PRESENTAR LA DECLARACIÓN.
+
+Los cosecheros que cumplan las condiciones del artículo 3 apartado 1 a) y b).
+
+NÚMERO DE DECLARACIONES A PRESENTAR POR CADA PERSONA OBLIGADA.
+
+El cosechero cumplimentará una declaración por cada unidad territorial establecida por la Comunidad Autónoma en la que posea superficies de viñedo en producción, utilizando un único ejemplar del presente anexo I a, referido al viñedo situado en dicha unidad territorial.
+
+PLAZO DE PRESENTACIÓN.
+
+Hasta el 10 de diciembre.
+
+LUGAR DE PRESENTACIÓN.
+
+Ante el órgano competente de la comunidad autónoma donde radiquen las parcelas de viñedo, o en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+CUMPLIMENTACIÓN DE LOS DATOS SOLICITADOS EN EL IMPRESO.
+
+UNIDADES.–Los datos se indicarán de acuerdo con los siguientes criterios: superficie en hectáreas (ha) (10.000 metros cuadrados), con dos decimales; masa en 100 kilos, con dos decimales; rendimiento en 100 kilos por hectárea (100 kg/ha), con un decimal. En todos los casos la supresión de decimales se efectuará sin redondeo.
+
+CUADRO A.–Se señalará con X el recuadro que corresponda a cada caso: alta, cuando sea la primera vez que se presenta la declaración; baja, para la comunicación del cese en la actividad del cosechero; modificación, si ha cambiado su razón social, domicilio, etc.
+
+CUADRO B.–Se consignarán los totales correspondientes a la unidad territorial establecida por la Comunidad Autónoma, relativos a cada uno de los cinco tipos de aptitudes del viñedo.
+
+CUADRO C.–Se indicarán los diferentes destinos de la cosecha de uva diferenciando en cada línea las cantidades obtenidas, en 100 kg, a partir de los distintos tipos de viñedo reseñados en la columna de la izquierda.
+
+CUADRO D.–Se relacionarán los destinatarios a los que el cosechero ha entregado uva o mosto, indicándose a continuación los kilos (en 100 Kg) de uva facilitados a cada uno de ellos, diferenciados en función del tipo de viñedo de procedencia.
+
+DEFINICIONES
+
+– Vinos de denominación de origen protegidas: vino cuyas características se ajustan a los establecidos en la letra a) del apartado 1 del artículo 93 del Reglamento (CE) 1308/2013.
+
+– Vinos con indicación geográfica protegida: vino cuyas características se ajustan a lo establecido en la letra b) del apartado 1 del artículo 93 del Reglamento (CE) 1308/2013.
+
+– Vinos varietales sin DOP o IGP: aquellos vinos que sin estar adscritos a una DOP o IGP, mencionan la variedad en los términos establecidos en el Reglamento (CE) 1308/2013.
+
+– Vinos sin indicación geográfica: aquel vino que no cumple con lo establecido en las letras a) y b) del apartado 1 del artículo 93 del Reglamento (CE) 1308/2013 ni en la definición de vinos varietales sin DOP ni IGP.
+
+– Otros vinos: Se considerarán como «otros vinos» los procedentes de uva que figuren en la clasificación de variedades de uva de vinificación, según lo dispuesto en el artículo 81 del Reglamento (UE) 1308/2013, cuando sea aplicable, simultáneamente como variedades de uva de vinificación y según proceda como variedades de uva de mesa, uvas para pasificación o uvas destinadas a la elaboración de aguardiente de vino.
+
+## ANEXO I b — Declaración de cosecha de uva
+
+![3](https://www.boe.es/datos/imagenes/disp/2015/183/08647_5754.png)
+
+## Cuadro B: Referencia SIGPAC de las parcelas de viñedo
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Datos del viñedo</p>
+</td>
+<td rowspan="2">
+<p>Provincia</p>
+</td>
+<td rowspan="2">
+<p>Municipio</p>
+</td>
+<td rowspan="2">
+<p>Polígono</p>
+</td>
+<td rowspan="2">
+<p>Parcela</p>
+</td>
+<td rowspan="2">
+<p>Recinto</p>
+</td>
+<td rowspan="2">
+<p>Superficie</p>
+<p>Ha</p>
+</td>
+<td colspan="2">
+<p>Producción-100 kg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tinta</p>
+</td>
+<td>
+<p>Blanca</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6">
+<p>Vinos con denominación de origen protegida.</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="6">
+<p>Vinos con indicación geográfica protegida.</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="6">
+<p>Vinos varietales.</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="6">
+<p>Vinos sin DOP e IGP.</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="6">
+<p>Otros.</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Total.</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+INSTRUCCIONES PARA LA CUMPLIMENTACIÓN
+
+Todo cosechero que realice la declaración de cosecha (anexo I.a), presentará el anexo I.b en el que indicará todas las referencias SIGPAC de las parcelas de viñedo y la producción de las mismas según su orientación.
+
+Unidades.–Los datos se indicarán en las diferentes casillas, de acuerdo con los siguientes criterios: La superficie en hectáreas (ha) (10.000 metros cuadrados), con dos decimales, masa en 100 kilos, con dos decimales. En todos los casos la supresión de decimales se realizará sin redondeo.
+
+Cuadro A.
+
+Se cumplimentará con los datos del cuadro A, que figuran en el anexo I.a.
+
+Cuadro B.
+
+Se indicará la referencia SIG-PAC de las parcelas. Los datos de este cuadro coincidirán con los del cuadro B del anexo I.A. La producción se consignará para cada tipo de orientación de la producción y para cada una de las parcelas.
+
+> Se modifica el cuadro B y su instrucción por la disposición final 4 del Real Decreto 557/2020, de 9 de junio. [Ref. BOE-A-2020-5898](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5898)
+
+## ANEXO II — Registro de Operadores del Sector Vitivinícola (REOVI)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08647_003.png)
+
+## ANEXO III
+
+> Se modifica y se desglosa como Anexo III.a y III.b por el art. 1.6 del Real Decreto 313/2016, de 29 de julio. [Ref. BOE-A-2016-7339](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7339).
+
+## ANEXO III a
+
+![9574.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9574.png)
+
+![9609.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9609.png)
+
+![9643.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9643.png)
+
+![9677.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9677.png)
+
+![9712.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9712.png)
+
+## ANEXO III b
+
+![9784.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9784.png)
+
+![9819.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9819.png)
+
+![9853.png](https://www.boe.es/datos/imagenes/disp/2016/183/07339_9853.png)
+
+## ANEXO IV
+
+## ANEXO IV a — Declaración de producción
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08647_009.png)
+
+INSTRUCCIONES PARA LA CUMPLIMENTACIÓN
+
+Columna (1).–Se indicará la denominación comunitaria de los productos entregados: uva, mosto de uva, mosto de uva concentrado, mosto de uva concentrado rectificado, mosto de uva parcialmente fermentado, etc.
+
+Columna (2) y (3).–Se reflejarán las cantidades de los productos de la columna (1), expresadas en hl, diferenciándose el destino de la producción en tinto/rosado y blanco.
+
+Columna (4).–Se consignarán los rendimientos en hl/ha obtenidos en el viñedo de procedencia de cada partida. Estos deben coincidir con los declarados en el correspondiente anexo I (declaración de cosecha de uva), por las personas obligadas a su presentación, y con los que figuren en el anexo IV b para las operaciones de compra-venta. Deberá cumplirse la relación: (4) = [(2)+(3)]/(5).
+
+Columna (5).–Se indicará la superficie de producción en ha, de las que proceden las cantidades reflejadas en las columnas (2) y (3). Para las casillas de cada línea, deberá cumplirse la relación: (5) = [(2)+(3)]/(4).
+
+Columna (6), (7), (8), (9), (10), (11) y (12).–Se marcará con una X la aptitud del viñedo del que procede el producto, en la columna en la que figura reseñado verticalmente el tipo del viñedo que corresponda. Los datos indicados en estas columnas deben coincidir con los consignados en el anexo III b para cada partida.
+
+Columna (13), (14), (15) y (16).–Se reseñarán los datos de identificación de los proveedores de partidas, incluidos los socios de cooperativas o S.A.T. Para los productos cosechados por el propio declarante se indicará en la columna (13), «declarante», no siendo necesario cumplimentar las restantes casillas. La columna (15) se cumplimentará únicamente cuando exista compra-venta del producto.
+
+Suma y sigue o total del destino señalado.–Se marcará con una X el recuadro que corresponda en cada caso, según se trate de impresos que contengan sumas parciales o el total de los productos, con análogo destino al señalado.
+
+## ANEXO IV b — Justificante de compra-venta de producto
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08647_010.png)
+
+INSTRUCCIONES PARA LA CUMPLIMENTACIÓN
+
+N.º de referencia: Se cumplimentará por el comprador, que lo reseñará en la columna (15) del impreso del anexo IVa.
+
+1\. Naturaleza.–Se consignará la denominación comunitaria del producto entregado: uva, mosto de uva, mosto de uva concentrado, mosto de uva concentrado rectificado, mosto de uva parcialmente fermentado o vino nuevo aún en fermentación.
+
+2\. Cantidad.–Entrega efectuada en hectolitros. La cantidad de uva entregada se consignará en hectolitros de vino equivalentes, calculados a partir de los 100 kilos de uva de procedencia multiplicados por 0,74 por cuestiones de homogeneidad salvo que se justifique debidamente un factor de conversión diferente.
+
+3 y 4. Provincia de origen de la uva, y viñedo de procedencia.–Son los correspondientes al producto entregado.
+
+5\. Rendimiento.–Debe indicarse el correspondiente a la unidad territorial y al tipo de viñedo reseñados en los apartados anteriores 3 y 4.
+
+6\. N.º del documento que acompaña al producto.–Se consignará el número cuando el transporte del producto se efectúa acompañado del mismo, de acuerdo con lo establecido en el Reglamento (CE) n.º 436/2009 de la Comisión.
+
+## ANEXO V — Declaración de destino de las producciones de plantaciones ilegales
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2015/183/08647_011.png)
+
+INSTRUCCIONES PARA LA CUMPLIMENTACIÓN
+
+NÚMERO DE DECLARACIONES A PRESENTAR POR CADA PERSONA OBLIGADA:
+
+Se cumplimentará una declaración por Comunidad Autónoma en la que radiquen superficies de viñedo plantadas sin autorización, utilizando un único ejemplar del presente anexo V referido al viñedo situado en dicha Comunidad.
+
+PLAZO DE PRESENTACIÓN:
+
+hasta el 10 de diciembre.
+
+LUGAR DE PRESENTACIÓN:
+
+Ante el órgano designado por la Comunidad Autónoma, en cuyo ámbito radique la superficie de viñedo; la presentación puede realizarse mediante entrega en el registro, envío por correo certificado, o cualquier otro procedimiento previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+UNIDADES:
+
+Los datos se indicarán en las diferentes casillas de este impreso, de acuerdo con los siguientes criterios: superficie en hectáreas (ha) (10.000 metros cuadrados), con dos decimales; masa en 100 kilos, con dos decimales; rendimiento en 100 kilos por hectárea (kg/ha), con un decimal. En todos los casos la supresión de decimales se realizará sin redondeo.
+
+EJEMPLARES DE DECLARACIÓN Y DESTINOS:
+
+Original: COMUNIDAD AUTONOMA.
+
+Copia: DECLARANTE.

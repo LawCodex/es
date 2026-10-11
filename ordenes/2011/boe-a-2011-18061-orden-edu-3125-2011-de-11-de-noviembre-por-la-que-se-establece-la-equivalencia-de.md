@@ -1,0 +1,101 @@
+---
+title: "Orden EDU/3125/2011, de 11 de noviembre, por la que se establece la equivalencia de la formación conducente al nombramiento de Inspector del Cuerpo Nacional de Policía al nivel académico de Master Universitario Oficial"
+identifier: "BOE-A-2011-18061"
+eli: "https://www.boe.es/eli/es/o/2011/11/11/edu3125"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2011-11-11
+published: 2011-11-18
+in_force_from: 2011-11-19
+last_amended: 2015-05-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 278"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18061"
+retrieved: 2026-10-11
+---
+
+# Orden EDU/3125/2011, de 11 de noviembre, por la que se establece la equivalencia de la formación conducente al nombramiento de Inspector del Cuerpo Nacional de Policía al nivel académico de Master Universitario Oficial
+
+La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, atribuye en su preámbulo una especial importancia a la formación permanente de los funcionarios del Cuerpo Nacional de Policía, así como a la promoción profesional de los mismos. Tal propósito se recoge de manera expresa en su artículo 6, al establecer que los estudios que se cursen en los centros de enseñanza de las Fuerzas y Cuerpos de Seguridad, dependientes de las diferentes Administraciones Públicas, podrán ser objeto de convalidación por el Ministerio de Educación y Ciencia, hoy Ministerio de Educación, que a tal fin tendrá en cuenta las titulaciones exigidas para el acceso a cada uno de ellos y la naturaleza y duración de dichos estudios.
+
+Asimismo, la Ley 26/1994, de 29 de septiembre, por la que se regula la situación de segunda actividad en el Cuerpo Nacional de Policía, señala que el régimen de formación del referido Cuerpo se configura como un proceso unitario y progresivo, integrado en el sistema educativo, servido en su parte fundamental por la estructura docente de la Dirección General de la Policía, con la colaboración de otras instituciones.
+
+En esta misma línea, el Reglamento de los procesos selectivos y de formación en el Cuerpo Nacional de Policía, aprobado por Real Decreto 614/1995, de 21 de abril, establece, de manera más pormenorizada, las actuaciones precisas para consolidar un sistema formativo policial de un nivel docente equiparable al de otras formaciones similares de carácter profesional, e integrado en el sistema educativo general, y señalando que, a propuesta del Ministerio de Interior, podrá establecerse la correspondiente equivalencia u homologación de dichos estudios con los niveles del sistema educativo general, de acuerdo con la normativa vigente.
+
+En este sentido, por Orden del Ministerio de Educación y Cultura de 18 de abril de 2000 se reconoció la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al título de Licenciado universitario, por parte de quienes hubieran accedido a la categoría de Inspector por el procedimiento de oposición libre y estuviesen en posesión de un título de Diplomado, Arquitecto Técnico o Ingeniero Técnico.
+
+Con la entrada en vigor de la Ley Orgánica 4/2007, de 12 de abril (LOMLOU), por la que se modifica la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades (LOU), concretada en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, se hace necesario adaptar la citada Orden Ministerial a la nueva estructura de las enseñanzas universitarias oficiales, basada en la existencia de los niveles académicos de Grado, Máster y Doctorado.
+
+En este mismo sentido y con la finalidad de adaptarse a las nuevas normas reguladoras de las enseñanzas universitarias oficiales derivadas del proceso de adaptación al Espacio Europeo de Educación Superior el Cuerpo Nacional de Policía, en colaboración con la Universidad de Salamanca, ha desarrollado una nueva estructura curricular de la formación profesional para el acceso a Inspector, que ha significado la implantación a partir del curso 2006-2007 de un nuevo Plan de estudios, con estructura de Máster profesional de 120 créditos europeos ECTS, incluido el trabajo de fin de master y con una duración de dos cursos académicos y siete meses de prácticas. El citado diseño curricular tiene en consideración todos los aspectos establecidos en la citada normativa vigente, además de los criterios y directrices para la garantía de calidad en el Espacio Europeo de Educación Superior y ha sido informado favorablemente por la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA).
+
+De acuerdo con lo anterior, parece oportuno establecer la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al título de Master universitario, para quienes hayan accedido a la categoría de Inspector y estén en posesión de una titulación académica que permita el acceso a los estudios de Master Universitario de acuerdo con lo establecido en el citado Real Decreto 1393/2007, de 29 de octubre, toda vez que la declaración de equivalencia constituye aplicación de la precisión contemplada en el artículo 6 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad. Además, cumple las exigencias del mencionado artículo en relación con el artículo 7 y siguientes del Reglamento de los procesos selectivos y de formación en el Cuerpo Nacional de Policía, aprobado por Real Decreto 614/1995, de 21 de abril, en cuanto a titulación previa, naturaleza y extensión de los estudios profesionales.
+
+En el proceso de elaboración de esta Orden han sido consultados el Consejo de Universidades y las Comunidades Autónomas en el seno de la Conferencia General de Política Universitaria.
+
+En su virtud, a propuesta del Ministro del Interior y con la aprobación previa del Vicepresidente del Gobierno de Política Territorial y Ministro de Política Territorial y Administración Pública, dispongo:
+
+## Artículo 1. Objeto.
+
+Esta orden tiene por objeto establecer la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al nivel académico de Máster Universitario Oficial.
+
+> Se modifica por la disposición final 1.1 de la Orden ECD/775/2015, de 29 de abril. [Ref. BOE-A-2015-4783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4783).
+
+## Artículo 2. Condiciones para la declaración de equivalencia.
+
+El nombramiento de Inspector del Cuerpo Nacional de Policía se declarará equivalente al nivel académico de Máster Universitario oficial cuando concurran en los inspectores interesados los siguientes requisitos:
+
+a) Que sean alumnos seleccionados por alguno de los procedimientos establecidos en el Reglamento de los procesos selectivos y de formación en el Cuerpo Nacional de Policía, aprobado por Real Decreto 614/1995, de 21 de abril.
+
+b) Que reúnan los requisitos académicos necesarios para acceder a los estudios de Máster Universitario establecidos en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales.
+
+c) Que hayan cursado la formación conducente al nombramiento de Inspector del Cuerpo Nacional de Policía a partir del curso 2006-2007 y hayan obtenido el correspondiente nombramiento a partir del año 2009.
+
+> Se modifican los apartados a) y b) por la disposición final 1.2 de la ORden ECD/775/2015, de 29 de abril. [Ref. BOE-A-2015-4783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4783).
+
+## Artículo 3. Evaluación de la formación.
+
+A efectos de mantener la equivalencia a que se refiere el artículo 1, la formación conducente al nombramiento de Inspector del Cuerpo Nacional de Policía será objeto de seguimiento y evaluación por parte de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA).
+
+A tal efecto, cada cuatro años, a contar desde la fecha de entrada en vigor de esta Orden, la citada formación deberá ser evaluada por dicha Agencia a fin de garantizar la calidad de la misma, así como la implementación de todas aquellas mejoras que surjan de los procesos de aseguramiento de la calidad.
+
+## Artículo 4. Inscripción en el Registro Nacional de Titulados Universitarios de las equivalencias de los nombramientos de Inspector del Cuerpo Nacional de Policía.
+
+1\. Las equivalencias de los nombramientos de Inspector del Cuerpo Nacional de Policía obtenidas conforme a lo dispuesto en la presente orden, se inscribirán en una sección especial del Registro Nacional de Titulados Universitarios al que se refiere el Real Decreto 1002/2010, de 5 de agosto, sobre expedición de títulos universitarios oficiales. A estos efectos la Dirección General de la Policía remitirá al Ministerio de Educación, Cultura y Deporte, la relación de Inspectores del Cuerpo Nacional de Policía de cada promoción que hayan obtenido dicho nombramiento en las condiciones establecidas en el artículo 2 de la presente orden.
+
+2\. La relación a la que se refiere el apartado anterior recogerá los siguientes datos y documentos de cada Inspector: nombre y apellidos, número de documento nacional de identidad, título académico presentado para acceder al correspondiente proceso selectivo, periodo en el que se ha cursado la formación conducente al nombramiento de Inspector del Cuerpo Nacional de Policía y fecha del nombramiento como Inspector.
+
+3\. A los efectos de la acreditación documental de la equivalencia declarada en la presente orden, el Ministerio de Educación, Cultura y Deporte expedirá a solicitud de cada interesado la certificación correspondiente a la equivalencia de su nombramiento al nivel académico de Máster Universitario oficial.
+
+> Se modifica por la disposición final 1.3 de la Orden ECD/775/2015, de 29 de abril. [Ref. BOE-A-2015-4783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4783).
+
+## Disposición adicional única. Equivalencias anteriores.
+
+1\. Quienes a la entrada en vigor de la presente Orden ya hubieran obtenido la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al título de Licenciado universitario conforme a lo dispuesto en la Orden de 18 de abril de 2000, por la que se establece la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al título de Licenciado universitario, mantendrán todos los efectos inherentes a dicho título.
+
+2\. Quienes hayan obtenido una declaración de equivalencia a Licenciado Universitario al amparo de la Orden de 18 de abril de 2000, pero reúnan los requisitos establecidos en el artículo 2 de esta orden podrán solicitar la sustitución de la citada equivalencia por la de Máster Universitario de acuerdo con lo establecido en la presente Orden.
+
+> Se modifica el apartado 2 por la disposición final 1.4 de la Orden ECD/775/2015, de 29 de abril. [Ref. BOE-A-2015-4783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4783).
+
+## Disposición transitoria única. Vigencia de la Orden de 18 de abril de 2000.
+
+La Orden de 18 de abril de 2000 por la que se establece la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al título de Licenciado Universitario, seguirá siendo de aplicación hasta el 30 de septiembre de 2017, a quienes cumpliendo las condiciones establecidas en la misma, no reúnan los requisitos exigidos en la presente Orden para obtener la equivalencia al título de Máster.
+
+> Se modifica por la disposición final 1.5 de la Orden ECD/775/2015, de 29 de abril. [Ref. BOE-A-2015-4783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4783).
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden de 18 de abril de 2000, por la que se establece la equivalencia del nombramiento de Inspector del Cuerpo Nacional de Policía al título de Licenciado universitario, sin perjuicio de lo dispuesto en la disposición transitoria única de esta Orden.
+
+## Disposición final primera. Título competencial.
+
+La presente norma es de aplicación en todo el territorio nacional y se dicta al amparo de lo dispuesto en el artículo 149.1.30.ª de la Constitución Española que atribuye al Estado la competencia exclusiva sobre las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
+
+## Disposición final segunda. Entrada en vigor.
+
+Esta Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial de Estado».
+
+Madrid, 11 de noviembre de 2011.–El Ministro de Educación, Ángel Gabilondo Pujol.

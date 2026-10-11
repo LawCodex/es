@@ -1,0 +1,1688 @@
+---
+title: "Real Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas"
+identifier: "BOE-A-2011-3582"
+eli: "https://www.boe.es/eli/es/rd/2011/02/04/139"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Medio Ambiente, y Medio Rural y Marino"
+date: 2011-02-04
+published: 2011-02-23
+in_force_from: 2011-02-24
+last_amended: 2025-05-12
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 46"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-3582"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas
+
+Incluye la corrección de errores publicada en BOE núm. 76, de 30 de marzo de 2011. [Ref. BOE-A-2011-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5713).
+
+Uno de los principios inspiradores de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y sin duda de los más trascendentes, es la preservación de la diversidad biológica y genética, de las poblaciones y de las especies. Sobre este principio una de las finalidades más importantes de dicha ley es detener el ritmo actual de pérdida de diversidad biológica, y en este contexto indica en su artículo 52.1 que para garantizar la conservación de la biodiversidad que vive en estado silvestre, las comunidades autónomas y las ciudades con estatuto de autonomía deberán establecer regímenes específicos de protección para aquellas especies silvestres cuya situación así lo requiera. No obstante, además de las actuaciones de conservación que realicen las citadas administraciones públicas, para alcanzar dicha finalidad, la Ley 42/2007, de 13 de diciembre, en sus artículos 53, y 55 crea, con carácter básico, el Listado de Especies Silvestres en régimen de protección especial y, en su seno, el Catálogo Español de Especies Amenazadas. Asimismo, se establecen una serie de efectos protectores para las especies que se incluyan en los citados instrumentos y se establecen dos categorías de clasificación, como son las de «vulnerable» y «en peligro de extinción», distinción que permite establecer prioridades de acción e identificar aquellas especies que necesitan una mayor atención. Finalmente, se prevé el desarrollo reglamentario del Listado, finalidad general a la que responde este real decreto.
+
+Junto a esta tarea inicial de desarrollo general del Listado, este real decreto adapta, por un lado, el anterior Catálogo Nacional de Especies Amenazadas, regulado por el Real Decreto 439/1990, de 30 de marzo de 1990 (que con este real decreto se deroga), respecto a las especies protegidas clasificadas con categorías que han desaparecido en la nueva ley, teniendo en cuenta lo dispuesto en la disposición transitoria única de la Ley 42/2007, de 13 de diciembre; y por otro, la clasificación de las especies, conforme al procedimiento previsto en el artículo 55.2 de la citada ley, sobre catalogación, descatalogación o cambio de categoría de especies.
+
+Además de la protección general que la Ley 42/2007, de 13 de diciembre, confiere a todas esas especies y a su hábitat, su inclusión en el Listado conlleva la necesidad de llevar a cabo periódicamente una evaluación de su estado de conservación. Para ello se debe disponer de información sobre los aspectos más relevantes de su biología y ecología, como base para realizar un diagnóstico de su situación y evaluar si el estado de conservación es o no favorable. Esta evaluación es la que permitirá justificar cambios en el Listado y en el Catálogo. En este contexto, la Ley 42/2007, de 13 de diciembre, creó la Comisión Estatal para el Patrimonio Natural y la Biodiversidad (en adelante la Comisión), como órgano consultivo y de cooperación entre las administraciones públicas. Además, el Real Decreto 1424/2008, de 14 de agosto, que desarrolla las funciones de esta Comisión, creó a su vez el Comité de Flora y Fauna Silvestres (en adelante el Comité), como órgano técnico especializado en esta materia.
+
+En el caso concreto de las especies incluidas en el Catálogo, debe realizarse una gestión activa de sus poblaciones mediante la puesta en marcha de medidas específicas por parte de las administraciones públicas. Estas medidas se concretarán en la adopción de estrategias de conservación y de planes de acción. En este sentido, la Ley 42/2007, de 13 de diciembre, confiere un marco legal a las estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad, identificándolas como documentos técnicos orientadores para la elaboración de los planes de conservación y recuperación que deben aprobar las comunidades autónomas y las ciudades con estatuto de autonomía, sin perjuicio de las competencias de la Administración General del Estado sobre biodiversidad marina, tal como establece el artículo 6 de la citada Ley 42/2007, de 13 de diciembre. Por otro lado, la Ley 31/2003, de 27 de octubre, de conservación de la fauna silvestre en los parques zoológicos también establece medidas específicas de protección y recuperación de especies amenazadas a través de la puesta en marcha de programas de conservación ex situ.
+
+Las posibles acciones que se deriven del desarrollo de este real decreto, podrán recibir el apoyo financiero del Fondo para el Patrimonio Natural y la Biodiversidad, previsto en el artículo 74 de la Ley 42/2007, de 13 de diciembre.
+
+Este real decreto ha sido sometido a la consideración de la Comisión Estatal para el Patrimonio Natural y la Biodiversidad y del Consejo Estatal para el Patrimonio Natural y la Biodiversidad.
+
+El texto ha sido igualmente puesto a disposición del público, de acuerdo con lo previsto en el artículo 16 de la Ley 27/2006, de 18 de julio, que regula los derechos a la información, de participación pública y acceso a la justicia en materia de medio ambiente.
+
+En la tramitación del real decreto han sido consultadas las comunidades autónomas y las ciudades con estatuto de autonomía y las entidades representativas del sector que resultan afectadas.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, con la aprobación previa de la Ministra de Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros, en su reunión del día 4 de febrero de 2011,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+Es objeto del presente real decreto desarrollar algunos de los contenidos de los Capítulos I y II del Título III de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y en concreto regular:
+
+a) Las características, contenido y procedimientos de inclusión, cambio de categoría y exclusión de especies en el Listado de Especies Silvestres en Régimen de Protección Especial y en el Catálogo Español de Especies Amenazadas.
+
+b) Las directrices de evaluación periódica del estado de conservación de las especies incluidas en el Listado y en el Catálogo.
+
+c) Las características y contenido de las estrategias de conservación de especies del Catálogo y de lucha contra las principales amenazas para la biodiversidad.
+
+d) Las condiciones técnicas necesarias para la reintroducción de especies extinguidas y el reforzamiento de poblaciones.
+
+e) Las condiciones naturales requeridas para la supervivencia o recuperación de especies silvestres amenazadas.
+
+f) Los aspectos relativos a la cooperación para la conservación de las especies amenazadas.
+
+#### Artículo 2. Definiciones.
+
+A los efectos de este real decreto, se entenderá por:
+
+1\. Amenaza para la biodiversidad: factor o conjunto de factores bióticos y abióticos que inciden negativamente en el estado de conservación de una o de varias especies.
+
+2\. Área crítica para una especie: aquellos sectores incluidos en el área de distribución que contengan hábitat esenciales para la conservación favorable de la especie o que por su situación estratégica para la misma requieran su adecuado mantenimiento.
+
+3\. Conservación in situ: conservación de los ecosistemas y los hábitat naturales y seminaturales mediante el mantenimiento y recuperación de poblaciones viables de especies silvestres en sus entornos
+
+4\. Conservación ex situ: conservación de componentes de la diversidad biológica fuera de sus hábitat naturales.
+
+5\. Especie autóctona: la existente dentro de su área de distribución natural.
+
+6\. Especie amenazada: se refiere a las especies cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando o las especies cuyas poblaciones corren el riesgo de encontrarse en una situación de supervivencia poco probable en un futuro inmediato si los factores adversos que actúan sobre ellas no son corregidos. Por cumplir dichas condiciones las especies, subespecies o poblaciones podrían ser incorporadas al Catálogo.
+
+7\. Especie extinguida o taxón extinguido: especie o taxón autóctono desaparecido en el pasado de su área de distribución natural.
+
+8\. Especie silvestre en régimen de protección especial: especie merecedora de una atención y protección particular en función de su valor científico, ecológico y cultural, singularidad, rareza, o grado de amenaza, argumentado y justificado científicamente; así como aquella que figure como protegida en los anexos de las directivas y los convenios internacionales ratificados por España, y que por cumplir estas condiciones sean incorporadas al Listado.
+
+9\. Estado de conservación de una especie: situación o estatus de dicha especie, definido por el conjunto de factores o procesos que actúan sobre la misma y que pueden afectar a medio y largo plazo a la distribución y tamaño de sus poblaciones en el ámbito geográfico español.
+
+10\. Estado de conservación favorable de una especie: cuando su dinámica poblacional indica que sigue y puede seguir constituyendo a largo plazo un elemento vivo de los hábitat a los que pertenece; el área de distribución natural no se está reduciendo ni haya amenazas de reducción en un futuro previsible; existe y probablemente siga existiendo un hábitat de extensión suficiente para mantener sus poblaciones a largo plazo.
+
+11\. Estado de conservación desfavorable de una especie: cuando no se cumpla alguna de las condiciones enunciadas en la anterior definición.
+
+12\. Hábitat de una especie: medio definido por factores abióticos y bióticos específicos donde vive la especie en una de las fases de su ciclo biológico.
+
+13\. Reintroducción: proceso que trata de establecer una especie en un área en la que se ha extinguido.
+
+14\. Riesgo inminente de extinción: situación de una especie que, según la información disponible, indica altas probabilidades de extinguirse a muy corto plazo.
+
+#### Artículo 3. Ámbito de aplicación.
+
+1\. El presente real decreto se aplicará en el territorio del Estado español y en las aguas marítimas bajo soberanía o jurisdicción española, incluyendo la zona económica exclusiva y la plataforma continental.
+
+2\. Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de las acciones de cooperación internacional o de la jurisdicción del Estado español sobre personas y buques, aeronaves o instalaciones en los supuestos previstos en el artículo 6 de la Ley 42/2007, de 13 de diciembre.
+
+## CAPÍTULO II — Contenido, características y funcionamiento del Listado y Catálogo
+
+#### Artículo 4. Contenido del Listado y del Catálogo.
+
+Las subespecies, especies y poblaciones que integran el Listado y Catálogo son las que aparecen indicadas en el Anexo.
+
+#### Artículo 5. Características del Listado y del Catálogo.
+
+1\. De acuerdo con el procedimiento previsto en el artículo 53 de la Ley 42/2007, de 13 de diciembre, en el Listado se incluirán las especies, subespecies y poblaciones merecedoras de una atención y protección particular en función de su valor científico, ecológico, cultural, singularidad, rareza o grado de amenaza, así como aquellas que figuran como protegidas en los anexos de las directivas y los convenios internacionales ratificados por España. La inclusión de especies, subespecies y poblaciones en el Listado conllevará la aplicación de lo contemplado en los artículos 54, 56 y 76 de la Ley 42/2007, de 13 de diciembre.
+
+2\. Dentro del Listado se crea el Catálogo que incluye, cuando exista información técnica o científica que así lo aconseje, las especies que están amenazadas incluyéndolas en algunas de las siguientes categorías:
+
+a) En peligro de extinción: especie, subespecie o población de una especie cuya supervivencia es poco probable si los factores causales de su actual situación siguen actuando.
+
+b) Vulnerable: especie, subespecie o población de una especie que corre el riesgo de pasar a la categoría anterior en un futuro inmediato si los factores adversos que actúan sobre ella no son corregidos.
+
+3\. El Listado y el Catálogo son registros públicos de carácter administrativo y de ámbito estatal, cuya custodia y mantenimiento dependen administrativamente del Ministerio de Medio Ambiente, y Medio Rural y Marino (en adelante MARM). La información contenida en el registro del Listado y del Catálogo es pública y el acceso a ella se regula según lo dispuesto en la Ley 27/2006, de 18 de julio. No obstante, por razones de seguridad para proteger los enclaves de cría, alimentación, descanso o los hábitat de las especies se podrá denegar el acceso a ese tipo de información justificando dicha decisión, de acuerdo con lo establecido en el artículo 13.2 de dicha Ley 27/2006, de 18 de julio.
+
+#### Artículo 6. Procedimiento de inclusión, cambio de categoría o exclusión de especies en el Listado y en el Catálogo.
+
+1\. Las especies se incluirán en el registro del Listado mediante el procedimiento que se detalla en el presente artículo.
+
+2\. En el caso de especies que figuran como protegidas en los anexos de las normas o decisiones de la Unión Europea y los convenios internacionales ratificados por España, su inclusión en el Listado se efectuará de oficio por el MARM, notificando previamente tal inclusión a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad. En este supuesto, sin perjuicio de su inclusión en el Listado, a efectos del régimen concretamente aplicable y de la inclusión, en su caso, en el Catálogo se podrá considerar la singularidad de la distribución geográfica y el estado de conservación de la especie en nuestro país, previa consulta a las comunidades autónomas o ciudades con estatuto de autonomía afectadas.
+
+3\. Además del procedimiento contemplado en el apartado anterior, la iniciación del procedimiento de inclusión, cambio de categoría o exclusión de una especie en el Listado y Catálogo se realizará previa iniciativa de las comunidades autónomas y ciudades con estatuto de autonomía, mediante remisión de una solicitud a la Dirección General de Medio Natural y Política Forestal del MARM (en adelante la Dirección General), siguiendo el procedimiento establecido en los artículos 53.1 y 55.2 de la Ley 42/2007, de 13 de diciembre, para el Listado y el Catálogo, respectivamente. Ésta deberá ser motivada e ir acompañada de la información científica justificativa, así como las referencias de los informes y publicaciones científicas que se hayan podido utilizar.
+
+4\. Con la anterior información la Dirección General elaborará una memoria técnica justificativa. Dicha memoria deberá haber tenido en cuenta los «criterios orientadores para la inclusión de taxones y poblaciones en catálogos de especies amenazadas aprobados por la Comisión Nacional para la Protección de la Naturaleza, el 17 de marzo de 2004», y aquella otra información que se considere necesaria, sin perjuicio de lo dispuesto en la disposición adicional tercera.
+
+La Dirección General remitirá la memoria técnica justificativa a la comunidad autónoma o ciudad con estatuto de autonomía donde se encuentre la especie afectada y a iniciativa de estas o de la propia Dirección General, la citada memoria se remitirá al Comité de Flora y Fauna Silvestres para su evaluación. Este Comité, en su caso, consultará al comité científico creado en el artículo 7 de este real decreto y tras ello informará a la Comisión del resultado de la evaluación. Con la información anterior la Comisión trasladará la propuesta de inclusión, cambio de categoría o exclusión del Listado o Catálogo a la Dirección General, quien concluirá si hay o no razones que justifiquen la inclusión, cambio de categoría o exclusión.
+
+5\. Cualquier ciudadano u organización podrá solicitar a la Dirección General la iniciación del procedimiento de inclusión, cambio de categoría o exclusión de una especie en el Listado y Catálogo, acompañándola de información científica justificativa, al menos, en relación al valor científico, ecológico, cultural, singularidad, rareza o grado de amenaza de la especie propuesta, así como las referencias de los informes y publicaciones científicas utilizadas, siguiendo el procedimiento establecido en los artículos 53.1 y 55.2 de la Ley 42/2007, de 13 de diciembre, para el Listado y el Catálogo, respectivamente. Dicha solicitud podrá ser presentada en la Dirección General por los medios adecuados, incluidos los medios electrónicos, en aplicación de la Ley 30/1992, de 26 de noviembre, y la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. En caso de que la solicitud fuera defectuosa o incompleta, se requerirá al solicitante para que subsane los defectos advertidos o aporte la documentación complementaria en el plazo de tres meses. Transcurrido dicho plazo sin que el particular subsane dichos defectos o presente la documentación complementaria, se acordará el archivo del expediente notificándoselo al solicitante. En el caso de que el solicitante subsane los defectos o presente la documentación complementaria en el tiempo previsto, se procederá a tramitar la solicitud correspondiente de acuerdo al procedimiento indicado en el anterior apartado. La Dirección General, una vez valorada la solicitud, notificará su decisión de forma motivada al solicitante en el plazo máximo de seis meses desde la fecha de recepción de la solicitud en la Dirección General, poniendo fin a la vía administrativa. Transcurrido dicho plazo sin haberse notificado resolución expresa, se entenderá desestimada su petición.
+
+6\. Sólo podrán incluirse en el Listado y el Catálogo las especies y subespecies que hayan sido descritas taxonómicamente en una publicación científica de reconocido prestigio y hayan sido consensuadas por la comunidad científica.
+
+7\. Una vez finalizada la tramitación, el proyecto de orden que contenga la modificación del anexo a este real decreto para incluir, excluir o modificar la clasificación de alguna especie se elevará a la Ministra para su firma, conforme a lo dispuesto en la disposición final segunda y, posteriormente, se publicará en el Boletín Oficial del Estado.
+
+#### Artículo 7. El comité científico.
+
+1\. Para asistir al Comité de Flora y Fauna Silvestres en lo relativo a los contenidos de este real decreto y del Real Decreto 630/2013, de 2 de agosto, por el que se regula el catálogo español de especies exóticas invasoras y al Comité de Espacios Naturales Protegidos en las materias relativas al real decreto por el que se aprueban el Plan Director de la Red de Áreas Marinas Protegidas de España y los criterios mínimos comunes para la gestión coordinada y coherente de la Red, se establecerá un comité científico como órgano consultivo de las Direcciones Generales de Biodiversidad, Bosques y Desertificación y de Pesca Sostenible y de las comunidades autónomas, cuando éstas así lo soliciten.
+
+2\. El comité científico a requerimiento del Comité de Flora y Fauna Silvestres y del Comité de Espacios Naturales Protegidos, de la Dirección General, o de las comunidades autónomas, informará sobre:
+
+a) Las propuestas de inclusión, cambio de categoría o exclusión de especies en el Listado de Especies Silvestres en Régimen de Protección Especial y en el Catálogo Español de Especies Amenazadas.
+
+b) La actualización de los «criterios orientadores para la inclusión de taxones y poblaciones en catálogos de especies amenazadas» aprobados mediante el Acuerdo del Consejo de Ministros de 24 de febrero de 2017, por el que se aprueban los criterios orientadores para la inclusión de taxones y poblaciones en el Catálogo Español de Especies Amenazadas.
+
+c) La validez taxonómica de las especies incluidas o propuestas para su inclusión en los Catálogos y en el Listado.
+
+d) La metodología de evaluación del estado de conservación de las especies de acuerdo a las directrices europeas en la materia.
+
+e) Cuantas medidas se estimen oportunas para el mejor desarrollo del Listado, del Catálogo y cualquier otro aspecto relativo al contenido de este real decreto para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas.
+
+f) Cuantas medidas se estimen oportunas para el mejor desarrollo del Catálogo español de especies exóticas invasoras y cualquier otro aspecto relativo al contenido del Real Decreto 630/2013, de 2 de agosto.
+
+g) Las cuestiones que sean planteadas en relación a la Red de Áreas Marinas Protegidas de España, proporcionando evidencia científica relevante que facilite el desarrollo de los objetivos de la Red y las actuaciones recogidas en su Plan Director y en los Criterios mínimos comunes para la gestión coordinada y coherente de la Red.
+
+h) El informe de situación de la Red de Áreas Marinas Protegidas de España.
+
+3\. El comité científico estará compuesto por:
+
+a) Diecinueve miembros, dieciséis de ellos serán designados por el Ministerio para la Transición Ecológica y el Reto Demográfico:
+
+1.º Nueve a propuesta de las comunidades autónomas y ciudades con estatuto de autonomía, seleccionados entre expertos atendiendo al criterio de representación de los grandes grupos taxonómicos de la biodiversidad y de las regiones biogeográficas españolas.
+
+2.º Cinco a propuesta de las organizaciones no gubernamentales que forman parte del Consejo Estatal del Patrimonio Natural y la Biodiversidad.
+
+3.º Dos por la Secretaría de Estado de Medio Ambiente, uno de los cuales que ostentará la condición de funcionario, desempeñará la secretaría.
+
+En los supuestos de los párrafos 1.º y 2.º, los expertos propuestos deberán acreditar una amplia y probada experiencia científica en las materias que a las que se refieren los apartados 1 y 2 de este artículo.
+
+Además, se incluirán dos representantes de los organismos públicos de investigación adscritos al Ministerio de Ciencia e Innovación, designados por el mismo y uno designado por la Secretaría General de Pesca del Ministerio de Agricultura, Pesca y Alimentación.
+
+Para asegurar la representación de los diferentes grupos taxonómicos representados en el Listado y Catálogo, los expertos designados podrán ser asesorados por los especialistas que consideren conveniente.
+
+b) Once miembros adicionales para informar las cuestiones incluidas en los apartados 2.g) y 2.h) de este artículo, diez de ellos designados por el Ministerio para la Transición Ecológica y el Reto Demográfico:
+
+1.º Cinco –uno por cada demarcación marina– a propuesta de las comunidades autónomas y ciudades con estatuto de autonomía, seleccionados entre expertos con reconocida trayectoria profesional en el campo de la investigación de los espacios naturales protegidos y del medio marino.
+
+2.º Cinco por la Secretaría de Estado de Medio Ambiente.
+
+Adicionalmente, uno designado por la Secretaría General de Pesca.
+
+4\. Su Presidente se elegirá de entre sus miembros. La duración de su mandato será de dos años prorrogables, por acuerdo del comité científico, por idéntico período. El Secretario levantará acta de las deliberaciones y acuerdos adoptados por el comité científico y la remitirá al presidente del Comité de Flora y Fauna Silvestres y del Comité de Espacios Naturales Protegidos, quien lo distribuirá entre sus miembros.
+
+5\. El comité científico estará adscrito a la Dirección General de Biodiversidad, Bosques y Desertificación, se reunirá, al menos, una vez al año y podrá aprobar un reglamento de régimen interior.
+
+6\. La Dirección General de Biodiversidad, Bosques y Desertificación proporcionará el soporte logístico y la financiación necesarios para la organización de las reuniones.
+
+> Se modifica por la disposición final 2 del Real Decreto 1056/2022, de 27 de diciembre. [Ref. BOE-A-2022-23750](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23750)
+
+> Se amplían las funciones informativas del comité científico a las materias contempladas en el Real Decreto 630/2013, de 2 de agosto, según establece su disposición adicional 10. [Ref. BOE-A-2013-8565](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8565)
+
+#### Artículo 8. Información contenida en los registros del Listado y del Catálogo.
+
+1\. El registro del Listado incluye para cada una de las especies la siguiente información:
+
+a) Denominación científica, nombres vulgares y posición taxonómica.
+
+b) Proceso administrativo de su inclusión en el Listado.
+
+c) Ámbito territorial ocupado por la especie.
+
+d) Criterios y breve justificación técnica de las causas de la inclusión, modificación o exclusión, con expresa referencia a la evolución de su población, distribución natural y hábitat característicos.
+
+e) Indicación de la evaluación periódica de su estado de conservación.
+
+2\. Para las especies incluidas en el Catálogo, además de la información anterior, incluirá la siguiente:
+
+a) Categoría de amenaza.
+
+b) Diagnóstico del estado de conservación, incluyendo la información sobre los sistemas de control de capturas, recolección y toma de muestras y las estadísticas sobre muertes accidentales que remitan las comunidades autónomas y ciudades con estatuto de autonomía o el propio MARM.
+
+c) Referencia a las estrategias y a los planes de conservación y recuperación publicados por las comunidades autónomas y ciudades con estatuto de autonomía o a las estrategias aprobadas por la Administración General del Estado, que afecten a la especie.
+
+3\. La información contenida en el registro del Listado y del Catálogo será suministrada por las comunidades autónomas y ciudades con estatuto de autonomía o por el propio MARM. Ésta será actualizada a medida que exista información sobre cambios en el estado de conservación de las especies, en base a las previsiones del artículo 9 o a los supuestos de los artículos 5 y 6.
+
+4\. La información relativa a los procedimientos de inclusión, cambio de categoría o exclusión que se hayan producido en el Listado y el Catálogo formarán parte del Informe anual del estado y evolución del Patrimonio Natural y la Biodiversidad previsto en el artículo 11 de la Ley 42/2007, de 13 de diciembre.
+
+#### Artículo 9. Evaluación periódica del estado de conservación.
+
+1\. Las especies incluidas en el Listado serán objeto de un seguimiento específico por parte de las comunidades autónomas en sus ámbitos territoriales con el fin de realizar una evaluación periódica de su estado de conservación. Este seguimiento se realizará de forma coordinada para aquellas especies que comparten los mismos problemas de conservación, determinadas afinidades ambientales, hábitat o ámbitos geográficos.
+
+2\. La evaluación del estado de conservación de las especies será realizada por la comunidad autónoma o ciudad con estatuto de autonomía en cuyo territorio se localicen dichas especies. En el caso de que la especie se distribuya por el territorio de más de una comunidad autónoma, el MARM y las comunidades autónomas adoptarán los mecanismos de coordinación que procedan a través de la Comisión Estatal para el Patrimonio Natural y Biodiversidad. La evaluación incluirá información sobre la evolución del área de distribución de la especie y el estado de conservación de sus poblaciones, con especial referencia a las estadísticas de capturas o recolección, muertes accidentales y a una valoración de su incidencia sobre la viabilidad de la especie.
+
+3\. Para el caso de especies incluidas en la categoría «en peligro de extinción» del Catálogo, la evaluación incluirá, siempre que sea posible, información sobre los siguientes aspectos:
+
+a) Cambios en su área de distribución, tanto de ocupación como de presencia.
+
+b) Dinámica y viabilidad poblacional.
+
+c) Situación del hábitat, incluyendo una valoración de la calidad, extensión, grado de fragmentación, capacidad de carga y principales amenazas.
+
+d) Evaluación de los factores de riesgo.
+
+4\. La evaluación de las especies del Listado se efectuará al menos cada seis años. Para las especies incluidas en el Catálogo y a no ser que la estrategia de la especie señale una periodicidad distinta, las evaluaciones se efectuarán como máximo cada seis años para las especies consideradas como «vulnerables» y cada tres años para las especies consideradas como «en peligro de extinción». Para facilitar la emisión de los informes requeridos por la Comisión Europea en cumplimiento del artículo 17.1 de la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitat naturales y de la fauna y flora silvestres, y del artículo 12 de la Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres, para aquellas especies del Listado afectadas por los mencionados artículos, se procurará que ambos informes coincidan en el tiempo.
+
+5\. De acuerdo a los artículos 47 y 53.3 de la Ley 42/2007, de 13 de diciembre, las comunidades autónomas comunicarán al MARM los cambios significativos en el estado de conservación de las especies de interés comunitario prioritarias y del Anexo IV de la Ley 42/2007, de 13 de diciembre, que se detecten en su ámbito geográfico.
+
+#### Artículo 10. Consideración de situación crítica de una especie.
+
+**(Derogado)**.
+
+> Se deroga por la disposición derogatoria única de la Ley 42/2007, de 13 de diciembre, en la redacción dada por el art. único.71 de la Ley 33/2015, de 21 de septiembre. [Ref. BOE-A-2015-10142](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10142).
+
+## CAPÍTULO III — Estrategias y programas de conservación
+
+#### Artículo 11. Estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad.
+
+1\. Las estrategias para la conservación o recuperación de especies se constituyen como criterios orientadores o directrices de los planes de recuperación, en el caso de especies en peligro de extinción, y de los planes de conservación, en el caso de especies vulnerables, que deben elaborar y desarrollar las comunidades autónomas y ciudades con estatuto de autonomía, o el MARM en el ámbito de sus competencias en el medio marino, de acuerdo con el artículo 6 de la Ley 42/2007, de 13 de diciembre.
+
+Las estrategias de lucha contra las amenazas para la biodiversidad se constituyen como criterios orientadores o directrices de los planes de acción u otras medidas análogas de lucha contra las amenazas para la biodiversidad que adopten las comunidades autónomas y ciudades con estatuto de autonomía.
+
+2\. En la elaboración de las estrategias se dará prioridad a las especies en mayor riesgo de extinción y en el caso de las de lucha contra las principales amenazas para la biodiversidad, a las que afecten a un mayor número de especies incluidas en el Catálogo, como son el uso ilegal de sustancias tóxicas, la electrocución y la colisión con tendidos eléctricos o el plumbismo.
+
+Las estrategias de conservación para especies se elaboraran cuando éstas estén incluidas en el Catálogo y estén presentes en más de una comunidad autónoma o ciudad con estatuto de autonomía. Las estrategias de lucha contra las amenazas para la biodiversidad serán elaboradas para aquellas amenazas de ámbito estatal o que afecten a más de una comunidad autónoma o ciudad con estatuto de autonomía.
+
+3\. En el caso de especies amenazadas que compartan similares distribuciones geográficas, hábitat, requerimientos ecológicos o problemáticas de conservación, podrán elaborarse estrategias multiespecíficas y, en consecuencia, los planes de recuperación y de conservación podrían tener el mismo carácter.
+
+Los planes de recuperación o conservación para las especies o poblaciones que vivan exclusivamente o en alta proporción en espacios naturales protegidos, Red Natura 2000 o en áreas protegidas por instrumentos internacionales, podrán ser articulados a través de las correspondientes figuras de planificación y gestión de dichos espacios, pudiendo adoptar un similar contenido al reseñado en el siguiente apartado.
+
+4\. Las estrategias tendrán al menos el siguiente contenido:
+
+a) Identificación de la especie (s) o amenaza (s) para la biodiversidad objeto de la estrategia.
+
+b) Delimitación del ámbito geográfico de aplicación.
+
+c) Identificación y descripción de los factores limitantes o de amenaza para la especie o para la biodiversidad.
+
+d) Evaluación de las actuaciones realizadas.
+
+e) Diagnóstico del estado de conservación en el caso de especies.
+
+f) Finalidad a alcanzar, con objetivos cuantificables.
+
+g) Criterios para la delimitación y ubicación de las áreas críticas en el caso de especies.
+
+h) Criterios orientadores sobre la compatibilidad entre los requerimientos de las especies y los usos y aprovechamientos del suelo.
+
+i) Acciones recomendadas para eliminar o mitigar el efecto de los factores limitantes o de amenaza identificados.
+
+j) Periodicidad de actualización.
+
+5\. Las estrategias serán elaboradas por la Dirección General y las comunidades autónomas y las ciudades con estatuto de autonomía en el marco de los comités especializados de la Comisión y serán aprobadas por la Conferencia Sectorial de Medio Ambiente, a propuesta de la Comisión, previa consulta al Consejo Estatal para el Patrimonio Natural y la Biodiversidad. Las estrategias serán publicadas en el Boletín Oficial del Estado.
+
+6\. La Dirección General se encargará de coordinar la aplicación de las estrategias, pudiendo prestar asistencia técnica y financiera a las comunidades autónomas y ciudades con estatuto de autonomía, a través del Fondo para el Patrimonio Natural y la Biodiversidad. A través de este Fondo también se podrán cofinanciar los planes derivados de las estrategias, en los términos que se establezcan en los correspondientes convenios con las comunidades autónomas y ciudades con estatuto de autonomía.
+
+#### Artículo 12. Conservación ex situ y propagación de especies silvestres amenazadas.
+
+1\. Como complemento a la conservación in situ y siempre que las condiciones de la población silvestre lo permitan, la Comisión promoverá la realización de programas de cría en cautividad, de conservación ex situ o de propagación fuera de su hábitat natural, para las especies incluidas en el Catálogo en cuya estrategia, o en cuyos correspondientes planes de conservación o recuperación, figure esta medida, dando prioridad a las especies endémicas españolas incluidas en la categoría en peligro de extinción del Catálogo. Estos programas estarán dirigidos a la constitución de reservas genéticas y/o a la obtención de ejemplares aptos para su reintroducción al medio natural. En cualquier caso, la necesidad de realizar programas de cría en cautividad o conservación ex situ, deberá haber sido previamente recomendada en un estudio o en un análisis de viabilidad poblacional.
+
+2\. El MARM, en el marco de lo estipulado en el artículo 4 a) de la Ley 31/2003, de 27 de octubre, de conservación de la fauna silvestre en los parques zoológicos, podrá establecer, en coordinación con las comunidades autónomas y ciudades con estatuto de autonomía, los mecanismos financieros pertinentes para incentivar la participación de las instituciones y organizaciones sin ánimo de lucro, los parques zoológicos, los acuarios, los jardines botánicos y los centros públicos y privados de investigación o conservación, en los programas de cría en cautividad y propagación de especies amenazadas.
+
+3\. A efectos de lo dispuesto en el artículo 59.2 de la Ley 42/2007, de 13 de diciembre, la Comisión acordará la designación y condiciones de los centros de referencia a nivel nacional, siendo la Dirección General quien ejerza la coordinación de los respectivos programas de conservación ex situ.
+
+4\. La Comisión promoverá la existencia de una red de bancos de material biológico y genético, dando prioridad a la preservación de material biológico y genético procedente de especies endémicas amenazadas.
+
+5\. Las comunidades autónomas y ciudades con estatuto de autonomía deberán mantener un registro de los bancos de material biológico y genético de especies silvestres sitos en su territorio, con información actualizada sobre las colecciones de material biológico y genético de fauna y flora silvestres que mantengan en sus instalaciones.
+
+#### Artículo 13. Reintroducción de especies.
+
+1\. En el caso de la reintroducción de especies extinguidas en un determinado ámbito territorial de las que aún existen poblaciones silvestres o en cautividad, y que sean susceptibles de extenderse por varias comunidades autónomas, deberá existir un programa de reintroducción, que deberá ser presentado a la Comisión, previo informe del Comité de Flora y Fauna Silvestres, y ser aprobado posteriormente por la Conferencia Sectorial de Medio Ambiente. En el caso de proyectos de reintroducción de especies en el ámbito de una comunidad autónoma y siempre que estas especies no sean susceptibles de extenderse por otras comunidades autónomas, los proyectos únicamente se comunicarán a la Comisión.
+
+2\. La valoración de la conveniencia de realizar o no un programa de reintroducción de una especie susceptible de extenderse por varias comunidades autónomas se basará en una evaluación que tendrá en cuenta:
+
+a) Las experiencias previas realizadas con la misma o parecidas especies.
+
+b) Las recomendaciones contenidas en las directrices internacionales más actuales y en los criterios orientadores elaborados conjuntamente por el MARM y las comunidades autónomas, en el ámbito del Comité de Flora y Fauna Silvestres.
+
+c) Una adecuada participación y audiencia pública.
+
+En la citada evaluación se consultará al comité científico, el cuál emitirá un dictamen sobre el carácter y validez científica del programa de reintroducción. El Comité de Flora y Fauna Silvestres, como comité técnico que analiza y eleva propuestas a la Comisión, elaborará un dictamen técnico de valoración del cumplimiento o adecuación del programa de reintroducción a las condiciones del anterior apartado.
+
+3\. El programa de reintroducción deberá figurar en la estrategia de conservación de la especie. En el caso de que no existiese estrategia para la especie deberá incluirse en los correspondientes planes aprobados por las comunidades autónomas y ciudades con estatuto de autonomía.
+
+4\. En las áreas de potencial reintroducción o expansión de las especies objeto de los programas de reintroducción se fijarán medidas de conservación e instrumentos de gestión específicos para estas áreas o integrados en otros planes, con el fin de evitar afecciones negativas para las especies que hayan motivado la designación de estas áreas.
+
+#### Artículo 14. Cooperación con las comunidades autónomas.
+
+El MARM podrá proporcionar y convenir con las comunidades autónomas y ciudades con estatuto de autonomía la prestación de ayuda técnica y económica para la elaboración de los distintos planes de recuperación, conservación, acción o reintroducción y para la ejecución de las medidas en ellos contempladas.
+
+#### Artículo 15. Cooperación internacional para la conservación de especies amenazadas.
+
+En el ámbito de los acuerdos y convenios internacionales ratificados por España, el MARM colaborará con otros países en la elaboración y aplicación de actuaciones contenidas en las estrategias y planes internacionales de acción para las especies amenazadas, dando prioridad a las especies en mayor riesgo de extinción a nivel mundial, a aquellas especies que más interesen a España por su cercanía biogeográfica y a aquellas que revistan un potencial interés para nuestro país.
+
+El MARM en coordinación con la Agencia Española de Cooperación Internacional para el Desarrollo, del Ministerio de Asuntos Exteriores y de Cooperación, promoverá el desarrollo de las actuaciones contempladas en las estrategias y planes internacionales de especies amenazadas, mediante la financiación de acciones y proyectos específicos, contribuciones extraordinarias a organismos internacionales u cualquier otro mecanismo.
+
+#### Disposición adicional primera. Competencias sobre biodiversidad marina en relación a este real decreto.
+
+En relación con el contenido de este real decreto, el ejercicio de las funciones administrativas en lo referente a biodiversidad marina se ejercerá de conformidad con lo dispuesto en el artículo 6 de la Ley 42/2007, de 13 de diciembre, y al artículo 28.h de la Ley 41/2010, de 29 de diciembre, de Protección del Medio Marino. Corresponde al Gobierno la inclusión, cambio de categoría o exclusión de especies marinas en el Listado de Especies Silvestres en Régimen de Protección Especial así como en el Catálogo Español de Especies Amenazadas.
+
+A los efectos de lo establecido en el artículo 6.b) de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad, se considera especie marina altamente migratoria, toda población o cualquier parte de la población separada geográficamente de cualquier especie o taxón inferior de animales marinos silvestres, cuya proporción significativa de miembros crucen de forma cíclica y previsible la frontera marítima jurisdiccional española. Dichas especies son generalmente capaces de desplazarse distancias relativamente amplias, y las poblaciones de esas especies posiblemente se encuentran regularmente tanto en el ámbito geográfico del mar territorial y la zona económica exclusiva como en alta mar.
+
+#### Disposición adicional segunda. Especies introducidas accidental o ilegalmente fuera de su área de distribución natural.
+
+Las obligaciones contenidas en los artículos 9 y 11 de esta norma no serán de aplicación en el caso de especies del Listado y Catálogo introducidas accidental o ilegalmente fuera de sus áreas de distribución natural. En los casos en que estas especies incidan negativamente en la biodiversidad o produzcan perjuicios significativos en actividades económicas, las comunidades autónomas y las ciudades con estatuto de autonomía afectadas podrán solicitar la exclusión o adaptación en sus respectivos ámbitos territoriales de la protección jurídica de las poblaciones de estas especies.
+
+#### Disposición adicional tercera. Aprobación de Criterios para la inclusión de taxones y poblaciones en el Catálogo Español de Especies Amenazadas.
+
+Los criterios orientadores para la inclusión de taxones y poblaciones en el Catálogo Español de Especies Amenazadas serán aprobados por el Gobierno y publicados en el Boletín Oficial del Estado, tras la consulta a la Comisión Estatal para el Patrimonio Natural y la Biodiversidad y al Consejo Estatal para el Patrimonio Natural y la Biodiversidad.
+
+#### Disposición transitoria única. Estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad aprobadas.
+
+Las estrategias de conservación de especies amenazadas y de lucha contra las principales amenazas para la biodiversidad aprobadas con anterioridad a la entrada en vigor de este real decreto que no se ajusten a lo dispuesto en el artículo 57 de la Ley 42/2007, de 13 de diciembre, deberán adaptarse a ésta, para lo que se procederá, si la adaptación o actualización fuera necesaria, según lo previsto en el artículo 10 de este real decreto. En el plazo de un año la Comisión Estatal para el Patrimonio Natural y la Biodiversidad deberá revisar las estrategias ya aprobadas para determinar si debe realizarse dicha adaptación.
+
+Asimismo, las estrategias de conservación de especies y de lucha contra las principales amenazas para la biodiversidad aprobadas con anterioridad a la entrada en vigor de este real decreto deberán publicarse en el Boletín Oficial del Estado.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 439/1990, de 30 de marzo, de regulación del Catálogo Nacional de Especies Amenazadas y la Orden de 29 de agosto de 1996, Orden de 9 de julio de 1998, Orden de 9 de junio de 1999, Orden de 10 de marzo de 2000, Orden de 28 de mayo de 2001, Orden MAM/2734/2002, de 21 de octubre, Orden MAM/1653/2003, de 10 de marzo, Orden MAM/2784/2004, de 28 de mayo, Orden MAM/2231/2005, de 27 de junio y Orden MAM/1498/2006, de 26 de abril.
+
+#### Disposición final primera. Título competencial.
+
+Este real decreto tiene carácter de legislación básica sobre protección del medio ambiente, de conformidad con lo dispuesto en el artículo 149.1.23 de la Constitución Española.
+
+#### Disposición final segunda. Facultad de desarrollo.
+
+Sin perjuicio de lo dispuesto en el párrafo segundo de la disposición final octava de la Ley 42/2007, de 13 de diciembre, se faculta al titular del Ministerio de Medio Ambiente y Medio Rural y Marino, en el ámbito de su competencia, a modificar, mediante Orden Ministerial, el anexo con el fin de actualizarlo y, en su caso, adaptarlo a la normativa comunitaria.
+
+#### Disposición final tercera. Entrada en vigor
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 4 de febrero de 2011.
+
+JUAN CARLOS R.
+
+La Ministra de Medio Ambiente, y Medio Rural y Marino,
+
+ROSA AGUILAR RIVERO
+
+## ANEXO — Relación de Especies incluidas en el Listado de Especies Silvestres en Régimen de Protección Especial y en su caso, en el Catálogo Español de Especies Amenazadas
+
+| Nombre científico | Nombre común | Población referida | Categoría del Catálogo |
+|---|---|---|---|
+| FLORA |  |  |  |
+| TRACHEOPHYTA |  |  |  |
+| Ophioglossaceae |  |  |  |
+| *Botrychium matricariifolium* |  |  | En peligro de extinción |
+| PTERIDOPHYTA |  |  |  |
+| Aspleniaceae |  |  |  |
+| *Asplenium hemionitis* | Hierba candíl |  |  |
+| Aspidiaceae |  |  |  |
+| *Dryopteris corleyi* |  |  |  |
+| Blechnaceae |  |  |  |
+| *Woodwardia radicans* | Píjara |  |  |
+| Dicksoniaceae |  |  |  |
+| *Culcita macrocarpa* | Helecho de colchonero |  |  |
+| Dryopteridaceae |  |  |  |
+| *Diplazium caudatum* | Helecho de sombra | Canarias | Vulnerable |
+| *Diplazium caudatum* | Helecho de sombra | Península | En peligro de extinción |
+| Hymenophyllaceae |  |  |  |
+| *Hymenophylum wilsoni* |  |  | En peligro de extinción |
+| *Trichomanes speciosum* | Helecho de cristal |  |  |
+| Isoetaceae |  |  |  |
+| *Isoetes boryana* |  |  |  |
+| Marsileaceae |  |  |  |
+| *Marsilea batardae* |  |  | En peligro de extinción |
+| *Marsilea quadrifolia* | Trébol de cuatro hojas |  | En peligro de extinción |
+| *Marsilea strigosa* |  |  |  |
+| *Pilularia minuta* |  |  |  |
+| Ophioglossaceae |  |  |  |
+| *Ophioglossum polyphylum* | Lenguaserpiente foliosa |  |  |
+| Pteridaceae |  |  |  |
+| *Pteris incompleta* | Helecha de monte | Canarias | Vulnerable |
+| *Pteris incompleta* | Helecha de monte | Península | En peligro de extinción |
+| *Pellaea calomelanos.* |  |  | En peligro de extinción |
+| Psilotaceae |  |  |  |
+| *Psilotum nudum* subsp. *molesworthiae* | Helecho escoba |  | En peligro de extinción |
+| Thelypteridaceae |  |  |  |
+| *Christella dentata* | Helecha |  | En peligro de extinción |
+| Woodsiaceae |  |  |  |
+| *Woodsia pulchella* |  |  | En peligro de extinción |
+| GIMNOSPERMAS |  |  |  |
+| Cupressaceae |  |  |  |
+| *Juniperus cedrus* |  |  | Vulnerable |
+| *Tetraclinis articulata* |  |  |  |
+| ANGIOSPERMAS |  |  |  |
+| Alismataceae |  |  |  |
+| *Luronium natans* |  |  | En peligro de extinción |
+| Amaryllidaceae |  |  |  |
+| *Narcissus asturiensis* | Narciso de Asturias |  |  |
+| *Narcissus cyclamineus* |  |  |  |
+| *Narcissus fernandesii* |  |  |  |
+| *Narcissus humilis* |  |  |  |
+| *Narcissus pseudonarcissus* subsp. *nobilis* |  |  |  |
+| *Narcissus triandrus* |  |  |  |
+| *Narcissus viridiflorus* |  |  |  |
+| *Narcissus longispathus* |  |  | En peligro de extinción |
+| *Narcissus nevadensis* | Narciso de Villafuerte |  | En peligro de extinción |
+| Aquifoliaceae |  |  |  |
+| *Ilex perado* subsp. *lopezlilloi* | Naranjero salvaje gomero |  | En peligro de extinción |
+| Asclepidaceae |  |  |  |
+| *Caraluma burchardii* | Cuernúa |  |  |
+| *Ceropegia chrysantha* |  |  |  |
+| *Ceropegia dichotoma* subsp.*krainzii* | Cardoncillo gomero |  |  |
+| *Asparagaceae* |  |  |  |
+| *Asparagus macrorrhizus*Pedrol, Regalado *et* López-Encina (2013) | Esparraguera del Mar Menor. |  | En peligro de extinción |
+| *Asteraceae* |  |  |  |
+| *Avellara fistulosa*(Brot.) Blanca & C. Díaz. | Chicoria hueca |  | En peligro de extinción |
+| Boraginaceae |  |  |  |
+| *Cerinthe glabra* |  |  | En peligro de extinción |
+| *Echium gentianoides* | Taginaste palmero de cumbre |  |  |
+| *Echium pininana* | Pininana |  |  |
+| *Echium handiense* | Taginaste de Jandía |  | En peligro de extinción |
+| *Glandora oleifolia*(=*Lithodora oleifolia)* |  |  | Vulnerable |
+| *Gyrocaryum oppositiflorum*Valdés | Nomevés |  | En peligro de extinción |
+| *Lappula deflexa* |  |  | En peligro de extinción |
+| *Lithodora nitida* |  |  | En peligro de extinción |
+| *Omphalodes littoralis* subsp. *gallaecica* |  |  |  |
+| Campanulaceae |  |  |  |
+| *Jasione lusitanica* | Botón azul |  |  |
+| Caprifoliaceae |  |  |  |
+| *Sambucus palmensis* | Saúco canario |  |  |
+| Caryophyllaceae |  |  |  |
+| *Arenaria alfacarensis* | Planta piedra |  |  |
+| *Arenaria nevadensis* | Arenaria |  | En peligro de extinción |
+| *Dianthus rupicola* |  |  |  |
+| *Moehringia fontqueri* |  |  |  |
+| *Petrocoptis grandiflora* |  |  |  |
+| *Petrocoptis montsicciana* |  |  |  |
+| *Petrocoptis pseudoviscosa* |  |  | Vulnerable |
+| *Silene hifacensis*Rouy ex Willk | Silene de Ifach, Silene d’Ifac. |  | Vulnerable |
+| *Silene mariana* |  |  |  |
+| *Silene nocteolens* | Canutillo del Teide |  | Vulnerable |
+| *Silene sennenii* |  |  | En peligro de extinción |
+| *Celastraceae* |  |  |  |
+| *Gymnosporia cryptopetala*Reyes-Bet. y Santos | Peralillo espino, Artisco |  |  |
+| Cistaceae |  |  |  |
+| *Cistus chinamadensis* | Amagante de Chinamada |  |  |
+| *Cistus heterophyllus (=C.h.carthaginensis)* | Jara de Cartagena |  | En peligro de extinción |
+| *Helianthemum alypoides* |  |  |  |
+| *Helianthemum caput-felis* |  |  | Vulnerable |
+| *Helianthemum bramweliorum* | Jarilla de Guinate |  | En peligro de extinción |
+| *Helianthemum bystropogophyllum* | Jarilla peluda |  | En peligro de extinción |
+| *Helianthemum gonzalezferreri* | Jarilla de Famara |  | En peligro de extinción |
+| *Helianthemum inaguae* | Jarilla de Inagua |  | En peligro de extinción |
+| *Helianthemum juliae* | Jarilla de Las Cañadas |  | En peligro de extinción |
+| *Helianthemum teneriffae* | Jarilla de Agache |  | En peligro de extinción |
+| Compositae |  |  |  |
+| *Argyranthemum lidi* | Margarita de Lid |  | En peligro de extinción |
+| *Argyranthemum sundingii* | Magarza de Sunding |  | En peligro de extinción |
+| *Argyranthemum winteri* | Margarita de Jandía |  | Vulnerable |
+| *Artemisia granatensis* | Manzanilla de Sierra Nevada |  | En peligro de extinción |
+| *Aster pyrenaeus* | Estrella de los Pirineos |  | En peligro de extinción |
+| *Atractylis arbuscula* | Cancelillo |  | En peligro de extinción |
+| *Atractylis preauxiana* | Piña de mar |  | En peligro de extinción |
+| *Carduncellus dianius* | Cardón | Baleares | En peligro de extinción |
+| *Carduus myriacanthus* |  |  |  |
+| *Centaurea avilae* | Centaurea de Gredos |  |  |
+| *Centaurea borjae* |  |  | En peligro de extinción |
+| *Centaurea citricolor* |  |  |  |
+| *Centaurea boissieri* subsp. *spachii* |  |  |  |
+| *Centaurea gadorensis* |  |  |  |
+| *Centaurea pulvinata* |  |  |  |
+| *Cheirolophus duranii* | Cabezón herreño |  | En peligro de extinción |
+| *Cheirolophus falcisectus* | Cabezón de Güi-Güí |  | En peligro de extinción |
+| *Cheirolophus ghomerytus* | Cabezón gomero |  | Vulnerable |
+| *Cheirolophus junonianus* | Cabezón de Teneguía |  |  |
+| *Cheirolophus metlesicsi* | Cabezón de Añavingo |  | En peligro de extinción |
+| *Cheirolophus santos-abreui* | Cabezón de las Nieves |  | En peligro de extinción |
+| *Cheirolophus satarataensis* | Cabezón de Sataratá |  |  |
+| *Cheirolophus sventeni* subsp. *gracilis* | Cabezón de Tijarafe |  | En peligro de extinción |
+| *Cheirolophus tagananensis* | Cabezón de Taganana |  |  |
+| *Crepis granatensis* |  |  |  |
+| *Crepis pusilla* |  |  |  |
+| *Erigeron frigidus* |  |  |  |
+| *Femeniasia balearica* | Socarrell bord |  | Vulnerable |
+| *Helichrysum alucense* | Yesquera de Aluce |  | En peligro de extinción |
+| *Helichrysum gossypinum* | Yesquera amarilla |  |  |
+| *Helichrysum monogynum* | Yesquera roja |  |  |
+| *Hieracium queraltense* |  |  | Vulnerable |
+| *Hieracium recoderi* |  |  | Vulnerable |
+| *Hieracium texedense* |  |  | En peligro de extinción |
+| *Hieracium vinyasianum* |  |  | Vulnerable |
+| *Hymenostemma pseudoanthemis* |  |  |  |
+| *Hypochoeris oligocephala* | Lechuguilla de El Fraile |  | En peligro de extinción |
+| *urinea fontqueri* |  |  | En peligro de extinción |
+| *Leontodon boryi* |  |  |  |
+| *Leontodon microcephalus* |  |  |  |
+| *Onopordum carduelinum* | Cardo de Tenteniguada |  | En peligro de extinción |
+| *Onopordum nogalesii* | Cardo de Jandía |  | En peligro de extinción |
+| *Pericallis appendiculata* | Alamillo de Doramas | Gran Canaria | En peligro de extinción |
+| *Pericallis hadrosoma* | Flor de mayo leñosa |  | En peligro de extinción |
+| *Picris wilkommi* |  |  |  |
+| *Pulicaria burchardii* | Dama |  | En peligro de extinción |
+| *Santolina elegans* |  |  |  |
+| *Santolina semidentata* |  |  |  |
+| *Senecio hermosae* | Turgiate gomero |  |  |
+| *Senecio nevadensis* |  |  |  |
+| *Senecio elodes* | Cineraria |  | En peligro de extinción |
+| *Sonchus gandogeri* | Cerrajón de El Golfo |  | Vulnerable |
+| *Stemmacantha cynaroides* | Cardo de plata |  | En peligro de extinción |
+| *Sventenia bupleuroides* | Lechugón de Sventenius |  |  |
+| *Tanacetum oshanahanii* | Margarza de Guayedra |  | En peligro de extinción |
+| *Tanacetum ptarmiciflorum* | Magarza plateada |  | Vulnerable |
+| *Tolpis glabrescens* | Lechuguilla de Chinobre |  | En peligro de extinción |
+| Convolvulaceae |  |  |  |
+| *Convolvulus caput-medusae* | Chaparro canario |  |  |
+| *Convolvulus lopezsocasi* | Corregüelón de Famara |  | Vulnerable |
+| *Convolvulus subauriculatus* | Corregüelón gomero |  | En peligro de extinción |
+| Crassulaceae |  |  |  |
+| *Aeonium balsamiferum* | Bejeque farrobo |  |  |
+| *Aeonium gomerense* | Bejeque gomero |  |  |
+| *Aeonium saundersii* | Bejequillo peludo de La Gomera |  |  |
+| *Boleum asperum* |  |  |  |
+| *Monanthes wildpretii* | Pelotilla de Chinamada |  |  |
+| Cruciferae |  |  |  |
+| *Alyssum fastigiatum* |  |  | En peligro de extinción |
+| *Coincya rupestris* subsp. *rupestris* |  |  | En peligro de extinción |
+| *Coronopus navasi* |  |  | En peligro de extinción |
+| *Crambe arborea* | Colderrisco de Güimar |  |  |
+| *Crambe laevigata* | Colderrisco de Teno |  |  |
+| *Crambe scoparia* | Colderrisco de La Aldea |  |  |
+| *Crambe sventeni* | Colino majorero |  | En peligro de extinción |
+| *Diplotaxis siettiana* | Jaramago de Alborán |  | En peligro de extinción |
+| *Diplotaxis ibicensis* |  |  |  |
+| *Jonopsidium savianum* |  |  |  |
+| *Lepidium cardamines* |  |  |  |
+| *Parolinia schizogynoides* | Dama de Argaga |  |  |
+| *Sisymbrium cavanillesianum* |  |  |  |
+| Dioscoreaceae |  |  |  |
+| *Borderea chouardii* |  |  | En peligro de extinción |
+| Dracaenaceae |  |  |  |
+| *Dracaena draco* | Drago |  |  |
+| *Dracaena tamaranae* | Drago de Gran Canaria, Drago |  | En peligro de extinción |
+| Euphorbiaceae |  |  |  |
+| *Euphorbia bourgeauana* | Tabaiba amarilla de Tenerife |  | En peligro de extinción |
+| *Euphorbia handiensis* | Cardón de Jandía |  |  |
+| *Euphorbia lambii* | Tabaiba amarilla de La Gomera |  |  |
+| *Euphorbia margalidiana* | Lletrera |  | Vulnerable |
+| *Euphorbia mellifera* | Tabaiba de Monteverde |  | En peligro de extinción |
+| *Euphorbia nevadensis* subsp. *nevadensis* |  |  |  |
+| *Euphorbia transtagana* |  |  |  |
+| *Fabaceae* |  |  |  |
+| *Lotus gomerythus*A. Portero, J. Martín-Carbajal y R. Mesa | Pico paloma gomero |  | En peligro de extinción |
+| Gentianaceae |  |  |  |
+| *Centaurium rigualii* |  |  |  |
+| *Centaurium somedanum* | Centaura de Somiedo |  | Vulnerable |
+| *Gentiana angustifolia,*subsp. *angustifolia* |  |  | En peligro de extinción |
+| Geraniaceae |  |  |  |
+| *Erodium astragaloides* |  |  | En peligro de extinción |
+| *Erodium foetidum* |  |  | En peligro de extinción |
+| *Erodium paularense* | Geranio del Paular, Erodio de Cañamares |  | Vulnerable |
+| *Erodium rupicola* | Alfirelillo de Sierra Nevada |  | Vulnerable |
+| Globulariaceae |  |  |  |
+| *Globularia ascanii* | Mosquera de Tamadaba |  | En peligro de extinción |
+| *Globularia sarcophyla* | Mosquera de Tirajana |  | En peligro de extinción |
+| Graminae |  |  |  |
+| *Festuca brigantina* |  |  |  |
+| *Festuca elegans* |  |  |  |
+| *Festuca summilusitana* |  |  |  |
+| *Gaudinia hispanica* |  |  |  |
+| *Holcus setiglumis* subsp. *duriensis* |  |  |  |
+| *Micropyropsis tuberosa* |  |  |  |
+| *Puccinellia pungens* |  |  | Vulnerable |
+| *Vulpia fontquerana* |  |  | Vulnerable |
+| *Hydrocharitaceae* |  |  |  |
+| *Hydrocharis morsus-ranae L.* | Bocado de rana, Corazones de agua. |  | En peligro de extinción |
+| Iridaceae |  |  |  |
+| *Iris boissieri* |  |  |  |
+| Labiatae |  |  |  |
+| *Dracocephalum austriacum* |  |  | En peligro de extinción |
+| *Micromeria glomerata* | Tomillo de Taganana |  | En peligro de extinción |
+| *Micromeria leucantha* | Tomillón blanco |  |  |
+| *Rosmarinus tomentosus* |  |  |  |
+| *Salvia herbanica* | Conservilla majorera |  | En peligro de extinción |
+| *Sideritis cystosiphon* | Chajorra de Tamaimo |  | En peligro de extinción |
+| *Sideritis glauca* |  |  |  |
+| *Sideritis discolor* | Salvia blanca de Doramas |  | En peligro de extinción |
+| *Sideritis infernalis* | Chajorra de Adeje |  |  |
+| *Sideritis javalambrensis* |  |  |  |
+| *Sideritis marmorea* | Chajorra de Aluce |  |  |
+| *Sideritis serrata* |  |  | En peligro de extinción |
+| *Stachys maritima* |  |  | En peligro de extinción |
+| *Teucrium charidemi* |  |  |  |
+| *Teucrium turredanum* |  |  |  |
+| *Teucrium lepicephalum* |  |  | Vulnerable |
+| *Thymus carnosus* |  |  |  |
+| *Thymus loscosi* | Tomillo sanjuanero |  |  |
+| *Thymus albicans* | Almoradux, Mejorana |  | En peligro de extinción |
+| Leguminosae |  |  |  |
+| *Adenocarpus ombriosus* | Codeso herreño |  |  |
+| *Anagyris latifolia* | Oro de risco |  | En peligro de extinción |
+| *Anthylis hystrix* |  |  |  |
+| *Astragalus nitidiflorus* |  |  | En peligro de extinción |
+| *Astragalus tremolsianus* |  |  |  |
+| *Cicer canariensis* | Garbancera canaria |  | Vulnerable |
+| *Dorycnium spectabile* | Trébol de risco rosado |  | En peligro de extinción |
+| *Genista benehoavensis* | Retamón palmero |  |  |
+| *Genista dorycnifolia* |  |  |  |
+| *Lotus berthelotii* | Picopaloma |  | En peligro de extinción |
+| *Lotus calis-viridis* | Corazoncillo del Andén Verde |  |  |
+| *Lotus eremiticus* | Picocernícalo |  | En peligro de extinción |
+| *Lotus kunkelii* | Yerbamuda de Jinámar |  | En peligro de extinción |
+| *Lotus maculatus* | Pico de El Sauzal |  | En peligro de extinción |
+| *Lotus pyranthus* | Pico de Fuego |  | En peligro de extinción |
+| *Medicago citrina* | Mielga real |  | Vulnerable |
+| *Teline nervosa* | Gildana peluda |  | En peligro de extinción |
+| *Teline rosmarinifolia* | Gildana del Risco Blanco |  |  |
+| *Teline rosmarinifolia* subsp. *Eurifolia* | Gildana de Faneque |  | En peligro de extinción |
+| *Teline salsoloides* | Retamón de El Fraile |  | En peligro de extinción |
+| *Vicia bifoliolata* | Vessa |  | Vulnerable |
+| Lentibulariaceae |  |  |  |
+| *Pinguicula nevadensis* |  |  |  |
+| Liliaceae |  |  |  |
+| *Allium grosi* |  |  |  |
+| *Androcymbium europaeum* |  |  |  |
+| *Androcymbium psammophilum* | Cebollín estrellado de jable |  |  |
+| *Androcymbium hierrense* | Cebollín |  | En peligro de extinción |
+| *Asparagus fallax* | Esparraguera de monteverde |  | En peligro de extinción |
+| *Ornithogalum reverchoni* |  |  |  |
+| Lythraceae |  |  |  |
+| *Lythrum flexuosum* | Jopillo |  |  |
+| Malvaceae |  |  |  |
+| *Kosteletzkya pentacarpos* |  |  |  |
+| Myricaceae |  |  |  |
+| *Myrica rivas-martinezi* | Faya herreña |  | En peligro de extinción |
+| Nymphaeaceae |  |  |  |
+| *Nuphar pumila subsp.pumila* | Nenúfar amarillo pequeño |  | En peligro de extinción |
+| Orchidaceae |  |  |  |
+| *Cypripedium calceolus* | Zapatito de dama, Esclops |  | En peligro de extinción |
+| *Himantoglossum metlesicsianum* | Orquídea de Tenerife |  | En peligro de extinción |
+| *Orchis provincialis* |  |  |  |
+| *Spiranthes aestivalis* |  |  |  |
+| Orobanchaceae |  |  |  |
+| *Orobanche densiflora* |  |  |  |
+| *Pedicularis comosa,*subsp.*asparagoides* |  |  | Vulnerable |
+| Paeoniaceae |  |  |  |
+| *Paeonia cambessedesi* |  |  |  |
+| Papaveraceae |  |  |  |
+| *Rupicapnos africana* subsp. *Decipiens* | Conejitos |  | En peligro de extinción |
+| *Sarcocapnos baetica* subsp. *Baetica* | Zapaticos de la Virgen |  | Vulnerable |
+| *Sarcocapnos baetica* subsp. *Integriflora* |  |  | Vulnerable |
+| *Sarcocapnos speciosa* | Hierba de la Lucía |  | En peligro de extinción |
+| Plantaginaceae |  |  |  |
+| *Gadoria falukei*Güemes y Mota | Dragoncito de la Sierra de Gádor |  | En peligro de extinción |
+| *Plantago algarbiensis* |  |  |  |
+| *Plantago cornuti* |  |  | En peligro de extinción |
+| *Plantago famarae* | Pinillo de Famara |  | Vulnerable |
+| Plumbaginaceae |  |  |  |
+| *Armeria euscadiensis* |  |  |  |
+| *Armeria velutina* |  |  |  |
+| *Limonium arborescens* | Siempreviva arbórea |  |  |
+| *Limonium dendroides* | Siempreviva gigante |  | En peligro de extinción |
+| *Limonium dodarti* |  |  |  |
+| *Limonium fruticans* | Siempreviva de El Fraile |  |  |
+| *Limonium geronense* |  |  | Vulnerable |
+| *Limonium magallufianum* | Saladina |  |  |
+| *Limonium majoricum* | Siempreviva |  |  |
+| *Limonium malacitanum* | Siempreviva malagueña |  | En peligro de extinción |
+| *Limonium ovalifolium* | Acelga salvaje |  |  |
+| *Limonium perezi* | Siempreviva de Masca |  |  |
+| *Limonium perplexum*L. Sáez y Rosselló | Saladilla de Peñíscola,<br>Ensopeguera d’Irta |  | Vulnerable |
+| *Limonium pseudodictyocladum* | Saladina |  | En peligro de extinción |
+| *Limonium preauxii* | Siempreviva lunaria |  |  |
+| *Limonium spectabile* | Siempreviva de Guelgue |  | En peligro de extinción |
+| *Limonium sventenii* | Siempreviva azul |  | Vulnerable |
+| *Limonium vigoi* |  |  | En peligro de extinción |
+| Posidoniaceae |  |  |  |
+| *Posidonia oceanica<sup>1</sup>* | Posidonia oceánica | Mediterráneo |  |
+| Poligalaceae |  |  |  |
+| *Polygala vayredae* |  |  | Vulnerable |
+| Polygonaceae |  |  |  |
+| *Rumex rupestris* | Labaça de ribeira |  |  |
+| Primulaceae |  |  |  |
+| *Androsace cylindrica* |  |  |  |
+| *Androsace pyrenaica* |  |  | Vulnerable |
+| *Androsace rioxana,*A. Segura, 1973 | Androsela riojana |  | En peligro de extinción |
+| *Lysimachia minoricensis* | Lisimaquia menorquina |  | En peligro de extinción |
+| *Soldanela villosa* |  |  |  |
+| Ranunculaceae |  |  |  |
+| *Aquilegia paui* |  |  | En peligro de extinción |
+| *Aquilegia pyrenaica* subsp.*cazorlensis* | Aguileña de Cazorla |  | En peligro de extinción |
+| *Delphinium bolosi* | Esperó de Bolós |  | En peligro de extinción |
+| *Delphinium montanum* |  |  | Vulnerable |
+| *Ranunculus parnassifolius* |  |  |  |
+| *Ranunculus weylerii* | Botó d’or |  | Vulnerable |
+| Resedaceae |  |  |  |
+| *Reseda jacquinii,*subsp.*litigiosa* |  |  | Vulnerable |
+| Rosaceae |  |  |  |
+| *Bencomia brachystachya* | Bencomia de Tirajana |  | En peligro de extinción |
+| *Bencomia exstipulata* | Bencomia de cumbre |  | En peligro de extinción |
+| *Bencomia sphaerocarpa* | Bencomia herreña |  | En peligro de extinción |
+| *Dendriopoterium pulidoi* | Algafitón de La Aldea |  |  |
+| Rubiaceae |  |  |  |
+| *Galium viridiflorum* |  |  |  |
+| Rutaceae |  |  |  |
+| *Ruta microcarpa* | Ruda gomera |  | En peligro de extinción |
+| Santalaceae |  |  |  |
+| *Kunkeliella canariensis* | Escobilla de Guayadeque |  | En peligro de extinción |
+| *Kunkeliella psilotoclada* | Escobilla |  | En peligro de extinción |
+| *Kunkeliella subsucculenta* | Escobilla carnosa |  | En peligro de extinción |
+| Saxifragaceae |  |  |  |
+| *Saxifraga vayredana* |  |  |  |
+| Sapotaceae |  |  |  |
+| *Sideroxylon marmulano* | Marmolán |  |  |
+| Scrophulariaceae |  |  |  |
+| *Antirrhinum charidemi* |  |  |  |
+| *Anthirrhinum lopesianum* |  |  |  |
+| *Isoplexis chalcantha* | Crestagallo de Doramas |  | En peligro de extinción |
+| *Isoplexis isabelliana* | Crestagallo de pinar |  | En peligro de extinción |
+| *Linaria tursica* |  |  | Vulnerable |
+| *Lindernia procumbens* |  |  |  |
+| *Odontites granatensis* |  |  |  |
+| *Veronica micrantha* |  |  |  |
+| Solanaceae |  |  |  |
+| *Atropa baetica* | Tabaco gordo |  | En peligro de extinción |
+| *Normania nava* |  |  | En peligro de extinción |
+| *Solanum lidi* | Pimentero de Temisas |  | En peligro de extinción |
+| *Solanum vespertilio* subsp. *doramae* | Rejalgadera de Doramas |  | En peligro de extinción |
+| Thymelaeaceae |  |  |  |
+| *Daphne alpina* |  |  | En peligro de extinción |
+| *Daphne rodriguezi* | Dafne menorquí |  | Vulnerable |
+| *Thymelaea broteriana* | Pajarera portuguesa |  |  |
+| *Thymelaea lythroides* |  |  | Vulnerable |
+| *Typhaceae* |  |  |  |
+| *Sparganium natans L.* | Esparganio acuático, Platanaria de agua |  | En peligro de extinción |
+| Umbelliferae |  |  |  |
+| *Apium repens* |  |  |  |
+| *Apium bermejoi* | Api d’En Bermejo |  | En peligro de extinción |
+| *Bupleurum handiense* | Anís de Jandía |  |  |
+| *Eryngium viviparum* | Cardillo de laguna, cardillo vivíparo |  | Vulnerable |
+| *Ferula latipinna* | Cañaheja herreña |  |  |
+| *Laserpitium longiradium* |  |  | En peligro de extinción |
+| *Naufraga balearica* | Naufraga |  | En peligro de extinción |
+| *Peucedanum schottii* |  |  | En peligro de extinción |
+| *Seseli farrenyii* |  |  | En peligro de extinción |
+| *Seseli intricatum* |  |  | Vulnerable |
+| *Thorella verticillatinundata* |  |  |  |
+| Violaceae |  |  |  |
+| Viola cazorlensis |  |  |  |
+| *Viola cheiranthifolia*Humb. & Bonpl. | Violeta del Teide |  |  |
+| Viola jaubertiana |  |  |  |
+| Zannichelliaceae |  |  |  |
+| *Cymodocea nodosa* | Seba | Mediterráneo y Atlántico de la península Ibérica |  |
+| *Cymodocea nodosa* | Seba | Canarias | Vulnerable |
+| Zosteraceae |  |  |  |
+| Zostera marina |  | Mediterráneo |  |
+| *Nanozostera noltii* | Seba de mar estrecha, Seba fina | Canarias | Vulnerable |
+| *Nanozostera noltii* | Seba de mar estrecha, Seba fina | Mediterráneo y Atlántico de la península Ibérica |  |
+| BRYOPHYTA |  |  |  |
+| *Bruchia vogesiaca* |  |  |  |
+| *Buxbaumia viridis* |  |  | Vulnerable |
+| *Echinodium spinosum* |  |  |  |
+| *Hamatocaulis vernicosus* |  |  |  |
+| *Jungermannia handelii* |  |  |  |
+| *Marsupella profunda* |  |  |  |
+| *Orthotrichum rogeri* |  |  |  |
+| *Petalophylum ralfsii* |  |  |  |
+| *Riela helicophylla* |  |  |  |
+| *Sphagnum pylaisii* |  |  |  |
+| CLOROPHYTA |  |  |  |
+| *Caulerpa ollivieri* |  | Mediterráneo |  |
+| RHODOPHYTA |  |  |  |
+| *Gelidium arbusculum*Bory de Saint-Vincent ex Borgesen, 1927. | Gelidio rojo, Mujo rojo. |  | Vulnerable |
+| *Gelidium canariense*(Grunow) Seoane Camba ex Haroun, Gil-Rodríguez, Díaz de Castro y Prud’homme van Reine, 2002. | Gelidio negro, Mujo negro. |  | Vulnerable |
+| *Gymnogongrus crenulatus* |  | Mediterráneo |  |
+| *Kalymenia spathulata* |  | Mediterráneo |  |
+| *Lythophyllum byssoides* |  | Mediterráneo |  |
+| *Ptilophora mediterranea* |  | Mediterráneo |  |
+| *Schimmelmannia schousboei* |  | Mediterráneo |  |
+| *Sphaerococcus rhizophylloides* |  | Mediterráneo |  |
+| *Tenarea tortuosa* (Esper) Lemoine. |  | Mediterráneo |  |
+| *Titanoderma ramosissimum* (Heydrich) Bressan & Cabioch. |  | Mediterráneo |  |
+| *Titanoderma trochanter* (Bory) Benhissoune *et al.* |  | Mediterráneo |  |
+| HETEROKONTOPHYTA |  |  |  |
+| *Cystoseira* sp. (1) |  | Mediterráneo |  |
+| *Cystoseira abies-marina*(S.G.Gmelin).<br>C. Agardh, 1820. | Mujo amarillo | Canarias | Vulnerable |
+| *Laminaria rodriguezi* |  | Mediterráneo |  |
+| *Sargassum acinarium* |  | Mediterráneo |  |
+| *Sargassum flavifolium* |  | Mediterráneo |  |
+| *Sargassum hornschuchii* |  | Mediterráneo |  |
+| *Sargassum trichocarpum* |  | Mediterráneo |  |
+
+<sup>1</sup> Las comunidades autónomas, o en su caso, la Administración General del Estado podrán reglamentar las operaciones de anclaje de embarcaciones u otras similares.
+
+(1) Se incluyen todas las especies del género, salvo *Cystoseira compressa*.
+
+| Nombre científico | Nombre común | Población referida | Categoría del Catálogo |
+|---|---|---|---|
+| INVERTEBRADOS |  |  |  |
+| ARTROPODA |  |  |  |
+| CRUSTACEA |  |  |  |
+| *Branchiopoda* |  |  |  |
+| *Linderiella baetica*Alonso y García-de-Lomas, 2009 | Gambilusa |  | En peligro de extinción |
+| Decapoda |  |  |  |
+| *Austropotamobius pallipes* | Cangrejo de río |  | Vulnerable |
+| *Munidopsis polymorpha* | Jameíto |  | En peligro de extinción |
+| *Ocypode cursor* (Linnaeus, 1758) |  | Mediterráneo |  |
+| *Pachylasma giganteum* (Philippi, 1836) |  | Mediterráneo |  |
+| *Panulirus echinatus* | Langosta herreña |  | En peligro de extinción |
+| Ostracoda |  |  |  |
+| *Candelacypris aragonica* |  |  | Vulnerable |
+| Nectiopoda |  |  |  |
+| *Speleonectes ondinae* | Remípedo de los jameos |  | En peligro de extinción |
+| INSECTA |  |  |  |
+| Coleoptera |  |  |  |
+| *Buprestis splendens* |  |  | Vulnerable |
+| *Carabus (Mesocarabus) riffensis* |  |  | Vulnerable |
+| *Cerambyx cerdo* |  |  |  |
+| *Chasmatopterus zonatus* |  |  | Vulnerable |
+| *Dorysthenes (Opisognathus) forficatus* |  |  |  |
+| *Cucujus cinnaberinus* |  |  | En peligro de extinción |
+| *Limoniscus violaceus* | Escarabajo resorte |  | Vulnerable |
+| *Lucanus cervus* |  |  |  |
+| *Osmoderma eremita* |  |  | Vulnerable |
+| *Pimelia granulicolis* | Pimelia de las arenas |  | En peligro de extinción |
+| *Rhopalomesites euphorbiae* | Picudo de la tabaiba de monte |  | En peligro de extinción |
+| *Rosalia alpina* |  |  |  |
+| Lepidoptera |  |  |  |
+| *Agriades zullichi* Hemming, 1933 | Alpina de Sierra Nevada, Mariposa del Puerto del Lobo |  |  |
+| *Euchloe bazae* Fabiano, 1993. | Azufrada ibérica, Blanquiverdosa azufrada |  | En peligro de extinción |
+| *Eriogaster catax* |  |  |  |
+| *Euphydryas aurinia* |  |  |  |
+| *Gegenes pumilio*(Hoffmannsegg, 1804) | Veloz balear |  | En peligro de extinción |
+| *Graellsia isabelae* |  |  |  |
+| *Hyles hippophaes* |  |  |  |
+| *Lopinga achine* |  |  |  |
+| *Lycaena helle*(Denis y Schiffermüller, 1775) | Manto violeta |  | En peligro de extinción |
+| *Maculinea arion* |  |  |  |
+| *Maculinea nausithous* | Hormiguera oscura |  | Vulnerable |
+| *Parnassius apollo* |  |  |  |
+| *Parnassius mnemosyne* |  |  |  |
+| *Pyrgus cinarae*(Rambur 1839) | Ajedrezada haltera |  |  |
+| *Pyrgus sidae*(Esper, 1784) | Ajedrezada amarilla |  |  |
+| *Polyommatus golgus* | Niña de Sierra Nevada |  | En peligro de extinción |
+| *Proserpinus proserpina* |  |  |  |
+| Mantodea |  |  |  |
+| *Apteromantis aptera* |  |  |  |
+| Odonata |  |  |  |
+| *Coenagrion mercuriale* |  |  |  |
+| *Gomphus graslinii* |  |  |  |
+| *Leucorrhinia pectoralis* |  |  |  |
+| *Lindenia tetraphylla* |  |  | En peligro de extinción |
+| *Macromia splendens* | Libélula |  | En peligro de extinción |
+| *Ophiogomphus cecilia* | Libélula |  | En peligro de extinción |
+| *Oxygastra curtisii* | Libélula |  | Vulnerable |
+| Orthoptera |  |  |  |
+| *Acrostira euphorbiae* | Cigarrón palo palmero |  | En peligro de extinción |
+| *Baetica ustulata* |  |  | Vulnerable |
+| *Saga pedo* |  |  |  |
+| ARACNIDA |  |  |  |
+| Hexathelidae |  |  |  |
+| *Macrothele calpeiana* |  |  |  |
+| Phalangodidae |  |  |  |
+| *Maiorerus randoi* | Opilión cavernícola majorero |  | En peligro de extinción |
+| MOLLUSCA |  |  |  |
+| GASTROPODA |  |  |  |
+| *Ranela olearia* |  | Mediterráneo |  |
+| *Charonia lampas lampas* | Caracola |  | Vulnerable |
+| *Charonia tritonis variegata* | Bucio | Mediterráneo |  |
+| *Cymbula nigra* |  | Mediterráneo |  |
+| *Dendropoma petraeum* |  |  | Vulnerable |
+| *Elona quimperiana* |  |  |  |
+| *Erosaria spurca* |  | Mediterráneo |  |
+| *Geomalacus maculosus* |  |  |  |
+| *Gibbula nivosa* (Adams, 1851): |  | Mediterráneo |  |
+| *Luria lurida* |  | Mediterráneo |  |
+| *Mitra zonata* |  | Mediterráneo |  |
+| *Monilearia arguineguinensis*(Seddon y Aparicio 1998) | Caracol chato de Arguineguín |  | Vulnerable |
+| *Nucela lapilus* |  |  |  |
+| *Patella candei candei* | Lapa majorera |  | En peligro de extinción |
+| *Patela ferruginea* | Lapa ferruginea |  | En peligro de extinción |
+| *Patella ulyssiponensis aspera* |  |  |  |
+| *Schilderia achatidea* |  | Mediterráneo |  |
+| *Tonna galea* | Tonel | Mediterráneo |  |
+| Tritia tingitana (Pallary, 1901). | Caracolilla de Tánger |  | Vulnerable |
+| *Vertigo angustior* |  |  |  |
+| *Vertigo moulinsiana* |  |  |  |
+| *Zonaria pyrum* |  | Mediterráneo |  |
+| BIVALVIA |  |  |  |
+| Anisomyaria |  |  |  |
+| *Lithophaga lithophaga* |  | Mediterráneo |  |
+| *Pholas dactylus* |  | Mediterráneo |  |
+| *Pinna nobilis* | Nacra, Nácar |  | Vulnerable |
+| *Pinna rudis* |  | Mediterráneo |  |
+| Pterioida |  |  |  |
+| *Pinna nobilis* Linnaeus, 1758. | Nacra común. |  | En peligro de extinción |
+| Unionoida |  |  |  |
+| *Margaritifera auricularia* | Margaritona |  | En peligro de extinción |
+| *Margaritifera margaritifera* | Náyade de río, madreperla de río |  | En peligro de extinción |
+| *Unio ravoisieri, (*antes*U. elongatulus).* | Náyade del noroeste |  | En peligro de extinción |
+| *Unio tumidiformis (*antes *U. crassus)* | Náyade túmida |  | Vulnerable |
+| *Unio mancus* | Náyade mediterránea |  | Vulnerable |
+| ECHINODERMATA |  |  |  |
+| *Asterina pancerii* | Estrella del capitán pequeña |  |  |
+| *Centrostephanus longispinus* |  |  |  |
+| *Ophidiaster ophidianus* | Estrella púrpura | Mediterráneo |  |
+| CNIDARIA |  |  |  |
+| Antozoa |  |  |  |
+| *Astroides calycularis* | Coral naranja |  | Vulnerable |
+| *Antipathella subpinnata*(Ellis & Solander, 1786). | Coral negro | Mediterráneo |  |
+| *Antipathes dichotoma*Pallas, 1766. | Coral negro ramificado | Mediterráneo |  |
+| *Callogorgia verticillata*(Pallas,1766). | Gorgonia abanico. | Mediterráneo. |  |
+| *Cladocora caespitosa*(Linnaeus, 1767). | Madrépora mediterránea. |  |  |
+| *Cladocora debilis*Milne Edwards & Haime, 1849. | Coralito débil. | Mediterráneo. |  |
+| *Dendrophyllia cornigera* (Lamarck, 1816) | Coral amarillo | Mediterráneo |  |
+| *Dendrophyllia ramea* (Linnaeus, 1758) | Coral naranja, Coral árbol | Mediterráneo |  |
+| *Desmophyllum dianthus* (Esper, 1794) | Coral cresta de gallo | Mediterráneo |  |
+| *Ellisella paraplexauroides*Stiasny, 1936. | Gorgonia candelabro. | Mediterráneo. |  |
+| *Errina aspera* |  | Mediterráneo |  |
+| *Isidella elongata* (Esper, 1788) | Coral bambú, Gorgonia articulada | Mediterráneo |  |
+| *Leiopathes glaberrima*(Esper, 1788). | Coral negro anaranjado. | Mediterráneo. |  |
+| *Lophelia pertusa*(Linnaeus, 1758). | Coral blanco duro. | Mediterráneo. |  |
+| *Madrepora oculata*Linnaeus, 1758. | Coral blanco frágil. | Mediterráneo. |  |
+| *Parantipathes larix*(Esper, 1788). | Coral negro mediterráneo. | Mediterráneo. |  |
+| *Savalia savaglia* |  | Mediterráneo |  |
+| BRYOZOA |  |  |  |
+| *Hornera lichenoides* |  | Mediterráneo |  |
+| PORIFERA |  |  |  |
+| *Aplysina* sp. (2) |  | Mediterráneo |  |
+| *Asbestopluma hypogea* |  | Mediterráneo |  |
+| *Axinella cannabina* |  | Mediterráneo |  |
+| *Axinela polypoides* |  | Mediterráneo |  |
+| *Geodia cydonium* |  | Mediterráneo |  |
+| *Petrobiona massiliana* (Vacelet & Lévi, 1958) |  | Mediterráneo |  |
+| *Sarcophagus pipetta* |  | Mediterráneo |  |
+| *Sarcotragus foetidus*Schmidt, 1862. | Esponja negra | Mediterráneo |  |
+| *Tethya* sp. (2) |  | Mediterráneo |  |
+| PECES |  |  |  |
+| PETROMYZONTIFORMES |  |  |  |
+| Petromyzontidae |  |  |  |
+| *Lampetra planeri* | Lamprea de arroyo |  | Vulnerable |
+| *Petromyzon marinus* | Lamprea marina | Ríos Guadiana, Guadalquivir y Ebro y Cuenca Sur | En peligro de extinción |
+| CARCHARHINIFORMES |  |  |  |
+| Sphyrnidae<sup>2</sup> |  |  |  |
+| Triakidae |  |  |  |
+| *Galeorhinus galeus* | Cazón | Mediterráneo |  |
+| LAMNIFORMES |  |  |  |
+| Lamnidae |  |  |  |
+| *Carcharias taurus* (Rafinesque, 1810) | Tiburón toro, Toro bacota | Mediterráneo |  |
+| *Carcharodon carcharias* | Tiburón blanco | Mediterráneo |  |
+| *Isurus oxyrinchus* | Marrajo común | Mediterráneo |  |
+| *Lamna nasus* | Cailón | Mediterráneo |  |
+| Cetorhinidae |  |  |  |
+| *Cetorhinus maximus* | Tiburón peregrino | Mediterráneo y Atlántico ibérico |  |
+| Alopiidae<sup>2</sup> |  |  |  |
+| Odontaspididdae |  |  |  |
+| *Odontaspis ferox* (Risso, 1810) | Solrayo | Mediterráneo |  |
+| RAJIFORMES |  |  |  |
+| Rajidae |  |  |  |
+| *Dipturus batis* (Linnaeus, 1758) | Noriega | Mediterráneo |  |
+| *Leucoraja circularis* | Raya falsa vela | Mediterráneo |  |
+| *Leucoraja melitensis* | Raya de Malta | Mediterráneo |  |
+| *Rostroraja alba* (Lacépéde, 1803) | Raya blanca, Raya bramante | Mediterráneo |  |
+| *Rhinobatidae* |  |  |  |
+| *Rhinobatos cemiculus* | Guitarra barbanegra | Mediterráneo |  |
+| *Rhinobatos rhinobatos* | Guitarra común | Mediterráneo |  |
+| Gymnuridae |  |  |  |
+| *Gymnura altavela* (Linnaeus, 1758) | Raya mariposa, Mantellina | Mediterráneo |  |
+| Pristidae |  |  |  |
+| *Pristis pectinata* (Latham, 1794) | Pez sierra | Mediterráneo |  |
+| *Pristis pristis* (Linnaeus, 1758) | Pez sierra, Pejesierra | Mediterráneo |  |
+| Mobulidae |  |  |  |
+| *Mobula mobular* | Manta | Mediterráneo |  |
+| SQUALIFORMES |  |  |  |
+| Oxynotidae |  |  |  |
+| *Oxynotus centrina* (Linnaeus, 1758) | Cerdo marino | Mediterráneo |  |
+| SQUATINIFORMES |  |  |  |
+|  |  |  |  |
+| Squatinidae |  |  |  |
+| *Squatina aculeata* (Dumeril, en Cuvier, 1817) | Angelote espinoso | Mediterráneo |  |
+| *Squatina oculata* (Bonaparte, 1840) | Angelote manchado | Mediterráneo |  |
+| *Squatina squatina* (Linnaeus, 1758) | Angelote | Mediterráneo |  |
+| *Squatina squatina* (Linnaeus, 1758). | Angelote | Canarias | En peligro de extinción |
+| *Squatina oculata*Bonaparte, 1840. | Angelote manchado | Canarias | En peligro de extinción |
+| *Squatina aculeata*Cuvier, 1829. | Angelote espinoso | Canarias | En peligro de extinción |
+| SYNGNATHIFORMES |  |  |  |
+| Syngnathidae |  |  |  |
+| *Hippocampus guttulatus (=H. ramulosus)* | Caballito de mar | Mediterráneo y Atlántico ibérico |  |
+| *Hippocampus hippocampus* | Caballito de mar | Mediterráneo y Atlántico ibérico |  |
+| TETRAODONTIFORMES |  |  |  |
+| Diodontidae |  |  |  |
+| *Chilomycterus atringa* | Tamboril espinoso |  | Vulnerable |
+| ACIPENSERIFORMES |  |  |  |
+| Acipenseridae |  |  |  |
+| *Acipenser sturio* | Esturión |  | En peligro de extinción |
+| CYPRINIFORMES |  |  |  |
+| Cyprinidae |  |  |  |
+| *Anaecypris hispanica* | Jarabugo |  | En peligro de extinción |
+| *Chondrostoma arcasii* | Bermejuela |  |  |
+| *Parachondrostoma arrigonis (=Chondrostoma arrigonis)* | Loína |  | En peligro de extinción |
+| *Squalius palaciosi (=Iberocypris palaciosi)* | Bogardilla |  | En peligro de extinción |
+| CYPRINIDONTIFORMES |  |  |  |
+| Cyprinodontidae |  |  |  |
+| *Aphanius baeticus* | Salinete, Fartet atlántico |  | En peligro de extinción |
+| *Aphanius iberus* | Fartet |  | En peligro de extinción |
+| Valenciidae |  |  |  |
+| *Valencia hispanica* | Samaruc |  | En peligro de extinción |
+| PERCIFORMES |  |  |  |
+| Blenniidae |  |  |  |
+| *Salaria fluviatilis (= Blennius fluviatilis)* | Fraile |  | Vulnerable |
+| SCORPAENIFORMES |  |  |  |
+| Cottidae |  |  |  |
+| *Cottus aturi (= C. gobio)* | Burtaina |  | En peligro de extinción |
+| *Cottus hispaniolensis (= C. gobio)* | Cavilat |  | En peligro de extinción |
+| CHONDRICHTHYES |  |  |  |
+| *Dasyatidae* |  |  |  |
+| *Bathytoshia lata*(Garman, 1880) | Raya marrón | Mediterráneo |  |
+| *Dasyatis pastinaca*(Linnaeus, 1758) | Pastinaca, Raya látigo común, Chucho | Mediterráneo |  |
+| Myliobatidae |  |  |  |
+| *Aetomylaeus bovinus* (É. Geoffroy Saint-Hilaire, 1817) | Raya toro, Pez obispo | Mediterráneo |  |
+| *Odontaspididae* |  |  |  |
+| *Carcharias taurus*Rafinesque, 1810 | Tiburón toro, Tiburón toro bacota | Todas |  |
+| *Rhinopteridae* |  |  |  |
+| *Rhinoptera marginata*Geoffroy, 1817 | Gavilán lusitánico, Pez arzobispo | Mediterráneo |  |
+| ANFIBIOS |  |  |  |
+| CAUDATA |  |  |  |
+| Salamandridae |  |  |  |
+| *Chioglossa lusitanica* | Salamandra rabilarga |  | Vulnerable |
+| *Calotriton arnoldi* | Tritón del Montseny |  | En peligro de extinción |
+| *Calotriton (Euproctus) asper* | Tritón pirenaico |  |  |
+| *Lissotriton boscai (antes Triturus boscai)* | Tritón ibérico |  |  |
+| *Lissotriton helveticus (antes Triturus helveticus)* | Tritón palmeado |  |  |
+| *Mesotriton alpestris (antes Triturus alpestris)* | Tritón alpino |  | Vulnerable |
+| *Pleurodeles waltl* | Gallipato |  |  |
+| *Salamandra algira* | Salamandra norteafricana |  | Vulnerable |
+| *Triturus marmoratus* | Tritón jaspeado |  |  |
+| *Triturus pygmaeus* | Tritón pigmeo |  |  |
+| ANURA |  |  |  |
+| Alytidae |  |  |  |
+| *Alytes cisternasi* | Sapo partero ibérico |  |  |
+| *Alytes dickhileni* | Sapo partero bético |  | Vulnerable |
+| *Alytes muletensis* | Ferreret |  | En peligro de extinción |
+| *Alytes obstetricans* | Sapo partero común |  |  |
+| *Discoglossus galganoi* | Sapillo pintojo ibérico |  |  |
+| *Discoglossus jeanneae* | Sapillo pintojo meridional |  |  |
+| *Discoglossus pictus* | Sapillo pintojo mediterráneo |  |  |
+| Ranidae |  |  |  |
+| *Rana dalmatina* | Rana ágil |  | Vulnerable |
+| *Rana iberica* | Rana patilarga |  |  |
+| *Rana pyrenaica* | Rana pirenaica |  | Vulnerable |
+| *Rana temporaria* | Rana bermeja |  |  |
+| Pelobatidae |  |  |  |
+| *Pelobates cultripes* | Sapo de espuelas |  |  |
+| Pelodytidae |  |  |  |
+| *Pelodytes ibericus (antes P. punctatus)* | Sapillo moteado ibérico |  |  |
+| *Pelodytes punctatus* | Sapillo moteado común |  |  |
+| Hylidae |  |  |  |
+| *Hyla arborea* | Ranita de San Antón |  |  |
+| *Hyla meridionalis* | Ranita meridional | Península y Baleares |  |
+| Bufonidae |  |  |  |
+| *Bufo calamita* | Sapo corredor |  |  |
+| *Bufo balearicus (= Bufo viridis)* | Sapo verde balear |  |  |
+| REPTILES |  |  |  |
+| CHELONIA |  |  |  |
+| Testudinidae |  |  |  |
+| *Testudo graeca* | Tortuga mora |  | Vulnerable |
+| *Testudo hermanni* | Tortuga mediterránea | Baleares |  |
+| *Testudo hermanni* | Tortuga mediterránea | Península | En peligro de extinción |
+| Cheloniidae |  |  |  |
+| *Caretta caretta* | Tortuga boba |  | Vulnerable |
+| *Chelonia mydas* | Tortuga verde |  |  |
+| *Eretmochelys imbricata* | Tortuga carey |  |  |
+| *Lepidochelys kempii* | Tortuga golfina |  |  |
+| *Lepidochelys olivacea* (Eschscholtz, 1829). | Tortuga olivácea. |  |  |
+| Dermochelyidae |  |  |  |
+| *Dermochelys coriacea* | Tortuga laúd |  |  |
+| Emydidae |  |  |  |
+| *Emys orbicularis*(Linnaeus, 1758) | Galápago europeo |  | Vulnerable |
+| Bataguridae |  |  |  |
+| *Mauremys leprosa* | Galápago leproso |  |  |
+| SAURIA |  |  |  |
+| Chamaeleonidae |  |  |  |
+| *Chamaeleo chamaeleon* | Camaleón común |  |  |
+| Gekkonidae |  |  |  |
+| *Hemidactylus turcicus* | Salamanquesa rosada | Península y Baleares |  |
+| *Tarentola angustimentalis* | Perenquén majorero |  |  |
+| *Tarentola boettgeri* | Perenquén de Gran Canaria |  |  |
+| *Tarentola delalandi* | Perenquén común |  |  |
+| *Tarentola gomerensis* | Perenquén gomero ó Pracan |  |  |
+| *Tarentola mauritanica* | Salamanquesa común |  |  |
+| Scincidae |  |  |  |
+| *Chalcides bedriagai* | Eslizón ibérico |  |  |
+| *Chalcides colosii* | Eslizón rifeño |  |  |
+| *Chalcides pseudostriatus* | Eslizón tridáctilo del Atlas |  |  |
+| *Chalcides sexlineatus* | Lisa grancanaria |  |  |
+| *Chalcides simonyi* | Lisneja |  | Vulnerable |
+| *Chalcides striatus (antes Chalcides chalcides)* | Eslizón tridáctilo |  |  |
+| *Chalcides viridanus* | Lisa dorada |  |  |
+| Lacertidae |  |  |  |
+| *Acanthodactylus erythrurus* | Lagartija colirroja |  |  |
+| *Algyroides marchi* | Lagartija de Valverde |  | Vulnerable |
+| *Gallotia atlantica* | Lagarto atlántico |  |  |
+| *Gallotia gomerana* | Lagarto gigante de La Gomera |  | En peligro de extinción |
+| *Gallotia galloti insulanagae* | Lagarto tizón |  | Vulnerable |
+| *Gallotia intermedia* | Lagarto gigante de Tenerife |  | En peligro de extinción |
+| *Gallotia simonyi* | Lagarto gigante de El Hierro |  | En peligro de extinción |
+| *Gallotia stehlini* | Lagarto gigante de Gran Canaria |  |  |
+| *Iberolacerta aranica (antes Lacerta aranica)* | Lagartija aranesa |  | En peligro de extinción |
+| *Iberolacerta aurelioi (antes Lacerta aurelioi)* | Lagartija pallaresa |  | En peligro de extinción |
+| *Iberolacerta bonnali (antes Lacerta bonnali)* | Lagartija pirenaica |  | Vulnerable |
+| *Iberolacerta cyreni* | Lagartija carpetana |  |  |
+| *Iberolacerta martinezricai*(Arribas, 1996) | Lagartija batueca |  | En peligro de extinción |
+| *Iberolacerta galani*Arribas, Carranza y Odierna, 2006 (antes incluida en *Iberolacerta**monticola)* | Lagartija leonesa |  | Vulnerable |
+| *Lacerta agilis* | Lagarto ágil |  | En peligro de extinción |
+| *Lacerta bilineata (=Lacerta viridis bilineata)* | Lagarto verde |  |  |
+| *Lacerta schreiberi* | Lagarto verdinegro |  |  |
+| *Podarcis vaucheri (antes Podarcis hispanica)* | Lagartija andaluza |  |  |
+| *Podarcis lilfordi* | Lagartija balear |  |  |
+| *Podarcis muralis* | Lagartija roquera |  |  |
+| *Podarcis pityusensis* | Lagartija de las Pitiusas |  |  |
+| *Podarcis sicula* | Lagartija italiana | Menorca |  |
+| *Psammodromus algirus* | Lagartija colilarga |  |  |
+| *Psammodromus hispanicus* | Lagartija cenicienta |  |  |
+| *Timon lepidus (antes Lacerta lepida)* | Lagarto ocelado |  |  |
+| *Timon tangitanus (antes Lacerta tangitana)* | Lagarto ocelado del Atlas |  |  |
+| *Zootoca vivipara* | Lagartija de turbera |  |  |
+| Amphisbaenidae |  |  |  |
+| *Blanus cinereus* | Culebrilla ciega |  |  |
+| *Blanus tingitanus* | Culebrilla ciega de Tánger |  |  |
+| Trogonophidae |  |  |  |
+| *Trogonophis wiegmanni* | Culebrilla mora elegans |  |  |
+| Anguidae |  |  |  |
+| *Anguis fragilis* | Lución |  |  |
+| OPHIDIA |  |  |  |
+| Colubridae |  |  |  |
+| *Coronella austriaca* | Culebra lisa europea |  |  |
+| *Coronella girondica* | Culebra lisa meridional |  |  |
+| *Hemorrhois hippocrepis (antes Coluber hippocrepis)* | Culebra de herradura |  |  |
+| *Hierophis viridiflavus (antes Coluber viridiflavus)* | Culebra verdiamarilla |  |  |
+| *Macroprotodon brevis (antes M. cucullatus)* | Culebra de cogulla occidental |  |  |
+| *Macroprotodon mauritanicus (antes M. cucullatus)* | Culebra de cogulla oriental |  |  |
+| *Natrix maura* | Culebra viperina | Península, Ceuta y Melilla. |  |
+| *Natrix natrix* | Culebra de collar |  |  |
+| *Rhinechis scalaris (antes Elaphe scalaris)* | Culebra de escalera |  |  |
+| *Zamenis longissimus (antes Elaphe longissima)* | Culebra de Esculapio |  |  |
+| Viperidae |  |  |  |
+| *Vipera latastei* | Víbora hocicuda |  |  |
+| AVES |  |  |  |
+| GAVIIFORMES |  |  |  |
+| Gaviidae |  |  |  |
+| *Gavia arctica* | Colimbo ártico |  |  |
+| *Gavia immer* | Colimbo grande |  |  |
+| *Gavia stellata* | Colimbo chico |  |  |
+| PODICIPEDIFORMES |  |  |  |
+| Podicipedidae |  |  |  |
+| *Podiceps auritus* | Zampullín cuellirrojo |  |  |
+| *Podiceps cristatus* | Somormujo lavanco |  |  |
+| *Podiceps nigricolis* | Zampullín cuellinegro |  |  |
+| *Tachybaptus ruficollis* | Zampullín común |  |  |
+| PROCELLARIIFORMES |  |  |  |
+| Procellariidae |  |  |  |
+| *Bulweria bulweri* | Petrel de Bulwer |  |  |
+| *Calonectris borealis*(Cory, 1881). | Pardela cenicienta atlántica. |  |  |
+| *Calonectris diomedea borealis* | Pardela cenicienta | Atlántico |  |
+| *Calonectris diomedea diomedea* | Pardela cenicienta |  | Vulnerable |
+| *Fulmarus glacialis* | Fulmar boreal |  |  |
+| *Puffinus assimilis* | Pardela chica |  | Vulnerable |
+| *Puffinus gravis* | Pardela capirotada |  |  |
+| *Puffinus griseus* | Pardela sombría |  |  |
+| *Puffinus mauretanicus* | Pardela balear |  | En peligro de extinción |
+| *Puffinus puffinus* | Pardela pichoneta |  | Vulnerable |
+| *Puffinus yelkouan* | Pardela mediterránea |  |  |
+| Hydrobatidae |  |  |  |
+| *Hydrobates pelagicus* | Paíño europeo |  |  |
+| *Oceanodroma castro* | Paíño de Madeira |  | Vulnerable |
+| *Oceanodroma leucorhoa* | Paíño boreal |  |  |
+| *Pelagodroma marina* | Paíño pechialbo, Bailarín |  | Vulnerable |
+| PELECANIFORMES |  |  |  |
+| Phalacrocoridae |  |  |  |
+| *Phalacrocorax aristotelis* | Cormorán moñudo |  | Vulnerable |
+| Sulidae |  |  |  |
+| *Morus bassanus* | Alcatraz atlántico |  |  |
+| Threskiornithidae |  |  |  |
+| *Geronticus eremita* | Ibis eremita. |  |  |
+| CICONIFORMES |  |  |  |
+| Ardeidae |  |  |  |
+| *Ardea cinerea* | Garza real |  |  |
+| *Ardea purpurea* | Garza imperial |  |  |
+| *Ardeola ralloides* | Garcilla cangrejera |  | Vulnerable |
+| *Bubulcus ibis* | Garcilla bueyera |  |  |
+| *Botaurus stellaris* | Avetoro común |  | En peligro de extinción |
+| *Egretta alba* | Garceta grande |  |  |
+| *Egretta garzetta* | Garceta común |  |  |
+| *Ixobrychus minutus* | Avetorillo común |  |  |
+| *Nycticorax nycticorax* | Martinete común |  |  |
+| Ciconidae |  |  |  |
+| *Ciconia ciconia* | Cigüeña blanca |  |  |
+| *Ciconia nigra* | Cigüeña negra |  | Vulnerable |
+| Threskiornithidae |  |  |  |
+| *Platalea leucorodia* | Espátula común |  |  |
+| *Plegadis falcinellus* | Morito común |  |  |
+| PHOENICOPTERIFORMES |  |  |  |
+| Phoenicopteridae |  |  |  |
+| *Phoenicopterus (ruber) roseus* | Flamenco común |  |  |
+| ANSERIFORMES |  |  |  |
+| Anatidae |  |  |  |
+| *Aythya marila* | Porrón bastardo |  |  |
+| *Aythya nyroca* | Porrón pardo |  | En peligro de extinción |
+| *Branta bernicla* | Barnacla carinegra |  |  |
+| *Branta leucopsis* | Barnacla cariblanca |  |  |
+| *Bucephala clangula* | Porrón osculado |  |  |
+| *Marmaronetta angustirostris* | Cerceta pardilla |  | En peligro de extinción |
+| *Oxyura leucocephala* | Malvasía cabeciblanca |  | En peligro de extinción |
+| *Tadoma ferruginea* | Tarro canelo |  |  |
+| *Tadoma tadoma* | Tarro blanco |  |  |
+| FALCONIFORMES |  |  |  |
+| Pandionidae |  |  |  |
+| *Pandion haliaetus* | Águila pescadora |  | Vulnerable |
+| Accipitridae |  |  |  |
+| *Accipiter gentilis* | Azor común |  |  |
+| *Accipiter nisus* | Gavilán común |  |  |
+| *Aegypius monachus* | Buitre negro |  | Vulnerable |
+| *Aquila adalberti* | Águila imperial ibérica |  | En peligro de extinción |
+| *Aquila chrysaetos* | Águila real |  |  |
+| *Buteo buteo* | Ratonero común |  |  |
+| *Circaetus gallicus* | Águila culebrera |  |  |
+| *Circus aeruginosus* | Aguilucho lagunero occidental |  |  |
+| *Circus cyaneus* | Aguilucho pálido |  |  |
+| *Circus pygargus* | Aguilucho cenizo |  | Vulnerable |
+| *Elanus caeruleus* | Elanio común |  |  |
+| *Gypaetus barbatus* | Quebrantahuesos |  | En peligro de extinción |
+| *Gyps fulvus* | Buitre leonado |  |  |
+| *Hieraaetus fasciatus* | Águila perdicera |  | Vulnerable |
+| *Hieraaetus pennatus* | Águila calzada |  |  |
+| *Milvus migrans* | Milano negro |  |  |
+| *Milvus milvus* | Milano real |  | En peligro de extinción |
+| *Neophron percnopterus* | Alimoche común | Península y Baleares | Vulnerable |
+| *Neophron percnopterus majorensis* | Alimoche canario | Canarias | En peligro de extinción |
+| *Pernis apivorus* | Halcón abejero |  |  |
+| Falconidae |  |  |  |
+| *Falco columbarius* | Esmerejón |  |  |
+| *Falco eleonorae* | Halcón de Eleonora |  |  |
+| *Falco naumanni* | Cernícalo primilla |  |  |
+| *Falco peregrinus pelegrinoides.*<br>Temminck, 1829. | Halcón tagarote |  | En peligro de extinción |
+| *Falco peregrinus* | Halcón peregrino |  |  |
+| *Falco subbuteo* | Alcotán europeo |  |  |
+| *Falco tinnunculus* | Cernícalo común |  |  |
+| *Falco vespertinus* | Cernícalo patirrojo |  |  |
+| GALLIFORMES |  |  |  |
+| Phasianidae |  |  |  |
+| *Bonasa bonasia* | Grévol |  |  |
+| *Perdix perdix hispaniensis*Reichenow, 1892. | Perdiz pardilla. | Sistema Ibérico | En peligro de extinción |
+| Tetraonidae |  |  |  |
+| *Lagopus muta* | Lagópodo alpino |  | Vulnerable |
+| *Tetrao urogallus (*Linnaeus 1758) | Urogallo común u occidental (antes Urogallo pirenaico y Urogallo cantábrico). |  | En peligro de extinción |
+| GRUIFORMES |  |  |  |
+| Turnicidae |  |  |  |
+| *Turnix sylvatica* | Torillo |  | En peligro de extinción |
+| Gruidae |  |  |  |
+| *Grus grus* | Grulla común |  |  |
+| Rallidae |  |  |  |
+| *Crex crex* | Guión de codornices |  |  |
+| *Fulica cristata* | Focha cornuda o moruna |  | En peligro de extinción |
+| *Porphyrio porphyrio* | Calamón común |  |  |
+| *Porzana parva* | Polluela bastarda |  |  |
+| *Porzana porzana* | Polluela pintoja |  |  |
+| *Porzana pusilla* | Polluela chica |  |  |
+| Otididae |  |  |  |
+| *Chlamydotis undulata* | Avutarda hubara |  | En peligro de extinción |
+| *Otis tarda* | Avutarda común |  |  |
+| *Tetrax tetrax*(Linnaeus, 1758) | Sisón común |  | En peligro de extinción |
+| CHARADRIIFORMES |  |  |  |
+| Hematopodidae |  |  |  |
+| *Haematopus ostralegus* | Ostrero euroasiático |  |  |
+| Recurvirostridae |  |  |  |
+| *Himantopus himantopus* | Cigüeñuela común |  |  |
+| *Recurvirostra avosetta* | Avoceta común |  |  |
+| Burhinidae |  |  |  |
+| *Burhinus oedicnemus oedicnemus/insularum* | Alcaraván común, Alcaraván majorero | Península, Baleares<br>y Canarias Orientales |  |
+| *Burhinus oedicnemus distinctus* | Alcaraván común | Canarias Centrales<br>y Occidentales | Vulnerable |
+| Glareolidae |  |  |  |
+| *Cursorius cursor* | Corredor sahariano | Península |  |
+| *Cursorius cursor* | Engaña | Canarias | Vulnerable |
+| *Glareola pratincola* | Canastera común |  |  |
+| Charadriidae |  |  |  |
+| *Charadrius alexandrinus* | Chorlitejo patinegro | Península y Baleares |  |
+| *Charadrius alexandrinus* | Chorlitejo patinegro | Canarias | Vulnerable |
+| *Charadrius dubius* | Chorlitejo chico |  |  |
+| *Charadrius hiaticula* | Chorlitejo grande |  |  |
+| *Charadrius (Eudromias) morinellus* | Chorlito carambolo |  | Vulnerable |
+| *Pluvialis apricaria* | Chorlito dorado europeo |  |  |
+| *Pluvialis squatarola* | Chorlito gris |  |  |
+| Scolopacidae |  |  |  |
+| *Actitis hypoleucos* | Andarríos chico |  |  |
+| *Arenaria interpres* | Vuelvepiedras común |  |  |
+| *Calidris alba* | Correlimos tridáctilo |  |  |
+| *Calidris alpina* | Correlimos común |  |  |
+| *Calidris canutus* | Correlimos gordo |  |  |
+| *Calidris ferruginea* | Correlimos zarapitín |  |  |
+| *Calidris maritima* | Correlimos oscuro |  |  |
+| *Calidris minuta* | Correlimos menudo |  |  |
+| *Calidris temmincki* | Correlimos de Temminck |  |  |
+| *Limosa lapponica* | Aguja colipinta |  |  |
+| *Limosa limosa* | Aguja colinegra |  |  |
+| *Numenius arquata* | Zarapito real | Excepto Galicia |  |
+| *Numenius arquata* | Zarapito real | Galicia | En peligro de extinción |
+| *Numenius phaeopus* | Zarapito trinador |  |  |
+| *Numenius tenuirrostris* | Zarapito fino |  |  |
+| *Phalaropus fulicarius* | Faloropo picogrueso |  |  |
+| *Phalaropus lobatus* | Faloropo picofino |  |  |
+| *Philomachus pugnax* | Combatiente |  |  |
+| *Tringa erythropus* | Archibebe oscuro |  |  |
+| *Tringa glareola* | Andarríos bastardo |  |  |
+| *Tringa nebularia* | Archibebe claro |  |  |
+| *Tringa ochropus* | Andarríos grande |  |  |
+| *Tringa stagnatilis* | Archibebe fino |  |  |
+| *Tringa totanus* | Archibebe común |  |  |
+| Stercorariidae |  |  |  |
+| *Stercorarius parasiticus* | Págalo parásito |  |  |
+| *Stercorarius pomarinus* | Págalo pomarino |  |  |
+| *Stercorarius skua* | Págalo grande |  |  |
+| Laridae |  |  |  |
+| *Larus audouini* | Gaviota de Audouin |  | Vulnerable |
+| *Larus canus* | Gaviota cana |  |  |
+| *Larus genei* | Gaviota picofina |  |  |
+| *Larus marinus* | Gavión atlántico |  |  |
+| *Larus melanocephalus* | Gaviota cabecinegra |  |  |
+| *Larus minutus* | Gaviota enana |  |  |
+| *Rissa tridactyla* | Gaviota tridáctila |  |  |
+| Sternidae |  |  |  |
+| *Chlidonias hybridus* | Fumarel cariblanco |  |  |
+| *Chlidonias leucopterus* | Fumarel aliblanco |  |  |
+| *Chlidonias niger* | Fumarel común |  | En peligro de extinción |
+| *Gelochelidon nilotica* | Pagaza piconegra |  |  |
+| *Sterna (Thalasseus) sandvicensis* | Charrán patinegro |  |  |
+| *Sterna albifrons* | Charrancito común |  |  |
+| *Sterna bengalensis*Lesson, 1831. | Charrán bengalí. | Mediterráneo. |  |
+| *Sterna caspia* | Pagaza piquirroja |  |  |
+| *Sterna dougallii* | Charrán rosado |  |  |
+| *Sterna hirundo* | Charrán común |  |  |
+| *Sterna paradisaea* | Charrán ártico |  |  |
+| Alcidae |  |  |  |
+| *Alca torda* | Alca común |  |  |
+| *Fratercula arctica* | Frailecillo atlántico |  |  |
+| *Uria aalge* | Arao común | No reproductora |  |
+| *Uria aalge* | Arao común | Reproductora | En peligro de extinción |
+| PTEROCLIFORMES |  |  |  |
+| Pteroclidae |  |  |  |
+| *Pterocles alchata* | Ganga común |  | Vulnerable |
+| *Pterocles orientalis* | Ortega |  | Vulnerable |
+| COLUMBIFORMES |  |  |  |
+| Columbidae |  |  |  |
+| *Columba bolli* | Paloma turqué |  |  |
+| *Columba junoniae* | Paloma rabiche |  | Vulnerable |
+| CUCULIFORMES |  |  |  |
+| Cuculidae |  |  |  |
+| *Clamator glandarius* | Críalo europeo |  |  |
+| *Cuculus canorus* | Cuco |  |  |
+| STRIGIFORMES |  |  |  |
+| Tytonidae |  |  |  |
+| *Tyto alba alba* | Lechuza común |  |  |
+| *Tyto alba gracilirostris* | Lechuza majorera |  | Vulnerable |
+| Strigidae |  |  |  |
+| *Aegolius funereus* | Mochuelo boreal |  | Vulnerable |
+| *Asio flammeus* | Búho campestre |  |  |
+| *Asio otus* | Búho chico |  |  |
+| *Athene noctua* | Mochuelo común |  |  |
+| *Bubo bubo* | Búho real |  |  |
+| *Otus scops* | Autillo europeo |  |  |
+| *Strix aluco* | Cárabo común |  |  |
+| CAPRIMULGIFORMES |  |  |  |
+| Caprimulagidae |  |  |  |
+| *Caprimulgus europaeus* | Chotacabras europeo |  |  |
+| *Caprimulgus ruficollis* | Chotacabras pardo |  |  |
+| APODIFORMES |  |  |  |
+| Apodidae |  |  |  |
+| *Apus apus* | Vencejo común |  |  |
+| *Apus caffer* | Vencejo cafre |  |  |
+| *Apus melba* | Vencejo real |  |  |
+| *Apus palidus* | Vencejo pálido |  |  |
+| *Apus unicolor* | Vencejo unicolor |  |  |
+| CORACIFORMES |  |  |  |
+| Alcedinidae |  |  |  |
+| *Alcedo atthis* | Martín pescador |  |  |
+| Coraciidae |  |  |  |
+| *Coracias garrulus* | Carraca |  |  |
+| Meropidae |  |  |  |
+| *Merops apiaster* | Abejaruco común |  |  |
+| Upupidae |  |  |  |
+| *Upupa epops* | Abubilla |  |  |
+| PICIFORMES |  |  |  |
+| Picidae |  |  |  |
+| *Dendrocopos leucotos* | Pico dorsiblanco |  | En peligro de extinción |
+| *Dendrocopos major* | Pico picapinos |  |  |
+| *Dendrocopos medius* | Pico mediano |  |  |
+| *Dendrocopos minor* | Pico menor |  |  |
+| *Dryocopus martius* | Pito negro |  |  |
+| *Jynx torquila* | Torcecuello |  |  |
+| *Picus viridis* | Pito real |  |  |
+| PASSERIFORMES |  |  |  |
+| Alaudidae |  |  |  |
+| *Calandrella brachydactyla* | Terrera común |  |  |
+| *Calandrela rufescens* | Terrera marismeña |  |  |
+| *Chersophilus duponti* (Vieillot, 1820) | Alondra de Dupont o ricotí |  | En peligro de extinción |
+| *Galerida cristata* | Cogujada común |  |  |
+| *Galerida theklae* | Cogujada montesina |  |  |
+| *Lullula arborea* | Totovía |  |  |
+| *Melanocorypha calandra* | Calandria común |  |  |
+| Hirundinidae |  |  |  |
+| *Delichon urbicum* | Avión común |  |  |
+| *Hirundo daurica* | Golondrina daúrica |  |  |
+| *Hirundo rustica* | Golondrina común |  |  |
+| *Ptyonoprogne rupestris* | Avión roquero |  |  |
+| *Riparia riparia* | Avión zapador |  |  |
+| Motacillidae |  |  |  |
+| *Anthus bertheloti* | Bisbita caminero |  |  |
+| *Anthus campestris* | Bisbita campestre |  |  |
+| *Anthus cervinus* | Bisbita gorgirrojo |  |  |
+| *Anthus petrosus* | Bisbita costero |  |  |
+| *Anthus pratensis* | Bisbita común |  |  |
+| *Anthus spinoletta* | Bisbita alpino |  |  |
+| *Anthus trivialis* | Bisbita arbóreo |  |  |
+| *Motacilla alba* | Lavandera blanca |  |  |
+| *Motacilla cinerea* | Lavandera cascadeña |  |  |
+| *Motacilla flava* | Lavandera boyera |  |  |
+| Cinclidae |  |  |  |
+| *Cinclus cinclus* | Mirlo acuático |  |  |
+| Troglodytidae |  |  |  |
+| *Troglodytes troglodytes* | Chochín |  |  |
+| Prunellidae |  |  |  |
+| *Prunella colaris* | Acentor alpino |  |  |
+| *Prunella modularis* | Acentor común |  |  |
+| Turdidae |  |  |  |
+| *Cercotrichas galactotes* | Alzacola |  | Vulnerable |
+| *Erithacus rubecula* | Petirrojo |  |  |
+| *Luscinia megarhynchos* | Ruiseñor común |  |  |
+| *Luscinia svecica* | Pechiazul |  |  |
+| *Monticola saxatilis* | Roquero rojo |  |  |
+| *Monticola solitarius* | Roquero solitario |  |  |
+| *Oenanthe hispanica* | Collalba rubia |  |  |
+| *Oenanthe leucura* | Collalba negra |  |  |
+| *Oenanthe oenanthe* | Collalba gris |  |  |
+| *Phoenicurus ochruros* | Colirrojo tizón |  |  |
+| *Phoenicurus phoenicurus* | Colirrojo real |  | Vulnerable |
+| *Saxicola dacotiae* | Tarabilla canaria |  | Vulnerable |
+| *Saxicola rubetra* | Tarabilla norteña |  |  |
+| *Saxicola torquata* | Tarabilla común |  |  |
+| *Turdus torquatus* | Mirlo capiblanco |  |  |
+| Sylviidae |  |  |  |
+| *Acrocephalus arundinaceus* | Carricero tordal |  |  |
+| *Acrocephalus melanopogon* | Carricerín real |  |  |
+| *Acrocephalus paludicola* | Carricerín cejudo |  |  |
+| *Acrocephalus schoenobaenus* | Carricerín común |  |  |
+| *Acrocephalus scirpaceus* | Carricero común |  |  |
+| *Cettia cetti* | Ruiseñor bastardo |  |  |
+| *Cisticola juncidis* | Buitrón |  |  |
+| *Hippolais icterina* | Zarcero icterino |  |  |
+| *Hippolais pallida* | Zarcero pálido |  |  |
+| *Hippolais polyglotta* | Zarcero común |  |  |
+| *Locustela luscinioides* | Buscarla unicolor |  |  |
+| *Locustela naevia* | Buscarla pintoja |  |  |
+| *Phylloscopus bonelli* | Mosquitero papialbo |  |  |
+| *Phylloscopus canariensis* | Mosquitero canario |  |  |
+| *Phylloscopus collybita* | Mosquitero común |  |  |
+| *Phylloscopus ibericus* | Mosquitero ibérico |  |  |
+| *Phylloscopus sibilatrix* | Mosquitero silbador |  |  |
+| *Phylloscopus trochilus* | Mosquitero musical |  |  |
+| *Regulus ignicapillus* | Reyezuelo listado |  |  |
+| *Regulus regulus* | Reyezuelo sencillo |  |  |
+| *Sylvia atricapila* | Curruca capirotada |  |  |
+| *Sylvia borin* | Curruca mosquitera |  |  |
+| *Sylvia cantilans* | Curruca carrasqueña |  |  |
+| *Sylvia communis* | Curruca zarcera |  |  |
+| *Sylvia conspicillata* | Curruca tomillera |  |  |
+| *Sylvia curruca* | Curruca zarcerilla |  |  |
+| *Sylvia hortensis* | Curruca mirlona |  |  |
+| *Sylvia melanocephala* | Curruca cabecinegra |  |  |
+| *Sylvia balearica (= S. sarda)* | Curruca sarda o balear |  |  |
+| *Sylvia undata* | Curruca rabilarga |  |  |
+| Muscicapidae |  |  |  |
+| *Ficedula hypoleuca* | Papamoscas cerrojillo |  |  |
+| *Muscicapa striata* | Papamoscas gris |  |  |
+| Timaliidae |  |  |  |
+| *Panurus biarmicus* | Bigotudo |  |  |
+| Aegithalidae |  |  |  |
+| *Aegithalos caudatus* | Mito |  |  |
+| Paridae |  |  |  |
+| *Periparus ater* | Carbonero garrapinos |  |  |
+| *Cyanistes caeruleus* | Herrerillo común |  |  |
+| *Lophophanes cristatus* | Herrerillo capuchino |  |  |
+| *Parus major* | Carbonero común |  |  |
+| *Poecile palustris* | Carbonero palustre |  |  |
+| Sittidae |  |  |  |
+| *Sitta europaea* | Trepador azul |  |  |
+| Tichodromadidae |  |  |  |
+| *Tichodroma muraria* | Treparriscos |  |  |
+| Certhiidae |  |  |  |
+| *Certhia brachydactyla* | Agateador común |  |  |
+| *Certhia familiaris* | Agateador norteño |  |  |
+| Remizidae |  |  |  |
+| *Remiz pendulinus* | Pájaro moscón |  |  |
+| Oriolidae |  |  |  |
+| *Oriolus oriolus* | Oropéndola |  |  |
+| Laniidae |  |  |  |
+| *Lanius collurio* | Alcaudón dorsirrojo |  |  |
+| *Lanius meridionalis* | Alcaudón real meridional |  |  |
+| *Lanius minor* | Alcaudón chico |  | En peligro de extinción |
+| *Lanius senator* | Alcaudón común |  |  |
+| Corvidae |  |  |  |
+| *Corvus frugilegus*Linnaeus, 1758 | Graja |  |  |
+| *Cyanopica cyanus* | Rabilargo |  |  |
+| *Pyrrhocorax graculus* | Chova piquigualda |  |  |
+| *Pyrrhocorax pyrrhocorax* | Chova piquirroja |  |  |
+| Passeridae |  |  |  |
+| *Montifringila nivalis* | Gorrión alpino |  |  |
+| *Petronia petronia* | Gorrión chillón |  |  |
+| Fringillidae |  |  |  |
+| *Bucanetes githagineus* | Camachuelo trompetero |  |  |
+| *Carduelis spinus* | Lúgano |  |  |
+| *Coccothraustes coccothraustes* | Picogordo |  |  |
+| *Fringilla coelebs* | Pinzón vulgar | Canarias |  |
+| *Fringilla montifringila* | Pinzón real |  |  |
+| *Fringilla teydea polatzeki* | Pinzón azul de Gran Canaria |  | En peligro de extinción |
+| *Fringilla teydea teydea* | Pinzón azul de Tenerife |  | Vulnerable |
+| *Loxia curvirostra* | Piquituerto común |  |  |
+| *Pyrrhula pyrrhula* | Camachuelo común |  |  |
+| *Serinus citrinela* | Verderón serrano |  |  |
+| Emberizidae |  |  |  |
+| *Emberiza cia* | Escribano montesino |  |  |
+| *Emberiza cirlus* | Escribano soteño |  |  |
+| *Emberiza citrinella* | Escribano cerillo |  |  |
+| *Emberiza hortulana* | Escribano hortelano |  |  |
+| *Emberiza schoeniclus schoeniclus* | Escribano palustre |  |  |
+| *Emberiza schoeniclus whiterby/lusitanica* | Escribano palustre |  | En peligro de extinción |
+| *Plectrophenax nivalis* | Escribano nival |  |  |
+| PHAETONTIFORMES |  |  |  |
+| *Phaetontidae* |  |  |  |
+| *Phaethon aethereus mesonauta*Peters, J.L.,1930 | Rabijunco etéreo |  |  |
+| MAMÍFEROS |  |  |  |
+| ERINACEOMORPHA |  |  |  |
+| Erinaceidae |  |  |  |
+| *Atelerix algirus* | Erizo moruno | Península y Baleares |  |
+| SORICOMORPHA |  |  |  |
+| Soricidae |  |  |  |
+| *Crocidura canariensis* | Musaraña canaria |  | Vulnerable |
+| Talpidae |  |  |  |
+| *Galemys pyrenaicus*(É. Geoffroy Saint-Hilaire, 1811) | Desmán ibérico | Todas | En peligro de extinción |
+| CHIROPTERA |  |  |  |
+| Rhinolophidae |  |  |  |
+| *Rhinolophus euryale* | Murciélago mediterrráneo de herradura |  | Vulnerable |
+| *Rhinolophus ferrumequinum* | Murciélago grande de herradura |  | Vulnerable |
+| *Rhinolophus hipposideros* | Murciélago pequeño de herradura |  |  |
+| *Rhinolophus mehelyi* | Murciélago mediano de herradura |  | Vulnerable |
+| Vespertilionidae |  |  |  |
+| *Barbastela barbastellus* | Murciélago de bosque |  |  |
+| *Eptesicus isabelinus (antes E. serotinus)* | Murciélago hortelano mediterráneo |  |  |
+| *Eptesicus serotinus* | Murciélago hortelano |  |  |
+| *Hypsugo savi* | Murciélago montañero |  |  |
+| *Miniopterus schreibersi* | Murciélago de cueva |  | Vulnerable |
+| *Myotis alcathoe (= M. mystacinus)* | Murciélago ratonero bigotudo pequeño |  |  |
+| *Myotis bechsteinii* | Murciélago ratonero forestal |  | Vulnerable |
+| *Myotis blythi* | Murciélago ratonero mediano |  | Vulnerable |
+| *Myotis capaccini* | Murciélago patudo |  | En peligro de extinción |
+| *Myotis daubentoni* | Murciélago ribereño |  |  |
+| *Myotis emarginatus* | Murciélago de Geoffroy o de oreja partida |  | Vulnerable |
+| *Myotis myotis* | Murciélago ratonero grande |  | Vulnerable |
+| *Myotis mystacinus* | Murciélago bigotudo |  | Vulnerable |
+| *Myotis nattereri (=M. escalerai)* | Murciélago de Natterer |  |  |
+| *Myotis punicus* | Murciélago ratonero moruno |  |  |
+| *Nyctalus lasiopterus* | Nóctulo grande |  | Vulnerable |
+| *Nyctalus leisleri* | Nóctulo pequeño |  |  |
+| *Nyctalus noctula* | Nóctulo mediano |  | Vulnerable |
+| *Pipistrellus kuhli* | Murciélago de borde claro |  |  |
+| *Pipistrellus maderensis* | Murciálago de Madeira |  |  |
+| *Pipistrellus nathusi* | Murciélago de Nathusius |  |  |
+| *Pipistrellus pipistrelus* | Murciélago común |  |  |
+| *Pipistrelus pygmaeus* (antes*P. pipistrellus)* | Murciélago de Cabrera |  |  |
+| *Plecotus auritus* | Murciélago orejudo septentrional |  |  |
+| *Plecotus austriacus* | Murciélago orejudo meridional |  |  |
+| *Plecotus macrobularis* | Murciélago orejudo alpino |  |  |
+| *Plecotus teneriffae* | Orejudo canario |  | Vulnerable |
+| Molossidae |  |  |  |
+| *Tadarida teniotis* | Murciélago rabudo |  |  |
+| RODENTIA |  |  |  |
+| *Castoridae* |  |  |  |
+| *Castor fiber*Linnaeus, 1758 | Castor europeo |  |  |
+| Gliridae |  |  |  |
+| *Eliomys munbyanus* | Lirón careto magrebí |  |  |
+| Muridae |  |  |  |
+| *Iberomys*(*Microtus*) *cabrerae*(Thomas, 1906) | Iberón, Topillo de Cabrera |  | Vulnerable |
+| CARNÍVORA |  |  |  |
+| Canidae |  |  |  |
+| *Canis lupus*Linnaeus, 1758. | Lobo | Sur del Duero |  |
+| Ursidae |  |  |  |
+| *Ursus arctos* | Oso pardo |  | En peligro de extinción |
+| Mustelidae |  |  |  |
+| *Lutra lutra* | Nutria |  |  |
+| *Mustela erminea* | Armiño |  |  |
+| *Mustela lutreola* | Visón europeo |  | En peligro de extinción |
+| Felidae |  |  |  |
+| *Felis silvestris* | Gato montés |  |  |
+| *Lynx pardinus* | Lince ibérico |  | En peligro de extinción |
+| Phocidae |  |  |  |
+| *Monachus monachus* | Foca monje del Mediterráneo |  | En peligro de extinción |
+| CETACEA |  |  |  |
+| Balaenopteridae |  |  |  |
+| *Balaenoptera acutorostrata* | Rorcual aliblanco |  | Vulnerable |
+| *Balaenoptera borealis* | Rorcual norteño |  | Vulnerable |
+| *Balaenoptera edeni/brydei* | Rorcual tropical |  |  |
+| *Balaenoptera musculus* | Rorcual azul |  | Vulnerable |
+| *Balaenoptera physalus* | Rorcual común |  | Vulnerable |
+| *Megaptera novaeangliae* | Yubarta |  | Vulnerable |
+| Kogiidae |  |  |  |
+| *Kogia breviceps* | Cachalote pigmeo |  |  |
+| *Kogia sima* | Cachalote enano |  |  |
+| Balaenidae |  |  |  |
+| *Eubalaena glacialis* | Ballena vasca |  | En peligro de extinción |
+| Physeteridae |  |  |  |
+| *Physeter macrocephalus* | Cachalote |  | Vulnerable |
+| Delphinidae |  |  |  |
+| *Delphinus delphis* | Delfín común | Atlántico |  |
+| *Delphinus delphis* | Delfín común | Mediterráneo | Vulnerable |
+| *Globicephala macrorhynchus* | Calderón tropical |  | Vulnerable |
+| *Globicephala melas* | Calderón común | Mediterráneo | Vulnerable |
+| *Globicephala melas* | Calderón común | Atlántico |  |
+| *Grampus griseus* | Calderón gris |  |  |
+| *Lagenodelphis hosei* | Delfín de Fraser |  |  |
+| *Orcinus orca* | Orca | Excepto Estrecho de Gibraltar y Golfo de Cádiz |  |
+| *Orcinus orca* | Orca | Estrecho de Gibraltar y Golfo de Cádiz | Vulnerable |
+| *Pseudorca crassidens* | Falsa orca |  |  |
+| *Stenella coeruleoalba* | Delfín listado |  |  |
+| *Stenella frontalis* | Delfín moteado del Atlántico |  |  |
+| *Steno bredanensis* | Delfín de dientes rugosos |  |  |
+| *Tursiops truncatus* | Delfín mular |  | Vulnerable |
+| Phocoenidae |  |  |  |
+| *Phocoena phocoena*(Linnaeus, 1758) | Marsopa común |  | En peligro de extinción |
+| Ziphiidae |  |  |  |
+| *Hyperoodon ampulatus* | Zifio calderón septentrional |  |  |
+| *Mesoplodon densirostris* | Zifio de Blainville |  |  |
+| *Mesoplodon europaeus* | Zifio de Gervais |  |  |
+| *Mesoplodon mirus* | Zifio de True |  |  |
+| *Ziphius cavirostris*Cuvier, 1823. | Zifio de Cuvier, Zifio común. |  | Vulnerable |
+
+<sup>2</sup> Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
+
+(2) Incluyen todas las especies del género.
+
+> Se modifica por el art. 1 de la Orden TED/452/2025, de 5 de mayo. [Ref. BOE-A-2025-9192](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-9192)
+
+> Se modifica por la disposición final 19 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se modifica por el art. 1 de la Orden TED/339/2023, de 30 de marzo. [Ref. BOE-A-2023-8751](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8751)
+
+> Se modifica por el art. único de la Orden TED/980/2021, de 20 de septiembre. [Ref. BOE-A-2021-15244](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-15244)
+
+> Se modifica por el art. 1 de la Orden TED/1126/2020, de 20 de noviembre. [Ref. BOE-A-2020-15296](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15296)
+
+> Se modifica por el art. único de la Orden TEC/596/2019, de 8 de abril. [Ref. BOE-A-2019-8317](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8317)
+
+> Se modifica por el art. único de la Orden AAA/1351/2016, de 29 de julio. [Ref. BOE-A-2016-7603](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7603).
+
+> Se modifica por el art. único de la Orden AAA/1771/2015, de 31 de agosto. [Ref. BOE-A-2015-9550](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9550).
+
+> Se modifica por el apartado 1 y el anexo de la Orden AAA/75/2012, de 12 de enero. [Ref. BOE-A-2012-923](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-923).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 76, de 30 de marzo de 2011. [Ref. BOE-A-2011-5713](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5713).

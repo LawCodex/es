@@ -1,0 +1,715 @@
+---
+title: "Real Decreto-ley 1/2015, de 27 de febrero, de mecanismo de segunda oportunidad, reducción de carga financiera y otras medidas de orden social"
+identifier: "BOE-A-2015-2109"
+eli: "https://www.boe.es/eli/es/rdl/2015/02/27/1"
+type: decree_law
+rank: "Real Decreto-ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2015-02-27
+published: 2015-02-28
+in_force_from: 2015-03-01
+last_amended: 2020-05-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 51"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-2109"
+retrieved: 2026-10-11
+---
+
+# Real Decreto-ley 1/2015, de 27 de febrero, de mecanismo de segunda oportunidad, reducción de carga financiera y otras medidas de orden social
+
+EXPOSICIÓN DE MOTIVOS
+
+I
+
+La economía española lleva ya algunos meses dando signos esperanzadores de recuperación y consolidando un crecimiento económico que, merced a las reformas estructurales llevadas a cabo en los últimos años, está teniendo un efecto beneficioso en el empleo y en la percepción general de la situación que tienen los ciudadanos, las empresas y las diferentes instituciones.
+
+Pero ello no debe llevar a olvidar dos cosas: la primera es que la salida de la crisis es ante todo y sobre todo un éxito de la sociedad española en su conjunto, la cual ha dado una vez más muestras de su sobrada capacidad para sobreponerse a situaciones difíciles. La segunda es que todavía existen muchos españoles que siguen padeciendo los efectos de la recesión. Y es misión de los poderes públicos no cejar nunca en el empeño de ofrecer las mejores soluciones posibles a todos los ciudadanos, a través de las oportunas reformas encaminadas al bien común, a la seguridad jurídica y, en definitiva, a la justicia.
+
+En este ámbito se enmarca de manera muy especial la llamada legislación sobre segunda oportunidad. Su objetivo no es otro que permitir lo que tan expresivamente describe su denominación: el que una persona física, a pesar de un fracaso económico empresarial o personal, tenga la posibilidad de encarrilar nuevamente su vida e incluso de arriesgarse a nuevas iniciativas, sin tener que arrastrar indefinidamente una losa de deuda que nunca podrá satisfacer.
+
+La experiencia ha demostrado que cuando no existen mecanismos de segunda oportunidad se producen desincentivos claros a acometer nuevas actividades e incluso a permanecer en el circuito regular de la economía. Ello no favorece obviamente al propio deudor, pero tampoco a los acreedores ya sean públicos o privados. Al contrario, los mecanismos de segunda oportunidad son desincentivadores de la economía sumergida y favorecedores de una cultura empresarial que siempre redundará en beneficio del empleo.
+
+A esta finalidad responde la primera parte de este real decreto-ley, por el cual se regulan diversos mecanismos de mejora del Acuerdo Extrajudicial de Pagos introducido en nuestra legislación concursal por la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, y se introduce un mecanismo efectivo de segunda oportunidad para las personas físicas destinado a modular el rigor de la aplicación del artículo 1911 del Código civil. Conviene explicar brevemente cuáles son los principios inspiradores de la regulación introducida a este respecto.
+
+El concepto de persona jurídica es una de las creaciones más relevantes del Derecho. La ficción consistente en equiparar una organización de bienes y personas a la persona natural ha tenido importantes y beneficiosos efectos en la realidad jurídica y económica. Mediante dicha ficción, las personas jurídicas, al igual que las naturales, nacen, crecen y mueren. Además, el principio de limitación de responsabilidad inherente a determinadas sociedades de capital hace que éstas puedan liquidarse y disolverse (o morir en sentido metafórico), extinguiéndose las deudas que resultaren impagadas tras la liquidación, y sin que sus promotores o socios tengan que hacer frente a las eventuales deudas pendientes una vez liquidado todo el activo.
+
+Puede afirmarse que el principio de limitación de responsabilidad propio de las sociedades de capital está en buena medida en el origen del desarrollo económico de los tres últimos siglos. En el fondo, este principio de limitación de la responsabilidad se configuró como un incentivo a la actividad empresarial y a la inversión. El legislador incentivaba la puesta en riesgo de determinados capitales garantizando que dichos capitales serían la pérdida máxima del inversor, sin posibilidad de contagio a su patrimonio personal.
+
+Pero la limitación de responsabilidad es una limitación de responsabilidad de los socios, que no de la sociedad, la cual habrá de responder de sus deudas con todo su patrimonio presente y futuro. La cuestión que se plantea entonces es el fundamento último para el diferente régimen de responsabilidad que se produce cuando una persona natural decide acometer una actividad empresarial a través de una persona jurídica interpuesta y cuando esa misma persona natural contrae obligaciones de forma directa. Si en el primer caso podrá beneficiarse de una limitación de responsabilidad, en el segundo quedará sujeta al principio de responsabilidad patrimonial universal recogido en el artículo 1911 del Código Civil.
+
+Además, muchas situaciones de insolvencia son debidas a factores que escapan del control del deudor de buena fe, planteándose entonces el fundamento ético de que el ordenamiento jurídico no ofrezca salidas razonables a este tipo de deudores que, por una alteración totalmente sobrevenida e imprevista de sus circunstancias, no pueden cumplir los compromisos contraídos. No puede olvidarse con ello que cualquier consideración ética a este respecto debe cohonestarse siempre con la legítima protección que el ordenamiento jurídico debe ofrecer a los derechos del acreedor, así como con una premisa que aparece como difícilmente discutible: el deudor que cumple siempre debe ser de mejor condición que el que no lo hace.
+
+Introducidas de este modo las premisas del problema a resolver acerca del alcance y eventual limitación del principio de responsabilidad patrimonial universal del artículo 1911 del Código civil, no está de más acudir a los antecedentes históricos de dicho precepto, así como al contexto legislativo del mismo.
+
+La inteligencia completa de este artículo había de completarse con otros dos preceptos del mismo Código Civil ubicados sistemáticamente en el mismo capítulo. Nos referimos a los hoy derogados artículos 1919 y 1920 del citado cuerpo legal que señalaban respectivamente lo siguiente: «Si el deudor cumpliere el convenio, quedarán extinguidas sus obligaciones en los términos estipulados en el mismo; pero, si dejare de cumplirlo en todo o en parte, renacerá el derecho de los acreedores por las cantidades que no hubiesen percibido de su crédito primitivo, y podrá cualquiera de ellos pedir la declaración o continuación del concurso» y «No mediando pacto expreso en contrario entre deudor y acreedores, conservarán éstos su derecho, terminado el concurso, para cobrar, de los bienes que el deudor pueda ulteriormente adquirir, la parte de crédito no realizada».
+
+Aparecían según estos dos preceptos dos ideas principales: la exoneración de pasivo ligada a un convenio entre deudor y acreedores y a su cumplimiento, así como el principio de limitación de la exoneración en caso de venir el deudor a mejor fortuna, pero también circunscrito al devenir del propio convenio. Pero paradójicamente no parecía haber ninguna previsión relativa a la exoneración del deudor en el caso de que éste hubiese liquidado su patrimonio es decir en el caso de que, simple y llanamente, lo hubiese perdido todo.
+
+El artículo 1920 suscitó bien pronto controversias doctrinales. Manresa, en sus comentarios al Código civil, señalaba lo siguiente: «Esta disposición criticada por algunos por dejar en lo incierto los derechos del deudor derivados del convenio, resulta, sin embargo, en extremo justa, si se tienen en cuenta las razones y los motivos, en virtud de los que se autoriza al deudor para celebrar convenios con los acreedores dentro o fuera del juicio de concurso (…) en consideración a las difíciles circunstancias en que se encuentra el que por carecer de bienes bastantes a cubrir su pasivo (…) no puede satisfacer puntualmente todas sus obligaciones; (…) nada extraño tiene (…) que desapareciendo dicha razón por haber cesado las dificultades (…) venga obligado el deudor a satisfacer la parte de crédito no realizada por sus acreedores». Y continuaba el mismo autor señalando que con ello se había conseguido disipar «las dudas que a los intérpretes de nuestro antiguo derecho sugería la inteligencia de la ley 3ª del título 15º de la Partida 5ª».
+
+Pero lo cierto es que el artículo 1920 no establecía ninguna gradación de la mejora de fortuna ni tampoco ninguna limitación del derecho de los acreedores a cobrar, de lo que el deudor pudiera ulteriormente adquirir, la parte no satisfecha del crédito. Ello conllevaba una limitación manifiesta de la capacidad del deudor de mejorar de fortuna y también un escaso incentivo para intentar efectivamente dicha mejora.
+
+Y es que la ley de las Partidas que, en opinión de Manresa había quedado superada por el artículo 1920 del Código civil, era en cierto modo más favorable al deudor al señalar lo siguiente: «El desamparamiento que faze el debdor de sus bienes (…) ha tal fuerza que después non puede ser el debdor emplazado, nin es tenido de responder en juyzio a aquellos a quien deuiesse algo: fueras ende si oviesse fecho tan gran ganancia, que podría pagar los debdos todos, o parte dellos, e que fincasse a el de que podiesse vivir». Así pues, la Ley de Partidas ya previó la liberación del deudor tras un proceso de liquidación de sus bienes (que no necesariamente de convenio con los acreedores) y además, en cierto modo, estableció una modulación de la mejor fortuna al no permitir que ésta pudiera jugar en perjuicio del deudor salvo cuando éste pudiese pagar todas sus deudas (o, en expresión ciertamente algo confusa, parte de ellas) sin perjuicio de sus propias condiciones de vida, todo ello relacionado con «tan gran ganancia» que en principio debiera considerarse atípica.
+
+Se cumplen en el 2015 exactamente 750 años desde que terminó la redacción de la gran obra legislativa de Alfonso X el Sabio, que ha inspirado durante varios siglos los ordenamientos jurídicos hispanoamericanos, pero sorprende ver cómo en esta materia habían llegado en algunos aspectos a unos preceptos más avanzados que la codificación decimonónica.
+
+La segunda oportunidad que recoge este real decreto-ley responde obviamente a una técnica legislativa más moderna pero se inspira de unos principios ya presentes, como se acaba de demostrar, en nuestro derecho histórico. Siempre debe constituir un motivo de confianza en las normas legales el que sus principios inspiradores no obedezcan a una improvisación, sino antes bien al resultado de muchos años o incluso siglos de reflexión sobre la materia. Es preciso que el legislador huya siempre de toda tentación demagógica que a la larga pueda volverse en contra de aquellos a quienes pretende beneficiar. Para que la economía crezca es preciso que fluya el crédito y que el marco jurídico aplicable dé confianza a los deudores; pero sin minar la de los acreedores, pues en tal caso se produciría precisamente el efecto contrario al pretendido: el retraimiento del crédito o, al menos, su encarecimiento.
+
+Por ello, el mecanismo de segunda oportunidad diseñado por este real decreto-ley establece los controles y garantías necesarios para evitar insolvencias estratégicas o facilitar daciones en pago selectivas. Se trata de permitir que aquél que lo ha perdido todo por haber liquidado la totalidad de su patrimonio en beneficio de sus acreedores, pueda verse liberado de la mayor parte de las deudas pendientes tras la referida liquidación. Y se trata igualmente de cuantificar la mejora de fortuna que, eventualmente, permitirá revocar dicho beneficio por las razones de justicia hacia los acreedores que tan acertadamente expusieron autores como Manresa.
+
+Con ello se alcanza el debido equilibrio y la necesaria justicia que debe inspirar cualquier norma jurídica.
+
+Además de la regulación del mecanismo de segunda oportunidad y de la mejora de ciertos institutos pre o paraconcursales, este real decreto-ley contiene otras disposiciones de las cuales se da detalle sistemático a continuación.
+
+II
+
+Este real decreto-ley se estructura en once artículos, agrupados en dos títulos, seis disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria única y tres disposiciones finales.
+
+El título I, bajo la rúbrica «Medidas urgentes para la reducción de la carga financiera», contiene tres artículos de carácter modificativo a través de los que se da nueva redacción a determinados preceptos de otras tantas normas legales: la Ley 22/2003, de 9 de julio, Concursal; el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, y la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social.
+
+El título II, «Otras medidas de orden social», se estructura en tres capítulos.
+
+El primero de ellos recoge en sus cuatro artículos una serie de medidas relativas al ámbito tributario y de las Administraciones Públicas, a través de la modificación de aspectos concretos de las siguientes cuatro normas legales: la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio; la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público; el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, y la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+El capítulo II contiene tres medidas relativas al fomento del empleo en el ámbito de la Seguridad Social. Así, por un lado, se establece un nuevo incentivo para la creación de empleo estable, consistente en la fijación de un mínimo exento en la cotización empresarial por contingencias comunes a la Seguridad Social por la contratación indefinida de trabajadores. En segundo lugar, se sitúa en 20 el número de jornadas reales cotizadas exigidas a los trabajadores eventuales agrarios de determinadas provincias para poder ser beneficiarios del subsidio por desempleo contemplado en el Real Decreto 5/1997, de 10 de enero, y en el artículo tercero de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, así como de la renta agraria regulada por el Real Decreto 426/2003, de 11 de abril. En tercer lugar, y por último, se establecen beneficios de Seguridad Social para aquellos supuestos en los que el profesional autónomo deba atender obligaciones familiares que puedan influir en su actividad.
+
+La parte dispositiva de la norma se cierra con el capítulo III, «Medidas relativas al ámbito de la Administración de Justicia», de su título II, en cuyo único artículo se modifica la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses, para adecuar el régimen de tasas judiciales a la concreta situación de los sujetos obligados al pago de la misma.
+
+Por lo que se refiere a la parte final de esta norma, las disposiciones adicionales primera a quinta complementan las modificaciones introducidas por su título I, al regular las funciones de mediación concursal, la remuneración del mediador concursal, la no preceptividad de la representación del deudor en el concurso consecutivo, la aplicación informática destinada a actuar a modo de medidor de solvencia o la forma en que se va a producir la adhesión al «Código de Buenas Prácticas para la reestructuración viable de las deudas con garantía hipotecaria sobre la vivienda habitual» con las modificaciones que en él se introducen. Todas estas previsiones regulan cuestiones que están directamente relacionadas con las contenidas en el título I y que resultan necesarias para su inmediata efectividad. En la disposición adicional sexta se regula el impulso y coordinación de la negociación colectiva.
+
+Respecto a las disposiciones transitorias, la primera de ellas establece el régimen transitorio en materia concursal mientras que en la segunda se prevé el régimen aplicable a la contratación indefinida formalizada con anterioridad a la entrada en vigor de este real decreto-ley y en la tercera las solicitudes del subsidio por desempleo o de la renta agraria presentadas con anterioridad a la entrada en vigor de este real decreto-ley.
+
+La disposición derogatoria única contiene la cláusula derogatoria referida a cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto-ley, mientras que las tres disposiciones finales regulan respectivamente el título competencial, las habilitaciones para el desarrollo, ejecución y aplicación de la norma y su entrada en vigor.
+
+III
+
+Las iniciativas contenidas en el título I de este real decreto-ley para permitir que las familias y empresas reduzcan su carga financiera, suponen mejoras adicionales a las que ya se han adoptado durante esta legislatura destinadas a quienes se encuentran en una situación más cercana a la insolvencia por sus circunstancias económicas y sociales de vulnerabilidad, sean PYMEs y autónomos, o personas naturales en general.
+
+Estas iniciativas se pueden resumir agrupándolas en tres bloques.
+
+En primer lugar, se propone flexibilizar los acuerdos extrajudiciales de pagos, y prever un verdadero mecanismo de segunda oportunidad.
+
+En segundo término, se mejora también el «Código de Buenas Prácticas para la reestructuración viable de las deudas con garantía hipotecaria sobre la vivienda habitual», introducido por el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, del que ya se han beneficiado cerca de 14.000 familias.
+
+Por último, se amplía por un plazo adicional de dos años la suspensión de los lanzamientos sobre viviendas habituales de colectivos especialmente vulnerables contenido en la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, así como el colectivo que puede beneficiarse de esta medida.
+
+Por lo que se refiere a los acuerdos extrajudiciales de pago regulados en el título X de la Ley 22/2003, de 9 de julio, Concursal, las modificaciones contenidas en este real decreto-ley tienen por finalidad flexibilizar su contenido y efectos, asimilando su regulación a la de los acuerdos de refinanciación de la disposición adicional cuarta. Como elementos principales del nuevo régimen están la ampliación de su ámbito de aplicación a las personas naturales no empresarios, regulándose además un procedimiento simplificado para éstas; la posibilidad de extender los efectos del acuerdo a los acreedores garantizados disidentes, lo que supone un avance frente al régimen de sometimiento voluntario vigente con anterioridad; y la potenciación de la figura del mediador concursal, introduciendo la posibilidad de que actúen como tal las Cámaras de Comercio, Industria, Navegación y Servicios, si el deudor es empresario, o los notarios, si se trata de personas naturales no empresarios.
+
+Como novedad fundamental, se instaura un régimen de exoneración de deudas para los deudores persona natural en el marco del procedimiento concursal. El sistema de exoneración tiene dos pilares fundamentales: que el deudor sea buena de fe y que se liquide previamente su patrimonio (o que se declare la conclusión del concurso por insuficiencia de masa).
+
+Cumplidas las anteriores condiciones, el deudor podrá ver exoneradas de forma automática sus deudas pendientes cuando haya satisfecho en su integridad los créditos contra la masa, los créditos concursales privilegiados y, si no ha intentado un acuerdo extrajudicial de pagos, el 25 por ciento de los créditos concursales ordinarios.
+
+Alternativamente, cuando no hayan podido satisfacer los anteriores créditos y siempre que acepte someterse a un plan de pagos durante los 5 años siguientes, el deudor podrá quedar exonerado provisionalmente de todos sus créditos, excepto los públicos y por alimentos, contra la masa y aquéllos que gocen de privilegio general. Para la liberación definitiva de deudas, el deudor deberá satisfacer en ese período las deudas no exoneradas o realizar un esfuerzo sustancial para ello.
+
+Respecto al Código de Buenas Prácticas para deudores hipotecarios, se amplía el ámbito subjetivo, incrementándose el límite anual de renta de las familias beneficiarias, que se calculará con base en el IPREM anual de 14 mensualidades, incluyendo como nuevo supuesto de especial vulnerabilidad que el deudor sea mayor de 60 años e introduciendo una nueva forma de cálculo del límite del precio de los bienes inmuebles adquiridos. Adicionalmente, se introduce la inaplicación definitiva de las cláusulas suelo de aquellos deudores situados en el nuevo umbral de exclusión que las tuvieran incluidas en sus contratos.
+
+Por último, se amplía hasta 2017 el período de suspensión de lanzamientos sobre viviendas habituales de colectivos especialmente vulnerables, y se posibilita, en términos similares a los previstos para el Código de Buenas Prácticas, que más personas puedan acogerse a la suspensión.
+
+En la presente regulación concurren las circunstancias de extraordinaria y urgente necesidad exigidas por el artículo 86 de la Constitución Española para la aprobación de los decretos-leyes. La justificación de las medidas del título I, que se complementan con las previsiones contenidas en las disposiciones adicionales primera a quinta y en la disposición transitoria primera, se basa en la necesidad de aliviar la precaria situación financiera que soportan algunos deudores que, a pesar de su buena fe y su esfuerzo, no alcanzan a satisfacer sus deudas pendientes aún después de la liquidación de su patrimonio. Una mayor demora de la puesta en marcha de las medidas contenidas en este título y en las disposiciones citadas no haría más que agravar la situación de estas personas. Asimismo, conviene que los efectos económicos beneficiosos de la reestructuración de la deuda y de la segunda oportunidad -como el mantenimiento de las pequeñas y medianas empresas viables operativamente pero endeudadas, la reducción de los incentivos para operar en la economía informal y o el aumento de las oportunidades para emprender nuevas actividades económicas, por citar únicamente dos de ellos- se desplieguen tan rápido como sea posible. Diversos estudios han puesto de manifiesto que la legislación concursal ha contribuido relativamente poco al desendeudamiento de los hogares españoles. Tras el imprescindible saneamiento de una parte del sistema financiero español, la introducción de la segunda oportunidad, la mejora del funcionamiento del acuerdo extrajudicial de pagos y la ampliación del ámbito de aplicación del Código de Buenas Prácticas contribuirán a acelerar la caída de la ratio de endeudamiento de las familias españolas y las pequeñas y medianas empresas. Por último, en el presente contexto de consolidación del crecimiento económico, la rápida adopción de las medidas contenidas en el título I y en las concordantes disposiciones de la parte final de este real decreto-ley, que regulan determinados aspectos directamente relacionados con los previstos en el articulado, debe contribuir tan pronto como sea posible a que los beneficios de la recuperación económica alcancen a todos los segmentos de la población.
+
+Estas medidas estructurales se completan con la ampliación de otras coyunturales destinadas a proteger, en particular, a deudores en situación de especial vulnerabilidad. Aunque la mejoría del escenario económico general es apreciable, en el momento actual sigue siendo necesario hacer frente a la situación de aquellas familias que continúan sufriendo la adversidad económica, lo que justifica que se amplíe el ámbito subjetivo del Código de Buenas Prácticas y del plazo de suspensión de lanzamientos, cuya finalización es inminente.
+
+IV
+
+El título II de este real decreto-ley contiene diversas medidas de orden social.
+
+Así, en primer lugar, se acometen determinadas medidas en el ámbito tributario destinadas a rebajar la carga fiscal de determinados colectivos especialmente vulnerables. De esta manera, se modifica la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio con la finalidad de permitir a nuevos colectivos la aplicación de las deducciones previstas en el artículo 81 bis de esta Ley.
+
+De esta forma, en primer lugar, se extiende el incentivo fiscal no solo a ascendientes que forman parte de familias numerosas sino también a aquellos que forman una familia monoparental con dos descendientes que, entre otros requisitos, dependen y conviven exclusivamente con aquel.
+
+Al mismo tiempo, se permitirá la aplicación de las nuevas deducciones reguladas en dicho artículo a los contribuyentes que perciban prestaciones del sistema público de protección de desempleo o pensiones de los regímenes públicos de previsión social o asimilados y tengan un ascendiente o descendiente con discapacidad a su cargo o formen parte de una familia numerosa o de la familia monoparental señalada anteriormente, y no sólo a los trabajadores por cuenta propia o ajena.
+
+Adicionalmente, se declaran exentas las rentas que se pudieran poner de manifiesto como consecuencia de quitas y daciones en pago de deudas, establecidas en un convenio aprobado judicialmente conforme al procedimiento establecido en la Ley 22/2003, de 9 de julio, Concursal, en un acuerdo de refinanciación judicialmente homologado a que se refiere el artículo 71 bis y la disposición adicional cuarta de dicha ley, o en un acuerdo extrajudicial de pagos a que se refiere el título X de la misma ley, siempre que las deudas no deriven del ejercicio de actividades económicas, ya que, en este caso, su régimen está previsto en la disposición final segunda del Real Decreto-ley 4/2014, de 7 de marzo, por el que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial.
+
+Por último, debe indicarse que en las modificaciones que se introducen en el ámbito del Impuesto sobre la Renta de las Personas Físicas concurren las circunstancias de extraordinaria y urgente necesidad exigidas por el artículo 86 de la Constitución como presupuesto habilitante para la aprobación de un real decreto-ley, dada la particularidad del colectivo beneficiario y la necesidad de su protección por parte de los poderes públicos, y el hecho de que se permita la solicitud anticipada de las deducciones a partir de la aprobación de esta norma, de manera que se puedan percibir por aquel las ayudas aprobadas en el menor tiempo posible.
+
+Por otra parte, con el objeto de aliviar del cumplimiento de obligaciones formales a las entidades parcialmente exentas, mediante el artículo 7 de este real decreto-ley se establece la exclusión de la obligación de presentar declaración en el Impuesto sobre Sociedades a aquellas entidades, cuyos ingresos totales del período impositivo no superen 50.000 euros anuales, siempre que el importe total de los ingresos correspondientes a rentas no exentas no supere 2.000 euros anuales y que todas sus rentas no exentas estén sometidas a retención, siempre que no estén sujetas a la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos y de los incentivos fiscales al mecenazgo, ni se trate de partidos políticos.
+
+Esta modificación debe entrar en vigor para los períodos impositivos que se inicien a partir de 1 de enero de 2015, lo que justifica la urgencia de la aprobación de la misma, teniendo en cuenta, adicionalmente, que debiera evitarse su aplicación en los pagos fraccionados correspondientes a dichos períodos impositivos.
+
+En segundo lugar, en el ámbito de las Administraciones Públicas, el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, introdujo una serie de medidas en nuestro ordenamiento con la finalidad de homogeneizar los instrumentos existentes en materia de negociación colectiva, representación y participación del personal al servicio de las Administraciones Públicas. Entre otras modificaciones, dicho real decreto-ley efectuó una nueva ordenación de las unidades electorales en el ámbito de la Administración General del Estado estableciéndose así un marco adecuado en el que poder hacer efectivo el procedimiento de elección de los representantes de los empleados públicos ante los órganos de negociación y participación. Estos instrumentos de negociación y participación configuran un abanico de garantías para la representación del empleado público, de conformidad con lo previsto por nuestro ordenamiento constitucional, y que pretende afianzar la efectiva defensa de sus derechos e intereses en el ámbito de las Administraciones Públicas.
+
+La Mesa General de Negociación de la Administración General del Estado para materias comunes a personal funcionario, estatutario y laboral y la Mesa General de Negociación del personal funcionario de la Administración General del Estado, en su sesión conjunta celebrada el 31 de julio de 2014, acordaron proponer al Gobierno tres iniciativas de reforma normativa para la mejora de los mecanismos de participación y negociación colectiva en el ámbito de la Administración General del Estado. La finalidad de dicha propuesta consiste en la introducción de una serie de adaptaciones y mejoras técnicas en las medidas de reforma implantadas sobre esta materia por el Real Decreto-ley 20/2012, de 13 de julio. Precisamente la próxima celebración de elecciones sindicales en la Administración General del Estado justifica la necesidad de adoptar dichas modificaciones de los instrumentos de participación y negociación existentes, con carácter previo al inicio del proceso electoral. Estas propuestas se formulan a la vista de las necesidades detectadas en el marco de dicho proceso y con objeto de mejorar tanto el marco jurídico aplicable como el sistema de garantías que deben presidirlo.
+
+Se trata, en definitiva, de acometer las adaptaciones legales que permitan aclarar y completar la configuración en las unidades electorales, y que resulta preciso efectuar mediante modificación de una norma con rango de ley. Para su adopción, tras el oportuno período de negociación, la propuesta ha contado con el voto favorable de la mayoría de organizaciones sindicales presentes en dichas Mesas y, particularmente, de las organizaciones más representativas: CCOO, UGT y CSIF.
+
+En primer lugar, se mejora la articulación contenida en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, en materia de órganos de representación del personal estatutario del ámbito sanitario, del personal docente no universitario, así como aclarar el correspondiente al personal al servicio de la Administración de Justicia; se trata de colectivos de personal específico que precisan de esta modificación para garantizar su adecuada representación.
+
+En segundo lugar, se introduce una mejora técnica en la redacción actual del artículo 35 del Estatuto Básico del Empleado Público que, al regular la composición y constitución de las Mesas de Negociación, en su versión hasta ahora vigente se refiere únicamente a materias que afectan al personal funcionario, cuando resulta necesario que dicha regulación se haga extensible también a las materias comunes al personal funcionario, estatutario y laboral. Con ello, se pretende dar apoyo legal a lo que hasta ahora es una práctica común en la negociación colectiva: efectuar una negociación global y de conjunto para las distintas tipologías de personal que concurren en la Administración.
+
+Y, en tercer lugar, se introduce una nueva disposición adicional en el Estatuto Básico del Empleado Público en materia de Mesas de Negociación correspondientes a ámbitos específicos de negociación, distintos en puridad a los previstos en su artículo 34.4. En este sentido, es en dicho ámbito donde se lleva a cabo la negociación sobre las condiciones de trabajo y, si bien afecta a determinados colectivos de empleados públicos que pueden estar adscritos a distintas Administraciones Públicas, en realidad esta negociación recae sobre la competencia de la Administración General del Estado. Con la introducción de esta disposición adicional, se pretende suplir un importante vacío legal referido a estas Mesas, además de completar la insuficiencia del régimen normativo hasta ahora vigente.
+
+Esta distinta dependencia funcional y orgánica de los empleados públicos, determina que para conformar la representación de las organizaciones sindicales en cada una de las Mesas deban tenerse en cuenta sus respectivos ámbitos de negociación en su conjunto y no el de una Administración Pública determinada como sería el caso de las Mesas Sectoriales reguladas en el artículo 34.4 del Estatuto Básico del Empleado Público. Asimismo, con la incorporación de la nueva disposición adicional se da cumplimiento efectivo al Acuerdo suscrito entre la Secretaría de Estado de Administraciones Públicas y las organizaciones sindicales de 25 de octubre de 2012, mediante el que ambas partes se comprometen a avanzar en la estructuración de la negociación colectiva.
+
+Se trata, en definitiva, de dotarse de un marco legal específico y apropiado que permita articular adecuadamente su actividad negociadora en los distintos ámbitos en los que se articula el sistema de negociación, representación y participación en la Administración General del Estado y en la Administración de Justicia.
+
+Esta iniciativa legislativa ha sido impulsada, además, por las propias Mesas Generales de Negociación de la Administración General del Estado a las que se refieren los artículos 36.3 y 34.1 de la Ley 7/2007, de 12 de abril del Estatuto Básico del Empleado Público, que con el acuerdo alcanzado entre la Administración y las organizaciones con mayor representatividad presentes en las mismas, solicitaron su aprobación.
+
+Por cuanto se trata de una modificación propuesta por las citadas Mesas Generales de Negociación, esta propuesta normativa cumple con lo dispuesto en el artículo 37.1 del Estatuto Básico del Empleado Público, habiendo sido objeto de negociación y acuerdo en el seno de las mismas.
+
+En cuanto a las razones de extraordinaria y urgente necesidad que aconsejan su inclusión en este real decreto-ley debe significarse que estas modificaciones se deben aprobar con carácter previo al inicio del proceso de elecciones sindicales que se llevarán a cabo en el presente año en el ámbito de la Administración General del Estado. Resulta evidente, por tanto, que la tramitación ordinaria de una norma con rango de ley que permita dar aplicación a este conjunto de medidas dilataría durante un tiempo considerable la entrada en vigor de la reforma, dando lugar a distorsiones en el desarrollo de la propia negociación colectiva e impidiendo su efectiva aplicación al proceso electoral previsto para 2015.
+
+En efecto, la próxima celebración de elecciones sindicales en la Administración General del Estado justifica la necesidad de adoptar estas modificaciones técnicas en los instrumentos de participación y negociación existentes, con carácter previo al inicio del proceso electoral. Estas propuestas se formulan a la vista de las necesidades detectadas en el marco de dicho proceso, y con objeto de mejorar tanto el marco jurídico aplicable como el sistema de garantías que deben presidirlo. El proceso para la celebración de elecciones sindicales en la Administración General del Estado se ha iniciado ya con la presentación por las organizaciones sindicales mayoritarias del Acuerdo de promoción generalizada de elecciones sindicales, de 29 de octubre de 2014. Está previsto que el inicio del proceso electoral se produzca el 30 de abril de 2015, celebrándose las elecciones, con carácter general, el próximo 18 de junio. Ello justifica la urgente necesidad de adoptar estas modificaciones técnicas en la normativa de aplicación en materia de participación y negociación existentes, con carácter previo a la finalización del periodo para realizar los preavisos, que concluye un mes antes del inicio del proceso electoral referido.
+
+La naturaleza de las modificaciones propuestas requieren para su adopción de una norma con rango de ley, por cuanto se trata de modificaciones introducidas tanto en el Real Decreto-ley 20/2012 como en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público. Por todo ello, el instrumento adecuado para llevarlo a cabo sería mediante un real decreto-ley al concurrir las circunstancias de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución. A la vista de la consolidada Jurisprudencia del Tribunal Constitucional emitida sobre este instrumento normativo, se considera que encaja en los supuestos habilitantes y en las causas y finalidades previstas en el Real Decreto-ley, y de forma específica por la necesidad de que las modificaciones propuestas puedan resultar efectivas en el proceso electoral previsto para el año próximo en la Administración General del Estado.
+
+Por su parte, en el ámbito de las políticas públicas de empleo y Seguridad Social, la reducción de las cotizaciones empresariales por contingencias comunes a la Seguridad Social por contratación indefinida, aprobada por el Real Decreto-ley 3/2014, de 28 de febrero, de medidas urgentes para el fomento del empleo y la contratación indefinida, y que se articula mediante el establecimiento de una tarifa plana de cotización, ha constituido una medida eficaz para contribuir a la creación de empleo estable.
+
+Así, según los datos de la Encuesta de Población Activa del cuarto trimestre de 2014, el empleo ha crecido en 433.900 personas en los 12 últimos meses, con un variación anual del 2,5% y el empleo asalariado indefinido se ha incrementado en 212.800 personas, un 2,0 %.
+
+Con el objetivo de consolidar esta evolución positiva de la contratación indefinida y potenciar su impacto para los colectivos con mayores dificultades para la inserción laboral estable, y en cumplimiento de la resolución aprobada por el Congreso de los Diputados con motivo del Debate sobre el Estado de la Nación del 25 de febrero de 2015, mediante el artículo 8 se establece un nuevo incentivo para la creación de empleo estable, consistente en la fijación de un mínimo exento en la cotización empresarial por contingencias comunes a la Seguridad Social por la contratación indefinida de trabajadores.
+
+El establecimiento de un mínimo exento supone la creación de un incentivo de carácter progresivo que reduce en mayor medida las cotizaciones sociales por la contratación estable de trabajadores con menores retribuciones. Con esta medida se pretende favorecer a aquellos colectivos con más dificultades de inserción estable en el mercado laboral, tales como desempleados de larga duración, trabajadores con escasa formación y jóvenes sin experiencia laboral. Estos colectivos se ven más afectados por el desempleo y la temporalidad.
+
+Al amparo de esta nueva regulación, de la que se podrán beneficiar todas las empresas que contraten de forma indefinida y creen empleo neto, los primeros 500 euros de la base mensual correspondiente a contingencias comunes quedarán exentos de cotización empresarial cuando el contrato se celebre a tiempo completo. Cuando el contrato se celebre a tiempo parcial, dicha cuantía se reducirá en proporción al porcentaje en que disminuya la jornada de trabajo, que no podrá ser inferior al 50 por 100 de la jornada de un trabajador a tiempo completo.
+
+Este beneficio en la cotización consistirá en una bonificación, a cargo del Servicio Público de Empleo Estatal, en caso de que el contrato indefinido se formalice con jóvenes inscritos en el Sistema Nacional de Garantía Juvenil, y en una reducción, a cargo del sistema de la Seguridad Social, en los demás supuestos.
+
+Al igual que la tarifa plana de cotización, la bonificación o reducción se aplicará durante un período de 24 meses. En el caso de empresas con menos de diez trabajadores la medida se prolongará durante 12 meses más, quedando exentos durante este último período de la aplicación del tipo de cotización los primeros 250 euros de la base de cotización o la cuantía que proporcionalmente corresponda en los supuestos de contratación a tiempo parcial.
+
+Respecto a los requisitos para disfrutar del nuevo beneficio en la cotización, a los supuestos en que no procede su aplicación, a las incompatibilidades y el reintegro de cantidades por aplicación indebida del mismo, son muy similares a los establecidos para la tarifa plana de cotización en el Real Decreto-ley 3/2014, de 28 de febrero, en aras de la continuidad y simplicidad del sistema.
+
+La aplicación de la bonificación o reducción a que se refiere este artículo no afectará a la determinación de la cuantía de las prestaciones económicas a que puedan causar derecho los trabajadores afectados, que se calculará aplicando el importe íntegro de la base de cotización que les corresponda.
+
+Para el supuesto de contratación indefinida de beneficiarios del Sistema Nacional de Garantía Juvenil, se permite la compatibilización de los incentivos previstos en el artículo 107 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, y también se declara compatible con la ayuda económica de acompañamiento que perciban los beneficiarios del Programa de Activación para el Empleo, en caso de formalizarse el contrato con ellos.
+
+El nuevo beneficio en la cotización por contratación indefinida coexistirá hasta el 31 de marzo de 2015 con el regulado en el Real Decreto-ley 3/2014, de 28 de febrero, previéndose en la disposición transitoria segunda del real decreto-ley que los beneficios a la cotización a la Seguridad Social que se vinieran disfrutando por los contratos indefinidos celebrados con anterioridad a la fecha de su entrada en vigor, se regirán por la normativa vigente en el momento de su celebración.
+
+En la presente regulación concurren las circunstancias de extraordinaria y urgente necesidad exigidas por el artículo 86 de la Constitución Española para la aprobación de los decretos-leyes, al seguir constituyendo una prioridad la contratación indefinida de trabajadores y la necesidad de fomentar la estabilidad en el mercado laboral, lo que unido a la próxima finalización, el 31 de marzo de 2015, del plazo para beneficiarse de la tarifa plana de cotización del Real Decreto-ley 3/2014, de 28 de febrero, justifican la adopción de esta nueva medida a la mayor urgencia posible.
+
+Por otro lado, en cuanto a la medida prevista en el artículo 9, consistente en una bonificación a trabajadores autónomos por conciliación de la vida profesional y familiar vinculada a la contratación, la previsión de la disposición final segunda de la Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo, que establece la convergencia progresiva de los derechos de los trabajadores autónomos en relación con los establecidos para los trabajadores por cuenta ajena incluidos en el Régimen General de la Seguridad Social, hace necesaria la adopción de sucesivas medidas para el cumplimiento de dicho objetivo.
+
+Así, en la línea marcada para la equiparación de los derechos de los trabajadores por cuenta propia frente a los trabajadores por cuenta ajena, y para garantizar la protección en la conciliación de la vida familiar y profesional de los trabajadores por cuenta propia, se incluye una medida de apoyo a los mismos basada en beneficios de Seguridad Social para aquellos supuestos en los que el profesional deba atender obligaciones familiares que puedan influir en su actividad.
+
+Dicha medida consiste en una bonificación en la cuota del trabajador por cuenta propia a la Seguridad Social, en una cuantía vinculada a la base de cotización media de los últimos doce meses del trabajador autónomo, garantizando así la proporcionalidad de la medida.
+
+Además, el disfrute de esta bonificación queda sujeta a la contratación de un trabajador por cuenta ajena, con lo que se cumple un doble objetivo. Por un lado, se adoptan medidas que contribuyan a la viabilidad del proyecto profesional del trabajador autónomo, permitiéndole hacer frente a sus obligaciones familiares, manteniendo su actividad profesional. Por otro lado, al estar vinculada la medida a la contratación de un trabajador por cuenta ajena, se pretende contribuir a la dinamización del mercado de trabajo.
+
+En la presente regulación concurren las circunstancias de extraordinaria y urgente necesidad exigidas por el artículo 86 de la Constitución Española para la aprobación de los decretos-leyes, al seguir constituyendo una prioridad la equiparación de los derechos de los trabajadores por cuenta propia frente a los trabajadores por cuenta ajena, especialmente en lo concerniente a la necesaria protección de la conciliación de la vida familiar y profesional.
+
+Dos de las piezas claves de la política de la Unión Europea son el principio de igualdad entre hombres y mujeres y el fomento del emprendimiento.
+
+Ambos principios convergen en la Directiva 2010/41/UE del Parlamento Europeo y del Consejo de 7 de julio de 2010, sobre la aplicación del principio de igualdad de trato entre hombres y mujeres que ejercen una actividad autónoma.
+
+Además, la Comisión Europea presentó al 9 de enero de 2013 el Plan de Acción de Emprendimiento 2020, Plan por el que la Comisión invitaba a los Estados miembros a que apliquen políticas que permitan que las mujeres consigan un equilibrio adecuado entre el trabajo y la vida cotidiana.
+
+La citada Directiva 2010/41/UE establecía que a más tardar el 5 de agosto de 2015 los estados miembros deberán transmitir a la Comisión Europea toda la información disponible sobre la aplicación de la misma.
+
+Dado que en el ámbito de la conciliación entre la vida familiar y profesional, era patente la necesidad de regulación específica para el colectivo de los trabajadores y trabajadoras autónomas, y dada la cercanía de la citada fecha de agosto de 2015, se constata la urgente necesidad de poner en marcha la medida que se propone.
+
+Por último, la importancia de los daños ocasionados por la sequía en la campaña de la aceituna de 2014 en las comunidades autónomas de Andalucía y Extremadura dificulta gravemente, por su incidencia en la pérdida de jornadas de trabajo, la consecución del número mínimo de jornadas reales cotizadas precisas para acceder al subsidio por desempleo contemplado en el Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social y en el artículo tercero de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, así como a la renta agraria regulada por el Real Decreto 426/2003, de 11 de abril, por el que se regula la renta agraria para los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social residentes en las Comunidades Autónomas de Andalucía y Extremadura.
+
+Dada la incidencia en la reducción de producción, considerando que el olivar es el principal sector de actividad agrícola en estas regiones y teniendo en cuenta los estudios de movilidad de trabajadores que se desplazan a trabajar a provincias limítrofes, se hace preciso arbitrar los mecanismos necesarios para facilitar con carácter urgente, excepcional y transitorio el cumplimiento de los requisitos exigidos a los trabajadores eventuales agrarios de las provincias donde se ha producido un descenso de producción, siguiendo los precedentes de ocasiones anteriores, en los que ante circunstancias similares se aprobó, mediante los Real Decretos-leyes 10/2005, de 20 de junio; 2/2010, de 19 de marzo, y 1/2013, de 25 de enero, la reducción del número mínimo de jornadas realizadas para acceder a las prestaciones señaladas.
+
+A tal finalidad responde la medida contemplada en el artículo 10, mediante la que se sitúa en 20 el número de jornadas reales cotizadas exigidas a los trabajadores eventuales agrarios de las provincias afectadas para poder ser beneficiarios del subsidio por desempleo o de la renta agraria antes indicados.
+
+Esta medida será de aplicación a los trabajadores que hubieran presentado las solicitud correspondiente entre el 1 de septiembre de 2014 y la entrada en vigor de este real decreto-ley.
+
+Finalmente, por lo que se refiere al artículo 11 de este real decreto-ley, debe indicarse que, transcurrido un plazo razonable desde la adopción del Real Decreto-ley 3/2013, de 22 de febrero, en materia de tasas por el ejercicio de la potestad jurisdiccional, se ha podido constatar que resulta inaplazable atender a la situación económica desfavorable de un importante número de ciudadanos que, no siendo beneficiarios del derecho de asistencia jurídica gratuita, debe ser objeto de atención en cuanto al impacto que sobre ellos está teniendo el sistema de tasas por el ejercicio de la potestad jurisdiccional.
+
+En este sentido, la conexión entre la situación de necesidad expuesta y las medidas que se adoptan en este real decreto-ley es clara, pues las modificaciones que se introducen conllevan un efecto favorable inmediato dado que la entrada en vigor de esta norma supondrá la exención del pago de la tasa por parte de las personas físicas.
+
+Por otra parte, la utilización del real decreto-ley para proceder a la reforma de la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses respeta la doctrina constitucional en cuanto al presupuesto habilitante de la extraordinaria y urgente necesidad, como necesidad relativa a un objetivo gubernamental que requiere de una acción normativa en un plazo más breve que el requerido por el procedimiento legislativo ordinario o por el de urgencia. En este sentido, la necesidad de acudir a una disposición legal excepcional no sólo resulta justificada por las razones antes expuestas, sino que también puede vincularse, y así se ha hecho en ocasiones, a medidas incentivadoras de la economía o de estimulación de los mercados, que permitan llevar a cabo objetivos gubernamentales de política económica general.
+
+La utilización del real decreto-ley responde, por tanto, a la urgencia detectada, otorgando inmediatez a la consecución de un doble objetivo: poner fin a una situación que había generado un enorme rechazo social y, al tiempo, eliminar un elemento de retraimiento en el acceso a los Tribunales en un contexto de previsible aumento de movimientos económicos entre los distintos operadores jurídicos.
+
+En efecto, resulta previsible que muchos sean los asuntos cuya judicialización decida posponerse a un momento posterior a la aprobación de la norma con rango legal, de tramitarse esta por el procedimiento ordinario o de urgencia, produciéndose en ese momento una entrada masiva de causas en los Juzgados y Tribunales. En este sentido, la utilización de un vehículo normativo más ágil temporalmente como es el real decreto-ley permitirá minimizar este efecto colateral que en la actividad de los órganos judiciales puede producir la reforma.
+
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución, a propuesta de los Ministros de Economía y Competitividad, de Justicia, de Empleo y Seguridad Social y de Hacienda y Administraciones Públicas, previa deliberación del Consejo de Ministros en su reunión del día 27 de febrero de 2015,
+
+DISPONGO:
+
+## TÍTULO I — Medidas urgentes para la reducción de la carga financiera
+
+#### Artículo 1. Modificación de la Ley 22/2003, de 9 de julio, Concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.p) Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 2. Modificación del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos.
+
+Se modifica en los siguientes términos el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos:
+
+Uno. El artículo 3.1 queda redactado del siguiente modo:
+
+«1. Se considerarán situados en el umbral de exclusión aquellos deudores de un crédito o préstamo garantizado con hipoteca sobre su vivienda habitual, cuando concurran en ellos todas las circunstancias siguientes:
+
+a) Que el conjunto de los ingresos de los miembros de la unidad familiar no supere el límite de tres veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas. A estos efectos se entenderá por unidad familiar la compuesta por el deudor, su cónyuge no separado legalmente o pareja de hecho inscrita y los hijos, con independencia de su edad, que residan en la vivienda, incluyendo los vinculados por una relación de tutela, guarda o acogimiento familiar.
+
+El límite previsto en el párrafo anterior será de cuatro veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas en caso de que alguno de los miembros de la unidad familiar tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite acreditadamente de forma permanente para realizar una actividad laboral, o de cinco veces dicho indicador, en el caso de que un deudor hipotecario sea persona con parálisis cerebral, con enfermedad mental, o con discapacidad intelectual, con un grado de discapacidad reconocido igual o superior al 33 por ciento, o persona con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65 por ciento, así como en los casos de enfermedad grave que incapacite acreditadamente, a la persona o a su cuidador, para realizar una actividad laboral.
+
+b) Que, en los cuatro años anteriores al momento de la solicitud, la unidad familiar haya sufrido una alteración significativa de sus circunstancias económicas, en términos de esfuerzo de acceso a la vivienda, o hayan sobrevenido en dicho período circunstancias familiares de especial vulnerabilidad.
+
+A estos efectos se entenderá que se ha producido una alteración significativa de las circunstancias económicas cuando el esfuerzo que represente la carga hipotecaria sobre la renta familiar se haya multiplicado por al menos 1,5; salvo que la entidad acredite que la carga hipotecaria en el momento de la concesión del préstamo era igual o superior a la carga hipotecaria en el momento de la solicitud de la aplicación del Código de Buenas Prácticas.
+
+Asimismo, se entiende que se encuentran en una circunstancia familiar de especial vulnerabilidad:
+
+1.º La familia numerosa, de conformidad con la legislación vigente.
+
+2.º La unidad familiar monoparental con dos hijos a cargo.
+
+3.º La unidad familiar de la que forme parte un menor de tres años.
+
+4.º La unidad familiar en la que alguno de sus miembros tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite de forma permanente, de forma acreditada, para realizar una actividad laboral.
+
+5.º El deudor mayor de 60 años, aunque no reúna los requisitos para ser considerado unidad familiar según lo previsto en la letra a) de este número.
+
+c) Que la cuota hipotecaria resulte superior al 50 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar. Dicho porcentaje será del 40 por cien cuando alguno de dichos miembros sea una persona en la que concurren las circunstancias previstas en el segundo párrafo del apartado a).
+
+A efectos de las letras a) y b) anteriores, se considerará que presentan una discapacidad en grado igual o superior al 33 por ciento los pensionistas de la Seguridad Social que tengan reconocida una pensión de incapacidad permanente en el grado de total, absoluta o gran invalidez, y a los pensionistas de clases pasivas que tengan reconocida una pensión de jubilación o de retiro por incapacidad permanente para el servicio o inutilidad.»
+
+Dos. Los apartados 2 y 3 del artículo 5 quedan redactados del siguiente modo:
+
+«2. La aplicación del Código de Buenas Prácticas se extenderá a las hipotecas constituidas en garantía de préstamos o créditos, cuando el precio de adquisición del bien inmueble hipotecado no exceda en un 20% del que resultaría de multiplicar la extensión del inmueble, por el precio medio por metro cuadrado para vivienda libre que arroje el Índice de Precios de la Vivienda elaborado por el Ministerio de Fomento para el año de adquisición del bien inmueble y la provincia en que esté radicada dicho bien, con un límite absoluto de 300.000 euros. Los inmuebles adquiridos antes del año 1995 tomarán como precio medio de referencia el relativo al año 1995.
+
+No obstante, solo podrán acogerse a las medidas previstas en el apartado 3 del Código las hipotecas constituidas en garantía de préstamos o créditos concedidos, cuando el precio de adquisición del bien inmueble hipotecado no exceda del que resultaría de multiplicar la extensión del inmueble, por el precio medio por metro cuadrado para vivienda libre que arroje el Índice de Precios de la Vivienda elaborado por el Ministerio de Fomento para el año de adquisición del bien inmueble y la provincia en que esté radicada dicho bien, con un límite absoluto de 250.000 euros. Los inmuebles adquiridos antes del año 1995 tomarán como precio medio de referencia el relativo al año 1995.
+
+3\. Las entidades comunicarán su adhesión a la Secretaría General del Tesoro y Política Financiera.»
+
+Tres. Se introduce un nuevo apartado iv en la letra b) del punto 1 del anexo, con la siguiente redacción:
+
+«iv. En todo caso, se inaplicarán con carácter indefinido las cláusulas limitativas de la bajada del tipo de interés previstas en los contratos de préstamo hipotecario.»
+
+#### Artículo 3. Modificación de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social.
+
+Los apartados 1, 2 y 3 del artículo 1 de la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, quedan redactados como sigue:
+
+«1. Hasta transcurridos cuatro años desde la entrada en vigor de esta Ley, no procederá el lanzamiento cuando en un proceso judicial o extrajudicial de ejecución hipotecaria se hubiera adjudicado al acreedor, o a persona que actúe por su cuenta, la vivienda habitual de personas que se encuentren en los supuestos de especial vulnerabilidad y en las circunstancias económicas previstas en este artículo.
+
+2\. Los supuestos de especial vulnerabilidad a los que se refiere el apartado anterior son:
+
+a) Familia numerosa, de conformidad con la legislación vigente.
+
+b) Unidad familiar monoparental con dos hijos a cargo.
+
+c) Unidad familiar de la que forme parte un menor de tres años.
+
+d) Unidad familiar en la que alguno de sus miembros tenga declarada discapacidad superior al 33 por ciento, situación de dependencia o enfermedad que le incapacite acreditadamente de forma permanente para realizar una actividad laboral.
+
+e) Unidad familiar en la que el deudor hipotecario se encuentre en situación de desempleo y haya agotado las prestaciones por desempleo.
+
+f) Unidad familiar con la que convivan, en la misma vivienda, una o más personas que estén unidas con el titular de la hipoteca o su cónyuge por vínculo de parentesco hasta el tercer grado de consanguinidad o afinidad, y que se encuentren en situación personal de discapacidad, dependencia, enfermedad grave que les incapacite acreditadamente de forma temporal o permanente para realizar una actividad laboral.
+
+g) Unidad familiar en que exista una víctima de violencia de género, conforme a lo establecido en la legislación vigente, en el caso de que la vivienda objeto de lanzamiento constituya su domicilio habitual.
+
+h) El deudor mayor de 60 años.
+
+3\. Para que sea de aplicación lo previsto en el apartado 1 deberán concurrir, además de los supuestos de especial vulnerabilidad previstos en el apartado anterior, las circunstancias económicas siguientes:
+
+a) Que el conjunto de los ingresos de los miembros de la unidad familiar no supere el límite de tres veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas. Dicho límite será de cuatro veces el Indicador Público de Renta de Efectos Múltiples anual de catorce pagas en los supuestos previstos en las letras d) y f) del apartado anterior, y de cinco veces dicho indicador en el caso de que el ejecutado sea persona con parálisis cerebral, con enfermedad mental o con discapacidad intelectual, con un grado de discapacidad reconocido igual o superior al 33 por ciento, o persona con discapacidad física o sensorial, con un grado de discapacidad reconocido igual o superior al 65 por ciento, así como en los casos de enfermedad grave que incapacite acreditadamente, a la persona o a su cuidador, para realizar una actividad laboral.
+
+b) Que, en los cuatro años anteriores al momento de la solicitud, la unidad familiar haya sufrido una alteración significativa de sus circunstancias económicas, en términos de esfuerzo de acceso a la vivienda.
+
+c) Que la cuota hipotecaria resulte superior al 50 por cien de los ingresos netos que perciba el conjunto de los miembros de la unidad familiar.
+
+d) Que se trate de un crédito o préstamo garantizado con hipoteca que recaiga sobre la única vivienda en propiedad del deudor y concedido para la adquisición de la misma.»
+
+## TÍTULO II — Otras medidas de orden social
+
+### CAPÍTULO I — Medidas en el ámbito tributario y de las Administraciones Públicas
+
+#### Artículo 4. Modificación de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+Con efectos desde 1 de enero de 2015 se introducen las siguientes modificaciones en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio:
+
+Uno. Se modifican los apartados 1 y 2 del artículo 81 bis, que quedan redactados de la siguiente forma:
+
+«1. Los contribuyentes que realicen una actividad por cuenta propia o ajena por la cual estén dados de alta en el régimen correspondiente de la Seguridad Social o mutualidad podrán minorar la cuota diferencial del impuesto en las siguientes deducciones:
+
+a) Por cada descendiente con discapacidad con derecho a la aplicación del mínimo por descendientes previsto en el artículo 58 de esta Ley, hasta 1.200 euros anuales.
+
+b) Por cada ascendiente con discapacidad con derecho a la aplicación del mínimo por ascendientes previsto en el artículo 59 de esta Ley, hasta 1.200 euros anuales.
+
+c) Por ser un ascendiente, o un hermano huérfano de padre y madre, que forme parte de una familia numerosa conforme a la Ley 40/2003, de 18 de noviembre, de Protección a las Familias Numerosas, o por ser un ascendiente separado legalmente, o sin vínculo matrimonial, con dos hijos sin derecho a percibir anualidades por alimentos y por los que tenga derecho a la totalidad del mínimo previsto en el artículo 58 de esta Ley, hasta 1.200 euros anuales.
+
+En caso de familias numerosas de categoría especial, esta deducción se incrementará en un 100 por ciento. Este incremento no se tendrá en cuenta a efectos del límite a que se refiere el apartado 2 de este artículo.
+
+Asimismo podrán minorar la cuota diferencial del impuesto en las deducciones previstas anteriormente los contribuyentes que perciban prestaciones contributivas y asistenciales del sistema de protección del desempleo, pensiones abonadas por el Régimen General y los Regímenes especiales de la Seguridad Social o por el Régimen de Clases Pasivas del Estado, así como los contribuyentes que perciban prestaciones análogas a las anteriores reconocidas a los profesionales no integrados en el régimen especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos por las mutualidades de previsión social que actúen como alternativas al régimen especial de la Seguridad Social mencionado, siempre que se trate de prestaciones por situaciones idénticas a las previstas para la correspondiente pensión de la Seguridad Social.
+
+Cuando dos o más contribuyentes tengan derecho a la aplicación de alguna de las anteriores deducciones respecto de un mismo descendiente, ascendiente o familia numerosa, su importe se prorrateará entre ellos por partes iguales, sin perjuicio de lo dispuesto en el apartado 4 de este artículo.
+
+2\. Las deducciones se calcularán de forma proporcional al número de meses en que se cumplan de forma simultánea los requisitos previstos en el apartado 1 anterior, y tendrán como límite para cada una de las deducciones, en el caso de los contribuyentes a que se refiere el primer párrafo del apartado 1 anterior, las cotizaciones y cuotas totales a la Seguridad Social y Mutualidades devengadas en cada período impositivo. No obstante, si tuviera derecho a la deducción prevista en las letras a) o b) del apartado anterior respecto de varios ascendientes o descendientes con discapacidad, el citado límite se aplicará de forma independiente respecto de cada uno de ellos.
+
+A efectos del cálculo de este límite se computarán las cotizaciones y cuotas por sus importes íntegros, sin tomar en consideración las bonificaciones que pudieran corresponder. »
+
+Dos. Se añade una nueva disposición adicional cuadragésima segunda, que queda redactada de la siguiente forma:
+
+«Disposición adicional cuadragésima segunda. Procedimiento para que los contribuyentes que perciben determinadas prestaciones apliquen las deducciones previstas en el artículo 81 bis y se les abonen de forma anticipada.
+
+1\. Los contribuyentes que perciban las prestaciones a que se refiere el sexto párrafo del apartado 1 del artículo 81 bis de esta Ley podrán practicar las deducciones reguladas en dicho apartado y percibirlas de forma anticipada en los términos previstos en el artículo 60 bis del Reglamento del Impuesto sobre la Renta de las Personas Físicas, con las siguientes especialidades:
+
+a) A efectos del cómputo del número de meses para el cálculo del importe de la deducción, el requisito de percibir las citadas prestaciones se entenderá cumplido cuando tales prestaciones se perciban en cualquier día del mes, y no será aplicable el requisito de alta en el régimen correspondiente de la Seguridad Social o Mutualidad.
+
+b) Los contribuyentes con derecho a la aplicación de estas deducciones podrán solicitar a la Agencia Estatal de Administración Tributaria su abono de forma anticipada por cada uno de los meses en que se perciban tales prestaciones.
+
+c) No resultará de aplicación el límite previsto en el apartado 1 del artículo 60 bis del Reglamento del Impuesto ni, en el caso de que se hubiera cedido a su favor el derecho a la deducción, lo dispuesto en la letra c) del apartado 5 del artículo 60 bis del Reglamento del Impuesto.
+
+2\. El Servicio Público de Empleo Estatal, la Seguridad Social, y las mutualidades de previsión social alternativas a las de la Seguridad Social y cualquier otro organismo que abonen las prestaciones y pensiones a que se refiere el sexto párrafo del apartado 1 del artículo 81 bis de esta Ley, estarán obligados a suministrar por vía electrónica a la Agencia Estatal de Administración Tributaria durante los diez primeros días de cada mes los datos de las personas a las que hayan satisfecho las citadas prestaciones o pensiones durante el mes anterior.
+
+El formato y contenido de la información serán los que, en cada momento, consten en la sede electrónica de la Agencia Estatal de Administración Tributaria en Internet.
+
+3\. Lo establecido en el apartado 1 de esta disposición adicional, así como el plazo, contenido y formato de la declaración informativa a que se refiere el apartado 2 de esta disposición adicional, podrá ser modificado reglamentariamente.»
+
+Tres. Se añade una nueva disposición adicional cuadragésima tercera, que queda redactada de la siguiente forma:
+
+«Disposición adicional cuadragésima tercera. Exención de rentas obtenidas por el deudor en procedimientos concursales.
+
+Estarán exentas de este Impuesto las rentas obtenidas por los deudores que se pongan de manifiesto como consecuencia de quitas y daciones en pago de deudas, establecidas en un convenio aprobado judicialmente conforme al procedimiento fijado en la Ley 22/2003, de 9 de julio, Concursal, en un acuerdo de refinanciación judicialmente homologado a que se refiere el artículo 71 bis y la disposición adicional cuarta de dicha ley, en un acuerdo extrajudicial de pagos a que se refiere el Título X o como consecuencia de exoneraciones del pasivo insatisfecho a que se refiere el artículo 178 bis de la misma Ley, siempre que las deudas no deriven del ejercicio de actividades económicas.»
+
+#### Artículo 5. Modificación de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público.
+
+La Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, se modifica en los siguientes términos:
+
+Uno. El apartado 1 del artículo 35 queda redactado de la siguiente manera:
+
+«1. Las Mesas a que se refieren los artículos 34, 36.3 y disposición adicional decimotercera de este Estatuto quedarán válidamente constituidas cuando, además de la representación de la Administración correspondiente, y sin perjuicio del derecho de todas las Organizaciones Sindicales legitimadas a participar en ellas en proporción a su representatividad, tales organizaciones sindicales representen, como mínimo, la mayoría absoluta de los miembros de los órganos unitarios de representación en el ámbito de que se trate.»
+
+Dos. Se introduce una nueva disposición adicional decimotercera con la siguiente redacción:
+
+«Disposición adicional decimotercera. Mesas de negociación en ámbitos específicos.
+
+1\. Para la negociación de las condiciones de trabajo del personal funcionario o estatutario de sus respectivos ámbitos, se constituirán las siguientes Mesas de Negociación:
+
+a) Del personal docente no universitario, para las cuestiones que deban ser objeto de negociación comprendidas en el ámbito competencial del Ministerio de Educación, Cultura y Deporte.
+
+b) Del personal de la Administración de Justicia, para las cuestiones que deban ser objeto de negociación comprendidas en el ámbito competencial del Ministerio de Justicia.
+
+c) Del personal estatutario de los servicios de Salud, para las cuestiones que deban ser objeto de negociación comprendidas en el ámbito competencial del Ministerio de Sanidad, Servicios Sociales e Igualdad y que asumirá las competencias y funciones previstas en el artículo 11.4 del Estatuto Marco del personal estatutario de los servicios de salud. Mesa que se denominará «Ámbito de Negociación».
+
+2\. Además de la representación de la Administración General del Estado, constituirán estas Mesas de Negociación, las organizaciones sindicales a las que se refiere el párrafo segundo del artículo 33.1 de este Estatuto, cuya representación se distribuirá en función de los resultados obtenidos en las elecciones a los órganos de representación propios del personal en el ámbito específico de la negociación que en cada caso corresponda, considerados a nivel estatal.»
+
+#### Artículo 6. Modificación del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+El artículo 12 del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, queda redactado de la siguiente manera:
+
+«Artículo 12. Determinación de las unidades electorales en la Administración General del Estado y en la Administración de Justicia.
+
+1\. En cumplimiento de lo dispuesto en el artículo 39.4 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, en el ámbito de la Administración General del Estado se elegirá una Junta Personal en cada una de las siguientes Unidades Electorales:
+
+a) Una por cada uno de los Departamentos ministeriales incluidos en ellos, sus Organismos Autónomos, Entidades gestoras y servicios comunes de la Administración de la Seguridad Social y todos los servicios provinciales de Madrid.
+
+b) Una por cada Agencia, ente público u organismo no incluido en el apartado anterior, para todos los servicios que tenga en la provincia de Madrid.
+
+c) Una en cada provincia, excluida la de Madrid, y en las ciudades de Ceuta y de Melilla, en la Delegación o Subdelegación de Gobierno, en la que se incluirán los Organismos Autónomos, Agencias comprendidas en el ámbito de aplicación de la Ley 28/2006, de 18 de julio, las Entidades gestoras y servicios comunes de la Administración de la Seguridad Social y las unidades administrativas y servicios provinciales de todos los Departamentos Ministeriales en una misma provincia, incluidos los funcionarios civiles que presten servicios en la Administración militar.
+
+d) Una para cada ente u organismo público, no incluido en el apartado anterior, para todos los servicios que tenga en una misma provincia o en las ciudades de Ceuta y de Melilla.
+
+e) Una para los funcionarios destinados en las misiones diplomáticas en cada país, representaciones permanentes, oficinas consulares e instituciones y servicios de la Administración del Estado en el extranjero.
+
+f) Una en cada provincia y en las ciudades de Ceuta y de Melilla, para el personal estatutario de los servicios públicos de salud.
+
+g) Una para el personal docente de los centros públicos no universitarios, en cada una de las ciudades de Ceuta y Melilla.
+
+2\. Aquellas Unidades Electorales a que se refiere el apartado anterior, con excepción de las referidas en la letra d), que no alcanzasen el mínimo de 50 funcionarios, éstos ejercerán su representación en la Junta de Personal del Departamento al que estuviera adscrito el Organismo o Unidad administrativa de que se trate.
+
+Las Unidades Electorales provinciales previstas en la letra d) que no alcanzasen el mínimo de 50 funcionarios, éstos ejercerán su representación en la Junta de Personal de Madrid del Organismo o Ente público que corresponda.
+
+3\. En la Administración de Justicia, se elegirá una Junta de Personal en cada provincia, y en las ciudades de Ceuta y de Melilla, para todo el personal funcionario a su servicio. Además de las anteriores, en Madrid se elegirá otra Junta de personal para el personal adscrito a los órganos centrales de la Administración de Justicia.
+
+4\. En las elecciones a representantes del personal laboral en el ámbito de la Administración General del Estado y de la Administración de Justicia, no transferida, constituirá un único centro de trabajo:
+
+a) La totalidad de las unidades o establecimientos de cada Departamento Ministerial, incluidos en ellos los correspondientes a sus Organismos Autónomos, entidades gestoras y servicios comunes de la Administración de la Seguridad Social y todos sus servicios provinciales, en Madrid.
+
+b) La totalidad de las unidades o establecimientos en la provincia de Madrid de cada una de las Agencias comprendidas en el ámbito de aplicación de la Ley 28/2006, organismos o entes públicos no incluidos en la letra anterior y las dependientes de la Administración de Justicia.
+
+c) La totalidad de las unidades o establecimientos al servicio de las Administración General del Estado, sus Organismos Autónomos, Entidades gestoras, servicios comunes de la Administración de la Seguridad Social y Agencias comprendidas en el ámbito de aplicación de la Ley 28/2006 que radiquen en una misma provincia, excluida la de Madrid, o en la ciudades de Ceuta y de Melilla. Se incluirán en este apartado las unidades y establecimientos dependientes de la Administración de Justicia.
+
+d) Constituirá, igualmente un único centro de trabajo la totalidad de los establecimientos de cada ente u organismo público no incluido en los apartados anteriores, radicados en una misma provincia o en las ciudades de Ceuta y de Melilla.
+
+5\. Lo dispuesto en este artículo producirá efectos al producirse el vencimiento de los mandatos electorales actualmente en vigor.
+
+6\. En todo caso las nuevas unidades electorales entrarán en vigor a partir del 1 de marzo de 2015, fecha en que todos los mandatos en vigor o prorrogados se extinguirán como consecuencia de la elección de los nuevos órganos de representación, elección que deberá producirse en el plazo de 10 meses desde la fecha indicada.»
+
+#### Artículo 7. Modificación de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2015, se modifica el apartado 3 del artículo 124 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, que queda redactada de la siguiente forma:
+
+«3. Los contribuyentes a que se refieren los apartados 2, 3 y 4 del artículo 9 de esta Ley estarán obligados a declarar la totalidad de sus rentas, exentas y no exentas.
+
+No obstante, los contribuyentes a que se refiere el apartado 3 del artículo 9 de esta Ley no tendrán obligación de presentar declaración cuando cumplan los siguientes requisitos:
+
+a) Que sus ingresos totales no superen 50.000 euros anuales.
+
+b) Que los ingresos correspondientes a rentas no exentas no superen 2.000 euros anuales.
+
+c) Que todas las rentas no exentas que obtengan estén sometidas a retención.»
+
+### CAPÍTULO II — Medidas relativas al fomento del empleo indefinido, el empleo autónomo y la protección social agraria.
+
+#### Artículo 8. Mínimo exento de cotización a la Seguridad Social para favorecer la creación de empleo indefinido.
+
+1\. En los supuestos de contratación indefinida en cualquiera de sus modalidades, siempre y cuando se cumplan las condiciones y requisitos establecidos en este artículo, la aportación empresarial a la cotización a la Seguridad Social por contingencias comunes se determinará conforme a las siguientes reglas:
+
+a) Si la contratación es a tiempo completo, los primeros 500 euros de la base de cotización por contingencias comunes correspondiente a cada mes quedarán exentos de la aplicación del tipo de cotización en la parte correspondiente a la empresa. Al resto del importe de dicha base le resultará aplicable el tipo de cotización vigente en cada momento.
+
+b) Si la contratación es a tiempo parcial, cuando la jornada de trabajo sea, al menos, equivalente a un 50 por 100 de la jornada de un trabajador a tiempo completo comparable, la cuantía señalada en la letra a) se reducirá de forma proporcional al porcentaje de reducción de jornada de cada contrato.
+
+2\. El beneficio en la cotización previsto en este artículo consistirá en una bonificación cuando la contratación indefinida se produzca con trabajadores inscritos en el Sistema Nacional de Garantía Juvenil que cumplan con los requisitos establecidos en el artículo 105 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, y en una reducción para el resto de trabajadores contratados.
+
+3\. El beneficio en la cotización se aplicará durante un período de 24 meses, computados a partir de la fecha de efectos del contrato, que deberá formalizarse por escrito, y respecto de los celebrados entre la fecha de entrada en vigor de este real decreto-ley y el 31 de agosto de 2016.
+
+Finalizado el período de 24 meses, y durante los 12 meses siguientes, las empresas que en el momento de celebrar el contrato al que se aplique este beneficio en la cotización contaran con menos de diez trabajadores tendrán derecho a mantener la bonificación o reducción, si bien durante este nuevo período estarán exentos de la aplicación del tipo de cotización los primeros 250 euros de la base de cotización o la cuantía proporcionalmente reducida que corresponda en los supuestos de contratación a tiempo parcial.
+
+Cuando las fechas del alta y de la baja del trabajador en el régimen de Seguridad Social que corresponda no sean coincidentes con el primero o el último día del mes natural, el importe al que se aplique el beneficio a que se refiere este artículo será proporcional al número de días en alta en el mes.
+
+4\. Para beneficiarse de lo previsto en este artículo, las empresas deberán cumplir los siguientes requisitos:
+
+a) Hallarse al corriente en el cumplimiento de sus obligaciones tributarias y de Seguridad Social, tanto en la fecha de efectos del alta de los trabajadores como durante la aplicación del beneficio correspondiente. Si durante el período de bonificación o reducción existiese un incumplimiento, total o parcial, de dichas obligaciones en plazo reglamentario, se producirá la pérdida automática del beneficio respecto de las cuotas correspondientes a períodos no ingresados en dicho plazo, teniéndose en cuenta tales períodos como consumidos a efectos del cómputo del tiempo máximo de bonificación o reducción.
+
+b) No haber extinguido contratos de trabajo, bien por causas objetivas o por despidos disciplinarios que hayan sido declarados judicialmente improcedentes, bien por despidos colectivos que hayan sido declarados no ajustados a Derecho, en los seis meses anteriores a la celebración de los contratos que dan derecho al beneficio previsto en este artículo. La exclusión del derecho a la bonificación o reducción derivada del incumplimiento de este requisito afectará a un número de contratos equivalente al de las extinciones producidas.
+
+c) Celebrar contratos indefinidos que supongan un incremento tanto del nivel de empleo indefinido como del nivel de empleo total de la empresa. Para calcular dicho incremento, se tomará como referencia el promedio diario de trabajadores que hayan prestado servicios en la empresa en los treinta días anteriores a la celebración del contrato.
+
+d) Mantener durante un periodo de 36 meses, a contar desde la fecha de efectos del contrato indefinido con aplicación de la bonificación o reducción, tanto el nivel de empleo indefinido como el nivel de empleo total alcanzado, al menos, con dicha contratación.
+
+Se examinará el mantenimiento del nivel de empleo indefinido y del nivel de empleo total cada doce meses. Para ello, se utilizarán el promedio de trabajadores indefinidos y el promedio de trabajadores totales del mes en que proceda examinar el cumplimiento de este requisito.
+
+A efectos de examinar el nivel de empleo y su mantenimiento en la empresa, no se tendrán en cuenta las extinciones de contratos de trabajo por causas objetivas o por despidos disciplinarios que no hayan sido declarados improcedentes, los despidos colectivos que no hayan sido declarados no ajustados a Derecho, así como las extinciones causadas por dimisión, muerte o incapacidad permanente total, absoluta o gran invalidez de los trabajadores o por la expiración del tiempo convenido o realización de la obra o servicio objeto del contrato, o por resolución durante el periodo de prueba.
+
+e) No haber sido excluidas del acceso a los beneficios derivados de la aplicación de los programas de empleo por la comisión de la infracción grave del artículo 22.2 o las infracciones muy graves de los artículos 16 y 23 del texto refundido de la Ley sobre infracciones y sanciones en el orden social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, de conformidad con lo previsto en el artículo 46 de dicha ley.
+
+5\. El beneficio en la cotización previsto en este artículo no se aplicará en los siguientes supuestos:
+
+a) Relaciones laborales de carácter especial previstas en el artículo 2 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 1/1995, de 24 de marzo, o en otras disposiciones legales.
+
+b) Contrataciones que afecten al cónyuge, ascendientes, descendientes y demás parientes por consanguinidad o afinidad, hasta el segundo grado inclusive, del empresario o de quienes tengan el control empresarial, ostenten cargos de dirección o sean miembros de los órganos de administración de las entidades o de las empresas que revistan la forma jurídica de sociedad, así como las que se produzcan con estos últimos.
+
+Se exceptúa de lo dispuesto en el párrafo anterior la contratación de los hijos que reúnan las condiciones previstas en la disposición adicional décima de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
+
+c) Contratación de trabajadores cuya actividad determine su inclusión en cualquiera de los sistemas especiales establecidos en el Régimen General de la Seguridad Social.
+
+d) Contratación de empleados que excepcionalmente pueda tener lugar en los términos establecidos en los artículos 20 y 21, así como en las disposiciones adicionales décima quinta a décima séptima de la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para el año 2015, y en preceptos equivalentes de posteriores Leyes de Presupuestos Generales del Estado.
+
+e) Contratación de trabajadores que hubiesen estado contratados en otras empresas del grupo de empresas del que formen parte y cuyos contratos se hubieran extinguido por causas objetivas o por despidos disciplinarios que hayan sido unos u otros declarados judicialmente como improcedentes, o por despidos colectivos que hayan sido declarados no ajustados a Derecho, en los seis meses anteriores a la celebración de los contratos que dan derecho a la reducción.
+
+f) Contratación de trabajadores que en los seis meses anteriores a la fecha del contrato hubiesen prestado servicios en la misma empresa o entidad mediante un contrato indefinido.
+
+El beneficio tampoco resultará aplicable a la cotización por horas complementarias que realicen los trabajadores a tiempo parcial cuyos contratos den derecho al mismo.
+
+6\. La aplicación de la bonificación o reducción a que se refiere este artículo no afectará a la determinación de la cuantía de las prestaciones económicas a que puedan causar derecho los trabajadores afectados, que se calculará aplicando el importe íntegro de la base de cotización que les corresponda.
+
+7\. La aplicación del beneficio previsto en este artículo será incompatible con la de cualquier otro beneficio en la cotización a la Seguridad Social por el mismo contrato, con independencia de los conceptos a los que tales beneficios pudieran afectar, con las siguientes excepciones:
+
+a) En el caso de que el contrato indefinido se formalice con personas beneficiarias del Sistema Nacional de Garantía Juvenil, será compatible con la bonificación establecida en el artículo 107 de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia.
+
+b) En el caso de que el contrato indefinido se formalice con personas beneficiarias del Programa de Activación para el Empleo, será compatible con la ayuda económica de acompañamiento que aquellas perciban, en los términos previstos en el artículo 8 del Real Decreto-ley 16/2014, de 19 de diciembre, por el que se regula el Programa de Activación para el Empleo.
+
+8\. Lo dispuesto en los apartados anteriores será también de aplicación en el supuesto de personas que se incorporen como socios trabajadores o de trabajo de las cooperativas, siempre que estas hayan optado por un régimen de Seguridad Social propio de trabajadores por cuenta ajena, así como a los que se incorporen como socios trabajadores de las sociedades laborales.
+
+9\. La aplicación de este beneficio en la cotización será objeto de control y revisión por el Servicio Público de Empleo Estatal, por la Tesorería General de la Seguridad Social y por la Inspección de Trabajo y Seguridad Social, en el ejercicio de las funciones que respectivamente tienen atribuidas.
+
+10\. En los supuestos de aplicación indebida del respectivo beneficio, por incumplir las condiciones establecidas en este artículo, procederá el reintegro de las cantidades dejadas de ingresar con el recargo y el interés de demora correspondientes, conforme a lo establecido en la normativa recaudatoria de la Seguridad Social.
+
+En caso de incumplimiento del requisito previsto en el apartado 4.d), quedará sin efecto la bonificación o reducción y se deberá proceder al reintegro de la diferencia entre los importes correspondientes a las aportaciones empresariales a la cotización por contingencias comunes que hubieran procedido en caso de no aplicarse aquella y las aportaciones ya realizadas, en los siguientes términos:
+
+1.º Si el incumplimiento de la exigencia del mantenimiento del nivel de empleo se produce desde la fecha de inicio de la aplicación del respectivo beneficio hasta el mes 12, corresponderá reintegrar el 100 por 100 de la citada diferencia.
+
+2.º Si el incumplimiento se produce desde el mes 13 y hasta el mes 24, corresponderá reintegrar la citada diferencia por los meses que hayan transcurrido desde el mes 13.
+
+3.º Si el incumplimiento se produce desde el mes 25 y hasta el mes 36, corresponderá reintegrar la citada diferencia por los meses que hayan transcurrido desde el mes 25.
+
+En los supuestos de reintegro por incumplimiento del requisito previsto en el apartado 4.d), que se llevarán a cabo conforme a lo establecido en la normativa recaudatoria de la Seguridad Social, no procederá exigir recargo e interés de demora.
+
+La obligación de reintegro prevista en este apartado se entiende sin perjuicio de lo dispuesto en el texto refundido de la Ley sobre infracciones y sanciones en el orden social.
+
+11\. La bonificación se financiará con cargo a la correspondiente partida presupuestaria del Servicio Público de Empleo Estatal, y será objeto de cofinanciación con cargo al Fondo Social Europeo cuando cumpla con los requisitos establecidos, y la reducción se financiará por el presupuesto de ingresos de la Seguridad Social.
+
+#### Artículo 9. Modificación de la Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo.
+
+Se añade un nuevo artículo 30 a la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, con la siguiente redacción:
+
+«Artículo 30. Bonificación a trabajadores incluidos en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos por conciliación de la vida profesional y familiar vinculada a la contratación.
+
+1\. Los trabajadores incluidos en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos tendrán derecho, por un plazo de hasta doce meses, a una bonificación del 100 por cien de la cuota de autónomos por contingencias comunes, que resulte de aplicar a la base media que tuviera el trabajador en los doce meses anteriores a la fecha en la que se acoja a esta medida el tipo de cotización mínimo de cotización vigente en cada momento establecido en el citado Régimen Especial en los siguientes supuestos:
+
+a) Por cuidado de menores de 7 años que tengan a su cargo.
+
+b) Por tener a su cargo un familiar, por consanguinidad o afinidad hasta el segundo grado inclusive, en situación de dependencia, debidamente acreditada.
+
+En el caso de que el trabajador lleve menos de 12 meses de alta en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos, la base media de cotización se calculará desde la fecha de alta.
+
+2\. La aplicación de la bonificación recogida en el apartado anterior estará condicionada a la permanencia en alta en el Régimen Especial de la Seguridad Social de Trabajadores por Cuenta Propia o Autónomos y a la contratación de un trabajador, a tiempo completo o parcial, que deberá mantenerse durante todo el periodo de su disfrute. En todo caso, la duración del contrato deberá ser, al menos, de 3 meses desde la fecha de inicio del disfrute de la bonificación.
+
+Cuando se extinga la relación laboral, incluso durante el periodo inicial de 3 meses, el trabajador autónomo podrá beneficiarse de la bonificación si contrata a otro trabajador por cuenta ajena en el plazo máximo de 30 días.
+
+El contrato a tiempo parcial no podrá celebrarse por una jornada laboral inferior al 50 por ciento de la jornada de un trabajador a tiempo completo comparable. Si la contratación es a tiempo parcial, la bonificación prevista en el apartado 1 de este artículo será del 50 por 100.
+
+3\. En caso de incumplimiento de lo previsto en el apartado anterior, el trabajador autónomo estará obligado a reintegrar el importe de la bonificación disfrutada.
+
+No procederá el reintegro de la bonificación cuando la extinción esté motivada por causas objetivas o por despido disciplinario cuando una u otro sea declarado o reconocido como procedente, ni en los supuestos de extinción causada por dimisión, muerte, jubilación o incapacidad permanente total, absoluta o gran invalidez del trabajador o por resolución durante el periodo de prueba.
+
+Cuando proceda el reintegro, este quedará limitado exclusivamente a la parte de la bonificación disfrutada que estuviera vinculada al contrato cuya extinción se hubiera producido en supuestos distintos a los previstos en el párrafo anterior.
+
+En caso de no mantenerse en el empleo al trabajador contratado durante, al menos, 3 meses desde la fecha de inicio del disfrute de la bonificación, el trabajador autónomo estará obligado a reintegrar el importe de la bonificación disfrutada, salvo que, conforme a lo dispuesto en el apartado anterior, se proceda a contratar a otra persona en el plazo de 30 días.
+
+En caso de que el menor que dio lugar a la bonificación prevista en este artículo alcanzase la edad de 7 años con anterioridad a la finalización del disfrute de la bonificación, esta se podrá mantener hasta alcanzar el periodo máximo de 12 meses previsto, siempre que se cumplan el resto de condiciones.
+
+En todo caso, el trabajador autónomo que se beneficie de la bonificación prevista en este artículo deberá mantenerse en alta en la Seguridad Social durante los seis meses siguientes al vencimiento del plazo de disfrute de la misma. En caso contrario el trabajador autónomo estará obligado a reintegrar el importe de la bonificación disfrutada.
+
+4\. Solo tendrán derecho a la bonificación los trabajadores por cuenta propia que carezcan de trabajadores asalariados en la fecha de inicio de la aplicación de la bonificación y durante los doce meses anteriores a la misma. No se tomará en consideración a los efectos anteriores al trabajador contratado mediante contrato de interinidad para la sustitución del trabajador autónomo durante los periodos de descanso por maternidad, paternidad, adopción o acogimiento tanto preadoptivo como permanente o simple, riesgo durante el embarazo o riesgo durante la lactancia natural.
+
+5\. Los beneficiarios de la bonificación tendrán derecho a su disfrute una vez por cada uno de los sujetos causantes a su cargo señalados en el apartado 1, siempre que se cumplan el resto de requisitos previstos en el presente artículo.
+
+6\. La medida prevista en este artículo será compatible con el resto de incentivos a la contratación por cuenta ajena, conforme a la normativa vigente.
+
+7\. En lo no previsto expresamente, las contrataciones realizadas al amparo de lo establecido en este artículo se regirán por lo dispuesto en el artículo 15.1.c) del Estatuto de los Trabajadores y sus normas de desarrollo.»
+
+#### Artículo 10. Reducción del número mínimo de jornadas reales cotizadas necesarias para acceder al subsidio por desempleo o a la renta agraria en favor de los trabajadores eventuales agrarios de las Comunidades Autónomas de Andalucía y Extremadura, afectados por el descenso de producción del olivar como consecuencia de la sequía.
+
+1\. Los trabajadores agrarios por cuenta ajena de carácter eventual que residan en el ámbito territorial de las Comunidades Autónomas de Andalucía y Extremadura, podrán ser beneficiarios del subsidio por desempleo regulado en el Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social y en el artículo tercero de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, o de la renta agraria establecida en el Real Decreto 426/2003, de 11 de abril, por el que se regula la renta agraria para los trabajadores eventuales incluidos en el Régimen Especial Agrario de la Seguridad Social residentes en las Comunidades Autónomas de Andalucía y Extremadura, aun cuando no tengan cubierto el número mínimo de jornadas reales cotizadas establecido en el artículo 2.1.c) o en el artículo 2.1.d), respectivamente, de los citados reales decretos, siempre que cumplan los siguientes requisitos:
+
+a) Tener cubierto un mínimo de 20 jornadas reales cotizadas en los doce meses naturales inmediatamente anteriores a la situación de desempleo.
+
+b) Reunir el resto de los requisitos exigidos en la normativa aplicable.
+
+c) Solicitarlo dentro de los seis meses siguientes a la entrada en vigor de este real decreto-ley.
+
+2\. Cuando se aplique lo previsto en el apartado 1 de este artículo, se considerará acreditado un número de 35 jornadas reales cotizadas a los efectos de lo establecido en:
+
+a) El artículo 5.1.a) del Real Decreto 5/1997, de 10 de enero.
+
+b) Los artículos 4.1 y 5.1.a) del Real Decreto 426/2003, de 11 de abril.
+
+3\. En las solicitudes que se presenten en los seis meses siguientes a la entrada en vigor de este real decreto-ley en el ámbito territorial indicado en el apartado 1, se estará a lo siguiente:
+
+a) Para aplicar la disposición transitoria primera del Real Decreto 5/1997, de 10 de enero, se deberá completar un número mínimo de 20 jornadas reales cotizadas, en la forma prevista en dicha disposición.
+
+b) Para aplicar lo establecido en el apartado 2 de la disposición transitoria segunda del Real Decreto 5/1997, de 10 de enero, se considerará acreditado un número de 35 jornadas reales cotizadas cuando se acredite un número igual o superior a 20 jornadas reales cotizadas.
+
+### CAPÍTULO III — Medidas en el ámbito de la Administración de Justicia
+
+#### Artículo 11. Modificación de La Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses.
+
+La Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses, queda modificada como sigue:
+
+Uno. Se modifica el artículo 4, que queda redactado como sigue:
+
+«Artículo 4. Exenciones de la tasa.
+
+1\. Las exenciones objetivas de la tasa están constituidas por:
+
+a) La interposición de demanda y la presentación de ulteriores recursos cuando se trate de los procedimientos especialmente establecidos para la protección de los derechos fundamentales y libertades públicas, así como contra la actuación de la Administración electoral.
+
+b) La solicitud de concurso voluntario por el deudor.
+
+c) La presentación de petición inicial del procedimiento monitorio y la demanda de juicio verbal en reclamación de cantidad cuando la cuantía de las mismas no supere dos mil euros. No se aplicará esta exención cuando en estos procedimientos la pretensión ejercitada se funde en un documento que tenga el carácter de título ejecutivo extrajudicial de conformidad con lo dispuesto en el artículo 517 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+d) La interposición de recursos contencioso-administrativos cuando se recurra en casos de silencio administrativo negativo o inactividad de la Administración.
+
+e) La interposición de la demanda de ejecución de laudos dictados por las Juntas Arbitrales de Consumo
+
+f) Las acciones que, en interés de la masa del concurso y previa autorización del Juez de lo Mercantil, se interpongan por los administradores concursales.
+
+g) Los procedimientos de división judicial de patrimonios, salvo en los supuestos en que se formule oposición o se suscite controversia sobre la inclusión o exclusión de bienes, devengando la tasa por el juicio verbal y por la cuantía que se discuta o la derivada de la impugnación del cuaderno particional a cargo del opositor, y si ambos se opusieren a cargo de cada uno por su respectiva cuantía.
+
+2\. Desde el punto de vista subjetivo, están, en todo caso, exentos de esta tasa:
+
+a) Las personas físicas.
+
+b) Las personas jurídicas a las que se les haya reconocido el derecho a la asistencia jurídica gratuita, acreditando que cumplen los requisitos para ello de acuerdo con su normativa reguladora.
+
+c) El Ministerio Fiscal.
+
+d) La Administración General del Estado, las de las Comunidades Autónomas, las entidades locales y los organismos públicos dependientes de todas ellas.
+
+e) Las Cortes Generales y las Asambleas Legislativas de las Comunidades Autónomas.»
+
+Dos. Se suprime el párrafo segundo del apartado 2 el artículo 6.
+
+Tres. Se modifica el párrafo primero del apartado 2, que queda redactado como sigue, y se suprime el apartado 3 del artículo 7:
+
+«2. Deberá satisfacerse, además, la cantidad que resulte de aplicar a la base imponible determinada con arreglo a lo dispuesto en el artículo anterior, el tipo de gravamen que corresponda, según la siguiente escala.»
+
+Cuatro. Se añade un párrafo segundo al apartado primero del artículo 8, que queda redactado como sigue:
+
+«No obstante, no tendrán que presentar autoliquidación los sujetos a los que se refiere el apartado 2 del artículo 4.»
+
+#### Disposición adicional primera. Funciones de mediación concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.p) Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición adicional segunda. Remuneración del mediador concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.p) Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición adicional tercera. Representación del deudor en el concurso consecutivo.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.p) Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición adicional cuarta. Medidor de solvencia.
+
+Con el objetivo de facilitar que cualquier interesado pueda tener conocimiento de su situación financiera personal, se habilitará una aplicación informática en la página web del Ministerio de Economía y Competitividad accesible de forma confidencial, gratuita y telemática a través de la cual se podrá determinar la situación de solvencia en la que se encuentra a los efectos de la aplicación de lo previsto en el título I de este real decreto-ley.
+
+#### Disposición adicional quinta. Adhesión al «Código de Buenas Prácticas para la reestructuración viable de las deudas con garantía hipotecaria sobre la vivienda habitual».
+
+1\. Todas las entidades que a la entrada en vigor de este real decreto-ley se encontrasen adheridas al «Código de Buenas Prácticas para la reestructuración viable de las deudas con garantía hipotecaria sobre la vivienda habitual», regulado en el anexo del Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, de conformidad con las redacciones vigentes en el momento de su adhesión, se considerarán adheridas al mencionado Código en la redacción dada en este real decreto-ley, salvo que en el plazo de un mes desde su entrada en vigor comuniquen expresamente a la Secretaría General del Tesoro y Política Financiera el acuerdo de su órgano de administración por el que solicitan mantenerse en el ámbito de aplicación de las versiones previas que correspondan.
+
+2\. En los diez días siguientes al transcurso del plazo de un mes establecido en el apartado anterior, el Secretario de Estado de Economía y Apoyo a la Empresa, mediante resolución, ordenará la publicación del listado de entidades adheridas en la sede electrónica de la Secretaría General del Tesoro y Política Financiera y en el «Boletín Oficial del Estado». Las posteriores comunicaciones se publicarán trimestralmente en la sede electrónica de la Secretaría General del Tesoro y Política Financiera y en el «Boletín Oficial del Estado», salvo que no hubiera modificación alguna.
+
+#### Disposición adicional sexta. Impulso y coordinación de la negociación colectiva.
+
+La Secretaría de Estado de Administraciones Públicas estará representada en las Mesas de negociación del personal docente no universitario, del personal de la Administración de Justicia y del personal estatutario de los servicios de salud, a través de la Dirección General de la Función Pública.
+
+La Secretaría de Estado de Administraciones Públicas adoptará las medidas oportunas para impulsar y asegurar la coordinación de la negociación de la Administración a través de las distintas Mesas y ámbitos.
+
+#### Disposición transitoria primera. Régimen transitorio en materia concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.p) Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria segunda. Régimen aplicable a la contratación indefinida formalizada con anterioridad a la entrada en vigor de este real decreto-ley.
+
+Los beneficios a la cotización a la Seguridad Social que se vinieran disfrutando por los contratos indefinidos celebrados con anterioridad a la fecha de entrada en vigor de este real decreto-ley, se regirán por la normativa vigente en el momento de su celebración.
+
+#### Disposición transitoria tercera. Solicitudes del subsidio por desempleo o de la renta agraria presentadas con anterioridad a la entrada en vigor de este real decreto ley.
+
+Lo dispuesto en el artículo 10 será también de aplicación a los trabajadores referidos en el mismo que hubieran presentado entre el 1 de septiembre de 2014 y la entrada en vigor de este real decreto ley la solicitud del subsidio por desempleo regulada en el Real Decreto 5/1997, de 10 de enero, o de la renta agraria regulada en el Real Decreto 426/2003, de 11 de abril, siempre que presenten una nueva solicitud a partir de dicha entrada en vigor y dentro de los seis meses siguientes a la misma.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto-ley.
+
+#### Disposición final primera. Título competencial.
+
+1\. Las modificaciones de textos legales contenidas en este real decreto-ley se amparan en el título competencial establecido en la norma objeto de modificación.
+
+2\. El artículo 4 se dicta al amparo de lo dispuesto en el artículo 149.1.14.ª de la Constitución Española que atribuye al Estado la competencia en materia de Hacienda general.
+
+3\. Los artículos 8 y 10 y las disposiciones transitorias segunda y tercera se dictan al amparo de lo establecido en el artículo 149.1.17.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre el régimen económico de la Seguridad Social.
+
+4\. Las disposiciones adicionales primera a quinta y la disposición transitoria primera se dictan al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación mercantil y de legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
+
+5\. La disposición adicional sexta se dicta al amparo de los artículos 149.1.7.ª y 18.ª de la Constitución Española.
+
+#### Disposición final segunda. Desarrollo reglamentario, ejecución y aplicación.
+
+1\. El Gobierno, a propuesta conjunta de los Ministros de Justicia y de Hacienda y Administraciones Públicas, dictará las disposiciones reglamentarias complementarias que sean necesarias para la aplicación de las tasas por el ejercicio de la potestad jurisdiccional con las modificaciones efectuadas por este real decreto-ley.
+
+2\. Por Orden del Ministro de Hacienda y Administraciones Públicas se modificarán los modelos de autoliquidación de la tasa para adaptarlos a las reformas efectuadas en este real decreto-ley.
+
+3\. Se autoriza al Ministerio de Hacienda y Administraciones Públicas, a través de la Secretaría de Estado de Administraciones Públicas, para que dicte las disposiciones, instrucciones y medidas que sean necesarias para el desarrollo efectivo de los procesos electorales a los órganos de participación y negociación colectiva de los empleados públicos, en el ámbito de sus competencias.
+
+4\. Sin perjuicio de lo dispuesto en los apartados anteriores de esta disposición, se autoriza al Gobierno y a los Ministros de Justicia, Hacienda y Administraciones Públicas, Empleo y Seguridad Social y Economía y Competitividad, para que, en el ámbito de sus competencias, dicten las disposiciones reglamentarias y medidas que sean precisas para el desarrollo y aplicación de esta regulación legal.
+
+#### Disposición final tercera. Entrada en vigor.
+
+Este real decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de febrero de 2015.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+MARIANO RAJOY BREY

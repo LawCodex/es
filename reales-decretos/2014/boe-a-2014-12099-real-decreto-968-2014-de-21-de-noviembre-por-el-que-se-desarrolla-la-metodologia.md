@@ -1,0 +1,73 @@
+---
+title: "Real Decreto 968/2014, de 21 de noviembre, por el que se desarrolla la metodología para la fijación de los porcentajes de reparto de las cantidades a financiar relativas al bono social"
+identifier: "BOE-A-2014-12099"
+eli: "https://www.boe.es/eli/es/rd/2014/11/21/968"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Energía y Turismo"
+date: 2014-11-21
+published: 2014-11-22
+in_force_from: 2014-11-23
+last_amended: 2022-03-11
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 283"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-12099"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 968/2014, de 21 de noviembre, por el que se desarrolla la metodología para la fijación de los porcentajes de reparto de las cantidades a financiar relativas al bono social
+
+La Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, contempla en su artículo 45 los aspectos relativos a los consumidores vulnerables, determinando que serán considerados como tales los consumidores de electricidad que cumplan con las características sociales, de consumo y poder adquisitivo que se determinen por real decreto del Consejo de Ministros. Asimismo, establece que el bono social cubrirá la diferencia entre el valor del precio voluntario para el pequeño consumidor y un valor base, que se denominará tarifa de último recurso y será aplicado por el correspondiente comercializador de referencia en las facturas de los consumidores que puedan quedar acogidos al mismo.
+
+El Real Decreto 216/2014, de 28 de marzo, por el que se establece la metodología de cálculo de los precios voluntarios para el pequeño consumidor de energía eléctrica y su régimen jurídico de contratación, regula en su artículo 16 el precio de la tarifa de último recurso que deberán pagar al comercializador de referencia los consumidores vulnerables por la electricidad consumida, y determina que dicho precio será el que resulte de aplicar al suministro lo previsto para el cálculo del precio voluntario para el pequeño consumidor descontando un 25 por ciento en todos los términos que lo componen.
+
+El mencionado artículo 45 de la Ley 24/2013, de 26 de diciembre, regula asimismo los aspectos relativos al reparto del coste del bono social. Así, configura como obligación de servicio público el bono social, según lo dispuesto en la Directiva 2009/72/CE del Parlamento Europeo y del Consejo, de 13 de julio de 2009, sobre normas comunes para el mercado interior de la electricidad y por la que se deroga la Directiva 2003/54/CE, señalando que el mismo será asumido por las matrices de los grupos de sociedades o, en su caso, sociedades que desarrollen simultáneamente las actividades de producción, distribución y comercialización de energía eléctrica.
+
+Además de ello, se establece que el mecanismo de determinación de los porcentajes de reparto de las cantidades a financiar se deberá calcular anualmente por la Comisión Nacional de los Mercados y la Competencia, señalando que dicho cálculo se hará de acuerdo al procedimiento y condiciones que se establezcan reglamentariamente. Asimismo, la citada Comisión deberá publicar en su página web la información que determina la norma y remitir una propuesta de fijación de los porcentajes de reparto de cada una de las sociedades, correspondiendo al Ministro de Industria, Energía y Turismo su aprobación por orden que será publicada en el «Boletín Oficial del Estado».
+
+Por tanto, el presente real decreto tiene como objeto proceder al desarrollo de la previsión contenida en el apartado 4 del artículo 45 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, en lo relativo al procedimiento y condiciones para el cálculo del porcentaje de reparto de las cantidades a financiar relativas al bono social, de forma que se garantice su realización de manera equitativa y no discriminatoria.
+
+De acuerdo con lo establecido en el artículo 5.2.a) de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, lo dispuesto en este real decreto ha sido informado por la Comisión Nacional de los Mercados y la Competencia. El trámite de audiencia ha sido evacuado mediante consulta a los representantes en el Consejo Consultivo de Electricidad, de acuerdo a lo previsto en la disposición transitoria décima de la citada Ley 3/2013, de 4 de junio.
+
+En su virtud, a propuesta del Ministro de Industria, Energía y Turismo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de noviembre de 2014,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto tiene como objeto establecer el método y las condiciones para el cálculo de los porcentajes de reparto de las cantidades a financiar relativas al bono social, de acuerdo con lo dispuesto en el artículo 45.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+## Artículo 2. Método de cálculo de los porcentajes de reparto.
+
+**(Anulado)**
+
+> Se declara inaplicable y nulo por Sentencias del TS de 24 de octubre de 2016 [Ref. BOE-A-2016-11283](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11283), [Ref. BOE-A-2016-11284](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11284), de 25 de octubre de 2016 [Ref. BOE-A-2016-11285](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11285), de 2 de noviembre de 2016. [Ref. BOE-A-2016-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11286), de 20 de diciembre de 2021. [Ref. BOE-A-2022-2927](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2927) y de 21 de diciembre de 2021. [Ref. BOE-A-2022-3812](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3812)
+
+> Téngase en cuenta que se anula la Sentencia del TS de 24 de octubre de 2016 [Ref. BOE-A-2016-11283](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11283) por Sentencia del TC 37/2019, de 26 de marzo de 2019. [Ref. BOE-A-2019-6193](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6193)
+
+## Artículo 3. Condiciones para el cálculo de los porcentajes de reparto.
+
+**(Anulado)**
+
+> Se declara inaplicable y nulo por Sentencias del TS de 24 de octubre de 2016 [Ref. BOE-A-2016-11283](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11283) y [Ref. BOE-A-2016-11284](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11284), de 25 de octubre de 2016 [Ref. BOE-A-2016-11285](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11285), de 2 de noviembre de 2016. [Ref. BOE-A-2016-11286](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11286), de 20 de diciembre de 2021 [Ref. BOE-A-2022-2927](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2927) y de 21 de diciembre de 2021. [Ref. BOE-A-2022-3812](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3812)
+
+> Téngase en cuenta que se anula la Sentencia del TS de 24 de octubre de 2016 [Ref. BOE-A-2016-11283](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11283) por Sentencia del TC 37/2019, de 26 de marzo de 2019. [Ref. BOE-A-2019-6193](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6193)
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 21 de noviembre de 2014.
+
+FELIPE R.
+
+El Ministro de Industria, Energía y Turismo,
+
+JOSÉ MANUEL SORIA LÓPEZ

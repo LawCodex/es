@@ -1,0 +1,107 @@
+---
+title: "Orden EHA/2219/2010, de 29 de julio, por la que se aprueba el sistema de firma electrónica de clave concertada para actuaciones en la sede electrónica de la Dirección General del Catastro"
+identifier: "BOE-A-2010-13070"
+eli: "https://www.boe.es/eli/es/o/2010/07/29/eha2219"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2010-07-29
+published: 2010-08-12
+in_force_from: 2010-09-01
+last_amended: 2021-12-22
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 195"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-13070"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/2219/2010, de 29 de julio, por la que se aprueba el sistema de firma electrónica de clave concertada para actuaciones en la sede electrónica de la Dirección General del Catastro
+
+La aplicación al ámbito catastral de las previsiones de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos hace imprescindible que la Dirección General del Catastro facilite el uso de medios electrónicos en los procedimientos que gestiona. El carácter obligatorio de la incorporación al Catastro de los bienes inmuebles y de sus alteraciones determina que los procedimientos catastrales afecten a un número muy elevado de ciudadanos por lo que, dada la amplitud y heterogeneidad del colectivo de interesados, la prestación de servicios electrónicos sería muy limitada si quedase condicionada en todos los procedimientos a que dichos interesados contaran con un certificado electrónico reconocido.
+
+El artículo 13.2.c) de la mencionada Ley 11/2007, faculta a las Administraciones Públicas para determinar, teniendo en cuenta los datos e intereses afectados y siempre de forma justificada, los supuestos y condiciones de utilización por los ciudadanos de otros sistemas de firma electrónica, como la utilización de claves concertadas en un registro previo como usuario.
+
+En virtud de lo anteriormente expuesto y con el objeto de facilitar al máximo la relación electrónica con la Dirección General del Catastro, resulta conveniente que el ciudadano pueda utilizar, además del DNI electrónico o cualquier otro sistema de firma electrónica avanzada admitido por las Administraciones Públicas, una clave concertada que la propia Dirección General del Catastro le proporcione, garantizando en todo caso las máximas precauciones respecto a su generación, comunicación y utilización. La incorporación de este sistema de firma cumple los requisitos exigidos por la Ley 11/2007: su utilización tiene carácter voluntario, se facilita el acceso del interesado a las actuaciones catastrales, los datos a los que afecta la gestión catastral únicamente requieren medidas de seguridad de nivel medio y en ningún caso las actuaciones catastrales implican transacciones dinerarias.
+
+En consecuencia y de conformidad con el artículo 11 del Real Decreto 1671/2009, de 6 de noviembre, que establece que la admisión de otros sistemas de firma electrónica a que se refiere el artículo 13.2.c) de la Ley 11/2007 deberá aprobarse mediante orden ministerial, previo informe del Consejo Superior de Administración Electrónica, resuelvo:
+
+## Primero.
+
+Aprobar el sistema de firma electrónica denominado clave concertada para las actuaciones en la Sede Electrónica de la Dirección General del Catastro en las que se encuentre específicamente habilitado este sistema, en los términos y con las garantías que se contienen en el anexo de la presente orden.
+
+En la Sede electrónica de la Dirección General del Catastro se publicarán las actuaciones en las que es admisible este sistema de clave concertada.
+
+## Segundo.
+
+La Dirección General del Catastro es el órgano responsable de la aplicación del sistema de clave concertada que se aprueba mediante la presente orden.
+
+La Inspección General del Ministerio de Economía y Hacienda comprobará, al amparo de las competencias que le atribuye el Real Decreto 1127/2008, de 4 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Hacienda y conforme a su propia normativa de actuación, la gestión, garantías y seguridad del sistema.
+
+## Tercero.
+
+El sistema de firma descrito en la presente orden tendrá validez temporal y predefinida, y permitirá a los interesados el acceso a la actuación concreta ligada con la clave concertada.
+
+> Se modifica por el art. único.1 de la Orden HAP/2553/2015, de 25 de noviembre. [Ref. BOE-A-2015-13054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13054).
+
+## Cuarto.
+
+De conformidad con la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, la utilización de la clave concertada tendrá carácter voluntario. El consentimiento de los interesados para el uso de este sistema de firma se producirá mediante su registro previo como usuarios, de conformidad con lo previsto en el anexo de la presente orden.
+
+A tal efecto, la Dirección General del Catastro, de oficio o a instancia de los interesados, les informará de la actuación electrónica en la que es posible el uso de la clave concertada como sistema de firma, del procedimiento para realizar el registro a que se refiere al apartado anterior, y del plazo de vigencia de la clave concertada.
+
+## Quinto.
+
+La Sede Electrónica de la Dirección General del Catastro emitirá, como acuse de recibo de la actuación realizada mediante la clave concertada, un documento electrónico firmado por la Dirección General del Catastro mediante alguno de los sistemas de firma para la actuación administrativa automatizada previstos por el artículo 18 de la Ley 11/2007, de 22 de junio.
+
+Contra esta orden, que pone fin a la vía administrativa, podrá interponerse potestativamente recurso de reposición en el plazo de un mes, de conformidad con los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común o recurso contencioso-administrativo, en el plazo de dos meses desde su publicación, ante el órgano jurisdiccional competente, de conformidad con lo dispuesto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.
+
+Madrid, 29 de julio de 2010.–La Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, Elena Salgado Méndez.
+
+## ANEXO
+
+**I. Descripción del sistema de clave concertada**
+
+1\. El sistema de firma de clave concertada se basa en el intercambio en un entorno seguro de un número de referencia o código que se genera automáticamente mediante un algoritmo que relaciona de manera exclusiva una serie de datos conocidos y únicos para un ciudadano determinado y un trámite o actuación concreta, pudiendo ser almacenado en el sistema de información de la Dirección General del Catastro.
+
+2\. La comunicación al interesado del número de referencia o código necesario para la tramitación electrónica con clave concertada se realizará a través de un canal seguro, mediante carta informativa remitida a la dirección postal del interesado o por vía electrónica, presencial o telefónica. Podrá realizarse de oficio por la Dirección General del Catastro o a solicitud del interesado. La comunicación contendrá el código e informará de la actuación electrónica en la que es posible el uso de la clave concertada como sistema de identificación y firma, del procedimiento para realizar el registro a que se refiere el apartado siguiente y del plazo de vigencia de la clave concertada, así como sus posibilidades y límites de utilización.
+
+3\. El interesado, una vez disponga del código, puede registrarse en la Sede Electrónica de la Dirección General del Catastro a través de Internet o cualquier otra vía equivalente que permita la conexión, en la dirección https://www.sedecatastro.gob.es.
+
+El registro del interesado y su correlativa identificación y autenticación en la Sede se realiza mediante la introducción del código proporcionado, solicitando, adicionalmente, la aportación de otros datos referidos al interesado, conocidos únicamente por él y por la Dirección General del Catastro. Ello permite el acceso a la actuación electrónica concreta tras comprobarse por medio de una aplicación informática que la clave generada es correcta.
+
+4\. La clave concertada tiene una validez constreñida a un tipo de actuación determinado y para un plazo de tiempo predefinido y delimitado, de manera que no es posible su utilización como medio de firma electrónica fuera de dicho ámbito y del plazo temporal fijado.
+
+5\. Cuando la actuación realizada implique la presentación de documentos electrónicos en la Sede Electrónica del Catastro, ésta devolverá un acuse de recibo, en los términos previstos en la Orden HAP/1200/2012, de 5 de junio, sobre uso del sistema de código seguro de verificación por la Dirección General del Catastro, y dará lugar a un asiento en el Registro Electrónico del Ministerio de Hacienda y Administraciones Públicas, en los términos señalados en la Orden HAP/547/2013, de 2 de abril, por la que se crea y se regula el Registro Electrónico del Ministerio de Hacienda y Administraciones Públicas.
+
+6\. El sistema de clave concertada descrito incorpora el proceso de registro previo del interesado como usuario, acredita su consentimiento y voluntariedad en el uso del mismo, sirve como forma de identificación electrónica, permitiéndole la realización de un trámite determinado o el acceso a una información concreta y constituye el medio por el cual el interesado firma electrónicamente el justificante de la actuación realizada.
+
+Este justificante también incorpora la firma de la Dirección General del Catastro mediante alguno de los sistemas de firma para la actuación administrativa automatizada previstos por el artículo 18 de la Ley 11/2007, de 22 de junio y se pondrá a disposición del interesado en formato PDF para su descarga como acuse de recibo.
+
+El proceso descrito, al dejar constancia del consentimiento del interesado, garantiza la integridad y no repudio por ambas partes de los documentos electrónicos concernidos en la actuación realizada, conforme a los criterios y condiciones previstas en el Real Decreto 3/2010, de 8 de enero, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración electrónica.
+
+**II. Garantías de funcionamiento**
+
+1\. Las características del sistema garantizan su funcionamiento conforme a los criterios de seguridad, integridad, confidencialidad, autenticidad, no suplantación de identidad y no repudio previstos en la Ley 11/2007 y su normativa de desarrollo.
+
+El algoritmo para la generación y comprobación de la clave concertada se genera en un entorno seguro utilizado única y exclusivamente por aplicaciones informáticas, de forma automatizada y sin intervenciones manuales.
+
+La confidencialidad, no suplantación de identidad y no repudio de la clave concertada se basa en la aplicación informática que la verifica de forma automática en el momento de su uso, siendo conocida única y exclusivamente por el interesado y por la Dirección General del Catastro.
+
+La seguridad del sistema se ve reforzada por el carácter temporal de la clave y por su vinculación a un tipo de actuación determinada, no siendo posible su utilización como medio de firma electrónica fuera de dicho ámbito.
+
+2\. Las aplicaciones gestoras de las actuaciones de administración electrónica que admitan el uso de la clave concertada dejarán la constancia de la identidad del interesado que acceda al procedimiento, acreditada a través de la clave. Asimismo, generarán los correspondientes apuntes en la base de datos de la Dirección General del Catastro y emitirán y registrarán un documento electrónico como justificante de la operación realizada, firmado por el interesado con su clave concertada y por la Dirección General del Catastro mediante alguno de los sistemas de firma para la actuación administrativa automatizada previstos por el artículo 18 de la Ley 11/2007, de 22 de junio. Este acuse de recibo permitirá identificar de forma unívoca la actuación realizada, garantizando su autenticidad y el no repudio por ambas partes.
+
+3\. Siempre que sea preciso, la Dirección General del Catastro certificará la existencia y contenido de las actuaciones en que los interesados hayan utilizado el sistema de clave concertada como forma de identificación, de conformidad con el artículo 16.3 de la Ley 11/2007, de 22 de junio.
+
+4\. Las actuaciones susceptibles de tramitación electrónica mediante el sistema de clave concertada como medio de identificación y autenticación rechazarán de forma automática el acceso cuando la clave no fuera válida o no estuviera vigente en el momento de su utilización, indicándose, en tal caso, la causa del rechazo.
+
+> Se modifica el punto 4 del apartado I por el art. único de la Orden HFP/1423/2021, de 20 de diciembre de 2021. [Ref. BOE-A-2021-21099](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21099)
+
+> Se modifica por el art. único.2 de la Orden HAP/2553/2015, de 25 de noviembre. [Ref. BOE-A-2015-13054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13054).
+
+> Información relacionada
+
+> Las referencias realizadas por la presente orden a la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, se entenderán realizadas a los correspondientes artículos de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas [Ref. BOE-A-2015-10565](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10565), según establece la disposición adicional de la Orden HAP/2553/2015, de 25 de noviembre. [Ref. BOE-A-2015-13054](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13054).

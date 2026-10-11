@@ -1,0 +1,241 @@
+---
+title: "Circular 1/2009, de 18 de diciembre, del Banco de España, a entidades de crédito y otras supervisadas, en relación con la información sobre la estructura de capital y cuotas participativas de las entidades de crédito, y sobre sus oficinas, así como sobre los altos cargos de las entidades supervisadas"
+identifier: "BOE-A-2009-21183"
+eli: "https://www.boe.es/eli/es/cir/2009/12/18/1"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2009-12-18
+published: 2009-12-31
+in_force_from: 2010-01-20
+last_amended: 2024-02-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 315"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-21183"
+retrieved: 2026-10-11
+---
+
+# Circular 1/2009, de 18 de diciembre, del Banco de España, a entidades de crédito y otras supervisadas, en relación con la información sobre la estructura de capital y cuotas participativas de las entidades de crédito, y sobre sus oficinas, así como sobre los altos cargos de las entidades supervisadas
+
+La presente Circular tiene por objeto actualizar la normativa del Banco de España relativa a la información que tienen que comunicarle las entidades de crédito sobre sus accionistas o socios, y sobre sus oficinas operativas (regulada, respectivamente, en la Circular 6/1995, de 31 de octubre, de Información sobre la estructura del capital de las entidades de crédito, y en la Circular 8/1990, de 7 de septiembre, sobre Transparencia de las operaciones y protección de la clientela), con objeto tanto de incorporar las modificaciones en la regulación que les afecta, como de armonizar los datos que deben declararse para facilitar su tratamiento y gestión informática.
+
+Asimismo, en esta Circular se regula por primera vez la información que tienen que comunicar las cajas de ahorros que emiten cuotas participativas, de acuerdo con lo previsto en el artículo 11 del Real Decreto 302/2004, de 20 de febrero, sobre cuotas participativas de las cajas de ahorros.
+
+Del mismo modo, pretende armonizar simultáneamente en una única norma y en un solo formulario las comunicaciones que los distintos tipos de entidades supervisadas, por razones supervisoras o por imposición de los respectivos registros de altos cargos creados por la normativa, han de remitir al Banco de España en relación con sus cargos de administración y dirección, quedando derogada consecuentemente la Circular 13/1988, de 27 de octubre, sobre altos cargos de entidades de crédito.
+
+Las facultades del Banco de España en este ámbito vienen conferidas, en consecuencia, por dos tipos de fuentes:
+
+En primer lugar, las distintas normas sectoriales estatales que a continuación se relacionan para cada clase o tipo de entidad, y que imponen la creación y gestión por parte del Banco de España de registros oficiales de altos cargos:
+
+Bancos y sucursales de crédito extranjeras: Decreto 702/1969, de 26 de abril, de desarrollo de la Ley 31/1968, de 27 de julio, sobre régimen de incompatibilidades y limitaciones de altos cargos de la banca y determinación de límites en concesión de crédito, a su vez desarrollado por la Orden de 22 de mayo de 1969, del Ministerio de Hacienda.
+
+Sociedades dominantes de bancos: Real Decreto 1245/1995, de 14 de julio, sobre creación de bancos, actividad transfronteriza y otras cuestiones relativas al régimen jurídico de las entidades de crédito (art. 2.6).
+
+Cooperativas de crédito: Ley 13/1989, de 26 de mayo, de cooperativas de crédito (art. 9.9) y su Reglamento de desarrollo (art. 28), aprobado mediante Real Decreto 84/1993, de 22 de enero.
+
+Establecimientos financieros de crédito y sus sociedades dominantes no financieras: Real Decreto 692/1996, de 26 de abril (art. 5.3).
+
+Entidades de dinero electrónico y sus sociedades dominantes: Real Decreto 322/2008, de 29 de febrero (art. 6, apartados 5 y 6, respectivamente).
+
+Sociedades de garantía recíproca: Ley 1/1994, de 11 de marzo (art. 14).
+
+Sociedades de reafianzamiento: Real Decreto 1644/1997, de 31 de octubre (art. 6).
+
+Sociedades de tasación: Real Decreto 775/1997, de 30 de mayo (art. 14).
+
+Y en segundo término, en lo que se refiere a las razones supervisoras, la Ley 26/1988, de 29 de julio, de Disciplina e intervención de las entidades de crédito, así como otras normas estatales sectoriales, que otorgan al Banco de España facultades de control, supervisoras y sancionadoras sobre determinadas entidades y sus cargos de administración y dirección, para cuyo ejercicio resulta preciso que aquél disponga de cierta información concerniente a estos. En particular, respecto a los altos directivos, y a efectos de disponer de una información completa sobre los de aquellas entidades que por su dimensión o complejidad suelen tener, más que un único director general, cargos asimilados (o comisiones u órganos ejecutivos que se ocupan de la gestión diaria de la entidad) dependientes directamente del consejo de administración, se ha considerado preciso extender las obligaciones de información a estas personas, aunque se trate de directores de área, en el bien entendido de que ello no supone que por esa vía pretendan ampliarse ni las incompatibilidades establecidas legalmente, que solo afectan a quienes señalan las normas, ni tampoco el ámbito de los correspondientes registros de altos cargos de las Comunidades Autónomas cuando dispongan de ellos.
+
+Por último, se efectúan distintas precisiones en relación con la regulación relativa a la firma electrónica contenida en la Circular 4/2004, de 22 de diciembre, sobre Normas de información financiera pública y reservada, y modelos de estados financieros, y en la Circular 3/2008, de 22 de mayo, sobre determinación y control de los recursos propios mínimos.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, ha aprobado la presente Circular, que se regirá por las siguientes normas:
+
+## CAPÍTULO I — Entidades de crédito: Estructura de capital y cuotas participativas
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+### Norma primera. Información sobre la estructura de capital
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+> Se modifica el párrafo primero de la letra c), con efectos desde el 3 de mayo de 2022, por la disposición final 1 de la Circular 1/2022, de 24 de enero de 2022. [Ref. BOE-A-2022-1718](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1718)
+
+### Norma segunda. Información sobre la estructura de las cuotas participativas
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+## CAPÍTULO II — Oficinas de entidades de crédito
+
+### Norma tercera. Información sobre oficinas de entidades de crédito
+
+1\. Las entidades de crédito comunicarán al Banco de España, tan pronto como se produzcan y como máximo en el plazo de quince días naturales, la apertura de oficinas en España, así como la cesión, traspaso, cierre o cualquier variación sobre los datos previamente facilitados de cualquiera de ellas. Estas comunicaciones se efectuarán utilizando el modelo incluido en el anejo IV.
+
+2\. Las entidades de crédito, excluidas las sucursales en España de entidades de crédito extranjeras, comunicarán al Banco de España, tan pronto como se produzcan y como máximo en el plazo de quince días naturales:
+
+a) La apertura de oficinas operativas en los países en los que haya sido autorizada la apertura de sucursal de acuerdo con lo establecido en el Capítulo II del Título I del Real Decreto 1245/1995, de 14 de julio, sobre Creación de bancos, actividad transfronteriza y otras cuestiones relativas al régimen jurídico de las entidades de crédito, así como el cierre o cualquier variación sobre los datos previamente facilitados de cualquiera de ellas. Todo ello sin perjuicio del cumplimiento de lo establecido en el punto 4 del artículo 13 de dicho Real Decreto.
+
+b) La apertura de oficinas de representación a las que se refiere el artículo 14 del Real Decreto 1245/1995, de 14 de julio, sobre Creación de bancos, actividad transfronteriza y otras cuestiones relativas al régimen jurídico de las entidades de crédito, así como el cierre o cualquier variación sobre los datos previamente facilitados de cualquiera de ellas.
+
+Estas comunicaciones se efectuarán utilizando el modelo incluido en el anejo IV.
+
+## CAPÍTULO III — Altos cargos de entidades de crédito, de sus sociedades dominantes y de otras entidades supervisadas por el Banco de España
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+### Norma cuarta. Información sobre altos cargos
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+### Norma quinta. Relación anual de altos cargos
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+## CAPÍTULO IV — Otras normas
+
+### Norma sexta. Presentación de la información en el Banco de España
+
+1\. La presentación al Banco de España de la información a la que se refiere la norma tercera de esta circular deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto. Excepcionalmente, y solo por causas debidamente justificadas, el Departamento de Información Financiera y CIR podrá autorizar la presentación de la información en papel.
+
+2\. El Banco de España podrá elaborar aplicaciones técnicas para facilitar la confección de la información que se le deba remitir.
+
+> Se modifica por la disposición final primera de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+### Disposición transitoria primera.
+
+1\. Las entidades de crédito remitirán telemáticamente al Banco de España antes del 16 de julio de 2010:
+
+a) Para todas sus oficinas abiertas a 30 de junio de 2010, los datos que figuran para las altas en el anejo IV.
+
+b) Para las participaciones en el capital que cumplan a 30 de junio de 2010 los criterios de la letra a) de la norma primera de la presente Circular, los datos que figuran en el anejo I,
+
+2\. La información sobre estructura de capital a que se refiere la letra c) de la norma primera de la presente Circular correspondiente a 31 de marzo de 2010 se remitirá con el formato, plazo y forma de presentación previos a la modificación introducida por la presente Circular.
+
+### Disposición transitoria segunda.
+
+Antes del 30 de junio de 2010, todas las entidades citadas en los apartados 1 y 2 de la Norma cuarta deberán requerir a los interesados, e informar de ellos al Banco de España, mediante la tramitación del formulario que se incorpora en el anejo V, los puestos que sus cargos de administración, señalados en el apartado 5 de dicha Norma, desempeñen en sociedades extranjeras y en aquellas sociedades españolas que no revistan el carácter de anónimas, con indicación de aquellos que entrañen funciones ejecutivas.
+
+Con la finalidad de contribuir a la exactitud de dicha declaración y, en general a la del Registro o base de datos correspondiente, el Banco de España remitirá, durante el mes siguiente a la entrada en vigor de esta Circular, los datos que mantiene relativos a los altos cargos de las aludidas entidades.
+
+### Disposición adicional primera.
+
+1\. Se modifica el apartado 6 de la Disposición Adicional Primera. Presentación de estados y otra información en el Banco de España, de la Circular 4/2004, de 22 de diciembre, a entidades de crédito, sobre Normas de información financiera pública y reservada, y modelos de estados financieros, que quedará redactado como sigue:
+
+«La presentación de estados al Banco de España deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+Con independencia de la responsabilidad de la entidad y de los miembros de su consejo de administración, u órgano equivalente, con respecto a todos los estados que se remitan al Banco de España, los estados correspondientes a otra información pública individual trimestrales, los estados reservados consolidados de información sectorial y los estados total de cambios en el patrimonio neto y de flujos de efectivo, individuales y consolidados, deberán ser firmados electrónicamente por el presidente, consejero delegado, director general o cargo asimilado en el sentido del número 4 del artículo primero de la Ley 26/1988, de 29 de julio, de Disciplina e intervención de las entidades de crédito, o por cualquier otro directivo con funciones limitadas a un área de actividad entre cuyas responsabilidades se encuentre la elaboración de la información financiera de la entidad, que dependa directamente del órgano de administración, o de comisiones ejecutivas o de consejeros delegados de ese órgano, al menos a los efectos de la elaboración de la información financiera, siempre que, en este último caso de directivo con funciones limitadas, el Consejo de Administración, u órgano equivalente, le haya designado expresamente como responsable a tales efectos.
+
+En el caso de las sucursales de entidades de crédito extranjeras, los estados deberán ser firmados electrónicamente por cualquiera de los directivos que sean responsables directos de la gestión de la sucursal en España, o por cualquier otra persona cuyos datos figuren anotados en el Registro de Altos Cargos del Banco de España siempre que haya sido expresamente designado para ello por aquellos responsables.
+
+Las entidades pueden designar a más de una persona para que, de manera indistinta, puedan firmar electrónicamente la citada información financiera.
+
+Los directivos con funciones limitadas a los que se refiere el párrafo segundo deberán acreditar, además de su designación para firmar electrónicamente los estados, la amplitud de sus poderes y su dependencia directa de los órganos mencionados en ese párrafo. Los datos de estos directivos se comunicarán al Banco de España a través del procedimiento establecido para los restantes cargos ejecutivos, que los anotará con los restantes altos directivos de la entidad a efectos meramente informativos y de control del remitente de los estados.
+
+Los estados a los que se refiere esta disposición deberán enviarse, en todo caso, dentro del plazo máximo que se establece para ello en las respectivas normas. No obstante, y sin perjuicio de esa obligación de remisión, la firma electrónica de los estados podrá realizarse dentro de los diez días naturales siguientes al vencimiento del citado plazo máximo.
+
+El Banco de España, además, podrá solicitar de manera individual la confirmación en impreso, debidamente cumplimentado, de cualquiera de los estados enviados mediante transmisión telemática.
+
+Excepcionalmente, y solo por causas debidamente justificadas, el Departamento de Información Financiera y Central de Riesgos podrá autorizar la presentación de todos o alguno de los estados en impresos preparados por el Banco de España, que se entregarán fechados, sellados y visados en todas sus páginas, y firmados por persona con poder bastante de la entidad remitente, excepto cuando se trate de los estados a los que se refiere el segundo párrafo de este apartado, que deberán ser firmados por alguna de las personas de las señaladas en dicho párrafo.»
+
+2\. Se modifica el apartado 13 de la Disposición Adicional Primera. Presentación de estados y otra información en el Banco de España, de la Circular 4/2004, de 22 de diciembre, a entidades de crédito, sobre Normas de información financiera pública y reservada, y modelos de estados financieros, que quedará redactado como sigue:
+
+«13. La remisión de la información requerida en los apartados 8 a 12 anteriores se realizará mediante transmisión telemática de conformidad con las especificaciones técnicas que se comuniquen al efecto. Los documentos enumerados en el apartado 8 deberán ser firmados electrónicamente por alguna de las personas autorizadas a firmar electrónicamente los estados enumerados en el párrafo segundo del apartado 6.
+
+Con independencia de la obligación de firma electrónica a que se refiere el párrafo anterior, la entidad será responsable, en todo caso, de que los documentos enviados por vía telemática sean copia fiel de los originales, los cuales deberán estar a disposición del Banco de España en todo momento.»
+
+### Disposición adicional segunda.
+
+Se modifica el apartado 7 de la norma centésima vigésima primera de la Circular 3/2008, de 22 de mayo, a las entidades de crédito, sobre determinación y control de los recursos propios mínimos, que quedará redactado como sigue:
+
+«7. La presentación de estados al Banco de España deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+Con independencia de la responsabilidad de la entidad y de los miembros de su Consejo de Administración, u órgano equivalente, con respecto a todos los estados que se remitan al Banco de España, el estado RP10 deberá ser firmado electrónicamente por el presidente, consejero delegado, director general o cargo asimilado en el sentido del número 4 del artículo primero de la Ley 26/1988, de 29 de julio, de Disciplina e intervención de las entidades de crédito, o por cualquier otro directivo con funciones limitadas a un área de actividad entre cuyas responsabilidades se encuentre la elaboración de la información financiera de la entidad, que dependa directamente del órgano de administración, de comisiones ejecutivas o de consejeros delegados de ese órgano al menos a los efectos de la elaboración de la información financiera, siempre que, en este último caso de directivo con funciones limitadas, el Consejo de Administración, u órgano equivalente, le haya designado expresamente como responsable a tales efectos.
+
+En el caso de las sucursales de entidades de crédito extranjeras, el estado RP10 deberá ser firmado electrónicamente por cualquiera de los directivos que sean responsables directos de la gestión de la sucursal en España, o por cualquier otra persona cuyos datos figuren anotados en el Registro de Altos Cargos del Banco de España, siempre que hayan sido expresamente designados para ello por aquellos responsables.
+
+Las entidades pueden designar a más de una persona para que, de manera indistinta, puedan firmar electrónicamente la citada información.
+
+Los directivos con funciones limitadas a los que se refiere el párrafo segundo deberán acreditar, además de su designación para firmar electrónicamente el estado RP10, la amplitud de sus poderes y su dependencia directa de los órganos mencionados en ese párrafo. Los datos de estos directivos se comunicarán al Banco de España a través del procedimiento establecido para los restantes cargos ejecutivos, que los anotará con los de los restantes altos directivos de la entidad a efectos meramente informativos y de control del remitente del estado RP10.
+
+El estado RP10 deberá enviarse, en todo caso, dentro del plazo máximo que se establece en la norma centésima vigésima segunda. No obstante, y sin perjuicio de esa obligación de remisión, la firma electrónica de los estados podrá realizarse dentro de los diez días naturales siguientes al vencimiento del citado plazo máximo.
+
+El Banco de España, además, podrá solicitar de manera individual la confirmación en impreso, debidamente cumplimentado, de cualquiera de los estados enviados mediante transmisión telemática.
+
+Excepcionalmente, y solo por causas debidamente justificadas, el Departamento de Información Financiera y Central de Riesgos podrá autorizar la presentación de todos o algunos de los estados en impresos preparados por el Banco de España, que se entregarán fechados, sellados y visados en todas sus páginas, y firmados por persona con poder bastante de la entidad remitente, excepto cuando se trate del estado RP10, que deberá ser firmado por alguna de las personas señaladas en el segundo párrafo de este apartado.»
+
+### Disposición derogatoria.
+
+La presente Circular deroga expresamente las siguientes normas:
+
+Circular del Banco de España 39/1969, de 26 de mayo, a la Banca Privada, sobre el Registro Oficial de Altos Cargos de la Banca.
+
+Circular del Banco de España 41/1969, de 1 de julio, a la Banca Privada, sobre el Registro Oficial de Altos Cargos de la Banca.
+
+Circular del Banco de España 50/1970, de 10 de diciembre, a la Banca Privada, por la que se deja sin efecto parte de la Circular n.º 45 y se normaliza el cumplimiento de la OM de 22.5.1969.
+
+Titulo I de la Circular del Banco de España 38/1978, de 15 de diciembre, a las Cajas de Ahorro, sobre Registro de Altos Cargos de las Cajas de Ahorro y régimen de autorizaciones para operaciones en que intervienen o tienen comprometida su firma los mismos o personas físicas o jurídicas a ellos vinculadas.
+
+Circular 12/1980, de 3 de enero, a las Entidades de Crédito Cooperativo sobre Registro Especial de Altos Cargos.
+
+Carta-circular a la Banca Privada (CV 3/86), de 24 de febrero, sobre Registro Oficial de Altos Cargos.
+
+Circular del Banco de España 13/1988, de 27 de octubre, sobre Altos cargos de entidades de crédito.
+
+Circular del Banco de España 11/1996, de 29 de noviembre, a entidades de crédito, sobre modificación de la Circular 13/1998, de 27 de octubre, sobre altos cargos de las entidades de crédito.
+
+Circular del Banco de España 6/1995, de 31 de octubre, a las entidades de crédito, de Información sobre la estructura del capital de las entidades de crédito.
+
+Norma vigésima novena de la Circular del Banco de España 8/1990, de 7 de septiembre, a las entidades de crédito, sobre Transparencia de las operaciones y protección de la clientela.
+
+### Disposición final única. Entrada en vigor.
+
+Esta Circular entrará en vigor a los veinte días de su publicación en el «Boletín Oficial del Estado», salvo su Capítulo III, que entrará en vigor el 30 de junio de 2010.
+
+No obstante lo anterior:
+
+Las modificaciones introducidas en las disposiciones adicionales primera y segunda de la presente Circular podrán ser aplicadas desde los datos correspondientes a 31 de diciembre de 2009 inclusive.
+
+Las declaraciones telemáticas de los nuevos anejos I a IV comenzarán a realizarse desde las correspondientes a 30 de junio de 2010 inclusive, debiéndose efectuar la presentación de las declaraciones hasta dicha fecha con arreglo al procedimiento previo a la entrada en vigor de esta Circular.
+
+Madrid, 18 de diciembre de 2009.–El Gobernador del Banco de España, Miguel Ángel Fernández Ordóñez.
+
+## ANEJO I
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+## ANEJO II
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+> Téngase en cuenta la disposición transitoria única de la citada Circular.
+
+## ANEJO III
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)
+
+## ANEJO IV
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/315/21183_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2009/315/21183_006.png)
+
+## ANEJO V
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. [Ref. BOE-A-2024-1867](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1867)

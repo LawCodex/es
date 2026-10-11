@@ -1,0 +1,614 @@
+---
+title: "Circular 8/2015, de 18 de diciembre, del Banco de España, a las entidades y sucursales adscritas al Fondo de Garantía de Depósitos de Entidades de Crédito, sobre información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito"
+identifier: "BOE-A-2015-14084"
+eli: "https://www.boe.es/eli/es/cir/2015/12/18/8"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2015-12-18
+published: 2015-12-24
+in_force_from: 2015-12-25
+last_amended: 2021-02-02
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-14084"
+retrieved: 2026-10-11
+---
+
+# Circular 8/2015, de 18 de diciembre, del Banco de España, a las entidades y sucursales adscritas al Fondo de Garantía de Depósitos de Entidades de Crédito, sobre información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos de Entidades de Crédito
+
+Incluye corrección de erratas publicada en BOE núm. 7, de 8 de enero de 2016. [Ref. BOE-A-2016-170](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-170).
+
+El Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos en entidades de crédito, según la nueva redacción dada por el Real Decreto 1012/2015, de 6 de noviembre, por el que se desarrolla la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, y por el que se modifica el Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos de entidades de crédito, desarrolla el régimen jurídico del Fondo de Garantía de Depósitos de Entidades de Crédito (en adelante, FGD).
+
+El Real Decreto 1012/2015, de 6 de noviembre, modificó, entre otras normas, el artículo 4 del Real Decreto 2606/1996 que determina los depósitos, así como los valores y otros instrumentos financieros, que tienen la consideración de garantizados por el FGD, y el artículo 7.1 para extender la garantía de los depósitos a los intereses devengados.
+
+Adicionalmente, la disposición final décima de la Ley 11/2015, de 18 de junio, de recuperación y resolución de entidades de crédito y empresas de servicios de inversión, modificó el artículo 10.1 del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito, para considerar los depósitos que cumplan determinadas condiciones como garantizados con independencia de su importe durante tres meses a contar a partir del momento en que el importe haya sido abonado o a partir del momento en que dichos depósitos hayan pasado a ser legalmente transferibles.
+
+Además, los formatos y normas de presentación de los estados de la Circular del Banco de España 4/2004, de 22 de diciembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros, que sirven de referencia para la confección del estado «Base para el cálculo de las aportaciones al Fondo de Garantía de Depósitos e importe de los saldos garantizados», han sido modificados por la Circular del Banco de España 5/2014, de 28 de noviembre.
+
+El Real Decreto 2606/1996, en su disposición final primera, autoriza al Banco de España para desarrollar las cuestiones técnico-contables relativas a los conceptos de depósitos y valores garantizados, y la disposición final tercera del Real Decreto 948/2001, de 3 de agosto, sobre sistemas de indemnización de los inversores (en adelante, Real Decreto 948/2001), habilita al Banco de España para determinar los criterios de valoración que se deben aplicar a los distintos tipos de valores e instrumentos financieros no cotizados que se han de integrar en la base de cálculo de las aportaciones anuales al FGD de Entidades de Crédito. Por su parte, la Orden Ministerial de 31 de marzo de 1989, del Ministerio de Economía y Hacienda, por la que se faculta al Banco de España para establecer y modificar las normas contables de las entidades de crédito, autoriza al Banco de España para que pueda elaborar estados de carácter reservado, para que pueda cumplir sus funciones de control e inspección y de elaboración de las estadísticas de carácter monetario, financiero y económico. Con base en dichas habilitaciones, el Banco de España aprobó la Circular 4/2001, de 24 de septiembre, a las entidades adscritas a un fondo de garantía de depósitos, de información sobre los saldos que integran la base de cálculo de las aportaciones a los fondos de garantía de depósitos, y alcance de los importes garantizados.
+
+La Circular 4/2001, además de abordar las cuestiones técnico-contables a las que se refieren el Real Decreto 2606/1996 y el Real Decreto 948/2001, establece la información que las entidades y sucursales adscritas al FGD deben remitir anualmente al Banco de España a efectos del cálculo de las aportaciones.
+
+Como las modificaciones realizadas en la normativa vigente por la Ley 11/2015, el Real Decreto 1012/2015 y la Circular 5/2014 afectan a todas las normas y anejos de la Circular 4/2001, el Banco de España ha decido sustituir dicha circular por una nueva.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Consejo de Gobierno del Banco de España, a propuesta de la Comisión Ejecutiva, ha aprobado la presente circular, que contiene las siguientes normas:
+
+## Norma primera. Ámbito de aplicación.
+
+Lo dispuesto en esta circular será de aplicación a las entidades y sucursales adscritas al FGD, de acuerdo con el artículo 5 del Real Decreto 2606/1996, de 20 de diciembre, sobre fondos de garantía de depósitos de entidades de crédito.
+
+## Norma segunda. Información que hay que rendir.
+
+1\. Las entidades y sucursales adscritas al FGD deberán remitir trimestralmente al Banco de España, al Departamento de Información Financiera y CIR, el estado «Información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos» que se recoge como anejo 1 de la presente circular, con los datos relativos al final del respectivo trimestre. Los datos correspondientes a diciembre se deberán enviar no más tarde del día 20 del mes siguiente, y los de los restantes trimestres, no más tarde del día 10 del segundo mes siguiente al que se refieren los datos.
+
+2\. El Banco de España remitirá, trimestralmente, al FGD de Entidades de Crédito la información de los estados recibidos de cada una las entidades y sucursales adscritas al FGD que resulte necesaria para el cumplimiento de sus obligaciones, así como los datos agregados.
+
+3\. La presentación al Banco de España del estado «Información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos» deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que el Banco de España comunique a las entidades al efecto.
+
+Con independencia de la responsabilidad de la entidad y de los miembros de su consejo de administración u órgano equivalente con respecto a todos los estados que se remitan al Banco de España, el estado «Información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos» deberá ser firmado electrónicamente por el presidente o consejero delegado, o por el director general o cargo asimilado en el sentido del artículo 6.6 de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, siempre que el consejo de administración u órgano equivalente le haya designado expresamente como responsable a tales efectos. Las personas que firmen electrónicamente este estado deberán acreditar ante el Banco de España la delegación o el poder otorgado por el consejo de administración u órgano equivalente para remitirlo, pudiendo cada entidad designar a más de una persona para que, de manera indistinta, puedan firmar electrónicamente la citada información. El estado deberá enviarse, en todo caso, dentro del plazo máximo que se establece para ello en las respectivas normas. No obstante, y sin perjuicio de esa obligación de remisión, la firma electrónica de los estados podrá realizarse dentro de los diez días naturales siguientes al vencimiento del citado plazo máximo.
+
+## Norma segunda bis. Información adicional que han de rendir las entidades de crédito que formen parte de un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) n.º 575/2013 que haya constituido un fondo ex ante.
+
+1\. Las entidades de crédito que formen parte de un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) n.º 575/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, que haya constituido un fondo *ex ante* que garantice que el sistema institucional de protección tiene fondos directamente a su disposición para las finalidades previstas en la letra e) del artículo 6.3 del Real Decreto-ley 16/2011 deberán remitir al Banco de España la información que figura en la parte A del anejo 1 bis de esta circular.
+
+2\. Lo dispuesto en el apartado anterior no será de aplicación en el caso de que las entidades de crédito que formen parte de un sistema institucional de protección de los previstos en el apartado anterior hayan designado a una de ellas como el sujeto obligado para la remisión de la información, si bien ello no descargará de responsabilidad a las demás entidades de crédito pertenecientes al sistema institucional de protección, ni a sus órganos directivos y demás personas responsables. En este caso, la entidad designada remitirá al Banco de España la información que figura en la parte B del anejo 1 bis.
+
+3\. La información a que se refiere esta norma deberá remitirse al Banco de España con periodicidad trimestral y no más tarde del último día del segundo mes siguiente al que se refieren los datos que se remiten.
+
+> Se añade por la norma segunda.1 de la Circular 1/2018, de 31 de enero. [Ref. BOE-A-2018-1749](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1749)
+
+> Véanse las disposiciones transitorias 1 y 2 de la citada Circular.
+
+## Norma tercera. Criterios de valoración.
+
+A los efectos de calcular la base para determinar las aportaciones al FGD a que se refiere el artículo 3 del Real Decreto 2606/1996, los criterios de valoración que deberán aplicar las entidades serán los siguientes:
+
+a) Los depósitos dinerarios se valorarán por su nominal o principal más los intereses devengados a la fecha a la que se refieran los datos, según se definen dichos criterios de valoración en la Circular del Banco de España 4/2017, de 27 de noviembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros. En los depósitos híbridos o estructurados, el principal será el importe desembolsado por las contrapartes antes de segregar los derivados implícitos.
+
+b) Los valores y otros instrumentos financieros garantizados, incluidos los cedidos temporalmente en pactos de recompra que sigan anotados o registrados en la entidad cedente, se valorarán por su valor de cotización el último día de negociación del trimestre al que se refieran los datos. Cuando se trate de valores o instrumentos financieros no negociados en un mercado secundario, se valorarán por su valor razonable, salvo que este no se pueda estimar de forma fiable, en cuyo caso se valorarán por su valor nominal o por el de reembolso, el que resulte más propio del tipo de instrumento de que se trate, según se definen dichos criterios de valoración en la Circular del Banco de España 4/2017.
+
+> Se modifican las referencias a la Circular 4/2004 por la norma única.a) de la Circular 2/2021, de 28 de enero. [Ref. BOE-A-2021-1475](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1475)
+
+## Norma cuarta. Información sobre depósitos dinerarios.
+
+1\. Las entidades y sucursales adscritas al FGD deberán tener a disposición del Banco de España, en todo momento, el “Registro detalle de los depósitos recibidos” establecido en el anejo 2, con las especificaciones contenidas en él.
+
+2\. La información relativa a los depósitos en el “Registro detalle de los depósitos recibidos” deberá estar actualizada permanentemente, excepto la correspondiente a los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD a nombre de la empresa de servicios de inversión por cuenta de sus clientes, que se actualizará al menos trimestralmente o cuando lo solicite el Banco de España.
+
+3\. Además de lo señalado en el apartado anterior, la información individualizada de cada uno de los clientes que componen el saldo mantenido por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes, deberá estar disponible por todas las entidades en el momento en que se produzca alguno de los eventos de pago señalados en el artículo 8.1 del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+> Se modifica, con efectos de 30 de junio de 2021, por la norma única.b) de la Circular 2/2021, de 28 de enero. [Ref. BOE-A-2021-1475](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1475)
+
+## Disposición transitoria única. Información relativa a los años 2014 y 2015.
+
+Las entidades adscritas al FGD deberán enviar al Banco de España, al Departamento de Información Financiera y CIR, los datos de las partidas del apartado A) Compartimento de garantía de depósitos del estado «Información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos» relativas al cuarto trimestre del año 2014 y a los tres primeros trimestres del año 2015, con el formato y criterios de valoración que establece la presente circular, no más tarde del 20 de enero de 2016. Cuando los datos de estos estados no se puedan obtener sin incurrir en costes desproporcionados, se estimarán de la mejor manera posible.
+
+## Disposición derogatoria.
+
+Se deroga la Circular del Banco de España 4/2001, de 24 de septiembre, a las entidades adscritas a un fondo de garantía de depósitos, de información sobre los saldos que integran la base de cálculo de las aportaciones a los fondos de garantía de depósitos, y alcance de los importes garantizados.
+
+## Disposición final única. Entrada en vigor.
+
+La presente circular entrará en vigor el día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 18 de diciembre de 2015.
+
+El Gobernador del Banco de España,
+
+Luis María Linde de Castro
+
+## ANEJO 1 — Información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos
+
+Parte A: Información relativa a los compartimentos de garantía de depósitos y de valores
+
+![1](https://www.boe.es/datos/imagenes/disp/2021/28/01475_5102.png)
+
+Parte B: Detalle de los depósitos admisibles y garantizados por países
+
+![1](https://www.boe.es/datos/imagenes/disp/2021/28/01475_5228.png)
+
+a) Número de titulares con depósitos o valores y otros instrumentos financieros garantizados en unidades.
+
+Para reflejar el número de titulares de los depósitos garantizados, se tendrá en cuenta lo señalado en el artículo 7, números 4 y 5, del Real Decreto 2606/1996. En el caso de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD declarante, a nombre de la empresa de servicios de inversión por cuenta de sus clientes, se computará como número de titulares el número de clientes de la empresa de servicios de inversión, según se especifica en las características generales del registro de los depósitos recibidos del anejo 2.
+
+Para reflejar el número de titulares de los valores y otros instrumentos financieros garantizados, se tendrá en cuenta lo señalado en el artículo 7 bis, números 3 y 4, del Real Decreto 2606/1996.
+
+b) El importe será el que resulte de aplicar los criterios de valoración de la norma tercera de la circular que regula este estado. El importe se expresará en unidades de euro.
+
+c) Los términos «depósitos», «sociedades no financieras», «hogares», «pymes», «grandes empresas», «negocios en España» y, «negocios en el extranjero» coinciden con los que se incluyen en la Circular del Banco de España 4/2017. El término «negocios en sucursales en otros Estados miembros de la UE» se refiere a los depósitos registrados en los libros de las sucursales de la entidad radicadas en otros Estados miembros de la Unión Europea.
+
+d) Pactos de recompra (o cesiones temporales de activo) según se definen en la Circular del Banco de España 4/2017, valorados conforme a lo señalado en la letra (b) anterior.
+
+e) Depósitos –híbridos o estructurados– que, por poder tener rentabilidades negativas, no tienen la consideración de depósitos, a efectos del Real Decreto 2606/1996, porque su principal no es reembolsable por su valor nominal o solo lo es con una garantía o acuerdo especial de la entidad o de un tercero (artículo 4.1 del Real Decreto 2606/1996).
+
+f) Certificados de depósito nominativos emitidos desde el 2 de julio de 2014, así como depósitos distintos de los mencionados en las notas anteriores que se tengan que excluir íntegramente de la cobertura del FGD conforme a lo dispuesto en el artículo 4 del Real Decreto 2606/1996.
+
+g) Fondos, no registrados como depósitos, procedentes de situaciones transitorias por operaciones de tráfico conforme a lo señalado en el artículo 4.1 del Real Decreto 2606/1996 a nombre de titulares cuyos depósitos no estén excluidos de la cobertura del FGD en virtud del apartado 4 del artículo 4 del Real Decreto 2606/1996, correspondientes a negocios en España y en sucursales en otros Estados miembros de la UE. Incluye, en todo caso, los recursos dinerarios que se hayan confiado a la entidad para la realización de algún servicio de inversión, de acuerdo con el texto refundido de la Ley del Mercado de Valores, o que provengan de la prestación por la entidad de estos servicios de inversión a dichos clientes.
+
+h) Depósitos constituidos por las Administraciones Locales con un presupuesto anual igual o inferior a 500.000 euros, salvo que no sean admisibles por cumplir alguno de los criterios señalados en las letras anteriores.
+
+i) Importe total de los depósitos admisibles que está especialmente protegido. A efectos de esta circular, se entiende por «importe especialmente protegido» la cuantía que, estando incluida en el saldo positivo de la cuenta o depósito de que se trate, esté garantizada, con independencia de su importe, durante tres meses a contar desde el momento en que el importe haya sido abonado o a partir del momento en que haya pasado a ser legalmente transferible, conforme a lo dispuesto en el artículo 10.1, párrafo segundo, del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+j) Parte del importe de los depósitos admisibles, excluido el importe especialmente protegido, que supere el límite garantizado, conforme a lo dispuesto en los artículos 10.1 del Real Decreto-ley 16/2011 y 7 del Real Decreto 2606/1996. En el caso de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD declarante, a nombre de la empresa de servicios de inversión por cuenta de sus clientes, la clasificación por sectores se realizará en función de la naturaleza del cliente.
+
+k) Importe de los valores negociables y otros instrumentos financieros previstos en el artículo 2 de la Ley del Mercado de Valores, que, conforme al artículo 4.2 del Real Decreto 2606/1996, hayan sido confiados a la entidad para su depósito o registro, o para la realización de algún servicio de inversión, por las sociedades no financieras y los hogares, así como por los entes locales con un presupuesto anual igual o inferior a 500.000 euros, que correspondan a negocios en España y en terceros países admisibles a estos efectos (según se definen estos últimos en la siguiente letra). Los valores e instrumentos financieros incluirán, en todo caso, los adquiridos en nombre propio por cuenta de terceros, los confiados por terceros y los valores recibidos en préstamo, así como los que hayan sido objeto de pacto de recompra (cesión temporal) y sigan anotados o registrados en la entidad cedente.
+
+l) Negocios registrados en los libros de las sucursales de la entidad en el extranjero, salvo que, conforme al artículo 4.2 del Real Decreto 2606/1996: a) estén localizadas en territorios definidos como paraísos fiscales por la legislación vigente o en un país o territorio que carezca de órgano supervisor de los mercados de valores, o cuando, aun existiendo, se nieguen a intercambiar información con la Comisión Nacional del Mercado de Valores, o b) estén localizadas en países no comunitarios que dispongan de sistemas nacionales de indemnización de los inversores equivalentes a los españoles.
+
+m) Parte del importe de los valores y otros instrumentos financieros admisibles que supere el nivel de cobertura establecido en el artículo 7 bis del Real Decreto 2606/1996.
+
+n) Los valores y otros instrumentos financieros garantizados se distribuirán en función de si cotizan o no en un mercado secundario.
+
+o) Depósitos constituidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD declarante, a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud del apartado 4 del artículo 4 del Real Decreto 2606/1996.
+
+p) Se elaborará una hoja para cada uno de los países de la UE, excepto España, en los que la entidad declarante tenga establecida una sucursal y otra para la suma total de los países declarados.
+
+> Se sustituye, con efectos de 30 de junio de 2021, por el que figura en el anejo de la Circular 2/2021, de 28 de enero, según establece su norma única.c). [Ref. BOE-A-2021-1475](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1475)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 7, de 8 de enero de 2016. [Ref. BOE-A-2016-170](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-170).
+
+## ANEJO 1 bis — Información adicional que han de proporcionar las entidades que formen parte de un SIP de los previstos en el artículo 113.7 del Reglamento (UE) n.º 575/2013 con fondo «ex ante»
+
+Parte A: Información que han de remitir las entidades pertenecientes al SIP de acuerdo con el apartado 1 de la Norma segunda bis
+
+Tabla 1. Información sobre el fondo *ex ante* y la entidad perteneciente al SIP.
+
+<table>
+<thead>
+<tr>
+<td> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td>
+<p>euros</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Volumen del fondo <em>ex ante</em> (a)</p>
+</td>
+<td colspan="2">
+<p>Aportaciones al fondo <em>ex ante</em></p>
+</td>
+<td rowspan="2">
+<p>Activos ponderados por riesgo (d)</p>
+</td>
+<td rowspan="2">
+<p>Nivel al que se informan los activos ponderados por riesgo (e)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Importe en el período (b)</p>
+</td>
+<td>
+<p>Importe acumulado (c)</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+(a) Volumen del fondo *ex ante* al final del trimestre de referencia.
+
+(b) Importe de las aportaciones al fondo *ex ante* que haya realizado la entidad en el trimestre.
+
+(c) Importe acumulado de las aportaciones al fondo *ex ante* que haya realizado la entidad desde el inicio del ejercicio hasta el final del trimestre de referencia.
+
+(d) Importe de los activos ponderados por riesgo al final del trimestre de referencia. Se entenderá por activos ponderados por riesgo el importe total de exposición al riesgo a que se refiere el artículo 92.3 del Reglamento (UE) n.º 575/2013. El dato activos ponderados por riesgo se facilitará a nivel consolidado, salvo cuando no exista, en cuyo caso se facilitará a nivel individual o a nivel individual más instrumentales, si resultara aplicable el método de consolidación individual previsto en el artículo 9 del Reglamento (UE) n.º 575/2013.
+
+(e) En esta columna se informará del nivel al que se ha informado el importe de los activos ponderados por riesgo: consolidado (C), individual (I) o individual más instrumentales (II).
+
+Parte B: Información que ha de remitir la entidad designada, en caso de que se opte por la designación prevista en el apartado 2 de la Norma segunda bis
+
+Tabla 1. Información sobre el fondo *ex ante*
+
+|  | euros |
+|---|---|
+| Volumen del fondo *ex ante* (a) |  |
+| Activos ponderados por riesgo de todos los miembros del SIP (b) |  |
+| Porcentaje del volumen del fondo *ex ante* en relación con los activos ponderados por riesgo (%) (c) |  |
+
+(a) Volumen del fondo *ex ante* al final del trimestre de referencia.
+
+(b) Suma del importe de los activos ponderados por riesgo de todas las entidades que forman parte del SIP al final del trimestre de referencia. Se entenderá por activos ponderados por riesgo el importe total de exposición al riesgo a que se refiere el artículo 92.3 del Reglamento (UE) n.º 575/2013.
+
+(c) Porcentaje que supone el volumen del fondo *ex ante* en relación con el importe de los activos ponderados por riesgo a nivel agregado de todos los miembros del SIP.
+
+Tabla 2. Información sobre las entidades pertenecientes al SIP
+
+<table>
+<thead>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td>
+<p>euros</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Nombre</p>
+</td>
+<td rowspan="2">
+<p>Código REN (a)</p>
+</td>
+<td colspan="2">
+<p>Aportaciones al fondo <em>ex ante</em></p>
+</td>
+<td rowspan="2">
+<p>Activos ponderados por riesgo (d)</p>
+</td>
+<td rowspan="2">
+<p>Nivel al que se informan los activos ponderados por riesgo (e)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Importe en el período (b)</p>
+</td>
+<td>
+<p>Importe acumulado (c)</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Entidad AAA</p>
+</td>
+<td> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>...</p>
+</td>
+<td> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Entidad ZZZ</p>
+</td>
+<td> </td>
+<td colspan="2"> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+(a) Código REN del Banco de España de las entidades de crédito participantes en el SIP.
+
+(b) Importe de las aportaciones al fondo *ex ante* que haya realizado cada entidad en el trimestre.
+
+(c) Importe acumulado de las aportaciones al fondo *ex ante* que haya realizado cada entidad desde el inicio del ejercicio hasta el final del trimestre de referencia.
+
+(d) Importe de los activos ponderados por riesgo al final del trimestre de referencia. Se entenderá por activos ponderados por riesgo el importe total de exposición al riesgo a que se refiere el artículo 92.3 del Reglamento (UE) n.º 575/2013. El dato activos ponderados por riesgo se facilitará a nivel consolidado, salvo cuando no exista, en cuyo caso se facilitará a nivel individual o a nivel individual más instrumentales, si resultara aplicable el método de consolidación individual previsto en el artículo 9 del Reglamento (UE) n.º 575/2013.
+
+(e) En esta columna se informará del nivel al que se ha informado el importe de los activos ponderados por riesgo: consolidado (C), individual (I) o individual más instrumentales (II).
+
+> Se añade por la norma segunda.2 de la Circular 1/2018, de 31 de enero. [Ref. BOE-A-2018-1749](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1749)
+
+> Véanse las disposiciones transitorias 1 y 2 de la citada Circular.
+
+## ANEJO 2 — Registro detalle de los depósitos recibidos
+
+El archivo tendrá las siguientes características generales:
+
+• Archivo de texto con caracteres ASCII imprimibles (desde el ASCII 32 hasta el ASCII 126, ambos inclusive). No se permiten caracteres ASCII extendido, salvo en los campos en los que se indique expresamente.
+
+• Caracteres admitidos: letras minúsculas y mayúsculas, números, signos «+» y «-». Se podrán utilizar caracteres especiales cuando se indique expresamente en cada uno de los campos.
+
+• Para cada cuenta o depósito, incluidos los fondos procedentes de situaciones transitorias por operaciones de tráfico conforme a lo señalado en el artículo 4.1 del Real Decreto 2606/1996 y los procedentes de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD declarante, a nombre de la empresa de servicios de inversión por cuenta de sus clientes, según lo establecido en el artículo 30 quáter del Real Decreto 217/2008 (en adelante, “depósitos”), se incluirá un registro por titular y depósito, con las siguientes excepciones:
+
+– En caso de tratarse de depósitos multidivisa, se informará un registro por titular, depósito y divisa.
+
+– En caso de tratarse de depósitos que cuenten con imposiciones con diferentes fechas de vencimiento, se informará un registro por titular, depósito y fecha de vencimiento de la imposición.
+
+– En el caso de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud de apartado 4 del artículo 4 del Real Decreto 2606/1996, se incluirá un registro individualizado para cada uno de estos clientes con su correspondiente saldo.
+
+En consecuencia, debe existir un único registro por “Tipo de documento de identificación” (campo 1), “Número del documento de identificación” (campo 2), “Fecha de vencimiento” (campo 14) y “Código del depósito registrado en España o en sucursal de otro país de la UE” (campo 15). Estos campos conforman la clave única del registro.
+
+• En el registro se incluirán los depósitos y los fondos de las sociedades no financieras, los hogares y las Administraciones Locales con un presupuesto anual igual o inferior a 500.000 euros, con independencia de que los depósitos y fondos sean admisibles o no para su cobertura por el FGD. También se incluirán los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud del apartado 4 del artículo 4 del Real Decreto 2606/1996, debidamente individualizados para cada uno de ellos.
+
+• Contenido del campo “Importe”: en los depósitos con varios titulares, su importe se dividirá entre los titulares, de acuerdo con lo previsto en el contrato de depósito, y, en su defecto, a partes iguales, conforme a lo establecido en el artículo 7 del Real Decreto 2606/1996.
+
+• Los campos con formato “Numérico” se completarán con ceros (“0”) a la izquierda. Los campos con formato “Alfanumérico” se completarán con espacios a la derecha, excepto los campos en los que se indique otra cosa.
+
+Descripción.
+
+Campo 1. Tipo de documento de identificación.
+
+• Formato: Alfanumérico.
+
+• Longitud: 3.
+
+• Contenido: “DNI”, “NIF”, “NIE”, “PAS” (pasaporte) u “OTR” (otros) del titular del depósito.
+
+Campo 2. Número del documento de identificación.
+
+• Formato: Alfanumérico.
+
+• Longitud: 30.
+
+• Contenido: Código numérico o alfanumérico del documento de identificación señalado en el campo 1.
+
+Campo 3. Nombre del titular.
+
+• Formato: Alfanumérico.
+
+• Longitud: 55.
+
+• Contenido: Nombre del titular del depósito. En este campo podrán utilizarse caracteres especiales del ASCII extendido.
+
+Campo 4. Dirección.
+
+• Formato: Alfanumérico.
+
+• Longitud: 110.
+
+• Contenido: Domicilio del titular del depósito. En este campo podrán utilizarse caracteres especiales del ASCII extendido.
+
+Campo 5. Población.
+
+• Formato: Alfanumérico.
+
+• Longitud: 50.
+
+• Contenido: Población del domicilio del titular del depósito. En este campo podrán utilizarse caracteres especiales del ASCII extendido.
+
+Campo 6. Provincia.
+
+• Formato: Alfanumérico.
+
+• Longitud: 20.
+
+• Contenido: Provincia del domicilio del titular del depósito. En este campo podrán utilizarse caracteres especiales del ASCII extendido.
+
+Campo 7. Distrito postal.
+
+• Formato: Alfanumérico.
+
+• Longitud: 8.
+
+• Contenido: Distrito postal del domicilio del titular del depósito.
+
+Campo 8. País.
+
+• Formato: Alfanumérico.
+
+• Longitud: 2.
+
+• Contenido: Código ISO 3166 alfa-2 del país o territorio del domicilio del titular del depósito, compuesto por dos letras.
+
+Campo 9. Código de país del número de teléfono.
+
+• Formato: Alfanumérico.
+
+• Longitud: 6.
+
+• Contenido: Código de país del número de teléfono de contacto del depositante. La primera posición será siempre “+”. Este campo se rellenará cuando este dato se encuentre disponible. En caso contrario, se rellenará con 6 espacios en blanco.
+
+Campo 10. Número de teléfono.
+
+• Formato: Alfanumérico.
+
+• Longitud: 15.
+
+• Contenido: Teléfono de contacto del depositante, sin incluir el código de país del campo 9 anterior. Este campo se rellenará siempre que este dato se encuentre disponible. En caso contrario, se rellenará con 15 espacios en blanco.
+
+Campo 11. Correo electrónico del titular.
+
+– Formato: Alfanumérico.
+
+– Longitud: 125.
+
+– Contenido: Correo electrónico *(e-mail)* de contacto del depositante. El formato deberá cumplir con el estándar de Internet RFC-822. Este campo se rellenará siempre que el dato se encuentre disponible. En caso contrario, se rellenará con 125 espacios en blanco.
+
+Campo 12. Admisible.
+
+• Formato: Alfanumérico.
+
+• Longitud: 1.
+
+• Contenido: Indica si el depósito es admisible para estar garantizado por el Fondo de Garantía de Depósitos (siempre “S” o “N”, sí o no, respectivamente).
+
+Campo 13. Depósito en garantía.
+
+• Formato: Alfanumérico.
+
+• Longitud: 1.
+
+• Contenido: Depósito pignorado o afecto en garantía de otras operaciones (siempre “S” o “N”, sí o no, respectivamente).
+
+Campo 14. Fecha de vencimiento.
+
+• Formato: Numérico.
+
+• Longitud: 8.
+
+• Contenido: Formato AAAAMMDD (solo se completará si el depósito tiene vencimiento; en caso contrario, se rellenará con ceros).
+
+Campo 15. Código del depósito registrado en España o en una sucursal de otro país de la UE.
+
+– Formato: Alfanumérico.
+
+– Longitud: 39.
+
+– Contenido: El campo se formará de la siguiente forma:
+
+− Las dos primeras posiciones contendrán los caracteres “ES” para los depósitos registrados en España, o el código ISO 3166 alfa-2 del país donde esté radicada la sucursal para depósitos en otros países de la UE.
+
+− Las tres siguientes posiciones contendrán el código ISO 4217 de la moneda del depósito.
+
+− Las 34 posiciones restantes contendrán el código que la entidad o sucursal adscrita al FGD asigne al depósito. Este código será único para cada depósito mantenido por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes. En consecuencia, el código será el mismo en cada uno de los registros individualizados correspondientes a los clientes de la empresa de servicios de inversión incluidos en dicho depósito.
+
+Campo 16. Tipo de depósito.
+
+– Formato: Numérico.
+
+– Longitud: 3.
+
+– Contenido: Código interno que la entidad o sucursal adscrita al FGD asigne al tipo de depósito de que se trate. A título de ejemplo, podrían asignarse los códigos del siguiente modo: cuentas de ahorro (001), cuentas corrientes (002), etc. Los saldos mantenidos en la entidad o sucursal adscrita al FGD, por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo por cuenta de sus clientes, deberán figurar identificados mediante un código propio.
+
+Campo 17. Número total de titulares.
+
+– Formato: Numérico.
+
+– Longitud: 8.
+
+– Contenido: Número total de titulares del depósito. Siempre será un número mayor de cero. En el caso de los saldos mantenidos en la entidad o sucursal adscrita al FGD, por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo por cuenta de sus clientes, figurará el número de clientes.
+
+Campo 18. Número de titular.
+
+– Formato: Numérico.
+
+– Longitud: 8.
+
+– Contenido: Número de orden que corresponde al titular en el número total de titulares del depósito.
+
+Campo 19. Importe.
+
+– Formato: Alfanumérico.
+
+– Longitud: 15.
+
+– Contenido: Importe principal o nominal más los intereses devengados en la fecha a la que se refieren los datos del depósito. En caso de que se trate de un depósito con más de un titular, el importe se incluirá en la parte correspondiente a cada titular. En el caso de los saldos mantenidos por empresas de servicios de inversión en cuentas instrumentales y transitorias de efectivo abiertas en la entidad o sucursal adscrita al FGD, a nombre de la empresa de servicios de inversión por cuenta de sus clientes cuyos depósitos no estén excluidos de la cobertura del FGD en virtud del apartado 4 del artículo 4 del Real Decreto 2606/1996, el importe incluirá el saldo correspondiente a cada cliente.
+
+El importe se incluirá con un signo y dos decimales. La primera posición siempre será “−” si el saldo del depósito es negativo (descubiertos en cuenta corriente) y se cumplen las condiciones establecidas en el artículo 7.2 del Real Decreto 2606/1996, o “+” si es positivo. Las otras 14 posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de euro, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal “,”. Cuando el importe sea cero, la primera posición será “+” y las 14 posiciones siguientes serán ceros.
+
+Los depósitos no denominados en euros se convertirán a euros:
+
+– En caso de evento de pago, los depósitos se convertirán a euros aplicando el tipo de cambio del día en que se produzca alguno de los hechos citados en el artículo 8.1 del Real Decreto 2606/1996, o del día anterior hábil cuando fuese festivo.
+
+– En el resto de los casos, se aplicará el tipo de cambio correspondiente a la fecha de referencia de los datos.
+
+Campo 20. Importe especialmente protegido.
+
+• Formato: Alfanumérico.
+
+• Longitud: 15.
+
+• Contenido:
+
+Cuantía que, estando incluida en el saldo positivo de la cuenta o depósito de que se trate, corresponda a importes especialmente protegidos, conforme se definen en la nota (i) del estado “Base para el cálculo de las aportaciones al Fondo de Garantía de Depósitos”. Por tanto, este importe será positivo e igual o menor que el saldo de la cuenta de que se trate consignado en el campo 19, “Importe”.
+
+El importe se incluirá con un signo y dos decimales. La primera posición siempre será “+”. Las otras catorce posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de euro, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal (“,”).
+
+Este campo solo se completará cuando existan depósitos especialmente protegidos. En caso contrario, la primera posición será “+”, y las catorce posiciones siguientes serán ceros.
+
+Los depósitos no denominados en euros se convertirán a euros:
+
+– En caso de evento de pago, los depósitos se convertirán a euros aplicando el tipo de cambio del día en que se produzca alguno de los hechos citados en el artículo 8.1 del Real Decreto 2606/1996, o del día anterior hábil cuando fuese festivo.
+
+– En el resto de los casos, se aplicará el tipo de cambio correspondiente a la fecha de referencia de los datos.
+
+Campo 21. Importe en divisa.
+
+• Formato: Alfanumérico.
+
+• Longitud: 15.
+
+• Contenido:
+
+Este campo solo se completará en el caso de que el depósito no esté denominado en euros.
+
+El importe en divisa se incluirá con un signo y dos decimales. La primera posición será siempre “-”, si es negativo, o “+”, si es positivo. Las otras catorce posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de divisa, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal (“,”). Cuando el importe sea cero o no exista importe en divisa, la primera posición será “+”, y las catorce posiciones siguientes serán ceros.
+
+Campo 22. Importe en divisa especialmente protegido.
+
+• Formato: Alfanumérico.
+
+• Longitud: 15.
+
+• Contenido:
+
+Cuantía que, estando incluida en el saldo positivo de la cuenta o depósito de que se trate, corresponda a importes no denominados en euros especialmente protegidos, conforme se definen en la nota (i) del estado “Base para el cálculo de las aportaciones al Fondo de Garantía de Depósitos”. Por tanto, este importe será positivo e igual o menor que el saldo de la cuenta de que se trate consignado en el campo 21, “Importe en divisa”.
+
+El importe en divisa se incluirá con un signo y dos decimales. La primera posición será “-”, si es negativo, o “+”, si es positivo. Las otras catorce posiciones se completarán con ceros a la izquierda y contendrán el importe, que deberá estar expresado en céntimos de divisa, siendo los dos últimos dígitos los correspondientes a los decimales del importe, sin incluir en ningún caso el signo decimal (“,”).
+
+Este campo solo se completará cuando existan depósitos en divisa especialmente protegidos. En caso contrario, la primera posición será “+”, y las catorce posiciones siguientes serán ceros.
+
+Campo 23. Situación especial de pago.
+
+• Formato: Alfanumérico.
+
+• Longitud: 1.
+
+• Contenido: Recoge alguna de las situaciones previstas en el artículo 9.1.a) del Real Decreto 2606/1996, por las que el pago del depósito podrá aplazarse, así como la situación recogida en el artículo 4.6, por la que podrá suspenderse el pago. Se rellenará con un número del 0 al 4, de acuerdo con las siguientes consideraciones:
+
+– “1” si no existe certeza sobre derechos legales de cobro o cuando el depósito sea objeto de litigio.
+
+– “2” si el depósito es objeto de sanciones que restringen las facultades de disposición.
+
+– “3” si no se ha producido ninguna operación en relación con el depósito en los últimos 24 meses.
+
+– “4” cuando el depositante, o cualquier otra persona con derecho o interés sobre el depósito, haya sido procesado, o se hubiera dictado apertura de juicio oral por delitos relacionados con operaciones de blanqueo de capitales, cuando se hubiera incoado el procedimiento abreviado que se regula en el título III del libro IV de la Ley de Enjuiciamiento Criminal y hasta tanto finalice el procedimiento.
+
+– “0” para el resto de los casos.
+
+A modo ilustrativo, se presentan a continuación unos ejemplos sobre cómo debería completarse el fichero en determinados casos. A estos efectos, únicamente se muestran los campos que configuran la clave única (campos 1, 2, 14 y 15), así como los campos 19 y 21. Ello no exime de la obligación de rellenar el resto de los campos del registro a los que se refiere este anejo 2.
+
+Ejemplo 1. Una cuenta con un saldo total de 100.000 euros y cuyo importe se divide entre dos titulares a partes iguales.
+
+| Tipo de documento de identificación | Número de documento de identificación | Fecha de vencimiento | Código del depósito | Importe en euros | Importe en divisa |
+|---|---|---|---|---|---|
+| Campo 1 | Campo 2 | Campo 14 | Campo 15 | Campo 19 | Campo 21 |
+| NIF | 00000000A | 00000000 | ESEU990000000810123456111 | +000000005000000 |  |
+| NIF | 11111111B | 00000000 | ESEU990000000810123456111 | +000000005000000 |  |
+
+En total, dos registros en el archivo.
+
+Ejemplo 2. Una cuenta multidivisa de un mismo titular con un saldo de 1.000 dólares y 1.000 libras esterlinas.
+
+| Tipo de documento de identificación | Número de documento de identificación | Fecha de vencimiento | Código del depósito | Importe en euros | Importe en divisa |
+|---|---|---|---|---|---|
+| Campo 1 | Campo 2 | Campo 14 | Campo 15 | Campo 19 | Campo 21 |
+| NIF | 22222222C | 00000000 | ESGBP990000000810123456222 | +00000000088496 | +00000000100000 |
+| NIF | 22222222C | 00000000 | ESUSD990000000810123456222 | +00000000117000 | +00000000100000 |
+
+En total, dos registros en el archivo.
+
+Ejemplo 3. Un depósito de un mismo titular con dos imposiciones con distinta fecha de vencimiento. La primera, de 10.000 euros, con vencimiento el 12 de junio de 2019. La segunda, de 10.000 euros, con vencimiento el 30 de diciembre de 2019.
+
+| Tipo de documento de identificación | Número de documento de identificación | Fecha de vencimiento | Código del depósito | Importe en euros | Importe en divisa |
+|---|---|---|---|---|---|
+| Campo 1 | Campo 2 | Campo 14 | Campo 15 | Campo 19 | Campo 21 |
+| NIF | 33333333D | 20190612 | ESEUR990000000810123456333 | +00000001000000 |  |
+| NIF | 33333333D | 20191230 | ESEUR990000000810123456333 | +00000001000000 |  |
+
+En total, dos registros en el archivo.
+
+Ejemplo 4. Un depósito de un mismo titular con dos imposiciones de 10.000 euros cada una, y ambas con la misma fecha de vencimiento.
+
+| Tipo de documento de identificación | Número de documento de identificación | Fecha de vencimiento | Código del depósito | Importe en euros | Importe en divisa |
+|---|---|---|---|---|---|
+| Campo 1 | Campo 2 | Campo 14 | Campo 15 | Campo 19 | Campo 21 |
+| NIF | 44444444E | 20180930 | ESEUR990000000810123456444 | +00000002000000 |  |
+
+En total, un registro en el archivo, porque los campos que conforman la clave única son iguales.
+
+> Se modifica, con efectos de 30 de junio de 2021, por la norma única.d) de la Circular 2/2021, de 28 de enero. [Ref. BOE-A-2021-1475](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-1475)
+
+> Se modifica, con efectos de 8 de agosto de 2019, por la norma única de la Circular de 30 de enero de 2019. [Ref. BOE-A-2019-1694](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1694)

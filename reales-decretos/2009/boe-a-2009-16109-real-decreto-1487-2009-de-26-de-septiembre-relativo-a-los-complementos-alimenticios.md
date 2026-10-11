@@ -1,0 +1,796 @@
+---
+title: "Real Decreto 1487/2009, de 26 de septiembre, relativo a los complementos alimenticios"
+identifier: "BOE-A-2009-16109"
+eli: "https://www.boe.es/eli/es/rd/2009/09/26/1487"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2009-09-26
+published: 2009-10-09
+in_force_from: 2009-10-10
+last_amended: 2018-03-27
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 244"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-16109"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1487/2009, de 26 de septiembre, relativo a los complementos alimenticios
+
+El Real Decreto 1275/2003, de 10 de octubre, relativo a los complementos alimenticios, incorporó al ordenamiento jurídico interno la Directiva 2002/46/CE del Parlamento Europeo y del Consejo, de 10 de junio de 2002, relativa a la aproximación de las legislaciones de los Estados miembros en materia de complementos alimenticios.
+
+A la vista de las observaciones realizadas por la Comisión Europea, se ha considerado conveniente proceder a la derogación del Real Decreto 1275/2003 y redactar un nuevo real decreto plenamente ajustado a las prescripciones de la Directiva 2002/46/CE.
+
+Por lo tanto, el objetivo de este nuevo real decreto sigue siendo regular aquellos productos alimenticios consistentes en fuentes concentradas de nutrientes y que se presentan con la finalidad de complementar la ingesta de tales nutrientes en la dieta normal, ya que aunque en circunstancias normales, una dieta adecuada y equilibrada proporciona todos los nutrientes necesarios para el normal desarrollo y mantenimiento de un organismo sano, las investigaciones realizadas demuestran que esta situación ideal no se da en la práctica para todos los nutrientes, ni para todos los grupos de población.
+
+Existe una amplia gama de nutrientes y otros elementos que pueden estar presentes en los complementos alimenticios incluyendo, entre otros, las vitaminas, minerales, aminoácidos, ácidos grasos esenciales, fibra, diversas plantas y extractos de hierbas.
+
+En el caso de las vitaminas y minerales, es esencial que las sustancias químicas que se utilicen en la fabricación de los complementos alimenticios no sólo no presenten peligro, sino también que estén disponibles para el organismo, por lo que se ha establecido normativamente una lista positiva de estas sustancias.
+
+En la fabricación de los complementos alimenticios pueden asimismo emplearse las sustancias que hayan sido aprobadas por el Comité Científico de la Alimentación Humana sobre la base de los criterios mencionados para su utilización en la fabricación de alimentos destinados a lactantes y a niños de corta edad, y otros alimentos para usos nutricionales particulares.
+
+De conformidad con la legislación comunitaria actualmente vigente, este real decreto sólo establece las normas específicas para las vitaminas y los minerales utilizadas como ingredientes en los complementos alimenticios, pudiendo regularse en un una fase posterior, y una vez que se disponga de datos científicos adecuados, las normas específicas relativas a otros nutrientes e ingredientes utilizados como ingredientes en los complementos alimenticios, como pueden ser los aminoácidos, los ácidos grasos esenciales, la fibra y diversas plantas y elementos vegetales.
+
+Teniendo en cuenta que los consumidores pueden decidir complementar su ingesta de nutrientes mediante el consumo de estos productos, y considerando que una ingesta excesiva y continuada de los mismos puede tener efectos perjudiciales para la salud, continúa siendo necesario establecer niveles máximos para ciertos nutrientes de forma que se garantice que la utilización normal de estos productos de acuerdo con las instrucciones de uso dadas por el fabricante no presentan peligro para los consumidores.
+
+Hasta tanto no se fijen en la Unión Europea niveles máximos de nutrientes u otras sustancias con efecto nutricional o fisiológico, a efectos de los complementos alimenticios, se tendrán en cuenta los informes pertinentes del Comité Científico de la Alimentación Humana y de otros organismos internacionales de reconocida solvencia científica.
+
+Además, para garantizar que estos productos permitan conseguir el propósito de complementar la ingesta de vitaminas y minerales en la dieta habitual, estas sustancias deberán encontrarse en cantidades significativas en los complementos alimenticios.
+
+Esta disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE de 20 de julio, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora estas directivas al ordenamiento jurídico español.
+
+En su tramitación han sido consultadas las comunidades autónomas, así como los sectores afectados habiendo emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª de la Constitución en materia de bases y coordinación general de la sanidad.
+
+En su virtud, a propuesta de las Ministras de Sanidad y Política Social y de Medio Ambiente, y Medio Rural y Marino, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros del día 26 de septiembre de 2009,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto establece los requisitos de composición y etiquetado aplicables a los complementos alimenticios que se comercializan en calidad de productos alimenticios y presentados como tales. Estos productos se entregarán al consumidor final únicamente preenvasados.
+
+2\. Este real decreto se aplicará a las empresas de producción, transformación, envasado, almacenamiento, distribución, importación y comercialización de los productos definidos en el apartado 1.
+
+3\. Este real decreto no se aplicará al los productos medicinales tal y como se encuentran regulados por la Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, así como las distintas normas que regulan dichos productos.
+
+## Artículo 2. Definiciones.
+
+A los efectos de este real decreto, se entenderá por:
+
+1\. Complementos alimenticios: Los productos alimenticios cuyo fin sea complementar la dieta normal y consistentes en fuentes concentradas de nutrientes o de otras sustancias que tengan un efecto nutricional o fisiológico, en forma simple o combinada, comercializados en forma dosificada, es decir cápsulas, pastillas, tabletas, píldoras y otras formas similares, bolsitas de polvos, ampollas de líquido, botellas con cuentagotas y otras formas similares de líquidos y polvos que deben tomarse en pequeñas cantidades unitarias.
+
+2\. Nutrientes: Las sustancias siguientes:
+
+a) Vitaminas.
+
+b) Minerales.
+
+## Artículo 3. Ingredientes y criterios de pureza.
+
+1\. En lo que respecta a vitaminas y minerales, sólo podrán utilizarse en la fabricación de los complementos alimenticios las vitaminas y minerales recogidos en el anexo I y en las formas enumeradas en el anexo II del Reglamento (CE) n.º 1170/2009, de la Comisión, de 30 de noviembre de 2009, por la que se modifican la Directiva 2002/46/CE, del Parlamento Europeo y del Consejo, y el Reglamento (CE) n.º 1925/2006, del Parlamento Europeo y del Consejo, en lo relativo a las listas de vitaminas y minerales y sus formas que pueden añadirse a los alimentos, incluidos los complementos alimenticios.
+
+2\. Podrán utilizarse en la fabricación de los complementos alimenticios las sustancias con efecto nutricional o fisiológico que se incluyen en el anexo de este real decreto, así como sus formas, en tal cantidad que, de acuerdo con la dosis del producto recomendada para el consumo diario efectuada por el fabricante, no se superen las cantidades máximas diarias que se establecen en el mencionado anexo.
+
+3\. Las sustancias mencionadas en el anexo de este real decreto obtenidas a partir de fuentes para las que el consumo humano como alimento no ha sido significativo en la Unión Europea antes del 15 de mayo de 1997 se consideran incluidas en el ámbito de aplicación del Reglamento (UE) 2015/2283, del Parlamento Europeo y del Consejo, de 25 de noviembre de 2015, relativo a los nuevos alimentos, por el que se modifica el Reglamento (UE) n.º 1169/2011, del Parlamento Europeo y del Consejo, y se derogan el Reglamento (CE) n.º 258/97, del Parlamento Europeo y del Consejo, y el Reglamento (CE) n.º 1852/2001, de la Comisión, y deberán cumplir la disposiciones establecidas por dicho Reglamento.
+
+4\. Respecto a las sustancias enumeradas en el anexo II del Reglamento (CE) n.º 1170/2009, de la Comisión, de 30 de noviembre de 2009, y en el anexo de este real decreto, se aplicarán los criterios de pureza que establece la legislación comunitaria para su utilización en la fabricación de productos alimenticios con fines distintos de los previstos en el presente real decreto.
+
+Respecto a las sustancias enumeradas en los anexos referidos en el párrafo anterior para las que la legislación comunitaria no especifique criterios de pureza, y mientras no se adopten tales especificaciones, se aplicarán los criterios reconocidos por la normativa española si son más estrictos que los recomendados por organismos internacionales y, en caso contrario, se aplicarán estos últimos.
+
+> Se modifica por el art. único.1 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)
+
+## Artículo 4. Condiciones de las industrias.
+
+Las industrias elaboradoras y envasadoras de los productos regulados en este real decreto deberán cumplir con lo establecido en el Reglamento (CE) n.º 852/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de los productos alimenticios.
+
+## Artículo 5. Etiquetado, presentación y publicidad.
+
+1\. El etiquetado, la presentación y publicidad de los productos regulados por la presente norma deberán cumplir con lo dispuesto en el Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios.
+
+2\. A efectos de la aplicación del artículo 6.1 del Real Decreto 1334/1999, de 31 de julio, la denominación con que se comercialicen los productos incluidos en el ámbito de aplicación del presente real decreto deberá ser «complemento alimenticio».
+
+3\. El etiquetado, la presentación y la publicidad de los complementos alimenticios no incluirán ninguna afirmación que declare o sugiera que una dieta equilibrada y variada no aporta las cantidades adecuadas de nutrientes en general.
+
+4\. El etiquetado, la presentación y publicidad no atribuirá a los complementos alimenticios la propiedad de prevenir, tratar o curar una enfermedad humana, ni se referirá en absoluto a dichas propiedades.
+
+5\. Sin perjuicio de lo dispuesto en el Real Decreto 1334/1999, de 31 de julio, en el etiquetado figurarán obligatoriamente los siguientes datos:
+
+a) la denominación de las categorías de nutrientes o sustancias que caractericen el producto, o una indicación relativa a la naturaleza de dichos nutrientes o sustancias;
+
+b) la dosis del producto recomendada para consumo diario;
+
+c) la advertencia de no superar la dosis diaria expresamente recomendada;
+
+d) la afirmación expresa de que los complementos alimenticios no deben utilizarse como sustituto de una dieta equilibrada;
+
+e) la indicación de que el producto se debe mantener fuera del alcance de los niños más pequeños.
+
+f) las advertencias de seguridad establecidas en la tercera columna del anexo.
+
+> Se añade la letra f) al apartado 5 por el art. único.2 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)
+
+## Artículo 6. Etiquetado específico.
+
+La cantidad de nutrientes o de sustancias con un efecto nutricional o fisiológico contenida en el producto se declarará en la etiqueta de forma numérica. Para las vitaminas y minerales se utilizarán las unidades indicadas en el anexo I del Reglamento (CE) n.º 1170/2009, de la Comisión, de 30 de noviembre de 2009.
+
+Las cantidades declaradas de nutrientes o de otras sustancias serán por dosis del producto, las recomendadas por el fabricante en la etiqueta para el consumo diario.
+
+La información sobre vitaminas y minerales se expresará asimismo en porcentaje de los valores de referencia mencionados, en su caso, en el anexo del Real Decreto 930/1992, de 17 de julio, por el que se aprueba la norma de etiquetado sobre propiedades nutritivas de los productos alimenticios. El porcentaje de los valores de referencia para vitaminas y minerales podrá asimismo figurar en forma gráfica.
+
+> Se modifica el primer párrafo por el art. único.3 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)
+
+## Artículo 7. Valores medios.
+
+Los valores declarados mencionados en los apartados 1 y 2 del artículo 6 serán valores medios basados en el análisis del producto por parte del fabricante.
+
+## Artículo 8. Registros administrativos.
+
+Las empresas responsables de la producción, transformación, envasado, almacenamiento, distribución, importación y comercialización de los productos regulados por este real decreto, estarán sujetas a lo dispuesto por el Real Decreto 1712/1991, de 29 de noviembre, sobre Registro General Sanitario de Alimentos.
+
+## Artículo 9. Información sobre comercialización de los productos.
+
+1\. Para facilitar el control eficaz de los complementos alimenticios, el responsable de la comercialización en España del producto, deberá notificar su puesta en el mercado nacional a las autoridades competentes, enviándoles un ejemplar de la etiqueta del producto con carácter previo o simultaneo a la primera puesta en el mercado.
+
+Dicha notificación obligatoria deberá ser realizada por el fabricante, o el responsable de la primera puesta en el mercado o el importador, en el caso de terceros países.
+
+A efectos de lo dispuesto en el apartado anterior:
+
+a) La notificación de la puesta en el mercado nacional de los complementos alimenticios, de fabricación nacional o procedente de otros países pertenecientes a la Unión Europea, se presentará ante los órganos de la comunidad autónoma competente por razón del domicilio social del fabricante o del responsable de la primera puesta en el mercado. Las comunidades autónomas comunicarán a la Agencia Española de Seguridad Alimentaria y Nutrición para su conocimiento las notificaciones que reciban.
+
+b) Se presentarán ante la Agencia Española de Seguridad Alimentaria y Nutrición directamente o por cualquiera de los medios previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las notificaciones de los complementos alimenticios cuando, aun procediendo los complementos de países pertenecientes a la Unión Europea, el responsable no tenga establecido su domicilio social en España o cuando procedan de terceros países.
+
+2\. La Agencia Española de Seguridad Alimentaria y Nutrición establecerá los mecanismos necesarios que permitan el acceso de los servicios competentes del Ministerio de Medio Ambiente, y Medio Rural y Marino a las notificaciones realizadas a las autoridades competentes de puesta en el mercado nacional de los complementos alimenticios, ya sean estas provenientes del responsable de la primera puesta en el mercado nacional o del importador, en el caso de terceros países.
+
+## Artículo 10. Medidas cautelares.
+
+Si la Agencia Española de Seguridad Alimentaria y Nutrición, basándose en una motivación detallada por la existencia de nuevos datos o de una nueva evaluación de los ya existentes, considera que el empleo de un complemento alimenticio pone en peligro la salud humana a pesar de ajustarse a las disposiciones en cuestión, podrá suspender o limitar provisionalmente la aplicación de dichas disposiciones dentro de su territorio, e informará de ello inmediatamente a la Comisión de la Unión Europea y a los demás Estados miembros, especificando los motivos que justifiquen su decisión.
+
+## Artículo 11. Régimen sancionador.
+
+1\. Sin perjuicio de otras disposiciones que pudieran resultar de aplicación, el incumplimiento de lo establecido en este real decreto podrá ser objeto de sanción administrativa, previa la instrucción del oportuno expediente administrativo, de conformidad con lo previsto en el capítulo VI, del título I, de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+2\. En particular, se considera falta grave el incumplimiento de lo dispuesto en los párrafos b), c) y d) del artículo 4.1, así como en el párrafo a) del mismo artículo 4.1 cuando conlleve un riesgo para la salud pública, del Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, en virtud de lo establecido en el artículo 35.B).1.º de la Ley 14/1986, de 25 de abril, General de Sanidad. Asimismo, en virtud de la misma previsión legal, se considera falta grave el incumplimiento de lo previsto en los apartados 3, 4 y 5 del artículo 5, y la omisión de la notificación prevista en el artículo 9 de este real decreto.
+
+## Disposición adicional única. Cláusula de reconocimiento mutuo.
+
+Los requisitos de este real decreto no se aplicarán a los complementos alimenticios legalmente fabricados o comercializados en otros Estados miembros de la Unión Europea, ni a los productos originarios de los países de la Asociación Europea de Libre Comercio (AELC) que sean partes contratantes en el Acuerdo sobre el Espacio Económico Europeo (EEE), ni a los Estados que tengan un acuerdo de Asociación Aduanera con la Unión Europea.
+
+> Se añade por el art. único.5 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)
+
+## Disposición transitoria única. Prórroga de comercialización.
+
+Hasta el 31 de diciembre de 2009, se podrá permitir el uso de vitaminas y minerales no enumerados en el anexo I, o en las formas no enumeradas en el anexo II, siempre que se cumplan las dos condiciones siguientes:
+
+a) Que las sustancias de que se trate se utilicen en uno o más complementos alimenticios comercializados en la Unión Europea antes del 12 de julio de 2002.
+
+b) Que la Autoridad Europea de Seguridad Alimentaria no haya emitido ningún dictamen negativo respecto del uso de dichas sustancias o de su uso en dicha forma, en la fabricación de complementos alimenticios, sobre la base de un expediente de apoyo del uso de la sustancia de que se trate, y que el Estado miembro correspondiente deberá presentar a la Comisión a más tardar el 12 de julio de 2005.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 1275/2003, de 10 de octubre, relativo a los complementos alimenticios.
+
+## Disposición final primera. Restricciones de comercialización.
+
+De acuerdo con lo dispuesto en el Tratado de Funcionamiento de la Unión Europea, se seguirán aplicando las restricciones nacionales o prohibiciones vigentes en materia de complementos alimenticios que contengan nutrientes no incluidos en la lista del anexo I o en las formas no incluidas en el anexo II del Reglamento (CE) n.º 1170/2009, de la Comisión, de 30 de noviembre de 2009.
+
+> Se modifica por el art. único.4 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)
+
+## Disposición final segunda. Título competencial.
+
+Este real decreto, tiene el carácter de legislación básica y se dicta al amparo de lo establecido en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia sobre bases y coordinación general de la sanidad.
+
+## Disposición final tercera. Incorporación de Derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al derecho español la Directiva 2002/46/CE del Parlamento Europeo y del Consejo, de 10 de junio de 2002, relativa a la aproximación de las legislaciones de los Estados miembros en materia de complementos alimenticios.
+
+## Disposición final cuarta. Facultad de desarrollo.
+
+Se faculta a los titulares de los Ministerios de Sanidad, Servicios Sociales e Igualdad y de Agricultura y Pesca, Alimentación y Medio Ambiente para adoptar conjuntamente las medidas necesarias para el desarrollo y aplicación de este real decreto y, en especial, para modificar o actualizar el contenido del anexo, adecuándolo a los progresos científicos y tecnológicos que se sucedan, siendo necesaria la evaluación de seguridad previa y favorable por parte del Comité Científico de la Agencia Española de Consumo, Seguridad Alimentaria y Nutrición, debiendo quedar constancia en el expediente.
+
+> Se modifica por el art. único.6 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)
+
+## Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 26 de septiembre de 2009.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ANEXO — Otras sustancias con efecto nutricional o fisiológico que pueden utilizarse en la fabricación de complementos alimenticios
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Sustancia</p>
+</td>
+<td>
+<p>Cantidad máxima diaria</p>
+</td>
+<td>
+<p>Advertencias</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 1. Ácidos grasos</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido linoleico + ácido alfa linolénico.</p>
+</td>
+<td>
+<p>Siempre deben presentarse juntos.</p>
+<p>Máximo 2 g de alfa linolénico al día.</p>
+<p>Relación linoléico/alfa linolénico: máximo 5.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Ácido oleico.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Ácido araquidónico.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Ácidos grasos omega-3 (DHA + EPA).</p>
+</td>
+<td>
+<p>Suma total 3 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 2. </em>
+<em>Aminoácidos (y sus sales de Na, K, Ca, Mg y HCl) y otros compuestos nitrogenados</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido L-glutámico.</p>
+</td>
+<td>
+<p>1 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-Alanina.</p>
+</td>
+<td>
+<p>3,6 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-arginina.</p>
+</td>
+<td>
+<p>3 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>L-carnitina.</p>
+</td>
+<td>
+<p>L-carnitina o clorhidrato de L-carnitina 2 g.</p>
+</td>
+<td rowspan="2"> </td>
+</tr>
+<tr>
+<td>
+<p>Tartrato de L-carnitina 3 g.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-cisteína.</p>
+</td>
+<td>
+<p>300 mg.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-glutamina.</p>
+</td>
+<td>
+<p>5 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-histidina.</p>
+</td>
+<td>
+<p>1,12 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-isoleucina.</p>
+</td>
+<td>
+<p>1,5 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-leucina.</p>
+</td>
+<td>
+<p>3 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-lisina.</p>
+</td>
+<td>
+<p>2,25 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-metionina + L-cisteína.</p>
+</td>
+<td>
+<p>Suma total: 550 mg. (metionina: máx. 250 mg y cisteína máx. 300 mg).</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-ornitina alfa cetoglutarato.</p>
+</td>
+<td>
+<p>2 g.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas, niños, ni durante períodos prolongados de tiempo sin control médico”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-tirosina + L-fenilalanina.</p>
+</td>
+<td>
+<p>Suma total: 1,9 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-treonina.</p>
+</td>
+<td>
+<p>1,15 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>L-triptófano.</p>
+</td>
+<td>
+<p>300 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas, ni por aquellas personas que estén siendo tratadas con antidepresivos o que padezcan insuficiencia renal”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-valina.</p>
+</td>
+<td>
+<p>1,95 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Taurina.</p>
+</td>
+<td>
+<p>1g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 3. Dipéptidos y péptidos</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glutatión.</p>
+</td>
+<td>
+<p>50 mg.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Lactoferrina.</p>
+</td>
+<td>
+<p>200 mg.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 4. Coenzimas</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Coenzima Q-10 o ubiquinona.</p>
+</td>
+<td>
+<p>200 mg.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 5. Flavonoides, carotenoides</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Luteina + trans zeaxantina de <em>tagetes erecta</em>.</p>
+</td>
+<td>
+<p>Suma total: 20 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por niños”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Astaxantina de crustáceos y pescado.</p>
+</td>
+<td>
+<p>4 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas o en período de lactancia, ni por niños”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Licopeno.</p>
+</td>
+<td>
+<p>15 mg.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Quercetina.</p>
+</td>
+<td>
+<p>75 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas o en período de lactancia, ni por niños”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rutina.</p>
+</td>
+<td>
+<p>150 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas o en período de lactancia, ni por niños”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Rutina + quercetina.</p>
+</td>
+<td>
+<p>75 mg referidos a quercetina (calculando un ratio de conversión de rutina a quercetina del 50%).</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas o en período de lactancia, ni por niños”.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 6. Nucleótidos</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Adenosina 5-monofosfato y sus sales sódicas.</p>
+</td>
+<td rowspan="5">
+<p>Suma total: 450 mg.</p>
+</td>
+<td rowspan="5"> </td>
+</tr>
+<tr>
+<td>
+<p>Citidina 5-monofosfato y sus sales sódicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Guanosina 5-monofosfato y sus sales sódicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inosina 5-monofosfato y sus sales sódicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Uridina 5-monofosfato y sus sales sódicas.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 7. Polisacáridos y oligosacáridos</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Beta-glucanos.</p>
+</td>
+<td>
+<p>4 g.</p>
+</td>
+<td>
+<p>“Evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Chitosan obtenido de caparazones de crustáceos.</p>
+</td>
+<td>
+<p>3 g.</p>
+</td>
+<td>
+<p>“Un consumo excesivo puede causar malestar intestinal”.</p>
+<p>“Evitar el consumo junto con medicamentos.”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fructo-oligosacáridos (FOS).</p>
+</td>
+<td>
+<p>9 g FOS o 9 g de FOS + inulina.</p>
+</td>
+<td>
+<p>“Un consumo excesivo puede causar malestar intestinal”.</p>
+<p>“Evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glucomanano de konjac (<em>amorphophallus konjack koch</em>).</p>
+</td>
+<td>
+<p>4 g.</p>
+</td>
+<td>
+<p>“Tomar el producto con mucha agua para asegurarse de que la sustancia llega al estómago”. “Se advierte de peligro de asfixia para personas con problemas de deglución”.</p>
+<p>“No ingerir justo antes de acostarse”.</p>
+<p>“Evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra”.</p>
+<p>“Los pacientes con diabetes deben consultar con su médico antes de ingerir este complemento alimenticio”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Goma guar.</p>
+</td>
+<td>
+<p>10 g.</p>
+</td>
+<td>
+<p>“Tomar el producto con mucha agua para asegurarse de que la sustancia llega al estómago”. “Se advierte de peligro de asfixia para personas con problemas de deglución”.</p>
+<p>“Evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inulina.</p>
+</td>
+<td>
+<p>9 g inulina o 9 g de inulina + FOS.</p>
+</td>
+<td>
+<p>“Un consumo excesivo puede causar malestar intestinal”.</p>
+<p>“Evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pectinas.</p>
+</td>
+<td>
+<p>10 g.</p>
+</td>
+<td>
+<p>“Tomar el producto con mucha agua para asegurarse de que la sustancia llega al estómago”. “Se advierte de peligro de asfixia para personas con problemas de deglución”.</p>
+<p>“Evitar el consumo junto con medicamentos y otros complementos alimenticios a base de fibra”.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>
+<em>Categoría 8. Otras sustancias</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Colina (como colina, cloruro, citrato o bitartrato de colina).</p>
+</td>
+<td>
+<p>1,5 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Sulfato de condroitina.</p>
+</td>
+<td>
+<p>500 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas o en período de lactancia, ni por niños”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Monohidrato de creatina.</p>
+</td>
+<td>
+<p>3 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Glucosamina (como sulfato o clorhidrato).</p>
+</td>
+<td>
+<p>500 mg.</p>
+</td>
+<td>
+<p>“No debe ser consumido por mujeres embarazadas o en período de lactancia, ni por niños ni por adolescentes”.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inositol (como hexafosfato de inositol o mioinositol).</p>
+</td>
+<td>
+<p>2 g.</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Germen de trigo.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Polen.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Jalea real.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Levadura de cerveza (<em>saccharomyces cerevisiae</em>).</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Lecitina de soja.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Propoleo.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprimen los Anexos I y II y se añade el nuevo Anexo por el art. único.7 a 9 del Real Decreto 130/2018, de 16 de marzo. [Ref. BOE-A-2018-4245](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4245)

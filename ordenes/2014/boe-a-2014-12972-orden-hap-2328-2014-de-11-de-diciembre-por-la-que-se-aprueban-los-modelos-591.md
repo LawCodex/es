@@ -1,0 +1,333 @@
+---
+title: "Orden HAP/2328/2014, de 11 de diciembre, por la que se aprueban los modelos 591 \"Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes\" y 588 \"Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre\" y se establecen forma y procedimiento para su presentación"
+identifier: "BOE-A-2014-12972"
+eli: "https://www.boe.es/eli/es/o/2014/12/11/hap2328"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2014-12-11
+published: 2014-12-13
+in_force_from: 2014-12-14
+last_amended: 2024-12-19
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 301"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-12972"
+retrieved: 2026-10-11
+---
+
+# Orden HAP/2328/2014, de 11 de diciembre, por la que se aprueban los modelos 591 "Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes" y 588 "Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre" y se establecen forma y procedimiento para su presentación
+
+La Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, creó, con efectos a partir del 1 de enero de 2013, un nuevo impuesto sobre el valor de la producción de la energía eléctrica. Este impuesto tiene carácter directo y grava la realización de actividades de producción e incorporación al sistema eléctrico de energía eléctrica.
+
+El Real Decreto 1041/2013, de 27 de diciembre, por el que se modifica el Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio, y se introducen otras disposiciones en relación con los impuestos especiales de fabricación y el impuesto sobre el valor de la producción de la energía eléctrica, establece en su disposición adicional única la obligación, para quienes satisfagan importes a los contribuyentes por este impuesto, de presentar una declaración anual relativa a sus operaciones con estos contribuyentes.
+
+El apartado 3 de la disposición adicional única del Real Decreto 1041/2013, de 27 de diciembre, señala que esta declaración ha de ser presentada por vía telemática, durante los veinte primeros días naturales del mes de diciembre siguiente al año natural al que correspondan los datos.
+
+El apartado 4 de la disposición adicional única del Real Decreto 1041/2013, de 27 de diciembre, habilita al Ministro de Hacienda y Administraciones Públicas a desarrollar lo establecido por dicha disposición.
+
+Por otra parte, en el Impuesto sobre el valor de la producción de la energía eléctrica se prevé con carácter general el diferimiento de la presentación de la autoliquidación del impuesto al mes de noviembre posterior al año natural en el que se realizaron las operaciones gravadas. Ahora bien, esta regla general tiene una excepción, que se produce en los supuestos de cese de actividad entre los meses de enero y octubre, en los que la autoliquidación debe ser presentada en el mismo año del cese de la actividad. Esta particularidad justifica la existencia de un modelo específico de presentación de autoliquidación (nuevo modelo 588), réplica casi idéntica del modelo general de autoliquidación del impuesto (modelo 583), pero que permite una gestión y un control del impuesto más eficaz sin suponer un coste superior para el contribuyente, cuyas obligaciones ya figuran determinadas por la normativa de rango legal.
+
+El artículo 10.1 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, habilita al Ministro de Hacienda y Administraciones Públicas para aprobar las normas y modelos de autoliquidación del impuesto sobre el valor de la producción de la energía eléctrica.
+
+El artículo 98.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, habilita al Ministro de Hacienda para determinar los supuestos y condiciones en que los obligados tributarios deben presentar por medios telemáticos sus autoliquidaciones.
+
+En su virtud, dispongo:
+
+## Artículo 1. Aprobación del modelo 591, «Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes».
+
+1\. Se aprueba el modelo 591 «Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes» que figura en el anexo I de esta Orden.
+
+2\. La presentación del modelo 591 deberá venir acompañada de un fichero ajustado al contenido y al diseño que figura en el anexo II de esta Orden.
+
+## Artículo 2. Obligados a la presentación del modelo 591.
+
+Están obligados a la presentación del modelo 591 las personas físicas o jurídicas, públicas o privadas, así como las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que satisfagan importes a los contribuyentes del Impuesto sobre el valor de la producción de energía eléctrica en relación con la producción e incorporación al sistema eléctrico de energía eléctrica.
+
+## Artículo 3. Plazo para la presentación del modelo 591.
+
+Los obligados mencionados en el artículo anterior deberán presentar el modelo 591 durante los veinte primeros días naturales del mes de diciembre siguiente al año natural al que correspondan los datos.
+
+## Artículo 4. Forma, procedimiento y condiciones generales de presentación del modelo 591.
+
+Los obligados procederán a presentar el modelo 591 de forma electrónica a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria para lo cual deberán tener instaladoen el navegador un certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con la normativa vigente. Si la presentación telemática la realizara una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, será dicha persona o entidad autorizada quien deberá tener instalado en el navegador su certificado electrónico.
+
+La presentación electrónica del modelo 591 se realizará de acuerdo con el siguiente procedimiento:
+
+1\. El declarante o presentador se pondrá en comunicación con la Agencia Estatal de Administración Tributaria a través de la sede electrónica de la Agencia Estatal de Administración Tributaria, a la que se puede acceder directamente en la sede electrónica en https://www.agenciatributaria.gob.es o bien a través del portal de la Agencia Tributaria en Internet (www.agenciatributaria.es), debiendo hacer constar en la declaración los datos previstos en los anexos I y II de la presente Orden.
+
+2\. A continuación se procederá a transmitir la declaración con la firma electrónica generada al seleccionar el certificado previamente instalado en el navegador al efecto.
+
+3\. Si quien la presenta es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá únicamente la firma electrónica correspondiente a su certificado.
+
+4\. Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria devolverá en la pantalla la declaración validada con un código seguro de verificación, además de la hora y la fecha de presentación.
+
+Si la presentación fuera rechazada, se mostrará en pantalla la descripción de los errores detectados. En este caso se deberá proceder a subsanar los mismos y volver a presentar la declaración.
+
+## Artículo 5. Aprobación del modelo 588.
+
+Se aprueba el modelo 588 «Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre» que figura en el anexo III de esta Orden.
+
+## Artículo 6. Obligados a la presentación del modelo 588.
+
+Están obligados a la presentación del modelo 588 las personas físicas o jurídicas, públicas o privadas, así como las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, que realicen las actividades señaladas en el artículo 4 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética, y hayan cesado en el ejercicio de la actividad en la instalación entre los meses de enero y octubre.
+
+## Artículo 7. Plazo para la presentación del modelo 588.
+
+Los obligados mencionados en el artículo anterior deberán presentar el modelo 588 dentro del mes de noviembre del mismo año natural en el que se entienda producido el cese en la actividad en la instalación.
+
+En el supuesto de pago mediante domiciliación bancaria, el plazo de presentación será desde el día 1 hasta el 25 del mes de noviembre posterior al de devengo del impuesto.
+
+## Artículo 8. Forma, procedimiento y condiciones generales de presentación del modelo 588.
+
+La presentación del modelo 588 se efectuará obligatoriamente de forma electrónica por Internet, de acuerdo con las condiciones generales y procedimiento previstos en los artículos 2, 3, 6 a 9 y 11 de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria.
+
+## Disposición final primera. Modificación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+Se añaden al apartado 2 de la disposición adicional única de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, las siguientes declaraciones:
+
+Modelo 588: Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre.
+
+Modelo 591: Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes.
+
+## Disposición transitoria única. Declaración anual de operaciones con contribuyentes efectuadas en 2021.
+
+A efectos de cumplimentar la declaración anual de operaciones con contribuyentes del impuesto sobre el valor de la producción de la energía eléctrica efectuadas en 2021, a presentar durante los veinte primeros días naturales del mes de diciembre de 2022, el importe de los pagos satisfechos objeto de declaración únicamente deberá incluir los pagos que retribuyan la electricidad incorporada al sistema de transporte y distribución del sistema eléctrico durante el primer y segundo trimestre de 2021.
+
+> Se añade por el art. único de la Orden HFP/1123/2022, de 18 de noviembre. [Ref. BOE-A-2022-19289](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-19289)
+
+## Disposición final segunda. Modificación de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+La Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria, queda modificada como sigue:
+
+«En el anexo II “Código 022-Autoliquidaciones especiales”, se incluye el siguiente modelo de autoliquidación:
+
+Código de modelo: 588.
+
+Denominación: “Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre”.
+
+Período de ingreso: 0A.»
+
+## Disposición final tercera. Modificación de la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas cuya gestión tiene atribuida la Agencia Estatal de Administración Tributaria.
+
+La Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas cuya gestión tiene atribuida la Agencia Estatal de Administración Tributaria, queda modificada como sigue:
+
+«Uno. En el anexo I, “Relación de modelos de autoliquidaciones cuyo ingreso puede ser domiciliado a través de las Entidades Colaboradoras de la Agencia Estatal de Administración Tributaria”, se añade el siguiente modelo:
+
+Código modelo: 588.
+
+Denominación: Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre.
+
+Dos. En el anexo II, “Plazos generales de presentación telemática de autoliquidaciones con domiciliación de pago”, se añade el siguiente modelo:
+
+Código modelo: 588.
+
+Plazo: desde el día 1 hasta el 25 del mes de noviembre.»
+
+## Disposición final cuarta. Modificación de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria.
+
+La Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria, queda modificada como sigue:
+
+«En el artículo 1.2 se añade el siguiente modelo:
+
+Modelo 588. Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre.»
+
+## Disposición final quinta. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+El modelo 591, «Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes» será utilizado para presentar la declaración anual de operaciones con contribuyentes correspondiente al ejercicio 2013 y siguientes.
+
+El modelo 588, «Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre», será utilizado para presentar las autoliquidaciones originadas por cese de actividad entre los meses de enero y octubre, producidas a partir del 1 de enero de 2015.
+
+Madrid, 11 de diciembre de 2014.–El Ministro de Hacienda y Administraciones Públicas, Cristóbal Montoro Romero.
+
+## ANEXO I — Modelo 591 del Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/305/26485_15129785_1.png)
+
+INSTRUCCIONES DE CUMPLIMENTACIÓN DEL MODELO 591
+
+1\. Código.
+
+Se indicará el código identificativo de la oficina gestora de Impuestos Especiales correspondiente al establecimiento a que se refiere la autoliquidación o el que figure en el acuerdo de centralización de ingresos, de acuerdo con la tabla de códigos contenida en el anexo XLIII de la Orden EHA/3482/2007, de 20 de noviembre por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos.
+
+2\. Identificación del declarante.
+
+NIF del declarante: Se deberá consignar el NIF del declarante.
+
+Apellidos y nombre o razón social: Se deberá consignar el nombre y apellidos o razón social del declarante.
+
+Persona de contacto: Se deberá consignar el nombre y apellidos de la persona de contacto.
+
+Teléfono de contacto: Se deberá consignar el teléfono de la persona de contacto.
+
+3\. Identificación de la declaración.
+
+Ejercicio (con 4 cifras): Se deberán consignar las cuatro cifras del año de producción e incorporación al sistema de la energía eléctrica al que corresponden los importes declarados.
+
+Número de declaración: Se deberá consignar el número identificativo para la declaración presentada.
+
+4\. Resumen de los datos declarados.
+
+Número total de perceptores: Se deberá consignar el número total de los diferentes perceptores incluidos en la declaración.
+
+Importe total de pagos declarados: Se deberá consignar el importe total satisfecho en el periodo al conjunto de perceptores incluidos en la declaración.
+
+5\. Declaración de operaciones con contribuyentes.
+
+NIF del perceptor: Campo obligatorio. NIF de la persona o entidad perceptora del pago.
+
+Nombre o razón social: Campo obligatorio. Nombre o razón social de la persona o entidad perceptora del pago.
+
+Importe satisfecho 1T, 2T, 3T y 4T: Campos obligatorios. Los importes deberán ser expresados en euros con dos decimales:
+
+– Importe satisfecho 1T: el importe total satisfecho a los contribuyentes por la producción e incorporación al sistema eléctrico de energía eléctrica en los meses de enero, febrero y marzo.
+
+– Importe satisfecho 2T: el importe total satisfecho a los contribuyentes por la producción e incorporación al sistema eléctrico de energía eléctrica en los meses de abril, mayo y junio.
+
+– Importe satisfecho 3T: el importe total, satisfecho a los contribuyentes por la producción e incorporación al sistema eléctrico de energía eléctrica en los meses de julio, agosto y septiembre.
+
+– Importe satisfecho 4T: el importe total, satisfecho a los contribuyentes por la producción e incorporación al sistema eléctrico de energía eléctrica en los meses octubre, noviembre y diciembre.
+
+Importe total satisfecho: el importe total, satisfecho a los contribuyentes por la producción e incorporación al sistema eléctrico de energía eléctrica a lo largo del período impositivo, que deberá ser expresado en euros con dos decimales.
+
+> Se sustituye por el que figura como anexo II de la Orden HAC/1433/2024, de 11 de diciembre, según establece su art. 2.1. [Ref. BOE-A-2024-26485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26485)
+
+> Téngase en cuenta que será de aplicación a las declaraciones que deban presentarse a partir del 1 de enero de 2025, según establece la disposición final única de la citada Orden.
+
+## ANEXO II — Diseños a los que deben ajustarse los archivos que se generen para la presentación telemática del modelo 591 «Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes»
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 de la Orden HAC/1433/2024, de 11 de diciembre. [Ref. BOE-A-2024-26485](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26485)
+
+## ANEXO III — Impuesto sobre el valor de la producción de la energía eléctrica
+
+## Autoliquidación por cese de actividad de enero a octubre
+
+![5727.png](https://www.boe.es/datos/imagenes/disp/2014/301/12972_5727.png)
+
+## INSTRUCCIONES DE CUMPLIMENTACIÓN DEL MODELO 588
+
+1\. Código
+
+Se indicará el código identificativo de la Dependencia de Aduanas e Impuestos Especiales correspondiente al domicilio fiscal del obligado tributario, de acuerdo con la siguiente tabla:
+
+| Código | Dependencia | Código | Dependencia | Código | Dependencia | Código | Dependencia |
+|---|---|---|---|---|---|---|---|
+| 01600 | Álava/Araba. | 15600 | A Coruña. | 29600 | Málaga. | 43600 | Tarragona. |
+| 02600 | Albacete. | 16600 | Cuenca. | 30600 | Murcia. | 44600 | Teruel. |
+| 03600 | Alicante. | 17600 | Girona. | 31600 | Navarra. | 45600 | Toledo. |
+| 04600 | Almería. | 18600 | Granada. | 32600 | Ourense. | 46600 | Valencia. |
+| 05600 | Ávila. | 19600 | Guadalajara. | 33600 | Oviedo. | 47600 | Valladolid. |
+| 06600 | Badajoz. | 20600 | Guipúzkoa. | 34600 | Palencia. | 48600 | Bizkaia. |
+| 07600 | Illes Balears. | 21600 | Huelva. | 35600 | Las Palmas. | 49600 | Zamora. |
+| 08600 | Barcelona. | 22600 | Huesca. | 36600 | Pontevedra. | 50600 | Zaragoza. |
+| 09600 | Burgos. | 23600 | Jaén. | 37600 | Salamanca. | 51600 | Cartagena. |
+| 10600 | Cáceres. | 24600 | León. | 38600 | S.C. Tenerife. | 52600 | Gijón. |
+| 11600 | Cádiz. | 25600 | Lleida. | 39600 | Cantabria. | 53600 | Jerez de la Frontera. |
+| 12600 | Castellón. | 26600 | La Rioja. | 40600 | Segovia. | 54600 | Vigo. |
+| 13600 | Ciudad Real. | 27600 | Lugo. | 41600 | Sevilla. | 55600 | Ceuta. |
+| 14600 | Córdoba. | 28600 | Madrid. | 42600 | Soria. | 56600 | Melilla. |
+
+2\. Identificación
+
+NIF: Se cumplimentará el NIF del obligado tributario.
+
+Número de registro: Se cumplimentará con el número de registro (clave de registro) de la instalación correspondiente al Registro Administrativo de Productores de Energía Eléctrica.
+
+En el supuesto de declaraciones relativas a instalaciones sin número de registro, se consignará el número correspondiente al código de la instalación de producción a efectos de liquidación (CIL).
+
+En el supuesto de que se trate de una autoliquidación comprensiva de varias instalaciones, el número de registro de cada una de ellas se consignará en el bloque 6. Liquidación.
+
+Apellidos y nombre o razón social: Nombre y apellidos o razón social del obligado tributario.
+
+Domicilio, localidad y provincia: Calle, número, municipio, provincia y código postal del obligado tributario.
+
+3\. Periodo de liquidación
+
+Ejercicio: Deberán consignarse las cuatro cifras del año natural al que corresponde el periodo por el que se efectúa la autoliquidación.
+
+Periodo: Se consignará el código 0A (cero A).
+
+4\. NRC
+
+Número de referencia completo (NRC) suministrado por la entidad colaboradora en la que se efectúe el ingreso.
+
+En el caso de ingresos con domiciliación de pago, no se consignará este dato y sí el de la cuenta de domiciliación.
+
+En caso de ingresos parciales se consignarán tantos NRC como importes ingresados.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como las autoliquidaciones con cuota cero, esta casilla no se cubrirá.
+
+En el caso de solicitud de devolución, no se consignará este dato y sí el del número de cuenta para el abono de la correspondiente devolución.
+
+5\. Importe ingresado
+
+Se consignará el importe efectivamente ingresado.
+
+El importe se expresará en euros con dos decimales, redondeando por exceso o por defecto, según que la tercera cifra decimal sea o no superior a 5.
+
+En el caso de solicitud de devolución, se consignará en su lugar el importe de la devolución solicitada.
+
+En el caso de ingresos con domiciliación de pago, figurará el importe a domiciliar.
+
+En el caso de ingresos parciales, se consignarán los importes ingresados correspondientes a los NRC referenciados.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en el supuesto de autoliquidaciones con cuota cero, esta casilla no se cubrirá.
+
+6\. Liquidación
+
+a) Número de registro. En el caso de que la autoliquidación sea comprensiva de varias instalaciones, se consignará el número de registro (clave de registro) de cada una de las instalaciones cuya titularidad corresponda al declarante.
+
+En supuesto de que la autoliquidación comprenda un solo número de registro, no será necesario cumplimentar esta casilla.
+
+Por cada número de registro se cumplimentarán los datos correspondientes a las casillas b) a h).
+
+b) Delegación. En esta casilla se consignará el código de la Delegación de la Agencia Estatal de Administración Tributaria correspondiente al lugar de ubicación de la instalación, de acuerdo con la siguiente tabla:
+
+| Código | Delegación | Código | Delegación | Código | Delegación | Código | Delegación |
+|---|---|---|---|---|---|---|---|
+| 01 | Álava/Araba. | 15 | A Coruña. | 29 | Málaga. | 43 | Tarragona. |
+| 02 | Albacete. | 16 | Cuenca. | 30 | Murcia. | 44 | Teruel. |
+| 03 | Alicante. | 17 | Girona. | 31 | Navarra. | 45 | Toledo. |
+| 04 | Almería. | 18 | Granada. | 32 | Ourense. | 46 | Valencia. |
+| 05 | Ávila. | 19 | Guadalajara. | 33 | Oviedo. | 47 | Valladolid. |
+| 06 | Badajoz. | 20 | Guipúzkoa. | 34 | Palencia. | 48 | Bizkaia. |
+| 07 | Illes Balears. | 21 | Huelva. | 35 | Las Palmas. | 49 | Zamora. |
+| 08 | Barcelona. | 22 | Huesca. | 36 | Pontevedra. | 50 | Zaragoza. |
+| 09 | Burgos. | 23 | Jaén. | 37 | Salamanca. | 51 | Cartagena. |
+| 10 | Cáceres. | 24 | León. | 38 | S.C. Tenerife. | 52 | Gijón. |
+| 11 | Cádiz. | 25 | Lleida. | 39 | Cantabria. | 53 | Jerez de la Frontera. |
+| 12 | Castellón. | 26 | La Rioja. | 40 | Segovia. | 54 | Vigo. |
+| 13 | Ciudad Real. | 27 | Lugo. | 41 | Sevilla. | 55 | Ceuta. |
+| 14 | Córdoba. | 28 | Madrid. | 42 | Soria. | 56 | Melilla. |
+
+c) Energía eléctrica. Volumen de energía eléctrica, medida en barras de central, producida e incorporada al sistema eléctrico respecto de la cual se perciben las retribuciones que constituyen la base imponible del impuesto. Se expresará en megavatios-hora, con dos decimales.
+
+d) Base imponible. Se consignará, para cada instalación, la cuantía determinada conforme al artículo 6 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+Se expresará en euros con dos cifras decimales, redondeando por exceso o por defecto, según que la tercera cifra decimal sea o no superior a 5.
+
+e) Tipo impositivo (%). En esta casilla se consignará el tipo señalado en el artículo 8 de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética.
+
+f) Cuota íntegra. Se consignará la cantidad resultante de aplicar a la base imponible el tipo de gravamen.
+
+Se expresará en euros con dos cifras decimales, redondeando por exceso o por defecto, según que la tercera cifra decimal sea o no superior a 5.
+
+g) Pagos fraccionados realizados. En esta casilla se consignará el importe total de los pagos fraccionados realizados en los periodos anteriores de un mismo ejercicio.
+
+En el supuesto de una autoliquidación comprensiva de varias instalaciones, en cada una de las líneas de esta casilla se consignará la cantidad correspondiente a cada uno de los números de registro.
+
+h) Cuota diferencial. Se consignará en esta casilla la cantidad que resulte de la diferencia entre la cuantía consignada en la casilla correspondiente a la «Cuota íntegra» y la consignada en la casilla correspondiente a «Pagos fraccionados realizados».
+
+Si el resultado es negativo, en esta casilla se consignará la cantidad a devolver con signo negativo.
+
+i) Cuota diferencial total. Si se trata de una autoliquidación correspondiente a una sola instalación, se consignará en esta casilla la misma cifra consignada en la casilla h).
+
+Si se trata de una autoliquidación o un pago fraccionado comprensivo de varias instalaciones, esta casilla comprenderá el sumatorio de las cantidades puntualizadas en la casilla h) «Cuota diferencial».
+
+Si la cantidad que resulta es negativa, se consignará con el signo menos.

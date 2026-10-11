@@ -1,0 +1,3899 @@
+---
+title: "Real Decreto 451/2010, de 16 de abril, por el que se establece el título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria y se fijan sus enseñanzas mínimas"
+identifier: "BOE-A-2010-8068"
+eli: "https://www.boe.es/eli/es/rd/2010/04/16/451"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2010-04-16
+published: 2010-05-20
+in_force_from: 2010-05-21
+last_amended: 2024-05-28
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 123"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-8068"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 451/2010, de 16 de abril, por el que se establece el título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria y se fijan sus enseñanzas mínimas
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las comunidades autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece en el artículo 10.1 que la Administración General del Estado, de conformidad con lo dispuesto en el artículo 149.1.30.ª y 7.ª de la Constitución y previa consulta al Consejo General de la Formación Profesional, determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+
+El Real Decreto 1538/2006, de 15 de diciembre, ha establecido la ordenación general de la formación profesional del sistema educativo, y define en el artículo 6 la estructura de los títulos de formación profesional tomando como base el Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos de interés social.
+
+Por otra parte, del mismo modo, concreta en el artículo 7 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, de modo que cada título incorporará, al menos, una cualificación profesional completa, con el fin de lograr que, en efecto, los títulos de formación profesional respondan a las necesidades demandadas por el sistema productivo y a los valores personales y sociales para ejercer una ciudadanía democrática.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las comunidades autónomas, establezca cada uno de los títulos que formarán el Catálogo de títulos de la formación profesional del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+A estos efectos, procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, la prospectiva del título en el sector o sectores, las enseñanzas del ciclo formativo, la correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención y los parámetros básicos de contexto formativo para cada módulo profesional (espacios, equipamientos necesarios, las titulaciones y especialidades del profesorado y sus equivalencias a efectos de docencia), previa consulta a las comunidades autónomas, según lo previsto en el artículo 95 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Asimismo, en cada título también se determinarán los accesos a otros estudios y, en su caso, las modalidades y materias de bachillerato que facilitan la conexión con el ciclo formativo de grado superior, las convalidaciones, exenciones y equivalencias y la información sobre los requisitos necesarios según la legislación vigente para el ejercicio profesional cuando proceda.
+
+Con el fin de facilitar el reconocimiento de créditos entre los títulos de técnico superior y las enseñanzas conducentes a títulos universitarios y viceversa, en los ciclos formativos de grado superior se establecerá la equivalencia de cada módulo profesional con créditos europeos, ECTS, tal y como se definen en el Real Decreto 1125/2003, de 5 de septiembre, por el que se establece el sistema europeo de créditos y el sistema de calificaciones en las titulaciones universitarias de carácter oficial y validez en todo el territorio nacional.
+
+Así, el presente real decreto, conforme a lo previsto en el Real Decreto 1538/2006, de 15 de diciembre, establece y regula, en los aspectos y elementos básicos antes indicados, el título de formación profesional del sistema educativo de Técnico Superior en Procesos y Calidad en la Industria Alimentaria.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y han emitido informe el Consejo General de la Formación Profesional, el Consejo Escolar del Estado y el Ministerio de Política Territorial.
+
+En su virtud, a propuesta del Ministro de Educación y previa deliberación del Consejo de Ministros en su reunión del día 16 de abril de 2010,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+1\. El presente real decreto tiene por objeto el establecimiento del título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria, con carácter oficial y validez en todo el territorio nacional, así como de sus correspondientes enseñanzas mínimas.
+
+2\. Lo dispuesto en este real decreto sustituye a la regulación del título de Técnico Superior en Industria Alimentaria, contenida en el Real Decreto 2050/1995, de 22 de diciembre.
+
+## CAPÍTULO II — Identificación del título, perfil profesional, entorno profesional y prospectiva del título en el sector o sectores
+
+### Artículo 2. Identificación.
+
+El título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria queda identificado por los siguientes elementos:
+
+Denominación: Procesos y Calidad en la Industria Alimentaria.
+
+Nivel: Formación Profesional de Grado Superior.
+
+Duración: 2000 horas.
+
+Familia Profesional: Industrias alimentarias.
+
+Referente europeo: CINE-5b (Clasificación Internacional Normalizada de la Educación).
+
+El título de Técnico Superior se corresponde con un nivel 5A del Marco Español de Cualificaciones para el Aprendizaje Permanente.
+
+> Se añade el párrafo final por el art. 2 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+### Artículo 3. Perfil profesional del título.
+
+El perfil profesional del título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria queda determinado por su competencia general, sus competencias profesionales, personales y sociales, y por la relación de cualificaciones del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+
+### Artículo 4. Competencia general.
+
+La competencia general de este título consiste en organizar y controlar los procesos de elaboración de productos alimenticios programando y supervisando las operaciones y los recursos materiales y humanos necesarios, aplicando los planes de producción, calidad, seguridad alimentaria, de prevención de riesgos laborales y de protección ambiental, de acuerdo con la legislación vigente.
+
+### Artículo 5. Competencias profesionales, personales y sociales.
+
+Las competencias profesionales, personales y sociales de este título son las que se relacionan a continuación:
+
+a) Planificar los procesos productivos, asignando equipos e instalaciones en función del producto que se va a elaborar.
+
+b) Programar y organizar la producción alimentaria y los sistemas automáticos de producción observando las exigencias de calidad, seguridad y protección ambiental establecidas.
+
+c) Conducir las operaciones de elaboración de productos alimenticios, resolviendo las contingencias que se presenten.
+
+d) Supervisar las operaciones de envasado, embalaje y etiquetado en condiciones de calidad y seguridad.
+
+e) Planificar la logística en la empresa alimentaria, organizando los aprovisionamientos, el almacenamiento y la expedición de las materias primas, auxiliares y productos.
+
+f) Programar y supervisar el mantenimiento y la operatividad de los equipos e instalaciones para garantizar el funcionamiento en condiciones de higiene, calidad, eficiencia y seguridad.
+
+g) Controlar y garantizar la calidad mediante ensayos físicos, químicos, microbiológicos y sensoriales.
+
+h) Comercializar y promocionar los productos en la pequeña empresa alimentaria.
+
+i) Supervisar, durante el proceso productivo, la utilización eficiente de los recursos, la recogida selectiva, la depuración y la eliminación de los residuos, garantizando la protección ambiental de acuerdo con los planes de la empresa y la normativa vigente.
+
+j) Aplicar la normativa de seguridad alimentaria, de prevención de riesgos laborales y la legislación específica de los diferentes sectores de la industria alimentaria.
+
+k) Aplicar las tecnologías de la información y de la comunicación requeridas en los procesos productivos y en aquellas áreas de su ámbito profesional.
+
+l) Organizar y coordinar el trabajo en equipo, asumiendo el liderazgo, manteniendo relaciones profesionales fluidas, comunicándose con respeto y sentido de responsabilidad en el ámbito de su competencia, teniendo en cuenta la jerarquía de la empresa.
+
+m) Mantener una actitud de actualización e innovación respecto a los cambios tecnológicos, organizativos y socioculturales en la industria alimentaria, especialmente en el desarrollo de nuevos productos, procesos y modelos de comercialización.
+
+n) Cumplir con los objetivos de la producción, colaborando con el equipo de trabajo y actuando conforme a los principios de responsabilidad y tolerancia.
+
+ñ) Adaptarse a diferentes puestos de trabajo y nuevas situaciones laborales, originados por cambios tecnológicos y organizativos en los procesos productivos.
+
+o) Ejercer sus derechos y cumplir con las obligaciones derivadas de las relaciones laborales, de acuerdo con lo establecido en la legislación vigente.
+
+p) Resolver problemas y tomar decisiones individuales siguiendo las normas y procedimientos establecidos, definidos dentro del ámbito de su competencia.
+
+q) Gestionar su carrera profesional analizando las oportunidades de empleo, autoempleo y de aprendizaje.
+
+r) Crear y gestionar una pequeña empresa, realizando un estudio de viabilidad de productos, de planificación de la producción y de comercialización.
+
+s) Participar de forma activa en la vida económica, social y cultural, con una actitud crítica y responsable.
+
+### Artículo 6. Relación de cualificaciones y unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en el título.
+
+Cualificaciones profesionales completas:
+
+a) Industrias de conservas y jugos vegetales INA 176_3 (RD 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
+
+UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización.
+
+UC0557_3: Programar y gestionar la producción en la industria alimentaria.
+
+UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria.
+
+UC0559_3: Desarrollar los procesos y determinar los procedimientos operativos para la producción de conservas y jugos vegetales.
+
+UC0560_3: Controlar la fabricación de conservas y jugos vegetales y sus sistemas automáticos de producción.
+
+UC0561_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de conservas y jugos vegetales.
+
+b) Industrias de derivados de cereales y de dulces INA 177_3 (RD 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
+
+UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización.
+
+UC0557_3: Programar y gestionar la producción en la industria alimentaria.
+
+UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria.
+
+UC0562_3: Desarrollar los procesos y determinar los procedimientos operativos para la producción de derivados de cereales y de dulces.
+
+UC0563_3: Controlar la elaboración de derivados de cereales y de dulces y sus sistemas automáticos de producción.
+
+UC0564_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de derivados de cereales y de dulces.
+
+c) Industrias de productos de la pesca y de la acuicultura INA 178_3 (RD 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
+
+UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización.
+
+UC0557_3: Programar y gestionar la producción en la industria alimentaria.
+
+UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria.
+
+UC0565_3: Desarrollar los procesos y determinar los procedimientos operativos para la elaboración de productos derivados de la pesca y de la acuicultura.
+
+UC0566_3: Controlar la elaboración de productos derivados de la pesca y de la acuicultura y sus sistemas automáticos de producción.
+
+UC0567_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de productos derivados de la pesca y de la acuicultura.
+
+d) Industrias lácteas INA 180_3 (RD 1228/2006, de 27 de octubre), que comprende las siguientes unidades de competencia:
+
+UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización.
+
+UC0557_3: Programar y gestionar la producción en la industria alimentaria.
+
+UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria.
+
+UC0571_3: Desarrollar los procesos y determinar los procedimientos operativos para la elaboración de leches de consumo y de productos lácteos.
+
+UC0572_3: Controlar la elaboración de leches de consumo y de productos lácteos y sus sistemas automáticos de producción.
+
+UC0573_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de leches de consumo y de productos lácteos.
+
+e) Industrias cárnicas INA 239_3 (RD 729/2007, de 8 de junio), que comprende las siguientes unidades de competencia:
+
+UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización.
+
+UC0557_3: Programar y gestionar la producción en la industria alimentaria.
+
+UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria.
+
+UC0765_3: Desarrollar los procesos y determinar los procedimientos operativos para el sacrificio, faenado y despiece de animales de abasto, así como para la elaboración de productos y preparados cárnicos.
+
+UC0766_3: Controlar la elaboración de productos y preparados cárnicos y sus sistemas automáticos de producción, así como el sacrificio, faenado y despiece de los animales.
+
+UC0767_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de productos y preparados cárnicos.
+
+### Artículo 7. Entorno profesional.
+
+1\. Las personas con este perfil profesional ejercen su actividad en pequeñas, medianas o grandes empresas de la industria alimentaria integradas en un equipo de trabajo donde realizan tareas de gestión de la producción, organización y control, en las áreas funcionales de logística, investigación y desarrollo, calidad, seguridad alimentaria, prevención de riesgos laborales y protección ambiental. Actúan como mandos intermedios bajo la supervisión de personal responsable técnico de nivel superior, si bien en pequeñas empresas disponen de un mayor grado de autonomía pudiendo asumir labores de gestión y dirección de empresa.
+
+2\. Las ocupaciones y puestos de trabajo más relevantes son los siguientes:
+
+Jefe de línea, planta de fabricación, sección o de almacén.
+
+Jefe de turno.
+
+Supervisor de equipos, procesos y productos.
+
+Encargado de producción.
+
+Encargado de elaboración de nuevos productos y desarrollo de procesos.
+
+Técnico en análisis de alimentos.
+
+Técnico en análisis sensorial.
+
+Técnico en laboratorio de control de calidad.
+
+Inspector o auditor de calidad.
+
+Encargado de la gestión de la seguridad alimentaria.
+
+Encargado de aprovisionamientos.
+
+Encargado de la línea de envasado y embalaje.
+
+Encargado de control ambiental y seguridad laboral.
+
+Técnico comercial.
+
+### Artículo 8. Prospectiva del título en el sector o sectores.
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) La industria alimentaria española afronta el reto de aumentar su competitividad ante la internacionalización de los mercados y la globalización de la economía.
+
+b) Los procesos productivos y organizativos de la industria alimentaria se están reorientando hacia unidades especializadas en líneas de producción, incorporando nuevas tecnologías de la información y la comunicación, de conservación y envasado de los alimentos y de automatización de los procesos.
+
+c) Además, cada vez más se va implicando en la protección ambiental, ya sea rediseñando los procesos productivos, utilizando los recursos naturales de manera eficiente, empleando tecnologías limpias de proceso o minimizando, recuperando y reciclando los efluentes y residuos generados.
+
+d) Los resultados de estudios epidemiológicos, las pruebas clínicas y la bioquímica moderna han puesto de manifiesto la relación entre los componentes químicos de algunos alimentos con sus efectos beneficiosos para la salud. Los planteamientos científicos relacionados con la nutrición aconsejan ofertas alimentarias con aporte de niveles óptimos de macro y micronutrientes, que dificulten o prevengan el desarrollo de enfermedades de tipo crónico.
+
+e) Un gran número de empresas alimentarias están enfocando su actividad a la producción de productos de calidad, asociados a denominaciones de origen, identificaciones geográficas protegidas y a otras marcas, y a la comercialización de los mismos a través de redes alternativas de venta; bien a través de Internet, de tiendas especializadas o de otros canales más restringidos donde hay mucho contacto con el cliente.
+
+f) Todo ello implica que en este sector se esté demandando una mano de obra cada vez más cualificada con conocimientos científico-tecnológicos y con capacidad para la organización y planificación de procesos, que asuma funciones de calidad, de prevención de riesgos laborales, de seguridad alimentaria, de trazabilidad y de protección ambiental y que sea capaz de trabajar en equipo, de mantener un espíritu abierto a la innovación y de implicarse en la vida de la empresa compartiendo con ésta objetivos, tradiciones y valores.
+
+## CAPÍTULO III — Enseñanzas del ciclo formativo y parámetros básicos de contexto
+
+### Artículo 9. Objetivos generales.
+
+Los objetivos generales de este ciclo formativo son los siguientes:
+
+a) Analizar los procesos productivos, caracterizando las operaciones inherentes al proceso, equipos, instalaciones y recursos disponibles para planificarlos.
+
+b) Identificar técnicas de programación y gestión de la producción, describiendo sus fundamentos y procedimientos de aplicación para programar y organizar la producción alimentaria.
+
+c) Caracterizar las operaciones de elaboración de productos alimenticios, describiendo las técnicas y sus parámetros de control para conducirlas.
+
+d) Analizar las operaciones de envasado, embalaje y etiquetado, identificando las características de los materiales y las técnicas del proceso para supervisarlas.
+
+e) Reconocer el proceso logístico, identificando sus fases y la documentación asociada para su planificación en la industria/empresa alimentaria.
+
+f) Identificar las necesidades de mantenimiento de los equipos e instalaciones, relacionándolos con una correcta operatividad de los mismos para su programación y supervisión.
+
+g) Reconocer y realizar los ensayos físicos, químicos y microbiológicos, aplicando la metodología analítica para controlar y garantizar la calidad de los productos elaborados.
+
+h) Describir las características organolépticas de los productos alimenticios, justificando el procedimiento metodológico y su aplicación para garantizar su control sensorial.
+
+i) Identificar las operaciones de compra-venta y las técnicas publicitarias de productos alimenticios, valorando su adecuación para comercializar y promocionar los productos elaborados.
+
+j) Identificar la normativa y las medidas de protección ambiental, analizando su repercusión y aplicación en los procesos productivos para garantizar su cumplimiento.
+
+k) Identificar los peligros y riesgos asociados a su actividad profesional, relacionándolos con sus medidas de control, prevención y protección para cumplir las normas establecidas en los planes de seguridad alimentaria y de prevención de riesgos laborales.
+
+l) Identificar las herramientas asociadas a las tecnologías de la información y de la comunicación, reconociendo su potencial como elemento de trabajo para su aplicación.
+
+m) Analizar la estructura jerárquica de la empresa identificando los roles y responsabilidades de los componentes del grupo para organizar y coordinar el trabajo en equipo.
+
+n) Identificar las oportunidades que ofrece la realidad socio-económica de su zona, analizando las posibilidades de éxito propias y ajenas para mantener un espíritu emprendedor a lo largo de la vida.
+
+ñ) Identificar los cambios tecnológicos, organizativos, económicos y laborales en su actividad, analizando sus implicaciones en el ámbito de trabajo, para mantener el espíritu de innovación.
+
+o) Valorar las actividades de trabajo en un proceso productivo, identificando su aportación al proceso global para participar activamente en los grupos de trabajo y conseguir los objetivos de la producción.
+
+p) Describir los roles de cada uno de los componentes del grupo de trabajo, identificando en cada caso la responsabilidad asociada, para la organización del mismo.
+
+q) Identificar formas de intervención en situaciones colectivas, analizando el proceso de toma de decisiones, para liderar en las mismas.
+
+r) Identificar y valorar las oportunidades de aprendizaje y su relación con el mundo laboral, analizando las ofertas y demandas del mercado para mantener una cultura de actualización e innovación.
+
+s) Reconocer las oportunidades de negocio, identificando y analizando demandas del mercado para crear y gestionar una pequeña empresa.
+
+t) Reconocer sus derechos y deberes como agente activo en la sociedad, analizando el marco legal que regula las condiciones sociales y laborales para participar como ciudadano democrático.
+
+### Artículo 10. Módulos profesionales.
+
+1\. Los módulos profesionales y el proyecto intermodular de este ciclo formativo:
+
+a) Quedan desarrollados en el Anexo I del presente real decreto, cumpliendo lo previsto en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
+
+b) Son los que a continuación se relacionan:
+
+0462 Tecnología alimentaria.
+
+0463 Biotecnología alimentaria.
+
+0464 Análisis de alimentos.
+
+0465 Tratamientos de preparación y conservación de los alimentos.
+
+0466 Organización de la producción alimentaria.
+
+0084 Comercialización y logística en la industria alimentaria.
+
+0086 Gestión de calidad y ambiental en la industria alimentaria.
+
+0191 Mantenimiento electromecánico en industrias de proceso.
+
+0467 Control microbiológico y sensorial de los alimentos.
+
+0468 Nutrición y seguridad alimentaria.
+
+0469 Procesos integrados en la industria alimentaria.
+
+0470 Innovación alimentaria.
+
+0471 Proyecto intermodular en procesos y calidad en la industria alimentaria.
+
+0179\. Inglés Profesional (GS).
+
+1709\. Itinerario personal para la empleabilidad I.
+
+1710\. Itinerario personal para la empleabilidad II.
+
+1665\. Digitalización aplicada a los sectores productivos (GS).
+
+1708\. Sostenibilidad aplicada al sistema productivo y Módulo profesional optativo.
+
+2\. Las Administraciones educativas establecerán los currículos correspondientes, respetando lo establecido en este real decreto y de acuerdo con lo dispuesto en el artículo 7 del Real Decreto 659/2023, de 18 de julio.
+
+3\. Los ciclos formativos de grado superior tendrán estructura modular y se organizarán en los bloques previstos en el artículo 96.1 del Real Decreto 659/2023, de 18 de julio. Así mismo, las administraciones educativas incluirán el módulo profesional de carácter optativo con una duración de currículo básico de 80 horas. Este podrá desarrollarse durante un curso completo, o en dos cuatrimestres. En este segundo caso, será posible su distribución en dos módulos cuatrimestrales en diferentes cursos.
+
+4\. De acuerdo con lo establecido en los artículos 12.3 y 12.4 del Real Decreto 659/2023, de 18 de julio, y sin perjuicio de lo señalado en el artículo 6 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los contenidos básicos que figuran en los anexos I correspondientes a los módulos profesionales y proyecto intermodular que conforman los diferentes ciclos formativos de grado superior a los que se refiere el presente real decreto tendrán la consideración de carácter orientativo.
+
+5\. Todos los ciclos formativos a que hace referencia el artículo 1.2 incluirán un periodo de formación en empresa u organismo equiparado en los términos regulados en el título IV del Real Decreto 659/2023, de 18 de julio.
+
+> Se modifica por el art. 4 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+### Artículo 11. Espacios y equipamientos.
+
+1\. Los espacios necesarios para el desarrollo de las enseñanzas de este ciclo formativo son los establecidos en el Anexo II de este real decreto.
+
+2\. Los espacios dispondrán de la superficie necesaria y suficiente para desarrollar las actividades de enseñanza que se deriven de los resultados de aprendizaje de cada uno de los módulos profesionales que se imparten en cada uno de los espacios. Además, deberán cumplir las siguientes condiciones:
+
+a) La superficie se establecerá en función del número de personas que ocupen el espacio formativo y deberá permitir el desarrollo de las actividades de enseñanza-aprendizaje con la «ergonomía» y la movilidad requeridas dentro del mismo.
+
+b) Deberán cubrir la necesidad espacial de mobiliario, equipamiento e instrumentos auxiliares de trabajo.
+
+c) Deberán respetar los espacios o superficies de seguridad que exijan las máquinas y equipos en funcionamiento.
+
+d) Respetarán la normativa sobre prevención de riesgos laborales, la normativa sobre seguridad y salud en el puesto de trabajo y cuantas otras normas sean de aplicación.
+
+3\. Los espacios formativos establecidos podrán ser ocupados por diferentes grupos de alumnos que cursen el mismo u otros ciclos formativos, o etapas educativas.
+
+4\. Los diversos espacios formativos identificados no deben diferenciarse necesariamente mediante cerramientos.
+
+5\. Los equipamientos que se incluyen en cada espacio han de ser los necesarios y suficientes para garantizar la adquisición de los resultados de aprendizaje y la calidad de la enseñanza a los alumnos. Además deberán cumplir las siguientes condiciones:
+
+a) El equipamiento (equipos, máquinas, etc.) dispondrá de la instalación necesaria para su correcto funcionamiento, cumplirá con las normas de seguridad y prevención de riesgos y con cuantas otras sean de aplicación.
+
+b) La cantidad y características del equipamiento deberán estar en función del número de alumnos y permitir la adquisición de los resultados de aprendizaje, teniendo en cuenta los criterios de evaluación y los contenidos que se incluyen en cada uno de los módulos profesionales que se impartan en los referidos espacios.
+
+6\. Las Administraciones competentes velarán para que los espacios y el equipamiento sean los adecuados en cantidad y características para el desarrollo de los procesos de enseñanza y aprendizaje que se derivan de los resultados de aprendizaje de los módulos correspondientes y garantizar así la calidad de estas enseñanzas.
+
+### Artículo 12. Profesorado.
+
+1\. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al profesorado de las especialidades establecidas en el Anexo III pertenecientes a los cuerpos indicados en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación, aprobado por el Real Decreto 276/2007, de 23 de febrero.
+
+2\. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real Decreto 276/2007, de 23 de febrero.
+
+3\. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el apartado anterior, según la atribución docente que se establece para cada módulo en el Anexo III. En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con los resultados de aprendizaje.
+
+4\. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+5\. Corresponderá a las administraciones competentes determinar la atribución docente del módulo o módulos optativos en consonancia con su diseño curricular.
+
+> Se modifica por el art. 5.1 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+## CAPÍTULO IV — Accesos y vinculación a otros estudios, y correspondencia de módulos profesionales con las unidades de competencia
+
+### Artículo 13. Preferencias para el acceso a este ciclo formativo en relación con las modalidades y materias de Bachillerato cursadas.
+
+Tendrán preferencia para acceder a este ciclo formativo aquellos alumnos que hayan cursado la modalidad de Bachillerato de Ciencias y Tecnología.
+
+### Artículo 14. Acceso y vinculación a otros estudios.
+
+1\. El título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria permite el acceso directo para cursar cualquier otro ciclo formativo de grado superior, en las condiciones de admisión que se establezcan.
+
+2\. El título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria permite el acceso directo a las enseñanzas conducentes a los títulos universitarios de grado en las condiciones de admisión que se establezcan.
+
+3\. El Gobierno, oído el Consejo de Universidades, regulará, en norma específica, el reconocimiento de créditos entre los títulos de técnico superior de la formación profesional y las enseñanzas universitarias de grado. A efectos de facilitar el régimen de convalidaciones, se han asignado 120 créditos ECTS en las enseñanzas mínimas establecidas en este real decreto entre los módulos profesionales de este ciclo formativo.
+
+### Artículo 15. Convalidaciones y exenciones.
+
+1\. Las condiciones de convalidación de módulos profesionales del presente título se atendrán a lo establecido en el artículo 126 del Real Decreto 659/2023, de 18 de julio.
+
+2\. La convalidación de módulos profesionales entre formaciones del Sistema de Formación Profesional y formaciones propias de regulaciones previas del mismo se regirá por lo señalado en el artículo 127 del Real Decreto 659/2023, de 18 de julio.
+
+a) Para aquellos títulos establecidos con anterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Real Decreto 1085/2020, de 9 de diciembre, por el que se establecen convalidaciones de módulos profesionales de los títulos de Formación Profesional del sistema educativo español y las medidas para su aplicación, y se modifica el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+
+b) Para aquellos títulos establecidos con posterioridad al 5 de marzo de 2017, será de aplicación lo dispuesto en el Anexo IV de cada uno de los respectivos reales decretos y complementariamente el Real Decreto 1085/2020, de 9 de diciembre.
+
+3\. La convalidación de módulos profesionales mediante la acreditación de estándares de competencias profesionales adquiridos a través de la experiencia laboral u otras vías no formales e informales se atendrá, si procede, a lo establecido en el artículo 128 del Real Decreto 659/2023, de 18 de julio. Para ello, serán de aplicación las tablas de «correspondencia entre unidades de competencia acreditadas con los módulos profesionales para su convalidación». A estos efectos, si en la misma celda aparecieran dos o más unidades de competencia acreditadas deberá entenderse que para la convalidación será necesario poseer todas ellas de manera simultánea.
+
+4\. Para la acreditación de estándares de competencias profesionales mediante la superación de módulos profesionales, serán de aplicación las tablas de «correspondencia de los módulos profesionales superados con las unidades de competencia para su acreditación». A estos efectos, si en la misma celda aparecieran dos o más módulos profesionales superados, deberá entenderse que para la acreditación será necesario poseer todos ellos de manera simultánea.
+
+5\. A los efectos previstos en el punto 4, serán igualmente de aplicación las unidades de competencia acreditadas mediante el procedimiento regulado por el derogado Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+
+6\. Habida cuenta de las actualizaciones en las denominaciones de las unidades de competencia y/o de los módulos profesionales, en caso de discrepancia, prevalecerá la codificación frente a la denominación.
+
+7\. La exención del periodo de formación en empresa u organismo equiparado podrá efectuarse en los términos recogidos en el artículo 131 del Real Decreto 659/2023, de 18 de julio.
+
+8\. Quedan exceptuados de la posible exención del periodo de formación u organismo equiparado los ciclos formativos de grado superior de la familia profesional de Sanidad establecidos en los siguientes reales decretos: Real Decreto 1685/2007, de 14 de diciembre; Real Decreto 1687/2011, de 18 de noviembre; Real Decreto 905/2013, de 22 de noviembre; Real Decreto 767/2014, de 12 de septiembre; Real Decreto 768/2014, de 12 de septiembre; Real Decreto 769/2014, de 12 de septiembre; Real Decreto 770/2014, de 12 de septiembre; Real Decreto 771/2014, de 12 de septiembre y Real Decreto 772/2014, de 12 de septiembre.
+
+> Se modifica por el art. 6.1 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+### Artículo 16. Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención.
+
+1\. La correspondencia de las unidades de competencia con los módulos profesionales que forman las enseñanzas del título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria para su convalidación o exención queda determinada en el Anexo V A) de este real decreto.
+
+2\. La correspondencia de los módulos profesionales que forman las enseñanzas del título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria con las unidades de competencia para su acreditación, queda determinada en el Anexo V B) de este real decreto.
+
+### Disposición adicional primera. Referencia del título en el marco europeo.
+
+Una vez establecido el marco nacional de cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de esta titulación en el marco nacional y su equivalente en el europeo.
+
+### Disposición adicional segunda. Oferta a distancia del presente título.
+
+Los módulos profesionales que forman las enseñanzas de este ciclo formativo podrán ofertarse a distancia, siempre que se garantice que el alumno puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las Administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas.
+
+### Disposición adicional tercera. Titulaciones equivalentes y vinculación con capacitaciones profesionales.
+
+1\. De acuerdo con lo establecido en la disposición adicional trigesimoprimera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, los títulos de Técnico Especialista de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa, que a continuación se relacionan, tendrán los mismos efectos profesionales y académicos que el título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria establecido en el presente real decreto:
+
+a) Técnico Especialista en Conservería Vegetal, rama Agraria
+
+b) Técnico Especialista en Industria Agroalimentaria, rama Agraria.
+
+c) Técnico Especialista en Quesería y Mantequería, rama Química.
+
+d) Técnico Especialista en Industrias Alimentarias, rama Química.
+
+e) Técnico Especialista en Viticultura y Enotecnia, rama Agraria.
+
+2\. El título de Técnico Superior en Industria Alimentaria, establecido por el Real Decreto 2050/1995, de 22 de diciembre, tendrá los mismos efectos profesionales y académicos que el título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria establecido en el presente real decreto.
+
+3\. La formación establecida en este real decreto en el módulo profesional de Itinerario personal para la empleabilidad I capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, siempre que tenga, al menos, 45 horas lectivas.
+
+4\. La formación establecida en el presente real decreto en el módulo profesional de Nutrición y Seguridad Alimentaria garantiza el nivel de conocimiento necesario para posibilitar unas prácticas correctas de higiene y manipulación de alimentos de acuerdo con la exigencia del artículo 4.6 del Real Decreto 202/2000, de 11 de febrero, por el que se establecen las normas relativas a los manipuladores de alimentos.
+
+> Se modifica la referencia al módulo profesional de Formación y orientación laboral por el módulo de Itinerario personal para la empleabilidad I, según establece la disposición adicional 3 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+### Disposición adicional cuarta. Regulación del ejercicio de la profesión.
+
+1\. De conformidad con lo establecido en el Real Decreto 1538/2006, de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo, los elementos recogidos en el presente real decreto no constituyen una regulación del ejercicio de profesión titulada alguna.
+
+2\. Asimismo, las equivalencias de titulaciones académicas establecidas en el apartado 1 y 2 de la disposición adicional tercera de este real decreto, se entenderán sin perjuicio del cumplimiento de las disposiciones que habilitan para el ejercicio de las profesiones reguladas.
+
+### Disposición adicional quinta. Equivalencias a efectos de docencia en los procedimientos selectivos de ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+
+El título de Técnico Superior o de Técnico Especialista se declara equivalente a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, cuando el titulado haya ejercido como profesor interino en centros públicos del ámbito territorial de la Administración convocante y en la especialidad docente a la que pretenda acceder durante un periodo mínimo de dos años antes del 31 de agosto de 2007.
+
+### Disposición adicional sexta. Accesibilidad universal en las enseñanzas de este título.
+
+1\. Las Administraciones educativas, en el ámbito de sus respectivas competencias, incluirán en el currículo de este ciclo formativo los elementos necesarios para garantizar que las personas que lo cursen desarrollen las competencias incluidas en el currículo en diseño para todos.
+
+2\. Asimismo, dichas Administraciones adoptarán las medidas que estimen necesarias para que este alumnado pueda acceder y cursar dicho ciclo formativo en las condiciones establecidas en la disposición final décima de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad.
+
+### Disposición transitoria única. Aplicabilidad de otras normas.
+
+1\. Hasta que sea de aplicación lo dispuesto en este real decreto, en virtud de lo establecido en sus disposiciones finales segunda y tercera, será de aplicación lo dispuesto en el Real Decreto 2050/1995, de 22 de diciembre, por el que se establece el título de Técnico Superior en Industria Alimentaria y las correspondientes enseñanzas mínimas.
+
+2\. Asimismo, hasta que sea de aplicación la norma que regule, para el ámbito de gestión del Ministerio de Educación, el currículo correspondiente al título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria, será de aplicación lo establecido en el Real Decreto 1139/1997, de 11 de julio, por el que se establece el currículo del ciclo formativo de grado superior correspondiente al título de Técnico Superior en Industria Alimentaria.
+
+### Disposición derogatoria única. Derogación de normas.
+
+1\. Queda derogado el Real Decreto 2050/1995, de 22 de diciembre, por el que se establece el título de Técnico Superior en Industria Alimentaria y las correspondientes enseñanzas mínimas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+2\. Queda derogado el Real Decreto 1139/1997, de 11 de julio, por el que se establece el currículo del ciclo formativo de grado superior correspondiente al título de Técnico Superior en Industria Alimentaria.
+
+### Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica, al amparo de las competencias que atribuye al Estado el artículo 149.1.1.ª y 30.ª de la Constitución.
+
+### Disposición final segunda. Implantación del nuevo currículo.
+
+Las Administraciones educativas implantarán el nuevo currículo de estas enseñanzas en el curso escolar 2011/2012. No obstante, la implantación de este ciclo formativo, podrá anticiparse al año académico 2010/2011.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 16 de abril de 2010.
+
+JUAN CARLOS R.
+
+El Ministro de Educación,
+
+ÁNGEL GABILONDO PUJOL
+
+## ANEXO I
+
+**Módulo Profesional: Tecnología alimentaria.**
+
+**Equivalencia en créditos ECTS: 10**
+
+**Código: 0462**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Reconoce los procesos de elaboración de la industria cárnica describiendo los procedimientos y las técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la normativa de aplicación en mataderos, salas de despiece e industrias cárnicas.
+
+b) Se han identificado los animales productores de carne y los requerimientos de transporte antes de su sacrificio y faenado.
+
+c) Se han caracterizado las operaciones que integran las líneas de sacrificio y faenado de las diferentes especies.
+
+d) Se han descrito las alteraciones de la carne por deficiencias en el sacrificio y faenado de los animales o por una inadecuada maduración y/o conservación.
+
+e) Se han identificado los materiales específicos de riesgo (MER) y la gestión para su eliminación cuando proceda.
+
+f) Se han analizado las características y parámetros de calidad de las materias primas, aditivos, auxiliares y productos en curso y terminados de la industria cárnica.
+
+g) Se ha interpretado la normativa que define el proceso tecnológico.
+
+h) Se han caracterizado los principales procesos y procedimientos de elaboración de la industria cárnica.
+
+i) Se han descrito las transformaciones que se producen en las materias primas, productos y preparados cárnicos durante el curado, secado y almacenamiento.
+
+j) Se han identificado las características específicas del procesado de productos acogidos a denominación de origen o identificaciones geográficas protegidas.
+
+k) Se han asociado a cada etapa y operación los equipos de proceso y sus parámetros de control.
+
+l) Se han reconocido los procesos de alteración de la carne, productos y preparados cárnicos, las causas originarias, las consecuencias derivadas y las medidas de prevención correspondientes.
+
+2\. Caracteriza los procesos de elaboración de productos derivados de la pesca y acuicultura describiendo sus fundamentos.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la normativa que define el proceso tecnológico.
+
+b) Se han descrito las características y propiedades de las materias primas, auxiliares y productos en curso y terminados de la industria de productos derivados de la pesca y de la acuicultura.
+
+c) Se han reconocido los procedimientos, parámetros y técnicas utilizadas en la determinación del grado de frescura, identificación y clasificación específica de pescados y mariscos.
+
+d) Se han analizado los principales procesos y procedimientos utilizados en la industria de los productos derivados de la pesca y de la acuicultura.
+
+e) Se han descrito las transformaciones que se producen en las materias primas y productos derivados de la pesca y de la acuicultura durante su almacenamiento y elaboración.
+
+f) Se han asociado a cada etapa y operación los equipos de proceso y sus parámetros de control.
+
+g) Se han identificado las características específicas del procesado de productos acogidos a denominación de origen o identificaciones geográficas protegidas.
+
+h) Se han reconocido los procesos de alteración de los productos derivados de la pesca y de la acuicultura, las causas originarias, las consecuencias derivadas y las medidas de prevención correspondientes.
+
+3\. Desarrolla los procesos de elaboración de leches de consumo y de productos lácteos caracterizando sus fundamentos tecnológicos.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la normativa que define el proceso tecnológico.
+
+b) Se han reconocido las características y propiedades las materias primas, auxiliares y productos en curso y terminados de la industria de leches de consumo y de productos lácteos.
+
+c) Se han reconocido los procedimientos, los parámetros y las técnicas más utilizadas en la identificación y clasificación de la industria de las leches de consumo y de los derivados lácteos.
+
+d) Se han analizado los principales procesos y procedimientos utilizados en la industria de las leches de consumo y de derivados lácteos.
+
+e) Se han relacionado los productos terminados con las características de las diversas materias primas, auxiliares y aditivos que intervienen en su elaboración.
+
+f) Se han descrito las transformaciones que se producen en las materias primas y productos lácteos durante su almacenamiento y elaboración.
+
+g) Se han asociado a cada etapa y operación los equipos de proceso y sus parámetros de control.
+
+h) Se han identificado las características específicas del procesado de productos acogidos a denominación de origen o identificaciones geográficas protegidas.
+
+i) Se han reconocido los procesos de alteración higiénica de las leches de consumo y derivados lácteos, las causas originarias, las consecuencias derivadas y las medidas de prevención correspondientes.
+
+4\. Reconoce los procesos de elaboración de conservas y/o jugos vegetales describiendo los procedimientos y técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la normativa que define el proceso tecnológico.
+
+b) Se han descrito las características y propiedades de las materias primas, auxiliares y productos en curso y terminados de la industria de conservas y /o jugos vegetales.
+
+c) Se han reconocido los procedimientos, los parámetros y las técnicas más utilizadas en la identificación y clasificación de la industria de conservas y/ o jugos vegetales.
+
+d) Se han analizado los principales procesos y procedimientos utilizados en la industria de conservas y/o jugos vegetales.
+
+e) Se han relacionado los productos terminados con las características de las diversas materias primas, auxiliares, aditivos y materiales que intervienen en su elaboración.
+
+f) Se han descrito las transformaciones que se producen en las distintas materias primas, conservas y/o jugos vegetales durante su almacenamiento y elaboración.
+
+g) Se han asociado a cada etapa y operación los equipos de proceso y sus parámetros de control.
+
+h) Se han identificado las características específicas del procesado de productos acogidos a denominación de origen o identificaciones geográficas protegidas.
+
+i) Se han reconocido los procesos de alteración higiénica de las conservas y/ o jugos vegetales, las causas originarias, las consecuencias derivadas y las medidas de prevención correspondientes.
+
+5\. Caracteriza los procesos de elaboración de derivados de cereales y de dulces justificando las operaciones de proceso y su secuenciación.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la normativa que define el proceso tecnológico.
+
+b) Se han descrito las características y propiedades de las materias primas, auxiliares y productos en curso y terminados de la industria de derivados de cereales y de dulces.
+
+c) Se han reconocido los procedimientos, los parámetros y las técnicas más utilizadas en la identificación y clasificación de la industria de derivados de cereales y de dulces.
+
+d) Se han analizado los principales procesos y procedimientos utilizados en la industria de derivados de cereales y de dulces.
+
+e) Se han relacionado los productos terminados con las características de las diversas materias primas, auxiliares, aditivos y materiales que intervienen en su elaboración.
+
+f) Se han descrito las transformaciones que se producen en las distintas materias primas y productos derivados de cereales y dulces durante su almacenamiento y elaboración.
+
+g) Se han asociado a cada etapa y operación los equipos de proceso y sus parámetros de control.
+
+h) Se han identificado las características específicas del procesado de productos acogidos a denominación de origen o identificaciones geográficas protegidas.
+
+i) Se han reconocido los procesos de alteración higiénica de los derivados de cereales y de dulces, las causas originarias, las consecuencias derivadas y las medidas de prevención correspondientes.
+
+6\. Reconoce los procesos de elaboración de otros productos alimenticios describiendo sus fundamentos tecnológicos.
+
+Criterios de evaluación:
+
+a) Se ha interpretado la normativa que define el proceso tecnológico.
+
+b) Se han descrito las características y propiedades de las materias primas, auxiliares y productos en curso y terminados.
+
+c) Se han reconocido los procedimientos, los parámetros y las técnicas más utilizadas en la identificación y clasificación de la industria de otros productos alimenticios.
+
+d) Se han analizado los principales procesos y procedimientos utilizados de la industria de otros productos alimenticios.
+
+e) Se han relacionado los productos terminados con las características de las diversas materias primas, auxiliares, aditivos y materiales que intervienen en su elaboración.
+
+f) Se han descrito las transformaciones que se producen en las distintas materias primas y productos alimenticios durante su almacenamiento y elaboración.
+
+g) Se han asociado a cada etapa y operación los equipos de proceso y sus parámetros de control.
+
+h) Se han identificado las características específicas del procesado de productos acogidos a denominación de origen o identificaciones geográficas protegidas.
+
+i) Se han reconocido los procesos de alteración de estos productos alimenticios, las causas originarias, las consecuencias derivadas y las medidas de prevención correspondientes.
+
+**Duración: 100 horas**
+
+**Contenidos básicos**
+
+Procesos de elaboración de la industria cárnica:
+
+– Reglamentación técnico-sanitaria y normativa aplicable a los mataderos, salas de despiece e industrias cárnicas.
+
+– Animales productores de carne (especies de abasto, aves y caza).
+
+– Transporte de animales vivos. Influencia en la calidad de la carne.
+
+– Líneas de sacrificio y faenado.
+
+– Tecnología de la carne. Maduración y conservación de la carne. Alteraciones.
+
+– Materiales específicos de riesgo (MER).
+
+– Características de la carne de las especies de abasto, aves y caza. Parámetros de calidad.
+
+– Condimentos, especias, aditivos y otros auxiliares.
+
+– Productos y preparados cárnicos.
+
+– Denominaciones de origen. Identificaciones geográficas protegidas y otras marcas de calidad cárnica.
+
+– Transformaciones de las materias primas, productos y preparados cárnicos.
+
+– Alteraciones de las carnes frescas.
+
+– Aprovechamiento de los subproductos cárnicos.
+
+Proceso de elaboración de productos derivados de la pesca y acuicultura:
+
+– Reglamentación técnico-sanitaria y normativa aplicable a los productos pesqueros y de la acuicultura.
+
+– Materias primas: especies de pescados comestibles. Clasificación. Manipulación. Grado de frescura.
+
+– Condimentos, especias, aditivos y otros auxiliares. Clasificación e identificación. Características.
+
+– Tecnología del pescado y del marisco. Procesos unitarios en la transformación de pescado. Fundamentos y aplicaciones. Categorización. Condiciones de almacenamiento y conservación.
+
+– Productos derivados de la pesca y de la acuicultura. Clasificación. Procesos tecnológicos. Factores que influyen en el procesado. Tipos. Equipos.
+
+– Subproductos derivados del pescado.
+
+– Denominaciones de origen, identificaciones geográficas protegidas y otras marcas de calidad de los productos de la pesca.
+
+– Alteraciones del pescado y marisco.
+
+Proceso de elaboración de leches de consumo y de productos lácteos:
+
+– Reglamentación técnico-sanitaria y normativa aplicable a leches de consumo y de productos lácteos.
+
+– La leche. Características. Control de calidad.
+
+– Aditivos. Coadyuvantes y otros auxiliares. Conservación.
+
+– Tecnología de la leche. Clasificación. Procesos de fabricación. Fundamentos. Operaciones y equipos de proceso. Control de calidad.
+
+– Productos lácteos. Productos lácteos fermentados y pastas untables, quesos, mantequilla y otros. Operaciones y equipos de proceso. Control de calidad.
+
+– Denominaciones de origen, identificaciones geográficas protegidas y otras marcas de calidad de los productos de las leches de consumo y de productos lácteos.
+
+– Alteraciones y transformaciones de las leches de consumo y de productos lácteos.
+
+– Aprovechamiento de los subproductos lácteos.
+
+Proceso de elaboración de conservas y jugos vegetales:
+
+– Reglamentación técnico-sanitaria y normativa aplicable a conservas y jugos vegetales.
+
+– Materias primas. Clasificación. Control de calidad.
+
+– Aditivos y otros auxiliares. Clasificación e identificación. Características.
+
+– Tecnología de las conservas y jugos vegetales. Tratamientos. Clasificación.
+
+– Tecnología de los procesos industriales. Fundamentos.
+
+– Operaciones y equipos de proceso. Control de calidad.
+
+– Denominaciones de origen, identificaciones geográficas protegidas y otras marcas de calidad de los productos de conservas y jugos vegetales.
+
+– Alteraciones y transformaciones de conservas y jugos vegetales.
+
+– Aprovechamiento de los subproductos del procesado de frutas y hortalizas.
+
+Proceso de elaboración de derivados de cereales y de dulces:
+
+– Reglamentación técnico-sanitaria y normativa aplicable a derivados de cereales y dulces.
+
+– Materias primas. Clasificación.
+
+– Harinas y sémolas como materia prima o producto terminado. Características.
+
+– Aditivos y otros auxiliares. Clasificación e identificación. Características.
+
+– Tecnología de los derivados de cereales y de dulces. Definición. Condiciones de almacenamiento y conservación. Tratamientos. Clasificación.
+
+– Tecnología de los procesos industriales. Fundamentos y objetivos. Procesos de fabricación. Operaciones y equipos de proceso. Condiciones de almacenamiento y conservación. Control de calidad.
+
+– Denominaciones de origen, identificaciones geográficas protegidas y otras marcas de calidad de los productos de derivados de cereales y dulces.
+
+– Alteraciones y transformaciones de derivados de cereales y dulces.
+
+– Aprovechamiento de los subproductos del procesado de los cereales.
+
+Proceso de elaboración de otros productos alimenticios:
+
+– Reglamentación técnico-sanitaria y normativa aplicable.
+
+– Materias primas. Identificación y clasificación.
+
+– Aditivos y otros auxiliares. Clasificación e identificación. Características. Normativa. Almacenamiento y conservación.
+
+– Tecnología del proceso. Definición. Técnicas y documentación. Proceso de elaboración.
+
+– Fundamentos, operaciones básicas y equipos.
+
+– Procesos industriales de elaboración. Transformaciones, procedimientos y equipos en la elaboración de otros productos alimenticios. Control de calidad.
+
+– Denominaciones de origen, identificaciones geográficas protegidas y otras marcas de calidad.
+
+– Alteraciones y transformaciones.
+
+– Aprovechamiento de subproductos.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada principalmente a las funciones de elaboración/ transformación, pero también tiene formación asociada, de forma transversal, a las funciones de seguridad alimentaria y protección ambiental.
+
+La elaboración/ transformación de productos alimenticios incluye aspectos como:
+
+– Conocimientos de las materias primas, auxiliares, productos en curso y terminados.
+
+– Identificación de los fundamentos tecnológicos.
+
+– Desarrollo de los procesos industriales para la elaboración de productos alimenticios.
+
+– Transformaciones, procedimientos y equipos.
+
+– Reconocimientos de las principales alteraciones. Prevención y consecuencias.
+
+– Conocimiento de otros productos de otras regiones y países valorando sus características.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación asociada a este módulo profesional contribuye a alcanzar los objetivos generales a), b), c), f) y k) del ciclo formativo y las competencias del título a), b), f) y m).
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Análisis de la industria cárnica y de sus procesos de elaboración y transformación.
+
+– Identificación de los productos derivados de la pesca y acuicultura y de sus procesos de elaboración y transformación.
+
+– Reconocimiento de leches de consumo y productos lácteos y de sus procesos de elaboración y transformación.
+
+– Descripción e identificación de conservas y/ o jugos vegetales y de sus procesos de elaboración y transformación.
+
+– Reconocimiento de cereales y dulces y de sus procesos de elaboración y transformación.
+
+– Descripción de otros productos alimenticios y de sus procesos de elaboración y transformación.
+
+**Módulo Profesional: Biotecnología alimentaria.**
+
+**Equivalencia en créditos ECTS: 6**
+
+**Código: 0463**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Reconoce los fundamentos de la bioquímica relacionándolos con las funciones celulares.
+
+Criterios de evaluación:
+
+a) Se ha caracterizado la bioquímica como la ciencia que estudia la naturaleza química de la vida y del metabolismo.
+
+b) Se han relacionado los carbohidratos, lípidos y proteínas con las funciones y estructuras que desempeñan en la célula.
+
+c) Se han identificado las enzimas como catalizadores biológicos de alto poder catalítico y especificidad.
+
+d) Se han descrito los ácidos nucleicos como portadores de la información genética y regidores de la síntesis proteica.
+
+e) Se ha identificado la transcripción, traducción y modificación post-traduccional, como fases reguladoras de la síntesis de proteínas.
+
+2\. Analiza los fundamentos de la microbiología relacionándolos con su aplicación en la industria alimentaria.
+
+Criterios de evaluación:
+
+a) Se ha analizado la organización celular de la estructura procariota y eucariota.
+
+b) Se han enumerado y clasificado los microorganismos más importantes de los procesos biotecnológicos en función de sus características.
+
+c) Se ha descrito la reproducción de los microorganismos y sus implicaciones en la posible transferencia genética.
+
+d) Se ha descrito el metabolismo microbiano atendiendo a la nutrición, catabolismo y respiración de los organismos.
+
+e) Se ha analizado el proceso de mejora de cepas caracterizando las técnicas aplicadas.
+
+f) Se ha valorado la tecnología del ADN recombinante como metodología de gran potencial en la obtención de microorganismos industriales.
+
+3\. Caracteriza los biorreactores relacionándolos con sus aplicaciones biotecnológicas en la industria alimentaria.
+
+Criterios de evaluación:
+
+a) Se ha reconocido el diseño de un biorreactor definiendo las operaciones, requerimientos, subproductos y efluentes del proceso.
+
+b) Se han clasificado los biorreactores.
+
+c) Se han analizado la cinética de crecimiento microbiano y sus factores limitantes.
+
+d) Se ha identificado el concepto de transferencia de masa como factor crítico en el funcionamiento de un biorreactor.
+
+e) Se han reconocido los procesos de transferencia de calor en los biorreactores y su influencia en el desarrollo del proceso.
+
+f) Se han determinado los diagramas de flujo para la recuperación del producto deseado.
+
+g) Se han reconocido los puntos clave de optimización de los procesos de fermentación industrial.
+
+4\. Describe las aplicaciones de la biotecnología en la industria alimentaria identificando los microorganismos y procesos involucrados.
+
+Criterios de evaluación:
+
+a) Se han identificado los procesos de elaboración de alimentos que emplean microorganismos.
+
+b) Se han reconocido las levaduras alimentarias por su capacidad fermentadora en la industria cervecera, vitivinícola, de panificación y otras.
+
+c) Se han identificado las levaduras inactivas como componentes nutricionales y como saborizantes.
+
+d) Se han reconocido las bacterias como microorganismos determinantes en la elaboración de productos alimenticios.
+
+e) Se han valorado las aplicaciones de la ingeniería genética en la mejora de bacterias y levaduras utilizadas en el procesado de alimentos.
+
+f) Se ha caracterizado el proceso de producción de biomasa bacteriana para la obtención de proteína de biomasa microbiana (MBP).
+
+g) Se han reconocido las enzimas comerciales de origen microbiano empleadas en la industria de transformación de alimentos.
+
+h) Se han descrito los procesos biotecnológicos de obtención de edulcorantes, saborizantes, polisacáridos, vitaminas, pigmentos y otros.
+
+i) Se han caracterizado los alimentos transgénicos y valorado su repercusión sobre la salud y nutrición.
+
+j) Se ha reconocido la normativa que regula la aplicación de la biotecnología en la industria alimentaria.
+
+k) Se ha adoptado una actitud abierta y crítica ante las nuevas tendencias y aplicaciones biotecnológicas.
+
+5\. Reconoce los biosensores y otras aplicaciones de la biotecnología valorando su potencial para asegurar la calidad de los alimentos.
+
+Criterios de evaluación:
+
+a) Se han valorado las aplicaciones biotecnológicas de los biosensores.
+
+b) Se han caracterizado las técnicas con biosensores para la detección y recuento microbiano en los alimentos.
+
+c) Se han descrito las técnicas y configuración básica de los biosensores que no utilizan ADN.
+
+d) Se han analizado las técnicas que utilizan secuencias de ácido nucleico para la detección de células microbianas, virus o muestras biológicas en los alimentos.
+
+e) Se han caracterizado las técnicas de inmunoensayos (RIA, FIA, ELISA), para detectar bacterias, enterotoxinas, micotoxinas, factores antinutricionales y otras.
+
+f) Se han identificado las técnicas moleculares aplicadas al análisis de alimentos y detección de fraudes alimentarios.
+
+g) Se ha analizado la aplicación de la biotecnología en el tratamiento de los residuos alimentarios.
+
+**Duración: 55 horas**
+
+**Contenidos básicos:**
+
+Fundamentos de bioquímica:
+
+– La célula. Estructura y funciones.
+
+– Bioquímica. Metabolismo.
+
+– Carbohidratos, lípidos y proteínas: clasificación y función celular.
+
+– Enzimas. Poder catalítico, especificidad y control de la actividad enzimática. Clasificación.
+
+– Síntesis proteica. Ácidos nucleicos. La transcripción y su control. La traducción y su control.
+
+Fundamentos de microbiología:
+
+– Organización celular.
+
+– Microorganismos. Clasificación.
+
+– Reproducción de microorganismos. Transferencia genética.
+
+– Metabolismo microbiano. Nutrición. Catabolismo. Fermentación.
+
+– Mejora de cepas. Mutaciones.
+
+– Recombinación: conjugación, transformación y transducción en bacterias. Tecnología del ADN recombinante. Vectores plasmídicos.
+
+Características de los biorreactores:
+
+– Fermentadores y biorreactores. Características y parámetros de control.
+
+– Clasificación.
+
+– Crecimiento microbiano. Cinéticas de crecimiento. Factores limitantes que afectan al crecimiento.
+
+– Transferencia de masa. Balance. Transferencia de oxígeno.
+
+– Transferencia de calor. Balance. Factores.
+
+– Recuperación de productos. Diagrama del proceso. Aplicaciones.
+
+– Control del proceso de biorreacción: determinaciones físicas, químicas y medidas biológicas.
+
+Aplicaciones de la biotecnología en la industria alimentaria:
+
+– Procesos y productos que emplean microorganismos.
+
+– Levaduras alimentarias. Producción de cerveza, vino, licores destilados y otros. Productos de panadería.
+
+– Levaduras inactivas y sus derivados. Aplicaciones.
+
+– Bacterias ácido-lácticas. Cultivos iniciadores.
+
+– Productos lácteos.
+
+– Productos cárnicos. Cultivos iniciadores.
+
+– Derivados del pescado. Cultivos iniciadores.
+
+– Vegetales fermentados. Cultivos iniciadores.
+
+– El vinagre y otros ácidos (cítrico, láctico, málico y fumárico).
+
+– Producción de proteína de biomasa microbiana. Proceso de producción.
+
+– Producción de enzimas. Proceso. Aplicaciones.
+
+– Producción de aditivos alimentarios de origen microbiano. Proceso de producción. Polisacáridos y edulcorantes. Saborizantes. Producción de vitaminas y pigmentos. Avances.
+
+– Enzimas comerciales. Aplicaciones.
+
+– Alimentos transgénicos. Organismos modificados genéticamente (OMG).
+
+– Evaluación de la seguridad de los nuevos productos alimenticios. Normativa europea y nacional.
+
+– Actitud abierta y crítica ante las nuevas tendencias y aplicaciones biotecnológicas.
+
+Aplicación de biosensores:
+
+– Biosensores. Concepto. Aplicaciones.
+
+– Sensores microbianos. Aplicaciones.
+
+– Sensores no microbianos. Aplicaciones.
+
+– Biosensores que no utilizan ADN. Técnicas. Configuración básica.
+
+– Sondas de ADN. Técnicas.
+
+– Inmunoensayos. Concepto.
+
+– Técnicas moleculares de análisis de alimentos. Reacción en cadena de la polimerasa (PCR).
+
+– Detección de OMG (Organismos Modificados Genéticamente).
+
+– Biotransformación en el tratamiento de residuos alimentarios.
+
+**Orientaciones pedagógicas:**
+
+Este módulo profesional da respuesta a la necesidad de proporcionar una adecuada base teórica y práctica para la comprensión y aplicación de la biotecnología y sus herramientas tecnológicas a las funciones de elaboración/ transformación, seguridad alimentaria y protección ambiental.
+
+La elaboración/ transformación de productos alimenticios, la seguridad alimentaria y la protección ambiental incluyen aspectos como:
+
+– Conocimiento de los fundamentos soporte, bioquímicos y microbiológicos, de la biotecnología.
+
+– Caracterización de los biorreactores y de sus parámetros de control.
+
+– Estudio de las cinéticas de crecimiento microbiano y de sus factores limitantes.
+
+– Análisis de la tecnología del ADN recombinante en la obtención de microorganismos.
+
+– Estudio de los procesos de fermentación, de producción de enzimas y de obtención de aditivos alimentarios.
+
+– Identificación de los biosensores como herramientas tecnológicas de seguridad alimentaria y de protección ambiental.
+
+Las actividades profesionales asociadas a esta función se aplican en procesos de:
+
+– Elaboración de productos alimenticios.
+
+La formación del presente módulo contribuye a alcanzar los objetivos generales c), g), j) y k) del ciclo formativo, y las competencias c), g), i), j) y m) del título.
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Análisis de las funciones y estructuras celulares.
+
+– Caracterización de los microorganismos, sus procesos de reproducción y de transferencia genética.
+
+– Identificación de las técnicas de recombinación genética y las aplicaciones del ADN recombinante.
+
+– Descripción de los biorreactores, sus parámetros de control y los factores limitantes del crecimiento microbiano.
+
+– Análisis de las diferentes aplicaciones de la biotecnología en la producción de productos alimenticios (empleo de levaduras, bacterias ácido-lácticas), en la obtención de biomasa microbiana, enzimas y aditivos alimentarios.
+
+– Caracterización de los alimentos transgénicos y su normativa de regulación.
+
+– Identificación de los biosensores como herramientas tecnológicas en la seguridad alimentaria y en la transformación de los residuos alimentarios.
+
+**Módulo Profesional: Análisis de alimentos.**
+
+**Equivalencia en créditos ECTS: 8**
+
+**Código: 0464**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Organiza el laboratorio reconociendo las instalaciones, equipos y recursos que lo componen.
+
+Criterios de evaluación:
+
+a) Se ha reconocido el equipamiento, instalaciones, servicios auxiliares y dispositivos de seguridad de un laboratorio.
+
+b) Se han reconocido las medidas de higiene y seguridad en la manipulación y almacenamiento de las muestras y reactivos.
+
+c) Se han reconocido las medidas de protección individual y colectiva.
+
+d) Se han organizado y controlado los recursos del laboratorio y el almacenamiento de reactivos y material auxiliar.
+
+e) Se ha organizado el trabajo de laboratorio en función de las necesidades del proceso productivo y del plan de control de calidad.
+
+f) Se han identificado las técnicas de limpieza que se van a emplear en el laboratorio.
+
+g) Se ha comprobado el funcionamiento, el estado de calibración y de limpieza del instrumental y los equipos de análisis.
+
+h) Se han establecido las condiciones y métodos de eliminación de las muestras y residuos del laboratorio de acuerdo con el tipo, características y normativa vigente.
+
+2\. Realiza el muestreo y preparación de la muestra, relacionándolo con las determinaciones analíticas que se van a realizar.
+
+Criterios de evaluación:
+
+a) Se han descrito y secuenciado las etapas básicas de una determinación analítica tipo.
+
+b) Se han caracterizado las técnicas de muestreo.
+
+c) Se han explicado los procedimientos normalizados de trabajo (PNT) y las instrucciones de aplicación para cada técnica de muestreo.
+
+d) Se ha seleccionado la técnica de muestreo en función de las determinaciones analíticas que se van a realizar.
+
+e) Se ha realizado la toma de muestras, su identificación y traslado, garantizando su representatividad.
+
+f) Se han adoptado medidas preventivas para evitar o minimizar contaminaciones y/o alteraciones de la muestra.
+
+g) Se han seleccionado y aplicado las operaciones de tratamiento de la muestra según el protocolo establecido.
+
+h) Se han aplicado las medidas de seguridad laboral en la toma, conservación, traslado y preparación de la muestra.
+
+i) Se ha valorado la importancia del muestreo en la fiabilidad de los resultados de los análisis.
+
+3\. Aplica técnicas de análisis físicos y químicos en alimentos, describiendo sus fundamentos.
+
+Criterios de evaluación:
+
+a) Se han reconocido conceptos de química general aplicados al análisis de los alimentos.
+
+b) Se han explicado los fundamentos de los análisis físicos y químicos.
+
+c) Se ha preparado el material y los reactivos necesarios para los análisis físicos y químicos.
+
+d) Se han preparado y valorado las disoluciones.
+
+e) Se han realizado análisis de alimentos basados en procedimientos físicos.
+
+f) Se han realizado análisis de alimentos basados en procedimientos químicos.
+
+g) Se han recogido datos y efectuado cálculos, interpretando los resultados obtenidos.
+
+h) Se ha valorado el orden y limpieza en la realización de los análisis.
+
+i) Se han adoptado las medidas de seguridad e higiene durante la realización de los análisis.
+
+4\. Realiza análisis instrumentales en productos alimenticios justificando la técnica seleccionada.
+
+Criterios de evaluación:
+
+a) Se han identificado las técnicas y principios del análisis instrumental.
+
+b) Se ha reconocido el procedimiento normalizado de trabajo (PNT) para la realización del análisis instrumental.
+
+c) Se han seleccionado, preparado y calibrado los equipos e instrumentos en función del método analítico.
+
+d) Se ha preparado el material y los reactivos necesarios para los análisis instrumentales.
+
+e) Se han realizado determinaciones mediante métodos electroquímicos.
+
+f) Se han efectuado determinaciones mediante métodos cromatográficos.
+
+g) Se han realizado determinaciones mediante métodos ópticos.
+
+h) Se han identificado los principales equipos automáticos de análisis.
+
+i) Se han adoptado las medidas de seguridad e higiene durante la realización de los análisis.
+
+j) Se ha valorado la utilización de las tecnologías de la información y la comunicación en la realización de los análisis instrumentales.
+
+5\. Elabora informes técnicos, relacionando los resultados obtenidos con el control del producto y del proceso productivo.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la estructura de los informes y boletines de análisis.
+
+b) Se han identificado los límites de los parámetros establecidos por la normativa legal vigente.
+
+c) Se ha identificado el rango establecido para cada parámetro de análisis.
+
+d) Se han recogido datos y efectuado cálculos referidos a los análisis realizados.
+
+e) Se han analizado e interpretado los resultados determinando su coherencia y validez.
+
+f) Se han cumplimentado informes de análisis.
+
+g) Se ha valorado la utilización de las tecnologías de la información y la comunicación en la elaboración de informes de análisis.
+
+h) Se ha valorado la utilización de una adecuada terminología en la redacción de los informes técnicos.
+
+**Duración: 70 horas.**
+
+**Contenidos básicos:**
+
+Organización del laboratorio:
+
+– Equipamiento, instalaciones, servicios auxiliares y dispositivos de seguridad de un laboratorio.
+
+– Medidas de higiene y seguridad en la manipulación y almacenamiento de las muestras y reactivos.
+
+– Organización y control de los recursos del laboratorio.
+
+– Organización del trabajo de laboratorio.
+
+– Limpieza, desinfección y esterilización.
+
+– Funcionamiento, calibración y limpieza del instrumental y equipos de análisis.
+
+– Eliminación de las muestras y residuos del laboratorio.
+
+Muestreo y preparación de la muestra:
+
+– Etapas de las determinaciones analíticas.
+
+– Técnicas de muestreo.
+
+– Procedimientos normalizados de trabajo (PNT).
+
+– Toma de muestra, identificación y traslado.
+
+– Medidas preventivas en la manipulación de las muestras.
+
+– Operaciones para el tratamiento de la muestra.
+
+– Medidas de seguridad laboral en la toma, conservación, traslado y preparación de la muestra.
+
+Aplicación de técnicas de análisis físicos y químicos en alimentos y agua:
+
+– Conceptos de química general aplicada al análisis de los alimentos.
+
+– Fundamentos de los análisis físicos y químicos.
+
+– Materiales y reactivos. Preparación de disoluciones. Valoraciones.
+
+– Análisis físicos. Protocolos. Procedimientos.
+
+– Análisis químicos. Protocolos. Procedimientos.
+
+– Análisis de alimentos.
+
+– Análisis de aguas potables.
+
+– Recogida de datos. Cálculos. Interpretación de los resultados.
+
+– Orden y limpieza en el laboratorio.
+
+Realización de análisis instrumentales en productos alimenticios:
+
+– Técnicas y principios del análisis instrumental. Fundamentos de los análisis electroquímicos, cromatográficos y ópticos. Clasificación.
+
+– Procedimientos normalizados de trabajo (PNT).
+
+– Preparación y calibrado de los equipos.
+
+– Preparación del material y de los reactivos.
+
+– Métodos electroquímicos.
+
+– Métodos cromatográficos.
+
+– Métodos ópticos.
+
+– Equipos automáticos de análisis.
+
+– Recogida de datos. Cálculos. Interpretación de los resultados.
+
+– Medidas de seguridad e higiene durante la realización de los análisis instrumentales.
+
+– Tecnologías de la información y de la comunicación en la realización de los análisis instrumentales.
+
+Elaboración de informes técnicos:
+
+– Informes y boletines de análisis. Estructura.
+
+– Parámetros establecidos por la normativa legal vigente. Límites.
+
+– Recogida de datos. Cálculos.
+
+– Interpretación de los resultados.
+
+– Cumplimentación de boletines de análisis e informes.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada principalmente a las funciones de elaboración/ transformación, control de calidad y comercio y promoción en la industria alimentaria y de forma transversal a las funciones de seguridad alimentaria, medio ambiente y prevención y seguridad laboral.
+
+La elaboración/ transformación, control de calidad y comercio y promoción incluyen aspectos como:
+
+– Toma de muestras y control del producto durante el proceso.
+
+– Control de proveedores, materias primas y auxiliares.
+
+– Control del producto final.
+
+– Supervisión del cumplimiento de la normativa del plan de prevención de riesgos laborales.
+
+– Actuación según normas de planes de seguridad y emergencia.
+
+– Conocimiento de los productos competidores y las tendencias de mercado.
+
+– Investigación sobre nuevos productos.
+
+– Respuesta ante emergencias.
+
+Las actividades profesionales asociadas a estas funciones se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación asociada a este módulo profesional contribuye a alcanzar los objetivos generales g), i), j), k), ñ), o), p) y q) del ciclo formativo, y las competencias g), h), k), l), ñ), o) y p) del título.
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Identificación de los requerimientos y operaciones de preparación, mantenimiento y limpieza de material, equipos e instrumental del laboratorio físico, químico e instrumental.
+
+– Identificación de los fundamentos y procedimientos analíticos de alimentos y agua.
+
+– Realización de los diferentes análisis físico-químicos e instrumentales de productos alimenticios y agua.
+
+– Manejo de la información asociada al proceso. Instrucciones, controles y elaboración de informes técnicos.
+
+– Adopción de las medidas de seguridad necesarias en el manejo de los equipos, instalaciones y productos.
+
+– Conocimiento de los materiales, instalaciones y técnicas de análisis físico-químicos e instrumentales, aplicando la metodología adecuada a cada alimento.
+
+**Módulo Profesional: Tratamientos de preparación y conservación de los alimentos.**
+
+**Equivalencia en créditos ECTS: 15**
+
+**Código: 0465**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Organiza el acondicionado y transformación de las materias primas justificando las operaciones y equipos seleccionados.
+
+Criterios de evaluación:
+
+a) Se han descrito las operaciones unitarias de preparación y transformación de las materias primas.
+
+b) Se han caracterizado los equipos de preparación y transformación de las materias primas describiéndose su funcionamiento, constitución y dispositivos de seguridad.
+
+c) Se han determinado las operaciones de preparación y transformación en función de las materias primas y de los productos que se van a elaborar.
+
+d) Se ha supervisado la preparación y regulación de los equipos en función de los requerimientos del proceso y sus parámetros de control.
+
+e) Se han controlado las operaciones de preparación y transformación en función de las características de las materias primas y de los productos que se van a obtener.
+
+f) Se han contrastado las características de las materias primas acondicionadas con las especificaciones establecidas.
+
+g) Se han adoptado medidas de seguridad en el manejo de los equipos y en la manipulación de las materias primas.
+
+h) Se han identificado los contaminantes que acompañan a las materias primas y los residuos generados, separándose de forma selectiva.
+
+2\. Conduce los tratamientos de conservación por calor describiendo sus fundamentos y parámetros de control.
+
+Criterios de evaluación:
+
+a) Se han descrito las alteraciones de los alimentos que se controlan por la acción del calor.
+
+b) Se han caracterizado los mecanismos de transferencia de calor.
+
+c) Se han analizado los tratamientos de pasteurización y esterilización de los alimentos.
+
+d) Se han caracterizado los equipos de pasteurización y esterilización, detallándose su funcionamiento, constitución y dispositivos de seguridad.
+
+e) Se han establecido los tratamientos de conservación por calor en función de las materias primas y de los productos que se van a obtener.
+
+f) Se ha supervisado la preparación y regulación de los equipos de pasteurización y esterilización, atendiendo a los requerimientos del proceso y sus parámetros de control.
+
+g) Se ha controlado el tratamiento de pasteurización o esterilización aplicado.
+
+h) Se han contrastado las características de los productos obtenidos con las especificaciones establecidas.
+
+i) Se han identificado las desviaciones y sus medidas correctoras.
+
+j) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+3\. Aplica tratamientos de conservación por bajas temperaturas describiendo las técnicas y equipos de procesado.
+
+Criterios de evaluación:
+
+a) Se ha justificado el empleo del frío en la conservación de los alimentos.
+
+b) Se han caracterizado los sistemas de producción de frío y sus mecanismos de actuación.
+
+c) Se han analizado los tratamientos de refrigeración y congelación, sus métodos de aplicación y la vida útil de los productos obtenidos.
+
+d) Se han descrito los equipos de refrigeración y congelación, describiéndose su funcionamiento, constitución y dispositivos de seguridad.
+
+e) Se han establecido los tratamientos de conservación por frío en función de las características del producto alimentario que se desea obtener.
+
+f) Se ha supervisado la preparación y regulación de los equipos de refrigeración y/o congelación en función de los requerimientos del proceso y sus parámetros de control.
+
+g) Se ha controlado el tratamiento de refrigeración y/o congelación en función del producto que se va a elaborar.
+
+h) Se han contrastado las características de los productos obtenidos con las especificaciones establecidas.
+
+i) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+4\. Supervisa los tratamientos de secado y concentración de los productos alimenticios reconociendo los métodos y parámetros de control.
+
+Criterios de evaluación:
+
+a) Se ha reconocido el aumento de la vida útil de los alimentos por disminución de su contenido en agua.
+
+b) Se han caracterizado los tipos de agua existentes en los alimentos y sus mecanismos de eliminación.
+
+c) Se han analizado los tratamientos de secado y concentración de los productos alimenticios.
+
+d) Se han identificado los equipos de secado y concentración, describiéndose su funcionamiento, constitución y dispositivos de seguridad.
+
+e) Se ha supervisado la preparación y regulación de los equipos de secado y concentración en función de los requerimientos del proceso y sus parámetros de control.
+
+f) Se han controlado las operaciones de secado y concentración en función de los productos que se desean obtener.
+
+g) Se han contrastado las características de los productos obtenidos con las especificaciones establecidas.
+
+h) Se han identificado los pretratamientos de los productos que se van a secar.
+
+i) Se han descrito las alteraciones que pueden producirse durante el secado y concentración de los productos alimenticios.
+
+j) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+5\. Elabora productos alimenticios, seleccionando las operaciones de acondicionado, preparación, transformación y conservación.
+
+Criterios de evaluación:
+
+a) Se ha caracterizado el producto que se desea elaborar.
+
+b) Se han seleccionado las materias primas y auxiliares de producción, verificándose su idoneidad.
+
+c) Se han enumerado y secuenciado las operaciones de proceso mediante diagrama de flujo.
+
+d) Se han identificado los puntos de control críticos (PCC), definiéndose las medidas preventivas, sus límites críticos, el procedimiento de vigilancia y las medidas correctivas.
+
+e) Se han diseñado los registros de control del proceso de elaboración, cumplimentándose adecuadamente.
+
+f) Se han preparado y regulado los equipos de acondicionado, transformación y conservación, en función de los requerimientos del proceso.
+
+g) Se han realizado las operaciones de acondicionado, preparación, transformación y conservación establecidas.
+
+h) Se han contrastado las características de los productos obtenidos con sus especificaciones.
+
+i) Se han aplicado las medidas correctivas establecidas ante las desviaciones.
+
+j) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+6\. Organiza el envasado y embalaje de los productos elaborados, justificando las técnicas y equipos seleccionados.
+
+Criterios de evaluación:
+
+a) Se han analizado las funciones del envasado y embalaje de los productos alimenticios.
+
+b) Se han caracterizado los materiales de envasado y embalaje.
+
+c) Se han descrito las operaciones, condiciones y equipos de envasado y embalaje.
+
+d) Se han caracterizado las líneas de envasado, embalaje y etiquetado de los productos alimenticios.
+
+e) Se han realizado las operaciones de envasado, embalaje y etiquetado de los productos elaborados en función de sus características y tipo de envase seleccionado.
+
+f) Se ha verificado la integridad de los cierres y la hermeticidad de los envases.
+
+g) Se han aplicado tratamientos de conservación a los productos envasados que así lo requieran.
+
+h) Se ha identificado la información obligatoria y complementaria de las etiquetas y rótulos de los productos alimenticios garantizándose su trazabilidad.
+
+i) Se han adoptado medidas de higiene, seguridad alimentaria y prevención de riesgos laborales.
+
+j) Se ha valorado la repercusión ambiental de un uso racional de los materiales de envasado y embalaje.
+
+**Duración: 150 horas**
+
+**Contenidos básicos:**
+
+Acondicionado y transformación de materias primas:
+
+– Selección y clasificación de las materias primas. Fundamentos. Métodos. Equipos de proceso. Parámetros de control.
+
+– Limpieza por vía húmeda y por vía seca. Finalidad y condiciones de desarrollo. Métodos. Equipos de proceso. Parámetros de control.
+
+– Pelado. Características. Métodos y condiciones de desarrollo. Equipos de proceso. Parámetros de control.
+
+– Reducción de tamaño. Fundamentos. Métodos. Equipos de proceso. Parámetros de control.
+
+– Separación de componentes. Objetivos. Métodos. Fundamentos. Equipos de proceso. Parámetros de control.
+
+– Inactivación enzimática. Fundamentos. Enzimas presentes en las materias primas. Métodos y mecanismos de actuación. Equipos de proceso. Parámetros de control.
+
+– Distribución homogénea de los componentes. Características. Equipos de proceso. Parámetros de control.
+
+– Moldeado y conformado de masas. Fundamentos. Métodos. Equipos de proceso. Parámetros de control.
+
+– Cocción. Objetivos. Métodos. Equipos de proceso. Parámetros de control.
+
+– Medidas de seguridad en la utilización de los equipos de acondicionado y transformación de materias primas.
+
+– Contaminantes de las materias primas.
+
+– Residuos generados durante las operaciones de acondicionado y su recogida selectiva.
+
+Tratamientos de conservación por calor:
+
+– Alteraciones de los alimentos. Causas y factores que intervienen.
+
+– Mecanismos de transferencia de calor. Fundamentos.
+
+– Pasteurización. Objetivos. Tipos. Equipos. Parámetros de control. Conservación y vida útil de los productos pasteurizados.
+
+– Esterilización y tratamientos UHT. Objetivos. Tipos. Equipos. Parámetros de control. Conservación y vida útil de los productos esterilizados.
+
+– Interpretación de los gráficos de control de los tratamientos de conservación por calor.
+
+Tratamientos de conservación por bajas temperaturas:
+
+– Utilización del frío en la conservación de los alimentos.
+
+– Sistemas de producción de frío y sus mecanismos de actuación.
+
+– Refrigeración. Objetivos. Tipos. Equipos de proceso. Parámetros de control. Conservación y vida útil de los productos refrigerados.
+
+– Congelación. Objetivos. Tipos. Equipos de proceso. Parámetros de control. Conservación y vida útil de los productos congelados.
+
+– Interpretación de los gráficos de control de los tratamientos de conservación por frío.
+
+– Fluidos criogénicos. Repercusión ambiental. Recogida selectiva.
+
+Tratamientos de secado y concentración:
+
+– Vida útil de los alimentos según su contenido en agua.
+
+– Contenido en agua de los alimentos.
+
+– Secado de los alimentos. Características. Tipos. Equipos de proceso. Parámetros de control. Conservación.
+
+– Concentración de los alimentos. Objetivos. Tipos. Equipos de proceso. Parámetros de control. Conservación y vida útil de los productos.
+
+– Pretratamientos de los productos que se van a secar.
+
+– Alteraciones de los productos deshidratados. Fundamentos.
+
+Elaboración de productos alimenticios:
+
+– Caracterización del producto alimentario que se va a elaborar.
+
+– Materias primas y auxiliares de producción. Características de calidad.
+
+– Diagrama de flujo del proceso de elaboración. Operaciones de proceso y secuenciación.
+
+– Identificación de los puntos de control críticos (PCC), medidas preventivas, límites críticos, procedimiento de vigilancia y medidas correctivas.
+
+– Equipos de proceso. Descripción, preparación y regulación.
+
+– Registros de control del proceso. Diseño y cumplimentación. Valoración del producto obtenido.
+
+– Adopción de medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y de protección ambiental durante el proceso de elaboración.
+
+Envasado y embalaje de productos alimenticios:
+
+– Funciones del envasado y embalaje de los productos alimenticios.
+
+– Envases de uso alimentario. Materiales.
+
+– Dosificación y llenado de envases.
+
+– Elementos y sistemas de cerrado de envases. Integridad y hermeticidad.
+
+– Líneas de envasado, embalaje y etiquetado de productos alimenticios.
+
+– Operaciones y procedimientos de envasado aséptico.
+
+– Envasado «in situ» de productos alimenticios.
+
+– Etiquetas y rótulos de los productos alimenticios. Información obligatoria y complementaria según la normativa vigente.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación necesaria para desempeñar la función de elaboración/ transformación y, de forma transversal, las de seguridad alimentaria, protección ambiental, prevención y seguridad laboral y mantenimiento de equipos e instalaciones en la industria alimentaria.
+
+La elaboración/ transformación de productos alimenticios incluye aspectos como:
+
+– Recepción de las materias primas y auxiliares de producción.
+
+– Organización de equipos e instalaciones de producción.
+
+– Supervisión y control de la limpieza, el mantenimiento y la operatividad de los equipos e instalaciones.
+
+– Supervisión de las operaciones de elaboración (acondicionado, preparación, transformación y conservación).
+
+– Organización y supervisión de las operaciones de envasado y embalaje de los productos elaborados.
+
+– Aplicación del plan de calidad.
+
+– Gestión y control de la trazabilidad.
+
+– Gestión y aplicación de la legislación específica.
+
+– Valoración y control de los riesgos laborales en el manejo de los equipos, instalaciones y materias auxiliares de producción.
+
+– Innovación tecnológica de las operaciones de elaboración de productos alimenticios.
+
+– Supervisión y control medioambiental de los procesos: residuos contaminantes, uso eficiente de los recursos, especialmente agua y electricidad.
+
+Las actividades profesionales asociadas a esta función se aplican en elaboración de productos alimenticios.
+
+La formación del presente módulo contribuye a alcanzar los objetivos generales c), d), f), g), h), j), k), l), ñ) y o) del ciclo formativo, y las competencias c), d), f), g), i), j), k), m) y n) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Identificación del producto que se va a elaborar.
+
+– Conocimiento de los fundamentos de las operaciones de elaboración y planificación, en el aula de teoría, de las operaciones que forman la elaboración.
+
+– Diseño del diagrama de flujo y desarrollo del APPCC.
+
+– Selección de los equipos de trabajo.
+
+– Caracterización de las materias primas y auxiliares de producción.
+
+– Diseño de registros de control del proceso y su cumplimentación.
+
+– Realización en la planta de elaboración de los procesos, operaciones de limpieza y desinfección, mantenimiento y regulación de los equipos.
+
+– Realización e interpretación de los controles de proceso.
+
+– Aplicación de las medidas de seguridad necesarias en el manejo de los equipos, instalaciones y productos.
+
+**Módulo Profesional: Organización de la producción alimentaria.**
+
+**Equivalencia en créditos ECTS: 4**
+
+**Código: 0466**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Determina los programas de producción de una unidad productiva analizando la información sobre el proceso y el producto.
+
+Criterios de evaluación:
+
+a) Se han identificado las áreas y departamentos funcionales de la industria alimentaria.
+
+b) Se han reconocido las funciones y objetivos de la gestión de la producción alimentaria.
+
+c) Se han reconocido las órdenes de fabricación como punto de partida de la planificación de la producción.
+
+d) Se han descrito las técnicas de programación de la producción reconociendo sus especificidades, fases y aplicaciones.
+
+e) Se han identificado y secuenciado las actividades de producción programadas, reconociendo las prioridades del proceso productivo.
+
+f) Se han calculado las necesidades de materiales, ritmos de aprovisionamiento, tiempos y ritmos de trabajo de personas y máquinas.
+
+g) Se han identificado los riesgos e incertidumbres asociados al proceso productivo.
+
+h) Se han representado gráficamente las actividades del programa de producción relacionándolas con las técnicas de programación.
+
+2\. Coordina grupos de trabajo en unidades de producción, reconociendo los sistemas de asignación de tareas, equipos y personas.
+
+Criterios de evaluación:
+
+a) Se ha analizado la organización de los recursos humanos en la industria alimentaria.
+
+b) Se han identificado los componentes de los grupos de trabajo en la industria alimentaria.
+
+c) Se han calculado las cargas de trabajo para equipos y personas.
+
+d) Se han seleccionado y agrupado las tareas respetando la secuenciación.
+
+e) Se han establecido actividades de dinámica de grupos para el correcto desarrollo de las relaciones interpersonales.
+
+f) Se han identificado las actitudes proactivas y reactivas en el equipo de trabajo y las técnicas de diálogo como estrategias de resolución de conflictos.
+
+g) Se han determinado técnicas de supervisión de tareas individuales.
+
+3\. Supervisa la producción de una unidad productiva analizando los métodos de control del proceso.
+
+Criterios de evaluación:
+
+a) Se han identificado los datos más relevantes para la consecución de los objetivos de producción.
+
+b) Se han analizado y aplicado los métodos de medición de la capacidad de los procesos productivos.
+
+c) Se han descrito los métodos directos e indirectos de medición en las actividades de equipos y personas.
+
+d) Se han establecido las pautas de control (puntos, parámetros, frecuencia y otras).
+
+e) Se han analizado las desviaciones valorando su repercusión e identificando sus causas.
+
+f) Se han determinado medidas correctoras para el control del proceso.
+
+4\. Calcula los costes de producción describiendo la metodología aplicada.
+
+a) Se han descrito los componentes que intervienen en el coste final del producto.
+
+b) Se han analizado los métodos de cálculo de costes directos e indirectos, fijos y variables.
+
+c) Se han aplicado los métodos de cálculo de costes del producto a nivel de planta y de producto final.
+
+d) Se han caracterizado los costes intangibles y valorado la repercusión en el cumplimiento de los objetivos de producción.
+
+e) Se han analizado las posibles diferencias entre los costes previstos y los obtenidos identificando las desviaciones y sus causas más probables.
+
+f) Se han determinado las acciones correctoras.
+
+**Duración: 35 horas**
+
+**Contenidos básicos:**
+
+Programación de la producción:
+
+– Áreas funcionales y configuración de departamentos en la industria alimentaria. Organigramas funcionales.
+
+– Gestión de la producción alimentaria.
+
+– Planificación de la producción.
+
+– Órdenes de fabricación.
+
+– Programación de la producción alimentaria. Objetivos y técnicas de programación (PERT, CPM, ROY y otras). Riesgos e incertidumbre de las líneas de producción.
+
+– Actividades de producción. Prioridades del proceso. Secuenciación.
+
+– Necesidades de materiales.
+
+– Representación gráfica del programa de producción.
+
+Coordinación de grupos de trabajo en la industria alimentaria:
+
+– Recursos humanos. Clasificación. Organización. Grupos de trabajo. Áreas de trabajo.
+
+– Cargas de trabajo. Técnicas de cálculo.
+
+– Selección y asignación de tareas. Secuenciación.
+
+– Dinámica de grupos.
+
+– Técnicas de mando y motivación.
+
+– Métodos de comunicación y formación.
+
+Supervisión de la producción de una unidad productiva:
+
+– Objetivos de producción. Capacidad de los procesos productivos.
+
+– Control del avance del proceso. Tipos.
+
+– Pautas de control. Puntos y parámetros. Frecuencia y responsable del control.
+
+– Desviaciones del proceso productivo. Detección. Causas. Acciones correctoras.
+
+Cálculo de costes:
+
+– Componentes del coste. Descripción. Tipos.
+
+– Métodos de cálculo de coste.
+
+– Coste de mercancías y equipos. Cálculo.
+
+– Coste de la mano de obra. Cálculo.
+
+– Coste del producto final. Cálculo.
+
+– Otros tipos de coste.
+
+– Control de costes. Análisis de las desviaciones. Acciones correctoras.
+
+– Costes intangibles. Repercusiones.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada principalmente a las funciones de planificación/ programación y de elaboración/ transformación; y de forma transversal a las funciones de seguridad alimentaria, protección ambiental, prevención y seguridad laboral y mantenimiento de equipos e instalaciones en la industria alimentaria.
+
+La planificación/ programación de productos alimenticios incluye aspectos como:
+
+– Planificación y programación de los procesos productivos.
+
+– Cálculo de las necesidades materiales, ritmos de aprovisionamiento, tiempos y ritmos de trabajo.
+
+– Selección de operaciones, equipos y líneas de producción.
+
+– Elaboración de documentación técnica.
+
+La elaboración/ transformación de productos alimenticios incluye aspectos como:
+
+– Organización de los grupos y áreas de trabajo.
+
+– Supervisión y control de limpieza, mantenimiento y operatividad de equipos e instalaciones.
+
+– Supervisión de una unidad productiva y control del proceso productivo.
+
+– Aplicación del plan de calidad.
+
+– Gestión y control de la trazabilidad.
+
+– Cálculo de costes de producción.
+
+– Valoración y control de los riesgos laborales en el manejo de los equipos, instalaciones y materias auxiliares de producción.
+
+– Supervisión y control medioambiental de los procesos: residuos contaminantes, uso eficiente de los recursos, especialmente agua y electricidad.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación del presente módulo contribuye a alcanzar los objetivos generales c), d), f), g), h), j), k), l), ñ) y o) del ciclo formativo, y las competencias c), d), f), g), i), j), k), m) y n) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Caracterización de una unidad productiva.
+
+– Análisis de las técnicas de programación de la producción.
+
+– Identificación de los planes y órdenes de fabricación.
+
+– Cálculo de necesidades de materiales, ritmos de aprovisionamiento y de trabajo.
+
+– Reconocimiento de las áreas y grupos de trabajo.
+
+– Caracterización de los métodos de control de los procesos productivos y sus pautas de control.
+
+– Cálculo de los costes de producción mediante diferentes métodos de cálculo.
+
+– Valoración de las desviaciones y de sus causas.
+
+**Módulo Profesional: Comercialización y logística en la industria alimentaria.**
+
+**Equivalencia en créditos ECTS: 6**
+
+**Código: 0084**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Programa el aprovisionamiento identificando las necesidades y existencias.
+
+Criterios de evaluación:
+
+a) Se han establecido las variables que se deben tomar en consideración en el plan de abastecimiento de mercancías.
+
+b) Se han utilizado los sistemas de cálculo de necesidades de aprovisionamiento a partir de los consumos.
+
+c) Se han determinado las variables que intervienen en la realización de un inventario.
+
+d) Se han evaluado las posibles causas de discordancia entre las existencias registradas y los recuentos realizados.
+
+e) Se han descrito los procedimientos de gestión y control de existencias.
+
+f) Se han establecido los sistemas de catalogación de productos para facilitar su localización.
+
+g) Se han identificado las variables que determinan el coste de almacenamiento.
+
+h) Se han calculado los niveles de stock y sus índices de rotación.
+
+i) Se ha valorado la importancia de la logística en la optimización de los recursos.
+
+2\. Controla la recepción, la expedición y el almacenamiento de mercancías, relacionándolos con la calidad del producto final.
+
+Criterios de evaluación:
+
+a) Se han identificado las diferentes zonas de un almacén y descrito sus características.
+
+b) Se han programado las fases del proceso de almacenamiento, identificando las tareas asociadas a cada puesto de trabajo.
+
+c) Se ha representado el flujo de los productos para optimizar el espacio, tiempo y uso.
+
+d) Se ha reconocido e interpretado la normativa sobre protección en el transporte de productos en la industria alimentaria.
+
+e) Se ha identificado y especificado los tipos de embalajes asociados al medio de transporte.
+
+f) Se han determinado los datos e información que deben aparecer en rótulos y etiquetas de los productos.
+
+g) Se han descrito los procedimientos de control sobre materias primas, consumibles y productos terminados en recepción y expedición.
+
+h) Se han reconocido los medios y procedimientos de manipulación en el almacenamiento de productos alimentarios, especificando las medidas de seguridad e higiene.
+
+i) Se han determinado las condiciones ambientales para el almacenamiento de los productos.
+
+3\. Comercializa materias primas, auxiliares y productos elaborados, reconociendo y aplicando técnicas de negociación.
+
+Criterios de evaluación:
+
+a) Se han identificado las etapas en un proceso de compraventa.
+
+b) Se han identificado las técnicas de negociación en la compraventa de productos alimentarios,.
+
+c) Se ha interpretado la normativa mercantil que regula los contratos de compraventa.
+
+d) Se han reconocido los criterios para la selección de proveedores.
+
+e) Se han descrito las funciones y aptitudes de un agente de ventas.
+
+f) Se han identificado y valorado las funciones del servicio post-venta.
+
+g) Se han descrito las técnicas de información y comunicación en la atención a proveedores y clientes.
+
+4\. Promociona los productos elaborados, caracterizando y aplicando técnicas publicitarias.
+
+Criterios de evaluación:
+
+a) Se han identificado y aplicado las técnicas de recogida de información en la investigación comercial.
+
+b) Se han interpretado y valorado los resultados de la investigación comercial.
+
+c) Se han reconocido productos y técnicas de la competencia.
+
+d) Se han identificado los nuevos nichos de mercado.
+
+e) Se han descrito los tipos, medios y soportes publicitarios y promocionales utilizados en la práctica comercial.
+
+f) Se han reconocido los objetivos generales de la publicidad y la promoción.
+
+g) Se han definido las variables a controlar en las campañas publicitarias y promocionales.
+
+h) Se ha diferenciado entre comprador y consumidor y su influencia en el diseño de la publicidad.
+
+i) Se han identificado y explicado las técnicas de merchandising.
+
+j) Se ha valorado la promoción y venta a través de canales especializados.
+
+5\. Aplica las tecnologías de la información y comunicación en la gestión logística y comercial, caracterizando las principales herramientas informáticas.
+
+Criterios de evaluación:
+
+a) Se han identificado las aplicaciones informáticas utilizadas en la gestión logística y comercial.
+
+b) Se han identificado los datos que deben figurar en un fichero de clientes y proveedores.
+
+c) Se han utilizado las bases de datos para el archivo y manejo de la información procedente de los procesos de compraventa.
+
+d) Se han integrado datos, textos y gráficos, presentando la información de acuerdo con formatos requeridos.
+
+e) Se ha justificado la necesidad de conocer y utilizar mecanismos de protección de la información.
+
+f) Se ha reconocido la importancia de las páginas WEB corporativas para la competitividad empresarial.
+
+g) Se ha valorado la relevancia de Internet y las nuevas tecnologías en la promoción y venta.
+
+h) Se ha reconocido la importancia de la aplicación de las nuevas tecnologías en la imagen corporativa de la empresa.
+
+**Duración: 60 horas**
+
+**Contenidos básicos:**
+
+Programación del aprovisionamiento:
+
+– Actividades logísticas. Aprovisionamiento de productos. Ciclo de aprovisionamiento. Ciclo de expedición.
+
+– Previsión cuantitativa de materiales. Técnicas de previsión. Cuantificación de previsiones.
+
+– Determinación cualitativa del pedido. Normas. Sistemas de control e identificación.
+
+– Tipos de existencias. Controles que deben efectuarse.
+
+– Valoración de existencias. Métodos: precio medio, precio medio ponderado, LIFO, FIFO.
+
+– Análisis ABC de productos. Objetivos. Campos de aplicación.
+
+– Gestión de inventarios. Tipos de inventarios. Rotaciones.
+
+– Documentación de control de existencias.
+
+Control de la recepción, expedición y almacenaje:
+
+– Gestión de la recepción. Fases. Documentación. Trazabilidad. Condiciones de aceptabilidad.
+
+– Gestión de la expedición. Fases. Documentación. Trazabilidad.
+
+– Objetivos en la organización de almacenes.
+
+– Planificación.
+
+– Almacenamiento de productos alimentarios,. Condiciones ambientales.
+
+– Daños y defectos derivados del almacenamiento. Periodo de almacenaje.
+
+– Distribución y manipulación de mercancías.
+
+– Seguridad e higiene en los procesos de almacenamiento.
+
+– Condiciones ambientales en el almacenamiento de productos alimentarios.
+
+– Transporte externo. Medios de transporte. Tipos. Características.
+
+– Contrato de transporte. Participantes. Responsabilidades.
+
+– Transporte y distribución interna.
+
+Comercialización de productos:
+
+– Venta. Tipos de venta.
+
+– El proceso de compraventa. Objetivos. Tipos. Fases.
+
+– Condiciones de compraventa. El contrato. Normativas.
+
+Promoción de productos:
+
+– Caracterización del mercado. La demanda. Comportamiento del consumidor.
+
+– Clasificación y segmentación del mercado.
+
+– Análisis e interpretación de datos comerciales. Presentación de resultados.
+
+– Variables de marketing.
+
+– El espíritu emprendedor e innovador aplicado al marketing.
+
+Aplicaciones informáticas:
+
+– Instalación, funcionamiento y procedimientos de seguridad en las aplicaciones de gestión comercial.
+
+– Manejo de aplicaciones informáticas.
+
+– Fichero de clientes y proveedores: características, datos, manejo e interpretación.
+
+– Valoración de las ventajas del empleo de las aplicaciones informáticas en la gestión logística y comercial.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada a las funciones de logística y comercio y promoción en la pequeña y mediana empresa de la industria alimentaria.
+
+La logística y el comercio, y, la promoción en la pequeña y mediana empresa de la industria alimentaria incluye aspectos como:
+
+– Gestión de aprovisionamientos, almacén y expediciones.
+
+– Análisis del mercado.
+
+– Promoción y venta.
+
+– Utilización de las nuevas tecnologías de la información y la comunicación.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Todos los procesos y productos de la industria alimentaria.
+
+La formación del módulo contribuye a alcanzar los objetivos generales e), i), l), m), o), p), q) y s) del ciclo formativo, y las competencias e), h), k), l), p) y r) del titulo.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Interpretación y cumplimentación de los documentos de gestión logística.
+
+– Diseño de rótulos y etiquetas de los embalajes para el transporte de los productos alimentarios,.
+
+– Realización de inventarios y cálculo del coste de las existencias.
+
+– Supuestos prácticos de investigación comercial: cumplimentación e interpretación.
+
+– Manejo de aplicaciones informáticas de gestión logística, gestión comercial y de investigación de mercados.
+
+– Supuestos prácticos de negociación comercial.
+
+– Diseño de mensajes publicitarios y promocionales de productos alimentarios.
+
+**Módulo Profesional: Gestión de calidad y ambiental en la industria alimentaria.**
+
+**Equivalencia en créditos ECTS: 7**
+
+**Código: 0086**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Aplica sistemas de gestión de calidad describiendo la norma en la que se basa y sus requisitos.
+
+Criterios de evaluación:
+
+a) Se ha reconocido el concepto de calidad y sus herramientas.
+
+b) Se han analizado las principales normas de gestión de la calidad (UNE-EN ISO 9001:2000, EFQM y otras).
+
+c) Se ha definido el sistema de gestión de calidad y sus requisitos.
+
+d) Se han identificado las fases para la implantación de un sistema de gestión de la calidad.
+
+e) Se han relacionado los objetivos del sistema de gestión de calidad con la filosofía de la empresa.
+
+f) Se ha definido y elaborado el soporte documental del sistema de gestión de la calidad.
+
+g) Se ha valorado la importancia de la comunicación tanto interna como externa para la implantación del sistema de gestión de la calidad.
+
+h) Se han descrito los medios existentes para la verificación de la implantación del sistema de gestión de la calidad.
+
+i) Se han descrito los criterios para la revisión y actualización del sistema de gestión de la calidad conforme a la norma de referencia.
+
+2\. Elabora los registros de calidad, analizando sus características e importancia para el control y la mejora del proceso y del producto.
+
+Criterios de evaluación:
+
+a) Se han reconocido los registros del sistema de gestión de calidad.
+
+b) Se han determinado los requisitos básicos y las características generales de los procedimientos para su control.
+
+c) Se han diseñado los registros y el plan de control asociados al proceso productivo.
+
+d) Se han valorado la importancia de asignar responsables para la cumplimentación de los registros del sistema.
+
+e) Se ha descrito el procedimiento para el tratamiento de las no-conformidades.
+
+f) Se ha descrito el procedimiento para la aplicación de las acciones correctivas.
+
+g) Se ha caracterizado el plan para la mejora continua.
+
+h) Se ha definido el procedimiento para el análisis de los resultados obtenidos en la revisión del sistema de gestión de la calidad.
+
+i) Se han elaborado informes y descrito las posibles medidas correctivas a aplicar para la mejora del sistema de gestión de la calidad.
+
+3\. Controla los vertidos, residuos y emisiones generadas, reconociendo su impacto ambiental.
+
+Criterios de evaluación:
+
+a) Se han identificado las características y parámetros de control de los vertidos generados en la industria alimentaria.
+
+b) Se han descrito los residuos generados y sus parámetros de control en la industria alimentaria.
+
+c) Se han identificado las emisiones generadas por la industria alimentaria, relacionándolas con sus parámetros de control.
+
+d) Se han relacionado los vertidos, los residuos y las emisiones generadas con el impacto ambiental que provocan.
+
+e) Se ha reconocido la legislación sobre protección ambiental de aplicación en la industria alimentaria.
+
+f) Se han identificado y clasificado los vertidos, residuos y emisiones en función de sus características, posibilidad de reutilización o necesidad de tratamientos de depuración, descontaminación o filtración.
+
+g) Se han descrito las técnicas de tratamiento de vertidos, residuos y emisiones generadas en la industria alimentaria.
+
+h) Se han identificado los permisos y licencias que debe disponer la industria alimentaria y el procedimiento para obtenerlos y/ o actualizarlos.
+
+i) Se han descrito los parámetros y límites legales exigidos a los vertidos, residuos y emisiones generadas.
+
+j) Se han descrito los límites de ruido establecidos para la industria alimentaria.
+
+4\. Utiliza los recursos eficientemente, evaluando los beneficios ambientales asociados.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la importancia de la cuantificación de los consumos de agua, electricidad, combustibles y otros.
+
+b) Se han valorado las ventajas que la reducción de consumos aporta a la protección ambiental.
+
+c) Se han valorado las ventajas ambientales de la reutilización de los recursos.
+
+d) Se han reconocido los recursos menos perjudiciales para el ambiente.
+
+e) Se han caracterizado las medidas para la disminución del consumo energético y de otros recursos.
+
+f) Se han identificado las malas prácticas relacionadas con la utilización ineficiente de los recursos en la industria alimentaria y sus posibles acciones correctivas.
+
+g) Se han reconocido los equipos que minimizan la generación de residuos.
+
+5\. Aplica sistemas de gestión ambiental describiendo la norma en la que se basa y sus requisitos.
+
+Criterios de evaluación:
+
+a) Se han identificado los principales sistemas de gestión ambiental.
+
+b) Se han reconocido los requisitos exigidos por las normas UNE-EN ISO 14001:2004, EMAS y otras.
+
+c) Se han definido y elaborado el soporte documental del sistema.
+
+d) Se ha valorado la importancia de la comunicación tanto interna como externa para la implantación del sistema de gestión ambiental.
+
+e) Se ha identificado el procedimiento para la obtención y/ o el mantenimiento de los certificados.
+
+f) Se han propuesto acciones de mejora del sistema de gestión ambiental.
+
+g) Se han identificado las desviaciones y no-conformidades relacionadas con el sistema de gestión ambiental y sus posibles acciones correctivas.
+
+**Duración: 60 horas**
+
+**Contenidos básicos:**
+
+Aplicación de un sistema de gestión de la calidad:
+
+– Análisis de las principales normas de gestión de la calidad.
+
+– Descripción de los requisitos del sistema de gestión de la calidad.
+
+– Identificación de las fases para la implantación de un sistema de gestión de la calidad.
+
+– Elaboración del soporte documental del sistema de gestión de la calidad.
+
+Elaboración de los registros de calidad:
+
+– Reconocimiento de los registros del sistema de gestión de la calidad.
+
+– Determinación de los requisitos básicos y las características generales de los procedimientos para su control.
+
+– Diseño de los registros y el plan de control asociados al proceso productivo.
+
+– Descripción del procedimiento para la aplicación de las acciones correctivas.
+
+– Caracterización del plan para la mejora continua.
+
+– Elaboración de informes y descripción de las posibles acciones correctivas que se deben aplicar para la mejora del sistema.
+
+Control de los vertidos, residuos y emisiones generadas:
+
+– Identificación de las características y parámetros de control de los vertidos generados en la industria alimentaria.
+
+– Descripción de los residuos generados en la industria alimentaria y sus parámetros de control.
+
+– Descripción de las emisiones generadas en la industria alimentaria y sus parámetros de control.
+
+– Relación de los vertidos, residuos y emisiones generadas con el impacto ambiental que provocan.
+
+– Descripción de las técnicas de tratamiento de vertidos, residuos y emisiones generadas en la industria alimentaria y sus parámetros de control.
+
+– Reconocimiento de la legislación ambiental de aplicación en la industria alimentaria.
+
+Utilización eficiente de los recursos:
+
+– Reconocimiento de la importancia de la cuantificación de los consumos de agua, electricidad, combustibles y otros.
+
+– Valoración de las ventajas ambientales que la reducción de los consumos aporta a la protección ambiental.
+
+– Caracterización de las medidas para la disminución del consumo energético y de otros recursos.
+
+– Identificación de las malas prácticas relacionadas con la utilización ineficiente de los recursos en la industria alimentaria y sus posibles acciones correctivas.
+
+Aplicación de un sistema de gestión ambiental:
+
+– Identificación de los principales sistemas de gestión ambiental.
+
+– Reconocimiento de los requisitos exigidos por la norma UNE-EN ISO 14001:2004, EMAS y otras.
+
+– Definición y elaboración del soporte documental del sistema.
+
+– Identificación del procedimiento para la obtención o el mantenimiento de certificados ambientales.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada principalmente a la función de la gestión de la calidad y la protección ambiental en la industria alimentaria.
+
+La gestión de la calidad incluye aspectos como:
+
+– Gestión documental de la calidad.
+
+– Mejora continua.
+
+La protección ambiental incluye aspectos como:
+
+– Utilización eficiente de los recursos.
+
+– Control de los vertidos, residuos y emisiones generadas en la industria alimentaria.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Todos los procesos y productos de la industria alimentaria.
+
+La formación del presente módulo contribuye a alcanzar los objetivos generales a), c), d), e), f), g), j), y k) del ciclo formativo, y las competencias b), c), d), e), f), g), i) y j) del título.
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Aplicación de los principios que garantiza la protección ambiental.
+
+– Estudio de los consumos y la aplicación de metodologías para su reducción.
+
+– Interpretación de diferentes sistemas de gestión de la calidad y protección ambiental.
+
+**Módulo Profesional: Mantenimiento electromecánico en industrias de proceso.**
+
+**Equivalencia en créditos ECTS: 7**
+
+**Código: 0191**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Identifica los materiales que constituyen los equipos e instalaciones de la industria de proceso relacionándolos con sus características y su utilización.
+
+Criterios de evaluación:
+
+a) Se han identificado los distintos tipos de materiales usados en las instalaciones y equipos industriales.
+
+b) Se ha determinado el uso de estos materiales en función de su uso y posibles alteraciones por corrosión, fatiga u otros.
+
+c) Se ha analizado las propiedades físicas (resistencia, límite elástico, ductilidad, entre otras) de los materiales.
+
+d) Se han identificado los problemas de conservación y mantenimiento de las instalaciones y de los elementos susceptibles de desgastes o daños.
+
+e) Se han descrito los tipos y mecanismos de corrosión que se produce en los equipos e instalaciones de la industria.
+
+f) Se han identificado los factores que influyen en la corrosión de los materiales.
+
+g) Se han establecido los mecanismos de prevención contra la corrosión.
+
+h) Se han descrito los principales mecanismos de degradación en materiales no metálicos.
+
+2\. Analiza los elementos mecánicos de equipos, máquinas e instalaciones reconociendo la función que realizan.
+
+Criterios de evaluación:
+
+a) Se han identificado los grupos mecánicos y electromecánicos de las máquinas.
+
+b) Se han analizado las técnicas de mecanizado más frecuentes.
+
+c) Se ha descrito la función que realizan los mecanismos que constituyen los grupos mecánicos de las máquinas.
+
+d) Se han clasificado los grupos mecánicos por la transformación que realizan los distintos mecanismos.
+
+e) Se han identificado las partes o puntos críticos de los elementos y piezas donde pueden aparecer desgastes.
+
+f) Se han descrito las técnicas de lubricación de los elementos mecánicos.
+
+g) Se ha analizado el plan de mantenimiento, las instrucciones de mantenimiento básico o primer nivel siguiendo la documentación técnica de las máquinas y elementos mecánicos.
+
+h) Se han descrito las medidas de prevención y seguridad de las máquinas.
+
+3\. Caracteriza instalaciones hidráulicas y neumáticas valorando su intervención en los procesos industriales.
+
+Criterios de evaluación:
+
+a) Se han identificado la estructura y componentes que configuran las instalaciones hidráulicas y neumáticas.
+
+b) Se han analizado los planos y las especificaciones técnicas relativas a las instalaciones hidráulicas y neumáticas.
+
+c) Se han clasificado por su tipología y su función los distintos elementos que constituyen las instalaciones hidráulicas y neumáticas.
+
+d) Se ha explicado la secuencia de funcionamiento de los sistemas neumáticos e hidráulicos.
+
+e) Se han descrito las distintas áreas de aplicación de las instalaciones hidráulicas y neumáticas en los procesos industriales.
+
+f) Se ha analizado el plan de mantenimiento, las instrucciones de mantenimiento básico o primer nivel siguiendo la documentación técnica de las instalaciones hidráulicas y neumáticas.
+
+g) Se han descrito las medidas de prevención y seguridad de las máquinas.
+
+4\. Identifica las máquinas eléctricas relacionándolas con su finalidad dentro del proceso.
+
+Criterios de evaluación:
+
+a) Se han definido los principios eléctricos y electromagnéticos.
+
+b) Se han analizado las instalaciones eléctricas aplicadas a los equipos e instalaciones de los procesos industriales.
+
+c) Se ha detallado el principio físico de los distintos tipos de dispositivos de seguridad de protección de líneas y receptores eléctricos.
+
+d) Se han identificado las máquinas eléctricas utilizadas en los equipos e instalaciones.
+
+e) Se han clasificado las máquinas eléctricas por su tipología y su función.
+
+f) Se ha definido el principio de funcionamiento y las características de los transformadores monofásicos y trifásicos.
+
+g) Se ha explicado el principio de funcionamiento y características de las máquinas eléctricas (generadores de CC, motores CC y CA y alternadores).
+
+h) Se ha identificado la tipología de las redes de distribución eléctrica de baja y alta tensión.
+
+i) Se ha definido la simbología eléctrica.
+
+j) Se ha analizado el plan de mantenimiento, las instrucciones de mantenimiento básico o primer nivel de las máquinas y dispositivos eléctricos, siguiendo su documentación técnica.
+
+k) Se han descrito las medidas de prevención y seguridad de las máquinas eléctricas.
+
+5\. Caracteriza acciones de mantenimiento justificando su necesidad.
+
+Criterios de evaluación:
+
+a) Se ha establecido el plan de mantenimiento y de conservación de los equipos e instalaciones.
+
+b) Se han analizado las condiciones del área de trabajo para la realización de los trabajos de mantenimiento, mediante los ensayos establecidos.
+
+c) Se han identificado los criterios establecidos para autorizar los permisos de los trabajos de mantenimiento.
+
+d) Se han descrito las operaciones de verificación de los trabajos de mantenimiento.
+
+e) Se ha descrito la correcta señalización de equipos e instalaciones (aislamientos eléctricos, aislamiento físico, equipos de emergencias, medios de comunicación, entre otros) para la ejecución de los trabajos de mantenimiento.
+
+f) Se han descrito las señales de disfunción más frecuentes de los equipos e instalaciones.
+
+g) Se han determinado las operaciones de mantenimiento de primer nivel.
+
+h) Se han analizado las modificaciones derivadas del mantenimiento para la optimización del proceso.
+
+i) Se ha supervisado el correcto registro de los documentos relativos al mantenimiento y conservación de los equipos e instalaciones.
+
+**Duración: 60 horas**
+
+**Contenidos básicos:**
+
+Identificación de los materiales componentes de equipos e instalaciones:
+
+– Materiales y propiedades. Tipos de materiales.
+
+– Propiedades físicas y fisicoquímicas.
+
+– Corrosión de los metales. Tipos de corrosión.
+
+– Oxidación.
+
+– Degradación de los materiales no metálicos.
+
+Caracterización de los elementos mecánicos:
+
+– Principios de mecánica. Cinemática y dinámica de las máquinas.
+
+– Técnicas de mecanizado.
+
+– Elementos de las máquinas y mecanismos.
+
+– Elementos de transmisión.
+
+– Elementos de unión.
+
+– Técnicas de lubricación: lubricación por niebla.
+
+– Normativa de seguridad e higiene.
+
+Caracterización de las máquinas hidráulicas y neumáticas:
+
+– Fundamentos de neumática.
+
+– Instalaciones de neumática: características, campo de aplicación.
+
+– Interpretación de la documentación y los esquemas. Simbología.
+
+– Análisis de las distintas secciones que componen las instalaciones neumáticas.
+
+– Fundamentos de hidráulica.
+
+– Instalaciones de hidráulica: características, campo de aplicación.
+
+– Interpretación de la documentación y los esquemas. Simbología.
+
+– Distintos funcionamiento del sistema hidráulico y características.
+
+– Normativa de seguridad e higiene en instalaciones hidráulicas y neumáticas.
+
+Identificación de las máquinas eléctricas:
+
+– Principios de electricidad. Corriente continua y alterna.
+
+– Principios de magnetismo y electromagnetismo.
+
+– Componentes electromagnéticos.
+
+– Máquinas eléctricas, estáticas y rotativas. Tipología y características.
+
+– Clasificación de las máquinas eléctricas: generadores, transformadores y motores.
+
+– Redes de alta tensión: subestaciones.
+
+– Equipos de maniobra en alta y baja tensión: seccionadores e interruptores.
+
+– Relés.
+
+– Equipos de protección: sistemas de protección ininterrumpida (SAI).
+
+– Armarios de maniobra.
+
+– Simbología eléctrica.
+
+– Normativa de seguridad e higiene en máquinas eléctricas.
+
+Caracterización de las acciones de mantenimiento:
+
+– Funciones y objetivos del mantenimiento.
+
+– Tipos de mantenimiento.
+
+– Organización del mantenimiento de primer nivel.
+
+– Señalización del área para el mantenimiento.
+
+– Supervisión del mantenimiento específico.
+
+– Documentación de las intervenciones.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada principalmente a la función de mantenimiento de equipos e instalaciones de los procesos industriales y los servicios auxiliares.
+
+Las actividades profesionales asociadas a esta función se aplican en los procesos de:
+
+– Industrias de conservas y jugos vegetales.
+
+– Industrias de derivados de cereales y de dulces.
+
+– Industrias de productos derivados de la pesca y de la acuicultura.
+
+– Industrias de leches de consumo y productos lácteos.
+
+– Industrias cárnicas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), f), j), k), m) y n) del ciclo formativo, y las competencias a), b), f), j), l) y m) del título.
+
+Las líneas de actuación en el proceso enseñanza/ aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Descripción de los grupos mecánicos y electromecánicos de las máquinas.
+
+– Caracterización de las instalaciones hidráulicas y neumáticas.
+
+– Identificación de las máquinas eléctricas.
+
+– Verificación de las operaciones de mantenimiento de primer nivel de los equipos.
+
+Así como actuaciones relativas a:
+
+– La aplicación de las medidas de seguridad y aplicación de los equipos de protección individual en la ejecución operativa.
+
+– La aplicación de criterios de calidad en cada fase del proceso.
+
+– La aplicación de la normativa de protección ambiental relacionada con los residuos, aspectos contaminantes y tratamiento de los mismos.
+
+– La detección de fallos o desajustes en la ejecución de las fases del proceso mediante la verificación y valoración del producto obtenido.
+
+**Módulo Profesional: Control microbiológico y sensorial de los alimentos.**
+
+**Equivalencia en créditos ECTS: 4**
+
+**Código: 0467**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Organiza el laboratorio de microbiología reconociendo las instalaciones, equipos, recursos y medidas de seguridad.
+
+Criterios de evaluación:
+
+a) Se ha reconocido el equipamiento, instalaciones, servicios auxiliares y dispositivos de seguridad de un laboratorio de microbiología.
+
+b) Se han organizado los equipos del laboratorio microbiológico reconociendo su funcionamiento, calibración y mantenimiento.
+
+c) Se han reconocido los tratamientos térmicos empleados en microbiología.
+
+d) Se ha organizado y controlado el almacenamiento de reactivos, medios de cultivo y material auxiliar.
+
+e) Se ha organizado el trabajo de laboratorio microbiológico en función de las necesidades del proceso productivo y del plan de calidad.
+
+f) Se han identificado las técnicas de limpieza, desinfección y esterilización en el laboratorio microbiológico.
+
+g) Se han reconocido las medidas de higiene y seguridad en la manipulación y almacenamiento de las muestras y reactivos.
+
+h) Se han establecido las condiciones y métodos de eliminación de las muestras y residuos del laboratorio de acuerdo con el tipo, características y normativa vigente.
+
+i) Se han reconocido las medidas de protección individual y colectiva.
+
+2\. Realiza ensayos microbiológicos, describiendo los fundamentos de la técnica empleada.
+
+Criterios de evaluación:
+
+a) Se han reconocido las técnicas de análisis microbiológico aplicadas en el análisis de alimentos.
+
+b) Se han reconocido y caracterizado los principales microorganismos que se van a controlar.
+
+c) Se ha seleccionado y preparado el instrumental y los materiales en función de la técnica que se va a emplear.
+
+d) Se han seleccionado los medios de cultivo más apropiados para cada microorganismo.
+
+e) Se ha reconocido y seleccionado el método más adecuado para la identificación y/ o recuento microbiológico.
+
+f) Se ha realizado la toma y preparación de las muestras.
+
+g) Se ha realizado el análisis microbiológico de acuerdo con el protocolo establecido.
+
+h) Se han adoptado las normas de seguridad establecidas durante la manipulación de las muestras y la realización de los análisis.
+
+i) Se han recogido datos, efectuado cálculos, interpretado los resultados y redactado informes de análisis y de control utilizando las TIC.
+
+j) Se han eliminado las muestras y residuos microbiológicos según el protocolo establecido.
+
+k) Se ha reconocido la importancia de otras técnicas innovadoras en el control microbiológico.
+
+3\. Acondiciona la sala de cata y los materiales reconociendo su influencia en las características sensoriales.
+
+Criterios de evaluación:
+
+a) Se han descrito las instalaciones y equipamientos de la sala de cata.
+
+b) Se han establecido las condiciones ambientales y su influencia en el análisis sensorial.
+
+c) Se han descrito los sentidos utilizados en la degustación y su funcionamiento.
+
+d) Se han reconocido las condiciones requeridas para establecer un panel de cata.
+
+e) Se ha reconocido la terminología que describe las características organolépticas.
+
+f) Se han identificado los tipos de pruebas sensoriales: discriminativas, descriptivas y afectivas/ hedónicas.
+
+g) Se han identificado las fichas de cata de cada alimento.
+
+h) Se han descrito los métodos e instrumentos utilizados en el entrenamiento sensorial.
+
+i) Se ha valorado la aplicación de la estadística y de las escalas de medida en las pruebas sensoriales.
+
+4\. Realiza el análisis sensorial relacionando la impresión percibida con su aplicación.
+
+Criterios de evaluación:
+
+a) Se han reconocido las sensaciones gustativas y táctiles, las zonas de impacto y los equilibrios y refuerzos entre ellos.
+
+b) Se han analizado los umbrales de percepción de los aromas y sabores y su influencia en la degustación.
+
+c) Se ha descrito la metodología precisa del análisis sensorial en función del tipo de alimento.
+
+d) Se han identificado los atributos organolépticos que caracterizan los alimentos.
+
+e) Se ha realizado el análisis sensorial de los alimentos reconociendo las diferentes sensaciones visuales, olfativas, gustativas y táctiles.
+
+f) Se ha realizado una valoración global del conjunto de sensaciones, apreciando su equilibrio.
+
+g) Se ha realizado una cuantificación de las características organolépticas en la correspondiente ficha de cata.
+
+h) Se ha reconocido la importancia del análisis sensorial en el control de materias primas y del producto elaborado.
+
+i) Se ha identificado la importancia del análisis sensorial en el desarrollo de nuevos productos.
+
+**Duración: 30 horas.**
+
+**Contenidos básicos:**
+
+Organización del laboratorio microbiológico:
+
+– Equipamiento, instalaciones, servicios auxiliares y dispositivos de seguridad de un laboratorio de microbiología.
+
+– Organización y control de los equipos del laboratorio. Medidas de seguridad.
+
+– El microscopio óptico. Fundamentos. Manejo.
+
+– Tratamientos térmicos. Calor seco. Calor húmedo. Fundamentos. Equipos. Manejo. Medidas de seguridad.
+
+– Almacenamiento de los reactivos, medios de cultivo y material auxiliar. Criterios de almacenamiento. Medidas de seguridad.
+
+– Organización del trabajo de laboratorio. Adecuación al proceso productivo.
+
+– Técnicas de limpieza, desinfección y/ o esterilización a emplear en el laboratorio. Protocolos. Medidas de seguridad.
+
+– Medidas de higiene y seguridad en la manipulación y almacenamiento de las muestras y reactivos.
+
+– Condiciones y métodos de eliminación de las muestras y residuos del laboratorio.
+
+Análisis microbiológicos de alimentos y de agua:
+
+– Técnicas de análisis microbiológico. Aplicación al análisis microbiológico de los alimentos.
+
+– Principales microorganismos de los alimentos. Caracterización. Importancia en el proceso productivo y en la calidad de los alimentos.
+
+– Preparación de los equipos. Higiene. Mantenimiento básico. Medidas de seguridad.
+
+– Medios de cultivo. Preparación. Selección del medio de cultivo en función del microorganismo que se va a controlar.
+
+– Toma de muestras. Manejo de las muestras en condiciones de asepsia y seguridad. Técnicas de muestreo.
+
+– Análisis microbiológicos. Tipos de análisis. Observación e identificación de microorganismos.
+
+– Medidas de seguridad en el laboratorio.
+
+– Recogida de datos. Cálculos. Interpretación de resultados.
+
+– Eliminación de muestras y residuos microbiológicos. Tratamientos previos. Trazabilidad.
+
+– Otras técnicas para la identificación de microorganismos.
+
+Preparación de materiales e instalaciones de cata:
+
+– Materiales utilizados en el análisis sensorial.
+
+– Sala de cata. Instalaciones. Condiciones ambientales.
+
+– Análisis sensorial. Características organolépticas. Percepción sensorial.
+
+– Paneles de cata. Tipos. Selección. Entrenamiento.
+
+– Características organolépticas. Descripción. Terminología empleada en el análisis sensorial.
+
+– Registros y fichas de cata para el análisis sensorial.
+
+– Pruebas sensoriales. Tipos de pruebas: discriminativas, descriptivas y afectivas/ hedónicas.
+
+– Escalas de medida de las características organolépticas. Tratamiento estadístico.
+
+– Orden y limpieza en las instalaciones y materiales.
+
+Análisis sensorial:
+
+– Sensaciones gustativas. Sabores fundamentales. Localización. Intensidad de las sensaciones. Equilibrios.
+
+– Sensaciones táctiles. Refuerzos.
+
+– Metodología del análisis sensorial de los diferentes alimentos.
+
+– Atributos positivos y negativos de los alimentos.
+
+– Fichas de cata.
+
+– Control de materias primas mediante el análisis sensorial.
+
+– Control del producto mediante el análisis sensorial.
+
+– Desarrollo de nuevos productos. Pruebas de aceptabilidad. Panel de consumidores.
+
+**Orientaciones pedagógicas:**
+
+Este módulo profesional contiene formación asociada principalmente a las funciones de elaboración/ transformación, control de calidad y comercio y promoción en la industria alimentaria.
+
+La elaboración/ transformación, control de calidad y comercio y promoción incluyen aspectos como:
+
+– Toma de muestras y control del producto durante el proceso.
+
+– Control de proveedores, materias primas y auxiliares.
+
+– Control del producto final.
+
+– Conocimiento de los productos competidores y de las tendencias de mercado.
+
+– Investigación sobre nuevos productos.
+
+Las actividades profesionales asociadas a estas funciones se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación asociada a este módulo profesional contribuye a alcanzar los objetivos generales g), i), j), k), ñ), o), p), q), r) y t) del ciclo formativo, y las competencias g), h), k), l), m), n), p), q) y s) del título.
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Identificación de los requerimientos y operaciones de preparación, mantenimiento y limpieza, desinfección y esterilización del material, equipos e instrumental del laboratorio microbiológico.
+
+– Identificación de los fundamentos y procedimientos analíticos de alimentos realizando los diferentes análisis microbiológicos de productos alimenticios.
+
+– Manejo de la información asociada al proceso. Instrucciones, controles y elaboración de informes técnicos.
+
+– Adopción de las medidas de seguridad necesarias en el manejo de los equipos, instalaciones y productos.
+
+– Conocimiento de los materiales, instalaciones y técnicas de análisis sensorial aplicando la metodología adecuada a cada alimento.
+
+– Identificación de los atributos sensoriales de los alimentos para su aplicación correspondiente.
+
+**Módulo Profesional: Nutrición y Seguridad Alimentaria.**
+
+**Equivalencia en créditos ECTS: 5**
+
+**Código: 0468**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Reconoce los conceptos básicos de una correcta nutrición describiendo sus características.
+
+Criterios de evaluación:
+
+a) Se han descrito los macronutrientes y micronutrientes presentes en los alimentos,
+
+b) Se ha definido la función fisiológica que cumplen los macronutrientes y los micronutrientes en el organismo.
+
+c) Se han caracterizado las fuentes alimentarias de los macronutrientes y micronutrientes.
+
+d) Se ha relacionado la nutrición, con la actividad física y la salud.
+
+e) Se han descrito los requerimientos nutricionales y cantidades diarias recomendadas (CDR) de cada nutriente.
+
+f) Se han descrito los principales excesos y carencias alimentarias.
+
+g) Se han definido los conceptos nutricionales básicos durante situaciones específicas: embarazo, edad infantil, edad avanzada y otras.
+
+h) Se ha valorado la influencia de los alimentos funcionales sobre la salud.
+
+2\. Reconoce los productos alimenticios destinados a poblaciones específicas valorando sus repercusiones e implicaciones.
+
+Criterios de evaluación:
+
+a) Se han reconocido las principales intolerancias alimentarias.
+
+b) Se han descrito las características de los alimentos dirigidos a sectores de la población que presentan problemas nutricionales con el balance energético, proteínas, carbohidratos, lípidos y otros nutrientes.
+
+c) Se han definido las medidas preventivas específicas que se deben seguir en la elaboración de alimentos que no contienen alérgenos.
+
+d) Se ha analizado la legislación específica relativa a los alérgenos.
+
+e) Se han identificado los distintivos específicos del etiquetado de alérgenos alimentarios.
+
+f) Se han identificado las particularidades nutricionales de las principales culturas del entorno.
+
+g) Se han definido las características de los principales alimentos étnicos consumidos en el entorno.
+
+3\. Supervisa la aplicación de buenas prácticas higiénicas y de manipulación de los alimentos, valorando su repercusión en la calidad higiénico-sanitaria de los mismos.
+
+Criterios de evaluación:
+
+a) Se han descrito los principales peligros físicos, químicos y/o microbiológicos que pueden tener su origen en unas malas prácticas higiénicas o de manipulación.
+
+b) Se han reconocido los requisitos legales higiénico-sanitarios de obligado cumplimiento en la industria alimentaria.
+
+c) Se han valorado las consecuencias de unas prácticas inadecuadas sobre la inocuidad del producto y la salud del consumidor.
+
+d) Se han descrito los procedimientos de limpieza y desinfección que requieren los equipos e instalaciones de la industria alimentaria.
+
+e) Se han reconocido los diferentes métodos de conservación y su repercusión sobre la inocuidad del producto final.
+
+f) Se ha valorado la importancia de la formación de los manipuladores de alimentos para garantizar la inocuidad de los productos que manipulan.
+
+4\. Supervisa los planes de apoyo o prerrequisitos de obligado cumplimiento, valorando su importancia para el control de los peligros higiénico-sanitarios.
+
+a) Se han definido los requisitos exigidos a los proveedores con el objetivo de que no supongan un peligro higiénico-sanitario.
+
+b) Se han identificado los peligros asociados al agua utilizada en la industria alimentaria.
+
+c) Se han reconocido los requisitos de mantenimiento preventivo y correctivo de los equipos e instalaciones.
+
+d) Se han definido los requisitos necesarios para el control de plagas en la industria alimentaria.
+
+e) Se han descrito los sistemas de calibración o contrastación de los equipos clave del proceso para garantizar la corrección de sus lecturas.
+
+f) Se han reconocido las precauciones higiénicas que se deben seguir con los residuos generados en la industria alimentaria.
+
+g) Se han descrito los documentos y registros necesarios para identificar el origen, las etapas clave del proceso y el destino del producto final para garantizar la trazabilidad.
+
+h) Se han establecido las medidas que se deben tomar en caso de crisis alimentarias con el objetivo de minimizar sus efectos.
+
+i) Se ha establecido una metodología específica para la toma de acciones correctivas en los casos en los que se presenten incidencias.
+
+5\. Gestiona sistemas de autocontrol basados en el APPCC justificando los principios asociados al mismo.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la legislación europea y estatal que obliga a las industrias alimentarias a implantar sistemas de autocontrol basados en el APPCC.
+
+b) Se ha valorado la eficacia de los planes de autocontrol para el control higiénico-sanitario en la industria alimentaria.
+
+c) Se han elaborado diagramas de flujo de los principales procesos de elaboración de la industria alimentaria.
+
+d) Se han identificado y valorado los peligros físicos, químicos y biológicos asociados a los principales procesos de elaboración y sus medidas de control.
+
+e) Se han identificado los puntos de control crítico (PCC) de los principales procesos de elaboración.
+
+f) Se han justificado los límites críticos establecidos para los PCC.
+
+g) Se ha definido el sistema de vigilancia de los PCC.
+
+h) Se han descrito sistemas eficaces para la verificación y validación del plan de autocontrol basado en el APPCC.
+
+i) Se ha reconocido la información que debe contemplar el documento APPCC y sus registros asociados.
+
+6\. Aplica estándares voluntarios de gestión de la seguridad alimentaria, reconociendo sus requisitos.
+
+Criterios de evaluación:
+
+a) Se han descrito las diferencias entre lo exigido por la legislación sobre seguridad alimentaria y lo requerido por normas voluntarias sobre gestión de la seguridad alimentaria.
+
+b) Se han identificado los estándares voluntarios sobre gestión de la seguridad alimentaria (BRC, IFS, UNE-EN ISO 22000:2005 y otros).
+
+c) Se han descrito los principales aspectos de la norma BRC.
+
+d) Se han descrito los requisitos de la norma IFS.
+
+e) Se han descrito los requisitos de la norma internacional UNE-EN ISO 22000:2005.
+
+f) Se han valorado las diferencias existentes entre dichas normas describiendo las ventajas e inconvenientes de cada una de ellas.
+
+g) Se han identificado las etapas que se deben seguir para la obtención de certificados de gestión de la seguridad alimentaria.
+
+h) Se han descrito las principales no conformidades relacionadas con la seguridad alimentaria y sus posibles acciones correctivas.
+
+i) Se ha mantenido una actitud abierta frente a nuevos estándares sobre gestión de la seguridad alimentaria que se pudiesen publicar.
+
+**Duración: 35 horas**
+
+**Contenidos básicos:**
+
+Conceptos básicos de nutrición:
+
+– Macronutrientes.
+
+– Micronutrientes.
+
+– Funciones de los macronutrientes y micronutrientes.
+
+– Fuentes alimentarias de macronutrientes y micronutrientes.
+
+– Relación entre nutrición, actividad física y salud.
+
+– Excesos y carencias alimentarias.
+
+– Nutrición en situaciones específicas: embarazo, edad infantil, edad avanzada y otras.
+
+Productos alimenticios destinados a poblaciones específicas:
+
+– Intolerancias alimentarias.
+
+– Características de los alimentos dirigidos a sectores de la población que presentan problemas nutricionales con el balance energético, proteínas, carbohidratos, lípidos y otros.
+
+– Medidas preventivas específicas que se deben seguir en la elaboración de alimentos que no deben contener alérgenos.
+
+– Particularidades nutricionales de las principales culturas del entorno.
+
+Supervisión de las buenas prácticas higiénicas y de manipulación de los alimentos:
+
+– Principales peligros físicos, químicos o microbiológicos que pueden tener su origen en unas malas prácticas higiénicas o de manipulación.
+
+– Requisitos legales e higiénico-sanitarios de obligado cumplimiento en la industria alimentaria.
+
+– Consecuencias para la inocuidad del producto y la seguridad de los consumidores de hábitos y/o prácticas inadecuadas durante la producción en la industria alimentaria.
+
+– Procedimientos de limpieza y desinfección de los equipos e instalaciones de la industria alimentaria.
+
+– Métodos de conservación y su repercusión sobre la seguridad del producto final.
+
+– Formación de los manipuladores de alimentos sobre inocuidad alimentaria.
+
+Supervisión de los planes de apoyo o prerrequisitos de obligado cumplimiento:
+
+– Requisitos exigidos a los proveedores.
+
+– Peligros asociados al agua utilizada en la industria alimentaria.
+
+– Requisitos de mantenimiento preventivo y correctivo de los equipos e instalaciones. Procedimiento de mantenimiento.
+
+– Requisitos para el control de plagas en la industria alimentaria.
+
+– Sistemas de calibración o contrastación de los equipos clave del proceso.
+
+– Residuos. Contaminación cruzada.
+
+– Trazabilidad.
+
+– Gestión de crisis alimentarias.
+
+– Metodología específica para la toma de acciones correctivas en los casos en los que se presenten incidencias.
+
+Gestión de los Sistemas de autocontrol (APPCC) y de trazabilidad:
+
+– Legislación europea y estatal relacionada con los sistemas de autocontrol basados en el APPCC.
+
+– Diagramas de flujo de los principales procesos de elaboración de la industria alimentaria.
+
+– Identificación y valoración de los peligros físicos, químicos y biológicos asociados a los principales procesos de elaboración.
+
+– Identificación de los Puntos de Control Críticos (PCC) de los principales procesos de elaboración.
+
+– Límites críticos de los PCC.
+
+– Sistemas de vigilancia de los PCC.
+
+– Sistemas de verificación o validación del plan de autocontrol.
+
+– Información que debe contemplar el documento APPCC y sus registros asociados.
+
+Aplicación de estándares de gestión de la seguridad alimentaria:
+
+– Diferencias entre lo exigido por la legislación sobre seguridad alimentaria y lo requerido por normas voluntarias sobre gestión de la seguridad alimentaria.
+
+– Estándares voluntarios sobre gestión de la seguridad alimentaria.
+
+– Norma BRC.
+
+– Norma IFS.
+
+– Norma internacional UNE-EN ISO 22000:2005.
+
+– Etapas que se deben seguir para la obtención de certificados de gestión de la seguridad alimentaria.
+
+– Principales no conformidades relacionadas con la seguridad alimentaria.
+
+**Orientaciones pedagógicas:**
+
+Este módulo profesional contiene formación asociada principalmente a las funciones de elaboración/ transformación así como a las técnicas de seguridad alimentaria.
+
+La elaboración/ transformación y seguridad alimentaria incluye aspectos como:
+
+– Control de proveedores, materias primas y auxiliares.
+
+– Supervisión y control de la limpieza, el mantenimiento y la operatividad de los equipos e instalaciones.
+
+– Supervisión de las operaciones de elaboración (acondicionado, preparación, transformación y conservación).
+
+– Organización y supervisión de las operaciones de envasado y embalaje de los productos elaborados.
+
+– Aplicación del plan de calidad.
+
+– Gestión y control de la trazabilidad.
+
+– Gestión y aplicación de la legislación específica.
+
+– Control del producto final.
+
+Las actividades profesionales asociadas a estas funciones se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación asociada a este módulo profesional contribuye a alcanzar los objetivos generales a), c), k), l), m), n), ñ) o), p) y q) del ciclo formativo, y las competencias a), c), j), k), l), m), n), ñ), o) y p) del título.
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Caracterización de las materias primas y auxiliares de producción.
+
+– Cálculo de ingredientes y establecimiento de los parámetros de calidad.
+
+– Diseño de registros de control del proceso y su cumplimentación.
+
+– Realización e interpretación de los controles de proceso.
+
+**Módulo Profesional: Procesos integrados en la industria alimentaria.**
+
+**Equivalencia en créditos ECTS: 8**
+
+**Código: 0469**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Regula los sistemas de control de los procesos productivos reconociendo sus componentes y fundamentos tecnológicos.
+
+Criterios de evaluación:
+
+a) Se han identificado los diferentes sistemas de control de proceso y su simbología.
+
+b) Se han reconocido las tecnologías empleadas en la automatización, describiéndose sus elementos y simbología.
+
+c) Se han caracterizado los sistemas de control automático en lazo abierto y en lazo cerrado.
+
+d) Se han analizado los componentes de los sistemas de control.
+
+e) Se han caracterizado los autómatas programables o controladores lógicos programables (P.L.C.), reconociéndose su estructura y componentes electrónicos.
+
+f) Se ha reconocido la jerarquía de la automatización industrial.
+
+g) Se han analizado y representado las funciones lógicas con base en el Algebra de Boole.
+
+h) Se han analizado y manejado los lenguajes de programación más habituales de los autómatas.
+
+i) Se ha valorado la importancia del control automático de los procesos productivos.
+
+2\. Conduce la elaboración de un producto alimenticio de la industria láctea, describiendo las actividades de producción, los materiales y las necesidades de los equipos y de los sistemas automáticos de proceso.
+
+Criterios de evaluación:
+
+a) Se han descrito las características del producto lácteo que se va a elaborar, su proceso de elaboración, la secuencia de las operaciones, los equipos de proceso y automatismos.
+
+b) Se han establecido, para cada operación, las condiciones de ejecución, los equipos, los PCC y sus límites críticos, los parámetros que se han de controlar y la frecuencia de medición.
+
+c) Se han regulado los dispositivos y elementos de los autómatas programables, introduciéndose los puntos de consigna.
+
+d) Se han calculado las necesidades de materias primas lácteas, de auxiliares de producción y otros materiales, estableciéndose las condiciones de conservación y sus parámetros de calidad.
+
+e) Se ha organizado y supervisado el aprovisionamiento de las materias primas, los auxiliares de producción y otros materiales.
+
+f) Se ha comprobado, a través de simulación o de una primera carga, la idoneidad de la secuencia de operaciones de proceso, la preparación de los equipos y las condiciones de operación.
+
+g) Se ha realizado el proceso de elaboración del producto lácteo, aplicándose las medidas correctoras establecidas ante desviaciones.
+
+h) Se han verificado las características de calidad de las materias primas, auxiliares de producción y del producto lácteo elaborado.
+
+i) Se ha calculado el rendimiento y el coste final del producto elaborado describiendo las herramientas de cálculo empleadas.
+
+j) Se han recogido de forma selectiva los subproductos lácteos, residuos y productos de desecho durante el proceso de elaboración.
+
+3\. Controla la elaboración de un producto alimenticio de la industria cárnica justificando los puntos de inspección y los parámetros de control establecidos.
+
+Criterios de evaluación:
+
+a) Se han descrito las características del producto cárnico que se va a elaborar, su proceso de elaboración, los equipos, los PCC, sus parámetros de control y frecuencia de medición.
+
+b) Se han calculado las necesidades de materias primas cárnicas, de auxiliares de producción y otros materiales, estableciéndose las condiciones de conservación y sus parámetros de calidad.
+
+c) Se ha organizado y supervisado el aprovisionamiento de las materias primas cárnicas, los auxiliares de producción y otros materiales.
+
+d) Se han regulado los dispositivos y elementos de los equipos y automatismos, comprobándose a través de simulación o de una primera carga su idoneidad.
+
+e) Se ha realizado el proceso de elaboración del producto cárnico, verificándose la calidad del producto obtenido y de las materias primas cárnicas empleadas.
+
+f) Se ha calculado el rendimiento y el coste final del producto elaborado describiendo las herramientas de cálculo empleadas y las desviaciones que se hayan producido.
+
+g) Se han recogido de forma selectiva los subproductos cárnicos, residuos y productos de desecho durante el proceso de elaboración.
+
+h) Se han adoptado medidas de higiene, seguridad alimentaria y de prevención de riesgos laborales.
+
+4\. Conduce la elaboración de un producto alimenticio vegetal, describiendo las actividades de producción, los equipos y los sistemas automáticos de proceso.
+
+Criterios de evaluación:
+
+a) Se han descrito las características del producto vegetal que se va a elaborar, su proceso de elaboración, la secuencia de las operaciones, los equipos de proceso y automatismos.
+
+b) Se han establecido, para cada operación, las condiciones de ejecución, los equipos, los PCC y sus límites críticos, los parámetros que se han de controlar y la frecuencia de medición.
+
+c) Se han regulado los dispositivos y elementos de los autómatas programables, introduciéndose los puntos de consigna.
+
+d) Se han calculado las necesidades de materias primas vegetales, de auxiliares de producción y otros materiales, estableciéndose las condiciones de conservación y sus parámetros de calidad.
+
+e) Se ha comprobado, a través de simulación o de una primera carga, la idoneidad de la secuencia de operaciones de proceso, la preparación de los equipos y las condiciones de operación.
+
+f) Se ha realizado el proceso de elaboración del producto vegetal, aplicándose las medidas correctoras establecidas ante desviaciones.
+
+g) Se han verificado las características de calidad de las materias primas vegetales, auxiliares de producción y del producto elaborado.
+
+h) Se ha calculado el rendimiento y el coste final del producto elaborado describiendo los cálculos realizados.
+
+i) Se han recogido de forma selectiva los subproductos vegetales, residuos y productos de desecho durante el proceso de elaboración.
+
+5\. Controla la elaboración de un producto alimenticio de la industria de la pesca caracterizando el proceso de elaboración, los equipos, los puntos de inspección y los parámetros de control.
+
+Criterios de evaluación:
+
+a) Se han descrito las características del producto que se va a elaborar, su proceso de elaboración, los equipos, los PCC, sus parámetros de control y frecuencia de medición.
+
+b) Se han calculado las necesidades de materias primas de la pesca, de auxiliares de producción y otros materiales, estableciéndose las condiciones de conservación y sus parámetros de calidad.
+
+c) Se ha organizado y supervisado el aprovisionamiento de las materias primas, los auxiliares de producción y otros materiales.
+
+d) Se han regulado los dispositivos y elementos de los equipos y automatismos, comprobándose a través de simulación o de una primera carga su idoneidad.
+
+e) Se ha realizado el proceso de elaboración del producto de la pesca, verificándose la calidad del producto obtenido y de las materias primas empleadas.
+
+f) Se ha calculado el rendimiento y el coste final del producto elaborado describiendo las herramientas de cálculo empleadas y las desviaciones que se hayan producido.
+
+g) Se han recogido de forma selectiva los subproductos, residuos y productos de desecho durante el proceso de elaboración.
+
+h) Se han adoptado medidas de higiene, seguridad alimentaria y de prevención de riesgos laborales.
+
+**Duración: 75 horas**
+
+**Contenidos básicos:**
+
+Regulación de los sistemas de control de los procesos:
+
+– Control de procesos. Tipos de sistemas de control.
+
+– Control automático de los procesos productivos.
+
+– Tecnologías de la automatización. Tipos de automatismos. Componentes.
+
+– Sistemas de control en lazo abierto y en lazo cerrado.
+
+– Componentes de un sistema de control.
+
+– Autómatas programables o P.L.C. Descripción.
+
+– Jerarquía de la automatización industrial.
+
+– Álgebra de Boole. Funciones lógicas y puertas lógicas.
+
+– Lenguajes de programación. Aplicaciones y simulación.
+
+Elaboración de un producto de la industria láctea:
+
+– Proceso de elaboración de un producto lácteo. Descripción. Equipos de proceso.
+
+– Aplicación del APPCC al producto lácteo que se va a elaborar.
+
+– Identificación de los automatismos de los equipos de proceso y de sus componentes.
+
+– Materias primas lácteas y auxiliares de producción del producto lácteo que se va a elaborar.
+
+– Simulación del proceso de elaboración del producto lácteo con los equipos de proceso.
+
+– Rendimiento y coste final del producto elaborado.
+
+– Subproductos lácteos obtenidos. Residuos y productos de desecho.
+
+Elaboración de un producto de la industria cárnica:
+
+– Proceso de elaboración de un producto cárnico. Descripción. Equipos de proceso.
+
+– Aplicación del APPCC al producto cárnico que se va a elaborar. Parámetros de control y frecuencia de medición.
+
+– Caracterización de los automatismos de los equipos de proceso y de sus componentes.
+
+– Materias primas cárnicas y auxiliares de producción del producto que se va a elaborar. Cálculo de las necesidades.
+
+– Simulación del proceso de elaboración del producto cárnico con los equipos de proceso.
+
+– Rendimiento y coste final del producto elaborado.
+
+– Subproductos cárnicos obtenidos. Residuos y productos de desecho.
+
+Elaboración de un producto vegetal:
+
+– Proceso de elaboración de un producto vegetal. Descripción. Equipos de proceso.
+
+– Aplicación del APPCC al producto vegetal que se va a elaborar. Parámetros de control y frecuencia de medición.
+
+– Caracterización de los automatismos de los equipos de proceso y de sus componentes.
+
+– Materias primas vegetales y auxiliares de producción del producto a elaborar. Cálculo de las necesidades.
+
+– Simulación del proceso de elaboración del producto vegetal con los equipos de proceso.
+
+– Rendimiento y coste final del producto elaborado.
+
+– Subproductos vegetales obtenidos. Residuos y productos de desecho.
+
+– Características de calidad del producto vegetal elaborado.
+
+Elaboración de un producto de la industria de la pesca:
+
+– Proceso de elaboración de un producto de la pesca. Descripción. Equipos de proceso.
+
+– Aplicación del APPCC al producto que se va a elaborar. Parámetros de control y frecuencia de medición.
+
+– Caracterización de los automatismos de los equipos de proceso y de sus componentes.
+
+– Materias primas de la pesca y auxiliares de producción del producto que se va a elaborar. Cálculo de las necesidades.
+
+– Simulación del proceso de elaboración con los equipos de proceso.
+
+– Rendimiento y coste final del producto elaborado.
+
+– Subproductos obtenidos. Residuos y productos de desecho.
+
+**Orientaciones pedagógicas.**
+
+Este módulo profesional contiene formación asociada principalmente a las funciones de planificación/programación y de elaboración/ transformación y, de forma transversal a las funciones de seguridad alimentaria, protección ambiental, prevención y seguridad laboral y mantenimiento de equipos e instalaciones en la industria alimentaria.
+
+Este módulo integra la formación adquirida en otros módulos profesionales mediante la elaboración de un producto alimentario.
+
+El alumno debe ser capaz de organizar y controlar una unidad productiva, optimizando recursos y tiempos y aplicando medidas de higiene, de seguridad laboral y de protección ambiental. Deberá ser capaz de trabajar con autonomía, responsabilidad y capacidad de gestión bajo parámetros de calidad.
+
+La planificación/ programación de productos alimenticios incluye aspectos como:
+
+– Desarrollo de procesos para la elaboración/ producción, envasado y embalaje.
+
+– Procedimientos operativos.
+
+– Elaboración de documentación técnica.
+
+La elaboración/ transformación de productos alimenticios incluye aspectos como:
+
+– Recepción de las materias primas y auxiliares de producción.
+
+– Organización de equipos de trabajo, equipos de proceso e instalaciones de producción.
+
+– Supervisión y control de la limpieza, el mantenimiento y la operatividad de los equipos e instalaciones.
+
+– Supervisión de las operaciones de elaboración (acondicionado, preparación, transformación y conservación).
+
+– Organización y supervisión de las operaciones de envasado y embalaje de los productos elaborados.
+
+– Aplicación del plan de calidad.
+
+– Gestión y control de la trazabilidad.
+
+– Gestión y aplicación de la legislación específica.
+
+– Manejo de autómatas programables o P.L.C. en procesos de producción automatizada.
+
+– Cálculo de costes de producción.
+
+– Valoración y control de los riesgos laborales en el manejo de los equipos, instalaciones y materias auxiliares de producción.
+
+– Innovación tecnológica de las operaciones de elaboración de productos alimenticios.
+
+– Supervisión y control medioambiental de los procesos: residuos contaminantes, uso eficiente de los recursos, especialmente agua y electricidad.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación del presente módulo contribuye a alcanzar los objetivos generales a), b), c), d), f), g), h), j), k), l), m), n), ñ) o), p) y q) del ciclo formativo, y las competencias a), b), c), d), e), f), g), i), j), k), l), m), n), ñ), o) y p) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Caracterización del producto que se va a elaborar.
+
+– Diseño del diagrama de flujo y desarrollo del APPCC.
+
+– Organización, planificación y preparación de las áreas de trabajo y los recursos humanos.
+
+– Selección, preparación y manejo de los equipos de trabajo y de los sistemas de control.
+
+– Caracterización de las materias primas y auxiliares de producción.
+
+– Cálculo de ingredientes y establecimiento de los parámetros de calidad.
+
+– Diseño de registros de control del proceso y su cumplimentación.
+
+– Manejo de manipuladores y autómatas programables con introducción de los puntos de consigna mediante teclado/ordenador o consola de programación.
+
+– Realización e interpretación de los controles de proceso.
+
+– Cálculo de los costos de la elaboración y rendimiento del proceso.
+
+– Aplicación de las medidas de seguridad necesarias en el manejo de los equipos, instalaciones y productos.
+
+– Recogida selectiva de los subproductos, residuos y productos de desecho.
+
+**Módulo Profesional: Innovación alimentaria.**
+
+**Equivalencia en créditos ECTS: 4**
+
+**Código: 0470**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Supervisa la elaboración de alimentos con mayor vida útil, describiendo sus fundamentos tecnológicos.
+
+Criterios de evaluación:
+
+a) Se han descrito los conceptos y modelos de predicción de vida útil y fecha de duración mínima de los alimentos.
+
+b) Se han descrito los factores que influyen en el deterioro o alteración de los alimentos.
+
+c) Se han identificado los métodos para el control del deterioro o alteración de los alimentos.
+
+d) Se han preparado y regulado los equipos e instalaciones.
+
+e) Se han reconocido y aplicado las variables (tiempo, temperatura y otras) óptimas para cada tipo de alimento.
+
+f) Se han reconocido y aplicado los diferentes métodos de modificación de la atmósfera de los productos alimenticios envasados.
+
+g) Se han identificado nuevos conservantes justificando su aplicación.
+
+h) Se han reconocido nuevos materiales o formatos de envasado.
+
+i) Se ha aplicado la tecnología de barreras para prolongar la vida útil de los alimentos.
+
+j) Se ha mantenido una actitud abierta ante las innovaciones tecnológicas para prolongar la vida útil de los alimentos.
+
+k) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+2\. Conduce la elaboración de alimentos adaptados a nuevos nichos de mercado, reconociendo las particularidades de cada caso.
+
+Criterios de evaluación:
+
+a) Se han identificado las particularidades nutricionales de las principales realidades socio-culturales del entorno.
+
+b) Se han preparado y regulado los equipos e instalaciones.
+
+c) Se ha supervisado la elaboración de alimentos dirigidos a la realidad socio-cultural del entorno.
+
+d) Se ha conducido la elaboración de los alimentos regionales de mayor consumo del entorno.
+
+e) Se han elaborado alimentos dirigidos a diferentes grupos de población (infantil, adolescentes y de tercera edad) adaptándolos a sus necesidades.
+
+f) Se ha controlado la elaboración de alimentos ecológicos.
+
+g) Se ha supervisado la elaboración de alimentos de IV y V gama.
+
+h) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+i) Se ha mantenido una actitud emprendedora ante nuevos nichos de mercado.
+
+3\. Controla la elaboración de alimentos funcionales relacionando sus propiedades con la influencia para la salud.
+
+Criterios de evaluación:
+
+a) Se han reconocido los beneficios que los alimentos funcionales pueden aportar a la salud de los consumidores.
+
+b) Se han preparado y regulado los equipos e instalaciones.
+
+c) Se han elaborado alimentos enriquecidos en ácidos grasos insaturados.
+
+d) Se ha supervisado la elaboración de alimentos hipocalóricos y/ o bajos en sodio.
+
+e) Se han elaborado alimentos prebióticos, reconociendo su función promotora del crecimiento selectivo de bacterias intestinales beneficiosas.
+
+f) Se han preparado alimentos probióticos, reconociendo sus efectos positivos sobre la flora bacteriana del intestino.
+
+g) Se han elaborado alimentos enriquecidos en fibra valorando su importancia para el sistema digestivo.
+
+h) Se han elaborado alimentos enriquecidos en vitaminas, minerales y otros, con el objetivo de evitar o minimizar carencias nutricionales.
+
+i) Se ha reconocido y aplicado la legislación específica para la elaboración y etiquetado de los alimentos funcionales.
+
+j) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+4\. Conduce la elaboración de alimentos adaptados a grupos de población con intolerancia alimentaria, reconociendo sus requerimientos.
+
+Criterios de evaluación:
+
+a) Se han reconocido las principales intolerancias alimentarias.
+
+b) Se han preparado y regulado los equipos e instalaciones.
+
+c) Se han aplicado las medidas preventivas específicas que se deben seguir en la elaboración de alimentos que no deben contener alérgenos.
+
+d) Se ha conducido la elaboración de alimentos sin gluten utilizando materias primas alternativas que permitan obtener productos similares.
+
+e) Se han elaborado alimentos sin azúcares añadidos dirigidos principalmente a personas diabéticas.
+
+f) Se ha conducido la elaboración de productos alimenticios exentos de lactosa.
+
+g) Se ha conducido la elaboración de alimentos exentos de fenilalanina y otros aminoácidos.
+
+h) Se han adoptado medidas de higiene, seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
+
+**Duración: 40 horas**
+
+**Contenidos básicos:**
+
+Elaboración de alimentos con mayor vida útil:
+
+– Vida útil y fecha de duración mínima.
+
+– Factores que influyen en el deterioro o alteración de los alimentos.
+
+– Métodos para el control del deterioro o alteración de los alimentos.
+
+– Variables (tiempo, temperatura y otras) óptimas para cada tipo y formato de alimento. Aplicaciones.
+
+– Métodos de modificación de la atmósfera. Aplicaciones.
+
+– Nuevos conservantes en la industria alimentaria.
+
+– Nuevos materiales de envasado. Utilización.
+
+– Tecnología de barreras para prolongar la vida útil de los alimentos. Aplicación.
+
+– Actitud abierta ante las innovaciones tecnológicas para prolongar la vida útil de los alimentos.
+
+Elaboración de alimentos adaptados a nuevos nichos de mercado:
+
+– Particularidades nutricionales de las principales realidades socio-culturales del entorno.
+
+– Productos alimenticios dirigidos a diferentes etnias.
+
+– Alimentos regionales. Elaboración.
+
+– Alimentos dirigidos a diferentes grupos de población (infantil, adolescentes, tercera edad). Elaboración.
+
+– Alimentos ecológicos. Características. Legislación.
+
+– Alimentos de IV y V gama. Características. Procesos de elaboración tipo.
+
+– Actitud emprendedora ante nuevos nichos de mercado.
+
+Elaboración de alimentos funcionales:
+
+– Alimentos funcionales. Clasificación. Efectos sobre la salud.
+
+– Alimentos ricos en ácidos grasos insaturados.
+
+– Alimentos hipocalóricos y/ o bajos en sodio. Descripción.
+
+– Alimentos prebióticos. Función fisiológica.
+
+– Alimentos probióticos. Función fisiológica.
+
+– Alimentos enriquecidos en fibra. Función fisiológica.
+
+– Alimentos enriquecidos en vitaminas, minerales y otros.
+
+– Legislación específica para la elaboración y etiquetado de los alimentos funcionales.
+
+Elaboración de alimentos adaptados a grupos de población con intolerancia alimentaria:
+
+– Principales intolerancias alimentarias. Clasificación.
+
+– Medidas preventivas para evitar contaminaciones cruzadas.
+
+– Alimentos sin gluten. Elaboración.
+
+– Alimentos sin azúcares añadidos. Elaboración.
+
+– Productos alimenticios exentos de lactosa.
+
+– Alimentos exentos de fenilalanina y otros aminoácidos. Etiquetado.
+
+**Orientaciones pedagógicas:**
+
+Este módulo profesional da respuesta a la necesidad de proporcionar una adecuada base teórica y práctica para la comprensión y aplicación de nuevas tendencias en la elaboración/ transformación de productos alimenticios.
+
+La elaboración/ transformación de productos alimenticios incluye aspectos como:
+
+– Recepción de las materias primas y auxiliares de producción.
+
+– Organización de equipos e instalaciones de producción.
+
+– Supervisión y control de la limpieza, el mantenimiento y la operatividad de los equipos e instalaciones.
+
+– Supervisión de las operaciones de elaboración (acondicionado, preparación, transformación y conservación).
+
+– Organización y supervisión de las operaciones de envasado y embalaje de los productos elaborados.
+
+– Aplicación del plan de calidad.
+
+– Gestión y control de la trazabilidad.
+
+– Gestión y aplicación de la legislación específica.
+
+– Valoración y control de los riesgos laborales en el manejo de los equipos, instalaciones y materias auxiliares de producción.
+
+– Innovación tecnológica de las operaciones de elaboración de productos alimenticios.
+
+– Supervisión y control medioambiental de los procesos: residuos contaminantes, uso eficiente de los recursos, especialmente agua y electricidad.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Elaboración de productos alimenticios.
+
+La formación del presente módulo contribuye a alcanzar los objetivos generales a), c), d), f), g), j), k), l), m), n), ñ) o), p) y q) del ciclo formativo, y las competencias a), c), d), e), f), g), i), j), k), l), m), n), ñ), o) y p) del título.
+
+Las líneas de actuación en el proceso de enseñanza y aprendizaje que permiten alcanzar los objetivos del módulo profesional versarán sobre:
+
+– Fundamentos tecnológicos de innovación del producto que se va a elaborar.
+
+– Diseño del diagrama de flujo y desarrollo del APPCC.
+
+– Organización, planificación y preparación de las áreas de trabajo y los recursos humanos.
+
+– Selección, preparación y manejo de los equipos de trabajo.
+
+– Caracterización de las materias primas y auxiliares de producción.
+
+– Cálculo de ingredientes y establecimiento de los parámetros de calidad.
+
+– Diseño de registros de control del proceso y su cumplimentación.
+
+– Realización e interpretación de los controles de proceso.
+
+– Aplicación de las medidas de seguridad necesarias en el manejo de los equipos, instalaciones y productos.
+
+– Recogida selectiva de los subproductos, residuos y productos de desecho.
+
+**Módulo Profesional: Proyecto intermodular en procesos y calidad en la Industria Alimentaria**
+
+**Equivalencia en créditos ECTS: 5**
+
+**Código: 0471**
+
+**Resultados de aprendizaje y criterios de evaluación.**
+
+1\. Identifica necesidades del sector productivo, relacionándolas con proyectos tipo que las puedan satisfacer.
+
+Criterios de evaluación:
+
+a) Se han clasificado las empresas del sector por sus características organizativas y el tipo de producto o servicio que ofrecen.
+
+b) Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones de cada departamento.
+
+c) Se han identificado las necesidades más demandadas a las empresas.
+
+d) Se han valorado las oportunidades de negocio previsibles en el sector.
+
+e) Se ha identificado el tipo de proyecto requerido para dar respuesta a las demandas previstas.
+
+f) Se han determinado las características específicas requeridas al proyecto.
+
+g) Se han determinado las obligaciones fiscales, laborales y de prevención de riesgos y sus condiciones de aplicación.
+
+h) Se han identificado posibles ayudas o subvenciones para la incorporación de nuevas tecnologías de producción o de servicio que se proponen.
+
+i) Se ha elaborado el guion de trabajo que se va a seguir para la elaboración del proyecto.
+
+2\. Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y desarrollando las fases que lo componen.
+
+Criterios de evaluación:
+
+a) Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+
+b) Se ha realizado el estudio de viabilidad técnica del mismo.
+
+c) Se han identificado las fases o partes que componen el proyecto y su contenido.
+
+d) Se han establecido los objetivos que se pretenden conseguir identificando su alcance.
+
+e) Se han previsto los recursos materiales y personales necesarios para realizarlo.
+
+f) Se ha realizado el presupuesto económico correspondiente.
+
+g) Se han identificado las necesidades de financiación para la puesta en marcha del mismo.
+
+h) Se ha definido y elaborado la documentación necesaria para su diseño.
+
+i) Se han identificado los aspectos que se deben controlar para garantizar la calidad del proyecto.
+
+3\. Planifica la ejecución del proyecto, determinando el plan de intervención y la documentación asociada.
+
+Criterios de evaluación:
+
+a) Se han secuenciado las actividades ordenándolas en función de las necesidades de implementación.
+
+b) Se han determinado los recursos y la logística necesaria para cada actividad.
+
+c) Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las actividades.
+
+d) Se han determinado los procedimientos de actuación o ejecución de las actividades.
+
+e) Se han identificado los riesgos inherentes a la implementación definiendo el plan de prevención de riesgos y los medios y equipos necesarios.
+
+f) Se ha planificado la asignación de recursos materiales y humanos y los tiempos de ejecución.
+
+g) Se ha hecho la valoración económica que da respuesta a las condiciones de la ejecución.
+
+h) Se ha definido y elaborado la documentación necesaria para la ejecución.
+
+4\. Define los procedimientos para el seguimiento y control en la ejecución del proyecto, justificando la selección de variables e instrumentos empleados.
+
+Criterios de evaluación:
+
+a) Se ha definido el procedimiento de evaluación de las actividades o intervenciones.
+
+b) Se han definido los indicadores de calidad para realizar la evaluación.
+
+c) Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse durante la realización de las actividades, su posible solución y registro.
+
+d) Se ha definido el procedimiento para gestionar los posibles cambios en los recursos y en las actividades, incluyendo el sistema de registro de los mismos.
+
+e) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto.
+
+f) Se ha establecido el procedimiento para la participación en la evaluación de los usuarios o clientes y se han elaborado los documentos específicos.
+
+g) Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del proyecto cuando este existe.
+
+**Duración: 25 horas**
+
+**Orientaciones pedagógicas**
+
+Este módulo profesional complementa la formación establecida para el resto de los módulos profesionales que integran el título en las funciones de análisis del contexto, diseño del proyecto y organización de la ejecución.
+
+La función de análisis del contexto incluye las subfunciones de recopilación de información, identificación de necesidades y estudio de viabilidad.
+
+La función de diseño del proyecto tiene como objetivo establecer las líneas generales para dar respuesta a las necesidades planteadas concretando los aspectos relevantes para su realización. Incluye las subfunciones de definición del proyecto, planificación de la intervención y elaboración de la documentación.
+
+La función de organización de la ejecución incluye las subfunciones de programación de actividades, gestión de recursos y supervisión de la intervención.
+
+Las actividades profesionales asociadas a estas funciones se desarrollan en los diferentes subsectores del sector de la industria alimentaria.
+
+La formación del módulo se relaciona con la totalidad de los objetivos generales del ciclo y las competencias profesionales, personales y sociales del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo están relacionadas con:
+
+– La ejecución de trabajos en equipo.
+
+– La responsabilidad y la autoevaluación del trabajo realizado.
+
+– La autonomía y la iniciativa personal.
+
+– El uso de las Tecnologías de la Información y de la Comunicación.
+
+**Módulo Profesional: Inglés Profesional (GS)**
+
+**Código: 0179**
+
+**Módulo Profesional: Itinerario personal para la empleabilidad I**
+
+**Código: 1709**
+
+**Módulo Profesional: Itinerario personal para la empleabilidad II**
+
+**Código: 1710**
+
+**Módulo Profesional: Digitalización aplicada a los sectores productivos (GS)**
+
+**Código: 1665**
+
+**Módulo Profesional: Sostenibilidad aplicada al sistema productivo**
+
+**Código: 1708**
+
+> Téngase en cuenta que el código, duración del currículo básico, equivalencia en créditos ECTS, resultados de aprendizaje y criterios de evaluación del módulo profesional 0179 figura como anexo X del Real Decreto 659/2023, de 18 de julio, el de los módulos 1709 y 1710 figuran como anexo V, el del módulo 1665 figura como anexo VII y el del módulo 1708 figura como anexo VIII del mismo Real Decreto, según establece el art. 7.1.b) del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+> Se modifica por el art. 7.1 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+> Téngase en cuenta la disposición adicional 1, respecto a las horas del currículo básico para las comunidades autónomas con lengua cooficial, y la disposición adicional 2, que adapta el número de créditos ECTS de acuerdo con la tabla que figura como anexo XCI del citado Real Decreto.
+
+## ANEXO II — Espacios
+
+| Espacio formativo |
+|---|
+| Aula polivalente. |
+| Planta de elaboración de productos alimenticios. |
+| Almacén. |
+| Sala de cata. |
+| Laboratorio de análisis de alimentos. |
+
+## ANEXO III — Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico Superior en Procesos y Calidad en la Industria Alimentaria
+
+<table>
+<thead>
+<tr>
+<th>Módulo profesional</th>
+<th>Especialidad del profesorado</th>
+<th>Cuerpo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0462. Tecnología alimentaria.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0463. Biotecnología alimentaria.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0464. Análisis de alimentos.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0465. Tratamientos de preparación y conservación de los alimentos.</p>
+</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0466. Organización de la producción alimentaria.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0084. Comercialización y logística en la industria alimentaria.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0086. Gestión de calidad y ambiental en la industria alimentaria.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0467. Control microbiológico y sensorial de los alimentos.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0468. Nutrición y seguridad alimentaria.</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>0469. Procesos integrados en la industria alimentaria.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">0191. Mantenimiento electromecánico en industrias de proceso.</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0470. Innovación alimentaria.</p>
+</td>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>0471. Proyecto intermodular en procesos y calidad en la industria alimentaria</p>
+</td>
+<td>– Procesos en la industria alimentaria.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>1709. Itinerario personal para la empleabilidad I.</td>
+<td>– Formación y orientación laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>1710. Itinerario personal para la empleabilidad II.</td>
+<td>– Formación y orientación laboral.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">1708. Sostenibilidad aplicada al sistema productivo.</td>
+<td>
+<p>– Procesos en la industria alimentaria.</p>
+<p>– Formación y Orientación Laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">1665. Digitalización aplicada a los sectores productivos (GS).</td>
+<td>
+<p>– Procesos en la industria alimentaria.</p>
+<p>– Formación y Orientación Laboral.</p>
+</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesor de Enseñanza Secundaria.</p>
+</td>
+</tr>
+<tr>
+<td>– Operaciones y equipos de elaboración de productos alimentarios.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>– Mecanizado y mantenimiento de máquinas.</td>
+<td>
+<p>– Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.</p>
+<p>– Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional.</p>
+</td>
+</tr>
+<tr>
+<td>0179. Inglés Profesional (GS).</td>
+<td>– Inglés.</td>
+<td>
+<p>– Catedráticos de Enseñanza Secundaria.</p>
+<p>– Profesores de Enseñanza Secundaria.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se suprimen los anexos III A), III B) y III C) y se añade el anexo III, con el contenido que figura como anexo XVIII del Real Decreto 500/2024, de 21 de mayo, según establece su art. 8.17. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)
+
+## ANEXO IV — Convalidaciones entre módulos profesionales establecidos en el título de Técnico Superior en Industria Alimentaria, al amparo de la Ley Orgánica 1/1990 y los establecidos en el título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria al amparo de la Ley Orgánica 2/2006
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1085/2020, de 9 de diciembre. [Ref. BOE-A-2020-17274](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17274)
+
+## ANEXO V A) — Correspondencia de las unidades de competencia acreditadas de acuerdo a lo establecido en el artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, con los módulos profesionales para su convalidación
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+|---|---|
+| UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización. | 0084 Comercialización y logística en la industria alimentaria. |
+| UC0557_3: Programar y gestionar la producción en la industria alimentaria. | 0466 Organización de la producción alimentaria. |
+| UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria. | 0086 Gestión de calidad y ambiental en la industria alimentaria. |
+| UC0559_3: Desarrollar los procesos y determinar los procedimientos operativos para la producción de conservas y jugos vegetales.<br>UC0565_3: Desarrollar los procesos y determinar los procedimientos operativos para la elaboración de productos derivados de la pesca y de la acuicultura.<br>UC0765_3: Desarrollar los procesos y determinar los procedimientos operativos para el sacrificio, faenado y despiece de animales de abasto, así como para la elaboración de productos y preparados cárnicos. | 0462 Tecnología alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0468 Nutrición y seguridad alimentaria. |
+| UC0562_3: Desarrollar los procesos y determinar los procedimientos operativos para la producción de derivados de cereales y de dulces.<br>UC0571_3: Desarrollar los procesos y determinar los procedimientos operativos para la elaboración de leches de consumo y de productos lácteos. | 0462 Tecnología alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0468 Nutrición y seguridad alimentaria. |
+| UC0560_3: Controlar la fabricación de conservas y jugos vegetales y sus sistemas automáticos de producción.<br>UC0566_3: Controlar la elaboración de productos derivados de la pesca y de la acuicultura y sus sistemas automáticos de producción.<br>UC0766_3: Controlar la elaboración de productos y preparados cárnicos y sus sistemas automáticos de producción, así como el sacrificio, faenado y despiece de los animales. | 0469 Procesos integrados en la industria alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0191 Mantenimiento electromecánico en industrias de proceso. |
+| UC0563_3: Controlar la elaboración de derivados de cereales y de dulces y sus sistemas automáticos de producción.<br>UC0572_3: Controlar la elaboración de leches de consumo y de productos lácteos y sus sistemas automáticos de producción. | 0469 Procesos integrados en la industria alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0191 Mantenimiento electromecánico en industrias de proceso. |
+| UC0561_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de conservas y jugos vegetales.<br>UC0567_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de productos derivados de la pesca y de la acuicultura.<br>UC0767_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de productos y preparados cárnicos. | 0464 Análisis de alimentos.<br>0467 Control microbiológico y sensorial de los alimentos.<br>0468 Nutrición y seguridad alimentaria. |
+| UC0564_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de derivados de cereales y de dulces.<br>UC0573_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de leches de consumo y de productos lácteos. | 0464 Análisis de alimentos.<br>0467 Control microbiológico y sensorial de los alimentos.<br>0468 Nutrición y seguridad alimentaria. |
+
+## ANEXO V B) — Correspondencia de los módulos profesionales con las unidades de competencia para su acreditación
+
+| Módulos profesionales superados | Unidades de competencia acreditables |
+|---|---|
+| 0084 Comercialización y logística en la industria alimentaria. | UC0556_3: Gestionar los aprovisionamientos, el almacén y las expediciones en la industria alimentaria y realizar actividades de apoyo a la comercialización. |
+| 0466 Organización de la producción alimentaria. | UC0557_3: Programar y gestionar la producción en la industria alimentaria. |
+| 0086 Gestión de calidad y ambiental en la industria alimentaria. | UC0558_3: Cooperar en la implantación y desarrollo del plan de calidad y gestión ambiental en la industria alimentaria. |
+| 0462 Tecnología alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0468 Nutrición y seguridad alimentaria. | UC0559_3: Desarrollar los procesos y determinar los procedimientos operativos para la producción de conservas y jugos vegetales.<br>UC0565_3: Desarrollar los procesos y determinar los procedimientos operativos para la elaboración de productos derivados de la pesca y de la acuicultura.<br>UC0765_3: Desarrollar los procesos y determinar los procedimientos operativos para el sacrificio, faenado y despiece de animales de abasto, así como para la elaboración de productos y preparados cárnicos. |
+| 0462 Tecnología alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0468 Nutrición y seguridad alimentaria. | UC0562_3: Desarrollar los procesos y determinar los procedimientos operativos para la producción de derivados de cereales y de dulces.<br>UC0571_3: Desarrollar los procesos y determinar los procedimientos operativos para la elaboración de leches de consumo y de productos lácteos. |
+| 0469 Procesos integrados en la industria alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0191 Mantenimiento electromecánico en industrias de proceso. | UC0560_3: Controlar la fabricación de conservas y jugos vegetales y sus sistemas automáticos de producción.<br>UC0566_3: Controlar la elaboración de productos derivados de la pesca y de la acuicultura y sus sistemas automáticos de producción.<br>UC0766_3: Controlar la elaboración de productos y preparados cárnicos y sus sistemas automáticos de producción, así como el sacrificio, faenado y despiece de animales. |
+| 0469 Procesos integrados en la industria alimentaria.<br>0465 Tratamientos de preparación y conservación de los alimentos.<br>0191 Mantenimiento electromecánico en industrias de proceso. | UC0563_3: Controlar la elaboración de derivados de cereales y de dulces y sus sistemas automáticos de producción.<br>UC0572_3: Controlar la elaboración de leches de consumo y de productos lácteos y sus sistemas automáticos de producción. |
+| 0464 Análisis de alimentos.<br>0467 Control microbiológico y sensorial de los alimentos.<br>0468 Nutrición y seguridad alimentaria. | UC0561_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de conservas y jugos vegetales.<br>UC0567_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de productos derivados de la pesca y de la acuicultura.<br>UC0767_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de productos y preparados cárnicos. |
+| 0464 Análisis de alimentos.<br>0467 Control microbiológico y sensorial de los alimentos.<br>0468 Nutrición y seguridad alimentaria. | UC0564_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de derivados de cereales y de dulces.<br>UC0573_3: Aplicar técnicas de control analítico y sensorial del proceso de elaboración de leches de consumo y de productos lácteos. |
+
+> Información relacionada
+
+> Téngase en cuenta que quedan sin efectos cualquier referencia a titulaciones habilitantes a efectos de docencia que remita al derogado anexo III B) y cualquier referencia a las preferencias para el acceso a ciclos formativos de grado superior en relación con las modalidades y materias de Bachillerato cursadas contenidas en este Real Decreto, y las referencias contenidas en el articulado a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad», así como las referencias contenidas en el articulado al módulo de «Proyecto» pasa a denominarse «Proyecto intermodular», según establecen las disposiciones adicionales 4 a 7 del Real Decreto 500/2024, de 21 de mayo. [Ref. BOE-A-2024-10685](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10685)

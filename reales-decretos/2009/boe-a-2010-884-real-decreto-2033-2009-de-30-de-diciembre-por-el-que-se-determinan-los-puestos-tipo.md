@@ -1,0 +1,645 @@
+---
+title: "Real Decreto 2033/2009, de 30 de diciembre, por el que se determinan los puestos tipo adscritos al Cuerpo de Secretarios Judiciales a efectos del complemento general de puesto, la asignación inicial del complemento específico y las retribuciones por sustituciones que impliquen el desempeño conjunto de otra función"
+identifier: "BOE-A-2010-884"
+eli: "https://www.boe.es/eli/es/rd/2009/12/30/2033"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2009-12-30
+published: 2010-01-20
+in_force_from: 2010-01-21
+last_amended: 2025-06-25
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 17"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-884"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2033/2009, de 30 de diciembre, por el que se determinan los puestos tipo adscritos al Cuerpo de Secretarios Judiciales a efectos del complemento general de puesto, la asignación inicial del complemento específico y las retribuciones por sustituciones que impliquen el desempeño conjunto de otra función
+
+Téngase en cuenta que las referencias hechas a los Secretarios Judiciales se entenderán realizadas a los Letrados de la Administración de Justicia, según establece la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167)
+
+La Ley Orgánica 19/2003, de 23 de diciembre, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, introdujo en el Libro V la regulación de la nueva oficina judicial y los aspectos estatutarios, funcionales y orgánicos más relevantes del Cuerpo de Secretarios Judiciales. En este contexto organizativo, la figura del Secretario Judicial adquiere particular relevancia, y de ahí que la mencionada Ley 19/2003, le dedique una regulación aparte del resto de los cuerpos de funcionarios al servicio de la Administración de Justicia, definiendo con precisión sus funciones dentro de la nueva estructura de la oficina judicial, atribuyéndole nuevas funciones procesales, potenciando sus capacidades profesionales y asignándole responsabilidades de coordinación con las Administraciones Públicas competentes en materia de justicia.
+
+Es necesario destacar que el Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales, introdujo modificaciones en el régimen retributivo, en aplicación de la disposición final tercera de la Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras Judicial y Fiscal, que dispone que el Gobierno debía regular el nuevo régimen retributivo del Cuerpo de Secretarios Judiciales adecuado a los principios y conceptos retributivos recogidos en dicha ley y en sus anexos.
+
+Sin embargo, la aprobación de la Ley Orgánica 19/2003, de 23 de diciembre, tal y como dispone el artículo 447, restringió la adecuación de los conceptos retributivos de los Secretarios Judiciales a los de las retribuciones básicas de las carreras Judicial y Fiscal, redefiniendo la estructura de las retribuciones complementarias de este cuerpo, mediante la desaparición del complemento de destino, la introducción del complemento general del puesto, y el establecimiento de un nuevo complemento específico adaptado a la nueva ordenación de puestos en la nueva oficina judicial.
+
+Es por ello por lo que, conforme al artículo 448.3 y la disposición transitoria quinta de la citada ley orgánica, el desarrollo de la nueva oficina judicial exige ahora la reforma del régimen retributivo de los Secretarios Judiciales, dentro de un marco normativo conjunto impulsado por la Ley Orgánica 19/2003, que obliga a establecer un catálogo de puestos tipo que será el punto de partida de las relaciones de puestos de trabajo, al establecimiento de un complemento general del puesto, que se fijará por Ley General de Presupuestos, y a la determinación de la asignación inicial del complemento específico que también se deben recoger en este real decreto, y que sustituirán a los correspondientes conceptos retributivos desarrollados por el Real Decreto 1130/2003.
+
+Finalmente, es necesario destacar que el presente real decreto también aborda la regulación de cuestiones que no afectan directamente al nuevo diseño de oficina judicial. Así, sucede con las retribuciones que procedan por sustituciones que impliquen el desempeño conjunto de otra función, que conforme a lo previsto en la Ley Orgánica del Poder Judicial deben ser objeto de regulación en esta norma.
+
+Este real decreto ha sido informado por el Consejo General del Poder Judicial y por las comunidades autónomas afectadas.
+
+En su virtud, a propuesta conjunta del Ministro de Justicia y de la Ministra de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2009,
+
+**DISPONGO:**
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+El objeto de este real decreto es establecer los puestos tipo de las distintas unidades que integran las oficinas judiciales y otros servicios no jurisdiccionales adscritos a los funcionarios del Cuerpo de Secretarios Judiciales a efectos del complemento general de puesto, así como la asignación inicial de los complementos específicos que correspondan y las retribuciones que procedan por sustituciones que impliquen el desempeño conjunto de otra función.
+
+## Artículo 2. Clasificación de puestos tipo a efectos del complemento general de puesto
+
+A efectos del complemento general de puesto, los puestos de trabajo que integran las oficinas judiciales y los servicios no jurisdiccionales se clasificarán en los siguientes tipos, teniendo en cuenta los grupos de población recogidos en el anexo I de este real decreto:
+
+– Tipo I. Puestos adscritos a unidades de oficinas judiciales situadas en localidades del Grupo 1 de población.
+
+– Tipo II. Puestos adscritos a unidades de oficinas judiciales situadas en localidades del Grupo 2 de población.
+
+– Tipo III. Puestos adscritos a unidades de oficinas judiciales situadas en localidades del Grupo 3 de población.
+
+– Tipo IV. Puestos adscritos a unidades de oficinas judiciales de los Grupos Primero y Segundo del artículo 78 del Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 1608/2005, no incluidos en los grupos de población anteriores.
+
+– Tipo V. Puestos adscritos a unidades de oficinas judiciales del Grupo Tercero del artículo 78 del Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 1608/2005.
+
+## Artículo 3. Escala de valoración del complemento general de puesto.
+
+La escala de valoración del complemento general de puesto se incluye en el anexo II de este real decreto. En la Ley de Presupuestos Generales del Estado se incluirá la cuantificación del complemento general de puesto que se actualizará en cada ejercicio de forma análoga al resto de retribuciones de funcionarios.
+
+## Artículo 4. Complementos específicos.
+
+1\. La asignación inicial de complementos específicos se fija en el anexo III de este real decreto refiriéndose el mismo a importes anuales, abonados en 12 pagas mensuales.
+
+2\. Asimismo, la clasificación de los distintos niveles retributivos de los puestos de Secretario de Gobierno, Secretario Coordinador Provincial y Letrados de la Administración de Justicia Directores de Servicios Comunes, es la establecida en el anexo IV del presente real decreto.
+
+3\. En el anexo V del presente real decreto se fijan las cantidades que, junto con las previstas en el apartado 1 de este artículo, integran el complemento específico, igualmente referido a importes anuales, abonados en 12 pagas mensuales que corresponderá a puestos de Letrados y Letradas de la Administración de Justicia adscritos a los servicios comunes y otros servicios no jurisdiccionales que tengan asociadas una especial peligrosidad, insularidad, localización fuera de la Península Ibérica o especial aislamiento.
+
+> Se modifican los apartados 2 y 3 por la disposición final 4.1 del Real Decreto 530/2025, de 24 de junio. [Ref. BOE-A-2025-12861](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12861)
+
+> Esta modificación produce efectos económicos en la forma indicada en la disposición final 5 del citado Real Decreto
+
+## Artículo 5. Retribuciones por sustituciones que implican el desempeño conjunto de otra función.
+
+**(Anulado)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que modificaba este artículo, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Redacción anterior:
+
+> "1. En concepto de sustitución que implique desempeño conjunto de las funciones, además de las que sea titular, se devengarán 287,17 euros mensuales por el Secretario Judicial que la realice.
+
+> 2\. Las sustituciones que no superen 10 días continuados y las motivadas por vacación retribuida, sea o no época de verano, no darán derecho al devengo de retribuciones por el concepto a que se refiere este apartado
+
+> 3\. Las retribuciones previstas en este artículo se devengarán previa certificación del órgano superior competente."
+
+> Se declara la nulidad del Real Decreto 101/2019, que modificaba este artículo, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se modifica por el art. 2.1 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Artículo 6. Programas de actuación por objetivos.
+
+**(Anulado)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía este artículo, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía este artículo, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 2.2 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional primera. Actualización de retribuciones.
+
+1\. Todas las cuantías fijadas en este real decreto, se actualizarán de acuerdo con los incrementos anuales que proceda aplicar a las retribuciones de los Secretarios Judiciales de acuerdo con lo establecido para el conjunto del sector público estatal en las leyes de Presupuestos Generales del Estado.
+
+2\. Los grupos de población previstos en el anexo I, podrán actualizarse por el Gobierno con las cifras de población resultantes de la revisión del padrón municipal declarado oficial por el Gobierno.
+
+## Disposición adicional segunda. Secretarios Judiciales destinados en el Ministerio de Justicia.
+
+Los secretarios judiciales destinados en el Ministerio de Justicia, de acuerdo con lo previsto en el artículo 25 de la Ley 38/1988, de 28 de diciembre, de demarcación y de planta judicial, percibirán en concepto de complemento general del puesto las retribuciones correspondientes al Tipo I del artículo 2 de este real decreto y en concepto de complemento específico las retribuciones que figuran en el anexo III. Las retribuciones básicas se fijarán de acuerdo a su categoría personal y podrán, asimismo, percibir retribuciones variables y gratificaciones en la cuantía y condiciones que establezca el Director General de Modernización de la Administración de Justicia, con los mismos requisitos y limitaciones que las establecidas en los artículos 7 y 9 del Real Decreto 1130/2003, de 5 de septiembre.
+
+## Disposición adicional tercera. Equiparación de los puestos tipo en las comunidades autónomas con competencias asumidas.
+
+La denominación de los puestos tipo a efectos de complemento específico que se realiza en el anexo III del presente real decreto, será asimilable a la que asignen las comunidades autónomas con competencias asumidas a los puestos tipo del Cuerpo de Secretarios Judiciales en sus correspondientes relaciones de puestos de trabajo.
+
+A tal fin el Ministerio de Justicia en el momento de la aprobación definitiva de las relaciones de puestos de trabajo que elaboren las comunidades autónomas con competencias asumidas, atendiendo al contenido funcional de cada puesto, determinará la equiparación, a efectos de complemento específico, de cada uno de los puestos asignados al Cuerpo de Secretarios Judiciales con el correlativo fijado en el presente real decreto.
+
+## Disposición adicional cuarta. Cláusula de limitación presupuestaria.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 2.3 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional quinta. Habilitación.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 2.4 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional sexta. Duración de las sustituciones.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 2.5 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición adicional séptima. Incremento del complemento específico.
+
+1\. Las cuantías del complemento específico de los Letrados de la Administración de Justicia a los que resulte de aplicación este real decreto se incrementarán en los siguientes importes respecto a las resultantes de la aplicación del segundo párrafo del artículo 28.tres.3.a) de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023:
+
+a) Secretarías de Gobierno, de Coordinación Provincial y direcciones de servicios comunes: 5.400 euros anuales.
+
+b) Puestos en servicios comunes, o con funciones en estos: 5.280 euros anuales
+
+c) Unidades procesales de apoyo directo y Letrados destinados en el Ministerio de Justicia: 5.160 euros anuales.
+
+2\. Este incremento tendrá carácter consolidable y no absorbible ni compensable por ningún otro concepto retributivo actual o que se pueda establecer en el futuro y se establece sin perjuicio de la subida que para cada ejercicio se determine en las correspondientes leyes de los presupuestos generales del Estado para los empleados públicos que, en todo caso, le serán de aplicación.
+
+> Se añade por el art. 2 del Real Decreto 774/2023, de 3 de octubre. [Ref. BOE-A-2023-20564](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20564)
+
+> Téngase en cuenta el régimen transitorio del incremento establecido en la disposición transitoria única del citado Real Decreto.
+
+## Disposición transitoria primera. Proceso de acoplamiento.
+
+Hasta tanto no se produzcan los procesos de acoplamiento y nombramiento de los Secretarios Judiciales, para desempeñar puestos de trabajo incluidos en las relaciones de puestos de trabajo aprobadas conforme al nuevo modelo de oficina judicial previsto en la Ley Orgánica 19/2003, de 23 de diciembre, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, continuarán vigentes las retribuciones complementarias previstas en el Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales.
+
+## Disposición transitoria segunda. Secretarios de Gobierno, Secretarios Coordinadores Provinciales y Secretarios Judiciales destinados en el Ministerio de Justicia.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera del presente real decreto, los puestos de Secretario de Gobierno, Secretario Coordinador Provincial y Secretarios Judiciales destinados en el Ministerio de Justicia de acuerdo con lo previsto en el artículo 25 de la Ley 38/1988, de 28 de diciembre, de demarcación y de planta judicial, se retribuirán conforme a lo previsto en el presente real decreto en el momento de su entrada en vigor.
+
+## Disposición transitoria tercera. Mantenimiento de las retribuciones complementarias.
+
+Si la confirmación o la adscripción con carácter no voluntario, consecuencia del proceso de acoplamiento previsto en la disposición transitoria cuarta de la Ley Orgánica 19/2003, de 23 de diciembre, del Poder Judicial, determinase una disminución de las retribuciones complementarias fijas, los funcionarios del Cuerpo de Secretarios Judiciales continuarán percibiendo éstas conforme al Real Decreto 1130/2003, en tanto no se produzca un cambio voluntario a un puesto de trabajo en el que el importe de las retribuciones complementarias fijas asignadas por el presente real decreto sea superior.
+
+## Disposición transitoria cuarta. Participación en productividad por planes concretos de actuación de Letrados de la Administración de Justicia a los que resulte de aplicación el Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales.
+
+**(Anulada)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía esta disposición, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 2.6 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)
+
+## Disposición derogatoria única. Derogación normativa
+
+Quedan derogadas las disposiciones que regulen retribuciones complementarias fijas del Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales, y sus modificaciones, así como todas aquellas disposiciones de igual o inferior rango que se opongan o contradigan lo previsto en este real decreto.
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta en uso del mandato conferido al Gobierno al amparo del artículo 149.1.5.ª de la Constitución Española que recoge la competencia exclusiva estatal en materia de Administración de Justicia.
+
+## Disposición final segunda. Desarrollo normativo.
+
+Mediante orden ministerial, a propuesta conjunta de los Ministros de Justicia y Economía y Hacienda, se regulará la documentación justificativa necesaria, en su caso, para la acreditación en nómina de los conceptos retributivos previstos en este real decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 30 de diciembre de 2009.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ANEXOS
+
+## Anexo I — Grupos de población a efectos del complemento general de puesto
+
+Grupo 1:
+
+Madrid.
+
+Barcelona.
+
+Grupo 2:
+
+Valencia.
+
+Sevilla.
+
+Zaragoza.
+
+Málaga.
+
+Murcia.
+
+Palmas de Gran Canaria (Las).
+
+Palma de Mallorca.
+
+Santa Cruz de Tenerife.
+
+Bilbao.
+
+Grupo 3:
+
+Valladolid.
+
+Córdoba.
+
+Vigo.
+
+Alicante/Alacant.
+
+Gijón.
+
+Hospitalet de Llobregat (L’).
+
+Granada.
+
+Coruña (A).
+
+Vitoria-Gasteiz.
+
+Badalona.
+
+Oviedo.
+
+Móstoles.
+
+Elche/Elx.
+
+Sabadell.
+
+Santander.
+
+Jerez de la Frontera.
+
+Pamplona/Iruña.
+
+Donostia-San Sebastián.
+
+Cartagena.
+
+Leganés.
+
+Fuenlabrada.
+
+Almería.
+
+Terrassa.
+
+Alcalá de Henares.
+
+Burgos.
+
+Salamanca.
+
+Albacete.
+
+Getafe.
+
+Cádiz.
+
+Alcorcón.
+
+Huelva.
+
+Logroño.
+
+Cáceres.
+
+Pontevedra.
+
+Santiago de Compostela.
+
+Castellón de la Plana / Castelló de la Plana.
+
+Badajoz.
+
+San Cristóbal de la Laguna
+
+León
+
+Grupo 4: Puestos adscritos a unidades de oficinas judiciales de los Grupos I y II del artículo 78 del Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 1608/2005, no incluidos en los grupos de población anteriores
+
+Grupo 5: Puestos adscritos a unidades de oficinas judiciales del Grupo III del artículo 78 del Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 1608/2005.
+
+## Anexo II — Escala de valoración del complemento general de puesto
+
+| Tipo | Escala<br> (unidades) |
+|---|---|
+| I | 1,7086 |
+| II | 1,4594 |
+| III | 1,3934 |
+| IV | 1,3829 |
+| V | 1,0000 |
+
+## ANEXO III — Asignación inicial de los complementos específicos
+
+Cuantías anuales
+
+<table>
+<thead>
+<tr>
+<th>Puestos de trabajo</th>
+<th>Niveles</th>
+<th>Asignación inicial del complemento específico (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5">Secretario de Gobierno.</td>
+<td>I</td>
+<td>33.433,44</td>
+</tr>
+<tr>
+<td>II</td>
+<td>31.742,40</td>
+</tr>
+<tr>
+<td>III</td>
+<td>30.051,24</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>26.668,80</td>
+</tr>
+<tr>
+<td>V</td>
+<td>25.400,16</td>
+</tr>
+<tr>
+<td rowspan="5">Secretario Coordinador Provincial.</td>
+<td>I</td>
+<td>29.205,60</td>
+</tr>
+<tr>
+<td>II</td>
+<td>25.400,16</td>
+</tr>
+<tr>
+<td>III</td>
+<td>24.132,00</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>21.595,20</td>
+</tr>
+<tr>
+<td>V</td>
+<td>19.903,56</td>
+</tr>
+<tr>
+<td rowspan="7">Letrado de la Administración de Justicia director de servicio común distinto al servicio común general cuando exista más de uno en el partido.</td>
+<td>I</td>
+<td>21.595,20</td>
+</tr>
+<tr>
+<td>II</td>
+<td>20.749,44</td>
+</tr>
+<tr>
+<td>III</td>
+<td>19.903,56</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>19.058,40</td>
+</tr>
+<tr>
+<td>V</td>
+<td>18.635,52</td>
+</tr>
+<tr>
+<td>VI</td>
+<td>17.789,88</td>
+</tr>
+<tr>
+<td>VII</td>
+<td>16.944,24</td>
+</tr>
+<tr>
+<td rowspan="7">Letrado de la Administración de Justicia, director de Servicio Común General.</td>
+<td>I</td>
+<td>20.749,44</td>
+</tr>
+<tr>
+<td>II</td>
+<td>19.903,56</td>
+</tr>
+<tr>
+<td>III</td>
+<td>19.058,40</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>18.635,52</td>
+</tr>
+<tr>
+<td>V</td>
+<td>17.789,88</td>
+</tr>
+<tr>
+<td>VI</td>
+<td>16.944,24</td>
+</tr>
+<tr>
+<td>VII</td>
+<td>16.098,84</td>
+</tr>
+<tr>
+<td rowspan="4">Letrado de la Administración de Justicia director de más de un servicio común.</td>
+<td>I</td>
+<td>20.749,44</td>
+</tr>
+<tr>
+<td>II</td>
+<td>19.903,56</td>
+</tr>
+<tr>
+<td>III</td>
+<td>19.058,40</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>18.635,52</td>
+</tr>
+<tr>
+<td rowspan="4">Letrado de la Administración de Justicia director de Servicio Común de Tramitación en partidos judiciales donde no existan otros servicios comunes.</td>
+<td>I</td>
+<td>17.789,88</td>
+</tr>
+<tr>
+<td>II</td>
+<td>16.944,24</td>
+</tr>
+<tr>
+<td>III</td>
+<td>16.098,84</td>
+</tr>
+<tr>
+<td>IV</td>
+<td>13.622,64</td>
+</tr>
+<tr>
+<td>Letrado de la Administración de Justicia, jefe de área/adjunto de servicio comunes distintos al general en el Tribunal Supremo.</td>
+<td> </td>
+<td>20.896,20</td>
+</tr>
+<tr>
+<td rowspan="3">Letrado de la Administración de Justicia, jefe de área/adjunto de servicios comunes distintos al general.</td>
+<td>I</td>
+<td>18.090,12</td>
+</tr>
+<tr>
+<td>II</td>
+<td>17.244,72</td>
+</tr>
+<tr>
+<td>III</td>
+<td>16.098,84</td>
+</tr>
+<tr>
+<td rowspan="2">Letrado de la Administración de Justicia, jefe de área/adjunto a la dirección del Servicio Común General.</td>
+<td>I</td>
+<td>17.667,48</td>
+</tr>
+<tr>
+<td>II</td>
+<td>15.500,04</td>
+</tr>
+<tr>
+<td>Letrado de la Administración de Justicia, jefe de equipo de servicio común distinto al general.</td>
+<td> </td>
+<td>17.244,72</td>
+</tr>
+<tr>
+<td>Letrado de la Administración de Justicia, jefe de equipo de Servicio Común General.</td>
+<td> </td>
+<td>16.821,84</td>
+</tr>
+<tr>
+<td>Letrado de la Administración de Justicia de servicio común Tribunal Supremo (sin jefatura).</td>
+<td> </td>
+<td>20.176,20</td>
+</tr>
+<tr>
+<td rowspan="2">Letrado de la Administración de Justicia de servicio común (sin jefatura).</td>
+<td>I</td>
+<td>16.480,68</td>
+</tr>
+<tr>
+<td>II</td>
+<td>13.622,64</td>
+</tr>
+</tbody>
+</table>
+
+Servicios no jurisdiccionales
+
+| Puestos de trabajo | Niveles | Asignación inicial del complemento específico (€) |
+|---|---|---|
+| Letrado Encargado del Registro Civil Exclusivo o Central. |  | 21.595,20 |
+| Letrado de la Administración de Justicia en el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. |  | 16.722,00 |
+
+> Se modifica por la disposición final 4.2 del Real Decreto 530/2025, de 24 de junio. [Ref. BOE-A-2025-12861](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12861)
+
+> Esta modificación produce efectos económicos en la forma indicada en la disposición final 5 del citado Real Decreto
+
+## Anexo IV — Clasificación de los puestos de trabajo
+
+1\. SECRETARIOS DE GOBIERNO.
+
+| Niveles | Número de Secretarios Judiciales dependientes del Secretario de Gobierno |
+|---|---|
+| I | Tribunal Supremo, Audiencia Nacional y Tribunales Superiores de Justicia de 400 o más Secretarios judiciales dependientes. |
+| II | Tribunales Superiores de Justicia de entre 200 y 399 Secretarios Judiciales dependientes |
+| III | Tribunales Superiores de Justicia de entre 100 y 199 Secretarios Judiciales dependientes. |
+| IV | Tribunales Superiores de Justicia de entre 50 y 99 Secretarios Judiciales dependientes. |
+| V | Hasta 49 Secretarios Judiciales dependientes. |
+
+2\. SECRETARIOS COORDINADORES.
+
+| Niveles | Número de Secretarios Judiciales dependientes del Secretario Coordinador Provincial |
+|---|---|
+| I | De 200 o más Secretarios Judiciales dependientes. |
+| II | De entre 90 y 199 Secretarios Judiciales dependientes. |
+| III | De entre 50 y 89 Secretarios Judiciales dependientes. |
+| IV | De entre 25 y 49 Secretarios Judiciales dependientes. |
+| V | Hasta 24 Secretarios Judiciales dependientes. |
+
+3\. LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA DIRECTORES DE SERVICIO COMÚN DISTINTO AL SERVICIO COMÚN DE TRAMITACIÓN ÚNICO.
+
+| Niveles | Número de plazas judiciales a las que presta servicio el Servicio Común distinto al Servicio Común de Tramitación Único |
+|---|---|
+| I | Tribunal Supremo, Audiencia Nacional, Tribunal Central de Instancia y servicios que a atiendan a 40 ó más. |
+| II | De 30 a 39. |
+| III | De 20 a 29. |
+| IV | De 10 a 19. |
+| V | De 9. |
+| VI | De 6 a 8. |
+| VII | Menos de 6. |
+
+4\. LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA DIRECTORES DE MÁS DE UN SERVICIO COMÚN.
+
+| Niveles | Número de plazas judiciales a las que presta servicio el Servicio Común de Tramitación |
+|---|---|
+| I | De 20 a 29. |
+| II | De 10 a 19. |
+| III | De 9. |
+| IV | Menos de 9. |
+
+5\. LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA DIRECTORES DE SERVICIO DE TRAMITACIÓN, CUANDO NO EXISTA OTRO SERVICIO COMÚN EN EL PARTIDO JUDICIAL.
+
+| Niveles | Número de plazas judiciales a las que presta servicio el Servicio Común de Tramitación |
+|---|---|
+| I | Más de 5. |
+| II | De 4 a 5. |
+| III | De 2 a 3. |
+| IV | 1. |
+
+6\. LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA JEFES DE ÁREA/ADJUNTOS A LA DIRECCIÓN DE SERVICIOS COMUNES DIFERENTES AL SERVICIO COMÚN GENERAL.
+
+| Niveles | Número de plazas judiciales a las que presta servicio un Servicio Común diferente al Servicio Común General |
+|---|---|
+| I | Más de 8. |
+| II | De 6 a 8. |
+| III | De 4 a 5. |
+
+7\. LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA JEFES DE ÁREA/ADJUNTOS A LA DIRECCIÓN DE SERVICIO COMÚN GENERAL.
+
+| Niveles | Número de plazas judiciales a las que presta servicio el Servicio Común General |
+|---|---|
+| I | Más de 8. |
+| II | De 4 a 8. |
+
+8\. LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA SIN JEFATURAS.
+
+| Niveles | Número de plazas judiciales a las que presta servicio el Servicio Común |
+|---|---|
+| I | Más de 8. |
+| II | De 8 o menos. |
+
+> Se modifican los apartados 3 y 4 y se añaden los apartados 5 al 8 por la disposición final 4.3 del Real Decreto 530/2025, de 24 de junio. [Ref. BOE-A-2025-12861](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12861)
+
+> Esta modificación produce efectos económicos en la forma indicada en la disposición final 5 del citado Real Decreto
+
+## Anexo V — Complemento específico: artículo 4.3. Cuantías anuales
+
+| Puestos de trabajo (ubicación geográfica) | Cuantías anuales<br> en euros |
+|---|---|
+| País Vasco y Navarra | 4.983,84 |
+| Gran Canaria y Tenerife | 5.354,52 |
+| Otras islas del archipiélago canario | 6.693,00 |
+| Mallorca | 1.103,16 |
+| Otras islas del archipiélago balear | 1.221,36 |
+| Valle de Arán | 1.004,88 |
+| Ceuta y Melilla | 10.577,76 |
+
+## Anexo VI — Cuantías máximas de las retribuciones por sustituciones: artículo 5.1 Cuantías anuales
+
+**(Anulado)**
+
+> Téngase en cuenta que se declara la nulidad del Real Decreto 101/2019, de 1 de marzo, que añadía este Anexo, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se declara la nulidad del Real Decreto 101/2019, que añadía este Anexo, por Sentencia del TS de 30 de octubre de 2019. [Ref. BOE-A-2019-16423](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-16423)
+
+> Se añade por el art. 2.7 del Real Decreto 101/2019, de 1 de marzo. [Ref. BOE-A-2019-3485](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3485)

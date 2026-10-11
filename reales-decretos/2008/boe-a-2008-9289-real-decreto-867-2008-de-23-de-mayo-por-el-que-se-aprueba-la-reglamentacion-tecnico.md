@@ -1,0 +1,2812 @@
+---
+title: "Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación"
+identifier: "BOE-A-2008-9289"
+eli: "https://www.boe.es/eli/es/rd/2008/05/23/867"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2008-05-23
+published: 2008-05-30
+in_force_from: 2008-06-01
+last_amended: 2014-03-15
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 131"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-9289"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación
+
+Téngase en cuenta que la materia objeto de este real decreto ha sido regulada por el Reglamento (UE) 609/2013, [Ref. DOUE-L-2013-81295](https://www.boe.es/buscar/doc.php?id=DOUE-L-2013-81295), y el Reglamento Delegado (UE) 2016/127. [Ref. DOUE-L-2016-80201](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80201)
+
+Incluye la corrección de errores publicada en BOE núm. 187, de 4 de agosto de 2009. [Ref. BOE-A-2009-12938](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12938).
+
+El Real Decreto 1809/1991, de 13 diciembre, por el que se modifica la reglamentación técnico-sanitaria para la elaboración, circulación y comercio de preparados para regímenes dietéticos y/o especiales, incorporó al ordenamiento jurídico interno las disposiciones de la Directiva 89/398/CEE del Consejo, de 3 de mayo de 1989, relativa a la aproximación de las legislaciones de los Estados Miembros sobre los productos alimenticios destinados a una alimentación especial. Esta enumeró en su anexo la relación de productos que precisarían ser regulados por normativa específica.
+
+En cumplimiento de la anterior previsión, la Comisión Europea adoptó la Directiva 91/321/CEE, de la Comisión, de 14 de mayo de 1991, relativa a los preparados para lactantes y preparados de continuación, que fue incorporada al ordenamiento jurídico interno mediante la adopción del Real Decreto 1408/1992, de 20 de noviembre, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y preparados de continuación. Ambos textos normativos fueron objeto de sucesivas modificaciones, estando constituida la normativa vigente por el Real Decreto 72/1998, de 23 de enero, que aprueba una nueva reglamentación técnico-sanitaria específica para los preparados para lactantes y preparados de continuación, que realizó una refundición de la normativa referida a esta materia. A su vez, este real decreto fue objeto de posteriores modificaciones.
+
+Con posterioridad, teniendo en cuenta los debates en foros internacionales, en particular el Codex Alimentarius, y el estado actual de los conocimientos sobre los preparados para lactantes y preparados de continuación la Comisión aprobó la Directiva 2006/141/CE de la Comisión, de 22 de diciembre de 2006, relativa a los preparados para lactantes y preparados de continuación, y por la que se modifica la Directiva 1999/21/CE, que supone la regulación «ex novo» de estos productos a nivel comunitario.
+
+La nueva directiva conlleva una serie de modificaciones sustanciales en aras de una mayor claridad. Entre las modificaciones introducidas en esta disposición debemos destacar, entre otras, las referidas al empleo de un único factor de conversión para el cálculo del contenido proteínico de los preparados para lactantes y los preparados de continuación, la definición de la composición básica de los preparados para lactantes y de los preparados de continuación fabricados a partir de proteínas contenidas en la leche de vaca y en la de soja o mezcladas, así como de los preparados para lactantes basados en hidrolizados de proteínas. Quedan fuera de esta regulación los elaborados a partir de otras fuentes proteicas. Asimismo, se establece el requisito de notificación de comercialización de los preparados para lactantes con el fin de facilitar el control oficial eficaz de estos productos.
+
+Por ello se hace necesario incorporar esta Directiva a nuestro ordenamiento jurídico interno mediante una nueva reglamentación técnico-sanitaria específica que regule las condiciones para la comercialización de este tipo de productos. La incorporación de la Directiva 2006/141/CE es parcial, ya que su artículo 16 se refiere a la normativa específica de los alimentos destinados a usos médicos especiales, por lo que su transposición se efectúa mediante otra disposición normativa.
+
+Este real decreto que, como posteriormente se indica, ha sido objeto de informe previo por las comunidades autónomas, se aprueba mediante norma reglamentaria atendiendo a que su objeto es de carácter marcadamente técnico, con tendencia a ser reiteradamente modificado y que resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básica. Por otra parte, debe tenerse en cuenta el hecho de que transpone una directiva comunitaria, con plazos de incorporación al derecho nacional muy breves. Estas razones aconsejan que la aprobación de las medidas que contiene no se realice mediante disposición legislativa.
+
+Este real decreto se dicta al amparo de lo dispuesto en los artículos 149.1.16.ª, de la Constitución española y de acuerdo con lo establecido en los artículos 40.2 y 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En la elaboración de esta disposición han sido oídos las comunidades autónomas, los sectores afectados y se ha emitido el preceptivo informe por la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo, de Economía y Hacienda, de Industria, Turismo y Comercio y de Medio Ambiente, y Medio Rural y Marino, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de mayo de 2008,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+La presente reglamentación tiene por finalidad definir lo que se entiende por preparados para lactantes y preparados de continuación destinados a los niños sanos y establecer los requisitos de composición, etiquetado y publicidad e información de los mismos.
+
+## Artículo 2. Definiciones.
+
+A efectos de la presente disposición se entenderá por:
+
+1\. Lactantes: los niños que tengan menos de doce meses.
+
+2\. Niños de corta edad: los niños entre uno y tres años de edad.
+
+3\. Preparados para lactantes: los productos alimenticios destinados a la alimentación especial de los lactantes durante los primeros meses de vida, que satisfagan por sí mismos las necesidades nutritivas de estos lactantes hasta la introducción de una alimentación complementaria apropiada.
+
+4\. Preparados de continuación: los productos alimenticios destinados a la alimentación especial de los lactantes cuando se introduzca una alimentación complementaria apropiada que constituyan el principal elemento líquido de una dieta progresivamente diversificada de estos lactantes.
+
+5\. Residuo de plaguicida: el residuo contenido en los preparados para lactantes y en los preparados de continuación procedente de un producto fitosanitario, incluidos sus metabolitos y productos resultantes de su degradación o reacción, definido en el artículo 2.2 del Real Decreto 2163/1994, de 4 de noviembre, por el que se implanta el sistema armonizado y comunitario de autorización para comercializar y utilizar productos fitosanitarios.
+
+6\. Declaración, declaración nutricional, declaración de propiedades saludables y declaración de reducción de riesgo de enfermedad: aquellas que aparecen definidas en el artículo 2.2.1, 4, 5 y 6 del Reglamento (CE) n.º 1924/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos.
+
+## Artículo 3. Elaboración y composición.
+
+1\. Los preparados para lactantes deberán cumplir las siguientes especificaciones:
+
+a) Se elaborarán, según el caso, a partir de las fuentes proteicas definidas en el punto 2 del anexo I de esta reglamentación y de otros ingredientes alimenticios cuya adecuación para la alimentación especial de los lactantes desde el nacimiento haya sido determinada mediante datos científicos generalmente aceptados. Dicha adecuación se demostrará mediante el análisis sistemático de los datos disponibles sobre los beneficios esperados y las consideraciones de seguridad y, en su caso, mediante estudios pertinentes, realizados según instrucciones especializadas y generalmente aceptadas sobre la elaboración y realización de este tipo de estudios.
+
+b) Deberán ajustarse a los criterios de composición especificados en el anexo I y las especificaciones del anexo V.
+
+c) En el caso de los preparados para lactantes elaborados a partir de las proteínas de leche de vaca o de cabra definidas en el punto 2.a) del anexo I con un contenido proteínico comprendido entre el mínimo y 0,5 g/100 kJ (2 g/100 kcal), la adecuación del preparado para la alimentación especial de los lactantes se demostrará mediante los estudios pertinentes, realizados según instrucciones especializadas generalmente admitidas sobre la elaboración y realización de este tipo de estudios.
+
+d) En el caso de los preparados para lactantes fabricados a partir de hidrolizados de proteínas definidas en el punto 2 b) del anexo I con un contenido proteínico comprendido entre el mínimo y 0,56 g/100 kJ (2,25 g/100 kcal), la adecuación del preparado para la alimentación especial de los lactantes se demostrará mediante estudios pertinentes, realizados según instrucciones especializadas generalmente admitidas sobre la elaboración y realización de este tipo de estudios, y será conforme a las especificaciones pertinentes establecidas en el anexo VI.
+
+2\. Los preparados de continuación deberán cumplir las siguientes especificaciones:
+
+a) Se elaborarán, según el caso, a partir de las fuentes proteicas definidas en el punto 2 del anexo II de esta reglamentación y de otros ingredientes alimenticios cuya adecuación para la alimentación especial de los lactantes de más de seis meses de edad haya sido determinada mediante datos científicos generalmente aceptados. Dicha adecuación se demostrará mediante el análisis sistemático de los datos disponibles sobre los beneficios esperados y las consideraciones de seguridad y, en su caso, mediante estudios pertinentes, realizados según instrucciones especializadas y generalmente aceptadas sobre la elaboración y realización de este tipo de estudios.
+
+b) Deberán ajustarse a los criterios de composición establecidos en el anexo II y las especificaciones del anexo V.
+
+c) En el caso de los preparados de continuación elaborados a partir de los hidrolizados de proteínas definidos en el punto 2.b) del anexo II con un contenido proteínico comprendido entre el mínimo y 0,56 g/100 kJ (2,25 g/100 kcal), la adecuación del preparado de continuación para la alimentación especial de los lactantes se demostrará mediante los estudios pertinentes, realizados según instrucciones especializadas generalmente admitidas sobre la elaboración y realización de este tipo de estudios, y será conforme a las especificaciones pertinentes establecidas en el anexo VI.
+
+> Se modifica el apartado 1.c) y se añade el 2.c) por el art. único.1 y 2 del Real Decreto 165/2014, de 14 de marzo. [Ref. BOE-A-2014-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2751).
+
+## Artículo 4. Prohibiciones y limitaciones generales.
+
+1\. Sólo podrán comercializarse los preparados para lactantes y los preparados de continuación que sean conformes a lo dispuesto en este real decreto. Ningún otro producto, que no sea un preparado para lactantes, podrá comercializarse ni presentarse como adecuado para satisfacer por sí mismo las necesidades nutricionales de los lactantes sanos, durante los primeros meses de vida hasta la introducción de una alimentación complementaria apropiada.
+
+2\. Además, los preparados para lactantes y preparados de continuación estarán sometidos a las siguientes prohibiciones y limitaciones:
+
+a) Sólo podrán ser comercializados si se ajustan a las definiciones y normas establecidas en esta reglamentación.
+
+b) Deberán respetarse en su elaboración y composición las prohibiciones y limitaciones sobre el empleo de ingredientes alimenticios establecidos en los anexos I y II.
+
+c) En su elaboración sólo podrán utilizarse las sustancias relacionadas en el anexo III, con el fin de satisfacer las necesidades de sustancias minerales, vitaminas, aminoácidos y otros compuestos nitrogenados y otras sustancias con fines nutritivos especiales. A las sustancias enumeradas en el anexo III se les aplicarán los criterios de pureza establecidos en la legislación comunitaria para la elaboración de alimentos distintos de los previstos en este real decreto. La fabricación de productos alimenticios para fines distintos de los previstos en la presente disposición, estará sujeta a los criterios de pureza de las sustancias que establece la legislación comunitaria sobre el uso de las sustancias enumeradas en el anexo III. En los casos de sustancias para los que la legislación comunitaria no prevea ningún criterio de pureza, se aplicarán los criterios de pureza generalmente aceptados que recomienden los organismos internacionales hasta que se adopten criterios a nivel comunitario. No obstante, podrán seguir aplicándose las normas nacionales que establezcan criterios de pureza más estrictos que los recomendados por los organismos internacionales.
+
+d) No contendrán ninguna sustancia en cantidad tal que ponga en peligro la salud de los lactantes y niños de corta edad.
+
+e) La preparación del producto listo para el consumo sólo deberá requerir, en su caso, la adición de agua.
+
+## Artículo 5. Limitaciones de uso de plaguicidas.
+
+1\. En los preparados para lactantes y preparados de continuación:
+
+a) Los preparados para lactantes y los preparados de continuación no contendrán residuos de plaguicidas en niveles superiores a los 0.01 mg/Kg de producto listo para el consumo o reconstituido conforme a las instrucciones del fabricante.
+
+Los métodos de determinación de los niveles de residuos de plaguicidas serán métodos normalizados generalmente aceptados.
+
+b) En lo que respecta a los plaguicidas enumerados en el anexo IX, serán aplicables los límites máximos para residuos de plaguicidas o de metabolitos de plaguicidas en los preparados para lactantes y preparados de continuación, especificados en él mismo y se aplicaran al producto listo para el consumo o reconstituido conforme a las instrucciones del fabricante.
+
+2\. En los productos agrícolas destinados a la elaboración de los preparados para lactantes y preparados de continuación:
+
+a) Los plaguicidas incluidos en el anexo VIII no se utilizarán en los productos agrícolas destinados a la elaboración de preparados para lactantes y preparados de continuación. No obstante, para fines de control:
+
+1.º Se considerará que no se han utilizado los plaguicidas enumerados en el cuadro 1 del anexo VIII si sus residuos no superan el nivel de 0.003 mg/Kg de producto listo para el consumo o reconstituido conforme a las instrucciones del fabricante. Este nivel, que se considera el umbral de cuantificación de los métodos analíticos, se revisará periódicamente a la luz de los avances técnicos.
+
+2.º Se considerará que no se han utilizado los plaguicidas enumerados en el cuadro 2 del anexo VIII si sus residuos no superan el nivel de 0.003 mg/Kg de producto listo para el consumo o reconstituido conforme a las instrucciones del fabricante. Este nivel, se revisará periódicamente a la luz de los datos sobre contaminación ambiental.
+
+## Artículo 6. Etiquetado común.
+
+1\. Los productos a que se refieren los apartados 3 y 4 del artículo 2 de esta reglamentación se comercializarán bajo las denominaciones de preparados para lactantes y preparados de continuación, respectivamente.
+
+Sin embargo, las denominaciones de los alimentos elaborados totalmente a partir de las proteínas procedentes de la leche de vaca o de cabra serán las siguientes: "leche para lactantes" y "leche de continuación".
+
+2\. El etiquetado de los productos a los que se refiere esta disposición deberá cumplir lo dispuesto en el Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios.
+
+3\. Los preparados para lactantes y los preparados de continuación se etiquetarán de tal manera que los consumidores puedan hacer una clara distinción entre ambos tipos de productos y se evite cualquier riesgo de confusión entre ellos.
+
+4\. En el etiquetado de los «preparados para lactantes» y «preparados de continuación» deberán figurar, además, los siguientes datos:
+
+a) El valor energético disponible, expresado en Kilojulios (kJ) y Kilocalorías (kcal) y el contenido en proteínas, hidratos de carbono y grasas, expresados en forma numérica, por cada 100 ml del producto listo para el consumo.
+
+b) La cantidad media de cada sustancia mineral y de cada vitamina mencionadas en el anexo I y en el anexo II, respectivamente, y, cuando proceda, de colina, inositol y carnitina, expresada en forma numérica por cada 100 ml del producto listo para el consumo.
+
+c) En el etiquetado de estos productos podrá figurar, además, la cantidad media de los nutrientes mencionados en el anexo III si tal indicación no está regulada por lo dispuesto en el apartado 4 párrafo b) de este artículo, expresada en forma numérica por cada 100 mililitros del producto listo para el consumo.
+
+d) El etiquetado deberá estar diseñado de forma que proporcione la información necesaria sobre el uso adecuado de los productos y no disuadirá la lactancia materna, quedando prohibida la utilización de los términos «humanizado», «maternizado», «adaptado» u otros similares.
+
+e) Las instrucciones relativas a la correcta preparación, almacenamiento y la eliminación del producto y una advertencia sobre los riesgos para la salud que resultan de una preparación y un almacenamiento inadecuados.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 165/2014, de 14 de marzo. [Ref. BOE-A-2014-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2751).
+
+## Artículo 7. Etiquetado específico de los preparados para lactantes.
+
+En el etiquetado de los preparados para lactantes deberán figurar, además, específicamente, los siguientes datos:
+
+a) Una indicación precisando que el producto es adecuado para la alimentación especial de lactantes desde el nacimiento, cuando no sean amamantados.
+
+b) Una indicación relativa a la superioridad de la lactancia materna y a que el producto ha de utilizarse únicamente por consejo de personas independientes cualificadas en medicina, nutrición o farmacia o de otros profesionales encargados de la asistencia materna e infantil, precedidas de la mención « Aviso importante» u otra equivalente.
+
+c) En el etiquetado no se incluirán imágenes de niños ni otras ilustraciones o textos que puedan idealizar el uso del producto. Sin embargo, podrán llevar representaciones gráficas que permitan una fácil identificación del producto e ilustren el método de preparación.
+
+d) En el etiquetado de estos preparados solo podrá llevar declaraciones nutricionales y de propiedades saludables en los casos enumerados en el anexo IV y con arreglo a las condiciones allí establecidas.
+
+## Artículo 8. Etiquetado específico de los preparados de continuación.
+
+En el etiquetado de los preparados de continuación deberán figurar, además, los siguientes datos:
+
+a) Una indicación precisando que el producto es adecuado únicamente para la alimentación especial de niños mayores de seis meses, que solo debe ser parte de una dieta diversificada, y que no debe utilizarse como sustitutivo de la leche materna, durante los primeros seis meses de vida y que la decisión de iniciar la alimentación complementaria, incluida cualquier excepción respecto a los seis meses de edad, debe adoptarse únicamente siguiendo el consejo de personas independientes, cualificadas en medicina, nutrición o farmacia o de otros profesionales encargados de la asistencia materna e infantil, basándose en las necesidades específicas de crecimiento y desarrollo del lactante en cuestión.
+
+b) En el etiquetado de estos productos podrá figurar, además de la información numérica, información sobre las vitaminas y minerales incluidos en el anexo VII, expresados como porcentaje de los valores de referencia allí indicados, por cada 100 ml del producto listo para el consumo,
+
+## Artículo 9. Presentación y publicidad.
+
+1\. La publicidad de los preparados para lactantes se limitará a las publicaciones especializadas en la asistencia infantil y a las publicaciones científicas.
+
+2\. Los anuncios de los preparados para lactantes cumplirán las condiciones establecidas en los artículos 6.4.d); 7.b); 7.c) y 7.d) y contendrán únicamente información objetiva de carácter científico.
+
+Tal información no deberá insinuar ni hacer creer que la alimentación con biberón es equivalente o superior a la lactancia materna.
+
+3\. Se prohíbe la publicidad en los lugares de venta, la distribución de muestras o el recurso a cualquier otro medio de propaganda, dirigido a fomentar las ventas de preparados para lactantes directamente al consumidor en los establecimientos minoristas, como exhibiciones especiales, cupones de descuento, primas, ventas especiales, ventas de promoción o ventas acopladas.
+
+4\. Se prohíbe a los fabricantes o distribuidores de preparados para lactantes proporcionar al público en general, a las mujeres embarazadas, madres o miembros de su familias, productos por debajo del precio de coste o por precio simbólico, muestras ni ningún otro obsequio de promoción, ya sea directa o indirectamente a través de los servicios sanitarios o del personal sanitario.
+
+5\. Los requisitos, prohibiciones y restricciones a los que se refieren los artículos 6.3, 6.4.d) y 7.a), 7.b), 7.c) y 7.d) serán aplicables también a:
+
+a) La presentación de los productos de que se trate, en particular, su forma, apariencia y envase, el material de envase utilizado, la forma en que estén dispuestos y el medio en que se exponen.
+
+b) La publicidad.
+
+## Artículo 10. Información.
+
+1\. Las Administraciones sanitarias velarán para que se suministre información objetiva y coherente sobre alimentación de lactantes y niños de corta edad a las familias y personas relacionadas con la nutrición de los mismos, en materia de planificación, suministro, concepción y difusión de información, así como de su control.
+
+2\. Las Administraciones sanitarias velarán para que el material informativo y educativo, escrito o audiovisual, relativo a la alimentación de los lactantes y destinado a las mujeres embarazadas y a las madres de lactantes y de niños de corta edad, incluya informaciones claras sobre los puntos siguientes:
+
+a) Ventajas y superioridad de la lactancia materna.
+
+b) Nutrición materna y forma de prepararse para la lactancia materna.
+
+c) Posible efecto negativo de la alimentación parcial con biberón sobre la lactancia materna.
+
+d) Dificultad de rectificar la decisión de no amamantar.
+
+e) En su caso, el empleo adecuado de los preparados para lactantes.
+
+Cuando dichos materiales contengan informaciones sobre el empleo de preparados para lactantes incluirán las consecuencias sociales y financieras de su empleo; los riesgos para la salud derivados de alimentos inadecuados o de métodos de alimentación y, en particular, los riesgos para la salud derivados del inadecuado empleo de los preparados para lactantes. Tales materiales no utilizarán ninguna imagen que pueda idealizar el empleo de los preparados para lactantes.
+
+## Artículo 11. Donaciones.
+
+1\. Las Administraciones sanitarias velarán para que las donaciones de equipos o material informativo o educativo por parte de fabricantes o distribuidores sólo se efectúe a instancia y previa aprobación escrita de las citadas Administraciones. Tales equipos o materiales podrán llevar el nombre o el distintivo de la empresa donante, pero no deberán hacer referencia alguna a marca específica de preparados para lactantes y se distribuirán únicamente a través de los servicios sanitarios.
+
+2\. Las Administraciones sanitarias velarán para que las donaciones o ventas a bajo precio, de partidas de preparados para lactantes a instituciones u organizaciones, para su utilización en éstas o para su distribución fuera de ellas, sólo se destinen o distribuyan a lactantes que hayan de ser alimentados con estos preparados y únicamente durante el periodo que dichos lactantes lo requieran.
+
+## Artículo 12. Distribución y comercialización.
+
+Los preparados para lactantes y preparados de continuación, a los que se refiere la presente reglamentación técnico-sanitaria específica, se distribuirán y comercializarán en todo el territorio español, en sus envases de origen, a través de las oficinas de farmacia y de los canales del comercio minorista de alimentación.
+
+## Artículo 13. Información sobre comercialización de los productos.
+
+1\. Para facilitar un control eficaz de los preparados para lactantes, el responsable de la comercialización en España del producto deberá notificar su puesta en el mercado nacional a las autoridades competentes enviándoles un ejemplar de la etiqueta con carácter previo o simultáneo a la primera puesta en el mercado.
+
+Dicha notificación obligatoria deberá ser realizada por el fabricante o el responsable de la primera puesta en el mercado nacional, o el importador, en el caso de terceros países.
+
+2\. A efectos de lo dispuesto en el apartado anterior:
+
+a) La notificación de la puesta en el mercado nacional de los preparados para lactantes, de fabricación nacional o procedente de países pertenecientes a la Unión Europea, se presentará y será examinada por los órganos de la comunidad autónoma competente por razón del domicilio social del fabricante o del responsable de la primera puesta en dicho mercado. Las comunidades autónomas comunicarán a la Agencia Española de Seguridad Alimentaria y Nutrición para su conocimiento las notificaciones que reciban.
+
+b) Se presentarán ante la Agencia Española de Seguridad Alimentaria y Nutrición, para su examen directamente o por cualquiera de los medios previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimientos Administrativo Común, las notificaciones de los preparados para lactantes cuando, aun procediendo de países pertenecientes a la Unión Europea, el responsable no tenga establecido su domicilio social en España, o cuando procedan de terceros países.
+
+3\. A los productos regulados por la presente reglamentación no les será de aplicación lo dispuesto en los artículos 4 y 5 del Real Decreto 1712/1991, de 29 de noviembre, sobre Registro General Sanitario de Alimentos.
+
+## Artículo 14. Productos procedentes de terceros países.
+
+Los productos a que se refiere esta disposición y que procedan de terceros países deberán cumplir para su comercialización en España, los requisitos establecidos en este real decreto.
+
+## Artículo 15. Régimen sancionador.
+
+1\. Sin perjuicio de otras disposiciones que pudieran resultar de aplicación, el incumplimiento de lo establecido en este real decreto podrá ser objeto de sanción administrativa, previa la instrucción del oportuno expediente administrativo, de conformidad con lo previsto en el capítulo VI, del Título I, de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+2\. En particular, el incumplimiento de los preceptos referidos a etiquetado, información y publicidad de los productos contemplados en esta reglamentación técnico-sanitaria, tendrán la consideración de una infracción grave, de acuerdo con lo dispuesto en el artículo 35.B).1.º, de la Ley 14/1986, de 25 de abril.
+
+3\. Asimismo, el incumplimiento de los preceptos referidos a la comercialización de los productos objeto de esta reglamentación, que no sigan los criterios de composición especificados en los artículos 3 y 4, en relación con los anexos I, II y III, tendrán la consideración de una infracción muy grave, de acuerdo con lo establecido en el artículo 35.C).1.º de la Ley 14/1986, de 25 de abril.
+
+## Disposición adicional única. Condiciones comunitarias de seguridad e higiene.
+
+Los preparados para lactantes y preparados de continuación y los operadores de las empresas alimentarias cumplirán lo dispuesto en el Reglamento (CE) n.º 178/2002, del Parlamento Europeo y del Consejo, de 28 de enero de 2002 por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria, y lo dispuesto en el Reglamento (CE) n.º 852/2004, de 29 de abril de 2004, del Parlamento Europeo y del Consejo, relativo a la higiene de los productos alimenticios y el Reglamento (CE) n.º 853/2004, de 29 de abril de 2004, del Parlamento Europeo y del Consejo, por el que se establecen normas específicas para la organización de controles oficiales de los productos de origen animal destinados al consumo humano y el Reglamento (CE) n.º 2073/2005 de la Comisión, de 15 de noviembre de 2005, relativo a los criterios microbiológicos aplicables a los productos alimenticios, así como los criterios microbiológicos establecidos en el Real Decreto 2685/1976, de 16 de octubre, por el que se aprueba la reglamentación técnico-sanitaria para la elaboración, circulación y comercio de los preparados alimenticios para regímenes dietéticos y/o especiales y cualquier otra disposición que regule la inocuidad de este tipo de alimento o de alguno de sus ingredientes.
+
+## Disposición transitoria primera. Prórroga de comercialización.
+
+Los productos alimenticios a los que se refiere este real decreto, que no se ajusten a lo en él establecido, pero que cumplen lo dispuesto en la normativa vigente en la fecha de su entrada en vigor, podrán ser comercializados hasta el 30 de diciembre de 2009.
+
+## Disposición transitoria segunda. Prórroga de comercialización de los alimentos dietéticos destinados a usos medicinales especiales destinados a los lactantes.
+
+Los nuevos requisitos de composición establecidos en los anexos I y II de este real decreto, no se aplicarán obligatoriamente a los alimentos dietéticos destinados a usos médicos especiales elaborados específicamente para lactantes hasta el 1 de enero de 2012.
+
+## Disposición derogatoria única. Disposiciones que se derogan.
+
+Queda derogado el Real Decreto 72/1998, de 23 de enero, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y preparados de continuación, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+## Disposición final primera. Título competencial.
+
+Lo dispuesto en este real decreto, que será de aplicación en todo el territorio nacional, se dicta al amparo de lo establecido en el artículo 149.1.16.ª de la Constitución Española.
+
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorpora al derecho español la Directiva 2006/141/CE de la Comisión, de 22 de diciembre de 2006, relativa a los preparados para lactantes y preparados de continuación, y se actualiza la transposición de la Directiva 1999/21/CE, modificada por aquella, a excepción de lo establecido en el artículo 16 de la misma.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 23 de mayo de 2008.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA Y SANZ
+
+## ANEXO I — COMPOSICIÓN BÁSICA DE LOS PREPARADOS PARA LACTANTES CUANDO SE RECONSTITUYEN DE ACUERDO CON LAS INSTRUCCIONES DEL FABRICANTE
+
+Los valores indicados se refieren al producto final listo para el consumo, comercializado tal cual o reconstituido según las instrucciones del fabricante.
+
+1\. Energía.
+
+Mínimo: 250 kJ/100 ml (60 kcal/100ml).
+
+Máximo 295 kJ/100 ml (70 kcal/100 ml).
+
+2\. Proteínas.
+
+(Contenido en proteínas = contenido en nitrógeno x 6,25).
+
+a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de la leche de vaca o de cabra.
+
+Mínimo<sup>1</sup>: 0,45 g/100 kJ (1,8 g/100 kcal)
+
+Máximo 0,7 g/100 kJ (3 g/100 kcal)
+
+Para un valor energético equivalente, el preparado para lactante contendrá una cantidad disponible de cada uno de los aminoácidos esenciales y semiesenciales igual por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina: cistina no es superior a 2, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2. La relación metionina:cistina puede ser superior a 2, pero no superior a 3, a condición de que se haya demostrado la adecuación del preparado para la alimentación especial de los lactantes mediante estudios pertinentes, realizados según instrucciones especializadas generalmente admitidas sobre la elaboración y realización de este tipo de estudios.
+
+b) Preparados para lactantes elaborados a partir de hidrolizados de proteínas.
+
+Mínimo<sup>2</sup>: 0,45 g/100 kJ (1,8 g/100 kcal).
+
+Máximo: 0,7 g/100 kJ (3 g/100 kcal).
+
+Para un valor energético equivalente, los preparados deberán contener una cantidad disponible de cada uno de los aminoácidos esenciales y semiesenciales igual por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina: cistina no es superior a 2, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2. La relación metionina:cistina puede ser superior a 2, pero no superior a 3, a condición de que se haya demostrado la adecuación del preparado para la alimentación especial de los lactantes mediante estudios pertinentes, realizados según instrucciones especializa-das generalmente admitidas sobre la elaboración y realización de este tipo de estudios.
+
+El contenido en L-carnitina deberá ser por lo menos igual a 0,3 mg/100 kJ (1,2 mg/100 kcal).
+
+1 Los preparados para lactantes elaborados a partir de proteínas obtenidas de la leche de vaca o de cabra con un contenido proteínico comprendido entre el mínimo y 0,5 g/100 kJ (2 g/100 kcal) serán conformes a lo dispuesto en el apartado c) del artículo 3.1.
+
+2 Los preparados para lactantes elaborados a partir de hidrolizados de proteínas con un contenido proteínico comprendido entre el mínimo y 0,56 g/100 kJ (2,25 g/100 kcal) serán conformes a lo dispuesto en el d) del artículo 3.1.
+
+c) Preparados para lactantes elaborados a partir de aislados de proteínas de soja únicamente o de una mezcla con proteínas de la leche de vaca o de cabra.
+
+Mínimo: 0,56 g/100 kJ (2,25 g /100 kcal).
+
+Máximo: 0,7 g/100 kJ (3 g/100 kcal).
+
+Se utilizarán únicamente aislados de proteínas de soja en la elaboración de estos preparados para lactantes.
+
+Para un valor energético equivalente, el preparado para lactantes contendrá una cantidad disponible de cada aminoácido esenciales y semiesenciales equivalente por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina: cistina no es superior a 2, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2. La relación metionina:cistina puede ser superior a 2, pero no superior a 3, a condición de que se haya demostrado la adecuación del preparado para la alimentación especial de los lactantes mediante estudios pertinentes, realizados según instrucciones especializa-das generalmente admitidas sobre la elaboración y realización de este tipo de estudios.
+
+El contenido en L-carnitina será por lo menos equivalente a 0,3 mg/100 kJ (1,2 mg/100 kcal).
+
+d) En todos los casos, solo podrán añadirse aminoácidos a los preparados para lactantes para mejorar el valor nutritivo de las proteínas y, únicamente, en la proporción necesaria para ese fin.
+
+3\. Taurina.
+
+Si se añade taurina a preparados para lactantes, la cantidad añadida no superará 2,9 mg/100 kJ (12 mg/100 kcal).
+
+4\. Colina.
+
+Mínimo: 1,7 mg/100 kJ (7 mg /100 kcal).
+
+Máximo: 12 mg/100 kJ (50 mg/100 kcal).
+
+5\. Grasas.
+
+Mínimo: 1,05 g/100 kJ (4,4 g /100 kcal).
+
+Máximo: 1,4 g/100 kJ (6,0 g/100 kcal).
+
+a) Queda prohibida la utilización de las siguientes sustancias:
+
+– aceite de sésamo.
+
+– aceite de algodón.
+
+b) Ácido láurico y ácido mirístico.
+
+Mínimo: –
+
+Máximo: por separado o en conjunto. 20% del contenido total en materia grasa.
+
+c) El contenido en ácidos grasos trans no será superior al 3% del contenido total en materia grasa.
+
+d) El contenido en ácido erúcico no será superior al 1% del contenido total en materia grasa.
+
+e) Ácido linoléico (en forma de glicéridos = linoleatos).
+
+Mínimo: 70 mg/100 kJ (300 mg /100 kcal).
+
+Máximo: 285 mg/100 kJ (1200 mg/100 kcal).
+
+f) El contenido en ácido alfa-linolénico no será inferior a 12 mg/100 kJ (50 mg/100 kcal).
+
+La proporción entre los ácidos linoléico y alfa-linolénico no será inferior a 5 ni superior a 15.
+
+g) Podrán añadirse ácidos grasos poliinsaturados de cadena larga (20 y 22 átomos de carbono) (PCL). En tal caso, su contenido no será superior a:
+
+– 1 % del contenido total en materia grasa para los PCL n-3, ni
+
+– 2 % del contenido total en materia grasa para los PCL n-6 [1 % del contenido total en materia grasa para el ácido araquidónico (20:4 n-6)].
+
+El contenido en ácido eicosapentaenoico (20:5 n-3) no será superior al contenido en ácido docosahexaenoico (22:6 n-3).
+
+El contenido en ácido docosahexaenoico (22:6 n-3) no excederá del de los PCL n-6.
+
+6\. Fosfolípidos.
+
+La cantidad de fosfolípidos en los preparados para lactantes no excederá de 2 g/l.
+
+7\. Inositol.
+
+Mínimo: 1 mg/100 kJ (4 mg /100 kcal).
+
+Máximo: 10 mg/100 kJ (40 mg/100 kcal).
+
+8\. Hidratos de carbono.
+
+Mínimo: 2,2 g/100 kJ (9 g /100 kcal).
+
+Máximo: 3,4 g/100 kJ (14 g/100 kcal).
+
+a) Sólo podrán utilizarse los hidratos de carbono siguientes:
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>– lactosa</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>– maltosa</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>– sacarosa</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>– glucosa</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>– malto-dextrina</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>– jarabe de glucosa o jarabe de glucosa deshidratado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– almidón pretostado</p>
+</td>
+<td rowspan="2">
+<p>}</p>
+</td>
+<td rowspan="2">
+<p>originariamente sin gluten</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– almidón gelatinizado</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+b) Lactosa:
+
+Mínimo: 1,1 g/100 kJ (4,5 g /100 kcal)
+
+Máximo: –
+
+Esta disposición no será aplicable a los preparados para lactantes en los que los aislados de proteínas de soja supongan más del 50% del total del contenido en proteínas.
+
+c) Sacarosa:
+
+Solo se podrá añadir sacarosa a los preparados par lactantes fabricados a partir de hidrolizados de proteínas. Si se añade, su contenido no excederá del 20 % del contenido total de hidratos de carbono.
+
+d) Glucosa:
+
+Solo se podrá añadir glucosa a los preparados para lactantes fabricados a partir de hidrolizados de proteínas. Si se añade, su contenido no excederá de 0,5 g/100 kJ (2 g/100 kcal).
+
+e) Almidón pretostado o almidón gelatinizado:
+
+Mínimo: –
+
+Máximo: 2 g/100 ml y 30% del contenido total de hidratos de carbono.
+
+9\. Fructooligosacáridos y galactooligosacáridos.
+
+Podrán añadirse fructooligosacáridos y galactooligosacáridos a los preparados para lactantes. En ese caso su contenido no será superior a 0,8 g/100 ml según un combinación de 90% de oligogalactosil lactosa y 10 % de oligofructosil sacarosa de elevado peso molecular.
+
+Podrán utilizarse diferentes combinaciones y nivele máximos de fructooligosacáridos y galactooligosacáridos, de conformidad con el apartado 1.a) del artículo 3.
+
+10\. Sustancias minerales
+
+a) Preparados para lactantes elaborados a partir de las proteínas obtenidas de la leche de vaca o de cabra o de hidrolizados de proteínas.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sodio (mg)</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potasio (mg)</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloro (mg)</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calcio (mg)</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fósforo (mg)</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Magnesio (mg)</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>3,6</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hierro (mg)</p>
+</td>
+<td>
+<p>0,07</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>1,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zinc (mg)</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,36</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cobre (µg).</p>
+</td>
+<td>
+<p>8,4</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Yodo (µg)</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Selenio (µg)</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manganeso (µg)</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Flúor (µg)</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+La relación calcio: fósforo no será inferior a 1 ni superior a 2.
+
+b) Preparados para lactantes elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca o de cabra.
+
+Serán aplicables todos los requisitos del punto 10.a), excepto para el hierro y el fósforo, en cuyos casos se aplicarán los siguientes:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hierro (mg)</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,45</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fósforo (mg)</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+11\. Vitaminas.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina A (μg-ER) (<sup>1</sup>).</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina D (μg) (<sup>2</sup>).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,65</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiamina (μg).</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riboflavina (μg).</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Niacina (μg) (<sup>3</sup>).</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>375</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido pantoténico (μg).</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>475</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>6</sub> (μg).</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biotina (μg).</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido fólico (μg).</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>12</sub> (μg).</p>
+</td>
+<td>
+<p>0,025</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina C (μg).</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina K (μg).</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina E (mg α-ET) (<sup>4</sup>).</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, corregido en función de los dobles enlaces (<sup>5</sup>), pero en ningún caso inferior a 0,1 mg por 100 kJ disponibles</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos oliinsaturados expresados como ácido linoleico, corregido en función de los dobles enlaces (<sup>5</sup>), pero en ningún caso inferior a 0,5 mg por 100 kcal disponibles</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(<sup>1</sup>) ER = todo equivalente de trans retinol.
+
+(<sup>2</sup>) En forma de colecalciferol, del que 10 μg = 400 U.I. de vitamina D.
+
+(<sup>3</sup>) Niacina preformada.
+
+(<sup>4</sup>) α-ET = equivalente de D-α-tocoferol.
+
+(<sup>5</sup>) 0,5 mg de α-ET/g de ácido linoleico (18:2 n-6); 0,75 mg de α-ET/g de α-ácido linolénico (18:3 n-3); 1,0 mg de α-ET/g de ácido araquidónico (20:4 n-6); 1,25 mg de α-ET/g de ácido elcosapentaenoico (20:5 n-3); 1,5 mg de α-ET/g de ácido docosahexaenoico (22:6 n-3)
+
+12\. Nucleótidos.
+
+Se podrán añadir los nucleótidos siguientes:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Máximo (1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(mg/100 kJ)</p>
+</td>
+<td>
+<p>(mg/100 kcal)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>citidina 5’- monofosfato.</p>
+</td>
+<td>
+<p>0,60</p>
+</td>
+<td>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uridina 5’- monofosfato.</p>
+</td>
+<td>
+<p>0,42</p>
+</td>
+<td>
+<p>1,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>adenosina 5’- monofosfato.</p>
+</td>
+<td>
+<p>0,36</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>guanosina 5’- monofosfato.</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>inosina 5’- monofosfato.</p>
+</td>
+<td>
+<p>0,24</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) La concentración total de nucleótidos no será superior a 1,2 mg/100 kJ (5 mg/100 kcal).
+
+> Se modifica por el art. único.4 del Real Decreto 165/2014, de 14 de marzo. [Ref. BOE-A-2014-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2751).
+
+## ANEXO II — COMPOSICIÓN BÁSICA DE LOS PREPARADOS DE CONTINUACIÓN CUANDO SE RECOSTITUYEN SEGÚN LAS INSTRUCCIONES DEL FABRICANTE
+
+Los valores indicados se refieren al producto final listo para el consumo, comercializado tal cual o reconstituido según las instrucciones del fabricante.
+
+1\. Energía.
+
+Mínimo: 250 kJ/100 ml (60 kcal /100 ml).
+
+Máximo: 295 kJ/100 ml (70 kcal/100 ml).
+
+2\. Proteínas.
+
+(Contenido en proteínas = contenido en nitrógeno × 6,25).
+
+a) Preparados elaborados a partir de proteínas obtenidas de la leche de vaca o de cabra.
+
+Mínimo: 0,45 g/100 kJ (1,8 g /100 kcal).
+
+Máximo: 0.8 g/100 kJ (3,5 g/100 kcal).
+
+Para un valor energético igual, los preparados de continuación deberán contener una cantidad disponible de cada uno de los aminoácidos esenciales y semiesenciales equivalente por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina:cistina no es superior a 3, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2.
+
+b) Preparados elaborados a partir de hidrolizados de proteínas:
+
+Mínimo<sup>1</sup>: 0,45 g/100 kJ (1,8 g/100 kcal).
+
+Máximo: 0.8 g/100 kJ (3,5 g/100 kcal).
+
+Para un valor energético igual, los preparados de continuación deberán contener una cantidad disponible de cada uno de los aminoácidos esenciales y semiesenciales equivalente por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina:cistina no es superior a 3, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2.
+
+(1) Los preparados de continuación elaborados a partir de hidrolizados de proteínas con un contenido proteínico comprendido entre el mínimo y 0,56 g/100 kJ (2,25 g/100 kcal) serán conformes a lo dispuesto en el apartado c) del artículo 3.2.
+
+c) Preparados elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca o de cabra.
+
+Mínimo: 0,56 g/100 kJ (2,25 g /100 kcal).
+
+Máximo: 0.8 g/100 kJ (3,5 g/100 kcal).
+
+Se utilizarán únicamente aislados de proteínas de soja en la elaboración de estos preparados.
+
+Para un valor energético igual, los preparados deberán contener una cantidad disponible de cada uno de los aminoácidos esenciales y semiesenciales equivalente por lo menos a la contenida en la proteína de referencia (leche materna, tal y como se define en el anexo V). No obstante, a efectos de cálculo, podrán sumarse las concentraciones de metionina y de cistina si la relación metionina:cistina no es superior a 3, así como las concentraciones de fenilalanina y tirosina, si la relación tirosina:fenilalanina no es superior a 2.
+
+d) En cualquier caso, solo podrán añadirse aminoácidos a los preparados de continuación con el fin de aumentar el valor nutritivo de las proteínas y siempre en la proporción necesaria para tal fin.
+
+3\. Taurina.
+
+Si se añade taurina a preparados de continuación, la cantidad añadida no superará 2,9 mg/100 kJ (12 mg/100 kcal).
+
+4\. Grasas.
+
+Mínimo: 0,96 g/100 kJ (4,0 g /100 kcal).
+
+Máximo: 1,4 g/100 kJ (6,0 g/100 kcal).
+
+a) Queda prohibida la utilización de las siguientes sustancias:
+
+– aceite de sésamo.
+
+– aceite de algodón.
+
+b) Ácido láurico y ácido mirístico:
+
+Mínimo: –.
+
+Máximo: por separado o en conjunto 20% del contenido total en materia grasa.
+
+c) El contenido en ácidos grasos trans no será superior al 3% del contenido total en materia grasa.
+
+d) El contenido en ácido erúcico no será superior al 1% del contenido total en materia grasa.
+
+e) Acido linoleico (en forma de glicéridos = linoleatos):
+
+Mínimo: 70 mg/100 kJ (300 mg /100 kcal).
+
+Máximo: 285 mg/100 kJ (1200 mg/100 kcal).
+
+f) El contenido en ácido alfa-linolénico no será inferior a 12 mg/100 kJ (50 mg/100 kcal).
+
+La proporción entre los ácidos linoleico y alfa-linolénico no será inferior a 5 ni superior a 15.
+
+g) Podrán añadirse ácidos grasos poliinsaturados de cadena larga (20 y 22 átomos de carbono) (PCL). En ese caso, su contenido no será superior:
+
+– al 1 % del contenido total en materia grasa para los PCL n-3, ni
+
+– al 2 % del contenido total en materia grasa para los PCL n-6 [1 % del contenido total en materia grasa para el ácido araquidónico (20:4 n-6)].
+
+El contenido en ácido eicosapentaenoico (20:5 n-3) no será superior al contenido en ácido docosahexaenoico (22:6 n-3).
+
+El contenido en ácido docosahexaenoico (22:6 n-3) no excederá del de los PCL n-6.
+
+5\. Fosfolípidos.
+
+La cantidad de fosfolípidos en los preparados de continuación no excederá de 2 g/l.
+
+6\. Hidratos de carbono.
+
+Mínimo: 2,2 g/100 kJ (9 g /100 kcal).
+
+Máximo: 3,4 g/100 kJ (14 g/100 kcal).
+
+a) Queda prohibida la utilización de ingredientes que contengan gluten.
+
+b) Lactosa:
+
+Mínimo: 1,1 g/100 kJ (4,5 g /100 kcal).
+
+Máximo: -.
+
+Esta disposición no será aplicable a los preparados de continuación en los que las proteínas de soja supongan más del 50% del contenido de proteínas.
+
+c) Sacarosa, fructuosa, miel.
+
+Mínimo: -.
+
+Máximo: por separado o en conjunto 20% del contenido total de hidratos de carbono.
+
+Se tratará la miel para destruir las esporas Clostridium botulinum.
+
+d) Glucosa:
+
+Solo se podrá añadir glucosa a los preparados de continuación a partir de hidrolizados de proteínas. Si se añade, su contenido no excederá de 0,5 g/100 kJ (2 g/100 kcal).
+
+7\. Fructooligosacáridos y galactooligosacáridos.
+
+Podrán añadirse fructooligosacáridos y galactooligosacáridos a los preparados de continuación. En ese caso, su contenido no será superior a 0,8 g/100 ml según una combinación de 90 % de oligogalactosil lactosa y 10 % de oligofructosil sacarosa de elevado peso molecular.
+
+Podrán utilizarse diferentes combinaciones y niveles máximos de fructooligosacáridos y galactooligosacáridos, de conformidad con el apartado 2.a) del artículo 3.
+
+8\. Sustancias minerales.
+
+a) Preparados de continuación elaborados a partir de las proteínas de la leche de vaca o de cabra o de hidrolizados de proteínas
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sodio (mg).</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potasio (mg).</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloro (mg).</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>38</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>160</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calcio (mg).</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>33</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>140</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fósforo (mg).</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Magnesio (mg).</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>3,6</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hierro (mg).</p>
+</td>
+<td>
+<p>0,14</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zinc (mg).</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,36</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cobre (μg).</p>
+</td>
+<td>
+<p>8,4</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Yodo (μg).</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Selenio (μg).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>2,2</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>9</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manganeso (μg).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Flúor (μg).</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+La relación calcio:fósforo en los preparados de continuación no será inferior a 1 ni superior a 2.
+
+b) Preparados de continuación elaborados a partir de aislados de proteínas de soja solos o mezclados con proteínas de la leche de vaca o de cabra.
+
+Se aplicarán todos los requisitos del punto 8.a) salvo para el hierro y el fósforo, en cuyos casos serán los siguientes:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hierro (mg).</p>
+</td>
+<td>
+<p>0,22</p>
+</td>
+<td>
+<p>0,65</p>
+</td>
+<td>
+<p>0,9</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fósforo (mg).</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+9\. Vitaminas.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina A (μg-ER) (<sup>1</sup>).</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina D (μg) (<sup>2</sup>).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiamina (μg).</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>300</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riboflavina (μg).</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>400</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Niacina (μg) (<sup>3</sup>).</p>
+</td>
+<td>
+<p>72</p>
+</td>
+<td>
+<p>375</p>
+</td>
+<td>
+<p>300</p>
+</td>
+<td>
+<p>1.500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido pantoténico (μg).</p>
+</td>
+<td>
+<p>95</p>
+</td>
+<td>
+<p>475</p>
+</td>
+<td>
+<p>400</p>
+</td>
+<td>
+<p>2.000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>6</sub> (μg).</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biotina (μg).</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido fólico (μg).</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>12</sub> (μg).</p>
+</td>
+<td>
+<p>0,025</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina C (mg).</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina K (μg).</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina E (mg α-ET) (<sup>4</sup>).</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, corregido en función de los dobles enlaces (<sup>5</sup>), pero en ningún caso inferior a 0,1 mg por 100 kJ disponibles.</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, corregido en función de los dobles enlaces (<sup>5</sup>), pero en ningún caso inferior a 0,5 mg por 100 kcal disponibles.</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(<sup>1</sup>) ER = todo equivalente de trans retinol.
+
+(<sup>2</sup>) En forma de colecalciferol, del que 10 g = 400 U.I. de vitamina D.
+
+(<sup>3</sup>) Niacina preformada.
+
+(<sup>4</sup>) α-ET = equivalente de D-α-tocoferol.
+
+(<sup>5</sup>) 0,5 mg de α-ET/g de ácido linoleico (18:2n-6); 0,75 mg de α-ET/g de α-ácido linolénico (18:3 n-3); 1,0 mg de α-ET/g de ácido araquidónico (20:4 n-6); 1,25 mg de α-ET/g de ácido eicosapentaenoico (20:5 n-3); 1,5 mg de α-ET/g de ácidodocosahexaenoico (22:6 n-3).
+
+10\. Nucleótidos.
+
+Se podrá añadir los siguientes nucleótidos:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Máximo (<sup>1</sup>)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(mg/100kJ)</p>
+</td>
+<td>
+<p>(mg/100 kcal)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Citidina 5’-monofosfato.</p>
+</td>
+<td>
+<p>0,60</p>
+</td>
+<td>
+<p>2,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Uridina 5’-monofosfato.</p>
+</td>
+<td>
+<p>0,42</p>
+</td>
+<td>
+<p>1,75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>adenosina 5’-monofosfato.</p>
+</td>
+<td>
+<p>0,36</p>
+</td>
+<td>
+<p>1,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>guanosina 5’-monofosfato.</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inosina 5’-monofosfato.</p>
+</td>
+<td>
+<p>0,24</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(<sup>1</sup>) La concentración total de nucleótidos no será superior a 1,2 mg/100 kJ (5 mg/100 kcal).
+
+> Se modifican los apartados 2 y 8 por el art. único.5 del Real Decreto 165/2014, de 14 de marzo. [Ref. BOE-A-2014-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2751).
+
+> Redactado el apartado 10 conforme a la corrección de errores publicada en BOE núm. 187, de 4 de agosto de 2009. [Ref. BOE-A-2009-12938](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12938).
+
+## ANEXO III — VITAMINAS, MINERALES, AMINOÁCIDOS Y OTROS COMPUESTOS
+
+1\. **Vitaminas**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Vitamina</p>
+</td>
+<td>
+<p>Sustancias permitidas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Vitamina A</p>
+</td>
+<td>
+<p>Acetato de retinol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Palmitato de retinol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Retinol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vitamina D</p>
+</td>
+<td>
+<p>Vitamina D<sub>2</sub> (ergocalciferol)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina D<sub>3</sub> (colecalciferol)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vitamina B<sub>1</sub></p>
+</td>
+<td>
+<p>Clorhidrato de tiamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mononitrato de tiamina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vitamina B<sub>2</sub></p>
+</td>
+<td>
+<p>Riboflavina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riboflavina-5’-fosfato sódico</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Niacina</p>
+</td>
+<td>
+<p>Nicotinamida</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido nicotínico</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vitamina B<sub>6</sub></p>
+</td>
+<td>
+<p>Clorhidrato de piridoxina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Piridoxina -5’-fosfato</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Folato</p>
+</td>
+<td>
+<p>Ácido fálico</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Vitamina</p>
+</td>
+<td>
+<p>Sustancias permitidas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Ácido pantoténico</p>
+</td>
+<td>
+<p>D-pantotenato cálcico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D-pantotenato sódico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dexpantenol</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Vitamina B<sub>12</sub></p>
+</td>
+<td>
+<p>Cianocobalamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidroxicobalamina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biotina</p>
+</td>
+<td>
+<p>D-biotina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Vitamina C</p>
+</td>
+<td>
+<p>L-ácido ascórbico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-ascorbato sódico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-ascorbato cálcico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido 6-palmitil-L- ascórbico (palmitato de ascorbilo)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ascorbato potásico</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Vitamina E</p>
+</td>
+<td>
+<p>D-alfa tocoferol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>DL-alfa tocoferol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D-alfa acetato de tocoferol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>DL-alfa acetato de tocoferol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina K</p>
+</td>
+<td>
+<p>Filoquinona (Fitomenadiona)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. **Sustancias minerales**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Sustancias minerales</p>
+</td>
+<td>
+<p>Sales permitidas</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p>Calcio (Ca)</p>
+</td>
+<td>
+<p>Carbonato de calcio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro de calcio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales cálcicas del ácido cítrico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato de calcio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Glicerofosfato de calcio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lactato de calcio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales cálcicas del ácido ortofosfórico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidróxido de calcio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p>Magnesio (Mg)</p>
+</td>
+<td>
+<p>Carbonato de magnesio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro de magnesio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Óxido de magnesio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales magnésicas del ácido ortofosfórico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sulfato de magnesio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato de magnesio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidróxido de magnesio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales magnésicas del ácido cítrico</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p>Hierro (Fe)</p>
+</td>
+<td>
+<p>Citrato ferroso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato ferroso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lactato ferroso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sulfato ferroso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Citrato amónico férrico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fumarato ferroso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Difosfato férrico (Pirofosfato férrico)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bisglicinato ferroso</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Cobre (Cu)</p>
+</td>
+<td>
+<p>Citrato cúprico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato cúprico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sulfato cúprico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Complejo cobre-lisina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbonato cúprico</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Yodo (I)</p>
+</td>
+<td>
+<p>Yoduro de potasio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Yoduro de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Yodato de potasio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7">
+<p>Zinc (Zn)</p>
+</td>
+<td>
+<p>Acetato de zinc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro de zinc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lactato de zinc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sulfato de zinc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Citrato de zinc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato de zinc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Óxido de zinc</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Manganeso (Mn)</p>
+</td>
+<td>
+<p>Carbonato de manganeso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro de manganeso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Citrato de manganeso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sulfato de manganeso</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato de manganeso</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p>Sodio (Na)</p>
+</td>
+<td>
+<p>Bicarbonato de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Citrato de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbonato de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lactato de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales sódicas del ácido ortofosfórico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidróxido de sodio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p>Potasio (K)</p>
+</td>
+<td>
+<p>Bicarbonato de potasio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Carbonato de potasio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro de potasio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales potásicas del ácido cítrico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gluconato de potasio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lactato de potasio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sales potásicas del ácido ortofosfórico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hidróxido de potasio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Selenio (Se)</p>
+</td>
+<td>
+<p>Seleniato de sodio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Selenito de sodio</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3\. Aminoácidos y otros compuestos nitrogenados
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>L-arginina y su clorhidrato<sup>1</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td>
+<p>L-cistina y su clorhidrato</p>
+</td>
+<td>
+<p>L-tirosina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-histidina y su clorhidrato</p>
+</td>
+<td>
+<p>L-valina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-isoleucina y su clorhidrato</p>
+</td>
+<td>
+<p>L-carnitina y su clorhidrato</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-leucina y su clorhidrato</p>
+</td>
+<td>
+<p>L-carnitina-L-tartrato</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-lisina ysu clorhidrato</p>
+</td>
+<td>
+<p>Taurina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-cisteína ysu clorhidrato</p>
+</td>
+<td>
+<p>cistidina 5’-monofosfato y su sal sódica</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-metionina</p>
+</td>
+<td>
+<p>uridina 5’ -monofosfato y su sal sódica</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-fenilalanina</p>
+</td>
+<td>
+<p>adenosina 5’ monofosfato y su sal sódica</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-treonina</p>
+</td>
+<td>
+<p>guanosina 5’ monofosfato y su sal sódica</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L-triptófano</p>
+</td>
+<td>
+<p>inosina 5’ monofosfato y su sal sódica</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(<sup>1</sup>) L-arginina y su clorhidrato se utilizarán exclusivamente a efectos de la elaboración de los preparados para lactantes a los que hace referencia el apartado d) del artículo 3.1 y de los preparados de continuación a los que hace referencia el apartado c) del artículo 3.2.
+
+4\. Otras sustancias con fines nutritivos especiales
+
+| Colina | Bitartrato de colina |
+|---|---|
+| Cloruro de colina | Inositol |
+| Citrato de colina |  |
+
+> Se modifica el apartado 3 por el art. único.6 del Real Decreto 165/2014, de 14 de marzo. [Ref. BOE-A-2014-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2751).
+
+## ANEXO IV — DECLARACIONES NUTRICIONALES Y DE PROPIEDADES SALUDABLES DE LOS PREPARADOS PARA LACTANTES Y CONDICIONES DE GARANTÍA DE LA DECLARACIÓN CORRESPONDIENTE
+
+DECLARACIONES NUTRICIONALES
+
+<table>
+<tr>
+<td>
+<p>Declaración nutricional relativa a</p>
+</td>
+<td colspan="2">
+<p>Condiciones que garantizan la declaración nutricional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Únicamente lactosa</p>
+</td>
+<td colspan="2">
+<p>La lactosa será el único hidrato de carbono presente</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Ausencia de lactosa</p>
+</td>
+<td colspan="2">
+<p>El contenido en lactosa no superará 2,5 mg/100 kJ (10 mg/100 kcal).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. PCL añadidos o una declaración nutricional equivalente relacionada con la adición de ácido docosahexaenoico</p>
+</td>
+<td colspan="2">
+<p>El contenido en ácido decosahexaenoico no será inferior a un 0,2% del contenido total en ácidos grasos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Declaraciones nutricionales sobre la adición de los ingredientes opcionales siguientes:</p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a) Taurina.</p>
+</td>
+<td rowspan="3">
+<p>}</p>
+</td>
+<td rowspan="3">
+<p>Añadidos voluntariamente en una medida apropiada para el uso previsto por parte de los lactantes y de conformidad con las condiciones establecidas en el anexo I.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Fructooligosacáridos y galactooligosacáridos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c) Nucleótidos.</p>
+</td>
+</tr>
+</table>
+
+DECLARACIONES DE PROPIEDADES SALUDABLES (INCLUIDAS LAS DECLARACIONES DE REDUCCIÓN DE RIESGO DE ENFERMEDAD)
+
+| Declaración nutricional relativa a | Condiciones que garantizan la declaración nutricional |
+|---|---|
+| 1. Reducción del riesgo de alergia a las proteínas de la leche. Esta declaración de propiedades saludables puede ir acompañada de términos que hagan referencia a una propiedad alergénica reducida o antigénica reducida. | a) debe disponerse de datos objetivos y verificados científicamente como prueba de las propiedades declaradas; |
+|  | b) los preparados para lactantes cumplirán lo establecido en el apartado b) del punto 2 del anexo I y la cantidad de proteína inmunorreactiva medida con métodos generalmente aceptados es inferior al 1 % de las sustancias nitrogenadas del preparado; |
+|  | c) se indica en la etiqueta que el producto no debe ser consumido por lactantes alérgicos a las proteínas intactas de que procede, salvo que se compruebe mediante ensayos clínicos generalmente aceptados que el preparado para lactantes es tolerado por más del 90 % de lactantes (intervalo de confianza del 95 %) hipersensibles a las proteínas de que procede el hidrolizado; |
+|  | d) los preparados para lactantes administrados oralmente no deben inducir sensibilización en animales frente a las proteínas intactas de que procede el preparado para lactantes. |
+
+## ANEXO V — AMINOÁCIDOS ESENCIALES Y SEMIESENCIALES DE LA LECHE MATERNA
+
+A efectos de la presente reglamentación, los aminoácidos esenciales y semiesenciales de la leche materna, expresados en miligramos por 100 kJ y 100kcal, son los siguientes:
+
+|  | Por 100 kJ (<sup>1</sup>) | Por 100 kcal |
+|---|---|---|
+| Cistina | 9 | 38 |
+| Histidina | 10 | 40 |
+| Isoleucina | 22 | 90 |
+| Leucina | 40 | 166 |
+| Lisina | 27 | 113 |
+| Metionina | 5 | 23 |
+| Fenilalanina | 20 | 83 |
+| Treonina | 18 | 77 |
+| Triptófano | 8 | 32 |
+| Tirosina | 18 | 76 |
+| Valina | 21 | 88 |
+
+(<sup>1</sup>) 1 kJ = 0,239 kcal.
+
+## ANEXO VI — ESPECIFICACIÓN PARA EL CONTENIDO Y LA FUENTE DE PROTEÍNAS Y LA TRANSFORMACIÓN DE PROTEÍNAS UTILIZADAS EN PREPARADOS PARA LACTANTES Y PREPARADOS DE CONTINUACIÓN CON UN CONTENIDO PROTEÍNICO INFERIOR A 0,56 g/100 kJ (2,25 g/100 kcal), ELABORADOS A PARTIR DE HIDROLIZADOS DE PROTEÍNAS DE LACTOSUERO DERIVADO DE PROTEÍNAS DE LA LECHE DE VACA
+
+1\. Contenido proteínico
+
+Contenido proteínico = contenido en nitrógeno × 6,25
+
+Mínimo: 0,44 g/100 kJ (1,86 g /100 kcal)
+
+Máximo: 0,7 g/100 kJ (3 g/100 kcal)
+
+2\. Fuente de proteínas.
+
+Proteínas de lactosuero dulce desmineralizado derivadas de la leche de vaca después de la precipitación enzimática de las caseínas mediante el empleo de quimosina, integradas por:
+
+a) 63 % de aislado de proteínas de lactosuero sin caseinoglucomacropéptido con un contenido mínimo en proteínas del 95 % de la materia seca, una desnaturalización de las proteínas inferior al 70 % y un contenido máximo de cenizas del 3 %, y
+
+b) 37 % de concentrado de proteínas de lactosuero dulce con un contenido mínimo en proteínas del 87% de la materia seca, una desnaturalización de las proteínas inferior al 70 % y un contenido máximo de cenizas del 3,5 %.
+
+3\. Transformación de las proteínas
+
+Proceso de hidrólisis en dos fases utilizando un preparado de tripsina con un tratamiento térmico (de 3 a 10 minutos de duración a una temperatura de entre 80 y 100 °C) entre las dos fases de hidrólisis.
+
+> Se modifica el título por el art. único.7 del Real Decreto 165/2014, de 14 de marzo. [Ref. BOE-A-2014-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2751).
+
+## ANEXO VII — VALORES DE REFERENCIA PARA EL ETIQUETADO DE PROPIEDADES NUTRICIONALES DE ALIMENTOS DESTINADOS A LACTANTES Y NIÑOS DE CORTA EDAD
+
+| Nutriente | Valor de referencia para el etiquetado |
+|---|---|
+| Vitamina A | (μg) 400 |
+| Vitamina D | (μg) 7 |
+| Vitamina E | (mgα-ET) 5 |
+| Vitamina K | (μg) 12 |
+| Vitamina C | (mg) 45 |
+| Tiamina | (mg) 0,5 |
+| Riboflavina | (mg) 0,7 |
+| Niacina | (mg) 7 |
+| Vitamina B<sub>6</sub> | (mg) 0,7 |
+| Folato | (μg) 125 |
+| Vitamina B<sub>12</sub> | (μg) 0,8 |
+| Ácido pantoténico | (mg) 3 |
+| Biotina | (μg) 10 |
+| Calcio | (mg) 550 |
+| Fósforo | (mg) 550 |
+| Potasio | (mg) 1 000 |
+| Sodio | (mg) 400 |
+| Cloruro | (mg) 500 |
+| Hierro | (mg) 8 |
+| Zinc | (mg) 5 |
+| Yodo | (μg) 80 |
+| Selenio | (μg) 20 |
+| Cobre | (mg) 0,5 |
+| Magnesio | (mg) 80 |
+| Manganeso | (mg) 1,2 |
+
+## ANEXO VIII — PLAGUICIDAS QUE NO SE PODRÁN UTILIZAR EN LOS PRODUCTOS AGRÍCOLAS DESTINADOS A LA ELABORACIÓN DE PREPARADOS PARA LACTANTES Y PREPARADOS DE CONTINUACIÓN
+
+Cuadro 1
+
+| **Nombre químico de la su**<br>**stancia (definición de los residuos)** |
+|---|
+| Disulfoton (suma de disulfoton, disulfotonsulfóxido y disulfotonsulfona, expresada como disulfoton). |
+| Fensulfotion (suma de fensulfotion, su análogo oxigenado y sus sulfonas, expresada como fensulfotion) |
+| Fentin, expresada como catión trifenilestaño |
+| Haloxifop (suma de haloxifop, sus sales y sus ésteres, incluidos conjugados, expresada como haloxifop) |
+| Heptacloro y epóxido de trans-heptacloro, expresada como heptacloro |
+| Hexaclorobenceno |
+| Nitrofene |
+| Ometoato |
+| Terbufos (suma de terbufos, su sulfóxido y su sulfona, expresada como terbufos) |
+
+Cuadro 2
+
+| **Nombre químico de la sustancia** |
+|---|
+| Aldrin y dieldrina, expresada como dieldrina. |
+| Endrin. |
+
+## ANEXO IX — LÍMITES MÁXIMOS ESPECÍFICOS PARA RESIDUOS DE PLAGUICIDAS O DE METABOLITOS DE PLAGUICIDAS EN LOS PREPARADOS PARA LACTANTES Y PREPARADOS DE CONTINUACIÓN
+
+| **Nombre químico de la sustancia** | **Nivel máximo de residuos (mg/kg)** |
+|---|---|
+| Cadusafos. | 0,006 |
+| Demeton-S-metil/demeton-S-metilsulfona/oxidemeton-metil (individualmente o combinadas, expresadas como demeton-S-metil). | 0,006 |
+| Etoprofos. | 0,008 |
+| Fipronil (suma de fipronil y fipronil-desulfinil, expresada como fipronil. | 0,004 |
+| Propineb/propilentiourea (suma de propineb y propilentiourea). | 0,006 |

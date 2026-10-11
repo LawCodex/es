@@ -1,0 +1,2292 @@
+---
+title: "Orden ETU/1977/2016, de 23 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas para 2017"
+identifier: "BOE-A-2016-12465"
+eli: "https://www.boe.es/eli/es/o/2016/12/23/etu1977"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Energía, Turismo y Agenda Digital"
+date: 2016-12-23
+published: 2016-12-29
+in_force_from: 2017-01-01
+last_amended: 2020-12-31
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 314"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-12465"
+retrieved: 2026-10-11
+---
+
+# Orden ETU/1977/2016, de 23 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas para 2017
+
+Incluye corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+El artículo 92.4 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, determina que corresponde a la Comisión Nacional de los Mercados y la Competencia establecer mediante circular las metodologías para el cálculo de los peajes y cánones de los servicios básicos de acceso, transporte y distribución, regasificación y almacenamiento y carga de cisternas. A su vez, el artículo 91.2 de la citada ley dispone que reglamentariamente se establezca el régimen económico de los derechos por acometidas, alquiler de contadores y otros costes necesarios vinculados a las instalaciones.
+
+Por otra parte, la disposición transitoria primera del Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, dispone que hasta que dicha Comisión no establezca la metodología para el cálculo de los peajes y cánones de los servicios básicos de acceso a las instalaciones gasistas serán de aplicación los criterios recogidos en la Ley 34/1998, de 7 de octubre, así como lo dispuesto en el Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural y las órdenes de desarrollo.
+
+Dicho Real Decreto 949/2001, de 3 de agosto, recoge en su artículo 25 que las tarifas, peajes y cánones se establecerán de forma que alcancen los siguientes objetivos: retribuir las actividades reguladas, asignar de forma equitativa los costes, incentivar el uso eficiente del gas natural y del sistema gasista, y no producir distorsiones sobre el mercado, correspondiendo en el momento actual al Ministro de Energía, Turismo y Agenda Digital, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictar las disposiciones necesarias para el establecimiento de los peajes y cánones de los servicios básicos de acceso por terceros.
+
+Asimismo, la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, dedica el capítulo II del título III a la sostenibilidad económica del sistema de gas natural, incluyendo en sus artículos 59 y 60 los principios del régimen económico y de la retribución de las actividades reguladas, en el 61 y siguientes el procedimiento de cálculo de dichas retribuciones, así como el tratamiento de los desajustes temporales entre ingresos y costes del sistema. El artículo 63.2 de dicha norma legal determina que, en el momento actual, el Ministro de Energía, Turismo y Agenda Digital, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, aprobará la retribución de cada una de las empresas que realizan actividades reguladas.
+
+Mediante esta orden, una vez que la Sala de Supervisión Regulatoria de la Comisión Nacional de los Mercados y la Competencia ha aprobado con fecha de 24 de noviembre de 2016 las resoluciones por la que se aprueban las liquidaciones definitivas de las actividades reguladas del sector gas natural correspondientes a los ejercicios de 2014 y 2015 y previo acuerdo de la Comisión Delegada de Asuntos Económicos se procede a reconocer las cantidades referidas así como el tipo de interés provisional aplicable.
+
+El 11 de diciembre de 2014, la Sala de Supervisión Regulatoria de la Comisión aprobó el «Informe por el que se desarrolla la metodología de cálculo del tipo de interés que devengarán los derechos de cobro del sistema gasista». En aplicación de esta metodología, dicha Sala de Supervisión aprobó el 1 de diciembre de 2016 el «Acuerdo por el que se calcula y se propone al Ministerio de Energía, Turismo y Agenda Digital la anualidad y el tipo de interés a aplicar para recuperar la cantidad correspondiente al déficit acumulado del sistema gasista a 31 de diciembre de 2014». El valor propuesto de tipo de interés ha sido recogido en la presente orden.
+
+Adicionalmente, de conformidad con lo establecido en el artículo 66 b) de la citada Ley 18/2014, de 15 de octubre, se incluye la anualidad correspondiente al desvío en la retribución del gas natural destinado al mercado a tarifa procedente del contrato de Argelia y suministrado a través del gasoducto del Magreb.
+
+El Real Decreto 984/2015, por el que se regula el mercado organizado de gas y el acceso de terceros a las instalaciones del sistema de gas natural, regula en su título II el funcionamiento de este mercado y, en particular, en su artículo 8, determina que mediante Orden del Ministro de Energía, Turismo y Agenda Digital, y previo informe de la Comisión Nacional de los Mercados y la Competencia, se establecerán los procedimientos de asignación de capacidad de acceso a las instalaciones del sistema gasista, que deberán contemplar, al menos, la definición detallada de los productos a ofertar, el porcentaje de capacidad reservada para contratos de duración inferior a un año y cuando así se determine la oferta de productos de capacidad agregados, entendiendo como tales aquellos en los que se ofrezca capacidad indiferenciada ubicada en dos o más instalaciones indistintamente.
+
+Asimismo, la disposición adicional segunda del citado real decreto estableció el mandato a la Comisión Nacional de los Mercados y la Competencia para remitir al Ministerio una propuesta de desarrollo del artículo 8 en lo referente a los procedimientos de asignación de capacidad.
+
+Por otra parte, la disposición adicional segunda del Real Decreto 984/2015, de 30 de octubre, estableció el mandato a la Comisión Nacional de los Mercados y la Competencia para remitir al Ministerio de Energía, Turismo y Agenda Digital en un plazo máximo de tres meses desde una propuesta de desarrollo del artículo 8 en lo referente a los procedimientos de asignación de capacidad.
+
+En consecuencia, el 29 de marzo de 2016, la Sala de Supervisión Regulatoria de la Comisión remitió el Acuerdo por el que se propone al Ministerio de Industria, Energía y Turismo la definición y desarrollo del procedimiento de asignación de capacidad de entrada a la red de transporte del sistema gasista desde plantas de regasificación y conexiones internacionales no europeas y a los almacenamientos subterráneos básicos*.* Este Acuerdo ha sido tomado en consideración para elaborar el procedimiento de asignación de capacidad en los almacenamientos subterráneos que tendrá lugar en la plataforma telemática única de solicitud y contratación de capacidad.
+
+Otro de los aspectos que se recoge en esta orden, es posibilitar la negociación de otros productos en el mercado organizado de gas. Así, el artículo 14.2 del Real Decreto 984/2015, de 30 de octubre, indica que, previa habilitación por orden del Ministro, se podrán negociar diferentes productos, debiendo incluir la citada orden, para cada nuevo producto a negociar, sus características, mecanismos de negociación y la forma de retribución del operador del mercado, en función de la naturaleza del mismo, así como las condiciones de separación de actividades, incluyendo la separación contable, que resulten exigibles.
+
+Mediante la presente orden, por tanto, se habilita para la negociación en el mercado organizado de gas de productos de transferencia de titularidad del gas entregados en el Punto Virtual de Balance del sistema con un horizonte temporal mayor al último día del mes siguiente al de la realización de la transacción o productos de transferencia de titularidad del gas natural licuado en los tanques de las plantas de regasificación y de gas natural en los almacenamientos subterráneos, así como servicios de balance adquiridos por el Gestor Técnico del Sistema. Las dos primeras actividades se enmarcan fuera del régimen económico integrado del sistema de gas natural y no están incluidas en el sistema de liquidaciones, exigiéndose la separación contable con respecto al resto de actividades de la sociedad MIBGAS S.A, debiendo la misma llevar cuentas separadas.
+
+Asimismo, la disposición transitoria primera del Real Decreto 984/2015, de 30 de octubre, establece que la contratación mediante productos estándares de capacidad definidos en el artículo 6.1 comenzará a partir del 1 de octubre de 2016, estableciendo un plazo hasta el 30 de noviembre de 2016, para que aquellos usuarios con contratos firmados con anterioridad al 1 de octubre de 2016 pudieran renunciar sin coste a la capacidad.
+
+Sin embargo, la sustitución de los contratos anteriores al 1 de octubre, por los productos de capacidad normalizados trimestrales, mensuales o diarios necesarios para completar la duración del contrato original puede suponer un incremento significativo del coste de acceso soportado por dichos usuarios, por lo tanto, mediante una disposición transitoria se determina que en el caso de que la adaptación de contratos exija la contratación de nuevos productos para completar la duración del contrato original, estos no podrán suponer un coste extra para el usuario y se deberán facturar al peaje aplicable al contrato inicial.
+
+En cumplimiento de la Sentencia de 11 de febrero de 2016 de la Sección Tercera de la Sala de lo Contencioso-administrativo del Tribunal Supremo, relativa al recurso contencioso-administrativo 1/59/2015, interpuesto por Planta de Regasificación de Sagunto, S.A. contra la Orden IET/2445/2014, de 19 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, esta orden determina la aplicación de los coeficientes de extensión de vida útil de los activos de regasificación que han superado la vida útil regulatoria definidos en el apartado 2.e) del anexo XI de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, a los costes de operación y mantenimiento variables. En consecuencia, mediante el correspondiente artículo se establece la fórmula de aplicación en estos casos.
+
+Asimismo, se ha procedido a modificar el artículo 11 «Incentivo para que los transportistas y distribuidores envíen información sobre las mediciones el día “n+1”» publicada en la Orden ITC/3128/2011, de 17 de noviembre, por la que se regulan determinados aspectos relacionados con el acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, al objeto de solventar las incidencias detectadas durante su primera aplicación.
+
+Por otra parte, según lo dispuesto en el artículo 2.6 del Real Decreto 104/2010, de 5 de febrero, por el que se regula la puesta en marcha del suministro de último recurso en el sector del gas natural, los consumidores sin contrato de suministro tienen derecho a ser suministrados por el comercializador de último recurso durante un período máximo de un mes. Mediante la presente orden se da cumplimiento a la habilitación para la fijación del precio que dicha disposición establece a favor del Ministro de Energía, Turismo y Agenda Digital, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+Finalmente, se amplía a 31 de diciembre de 2018 la obligación de suministrar gasolina de protección en el producto con menor índice de octano, en todas las instalaciones de suministro de dicho producto a vehículos. La disposición transitoria segunda del Real Decreto 1088/2010, de 3 de septiembre, por el que se modifica el Real Decreto 61/2006, de 31 de enero, en lo relativo a las especificaciones técnicas de gasolinas, gasóleos, utilización de biocarburantes y contenido de azufre de los combustibles para uso marítimo, establece que hasta el 31 de diciembre de 2013, debían estar disponibles en el mercado nacional gasolinas con un contenido máximo de oxígeno de 2,7 por ciento en masa y un contenido máximo de etanol de 5 por ciento en volumen.
+
+La norma precisa que estas gasolinas, que deberán estar disponibles en todas las instalaciones de suministro a vehículos, deben ser las de menor índice de octano comercializadas. En la misma disposición transitoria se habilita al Ministro a modificar el contenido de la misma. De esta forma, mediante la Orden IET/2458/2013, de 26 de diciembre, por la que se amplía el plazo previsto en el apartado 1 de la disposición transitoria segunda del Real Decreto 1088/2010, de 3 de septiembre, se prorrogó hasta el 31 de diciembre de 2016, la obligación de suministrar gasolina de protección en el producto con menor índice de octano, en todas las instalaciones de suministro de dicho producto a vehículos. A la vista de la evolución del mercado nacional en estos dos últimos años, tanto del parque de vehículos, con un alto porcentaje que requiere el uso de gasolina de protección, como de la logística existente de cara a suministrar dos calidades de gasolina, se considera necesario modificar nuevamente la citada disposición transitoria segunda, prolongando hasta el 31 de diciembre de 2018, la citada obligación actualmente vigente.
+
+La presente orden ha sido objeto de informe de la Comisión Nacional de los Mercados y la Competencia, aprobado por su Consejo el 21 de diciembre de 2016, para cuya elaboración se han tenido en cuenta las alegaciones formuladas en el trámite de audiencia efectuado a través del Consejo Consultivo de Hidrocarburos. El Consejo Consultivo de Hidrocarburos sigue ejerciendo sus funciones hasta la constitución del Consejo Consultivo de Energía de acuerdo con lo dispuesto en la disposición transitoria décima de la Ley 3/2013, de 4 de junio.
+
+Mediante acuerdo de 22 de diciembre de 2016, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Energía, Turismo y Agenda Digital a dictar la orden.
+
+En su virtud, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
+
+## Artículo 1. Objeto.
+
+1\. El objeto de esta orden es establecer la retribución de las empresas que realizan actividades reguladas en el sector del gas natural y la determinación de los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas a partir del 1 de enero de 2017.
+
+2\. Las retribuciones reguladas del sector gasista para el año 2017 que se incluyen en el anexo I de la presente orden, han sido calculadas con base en las fórmulas publicadas en los anexos X y XI de la Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, aplicando una tasa de rentabilidad financiera del 5,09 por ciento. Se han empleado los valores unitarios de inversión y de operación y mantenimiento fijados en los anexos V y VII de la Orden IET/2446/2013, de 27 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+Para el cálculo de la retribución a la actividad de distribución se ha tenido en consideración el «Acuerdo por el que se propone a la Dirección General de Política Energética y Minas los municipios de gasificación reciente para los años 2014 y 2015, aprobado por la Sala de Supervisión regulatoria de la Comisión Nacional de los Mercados y la Competencia en su sesión del día 1 de diciembre de 2016, en cumplimiento del mandato establecido en la disposición adicional sexta de la Orden IET/2736/2015, de 17 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas para el 2016.
+
+El anexo I, junto a la retribución para el año 2017, recoge los ajustes de las retribuciones de los años 2014, 2015 y 2016 resultantes de la aplicación de las metodologías recogidas en los anexos X y XI de la Ley 18/2014, de 15 de octubre, así como un listado con las retribuciones provisionales de las instalaciones puestas en servicio hasta el 31 de diciembre de 2016 y que no cuentan con retribución definitiva reconocida.
+
+3\. Los importes antes de impuestos de los peajes y cánones asociados al uso de las instalaciones de la red básica, transporte secundario y distribución de gas natural, en vigor a partir del 1 de enero de 2017 son los establecidos en la Orden IET/2446/2013, de 27 de diciembre, y en la Orden IET/2445/2014, de 19 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, salvo las modificaciones incluidas en la disposición final tercera.
+
+4\. Los derechos de acometida y tarifas de alquiler de contadores y equipos de telemedida para presiones iguales o inferiores a 4 bar en vigor a partir del 1 de enero de 2017 son los publicados en la Orden IET/2445/2014, de 19 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+## Artículo 2. Cuotas destinadas a fines específicos.
+
+1\. Las cuotas destinadas a la retribución del Gestor Técnico del Sistema y la tasa aplicable a la prestación de servicios y realización de actividades en relación con el sector de hidrocarburos gaseosos destinada a la Comisión Nacional de los Mercados y la Competencia serán del 0,778 por ciento y del 0,140 por ciento respectivamente, aplicables como porcentaje sobre la facturación de los peajes y cánones que deberán recaudar las empresas transportistas, distribuidoras y el Gestor Técnico del Sistema.
+
+2\. La retribución provisional del Gestor Técnico del Sistema para el año 2017 será de 23.966.250 euros.
+
+3\. La Comisión Nacional de los Mercados y la Competencia incluirá en la liquidación 14 del año 2017 la diferencia, positiva o negativa, entre las cantidades percibidas por el Gestor Técnico del Sistema por la aplicación de la cuota anterior y la retribución provisional reconocida anterior.
+
+4\. La cantidad prevista en la presente disposición podrá ser modificada una vez sea aprobada la metodología para el cálculo de la retribución del Gestor Técnico del Sistema a la que se refiere la disposición adicional sexta de la Orden IET/2445/2014, de 19 de diciembre.
+
+## Artículo 3. Régimen aplicable a los gases manufacturados en los territorios insulares.
+
+1\. Mientras sea de aplicación el régimen dispuesto en la disposición transitoria vigésima de la Ley 34/1998, de 7 de octubre, se reconoce a la empresa distribuidora titular de las redes de distribución donde se lleve a cabo este suministro la retribución en concepto de «suministro a tarifa» calculada por aplicación del artículo 21 de la Orden ITC/3993/2006, de 29 de diciembre, por la que se establece la retribución de determinadas actividades reguladas del sector gasista.
+
+2\. El precio de cesión a considerar como coste liquidable de las empresas distribuidoras que suministren gases manufacturados en los territorios insulares será de 0,0171 €/kWh.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 4. Aplicación de los costes de extensión de vida útil a las plantas de regasificación.
+
+1\. El coeficiente µ establecido en el apartado 2.e) del anexo XI de la Ley 18/2014, de 15 de octubre, y empleado en los activos que han superado su vida útil regulatoria y continúan en operación, se aplicará a los costes de operación y mantenimiento fijos y variables según lo siguiente:
+
+a) El coste de operación y mantenimiento variable de los vaporizadores corresponde con el coste de operación y mantenimiento variable de regasificación.
+
+b) El coste de operación y mantenimiento variable de la obra civil, portuaria y marítima, corresponde con el coste de operación y mantenimiento variable de carga de buques.
+
+c) El coste de operación y mantenimiento variable de los cargaderos de cisternas, corresponde con el coste de operación y mantenimiento variable de carga de cisternas.
+
+d) El coste de operación y mantenimiento variable de los tanques de almacenamiento es cero.
+
+2\. De acuerdo a lo anterior, el coste de operación y mantenimiento variable por planta y actividad (regasificación, carga de cisternas y trasvase a/entre buques), se multiplicará por un coeficiente µV<sup>j</sup><sub>n,t</sub>, calculado según la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2016/314/12465_8923.png)
+
+Donde:
+
+– n: año de aplicación.
+
+– j: actividad (regasificación, carga de cisterna y trasvase a buque).
+
+– t: planta de regasificación (Barcelona, Sagunto, Cartagena, Huelva, Mugardos, Bizkaia).
+
+– m: Número de elementos de la planta «t» asociados al coste de operación y mantenimiento variable de la actividad «j».
+
+– µ<sup>i</sup><sub>n</sub>: Coeficiente de extensión de vida útil del elemento «i» en el año «n» calculado según la fórmula establecido en el apartado 2.e del anexo XI de la Ley 18/2014, de 15 de octubre.
+
+– VR<sub>i</sub>: Valor de inversión reconocido del elemento «i».
+
+– U<sub>n,i</sub>: Grado de utilización efectivo del elemento «i» en el año «n», expresado en un porcentaje. Para todos los elementos de obra civil y de cargaderos de cisternas tomará un valor de 100%.
+
+– Para cada elemento vaporizador, el factor U<sub>n,i </sub>se calculará con base en la vaporización real de cada planta desde el 16 de noviembre del año anterior hasta el 15 de noviembre del año de aplicación (ambos incluidos), aplicando como criterio de utilización el uso prioritario de los vaporizadores que se hayan instalado más recientemente. En la orden por la que se establezcan las retribuciones del año «n+1» se publicarán los coeficientes que correspondan a cada planta para el año «n».
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 5. Déficit definitivo del sistema gasista a 31 de diciembre de 2014.
+
+1\. Se reconoce en 1.025.052.945,66 euros el déficit acumulado del sistema gasista a 31 de diciembre de 2014. Dicha cifra coincide con la incluida en la Resolución por la que se aprueba la liquidación definitiva de las actividades reguladas del sector del gas natural correspondiente al ejercicio 2014 aprobada por la Sala de Supervisión Regulatoria de la Comisión Nacional de los Mercados y la competencia el 24 de noviembre de 2016.
+
+2\. Este déficit se recuperará en 15 anualidades consecutivas desde el 25 de noviembre de 2016 (día siguiente al de la aprobación de la liquidación definitiva) y hasta el 24 de noviembre de 2031.
+
+3\. Como tipo de interés provisional se reconoce el valor de 1,104 % propuesto por la Comisión Nacional de los Mercados y la Competencia en su «Acuerdo por el que se calcula y se propone al Ministerio de Energía, Turismo y Agenda Digital la anualidad y el tipo de interés a aplicar para recuperar la cantidad correspondiente al déficit acumulado del sistema gasista a 31 de diciembre de 2014» aprobado por su Sala de Supervisión Regulatoria el 1 de diciembre de 2016.
+
+4\. Las anualidades correspondientes, incluyendo la amortización y la retribución financiera se incluyen en el anexo II de la presente disposición.
+
+5\. Las anualidades de los años 2017 y siguientes se repartirán en 12 pagos mensuales iguales que se liquidarán como pago único en cada una de las doce primeras liquidaciones del año, con prioridad en el cobro sobre el resto de costes del sistema en los términos previstos en los artículos 66 y 61.2 de la Ley 18/2014, de 15 de octubre. La anualidad del año 2016 se abonará en la primera liquidación disponible del ejercicio 2016, como un pago único.
+
+6\. Las anualidades y el período de recuperación podrán verse modificados en aplicación de lo establecido en el apartado 3 del artículo 61 de la Ley 18/2014, de 15 de octubre.
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 6. Desajuste temporal entre ingresos y gastos del año 2015.
+
+1\. Se reconoce un desajuste temporal entre ingresos y gastos del ejercicio de 2015 de 27.231.873,55 €. Dicha cifra coincide con la aprobada en la Resolución por la que se aprueba la liquidación definitiva de las actividades reguladas del sector del gas natural correspondiente al ejercicio 2015, aprobada el 24 de noviembre de 2016 por la Sala de Supervisión Regulatoria de la Comisión Nacional de los Mercados y la Competencia.
+
+2\. Este déficit se recuperará anualmente desde el 25 de noviembre de 2016 (día siguiente al de la aprobación de la liquidación definitiva del año 2015) y hasta el 24 de noviembre de 2021.
+
+3\. Como tipo de interés provisional en condiciones equivalentes a las del mercado se reconoce el valor 0,836 % propuesto por la Comisión Nacional de los Mercados y la Competencia en su Informe sobre la propuesta de orden por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas para el año 2017, aprobado por su Sala de Supervisión Regulatoria el 21 de diciembre de 2016.
+
+4\. Las anualidades correspondientes, incluyendo la amortización y la retribución financiera se incluyen en el anexo II de la presente disposición.
+
+5\. Las anualidades de los años 2017 y siguientes se repartirán en 12 pagos mensuales iguales que se liquidarán como pago único en cada una de las doce primeras liquidaciones del año, con prioridad en el cobro sobre el resto de costes del sistema en los términos previstos en los artículos 66 y 61.2 de la Ley 18/2014, de 15 de octubre. La anualidad del año 2016 se abonará en la primera liquidación disponible de dicho año, como un pago único.
+
+6\. Las anualidades y el período de recuperación podrán verse modificados en aplicación de lo establecido en el apartado 3 del artículo 61 de la Ley 18/2014, de 15 de octubre.
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 7. Retribución transitoria financiera y costes de operación y mantenimiento provisionales de la planta de regasificación de El Musel.
+
+**(Anulado)**
+
+> Se declara la nulidad por Sentencia del TS de 29 de abril de 2019. [Ref. BOE-A-2019-8244](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8244)
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 8. Reconocimiento retribuciones de conformidad con el Real Decreto-ley 13/2014, de 3 de octubre.
+
+**(Anulado).**
+
+> Se declara la nulidad por Sentencia de 18 de febrero de 2020. [Ref. BOE-A-2020-3439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3439)
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 9. Productos de capacidad en los almacenamientos subterráneos básicos.
+
+1\. El Gestor Técnico del Sistema gestionará la capacidad de los almacenamientos subterráneos básicos de manera unificada e indiferenciada, según lo dispuesto a continuación en este artículo.
+
+2\. Los productos estándar de capacidad de carácter firme, ofertados por Gestor Técnico del Sistema, en coordinación con los operadores de los almacenamientos, serán los siguientes:
+
+a) Productos asociados de almacenamiento, de salida desde el Punto Virtual de Balance (PVB) al almacenamiento (inyección) y de entrada al PVB desde el almacenamiento (extracción), de duración anual, trimestral y mensual, definidos en el Real Decreto 984/2015, de 30 de octubre.
+
+Estos productos darán derecho al uso de capacidad de almacenamiento, así como a inyectar y extraer gas en los respectivos ciclos de inyección y extracción de los almacenamientos durante el período de duración del producto.
+
+Mediante resolución de la Secretaría de Estado de Energía, previo informe de la Comisión Nacional de los Mercados y la Competencia, se podrá aprobar la oferta y asignación de productos mensuales individualizados de capacidad de almacenamiento, de inyección y de extracción.
+
+b) Productos individualizados de almacenamiento, de inyección y de extracción, de duración diaria e intradiaria.
+
+De la capacidad diaria disponible de inyección y extracción, se reservará al menos un 10% para su oferta como productos diarios individualizados de capacidad de inyección y de capacidad de extracción. Si quedara capacidad disponible tras la asignación de productos diarios, se ofertarán como productos intradiarios individualizados.
+
+3\. Los productos anteriores darán derecho al uso de la capacidad contratada durante todos los días de duración del producto. En el caso de contratación de capacidad de almacenamiento, inyección y extracción intradiaria, la capacidad contratada dará derecho al uso de la misma desde la hora de inicio efectivo del servicio hasta el fin del día de gas.
+
+4\. El producto anual dará comienzo el 1 de abril y finalizará el 31 de marzo del año siguiente, mientras que la duración de los productos trimestrales, mensuales, diarios e intradiarios se ajustará a lo dispuesto en el Real Decreto 984/2015, de 30 de octubre.
+
+5\. El Gestor Técnico del Sistema ofertará productos interrumpibles con el mismo horizonte temporal de los productos firmes, aplicando el peaje que corresponda.
+
+6\. Los productos estándar de capacidad interrumpible, para el horizonte diario e intradiario, en los almacenamientos subterráneos básicos serán los siguientes:
+
+a) Producto diario de capacidad de inyección: corresponde al servicio que da derecho al uso de la capacidad de inyección contratada durante un día de gas.
+
+b) Producto diario de capacidad de extracción: corresponde al servicio que da derecho al uso de la capacidad de extracción contratada durante un día de gas.
+
+c) Producto intradiario de capacidad de inyección: es el servicio que da derecho al uso de la capacidad de inyección contratada desde la hora efectiva de inicio del servicio hasta el final del día de gas.
+
+d) Producto intradiario de capacidad de extracción: es el servicio que da derecho al uso de la capacidad de extracción contratada desde la hora efectiva de inicio del servicio hasta el final del día de gas.
+
+7\. La capacidad de inyección y extracción se expresará en kWh/día. En caso de contratación de productos intradiarios, el usuario indicará la hora de inicio del servicio. En todos los productos se asumirá un flujo de gas constante a lo largo del período.
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 10. Procedimiento de asignación de la capacidad de almacenamiento subterráneo básico.
+
+1\. Los operadores de almacenamientos subterráneos básicos informarán al Gestor Técnico del Sistema de la capacidad disponible para cada uno de los productos, este la publicará en la plataforma telemática única de solicitud y contratación de capacidad.
+
+2\. El procedimiento de asignación constará de dos fases:
+
+a) Asignación directa: se asignará exclusivamente el producto anual asociado de almacenamiento, inyección y extracción y se aplicará el procedimiento dispuesto en la sección 1.ª del capítulo II de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad.
+
+Una vez que el Gestor Técnico del Sistema haya comunicada a los usuarios la capacidad asignada directamente, los usuarios deberán ajustar las garantías en el plazo de 7 días establecido en el artículo 7.1 de la Orden ITC/3862/2007, de 28 de diciembre. Los usuarios podrán renunciar libremente a la capacidad asignada. La no disposición de las garantías solicitadas en el plazo citado supondrá la renuncia automática.
+
+b) Subasta de la capacidad restante: la capacidad disponible después del procedimiento de asignación directa será ofertada mediante los productos definidos en el artículo 9 de la presente orden, utilizando una o varias subastas competitivas organizadas por el Gestor Técnico del Sistema.
+
+3\. El Gestor Técnico del Sistema tendrá la obligación de enviar a la Comisión Nacional de los Mercados y la Competencia y a la Dirección General de Política Energética y Minas, toda la información que le sea requerida en cuanto al desarrollo de las subastas.
+
+4\. Los ingresos que se obtengan por el acceso a la capacidad de almacenamiento asignada mediante el procedimiento de subasta tendrán la consideración de ingresos liquidables.
+
+5\. Mediante resolución del Secretario de Estado de Energía, previa propuesta de la Comisión Nacional de los Mercados y la Competencia, se desarrollará el procedimiento anterior incluyendo al menos los siguientes aspectos:
+
+a) El porcentaje de la oferta de los productos de duración inferior a un año.
+
+b) La capacidad de inyección y de extracción de los productos asociados, y el procedimiento de cálculo de los derechos de uso correspondientes, y el procedimiento de cálculo de la capacidad disponible de inyección y de extracción de productos diarios e intradiarios.
+
+c) Las reglas del procedimiento de asignación de capacidad.
+
+d) El precio de salida y, en su caso de reserva de la misma.
+
+e) El calendario de desarrollo del procedimiento de asignación y de contratación de la capacidad.
+
+f) El mecanismo de asignación de la capacidad no adjudicada.
+
+6\. Le corresponde a la Comisión Nacional de los Mercados y la Competencia la supervisión de la correcta aplicación del procedimiento de asignación de capacidad, así como resolver cualquier conflicto entre las partes derivado de su aplicación. A estos efectos, la Comisión podrá solicitar al Gestor de Garantías y al Gestor Técnico del Sistema cualquier información que estime precisa para el cumplimiento de su función supervisora.
+
+7\. El Gestor Técnico del Sistema emitirá un informe anual sobre la aplicación del mecanismo de asignación de capacidad.
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 11. Sujetos habilitados para participar en el procedimiento de asignación de capacidad de almacenamiento subterráneo básico.
+
+1\. Podrán participar en los procedimientos de asignación de la capacidad todos los sujetos con derecho de acceso de acuerdo con el artículo 61 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, y el artículo 3 del Real Decreto 984/2015, de 30 de octubre, que cumplan los requisitos legales y contractuales exigibles, debiendo disponer de cartera de balance en caso de que necesiten acceder al Punto Virtual de Balance.
+
+2\. Los sujetos con derecho de acceso deberán haber suscrito previamente, a través de la plataforma telemática única de solicitud y contratación de capacidad, el contrato de acceso marco aprobado por la Resolución de la Secretaría de Estado de Energía, de 2 de agosto de 2016, y deberán disponer de las garantías financieras suficientes para responder del pago de la capacidad solicitada.
+
+3\. La asignación de capacidad a través de la plataforma telemática única de solicitud y contratación de capacidad generará automáticamente la obligación contractual irrenunciable entre el operador de la infraestructura y el sujeto con derecho de acceso, por la capacidad asignada a través de la plataforma.
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Artículo 12. Habilitación para negociar nuevos productos en MIBGAS, S.A.
+
+1\. De conformidad con el artículo 14.2 del Real Decreto 984/2015, de 30 de octubre, por el que se regula el mercado organizado de gas y el acceso de terceros a las instalaciones del sistema de gas natural, se habilita a MIBGAS, S.A., para poner a disposición de los usuarios su plataforma de mercado para negociar los siguientes productos:
+
+a) Productos de transferencia de titularidad del gas entregados en el Punto Virtual de Balance del sistema con un horizonte temporal mayor al último día del mes siguiente al de la realización de la transacción.
+
+b) Productos de transferencia de titularidad del gas natural licuado en los tanques de plantas de regasificación o agrupación de ellas, y de gas natural en los almacenamientos subterráneos básicos.
+
+c) Servicios de balance promovidos por el Gestor Técnico del Sistema.
+
+2\. Los productos a y b se enmarcan fuera del sistema regulado de gas natural. No están sometidos a regulación sectorial específica ni recibirán retribución alguna por parte del sistema gasista.
+
+3\. MIBGAS, S.A., llevará cuentas separadas que garanticen la separación contable entre los costes e ingresos vinculados a la negociación de los productos habilitados a negociar en el mercado organizado del gas que reciben retribución transitoria, y el resto de costes e ingresos vinculados a la negociación de los productos habilitados a negociar en el mercado organizado del gas que quedan fuera de la retribución transitoria, así como del resto de actividades que MIBGAS, S.A. realice de forma accesoria, y que también quedan fuera de la retribución anual transitoria. Los criterios de imputación deberán ser transparentes. MIBGAS, S.A. deberá reportar al Ministerio de Energía, Turismo y Agenda Digital y a la Comisión Nacional de los Mercados y la Competencia la información sobre sus cuentas separadas y criterios de imputación que sea necesaria para el cálculo y establecimiento de la retribución anual transitoria.
+
+> Renumerado conforme a la corrección de errores publicada en BOE núm. 15, de 18 de enero de 2017. [Ref. BOE-A-2017-520](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-520).
+
+## Disposición adicional primera. Mandatos a la Comisión Nacional de los Mercados y la Competencia.
+
+La Comisión Nacional de los Mercados y la Competencia, en un plazo máximo de seis meses desde la entrada en vigor de esta disposición, remitirá al Ministerio de Energía, Turismo y Agenda Digital un estudio de las instalaciones de vaporización de las plantas de regasificación que han superado su vida útil regulatoria y que se encuentran en extensión de vida útil, a los efectos de determinar cuáles de las mismas pueden darse de baja sin menoscabo de la seguridad del sistema y del grado de cobertura necesario para cubrir las futuras necesidades de suministro del sistema gasista y los requerimientos de los planes de emergencia establecidos por el Ministerio de Energía, Turismo y Agenda Digital.
+
+El Gestor Técnico del Sistema y los operadores de las plantas de regasificación facilitarán toda la información necesaria a la Comisión Nacional de los Mercados y la Competencia para la realización de dicho estudio.
+
+## Disposición adicional segunda. Precio a aplicar por los comercializadores de último recurso a los consumidores sin contrato de suministro.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única de la Orden TED/1286/2020, de 29 de diciembre. [Ref. BOE-A-2020-17346](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17346)
+
+> Esta derogación tiene efectos desde el 1 de octubre de 2021, según establece la disposición final 4 de la citada orden.
+
+## Disposición adicional tercera. Desvío en la retribución del gas natural destinado al mercado a tarifa procedente del contrato de Argelia.
+
+1\. De acuerdo a lo dispuesto en el artículo 66.b de la Ley 18/2014, de 15 de octubre, se reconocen al actual titular del contrato de gas natural de Argelia y suministrado a través del gasoducto del Magreb las cantidades de 32.758.000 € y 1.180.271 € en concepto de amortización e intereses provisionales calculados aplicando el tipo de interés de 1,201 %.
+
+2\. Ambas cantidades se repartirá en 12 pagos mensuales que se liquidarán como pago único.
+
+3\. Los desvíos de recaudación anual que sean consecuencia de valores diferentes entre las ventas reales y estimadas, se tendrán en cuenta en la determinación del término variable del peaje de conducción del grupo 3 de años posteriores.
+
+## Disposición transitoria primera. Adaptación de contratos.
+
+1\. A los efectos de realizar la adaptación de contratos a la que hace referencia la disposición transitoria primera del Real Decreto 984/2015, de 30 de octubre, aquellos contratos firmados con anterioridad al 1 de octubre de 2016, para los fuera necesario utilizar productos de duración inferior, para completar la duración del contrato sujeto a adaptación, estos productos se facturarán manteniendo el peaje del contrato sujeto a la adaptación, no siendo de aplicación la obligación de disponer de telemedida si contrato sujeto adaptación no lo requería, ni los procedimientos de facturación aplicables a estos contratos.
+
+2\. En ningún caso, y como consecuencia de la aplicación del párrafo anterior, se podrán aplicar refacturaciones sobre los peajes ya aplicados. Debiéndose entender que la aplicación del párrafo anterior no cambiará la naturaleza del contrato sujeto a adaptación a los efectos de la aplicación de los peajes.
+
+## Disposición transitoria segunda. Peaje temporal para antiguos usuarios de la tarifa para materia prima (PA).
+
+1\. Con carácter extraordinario y hasta el 31 de diciembre de 2018, los consumidores acogidos a la tarifa específica para usos de materia prima podrán acogerse al peaje temporal para antiguos usuarios de la tarifa para materia prima, el cual engloba el peaje de transporte y distribución (incluyendo el término de reserva de capacidad), el peaje de descarga de buques y el peaje de regasificación. La diferencia entre los peajes ordinarios y este peaje se reducirá anualmente de forma lineal hasta desaparecer el 31 de diciembre de 2018.
+
+2\. El valor del peaje temporal para antiguos usuarios de la tarifa para materia prima (PA) será el siguiente:
+
+– Término fijo: 4,261457 cent/kWh/día/mes.
+
+– Término variable: 0,067402 cent/kWh.
+
+3\. El peaje (PA) será facturado por la empresa titular del punto de salida.
+
+## Disposición transitoria tercera. Retribución del Operador de Mercado de gas.
+
+1\. Con carácter provisional y mientras que no se apruebe la metodología de retribución a la que hace referencia la disposición transitoria segunda de la Ley 8/2015, de 21 de mayo, la retribución del Operador del Mercado de gas correspondiente al año 2017 se fija en 3.920.000 €.
+
+2\. Una vez que se disponga de dicha metodología y de los datos necesarios para su aplicación se procederá al cálculo de la retribución definitiva y el saldo, positivo o negativo, en relación con las retribuciones provisionales se reconocerá como pago único en la primera liquidación disponible.
+
+## Disposición transitoria cuarta. Valores unitarios de referencia de inversión y de operación y mantenimiento.
+
+1\. Los valores unitarios de referencia de inversión, de operación y mantenimiento fijos y variables en vigor serán los publicados en la Orden IET/2446/2013, de 27 de diciembre por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+2\. Una vez que se reciba el informe solicitado a la Comisión Nacional de los Mercados y la Competencia en la disposición adicional única de la Orden IET/389/2015, de 5 de marzo, por la que se actualiza el sistema de determinación automática de precios máximos de venta, antes de impuestos, de los gases licuados del petróleo envasados y se modifica el sistema de determinación automática de las tarifas de venta, antes de impuestos, de los gases licuados del petróleo por canalización, por Orden del Ministro de Energía, Turismo y Agenda digital, se revisarán los coeficientes en vigor.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las disposiciones de igual o inferior rango en lo que se opongan a lo dispuesto en la presente orden y, en particular, las siguientes:
+
+a) La disposición adicional primera de la Orden ITC/3861/2007, de 28 de diciembre, por la que se establece la tarifa de último recurso del sistema de gas natural para el año 2008.
+
+b) Los artículos 8 y 9 de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad.
+
+c) La disposición adicional primera de la Orden ITC/863/2009, de 2 de abril, por la que se regulan las subastas para la adquisición de gas natural que se utilizarla como referencia para la fijación de la tarifa de último recurso.
+
+d) El artículo 5 «Contratación de capacidad de carga de GNL con destino a plantas satélites» de la Orden IET/2446/2013, de 27 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, así como el apartado 7 del artículo 4 «Condiciones generales de aplicación de los peajes y cánones» de la Orden IET/2812/2012, de 27 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+## Disposición final primera. Modificación de la Orden ITC/3128/2011, de 17 de noviembre, por la que se regulan determinados aspectos relacionados con el acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+Los dos últimos párrafos del artículo 11.4 de la Orden ITC/3128/2011, de 17 de noviembre, por la que se regulan determinados aspectos relacionados con el acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, pasan a tener la siguiente redacción:
+
+«El responsable del reparto quedará exento de recargo siempre que acredite que ha realizado una aplicación correcta de las fórmulas y procedimientos en vigor, incluyendo la lectura de la telemedida o en los casos en que la diferencia entre el reparto definitivo y la suma de los repartos diarios “n+1” es atribuible a defectos o incumplimiento de plazos en la información proporcionada por otros operadores para elaborar el reparto. En este último caso, el recargo se aplicará a la retribución de los operadores responsables de la diferencia.
+
+En caso de fallos de las fórmulas empleadas, el Grupo de trabajo del Comité de Seguimiento del Sistema Gasista para la actualización, revisión y modificación de las normas y protocolos de gestión técnica del sistema gasista elevará a la Dirección General de Política Energética y Minas una propuesta de modificación de dichas fórmulas para su aprobación.
+
+Antes del 1 de julio de cada año “n” el Gestor Técnico del Sistema comunicará a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia el valor del término d y los valores provisionales de los términos S1 y S2 de cada agente en el año “n-1”, así como los valores definitivos de los términos S1 y S2 del año “n-2”, previo período de alegaciones por parte de los sujetos afectados. El titular de la Dirección General de Política Energética y Minas dictará una resolución con el valor concreto de la penalización de cada agente de acuerdo a la fórmula anterior. Esta cantidad se restará de la retribución reconocida anual en la primera liquidación disponible. En caso de desacuerdo sobre la imputación de los recargos anteriores la Comisión Nacional de los Mercados y la Competencia resolverá el conflicto en virtud de la función referida en el artículo 12.b).2 de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.»
+
+## Disposición final segunda. Modificación de la Orden IET/2446/2013, de 27 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+La Orden IET/2446/2013, de 27 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, queda modificada en los siguientes términos:
+
+1\. Los apartados 1 y 2 del artículo 4 pasan a tener la siguiente redacción:
+
+«1. Los productos de capacidad no podrán modificarse ni cancelarse hasta su finalización. En el caso de productos de capacidad de salida a presiones inferiores a 4 bar de carácter indefinido, y salvo baja del consumidor, solo podrá modificarse la capacidad contratada una vez que haya transcurrido un año desde su contratación o desde su última modificación.
+
+2\. Los operadores de redes de transporte y distribución velarán por la correcta aplicación de los peajes y cánones en vigor, determinando en el momento de la contratación el escalón del término de conducción del peaje de transporte y distribución aplicable a los productos de capacidad de salida desde el PVB al consumidor final en función de su consumo previsto, de acuerdo con lo siguiente:
+
+a) Para productos de capacidad de salida contratados en puntos de suministro a presión superior a 4 bar o a presión igual o inferior a 4 bar y acogidos al peaje 3.5:
+
+– En caso de productos anuales para calcular la previsión de consumo se aplicará un factor de carga de la capacidad contratada que no podrá ser superior al 80 %.
+
+– En el caso de productos de duración inferior al año, se utilizará como previsión de consumo el resultado de multiplicar por 330 el caudal diario contratado.
+
+Una vez finalizado el contrato, si el consumo real observado no corresponde al escalón de peaje aplicado, se procederá a facturar los peajes utilizando el escalón de consumo correspondiente al consumo real. En el caso de productos de capacidad de duración inferior al año, si el consumo real medido multiplicado por 365 y dividido por la duración del contrato no coincide con el escalón del peaje se procederá a refacturar dichos peajes aplicando el escalón de peajes que corresponda al consumo real.
+
+b) En el caso de contratos acogidos a los peajes 3.1 a 3.4 y los acogidos al peaje 3.5 con contrato de duración indefinida y que no hubieran modificado su caudal contratado en los últimos 12 meses, se considerará el consumo del último año natural disponible, o en su defecto, el consumo de los últimos doce meses o una previsión de consumo en caso de nuevos suministros o modificación de los existentes. En el caso de que el consumo real no coincida con el escalón de peaje que se hubiera aplicado, al año siguiente se reubicará el consumidor en el escalón de peajes correspondiente al consumo real.
+
+c) En el caso de productos de capacidad indefinidos acogidos al peaje 3.5 que modifiquen el caudal contratado se aplicará lo dispuesto en el apartado a), transcurridos doce meses, si el consumo real observado no corresponde al escalón de peaje aplicado, se procederá a facturar los peajes utilizando el escalón de consumo correspondiente al consumo real
+
+d) En aquellos casos en los que el contrato de capacidad finalice en virtud de las causas contempladas en el apartado 16.3 del contrato marco de acceso a las instalaciones del sistema gasista español, si el consumo real observado multiplicado por 365 y dividido por los días del contrato no corresponde al escalón de peaje que se hubiera aplicado, se procederá a facturar de nuevo los peajes de acceso considerando el escalón de consumo que corresponda al consumo real.
+
+e) En los casos en que se haya producido un cambio de comercialización, la refacturación se realizará facturando a cada comercializador los peajes aplicables a su período de facturación»
+
+2\. Se sustituye el contenido del apartado 10 del artículo 9, que pasa a tener la siguiente redacción:
+
+«Los distribuidores informarán diariamente, con la periodicidad aprobada en un Protocolo de Detalle, de los consumos telemedidos por cada consumidor especificando para cada día: comercializador vigente, peaje, PCTD/PCDD, CUPS y consumo, dentro de los plazos correspondientes marcados en las normas de gestión técnica del sistema de aplicación. Los distribuidores facilitarán el código CNAE de cada consumidor con telemedida.
+
+La contratación de productos de capacidad inferior a un año requerirá disponer de equipos de telemedida, con independencia del nivel de consumo.»
+
+3\. Se modifica el apartado 1 del artículo 10, que pasa a tener la siguiente redacción:
+
+«A los contratos de acceso a las instalaciones de regasificación y de transporte y distribución por periodos inferiores a un año se les aplicará lo establecido en este artículo, así como en los artículos 4 y 9.
+
+En el caso de la contratación de capacidad de transporte y distribución, sólo se aplicará lo establecido en el presente artículo si el punto de suministro dispone de equipos de telemedida operativos. En este caso, las capacidades contratadas a plazos menores a un año podrán ser adicionales a capacidades contratadas a plazos superiores a un año en el mismo punto de suministro.»
+
+4\. Se modifica el apartado 3 del artículo 10, que pasa a tener la siguiente redacción:
+
+«3. El término de reserva de capacidad (Tfrc), el término fijo del peaje de regasificación (Tfr), el término fijo del peaje de conducción (Tfi), el término fijo del peaje de carga de GNL en cisternas (Tfc) y el término fijo (Tf), así como los términos de inyección (Tvi) y extracción (Tve) del canon de almacenamiento subterráneo aplicables a capacidades de acceso contratadas a plazos inferiores a un año, se calcularán utilizando los coeficientes que se indican en el anexo»
+
+5\. Se modifica el apartado noveno del anexo I, que queda redactado en los siguientes términos:
+
+«Noveno. Peaje aplicable a los contratos de acceso de duración inferior a un año.
+
+Los coeficientes a aplicar al término fijo de caudal de los peajes correspondientes a servicios de acceso a las instalaciones gasistas, contratados con una duración menor al año, de acuerdo con lo establecido en el artículo 10 de la presente orden, son los siguientes:
+
+<table>
+<thead>
+<tr>
+<td> </td>
+<td>
+<p>Producto intradiario</p>
+</td>
+<td>
+<p>Producto diario</p>
+</td>
+<td>
+<p>Producto mensual</p>
+</td>
+<td>
+<p>Producto trimestral</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Enero</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>2,30</p>
+</td>
+<td rowspan="3">
+<p>1,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Febrero</p>
+</td>
+<td>
+<p>0,22</p>
+</td>
+<td>
+<p>0,13</p>
+</td>
+<td>
+<p>2,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Marzo</p>
+</td>
+<td>
+<p>0,21</p>
+</td>
+<td>
+<p>0,13</p>
+</td>
+<td>
+<p>1,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Abril</p>
+</td>
+<td>
+<p>0,16</p>
+</td>
+<td>
+<p>0,09</p>
+</td>
+<td>
+<p>1,40</p>
+</td>
+<td rowspan="3">
+<p>1,21</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mayo</p>
+</td>
+<td>
+<p>0,16</p>
+</td>
+<td>
+<p>0,09</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Junio</p>
+</td>
+<td>
+<p>0,13</p>
+</td>
+<td>
+<p>0,08</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Julio</p>
+</td>
+<td>
+<p>0,14</p>
+</td>
+<td>
+<p>0,08</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+<td rowspan="3">
+<p>1,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Agosto</p>
+</td>
+<td>
+<p>0,11</p>
+</td>
+<td>
+<p>0,07</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Septiembre</p>
+</td>
+<td>
+<p>0,13</p>
+</td>
+<td>
+<p>0,08</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Octubre</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>0,09</p>
+</td>
+<td>
+<p>1,30</p>
+</td>
+<td rowspan="3">
+<p>1,36</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Noviembre</p>
+</td>
+<td>
+<p>0,16</p>
+</td>
+<td>
+<p>0,09</p>
+</td>
+<td>
+<p>1,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diciembre</p>
+</td>
+<td>
+<p>0,18</p>
+</td>
+<td>
+<p>0,11</p>
+</td>
+<td>
+<p>1,60</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+El termino variable Tvij a aplicar es el del peaje correspondiente.»
+
+## Disposición final tercera. Gasolinas de protección.
+
+Se amplía hasta el 31 de diciembre de 2019 el plazo en el que deberán estar disponibles gasolinas con un contenido máximo de oxígeno de 2,7 por ciento en masa y un contenido máximo de etanol de 5 por ciento en volumen, en todas las instalaciones de suministro de este carburante, siendo estas gasolinas las de menor índice de octano comercializadas, previsto en la Orden IET/2458/2013, de 26 de diciembre, por la que se amplía el plazo previsto en el apartado 1 de la disposición transitoria segunda del Real Decreto 1088/2010, de 3 de septiembre, por el que se modifica el Real Decreto 61/2006, de 31 de enero, en lo relativo a las especificaciones técnicas de gasolinas, gasóleos, utilización de biocarburantes y contenido de azufre de los combustibles para uso marítimo, en relación con la obligación relativa a la disponibilidad de gasolina de protección.
+
+> Se amplía el plazo previsto hasta el 31 de diciembre de 2019 por la disposición adicional 2 Orden TEC/1367/2018, de 20 de diciembre. [Ref. BOE-A-2018-17607](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17607)
+
+## Disposición final cuarta. Aplicación de la orden.
+
+Por la Secretaría de Estado de Energía se dictarán las resoluciones precisas para la aplicación de esta orden.
+
+## Disposición final quinta. Entrada en vigor.
+
+Esta orden entrará en vigor el 1 de enero de 2017.
+
+Madrid, 23 de diciembre de 2016.
+
+El Ministro de Energía, Turismo y Agenda Digital,
+
+Álvaro Nadal Belda
+
+## ANEXO I — Retribuciones para el año 2017 y ajustes de las retribuciones de los años 2014, 2015 y 2016
+
+1\. Retribución a las empresas que realizan actividades de distribución:
+
+|  | Retribución 2017<br>(€) | Revisión 2015-2016<br>(€) | Total<br>(€) |
+|---|---|---|---|
+| Naturgás Energía Distribución, S.A. | 174.956.232,2 | –493.249,6 | 174.462.982,6 |
+| Redexis Gas Distribución, S.A. | 80.804.989,9 | –1.350.301,4 | 79.454.688,5 |
+| Distribución y Comercialización de Gas Extremadura, S.A. | 12.308.746,5 | –397.194,8 | 11.911.551,7 |
+| Tolosa Gas, S.A. | 773.895,1 | 18.724,1 | 792.619,2 |
+| Gas Natural Catalunya SDG, S.A. | 408.084.248,4 | –21.032.007,0 | 387.052.241,4 |
+| Gas Natural Andalucía, S.A. | 64.230.679,8 | –3.409.686,7 | 60.820.993,1 |
+| Gas Natural Castilla-La Mancha, S.A. | 44.277.765,1 | –1.960.175,1 | 42.317.590,0 |
+| Gas Natural Castilla y León, S.A. | 77.118.216,5 | –3.593.770,9 | 73.524.445,6 |
+| CEGAS, S.A. | 123.021.168,8 | –2.195.217,4 | 120.825.951,4 |
+| Gas Galicia SDG, S.A. | 37.908.442,2 | –2.420.675,1 | 35.487.767,2 |
+| Redexis Gas Murcia, S.A. | 15.742.649,9 | –596.410,3 | 15.146.239,6 |
+| Gas Navarra, S.A. | 32.757.202,2 | 336.229,1 | 33.093.431,2 |
+| Gas Natural Rioja, S.A. | 14.485.462,3 | –347.344,5 | 14.138.117,8 |
+| Gasificadora Regional Canaria, S.A. | 380.015,8 | –321.584,0 | 58.431,8 |
+| Madrileña Red de Gas, S.A. | 140.010.039,3 | –7.875.628,2 | 132.134.411,0 |
+| Gas Natural Madrid, S.A. | 148.968.825,1 | –11.077.992,6 | 137.890.832,5 |
+| Gas Natural Aragón SDG, S.A. | 6.160.932,1 |  | 6.160.932,1 |
+| Gas Natural Redes de Distribución de Gas SDG, S.A. | 15.717.030,6 |  | 15.717.030,6 |
+|  | 1.397.706.541,7 | –56.716.284,3 | 1.340.990.257,4 |
+
+Nota: Las retribuciones de las empresas distribuidoras del Grupo Gas Natural son provisionales hasta que se disponga de la información necesaria de ventas y clientes de las zonas escindidas que permita la aplicación completa del procedimiento descrito en el artículo 2 de la Orden IET/2355/2014, de 12 de diciembre, por la que se establece la retribución de las actividades reguladas del sector gasista para el segundo período de 2014.
+
+2\. Retribución de las empresas titulares de activos de transporte.
+
+a) Corrección del reparto de la retribución por continuidad de suministro 2014:
+
+|  | RCS 2014 prorrateo segundo periodo 2014<br>[€] | RCS 2014 prorrateo segundo periodo 2014 reconocido en IET/2736/2016<br>[€] | Diferencia a reconocer (se incluye en 2016)<br>[€] |
+|---|---|---|---|
+| Gas Natural CEGAS, S.A. | 570.345,73 | 571.398,98 | –1.053,25 |
+| Enagas Transporte, S.A. | 98.007.147,73 | 97.975.734,23 | 31.413,50 |
+| Enagas Transporte del Norte, S.A.U. | 3.515.133,24 | 3.521.637,54 | –6.504,30 |
+| Gas Natural Andalucía, S.A. | 506.137,50 | 507.074,04 | –936,54 |
+| Gas Natural Castilla-La Mancha, S.A. | 579.303,52 | 580.375,44 | –1.071,92 |
+| Gas Extremadura Transportista, S.L. | 954.650,11 | 956.416,57 | –1.766,46 |
+| Gas Natural Transporte SDG, S.L. | 348.136,80 | 348.780,98 | –644,18 |
+| Planta de Regasificación de Sagunto, S.A. | 76.892,36 | 77.034,64 | –142,28 |
+| Regasificadora del Noroeste, S.A. | 1.014.300,23 | 1.016.177,06 | –1.876,83 |
+| Redexis Gas Murcia, S.A. | 282.496,14 | 283.018,86 | –522,72 |
+| Gas Natural Distribución SDG, S.A. | 2.764.097,89 | 2.769.212,50 | –5.114,61 |
+| Gas Navarra, S.A. | 203.257,46 | 203.633,57 | –376,11 |
+| Redexis Gas, S.A. | 3.618.745,35 | 3.625.441,37 | –6.696,02 |
+| Redexis Infraestructuras, S.L.U. | 2.544.508,44 | 2.549.216,72 | –4.708,28 |
+| Total transporte | 114.985.152,50 | 114.985.152,50 | 0,00 |
+
+b) Revisión de la retribución por continuidad de suministro 2015:
+
+|  | 2014<br>MWh | 2015<br>MWh |
+|---|---|---|
+| Mercado nacional (salidas T&D) | 302.171.542,049 | 313.929.654,362 |
+| Suministro GNL | –11.507.750,284 | –11.413.724,296 |
+| Volumen a considerar | 290.663.791,765 | 302.515.930,066 |
+| Incremento |  | 4,0776108% |
+
+| RCS<sub>n-1</sub> (2014) | 233.164.337,00 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 4,0776108% |
+| RCS<sub>n</sub>(2015) | 235.391.715,05 |
+
+c) Revisión de la retribución total por continuidad de suministro 2015 y corrección del reparto de la retribución por continuidad de suministro 2015:
+
+|  | RCS 2015<br>[€] | RCS 2015<br>reconocido en<br>IET/2736/2015<br>[€] | Diferencia a reconocer (se incluye en 2016) [€] |
+|---|---|---|---|
+| Gas Natural CEGAS, S.A. | 1.152.510,77 | 1.151.366,15 | 1.144,61 |
+| Enagas Transporte, S.A. | 198.661.935,83 | 198.036.648,78 | 625.287,05 |
+| Enagas Transporte del Norte, S.A.U. | 7.103.110,76 | 7.096.082,42 | 7.028,33 |
+| Gas Natural Andalucía, S.A. | 1.022.763,71 | 1.021.751,72 | 1.012,00 |
+| Gas Natural Castilla-La Mancha, S.A. | 1.170.611,97 | 1.169.453,68 | 1.158,29 |
+| Gas Extremadura Transportista, S.L. | 1.929.083,48 | 1.927.174,70 | 1.908,78 |
+| Gas Natural Transporte SDG, S.L. | 1.521.821,26 | 1.520.315,46 | 1.505,80 |
+| Planta de Regasificación de Sagunto, S.A. | 155.378,17 | 155.224,42 | 153,74 |
+| Regasificadora del Noroeste, S.A. | 2.049.619,85 | 2.047.591,80 | 2.028,04 |
+| Redexis Gas Murcia, S.A. | 570.846,46 | 570.281,63 | 564,84 |
+| Gas Natural Distribución SDG, S.A. | 5.585.476,33 | 5.579.949,65 | 5.526,68 |
+| Gas Navarra, S.A. | 410.727,05 | 410.320,64 | 406,40 |
+| Redexis Gas, S.A. | 8.249.258,95 | 8.241.096,53 | 8.162,42 |
+| Redexis Infraestructuras, S.L.U. | 5.808.570,47 | 5.802.823,05 | 5.747,42 |
+| Total transporte | 235.391.715,05 | 234.730.080,65 | 661.634,40 |
+
+d) Revisión de la retribución por continuidad de suministro 2016:
+
+|  | 2015<br>MWh | 2016<br>MWh |
+|---|---|---|
+| Mercado nacional (salidas T&D) | 313.929.654,36 | 319.544.000,00 |
+| Suministro GNL | –11.413.724,30 | –11.030.380,00 |
+| Volumen a considerar | 302.515.930,07 | 308.513.620,00 |
+| Incremento |  | 1,9826030% |
+
+| RCS<sub>n-1 </sub>(2015) | 235.391.715,05 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 1,9826030% |
+| RCS<sub>n</sub>(2016) | 232.856.840,31 |
+
+e) Revisión de la retribución total por continuidad de suministro 2016 y corrección del reparto de la retribución por continuidad de suministro 2016:
+
+|  | RCS 2016<br>[€] | RCS 2016<br>reconocido<br>en IET/2736/2015<br>[€] | Diferencia<br>a reconocer (se incluye en 2016)<br>[€] |
+|---|---|---|---|
+| Gas Natural CEGAS, S.A. | 1.133.287,18 | 1.125.681,78 | 7.605,40 |
+| Enagas Transporte, S.A. | 195.991.503,74 | 194.257.784,12 | 1.733.719,63 |
+| Enagas Transporte del Norte, S.A.U. | 6.984.632,69 | 6.937.784,91 | 46.847,78 |
+| Gas Natural Andalucía, S.A. | 1.005.704,28 | 998.958,75 | 6.745,53 |
+| Gas Natural Castilla-La Mancha, S.A. | 1.151.086,47 | 1.143.365,82 | 7.720,64 |
+| Gas Extremadura Transportista, S.L. | 1.896.906,86 | 1.884.183,80 | 12.723,06 |
+| Gas Natural Transporte SDG, S.L. | 1.657.496,81 | 1.646.379,54 | 11.117,27 |
+| Planta de Regasificación de Sagunto, S.A. | 152.786,50 | 151.761,72 | 1.024,78 |
+| Regasificadora del Noroeste, S.A. | 2.015.432,71 | 2.001.914,67 | 13.518,04 |
+| Redexis Gas Murcia, S.A. | 561.324,89 | 557.559,94 | 3.764,95 |
+| Gas Natural Distribución SDG, S.A. | 5.494.841,27 | 5.457.985,91 | 36.855,35 |
+| Gas Navarra, S.A. | 403.876,23 | 401.167,32 | 2.708,90 |
+| Redexis Gas, S.A. | 8.111.663,42 | 8.057.256,35 | 54.407,07 |
+| Redexis Infraestructuras, S.L.U. | 6.296.297,26 | 6.254.066,33 | 42.230,93 |
+| Total transporte | 232.856.840,31 | 230.875.850,98 | 1.980.989,33 |
+
+f) Actualización de la retribución por continuidad de suministro 2017:
+
+|  | 2016<br>MWh | 2017<br>MWh |
+|---|---|---|
+| Mercado nacional (salidas T&D) | 319.544.000,00 | 325.096.573,16 |
+| Suministro GNL directo | –11.030.380,00 | –11.030.380,00 |
+| Volumen a considerar | 308.513.620,00 | 314.066.193,16 |
+| Incremento |  | 1,7997822% |
+
+| RCSn-1 (2016) | 232.856.840,31 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 1,7997822% |
+| RCS<sub>n </sub>(2017) | 229.936.323,59 |
+
+g) Retribución por continuidad de suministro 2017:
+
+<table>
+<thead>
+<tr>
+<td rowspan="2"> </td>
+<td colspan="3">
+<p>Instalaciones pem anterior 1 de enero de 2008</p>
+</td>
+<td colspan="3">
+<p>Instalaciones pem posterior 1 de enero de 2008</p>
+</td>
+<td rowspan="2">
+<p>Total Reparto RCS 2017 (€)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Valor de reposición (€)</p>
+</td>
+<td>
+<p>Coeficiente de reparto a (%)</p>
+</td>
+<td>
+<p>Reparto RCS 2017 (€)</p>
+</td>
+<td>
+<p>Valor de reposición (€)</p>
+</td>
+<td>
+<p>Coeficiente de reparto a (%)</p>
+</td>
+<td>
+<p>Reparto RCS 2017 (€)</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Gas Natural CEGAS, S.A.</p>
+</td>
+<td>
+<p>19.223.760,91</p>
+</td>
+<td>
+<p>0,22804%</p>
+</td>
+<td>
+<p>524.356,16</p>
+</td>
+<td>
+<p>21.663.111,71</p>
+</td>
+<td>
+<p>0,25698%</p>
+</td>
+<td>
+<p>590.893,01</p>
+</td>
+<td>
+<p>1.115.249,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Enagas Transporte, S.A.</p>
+</td>
+<td>
+<p>4.533.486.518,65</p>
+</td>
+<td>
+<p>53,77900%</p>
+</td>
+<td>
+<p>123.657.466,04</p>
+</td>
+<td>
+<p>2.537.518.755,54</p>
+</td>
+<td>
+<p>30,10161%</p>
+</td>
+<td>
+<p>69.214.530,15</p>
+</td>
+<td>
+<p>192.871.996,19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Enagas Transporte del Norte, S.A.U.</p>
+</td>
+<td>
+<p>127.524.132,16</p>
+</td>
+<td>
+<p>1,51277%</p>
+</td>
+<td>
+<p>3.478.406,96</p>
+</td>
+<td>
+<p>124.468.294,31</p>
+</td>
+<td>
+<p>1,47652%</p>
+</td>
+<td>
+<p>3.395.054,52</p>
+</td>
+<td>
+<p>6.873.461,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Andalucía, S.A.</p>
+</td>
+<td>
+<p>1.238.746,60</p>
+</td>
+<td>
+<p>0,01469%</p>
+</td>
+<td>
+<p>33.788,62</p>
+</td>
+<td>
+<p>35.045.174,49</p>
+</td>
+<td>
+<p>0,41573%</p>
+</td>
+<td>
+<p>955.908,32</p>
+</td>
+<td>
+<p>989.696,94</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Castilla-La Mancha, S.A.</p>
+</td>
+<td>
+<p>13.461.891,93</p>
+</td>
+<td>
+<p>0,15969%</p>
+</td>
+<td>
+<p>367.192,76</p>
+</td>
+<td>
+<p>28.067.145,36</p>
+</td>
+<td>
+<p>0,33295%</p>
+</td>
+<td>
+<p>765.572,38</p>
+</td>
+<td>
+<p>1.132.765,14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Extremadura Transportista, S.L.</p>
+</td>
+<td>
+<p>29.141.442,46</p>
+</td>
+<td>
+<p>0,34569%</p>
+</td>
+<td>
+<p>794.875,40</p>
+</td>
+<td>
+<p>39.295.393,61</p>
+</td>
+<td>
+<p>0,46615%</p>
+</td>
+<td>
+<p>1.071.839,25</p>
+</td>
+<td>
+<p>1.866.714,65</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Transporte SDG, S.L.</p>
+</td>
+<td>
+<p>1.299.597,24</p>
+</td>
+<td>
+<p>0,01542%</p>
+</td>
+<td>
+<p>35.448,41</p>
+</td>
+<td>
+<p>58.499.774,05</p>
+</td>
+<td>
+<p>0,69396%</p>
+</td>
+<td>
+<p>1.595.666,78</p>
+</td>
+<td>
+<p>1.631.115,19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Planta de Regasificación de Sagunto, S.A.</p>
+</td>
+<td>
+<p>5.512.249,80</p>
+</td>
+<td>
+<p>0,06539%</p>
+</td>
+<td>
+<p>150.354,66</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>0,00000%</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>150.354,66</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Regasificadora del Noroeste, S.A.</p>
+</td>
+<td>
+<p>50.514.787,36</p>
+</td>
+<td>
+<p>0,59924%</p>
+</td>
+<td>
+<p>1.377.864,60</p>
+</td>
+<td>
+<p>22.198.238,85</p>
+</td>
+<td>
+<p>0,26333%</p>
+</td>
+<td>
+<p>605.489,39</p>
+</td>
+<td>
+<p>1.983.353,99</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Gas Murcia, S.A.</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>0,00000%</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>20.251.547,63</p>
+</td>
+<td>
+<p>0,24024%</p>
+</td>
+<td>
+<p>552.390,54</p>
+</td>
+<td>
+<p>552.390,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Distribución SDG, S.A.</p>
+</td>
+<td>
+<p>178.531.140,77</p>
+</td>
+<td>
+<p>2,11785%</p>
+</td>
+<td>
+<p>4.869.697,61</p>
+</td>
+<td>
+<p>19.712.409,72</p>
+</td>
+<td>
+<p>0,23384%</p>
+</td>
+<td>
+<p>537.684,77</p>
+</td>
+<td>
+<p>5.407.382,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Navarra, S.A.</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>0,00000%</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>14.571.095,52</p>
+</td>
+<td>
+<p>0,17285%</p>
+</td>
+<td>
+<p>397.447,91</p>
+</td>
+<td>
+<p>397.447,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Gas, S.A.</p>
+</td>
+<td>
+<p>103.111.831,54</p>
+</td>
+<td>
+<p>1,22318%</p>
+</td>
+<td>
+<p>2.812.525,80</p>
+</td>
+<td>
+<p>194.056.357,56</p>
+</td>
+<td>
+<p>2,30202%</p>
+</td>
+<td>
+<p>5.293.170,58</p>
+</td>
+<td>
+<p>8.105.696,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>16.135.203,96</p>
+</td>
+<td>
+<p>0,19141%</p>
+</td>
+<td>
+<p>440.111,25</p>
+</td>
+<td>
+<p>235.316.007,33</p>
+</td>
+<td>
+<p>2,79146%</p>
+</td>
+<td>
+<p>6.418.587,78</p>
+</td>
+<td>
+<p>6.858.699,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Total transporte</p>
+</td>
+<td>
+<p>5.079.181.303</p>
+</td>
+<td>
+<p>60,25237%</p>
+</td>
+<td>
+<p>138.542.088,27</p>
+</td>
+<td>
+<p>3.350.663.306</p>
+</td>
+<td>
+<p>39,74763%</p>
+</td>
+<td>
+<p>91.394.235,38</p>
+</td>
+<td>
+<p>229.936.323,65</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+h) Retribución por disponibilidad 2017:
+
+|  | RD 2017 Instalaciones pem anterior 1 de enero de 2008 | RD 2017 Instalaciones pem posterior 1 de enero de 2008 | RD 2017 total |
+|---|---|---|---|
+| Gas Natural CEGAS, S.A. | 733.412,30 | 1.671.998,18 | 2.405.410,48 |
+| Enagas Transporte, S.A. | 260.228.381,35 | 224.884.263,41 | 485.112.644,76 |
+| Enagas Transporte del Norte, S.A.U. | 9.603.905,14 | 10.925.176,21 | 20.529.081,35 |
+| Gas Natural Andalucía, S.A. | 101.374,04 | 2.711.509,37 | 2.812.883,42 |
+| Gas Natural Castilla-La Mancha, S.A. | 1.241.535,48 | 1.845.912,99 | 3.087.448,47 |
+| Gas Extremadura Transportista, S.L. | 1.780.452,69 | 3.234.293,79 | 5.014.746,48 |
+| Gas Natural Transporte SDG, S.L. | 120.432,02 | 5.290.991,92 | 5.411.423,93 |
+| Planta de Regasificación de Sagunto, S.A. | 364.438,17 | 0,00 | 364.438,17 |
+| Regasificadora del Noroeste, S.A. | 3.827.337,56 | 2.111.191,42 | 5.938.528,97 |
+| Redexis Gas Murcia, S.A. | 0,00 | 1.324.189,20 | 1.324.189,20 |
+| Gas Natural Distribución SDG, S.A. | 11.351.655,03 | 1.768.786,02 | 13.120.441,05 |
+| Gas Navarra, S.A. | 0,00 | 933.631,32 | 933.631,32 |
+| Redexis Gas, S.A. | 5.531.577,53 | 13.155.090,57 | 18.686.668,11 |
+| Redexis Infraestructuras, S.L.U. | 1.275.998,86 | 24.467.033,96 | 25.743.032,82 |
+| Total transporte | 296.160.500,16 | 294.324.068,36 | 590.484.568,52 |
+
+i) Cantidad total a reconocer:
+
+| Euros | Total 2017 Instalaciones pem anterior 1 de enero de 2008 | Total 2017 Instalaciones pem posterior 1 de enero de 2008 | Total 2017 | Total liquidación 2016 | Total |
+|---|---|---|---|---|---|
+| Gas Natural CEGAS, S.A. | 1.257.768,46 | 2.262.891,19 | 3.520.659,65 | 7.696,76 | 3.528.356,42 |
+| Enagas Transporte, S.A. | 383.885.847,35 | 294.098.793,54 | 677.984.640,89 | –4.717.990,66 | 673.266.650,23 |
+| Enagas Transporte del Norte, S.A.U. | 13.082.312,10 | 14.320.230,72 | 27.402.542,82 | 47.371,81 | 27.449.914,64 |
+| Gas Natural Andalucía, S.A. | 135.162,66 | 3.667.417,69 | 3.802.580,36 | 6.820,99 | 3.809.401,34 |
+| Gas Natural Castilla-La Mancha, S.A. | 1.608.728,24 | 2.611.485,37 | 4.220.213,61 | 7.807,01 | 4.228.020,62 |
+| Gas Extremadura Transportista, S.L. | 2.575.328,09 | 4.306.133,04 | 6.881.461,13 | 12.865,37 | 6.894.326,50 |
+| Gas Natural Transporte SDG, S.L. | 155.880,43 | 6.886.658,70 | 7.042.539,12 | 11.978,89 | 7.054.518,01 |
+| Planta de Regasificación de Sagunto, S.A. | 514.792,83 | 0,00 | 514.792,83 | 1.036,24 | 515.829,07 |
+| Regasificadora del Noroeste, S.A. | 5.205.202,16 | 2.716.680,81 | 7.921.882,96 | 13.669,25 | 7.935.552,22 |
+| Redexis Gas Murcia, S.A. | 0,00 | 1.876.579,74 | 1.876.579,74 | 3.807,07 | 1.880.386,81 |
+| Gas Natural Distribución SDG, S.A. | 16.221.352,64 | 2.306.470,79 | 18.527.823,43 | 37.267,42 | 18.565.090,85 |
+| Gas Navarra, S.A. | 0,00 | 1.331.079,23 | 1.331.079,23 | 2.739,20 | 1.333.818,42 |
+| Redexis Gas, S.A. | 8.344.103,33 | 18.448.261,14 | 26.792.364,48 | 55.873,47 | 26.848.237,95 |
+| Redexis Infraestructuras, S.L.U. | 1.716.110,11 | 30.885.621,74 | 32.601.731,85 | 453.979,75 | 33.055.711,59 |
+| Total transporte | 434.702.588,39 | 385.718.303,70 | 820.420.892,09 | –4.055.077,42 | 816.365.814,67 |
+
+3\. Retribución de las empresas titulares de instalaciones de regasificación.
+
+a) Revisión de la retribución por continuidad de suministro 2015:
+
+|  | 2014<br>MWh | 2015<br>MWh |
+|---|---|---|
+| Volumen de gas emitido | 99.938.108,99 | 130.478.999,08 |
+| Incremento |  | 30,5598039% |
+
+| RCS<sub>n-1</sub> (2014) | 48.211.976,00 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 30,5598039% |
+| RCS<sub>n</sub> (2015) | 61.057.097,46 |
+
+b) Revisión de la retribución total por continuidad de suministro 2015:
+
+|  | Reparto RCS 2015 [€] | Reparto RCS 2015 en la Orden IET/2736/2015 [€] | Diferencia (a incluye en 2016) [€] |
+|---|---|---|---|
+| Enagas Transporte, S.A.U. | 34.924.114,67 | 33.649.400,12 | 1.274.714,55 |
+| Enagas Transporte, S.A.U. El Musel | 0,00 | 0,00 | 0,00 |
+| Bahía de Bizkaia Gas, S.L. | 8.715.075,53 | 8.396.979,18 | 318.096,35 |
+| Planta de Regasificación de Sagunto, S.A. | 10.391.397,83 | 10.012.116,46 | 379.281,37 |
+| Regasificadora del Noroeste, S.A. | 7.026.509,43 | 6.770.044,98 | 256.464,45 |
+| Total | 61.057.097,46 | 58.828.540,74 | 2.228.556,72 |
+
+c) Revisión de la retribución por continuidad de suministro 2016:
+
+|  | 2015<br>MWh | 2016<br>MWh |
+|---|---|---|
+| Volumen de gas emitido | 130.478.999,082 | 132.425.166,000 |
+| Incremento |  | 1,4915557% |
+
+| RCS<sub>n-1</sub> (2015) | 61.057.097,46 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 1,4915557% |
+| RCS<sub>n</sub> (2016) | 60.108.764,00 |
+
+d) Revisión de la retribución total por continuidad de suministro 2016:
+
+|  | Reparto RCS 2016 [€] | Reparto RCS 2016 en la Orden IET/2736/2015 [€] | Diferencia (a incluye en 2016) [€] |
+|---|---|---|---|
+| Enagas Transporte, S.A.U. (resto actividades) | 34.381.676,40 | 33.028.288,89 | 1.353.387,51 |
+| Enagas Transporte, S.A.U. (El Musel) | 0,00 | 0,00 | 0,00 |
+| Bahía de Bizkaia Gas, S.L. | 8.579.713,75 | 8.241.985,09 | 337.728,66 |
+| Planta de Regasificación de Sagunto, S.A. | 10.229.999,55 | 9.827.309,66 | 402.689,89 |
+| Regasificadora del Noroeste, S.A. | 6.917.374,30 | 6.645.081,36 | 272.292,94 |
+| Total | 60.108.764,00 | 57.742.665,00 | 2.366.099,00 |
+
+e) Actualización de la retribución por continuidad de suministro 2017:
+
+|  | 2016<br>MWh | 2017<br>MWh |
+|---|---|---|
+| Volumen de gas emitido | 132.425.166,000 | 137.977.739,48 |
+| Incremento |  | 4,1929896% |
+
+| RCS<sub>n-1</sub> (2016) | 60.108.764,00 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 4,1929896% |
+| RCS<sub>n </sub>(2017) | 60.750.245,00 |
+
+f) Retribución total por continuidad de suministro 2017:
+
+|  | Valor de reposición (€) | Coeficiente de reparto ɑ (%) | Reparto RCS 2017 (€) |
+|---|---|---|---|
+| Enagas Transporte, S.A.U. (resto actividades). | 1.760.940.984,93 | 57,19911% | 34.748.597,80 |
+| Enagas Transporte, S.A.U. (El Musel). | 0,00 | 0,00000% | 0,00 |
+| Bahía de Bizkaia Gas, S.L. | 439.430.858,45 | 14,27365% | 8.671.276,49 |
+| Planta de Regasificación de Sagunto, S.A. | 523.954.250,60 | 17,01915% | 10.339.174,16 |
+| Regasificadora del Noroeste, S.A. | 354.290.110,07 | 11,50810% | 6.991.196,55 |
+| Total | 3.078.616.204,06 | 100,0000000% | 60.750.245,00 |
+
+g) Retribución por disponibilidad 2017:
+
+| Euros | RD 2017 |
+|---|---|
+| Enagas Transporte, S.A.U. resto actividades. | 179.673.685,09 |
+| Enagas Transporte, S.A.U. El Musel. | 23.605.524,58 |
+| Bahía de Bizkaia Gas, S.L. | 39.694.472,09 |
+| Planta de Regasificación de Sagunto, S.A. | 58.867.275,34 |
+| Regasificadora del Noroeste, S.A. | 36.625.131,67 |
+| Total regasificación | 338.466.088,76 |
+
+h) Cantidad total a reconocer:
+
+|  | RD 2017 | RCS 2017 | Total 2017 | Total liquidación 2016 | Total |
+|---|---|---|---|---|---|
+| Enagas Transporte, S.A.U. resto actividades | 179.673.685,09 | 34.748.597,80 | 214.422.282,89 | 2.628.102,06 | 217.050.384,95 |
+| Enagas Transporte, S.A.U. El Musel | 23.605.524,58 | 0,00 | 23.605.524,58 | 0,00 | 23.605.524,58 |
+| Bahía de Bizkaia Gas, S.L. | 39.694.472,09 | 8.671.276,49 | 48.365.748,58 | 655.825,01 | 49.021.573,59 |
+| Planta de Regasificación de Sagunto, S.A. | 58.867.275,34 | 10.339.174,16 | 69.206.449,50 | 781.971,26 | 69.988.420,76 |
+| Regasificadora del Noroeste, S.A. | 36.625.131,67 | 6.991.196,55 | 43.616.328,22 | 528.757,39 | 44.145.085,61 |
+| Total regasificación | 338.466.088,76 | 60.750.245,00 | 399.216.333,76 | 4.594.655,72 | 403.810.989,48 |
+
+4\. Retribución de las empresas titulares de instalaciones de almacenamiento subterráneo básico.
+
+a) Revisión del reparto de la retribución por continuidad de suministro 2014:
+
+|  | Valor de reposición | Coeficiente de reparto ɑ [%] | RCS 2014 prorrateado [€] | RCS 2014 en Orden IET/2736/2015 [€] | Diferencia a reconocer (a incluir 2016) [€] |
+|---|---|---|---|---|---|
+| Enagas Transporte, S.A.U. | 537.005.212,41 | 90,97183% | 2.896.969,18 | 2.693.601,99 | 203.367,20 |
+| Gas Natural Almacenamiento Andalucía, S.A. | 53.293.114,34 | 9,02817% | 287.499,09 | 490.866,29 | –203.367,20 |
+| Total almacenamientos | 590.298.326,75 | 100,00% | 3.184.468,27 | 5.596.081,25 | 0,00 |
+
+b) Revisión del reparto de la retribución por continuidad de suministro 2015:
+
+|  | 2014<br>MWh | 2015<br>MWh |
+|---|---|---|
+| Volumen gas almacenado 01/11 | 28.779.150 | 23.790.943 |
+| Incremento |  | –17,332712% |
+
+| RCS<sub>n-1</sub> (2014) | 6.457.394,00 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | –17,332712% |
+| RCS<sub>n</sub> (2015) | 5.178.007,93 |
+
+c) Revisión de la retribución total por continuidad de suministro 2015:
+
+| Euros | RCS 2015 | RCS 2015 en Orden IET/2736/2015 | Diferencia a reconocer (a incluir 2016) |
+|---|---|---|---|
+| Enagas Transporte, S.A.U. | 4.748.917,64 | 4.733.479,59 | 15.438,05 |
+| Gas Natural Almacenamiento Andalucía, S.A. | 429.090,29 | 862.601,66 | –433.511,37 |
+| Total almacenamientos | 5.178.007,93 | 5.596.081,25 | –418.073,32 |
+
+d) Revisión del reparto de la retribución por continuidad de suministro 2016:
+
+|  | 2015<br>MWh | 2016<br>MWh |
+|---|---|---|
+| Volumen gas almacenado 01/11 | 23.790.943 | 21.707.000 |
+| Incremento |  | –8,759396% |
+
+| RCS<sub>n-1</sub> (2015) | 5.178.007,93 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | –8,759396% |
+| RCS<sub>n</sub> (2016) | 4.582.712,34 |
+
+e) Revisión de la retribución total por continuidad de suministro 2016:
+
+| Euros | RCS 2016 | RCS 2016<br>en Orden IET/2736/2015 | Diferencia<br>a reconocer (a incluir 2016) |
+|---|---|---|---|
+| Enagas Transporte, S.A.U. | 4.204.001,20 | 5.126.326,38 | –922.325,18 |
+| Gas Natural Almacenamiento Andalucía, S.A. | 378.711,14 | 934.191,77 | –555.480,63 |
+| Total almacenamientos | 4.582.712,34 | 6.060.518,15 | –1.477.805,81 |
+
+f) Actualización de la retribución por continuidad de suministro 2017:
+
+|  | 2016<br>MWh | 2017<br>MWh |
+|---|---|---|
+| Volumen gas almacenado 01/11 | 21.707.000 | 21.924.070 |
+| Incremento |  | 1,000000% |
+
+| RCS<sub>n-1</sub> (2016) | 4.582.712,34 |
+|---|---|
+| fi | 0,97 |
+| Incr. Demanda | 1,000000% |
+| RCS<sub>n </sub>(2017) | 4.489.683,28 |
+
+g) Retribución por continuidad de suministro 2017:
+
+|  | Valor de reposición (€) | Coeficiente de reparto ɑ (%) | Reparto RCS 2017 (€) |
+|---|---|---|---|
+| Enagas Transporte, S.A.U. | 591.596.842,43 | 91,73609% | 4.118.659,97 |
+| Gas Natural Almacenamiento Andalucía, S.A. | 53.293.114,34 | 8,26391% | 371.023,31 |
+| Total almacenamientos | 644.889.956,77 | 100,00000% | 4.489.683,28 |
+
+h) Retribución por disponibilidad 2017 en concepto de inversión:
+
+| Euros | RD 2017 sin COM provisionales |
+|---|---|
+| Enagas Transporte, S.A.U. | 54.837.202,98 |
+| Gas Natural Almacenamiento Andalucía, S.A. | 5.150.165,11 |
+| Total AASS | 59.987.368,09 |
+
+i) Retribución provisional por costes de operación y mantenimiento año 2017:
+
+| Euros | COM 2017 provisionales |
+|---|---|
+| Almacenamiento Subterráneo Serrablo | 7.772.345,28 |
+| Almacenamiento Subterráneo Gaviota | 17.698.735,25 |
+| Almacenamiento Subterráneo Yela | 4.003.944,90 |
+| Almacenamiento Subterráneo Marismas | 821.666,54 |
+| Total almacenamientos | 30.296.691,97 |
+
+j) **(Anulada)**
+
+k) **(Anulada)**
+
+5) Retribución a cuenta de instalaciones de transporte.
+
+La inclusión de una instalación de conexión de transporte a distribución en el listado de retribución a cuenta no presupone el cobro de la retribución definitiva, en aplicación del artículo 12.2 del Real Decreto 1434/2002, de 27 de diciembre por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de gas natural. Estas retribuciones han sido incluidas en la tabla del apartado 2.i del presente anexo.
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Titular</p>
+</td>
+<td>
+<p>Instalación</p>
+</td>
+<td>
+<p>Fecha pem</p>
+</td>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>2017</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Gasoducto Transporte Primario Cas Tresorer-Manacor-Felanitx, Tramo II, red A.</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>189.393,66</p>
+</td>
+<td>
+<p>1.390.019,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Gasoducto Transporte Primario Cas Tresorer-Manacor-Felanitx, Tramo II, red B.</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>53.240,52</p>
+</td>
+<td>
+<p>390.748,78</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Posición de derivación CASFEL-02 (Algaida) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II.</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>45.470,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Posición de derivación CASFEL-03 (Vilafrana de Bonamy) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II.</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>45.470,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Posición de trampa simple de 16» CASFEL-04 (Manacor) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>84.360,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Posición de trampa simple de 12» CASFEL-04 (Manacor) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>56.942,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Posición de derivación CASFEL-05 (Manacor) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>30.692,39</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>Posición de trampa de rascadores CASFEL-06 (Felanitx) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>56.942,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>ERM G-250 en posición CASFEL-02 (Algaida) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>33.210,00</p>
+</td>
+<td>
+<p>73.335,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>ERM G-250 en posición CASFEL-03 (Vilafrana de Bonamy) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>33.210,00</p>
+</td>
+<td>
+<p>73.335,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>ERM G-250 en posición CASFEL-04 (Manacor) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>33.210,00</p>
+</td>
+<td>
+<p>73.335,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>ERM G-250 en posición CASFEL-05 (Manacor) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>33.210,00</p>
+</td>
+<td>
+<p>73.335,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Infraestructuras, S.L.U.</p>
+</td>
+<td>
+<p>ERM G-400 en posición CASFEL-06 (Felanitx) Gasoducto Cas Tresorer-Manacor-Felanitx, Tramo II</p>
+</td>
+<td>
+<p>21/04/2016</p>
+</td>
+<td>
+<p>35.532,67</p>
+</td>
+<td>
+<p>78.093,67</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Gas, S.A.</p>
+</td>
+<td>
+<p>Gasoducto Secundario Villanueva del Arzobispo-Castellar</p>
+</td>
+<td>
+<p>05/12/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>197.662,74</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Gas, S.A.</p>
+</td>
+<td>
+<p>Posición de Trampa de rascadores VILCAS-01 (Villanueva) en gasoducto Secundario Villanueva del Arzobispo-Castellar</p>
+</td>
+<td>
+<p>05/12/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>18.341,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Gas, S.A.</p>
+</td>
+<td>
+<p>Posición de Trampa de rascadores VILCAS-02 (Castellar) en gasoducto Secundario Villanueva del Arzobispo-Castellar</p>
+</td>
+<td>
+<p>05/12/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>18.341,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Redexis Gas, S.A.</p>
+</td>
+<td>
+<p>ERM G-250 en posición de Trampa de rascadores VILCAS-02 (Castellar) en gasoducto Secundario Villanueva del Arzobispo-Castellar</p>
+</td>
+<td>
+<p>05/12/2016</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>60.673,94</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Total</p>
+</td>
+<td>
+<p>411.006,85</p>
+</td>
+<td>
+<p>2.767.101,63</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se declara la nulidad de las letras j) y k) del apartado 4 por Sentencia de 18 de febrero de 2020. [Ref. BOE-A-2020-3439](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3439)
+
+> Se declara la nulidad de las letras j) y k) del apartado 4 por Sentencia del TS de 29 de abril de 2019. [Ref. BOE-A-2019-8244](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-8244)
+
+## ANEXO II — Anualidades del déficit del sistema gasista
+
+a) Déficit acumulado a 31 de diciembre de 2014.
+
+1\. Anualidades calculadas aplicando el tipo de interés provisional (€):
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Año</p>
+</td>
+<td rowspan="2">
+<p>Capital pendiente</p>
+</td>
+<td colspan="3">
+<p>Anualidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Amortización</p>
+</td>
+<td>
+<p>Interés</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>1.025.052.945,66</p>
+</td>
+<td>
+<p>6.927.298,45</p>
+</td>
+<td>
+<p>1.147.160,62</p>
+</td>
+<td>
+<p>8.074.459,07</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>1.018.125.647,21</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>11.240.107,15</p>
+</td>
+<td>
+<p>79.576.970,19</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2018</p>
+</td>
+<td>
+<p>949.788.784,17</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>10.485.668,18</p>
+</td>
+<td>
+<p>78.822.531,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>881.451.921,13</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>9.731.229,21</p>
+</td>
+<td>
+<p>78.068.092,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>813.115.058,08</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>8.976.790,24</p>
+</td>
+<td>
+<p>77.313.653,29</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2021</p>
+</td>
+<td>
+<p>744.778.195,04</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>8.222.351,27</p>
+</td>
+<td>
+<p>76.559.214,32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2022</p>
+</td>
+<td>
+<p>676.441.331,99</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>7.467.912,31</p>
+</td>
+<td>
+<p>75.804.775,35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2023</p>
+</td>
+<td>
+<p>608.104.468,95</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>6.713.473,34</p>
+</td>
+<td>
+<p>75.050.336,38</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2024</p>
+</td>
+<td>
+<p>539.767.605,91</p>
+</td>
+<td>
+<p>68 336.863,04</p>
+</td>
+<td>
+<p>5.959.034,37</p>
+</td>
+<td>
+<p>74.295.897,41</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2025</p>
+</td>
+<td>
+<p>471.430.742,86</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>5.204.595,40</p>
+</td>
+<td>
+<p>73.541.458,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2026</p>
+</td>
+<td>
+<p>403.093.879,82</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>4.450.156,43</p>
+</td>
+<td>
+<p>72.787.019,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2027</p>
+</td>
+<td>
+<p>334.757.016,77</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>3.695.717,47</p>
+</td>
+<td>
+<p>72.032.580,51</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2028</p>
+</td>
+<td>
+<p>266.420.153,73</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>2.941.278,50</p>
+</td>
+<td>
+<p>71.278.141,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2029</p>
+</td>
+<td>
+<p>198.083.290,69</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>2.186.839,53</p>
+</td>
+<td>
+<p>70.523.702,57</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2030</p>
+</td>
+<td>
+<p>129.746.427,64</p>
+</td>
+<td>
+<p>68.336.863,04</p>
+</td>
+<td>
+<p>1.432.400,56</p>
+</td>
+<td>
+<p>69.769.263,61</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2031</p>
+</td>
+<td>
+<p>61.409.564,60</p>
+</td>
+<td>
+<p>61.409.564,60</p>
+</td>
+<td>
+<p>609.236,72</p>
+</td>
+<td>
+<p>62.018.801,32</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> Total</p>
+</td>
+<td>
+<p>1.025.052.945,66</p>
+</td>
+<td>
+<p>90.463.951,29</p>
+</td>
+<td>
+<p>1.115.516.896,95</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. Participación en el déficit (€):
+
+| Enagas, S.A. | 65.497,59 |
+|---|---|
+| Enagas Transporte, S.A.U. | 375.358.022,29 |
+| Enagas Transporte del Norte, S.A.U. | 8.889.724,52 |
+| Gas Natural Distribución SDG, S.A. | 201.561.176,90 |
+| Gas Natural Cegas, S.A. | 37.265.055,64 |
+| Gas Natural Andalucía, S.A. | 23.466.649,41 |
+| Gas Natural Castilla-La Mancha, S.A. | 13.764.083,42 |
+| Gas Natural Castilla y León, S.A. | 24.101.832,54 |
+| Gas Natural Transporte SDG, S.L. | 8.188.382,17 |
+| Gas Galicia SDG, S.A. | 11.323.174,27 |
+| Gas Navarra, S.A. | 8.803.648,74 |
+| Gas Natural Rioja, S.A. | 4.456.495,71 |
+| Gas Directo, S.A. | 409.894,74 |
+| Gas Natural Almacenamiento Andalucía, S.A. | 658.958,02 |
+| Redexis Gas, S.A. | 38.182.689,27 |
+| Redexis Infraestructuras, S.L. | 284.483,27 |
+| Redexis Gas Murcia, S.A. | 5.695.478,53 |
+| Naturgas Energía Distribución, S.A. | 55.920.866,71 |
+| Tolosa Gas, S.A. | 268.114,17 |
+| Gas Extremadura Transportista, S.L. | 2.300.147,14 |
+| D.C. de Gas Extremadura, S.A. | 3.730.321,90 |
+| ESCAL UGS, S.A. | 83.752.312,88 |
+| Madrileña Red de Gas, S.A. | 47.384.702,63 |
+| Planta de Regasificación de Sagunto, S.A. | 37.098.637,60 |
+| Regasificadora del Noroeste, S.A. | 18.515.916,59 |
+| Bahía de Bizkaia Gas, S.L. | 13.300.276,36 |
+| Gasificadora Regional Canaria, S.A. | 306.053,58 |
+| Iberdrola Distribución de Gas, S.A.U. | 349,07 |
+| Total | 1.025.052.945,66 |
+
+b) Desajuste temporal entre ingresos y gastos a 31 de diciembre de 2015 (€)
+
+1\. Anualidades del, calculadas aplicando el tipo de interés provisional:
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Año</p>
+</td>
+<td rowspan="2">
+<p>Capital pendiente</p>
+</td>
+<td colspan="3">
+<p>Anualidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Amortización</p>
+</td>
+<td>
+<p>Interés</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>2016</p>
+</td>
+<td>
+<p>27.231.873,55</p>
+</td>
+<td>
+<p>552.098,26</p>
+</td>
+<td>
+<p>23.077,71</p>
+</td>
+<td>
+<p>575.175,97</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2017</p>
+</td>
+<td>
+<p>26.679.775,29</p>
+</td>
+<td>
+<p>5.446.374,71</p>
+</td>
+<td>
+<p>223.042,92</p>
+</td>
+<td>
+<p>5.669.417,63</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2018</p>
+</td>
+<td>
+<p>21.233.400,58</p>
+</td>
+<td>
+<p>5.446.374,71</p>
+</td>
+<td>
+<p>177.511,23</p>
+</td>
+<td>
+<p>5.623.885,94</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2019</p>
+</td>
+<td>
+<p>15.787.025,87</p>
+</td>
+<td>
+<p>5.446.374,71</p>
+</td>
+<td>
+<p>131.979,54</p>
+</td>
+<td>
+<p>5.578.354,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2020</p>
+</td>
+<td>
+<p>10.340.651,16</p>
+</td>
+<td>
+<p>5.446.374,71</p>
+</td>
+<td>
+<p>86.447,84</p>
+</td>
+<td>
+<p>5.532.822,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2021</p>
+</td>
+<td>
+<p>4.894.276,45</p>
+</td>
+<td>
+<p>4.894.276,45</p>
+</td>
+<td>
+<p>36.768,49</p>
+</td>
+<td>
+<p>4.931.044,94</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> Total</p>
+</td>
+<td>
+<p>27.231.873,55</p>
+</td>
+<td>
+<p>678.827,72</p>
+</td>
+<td>
+<p>27.910.701,27</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. Participación en el déficit (€):
+
+| Enagas Transporte, S.A.U. | 10.343.661,10 |
+|---|---|
+| Enagas Transporte del Norte, S.A. | 277.737,54 |
+| Gas Natural Distribución SDG, S.A. | 5.737.691,77 |
+| Gas Natural CEGAS, S.A. | 1.218.919,44 |
+| Gas Natural Andalucía, S.A. | 622.564,71 |
+| Gas Natural Castilla-La Mancha, S.A. | 448.372,09 |
+| Gas Natural Castilla y León, S.A. | 773.097,18 |
+| Gas Natural Transporte SDG, S.L. | 262.440,03 |
+| Gas Galicia SDG, S.A. | 363.684,35 |
+| Gas Navarra, S.A. | 271.617,85 |
+| Gas Natural Rioja, S.A. | 141.865,06 |
+| Gas Directo, S.A. | 12.525,40 |
+| Gas Natural Almacenamientos Andalucía, S.A. | 62.130,96 |
+| Redexis Gas, S.A. | 1.258.238,88 |
+| Redexis Infraestructuras, S.L. | 19.458,25 |
+| Redexis Gas Murcia, S.A. | 163.129,11 |
+| Naturgas Energía Distribución, S.A. | 1.736.617,57 |
+| Tolosa Gas, S.A. | 8.007,60 |
+| Gas Extremadura Transportista, S.L. | 69.495,83 |
+| D.C. de Gas Extremadura, S.A. | 115.095,04 |
+| Madrileña Red de Gas, S.A. | 1.325.493,66 |
+| Planta de Regasificación de Sagunto, S.A. | 925.329,16 |
+| Regasificadora del Noroeste, S.A. | 552.403,83 |
+| Bahía de Bizkaia Gas, S.L. | 525.605,02 |
+| Gasificadora Regional Canaria, S.A, | –3.336,80 |
+| Iberdrola Distribución de Gas, S.A.U. | 28,92 |
+| Total | 27.231.873,55 |

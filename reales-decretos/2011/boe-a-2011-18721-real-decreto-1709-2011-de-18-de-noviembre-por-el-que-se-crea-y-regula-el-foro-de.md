@@ -1,0 +1,193 @@
+---
+title: "Real Decreto 1709/2011, de 18 de noviembre, por el que se crea y regula el Foro de Cultura Inclusiva"
+identifier: "BOE-A-2011-18721"
+eli: "https://www.boe.es/eli/es/rd/2011/11/18/1709"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2011-11-18
+published: 2011-11-29
+in_force_from: 2011-11-30
+last_amended: 2025-09-10
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 287"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18721"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1709/2011, de 18 de noviembre, por el que se crea y regula el Foro de Cultura Inclusiva
+
+El artículo 30 de la Convención Internacional sobre los derechos de las personas con discapacidad reconoce el derecho de las personas con discapacidad a participar, en igualdad de condiciones con las demás, en la vida cultural. Entre las medidas que se prevén, destacan las dirigidas a permitir el acceso al material cultural en formatos accesibles y el acceso a lugares en donde se ofrezcan representaciones o servicios culturales; así como las dirigidas a que las personas con discapacidad puedan desarrollar y utilizar su potencial creativo, artístico e intelectual, no sólo en su propio beneficio sino también para el enriquecimiento de la sociedad.
+
+Con el fin de cumplir los objetivos asumidos por nuestro país al ratificar la Convención en relación al citado derecho, el Consejo de Ministros aprobó el 29 de julio de 2011, la Estrategia Integral Española de Cultura para Todos, a propuesta de las Ministras de Sanidad, Política Social e Igualdad y Cultura.
+
+Este documento propone la suma en un único plan de un conjunto de nuevas actuaciones junto a todas las medidas ya en marcha para que las personas con discapacidad puedan disfrutar de la cultura en condiciones plenas de accesibilidad. En su apartado 7 prevé la creación de un órgano interministerial de seguimiento de la aplicación de esta Estrategia, con la denominación de Foro de Cultura Inclusiva.
+
+El objeto de este real decreto es constituir el citado órgano de seguimiento de la aplicación de la Estrategia y regular su composición y funcionamiento.
+
+Este real decreto ha sido sometido a informe del Consejo Nacional de la Discapacidad.
+
+En su virtud, a propuesta de las Ministras de Sanidad, Política Social e Igualdad y de Cultura, con la aprobación previa del Vicepresidente del Gobierno de Política Territorial y Ministro de Política Territorial y Administración Pública y previa deliberación del Consejo de Ministros en su reunión del día 18 de noviembre de 2011,
+
+DISPONGO:
+
+## Artículo 1. Creación.
+
+Se crea el Foro de Cultura Inclusiva, con la finalidad de realizar el seguimiento de la aplicación de la Estrategia Integral Española de Cultura para Todos, cuyas competencias, estructura y régimen de funcionamiento se adecuarán a lo establecido en este real decreto.
+
+## Artículo 2. Naturaleza jurídica.
+
+El Foro de Cultura Inclusiva es un órgano colegiado interministerial de carácter consultivo, adscrito al Ministerio de Derechos Sociales, Consumo y Agenda 2030, e integrado por representantes del citado ministerio y del Ministerio de Cultura, así como por representantes del Consejo de Administración del Patrimonio Nacional, O.A., del Comité Español de Representantes de Personas con Discapacidad, de los centros de referencia públicos y privados y de personas expertas en el ámbito de aplicación de la Estrategia.
+
+> Se modifica por el art. 5.1 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.1 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Artículo 3. Funciones.
+
+a) Realizar el seguimiento de las líneas de actuación previstas en la Estrategia y de los plazos estipulados, conforme a los criterios de calidad previstos y asegurando su mantenimiento a largo plazo.
+
+b) Proporcionar información, asesoramiento y apoyo a los órganos, organismos e instituciones incluidos en el ámbito de aplicación de la Estrategia, así como a las organizaciones representativas de personas con discapacidad y de sus familias, con el fin de promover la implantación de medidas de accesibilidad.
+
+c) Elaborar un catálogo de indicadores y métricas, con el fin de favorecer la implantación y seguimiento de las medidas previstas en la Estrategia.
+
+d) Elaborar un informe bienal sobre la aplicación de la Estrategia, que será presentado al Consejo Nacional de la Discapacidad y publicado, una vez elevado al Consejo de Ministros.
+
+e) Realizar propuestas que incidan en el cumplimiento y desarrollo de la Estrategia.
+
+f) Generar un fondo de documentación técnica en accesibilidad que sirva como referencia en el trabajo de los y las profesionales de la cultura y del personal de los espacios culturales.
+
+g) Aquellas otras funciones que le encomienden los órganos responsables de las acciones o espacios culturales.
+
+> Se modifica por el art. 5.2 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+## Artículo 4. Composición.
+
+El Foro de Cultura Inclusiva estará compuesto por la presidencia, dos vicepresidencias, catorce vocalías y la secretaría. La composición del Foro atenderá al principio de presencia equilibrada de mujeres y hombres, según lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas, así como asegurará la participación de personas con discapacidad en este órgano.
+
+> Se modifica por el art. 5.3 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+## Artículo 5. Presidencia.
+
+1\. La Presidencia del Foro corresponde a la persona titular de la Secretaría de Estado de Cultura.
+
+2\. Corresponde al titular de la Presidencia:
+
+a) Dirigir, promover y coordinar la actuación del Foro.
+
+b) Ostentar la representación y ejercer las acciones que correspondan al Foro.
+
+c) Acordar la convocatoria de las sesiones ordinarias y extraordinarias del Foro y la fijación del orden del día de las sesiones teniendo en cuenta las propuestas y peticiones de sus miembros.
+
+d) Presidir las sesiones del Foro y moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+e) Velar por el cumplimiento de la normativa vigente.
+
+f) Visar las actas y certificaciones de los acuerdos del Foro.
+
+g) Cuantas otras funciones sean inherentes a su condición de titular de la Presidencia.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Artículo 6. Vicepresidencias.
+
+1\. Será titular de la vicepresidencia primera del Foro la persona titular de la Dirección General de Derechos de las Personas con Discapacidad, quien sustituirá a la presidencia en caso de ausencia, vacante, enfermedad u otra causa legal.
+
+2\. Será titular de la vicepresidencia segunda una persona representante del Comité Español de Representantes de Personas con Discapacidad, nombrada por la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030, a propuesta de dicho Comité.
+
+> Se modifica por el art. 5.4 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.3 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Artículo 7. Vocalías.
+
+1\. Las vocalías del Foro serán las siguientes:
+
+a) Dos, en representación del ministerio con competencias en cultura, nombradas por la persona titular del departamento.
+
+b) Una, en representación del Consejo de Administración del Patrimonio Nacional, O.A., nombrada por la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes a propuesta de la presidencia de dicho Consejo.
+
+c) Dos, en representación de la Dirección General de Derechos de las Personas con Discapacidad, nombradas por la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+
+d) Una, en representación del Real Patronato sobre Discapacidad, nombrada por la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+
+e) Seis vocales en representación y a propuesta de la asociación de utilidad pública más representativa de ámbito estatal que agrupe a las organizaciones más representativas de los diferentes tipos de discapacidad, nombradas por la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030, asegurando que cuatro de estas vocalías sean ocupadas por personas con discapacidad y las dos restantes por familiares de personas con discapacidad que formen parte de la junta directiva de las correspondientes organizaciones que representan en este órgano.
+
+f) Dos personas en representación de instituciones y organizaciones públicas y privadas con amplia experiencia en materia de accesibilidad a la cultura, nombradas por la persona titular del Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+
+2\. Las vocalías del Foro serán sustituidas por vocalías suplentes en los casos de ausencia, vacante, enfermedad u otra causa legal y, en general, cuando concurra alguna causa justificada. El nombramiento de las vocalías suplentes se efectuará de la misma forma que el de las titulares.
+
+> Se modifica por el art. 5.5 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Artículo 8. Secretaría.
+
+1\. Ejercerá la secretaría del Foro, con voz, pero sin voto, una persona funcionaria de carrera de la Dirección General de Derechos de las Personas con Discapacidad del Ministerio de Derechos Sociales, Consumo y Agenda 2030, nombrada por la persona titular del departamento, cuyo grado personal sea, al menos, 26.
+
+2\. Corresponde al titular de la secretaría:
+
+a) Asistir a las reuniones de los órganos del Foro.
+
+b) Convocar las sesiones, acompañando el orden del día con una antelación mínima de cuarenta y ocho horas, por orden de la Presidencia, así como enviar las citaciones a los miembros del Foro. En todo caso, la información sobre los temas que figuren en el orden del día estará en la secretaría del Foro, en formato accesible, a disposición de sus miembros.
+
+c) Recibir los actos de comunicación de los miembros con los órganos del Foro y, por tanto, las notificaciones, peticiones de datos, rectificaciones o cualquier otra clase de escritos de los que deba tener conocimiento.
+
+d) Preparar el despacho de los asuntos, redactar y autorizar las actas de las sesiones.
+
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+
+f) Cuantas otras funciones sean inherentes a su condición de titular de la secretaría.
+
+> Se modifica el apartado 1 por el art. 5.6 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Artículo 9. Personas expertas.
+
+La persona titular de la presidencia, a propuesta de los miembros que integran el Foro, podrá nombrar a personas expertas entre profesionales de reconocido prestigio y trayectoria en el ámbito de aplicación de la Estrategia que participarán, con voz y sin voto, en las sesiones del Foro, asesorando en materias de su conocimiento.
+
+> Se modifica por el art. 5.7 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+## Artículo 10. Funcionamiento.
+
+1\. El Foro de Cultura Inclusiva celebrará, al menos, una sesión ordinaria al año, cuya convocatoria será acordada por la persona titular de la presidencia, quien podrá acordar, asimismo, cuando lo estime justificado o cuando así lo solicite la mayoría de sus miembros, la convocatoria de sesiones extraordinarias.
+
+2\. El Pleno del Foro podrá crear grupos de trabajo a los que se podrá convocar a responsables o personas expertas seleccionadas por razón de la materia.
+
+3\. En lo no previsto en este real decreto, el funcionamiento del Foro se regirá por lo dispuesto en el capítulo II del Título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. 5.8 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+## Disposición adicional única. No incremento del gasto público.
+
+La aplicación de este real decreto no supondrá incremento del gasto público.
+
+El Ministerio de Derechos Sociales, Consumo y Agenda 2030 atenderá con sus medios personales y materiales a la constitución y funcionamiento del Foro de Cultura Inclusiva.
+
+> Se modifica por el art. 5.9 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.6 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Disposición final primera. Facultad de desarrollo.
+
+Se faculta a las personas titulares de los ministerios con competencias en Derechos Sociales, Consumo y Agenda 2030 y en Cultura para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de este real decreto.
+
+> Se modifica por el art. 5.10 del Real Decreto 796/2025, de 9 de septiembre. [Ref. BOE-A-2025-17928](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17928)
+
+> Se modifica por el art. único.7 del Real Decreto 1720/2012, de 28 de diciembre. [Ref. BOE-A-2013-307](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-307).
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 18 de noviembre de 2011.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+RAMÓN JÁUREGUI ATONDO

@@ -1,0 +1,4382 @@
+---
+title: "Real Decreto 773/2015, de 28 de agosto, por el que se modifican determinados preceptos del Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre"
+identifier: "BOE-A-2015-9607"
+eli: "https://www.boe.es/eli/es/rd/2015/08/28/773"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2015-08-28
+published: 2015-09-05
+in_force_from: 2015-11-05
+last_amended: 2019-12-06
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 213"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-9607"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 773/2015, de 28 de agosto, por el que se modifican determinados preceptos del Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre
+
+La disposición final tercera de la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público modificó el texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre, introduciendo diversas modificaciones en la regulación de la clasificación de empresas, así como en la acreditación tanto de la solvencia económica y financiera como en la solvencia técnica o profesional exigible para contratar con las Administraciones Públicas, remitiendo determinados aspectos de la misma a un posterior desarrollo reglamentario.
+
+En relación con la clasificación para los contratos de obras, la Ley establece en 500.000 euros el umbral de exigencia de clasificación, estableciendo igualmente que para los contratos de obras cuyo valor estimado sea inferior a dicha cifra el empresario podrá acreditar su solvencia indistintamente mediante su clasificación como contratista de obras en el grupo o subgrupo de clasificación correspondiente al contrato o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en el anuncio de licitación o en la invitación a participar en el procedimiento y detallados en los pliegos del contrato, y remitiendo a desarrollo reglamentario el establecimiento de los requisitos y medios que, en defecto de lo indicado en los pliegos, operarán en función de la naturaleza, objeto y valor estimado del contrato, medios y requisitos que tendrán carácter supletorio respecto de los que en su caso figuren en los pliegos.
+
+En relación con los contratos de servicios, la Ley dispone que no será exigible la clasificación del empresario, disponiendo igualmente que para dichos contratos el empresario podrá acreditar su solvencia indistintamente mediante su clasificación en el grupo o subgrupo de clasificación correspondiente al contrato, atendiendo para ello a su código CPV, o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en el anuncio de licitación o en la invitación a participar en el procedimiento y detallados en los pliegos del contrato, y al igual que sucede para los contratos de obras, remite a desarrollo reglamentario el establecimiento de los requisitos y medios que, en defecto de lo indicado en los pliegos, operarán en función de la naturaleza, objeto y valor estimado del contrato, medios y requisitos que tendrán carácter supletorio respecto de los que en su caso figuren en los pliegos.
+
+En relación con los criterios y medios de acreditación de la solvencia económica y financiera y de la solvencia técnica o profesional para los distintos tipos de contratos, la Ley actualiza la relación de medios alternativos contenida en los artículo 75 al 79 del texto refundido de la Ley de Contratos del Sector Público, impone al órgano de contratación la obligación de precisar en el anuncio o invitación y en los pliegos el medio o medios e importes exigidos para ello, y remite a desarrollo reglamentario el establecimiento de los medios e importes que en defecto de aquellos se exigirán a los empresarios que opten a la adjudicación del contrato.
+
+El presente real decreto viene a dar cumplimiento al desarrollo reglamentario exigido por los anteriores preceptos, así como a efectuar las adaptaciones necesarias en la estructura de la clasificación y su configuración en grupos, subgrupos y categorías, modificando para ello la regulación establecida al respecto en el Reglamento general de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre.
+
+En primer lugar, se modifica el artículo 11 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, adecuando a las nuevas disposiciones legales el sistema de determinación de los criterios de selección del contratista y de acreditación de los mismos por los empresarios, y fijando los medios y criterios a aplicar en defecto de lo establecido en los pliegos del contrato, cuando éstos no recojan con suficiente precisión los criterios de selección relativos a la solvencia económica y financiera o a la solvencia técnica y profesional exigidas para la adjudicación del contrato.
+
+En cuanto a la clasificación de los contratos de obras, se modifica el artículo 26 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, reajustando los umbrales de las distintas categorías, que pasan a denominarse mediante números crecientes en función de sus respectivos umbrales, partiendo de la categoría 1 para contratos de valor anual inferior a 150.000 euros y llegando hasta la categoría 6 para contratos de valor anual igual o superior a cinco millones de euros, reajustándose igualmente el patrimonio neto mínimo exigible para el acceso de las empresas a cada categoría de clasificación, fijado en el artículo 35 del Reglamento, que se cuantifica en el diez por ciento de la anualidad de los contratos a cuyo acceso habilita cada categoría, y en un millón de euros para el acceso a la máxima categoría, cuya obtención habilita a la adjudicación de contratos sin límite de importe.
+
+En segundo lugar, se modifican los artículos 27 y 29 de dicho Reglamento para, tal como dispone la Ley, ampliar a diez años el periodo durante el cual las obras en él ejecutadas serán tomadas en cuenta como prueba de la experiencia de los empresarios como contratistas de obras, así como regular las condiciones para la consideración como propia de la experiencia de las obras ejecutadas por las filiales constituidas en el extranjero. Igualmente, se modifica el artículo 35 del Reglamento, referido a la clasificación directa e indirecta en subgrupos, para adaptar esta a la nueva nomenclatura y umbrales de las categorías de clasificación y se establece como criterio mínimo de solvencia financiera que las empresas tengan un patrimonio neto equivalente al diez por ciento del valor anual de los contratos a los que la categoría a obtener les permite accede, y se flexibilizan y precisa las condiciones para la consideración a dichos efectos del patrimonio neto a fecha posterior a la de las últimas cuentas anuales aprobadas.
+
+En relación con la clasificación de contratos de servicios, que desde la entrada en vigor del presente real decreto deja de ser exigible, se modifica el artículo 37 del Reglamento, manteniendo la estructura general en grupos y subgrupos pero reduciendo significativamente su número, teniendo para ello en cuenta su grado de uso por los distintos órganos de contratación, suprimiendo aquellos subgrupos que son raramente incluidos en los contratos públicos, así como aquellos que, dado su grado de especialización o la naturaleza de las actividades que comprenden, la evaluación centralizada y uniforme de la capacidad y solvencia de los empresarios por comisiones nacionales de clasificación no ofrece ventajas significativas frente a la evaluación caso a caso por el órgano de contratación correspondiente, a la luz del objeto concreto y demás circunstancias específicas de cada contrato.
+
+En tercer lugar, y de acuerdo con lo dispuesto por la Ley, se modifica el Anexo II del Reglamento al objeto de delimitar el ámbito de trabajos incluidos en cada subgrupo en los términos definidos por el Vocabulario Común de Contratos Públicos (CPV), aprobado por el Reglamento (CE) 2195/2002 del Parlamento Europeo y del Consejo, estableciendo la correspondencia entre los subgrupos de clasificación y los códigos CPV de las actividades de servicios que corresponden a cada uno de ellos, de manera que la determinación del CPV de un contrato efectuada por el órgano de contratación determinará de modo inequívoco su correspondencia con alguno de los subgrupos de clasificación establecidos, o bien su no correspondencia con ninguno de ellos.
+
+En cuarto lugar, se modifica el artículo 38 del Reglamento, introduciendo una categoría adicional para contratos de anualidad media superior a 1,2 millones de euros, y pasando a designar las distintas categorías mediante números secuenciales cuyo valor creciente representa un mayor importe de los contratos, partiendo de la categoría 1 para contratos de valor anual inferior a 150.000 euros y llegando hasta la categoría 5 para contratos de valor anual igual o superior a 1,2 millones de euros.
+
+En quinto lugar, se modifican los artículos 39 y 45 del Reglamento, ampliando a cinco años, tal como dispone la Ley, el periodo durante el cual los trabajos en él ejecutados serán tomados en cuenta como prueba de la experiencia de los empresarios a efectos de su clasificación como contratistas de servicios, pero limitando a cuatro el número de trabajos a considerar como experiencia computable para cada subgrupo solicitado.
+
+En sexto lugar, se modifica el artículo 46 del Reglamento, suprimiendo la exigibilidad de la clasificación en los contratos de servicios, circunstancia que pasa a ser condición suficiente y medio de acreditación de la solvencia del empresario, alternativo a los determinados en el anuncio de licitación y en los pliegos de cada contrato por el órgano de contratación, o en su defecto a los establecidos en el artículo 11 del Reglamento.
+
+El artículo 67 del Reglamento establece el contenido de los pliegos de cláusulas administrativas particulares de los contratos públicos, incluyendo en sus apartados 3, 4, 5 y 7 los datos adicionales a incluir para los contratos de obras, de gestión de servicios públicos, de suministros y de servicios respectivamente, y se suprime el apartado 6, relativo a los contratos de consultoría y asistencia. En contraste con el considerable grado de detalle en la enumeración de los extremos a incluir en dichos pliegos, en relación con los criterios de selección del contratista el texto hasta ahora vigente se limita a efectuar una referencia genérica a los artículos 16 a 19 del hoy derogado texto refundido de la Ley de Contratos de las Administraciones Públicas. El presente real decreto viene a dar una nueva redacción, más precisa y ajustada a la Ley actual, a la letra b) de los apartados antes citados, en los que se regulan los criterios de selección de los contratos de obras, de suministros y de servicios respectivamente, incorporando de modo expreso y actualizado la relación de criterios alternativos de selección del empresario, tanto relativos a su solvencia económica y financiera como relativos a su solvencia técnica y profesional, a disposición del órgano de contratación para su incorporación a los pliegos.
+
+El articulado se complementa con dos disposiciones adicionales, cinco disposiciones transitorias, una disposición derogatoria, una disposición final y un anexo.
+
+En su disposición adicional primera, y con el fin de disponer de un mecanismo ágil que permita mantener a lo largo del tiempo la adecuación de los subgrupos de clasificación de actividades de servicios a las cambiantes circunstancias de la contratación pública, así como su alineación con las periódicas actualizaciones del Vocabulario Común de Contratos Públicos (CPV), se habilita al Ministro de Hacienda y Administraciones Públicas para actualizar, mediante Orden y previo informe de la Junta Consultiva de Contratación Administrativa del Estado, tanto la relación de subgrupos de clasificación como la correspondencia entre éstos y los códigos CPV en cada momento vigentes.
+
+Por su disposición adicional segunda se desconcentran competencias de contratación de determinados suministros y derechos de uso relativos a tecnologías de la información cuando su importe sea inferior a un millón de euros.
+
+La disposición transitoria primera precisa el régimen aplicable a los expedientes de contratación iniciados antes de la entrada en vigor del real decreto.
+
+La disposición transitoria segunda habilita un plazo suficientemente amplio durante el cual la exigencia de clasificación para los contratos de obras licitados tras la entrada en vigor del real decreto se considerará cumplida por los empresarios que dispongan de una clasificación equivalente a la exigida en los pliegos, otorgada y expresada en los términos vigentes antes de la entrada en vigor del real decreto, estableciendo asimismo el cuadro de equivalencias entre clasificaciones expresadas en los términos establecidos por el Real Decreto 1098/2001 y en los establecidos por el presente real decreto.
+
+La disposición transitoria tercera habilita igual plazo para el mantenimiento de los efectos acreditativos respecto de la solvencia del empresario por las clasificaciones correspondientes a los subgrupos de clasificación de servicios que el real decreto mantiene. Para las clasificaciones ostentadas en los subgrupos de clasificación de servicios que se suprimen establece un plazo más reducido de conservación de sus efectos, superado el cual la solvencia para los contratos de servicios que no correspondan a ninguno de los subgrupos de clasificación incluidos en el artículo 37 del Reglamento sólo podrá ser acreditada por los criterios y con los medios expresamente incluidos en los pliegos del contrato, o en su defecto por los establecidos en el artículo 11 del Reglamento. Al igual que sucede para los contratos de obras, se incluye el cuadro de equivalencias entre clasificaciones expresadas en los términos establecidos por el Real Decreto 1098/2001, de 12 de octubre, y en los establecidos por el presente real decreto.
+
+La disposición transitoria cuarta viene a cerrar el periodo de vigencia para las clasificaciones subsistentes obtenidas de acuerdo con la normativa anterior al real decreto, fijando la fecha a partir de la cual dichas clasificaciones perderán su vigencia, siendo dicha fecha la misma que pone fin al plazo durante el cual tales clasificaciones mantienen su eficacia en los términos fijados por las dos primeras disposiciones transitorias, así como a regular la justificación periódica del mantenimiento de la solvencia y sus efectos para el mantenimiento de la clasificación durante el periodo transitorio.
+
+La disposición transitoria quinta habilita un plazo para la adaptación de los formularios de solicitud de clasificación o de revisión de clasificación, así como de las aplicaciones informáticas que dan soporte a la tramitación de los expedientes de clasificación.
+
+La disposición final fija como fecha de entrada en vigor del real decreto el día siguiente al de su publicación en el Boletín Oficial del Estado, excepto para los efectos indicados en la disposición transitoria quinta.
+
+El texto del proyecto ha sido objeto de informe por la Junta Consultiva de Contratación Administrativa del Estado, informe que fue emitido con fecha 19 de mayo de 2015, de acuerdo con lo dispuesto en la disposición adicional primera del Reglamento general de la Ley de Contratos de las Administraciones Públicas.
+
+En su virtud, a propuesta del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de agosto de 2015,
+
+DISPONGO:
+
+## Artículo único. Modificación del Reglamento general de la Ley de Contratos de las Administraciones Públicas.
+
+Se modifica el Reglamento general de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre, en los términos que se recogen a continuación.
+
+Uno. Se modifica el artículo 11 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 11. Determinación de los criterios de selección de las empresas.
+
+1\. El órgano de contratación fijará en el pliego de cláusulas administrativas particulares los criterios que serán tenidos en cuenta para determinar la solvencia económica y financiera y la solvencia técnica o profesional del contratista, los requisitos mínimos exigidos en cada caso y los medios para acreditar el cumplimiento de los mismos, salvo en los caso previstos en el apartado 5.
+
+2\. En el caso de los contratos de obras, así como en los de servicios que por su objeto correspondan a algún subgrupo de clasificación, en el pliego se hará constar igualmente el grupo o subgrupo de clasificación y la categoría de clasificación que corresponden al contrato.
+
+3\. En los contratos de obras cuando el valor estimado del contrato sea igual o superior a 500.000 euros será requisito indispensable que el empresario se encuentre debidamente clasificado como contratista de obras de las Administraciones Públicas. Para dichos contratos, la clasificación del empresario en el grupo o subgrupo que en función del objeto del contrato corresponda, con categoría igual o superior a la exigida para el contrato, acreditará sus condiciones de solvencia para contratar.
+
+Cuando el valor estimado del contrato de obras sea inferior a 500.000 euros, así como para los contratos de servicios cuyo objeto esté incluido en el Anexo II de este Reglamento, la clasificación del empresario en el grupo o subgrupo de clasificación que en función del objeto del contrato corresponda, con la categoría de clasificación que por su valor anual medio corresponda, acreditará su solvencia económica y financiera y su solvencia técnica para contratar. En tales casos, el empresario podrá acreditar su solvencia indistintamente mediante su clasificación, o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en los pliegos del contrato y en su defecto con los requisitos y por los medios que se establecen en el apartado 4 de este artículo.
+
+4\. Para los contratos no sujetos al requisito de clasificación y no exentos del requisito de acreditación de la solvencia económica y financiera o de la solvencia técnica o profesional, cuando los pliegos no concreten los criterios y requisitos mínimos para su acreditación los licitadores o candidatos que no dispongan de la clasificación que en su caso corresponda al contrato acreditarán su solvencia económica y financiera, técnica y profesional por los siguientes criterios, requisitos mínimos y medios de acreditación:
+
+a) El criterio para la acreditación de la solvencia económica y financiera será el volumen anual de negocios del licitador o candidato, que referido al año de mayor volumen de negocio de los tres últimos concluidos deberá ser al menos una vez y media el valor estimado del contrato cuando su duración no sea superior a un año, y al menos una vez y media el valor anual medio del contrato si su duración es superior a un año.
+
+El volumen anual de negocios del licitador o candidato se acreditará por medio de sus cuentas anuales aprobadas y depositadas en el Registro Mercantil, si el empresario estuviera inscrito en dicho registro, y en caso contrario por las depositadas en el registro oficial en que deba estar inscrito. Los empresarios individuales no inscritos en el Registro Mercantil acreditarán su volumen anual de negocios mediante sus libros de inventarios y cuentas anuales legalizados por el Registro Mercantil.
+
+En los contratos cuyo objeto consista en servicios profesionales, en lugar del volumen anual de negocio, la solvencia económica y financiera se podrá acreditar mediante la disposición de un seguro de indemnización por riesgos profesionales, vigente hasta el fin del plazo de presentación de ofertas, por importe no inferior al valor estimado del contrato, así como aportar el compromiso de su renovación o prórroga que garantice el mantenimiento de su cobertura durante toda la ejecución del contrato. Este requisito se entenderá cumplido por el licitador o candidato que incluya con su oferta un compromiso vinculante de suscripción, en caso de resultar adjudicatario, del seguro exigido, compromiso que deberá hacer efectivo dentro del plazo de diez días hábiles al que se refiere el apartado 2 del artículo 151 del texto refundido de la Ley de Contratos del Sector Público.
+
+La acreditación de este requisito se efectuará por medio de certificado expedido por el asegurador, en el que consten los importes y riesgos asegurados y la fecha de vencimiento del seguro, y mediante el documento de compromiso vinculante de suscripción, prórroga o renovación del seguro, en los casos en que proceda.
+
+b) El criterio para la acreditación de la solvencia técnica o profesional será el de la experiencia en la realización de trabajos o suministros del mismo tipo o naturaleza al que corresponde el objeto del contrato, que se acreditará mediante la relación de los trabajos o suministros efectuados por el interesado en el curso de los cinco últimos años, o de los diez últimos años si se tratara de obras, en ambos casos correspondientes al mismo tipo o naturaleza al que corresponde el objeto del contrato, avalados por certificados de buena ejecución, y el requisito mínimo será que el importe anual acumulado en el año de mayor ejecución sea igual o superior al 70% del valor estimado del contrato, o de su anualidad media si esta es inferior al valor estimado del contrato. A efectos de determinar la correspondencia entre los trabajos o suministros acreditados y los que constituyen el objeto del contrato, cuando exista clasificación aplicable a este último se atenderá al grupo y subgrupo de clasificación al que pertenecen unos y otros, y en los demás casos a la coincidencia entre los dos primeros dígitos de sus respectivos códigos CPV.
+
+5\. Salvo que en los pliegos del contrato se establezca de modo expreso su exigencia, los licitadores o candidatos estarán exentos de los requisitos de acreditación de la solvencia económica y financiera y de acreditación de la solvencia técnica y profesional para los contratos de obras cuyo valor estimado no exceda de 80.000 euros y para los contratos de los demás tipos cuyo valor estimado no exceda de 35.000 euros.»
+
+Dos. Se modifica el artículo 26 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 26. Categorías de clasificación de los contratos de obras.
+
+Los contratos de obras se clasifican en categorías según su cuantía. La expresión de la cuantía se efectuará por referencia al valor estimado del contrato, cuando la duración de éste sea igual o inferior a un año, y por referencia al valor medio anual del mismo, cuando se trate de contratos de duración superior.
+
+Las categorías de los contratos de obras serán las siguientes:
+
+– Categoría 1, si su cuantía es inferior o igual a 150.000 euros.
+
+– Categoría 2, si su cuantía es superior a 150.000 euros e inferior o igual a 360.000 euros.
+
+– Categoría 3, si su cuantía es superior a 360.000 euros e inferior o igual a 840.000 euros.
+
+– Categoría 4, si su cuantía es superior a 840.000 euros e inferior o igual a 2.400.000 euros.
+
+– Categoría 5, si su cuantía es superior a 2.400.000 euros e inferior o igual a cinco millones de euros.
+
+– Categoría 6, si su cuantía es superior a cinco millones de euros.
+
+Las categorías 5 y 6 no serán de aplicación en los subgrupos pertenecientes a los grupos I, J y K. Para dichos subgrupos la máxima categoría de clasificación será la categoría 4, y dicha categoría será de aplicación a los contratos de dichos subgrupos cuya cuantía sea superior a 840.000 euros.»
+
+Tres. Se modifica el artículo 27 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 27. Clasificación de los empresarios en subgrupos.
+
+Para que un empresario pueda ser clasificado en un subgrupo de clasificación de contratistas de obras deberá acreditar, por cualquier medio admisible en derecho, que dispone de los medios personales, materiales, organizativos y técnicos necesarios para la ejecución de los trabajos del subgrupo, así como de las habilitaciones o autorizaciones para el ejercicio de la actividad que en su caso se requieran, y será preciso que acredite alguna de las circunstancias siguientes:
+
+a) Haber ejecutado obras específicas del subgrupo durante el transcurso de los últimos diez años.
+
+b) Haber ejecutado en el último decenio obras específicas de otros subgrupos afines, del mismo grupo, entendiéndose por subgrupos afines los que presenten analogías en cuanto a ejecución y equipos a emplear.
+
+c) Haber ejecutado, en el mismo período de tiempo señalado en los apartados anteriores, obras específicas de otros subgrupos del mismo grupo que presenten mayor complejidad en cuanto a ejecución y exijan equipos de mayor importancia, por lo que el subgrupo de que se trate pueda considerarse como dependiente de alguno de aquéllos.
+
+d) Cuando, sin acreditar haber ejecutado obras específicas del subgrupo en el último decenio, acredite disponer de suficientes medios financieros, de personal experimentado en la ejecución de las obras incluidas en el subgrupo, y de maquinaria o equipos de especial aplicación al tipo de obras incluidas en el subgrupo. A tales efectos, se entenderá que dispone de suficientes medios financieros cuando su patrimonio neto acreditado fehacientemente a la fecha de tramitación del expediente, según el último balance de cuentas aprobadas, supere los importes fijados en la letra d del apartado 1 del artículo 35 para la máxima categoría de clasificación que pueda llegar a obtener en cualquiera de los grupos y subgrupos solicitados.»
+
+Cuatro. Se modifica el artículo 29 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 29. Asignación de categorías de clasificación.
+
+1\. La asignación a un empresario de una categoría de clasificación en un determinado grupo o subgrupo exigirá que el empresario acredite su solvencia económica y financiera en los términos establecidos en este reglamento, y que demuestre su capacidad técnica y profesional para la ejecución de los contratos correspondientes a dicho grupo o subgrupo.
+
+2\. La categoría asignada al empresario en un subgrupo de clasificación respecto del cual cumpla con los requisitos establecidos en el apartado anterior será fijada tomando como base el mayor de los siguientes valores:
+
+a) El máximo importe anual ejecutado por el contratista en el último decenio en una obra correspondiente al subgrupo.
+
+b) El importe máximo ejecutado durante cualquiera de los diez últimos años naturales vencidos, o durante el año en curso si fuera superior, en un máximo de seis obras del subgrupo.
+
+A estos efectos, las obras ejecutadas por una sociedad extranjera filial del contratista de obras tendrán la misma consideración que las directamente ejecutadas por el propio contratista, siempre que este último ostente directa o indirectamente el control de aquélla en los términos establecidos en el artículo 42 del Código de Comercio. Cuando se trate de obras ejecutadas por una sociedad extranjera participada por el contratista sin que se cumpla dicha condición, solo se reconocerá como experiencia atribuible al contratista la obra ejecutada por la sociedad participada en la proporción de la participación de aquél en el capital social de esta.
+
+3\. La cifra básica así obtenida podrá ser mejorada en los porcentajes que a continuación se señalan:
+
+a) Un 20 por 100 fijo, de aplicación general a todos los contratistas, en concepto de natural expansión de las empresas.
+
+b) Hasta un 50 por 100 según cuál sea el número y categoría profesional de su personal directivo y técnico en su relación con el importe anual medio de obra ejecutada en el último quinquenio. También será tomada en consideración, en su caso, la asistencia técnica contratada.
+
+c) Hasta un 70 por 100 en función del importe actual de su parque de maquinaria relacionado también con el importe anual medio de la obra ejecutada en el último quinquenio. Serán también considerados los importes pagados por el concepto de alquiler de maquinaria.
+
+d) Hasta un 80 por 100 como consecuencia de la relación que exista entre el importe medio anual del patrimonio neto en los tres últimos ejercicios y el importe, también medio anual, de la obra ejecutada en el último quinquenio.
+
+e) Hasta un 100 por 100 dependiente del número de años de experiencia constructiva del contratista o de los importes de obra ejecutada en el último quinquenio.
+
+Todos los porcentajes que correspondan aplicar operarán directamente sobre la base, por lo que el mínimo aumento que ésta podrá experimentar será de un 20 por 100 y el máximo de un 320 por 100.
+
+4\. En los casos comprendidos en el párrafo d) del artículo 27, solo podrá otorgarse la clasificación con la categoría 1.
+
+5\. La categoría obtenida directamente en un subgrupo se hará extensiva a todos los subgrupos afines o dependientes del mismo.
+
+6\. La categoría en un grupo será una resultante de las obtenidas en los subgrupos básicos del mismo, deducida en la forma siguiente:
+
+a) Si el número de subgrupos básicos de un grupo no es superior a dos, la categoría en el grupo será la mínima obtenida en aquellos subgrupos.
+
+b) Si el número de subgrupos básicos de un grupo es superior a dos, la categoría en el grupo será la mínima de las obtenidas en los dos subgrupos en los que haya alcanzado las más elevadas.
+
+7\. La categoría obtenida en un grupo dará lugar a la clasificación con igual categoría en todos los subgrupos del mismo, salvo que le hubiera correspondido directamente otra mayor en alguno de ellos, en cuyos casos les serán éstas mantenidas.»
+
+Cinco. Se modifica el artículo 35 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 35. Clasificación directa e indirecta en subgrupos.
+
+1\. Para la clasificación directa en subgrupos se tendrán en cuenta las siguientes reglas:
+
+a) Para determinar las posibilidades de ejecución anual de un contratista en obras específicas de un subgrupo de los establecidos en el artículo 25, se hará aplicación de la siguiente fórmula: K = O x I.
+
+En la que los símbolos establecidos representan:
+
+O = Máximo importe anual que se considera ejecutado por el contratista en obras del subgrupo, calculado de acuerdo con lo dispuesto en el apartado 2 del artículo 29.
+
+I = índice propio de la empresa.
+
+b) El valor I obtenido de acuerdo con los artículos 30, 31, 32, 33 y 34, se transformará para su aplicación en la fórmula citada en el párrafo a) en un valor I’ obtenido conforme a la siguiente tabla de correspondencia:
+
+| I | I’ |
+|---|---|
+| 1,20 | 1,20 |
+| 1,30 | 1,40 |
+| 1,40 | 1,60 |
+| 1,50 | 1,70 |
+| 1,60 | 1,90 |
+| 1,70 | 2,00 |
+| 1,80 | 2,10 |
+| 1,90 | 2,30 |
+| 2,00 | 2,40 |
+| 2,10 | 2,50 |
+| 2,20 | 2,60 |
+| 2,30 | 2,70 |
+| 2,40 | 2,80 |
+| 2,50 | 2,90 |
+| 2,60 | 3,00 |
+| 2,70 | 3,10 |
+| 2,80 | 3,10 |
+| 2,90 | 3,20 |
+| 3,00 | 3,30 |
+| 3,10 | 3,40 |
+| 3,20 | 3,50 |
+| 3,30 | 3,60 |
+| 3,40 | 3,70 |
+| 3,50 | 3,80 |
+| 3,60 | 3,90 |
+| 3,70 | 4,00 |
+| 3,80 | 4,00 |
+| 3,90 | 4,10 |
+| 4,00 | 4,20 |
+| 4,10 | 4,20 |
+| 4,20 | 4,20 |
+
+c) El valor K obtenido en la fórmula del párrafo a) determinará la categoría que, en el subgrupo de que se trate, le corresponde al contratista con arreglo al siguiente cuadro:
+
+| Valor de K<br>–<br>(Euros) | Categoría |
+|---|---|
+| Hasta 150.000. | 1 |
+| Más de 150.000 y hasta 360.000. | 2 |
+| Más de 360.000 y hasta 840.000. | 3 |
+| Más de 840.000 y hasta 2.400.000. | 4 |
+| Más de 2.400.000 y hasta 5.000.000. | 5 |
+| Más de 5.000.000. | 6 |
+
+No obstante, en la clasificación que resulte de la comparación con la escala anterior no podrá ser otorgada, en ningún caso, una categoría superior en más de un grado de la referida escala a la que correspondería por la nueva consideración del valor de O multiplicado por 1,2.
+
+d) La aplicación de lo dispuesto en el párrafo a) requerirá que la empresa acredite su solvencia económica y financiera mediante la disponibilidad de patrimonio neto, según el balance correspondiente al último ejercicio de las cuentas anuales aprobadas, respecto de la fecha en que se solicite la clasificación, que, para cada una de las categorías, alcancen los siguientes importes:
+
+Categoría 1, 15.000 euros.
+
+Categoría 2, 36.000 euros.
+
+Categoría 3, 84.000 euros.
+
+Categoría 4, 240.000 euros.
+
+Categoría 5, 500.000 euros.
+
+Categoría 6, 1.000.000 euros.
+
+Cuando el valor del patrimonio neto no alcance los importes fijados para cada categoría, se asignará la misma en función de tales valores.
+
+No obstante lo anterior, cuando con posterioridad al cierre del último ejercicio social se hayan efectuado ampliaciones de capital, o se hayan producido hechos financieros relevantes y verificables cuyos efectos sobre el patrimonio neto de la sociedad sean equivalentes a los de una ampliación de capital, y dichas ampliaciones o hechos den lugar a un incremento del patrimonio neto respecto del existente al cierre del último ejercicio social, a los efectos previstos en este artículo podrá tomarse en cuenta el patrimonio neto que figure en unas cuentas anuales intermedias posteriores al cierre del último ejercicio social, aprobadas por la sociedad y auditadas en las mismas condiciones que las últimas cuentas anuales, siempre que el incremento del patrimonio neto al cierre de dichas cuentas intermedias respecto del que figure en las últimas cuentas anuales aprobadas se produzca como resultado directo de la ampliación de capital efectuada o del hecho financiero acaecido.
+
+e) Cuando no se acredite experiencia en la ejecución de obras correspondientes al subgrupo la clasificación a otorgar en función de lo establecido en el artículo 27, párrafo d), estará condicionada por la disponibilidad de patrimonio neto que se especifica en el apartado anterior.
+
+2\. La clasificación obtenida por un contratista con arreglo a las normas establecidas en el apartado 1 dará lugar a que se conceda clasificación, con idéntica categoría en otros subgrupos del mismo grupo considerados afines o dependientes de aquel en el que ha alcanzado clasificación, aun cuando no haya realizado obras específicas de ellos.
+
+Se establecen como subgrupos afines o dependientes los siguientes:
+
+a) Los clasificados en el subgrupo A-2, explanaciones, o en el A-5, túneles, quedarán también clasificados en los subgrupos A-1, A-3 y A-4.
+
+b) Los clasificados en el subgrupo B-2, de hormigón armado, quedarán clasificados en el B-1, de fábrica u hormigón en masa.
+
+c) Los clasificados en el subgrupo B-3, de hormigón pretensado, quedarán clasificados en los subgrupos B-2 y B-1.
+
+d) El subgrupo D-1, tendido de vías, clasifica al subgrupo D-5, obras de ferrocarriles sin cualificación específica.
+
+e) Los clasificados en cualquiera de los subgrupos E-1, abastecimientos y saneamientos, E-4, acequias y desagües, y E-5, defensas de márgenes y encauzamientos, quedarán igualmente clasificados en todos ellos y además clasificarán al subgrupo E-7, obras hidráulicas sin cualificación específica.
+
+f) Los clasificados en algunos de los subgrupos E-2, presas, E-3, canales o E-6, conducciones con tubería de presión de gran diámetro, quedarán automáticamente clasificados en los subgrupos E-1, E-4, E-5 y E-7, especificados en el párrafo anterior.
+
+g) Los clasificados en los subgrupos F-1, dragados, F-2, escolleras y F-4, con cajones de hormigón armado, clasificarán al subgrupo F-7, obras marítimas sin cualificación específica.
+
+h) Los clasificados en el subgrupo F-4, con cajones de hormigón armado, quedarán clasificados igualmente en el subgrupo F-3, con bloques de hormigón.
+
+i) El subgrupo G-1, autopistas, autovías, clasificará a los subgrupos G-2, pistas de aterrizaje, G-3, con firmes de hormigón hidráulico, G-4, con firmes de mezclas bituminosas, G-5, señalizaciones y balizamientos viales, G-6, obras viales sin cualificación específica.
+
+j) El subgrupo G-1, autopistas, autovías, también puede clasificarse si está clasificado en todos los subgrupos siguientes: A-2, explanaciones, A-5, túneles, B-3, de hormigón pretensado, G-3, con firmes de hormigón hidráulico, G-4, con firmes de mezclas bituminosas y K-2, sondeos, inyecciones y pilotajes. La categoría en este subgrupo corresponderá a la menor de las categorías del A-2, A-5, B-3, G-3, G-4 y K-2.
+
+k) El subgrupo G-3, con firmes de hormigón hidráulico y el subgrupo G-4, con firmes de mezclas bituminosas, clasificarán cualquiera de ellos al subgrupo G-6, obras viales sin cualificación específica.
+
+l) El subgrupo H-1, oleoductos, clasificará al subgrupo H-2, gasoductos, y el subgrupo H-2, gasoductos clasificará al subgrupo H-1, oleoductos.
+
+m) La clasificación en cualquier subgrupo de los I-1 al I-8, clasificará automáticamente al subgrupo I-9.»
+
+Seis. Se modifica el texto del artículo 37 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 37. Grupos y subgrupos de clasificación en los contratos de servicios.
+
+1\. Los grupos y subgrupos de actividades por especialidades, de aplicación para las empresas en los contratos de servicios, serán los siguientes:
+
+Grupo L)
+
+Subgrupo 1. Servicios auxiliares para trabajos administrativos de archivo y similares.
+
+Subgrupo 3. Encuestas, toma de datos y servicios análogos.
+
+Subgrupo 5. Organización y promoción de congresos, ferias y exposiciones.
+
+Subgrupo 6. Servicios de portería, control de accesos e información al público.
+
+Grupo M)
+
+Subgrupo 1. Higienización, desinfección, desinsectación y desratización.
+
+Subgrupo 2. Servicios de seguridad, custodia y protección.
+
+Subgrupo 4. Artes gráficas.
+
+Subgrupo 5. Servicios de bibliotecas, archivos y museos.
+
+Subgrupo 6. Hostelería y servicios de comida.
+
+Grupo O)
+
+Subgrupo 1. Conservación y mantenimiento de edificios.
+
+Subgrupo 2. Conservación y mantenimiento de carreteras, pistas, autopistas, autovías, calzadas y vías férreas.
+
+Subgrupo 3. Conservación, mantenimiento y explotación de redes de agua y alcantarillado.
+
+Subgrupo 4. Conservación, mantenimiento y explotación de estaciones depuradoras.
+
+Subgrupo 6. Conservación y mantenimiento de montes y jardines.
+
+Grupo P)
+
+Subgrupo 1. Mantenimiento y reparación de equipos e instalaciones eléctricas y electrónicas.
+
+Subgrupo 2. Mantenimiento y reparación de equipos e instalaciones de fontanería, conducciones de agua y gas.
+
+Subgrupo 3. Mantenimiento y reparación de equipos e instalaciones de calefacción y aire acondicionado.
+
+Subgrupo 5. Mantenimiento y reparación de equipos e instalaciones de seguridad y contra incendios.
+
+Subgrupo 7. Mantenimiento y reparación de equipos e instalaciones de aparatos elevadores y de traslación horizontal.
+
+Grupo Q)
+
+Subgrupo 1. Mantenimiento y reparación de maquinaria.
+
+Subgrupo 2. Mantenimiento y reparación de vehículos.
+
+Grupo R)
+
+Subgrupo 1. Transporte de viajeros por carretera.
+
+Subgrupo 2. Traslado de enfermos por cualquier medio de transporte.
+
+Subgrupo 5. Recogida y transporte de residuos.
+
+Subgrupo 6. Servicios aéreos.
+
+Subgrupo 9. Servicios de mensajería, correspondencia y distribución.
+
+Grupo T)
+
+Subgrupo 1. Servicios de publicidad.
+
+Subgrupo 5. Servicios de traductores e intérpretes.
+
+Grupo U)
+
+Subgrupo 1. Servicios de limpieza.
+
+Subgrupo 4. Agencias de viajes.
+
+Subgrupo 8. Servicios de información y asistencia telefónicas.
+
+Grupo V)
+
+Subgrupo 3. Mantenimiento y reparación de equipos e instalaciones informáticos y de telecomunicaciones.
+
+Subgrupo 4. Servicios de telecomunicaciones.
+
+Subgrupo 5. Explotación y control de sistemas informáticos e infraestructuras telemáticas.
+
+2\. Los trabajos o actividades comprendidos en cada uno de los subgrupos de clasificación son los detallados en el Anexo II, en el que se recoge la correspondencia de los subgrupos de clasificación de servicios con los códigos CPV de los trabajos incluidos en cada subgrupo.»
+
+Siete. Se modifica el artículo 38 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 38. Categorías de clasificación en los contratos de servicios.
+
+Los contratos de servicios se clasifican en categorías según su cuantía. La expresión de la cuantía se efectuará por referencia al valor estimado del contrato, cuando la duración de éste sea igual o inferior a un año, y por referencia al valor medio anual del mismo, cuando se trate de contratos de duración superior.
+
+Las categorías de los contratos de servicios serán las siguientes:
+
+Categoría 1, cuando la cuantía del contrato sea inferior a 150.000 euros.
+
+Categoría 2, cuando la cuantía del contrato sea igual o superior a 150.000 euros e inferior a 300.000 euros.
+
+Categoría 3, cuando la cuantía del contrato sea igual o superior a 300.000 euros e inferior a 600.000 euros.
+
+Categoría 4, cuando la cuantía del contrato sea igual o superior a 600.000 euros e inferior a 1.200.000 euros.
+
+Categoría 5, cuando la cuantía del contrato sea igual o superior a 1.200.000 euros.»
+
+Ocho. Se modifica el artículo 39 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 39. Clasificación en subgrupos y categorías.
+
+1\. Para que un contratista pueda ser clasificado en un subgrupo de clasificación de contratistas de servicios deberá acreditar, por cualquier medio admisible en derecho, que dispone de los medios personales, materiales, organizativos y técnicos necesarios para la ejecución de los trabajos del subgrupo, así como de las habilitaciones o autorizaciones para el ejercicio de la actividad o profesión que en su caso se requieran, y será preciso que acredite alguna de las circunstancias siguientes:
+
+a) Haber ejecutado al menos un contrato de servicios específicos del subgrupo durante el transcurso de los cinco últimos años.
+
+b) Cuando sin acreditar haber ejecutado contratos de servicio específicos del subgrupo en los cinco últimos años se disponga de suficientes medios financieros, de personal técnico experimentado y de maquinaria o equipos de especial aplicación al tipo de actividad a que se refiera el subgrupo. A tales efectos, se entenderá que dispone de suficientes medios financieros cuando su patrimonio neto acreditado fehacientemente a la fecha de tramitación del expediente, según el último balance de cuentas aprobadas, sea igual o superior a la décima parte de la anualidad media de los contratos para cuya adjudicación le habilita la máxima categoría de clasificación que pueda llegar a obtener en cualquiera de los grupos y subgrupos solicitados.
+
+2\. Para los empresarios que cumplan los requisitos establecidos en la letra a del apartado anterior, la categoría en el subgrupo solicitado será fijada tomando como base el mayor de los siguientes importes:
+
+a) El máximo importe anual que haya sido ejecutado por el contratista en los cinco últimos años en un único trabajo correspondiente al subgrupo.
+
+b) El importe máximo anual ejecutado en uno los cinco últimos años naturales en un máximo de cuatro trabajos del subgrupo, afectado este importe de un coeficiente reductor dependiente del número de ellos.
+
+3\. La mayor cifra de las obtenidas en cualquiera de las dos formas establecidas en el apartado anterior podrá ser mejorada en los tantos por ciento que a continuación se señalan:
+
+a) Un 20 por 100 fijo, de aplicación general a todos los contratistas en concepto de natural expansión de las empresas.
+
+b) Hasta un 50 por 100, según cuál sea el número y categoría profesional de su personal técnico en su relación con el importe anual medio del trabajo ejecutado en los últimos tres años. También será tomada en consideración, en su caso, la asistencia técnica contratada.
+
+c) Hasta un 70 por 100, en función del importe actual de su maquinaria, relacionado también con el importe anual medio de los contratos de servicios ejecutados en los últimos tres años. Serán también considerados los importes pagados por el concepto de alquiler de maquinaria.
+
+d) Hasta un 80 por 100, como consecuencia de la relación que exista entre el importe medio anual de patrimonio neto en los últimos tres ejercicios y el importe, también medio anual, de los contratos de servicios ejecutados en el mismo período de tiempo.
+
+e) Hasta un 100 por 100, dependiendo del número de años de experiencia del contratista o de los importes de los contratos de servicios ejecutados en el último trienio.
+
+Todos los tantos por ciento que corresponda aplicar operarán directamente sobre la base, por lo que el mínimo aumento que ésta podrá experimentar será de un 20 por 100, y el máximo de un 320 por 100.
+
+4\. En los casos comprendidos en el apartado 1, letra b, solo podrá otorgarse la clasificación con la categoría 1.»
+
+Nueve. Se modifica el artículo 45 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 45. Clasificación directa en subgrupos y en casos especiales.
+
+A) Clasificación directa en subgrupos.
+
+1\. Para determinar las posibilidades de ejecución anual de una empresa en servicios específicos de un subgrupo de los establecidos en el artículo 37 se aplicará la siguiente fórmula:
+
+K = O × I,
+
+en la que los símbolos establecidos representan:
+
+O, máximo importe anual ejecutado por la empresa en un contrato del subgrupo.
+
+I, índice propio de la empresa.
+
+2\. Se considerará como máximo importe anual ejecutado por una empresa en un subgrupo (O) el mayor de los dos valores siguientes:
+
+a) El importe de la anualidad máxima ejecutado en un contrato del subgrupo en el último quinquenio.
+
+b) Máximo valor que resulte en el quinquenio al multiplicar el importe ejecutado en cada año del mismo en un máximo de cuatro contratos del subgrupo, por un coeficiente dependiente del número de ellos en ejecución simultánea, dado por el siguiente cuadro:
+
+| Número de contratos | Coeficiente |
+|---|---|
+| 1 | 1 |
+| 2 | 0,9 |
+| 3 | 0,8 |
+| 4 | 0,7 |
+
+3\. El valor obtenido en la fórmula del apartado A)1 determinará la categoría que, en el subgrupo de que se trate, le corresponda a la empresa de servicios con arreglo al siguiente cuadro:
+
+| K<br>–<br>(Euros) | Categoría |
+|---|---|
+| Hasta 150.000 | 1 |
+| Igual o superior a 150.000 e inferior a 300.000 | 2 |
+| Igual o superior a 300.000 e inferior a 600.000 | 3 |
+| Igual o superior a 600.000 e inferior a 1.200.000 | 4 |
+| Igual o superior a 1.200.000 | 5 |
+
+No obstante la clasificación que resulte de la comparación con la escala anterior, no podrá ser otorgada una categoría superior en más de un grado de la referida escala a la que le correspondería por la mera consideración del valor de O multiplicado por 1,2.
+
+B) Clasificación en casos especiales.
+
+1\. Se entenderán como casos especiales de clasificación todos aquellos en los que no tenga aplicación directa la fórmula del apartado A)1, por no haber realizado la empresa en el último quinquenio trabajo alguno del tipo para el que solicita clasificación.
+
+2\. En todos los casos especiales la procedencia de la clasificación será el resultado estimativo de las posibilidades que encierra la empresa para la ejecución del tipo de trabajo de que se trate, deducido del examen de los extremos siguientes:
+
+a) Experiencia del personal directivo y técnico en el tipo de trabajo que corresponda al subgrupo solicitado.
+
+b) Maquinaria y equipos de que disponga de especial aplicación al tipo de trabajo de que se trate.
+
+3\. Una vez estimada la procedencia de la clasificación en el subgrupo solicitado, se determinará la categoría que le corresponde en el mismo, mediante aplicación de la fórmula del apartado A)1, fijando por apreciación el valor que debe adoptarse para el factor O representativo del máximo importe anual que se considera que puede actualmente ser ejecutado por la empresa en los trabajos de servicios del subgrupo.»
+
+Diez. Se modifica el artículo 46 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, que queda redactado del siguiente modo:
+
+«Artículo 46. Exigencia y efectos de la clasificación de servicios.
+
+Para los contratos de servicios no será exigible la clasificación del empresario. En el anuncio de licitación o en la invitación a participar en el procedimiento y en los pliegos del contrato se establecerán los criterios y requisitos mínimos de solvencia económica y financiera y de solvencia técnica o profesional tanto en los términos establecidos en el artículo 67 del presente reglamento como en términos de subgrupo de clasificación y de categoría mínima exigible, siempre que el objeto del contrato esté incluido en el ámbito de clasificación de alguno de los grupos o subgrupos de clasificación vigentes, atendiendo para ello al código CPV del contrato. En tales casos, el empresario podrá acreditar su solvencia indistintamente mediante su clasificación en el subgrupo de clasificación correspondiente al contrato o bien acreditando el cumplimiento de los requisitos específicos de solvencia exigidos en el anuncio de licitación o en la invitación a participar en el procedimiento y detallados en los pliegos del contrato. En defecto de estos, la acreditación de la solvencia se efectuará de acuerdo con lo dispuesto en el apartado 4 del artículo 11.»
+
+Once. Se modifica la letra b) del apartado 3 del artículo 67, que queda redactado del siguiente modo:
+
+«b) Criterios de selección del contratista.
+
+1.º Grupo o subgrupo de clasificación y categoría de clasificación del contrato. Disponer de clasificación en el grupo o subgrupo correspondiente al contrato, con categoría igual o superior a la correspondiente a su importe anual medio, constituirá acreditación bastante de la solvencia económica, financiera y técnica del empresario. Para los contratos de obras de importe igual o superior al umbral de exigencia de clasificación, dicha condición constituirá además requisito exigible para la selección del contratista, salvo en los casos de exención de dicha condición establecidos por la Ley.
+
+2.º Criterios de selección relativos a la solvencia económica y financiera del empresario, exigibles a los empresarios no obligados al requisito de clasificación y que no acrediten la correspondiente al contrato, especificando uno o varios de entre los siguientes:
+
+• Cifra anual de negocios, o bien cifra anual de negocios en el ámbito al que se refiera el contrato, en los tres últimos años, con indicación expresa del valor mínimo exigido.
+
+• Patrimonio neto, o bien ratio entre activos y pasivos, al cierre del último ejercicio económico para el que esté vencida la obligación de aprobación de cuentas anuales, con indicación expresa del valor mínimo exigido o del ratio mínimo exigido, respectivamente.
+
+3.º Criterios de selección y medios de acreditación relativos a la solvencia técnica del empresario, exigibles a los empresarios no obligados al requisito de clasificación y que no acrediten la correspondiente al contrato, especificando uno o varios de entre los siguientes:
+
+• Relación de las obras ejecutadas en el curso de los últimos diez años correspondientes al mismo grupo o subgrupo de clasificación al que corresponde el contrato, avalada por certificados de buena ejecución para las obras más importantes; estos certificados indicarán el importe, las fechas y el lugar de ejecución de las obras y se precisará si se realizaron según las reglas por las que se rige la profesión y se llevaron normalmente a buen término. Los certificados de buena ejecución de las obras incluidas en la relación cuyo destinatario fuese una entidad del sector público podrán ser comunicados directamente al órgano de contratación por la entidad contratante de las obras.
+
+A estos efectos, las obras ejecutadas por una sociedad extranjera filial del contratista de obras tendrán la misma consideración que las directamente ejecutadas por el propio contratista, siempre que este último ostente directa o indirectamente el control de aquélla en los términos establecidos en el artículo 42 del Código de Comercio. Cuando se trate de obras ejecutadas por una sociedad extranjera participada por el contratista sin que se cumpla dicha condición, solo se reconocerá como experiencia atribuible al contratista la obra ejecutada por la sociedad participada en la proporción de la participación de aquél en el capital social de ésta.
+
+En los pliegos se especificará el importe anual sin incluir los impuestos que el empresario deberá acreditar como ejecutado, en el año de mayor ejecución del periodo antes indicado, en trabajos del grupo o subgrupo al que corresponde el contrato.
+
+• Declaración indicando los técnicos o las unidades técnicas, estén o no integradas en la empresa, de los que ésta disponga para la ejecución de las obras, acompañada de los documentos acreditativos correspondientes. En los pliegos se especificarán los títulos o acreditaciones académicos o profesionales exigidos, así como el número de técnicos y de experiencia profesional mínima exigida a dichos técnicos, o las características y capacidades mínimas de las unidades técnicas exigidas, según corresponda.
+
+• Títulos académicos y profesionales del empresario y de los directivos de la empresa y, en particular, del responsable o responsables de las obras. En los pliegos se especificarán los títulos o acreditaciones académicos o profesionales exigidos.
+
+• En los casos adecuados, indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato, con indicación expresa de las normas técnicas o especificaciones técnicas aplicables a la ejecución y a la verificación objetiva de la correcta aplicación de dichas medidas.
+
+• Declaración sobre la plantilla media anual de la empresa y la importancia de su personal directivo durante los tres últimos años, acompañada de la documentación justificativa correspondiente. En los pliegos se especificarán los valores mínimos exigidos de los mismos.
+
+• Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de las obras, a la que se adjuntará la documentación acreditativa pertinente. En los pliegos se especificarán la maquinaria, material y equipos que como mínimo deben estar a disposición del empresario, así como las capacidades funcionales mínimas de cada uno de ellos.»
+
+Doce. Se modifica la letra b) del apartado 4 del artículo 67, que queda redactado del siguiente modo:
+
+«b) Criterios de selección del contratista.
+
+1.º Criterios de selección relativos a la solvencia económica y financiera del empresario que se aplicarán, especificando uno o varios de entre los siguientes:
+
+• Cifra anual de negocios, o bien cifra anual de negocios en el ámbito al que se refiera el contrato, en los tres últimos años, con indicación expresa del valor mínimo exigido.
+
+• En los casos en que resulte apropiado, justificante de la existencia de un seguro de indemnización por riesgos profesionales, con indicación expresa de los riesgos cubiertos, de su plazo mínimo de vigencia o fecha de vencimiento y del valor mínimo exigido.
+
+• Patrimonio neto, o bien ratio entre activos y pasivos, al cierre del último ejercicio económico para el que esté vencida la obligación de aprobación de cuentas anuales, con indicación expresa del valor mínimo exigido o del ratio mínimo exigido, respectivamente.
+
+2.º Criterios de selección relativos a la solvencia técnica o profesional del empresario que se aplicarán, especificando uno o varios de entre los siguientes:
+
+• Una relación de los principales servicios realizados en los últimos cinco años que incluya importe, fechas y el destinatario, público o privado, de los mismos. Los servicios o trabajos efectuados se acreditarán mediante certificados expedidos o visados por el órgano competente, cuando el destinatario sea una entidad del sector público; cuando el destinatario sea un sujeto privado, mediante un certificado expedido por éste o, a falta de este certificado, mediante una declaración del empresario; en su caso, estos certificados serán comunicados directamente al órgano de contratación por la autoridad competente. En los pliegos se especificará el importe anual que el empresario deberá acreditar como ejecutado durante el año de mayor ejecución del periodo citado, en servicios de igual o similar naturaleza que los que constituyen el objeto del contrato, tomando como criterio de correspondencia entre los servicios ejecutados por el empresario y los que constituyen el objeto del contrato la pertenencia al mismo subgrupo de clasificación, si el contrato estuviera encuadrado en alguno de los establecidos en este reglamento, y en caso contrario la igualdad entre los dos primeros dígitos de los respectivos códigos CPV. Los certificados de buena ejecución de los servicios incluidos en la relación cuyo destinatario fue una entidad del sector público podrán ser comunicados directamente al órgano de contratación por la entidad contratante de los servicios.
+
+• Indicación del personal técnico o de las unidades técnicas, integradas o no en la empresa, participantes en el contrato, especialmente aquéllos encargados del control de calidad. Cuando en los pliegos se incluya este criterio, en ellos se precisarán los títulos o acreditaciones académicos o profesionales exigidos al personal técnico del empresario así como el número de técnicos y experiencia profesional mínima exigida a dichos técnicos, o las características y capacidades mínimas de las unidades técnicas exigidas, según corresponda.
+
+• Descripción de las instalaciones técnicas, de las medidas empleadas por el empresario para garantizar la calidad y de los medios de estudio e investigación de la empresa. Cuando en los pliegos se incluya este criterio, en ellos se precisarán las funcionalidades y se cuantificarán las capacidades mínimas exigidas para cada uno de los medios exigidos.
+
+• Cuando se trate de servicios o trabajos complejos o cuando, excepcionalmente, deban responder a un fin especial, un control efectuado por el órgano de contratación o, en nombre de éste, por un organismo oficial u homologado competente del Estado en que esté establecido el empresario, siempre que medie acuerdo de dicho organismo. El control versará sobre la capacidad técnica del empresario y, si fuese necesario, sobre los medios de estudio y de investigación de que disponga y sobre las medidas de control de la calidad. Cuando en los pliegos se incluya este criterio, en ellos se describirá de modo preciso en términos funcionales y se cuantificará la capacidad mínima exigida al empresario en términos de unidades o medidas apropiadas a la naturaleza de los servicios contratados. Si también se incluyeran controles sobre los medios de estudio e investigación o sobre las medidas empleadas para controlar la calidad, los pliegos deberán precisar las funcionalidades y cuantificar las capacidades mínimas exigidas a unos y a otras.
+
+• Las titulaciones académicas y profesionales del empresario y del personal directivo de la empresa y, en particular, del personal responsable de la ejecución del contrato. En los pliegos se especificarán los títulos o acreditaciones académicos o profesionales exigidos, y los documentos admitidos para su acreditación.
+
+• En los casos adecuados, indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato, con indicación expresa de las normas técnicas o especificaciones técnicas aplicables a la ejecución y a la verificación objetiva de la correcta aplicación de dichas medidas.
+
+• Declaración sobre la plantilla media anual de la empresa y la importancia de su personal directivo durante los tres últimos años, acompañada de la documentación justificativa correspondiente. En los pliegos se especificarán los valores mínimos exigidos de los mismos.
+
+• Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de los trabajos, a la que se adjuntará la documentación acreditativa pertinente. En los pliegos se especificarán la maquinaria, material y equipos que como mínimo deben estar a disposición del empresario, así como las capacidades funcionales mínimas de cada uno de ellos.
+
+• Parte o partes del contrato que el empresario tiene el propósito de subcontratar. En los pliegos se especificará el porcentaje máximo de subcontratación admitido, y en su caso, la parte o partes del contrato que no puedan ser objeto de subcontratación a un tercero.
+
+Cuando el cumplimiento del contrato exija la ejecución de obras o instalaciones, los pliegos podrán recoger adicionalmente uno varios de los criterios de selección relativos a la solvencia del empresario aplicables a los contratos de obras, de entre los incluidos en el punto 3º de la letra b) del apartado 3.»
+
+Trece. Se modifica la letra b) del apartado 5 del artículo 67, que queda redactado del siguiente modo:
+
+«b) Criterios de selección del contratista.
+
+1.º Criterios de selección relativos a la solvencia económica y financiera del empresario que se aplicarán, especificando uno o varios de entre los siguientes:
+
+• Cifra anual de negocios, o bien cifra anual de negocios en el ámbito al que se refiera el contrato, en los tres últimos años, con indicación expresa del valor mínimo exigido.
+
+• Patrimonio neto, o bien ratio entre activos y pasivos, al cierre del último ejercicio económico para el que esté vencida la obligación de aprobación de cuentas anuales, con indicación expresa del valor mínimo exigido, o del ratio mínimo exigido, respectivamente.
+
+2.º Criterios de selección relativos a la solvencia técnica del empresario que se aplicarán, especificando uno o varios de entre los siguientes:
+
+• Relación de los principales suministros efectuados durante los cinco últimos años que sean de igual o similar naturaleza que los que constituyen el objeto del contrato, atendiendo a tal efecto a los dos primeros dígitos de los respectivos códigos CPV, indicando su importe, fechas y destinatario público o privado de los mismos. Los suministros efectuados se acreditarán mediante certificados expedidos o visados por el órgano competente, cuando el destinatario sea una entidad del sector público o cuando el destinatario sea un comprador privado, mediante un certificado expedido por éste o, a falta de este certificado, mediante una declaración del empresario. En los pliegos se especificará el importe anual que el empresario deberá acreditar como ejecutado, en el año de mayor ejecución del periodo antes indicado, en suministros de igual o similar naturaleza que los del contrato. Los certificados de buena ejecución de los suministros incluidos en la relación cuyo destinatario fue una entidad del sector público podrán ser comunicados directamente al órgano de contratación por la entidad contratante del suministro.
+
+• Indicación del personal técnico o unidades técnicas, integradas o no en la empresa, de los que se disponga para la ejecución del contrato, especialmente los encargados del control de calidad. Cuando en los pliegos se incluya este criterio, en ellos se precisarán los títulos o acreditaciones académicos o profesionales exigidos al personal técnico del empresario así como el número de técnicos y experiencia profesional mínima exigida a dichos técnicos, o las características y capacidades mínimas de las unidades técnicas exigidas, según corresponda.
+
+• Descripción de las instalaciones técnicas, de las medidas empleadas para garantizar la calidad y de los medios de estudio e investigación de la empresa. Cuando en los pliegos se incluya este criterio, en ellos se precisarán las funcionalidades y se cuantificarán las capacidades mínimas exigidas para cada uno de los medios exigidos por el criterio.
+
+• Control efectuado por la entidad del sector público contratante o, en su nombre, por un organismo oficial competente del Estado en el cual el empresario está establecido, siempre que medie acuerdo de dicho organismo, cuando los productos a suministrar sean complejos o cuando, excepcionalmente, deban responder a un fin particular. Este control versará sobre la capacidad de producción del empresario y, si fuera necesario, sobre los medios de estudio e investigación con que cuenta, así como sobre las medidas empleadas para controlar la calidad. Cuando en los pliegos se incluya este criterio, en ellos se precisará la capacidad mínima de producción exigida al empresario en términos de unidades físicas producidas por unidad de tiempo en condiciones normales de producción. Si también se incluyeran controles sobre los medios de estudio e investigación o sobre las medidas empleadas para controlar la calidad los pliegos deberán precisar las funcionalidades y cuantificar las capacidades mínimas exigidas a unos y a otras.
+
+• Certificados expedidos por los institutos o servicios oficiales encargados del control de calidad, de competencia reconocida, que acrediten la conformidad de productos perfectamente detallada mediante referencias a determinadas especificaciones o normas. Cuando en los pliegos se incluya este criterio, en ellos se precisarán las normas técnicas o especificaciones técnicas oficiales respecto de las que deberá ser acreditada la conformidad por los certificados exigidos.
+
+• Aportación de muestras, descripciones y fotografías de los productos a suministrar, cuya autenticidad pueda certificarse a petición de la entidad contratante.»
+
+Catorce. Se modifica la letra b) del apartado 7 del artículo 67, que queda redactado del siguiente modo:
+
+«b) Criterios de selección del contratista.
+
+1.º Grupo o subgrupo de clasificación y categoría de clasificación del contrato. Disponer de clasificación en el subgrupo correspondiente al contrato, con categoría igual o superior a la correspondiente a su importe anual medio, constituirá acreditación bastante de la solvencia económica, financiera y técnica del empresario.
+
+2.º Criterios de selección relativos a la solvencia económica y financiera del empresario que se aplicarán, especificando uno o varios de entre los siguientes:
+
+• Cifra anual de negocios, o bien cifra anual de negocios en el ámbito al que se refiera el contrato, en los tres últimos años, con indicación expresa del valor mínimo exigido.
+
+• En los casos en que resulte apropiado, justificante de la existencia de un seguro de indemnización por riesgos profesionales, con indicación expresa de los riesgos cubiertos, de su plazo mínimo de vigencia o fecha de vencimiento y del valor mínimo exigido.
+
+• Patrimonio neto, o bien ratio entre activos y pasivos, al cierre del último ejercicio económico para el que esté vencida la obligación de aprobación de cuentas anuales, con indicación expresa del valor mínimo exigido o del ratio mínimo exigido, respectivamente.
+
+3.º Criterios de selección relativos a la solvencia técnica o profesional del empresario que se aplicarán, especificando uno o varios de entre los siguientes:
+
+• Una relación de los principales servicios realizados en los últimos cinco años que incluya importe, fechas y el destinatario, público o privado, de los mismos. Los servicios o trabajos efectuados se acreditarán mediante certificados expedidos o visados por el órgano competente, cuando el destinatario sea una entidad del sector público; cuando el destinatario sea un sujeto privado, mediante un certificado expedido por éste o, a falta de este certificado, mediante una declaración del empresario; en su caso, estos certificados serán comunicados directamente al órgano de contratación por la autoridad competente. En los pliegos se especificará el importe anual que el empresario deberá acreditar como ejecutado durante el año de mayor ejecución del periodo citado, en servicios de igual o similar naturaleza que los que constituyen el objeto del contrato, tomando como criterio de correspondencia entre los servicios ejecutados por el empresario y los que constituyen el objeto del contrato la pertenencia al mismo subgrupo de clasificación, si el contrato estuviera encuadrado en alguno de los establecidos en este reglamento, y en caso contrario la igualdad entre los dos primeros dígitos de los respectivos códigos CPV. Los certificados de buena ejecución de los servicios incluidos en la relación cuyo destinatario fue una entidad del sector público podrán ser comunicados directamente al órgano de contratación por la entidad contratante de los servicios.
+
+• Indicación del personal técnico o de las unidades técnicas, integradas o no en la empresa, participantes en el contrato, especialmente aquéllos encargados del control de calidad. Cuando en los pliegos se incluya este criterio, en ellos se precisarán los títulos o acreditaciones académicos o profesionales exigidos al personal técnico del empresario así como el número de técnicos y experiencia profesional mínima exigida a dichos técnicos, o las características y capacidades mínimas de las unidades técnicas exigidas, según corresponda.
+
+• Descripción de las instalaciones técnicas, de las medidas empleadas por el empresario para garantizar la calidad y de los medios de estudio e investigación de la empresa. Cuando en los pliegos se incluya este criterio, en ellos se precisarán las funcionalidades y se cuantificarán las capacidades mínimas exigidas para cada uno de los medios exigidos.
+
+• Cuando se trate de servicios o trabajos complejos o cuando, excepcionalmente, deban responder a un fin especial, un control efectuado por el órgano de contratación o, en nombre de éste, por un organismo oficial u homologado competente del Estado en que esté establecido el empresario, siempre que medie acuerdo de dicho organismo. El control versará sobre la capacidad técnica del empresario y, si fuese necesario, sobre los medios de estudio y de investigación de que disponga y sobre las medidas de control de la calidad. Cuando en los pliegos se incluya este criterio, en ellos se describirá de modo preciso en términos funcionales y se cuantificará la capacidad mínima exigida al empresario en términos de unidades o medidas apropiadas a la naturaleza de los servicios contratados. Si también se incluyeran controles sobre los medios de estudio e investigación o sobre las medidas empleadas para controlar la calidad, los pliegos deberán precisar las funcionalidades y cuantificar las capacidades mínimas exigidas a unos y a otras.
+
+• Las titulaciones académicas y profesionales del empresario y del personal directivo de la empresa y, en particular, del personal responsable de la ejecución del contrato. En los pliegos se especificarán los títulos o acreditaciones académicos o profesionales exigidos, y los documentos admitidos para su acreditación.
+
+• En los casos adecuados, indicación de las medidas de gestión medioambiental que el empresario podrá aplicar al ejecutar el contrato, con indicación expresa de las normas técnicas o especificaciones técnicas aplicables a la ejecución y a la verificación objetiva de la correcta aplicación de dichas medidas.
+
+• Declaración sobre la plantilla media anual de la empresa y la importancia de su personal directivo durante los tres últimos años, acompañada de la documentación justificativa correspondiente. En los pliegos se especificarán los valores mínimos exigidos de los mismos.
+
+• Declaración indicando la maquinaria, material y equipo técnico del que se dispondrá para la ejecución de los trabajos, a la que se adjuntará la documentación acreditativa pertinente. En los pliegos se especificarán la maquinaria, material y equipos que como mínimo deben estar a disposición del empresario, así como las capacidades funcionales mínimas de cada uno de ellos.
+
+• Parte o partes del contrato que el empresario tiene el propósito de subcontratar. En los pliegos se especificará el porcentaje máximo de subcontratación admitido, y en su caso, la parte o partes del contrato que no puedan ser objeto de subcontratación a un tercero.»
+
+Quince. Se suprime el apartado 6 del artículo 67 del Reglamento General de la Ley de Contratos de las Administraciones Públicas.
+
+Dieciséis. Se modifica el anexo II del Reglamento General de la Ley de Contratos de las Administraciones Públicas, que queda sustituido por el que figura como anexo.
+
+## Disposición adicional primera. Actualización de los subgrupos de clasificación de contratos de servicios.
+
+La relación de subgrupos de clasificación de servicios establecida en el artículo 37, así como la correspondencia entre dichos subgrupos y los códigos CPV de los contratos establecida en el anexo II, podrán ser actualizadas por Orden del Ministro de Hacienda y Administraciones Públicas, previo informe de la Junta Consultiva de Contratación Administrativa del Estado, cuando así lo aconsejen la coyuntura económica o las circunstancias de la contratación pública.
+
+## Disposición adicional segunda. Desconcentración de competencias en los contratos de suministros.
+
+Sin perjuicio de las competencias que pudieran tener atribuidas en virtud de la disposición adicional tercera del texto refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre, se desconcentran en los órganos de contratación de los departamentos ministeriales y de los organismos autónomos y demás entidades públicas estatales las competencias definidas en el artículo 207 del citado texto refundido, para la adquisición y el arrendamiento de equipos y sistemas para el tratamiento de información, sus dispositivos y programas y la cesión del derecho de uso a estos últimos siempre que el presupuesto de licitación de dichos contratos sea inferior a un millón de euros, Impuesto sobre el Valor Añadido excluido.
+
+Quedan exceptuados los contratos de suministro que afecten a varios departamentos ministeriales.
+
+## Disposición transitoria primera. Expedientes iniciados y contratos adjudicados con anterioridad a la entrada en vigor de este real decreto.
+
+Los expedientes de contratación iniciados antes de la entrada en vigor de este real decreto se regirán por la normativa anterior. A estos efectos se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.
+
+## Disposición transitoria segunda. Clasificación exigible para los contratos de obras.
+
+1\. Para los contratos de obras cuyo plazo de presentación de ofertas termine antes del día 1 de enero de 2021 las clasificaciones en los subgrupos incluidos en el artículo 25 del Reglamento surtirán sus efectos, con el alcance y límites cuantitativos determinados para cada subgrupo y categoría de clasificación, tanto si fueron otorgadas en los términos establecidos por el presente real decreto como si lo fueron con anterioridad a su entrada en vigor y en los términos establecidos por el Real Decreto 1098/2001, de 12 de octubre, por el que se aprueba el Reglamento General de la Ley de Contratos de las Administraciones Públicas, de acuerdo con el siguiente cuadro de equivalencias:
+
+| Categoría del contrato | Categoría Real Decreto 1098/2001 |
+|---|---|
+| 1 | A o B |
+| 2 | C |
+| 3 | D |
+| 4 | E |
+| 5 | F |
+| 6 | F |
+
+2\. Para los contratos de obras cuya cuantía no supere los cinco millones de euros y cuyo plazo de presentación de ofertas termine entre el día 1 de enero de 2021 y el día 31 de diciembre de 2021, ambos inclusive, las clasificaciones a las que se refiere el apartado anterior surtirán sus efectos de acuerdo con las reglas fijadas en dicho apartado. Para los contratos de cuantía superior a cinco millones de euros y cuyo plazo de presentación de ofertas termine entre el día 1 de enero de 2021 y el día 31 de diciembre de 2021, ambos inclusive, será requisito indispensable disponer de la categoría de clasificación exigida para el contrato según lo dispuesto en el Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre, de acuerdo con la redacción dada al mismo por este real decreto.
+
+> Se modifica por el art. único.1 del Real Decreto 716/2019, de 5 de diciembre. [Ref. BOE-A-2019-17608](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-17608)
+
+## Disposición transitoria tercera. Clasificaciones de los contratos de servicios otorgadas con anterioridad a la entrada en vigor del real decreto.
+
+1\. A partir de la entrada en vigor del presente real decreto no será exigible la clasificación para los contratos de servicios.
+
+2\. Para los contratos de servicios cuyo plazo de presentación de ofertas termine antes del día 1 de enero de 2021 las clasificaciones en los subgrupos incluidos en el artículo 37 del Reglamento surtirán sus efectos, con el alcance y límites cuantitativos determinados para cada subgrupo y categoría de clasificación, tanto si fueron otorgadas en los términos establecidos por el presente real decreto como si lo fueron con anterioridad a su entrada en vigor y en los términos establecidos por el Real Decreto 1098/2001, de 12 de octubre, por el que se aprueba el Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre, de acuerdo con el siguiente cuadro de equivalencias:
+
+| Categoría actual | Categoría Real Decreto 1098/2001 |
+|---|---|
+| 1 | A |
+| 2 | B |
+| 3 | C |
+| 4 | D |
+| 5 | D |
+
+3\. Hasta el día 1 de enero de 2016, las clasificaciones vigentes a la fecha de entrada en vigor del presente real decreto, otorgadas de acuerdo con lo establecido en el citado Real Decreto 1098/2001, correspondientes a los subgrupos de clasificación existentes con anterioridad a la entrada en vigor del presente real decreto y no incluidos en el artículo 37 del Reglamento, seguirán surtiendo efectos de acreditación de la solvencia del empresario para aquellos contratos en cuyos pliegos se admita como criterio alternativo de selección la clasificación en tales subgrupos. Las clasificaciones otorgadas en dichos subgrupos quedarán extinguidas a dicha fecha, practicándose de oficio las modificaciones correspondientes a sus asientos en los Registros de licitadores y empresas clasificadas en que figuren inscritas.
+
+4\. Para los contratos de servicios cuya cuantía no supere 1.200.000 euros y cuyo plazo de presentación de ofertas termine entre el día 1 de enero de 2021 y el día 31 de diciembre de 2021, ambos inclusive, las clasificaciones a las que se refiere el apartado 2 surtirán sus efectos de acuerdo con las reglas fijadas en dicho apartado. Para los contratos de cuantía superior a 1.200.000 euros y cuyo plazo de presentación de ofertas termine entre el día 1 de enero de 2021 y el día 31 de diciembre de 2021, ambos inclusive, solo serán eficaces las clasificaciones otorgadas según lo dispuesto en el Reglamento General de la Ley de Contratos de las Administraciones Públicas, aprobado por el Real Decreto 1098/2001, de 12 de octubre, de acuerdo con la redacción dada al mismo por este real decreto.
+
+> Se modifica por el art. único.2 del Real Decreto 716/2019, de 5 de diciembre. [Ref. BOE-A-2019-17608](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-17608)
+
+## Disposición transitoria cuarta. Vigencia de las clasificaciones otorgadas antes de la entrada en vigor del real decreto.
+
+Las clasificaciones otorgadas con fecha anterior a la entrada en vigor del presente real decreto perderán su vigencia y eficacia el día 1 de enero de 2022, procediéndose a su baja de oficio de los Registros de licitadores y empresas clasificadas en que figuren inscritas. Lo anterior se entenderá sin perjuicio de lo previsto en las disposiciones transitorias segunda y tercera del presente real decreto.
+
+Hasta dicha fecha, la justificación del mantenimiento de la solvencia económica y financiera y de la solvencia técnica o profesional de las empresas que obtuvieron y mantienen en vigor su clasificación de conformidad con la normativa vigente antes de la entrada en vigor del presente real decreto seguirá rigiéndose por dicha normativa, a los efectos del mantenimiento de su clasificación en los mismos términos en que fue otorgada.
+
+Los procedimientos de revisión de la clasificación que, al amparo de lo dispuesto en la legislación de contratos del sector público, se inicien con posterioridad a la entrada en vigor del presente real decreto se regirán por las disposiciones vigentes en la fecha de inicio del procedimiento, salvo en los casos de procedimientos iniciados de oficio en que se constate que el interesado mantiene las condiciones de solvencia que determinaron la obtención de su clasificación en los términos vigentes en el momento de su obtención, circunstancia que dará lugar al archivo del expediente.
+
+> Se modifica por el art. único.3 del Real Decreto 716/2019, de 5 de diciembre. [Ref. BOE-A-2019-17608](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-17608)
+
+## Disposición transitoria quinta. Expedientes de clasificación y de revisión de clasificación iniciados a solicitud del interesado tras la publicación del real decreto.
+
+Los preceptos del presente real decreto relativos a la tramitación de los expedientes de clasificación o de revisión de clasificación iniciados a solicitud del interesado serán de aplicación a la tramitación y resolución de los expedientes iniciados con fecha igual o posterior a la de aprobación y publicación por la Junta Consultiva de Contratación Administrativa del Estado de los formularios tipo de solicitud a los que se refiere el artículo 47 del Reglamento general de la Ley de Contratos de las Administraciones Públicas, previa adaptación de las aplicaciones informáticas necesarias para su instrumentación.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las normas de igual o inferior rango en cuanto contradigan o se opongan a lo dispuesto en el presente real decreto.
+
+## Disposición final única. Entrada en vigor.
+
+Sin perjuicio de lo establecido en sus disposiciones transitorias, el presente real decreto entrará en vigor a los dos meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 28 de agosto de 2015.
+
+FELIPE R.
+
+El Ministro de Hacienda y Administraciones Públicas,
+
+CRISTÓBAL MONTORO ROMERO
+
+## ANEXO
+
+## ANEXO II — Correspondencia entre subgrupos de clasificación y códigos CPV de los contratos de servicios
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>
+<strong>Grupo L</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Subgrupo L-1</strong>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79500000-9</p>
+</td>
+<td>
+<p>Servicios de ayuda en las funciones de oficina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79521000-2</p>
+</td>
+<td>
+<p>Servicios de fotocopia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79550000-4</p>
+</td>
+<td>
+<p>Servicios de mecanografía, tratamiento de textos y autoedición.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79551000-1</p>
+</td>
+<td>
+<p>Servicios de mecanografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79560000-7</p>
+</td>
+<td>
+<p>Servicios de archivo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79570000-0</p>
+</td>
+<td>
+<p>Servicios de recopilación de listas de direcciones y servicios de envío por correo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79571000-7</p>
+</td>
+<td>
+<p>Servicios de envío por correo.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo L-3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79311210-2</p>
+</td>
+<td>
+<p>Servicios de encuesta telefónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72313000-2</p>
+</td>
+<td>
+<p>Servicios de recogida de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79320000-3</p>
+</td>
+<td>
+<p>Servicios de encuestas de opinión pública.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79342310-9</p>
+</td>
+<td>
+<p>Servicios de encuesta a clientes.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo L-5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79950000-8</p>
+</td>
+<td>
+<p>Servicios de organización de exposiciones, ferias y congresos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79952000-2</p>
+</td>
+<td>
+<p>Servicios de eventos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79956000-0</p>
+</td>
+<td>
+<p>Servicios de organización de ferias y exposiciones.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo L-6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>98341120-2</p>
+</td>
+<td>
+<p>Servicios de portería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>98341130-5</p>
+</td>
+<td>
+<p>Servicios de conserjería.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo M</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo M-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90670000-4</p>
+</td>
+<td>
+<p>Servicios de desinfección y exterminio en áreas urbanas o rurales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90920000-2</p>
+</td>
+<td>
+<p>Servicios de higienización de instalaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90921000-9</p>
+</td>
+<td>
+<p>Servicios de desinfección y exterminio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90922000-6</p>
+</td>
+<td>
+<p>Servicios de control de plagas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90923000-3</p>
+</td>
+<td>
+<p>Servicios de desratización.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90924000-0</p>
+</td>
+<td>
+<p>Servicios de fumigación.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo M-2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79710000-4</p>
+</td>
+<td>
+<p>Servicios de seguridad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79713000-5</p>
+</td>
+<td>
+<p>Servicios de guardias de seguridad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79714000-2</p>
+</td>
+<td>
+<p>Servicios de vigilancia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>98341140-8</p>
+</td>
+<td>
+<p>Servicios de vigilancia de inmuebles.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo M-4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79520000-5</p>
+</td>
+<td>
+<p>Servicios de reprografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79800000-2</p>
+</td>
+<td>
+<p>Servicios de impresión y servicios conexos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79810000-5</p>
+</td>
+<td>
+<p>Servicios de impresión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79811000-2</p>
+</td>
+<td>
+<p>Servicios de impresión digital.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79812000-9</p>
+</td>
+<td>
+<p>Servicios de impresión de billetes de banco.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79820000-8</p>
+</td>
+<td>
+<p>Servicios relacionados con la impresión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79821000-5</p>
+</td>
+<td>
+<p>Servicios de acabado de impresiones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79821100-6</p>
+</td>
+<td>
+<p>Servicios de lectura de pruebas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822000-2</p>
+</td>
+<td>
+<p>Servicios de composición.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822100-3</p>
+</td>
+<td>
+<p>Servicios de estereotipia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822200-4</p>
+</td>
+<td>
+<p>Servicios de fotograbado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822300-5</p>
+</td>
+<td>
+<p>Servicios de tipografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822400-6</p>
+</td>
+<td>
+<p>Servicios de litografía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79822500-7</p>
+</td>
+<td>
+<p>Servicios de diseño gráfico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79823000-9</p>
+</td>
+<td>
+<p>Servicios de impresión y entrega.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79824000-6</p>
+</td>
+<td>
+<p>Servicios de impresión y distribución.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79971000-1</p>
+</td>
+<td>
+<p>Servicios de encuadernación y acabado de libros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79971100-2</p>
+</td>
+<td>
+<p>Servicios de acabado de libros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79971200-3</p>
+</td>
+<td>
+<p>Servicios de encuadernación de libros.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo M-5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79995000-5</p>
+</td>
+<td>
+<p>Servicios de gestión de bibliotecas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79995100-6</p>
+</td>
+<td>
+<p>Servicios de archivado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79995200-7</p>
+</td>
+<td>
+<p>Servicios de catalogación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92510000-9</p>
+</td>
+<td>
+<p>Servicios de bibliotecas y archivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92511000-6</p>
+</td>
+<td>
+<p>Servicios de bibliotecas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92512000-3</p>
+</td>
+<td>
+<p>Servicios de archivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92521000-9</p>
+</td>
+<td>
+<p>Servicios de museos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92521100-0</p>
+</td>
+<td>
+<p>Servicios de exposición en museos.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo M-6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55100000-1</p>
+</td>
+<td>
+<p>Servicios de hostelería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55110000-4</p>
+</td>
+<td>
+<p>Servicios de alojamiento hotelero.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55130000-0</p>
+</td>
+<td>
+<p>Otros servicios hoteleros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55240000-4</p>
+</td>
+<td>
+<p>Servicios de centros de vacaciones y hogares de vacaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55241000-1</p>
+</td>
+<td>
+<p>Servicios de centros de vacaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55242000-8</p>
+</td>
+<td>
+<p>Servicios de hogares de vacaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55243000-5</p>
+</td>
+<td>
+<p>Servicios de colonias de vacaciones para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55270000-3</p>
+</td>
+<td>
+<p>Servicios prestados por establecimientos de alojamiento que ofrecen cama y desayuno.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55321000-6</p>
+</td>
+<td>
+<p>Servicios de preparación de comidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55322000-3</p>
+</td>
+<td>
+<p>Servicios de elaboración de comidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55330000-2</p>
+</td>
+<td>
+<p>Servicios de cafetería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55510000-8</p>
+</td>
+<td>
+<p>Servicios de cantina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>55523100-3</p>
+</td>
+<td>
+<p>Servicios de comidas para escuelas.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo O</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo O-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261200-6</p>
+</td>
+<td>
+<p>Trabajos de recubrimiento y pintura de cubiertas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261210-9</p>
+</td>
+<td>
+<p>Trabajos de recubrimiento.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261211-6</p>
+</td>
+<td>
+<p>Colocación de tejas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261212-3</p>
+</td>
+<td>
+<p>Empizarrado de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261214-7</p>
+</td>
+<td>
+<p>Revestimiento de cubiertas con tela asfáltica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261220-2</p>
+</td>
+<td>
+<p>Trabajos de pintura y demás trabajos de recubrimiento de cubiertas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261221-9</p>
+</td>
+<td>
+<p>Trabajos de pintura de cubiertas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261222-6</p>
+</td>
+<td>
+<p>Recubrimiento de cubiertas con cemento.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261300-7</p>
+</td>
+<td>
+<p>Colocación de vierteaguas y canalones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261310-0</p>
+</td>
+<td>
+<p>Colocación de vierteaguas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261320-3</p>
+</td>
+<td>
+<p>Colocación de canalones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261400-8</p>
+</td>
+<td>
+<p>Trabajos de revestimiento.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261410-1</p>
+</td>
+<td>
+<p>Trabajos de aislamiento para tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261420-4</p>
+</td>
+<td>
+<p>Trabajos de impermeabilización.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261900-3</p>
+</td>
+<td>
+<p>Reparación y mantenimiento de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261910-6</p>
+</td>
+<td>
+<p>Reparación de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45261920-9</p>
+</td>
+<td>
+<p>Mantenimiento de tejados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262213-7</p>
+</td>
+<td>
+<p>Procedimiento de rozas en los paramentos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262320-0</p>
+</td>
+<td>
+<p>Trabajos de enrasado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262321-7</p>
+</td>
+<td>
+<p>Trabajos de enrasado de suelos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262330-3</p>
+</td>
+<td>
+<p>Trabajos de reparación de hormigón.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262500-6</p>
+</td>
+<td>
+<p>Trabajos de mampostería y albañilería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262512-3</p>
+</td>
+<td>
+<p>Trabajos con piedra tallada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262520-2</p>
+</td>
+<td>
+<p>Trabajos de albañilería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262521-9</p>
+</td>
+<td>
+<p>Obras de revestimiento con ladrillos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262522-6</p>
+</td>
+<td>
+<p>Trabajos de mampostería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>45262650-2</p>
+</td>
+<td>
+<p>Trabajos de revestimiento de fachadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90690000-0</p>
+</td>
+<td>
+<p>Servicios de limpieza de pintadas.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo O-2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50225000-8</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de vías férreas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50230000-6</p>
+</td>
+<td>
+<p>Servicios de reparación, mantenimiento y servicios asociados relacionados con carreteras y otros equipos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90620000-9</p>
+</td>
+<td>
+<p>Servicios de limpieza y eliminación de nieve.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90630000-2</p>
+</td>
+<td>
+<p>Servicios de limpieza y eliminación de hielo.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo O-3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514100-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de cisternas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514200-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de depósitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>65110000-7</p>
+</td>
+<td>
+<p>Distribución de agua.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>65130000-3</p>
+</td>
+<td>
+<p>Explotación del suministro de agua.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90400000-1</p>
+</td>
+<td>
+<p>Servicios de alcantarillado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90913000-0</p>
+</td>
+<td>
+<p>Servicios de limpieza de tanques y depósitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90913100-1</p>
+</td>
+<td>
+<p>Servicios de limpieza de tanques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90913200-2</p>
+</td>
+<td>
+<p>Servicios de limpieza de depósitos.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo O-4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>65120000-0</p>
+</td>
+<td>
+<p>Explotación de una planta depuradora de agua.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90481000-2</p>
+</td>
+<td>
+<p>Explotación de una planta de tratamiento de aguas residuales.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo O-6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77211500-7</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de árboles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77230000-1</p>
+</td>
+<td>
+<p>Servicios relacionados con la silvicultura.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231000-8</p>
+</td>
+<td>
+<p>Servicios de gestión forestal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231100-9</p>
+</td>
+<td>
+<p>Servicios de gestión de recursos forestales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231200-0</p>
+</td>
+<td>
+<p>Servicios de control de plagas forestales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231300-1</p>
+</td>
+<td>
+<p>Servicios de administración forestal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231400-2</p>
+</td>
+<td>
+<p>Servicios de inventario forestal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231500-3</p>
+</td>
+<td>
+<p>Servicios de seguimiento o evaluación forestal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231600-4</p>
+</td>
+<td>
+<p>Servicios de repoblación forestal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231700-5</p>
+</td>
+<td>
+<p>Servicios de extensión forestal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231800-6</p>
+</td>
+<td>
+<p>Servicios de gestión de viveros forestales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77231900-7</p>
+</td>
+<td>
+<p>Servicios de planificación forestal sectorial.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77310000-6</p>
+</td>
+<td>
+<p>Servicios de plantación y mantenimiento de zonas verdes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77311000-3</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de jardines y parques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77312000-0</p>
+</td>
+<td>
+<p>Servicios de desbrozo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77312100-1</p>
+</td>
+<td>
+<p>Servicios de eliminación de malezas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77313000-7</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de parques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77314000-4</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de terrenos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77314100-5</p>
+</td>
+<td>
+<p>Servicios de encespedado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77315000-1</p>
+</td>
+<td>
+<p>Trabajos de siembra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77320000-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de campos deportivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77340000-5</p>
+</td>
+<td>
+<p>Poda de árboles y setos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77341000-2</p>
+</td>
+<td>
+<p>Poda de árboles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>77342000-9</p>
+</td>
+<td>
+<p>Poda de setos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>92531000-2</p>
+</td>
+<td>
+<p>Servicios de jardines botánicos.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo P</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo P-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50232000-0</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de instalaciones de alumbrado público y semáforos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50232100-1</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de alumbrado público de calles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50232110-4</p>
+</td>
+<td>
+<p>Puesta a punto de instalaciones de iluminación pública.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50232200-2</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de señales de tráfico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50411300-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de contadores de electricidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50411500-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos industriales de cronomedición.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532000-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de maquinaria eléctrica, aparatos y equipo asociado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532100-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de motores eléctricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532200-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de transformadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532300-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de generadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50532400-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de distribución eléctrica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50711000-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos eléctricos de edificios.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo P-2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50411100-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de contadores de agua.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50411200-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de contadores de gas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50510000-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de bombas, válvulas, grifos y contenedores de metal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50511000-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de bombas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50511100-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de bombas para líquidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50511200-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de bombas de gas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50512000-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de válvulas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50513000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grifos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514000-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de contenedores metálicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514100-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de cisternas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514200-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de depósitos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50514300-4</p>
+</td>
+<td>
+<p>Servicios de reparación del revestimiento de los tubos de encamisado.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo P-3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50720000-8</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de calefacción central.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50721000-5</p>
+</td>
+<td>
+<p>Puesta a punto de instalaciones de calefacción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50730000-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grupos refrigeradores.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo P-5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50413100-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos detectores de gas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50413200-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de instalaciones contra incendios.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo P-7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50740000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de escaleras mecánicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50750000-7</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de ascensores.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo Q</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo Q-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531000-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de maquinaria no eléctrica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531100-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de calderas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531200-8</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de aparatos de gas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531300-9</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de compresores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531400-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grúas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50531500-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de grúas derrick.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo Q-2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50100000-6</p>
+</td>
+<td>
+<p>Servicios de reparación, mantenimiento y servicios asociados de vehículos y equipo conexo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50110000-9</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de vehículos de motor y equipo asociado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50111000-6</p>
+</td>
+<td>
+<p>Servicios de administración, reparación y mantenimiento de parque de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50111100-7</p>
+</td>
+<td>
+<p>Servicios de gestión de parque de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50111110-0</p>
+</td>
+<td>
+<p>Servicios de soporte de parque de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112000-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de automóviles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112100-4</p>
+</td>
+<td>
+<p>Servicios de reparación de automóviles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112110-7</p>
+</td>
+<td>
+<p>Servicios de reparación de carrocerías de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112111-4</p>
+</td>
+<td>
+<p>Servicios de chapistería.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112120-0</p>
+</td>
+<td>
+<p>Servicios de reemplazo de parabrisas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112200-5</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de automóviles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50112300-6</p>
+</td>
+<td>
+<p>Servicios de lavado de automóviles y similares.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50113000-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de autobuses.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50113100-1</p>
+</td>
+<td>
+<p>Servicios de reparación de autobuses.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50113200-2</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de autobuses.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50114000-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de camiones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50114100-8</p>
+</td>
+<td>
+<p>Servicios de reparación de camiones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50114200-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de camiones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50115000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de motocicletas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50115100-5</p>
+</td>
+<td>
+<p>Servicios de reparación de motocicletas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50115200-6</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de motocicletas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116000-1</p>
+</td>
+<td>
+<p>Servicios de mantenimiento y reparación relacionados con partes específicas de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116100-2</p>
+</td>
+<td>
+<p>Servicios de reparación de sistemas eléctricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116200-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de frenos y partes de frenos de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116300-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de cajas de cambio de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116400-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de transmisiones de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116500-6</p>
+</td>
+<td>
+<p>Servicios de reparación de neumáticos, incluidos el ajuste y el equilibrado de ruedas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116510-9</p>
+</td>
+<td>
+<p>Servicios de recauchutado de neumáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50116600-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de motores de arranque.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50117000-8</p>
+</td>
+<td>
+<p>Servicios de transformación y reacondicionamiento de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50117100-9</p>
+</td>
+<td>
+<p>Servicios de transformación de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50117200-0</p>
+</td>
+<td>
+<p>Servicios de transformación de ambulancias.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50117300-1</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de vehículos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50118100-6</p>
+</td>
+<td>
+<p>Servicios de reparación de averías y recuperación de automóviles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50118200-7</p>
+</td>
+<td>
+<p>Servicios de reparación de averías y recuperación de vehículos comerciales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50118300-8</p>
+</td>
+<td>
+<p>Servicios de reparación de averías y recuperación de autobuses.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50118400-9</p>
+</td>
+<td>
+<p>Servicios de reparación de averías y recuperación de vehículos de motor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50118500-0</p>
+</td>
+<td>
+<p>Servicios de reparación de averías y recuperación de motocicletas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50210000-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento y servicios asociados relacionados con aeronaves y otros equipos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211000-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de aeronaves.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211100-8</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de aeronaves.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211200-9</p>
+</td>
+<td>
+<p>Servicios de reparación de aeronaves.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211210-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de motores de aviación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211211-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de motores de aviación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211212-6</p>
+</td>
+<td>
+<p>Servicios de reparación de motores de aviación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211300-0</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de aeronaves.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50211310-3</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de motores de aviación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50212000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de helicópteros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50221000-0</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de locomotoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50221100-1</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de cajas de cambio de locomotoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50221200-2</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de sistemas de transmisión de locomotoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50221300-3</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de ejes de locomotoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50221400-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de frenos y partes de frenos de locomotoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50222000-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de material móvil.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50222100-8</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de amortiguadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50223000-4</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de locomotoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50224000-1</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de material móvil.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50224100-2</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de asientos de material móvil.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50224200-3</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de coches de pasajeros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50241000-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de buques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50241100-7</p>
+</td>
+<td>
+<p>Servicios de reparación de barcos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50241200-8</p>
+</td>
+<td>
+<p>Servicios de reparación de transbordadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50242000-3</p>
+</td>
+<td>
+<p>Servicios de transformación de buques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50244000-7</p>
+</td>
+<td>
+<p>Servicios de reacondicionamiento de buques o barcos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50245000-4</p>
+</td>
+<td>
+<p>Servicios de modernización de buques.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo R</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo R-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60120000-5</p>
+</td>
+<td>
+<p>Servicios de taxi.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60130000-8</p>
+</td>
+<td>
+<p>Servicios especiales de transporte de pasajeros por carretera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60140000-1</p>
+</td>
+<td>
+<p>Transporte no regular de pasajeros.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo R-2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>85143000-3</p>
+</td>
+<td>
+<p>Servicios de ambulancia.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo R-5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90511000-2</p>
+</td>
+<td>
+<p>Servicios de recogida de desperdicios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90511100-3</p>
+</td>
+<td>
+<p>Servicios de recogida de desperdicios sólidos urbanos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90511200-4</p>
+</td>
+<td>
+<p>Servicios de recogida de desperdicios domésticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90511300-5</p>
+</td>
+<td>
+<p>Servicios de recogida de basuras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90511400-6</p>
+</td>
+<td>
+<p>Servicios de recogida de papel.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90512000-9</p>
+</td>
+<td>
+<p>Servicios de transporte de desperdicios.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo R-6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60441000-1</p>
+</td>
+<td>
+<p>Servicios de pulverización aérea.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60442000-8</p>
+</td>
+<td>
+<p>Servicios de extinción aérea de incendios forestales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60443000-5</p>
+</td>
+<td>
+<p>Servicios de rescate aéreo.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo R-9</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60160000-7</p>
+</td>
+<td>
+<p>Transporte de correspondencia por carretera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60220000-6</p>
+</td>
+<td>
+<p>Transporte de correspondencia por ferrocarril.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64100000-7</p>
+</td>
+<td>
+<p>Servicios postales y de correo rápido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64110000-0</p>
+</td>
+<td>
+<p>Servicios postales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64111000-7</p>
+</td>
+<td>
+<p>Servicios postales relacionados con periódicos y revistas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64112000-4</p>
+</td>
+<td>
+<p>Servicios postales relacionados con cartas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64113000-1</p>
+</td>
+<td>
+<p>Servicios postales relacionados con paquetes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64114000-8</p>
+</td>
+<td>
+<p>Servicios de ventanilla de correos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64115000-5</p>
+</td>
+<td>
+<p>Alquiler de apartados de correos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64116000-2</p>
+</td>
+<td>
+<p>Servicios de lista de correos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64120000-3</p>
+</td>
+<td>
+<p>Servicios de correo rápido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64121000-0</p>
+</td>
+<td>
+<p>Servicios multimodales de correo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64121100-1</p>
+</td>
+<td>
+<p>Servicios de distribución postal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64121200-2</p>
+</td>
+<td>
+<p>Servicios de distribución de paquetes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64122000-7</p>
+</td>
+<td>
+<p>Servicios de correo interno.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo T</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo T-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341000-6</p>
+</td>
+<td>
+<p>Servicios de publicidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341100-7</p>
+</td>
+<td>
+<p>Servicios de consultoría en publicidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341200-8</p>
+</td>
+<td>
+<p>Servicios de gestión publicitaria.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341400-0</p>
+</td>
+<td>
+<p>Servicios de campañas de publicidad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79341500-1</p>
+</td>
+<td>
+<p>Servicios de publicidad aérea.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo T-5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79530000-8</p>
+</td>
+<td>
+<p>Servicios de traducción.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79540000-1</p>
+</td>
+<td>
+<p>Servicios de interpretación.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo U</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo U-1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90610000-6</p>
+</td>
+<td>
+<p>Servicios de limpieza y barrido de calles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90611000-3</p>
+</td>
+<td>
+<p>Servicios de limpieza de calles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90612000-0</p>
+</td>
+<td>
+<p>Servicios de barrido de calles.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90640000-5</p>
+</td>
+<td>
+<p>Servicios de limpieza y vaciado de sumideros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90641000-2</p>
+</td>
+<td>
+<p>Servicios de limpieza de sumideros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90642000-9</p>
+</td>
+<td>
+<p>Servicios de vaciado de sumideros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90680000-7</p>
+</td>
+<td>
+<p>Servicios de limpieza de playas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911000-6</p>
+</td>
+<td>
+<p>Servicios de limpieza de viviendas, edificios y ventanas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911100-7</p>
+</td>
+<td>
+<p>Servicios de limpieza de viviendas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911200-8</p>
+</td>
+<td>
+<p>Servicios de limpieza de edificios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90911300-9</p>
+</td>
+<td>
+<p>Servicios de limpieza de ventanas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90914000-7</p>
+</td>
+<td>
+<p>Servicios de limpieza de aparcamientos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90919200-4</p>
+</td>
+<td>
+<p>Servicios de limpieza de oficinas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>90919300-5</p>
+</td>
+<td>
+<p>Servicios de limpieza de escuelas.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo U-4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63500000-4</p>
+</td>
+<td>
+<p>Servicios de agencia de viajes, operadores turísticos y asistencia al turista.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63510000-7</p>
+</td>
+<td>
+<p>Servicios de agencias de viajes y servicios similares.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63511000-4</p>
+</td>
+<td>
+<p>Organización de viajes combinados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63512000-1</p>
+</td>
+<td>
+<p>Servicios de venta de billetes y de viajes combinados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63515000-2</p>
+</td>
+<td>
+<p>Servicios de viajes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>63516000-9</p>
+</td>
+<td>
+<p>Servicios de gestión de viajes.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo U-8</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79510000-2</p>
+</td>
+<td>
+<p>Servicios de contestación de llamadas telefónicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79511000-9</p>
+</td>
+<td>
+<p>Servicios de operador telefónico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79512000-6</p>
+</td>
+<td>
+<p>Centro de llamadas.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Grupo V</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo V-3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312000-5</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de equipo informático.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312100-6</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de ordenadores «mainframe».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312110-9</p>
+</td>
+<td>
+<p>Mantenimiento de ordenadores «mainframe».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312120-2</p>
+</td>
+<td>
+<p>Reparación de ordenadores «mainframe».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312200-7</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de miniordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312210-0</p>
+</td>
+<td>
+<p>Mantenimiento de miniordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312220-3</p>
+</td>
+<td>
+<p>Reparación de miniordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312300-8</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de equipos de redes de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312310-1</p>
+</td>
+<td>
+<p>Mantenimiento de equipos de redes de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312320-4</p>
+</td>
+<td>
+<p>Reparación de equipos de redes de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312400-9</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de microordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312410-2</p>
+</td>
+<td>
+<p>Mantenimiento de microordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312420-5</p>
+</td>
+<td>
+<p>Reparación de microordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312600-1</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de equipo de tecnología de la información.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312610-4</p>
+</td>
+<td>
+<p>Mantenimiento de equipo de tecnología de la información.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50312620-7</p>
+</td>
+<td>
+<p>Reparación de equipo de tecnología de la información.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50314000-9</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de máquinas telecopiadoras.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50315000-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de contestadores telefónicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50320000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de ordenadores personales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50321000-1</p>
+</td>
+<td>
+<p>Servicios de reparación de ordenadores personales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50322000-8</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de ordenadores personales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50323000-5</p>
+</td>
+<td>
+<p>Mantenimiento y reparación de periféricos informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50323100-6</p>
+</td>
+<td>
+<p>Mantenimiento de periféricos informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50323200-7</p>
+</td>
+<td>
+<p>Reparación de periféricos informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50324100-3</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de sistemas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50324200-4</p>
+</td>
+<td>
+<p>Servicios de mantenimiento preventivo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50330000-7</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de equipo de telecomunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50331000-4</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de líneas de telecomunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50332000-1</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de infraestructura de telecomunicaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50333000-8</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de equipo de radiocomunicaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50333100-9</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de radiotransmisores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50333200-0</p>
+</td>
+<td>
+<p>Reparación y mantenimiento de aparatos de radiotelefonía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334000-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de telefonía por hilo y telegrafía por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334100-6</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de telefonía por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334110-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de redes telefónicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334120-2</p>
+</td>
+<td>
+<p>Servicios de actualización de equipos de conmutación telefónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334130-5</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de aparatos de conmutación telefónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334140-8</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de aparatos telefónicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334200-7</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de telegrafía por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334300-8</p>
+</td>
+<td>
+<p>Servicios de reparación y mantenimiento de equipos de télex por hilo.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50334400-9</p>
+</td>
+<td>
+<p>Servicios de mantenimiento de sistemas de comunicaciones.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo V-4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64200000-8</p>
+</td>
+<td>
+<p>Servicios de telecomunicaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64210000-1</p>
+</td>
+<td>
+<p>Servicios telefónicos y de transmisión de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64211000-8</p>
+</td>
+<td>
+<p>Servicios de teléfonos públicos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64211100-9</p>
+</td>
+<td>
+<p>Servicios de telefonía local.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64211200-0</p>
+</td>
+<td>
+<p>Servicios de telefonía de larga distancia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212000-5</p>
+</td>
+<td>
+<p>Servicios de telefonía móvil.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212100-6</p>
+</td>
+<td>
+<p>Servicios del Servicio de Mensajes Cortos (SMS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212200-7</p>
+</td>
+<td>
+<p>Servicios del Servicio de Mensajería Multimedia (EMS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212300-8</p>
+</td>
+<td>
+<p>Servicios del Servicio de Mensajes Multimedia (MMS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212400-9</p>
+</td>
+<td>
+<p>Servicios del Protocolo de Acceso Inalámbrico (WAP).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212500-0</p>
+</td>
+<td>
+<p>Servicios del Servicio General de Radio por Paquetes (GPRS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212600-1</p>
+</td>
+<td>
+<p>Servicios de Datos Ampliados para la Evolución de GSM (EDGE).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212700-2</p>
+</td>
+<td>
+<p>Servicios del Sistema Universal de Telefonía Móvil (UMTS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64212800-3</p>
+</td>
+<td>
+<p>Servicios de proveedor de telefonía de pago.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64213000-2</p>
+</td>
+<td>
+<p>Servicios de redes telefónicas comerciales compartidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64214000-9</p>
+</td>
+<td>
+<p>Servicios de redes telefónicas comerciales especializadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64214100-0</p>
+</td>
+<td>
+<p>Servicios de alquiler de circuitos por satélite.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64214400-3</p>
+</td>
+<td>
+<p>Alquiler de líneas terrestres de comunicación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64215000-6</p>
+</td>
+<td>
+<p>Servicios telefónicos «IP».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216000-3</p>
+</td>
+<td>
+<p>Servicios de mensajería y de información electrónicas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216100-4</p>
+</td>
+<td>
+<p>Servicios de mensajería electrónica.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216110-7</p>
+</td>
+<td>
+<p>Servicios de intercambio electrónico de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216120-0</p>
+</td>
+<td>
+<p>Servicios de correo electrónico.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216130-3</p>
+</td>
+<td>
+<p>Servicios de télex.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64216140-6</p>
+</td>
+<td>
+<p>Servicios de telegrafía.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72318000-7</p>
+</td>
+<td>
+<p>Servicios de transmisión de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72400000-4</p>
+</td>
+<td>
+<p>Servicios de Internet.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72410000-7</p>
+</td>
+<td>
+<p>Servicios de proveedor.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72411000-4</p>
+</td>
+<td>
+<p>Proveedor de servicios de Internet (PSI).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72412000-1</p>
+</td>
+<td>
+<p>Proveedor de servicios de correo electrónico.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>Subgrupo V-5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>CPV</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Denominación.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72315200-8</p>
+</td>
+<td>
+<p>Servicios de gestión de redes de datos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72415000-2</p>
+</td>
+<td>
+<p>Servicios de hospedaje de operación de sitios web www.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72514000-1</p>
+</td>
+<td>
+<p>Servicios de gestión de instalaciones informáticas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72514100-2</p>
+</td>
+<td>
+<p>Servicios de explotación de instalaciones que entrañan el manejo de ordenadores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72514200-3</p>
+</td>
+<td>
+<p>Servicios de gestión de instalaciones para el desarrollo de sistemas informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72514300-4</p>
+</td>
+<td>
+<p>Servicios de gestión de instalaciones para el mantenimiento de sistemas informáticos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>72910000-2</p>
+</td>
+<td>
+<p>Servicios de copia de seguridad.</p>
+</td>
+</tr>
+</tbody>
+</table>

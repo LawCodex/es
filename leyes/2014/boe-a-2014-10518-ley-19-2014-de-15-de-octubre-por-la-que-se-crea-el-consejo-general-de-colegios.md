@@ -1,0 +1,72 @@
+---
+title: "Ley 19/2014, de 15 de octubre, por la que se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas"
+identifier: "BOE-A-2014-10518"
+eli: "https://www.boe.es/eli/es/l/2014/10/15/19"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2014-10-15
+published: 2014-10-17
+in_force_from: 2014-10-18
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 252"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-10518"
+retrieved: 2026-10-11
+---
+
+# Ley 19/2014, de 15 de octubre, por la que se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas
+
+FELIPE VI
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+PREÁMBULO
+
+La Ley 2/1974, de 13 de febrero, de Colegios Profesionales, establece en su artículo 4.4 que cuando estén constituidos varios Colegios de la misma profesión de ámbito inferior al nacional, existirá un Consejo General de Colegios, cuya creación ha de tener lugar mediante Ley del Estado, a tenor de lo previsto en el artículo 15.3 de la Ley 12/1983, de 14 de octubre, del Proceso Autonómico.
+
+La situación antes descrita se produce en la actualidad en relación con la profesión de Dietista-Nutricionista, por lo que resulta procedente constituir mediante esta norma el correspondiente Consejo General de Colegios Oficiales de Dietistas-Nutricionistas.
+
+## Artículo 1. Creación.
+
+Se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas como corporación de derecho público que tendrá personalidad jurídica y plena capacidad para el cumplimiento de sus fines con arreglo a la ley.
+
+## Artículo 2. Relaciones con la Administración General del Estado.
+
+El Consejo General de Colegios Oficiales de Dietistas-Nutricionistas se relacionará con la Administración General del Estado a través del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+## Disposición adicional primera. Comisión Gestora.
+
+1\. En el plazo de dos meses desde la entrada en vigor de esta ley se constituirá una Comisión Gestora compuesta por un representante de cada uno de los Colegios Oficiales de Dietistas-Nutricionistas existentes en el territorio nacional, siempre que se encuentren constituidos o sean formalmente creados por la correspondiente comunidad autónoma.
+
+2\. La Comisión Gestora elaborará, en el plazo de seis meses, a contar desde la entrada en vigor de esta ley, unos Estatutos provisionales reguladores de los órganos de gobierno del Consejo General de Colegios Oficiales de Dietistas-Nutricionistas, en los que se deberán incluir las normas de constitución y funcionamiento de dichos órganos, con determinación expresa de la competencia independiente, aunque coordinada, de cada uno de ellos.
+
+3\. Los Estatutos provisionales se remitirán al Ministerio de Sanidad, Servicios Sociales e Igualdad que verificará su adecuación a la legalidad y ordenará, en su caso, su publicación en el «Boletín Oficial del Estado».
+
+## Disposición adicional segunda. Constitución del Consejo General de Colegios Oficiales de Dietistas-Nutricionistas.
+
+1\. El Consejo General de Colegios Oficiales de Dietistas-Nutricionistas quedará formalmente constituido y adquirirá personalidad jurídica y plena capacidad de obrar en el momento en que se constituyan sus órganos de gobierno conforme a lo previsto en los Estatutos provisionales a que se refiere la disposición anterior.
+
+2\. En el plazo de un año desde su constitución, el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas elaborará los Estatutos previstos en los artículos 6.2 y 9.1.b) de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, que serán sometidos a la aprobación del Gobierno, a propuesta del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+## Disposición final única. Entrada en vigor.
+
+Esta ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+
+Madrid,15 de octubre de 2014.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+MARIANO RAJOY BREY

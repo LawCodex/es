@@ -1,0 +1,458 @@
+---
+title: "Real Decreto 319/2015, de 24 de abril, sobre declaraciones obligatorias a efectuar por primeros compradores y productores de leche y productos lácteos de vaca, oveja y cabra"
+identifier: "BOE-A-2015-4520"
+eli: "https://www.boe.es/eli/es/rd/2015/04/24/319"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-04-24
+published: 2015-04-25
+in_force_from: 2015-04-26
+last_amended: 2022-05-18
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 99"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-4520"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 319/2015, de 24 de abril, sobre declaraciones obligatorias a efectuar por primeros compradores y productores de leche y productos lácteos de vaca, oveja y cabra
+
+El Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1307/2001 y (CE) n.º 1234/2007, establece la obligatoriedad, para los primeros compradores, de declarar mensualmente ante la autoridad competente, la cantidad de leche cruda que les haya sido entregada el mes anterior.
+
+La Comisión Europea debe tener en cuenta las señales del mercado para la adopción de decisiones y para ello, necesita disponer de información sobre los volúmenes de leche entregados, por lo que es necesario adoptar una disposición para garantizar que los primeros compradores comunican periódicamente dicha información a los Estados miembros y que éstos informan al respecto a la Comisión.
+
+El sistema de declaraciones mensuales, ligado a la obligatoriedad de los contratos entre los primeros compradores y los productores en el sector lácteo de conformidad con el Real Decreto 1363/2012, de 28 de septiembre, por el que se regula el reconocimiento de las organizaciones de productores de leche y de las organizaciones interprofesionales en el sector lácteo y se establecen sus condiciones de contratación, permite dotar de una mayor transparencia al sector, disponer de información acerca de la evolución del mercado, realizar análisis del sector en corto espacio de tiempo así como servir de apoyo para la gestión y control de las ayudas directas a los agricultores en el marco de la política agrícola común; para garantizar que toda la leche producida por los ganaderos es declarada, se establecen las declaraciones anuales para los ganaderos que comercializan leche o productos lácteos directamente al consumidor (venta directa).
+
+La obligatoriedad de estas declaraciones ya está establecida en la actual normativa nacional para el sector vacuno. En lo que respecta a los primeros compradores de leche y productos lácteos de vaca, tal obligación está regulada en el Real Decreto 754/2005, de 24 de junio, por el que se regula el régimen de la tasa láctea. En lo que se refiere a primeros compradores de leche y productos lácteos de oveja y cabra, ésta obligación se establece en el Real Decreto 115/2013, de 15 de febrero, sobre declaraciones a efectuar por los compradores y productores de leche y productos lácteos de oveja y cabra.
+
+La desaparición de las cuotas lácteas permite que este sistema de declaraciones se pueda regular de una manera homogénea para todo el sector lácteo. Esta regulación conjunta contribuye a la simplificación y unificación de todas las declaraciones en este ámbito.
+
+Mediante este real decreto se crea un sistema unificado de información en el sector lácteo, que incluirá un registro de los primeros compradores, la información de todos los contratos entre los primeros compradores y productores en el sector lácteo de conformidad con el Real Decreto 1363/2012, de 28 de septiembre, así como la información de las declaraciones obligatorias de entregas, reguladas en este real decreto.
+
+Con objeto de disponer de información de la totalidad de la leche cruda comercializada en España, se obliga también a los productores en régimen de venta directa, por destinar directamente al consumidor toda o parte de su producción o por elaborar y vender los productos lácteos en la propia explotación, a suministrar la información anual referente a las cantidades producidas en su explotación.
+
+Es necesario coordinar la actividad de la Administración General del Estado y los órganos competentes de las comunidades autónomas mediante una disposición que establezca los datos mínimos que deben contener las declaraciones mensuales para poder disponer de una información homogénea en el territorio del Estado.
+
+El sistema unificado de información en el sector lácteo, quedará adscrito al Ministerio de Agricultura, Alimentación y Medio Ambiente, que será el responsable de su funcionamiento coordinado. Éste, en colaboración con las comunidades autónomas, establecerá los protocolos técnicos necesarios para el correcto funcionamiento del sistema.
+
+El primer comprador, o el productor en caso de venta directa, son responsables del mantenimiento debidamente actualizado de los datos en él contenidos, y de su veracidad y exactitud.
+
+El Ministerio de Agricultura, Alimentación y Medio Ambiente utilizará la información contenida en el sistema para el envío a la Comisión Europea de toda la información que exija la normativa comunitaria en materia de monitorización de los mercados de la leche.
+
+Las autoridades competentes podrán establecer sus sistemas informáticos de tal modo que los compradores puedan realizar sus declaraciones conforme a lo establecido en este real decreto.
+
+El sistema unificado de información en el sector lácteo será accesible a todos los órganos competentes del Ministerio de Agricultura, Alimentación y Medio Ambiente, y de las comunidades autónomas, así como a productores y primeros compradores, para la información que les compete y sin perjuicio de la normativa vigente en materia de protección de datos de carácter personal.
+
+El régimen sancionador en materia de declaraciones obligatorias en el sector lácteo, junto con una modificación del existente en materia de contratación obligatoria, se encuentra previsto en la disposición adicional séptima del actualmente en avanzada tramitación, Proyecto de Ley de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico.
+
+En la elaboración de este real decreto han sido consultas las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de abril de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto:
+
+a) Regular el sistema de declaraciones obligatorias a efectuar:
+
+i. Por los primeros compradores de leche cruda de vaca, oveja o cabra en desarrollo de lo dispuesto en el artículo 151 del Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1307/2001 y (CE) n.º 1234/2007.
+
+ii. Por los productores de leche cruda y productos lácteos de vaca, oveja y cabra en España que destinen directamente al consumidor toda o parte de su producción o elaboren productos lácteos en la explotación.
+
+b) Desarrollar el Sistema unificado de información del sector lácteo.
+
+## Artículo 2. Definiciones.
+
+A efectos del presente real decreto se entenderá como:
+
+a) Leche cruda: La leche de vaca, oveja o cabra que no haya sido calentada a una temperatura superior a 40 ºC ni sometida a un tratamiento de efecto equivalente.
+
+b) Productor: será productor, de acuerdo con la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, la persona física o jurídica o grupo de personas físicas o jurídicas, independientemente del régimen jurídico, que ejerza su actividad en la producción ganadera y que sea titular de una explotación ganadera dedicada a la producción láctea destinada a la venta.
+
+c) Equivalencias peso/volumen de la leche: A efectos de determinación en unidades de volumen de los distintos tipos de leche, se empleará la equivalencia peso/volumen siguiente:
+
+1.º Para la leche de vaca: 1,030 kilogramos = 1 litro.
+
+2.º Para la leche de oveja: 1,036 kilogramos = 1 litro.
+
+3.º Para la leche de cabra: 1,032 kilogramos = 1 litro.
+
+d) Primer comprador: Toda persona física o jurídica o grupo de éstas que compra leche cruda a productores de vaca, oveja y cabra para:
+
+1.º Someterla a recogida, envasado, almacenamiento, refrigeración o transformación, aunque lo haga por cuenta de un tercero, o
+
+2.º venderla a una o varias empresas que traten o transformen leche u otros productos lácteos.
+
+Tendrán la consideración de primer comprador, a efectos de las declaraciones mensuales obligatorias, las cooperativas ganaderas y las sociedades agrarias de transformación que comercialicen la leche de sus socios por mandato, debiendo estar registradas de acuerdo con lo establecido en el artículo 4.
+
+> Se modifica la letra b) por la disposición final 1.1 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+## Artículo 3. Sistema unificado de información del sector lácteo.
+
+1\. Se crea el Sistema unificado de información del sector lácteo (INFOLAC) que contiene:
+
+a) El registro de todos los primeros compradores que operan en el sector lácteo en España.
+
+b) La información de todos los contratos entre los primeros compradores y productores en el sector lácteo de conformidad con el Real Decreto 1363/2012, de 28 de septiembre, por el que se regula el reconocimiento de las organizaciones de productores de leche y de las organizaciones interprofesionales en el sector lácteo y se establecen sus condiciones de contratación, y
+
+c) La información de las declaraciones obligatorias de leche de conformidad con el presente real decreto.
+
+d) La información de las declaraciones obligatorias de leche líquida envasada de vaca a que se refiere el Real Decreto 153/2016, de 15 de abril, sobre declaraciones obligatorias a efectuar por los fabricantes de leche líquida envasada de vaca.
+
+2\. El sistema unificado de información en el sector lácteo quedará adscrito al Ministerio de Agricultura, Pesca y Alimentación que, a través de la Agencia de Información y Control Alimentarios, O.A. (AICA), será el responsable de su funcionamiento coordinado, y se gestionará de forma descentralizada por las comunidades autónomas en la forma prevista en el presente real decreto, salvo lo dispuesto en la letra d) del apartado anterior que será gestionado de forma centralizada por la AICA.
+
+3\. El Ministerio de Agricultura, Alimentación y Medio Ambiente, en colaboración con las comunidades autónomas, actualizará los protocolos técnicos necesarios para el correcto funcionamiento de las aplicaciones informáticas.
+
+4\. Los datos contenidos en INFOLAC podrán ser utilizados para recabar la información necesaria para la elaboración, seguimiento y control de extensiones de norma en el sector lácteo realizadas según lo dispuesto en la Ley 38/1994, de 30 de diciembre, reguladorade las organizaciones interprofesionales agroalimentarias y en su normativa de desarrollo.
+
+5\. Así mismo, los datos contenidos en INFOLAC podrán utilizarse para elaborar estadísticas que aporten transparencia al sector.
+
+6\. La información de INFOLAC será accesible para todos los órganos y organismos competentes del Ministerio de Agricultura, Pesca y Alimentación, así como para los órganos y organismos competentes de las comunidades autónomas, así como para los declarantes, en este caso para la información suministrada por ellos, y sin perjuicio de la normativa vigente en materia de protección de datos de carácter personal.
+
+En todo caso, el tratamiento de la información tendrá estrictamente en cuenta los criterios legales pertinentes sobre intercambio de información conforme al artículo 101 del Tratado de Funcionamiento de la Unión Europea, debiendo en todo caso respetar lo establecido en la normativa europea y nacional en materia de competencia.
+
+El Ministerio de Agricultura, Pesca y Alimentación garantiza la confidencialidad de los datos suministrados por los declarantes, quedando expresamente prohibida su cesión a terceros. Sólo podrán ser objeto de publicación los datos agregados resultantes del análisis y tratamiento de los mismos. En el supuesto de conocimiento del mínimo indicio de la existencia de posibles infracciones a la normativa de competencia, se pondrá en conocimiento de la Comisión Nacional de los Mercados y la Competencia.
+
+> Se modifica el apartado 2 y se añade el apartado 6 por el art. 1.1 del Real Decreto 24/2021, de 19 de enero. [Ref. BOE-A-2021-794](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-794)
+
+> Se añaden los apartados 4 y 5 por la disposición final 1.2 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+> Se añade la letra d) al apartado 1 y se modifica el apartado 2 por la disposición final 3 del Real Decreto 153/2016, de 15 de abril. [Ref. BOE-A-2016-3652](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3652).
+
+## Artículo 4. Registro de primeros compradores.
+
+1.Todos los primeros compradores de leche de vaca, oveja y cabra deberán estar inscritos en el registro de compradores establecido al efecto y que formará parte del sistema de información establecido en el artículo 3.
+
+La inscripción se realizará por la autoridad competente de la comunidad autónoma en la que esté ubicada la sede de la efectiva dirección del comprador.
+
+2\. La inscripción se realizará mediante la remisión a la autoridad competente de la comunidad autónoma de la solicitud de inscripción en el registro antes del inicio de la actividad, que contendrá como mínimo los datos incluidos el anexo I.
+
+3\. A la solicitud de inscripción se acompañará la siguiente documentación:
+
+1.º Documento acreditativo del número de identificación fiscal del comprador expedido para su constancia por la Administración tributaria o, en caso de personas físicas, el documento de identidad y autorización para su verificación en el servicio de verificación y consulta de datos del Ministerio de Hacienda y Administraciones Públicas.
+
+2.º Documento acreditativo del número de identificación fiscal del representante legal o voluntario expedido para su constancia por la Administración tributaria o, en caso de personas físicas, el documento de identidad y autorización para su verificación en el servicio de verificación y Consulta de datos del Ministerio de Hacienda y Administraciones Públicas.
+
+3.º Certificado de alta en el Censo Empresarios, Profesionales y Retenedores en los epígrafes relativos a explotaciones ganaderas de bovino, ovino o caprino, industrias lácteas o comercialización de leche o productos lácteos que correspondan, de acuerdo con la codificación de actividad contenida en las tarifas del Impuesto de Actividades Económicas.
+
+4.º En el caso de las sociedades incluidas en el ámbito del texto refundido de la Ley de Sociedades de Capital, aprobado mediante Real Decreto Legislativo 1/2010, de 2 de julio: Fotocopia compulsada, o con el carácter de auténtica, de la escritura de constitución y sus modificaciones, y certificado actualizado del registro mercantil de todos los asientos efectuados a la entidad.
+
+5.º En el caso de cooperativas, certificado emitido por el registro oficial de cooperativas que recoja todos los movimientos registrados y la composición actualizada del consejo rector, o en su caso, certificado emitido por el presidente del consejo rector que recoja la composición actualizada del mismo, así como original, o copia con el carácter de auténtica, de sus estatutos.
+
+6.º En el caso de las cooperativas a las que sea de aplicación la excepción contemplada en el artículo 12 del Real Decreto 1363/2012, los estatutos o los acuerdos de la cooperativa en donde se contengan los elementos obligatorios que debe tener el contrato.
+
+7.º En el caso de otras personas jurídicas, distintas de las anteriores, certificado emitido por el órgano rector, o persona rectora de las mismas, que recoja la composición actualizada de miembros, socios o componentes de la entidad, y la composición actualizada del órgano rector si no es unipersonal, así como así como original, o copia con el carácter de auténtica, de sus estatutos o del documento fundacional de la entidad.
+
+8.º Certificado de estar al corriente de todas los obligaciones tributarias y con la seguridad social.
+
+4\. La autoridad competente de la comunidad autónoma inscribirá en el correspondiente registro las solicitudes en las que figuren todos los datos cumplimentados con la documentación relacionada en el apartado anterior.
+
+5\. La autoridad competente remitirá al comprador, una vez inscrito, las claves de acceso al sistema de información establecido en virtud del artículo 3 para la cumplimentación de las declaraciones mensuales obligatorias de entregas de leche y el registro de contratos.
+
+6\. Todos aquellos primeros compradores de leche de vaca, oveja y cabra que ya estuviesen inscritos como tales operadores por el Ministerio de Agricultura, Alimentación y Medio Ambiente a 31 de marzo de 2015 quedarán automáticamente incorporados al nuevo registro de compradores.
+
+Los primeros compradores que inicien su actividad con posterioridad al 31 de marzo de 2015 deberán darse de alta en este registro de compradores; para ello solicitarán la inscripción de acuerdo con lo previsto en los apartados 2 y 3.
+
+7\. Cualquier modificación en los datos suministrados para la inscripción en el registro deberán ser comunicados a la autoridad competente en el plazo máximo de los de quince días siguientes tras su modificación.
+
+8\. El primer comprador ya inscrito que cese en la actividad deberá instar la baja en el registro. Así mismo ésta podrá practicarse de oficio, previa notificación al interesado, por inactividad a lo largo de un año natural.
+
+## Artículo 5. Declaración de contratos.
+
+1\. Todos los contratos formalizados entre primeros compradores y productores deberán ser registrados en el sistema informático previsto en el artículo 3, en las condiciones previstas y respetando el plazo establecido en el artículo 16 del Real Decreto 1363/2012, de 28 de septiembre, y siempre antes de comenzar la entrega de la leche objeto del contrato.
+
+2\. El sistema informático asignará automáticamente, una vez grabado el contrato o el acuerdo cooperativo o asociativo, un código identificativo de los mismos.
+
+## Artículo 6. Declaraciones obligatorias de entregas y ventas directas de leche.
+
+1\. Todos los primeros compradores de leche cruda de vaca, oveja y cabra deberán presentar, en los primeros veinte días del mes, la declaración, mediante los procedimientos informáticos establecidos al efecto, dónde se contabilicen todas las cantidades de leche cruda suministrada por los productores en el mes inmediatamente anterior, incluso en el supuesto de no haber realizado entregas en cuyo caso, la cantidad reflejada será «0».
+
+2\. Dicha declaración contendrá, al menos, la información establecida en los anexos II, III y IV.
+
+3\. A efectos de la cumplimentación de los citados anexos se utilizarán las equivalencias peso/volumen de la leche establecidas en el artículo 2 de este real decreto
+
+4\. Todas las entregas de leche deberán estar vinculadas a un contrato, registrado de conformidad a lo establecido en el artículo 5 del presente real decreto, debiendo hacer constar en la declaración el código identificativo del contrato al que se hace referencia en el artículo 5.5.
+
+5\. Los productores que destinen directamente al consumidor toda o parte de su producción o elaboren productos lácteos de vaca, oveja o cabra en la explotación (venta directa), quedan obligados a incorporar en los primeros veinte días del mes de enero del año siguiente, una declaración anual por cada una de las especies, en su caso, mediante los procedimientos informáticos establecidos al efecto o por alguno de los medios previstos en el artículo 38.4 de la ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, o mediante los procedimientos que a que a tal fin sean establecidos por el órgano competente, dónde se contabilizarán las cantidades de leche producidas en la explotación en el año natural inmediatamente anterior que se hayan destinado a la venta directa. Dicha declaración contendrá, al menos, la información establecida en el anexo V.
+
+6\. Los órganos competentes de las comunidades autónomas pondrán a disposición del Ministerio de Agricultura, Alimentación y Medio Ambiente, a través de la aplicación informática establecida, la información contenida en las declaraciones a que se refieren los apartados anteriores con el contenido y formato que se disponga al efecto.
+
+7\. Los primeros compradores y productores deberán conservar todos los documentos justificativos de las entregas correspondientes a un año natural durante, al menos, dos años contados a partir del final del año al que correspondan. Esta documentación estará a disposición de la autoridad competente, y deberá remitirse a la misma cuando ésta lo solicite a fin de comprobar la veracidad de la información contenida en el sistema.
+
+8\. La Dirección General de Producciones y Mercados Agrarios comunicará a la Comisión Europea los siguientes datos, antes del día 25 del mes siguiente al que estén referidas:
+
+a) Entregas mensuales de leche cruda de vaca.
+
+b) Contenido medio en materia grasa y proteína de dichas entregas.
+
+c) Entregas mensuales de leche cruda ecológica de vaca.
+
+d) Precio medio de leche cruda de vaca.
+
+e) Precio medio de leche cruda ecológica de vaca.
+
+> Se modifica el apartado 8, con efectos de 1 de febrero de 2021, por el art. 1.2 del Real Decreto 24/2021, de 19 de enero. [Ref. BOE-A-2021-794](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-794)
+
+## Artículo 6 bis. Declaraciones obligatorias complementarias a efectuar por los primeros compradores de leche de vaca, oveja y cabra.
+
+1\. Sin perjuicio de las declaraciones obligatorias exigidas en virtud del artículo 6 de este real decreto, los primeros compradores deberán presentar en los primeros veinte días del mes, la declaración, mediante los procedimientos informáticos establecidos al efecto, dónde se contabilicen todas las cantidades de leche no transformada vendidas con indicación del importe correspondiente a las mismas en el mes inmediatamente anterior, incluso en el supuesto de no haber realizado ventas en cuyo caso, la cantidad reflejada será “0”.
+
+2\. A tal fin, la declaración comprenderá las cantidades totales mensuales vendidas a cada comprador y el importe total abonado recibido de cada comprador en tales ventas, sin incluir en el mismo el IVA ni otros impuestos, según el modelo establecido en el anexo VI.
+
+3\. Esta obligación no será aplicable a las ventas realizadas por un primer comprador a empresas del mismo grupo empresarial.
+
+> Se modifica el apartado 2 por el art. 2.1 del Real Decreto 374/2022, de 17 de mayo de 2022. [Ref. BOE-A-2022-8119](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8119)
+
+> Se añade por la disposición final 1.3 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+## Artículo 7. Plan de control.
+
+1\. El Ministerio de Agricultura, Alimentación y Medio Ambiente coordinará con las comunidades autónomas, a través del órgano de coordinación correspondiente, la elaboración de un plan de control, del que podrán ser objeto todos los primeros compradores de leche cruda de vaca, oveja o cabra y los productores.
+
+Los órganos competentes de las comunidades autónomas realizarán los controles oficiales a los productores y primeros compradores, cuyas explotaciones, o sede de la efectiva dirección, respectivamente, se encuentren ubicadas en su territorio.
+
+2\. Los órganos competentes de las comunidades autónomas remitirán la información sobre el resultado de los controles oficiales realizados al Ministerio de Agricultura, Alimentación y Medio Ambiente por el sistema establecido al efecto.
+
+## Artículo 8. Régimen sancionador.
+
+1\. Las infracciones contra lo dispuesto en el presente real decreto se sancionarán de conformidad con la norma que con rango de Ley regule el régimen sancionador en materia de declaraciones obligatorias y de contratos en el sector de la leche y los productos lácteos, sin perjuicio de las responsabilidades civiles, penales o de otro orden que pudieran concurrir.
+
+2\. La autoridad competente será la prevista en el artículo 26, apartados 1 y 2, de la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria; y en materia de declaraciones obligatorias, será el órgano competente al efecto de la comunidad autónoma en que se presentó la solicitud a que se refiere el artículo 4.
+
+## Disposición adicional única. Contención del gasto.
+
+Las medidas incluidas en este real decreto serán atendidas con las dotaciones presupuestarias existentes, y no podrán suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+## Disposición transitoria primera. Tasa láctea.
+
+No obstante lo previsto en la Disposición derogatoria única, el Real Decreto 754/2005, de 24 de junio, por el que se regula el régimen de la tasa láctea, será de aplicación en lo que no se oponga al presente real decreto hasta la finalización de las actuaciones de gestión, control, liquidación, pago y recaudación, relativas al período de tasa láctea 2014-2015.
+
+## Disposición transitoria segunda. Declaraciones obligatorias de leche.
+
+1\. No obstante lo previsto en la Disposición derogatoria única, en tanto en cuanto no se encuentre operativo el Sistema unificado de información del sector lácteo establecido en el artículo 3, será de aplicación el sistema de comunicación de las declaraciones de entregas establecido para vacuno, ovino y caprino en las correspondientes normas.
+
+Se comunicará a los interesados sobre la operatividad de la citada base de datos, mediante la publicación de un anuncio en la página web del Ministerio de Agricultura, Alimentación y Medio Ambiente en el apartado sector ganadero.
+
+2\. Los primeros compradores de leche de oveja y cabra que hubiesen realizado declaraciones durante todo o parte de los años 2013 y 2014 deberán aportar a la autoridad competente la documentación establecida al efecto en el artículo 4 del presente real decreto, en el plazo de seis meses a partir de la entrada en vigor del mismo.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las siguientes normas:
+
+a) El Real Decreto 115/2013, de 15 de febrero, sobre declaraciones a efectuar por los compradores y productores de leche y productos lácteos de oveja y cabra.
+
+b) Real Decreto 754/2005, de 24 de junio, por el que se regula el régimen de la tasa láctea.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución, que atribuye al estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final segunda. Facultad de modificación.
+
+Se autoriza a la persona titular del Ministerio de Agricultura, Alimentación y Medio Ambiente, para dictar cuantas disposiciones sean necesarias para modificar los anexos y fechas contenidos en este real decreto en orden a su adecuación a la normativa de la Unión Europea.
+
+## Disposición final tercera. Entrada en vigor y aplicación.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», y será de aplicación desde el 1 de abril de 2015.
+
+Dado en Madrid, el 24 de abril de 2015.
+
+FELIPE R.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente,
+
+ISABEL GARCÍA TEJERINA
+
+## ANEXO I — Solicitud inscripción registro compradores
+
+COMPRADOR LECHE DE VACA ⬜
+
+COMPRADOR LECHE DE OVEJA ⬜
+
+COMPRADOR LECHE DE CABRA ⬜
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>D.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>NIF:</p>
+</td>
+<td colspan="2">
+<p>Con domicilio en:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Actuando en nombre propio/en representación de:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Con NIF:</p>
+</td>
+<td colspan="2">
+<p>y domicilio social en:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Localidad:</p>
+</td>
+<td colspan="2">
+<p>Municipio:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Provincia:</p>
+</td>
+<td colspan="2">
+<p>Código Postal:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Teléfono: Fax: correo eléctronico:</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Y con instalaciones en:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Localidad y provincia</p>
+</td>
+<td>
+<p>calle y número</p>
+</td>
+<td>
+<p>Código Postal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+SOLICITA: La inscripción en el registro de compradores de leche de vaca, oveja y cabra a que se refiere el presente real decreto por el que se regulan las declaraciones obligatorias a efectuar por los primeros compradores y productores de leche y productos lácteos de vaca, oveja y cabra.
+
+SE COMPROMETE:
+
+A mantener a disposición de la autoridad competente la documentación comercial e información complementaria justificativa, durante al menos dos años, a contar desde el final del año al que correspondan.
+
+A presentar en las fechas reglamentarias las declaraciones que se determinen.
+
+A someterse a los controles y a facilitar todos los documentos, justificantes y/o datos relacionados con las entregas de leche.
+
+DOCUMENTACIÓN QUE APORTA:
+
+– Fotocopia compulsada o con el carácter de auténtica del NIF del comprador, o autorización para su verificación en el Servicio de Verificación y Consulta de Datos del Ministerio de Hacienda y Administraciones Públicas.
+
+– Fotocopia compulsada o con el carácter de auténtica del NIF del representante legal o voluntario o autorización para su verificación en el Servicio de Verificación y Consulta de Datos del Ministerio de Hacienda y Administraciones Públicas.
+
+– Fotocopia compulsada o con el carácter de auténtica del documento que acredite la representación legal o voluntaria, en su caso.
+
+– Certificado de alta en el Impuesto de Actividades Económicas en los epígrafes relativos a explotaciones ganaderas de bovino, ovino o caprino, industrias lácteas o de comercialización de leche o productos lácteos.
+
+– En el caso de las sociedades incluidas en el ámbito del texto refundido de la Ley de Sociedades de Capital, aprobado mediante Real Decreto Legislativo 1/2010, de 2 de julio: fotocopia compulsada, o con el carácter de auténtica, de la escritura de constitución y sus modificaciones, y certificado actualizado del registro mercantil de todos los asientos efectuados a la entidad.
+
+– En el caso de cooperativas, certificado emitido por el registro oficial de cooperativas que recoja todos los movimientos registrados y la composición actualizada del consejo rector, o en su caso, certificado emitido por el presidente del consejo rector que recoja la composición actualizada del mismo, así como original, o copia con el carácter de auténtica, de sus estatutos.
+
+– En el caso de las cooperativas a las que sea de aplicación la excepción contemplada en el artículo 12 del Real Decreto 1363/2012, los estatutos o los acuerdos de la cooperativa en donde se contengan los elementos obligatorios que debe tener el contrato.
+
+– En el caso de otras personas jurídicas, distintas de las anteriores, certificado emitido por el órgano rector, o persona rectora de las mismas, que recoja la composición actualizada de miembros, socios o componentes de la entidad, y la composición actualizada del órgano rector si no es unipersonal, así como así como original, o copia con el carácter de auténtica, de sus estatutos o del documento fundacional de la entidad.
+
+– Certificado de estar al corriente de todas los obligaciones tributarias y con la seguridad social.
+
+En . . . . . . . . . . . . . . . . . . a . . . . . . . . . . de . . . . . . . . . . . . . . . . . . de 201. . .
+
+Firma y sello de la entidad Autoridad competente de la Comunidad Autónoma
+
+## ANEXO II — Declaración mensual de primeros compradores de leche de vaca
+
+![1](https://www.boe.es/datos/imagenes/disp/2021/17/00794_5776.png)
+
+> Se modifica por el art. 1.3 del Real Decreto 24/2021, de 19 de enero. [Ref. BOE-A-2021-794](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-794)
+
+> Esta modificación produce efectos desde el 1 de enero de 2021, según establece la disposición final única.a).
+
+> Se modifica por la disposición final 1.4 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+## ANEXO III — Declaración mensual de primeros compradores de leche de oveja
+
+![2](https://www.boe.es/datos/imagenes/disp/2021/17/00794_5964.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2021/17/00794_5997.png)
+
+> Se modifica, con efectos de 1 de febrero de 2022, por el art. 1.4 del Real Decreto 24/2021, de 19 de enero. [Ref. BOE-A-2021-794](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-794)
+
+> Se modifica por la disposición final 1.4 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+## ANEXO IV — Declaración mensual de primeros compradores de leche de cabra
+
+![4](https://www.boe.es/datos/imagenes/disp/2021/17/00794_6053.png)
+
+![5](https://www.boe.es/datos/imagenes/disp/2021/17/00794_6088.png)
+
+> Se modifica, con efectos de 1 de febrero de 2022, por el art. 1.5 del Real Decreto 24/2021, de 19 de enero. [Ref. BOE-A-2021-794](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-794)
+
+> Se modifica por la disposición final 1.4 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+## ANEXO V — Hoja resumen de ventas directas
+
+![6](https://www.boe.es/datos/imagenes/disp/2021/17/00794_6205.png)
+
+> Se modifica, con efectos de 1 de enero de 2022, por el art. 1.6 del Real Decreto 24/2021, de 19 de enero. [Ref. BOE-A-2021-794](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-794)
+
+> Se modifica por la disposición final 1.4 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)
+
+## ANEXO VI — Declaración mensual complementaria de primeros compradores
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/118/8119_11614224_1.png)
+
+> Se sustituye por el art. 2.2 del Real Decreto 374/2022, de 17 de mayo de 2022. [Ref. BOE-A-2022-8119](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8119)
+
+> Se añade por la disposición final 1.4 del Real Decreto 95/2019, de 1 de marzo. [Ref. BOE-A-2019-2979](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2979)

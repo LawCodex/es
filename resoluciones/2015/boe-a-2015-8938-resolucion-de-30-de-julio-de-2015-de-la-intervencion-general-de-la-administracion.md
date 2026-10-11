@@ -1,0 +1,493 @@
+---
+title: "Resolución de 30 de julio de 2015, de la Intervención General de la Administración del Estado, por la que se dictan instrucciones para el ejercicio del control financiero permanente"
+identifier: "BOE-A-2015-8938"
+eli: "https://www.boe.es/eli/es/res/2015/07/30/(4)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2015-07-30
+published: 2015-08-10
+in_force_from: 2015-10-01
+last_amended: 2022-02-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 190"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-8938"
+retrieved: 2026-10-11
+---
+
+# Resolución de 30 de julio de 2015, de la Intervención General de la Administración del Estado, por la que se dictan instrucciones para el ejercicio del control financiero permanente
+
+La Ley 47/2003, de 26 de noviembre, General Presupuestaria representó, en el marco de la organización de la actividad económico-financiera del sector público estatal, un cambio notable en relación con las estructuras y procedimientos en los que tradicionalmente se han insertado las actuaciones de control interno llevadas a cabo por la Intervención General de la Administración del Estado. No en vano, el título VI de la Ley General Presupuestaria contiene una regulación sistemática y global de la función de control, sobre la base de la configuración independiente de tres modalidades diferentes de su ejercicio: la función interventora, el control financiero permanente y la auditoría pública.
+
+Es evidente, por tanto, que si bien los fundamentos de la actividad de control no experimentan alteraciones sustanciales, resulta necesario distinguir, a la luz de la división expuesta, las técnicas, procedimientos y reglas de actuación que han de imperar en cada variante del ejercicio de la función de control. En este sentido, la modalidad de control financiero permanente presenta determinadas novedades legislativas que hacen indispensable actualizar sus normas reguladoras internas, con el fin de optimizar su ejercicio, tanto en la fase de planificación, como en las fases de ejecución y seguimiento. De hecho, en la nueva Ley General Presupuestaria se amplía el marco regulador del control financiero permanente teniendo en cuenta que la anterior Ley sólo regulaba su ámbito de aplicación, en tanto que la nueva Ley establece su definición, su contenido, el régimen jurídico de los informes y su sometimiento a un plan anual de control financiero permanente.
+
+La entrada en vigor de la Ley General Presupuestaria, la evolución normativa del control interno y de los cambios de organización en el sector público que se habían producido en los últimos años aconsejaron la publicación de la Circular 1/2009 de 16 de septiembre de la Intervención General de la Administración del Estado, sobre control financiero permanente, que dotó a esta modalidad de control de un marco procedimental específico.
+
+Con la publicación de esta resolución, se incorporan cambios derivados, fundamentalmente, de la publicación de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en lo que se refiere a la publicidad de los planes de control financiero permanente y de modificaciones normativas realizadas por la Ley 36/2014, de 26 de diciembre, de Presupuestos Generales del Estado para 2015, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, respecto de la elaboración de Planes de Acción, y de las realizadas por el Real Decreto 109/2015 de 20 de febrero en el Real Decreto 2188/1995, de 28 de diciembre, por el que se regula el régimen de control interno ejercido por la Intervención General de la Administración del Estado, que supone un cambio importante en el procedimiento de traslado por parte del interventor actuante de aquellos hechos acreditados o comprobados en el ejercicio de sus funciones que pudieran ser susceptibles de constituir una infracción administrativa o dar lugar a la exigencia de responsabilidades contables o penales.
+
+Adicionalmente se han introducido otras modificaciones para adaptar el ejercicio del control financiero permanente a las necesidades actuales, entre las que se destaca la modificación de la estructura y contenido de los informes de control financiero permanente.
+
+Por todo lo anterior, se dispone lo siguiente:
+
+## Sección 1.ª Disposiciones generales
+
+### Primera. Ámbito de aplicación.
+
+1\. La presente resolución tiene por objeto regular la aplicación del control financiero permanente, de conformidad con lo establecido en los artículos 157 a 161 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, así como en el Real Decreto 2188/1995, de 28 de diciembre, por el que se regula el régimen de control interno ejercido por la Intervención General de la Administración del Estado y en el Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Seguridad Social.
+
+2\. Las instrucciones incluidas en la presente resolución serán aplicables al control financiero permanente que se ejerza sobre:
+
+a) La Administración General del Estado.
+
+b) Los organismos autónomos dependientes de la Administración General del Estado.
+
+c) Las entidades gestoras y servicios comunes de la Seguridad Social.
+
+d) Las entidades estatales de derecho público contempladas en el párrafo g) del apartado 1 del artículo 2 de la Ley General Presupuestaria.
+
+e) Las entidades públicas empresariales contempladas en el párrafo c) del apartado 1 del artículo 2 de la Ley General Presupuestaria.
+
+f) Las agencias estatales creadas al amparo de la Ley 28/2006, de 18 de julio, de agencias estatales para la mejora de los servicios públicos.
+
+g) Las mutuas colaboradoras con la Seguridad Social, cuando se hallen inmersas en alguno de los supuestos previstos en el artículo 75 ter del Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social.
+
+3\. Lo dispuesto en esta instrucción será también de aplicación a aquellas entidades, no incluidas en el apartado anterior, que sean sometidas a control financiero permanente en virtud de lo dispuesto en la disposición adicional undécima de la Ley General Presupuestaria.
+
+### Segunda. Normativa aplicable.
+
+1\. El control financiero permanente se regula por las siguientes normas:
+
+a) Ley 47/2003, de 26 de noviembre, General Presupuestaria, en particular por sus artículos 157 a 161.
+
+b) El Real Decreto 2188/1995, de 28 de diciembre, por el que se regula el régimen de control interno ejercido por la Intervención General de la Administración del Estado.
+
+c) El Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Seguridad Social
+
+d) Las circulares, resoluciones e instrucciones aprobadas por la Intervención General de la Administración del Estado. En particular, las resoluciones por las que se aprueban los planes anuales de control financiero permanente.
+
+2\. Las actuaciones de control financiero permanente a que se refiere el párrafo e) del apartado 1 del artículo 159 de la Ley General Presupuestaria se regirán por su normativa específica.
+
+### Tercera. Objeto y contenido del control financiero permanente.
+
+1\. El control financiero permanente del sector público estatal tiene por objeto comprobar de forma continuada que su funcionamiento, en el aspecto económico-financiero, se ajusta al ordenamiento jurídico y a los principios generales de buena gestión financiera, así como formular recomendaciones en los aspectos económico, financiero, patrimonial, presupuestario, contable, organizativo y procedimental y sobre los sistemas informáticos de gestión, para corregir las actuaciones que lo requieran, a fin de promover la mejora de las técnicas y procedimientos de gestión económico-financiera.
+
+2\. El ejercicio del control financiero permanente comprende tanto las actuaciones de control que anualmente se incluyan en el correspondiente plan como las actuaciones atribuidas a las intervenciones delegadas, regionales y territoriales a las que se refiere el párrafo e) del apartado 1 artículo 159 de la Ley General Presupuestaria, entre otras, los informes a las bases reguladoras de la concesión de subvenciones, regulados en el apartado 1 del artículo 17 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones; las actividades relacionadas con la asistencia a mesas y juntas de contratación previstas en el Real Decreto Legislativo 3/2011, de 14 de noviembre, por el que se aprueba el texto refundido de la Ley de Contratos del Sector Público, las derivadas de la pertenencia a los Jurados provinciales de expropiación, prevista en la Ley de Expropiación Forzosa y los informes en materia de modificaciones de crédito a que se refiere el artículo 63 de la Ley General Presupuestaria.
+
+En estos casos, el trabajo desarrollado en el ejercicio de la competencia atribuida a las intervenciones delegadas, regionales y territoriales será la base para elaborar tanto los informes puntuales que deban emitirse en función de su normativa reguladora, como informes de control financiero permanente en los que se contemple con un enfoque global las actuaciones realizadas.
+
+### Cuarta. Órganos competentes.
+
+1\. El control financiero permanente se ejercerá de una forma continua por las intervenciones delegadas en los ministerios, organismos y entidades citados en la disposición 1.ª de esta resolución, de conformidad con lo previsto en la Ley General Presupuestaria y en las demás normas de desarrollo.
+
+A efectos de la presente resolución las intervenciones delegadas en los centros directivos Secretaría General del Tesoro y Política Financiera y Dirección General de Costes de Personal y Pensiones Públicas ejercerán las funciones que se prevén para las intervenciones delegadas en organismos públicos.
+
+2\. Cuando las actuaciones sometidas a control financiero permanente hayan sido realizadas por los servicios periféricos de los anteriormente citados ministerios, organismos y entidades, el control financiero permanente se realizará por las intervenciones regionales y territoriales que se designen al efecto en el plan anual de control financiero permanente.
+
+3\. Corresponde a los interventores delegados en los ministerios, organismos y entidades la coordinación de las actuaciones de control financiero permanente que realicen los interventores regionales y territoriales en relación con los servicios periféricos de aquéllos. En particular, esta función de coordinación comprenderá las siguientes actuaciones:
+
+a) Proporcionar y transmitir a los interventores regionales y territoriales la información e instrucciones que se consideren oportunas para la realización de las actuaciones de control financiero permanente.
+
+b) Coordinar y valorar, antes de su remisión a la Oficina Nacional de Auditoría, las propuestas de inclusión o modificación de controles en el plan anual de control financiero permanente que efectúen los interventores regionales y territoriales en relación con los servicios periféricos.
+
+c) Recibir los informes y memorandos elaborados por los interventores regionales y territoriales sobre los servicios periféricos del respectivo ministerio, organismo o entidad, e incorporar, en su caso, el resultado de su trabajo en los informes de control financiero permanente que emita el interventor delegado.
+
+d) Proporcionar a las intervenciones regionales y territoriales, al menos con periodicidad anual, información agregada sobre los resultados del control financiero permanente realizado en los servicios periféricos.
+
+4\. Corresponde a los interventores regionales la coordinación de las actuaciones de control financiero permanente asignadas a los interventores territoriales de su ámbito en las condiciones que al respecto establezcan la Oficina Nacional de Auditoría y las intervenciones delegadas. En particular, esta función comprenderá las siguientes actuaciones:
+
+a) Coordinar las propuestas de actuaciones de control sobre los servicios periféricos a incluir en los planes anuales de control financiero permanente.
+
+b) Proponer motivadamente a la correspondiente intervención delegada que se asigne a una de las intervenciones territoriales de su ámbito las actuaciones sometidas a control financiero permanente que hayan sido realizadas por órganos con competencia regional y se hayan asignado inicialmente a la intervención regional.
+
+c) Efectuar el seguimiento de la ejecución del plan anual de control financiero permanente asignado a las intervenciones territoriales de su ámbito.
+
+d) Coordinar el contenido de los informes de control financiero permanente a emitir sobre una misma actuación de control por varias intervenciones territoriales de su ámbito.
+
+5\. Cuando sea la Oficina Nacional de Auditoría quien coordine el control financiero permanente a realizar en un conjunto de entidades pertenecientes a un mismo sector, las funciones de coordinación se realizarán de forma similar a la señalada en el apartado 3 anterior para los interventores delegados.
+
+6\. Corresponde a la Oficina Nacional de Auditoría la coordinación, planificación, programación global y el control de calidad de las actuaciones de control financiero permanente realizadas por las diferentes unidades de la Intervención General.
+
+Las actuaciones de control de calidad podrán ser llevadas a cabo directamente por la Oficina Nacional de Auditoría o asignarse a las intervenciones delegadas en ministerios, respecto de las intervenciones delegadas en organismos y entidades adscritas o dependientes del ministerio, y a las intervenciones regionales, respecto de las intervenciones territoriales de su ámbito.
+
+## Sección 2.ª Del plan anual de control financiero permanente
+
+### Quinta. Elaboración, aprobación y publicidad del plan anual de control financiero permanente.
+
+1\. Para la elaboración del plan de actuaciones de control financiero permanente de cada ejercicio, la Oficina Nacional de Auditoría solicitará a los interventores delegados en ministerios, organismos y entidades la remisión de la propuesta de las actuaciones de control a incluir, sobre la base de un análisis de riesgos consistente con los objetivos que se pretendan conseguir, las prioridades establecidas para cada ejercicio y los medios disponibles.
+
+2\. La Oficina Nacional de Auditoría determinará la metodología a utilizar para seleccionar las actuaciones a incluir y los modelos, plazos y procedimientos de remisión de las propuestas.
+
+3\. El plan anual de actuaciones de control financiero permanente se aprobará por Resolución de la Intervención General de la Administración del Estado, a propuesta del Director de la Oficina Nacional de Auditoría, del Interventor General de la Defensa y del Interventor General de la Seguridad Social, e incluirá como anexo las actuaciones de control a realizar por cada intervención delegada en ministerios, centros directivos, organismos y entidades, incluyendo, en su caso, las actuaciones de control a realizar por las intervenciones regionales y territoriales respecto de la gestión realizada por los servicios periféricos y el alcance de los trabajos a efectuar.
+
+4\. El plan anual de control financiero permanente, una vez aprobado, se remitirá por la Intervención General de la Administración del Estado, al Tribunal de Cuentas, al Ministro de Hacienda y Administraciones Públicas, al Secretario de Estado de Presupuestos y Gastos y a los titulares de los departamentos ministeriales en la parte que corresponda al ámbito de sus respectivas competencias.
+
+5\. La Intervención General de la Administración del Estado publicará en el portal de la Administración Presupuestaria la Resolución que apruebe el plan anual de actuaciones de control financiero permanente, siempre que su publicación no suponga un perjuicio para las funciones de control. La misma información se publicará en el Portal de Transparencia en los términos establecidos en la normativa que resulte de aplicación.
+
+### Sexta. Modificación del plan anual de control financiero permanente.
+
+El plan anual de control financiero permanente aprobado podrá ser modificado en los términos establecidos en la resolución que lo apruebe, en las siguientes circunstancias:
+
+a) Como consecuencia de la ejecución de controles específicos en virtud de solicitud o mandato legal.
+
+b) Cuando se produzcan variaciones en la estructura orgánica de los ministerios, organismos o entidades objeto de control.
+
+c) Para evitar la repetición de trabajos con alcance similar realizados por otros órganos o instituciones de control públicos.
+
+d) Por insuficiencia de medios u otras razones debidamente ponderadas.
+
+### Séptima. Programación y seguimiento del plan anual de control financiero permanente.
+
+Una vez aprobado el plan de control financiero permanente para cada ejercicio, los interventores delegados en ministerios, organismos y entidades y los interventores regionales y territoriales realizarán la programación de las actuaciones de control a ejecutar a lo largo de todo el ejercicio al que se refiere el plan y deberán mantener actualizada en todo momento la situación de los trabajos de control que les han sido asignados con objeto de poder realizar el seguimiento del estado de ejecución del plan.
+
+## Sección 3.ª Del ejercicio del control financiero permanente
+
+### Octava. Ejecución de las actuaciones de control financiero permanente.
+
+1\. Los interventores delegados, regionales y territoriales planificarán y dirigirán el desarrollo de las actuaciones de control financiero permanente que tengan asignadas y designarán a los integrantes del equipo de control. Cuando no asuman personalmente las tareas de planificación, dirección y supervisión final de todas o alguna de las actuaciones de control propondrán, de forma motivada a la Oficina Nacional de Auditoría el nombramiento de un Director del control.
+
+2\. Los trabajos de control financiero permanente se realizarán de forma continuada, no obstante, los interventores delegados, regionales y territoriales comunicarán al órgano gestor el inicio de aquellas actuaciones de control que requieran su colaboración.
+
+3\. Los interventores delegados en ministerios, organismos y entidades con servicios periféricos deberán remitir a los interventores regionales y territoriales que tengan actuaciones previstas en el correspondiente plan, con una antelación mínima de tres meses a la fecha límite de emisión de los informes o memorandos, las instrucciones o guías necesarias para la adecuada ejecución y homogeneización del trabajo a realizar.
+
+En igual plazo deberá remitir la Oficina Nacional de Auditoría las instrucciones o guías necesarias para realizar las actuaciones de control cuando coordine las actuaciones a realizar en un conjunto de entidades.
+
+4\. Las verificaciones necesarias para el desarrollo de los trabajos de control financiero permanente se realizarán de forma sistemática y mediante la aplicación de procedimientos de análisis de las operaciones o actuaciones seleccionadas al efecto, que permitan obtener una evidencia suficiente, pertinente y válida.
+
+En el caso de que dichas verificaciones se efectúen aplicando procedimientos de auditoría, se someterán, a falta de norma específica, a lo establecido en las normas de auditoría del sector público.
+
+5\. Las actuaciones a realizar podrán consistir, entre otras, en:
+
+a) El examen de registros contables, cuentas, estados financieros o estados de seguimiento elaborados por el órgano gestor.
+
+b) El examen de operaciones individualizadas y concretas.
+
+c) La comprobación de aspectos parciales y concretos de un conjunto de actos.
+
+d) La verificación material de la efectiva y conforme realización de obras, servicios, suministros y gastos.
+
+e) El análisis de los sistemas y procedimientos de gestión.
+
+f) La revisión de los sistemas informáticos de gestión económico-financiera.
+
+g) Otras comprobaciones en atención a las características especiales de las actividades realizadas por los ministerios, centros directivos, organismos y entidades sometidos a control y a los objetivos que se persigan.
+
+6\. Las actuaciones se documentarán y archivarán conforme a lo establecido en las normas de auditoría y en las instrucciones sobre organización de los papeles de trabajo y de las actuaciones de control financiero dictadas por la Intervención General de la Administración del Estado.
+
+### Novena. Obtención de información, documentación y asesoramiento técnico en las actuaciones de control financiero permanente.
+
+1\. En el ejercicio de las funciones de control financiero permanente se deberán examinar cuantos antecedentes, documentación e información sean precisos a efectos de las actuaciones de control, así como consultar la información contenida en los sistemas informáticos de gestión que sea relevante.
+
+2\. A estos efectos, los órganos gestores, de acuerdo con el deber de colaboración que se establece en el apartado 2 del artículo 145 de la Ley General Presupuestaria, deberán facilitar la información de carácter económico, o de otra naturaleza, que sea relevante para la realización de las actuaciones de control. Los interventores delegados, regionales y territoriales podrán solicitar la mencionada información de manera singular o estableciendo la periodicidad y el procedimiento para su remisión.
+
+En particular, se podrán solicitar los informes emitidos por los órganos de control externo, inspecciones de servicios y otros órganos de control.
+
+3\. Los interventores delegados, regionales y territoriales podrán solicitar información con trascendencia para las actuaciones de control a cualquier persona física o jurídica privada así como a cualquier entidad del sector público, diferente de la sometida a su control, de acuerdo con lo dispuesto en el apartado 3 del artículo 145 de la Ley General Presupuestaria, procediendo conforme a las siguientes reglas:
+
+a) Cuando la petición se efectúe a personas privadas se realizará por escrito y se concederá un plazo no inferior a diez días hábiles para proporcionar la información solicitada. Cuando las peticiones sean susceptibles de ser normalizadas, se deberán utilizar los modelos que a tal efecto establezca la Intervención General de la Administración del Estado.
+
+b) Las peticiones de información o documentación en el ámbito del sector público se realizarán, según se considere más conveniente en cada caso, al órgano de dirección o al responsable del servicio que corresponda, a través de los medios usuales de comunicación entre órganos del sector público.
+
+4\. Los interventores delegados podrán solicitar a la Oficina Nacional de Auditoría la designación de asesores o peritos entre funcionarios que no hayan intervenido en la gestión objeto de control o la contratación de empresas especializadas para la realización de actuaciones de asesoramiento o periciales.
+
+Las peticiones deberán ir acompañadas de una descripción detallada de los trabajos a desarrollar, de los objetivos que se pretenden con la realización del peritaje y de una exposición razonada acerca de la imposibilidad de obtener evidencia adecuada y suficiente por otros medios alternativos.
+
+Las solicitudes que puedan realizar los interventores regionales y territoriales deberán dirigirse al interventor delegado correspondiente, quien las transmitirá a la Oficina Nacional de Auditoría acompañadas de su opinión sobre la procedencia de la solicitud realizada.
+
+Cuando la petición de asesoramiento tenga por objeto verificar el funcionamiento o la seguridad de los sistemas informáticos del ministerio, organismo o entidad controlada, la Oficina Nacional de Auditoría lo pondrá en conocimiento de los Servicios de Informática presupuestaria de la Intervención General de la Administración del Estado al objeto de evaluar y, en su caso, programar la colaboración requerida a realizar a través de una unidad específica dedicada a esta función.
+
+### Décima. Consultas.
+
+Cuando el interventor delegado considere necesaria la formulación de una consulta, relacionada con el ejercicio del control financiero permanente, se dirigirá al Director de la Oficina Nacional de Auditoría quien resolverá acerca de la elaboración del correspondiente informe o su traslado al órgano competente. Las consultas que estimen necesario efectuar los interventores regionales y territoriales se dirigirán al interventor delegado en los correspondientes servicios centrales, quien, en su caso, las remitirá a la mencionada Dirección.
+
+La Oficina Nacional de Auditoría o la correspondiente intervención delegada asegurarán la adecuada difusión, a todos los órganos de control que pudieran estar afectados, de las respuestas o informes derivados de las consultas planteadas en el párrafo anterior.
+
+### Undécima. Encomiendas de control financiero permanente.
+
+Cuando un interventor delegado considere conveniente que se encomiende a otro interventor delegado la realización de actuaciones, comprobaciones o verificaciones deberá solicitar al Director de la Oficina Nacional de Auditoría que se formalice una encomienda de control, mediante propuesta motivada en la que deberán constar las pruebas a realizar, la forma de comunicación de los resultados y la fecha de su emisión.
+
+No tienen la consideración de encomiendas de control las actuaciones que un interventor delegado proponga para que sean realizadas por el interventor regional o territorial en los servicios periféricos correspondientes.
+
+Las encomiendas de control no producirán necesariamente modificaciones en el plan anual, aunque en el caso de ser aprobadas se modificará la asignación de controles de la intervención delegada que las lleve a cabo.
+
+## Sección 4.ª De los informes de control financiero permanente
+
+### Duodécima. Informes de control financiero permanente.
+
+1\. El resultado de las actuaciones de control financiero permanente se documentará en informes escritos en los que se expondrán, de forma clara, exacta, objetiva y ponderada los hechos comprobados, las conclusiones obtenidas, así como las recomendaciones para la mejora de las actuaciones objeto de control. Las conclusiones y recomendaciones se presentarán de forma priorizada y estarán relacionadas de manera lógica con los hechos comprobados incluidos en los resultados del trabajo. Las recomendaciones permitirán valorar al destinatario la importancia, racionalidad y conveniencia de su adopción.
+
+2\. La estructura y contenido de los informes de control financiero permanente se ajustarán a las instrucciones que se dicten por la Oficina Nacional de Auditoría.
+
+> Se modifica por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+### Decimotercera. Tramitación de los informes de control financiero permanente.
+
+1\. El interventor delegado, regional o territorial que haya desarrollado la actuación de control deberá emitir el informe con carácter provisional y remitirlo a la persona titular del órgano gestor directo de la actividad controlada, acompañado de un escrito de remisión en el que se indicará que en un plazo de quince días hábiles podrá efectuar las alegaciones que considere convenientes. Los informes provisionales deberán contener en cada una de sus páginas una indicación sobre su carácter provisional.
+
+En el escrito de remisión del informe provisional, cuyo modelo se establecerá por la Oficina Nacional de Auditoría, se indicará la necesidad de que el órgano gestor comunique las medidas adoptadas, o que tiene previsto adoptar, para atender las recomendaciones del informe, así como, en su caso, el calendario previsto para su implementación.
+
+En dicho oficio se indicará además la posibilidad de que, en caso de no comunicarse esas medidas o que éstas no fueran suficientes, se comuniquen los incumplimientos, deficiencias o debilidades a los que se refieren las recomendaciones a la persona titular del departamento ministerial a efectos de su corrección mediante la elaboración de un plan de acción, previsto en el artículo 161 de la Ley General Presupuestaria.
+
+2\. Cuando se hubiera producido un cambio en la titularidad del órgano controlado, su actual titular podrá recabar y remitir al órgano de control, acompañando a las alegaciones, las consideraciones que, en su caso, pueda realizar el anterior titular de la gestión.
+
+A estos efectos, el interventor delegado, regional o territorial, cuando tenga conocimiento de que se ha producido dicho cambio de titularidad, incluirá en el escrito de remisión del informe provisional, mención expresa a la posibilidad a que se ha hecho referencia en el párrafo anterior.
+
+3\. Cuando el interventor delegado, regional o territorial lo estime oportuno debido a la especial naturaleza, trascendencia o complejidad del contenido del informe, con carácter previo a la emisión del informe provisional, podrá dar traslado al órgano gestor de los resultados más relevantes puestos de manifiesto en el control realizado.
+
+4\. Sobre la base del informe provisional, y en su caso de las alegaciones recibidas del órgano gestor, se emitirá el informe definitivo. Las alegaciones remitidas por los órganos gestores no se incorporarán como anexo en el informe, pero quedarán debidamente archivadas junto con el resto de documentación soporte del control realizado y su contenido deberá ser evaluado adoptando alguna de las decisiones siguientes:
+
+– Cuando del contenido e importancia de las alegaciones se derive la necesidad de modificar el informe provisional, deberán suprimirse o sustituirse los aspectos afectados, previa obtención de la evidencia correspondiente.
+
+– Cuando a juicio del interventor la información y documentación aportada en las alegaciones no deba originar modificaciones sobre lo expuesto en el informe provisional, se hará constar en el informe definitivo la opinión discrepante de los órganos gestores, en su caso trascribiendo el contenido de la alegación correspondiente, y las razones por las que el interventor actuante no acepta las alegaciones.
+
+– Si no se hubieran recibido alegaciones en el plazo señalado para ello, se emitirá el informe definitivo en el que se indicará esta circunstancia.
+
+– Si las alegaciones se recibieran fuera de plazo, pero antes de la emisión del informe definitivo, el interventor delegado, regional o territorial valorará su relevancia y actuará conforme a lo establecido anteriormente.
+
+5\. En el caso de que se recibieran alegaciones después de la emisión del informe definitivo, se procederá a su archivo. Excepcionalmente se podrá emitir un nuevo informe definitivo, haciendo constar esta circunstancia en el apartado de introducción, cuando de haberse recibido antes de la emisión del informe definitivo hubieran dado lugar a modificaciones sustanciales en su contenido.
+
+6\. Los informes de control financiero permanente, provisionales y definitivos, serán firmados electrónicamente por los interventores delegados, regionales o territoriales, y, en su caso, por el director del control; serán comunicados por medios telemáticos a la persona titular del órgano gestor y serán puestos a disposición de la Oficina Nacional de Auditoría mediante la aplicación informática prevista al efecto. Los interventores regionales o territoriales pondrán a disposición del correspondiente interventor delegado los informes de control financiero permanente que emitan respecto de los servicios territoriales.
+
+En caso de discrepancia de criterio entre el interventor delegado, regional o territorial y el director del control, éste no firmará el informe y manifestará por escrito las razones por las que discrepa del contenido. Los interventores delegados, regionales o territoriales emitirán el informe con su única firma y además darán traslado del mencionado escrito al Director de la Oficina Nacional de Auditoría.
+
+7\. En los informes definitivos se deberá indicar que los incumplimientos, deficiencias y debilidades de control no atendidos por el órgano gestor, podrán ser objeto de comunicación a la persona titular del departamento ministerial a efectos de su corrección mediante la elaboración de un plan de acción.
+
+8\. Si el órgano gestor ministerial de la actividad controlada depende jerárquicamente de un órgano directivo o superior, diferente a la persona titular del departamento ministerial, el interventor delegado podrá remitirle el informe de control financiero permanente definitivo para su conocimiento. De forma análoga, en el caso del resto de entidades del sector público estatal, podrá remitirlo a sus órganos de gobierno colegiados.
+
+En los supuestos en los que se estime necesario, por la naturaleza del trabajo o de sus conclusiones, el interventor delegado propondrá a la Oficina Nacional de Auditoría que el informe definitivo se remita a la persona titular del departamento ministerial en cuyo ámbito de competencia se encuentre el órgano, organismo o entidad correspondiente, y a la persona titular del departamento ministerial de Hacienda y Función Pública.
+
+> Se modifica por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+### Decimocuarta. Memorandos de control financiero permanente de servicios periféricos.
+
+1\. El resultado de las actuaciones de control realizadas por los interventores regionales y territoriales podrá documentarse en forma de memorando cuando, en función del concreto trabajo de control de que se trate y de la naturaleza de la gestión del órgano periférico, el interventor delegado así lo determine.
+
+2\. Con carácter general, los memorandos contendrán los resultados del trabajo realizado y se deberán ajustar a las instrucciones que al respecto haya establecido el interventor delegado.
+
+3\. Previamente a su emisión, se remitirá un borrador del memorando al gestor controlado a los solos efectos de contrastar la veracidad de los hechos y, en su caso, corregir errores materiales.
+
+4\. Los memorandos se pondrán a disposición de los interventores delegados y se trasladarán al órgano controlado para su conocimiento.
+
+### Decimoquinta. Informes globales anuales.
+
+1\. En el curso del primer trimestre del año siguiente al que se refiera el plan de control, los interventores delegados, con el fin de facilitar a la persona titular del departamento ministerial una información global de los controles realizados sobre la gestión de su departamento y de los organismos y entidades dependientes, vinculadas o adscritas al mismo que estén sometidas a control financiero permanente, deberán elaborar un informe comprensivo de los resultados más relevantes de las actuaciones de control financiero permanente, así como de otras actuaciones que se determinen por parte de la Oficina Nacional de Auditoría realizadas en ejecución de actuaciones de control coordinadas por dicha Oficina.
+
+2\. El contenido del informe incluirá los aspectos que resulten más significativos por su relevancia cuantitativa o cualitativa, por su reiteración, por su novedad, o por cualquier otra circunstancia que el interventor delegado considere oportuno teniendo en cuenta su destinatario principal y deberá estar basado en los informes que a lo largo del ejercicio se hayan remitido a los gestores directos de la actividad controlada.
+
+3\. Cuando en alguno de los aspectos que se trasladan al informe global, el órgano gestor en sus alegaciones hubiera mantenido opiniones contrarias a las del interventor delegado, que se estime deban ser conocidas por el destinatario principal del informe global, se hará referencia a tal circunstancia y se explicarán los argumentos de la intervención para ratificar su opinión, pero en ningún caso se acompañarán alegaciones al informe global.
+
+4\. Cuando en el informe global anual se pongan de manifiesto situaciones que podrían ser susceptibles de requerir la elaboración, por parte del correspondiente departamento ministerial, de un plan de acción, de acuerdo con lo dispuesto en el artículo 161 de la Ley General Presupuestaria, se actuará conforme a lo dispuesto en la disposición decimoséptima bis de la presente Resolución.
+
+5\. Para su remisión, los informes globales elaborados por los interventores delegados se pondrán a disposición de la Oficina Nacional de Auditoría antes del 31 de marzo de cada año mediante la aplicación informática prevista al efecto.
+
+6\. La Intervención General de la Administración del Estado remitirá en el primer semestre de cada año los informes globales a sus destinatarios principales. Igualmente, remitirá todos los informes globales a las personas titulares, respectivamente, del Ministerio de Hacienda y Función Pública y de la Secretaría de Estado de Presupuestos y Gastos.
+
+> Se modifica por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+### Decimosexta. Otros informes de control financiero permanente.
+
+Cuando el plan anual de control financiero permanente incluya actuaciones de control en virtud de lo previsto en el artículo 82 del Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley General de Subvenciones, si se producen las circunstancias a que se refiere el apartado 3 del mencionado artículo, se detallarán en el correspondiente informe de control financiero permanente y, tras su elevación a definitivo, se emitirá un informe separado dirigido al órgano concedente de la subvención en el que se harán constar las diferencias advertidas entre las cuentas justificativas presentadas y los registros contables o justificantes que las acreditan.
+
+> Se modifica por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+## Sección 5.ª De las propuestas y seguimiento de medidas correctoras y valoración de los planes de acción
+
+### Decimoséptima. Seguimiento de medidas correctoras propuestas por el gestor.
+
+Las intervenciones delegadas, regionales o territoriales establecerán los mecanismos necesarios para efectuar el seguimiento de las medidas propuestas por el gestor para la asunción de las recomendaciones puestas de manifiesto en los informes de control financiero permanente con el objeto de corregir los incumplimientos, deficiencias y debilidades.
+
+> Se modifica por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+### Decimoséptima bis. Propuesta de recomendaciones para Plan de Acción.
+
+1\. En el caso de recomendaciones para la corrección de incumplimientos, deficiencias o debilidades no atendidas por el órgano gestor, incluidas en el informe global, que según el criterio del interventor delegado cumplan los requisitos que determine la Oficina Nacional Auditoría para su comunicación a la persona titular del departamento ministerial a efectos de la elaboración de un plan de acción, éstas deberán reflejarse en el módulo de seguimiento que se establezca para su posterior revisión por la Oficina. Una vez realizada dicha revisión, la IGAE solicitará, en su caso, a la persona titular del correspondiente departamento ministerial la elaboración del plan de acción al que se refiere el artículo 161 de la Ley General Presupuestaria.
+
+2\. La Oficina Nacional de Auditoría dictará instrucciones desarrollando los requisitos y el procedimiento al que deberán ajustarse las intervenciones delegadas, para la cumplimentación del módulo de seguimiento.
+
+> Se añade por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+### Decimoctava. Valoración de los planes de acción.
+
+Los planes de acción elaborados por los departamentos ministeriales serán puestos a disposición de las intervenciones delegadas responsables de la emisión de los informes globales de control financiero permanente a los que se refieran para su valoración.
+
+La persona titular de la Intervención General, una vez realizadas dichas valoraciones y previo análisis por la Oficina Nacional de Auditoría, comunicará anualmente el estado de situación a los titulares de los departamentos ministeriales para conocimiento y su seguimiento.
+
+> Se modifica por el apartado primero de la Resolución de 1 de febrero de 2022. [Ref. BOE-A-2022-1889](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1889)
+
+## Sección 6.ª De las actuaciones a realizar cuando se conozcan hechos que puedan ser constitutivos de infracción administrativa, o dar lugar a responsabilidades contables o penales, o a remisiones de información a otros órganos, entidades o administraciones públicas
+
+### Decimonovena. Hechos que puedan ser constitutivos de infracción administrativa, o dar lugar a responsabilidades contables o penales.
+
+1\. Cuando en el ejercicio del control financiero permanente el interventor delegado entienda que los hechos acreditados pudieran dar lugar a la exigencia de responsabilidades administrativas, patrimoniales o contables, o penales, remitirá sus actuaciones, junto con una copia de los documentos en los que conste la evidencia obtenida, a los siguientes órganos:
+
+a) A la Oficina Nacional de Auditoría, en el caso de que los hechos acreditados pudieran ser constitutivos de delito, quien procederá, en su caso, a su remisión al órgano competente.
+
+b) A la Oficina de Conflictos de Intereses, en el caso de posibles infracciones en materia de gestión económico-presupuestaria de las previstas en el artículo 28 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+c) Al Tribunal de Cuentas, en el supuesto de responsabilidad patrimonial o contable previsto en el artículo 177.1.a) de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y a la Subsecretaría del Ministerio de Hacienda y Administraciones Públicas cuando concurra alguno de los supuestos previstos en los apartados b) a f) del artículo 177.1 de la Ley citada o a la Subsecretaria del Ministerio de Empleo y Seguridad Social en el caso de las responsabilidades relativas a las entidades que integran el sistema de la Seguridad Social.
+
+d) A la Subsecretaría del Departamento correspondiente y, en su caso, a los órganos competentes de los organismos públicos y de las entidades del sector público estatal objeto de control en el caso de infracciones administrativas diferentes de las anteriores.
+
+2\. Si los hechos mencionados en el apartado anterior fueran detectados por los interventores regionales o territoriales en el ejercicio de actuaciones de control financiero permanente en los servicios periféricos del órgano o entidad controlada, se dará traslado de las actuaciones al correspondiente interventor delegado, quién efectuará la remisión a los órganos competentes.
+
+3\. El traslado de hechos detectados en el ejercicio del control financiero permanente a los órganos previstos en el apartado primero de esta instrucción se realizará según el modelo de escrito recogido en el anexo II, incorporando aquellas partes del informe definitivo de control financiero permanente en las que se recojan, como mínimo.
+
+a) Las presuntas infracciones, con descripción de los hechos constatados.
+
+b) Los presuntos autores, en el caso de que se disponga de información suficiente para su identificación.
+
+c) Cuando de los supuestos de hecho se pudiera derivar responsabilidad contable, la cuantificación o estimación de los perjuicios causados, siempre que fuese posible.
+
+d) Las actuaciones realizadas por el órgano gestor en relación con las presuntas infracciones.
+
+Asimismo, se incorporarán en el citado escrito el extracto de las alegaciones del órgano gestor en la medida en que se relacionen con las posibles responsabilidades administrativas, contables o penales.
+
+No obstante, en los supuestos en los que el interventor delegado aprecie que pudieran existir indicios de delito valorará, en función de las circunstancias concurrentes, la comunicación inmediata, sin envío previo del informe provisional a efectos de alegaciones, a la Oficina Nacional de Auditoría.
+
+4\. En el caso de que concurra la exigencia de responsabilidad patrimonial o contable regulada en los artículos 176 y siguientes de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, con la responsabilidad penal o la comisión de infracciones en materia de gestión económico-presupuestaria previstas en el artículo 28 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, o cualquier otra infracción administrativa, el interventor delegado regional o territorial actuante remitirá las actuaciones a todas las instancias que resulten competentes para su conocimiento, de acuerdo con lo previsto en el apartado primero de esta instrucción, haciendo referencia en el oficio de remisión o en el escrito de traslado a esta circunstancia.
+
+5\. A efectos del ejercicio de la función de coordinación y seguimiento de las actuaciones de control financiero permanente que le competen, se remitirá a la Oficina Nacional de Auditoría copia de todas las remisiones efectuadas directamente por los interventores delegados a los órganos competentes en virtud de lo dispuesto en los apartados anteriores.
+
+### Vigésima. Información a otros órganos, entidades o administraciones públicas.
+
+1\. Cuando el interventor delegado entienda que los hechos acreditados en el ejercicio del control financiero permanente pudieran ser relevantes para otras Administraciones Públicas estatales, autonómicas o locales en el ámbito de sus respectivas competencias, o para sus organismos públicos dependientes, con la debida ponderación de los deberes de confidencialidad y secreto previstos en el artículo 145.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, procederá a la puesta en conocimiento de los órganos competentes de los hechos acreditados, mediante la remisión de un escrito en el que indicará, como mínimo, los hechos acreditados, los autores y, en su caso, los posibles incumplimientos de normativa estatal, autonómica o local.
+
+2\. Si los hechos mencionados en el apartado anterior fueran detectados por los interventores regionales o territoriales en el ejercicio de actuaciones de control financiero permanente en los servicios periféricos del órgano o entidad controlada, se dará traslado de las actuaciones al correspondiente interventor delegado, quién efectuará la remisión a los órganos competentes.
+
+3\. De las comunicaciones realizadas en función de lo previsto en el apartado uno anterior se dará traslado, para su conocimiento, a la Oficina Nacional de Auditoría.
+
+### Disposición adicional primera. Adaptación del contenido de la resolución.
+
+La Intervención General de la Defensa y la Intervención General de la Seguridad Social, para la aplicación y adaptación de la presente resolución en su ámbito, dictarán las Instrucciones que contemplen sus particularidades.
+
+### Disposición adicional segunda. Instrucciones de desarrollo.
+
+La Oficina Nacional de Auditoría dictará las Instrucciones que considere necesarias para desarrollar lo dispuesto en esta resolución.
+
+### Disposición transitoria.
+
+Hasta tanto se apruebe la norma técnica sobre los informes de control financiero permanente a que se refiere el apartado 2 de la instrucción 12.ª se aplicará lo dispuesto en el anexo I.
+
+### Disposición derogatoria.
+
+Queda derogada la Circular 1/2009 de 16 de septiembre, de la Intervención General de la Administración del Estado, sobre control financiero permanente. («BOE» de 2 de octubre de 2009).
+
+A partir de la entrada en vigor de esta resolución no será de aplicación al control financiero permanente lo dispuesto en la Circular 1/1999 de 26 de marzo, de la Intervención General de la Administración del Estado, de control financiero.
+
+### Disposición final única. Entrada en vigor.
+
+La presente resolución entrará en vigor el 1 de octubre de 2015.
+
+Madrid 30 de julio de 2015.–El Interventor General de la Administración del Estado, José Carlos Alcalde Hernández.
+
+## ANEXO I — Estructura y contenido de los informes de control financiero permanente
+
+De acuerdo con lo establecido en la disposición 12.ª de esta resolución los resultados de las actuaciones de control financiero permanente se documentarán en informes escritos cuyo contenido y estructura será determinado mediante una norma técnica. En tanto no se apruebe la citada norma técnica, los informes de control financiero permanente se ajustarán al siguiente modelo:
+
+I. Dictamen ejecutivo
+
+1\. Introducción:
+
+i. Se indicará la intervención delegada, regional o territorial que emite el informe y el plan en cuya ejecución se ha realizado el control.
+
+ii. En los informes definitivos se hará mención al envío del informe provisional y a la realización o no de alegaciones.
+
+2\. Consideraciones generales.–Se hará una breve referencia a las características de la actividad que es objeto de control.
+
+3\. Objetivos y alcance.–Se señalarán, de forma sucinta, los objetivos del control y los aspectos y periodo de la gestión que son objeto de análisis. Cuando dentro de los objetivos del control se contemple la verificación de elementos de legalidad y cumplimiento deberá delimitarse su alcance con precisión.
+
+4\. Valoración global.–Se expresará una valoración global sobre los resultados de las actuaciones de control debiendo describir de forma clara y sucinta las cuestiones clave en las que se fundamenta.
+
+El ámbito de las manifestaciones recogidas en la valoración global deberá ser consistente con el objetivo y alcance recogidos en el apartado anterior.
+
+Se podrá denegar la emisión de una valoración global cuando se produzcan limitaciones al alcance relevantes que impidan la aplicación de normas o procedimientos de control y auditoría que a juicio del interventor delegado, regional o territorial resulten necesarios para el cumplimiento de los objetivos del control.
+
+5\. Conclusiones y recomendaciones:
+
+i. Se destacarán los aspectos más significativos de los resultados obtenidos en el control realizado, valorando su relevancia cuantitativa o cualitativa así como los efectos que de los mismos se pudieran derivar.
+
+ii. Se propondrán las posibles medidas a adoptar para corregir las debilidades y defectos puestos de manifiesto y si fuera procedente se propondrá al órgano gestor que realice las actuaciones tendentes a la recuperación de cantidades indebidamente pagadas o justificadas.
+
+iii. La información a incluir en este apartado debe ser la necesaria para que mediante su lectura los destinatarios del informe puedan tener un conocimiento adecuado y suficiente de los resultados obtenidos.
+
+II. Resultados del trabajo
+
+i. Se indicarán los resultados del control, reflejando los hechos constatados como consecuencia del trabajo realizado.
+
+ii. Se expondrán las limitaciones al alcance que se han producido y su trascendencia para el cumplimiento de los objetivos del control.
+
+iii. En aquellos casos en que sea necesario, se abrirá un epígrafe para cada una de las actuaciones objeto de control, indicando aquellas circunstancias, debilidades, deficiencias o incumplimientos que se hayan puesto de manifiesto en la comprobación, proporcionando los datos o la información necesaria que permita valorar adecuadamente su importancia cuantitativa o cualitativa.
+
+iv. Deberá vigilarse la correspondencia necesaria entre la definición del objetivo y alcance de los trabajos de control y cada uno de los aspectos de la gestión detallados en este apartado.
+
+v. Para cada actuación, se deberá efectuar el seguimiento de aquellas medidas que el gestor haya decidido adoptar como consecuencia de las conclusiones y recomendaciones que sobre esa misma actuación se hubieran formulado en anteriores informes de control financiero permanente o planes de acción.
+
+vi. En los informes definitivos se hará referencia a las alegaciones del órgano auditado que discrepan del contenido de los resultados obtenidos y, en su caso, a los motivos por los que el órgano de control considera que no debe modificar el contenido del informe.
+
+## ANEXO II — Modelo de remisión de actuaciones a los órganos destinatarios previstos en la disposición 19.ª1
+
+Escrito de traslado de actuaciones en virtud del artículo 4.2 Del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen de control ejercido por la Intervención General de la Administración del Estado
+
+(Párrafo-tipo: clase de responsabilidad)
+
+(Responsabilidad penal)
+
+En el ejercicio de las actuaciones de control financiero permanente que la Intervención Delegada/Regional/Territorial en …… ha realizado en (entidad) se han puesto de manifiesto hechos acreditados que pueden ser constitutivos de delito de conformidad con lo previsto en la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+
+En concreto, se considera que se ha producido la infracción penal tipificada en el artículo (…) de la citada norma, que dispone …
+
+(Infracciones en materia de gestión económico-presupuestaria)
+
+Se han puesto de manifiesto hechos acreditados que pueden ser constitutivos de infracción administrativa muy grave de conformidad con el régimen sancionador en materia de gestión económico-presupuestaria establecido en el artículo 28 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+En concreto, se considera que se ha producido la infracción tipificada en el apartado (…) del artículo 28 de la citada norma, que dispone …
+
+(Responsabilidad patrimonial o contable)
+
+En el ejercicio de las actuaciones de control financiero permanente que la Intervención Delegada/Regional/Territorial en …… ha realizado en (entidad) se han puesto de manifiesto hechos acreditados que pueden ser constitutivos de responsabilidad patrimonial o contable de acuerdo con lo establecido en los artículos 176 y 177 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+En concreto, se considera que se ha producido la infracción tipificada en el apartado (…) del artículo 177.1 de la citada norma, que dispone…
+
+(Otras infracciones administrativas)
+
+En el ejercicio de las actuaciones de control financiero permanente que la Intervención Delegada/Regional/Territorial en …… ha realizado en (entidad) se han puesto de manifiesto hechos acreditados que pueden ser constitutivos de infracción administrativa de conformidad con lo establecido en (normativa reguladora).
+
+En concreto, se considera que se ha producido la infracción tipificada en el artículo (…) de la citada norma, que dispone …
+
+(Párrafo-tipo: Descripción de las infracciones)
+
+Las características fundamentales de las actuaciones que se ponen en su conocimiento se muestran en el siguiente cuadro:
+
+| Plan de Control |  |
+|---|---|
+| Ente/órgano controlado |  |
+| Denominación de la actuación |  |
+| Fecha del informe de control |  |
+| Presuntas infracciones |  |
+| Presuntos autores |  |
+| Cuantificación de la responsabilidad |  |
+| Otros elementos relevantes |  |
+
+En la actuación señalada se han constatado las siguientes circunstancias (en su caso, sólo se adjuntarán las partes del informe de control que se refieran a la infracción):
+
+(Extracto del informe donde se ponga de manifiesto los hechos constitutivos de la infracción; si fuera necesario, se podría distinguir entre las diferentes partes del informe)
+
+«(….)»
+
+El informe de control financiero permanente fue remitido al órgano gestor a efectos de alegaciones por el plazo de quince días hábiles, habiéndose recibido las mismas (o no habiéndose recibido), cuyo texto se reproduce, en lo concerniente a las posibles infracciones.
+
+«(…)»
+
+Asimismo, se adjuntan al presente escrito los documentos relacionados a continuación, en los que consta la evidencia obtenida.
+
+1.
+
+2.
+
+3.
+
+Lo que se comunica en cumplimiento de lo dispuesto en el artículo 4.2 del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen del control interno ejercido por la Intervención General de la Administración del Estado, y a los efectos oportunos.
+
+Firma*:*El Interventor Delegado.

@@ -1,0 +1,600 @@
+---
+title: "Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia"
+identifier: "BOE-A-2013-13811"
+eli: "https://www.boe.es/eli/es/rd/2013/12/27/1051"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad, Servicios Sociales e Igualdad"
+date: 2013-12-27
+published: 2013-12-31
+in_force_from: 2014-01-01
+last_amended: 2025-10-22
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 313"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1051/2013, de 27 de diciembre, por el que se regulan las prestaciones del Sistema para la Autonomía y Atención a la Dependencia, establecidas en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia
+
+El artículo 10.3 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia dispone que el Gobierno, mediante real decreto, aprobará los criterios establecidos por el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia para determinar la intensidad de protección de los servicios y la compatibilidad entre los mismos. Asimismo, el artículo 20 de la citada ley establece que las cuantías de las prestaciones económicas, una vez acordadas por el Consejo Territorial, serán aprobadas por el Gobierno mediante real decreto.
+
+En cumplimiento de los anteriores mandatos fue aprobado el Real Decreto 727/2007, de 8 de junio, sobre criterios para determinar las intensidades de protección de los servicios y la cuantía de las prestaciones económicas de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia. Asimismo, reguló los supuestos de desplazamientos entre las comunidades autónomas y las Ciudades de Ceuta y Melilla, y la protección de los emigrantes españoles retornados.
+
+Con posterioridad, el Real Decreto 727/2007, de 8 de junio, ha sido modificado por el Real Decreto 175/2011, de 11 de febrero, y por el Real Decreto 570/2011, de 20 de abril.
+
+El Real Decreto 175/2011, de 11 de febrero, incorporó los criterios sobre las intensidades de protección de los servicios, el importe de las prestaciones económicas y los requisitos y condiciones de acceso a la prestación económica para cuidados en el entorno familiar que puedan reconocerse a las personas en situación de dependencia en grado I, de dependencia moderada, ya que durante 2011 tuvieron acceso al Sistema para la Autonomía y Atención a la Dependencia (en adelante SAAD) las personas valoradas en dicho grado.
+
+El Real Decreto 570/2011, de 20 de abril, reguló un nuevo indicador de actualización de la cuantía de las prestaciones económicas e incorporó una disposición relativa a las cuotas a la Seguridad Social y por Formación Profesional derivadas de la prestación económica de cuidados en el entorno familiar. Asimismo estableció las prestaciones económicas de la Ley 39/2006, de 14 de diciembre, para el ejercicio 2011.
+
+El Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia, en sesión celebrada el día 12 de abril de 2012, aprobó el avance de la evaluación de la ley transcurridos los cinco primeros años de aplicación de la misma, adoptando el acuerdo de acometer las mejoras en el SAAD que fueran necesarias para asegurar su sostenibilidad. Asimismo, en la reunión mantenida el 10 de julio de 2012 aprobó la evaluación de resultados prevista en la disposición final primera de la Ley 39/2006, de 14 de diciembre, y las propuestas de mejora necesarias para asegurar la sostenibilidad presente y futura del Sistema, adoptando unos criterios comunes mínimos para todo el ámbito nacional en el desarrollo de dicha ley, incorporando la modificación de la clasificación de la situación de dependencia, las intensidades del servicio de ayuda a domicilio, la ampliación de la prestación económica de asistencia personal, la mejora en el procedimiento y la transparencia en la gestión, así como en el Sistema de Información, la revisión de la prestación económica para cuidados en el entorno familiar y apoyo a cuidadores no profesionales, el establecimiento de criterios comunes en la asignación de prestaciones en casos de fallecimiento de la persona en situación de dependencia y de Planes de Prevención de las situaciones de Dependencia y Promoción de la Autonomía Personal.
+
+Por otra parte, el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, ha introducido medidas urgentes para corregir los desequilibrios que se han producido en el SAAD, con el objetivo de garantizar su sostenibilidad, estabilidad y suficiencia para el futuro, así como mejorar la eficiencia en la gestión del mismo, siendo necesario establecer el correspondiente desarrollo reglamentario. Asimismo dispuso la necesidad de establecer un mayor equilibrio entre las prestaciones económicas y los servicios del catálogo.
+
+Este real decreto unifica todas las normas relativas a las prestaciones y servicios que han sido dictadas en desarrollo de la Ley 39/2006, de 14 de diciembre, con la finalidad de ordenar, simplificar y actualizar la normativa en un único texto normativo.
+
+Como consecuencia de todo lo anterior, este real decreto establece la regulación de las prestaciones del SAAD, y determina las intensidades de protección de los servicios, compatibilidades e incompatibilidades entre los mismos y asegura la excepcionalidad de la prestación de cuidados en el entorno familiar, con el objetivo también de mejorar la calidad en la atención a las personas en situación de dependencia.
+
+No obstante, la comunidad autónoma o Administración que, en su caso, tenga la competencia, podrá dictar las disposiciones normativas que resulten necesarias para la aplicación de este real decreto.
+
+A través de la disposición final primera de este real decreto se pretende dar cumplimiento a lo establecido en la disposición adicional quinta de la Ley 39/2006, de 14 de diciembre, procediendo a integrar en el Registro de Prestaciones Sociales Públicas las prestaciones reguladas en los artículos 17,18 y 19 de la ley citada, ampliando así los supuestos previstos en el artículo 3 del Real Decreto 397/1996, de 1 de marzo, que regula dicho Registro.
+
+Asimismo en el citado artículo 3, por un lado, se completa la letra k) para integrar las prestaciones económicas abonadas en virtud del Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por necesidad a favor de los españoles residentes en el exterior y retornados; por otro lado, se incorpora a la letra l) la mención a la edad de cincuenta y cinco años, al ser esta la edad fijada para ser beneficiario del subsidio por desempleo, establecido en el artículo 215.1.3 de Real Decreto Legislativo 1/1994, de 20 junio, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social; por último se sustituye en la letra m) el término «minusválido» por «discapacitado» de conformidad con la disposición adicional octava de la Ley 39/2006, de 14 de diciembre.
+
+En su proceso de elaboración, esta norma se ha sometido a consulta del Comité Consultivo del Sistema para la Autonomía y Atención a la Dependencia, del Consejo Estatal de Personas Mayores, del Consejo Nacional de la Discapacidad y del Consejo Estatal de Organizaciones no Gubernamentales de Acción Social.
+
+Este real decreto se aprueba por el Gobierno, de conformidad con el Acuerdo de fecha 16 de enero de 2013 adoptado por el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia. Dicho acuerdo ha sido elaborado de conformidad con lo previsto en el artículo 8.2.b) y c) de la Ley 39/2006, de 14 de diciembre.
+
+Este real decreto ha sido sometido a informe previo de la Agencia Española de Protección de Datos, de conformidad con lo dispuesto en el artículo 37.h) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y en el artículo 5.b) del Estatuto de la Agencia, aprobado por Real Decreto 428/1993, de 26 de marzo.
+
+Esta norma se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución, que atribuye al Estado la competencia exclusiva en la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+
+Esta norma se establece al amparo de la facultad conferida al Gobierno en la disposición final séptima, en relación con los artículos 10.3, 15 y 20 de la Ley 39/2006, de 14 de diciembre.
+
+En su virtud, a propuesta de la Ministra de Sanidad, Servicios Sociales e Igualdad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2013,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto la regulación de los servicios y las prestaciones económicas por grado de dependencia, y los criterios para determinar las intensidades de protección de los servicios del catálogo establecidos en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.
+
+Asimismo se regulan los traslados de personas beneficiarias entre comunidades autónomas y las Ciudades de Ceuta y de Melilla, el régimen de incompatibilidades de prestaciones, el reintegro de prestaciones y la protección de los españoles emigrantes retornados.
+
+#### Artículo 2. Servicios y prestaciones económicas por grado de dependencia.
+
+Para hacer efectivo lo establecido en el artículo 28.3 de la Ley 39/2006, de 14 de diciembre, se determinan a continuación los servicios y prestaciones económicas que corresponden a los grados III; II y I de dependencia.
+
+1\. Servicios y prestaciones para los grados III y II:
+
+a) Servicios:
+
+Prevención de la dependencia.
+
+Promoción de la autonomía personal.
+
+Teleasistencia.
+
+Ayuda a domicilio.
+
+Centro de Día.
+
+Centro de Noche.
+
+Atención residencial.
+
+b) Servicios a través de prestaciones económicas:
+
+Prestación económica de asistencia personal.
+
+Prestación económica vinculada, en consonancia con los servicios previstos en el apartado a).
+
+c) Prestación económica para cuidados en el entorno familiar y apoyo a cuidadores.
+
+2\. Servicios y prestaciones para el grado I:
+
+a) Servicios:
+
+Prevención de la dependencia.
+
+Promoción de la autonomía personal.
+
+Teleasistencia.
+
+Ayuda a domicilio.
+
+Centro de Día.
+
+Centro de Noche.
+
+b) Servicios a través de prestaciones económicas:
+
+Prestación económica de asistencia personal.
+
+Prestación económica vinculada, en consonancia con los servicios previstos en el apartado a).
+
+c) Prestación económica para cuidados en el entorno familiar y apoyo a cuidadores
+
+#### Artículo 3. Solicitud y documentación.
+
+1\. El modelo de solicitud de inicio del procedimiento para el reconocimiento de la situación de dependencia establecido por la Administración competente deberá incluir información sobre los siguientes datos:
+
+a) Si la persona solicitante está siendo atendida por los servicios sociales en el momento de formular la solicitud y, en su caso, tipo de servicio o prestación que está recibiendo.
+
+b) Compromiso de la persona solicitante de facilitar el seguimiento y control de las prestaciones, incluido el acceso al domicilio de la persona solicitante, por la Administración competente.
+
+c) Si la persona solicitante tiene alguna discapacidad. Tipo de discapacidad si voluntariamente quiere manifestarlo.
+
+d) Si la persona solicitante tiene diagnosticada una enfermedad rara, catalogada como tal.
+
+e) Obligación de comunicación inmediata a la Administración competente, si se produce el ingreso de la persona beneficiaria en centros hospitalarios o asistenciales que no supongan coste para la persona beneficiaria.
+
+2\. La solicitud deberá ir acompañada además, de los siguientes documentos:
+
+a) Informe de Salud normalizado.
+
+b) Declaración responsable sobre situación económica y patrimonial de la persona solicitante.
+
+c) Copia de la declaración, en su caso, del Impuesto sobre la Renta de las Personas Físicas, salvo en el supuesto de la autorización prevista en el párrafo d).
+
+d) Autorización de comprobación de datos por parte de las Administraciones públicas competentes, necesarios para el reconocimiento del derecho a las prestaciones.
+
+3\. La Administración competente tratará los datos que faciliten las personas interesadas con la finalidad exclusiva de gestionar la solicitud de reconocimiento de la situación de dependencia y el derecho a las prestaciones del Sistema para la Autonomía y Atención a la Dependencia (SAAD) e integrará los datos en el Sistema de Información del Sistema para la Autonomía y Atención a la Dependencia (SISAAD), sin que puedan ser utilizados para finalidades distintas o ajenas al Sistema, todo ello de conformidad con lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+Se incluirá en el modelo de solicitud la información que se deba proporcionar a las personas interesadas de conformidad con el artículo 13 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, dado que los datos personales objeto de tratamiento se obtienen de la persona interesada.
+
+> Se modifica por el art. único.1 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+## CAPÍTULO II — Intensidad de protección de los servicios y prestaciones económicas
+
+### Sección 1.ª Intensidad de protección de los servicios
+
+#### Artículo 4. Intensidad de los servicios.
+
+1\. La intensidad de los servicios de promoción de autonomía personal y atención a las personas en situación de dependencia, establecidos en el artículo 15 de la Ley 39/2006, de 14 de diciembre, se determina por el contenido prestacional de cada uno de los servicios asistenciales y por la extensión o duración del mismo según el grado de dependencia, en concordancia con lo dispuesto en el artículo 3.f) de la citada ley.
+
+2\. Se entiende por servicios asistenciales los que ha de recibir la persona en situación de dependencia para su atención y cuidado personal en la realización de las actividades básicas de la vida diaria, así como los que tienen como finalidad la promoción de su autonomía personal.
+
+3\. El transporte adaptado deberá garantizarse cuando por las condiciones de movilidad de la persona en situación de dependencia sea necesario para la asistencia al centro de día o de noche, y así se haya reflejado en el proceso de valoración de la situación de dependencia y de reconocimiento de la prestación correspondiente, o con posterioridad si se modifican las condiciones de movilidad de la persona y quedan acreditadas. Dichas condiciones de movilidad reducida se acreditarán de conformidad con el artículo 8.6.e) del Real Decreto 888/2022, de 18 de octubre, por el que se establece el procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad.
+
+> Se modifica el apartado 3 por art. único.2 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+#### Artículo 5. Intensidad del servicio de prevención de las situaciones de dependencia.
+
+1\. Las personas en situación de dependencia en alguno de los grados establecidos, recibirán servicios de prevención con el objeto de evitar el agravamiento de su grado de dependencia, incluyendo esta atención en los programas de teleasistencia, de ayuda a domicilio, de los centros de día y de atención residencial.
+
+2\. Los Planes de Prevención, elaborados por la correspondiente comunidad autónoma o Administración que, en su caso, tenga la competencia, determinarán las intensidades de los servicios de prevención del SAAD en su correspondiente ámbito territorial.
+
+Asimismo, dichos Planes deberán cumplir los criterios, recomendaciones y condiciones mínimas que se acuerden por el Consejo Territorial, con especial consideración de los riesgos y actuaciones para las personas mayores, para las personas con discapacidad y otros grupos de personas de especial vulnerabilidad.
+
+3\. Para las personas en situación de dependencia en grado I y con el objeto de evitar el agravamiento de su grado de dependencia, la prevención será prioritaria, por lo que debe formar parte de todas las actuaciones que se realicen en el ámbito del SAAD.
+
+#### Artículo 6. Intensidad del servicio de promoción de la autonomía personal.
+
+1\. Los servicios de promoción de la autonomía personal tienen por finalidad desarrollar y mantener la capacidad personal de controlar, afrontar y tomar decisiones acerca de cómo vivir de acuerdo con las normas y preferencias propias y facilitar la ejecución de las actividades básicas de la vida diaria.
+
+2\. Son servicios de promoción para la autonomía personal los de asesoramiento, orientación, asistencia y formación en tecnologías de apoyo y adaptaciones que contribuyan a facilitar la realización de las actividades de la vida diaria, los de habilitación, los de terapia ocupacional así como cualesquiera otros programas de intervención que se establezcan con la misma finalidad.
+
+3\. La intensidad de este servicio se adecuará a las necesidades personales de promoción de la autonomía, a la infraestructura de los recursos existentes y a las normas que se establezcan por la correspondiente comunidad autónoma o Administración que, en su caso, tenga la competencia.
+
+4\. En particular son servicios de promoción de la autonomía personal, además de los previstos en el apartado 2, los siguientes:
+
+a) Habilitación y terapia ocupacional.
+
+b) Atención temprana.
+
+c) Estimulación cognitiva.
+
+d) Promoción, mantenimiento y recuperación de la autonomía funcional.
+
+e) Habilitación psicosocial para personas con enfermedad mental o discapacidad intelectual.
+
+f) Apoyos personales, atención y cuidados en alojamientos de soporte a la inclusión comunitaria.
+
+La intensidad del servicio de promoción se ajustará a lo establecido en el anexo I.
+
+La concreción de la intensidad se determinará en el programa individual de atención, de conformidad con las horas mensuales que establezca el correspondiente dictamen técnico en función de las actividades de la vida diaria en las que la persona en situación de dependencia precise apoyos o cuidados. Todo ello, sin perjuicio de las mayores intensidades de los servicios y programas de promoción de autonomía personal que cada comunidad autónoma tenga ya establecido o pudiera establecer.
+
+Asimismo, las comunidades autónomas podrán desarrollar acciones y programas con carácter complementario a las prestaciones contenidas en el programa individual de atención tales como asesoramiento, acompañamiento activo, orientación, asistencia y formación en tecnologías de apoyo y adaptaciones, que contribuyan a facilitar la realización de las actividades de la vida diaria.
+
+> Se modifican los párrafos primero y segundo del apartado 4 por el art. único.1 del Real decreto 291/2015, de 17 de abril. [Ref. BOE-A-2015-4786](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4786).
+
+#### Artículo 7. Intensidad del servicio de teleasistencia.
+
+1\. El servicio de teleasistencia tiene por finalidad atender a las personas beneficiarias mediante el uso de tecnologías de la comunicación y de la información, observando las medidas de accesibilidad adecuadas para cada caso, y apoyo de los medios personales necesarios, en respuesta inmediata ante situaciones de emergencia, o de inseguridad, soledad y aislamiento y con el fin de favorecer la permanencia de las personas usuarias en su medio habitual.
+
+2\. El servicio de teleasistencia se prestará para las personas en situación de dependencia que lo necesiten, en las condiciones establecidas por cada comunidad autónoma o Administración que, en su caso, tenga la competencia.
+
+3\. El servicio de teleasistencia se prestará como servicio complementario al resto de prestaciones contenidas en el programa individual de atención en cualquiera de los grados de dependencia, salvo en el caso del servicio de atención residencial.
+
+> Se modifica el apartado 3 por art. único.3 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+#### Artículo 8. Intensidad del servicio de ayuda a domicilio.
+
+1\. El servicio de ayuda a domicilio lo constituye el conjunto de actuaciones llevadas a cabo en el domicilio de las personas en situación de dependencia, con el fin de atender las necesidades básicas de la vida diaria e incrementar su autonomía, posibilitando la permanencia en su domicilio.
+
+2\. Este servicio comprende la atención personal en la realización de las actividades de la vida diaria y la cobertura de las necesidades domésticas, mediante los servicios previstos en el artículo 23 de Ley 39/2006, de 14 de diciembre, y los que en su desarrollo puedan establecerse por la comunidad autónoma o Administración que, en su caso, tenga la competencia.
+
+3\. La intensidad del servicio de ayuda a domicilio estará en función del programa individual de atención y se determinará en número de horas mensuales, según grado de dependencia, de acuerdo con el anexo II. No obstante, las Administraciones públicas competentes podrán establecer intensidades superiores para cada grado.
+
+4\. Para determinar la intensidad del servicio de ayuda a domicilio se utiliza el término horas mensuales de atención. La hora, en este contexto, se refiere, por tanto, al módulo asistencial de carácter unitario, cuyo contenido prestacional se traduce en una intervención de atención de la persona beneficiaria.
+
+5\. En el programa individual de atención, se deberá diferenciar, dentro de las horas de ayuda a domicilio, las relativas a necesidades domésticas o del hogar, de las de atención personal para las actividades de la vida diaria.
+
+Los servicios relacionados con la atención de las necesidades domésticas o del hogar solo podrán prestarse conjuntamente con los de atención personal. Excepcionalmente y de forma justificada, podrán prestarse separadamente cuando así se disponga en el programa individual de atención. La Administración competente deberá motivar esta excepción en la resolución de concesión de la prestación.
+
+6\. En dicho programa individual de atención, la comunidad autónoma o Administración que, en su caso, tenga la competencia establecerá la gradualidad de las anteriores intensidades, en base a la valoración de la situación personal de dependencia.
+
+> Se modifica el apartado 3 por art. único.4 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+#### Artículo 9. Intensidad del servicio de centro de día y de noche.
+
+1\. El centro de día y de noche público o acreditado ajustará los servicios establecidos en el artículo 24 de la Ley 39/2006, de 14 de diciembre, a las necesidades de las personas en situación de dependencia atendidas según su grado. Ello sin perjuicio de los servicios y programas que se establezcan mediante normativa de la comunidad autónoma o Administración que, en su caso, tenga la competencia.
+
+2\. Teniendo en cuenta la tipología de centros establecida en el artículo 15.1.d), de la Ley 39/2006, de 14 de diciembre, los centros de día se adecuarán para ofrecer a las personas en situación de dependencia atención especializada de acuerdo con su edad, los cuidados que requieran y su grado de dependencia.
+
+3\. Los centros de noche tienen por finalidad dar respuesta a las necesidades de la persona en situación de dependencia que precise atención durante la noche. Los servicios se ajustarán a las necesidades específicas de las personas beneficiarias atendidas.
+
+4\. La intensidad del servicio de centro de día o de noche estará en función de los servicios del centro que precisa la persona en situación de dependencia, de acuerdo con su programa individual de atención.
+
+No obstante, la intensidad del centro de día para las personas beneficiarias a las que se haya reconocido el grado I, de dependencia moderada, será la establecida en el anexo III.
+
+5\. La comunidad autónoma o Administración que, en su caso, tenga la competencia, determinará los servicios y programas y otras actividades de los centros para cada grado de dependencia.
+
+#### Artículo 10. Intensidad del servicio de atención residencial.
+
+1\. El servicio de atención residencial ofrece una atención integral y continuada, de carácter personal, social y sanitario, que se prestará en centros residenciales, públicos o acreditados, teniendo en cuenta la naturaleza de la dependencia, grado de la misma e intensidad de cuidados que precise la persona. Puede tener carácter permanente, cuando el centro residencial sea la residencia habitual de la persona en situación de dependencia, o temporal, cuando se atiendan estancias temporales de convalecencia o durante vacaciones, fines de semana y enfermedades o períodos de descanso de los cuidadores no profesionales.
+
+2\. El servicio de atención residencial ajustará los servicios y programas de intervención a las necesidades de las personas en situación de dependencia atendidas.
+
+3\. La intensidad del servicio de atención residencial estará en función de los servicios del centro que precisa la persona con dependencia, de acuerdo con su programa individual de atención.
+
+4\. La comunidad autónoma o la Administración que, en su caso, tenga la competencia determinará los servicios y programas de los centros para cada grado de dependencia.
+
+5\. El servicio de estancias temporales en centro residencial estará en función de la disponibilidad de plazas del SAAD en cada comunidad o ciudad autónoma y del número de personas en situación de dependencia atendidas mediante cuidados en el entorno familiar.
+
+### Sección 2.ª Prestaciones económicas
+
+#### Artículo 11. Regulación de los requisitos y condiciones de acceso a las prestaciones económicas.
+
+Los requisitos y condiciones de acceso a las prestaciones económicas se establecerán por la comunidad autónoma o Administración que, en su caso tenga la competencia, teniendo en cuenta los acuerdos que adopte el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.
+
+#### Artículo 12. Requisitos y condiciones de acceso a la prestación económica para cuidados en el entorno familiar y apoyo a cuidadores no profesionales.
+
+A los efectos de lo previsto en los artículos 2.5, 14.4 y 18 de la Ley 39/2006, de 14 de diciembre, los requisitos y condiciones de acceso a la prestación económica para cuidados en el entorno familiar y apoyo a personas cuidadoras no profesionales, que tiene carácter excepcional, serán los siguientes:
+
+a) Podrán asumir la condición de personas cuidadoras no profesionales de las personas en situación de dependencia su cónyuge o pareja de hecho y sus parientes por consanguinidad, afinidad o adopción hasta el cuarto grado de parentesco, así como las personas de su entorno relacional que, a propuesta de la persona en situación de dependencia, estén en condiciones de prestarle los apoyos y cuidados necesarios para el desarrollo de la vida diaria.
+
+Cuando la persona tuviera reconocida la situación de dependencia en grado III o II será necesaria la convivencia con la persona cuidadora no profesional dada la necesidad de atención permanente y apoyo indispensable y continuo que se requiere.
+
+Cuando la persona tuviera reconocida la situación de dependencia en grado I, podrá exceptuarse dicho requisito de convivencia, siempre que se asegure la atención inmediata por parte de la persona cuidadora no profesional.
+
+b) Además de lo previsto en el apartado anterior, se establecen las siguientes condiciones de acceso a la prestación económica para cuidados en el entorno familiar, como requisitos de las personas cuidadoras no profesionales de las personas en situación de dependencia:
+
+1.ª Que la persona en situación de dependencia esté siendo atendida mediante cuidados en el entorno en el momento de elaboración o de revisión del programa individual de atención.
+
+2.ª Que la persona cuidadora cuente con idoneidad para prestar adecuadamente los apoyos y cuidados.
+
+3.ª Que la persona cuidadora asuma formalmente los compromisos necesarios para prestar los apoyos y cuidados de la persona en situación de dependencia.
+
+4.ª Que la persona cuidadora realice las acciones formativas que se le propongan, siempre que sean compatibles con el cuidado de la persona en situación de dependencia.
+
+5.ª Que la persona cuidadora facilite el acceso de los servicios sociales de las Administraciones públicas competentes, a la vivienda de la persona en situación de dependencia con el fin de comprobar el cumplimiento de los requisitos o variación de las circunstancias, previo consentimiento de la persona beneficiaria.
+
+c) La comunidad autónoma o Administración competente revisará el cumplimiento de los requisitos de acceso a la prestación y de las obligaciones exigidas, a fin de comprobar que no se produzca una variación de cualquiera de los mismos, y controlarán el seguimiento de los cuidados en el entorno familiar, con la finalidad de comprobar la viabilidad, idoneidad y calidad de atención de los mismos, pudiendo en su caso, resolver la suspensión o extinción de la prestación.
+
+> Se modifica por art. único.5 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+#### Artículo 13. Cuantía de las prestaciones económicas.
+
+1\. Las cuantías máximas de las prestaciones económicas del Sistema para la Autonomía y Atención a la Dependencia serán las que se determinan en el anexo IV.
+
+2\. El importe de la prestación económica para cada persona beneficiaria se determinará aplicando a la cuantía vigente un coeficiente reductor según su capacidad económica, de acuerdo con lo establecido por la comunidad autónoma o Administración que, en su caso, tenga la competencia. Tendrá en consideración lo que se acuerde por el Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia.
+
+No obstante, se establecen las cuantías mínimas, en cualquiera de sus grados, que se determinan en el anexo V.
+
+> Se modifica por art. único.6 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+#### Artículo 14. Deducciones por prestaciones de análoga naturaleza y finalidad.
+
+Del importe a percibir por alguna de las prestaciones económicas previstas en este real decreto, se deducirá cualquier otra prestación de análoga naturaleza y finalidad establecida en los regímenes públicos de protección social. En particular, se deducirán las prestaciones previstas en el artículo 31 de la Ley 39/2006, de 14 de diciembre.
+
+#### Artículo 15. Fallecimiento.
+
+Las personas que fallecieran en los seis meses siguientes a la presentación de la solicitud sin haberse dictado resolución de reconocimiento de la concreta prestación, no tendrán la condición de persona beneficiaria y no generarán ningún derecho.
+
+## CAPÍTULO III — Régimen de incompatibilidades
+
+#### Artículo 16. Régimen de incompatibilidades.
+
+1\. Conforme a lo establecido en el artículo 25 bis de la Ley 39/2006, de 14 de diciembre, serán incompatibles las prestaciones económicas entre sí y con los servicios incluidos en el catálogo, salvo con los servicios de prevención de las situaciones de dependencia, de promoción de la autonomía personal y de teleasistencia.
+
+2\. Los servicios serán incompatibles entre sí, a excepción del servicio de teleasistencia que será compatible con el servicio de prevención de las situaciones de dependencia, de promoción de la autonomía personal, de ayuda a domicilio y de centro de día y de noche.
+
+3\. No obstante lo anterior, las Administraciones públicas competentes podrán establecer la compatibilidad entre los servicios de ayuda a domicilio, centro de día y de noche, prestación de cuidados en el entorno familiar y apoyo a cuidadores no profesionales y asistencia personal.
+
+4\. Las comunidades autónomas podrán establecer un régimen propio de compatibilidades con cargo al nivel adicional de protección, de acuerdo con lo establecido en el artículo 7.3.º de la Ley 39/2006, de 14 de diciembre.
+
+5\. A los efectos de la asignación del nivel mínimo establecido en el artículo 9 de la Ley 39/2006, de 14 de diciembre, el establecimiento de compatibilidades entre prestaciones, tendrá la consideración de una única prestación.
+
+## CAPÍTULO IV — Traslado de la persona beneficiaria
+
+#### Artículo 17. Traslado de la persona beneficiaria entre comunidades autónomas y las Ciudades de Ceuta y de Melilla.
+
+1\. La persona beneficiaria que traslade su residencia al territorio de otra comunidad autónoma o a las Ciudades de Ceuta y de Melilla, está obligada a comunicarlo a la Administración que le haya reconocido el servicio o abone la prestación económica, en el plazo de 10 días hábiles anteriores a la fecha efectiva del traslado, salvo causas justificadas.
+
+2\. La Administración de origen debe poner en conocimiento del Instituto de Mayores y Servicios Sociales (IMSERSO), como órgano coordinador, dicho traslado en el plazo máximo de 5 días hábiles siguientes a la fecha de entrada de la comunicación del traslado en el órgano competente, a través del Sistema de Información para la Autonomía y Atención a la Dependencia. El IMSERSO comunicará dicho traslado a la comunidad autónoma de destino, en el mismo plazo.
+
+3\. La comunidad autónoma o las Ciudades de Ceuta y de Melilla de destino, deberán revisar el programa individual de atención en el plazo máximo de 60 días naturales, a contar desde la fecha en que tenga conocimiento de dicho traslado. La Administración de origen mantendrá, durante dicho plazo, el abono de las prestaciones económicas reconocidas y suspenderá el derecho a la prestación cuando se trate de un servicio, sustituyéndolos por la prestación económica vinculada al servicio.
+
+4\. La comunidad autónoma o las Ciudades de Ceuta y de Melilla de destino comunicarán a la persona beneficiaria la situación en el plazo máximo de 10 días hábiles siguientes a la comunicación del traslado realizada por el IMSERSO a la misma y dará una respuesta a las necesidades de la persona en situación de dependencia de la forma más inmediata posible.
+
+5\. Las personas en situación de dependencia que se encuentren desplazadas de su residencia habitual dentro del territorio español, mantendrán el derecho y reserva del servicio, así como la obligación de abonar la participación en el coste del mismo o, en su caso, continuarán, percibiendo la prestación económica durante un tiempo máximo de 60 días al año con cargo a la Administración competente que les haya determinado el programa individual de atención.
+
+## CAPÍTULO V — Reintegro de prestaciones
+
+#### Artículo 18. Causas de reintegro.
+
+Procederá el reintegro del importe de las prestaciones indebidamente percibidas o recibidas en exceso y el derivado de una participación insuficiente de la persona beneficiaria en el coste del servicio que se determinen por la Administración competente, en el marco de lo previsto en su normativa de aplicación y, en su caso, la exigencia del interés legal del dinero.
+
+#### Artículo 19. Obligados al reintegro.
+
+Estarán obligadas al reintegro de las prestaciones las siguientes personas:
+
+1\. Las personas beneficiarias.
+
+2\. Responderán solidariamente de la obligación de reintegro los representantes legales de la persona beneficiaria, cuando exista una declaración de incapacidad judicial.
+
+3\. En caso de fallecimiento de la persona en situación de dependencia obligada al reintegro, la obligación de satisfacer las cantidades pendientes de restitución se transmitirá a sus causahabientes, quienes responderán de esta obligación no sólo con los bienes de la herencia sino también con los suyos propios, en el supuesto de no haberse aceptado la herencia a beneficio de inventario.
+
+#### Artículo 20. Naturaleza de los créditos a reintegrar.
+
+Las cantidades a reintegrar tendrán la consideración de ingresos de derecho público, resultando de aplicación para su cobranza lo previsto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria o en su caso, en las normas que pudieran resultar de aplicación.
+
+#### Disposición adicional primera. La atención a la dependencia de los emigrantes españoles retornados.
+
+Las personas en situación de dependencia que, como consecuencia de su condición de emigrantes españoles retornados, no cumplan el requisito establecido en el artículo 5.1.c) de la Ley 39/2006, de 14 de diciembre, por no haber residido en territorio español en los términos establecidos en el citado artículo, podrán acceder a prestaciones asistenciales con igual contenido y extensión que las prestaciones reguladas en la misma, en los términos que a continuación se establecen:
+
+a) Corresponderá a la comunidad autónoma o Administración, que en su caso, tenga la competencia, de residencia del emigrante retornado la valoración de la situación de dependencia, el reconocimiento del derecho, en su caso, y la prestación del servicio o pago de la prestación económica que se determine en el programa individual de atención.
+
+b) El coste de los servicios y prestaciones económicas será asumido por la Administración General del Estado y la correspondiente comunidad autónoma, en la forma establecida en el artículo 32 de la Ley 39/2006, de 14 de diciembre.
+
+c) La persona beneficiaria a que se refiere la presente disposición participará, según su capacidad económica, en la financiación de las mismas, que será también tenida en cuenta para determinar la cuantía de las prestaciones económicas.
+
+d) Las prestaciones se reconocerán siempre a instancia de los emigrantes españoles retornados y se extinguirán, en todo caso, cuando la persona beneficiaria, por cumplir el período exigido de residencia en territorio español, pueda acceder a las prestaciones del SAAD.
+
+#### Disposición adicional segunda. Cuantías máximas de las prestaciones económicas.
+
+Con independencia de la fecha en que se haya producido su reconocimiento, las cuantías máximas de las prestaciones económicas correspondientes a los grados, III, II y l de dependencia, serán las que se determinan en la disposición transitoria décima, apartado 2, del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+#### Disposición transitoria primera. Situación relativa a las personas en situación de dependencia moderada, grado I, que estén recibiendo servicios de atención residencial.
+
+Hasta el 30 de junio de 2015 a las personas beneficiarias a las que se hubiera reconocido el grado I de dependencia moderada y que a fecha 28 de octubre de 2010 estuvieran recibiendo el servicio de atención residencial, se les podrá ofrecer esta prestación en el proceso de consulta para el establecimiento del programa individual de atención.
+
+En el caso de que se haya reconocido esta prestación, el servicio de atención residencial ajustará los servicios y programas de intervención a las necesidades de las personas en situación de dependencia moderada atendidas.
+
+#### Disposición transitoria segunda. Intensidad del servicio de promoción de la autonomía para las personas en situación de dependencia en grado I.
+
+En los procedimientos en los que haya recaído resolución de reconocimiento de prestaciones con anterioridad al 15 de julio de 2012, las Administraciones competentes podrán realizar las adaptaciones necesarias para adecuar la intensidad del servicio de promoción de la autonomía para las personas en situación de dependencia en grado I, a las previstas al anexo I. En tanto se realicen las citadas adaptaciones, serán de aplicación las siguientes intensidades:
+
+1\. La intensidad del servicio de promoción se ajustará al siguiente intervalo de protección, sin perjuicio de lo previsto en los apartados 2 y 3 siguientes:
+
+Grado I. Dependencia moderada:
+
+– Nivel 2: Entre 20 y 30 horas mensuales de atención.
+
+– Nivel 1: Entre 12 y 19 horas mensuales de atención.
+
+2\. Para la atención temprana, se establece la siguiente intensidad:
+
+Grado I. Dependencia moderada, niveles 2 y 1: Un mínimo de 6 horas mensuales de atención.
+
+3\. Para los servicios de promoción, mantenimiento y recuperación de la autonomía funcional, se establece la siguiente intensidad:
+
+Grado I. Dependencia moderada, niveles 2 y 1: Un mínimo de 15 horas mensuales de atención.
+
+#### Disposición transitoria tercera. Intensidad del servicio de ayuda a domicilio según grado y nivel de dependencia.
+
+En los procedimientos en los que haya recaído resolución de reconocimiento de prestaciones con anterioridad al 15 de julio de 2012, las Administraciones competentes podrán realizar las adaptaciones necesarias para adecuar la intensidad del servicio de ayuda a domicilio, a las previstas al anexo II. En tanto se realicen las citadas adaptaciones serán de aplicación las siguientes intensidades:
+
+Intensidad del servicio de ayuda a domicilio según grado y nivel de dependencia
+
+<table>
+<tr>
+<td>
+<p>Grado y nivel</p>
+</td>
+<td>
+<p>Horas de atención</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Grado III. Gran Dependencia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel 2</p>
+</td>
+<td>
+<p>Entre 70 y 90 horas mensuales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel 1</p>
+</td>
+<td>
+<p>Entre 55 y 70 horas mensuales.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Grado II. Dependencia severa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel 2</p>
+</td>
+<td>
+<p>Entre 40 y 55 horas mensuales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel 1</p>
+</td>
+<td>
+<p>Entre 30 y 40 horas mensuales.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Grado I. Dependencia moderada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel 2</p>
+</td>
+<td>
+<p>Entre 21 y 30 horas mensuales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel 1</p>
+</td>
+<td>
+<p>Entre 12 y 20 horas mensuales.</p>
+</td>
+</tr>
+</table>
+
+#### Disposición transitoria cuarta. Intensidad del servicio de centro de día para personas en situación de dependencia en grado I.
+
+En los procedimientos en los que haya recaído resolución de reconocimiento de prestaciones con anterioridad al 15 de julio de 2012, las Administraciones competentes podrán realizar las adaptaciones necesarias para adecuar la intensidad del servicio de Centro de día, a las previstas al anexo III. En tanto se realicen las citadas adaptaciones serán de aplicación las siguientes intensidades:
+
+| Grado I. Dependencia moderada | Horas semanales de atención mínima personalizada |
+|---|---|
+| Nivel 2 | 25 horas semanales. |
+| Nivel 1 | 15 horas semanales. |
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 727/2007, de 8 de junio, sobre criterios para determinar la intensidad de protección de los servicios y la cuantía de las prestaciones económicas de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, así como cuantas disposiciones de igual o inferior rango contradigan lo establecido por este real decreto.
+
+#### Disposición final primera. Modificación del Real Decreto 397/1996, de 1 de marzo, por el que se regula el Registro de Prestaciones Sociales Públicas.
+
+Se modifica el artículo 3 del Real Decreto 397/1996, de 1 de marzo, por el que se regula el Registro de Prestaciones Sociales Públicas, en los siguientes términos:
+
+Uno. La letra k) queda redactada en los siguientes términos:
+
+«k) Las prestaciones económicas abonadas en virtud del Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados.»
+
+Dos. La letra I) queda redactada en los siguientes términos:
+
+«I) Los subsidios de desempleo previstos en el artículo 215.1.3 del Real Decreto Legislativo 1/1994, de 20 de junio, por el que se aprueba el Texto Refundido de la Ley General de la Seguridad Social, así como los percibidos por trabajadores mayores de cincuenta y dos años de conformidad con la normativa anterior.»
+
+Tres. La letra m) queda redactada en los siguientes términos:
+
+«m) Las asignaciones económicas de la Seguridad Social por hijo a cargo con 18 o más años y discapacitado en un grado igual o superior al 65 por 100, abonadas por el Régimen General y los Regímenes Especiales de la Seguridad Social.»
+
+Cuatro. Se añade una nueva letra, la o) con la siguiente redacción:
+
+«o) La prestación económica vinculada al servicio, la prestación económica para cuidados en el entorno familiar y apoyo a cuidadores no profesionales y la prestación económica de asistencia personal, abonadas en virtud de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.»
+
+#### Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de diciembre de 2013.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad, Servicios Sociales e Igualdad,
+
+ANA MATO ADROVER
+
+## ANEXO I — Intensidad del servicio de promoción de la autonomía personal para las personas en situación de dependencia
+
+1\. Para el servicio de promoción de la autonomía personal se establece la siguiente intensidad, sin perjuicio de lo previsto específicamente para el servicio de atención temprana, y el servicio de promoción, mantenimiento y recuperación de la autonomía funcional:
+
+Grados I y II: un mínimo de doce horas mensuales de atención o su equivalente en sesiones.
+
+Grado III: un mínimo de ocho horas mensuales de atención o su equivalente en sesiones.
+
+2\. Para el servicio de atención temprana, se establece la siguiente intensidad:
+
+Grados I, II y III: un mínimo de seis horas mensuales de atención o su equivalente en sesiones.
+
+3\. Para el servicio de promoción, mantenimiento y recuperación de la autonomía funcional, se establece la siguiente intensidad:
+
+Grado I: un mínimo de quince horas mensuales de atención o su equivalente en sesiones.
+
+Grado II: un mínimo de doce horas mensuales de atención o su equivalente en sesiones.
+
+Grado III: un mínimo de ocho horas mensuales de atención o su equivalente en sesiones.
+
+4\. Las intensidades del servicio de atención temprana y del servicio de promoción, mantenimiento y recuperación de la autonomía funcional podrán ser complementarias de otras previstas por los diferentes servicios establecidos por las comunidades autónomas para esta atención.
+
+> Se modifica por el art. único.2 del Real Decreto 291/2015, de 17 de abril. [Ref. BOE-A-2015-4786](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4786).
+
+## ANEXO II — Intensidad del servicio de ayuda a domicilio según grado de dependencia
+
+– Grado I: De 20 a 37 horas mensuales.
+
+– Grado II: De 38 a 64 horas mensuales.
+
+– Grado III: De 65 a 94 horas mensuales.
+
+> Se modifica por art. único.7 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+## ANEXO III — Intensidad del servicio de centro de día para las personas en situación de dependencia en grado I
+
+– Grado I. Dependencia moderada: Un mínimo de 15 horas semanales.
+
+## ANEXO IV — Cuantías máximas de las prestaciones económicas
+
+| Grado | Prestación económica vinculada al servicio | Prestación económica de asistencia personal | Prestación económica por cuidados en el entorno familiar |
+|---|---|---|---|
+| Grado III. | 747,25 | 747,25 | 455,40 |
+| Grado II. | 445,30 | 747,25 | 315,90 |
+| Grado I. | 313,50 | 313,50 | 180,00 |
+
+En el supuesto de la prestación económica vinculada al servicio de atención residencial, la cuantía máxima para el grado II será igual a la establecida para el grado III.
+
+En el supuesto de la prestación económica vinculada al servicio de centro de día, la cuantía máxima para el grado I será igual a la establecida para el grado II.
+
+Asimismo, se fijan en 9.859 euros las cuantías máximas tanto de la prestación económica vinculada al servicio de ayuda a domicilio, como de la prestación económica de asistencia personal, correspondientes a las personas incluidas dentro del Grado III+ de dependencia extrema.
+
+> Se modifica por el art. 3 del Real Decreto-ley 11/2025, de 21 de octubre. [Ref. BOE-A-2025-21205](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21205)
+
+> Se añade por art. único.8 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+> Téngase en cuenta la disposición transitoria 1 en cuanto a la efectividad de las cuantías.
+
+## ANEXO V — Cuantías mínimas de las prestaciones económicas
+
+| Grado | Prestación económica vinculada al servicio | Prestación económica de asistencia personal | Prestación económica por cuidados en el entorno familiar |
+|---|---|---|---|
+| Grado III. | 200 | 200 | 200 |
+| Grado II. | 150 | 150 | 150 |
+| Grado I. | 100 | 100 | 100 |
+
+En el supuesto de la prestación económica vinculada al servicio de teleasistencia no resultará de aplicación la cuantía mínima.
+
+> Se añade por art. único.9 del Real Decreto 675/2023, de 18 de julio. [Ref. BOE-A-2023-16651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16651)
+
+> Téngase en cuenta la disposición transitoria 1 en cuanto a la efectividad de las cuantías.

@@ -1,0 +1,273 @@
+---
+title: "Real Decreto-ley 11/2014, de 5 de septiembre, de medidas urgentes en materia concursal"
+identifier: "BOE-A-2014-9133"
+eli: "https://www.boe.es/eli/es/rdl/2014/09/05/11"
+type: decree_law
+rank: "Real Decreto-ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2014-09-05
+published: 2014-09-06
+in_force_from: 2014-09-07
+last_amended: 2020-05-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 217"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-9133"
+retrieved: 2026-10-11
+---
+
+# Real Decreto-ley 11/2014, de 5 de septiembre, de medidas urgentes en materia concursal
+
+I
+
+El Real Decreto-ley 4/2014, de 7 de marzo, por el que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial flexibilizó el régimen de los convenios pre-concursales de acuerdo con algunas premisas básicas. La primera de ellas es considerar que la continuidad de las empresas económicamente viables es beneficiosa no sólo para las propias empresas, sino para la economía en general y, muy en especial, para el mantenimiento del empleo. La segunda de las premisas era acomodar el privilegio jurídico a la realidad económica subyacente, pues muchas veces el reconocimiento de privilegios carentes de fundamento venía a ser el obstáculo principal de los acuerdos pre-concursales. La tercera de las premisas era respetar en la mayor medida posible la naturaleza jurídica de las garantías reales (pero siempre, y tomando en cuenta la segunda premisa, de acuerdo con su verdadero valor económico).
+
+Este real decreto-ley aborda la extensión de las premisas anteriores al propio convenio concursal.
+
+II
+
+Además de lo anterior, se adoptan una serie de medidas para flexibilizar la transmisión del negocio del concursado o de alguna de sus ramas de actividad, ya que en la actualidad existen algunas trabas, que, bien durante la tramitación del proceso concursal, bien cuando la liquidación del concursado sea inevitable, están dificultando su venta.
+
+Desde esta perspectiva, las modificaciones que se introducen en esta materia tienen en última instancia la misma finalidad que las relativas al convenio concursal: facilitar en la mayor medida posible la continuación de la actividad empresarial, lo cual ha de redundar no sólo en beneficio de la propia empresa, sino también de sus empleados y acreedores y de la economía en general.
+
+III
+
+La parte dispositiva de este real decreto-ley consta de un único artículo, dividido a su vez en tres apartados, en cuya virtud se modifican varios preceptos de la Ley 22/2003, de 9 de julio, Concursal (en adelante, Ley Concursal) relativos al convenio concursal y a la fase de liquidación, así como a otros preceptos de la misma ley íntimamente relacionados con dichos aspectos.
+
+Respecto al convenio concursal, se introducen, en primer lugar, previsiones análogas a las de la disposición adicional cuarta de la Ley Concursal (en redacción dada por el Real Decreto-ley 4/2014, de 7 de marzo) relativas a la valoración de las garantías sobre las que recae el privilegio especial. Para ello se modifican los artículos 90 y 94 de la Ley Concursal. De este modo se sigue manteniendo una regla que parece no solo la más razonable desde el punto de vista económico sino que también es una síntesis de las reglas vigentes en nuestro derecho acerca de la purga de las garantías posteriores, del mantenimiento de las preferentes y de la atribución del eventual sobrante en caso de ejecución por parte de alguno de los titulares de garantías reales. Parece, en efecto, difícil cuestionar que para obtener el verdadero valor de una garantía es necesario deducir del valor razonable del bien sobre el que ésta recae el importe de los créditos pendientes que gocen de garantía preferente sobre el mismo bien. También parece una regla de prudencia reducir dicho valor razonable en un diez por ciento por cuanto la garantía, de hacerse efectiva, requerirá la ejecución del bien o derecho sobre el que esté constituida, lo cual entraña unos costes y dilaciones que reducen el valor de la garantía en, al menos, dicho porcentaje.
+
+Piénsese que de no adoptarse una medida como la presente resulta que los créditos privilegiados pueden multiplicarse *ad infinitum* cuando su garantía recae sobre un mismo bien, sin que el valor de dicho bien se vea en absoluto incrementado. Por poner un ejemplo práctico, hoy por hoy es posible tener cinco hipotecas de 100 sobre un bien que vale 100, llegándose así al absurdo de tener un pasivo privilegiado a efectos concursales por 500 garantizados por un bien que vale 100. No debe olvidarse, por otro lado, que uno de los principios que debe necesariamente regir el concurso es el de *pars conditio creditorum* y que la extensión indefinida de los privilegios es una contradicción palmaria de dicho principio. Además, el resultado práctico es que los acreedores que se benefician de dichas garantías únicamente tendrán un derecho de abstención que en nada beneficiará al convenio y a la continuidad de la empresa, y que en ningún caso garantizará el cobro efectivo de su deuda, menos aún si el concursado debe ir a liquidación. Téngase en cuenta que, en caso de liquidación o incluso de ejecución singular del bien hipotecado, el acreedor recibirá como mucho el valor de la garantía. Del resto de crédito no cubierto por la garantía, no cobrará más que aquella parte que hubiera quedado indemne en el convenio, aunque muy probablemente menos en un contexto de liquidación y no de empresa en funcionamiento.
+
+Tampoco puede considerarse que la determinación del valor de la garantía sea un recorte del crédito garantizado. Es simplemente una valoración diferenciada del derecho principal y del derecho accesorio. No se pone en cuestión el derecho principal, sino que se permite aclarar qué parte del mismo se beneficiará del derecho accesorio y cuál no, debiendo en la segunda recibir el mismo trato que corresponda al crédito según su naturaleza.
+
+En segundo lugar, otra modificación relevante en materia de convenios concursales es la ampliación del quórum de la junta de acreedores, atribuyendo derecho de voto a algunos acreedores que hasta ahora no lo tenían. Si las medidas adoptadas en materia de valoración de garantías deben conducir ya de por sí a la ampliación de dicho quórum, también deberán hacerlo las medidas que reconocen derecho de voto en general a los acreedores que hubiesen adquirido sus derechos de crédito con posterioridad a la declaración de concurso (exceptuando siempre a los que tengan una vinculación especial con el deudor). Hasta ahora sólo se les reconocía derecho de voto cuando la adquisición hubiese sido a título universal, como consecuencia de una realización forzosa, o (a partir de 2012) cuando se tratase de entidades financieras sujetas a supervisión.
+
+La prevención que existía anteriormente respecto a estos acreedores es que dicha adquisición podía esconder algún tipo de fraude que se quería desincentivar mediante la privación del derecho de voto. Pero el fraude no puede estar en adquirir algo (en este caso un derecho de crédito) a un precio menor que aquél por el que se pretenda vender o realizar, puesto que esto es al fin y al cabo lo propio de la actividad económica de mercado. El verdadero problema estriba en que el adquirente se haya concertado con el deudor para defraudar al resto de acreedores. Por ello se reforma no solamente el artículo 122 sino también el 93 para hacer un listado más amplio de personas especialmente vinculadas con el deudor que, por esta razón, tendrán la condición de acreedores subordinados y carecerán en consecuencia de voto en la junta de acreedores.
+
+El atribuir derecho de voto a los acreedores que adquieran sus créditos con posterioridad a la declaración de concurso tiene un efecto adicional que debe reputarse beneficioso para el resto de acreedores: fomentar la existencia de un mercado de dichos créditos que les permita obtener liquidez, en una situación de concurso de su deudor, sin tener que esperar a la liquidación final. Será el propio acreedor cedente el que valore si el sacrificio o descuento exigido para ello es aceptable y será el acreedor cedido, habitualmente especializado en este tipo de adquisiciones, el que sufra el riesgo que la adquisición y subsiguiente tramitación del concurso conllevan.
+
+En tercer lugar, se introducen determinadas previsiones adicionales respecto a los efectos del convenio en el artículo 100. Al igual que se hace en la disposición adicional cuarta, se señala que los acuerdos de aumento de capital requeridos cuando se trate de capitalización se adoptarán con las mismas mayorías previstas en dicha disposición adicional. También se efectúa una remisión al régimen general de transmisión de unidades productivas a lo dispuesto en el artículo 146 bis, lo que implica, con determinadas excepciones, su adquisición libre de obligaciones preexistentes impagadas. Además se facilita la cesión en pago de bienes con determinadas cautelas destinadas a evitar comportamientos fraudulentos.
+
+El cuarto aspecto de las modificaciones de los convenios concursales se refiere a las votaciones y mayorías en el convenio y a la ampliación de la capacidad de arrastre de los acreedores disidentes en determinadas circunstancias. Se levanta la limitación general que con anterioridad existía para los efectos del convenio (quitas del 50 por ciento y esperas de cinco años) pero para superar dichos límites se exige una mayoría reforzada del 65 por ciento. Se introduce igualmente la regla ya aprobada respecto a los convenios pre-concursales en lo referente a las mayorías máximas exigibles para los pactos de sindicación, que será del 75 por ciento (artículo 121.4).
+
+Y finalmente se introduce una previsión novedosa (nuevo artículo 134.3), que también tiene precedente en el Real Decreto-ley 4/2014, de 7 de marzo, sobre la posibilidad de arrastre de determinados créditos con privilegio general o especial, incluso en la parte cubierta por el valor de la garantía. Aunque para ello se exige un doble requisito: además de unas mayorías aún más reforzadas, el que el acuerdo sea adoptado por acreedores de la misma clase, introduciéndose por primera vez en nuestro ámbito concursal esta consideración que ya tiene precedentes en derecho comparado, y en los acuerdos pre-concursales de la disposición adicional cuarta que afectan a los acreedores de pasivos financieros. Para ello se distinguen cuatro clases de acreedores, cada uno de los cuales reúne características propias que justifican un tratamiento específico en el seno del concurso. En primer lugar, los acreedores de derecho laboral; en segundo lugar, los acreedores públicos; en tercer lugar, los acreedores financieros; y finalmente, el resto (entre los cuales deberán incluirse de forma principal a los acreedores comerciales).
+
+La decisión adoptada por las mayorías cualificadas exigidas puede verse como un sacrificio del acreedor que se ve arrastrado, lo cual es cierto, pero también desde un punto de vista positivo como un menor sacrificio del resto de acreedores que acuerdan el arrastre. Lo amplio de las mayorías cualificadas exigidas implica necesariamente que se trate de acuerdos fundamentados y acordes con la realidad del concursado y de sus acreedores. Piénsese además que si el 60 o 75 por ciento de los acreedores (según los casos) acuerdan para sus créditos privilegiados determinados sacrificios que parezcan imprescindibles para la viabilidad de la empresa y para recobrar la mayor parte posible del crédito pendiente, dichas medidas habrán de ser tanto más duras si el 40 o 25 por ciento restante de los acreedores, respectivamente, no resultan vinculados por el acuerdo mayoritario. Parece que lo cualificado de las mayorías y el hecho de que cada uno acordará para sí mismo el menor de los sacrificios posibles es garantía suficiente de que los acuerdos no se adoptarán con la finalidad de lesionar los intereses de estos acreedores. Esta imposibilidad de lesión se ve reforzada por el establecimiento de las cuatro clases de acreedores antes citadas de manera que en ningún caso podrán imaginarse concertaciones de unos acreedores para perjudicar los de otra clase, especialmente los laborales o los públicos que, por su naturaleza, merecen una especial tutela.
+
+Al igual que en el apartado 11 de la disposición adicional cuarta y con el fin de respetar en la mayor medida posible el verdadero valor de la garantía, se establece en el artículo 140 que si, llegado el caso, el acreedor con privilegio (que hubiera votado a favor de un convenio o se hubiera visto arrastrado por él) tiene que ejecutar la garantía, se hará con el montante total obtenido que no exceda del crédito originario. Hay que insistir en el hecho de que todas las medidas introducidas en este real decreto-ley y en el Real Decreto-ley 4/2014, de 7 de marzo, respecto al valor de las garantías tienen su efectividad en relación con el procedimiento concursal pero no implican alteración de las garantías registradas ni de las reglas establecidas para su ejecución fuera del concurso.
+
+Adicionalmente, se introducen determinadas especialidades en materia de insolvencia de empresas concesionarias de obras y servicios públicos, o contratistas de las administraciones públicas. En la actualidad existe un gran número de empresas adjudicatarias de contratos administrativos en situación concursal. Razones urgentes de interés público orientadas al aseguramiento y mantenimiento de la prestación de los servicios públicos hacen necesario articular soluciones que permitan dar continuidad a la actividad objeto del contrato, en beneficio de los adjudicatarios, los terceros que se benefician de la ejecución de los contratos administrativos y de la administración pública. Estas soluciones pasan por arbitrar una fórmula conjunta para todos los procesos concursales que implica la presentación de propuestas de convenio que puedan afectar a todas estas entidades. En este sentido, razones de agilidad y economía procesal y de consecución de una garantía de éxito de la solución concebida, aconsejan la tramitación acumulada de todos los procesos concursales declarados en relación con tales entidades.
+
+Las especialidades de la legislación administrativa de contratos del sector público, tanto general como sectorial, y la necesaria interrelación con las formas de desenvolvimiento y terminación del procedimiento concursal establecidas en la Ley Concursal, hacen necesario que se establezca un régimen especial aplicable a los concursos de las empresas concesionarias de obras y servicios públicos y contratistas de la administración pública, cuya ubicación legislativa debe situarse tanto en la legislación administrativa reguladora de los contratos administrativos (tanto general como específica), como en la Ley Concursal, a través de una nueva disposición adicional segunda.ter que recoge las especialidades concursales en la materia.
+
+La propia Ley Concursal, en su artículo 67, remite los efectos de la declaración de concurso en el caso de los contratos administrativos celebrados por el deudor con las administraciones públicas a su legislación específica. Asimismo, debe recordarse que las competencias del juez del concurso y su preceptiva intervención en el procedimiento concursal deben respetar las competencias de los órganos administrativos en lo relativo a este tipo de contratos y los procedimientos de carácter administrativo con ellos relacionados.
+
+IV
+
+En materia de liquidación se modifican determinados preceptos del capítulo II del título V de la Ley Concursal con el objeto de facilitar el desarrollo de esta fase de procedimiento concursal. Se trata, como se ha expuesto previamente, de garantizar en lo posible la continuación de la actividad empresarial, facilitando, fundamentalmente, la venta del conjunto de los establecimientos y explotaciones del concursado o de cualesquiera otras unidades productivas.
+
+Así, se introduce la subrogación *ipso iure* del adquirente en los contratos y licencias administrativas de que fuera titular el cedente (artículo 146 bis) y se arbitran los mecanismos de exención de responsabilidad por deudas previas, salvo en determinados casos especiales que por su singularidad siguen mereciendo una especial tutela, como es el caso de las deudas frente a la Seguridad Social o a los trabajadores.
+
+También se introducen en el artículo 148 previsiones adicionales respecto a la cesión en pago o para pago y una previsión novedosa consistente en que el juez pueda acordar la retención de un diez por ciento de la masa activa destinado a satisfacer futuras impugnaciones. Esta previsión debería conducir a una agilización de la fase de liquidación.
+
+El artículo 149 también resulta modificado, con el fin de introducir determinadas reglas supletorias relativas a la enajenación de unidades productivas, especialmente en lo referente a las reglas de purga o subsistencia de las posibles garantías reales a las que pudiesen estar sujetos todos o algunos de los bienes incluidos en dicha unidad.
+
+V
+
+Por último, se aborda una modificación del artículo 167 que clarifica las dudas interpretativas existentes en torno al término «clase». Este término puede implicar en una interpretación estricta, una referencia a la «clasificación legal» de los respectivos créditos, en los términos establecidos en los artículos 89 a 92 de la Ley Concursal, de suerte que solamente cuando todos y cada uno de los acreedores clasificados en el proceso concursal de la misma manera queden afectados por las quitas y esperas inferiores a lo que dispone el precepto, no procederá la formación de la sección de calificación. Sin embargo, la práctica judicial ha venido a darle un sentido más genérico, incluyendo en tal «clase» a un grupo de acreedores que reúnan características comunes aunque tal grupo no comprenda a todos los de la misma clasificación concursal, a los efectos del tratamiento otorgable en la sección de calificación respecto a propuestas de convenio no gravosas.
+
+Habida cuenta que el artículo 94.2, en la redacción dada por este real decreto-ley, incorpora una nueva definición del término «clase» aplicable, conforme al artículo 134, a los supuestos en que el convenio llegara a arrastrar a acreedores privilegiados y no exclusivamente a los ordinarios, es imprescindible aclarar, para evitar mayores dudas, que la mención que se efectúa en el artículo 167 debe entenderse también referida a esta definición, que afecta a una pluralidad de acreedores beneficiados por la solución concursal lo suficientemente amplia como para hacer equivalente el tratamiento a efectos de la sección de calificación.
+
+VI
+
+La parte final de este real decreto-ley consta de cuatro disposiciones adicionales, cuatro disposiciones transitorias, una disposición derogatoria única y cinco disposiciones finales.
+
+La disposición adicional primera aclara que las actuaciones que se deriven de la aplicación del artículo 5 bis y de la disposición adicional cuarta de la Ley Concursal tendrán la consideración de medidas de saneamiento a los efectos del Real Decreto-ley 5/2005, de 11 de marzo.
+
+La disposición adicional segunda prevé la creación de un portal de acceso telemático para facilitar la enajenación de empresas que se encuentren en liquidación o de sus unidades productivas.
+
+La disposición adicional tercera establece la creación de una Comisión de seguimiento de prácticas de refinanciación y reducción de sobreendeudamiento, con funciones de verificación del cumplimiento de las medidas adoptadas por este real decreto-ley y de propuesta al Gobierno de modificaciones normativas para facilitar la reestructuración preconcursal o concursal de deuda de empresas económicamente viables.
+
+La disposición adicional cuarta resuelve las dudas interpretativas sobre la negociación de los valores emitidos por un fondo de titulización de activos dirigidos exclusivamente a inversores institucionales, que sólo podrán ser objeto de negociación en un sistema multilateral de negociación en el que la suscripción y negociación de valores esté restringida a inversores cualificados.
+
+Las disposiciones transitorias primera a tercera regulan el régimen transitorio de determinados preceptos contenidos en este real decreto-ley.
+
+La disposición transitoria cuarta determina los procedimientos de ejecución en tramitación a los que resultan aplicables las modificaciones introducidas por la disposición final tercera en la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+La disposición final primera amplía, ante su inminente finalización, la *vacatio legis* prevista en la disposición transitoria del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, respecto al derecho de separación en caso de falta de distribución de dividendos.
+
+La disposición final segunda matiza, con el objeto de evitar interpretaciones restrictivas, que los créditos transmitidos a la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria (SAREB) se tendrán en consideración a efectos del cómputo de las mayorías necesarias para adoptar los acuerdos regulados en la disposición adicional cuarta de la Ley Concursal.
+
+La disposición final tercera modifica la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para adaptarla a la reciente Sentencia del Tribunal de Justicia de la Unión Europea de 17 de julio de 2014. Con ello, el deudor hipotecario podrá interponer recurso de apelación contra el auto que desestime su oposición a la ejecución, si ésta se fundaba en la existencia de una cláusula contractual abusiva que constituya el fundamento de la ejecución o la cantidad exigible.
+
+Por último, las disposiciones finales cuarta y quinta regulan, respectivamente, los títulos competenciales en virtud de los cuales se adopta el real decreto-ley, y su entrada en vigor, que tendrá lugar el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+VII
+
+En las medidas que se adoptan en el presente real decreto-ley concurren las circunstancias de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución como presupuesto habilitante para recurrir a esta figura normativa.
+
+La urgencia viene determinada por la necesidad de garantizar la plena coherencia del conjunto de la normativa concursal después de las novedades introducidas en el régimen de los acuerdos de refinanciación por el Real Decreto-ley 4/2014, de 7 de marzo.
+
+Al igual que en la fase preconcursal, la viabilidad futura de parte del tejido empresarial que está o que estará de forma inminente en concurso depende, en gran medida, de la flexibilización del convenio concursal tanto por lo que se refiere a su contenido como por la extensión de sus efectos. Con las modificaciones introducidas, las empresas y sus acreedores contarán con más instrumentos de reestructuración y refinanciación de la deuda. Además, la extensión de efectos a todos los acreedores privilegiados, si concurren las mayorías previstas por clases, garantizará un sacrificio proporcional de todos ellos facilitando el saneamiento financiero de las empresas que podrán de este modo continuar con su actividad empresarial.
+
+De no abordarse esta modificación, se mantendrá el concurso como lo que es en la actualidad en la mayoría de los casos, es decir, un proceso de liquidación ordenada del patrimonio del deudor y no una alternativa real para reestructurar la deuda y asegurar la viabilidad de las empresas.
+
+También resulta imprescindible acometer con la mayor celeridad posible las modificaciones que introduce este real decreto-ley en la fase de liquidación concursal. La eliminación de determinados obstáculos que están surgiendo en la transmisión de las unidades productivas, supondrá un incentivo inmediato para la adquisición de empresas o ramas de negocio permitiéndose así el mantenimiento de la actividad empresarial y, por ende, de puestos de trabajo.
+
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución, a propuesta del Ministro de Economía y Competitividad, previa deliberación del Consejo de Ministros en su reunión del día 5 de septiembre de 2014,
+
+DISPONGO:
+
+## Artículo único. Modificación de la Ley 22/2003, de 9 de julio, Concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.n) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## Disposición adicional primera. Medidas de saneamiento en situaciones preconcursales.
+
+A los efectos del Real Decreto-ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública, las actuaciones que se deriven de la aplicación del artículo 5 bis y de la disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal, tendrán la consideración de medidas de saneamiento. Serán de aplicación a estas actuaciones los mismos efectos que establece para la apertura de concurso el capítulo II del título I de dicho Real Decreto-ley 5/2005, de 11 de marzo.
+
+## Disposición adicional segunda. Establecimiento de un portal de acceso telemático.
+
+En el plazo de seis meses, se creará en el «Boletín Oficial de Estado» un portal de acceso telemático en el que figurará una relación de las empresas en fase de liquidación concursal y cuanta información resulte necesaria para facilitar su enajenación.
+
+## Disposición adicional tercera. Comisión de seguimiento de prácticas de refinanciación y reducción de sobreendeudamiento.
+
+1\. Se crea la comisión de seguimiento de prácticas de refinanciación y concursales.
+
+2\. La comisión estará integrada por los siguientes miembros permanentes:
+
+a) Dos nombrados por el Ministerio de Economía y Competitividad, uno de los cuales asumirá la presidencia.
+
+b) Dos nombrados por el Ministerio de Justicia, uno de los cuales asumirá las funciones de secretaría.
+
+c) Uno nombrado por el Ministerio de Hacienda y Administraciones Públicas.
+
+d) Uno nombrado por el Ministerio de Empleo y Seguridad Social.
+
+e) Uno nombrado por el Ministerio de Industria, Energía y Turismo.
+
+f) Uno nombrado por el Banco de España.
+
+g) Un juez nombrado por el Consejo General del Poder Judicial.
+
+3\. El presidente de la comisión, en atención a las materias a tratar en las reuniones, requerirá, por propia iniciativa o a solicitud de cualquiera de los miembros de la comisión, la intervención de representantes de otros departamentos ministeriales que pudieran resultar interesados, de los sectores que se vean afectados por las medidas o de otras personas que, por en atención a sus conocimientos técnicos, se estime precedente.
+
+4\. La comisión tendrá atribuidas las siguientes funciones:
+
+a) Realizar un seguimiento de la efectividad de las medidas adoptadas por este real decreto-ley en materia concursal y de refinanciación preconcursal de deuda y sobre la evolución del endeudamiento del sector privado y sus implicaciones macroeconómicas.
+
+b) Evaluar su aplicación y, en su caso, proponer al Gobierno las reformas que resulte conveniente acometer para facilitar la reestructuración preconcursal o concursal de deuda de empresas económicamente viables.
+
+c) Verificar el cumplimiento de los códigos de buenas prácticas que se puedan adoptar en materia de refinanciación preconcursal de deudas.
+
+5\. La comisión de seguimiento determinará sus normas de funcionamiento y se reunirá cada vez que sea convocada por su presidente, por propia iniciativa o a instancia de cuatro de sus miembros. Estará, asimismo, facultada para establecer su propio régimen de convocatorias.
+
+6\. La comisión podrá solicitar, directamente o a través de alguno de sus miembros, la información relativa a acuerdos de refinanciación y reestructuración preconcursales y procesos concursales que considere necesaria para el adecuado ejercicio de esta función.
+
+7\. Con periodicidad anual, la comisión elaborará un informe sobre el resultado del ejercicio de sus funciones que deberá remitirse al Gobierno y a la Comisión de Economía y Competitividad del Congreso de los Diputados*.*
+
+## Disposición adicional cuarta. Negociación en sistemas multilaterales de negociación de los fondos de titulización de activos dirigidos a inversores institucionales.
+
+Cuando los valores emitidos por un fondo de titulización de activos se dirijan exclusivamente a inversores institucionales, la transmisión de los mismos sólo se podrá realizar entre inversores pertenecientes a dicha categoría, y solo podrán ser objeto de negociación en un sistema multilateral de negociación en el que la suscripción y negociación de valores esté restringida a inversores cualificados*.*
+
+## Disposición transitoria primera. Régimen transitorio aplicable a los procedimientos concursales en tramitación a la entrada en vigor de este real decreto-ley.
+
+1\. Lo dispuesto en los números 1, 2, 3, 4, 6, 7, 8 y 9 del apartado uno y en los números 2, 5 y 6 del apartado dos del artículo único será de aplicación a los procedimientos concursales en tramitación en los que no se haya emitido el informe de la administración concursal.
+
+2\. Lo dispuesto en los números 1, 3 y 4 del apartado dos del artículo único será de aplicación a los procedimientos concursales en tramitación en los que no se haya iniciado la fase de liquidación.
+
+3\. Lo dispuesto en el número 5 del apartado uno del artículo único y en el número 1 del apartado tres del artículo único será de aplicación a todos los procedimientos concursales en tramitación en los que no se hubiese votado una propuesta de convenio.
+
+4\. Lo dispuesto en el número 10 del apartado uno del artículo único resultará de aplicación a todos los contratos administrativos que no se hayan extinguido, cualquiera que sea su fecha de adjudicación, con independencia de la fase en que se hallen los procedimientos concursales.
+
+Igualmente, lo dispuesto en el número 8 del apartado uno del artículo único será aplicable a los procedimientos concursales a que se refiere el párrafo anterior en los que no se hubiera abierto la fase de liquidación.
+
+Cuando en los procedimientos a que se refiere este apartado hubiera precluido el plazo legalmente establecido para presentar propuesta de convenio pero aún no se hubiera abierto la fase de liquidación, o se hubiera iniciado el cómputo de dicho plazo, el Juez del concurso dictará resolución concediendo nuevo plazo para presentar propuestas de convenio.
+
+## Disposición transitoria segunda. Limitación a la homologación judicial.
+
+A los deudores que hubieran celebrado acuerdos de refinanciación homologados judicialmente durante el año anterior a la entrada en vigor de este real decreto-ley, no les será de aplicación la limitación de un año prevista en el apartado 12 de la disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal, para solicitar una nueva homologación judicial.
+
+## Disposición transitoria tercera. Régimen de los convenios concursales.
+
+1\. Los convenios concursales aprobados en aplicación de la normativa que deroga este real decreto-ley deberán cumplirse íntegramente.
+
+2\. En caso de incumplimiento en los dos años siguientes a la entrada en vigor de este real decreto-ley, el deudor o los acreedores que representen al menos el 30 por ciento del pasivo total existente al tiempo del incumplimiento podrán solicitar la modificación del convenio con aplicación de las medidas introducidas por este real decreto-ley. La solicitud deberá acompañarse de una propuesta de modificación.
+
+3\. De la solicitud se dará traslado, según los casos, al deudor y a los acreedores que no la hubieran formulado para que en el plazo de diez días manifiesten si aceptan o se oponen a la modificación propuesta. Para entenderse aceptada la modificación, deberán adherirse los acreedores que representen las siguientes mayorías de pasivo:
+
+a) En el caso de acreedores ordinarios:
+
+1.º El 60 por ciento para adoptar las medidas previstas en el artículo 124.1.a).
+
+2.º El 75 por ciento para adoptar las medidas previstas en el artículo 124.1.b).
+
+b) En el caso de acreedores privilegiados:
+
+1.º El 65 por ciento del pasivo de cada clase prevista por el artículo 94.2 para la modificación de las medidas previstas en el apartado a) 1.º anterior.
+
+2.º El 80 por ciento del pasivo de cada clase prevista por el artículo 94.2, para la modificación de las medidas previstas en el apartado a) 2.º anterior.
+
+El cómputo de las anteriores mayorías se calculará de conformidad con lo dispuesto en el apartado 3 del artículo 134.
+
+4\. El juez dictará sentencia aprobando o denegando la modificación del convenio en el plazo de 10 días. Solo podrá aprobar la modificación cuando las medidas propuestas garanticen la viabilidad del concursado.
+
+Si se aprobase la modificación, sus efectos se extenderán a los acreedores con créditos privilegiados u ordinarios que no se hubiesen manifestado a favor de la misma y a los acreedores subordinados.
+
+5\. Lo previsto en esta disposición no será aplicable a los acreedores públicos, que quedarán excluidos del cómputo y de las mayorías previstas en este precepto.
+
+## Disposición transitoria cuarta. Régimen transitorio en los procedimientos de ejecución.
+
+1\. La modificaciones de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, introducidas por la disposición final tercera del presente real decreto-ley serán de aplicación a los procedimientos de ejecución iniciados a su entrada en vigor que no hayan culminado con la puesta en posesión del inmueble al adquirente conforme a lo previsto en el artículo 675 de la Ley de Enjuiciamiento Civil.
+
+2\. En todo caso, en los procedimientos de ejecución en curso a la entrada en vigor de este real decreto-ley en los que se hubiere dictado el auto desestimatorio a que se refiere el párrafo primero del apartado 4 del artículo 695 de la Ley de Enjuiciamiento Civil, en la redacción dada por este real decreto-ley, las partes ejecutadas dispondrán de un plazo preclusivo de un mes para formular recurso de apelación basado en la existencia de las causas de oposición previstas en el apartado 7.º del artículo 557.1 y en el apartado 4.º del artículo 695.1 de la Ley de Enjuiciamiento Civil. Dicho plazo se computará desde el día siguiente a la entrada en vigor de este real decreto-ley.
+
+3\. La publicidad de la presente disposición tendrá el carácter de comunicación plena y válida a los efectos de notificación y cómputo de los plazos previstos en el apartado 2 de esta disposición, no siendo necesario en ningún caso dictar resolución expresa al efecto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto-ley.
+
+## Disposición final primera. Modificación del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio.
+
+La disposición transitoria del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, queda redactada en los siguientes términos:
+
+«Se suspende, hasta el 31 de diciembre de 2016, la aplicación de lo dispuesto en el artículo 348 bis de esta ley.»
+
+## Disposición final segunda. Modificación de la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito.
+
+Se añade una nueva letra k) al artículo 36.4 de la Ley 9/2012, de 14 de noviembre, de reestructuración y resolución de entidades de crédito, con la siguiente redacción:
+
+«k) Los créditos transmitidos a la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria se tendrán en cuenta, a efectos del cómputo de las mayorías indicadas en la disposición adicional cuarta de la Ley Concursal, aun cuando la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria tuviera la consideración de persona especialmente relacionada con el deudor conforme al apartado 2 del artículo 93 de la Ley Concursal.»
+
+## Disposición final tercera. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+El apartado 4 del artículo 695 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda redactado en los siguientes términos:
+
+«4. Contra el auto que ordene el sobreseimiento de la ejecución, la inaplicación de una cláusula abusiva o la desestimación de la oposición por la causa prevista en el apartado 1.4.º anterior, podrá interponerse recurso de apelación.
+
+Fuera de estos casos, los autos que decidan la oposición a que se refiere este artículo no serán susceptibles de recurso alguno y sus efectos se circunscribirán exclusivamente al proceso de ejecución en que se dicten.»
+
+## Disposición final cuarta. Título competencial.
+
+1\. La modificación de la Ley 22/2003, de 9 de julio, Concursal, contenida en el artículo único de este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación mercantil y de legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
+
+2\. Las disposiciones adicionales primera a cuarta se dictan al amparo del artículo 149.1.6.ª, 11.ª y 13.ª, que atribuyen al Estado competencia exclusiva en materia legislación mercantil, de ordenación de crédito, banca y seguros y bases y coordinación de la planificación general de la actividad económica.
+
+3\. Las demás modificaciones de textos legales contenidas en las disposiciones finales primera a tercera del presente real decreto-ley se amparan en el título competencial establecido en la norma objeto de modificación.
+
+## Disposición final quinta. Entrada en vigor.
+
+Este real decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 5 de septiembre de 2014.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+MARIANO RAJOY BREY

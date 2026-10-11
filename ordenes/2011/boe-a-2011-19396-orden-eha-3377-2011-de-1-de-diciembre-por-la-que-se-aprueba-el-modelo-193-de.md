@@ -1,0 +1,1720 @@
+---
+title: "Orden EHA/3377/2011, de 1 de diciembre, por la que se aprueba el modelo 193 de resumen anual de retenciones e ingresos a cuenta sobre determinados rendimientos del capital mobiliario del Impuesto sobre la Renta de las Personas Físicas y sobre determinadas rentas del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes, correspondiente a establecimientos permanentes, así como los diseños físicos y lógicos para la presentación en soporte directamente legible por ordenador, y por la que se modifican los diseños físicos y lógicos del modelo 291, aprobado por Orden EHA/3202/2008, de 31 de octubre y del modelo 196 aprobado por Orden EHA/3300/2008, de 7 de noviembre"
+identifier: "BOE-A-2011-19396"
+eli: "https://www.boe.es/eli/es/o/2011/12/01/eha3377"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2011-12-01
+published: 2011-12-12
+in_force_from: 2011-12-13
+last_amended: 2025-12-12
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 298"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-19396"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/3377/2011, de 1 de diciembre, por la que se aprueba el modelo 193 de resumen anual de retenciones e ingresos a cuenta sobre determinados rendimientos del capital mobiliario del Impuesto sobre la Renta de las Personas Físicas y sobre determinadas rentas del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes, correspondiente a establecimientos permanentes, así como los diseños físicos y lógicos para la presentación en soporte directamente legible por ordenador, y por la que se modifican los diseños físicos y lógicos del modelo 291, aprobado por Orden EHA/3202/2008, de 31 de octubre y del modelo 196 aprobado por Orden EHA/3300/2008, de 7 de noviembre
+
+Incluye la corrección de errores publicada en BOE núm. 303, de 17 de diciembre de 2011.[Ref. BOE-A-2011-19652](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19652)
+
+La Orden de 18 de noviembre de 1999 aprobó, entre otros modelos, el modelo de declaración 193 de resumen anual de retenciones e ingresos a cuenta sobre determinados rendimientos del capital mobiliario del Impuesto sobre la Renta de las Personas Físicas y sobre determinadas rentas del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes, correspondiente a establecimientos permanentes, así como los diseños físicos y lógicos para la presentación en soporte directamente legible por ordenador.
+
+Desde la aprobación del referido modelo 193 hasta la actualidad, la Orden de 18 de noviembre de 1999 ha sido objeto de multitud de modificaciones y por ello, con motivo de la necesidad de introducir mejoras técnicas, así como de aclarar el modo en que se deben declarar los rendimientos obtenidos por la cesión a terceros de capitales propios procedentes de entidades vinculadas cuando el perceptor sea contribuyente del Impuesto sobre la Renta de las Personas Físicas, se ha considerado conveniente aprobar un nuevo modelo 193 con el fin de reforzar la seguridad jurídica.
+
+Así, el artículo 105.1 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, establece para los sujetos obligados a la práctica de retenciones o de ingresos a cuenta, la obligación formal de proceder a la presentación de una declaración anual de retenciones e ingresos a cuenta con el contenido que se determine reglamentariamente.
+
+Por su parte, el artículo 140.2 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, establece a su vez, para el sujeto obligado a retener, la obligación de presentar un resumen anual de retenciones con el contenido que se establezca reglamentariamente.
+
+En cuanto a la imposición sobre no residentes, el Real Decreto Legislativo 5/2004, de 5 de marzo, por el que se aprueba el Texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, establece asimismo en su artículo 31.5, para el sujeto obligado a retener o a ingresar a cuenta, la obligación de presentar una declaración anual de retenciones e ingresos a cuenta con el contenido que se determine reglamentariamente.
+
+A estos efectos, el artículo 108.5 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado mediante Real Decreto 439/2007, de 30 de marzo, así como el artículo 66.5 del Reglamento del Impuesto sobre Sociedades, aprobado mediante Real Decreto 1777/2004, de 30 de julio, y el artículo 15.2 del Reglamento del Impuesto sobre la Renta de no Residentes, aprobado mediante el Real Decreto 1776/2004, de 30 de julio, facultan al Ministro de Economía y Hacienda para establecer los modelos de declaración para cada clase de rentas y para determinar la forma y el lugar en que deba efectuarse la declaración e ingreso.
+
+De este modo, en virtud de las habilitaciones normativas anteriormente señaladas, se procede a la aprobación del modelo 193, que se empleará para informar acerca de las rentas sujetas a retención e ingreso a cuenta que comprenden, de manera genérica, los rendimientos del capital mobiliario obtenidos por los contribuyentes por el Impuesto sobre la Renta de las Personas Físicas y las rentas obtenidas por los sujetos pasivos del Impuesto sobre Sociedades y por contribuyentes por el Impuesto sobre la Renta de no Residentes (establecimientos permanentes) que no sean objeto de declaración en otros modelos de resumen anual de retenciones e ingresos a cuenta.
+
+Por otra parte, se procede a modificar los modelos 196 y 291 con el fin de posibilitar que se facilite la unidad de cuenta empleada en las cuentas bancarias declaradas en dichos modelos. Esta modificación, además de aportar información adicional sobre cuentas bancarias, dotará de una mayor agilidad al actual sistema de requerimientos de información acerca de movimientos en cuentas bancarias previsto en el artículo 93 de la Ley 58/2003, de 17 de diciembre, General Tributaria, al poder diferenciar aquellas cuentas denominadas en euros de aquellas denominadas en divisas, al no encontrarse incluidas estas últimas en el ámbito de aplicación del procedimiento electrónico de intercambio de ficheros entre la Agencia Estatal de Administración Tributaria y las entidades de crédito, a que se refiere la Resolución de 16 de diciembre de 2008, de la Presidencia de la Agencia Estatal de Administración Tributaria.
+
+La habilitación normativa para la modificación de los modelos 196 y 291 se encuentra recogida en el artículo 37.2 del Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado mediante el Real Decreto 1065/2007, de 27 de julio, al establecer que la información a suministrar a la Administración tributaria acerca de cuentas en entidades de crédito comprenderá cualquier dato relevante para concretar dicha información que establezca la Orden Ministerial por la que se apruebe el modelo correspondiente. En su virtud dispongo:
+
+## Artículo 1. Aprobación del modelo 193 y de los diseños físicos y lógicos.
+
+1\. Se aprueba el modelo 193, «Declaración resumen anual de retenciones e ingresos a cuenta sobre determinados rendimientos del capital mobiliario del Impuesto sobre la Renta de las Personas Físicas y sobre determinadas rentas del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes, correspondiente a establecimientos permanentes», que figura en el anexo I de la presente Orden, así como los diseños físicos a los que deberán ajustarse los soportes directamente legibles por ordenador y los diseños lógicos a los que deberán ajustarse los ficheros que contengan la información a suministrar en el modelo 193 tanto en el supuesto de presentación del mismo mediante soporte directamente legible por ordenador como por vía telemática. Ambos diseños, físicos y lógicos, figuran en el anexo II de la presente Orden.
+
+Dicho modelo de declaración resumen anual de retenciones e ingresos a cuenta se compone de los siguientes documentos:
+
+a) Hoja-resumen, que comprende dos ejemplares, uno para la Administración y otro para el interesado.
+
+b) Hoja interior de relación nominativa de perceptores, que consta, asimismo, de dos ejemplares, uno para la Administración y otro para el interesado.
+
+c) Hoja anexo de relación de los gastos a que se refiere el artículo 26.1.a de la Ley 35/2006, reguladora del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las Leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, que consta, asimismo, de dos ejemplares, uno para la Administración y otro para el interesado.
+
+d) Sobre anual.
+
+El número identificativo que habrá de figurar en el modelo 193 será un número secuencial cuyos tres primeros dígitos se correspondan con el código 193.
+
+El número identificativo que habrá de figurar en el modelo 193 en el caso de tratarse de una declaración sustitutiva o complementaria que incorpore registros no declarados previamente será un número secuencial cuyos tres primeros dígitos se correspondan con el código 193.
+
+Las declaraciones complementarias que modifiquen el contenido de datos declarados en otra declaración del mismo ejercicio presentada anteriormente se podrán realizar en su caso desde el servicio de consulta y modificación de declaraciones informativas en la Sede Electrónica de la Agencia Tributaria (www.agenciatributaria.gob.es). En este caso la declaración complementaria quedará identificada por el código electrónico de su presentación, no siendo necesario indicar ningún número identificativo.
+
+2\. Serán igualmente válidas las declaraciones que, ajustándose a los contenidos del modelo aprobado en la presente Orden, se impriman sobre papel blanco mediante la utilización del módulo de impresión que, en su caso y a estos efectos, elabore la Agencia Estatal de Administración Tributaria. Para la presentación de estas declaraciones deberá utilizarse el sobre de retorno «Programa de ayuda», aprobado en la Orden EHA/702/2006, de 9 de marzo, por la que se aprueban los modelos de declaración del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Patrimonio, ejercicio 2005, se establecen el procedimiento de remisión del borrador de declaración del Impuesto sobre la Renta de las Personas Físicas y las condiciones para su confirmación o suscripción, se determinan el lugar, forma y plazos de presentación de los mismos, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos o telefónicos.
+
+Los datos impresos en estas declaraciones prevalecerán sobre las alteraciones o correcciones manuales que pudieran producirse sobre los mismos, por lo que éstas no producirán efectos ante la Administración tributaria.
+
+## Artículo 2. Obligados a presentar el modelo 193.
+
+Están obligadas a presentar el modelo 193 todas aquellas personas físicas, jurídicas y demás entidades, incluidas las Administraciones Públicas, que estando obligadas a retener o a ingresar a cuenta del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes (establecimientos permanentes) de conformidad con lo establecido en la normativa legal y reglamentaria reguladora de estos impuestos, satisfagan alguna de las rentas sujetas a retención o ingreso a cuenta que se indican en el artículo 3 de la presente Orden.
+
+Asimismo, se encuentran también obligadas a presentar el modelo 193 las entidades domiciliadas, residentes o representadas en España, que paguen por cuenta ajena rentas sujetas a retención que se indican en el artículo 3 de la presente Orden o que sean depositarias o gestionen el cobro de las rentas de valores que originen la sujeción a retención o ingreso a cuenta.
+
+## Artículo 3. Objeto y contenido de la información.
+
+1\. Deberán ser objeto de declaración en el modelo 193 los rendimientos del capital mobiliario correspondientes a perceptores que tengan la consideración de contribuyentes por el Impuesto sobre la Renta de las Personas Físicas, incluidos los rendimientos exentos, exceptuando los siguientes:
+
+a) Los obtenidos por la contraprestación, cualquiera que sea su denominación o naturaleza, derivada de cuentas en toda clase de instituciones financieras, incluyendo las basadas en operaciones sobre activos financieros, que se deben declarar en el modelo 196.
+
+b) Los obtenidos en el caso de transmisión, reembolso o amortización de activos financieros, que se deben declarar en el modelo 194.
+
+c) Los procedentes de operaciones de capitalización y de contratos de seguro de vida o invalidez, que deben declararse en el modelo 188.
+
+2\. Deberán ser objeto de declaración en el modelo 193 las rentas correspondientes a sujetos pasivos del Impuesto sobre Sociedades (incluyendo los dividendos sujetos a tributación pero no sometidos a la obligación de practicar retención, a que se refieren los apartados «h», «n», «ñ» y «p» del artículo 59 del Reglamento del Impuesto sobre Sociedades), así como las rentas obtenidas mediante establecimiento permanente de contribuyentes por el Impuesto sobre la Renta de no Residentes, con las siguientes exclusiones:
+
+a) Las obtenidas por la contraprestación, cualquiera que sea su denominación o naturaleza, derivada de cuentas en toda clase de instituciones financieras, incluyendo las basadas en operaciones sobre activos financieros, que se deben declarar en el modelo 196.
+
+b) Las obtenidas en el caso de transmisión, reembolso o amortización de activos financieros, que se deben declarar en el modelo 194.
+
+c) Las procedentes de operaciones de capitalización y de contratos de seguro de vida o invalidez, que deben declararse en el modelo 188.
+
+d) Las procedentes del arrendamiento o subarrendamiento de inmuebles urbanos, que deben declararse en el modelo 180.
+
+e) Las obtenidas como consecuencia de las transmisiones o reembolsos de acciones o participaciones representativas del capital o del patrimonio de instituciones de inversión colectiva, que deben declararse en el modelo 187.
+
+## Artículo 4. Formas de presentación del modelo 193.
+
+1\. La presentación del modelo 193 se realizará con arreglo a los criterios que a continuación se especifican:
+
+a) Las declaraciones que contengan hasta 10.000.000 de registros se presentarán por vía telemática a través de Internet con arreglo a las condiciones generales y a los procedimientos establecidos en la presente Orden.
+
+b) Las declaraciones que contengan más de 10.000.000 de registros podrán presentarse tanto por vía telemática a través de Internet como en soporte directamente legible por ordenador con arreglo a las condiciones generales y a los procedimientos establecidos en la presente Orden.
+
+Los soportes directamente legibles por ordenador, que habrán de ser exclusivamente individuales, deberán cumplir las siguientes características:
+
+1.º Tipo: DVD-R o DVD+R.
+
+2.º Capacidad: hasta 4,7 GB.
+
+3.º Sistema de archivos: UDF.
+
+4.º De una cara y capa simple.
+
+2\. No obstante lo dispuesto en el apartado anterior, y siempre que el obligado tributario no tenga la forma jurídica de sociedad anónima o sociedad de responsabilidad limitada ni se trate de obligados tributarios respecto de los cuales las funciones de gestión están atribuidas a alguna de las Unidades de Gestión de Grandes Empresas dependientes del Departamento de Inspección Financiera y Tributaria de la Agencia Estatal de Administración Tributaria o a la Delegación Central de Grandes Contribuyentes, también será posible la presentación en impreso de aquellas declaraciones que contengan hasta 15 registros en total.
+
+## Artículo 5. Plazo de presentación del modelo 193.
+
+La presentación por medio de papel impreso del modelo 193 se realizará durante los veinte primeros días naturales del mes de enero siguiente al año natural al que se refiera la declaración.
+
+No obstante lo anterior, cuando la declaración impresa se hubiese generado mediante la utilización, exclusivamente, de los correspondientes módulos de impresión desarrollados, a estos efectos, por la Agencia Estatal de Administración Tributaria o cuando la presentación se realice por vía telemática a través de Internet o en soporte directamente legible por ordenador, la presentación se realizará entre el 1 de enero y el 31 de enero del año siguiente al que corresponde dicha declaración.
+
+## Artículo 6. Lugar y forma de presentación del modelo 193 por medio de papel impreso.
+
+1\. La presentación del modelo 193 en impreso se realizará, bien directamente o por correo certificado, en la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente al domicilio fiscal del obligado tributario.
+
+Si la declaración se presenta empleando el modelo aprobado en el artículo 1 de la presente Orden y que figura en el anexo I de la misma, para efectuar la presentación se utilizará el sobre anual que, asimismo y a tal efecto, se aprueba en el citado artículo.
+
+Si la declaración se presenta en un impreso generado mediante el módulo de impresión elaborado por la Agencia Estatal de Administración Tributaria, para efectuar la presentación se utilizará el sobre de retorno «Programa de Ayuda», aprobado en la Orden EHA/702/2006, de 9 de marzo, por la que se aprueban los modelos de declaración del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Patrimonio, ejercicio 2005, se establecen el procedimiento de remisión del borrador de declaración del Impuesto sobre la Renta de las Personas Físicas y las condiciones para su confirmación o suscripción, se determinan el lugar, forma y plazos de presentación de los mismos, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos o telefónicos.
+
+En ambos casos, en el sobre que corresponda de los anteriormente señalados deberá haberse introducido previamente la siguiente documentación:
+
+a) El ejemplar para la Administración de la hoja-resumen del modelo 193, debidamente cumplimentada, en la que deberá constar adherida en el espacio reservado al efecto la etiqueta identificativa suministrada por la Agencia Estatal de Administración Tributaria.
+
+En el supuesto de no disponerse de las citadas etiquetas, se cumplimentarán la totalidad de los datos de identificación solicitados en la mencionada hoja-resumen y se adjuntará una fotocopia del documento acreditativo del número de identificación fiscal del declarante. No obstante, no será preciso adjuntar dicha fotocopia cuando el declarante sea una persona física y la declaración se presente personalmente, previa acreditación suficiente de su identidad, en las oficinas de la Agencia Estatal de Administración Tributaria.
+
+b) Los ejemplares para la Administración de las hojas interiores que corresponda, conteniendo la relación nominativa de perceptores y, en su caso, la hoja anexo de relación de gastos.
+
+2\. No obstante lo anterior, la presentación del modelo 193 en impreso también podrá realizarse a través de cualquiera de las entidades colaboradoras sitas en territorio español, conjuntamente con la declaración-documento de ingreso de retenciones e ingresos a cuenta, modelo 123, correspondiente al último período del año, siempre que la misma resulte a ingresar y dicho ingreso se efectúe en la referida entidad.
+
+A tal efecto, una vez efectuado el ingreso del modelo 123 del último período del año, en el sobre anual que se utilice para efectuar la presentación del modelo 193 se introducirá la documentación a que se refieren las letras a) y b) del apartado 1 anterior. Una vez cerrado dicho sobre anual, se depositará en la misma entidad colaboradora, que lo hará llegar al órgano administrativo correspondiente.
+
+## Artículo 7. Lugar y procedimiento de presentación del modelo 193 en soporte directamente legible por ordenador.
+
+1\. La presentación de los soportes directamente legibles por ordenador, junto con la documentación que haya de acompañarlos, se realizará en la Delegación o Administración de la Agencia Estatal de Administración Tributaria en cuyo ámbito territorial esté situado el domicilio fiscal del declarante, o bien en la Delegación Central de Grandes Contribuyentes o en la Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria, según proceda en función de la adscripción del obligado tributario a una u otra Delegación o Unidad.
+
+A tal efecto, el obligado tributario deberá presentar además los dos ejemplares, para la Administración y para el interesado, de la hoja-resumen del modelo 193, en cada uno de los cuales deberá adherirse, en el espacio correspondiente, la etiqueta identificativa que suministre la Agencia Estatal de Administración Tributaria. En el supuesto de no disponerse de dichas etiquetas, se cumplimentarán la totalidad de los datos de identificación solicitados y se acompañará fotocopia de la tarjeta acreditativa del número de identificación fiscal.
+
+Asimismo, dichos ejemplares deberán estar debidamente firmados indicando en los espacios correspondientes la identidad del firmante así como los restantes datos que en la citada hoja-resumen se solicitan.
+
+Una vez sellados por la oficina receptora, el declarante retirará el «ejemplar para el interesado» de la hoja-resumen del modelo 193 presentado, que servirá como justificante de la entrega.
+
+2\. En todo caso, la información contenida en los soportes directamente legibles por ordenador deberá haber sido validada con carácter previo a su presentación. Dicha validación se realizará utilizando el programa de validación elaborado a tal efecto por la Agencia Estatal de Administración Tributaria, salvo que por razones técnicas objetivas no resulte posible, en cuyo caso la validación deberá realizarse en cualquier Delegación de la mencionada Agencia. En el supuesto de obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes o a alguna de las Unidades de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria a quienes, asimismo por razones técnicas objetivas, no resulte posible utilizar el programa de validación elaborado por la Agencia Estatal de Administración Tributaria, la validación previa podrá también realizarse en la correspondiente Delegación Central o Unidad de Gestión de Grandes Empresas.
+
+3\. Todas las recepciones de soportes legibles por ordenador serán provisionales, a resultas de su proceso y comprobación. Cuando no se ajusten al diseño y demás especificaciones establecidas en la presente Orden, o cuando no resulte posible el acceso a la información contenida en los mismos, se requerirá al declarante para que en el plazo de diez días hábiles subsane los defectos de que adolezca el soporte informático presentado, transcurridos los cuales y de persistir anomalías que impidan a la Administración tributaria el acceso a los datos exigibles, se tendrá por no válida la declaración informativa a todos los efectos, circunstancia ésta que se pondrá en conocimiento del obligado tributario de forma motivada.
+
+4\. Por razones de seguridad, los soportes legibles directamente por ordenador, no se devolverán, salvo que se solicite expresamente, en cuyo caso se procederá a la entrega de otros similares.
+
+## Artículo 8. Identificación de los soportes directamente legibles por ordenador del modelo 193.
+
+El soporte directamente legible por ordenador deberá tener una etiqueta adherida en el exterior en la que se harán constar los datos que se especifican a continuación y, necesariamente, por el mismo orden:
+
+a) Delegación, Administración o Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria en la que se efectúe la presentación individual, b) Ejercicio.
+
+c) Modelo de presentación: 193.
+
+d) Número identificativo de la hoja-resumen que se acompaña.
+
+e) Número de identificación fiscal (NIF) del declarante.
+
+f) Apellidos y nombre, o razón social, del declarante.
+
+g) Apellidos y nombre de la persona con quien relacionarse.
+
+h) Teléfono y extensión de dicha persona.
+
+i) Número total de registros.
+
+j) Importe total de las retenciones e ingresos a cuenta.
+
+Para hacer constar los referidos datos, bastará consignar cada uno de ellos precedido de la letra que le corresponda según la relación anterior.
+
+En el supuesto de que el archivo conste de más de un soporte directamente legible por ordenador, todos llevarán su etiqueta numerada secuencialmente: 1/n, 2/n, etc., siendo «n» el número total de soportes. En la etiqueta del segundo y sucesivos soportes sólo será necesario consignar los datos indicados en las letras a), b), c), d), e) y f) anteriores.
+
+## Artículo 9. Condiciones generales para la presentación telemática por Internet de las declaraciones correspondientes al modelo 193.
+
+1\. La presentación de la declaración por vía telemática a través de Internet podrá ser efectuada bien por el propio declarante o bien por un tercero que actúe en su representación, de acuerdo con lo establecido en los artículos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+2\. La presentación telemática de las declaraciones correspondientes al modelo 193 estará sujeta a las siguientes condiciones:
+
+a) El declarante deberá disponer de Número de Identificación Fiscal (NIF).
+
+b) El declarante deberá tener instalado en el navegador un certificado electrónico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por el que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+c) Si la presentación telemática va a ser realizada por una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, de acuerdo con lo previsto en los artículos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, será esta persona o entidad autorizada quien deberá tener instalado en el navegador su certificado electrónico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la citada Orden HAC/1181/2003, de 12 de mayo.
+
+d) Para efectuar la presentación telemática de la declaración, el declarante, o en su caso, el presentador autorizado, deberá transmitir los ficheros ajustados a los diseños de registros tipo 1 y 2 establecidos en el anexo II de la presente Orden. Para la obtención de dicho fichero podrá utilizarse el programa de ayuda desarrollado por la Agencia Estatal de Administración Tributaria para la declaración correspondiente al modelo 193 u otro programa informático capaz de obtener un fichero con el mismo formato.
+
+3\. En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática de declaraciones, dicha circunstancia se pondrá en conocimiento del declarante por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
+
+## Artículo 10. Procedimiento para la presentación telemática por Internet de declaraciones correspondientes al modelo 193.
+
+1\. El procedimiento para la presentación telemática de las declaraciones correspondientes al modelo 193 será el siguiente:
+
+a) El presentador se conectará a la página de la Sede Electrónica de la Agencia Estatal de Administración Tributaria en Internet, dirección electrónica www.agenciatributaria, gob.es y seleccionará el concepto fiscal y el tipo de declaración a transmitir.
+
+b) A continuación, procederá a transmitir la correspondiente declaración con la firma electrónica generada al seleccionar el certificado electrónico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria.
+
+Si el presentador es una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, se requerirá la firma correspondiente a su certificado.
+
+c) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla los datos del registro tipo 1 validados con un código seguro de verificación de 16 caracteres, además de la fecha y hora de presentación.
+
+En el supuesto de que la presentación fuese rechazada, se mostrará en pantalla la descripción de los errores detectados, debiendo procederse a la subsanación de los mismos o a repetir la presentación si el error fuese originado por otro motivo.
+
+El presentador deberá conservar la declaración aceptada, así como el registro tipo 1 debidamente validado con el correspondiente código seguro de verificación.
+
+d) Con posterioridad a la recepción del fichero transmitido y con el fin de que la información sea procesada e incorporada al sistema de información de la Agencia Estatal de Administración Tributaria correctamente, el Departamento de Informática Tributaria efectuará un proceso de validación de los datos suministrados telemáticamente, en el que se verificará que las características de la información se ajustan a las especificaciones establecidas de acuerdo con los diseños físicos y lógicos descritos en el anexo II de la presente Orden.
+
+2\. En aquellos supuestos en que por razones de carácter técnico no fuera posible efectuar la presentación por internet en el plazo a que se refiere el artículo 5 de esta Orden, dicha presentación podrá efectuarse durante los tres días naturales siguientes al de finalización de dicho plazo.
+
+## Artículo 11. Procedimiento de subsanación de errores
+
+En el servicio de consulta y modificación de declaraciones informativas de la Sede Electrónica de la Agencia Estatal de Administración Tributaria (www.agenciatributaria.gob.es), se ofrecerá al obligado tributario la información individualizada de los errores detectados en las declaraciones para que pueda proceder a su corrección. En caso de que no se hayan subsanado los defectos observados, se podrá requerir al obligado para que en el plazo de 10 días, contados a partir del día siguiente al de la notificación del requerimiento, subsane los defectos de que adolezca. Transcurrido dicho plazo sin haber atendido el requerimiento, de persistir anomalías que impidan a la Administración tributaria el conocimiento de los datos, se le tendrá, en su caso, por no cumplida la obligación correspondiente y se procederá al archivo sin más trámite.
+
+## Artículo 12. Reglas aplicables al suministro de información en el modelo 193 en el supuesto de que existan varios perceptores titulares de un mismo elemento patrimonial, bien o derecho de que provengan las rentas o rendimientos del capital mobiliario objeto del modelo.
+
+Exclusivamente a los efectos del suministro informativo del modelo 193, en aquellos supuestos en que existan varios perceptores titulares de un mismo elemento patrimonial, bien o derecho de que provengan las rentas o rendimientos del capital mobiliario objeto del modelo, el obligado tributario deberá realizar el citado suministro informativo individualizando los datos económicos correspondientes a cada uno de los cotitulares del mismo elemento patrimonial, bien o derecho que conste de manera fehaciente al obligado tributario. En defecto de constancia fehaciente, la proporción de participación se deberá atribuir a cada unos de los cotitulares, a los citados efectos informativos, por partes iguales.
+
+## Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de esta Orden quedarán derogadas todas las disposiciones de igual o inferior rango que se opongan a lo establecido en la misma y, en particular, la Orden de 18 de noviembre de 1999, por la que se aprueban los modelos 123, en pesetas y en euros, de declaración-documento de ingreso y los modelos 193, en pesetas y en euros, del resumen anual de retenciones e ingresos a cuenta sobre determinados rendimientos del capital mobiliario del Impuesto sobre la Renta de las Personas Físicas y sobre determinadas rentas del Impuesto sobre Sociedades y del Impuesto sobre la Renta de No Residentes, correspondiente a establecimientos permanentes, y los modelos 124, en pesetas y en euros, del resumen anual de retenciones e ingresos a cuenta de los citados Impuestos derivados de la transmisión, amortización, reembolso, canje o conversión de cualquier clase de activos representativos de la captación y utilización de capitales ajenos, así como los diseños físicos y lógicos para la sustitución de las hojas interiores de los citados modelos 193 y 194 por soportes directamente legibles por ordenador, en todo cuanto se refiera al modelo 193.
+
+## Disposición final primera. Modificación de la Orden EHA/3202/2008, de 31 de octubre, por la que se aprueba el modelo 291 «Impuesto sobre la Renta de no Residentes. No residentes sin establecimiento permanente. Declaración informativa de cuentas de no residentes», así como los diseños físicos y lógicos para su presentación por soporte directamente legible por ordenador, y se establece el procedimiento para su presentación telemática por teleproceso.
+
+Se introducen las siguientes modificaciones en los diseños físicos y lógicos, aprobados en el anexo II de la Orden EHA/3202/2008, de 31 de octubre, por la que se aprueba el modelo 291 «Impuesto sobre la Renta de no Residentes. No residentes sin establecimiento permanente. Declaración informativa de cuentas de no residentes», así como los diseños físicos y lógicos para su presentación por soporte directamente legible por ordenador, y se establece el procedimiento para su presentación telemática por teleproceso:
+
+Uno. Se sustituyen los diseños físicos del registro de tipo 2, registro del declarado, que figura en el anexo II de la Orden EHA/3202/2008, de 31 de octubre, por los que figuran en el anexo III de esta Orden.
+
+Dos. Se da nueva redacción a las instrucciones de cumplimentación del registro de tipo 2 (registro del declarado), mediante la creación del campo «Unidad de cuenta empleada» (posición 383) de los diseños físicos y lógicos, que se recogen en el anexo II de la Orden EHA/3202/2008, de 31 de octubre.
+
+Las instrucciones de cumplimentación del mismo quedan redactadas del siguiente modo:
+
+| Posiciones | Naturaleza | Descripción de los campos |
+|---|---|---|
+| 383 | Alfabético. | Unidad de cuenta empleada.<br>Se consignará la clave alfabética que corresponda en función de la moneda empleada en la cuenta bancaria:<br>E – Euros.<br>D – Divisas. |
+
+Tres. Se modifica la referencia a las posiciones del campo «BLANCOS» (posiciones 383-432) del registro de tipo 2 (registro del declarado) que figura en el anexo II de la Orden EHA/3202/2008, de 31 de octubre, por la referencia a las posiciones 384-432.
+
+## Disposición final segunda. Modificación de la Orden EHA/3300/2008, de 7 de noviembre, por la que se aprueba el modelo 196, del Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes (establecimientos permanentes). Retenciones e ingresos a cuenta sobre rendimientos del capital mobiliario y rentas obtenidos por la contraprestación derivada de cuentas en toda clase de instituciones financieras, incluyendo las basadas en operaciones sobre activos financieros, declaración informativa anual de personas autorizadas y de saldos en cuentas de toda clase de instituciones financieras.
+
+Se introducen las siguientes modificaciones en los diseños físicos y lógicos, aprobados en el anexo II de la Orden EHA/3300/2008, de 7 de noviembre, por la que se aprueba el modelo 196, del Impuesto sobre la Renta de las Personas Físicas, Impuesto sobre Sociedades e Impuesto sobre la Renta de no Residentes (establecimientos permanentes). Retenciones e ingresos a cuenta sobre rendimientos del capital mobiliario y rentas obtenidos por la contraprestación derivada de cuentas en toda clase de instituciones financieras, incluyendo las basadas en operaciones sobre activos financieros, declaración informativa anual de personas autorizadas y de saldos en cuentas de toda clase de instituciones financieras:
+
+Uno. Se sustituyen los diseños físicos de los registros de tipo 2, registro de declarado y registro del autorizado, que figuran en el anexo II de la Orden EHA/3300/2008, de 7 de noviembre, por los que figuran en el anexo IV de esta Orden.
+
+Dos. Se modifica la referencia a las posiciones del campo «BLANCOS» (posiciones 76-123) del registro de tipo 2 (registro de declarado) por la referencia a las posiciones 76-122.
+
+Tres. Se crea un nuevo campo denominado «Unidad de cuenta empleada» (posición 123) en el registro de tipo 2 (registro de declarado).
+
+Las instrucciones de cumplimentación del mismo quedan redactadas del siguiente modo:
+
+| Posiciones | Naturaleza | Descripción de los campos |
+|---|---|---|
+| 123 | Alfabético. | Unidad de cuenta empleada.<br>Se consignará la clave alfabética que corresponda en función de la moneda empleada en la cuenta bancaria:<br>E – Euros.<br>D – Divisas. |
+
+Cuatro. Se modifica la referencia a las posiciones del campo «blancos» (posiciones 76-123) del registro de tipo 2 (registro del autorizado) por la referencia a las posiciones 76-122.
+
+Cinco. Se crea un nuevo campo denominado «Unidad de cuenta empleada» (posición 123) en el registro de tipo 2 (registro del autorizado).
+
+Las instrucciones de cumplimentación del mismo quedan redactadas del siguiente modo:
+
+| Posiciones | Naturaleza | Descripción de los campos |
+|---|---|---|
+| 123 | Alfabético. | Unidad de cuenta empleada.<br>Se consignará la clave alfabética que corresponda en función de la moneda empleada en la cuenta bancaria:<br>E – Euros.<br>D – Divisas. |
+
+## Disposición final tercera. Entrada en vigor.
+
+Esta Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, siendo de aplicación a las declaraciones que deban presentarse a partir del 1 de enero de 2012 referidas a información del ejercicio 2011 y siguientes.
+
+Madrid, 1 de diciembre de 2011.–La Vicepresidenta del Gobierno de Asuntos Económicos y Ministra de Economía y Hacienda, Elena Salgado Méndez.
+
+## ANEXO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image13.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183845_image14.png)
+
+## ANEXO II — Diseños físicos y lógicos a los que deben ajustarse los archivos que se generen para la presentación telemática y los soportes directamente legibles por ordenador del modelo 193
+
+A) Características de los soportes magnéticos
+
+Los soportes directamente legibles por ordenador para la presentación del resumen anual de retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre Sociedades y del Impuesto sobre la Renta de No Residentes correspondiente a establecimientos permanentes (Modelo 193), habrán de cumplir las siguientes características:
+
+• Tipo: DVD-R o DVD+R.
+
+• Capacidad: Hasta 4,7 GB.
+
+• Sistema de archivos UDF.
+
+• De una cara y una capa simple.
+
+Si las características del equipo de que dispone el declarante no le permite ajustarse a las especificaciones técnicas exigidas, y está obligado a presentar declaración en soporte directamente legible por ordenador, deberá dirigirse por escrito a la Subdirección General de Aplicaciones del Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria (AEAT), calle Santa María Magdalena, 16, 28016 Madrid, exponiendo sus propias características técnicas y el número de registros que presentaría, con objeto de encontrar, si lo hay, un sistema compatible con las características técnicas de la AEAT.
+
+B) Diseños lógicos descripción
+
+De los registros:
+
+Para cada declarante se incluirán dos tipos diferentes de registro, que se distinguen por la primera posición, con arreglo a los siguientes criterios:
+
+• Tipo 1: Registro del declarante: Datos identificativos y hoja resumen de la declaración. Diseño de tipo de registro 1 de los recogidos más adelante en estos mismos apartados y Anexo de la presente Orden.
+
+• Tipo 2: Registros de perceptor. Diseño de tipo de registro 2 de los recogidos más adelante en estos mismos apartados y Anexo de la presente Orden.
+
+El orden de presentación será el del tipo de registro, existiendo un único registro del tipo 1 y tantos registros del tipo 2 como declarados tenga la declaración.
+
+Todos los campos alfanuméricos y alfabéticos se presentarán alineados a la izquierda y rellenos de blancos por la derecha, en mayúsculas sin caracteres especiales, y sin vocales acentuadas.
+
+Para los caracteres específicos del idioma se utilizará la codificación ISO-8859-1. De esta forma la letra «Ñ» tendrá el valor ASCII 209 (Hex. D1) y la «Ç» (cedilla mayúscula) el valor ASCII 199 (Hex. C7).
+
+Todos los campos numéricos se presentarán alineados a la derecha y rellenos a ceros por la izquierda sin signos y sin empaquetar.
+
+Todos los campos tendrán contenido, a no ser que se especifique lo contrario en la descripción del campo. Si no lo tuvieran, los campos numéricos se rellenarán a ceros y tanto los alfanuméricos como los alfabéticos a blancos.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/303/19652_14177218_image1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/303/19652_14177218_image2.png)
+
+**Modelo 193**
+
+B. Tipo de registro 1: Registro de declarante
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Tipo de registro.</strong>
+</p>
+<p>Constante número 1.</p>
+</td>
+</tr>
+<tr>
+<td>2-4</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Modelo declaración.</strong>
+</p>
+<p>Constante «193».</p>
+</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Ejercicio.</strong>
+</p>
+<p>Las cuatro cifras del ejercicio fiscal al que corresponde la declaración.</p>
+</td>
+</tr>
+<tr>
+<td>9-17</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>NIF del declarante.</strong>
+</p>
+<p>Se consignará el NIF del declarante.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones de la izquierda, de acuerdo con las reglas previstas en el Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio (BOE de 5 de septiembre).</p>
+</td>
+</tr>
+<tr>
+<td>18-57</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>Apellidos y nombre o razón social del Declarante.</strong>
+</p>
+<p>Si es una persona física se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo necesariamente en este orden.</p>
+<p>Para personas jurídicas y entidades en régimen de atribución de Rentas, se consignará la razón social completa, sin anagrama.</p>
+<p>En ningún caso podrá figurar en este campo un nombre comercial.</p>
+</td>
+</tr>
+<tr>
+<td>58</td>
+<td>Alfabético.</td>
+<td>
+<p>
+<strong>Tipo de soporte.</strong>
+</p>
+<p>Se cumplimentará una de las siguientes claves:</p>
+<p>«C»: Si la información se presenta en soporte.</p>
+<p>«T»: Transmisión telemática</p>
+</td>
+</tr>
+<tr>
+<td>59-107</td>
+<td>Alfanumérico.</td>
+<td>
+<p><strong>Persona con quien relacionarse</strong>.</p>
+<p>Datos de la persona con quién relacionarse. Este campo se subdivide en dos:</p>
+<p>59-67 <strong>Teléfono:</strong> Campo numérico de 9 posiciones.</p>
+<p>68-107 <strong>Apellidos y nombre:</strong> Se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este orden.</p>
+</td>
+</tr>
+<tr>
+<td>108-120</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Número identificativo de la declaración.</strong>
+</p>
+<p>Se consignará el número identificativo correspondiente a la declaración. Campo de contenido numérico de 13 posiciones.</p>
+<p>El número identificativo que habrá de figurar, será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 193.</p>
+</td>
+</tr>
+<tr>
+<td>121-122</td>
+<td>Alfabético.</td>
+<td>
+<p>
+<strong>Declaración complementaria o sustitutiva.</strong>
+</p>
+<p>En el caso excepcional de segunda o posterior presentación de declaraciones, deberá cumplimentarse obligatoriamente uno de los siguientes campos:</p>
+<p>121 <strong>Declaración complementaria:</strong> Se consignará una «C» si la presentación de esta declaración tiene por objeto incluir percepciones que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidas en la misma.</p>
+<p>122 <strong>Declaración sustitutiva:</strong> Se consignará una «S» si la presentación tiene como objeto anular y sustituir completamente a otra declaración anterior, del mismo ejercicio. Una declaración sustitutiva sólo puede anular a una única declaración anterior.</p>
+</td>
+</tr>
+<tr>
+<td>123- 135</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Número identificativo de la declaración anterior.</strong>
+</p>
+<p>En caso de que se haya consignado una «C» en el campo «Declaración complementaria» o en el caso de que se haya consignado una «S» en el campo «Declaración sustitutiva», se consignará el número identificativo correspondiente a la declaración a la que complementa o sustituye.</p>
+<p>Campo de contenido numérico de 13 posiciones.</p>
+<p>En cualquier otro caso deberá rellenarse a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>136-144</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Número total de perceptores.</strong>
+</p>
+<p>Se consignará el número total de perceptores declarados en el soporte para este declarante. Si un mismo perceptor figura en varios registros, se computará tantas veces como figure relacionado (número de registros de tipo 2).</p>
+</td>
+</tr>
+<tr>
+<td>145-159</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Base retenciones e ingresos a cuenta.</strong>
+</p>
+<p>Campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal la suma total de las cantidades reflejadas en el campo «Base de retenciones e ingresos a cuenta» (posiciones 152 a 164), correspondientes a los registros de perceptor.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>145-157 <strong>Parte entera:</strong> del importe total de la base de retenciones e ingresos a cuenta.</p>
+<p>158-159 <strong>Parte decimal</strong> del importe total de la base de retenciones e ingresos a cuenta.</p>
+</td>
+</tr>
+<tr>
+<td>160-174</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Retenciones e ingresos a cuenta.</strong>
+</p>
+<p>Campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal la suma total de las cantidades reflejadas en los campos «Retenciones e ingresos a cuenta» (posiciones 169 a 181) correspondientes a los registros de perceptor.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>160-172 <strong>Parte entera: del importe total de las retenciones e ingresos a cuenta.</strong></p>
+<p>173-174 <strong>Parte decimal del importe total de las retenciones e ingresos a cuenta.</strong></p>
+</td>
+</tr>
+<tr>
+<td>175-189</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Retenciones e ingresos a cuenta ingresados.</strong>
+</p>
+<p>Campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal la suma total de las cantidades reflejadas en los campos «retenciones e ingresos a cuenta» (posiciones 169 a 181) correspondientes a los registros de perceptor, que correspondan a perceptores (registros) en los que se haya consignado en el campo «clave de percepción» la letra «C», así como también aquellos en los que se haya consignado en el campo «Clave de percepción» las letras «A», «B» o «D» y, simultáneamente en el campo «Pago» el valor «1» o «3».</p>
+</td>
+</tr>
+<tr>
+<td>190-219</td>
+<td> </td>
+<td>
+<strong>Blancos.</strong>
+</td>
+</tr>
+<tr>
+<td>220-234</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Gastos art. 26.1.a) Ley 35/2006.</strong>
+</p>
+<p>Campo numérico de 15 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal la suma total de las cantidades reflejadas en el campo «Importe de gastos» (posiciones 195 a 207 del diseño de registro de «Relación de Gastos»).</p>
+<p>Este campo se subdivide en dos:</p>
+<p>220-232 <strong>Parte entera: del importe total de los gastos.</strong></p>
+<p>233-234 <strong>Parte decimal del importe total de los gastos.</strong></p>
+</td>
+</tr>
+<tr>
+<td>235</td>
+<td>Alfabético.</td>
+<td>
+<p>
+<strong>Naturaleza del declarante.</strong>
+</p>
+<p>Se consignará «S» cuando el declarante no se encuentre incluido en ninguna de las siguientes categorías:</p>
+<p>a) Declarante que tenga la condición de entidad domiciliada, residente o representante en España, que pague por cuenta ajena las rentas sujetas a retención objeto de este modelo o que sea depositaria o gestione el cobro de las rentas de los valores de los que deriven los rendimientos del capital mobiliario y rentas objeto de este modelo.</p>
+<p>b) Declarante que tenga la condición de emisor de los valores de los que deriven los rendimientos del capital mobiliario y rentas objeto de este modelo, siempre que estas rentas sean objeto de pago por cuenta ajena o se encuentren los valores depositados por sus titulares o se gestione el cobro de las rentas por las entidades a que se refiere la letra a) anterior.</p>
+<p>c) Declarante que haya satisfecho o abonado rendimientos del capital mobiliario o rentas objeto de este modelo que por ser su frecuencia de liquidación superior a doce meses se hubieran realizado ingresos a cuenta en ejercicios anteriores a 1999 y en el ejercicio a que corresponda el resumen anual haya procedido a la práctica de la retención definitiva y a la regularización a que se refiere el apartado 3 de la disposición transitoria cuarta del Reglamento del Impuesto sobre Sociedades, aprobado por el Real Decreto 1777/2004, de 30 de julio (BOE de 6 de agosto).</p>
+<p>d) Declarante que sea perceptor de cantidades en concepto de gastos de administración y depósito de valores negociables a que se refiere el artículo 26.1.a) de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio, y por lo tanto, tenga la obligación de cumplimentar la hoja anexo de relación de estos gastos comprendida en este modelo.</p>
+<p>En el supuesto de que el declarante se encuentre incluido en cualquiera de las categorías anteriormente reseñadas, este campo irá a blanco.</p>
+<p>Siempre que se consigne «S» en este campo, los campos que a continuación se indican se cumplimentarán de la siguiente manera: «Retenciones e ingresos a cuenta ingresados» (Posición 175-189) se consignará a ceros.</p>
+<p>«Gastos» (Posición 220-234) se consignará a ceros.</p>
+<p>Siempre que se consigne «S» en este campo, se consignará «S» en el campo «Naturaleza del declarante», posición 208 de todos los registros de tipo 2 (registro de perceptor), atendiendo a la descripción de dicho campo.</p>
+<p>Cuando se consigne «S» en este campo, la declaración no podrá contener registros de tipo 2 (registro de gastos).</p>
+</td>
+</tr>
+<tr>
+<td>236-487</td>
+<td>
+<p>‒</p>
+</td>
+<td>
+<strong>Blancos.</strong>
+</td>
+</tr>
+<tr>
+<td>488-500</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>Sello electrónico.</strong>
+</p>
+<p>Campo reservado para el sello electrónico, que será cumplimentado exclusivamente por los programas de la A.E.A.T. En cualquier otro caso se rellenará a blancos.</p>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Todos los importes serán positivos.</p>
+<p>* Los campos numéricos que no tengan contenido se rellenarán a ceros.</p>
+<p>* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.</p>
+<p>* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.</p>
+<p>* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/303/19652_14177218_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/303/19652_14177218_image4.png)
+
+**Modelo 193**
+
+C. Tipo de registro 2: Registro de perceptor. Relación de perceptores
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Tipo de registro.</strong>
+</p>
+<p>Constante «2»</p>
+</td>
+</tr>
+<tr>
+<td>2-4</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Modelo declaración.</strong>
+</p>
+<p>Constante «193».</p>
+</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Ejercicio.</strong>
+</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>9-17</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>NIF del declarante.</strong>
+</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>18-26</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>NIF del perceptor.</strong>
+</p>
+<p>Si es una persona física se consignará el NIF del perceptor de acuerdo con las reglas previstas en el Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio (BOE de 5 de septiembre).</p>
+<p>Si el perceptor es una persona jurídica o una entidad en régimen de atribución de rentas (Comunidad de bienes, Sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
+<p>Para la identificación de los menores de edad o incapacitados habrán de figurar tanto los datos de la persona menor de edad o incapacitada, incluyéndose su número de identificación fiscal, así como el de su representante legal.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>27-35</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>NIF del representante legal.</strong>
+</p>
+<p>Si el perceptor es menor de edad se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor).</p>
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>36-75</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>Apellidos y nombre, razón social o denominación del perceptor.</strong>
+</p>
+<p>a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este mismo orden. Si el perceptor es menor de edad, se consignarán en este campo los apellidos y nombre del menor de edad.</p>
+<p>b) Tratándose de personas jurídicas y entidades en régimen de atribución de rentas, se consignará la razón social o denominación completa de la entidad, sin anagramas.</p>
+</td>
+</tr>
+<tr>
+<td>76</td>
+<td>Alfabético</td>
+<td>
+<p><strong>Perceptor mediador</strong>.</p>
+<p>Sólo para claves de percepción "A", "B" o "D".</p>
+<p>Se consignará una "X" en este campo exclusivamente en aquellos supuestos en que la naturaleza del perceptor declarado sea la de una Entidad domiciliada, residente o representada en España, que pague por cuenta ajena rentas sujetas a retención o que sea depositaria o gestione el cobro de las rentas de valores que originan el rendimiento o la renta correspondiente.</p>
+<p>No deberá ser objeto de cumplimentación este campo, en ningún caso, en los demás supuestos que no sean los contemplados anteriormente, es decir, cuando el perceptor declarado sea el contribuyente por el Impuesto sobre la Renta de las Personas Físicas, por el Impuesto sobre Sociedades o por el Impuesto sobre la Renta de no Residentes (establecimiento permanente) que haya soportado efectivamente las retenciones o ingresos a cuenta objeto de este modelo de los citados impuestos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">77‑78</td>
+<td rowspan="3">Numérico</td>
+<td>
+<strong>Código provincia.</strong>
+</td>
+</tr>
+<tr>
+<td>Con carácter general, se consignarán los dos dígitos numéricos que correspondan a la provincia o, en su caso, ciudad autónoma o Isla de La Palma, del domicilio del perceptor, según la siguiente relación:</td>
+</tr>
+<tr>
+<td>
+<table>
+<thead>
+<tr>
+<th>Provincia</th>
+<th>CP</th>
+<th>Provincia</th>
+<th>CP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ALBACETE.</td>
+<td>02</td>
+<td>JAÉN.</td>
+<td>23</td>
+</tr>
+<tr>
+<td>ALICANTE/ALACANT.</td>
+<td>03</td>
+<td>LEÓN.</td>
+<td>24</td>
+</tr>
+<tr>
+<td>ALMERÍA.</td>
+<td>04</td>
+<td>LLEIDA.</td>
+<td>25</td>
+</tr>
+<tr>
+<td>ARABA/ÁLAVA.</td>
+<td>01</td>
+<td>LUGO.</td>
+<td>27</td>
+</tr>
+<tr>
+<td>ASTURIAS.</td>
+<td>33</td>
+<td>MADRID.</td>
+<td>28</td>
+</tr>
+<tr>
+<td>ÁVILA.</td>
+<td>05</td>
+<td>MÁLAGA.</td>
+<td>29</td>
+</tr>
+<tr>
+<td>BADAJOZ.</td>
+<td>06</td>
+<td>MELILLA.</td>
+<td>52</td>
+</tr>
+<tr>
+<td>BARCELONA.</td>
+<td>08</td>
+<td>MURCIA.</td>
+<td>30</td>
+</tr>
+<tr>
+<td>BIZKAIA.</td>
+<td>48</td>
+<td>NAVARRA.</td>
+<td>31</td>
+</tr>
+<tr>
+<td>BURGOS.</td>
+<td>09</td>
+<td>OURENSE.</td>
+<td>32</td>
+</tr>
+<tr>
+<td>CÁCERES.</td>
+<td>10</td>
+<td>PALENCIA.</td>
+<td>34</td>
+</tr>
+<tr>
+<td>CÁDIZ.</td>
+<td>11</td>
+<td>PALMAS, LAS.</td>
+<td>35</td>
+</tr>
+<tr>
+<td>CANTABRIA.</td>
+<td>39</td>
+<td>PONTEVEDRA.</td>
+<td>36</td>
+</tr>
+<tr>
+<td>CASTELLÓN/CASTELLÓ.</td>
+<td>12</td>
+<td>RIOJA, LA.</td>
+<td>26</td>
+</tr>
+<tr>
+<td>CEUTA.</td>
+<td>51</td>
+<td>SALAMANCA.</td>
+<td>37</td>
+</tr>
+<tr>
+<td>CIUDAD REAL.</td>
+<td>13</td>
+<td>S.C.TENERIFE (a excepción de Isla de La Palma).</td>
+<td>38</td>
+</tr>
+<tr>
+<td>CÓRDOBA.</td>
+<td>14</td>
+<td>SEGOVIA.</td>
+<td>40</td>
+</tr>
+<tr>
+<td>CORUÑA, A.</td>
+<td>15</td>
+<td>SEVILLA.</td>
+<td>41</td>
+</tr>
+<tr>
+<td>CUENCA.</td>
+<td>16</td>
+<td>SORIA.</td>
+<td>42</td>
+</tr>
+<tr>
+<td>GIPUZKOA.</td>
+<td>20</td>
+<td>TARRAGONA.</td>
+<td>43</td>
+</tr>
+<tr>
+<td>GIRONA.</td>
+<td>17</td>
+<td>TERUEL.</td>
+<td>44</td>
+</tr>
+<tr>
+<td>GRANADA.</td>
+<td>18</td>
+<td>TOLEDO.</td>
+<td>45</td>
+</tr>
+<tr>
+<td>GUADALAJARA.</td>
+<td>19</td>
+<td>VALENCIA/VALÉNCIA.</td>
+<td>46</td>
+</tr>
+<tr>
+<td>HUELVA.</td>
+<td>21</td>
+<td>VALLADOLID.</td>
+<td>47</td>
+</tr>
+<tr>
+<td>HUESCA.</td>
+<td>22</td>
+<td>ZAMORA.</td>
+<td>49</td>
+</tr>
+<tr>
+<td>ILLES BALEARES.</td>
+<td>07</td>
+<td>ZARAGOZA.</td>
+<td>50</td>
+</tr>
+<tr>
+<td>ISLA DE LA PALMA.</td>
+<td>53</td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>79</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Clave código.</strong>
+</p>
+<p>Solo para claves de percepción “A”, “B” o “D”.</p>
+<p>Identifica el contenido del campo “CÓDIGO EMISOR” y, en su caso, el “CÓDIGO ISIN”.</p>
+<p>Con carácter general, se consignará la clave 4, salvo que los valores no tuvieran asignado ISIN o el emisor no tuviera asignado NIF.</p>
+<p>1. El código emisor corresponde a un NIF.</p>
+<p>2. El código emisor corresponde a un código ISIN.</p>
+<p>3. El código emisor corresponde a valores extranjeros que no tienen asignado ISIN.</p>
+<p>4. La identificación se realiza mediante el código ISIN (posiciones 193-204) y el NIF del emisor (posiciones 80-91).</p>
+</td>
+</tr>
+<tr>
+<td>80-91</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>Código emisor.</strong>
+</p>
+<p>Solo para claves de percepción “A”, “B” o “D”.</p>
+<p>Se cumplimentará este campo para identificar al emisor.</p>
+<p>Se hará constar:</p>
+<p>1) Para valores identificados con “CLAVE CÓDIGO”, posición 79, con valor 1, el número de identificación fiscal otorgado por la Agencia Tributaria al emisor.</p>
+<p>2) Para valores identificados con “CLAVE CÓDIGO”, posición 79, con valor 2, este campo no tendrá contenido, debiendo cumplimentarse el campo “CÓDIGO ISIN”, posiciones 193 a 204.</p>
+<p>3) Para valores identificados con “CLAVE CÓDIGO”, posición 79, con valor 4, se consignará en este campo el Número de Identificación Fiscal del emisor otorgado por la Agencia Tributaria. La identificación correspondiente al código ISIN se cumplimentará en el campo “CÓDIGO ISIN”, posiciones 193 a 204.</p>
+<p>4) Para valores identificados con “CLAVE CÓDIGO”, posición 79, con valor 3 (activos financieros y otros valores mobiliarios sin NIF o código ISIN), se reflejará la clave “ZXX”, siendo “XX” el código del país emisor, según la relación contenida en el anexo II de la Orden EHA/3496/2011, de 15 de diciembre (BOE de 26 de diciembre).</p>
+</td>
+</tr>
+<tr>
+<td>92</td>
+<td>Alfabético.</td>
+<td>
+<p>
+<strong>Clave de percepción.</strong>
+</p>
+<p>Se consignará la clave alfabética que corresponda en función del origen de los rendimientos de capital mobiliario o de las rentas sujetos a retención e ingreso a cuenta, según la relación de claves siguiente:</p>
+<p>A. Rendimientos o rentas obtenidos por la participación en los fondos propios de cualquier entidad.</p>
+<p>B. Rendimientos o rentas obtenidos por la cesión a terceros de capitales propios diferentes de los consignados en la letra</p>
+<p>C. Otros rendimientos del capital mobiliario o rentas no incluidos en las claves «A», «B» o «D».</p>
+<p>D. Rendimientos o rentas obtenidos por la cesión a terceros de capitales propios procedentes de entidades vinculadas cuando el perceptor sea contribuyente del Impuesto sobre la Renta de las Personas Físicas.</p>
+<p>Cuando se emplee la clave «D», deberá tenerse en consideración lo establecido en la normativa del Impuesto sobre la Renta de las Personas Físicas a los efectos de la distribución de las percepciones entre las claves «B» y «D». De este modo, en aquellos casos en que el perceptor haya cedido capitales propios por un importe superior al resultado de multiplicar por tres su participación en los fondos propios de la entidad vinculada prestataria, deberá declararse la percepción atendiendo al siguiente reparto:</p>
+<p>Se declararán con la clave «B» los rendimientos del capital mobiliario previstos en el apartado 2 del artículo 25 de la Ley del Impuesto sobre la Renta de las Personas Físicas, que procedan de la parte de los capitales cedidos que no exceda del resultado de multiplicar por tres su participación en los fondos propios de la entidad.</p>
+<p>Se declararán con la clave «D» los rendimientos del capital mobiliario previstos en el apartado 2 del artículo 25 de la Ley del Impuesto sobre la Renta de las Personas Físicas, que procedan de la parte de los capitales cedidos que exceda del resultado de multiplicar por tres la participación del contribuyente en los fondos propios de la entidad.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="35">93-94</td>
+<td rowspan="35">Numérico</td>
+<td>
+<strong>Naturaleza.</strong>
+</td>
+</tr>
+<tr>
+<td>Se consignará el número que corresponda en función de la clave alfabética consignada en el campo “CLAVE DE PERCEPCIÓN” según la relación siguiente:</td>
+</tr>
+<tr>
+<td>Naturaleza asociada a la clave de percepción A:</td>
+</tr>
+<tr>
+<td>01. Primas por asistencia a juntas.</td>
+</tr>
+<tr>
+<td>02. Dividendos y participaciones en beneficios en cualquier tipo de entidad cuando no proceda la naturaleza 07 ni 08.</td>
+</tr>
+<tr>
+<td>03. Rendimientos o rentas procedentes de cualquier clase de activos, excepto la entrega de acciones liberadas, que, estatutariamente o por decisión de los órganos sociales, faculten para participar en los beneficios, ventas, operaciones, ingresos o conceptos análogos de una entidad por causa distinta de la remuneración del trabajo personal.</td>
+</tr>
+<tr>
+<td>04. Rendimientos o rentas que se deriven de la constitución o cesión de derechos o facultades de uso o disfrute, cualquiera que sea su denominación o naturaleza, sobre los valores o participaciones que representen la participación en los fondos propios de la entidad.</td>
+</tr>
+<tr>
+<td>05. Cualquier otra utilidad, distinta de las contenidas en los dígitos anteriores, procedente de una entidad por la condición de socio, accionista, asociado o participe.</td>
+</tr>
+<tr>
+<td>06. Rendimientos exentos.</td>
+</tr>
+<tr>
+<td>07. Dividendos y beneficios distribuidos por las instituciones de inversión colectiva.</td>
+</tr>
+<tr>
+<td>08. Dividendos no sometidos a retención ni ingreso a cuenta.</td>
+</tr>
+<tr>
+<td>Naturaleza asociada a la clave de percepción B y D:</td>
+</tr>
+<tr>
+<td>01. Intereses de obligaciones, bonos, certificados de depósito u otros títulos privados.</td>
+</tr>
+<tr>
+<td>02. Intereses de obligaciones, bonos, cédulas, deuda pública u otros títulos públicos.</td>
+</tr>
+<tr>
+<td>03. Intereses de préstamos no bancarios.</td>
+</tr>
+<tr>
+<td>04. Rendimientos o rentas que disfruten de un régimen transitorio de beneficios en operaciones financieras a que se refiere la disposición transitoria sexta de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.</td>
+</tr>
+<tr>
+<td>05. Rendimientos o rentas satisfechos por una entidad financiera como consecuencia de la transmisión, cesión o transferencia, total o parcial, de un crédito titularidad de aquélla.</td>
+</tr>
+<tr>
+<td>06. Otros rendimientos de capital mobiliario o rentas no incluidos en los dígitos anteriores.</td>
+</tr>
+<tr>
+<td>07. Rendimientos exentos.</td>
+</tr>
+<tr>
+<td>Naturaleza asociada a la clave de percepción C:</td>
+</tr>
+<tr>
+<td>01. Rendimientos o rentas procedentes de la propiedad intelectual cuando el perceptor no sea el autor, distintos de los previstos en la subclave 15.</td>
+</tr>
+<tr>
+<td>02. Rendimientos o rentas procedentes de la propiedad industrial que no se encuentre afecta a actividades económicas realizadas por el perceptor.</td>
+</tr>
+<tr>
+<td>03. Rendimientos o rentas procedentes de la prestación de asistencia técnica, salvo que dicha prestación tenga lugar en el ámbito de una actividad económica.</td>
+</tr>
+<tr>
+<td>04. Rendimientos o rentas procedentes del arrendamiento o subarrendamiento de bienes muebles, negocios o minas que no constituyan actividades económicas.</td>
+</tr>
+<tr>
+<td>05. Rentas vitalicias o temporales que tengan por causa la imposición de capitales, siempre que no hayan sido adquiridas por herencia, legado o cualquier otro título sucesorio y no se deriven de operaciones de capitalización o de contratos de seguro de vida o invalidez.</td>
+</tr>
+<tr>
+<td>06. Rendimientos procedentes de la cesión del derecho a la explotación de la imagen o del consentimiento o autorización para su utilización, salvo que dicha cesión tenga lugar en el ámbito de una actividad económica, siempre que se trate de perceptores (registros) que tengan la condición de contribuyentes por el Impuesto sobre la Renta de las Personas Físicas.</td>
+</tr>
+<tr>
+<td>07. Rendimientos procedentes del subarrendamiento de bienes inmuebles urbanos que no constituyan una actividad económica, siempre que se trate de perceptores (registros) que tengan la condición de contribuyentes por el Impuesto sobre la Renta de las Personas Físicas.</td>
+</tr>
+<tr>
+<td>08. Rentas procedentes de la cesión del derecho a la explotación de la imagen o del consentimiento para su utilización, aun cuando constituyan ingresos derivados de explotaciones económicas, siempre que se trate de perceptores (registros) que tengan la condición de sujetos pasivos del Impuesto sobre Sociedades o de contribuyentes por el Impuesto sobre la Renta de no Residentes que obtengan rentas mediante establecimiento permanente</td>
+</tr>
+<tr>
+<td>09. Rentas obtenidas como consecuencia de premios derivados de la participación en juegos, concursos, rifas o combinaciones aleatorias, estén o no vinculados a la oferta, promoción o venta de determinados bienes, productos o servicios, siempre que se trate de perceptores (registros) que tengan la condición de sujetos pasivos del Impuesto sobre Sociedades o de contribuyentes por el Impuesto sobre la Renta de no Residentes que obtengan rentas mediante establecimiento permanente.</td>
+</tr>
+<tr>
+<td>10. Contraprestaciones obtenidas como consecuencia de la atribución de cargos de administrador o consejero en otras sociedades, siempre que se trate de perceptores (registros) que tengan la condición de sujetos pasivos del Impuesto sobre Sociedades o de contribuyentes por el Impuesto sobre la Renta de no Residentes que obtengan rentas mediante establecimiento permanente. En el supuesto de perceptores que tengan la condición de contribuyentes por el Impuesto sobre la Renta de las Personas Físicas, estas rentas deben declararse en el modelo 190.</td>
+</tr>
+<tr>
+<td>11. Rendimientos exentos.</td>
+</tr>
+<tr>
+<td>12. Otros rendimientos de capital mobiliario o rentas no incluibles en los dígitos anteriores de esta clave a integrar en la base imponible general.</td>
+</tr>
+<tr>
+<td>13. Otros rendimientos de capital mobiliario o rentas no incluibles en los dígitos anteriores de esta clave a integrar en la base imponible del ahorro.</td>
+</tr>
+<tr>
+<td>14. Otros rendimientos de capital mobiliario o rentas no incluibles en los dígitos anteriores de esta clave en los supuestos en los que el perceptor no sea un contribuyente del Impuesto sobre la Renta de las Personas Físicas.</td>
+</tr>
+<tr>
+<td>15. Anticipos a cuenta derivados de la cesión de la explotación de derechos de autor, cuando tales anticipos tengan la consideración de rendimientos del capital mobiliario, que se vayan a devengar a lo largo de varios años.</td>
+</tr>
+<tr>
+<td rowspan="8">95</td>
+<td rowspan="8">Numérico</td>
+<td>
+<strong>Pago.</strong>
+</td>
+</tr>
+<tr>
+<td>Sólo para claves de percepción “A”, “B” o “D”.</td>
+</tr>
+<tr>
+<td>Se consignará cualquiera de los números que a continuación se relacionan para indicar si el pago que ha realizado el declarante ha sido por uno de los siguientes conceptos:</td>
+</tr>
+<tr>
+<td>1. Como emisor</td>
+</tr>
+<tr>
+<td>2. Como mediador de valor nacional.</td>
+</tr>
+<tr>
+<td>3. Como mediador de valor extranjero.</td>
+</tr>
+<tr>
+<td>4. Como mediador de valor extranjero no retenedor.</td>
+</tr>
+<tr>
+<td>5. Como mediador de otro tipo de rendimientos o rentas obtenidas por la cesión a terceros de capitales propios consignados con clave de percepción “B” y naturaleza “06”.</td>
+</tr>
+<tr>
+<td>96</td>
+<td>Alfabético.</td>
+<td>
+<p>
+<strong>Tipo código.</strong>
+</p>
+<p>Solo para claves de percepción «A», «B» o «D».</p>
+<p>Se cumplimentará en este campo cualquiera de las letras que a continuación se relacionan, para identificar la descripción del contenido del campo «Código cuenta valores» «Número operación préstamo»:</p>
+<p>«C» Identificación con el Código Cuenta Cliente (C.C.V.).</p>
+<p>«O» Otra identificación.</p>
+<p>«P» Préstamo de valores.</p>
+</td>
+</tr>
+<tr>
+<td>97-116</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>Código cuenta valores / número operación préstamo.</strong>
+</p>
+<p>Solo para claves de percepción «A», «B» o «D».</p>
+<p>Se consignará este dato en aquellos supuestos en que una entidad financiera tenga encomendada la gestión del cobro, la administración y el depósito de los valores de los cuales proceden los correspondientes rendimientos del capital mobiliario o rentas objeto de este modelo. Por lo tanto, si el declarante no es una entidad financiera gestora del cobro, administradora o depositaria de los valores de los cuales proceden tales rendimientos del capital mobiliario o rentas no deberá cumplimentarse, en ningún caso, este campo. Su estructura se descompone de la siguiente manera:</p>
+<p>Código de Entidad: Cuatro dígitos.</p>
+<p>Código de Sucursal: Cuatro dígitos.</p>
+<p>Dígitos de Control: Dos dígitos.</p>
+<p>Número de Cuenta: Diez dígitos.</p>
+<p>Cuando en el campo «Tipo de código» (posición 96, del registro de tipo 2) se haya consignado «P» se hará constar en este campo el número de operación del préstamo en los supuestos de préstamos de valores.</p>
+</td>
+</tr>
+<tr>
+<td>117</td>
+<td>Alfabético.</td>
+<td>
+<p>
+<strong>Pendiente.</strong>
+</p>
+<p>Solo para claves de percepción «A», «B» o «D».</p>
+<p>Se consignará una «X» en este campo en aquellos supuestos de percepciones devengadas en el ejercicio, cuyos pagos no se han efectuado en el mismo por el declarante al no presentarse los titulares a su cobro. Siempre que se consigne la «X» en este campo, el resto de campos del mismo perceptor (registro) se cumplimentará de la forma siguiente:</p>
+<p>N.I.F. Perceptor: 999 999 999</p>
+<p>N.I.F. Representante: 999 999 999</p>
+<p>Apellidos y nombre, razón social o denominación: Valores pendiente de abono</p>
+<p>Perceptor mediador: sin contenido</p>
+<p>Provincia (código): sin contenido</p>
+<p>Clave código: el que corresponda</p>
+<p>Código emisor: el que corresponda</p>
+<p>Clave perc.: la que corresponda</p>
+<p>Naturaleza: la que corresponda</p>
+<p>Pago: el que corresponda</p>
+<p>Tipo código: el que corresponda</p>
+<p>Código cuenta valores / número operación préstamo: el que corresponda</p>
+<p>Ejercicio devengo: sin contenido</p>
+<p>Tipo perc.: el que corresponda</p>
+<p>Importe percepciones/remuneración prestamista: el que corresponda</p>
+<p>Importe reducciones: el que corresponda</p>
+<p>Base retenciones e ingresos a cuenta: la que corresponda</p>
+<p>% Retención: el que corresponda</p>
+<p>Retenciones e ingresos a cuenta: los que correspondan</p>
+<p>Fecha inicio préstamo: los que correspondan</p>
+<p>Fecha vencimiento préstamo: los que correspondan</p>
+<p>Compensaciones: los que correspondan</p>
+<p>Garantías: los que correspondan</p>
+<p>La presentación de la información de los datos relativos al perceptor se realizará en la declaración correspondiente al ejercicio en que los rendimientos o rentas pendientes de pago sean abonados a aquél. En este supuesto deberá consignarse, en la declaración correspondiente al ejercicio de pago de los rendimientos o rentas, en el campo «Ejercicio devengo», las cuatro cifras del ejercicio en que se devengaron los correspondientes rendimientos o rentas, aunque no se pagaron por no presentarse los titulares al cobro de los mismos.</p>
+</td>
+</tr>
+<tr>
+<td>118-121</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Ejercicio devengo.</strong>
+</p>
+<p>Solo para claves de percepción «A», «B» o «D».</p>
+<p>Se consignarán las cuatro cifras del ejercicio de devengo de aquellos rendimientos o rentas pagados en el ejercicio correspondiente a la presente declaración por haberse presentado los titulares a su cobro, cuyo devengo corresponda a ejercicios anteriores. En ningún otro caso que no sea el descrito anteriormente se cumplimentará este campo.</p>
+</td>
+</tr>
+<tr>
+<td>122</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Tipo de percepción.</strong>
+</p>
+<p>Se consignarán el tipo de percepción de acuerdo a las siguientes claves:</p>
+<p>1. Dinerarias</p>
+<p>2. En especie</p>
+</td>
+</tr>
+<tr>
+<td>123-135</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Importe de percepciones/remuneración al prestamista.</strong>
+</p>
+<p>Campo numérico de 13 posiciones.</p>
+<p>En el supuesto de retribuciones dinerarias, se consignará sin signo y sin coma decimal el importe de la contraprestación íntegra exigible o satisfecha a cada perceptor.</p>
+<p>En el supuesto de retribuciones en especie, se consignará sin signo y sin coma decimal, la valoración de la retribución en especie. En caso de que el perceptor sea un contribuyente del Impuesto sobre la Renta de las Personas Físicas, dicha valoración será el valor de mercado más el ingreso a cuenta realizado en caso de que no haya sido repercutido al perceptor de la renta.</p>
+<p>Cuando existan varios titulares del mismo elemento patrimonial, bien o derecho de que provengan las rentas o rendimientos de capital mobiliario se consignará, para cada uno de ellos, la retribución y en su caso el ingreso a cuenta que les sea imputable, en función de su participación.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>123-133 <strong>Parte entera: del importe de las percepciones ó de la remuneración al prestamista.</strong></p>
+<p>134-135 <strong>Parte decimal del importe de las percepciones ó de la remuneración al prestamista.</strong></p>
+</td>
+</tr>
+<tr>
+<td>136-138</td>
+<td>
+<p>‒</p>
+</td>
+<td><strong>Blancos</strong>.</td>
+</tr>
+<tr>
+<td>139-151</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Importe reducciones.</strong>
+</p>
+<p>Campo numérico de 13 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal el importe de las reducciones contempladas en el artículo 26.2 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio, que hayan sido aplicadas, siempre que el perceptor tenga la condición de contribuyente por el citado impuesto.</p>
+<p>En ningún caso debe consignarse importe alguno en este campo cuando el perceptor de las rentas sea un sujeto pasivo del Impuesto sobre Sociedades o un contribuyente por el Impuesto sobre la Renta de No Residentes (establecimientos permanentes).</p>
+<p>Este campo se subdivide en dos:</p>
+<p>139-149 <strong>Parte entera: del importe de las reducciones.</strong></p>
+<p>150-151 <strong>Parte decimal del importe de las reducciones.</strong></p>
+</td>
+</tr>
+<tr>
+<td>152-164</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Base retenciones e ingresos a cuenta.</strong>
+</p>
+<p>Campo numérico de 13 posiciones.</p>
+<p>Se consignará, sin signo y sin coma decimal, el importe de la base de la retención o ingreso a cuenta realizado por las retribuciones satisfechas, que con carácter general, estará constituida por la contraprestación íntegra exigible o satisfecha. En el caso de que el perceptor sea contribuyente del Impuesto sobre la Renta de las Personas Físicas se tendrán en cuenta las especialidades dispuestas en el Reglamento del Impuesto sobre la Renta de las Personas Físicas (artículos 93, 100 y 101).</p>
+<p>En el caso de retribuciones en especie, cuando en el campo «Tipo de percepción» (posición 122 del tipo de registro 2) se haya consignado «2», se consignará sin signo y sin coma decimal, la base del ingreso a cuenta realizado.</p>
+<p>No obstante, en el caso de operaciones de préstamo de valores, es decir, cuando en el campo «Tipo de código» (posición 96, del registro de tipo 2) se haya consignado «P», este campo será igual a la suma de la cuantía consignada en el campo «Importe Percepciones/Remuneración prestamista» (posiciones 123 a 135, del registro de tipo 2) y de la cuantía de las compensaciones sobre las que exista obligación de retener consignadas en el campo «Compensaciones» (posiciones 225 a 236, del registro de tipo 2).</p>
+<p>Este campo se subdivide en dos:</p>
+<p>152-162 <strong>Parte entera: del importe de la base retenciones e ingresos a cuenta.</strong> Si no tiene contenido se consignará a ceros.</p>
+<p>163-164 <strong>Parte decimal del importe de la base retenciones e ingresos a cuenta.</strong> Si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="7">165‑168</td>
+<td rowspan="7">Numérico</td>
+<td>
+<strong>% Retención.</strong>
+</td>
+</tr>
+<tr>
+<td>Se consignará el porcentaje de retención o de ingreso a cuenta aplicado en cada caso que, por regla general, será el 19 por 100, salvo cuando se haya consignado en el campo “CLAVE PERCEPCIÓN” la letra B y en el campo “NATURALEZA” el número 04, en cuyo caso se consignará el porcentaje de retención efectivo que haya sido aplicado (en el caso en que este porcentaje no fuera un número entero, se consignará con dos decimales). Además, cuando se haya consignado en el campo “CLAVE PERCEPCIÓN” la letra C y en el campo “NATURALEZA” el número 06 o el número 08, el porcentaje a consignar será el 24 por 100. Por último, cuando se haya consignado en el campo “CLAVE PERCEPCIÓN” la letra C y en el campo “NATURALEZA” el número 01, el porcentaje a consignar será el 15 por 100, mientras que cuando se haya consignado en el campo “CLAVE PERCEPCIÓN” la letra C y en el campo “NATURALEZA” el número 15, el porcentaje a consignar será el 7 por 100.</td>
+</tr>
+<tr>
+<td>Debe tenerse en cuenta que el porcentaje de retención se reducirá en un 60 por ciento cuando se trate de rendimientos obtenidos en Ceuta y Melilla que se beneficien de la deducción prevista en el artículo 68.4 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio (LIRPF). Asimismo, con carácter excepcional, en los términos y periodos previstos en la disposición adicional quincuagésima séptima de la LIRPF, el porcentaje de retención también se reducirá en un 60 por ciento cuando se trate de rentas obtenidas en la Isla de La Palma por contribuyentes con residencia habitual y efectiva en dicho territorio, con derecho a la deducción del artículo 68.4 de la LIRPF.</td>
+</tr>
+<tr>
+<td>Si se hubiera aplicado más de un porcentaje a lo largo del año, se indicará exclusivamente el último de ellos.</td>
+</tr>
+<tr>
+<td>Este campo se subdivide en otros dos:</td>
+</tr>
+<tr>
+<td>165–166 ENTERO Numérico. Parte entera: Se consignará la parte entera del porcentaje (si no tiene, consignar CEROS).</td>
+</tr>
+<tr>
+<td>167–168 DECIMAL Numérico. Parte decimal: Se consignará la parte decimal del porcentaje (si no tiene, consignar CEROS).</td>
+</tr>
+<tr>
+<td>169-181</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Retenciones e ingresos a cuenta.</strong>
+</p>
+<p>Campo numérico de 13 posiciones.</p>
+<p>Se consignará el resultado de aplicar a la cuantía consignada en el campo «Base retenciones e ingresos a cuenta» el porcentaje de retención o ingreso a cuenta consignado en el campo «% Retención». No obstante lo anterior, en el supuesto en que hubieran sido de aplicación durante el año a que se refiere el resumen anual varios porcentajes de retención e ingreso a cuenta, de acuerdo con lo dispuesto en la normativa vigente en cada momento deberá consignarse en este campo el importe total de las retenciones e ingresos a cuenta que corresponda a la base de las retenciones e ingresos a cuenta del perceptor.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>169-179 <strong>Parte entera: de las retenciones e ingresos a cuenta.</strong></p>
+<p>180-181 <strong>Parte decimal de las retenciones e ingresos a cuenta.</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>182-192</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td>
+<p>
+<strong>Penalizaciones.</strong>
+</p>
+<p>Cuando en el campo «CLAVE DE PERCEPCIÓN» (posición 92 del registro de tipo 2) se cumplimente la clave «B» o «D», se consignará, en su caso, sin signo y sin coma decimal, el importe de los rendimientos del capital mobiliario negativos derivados del incumplimiento de condiciones de promociones comerciales, salvo los que procedan de cuentas en toda clase de instituciones financieras.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>182-190: Parte entera de las penalizaciones.</p>
+<p>191-192: Parte decimal de las penalizaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>193-204</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td>
+<p>
+<strong>Código Isin.</strong>
+</p>
+<p>Solo para valores identificados con “CLAVE CÓDIGO”, posición 79, con valor 2 o 4.</p>
+<p>Será obligatorio consignar el ISIN cuando el campo “CLAVE DE PERCEPCIÓN” (posición 92) = “A” y el campo “CLAVE DE MERCADO” (posición 339) = “A”.</p>
+<p>Se hará constar el código ISIN asignado, configurado de acuerdo con la Circular 2/2010, de 28 de julio, de la Comisión Nacional del Mercado de Valores, sobre valores y otros instrumentos de naturaleza financiera codificables y procedimientos de codificación.</p>
+</td>
+</tr>
+<tr>
+<td>205-207</td>
+<td>
+<p>‒</p>
+</td>
+<td>
+<strong>Blancos.</strong>
+</td>
+</tr>
+<tr>
+<td rowspan="2">208</td>
+<td rowspan="2">Alfabético</td>
+<td>
+<strong>Naturaleza del declarante.</strong>
+</td>
+</tr>
+<tr>
+<td>
+<p>Se consignará “S” cuando el declarante no se encuentre incluido en ninguna de las siguientes categorías:</p>
+<p>a) Declarante que tenga la condición de entidad domiciliada, residente o representante en España, que pague por cuenta ajena las rentas sujetas a retención objeto de este modelo o que sea depositaria o gestione el cobro de las rentas de los valores de los que deriven los rendimientos del capital mobiliario y rentas objeto de este modelo.</p>
+<p>b) Declarante que tenga la condición de emisor de los valores de los que deriven los rendimientos del capital mobiliario y rentas objeto de este modelo, siempre que estas rentas sean objeto de pago por cuenta ajena o se encuentren los valores depositados por sus titulares o se gestione el cobro de las rentas por las entidades a que se refiere la letra a) anterior.</p>
+<p>c) Declarante que haya satisfecho o abonado rendimientos del capital mobiliario o rentas objeto de este modelo que por ser su frecuencia de liquidación superior a doce meses se hubieran realizado ingresos a cuenta en ejercicios anteriores a 1999 y en el ejercicio a que corresponda el resumen anual haya procedido a la práctica de la retención definitiva y a la regularización a que se refiere el apartado 2 de la disposición transitoria cuarta del Reglamento del Impuesto sobre Sociedades, aprobado por el Real Decreto 634/2015, de 10 de julio (BOE de 11 de julio).</p>
+<p>d) Declarante que sea perceptor de cantidades en concepto de gastos de administración y depósito de valores negociables a que se refiere el artículo 26.1.a) de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio, y por lo tanto, tenga la obligación de cumplimentar la hoja anexo de relación de estos gastos comprendida en este modelo.</p>
+<p>En el supuesto de que el declarante se encuentre incluido en cualquiera de las categorías anteriormente reseñadas, este campo irá a blanco.</p>
+<p>Siempre que se consigne “S” en este campo, los campos que a continuación se indican se cumplimentarán de la siguiente manera:</p>
+<p>PAGO A UN MEDIADOR (Posición 76) se consignará a blancos.</p>
+<p>CLAVE CÓDIGO (Posición 79) se consignará a ceros.</p>
+<p>CÓDIGO EMISOR (Posición 80-91) se consignará a blancos.</p>
+<p>PAGO (Posición 95) se consignará a ceros.</p>
+<p>TIPO CÓDIGO (Posición 96) se consignará a blancos.</p>
+<p>CÓDIGO CUENTA VALORES/N.º OPERACIÓN PRÉSTAMO (Posición 97-116) se consignará a blancos.</p>
+<p>PENALIZACIONES (Posiciones 182-192) se consignará a ceros.</p>
+<p>CÓDIGO ISIN (Posiciones 193-204) se consignará a blancos.</p>
+<p>IMPORTE DE GASTOS (Posición 195-207) se consignará a ceros.</p>
+<p>FECHA DE INICIO DEL PRÉSTAMO (Posición 209-216) se consignará a ceros.</p>
+<p>FECHA DE VENCIMIENTO DEL PRÉSTAMO (Posición 217-224) se consignará a ceros.</p>
+<p>COMPENSACIONES (Posiciones 225-236) se consignará a ceros.</p>
+<p>GARANTÍAS (Posiciones 237-248) se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>209-216</td>
+<td>Numérico.</td>
+<td>
+<p><strong>Fecha de inicio del préstamo</strong>.</p>
+<p>Exclusivamente, en el supuesto de préstamo de valores, es decir, cuando en el campo «Tipo de código» (posición 96, del registro de tipo 2) se haya consignado «P» se hará constar en este campo la fecha de inicio del préstamo, indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31), con el formato AAAAMMDD.</p>
+<p>En el resto de los casos este campo no tendrá contenido.</p>
+</td>
+</tr>
+<tr>
+<td>217-224</td>
+<td>Numérico.</td>
+<td>
+<p><strong>Fecha de vencimiento del préstamo</strong>.</p>
+<p>Exclusivamente, en el supuesto de préstamo de valores, es decir, cuando en el campo «Tipo de código» (posición 96, del registro de tipo 2) se haya consignado «P» se hará constar en este campo la fecha de vencimiento del préstamo, indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31), con el formato AAAAMMDD.</p>
+<p>En el resto de los casos este campo no tendrá contenido.</p>
+</td>
+</tr>
+<tr>
+<td>225-236</td>
+<td>Numérico.</td>
+<td>
+<p><strong>Compensaciones</strong>.</p>
+<p>Campo numérico de 12 posiciones.</p>
+<p>Exclusivamente, en el supuesto de préstamo de valores, es decir, cuando en el campo «Tipo de código» (posición 96, del registro de tipo 2) se haya consignado «P» y la remuneración al prestamista no esté excluida de retención e ingreso a cuenta, se hará se hará constar en este campo el importe de las compensaciones que correspondan, independientemente de si existe o no obligación de retener e ingresar a cuenta.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>225-234 <strong>Parte entera del importe de las compensaciones.</strong></p>
+<p>235-236 <strong>Parte decimal del importe de las compensaciones.</strong></p>
+<p>En el resto de los casos este campo no tendrá contenido.</p>
+</td>
+</tr>
+<tr>
+<td>237-248</td>
+<td>Numérico.</td>
+<td>
+<p><strong>Garantías</strong>.</p>
+<p>Campo numérico de 12 posiciones.</p>
+<p>Exclusivamente, en el supuesto de préstamo de valores, es decir, cuando en el campo «TIPO DE CÓDIGO» (posición 96, del registro de tipo 2) se haya consignado «P» se hará constar en este campo el importe de las garantías que correspondan.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>237-246<strong> Parte entera del importe de las garantías.</strong></p>
+<p>247-248 <strong>Parte decimal del importe de las garantías.</strong></p>
+<p>En el resto de los casos este campo no tendrá contenido.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="24">249-313</td>
+<td rowspan="24">Numérico.</td>
+<td>
+<strong>Retenciones e ingresos a cuenta ingresados en el Estado, en las Diputaciones Forales del País Vasco y en la Comunidad Foral de Navarra.</strong>
+</td>
+</tr>
+<tr>
+<td>Este campo deberá cumplimentarse exclusivamente en el caso de que las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario o rentas sujetas a retención deban ser ingresados en proporción al volumen de operaciones según lo previsto en el artículo 12.1 segundo párrafo y en el artículo 10.1.f) segundo párrafo del Convenio Económico entre el Estado y la Comunidad Foral de Navarra y en el artículo 9.Uno.Primera. a) segundo párrafo y en el artículo 7.Uno.c) segundo párrafo del Concierto Económico con la Comunidad Autónoma del País Vasco. En estos supuestos, la entidad retenedora, además de consignar las cuantías de retenciones totales practicadas e ingresos totales a cuenta efectuados sobre los citados rendimientos o rentas en el campo “Retenciones e ingresos a cuenta” (posiciones 169-181 del registro de tipo 2), cumplimentará los siguientes subcampos, para identificar de forma diferenciada las retenciones e ingresos a cuenta ingresados a cada una de las Administraciones competentes:</td>
+</tr>
+<tr>
+<td>(249-261) HACIENDA ESTATAL. Campo numérico de 13 posiciones. Se consignará, sin signo y sin coma decimal, el importe de las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario o rentas sujetas a retención que deban ser ingresados en proporción al volumen de operaciones según lo previsto en el artículo 12.1 segundo párrafo y en el artículo 10.1.f) segundo párrafo del Convenio Económico entre el Estado y la Comunidad Foral de Navarra y en el artículo 9.Uno.Primera. a) segundo párrafo y en el artículo 7.Uno.c) segundo párrafo del Concierto Económico con la Comunidad Autónoma del País Vasco, efectivamente ingresados en la Hacienda Pública Estatal.</td>
+</tr>
+<tr>
+<td>Cuando las retenciones e ingresos a cuenta mencionados en el párrafo anterior se hayan ingresado exclusivamente a la Hacienda Estatal, únicamente se cumplimentará este subcampo, consignando aquí el importe del campo “Retenciones e ingresos a cuenta” (posiciones 169-181 del registro de tipo 2), correspondiente a los mismos.</td>
+</tr>
+<tr>
+<td>Los importes deben consignarse en euros. Este campo se subdivide en dos:</td>
+</tr>
+<tr>
+<td>249-259 Parte entera del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido, se consignará a ceros.</td>
+</tr>
+<tr>
+<td>260-261 Parte decimal del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido, se consignará a ceros.</td>
+</tr>
+<tr>
+<td>(262-274) COMUNIDAD FORAL DE NAVARRA. Campo numérico de 13 posiciones. Se consignará, sin signo y sin coma decimal, el importe de las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario o rentas sujetas a retención que deban ser ingresados en proporción al volumen de operaciones según lo previsto en el artículo 12.1 segundo párrafo y en el artículo 10.1.f) segundo párrafo del Convenio Económico entre el Estado y la Comunidad Foral de Navarra, efectivamente ingresados en la Comunidad Foral de Navarra. En otro caso, este campo se consignará relleno a ceros.</td>
+</tr>
+<tr>
+<td>Los importes deben consignarse en euros. Este campo se subdivide en dos:</td>
+</tr>
+<tr>
+<td>262-272 Parte entera del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>273-274 Parte decimal del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>(275-287) DIPUTACIÓN FORAL DE ARABA/ÁLAVA.</td>
+</tr>
+<tr>
+<td>Campo numérico de 13 posiciones. Se consignará, sin signo y sin coma decimal, el importe de las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario o rentas sujetas a retención que deban ser ingresados en proporción al volumen de operaciones según lo previsto en el artículo 9.Uno.Primera. a) segundo párrafo y en el artículo 7.Uno.c) segundo párrafo del Concierto Económico con la Comunidad Autónoma del País Vasco, efectivamente ingresados en la Diputación Foral de Araba/Álava. En otro caso, este campo se consignará relleno a ceros.</td>
+</tr>
+<tr>
+<td>Los importes deben consignarse en euros. Este campo se subdivide en dos:</td>
+</tr>
+<tr>
+<td>275-285 Parte entera del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>286-287 Parte decimal del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>(288-300) DIPUTACIÓN FORAL DE GIPUZKOA. Campo numérico de 13 posiciones. Se consignará, sin signo y sin coma decimal, el importe de las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario o rentas sujetas a retención que deban ser ingresados en proporción al volumen de operaciones según lo previsto en el artículo 9.Uno.Primera. a) segundo párrafo y en el artículo 7.Uno.c) segundo párrafo del Concierto Económico con la Comunidad Autónoma del País Vasco, efectivamente ingresados en la Diputación Foral de Gipuzkoa. En otro caso, este campo se consignará relleno a ceros.</td>
+</tr>
+<tr>
+<td>Los importes deben consignarse en euros. Este campo se subdivide en dos:</td>
+</tr>
+<tr>
+<td>288-298 Parte entera del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>299-300 Parte decimal del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>(301-313) DIPUTACIÓN FORAL DE BIZKAIA. Campo numérico de 13 posiciones. Se consignará, sin signo y sin coma decimal, el importe de las retenciones e ingresos a cuenta relativos a rendimientos del capital mobiliario o rentas sujetas a retención que deban ser ingresados en proporción al volumen de operaciones según lo previsto en el artículo 9.Uno.Primera. a) segundo párrafo y en el artículo 7.Uno.c) segundo párrafo del Concierto Económico con la Comunidad Autónoma del País Vasco, efectivamente ingresados en la Diputación Foral de Bizkaia. En otro caso, este campo se consignará relleno a ceros.</td>
+</tr>
+<tr>
+<td>Los importes deben consignarse en euros. Este campo se subdivide en dos:</td>
+</tr>
+<tr>
+<td>301-311 Parte entera del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td>312-313 Parte decimal del importe de las retenciones practicadas e ingresos a cuenta efectuados; si no tiene contenido se consignará a ceros.</td>
+</tr>
+<tr>
+<td rowspan="4">314</td>
+<td rowspan="4">Numérico</td>
+<td>
+<strong>Ceuta o Melilla/Isla de La Palma.</strong>
+</td>
+</tr>
+<tr>
+<td>Se consignará "1" en los supuestos en que, por tratarse de rendimientos de capital mobiliario obtenidos en Ceuta o Melilla con derecho a la deducción establecida en el artículo 68.4 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio (LIRPF), el pagador hubiera determinado el tipo de retención de acuerdo con lo previsto en el artículo 90.2 del Reglamento del Impuesto.</td>
+</tr>
+<tr>
+<td>Se consignará "2" en los supuestos en que, por tratarse de rendimientos de capital mobiliario obtenidos en la isla de La Palma, con derecho a la deducción del artículo 68.4 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio (LIRPF), prevista con carácter excepcional por la disposición adicional quincuagésima séptima de la misma Ley, el pagador hubiera determinado el tipo de retención de acuerdo con lo previsto en el artículo 90.2 del Reglamento del Impuesto.</td>
+</tr>
+<tr>
+<td>Se consignará "0" en cualquier otro supuesto.</td>
+</tr>
+<tr>
+<td>315-321</td>
+<td>Alfanumérico</td>
+<td>
+<p>
+<strong>Número de orden.</strong>
+</p>
+<p>Identifica cada registro de perceptor.</p>
+<p>A cada registro de perceptor se le asignará de forma secuencial un número de orden.</p>
+</td>
+</tr>
+<tr>
+<td>322-330</td>
+<td>Alfanumérico</td>
+<td>
+<p>
+<strong>NIF del pagador anterior.</strong>
+</p>
+<p>Sólo para claves de percepción "A", "B" o "D".</p>
+<p>Será obligatorio indicar el NIF del pagador inmediatamente anterior en la cadena de pagos si el campo "PAGO", posición 95, tiene valor 2 "como mediador de valor nacional", valor 3 "como mediador de valor extranjero" o valor 4 "como mediador de valor extranjero no retenedor", o valor 5 "como mediador de otro tipo de rendimientos o rentas obtenida por la cesión a terceros de capitales propios consignados con clave de percepción ‘B’ y naturaleza ‘06’", excepto en aquellos casos en los que el pagador inmediatamente anterior sea una entidad situada en el extranjero que no disponga de NIF español.</p>
+</td>
+</tr>
+<tr>
+<td>331-338</td>
+<td>Numérico</td>
+<td>
+<p>
+<strong>Fecha de devengo.</strong>
+</p>
+<p>Se consignará la fecha en que se ha devengado la renta.</p>
+<p>Se subdivide en:</p>
+<p>331-332 DIA. Numérico. Dos posiciones.</p>
+<p>333-334 MES. Numérico. Dos posiciones.</p>
+<p>335-338 AÑO. Numérico. Cuatro posiciones.</p>
+</td>
+</tr>
+<tr>
+<td>339</td>
+<td>Alfabético</td>
+<td>
+<p>
+<strong>Clave de mercado.</strong>
+</p>
+<p>Sólo para claves de percepción "A", "B" o "D".</p>
+<p>Se consignará la clave alfabética que corresponda en función del mercado en el que se negocien las acciones o valores de las que proceden los rendimientos de capital mobiliario o las rentas sujetos a retención e ingreso a cuenta, según la relación de claves siguiente:</p>
+<p>A. Mercado secundario oficial de valores español.</p>
+<p>B. Mercado secundario oficial de valores extranjeros de la UE.</p>
+<p>C. Otros mercados oficiales extranjeros.</p>
+<p>D. Otros.</p>
+</td>
+</tr>
+<tr>
+<td>340-500</td>
+<td>–</td>
+<td>
+<strong>Blancos.</strong>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Todos los importes serán positivos.</p>
+<p>* Los campos numéricos que no tengan contenido se rellenarán a ceros.</p>
+<p>* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.</p>
+<p>* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.</p>
+<p>* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/303/19652_14177218_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/303/19652_14177218_image6.png)
+
+**Modelo 193**
+
+C. Tipo de registro 2: Registro de gastos
+
+Diseño anexo de relación de gastos art. 26.1.a) de la Ley 35/2006
+
+(Posiciones, naturaleza y descripción de los campos)
+
+<table>
+<thead>
+<tr>
+<th>Posiciones</th>
+<th>Naturaleza</th>
+<th>Descripción de los campos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Tipo de registro.</strong>
+</p>
+<p>Constante «2»</p>
+</td>
+</tr>
+<tr>
+<td>2-4</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Modelo declaración.</strong>
+</p>
+<p>Constante «193».</p>
+</td>
+</tr>
+<tr>
+<td>5-8</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Ejercicio.</strong>
+</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>9-17</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>NIF del declarante.</strong>
+</p>
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>18-26</td>
+<td>Alfanumérico.</td>
+<td>
+<p><strong>NIF del contribuyente</strong>.</p>
+<p>Si es una persona física se consignará el NIF del perceptor de acuerdo con las reglas previstas en el Reglamento General de las Actuaciones y los Procedimientos de Gestión e Inspección Tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio (BOE de 5 de septiembre).</p>
+<p>Si el perceptor es una persona jurídica o una entidad en régimen de atribución de rentas (Comunidad de bienes, Sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
+<p>Para la identificación de los menores de edad o incapacitados habrán de figurar tanto los datos de la persona menor de edad o incapacitada, incluyéndose su número de identificación fiscal, así como el de su representante legal.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>27-35</td>
+<td>Alfanumérico.</td>
+<td>
+<p>
+<strong>NIF del representante legal.</strong>
+</p>
+<p>Si el perceptor es menor de edad se consignará en este campo el número de identificación fiscal de su representante legal (padre, madre o tutor).</p>
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>36-75</td>
+<td>Alfanumérico.</td>
+<td>
+<p><strong>Apellidos y nombre del contribuyente o denominación</strong>.</p>
+<p>a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo, necesariamente en este mismo orden. Si el perceptor es menor de edad, se consignarán en este campo los apellidos y nombre del menor de edad.</p>
+<p>b) Si el dato se refiere a una entidad en régimen de atribución de rentas, se consignará la denominación completa de la entidad, sin anagramas.</p>
+</td>
+</tr>
+<tr>
+<td>76-194</td>
+<td>
+<p>‒</p>
+</td>
+<td>
+<strong>Blancos.</strong>
+</td>
+</tr>
+<tr>
+<td>195-207</td>
+<td>Numérico.</td>
+<td>
+<p>
+<strong>Importe de gastos.</strong>
+</p>
+<p>Campo numérico de 13 posiciones.</p>
+<p>Se consignará sin signo y sin coma decimal el importe de los gastos aplicables en relación con el artículo 26.1.a) de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>195-205 <strong>Parte entera: del importe de gastos.</strong></p>
+<p>206-207 <strong>Parte decimal del importe de gastos.</strong></p>
+</td>
+</tr>
+<tr>
+<td>208-500</td>
+<td>
+<p>‒</p>
+</td>
+<td>
+<strong>Blancos.</strong>
+</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="3">
+<p>* Todos los importes serán positivos.</p>
+<p>* Los campos numéricos que no tengan contenido se rellenarán a ceros.</p>
+<p>* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.</p>
+<p>* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.</p>
+<p>* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.</p>
+</td>
+</tr>
+</tfoot>
+</table>
+
+> Se modifica por el art. 3 de la Orden HAC/1430/2025, de 3 de diciembre. [Ref. BOE-A-2025-25389](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25389)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones informativas correspondientes al ejercicio 2025, que se deban presentar a partir del 1 de enero de 2026, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. 6 de la Orden HAC/1504/2024, de 26 de diciembre. [Ref. BOE-A-2024-27528](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27528)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones informativas correspondientes al ejercicio 2024, que se presentarán en el ejercicio 2025, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. 3 de la Orden HAC/56/2024, de 25 de enero. [Ref. BOE-A-2024-1772](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1772)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones informativas correspondientes al ejercicio 2024, que se presentarán en el ejercicio 2025, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. 12 de la Orden HFP/1284/2023, de 28 de noviembre. [Ref. BOE-A-2023-24412](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24412)
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones informativas correspondientes al ejercicio 2023, que se presentarán en el ejercicio 2024, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. 4 de la Orden HAC/1276/2019, de 19 de diciembre. [Ref. BOE-A-2019-18752](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18752)
+
+> Esta modificación será aplicable, por primera vez, para las declaraciones correspondientes a 2019 que se presenten en 2020, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. 4 de la Orden HFP/1308/2017, de 29 de diciembre. [Ref. BOE-A-2017-15845](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15845)
+
+> Esta modificación será aplicable, por primera vez, para las declaraciones correspondientes a 2017 que se presentarán en 2018, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. 3 de la Orden HFP/1822/2016, de 24 de noviembre. [Ref. BOE-A-2016-11251](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11251)
+
+> Esta modificación será de aplicación, por primera vez, a las declaraciones informativas correspondientes a 2016 que se presentarán en 2017, según establece la disposición final única de la citada Orden.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 303, de 17 de diciembre de 2011.[Ref. BOE-A-2011-19652](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19652)
+
+## ANEXO III — Modelo 291 Registro de tipo 2. Registro del declarado
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183848_image1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183848_image2.png)
+
+## ANEXO IV
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183848_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183848_image4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183848_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/298/19396_14183848_image6.png)

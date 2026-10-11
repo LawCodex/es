@@ -1,0 +1,1535 @@
+---
+title: "Orden FOM/1194/2011, de 29 de abril, por la que se regula el procedimiento integrado de escala de buques en los puertos de interés general"
+identifier: "BOE-A-2011-8339"
+eli: "https://www.boe.es/eli/es/o/2011/04/29/fom1194"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2011-04-29
+published: 2011-05-13
+in_force_from: 2011-05-14
+last_amended: 2020-06-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 114"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-8339"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/1194/2011, de 29 de abril, por la que se regula el procedimiento integrado de escala de buques en los puertos de interés general
+
+La Orden FOM/3056/2002, de 29 de noviembre, por la que se establece el procedimiento integrado de escala de buques en los puertos de interés general (PIDE) permitió integrar los procedimientos de solicitud de escalas y tramitación del despacho de buques en los puertos españoles de titularidad estatal. Para ello, reguló un documento único de escala (DUE) con el objeto de facilitar la gestión de escalas de los buques por las autoridades portuarias y el despacho de los mismos por las capitanías marítimas. Asimismo, se fijaron los cauces de colaboración entre las Administraciones portuaria y marítima, previéndose la apertura de ventanillas únicas en las autoridades portuarias para la recepción de la documentación correspondiente al DUE, con efecto para ambas administraciones.
+
+La Orden FOM/3056/2002, de 29 de noviembre, fue objeto de modificación mediante la Orden FOM/3769/2007, de 14 de noviembre, para incorporar al contenido del documento único de escala las nuevas exigencias de información impuestas por normas aprobadas con posterioridad a la entrada en vigor de la Orden FOM/3056/2002, así como para facilitar la información exigida de acuerdo con los formularios vigentes.
+
+El Real Decreto 1617/2007, de 7 de diciembre, que establece medidas para la mejora de la protección de los puertos y del transporte marítimo, verifica la transposición de la Directiva 2005/65/CE, del Parlamento y el Consejo, de 26 de octubre de 2005, sobre la mejora de la protección portuaria, con lo que se asegura que las medidas de protección establecidas por el Reglamento (CE) 725/2004, de 31 de marzo de 2004, del Parlamento Europeo y del Consejo, relativo a la mejora de la protección de los buques e instalaciones portuarias, se beneficien adicionalmente de la implantación de una mejora de la protección aplicada a las zonas portuarias. El artículo 19 del Real Decreto 1617/2007, de 7 de diciembre, establece que cuando un buque de los definidos en su artículo 3.1 solicite escala en un puerto deberá remitir, con la debida antelación, a la autoridad de protección portuaria y a la correspondiente capitanía marítima cierta información relacionada con la protección del buque. Su disposición adicional segunda faculta para integrar la información sobre protección que ha de suministrar el buque en el documento único de escala.
+
+La reciente modificación de la Ley 48/2003, de 26 de noviembre, de régimen económico y de prestación de servicios de los puertos de interés general, mediante la Ley 33/2010, de 5 de agosto, exige revisar la información que ha de contener el documento único de escala al objeto de liquidar las tasas portuarias, de conformidad con la nueva regulación del régimen económico del sistema portuario de titularidad estatal.
+
+Por otra parte, la experiencia acumulada durante el periodo de vigencia de la Orden FOM/3056/2002, de 29 de noviembre, ha aconsejado introducir modificaciones en su contenido al objeto de regular más detalladamente la gestión del documento único de escala, para facilitar a los declarantes un conocimiento exacto de los trámites que constituyen el procedimiento integrado de escala de buques en los puertos de interés general.
+
+Asimismo, aprovechando la ventaja que supone la informatización de la gestión del documento único de escala, se ha regulado el procedimiento de presentación, modificación o cancelación de dicho documento por medios electrónicos, por cuanto la Administración portuaria y la marítima desean contribuir de manera efectiva al movimiento de extensión de la administración electrónica a todos los ámbitos de la actividad administrativa con el fin de contribuir a la creación de un sistema más eficaz, eficiente y transparente de relaciones con los ciudadanos. En este sentido, señalar que la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, consagra el derecho de éstos a relacionarse con las Administraciones públicas por medios electrónicos y la obligación correlativa de éstas de dotarse de los medios necesarios para que tal derecho pueda ejercitarse.
+
+En síntesis, se trata de integrar en un solo procedimiento la tramitación de los documentos que han de presentar los agentes consignatarios de los buques civiles ante las autoridades portuarias y las capitanías marítimas.
+
+Esta norma se dicta en virtud de la habilitación normativa otorgada al Ministerio de Fomento en la disposición final segunda del Real Decreto 1249/2003, de 3 de octubre, sobre formalidades de información exigibles a los buques mercantes que lleguen a puertos españoles y salgan de estos.
+
+En su virtud, con la aprobación previa del Vicepresidente Tercero del Gobierno y Ministro de Política Territorial y Administración Pública, dispongo:
+
+## Artículo 1. Objeto.
+
+Esta orden tiene por objeto integrar los procedimientos de solicitud de escala, asignación de atraque, y de despacho de buques en los puertos españoles de interés general, así como regular la gestión del documento único de escala (DUE) y la información en él contenida.
+
+## Artículo 2. Ámbito de aplicación.
+
+1\. Esta orden es de aplicación a las escalas de buques civiles en los puertos españoles de interés general.
+
+2\. Quedan fuera del ámbito de su aplicación los buques de tráfico interior, los buques de la Guardia Civil, y aquéllos que por su especialidad estén exentos de despacho. Asimismo, no se aplicará a los buques de recreo, los afectos a la Sociedad de Salvamento y Seguridad Marítima, los pertenecientes a la Administración General del Estado o a sus organismos públicos debidamente inscritos en la lista 8ª, los pertenecientes a las comunidades autónomas o a sus organismos públicos debidamente inscritos en la lista 8ª, y los pesqueros nacionales y sus auxiliares, excepto los que faenan en caladeros lejanos, es decir, los buques pesqueros de despacho ordinario de acuerdo con lo establecido en los artículos 3 y 21 de la Orden de 18 de enero de 2000 por la que se aprueba el Reglamento de despacho de buques.
+
+Las autoridades portuarias podrán, mediante acuerdo de su consejo de administración, establecer la obligatoriedad de que los buques que quedan fuera del ámbito de aplicación conforme al párrafo anterior utilicen este procedimiento, u otro abreviado, exclusivamente a efectos de la solicitud de escala y asignación de atraque. La autoridad marítima podrá, en estos casos, solicitar la información relativa a estos buques cuando desee gestionar a través de la ventanilla única el despacho de estos buques exentos.
+
+## Artículo 3. Definiciones.
+
+A los efectos de esta orden se entenderá por:
+
+a) Administración portuaria: El organismo público Puertos del Estado y las Autoridades portuarias.
+
+b) Administración marítima: La Dirección General de la Marina Mercante, las capitanías marítimas, y la Sociedad de Salvamento y Seguridad Marítima.
+
+c) Declaración única de escala (DUE): declaración, formalizada mediante transmisión electrónica de datos, que, presentada ante la ventanilla única prevista en el artículo 4 de esta orden, contiene los datos necesarios para permitir a las administraciones marítima y portuaria gestionar la entrada, estancia y salida del buque de un puerto de interés general y facilitar al resto de administraciones y autoridades competentes la información que corresponda.
+
+d) EMSA: Agencia Europea de Seguridad Marítima creada por el Reglamento (EC) 1406/2002, de 27 de junio.
+
+e) Sistema SafeSeaNet: Sistema comunitario de intercambio de información marítima administrado por EMSA.
+
+f) Transmisión electrónica de datos: El proceso de transmisión de información codificada digitalmente con un formato estructurado revisable que puede usarse directamente para su almacenamiento y tratamiento mediante ordenadores.
+
+> Se modifica el apartado c) y se añade el f) por el art. único.1 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 4. Ventanilla única.
+
+1\. La autoridad portuaria queda constituida como ventanilla única, ante la cual el declarante deberá presentar, por procedimientos de transmisión electrónica de datos, la declaración única de escala (DUE), y los demás datos relativos a la información en ella requerida.
+
+La autoridad portuaria, al constituirse como ventanilla única ante el declarante, facilitará la recepción y distribución de los datos que se declaren. La veracidad y exactitud de la información será responsabilidad del declarante.
+
+La autoridad portuaria será la responsable de registrar, capturar y transmitir por medios electrónicos la información de la DUE al organismo público Puertos del Estado.
+
+2\. El enlace de comunicación e intercambio de información entre la Administración marítima, las autoridades portuarias y otros organismos competentes para recibir información contenida en la DUE será el organismo público Puertos del Estado, sin perjuicio de que cada entidad sea responsable de sus propias bases de datos y de la confidencialidad de la información. A tal efecto, el organismo público Puertos del Estado habilitará los medios necesarios.
+
+El organismo público Puertos del Estado enviará, a través de medios electrónicos, la información correspondiente a los organismos competentes cuando éstos así se lo soliciten.
+
+> Se modifica por el art. único.2 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 5. Datos de la declaración única de escala.
+
+Se aprueban los datos de la declaración única de escala que se recogen en el anexo I de esta orden junto con las indicaciones y notas explicativas para la declaración de los mismos.
+
+> Se modifica por el art. único.3 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 6. Declarante.
+
+1\. El agente consignatario del buque o, en su defecto, la compañía naviera, o el capitán del buque, son los obligados a presentar el DUE y tienen la condición de declarante.
+
+2\. El declarante, al presentar la DUE, es responsable de que la información presentada esté actualizada, así como de que obre en su poder la documentación requerida por las autoridades marítimas, por las autoridades portuarias, por los organismos con competencia en materia policial y de protección, y por cualquier otra administración que, de acuerdo con sus competencias, sea destinataria de la información contenida en la DUE. El declarante deberá actuar con la diligencia necesaria para recabar y transmitir, en tiempo y forma, la información requerida en esta orden, tanto en el momento inicial de la presentación como en las modificaciones que puedan producirse posteriormente.
+
+3\. En los casos de falta de suministro de la información requerida o cuando ésta sea aportada de forma incompleta, incorrecta o falsa, será de aplicación el régimen sancionador establecido en el texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre o en la normativa correspondiente. Asimismo, se podrá ordenar la denegación de la solicitud de escala, la denegación de entrada, la denegación de atraque, o la denegación de salida del buque, según se prevea en la legislación aplicable, de acuerdo con la naturaleza de la información afectada así como de conformidad con lo estipulado en esta orden.
+
+> Se modifican los apartados 2 y 3 por el art. único.4 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 7. Presentación mediante transmisión electrónica de datos.
+
+1\. La DUE se presentará mediante transmisión electrónica de datos utilizando diversos mensajes estructurados, relacionados todos ellos mediante el número de escala y la identificación del buque, pudiendo emplearse el sistema implantado en cada comunidad portuaria. Todos los mensajes serán definidos por Puertos del Estado que publicará las correspondientes guías de usuarios.
+
+Este procedimiento estará disponible en cada una de las sedes electrónicas de las correspondientes autoridades portuarias en la medida que dichas sedes sean creadas y esté disponible la aplicación informática que se habilite al efecto.
+
+2\. El declarante dispondrá de un código de identificación asignado por la autoridad portuaria correspondiente, de acuerdo con lo previsto en el artículo 13.2.c) de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. La utilización de este código en la transmisión vía electrónica del DUE producirá los mismos efectos jurídicos que la firma manuscrita del declarante.
+
+3\. El declarante responderá, en lo que le sea imputable, del uso o abuso que pueda hacerse del código de identificación, así como de la exactitud de todos los datos transmitidos con el mismo. En el caso de que se acreditase que el que ha presentado el DUE no estaba debidamente autorizado por el declarante, la Administración portuaria considerará a la persona que ha presentado el documento como declarante a todos los efectos.
+
+4\. Cuando se detecten anomalías de tipo formal en la transmisión del DUE dicha circunstancia se pondrá en conocimiento del declarante por el propio sistema mediante mensajes de error para que proceda a su subsanación.
+
+5\. En aquellos supuestos en que, por razones excepcionales debidamente acreditadas, no fuera posible efectuar la presentación electrónica se seguirán las instrucciones que dicte la autoridad portuaria correspondiente al puerto de escala.
+
+6\. Se autoriza al organismo público Puertos del Estado a actualizar el modo de transmisión electrónica en función de los avances tecnológicos y las modificaciones de sintaxis. A estos efectos, el organismo público Puertos del Estado elaborará la correspondiente guía de usuario.
+
+> Se modifica el párrafo primero del apartado 1 por el art. único.5 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 8. Contenido del DUE.
+
+1\. La DUE contiene toda la información necesaria para la gestión de la escala por parte de la autoridad portuaria, para el despacho del buque por la capitanía marítima y para cumplir con las formalidades de información establecidas en el Real Decreto 1334/2012, de 21 de septiembre, sobre las formalidades informativas exigibles a los buques mercantes que lleguen a los puertos españoles o que salgan de éstos. Consta de la información sobre el buque y su agente consignatario, la declaración general de su capitán, la escala, la estancia del buque en puerto, la tripulación, los pasajeros, los residuos a bordo, las mercancías peligrosas y la protección del buque. La DUE se estructura en una serie de datos básicos y otros datos complementarios y en un tercer conjunto de datos personalizable por las autoridades portuarias.
+
+Las Administraciones portuaria y marítima y los demás órganos o entidades de la Administración pública competentes, cada uno de acuerdo a su ámbito de competencias, pueden reclamar antes, durante o después de la escala, la entrega o exhibición de los documentos que prueben la información aportada en la DUE.
+
+2\. Los buques acogidos al despacho por tiempo no tendrán que cumplimentar los datos relativos a la declaración del capitán y la lista de tripulantes, siempre y cuando su presentación no sea requerida por otras autoridades competentes, y ello sin perjuicio de la obligación de la autoridad portuaria de informar de la solicitud de la escala a Puertos del Estado y éste a la Dirección General de la Marina Mercante.
+
+3\. Los datos básicos del DUE incluyen:
+
+a) Los datos identificativos básicos del buque y del declarante, la referencia, en su caso, al despacho por tiempo, las fechas y datos relativos a la escala solicitada y, en su caso, los atraques, fondeos y operaciones a realizar en la escala.
+
+b) La información relativa a si el buque lleva mercancías peligrosas en tránsito, para descargar o para cargar. En caso afirmativo para el tránsito y la descarga la autorización de atraque quedará supeditada a la recepción de la documentación específica sobre dichas mercancías peligrosas establecida en el Reglamento de admisión, manipulación y almacenamiento de mercancías peligrosas en los puertos, aprobado por Real Decreto 145/1989, de 20 de enero. La declaración de escala equivale a dar cumplimiento a la notificación establecida en el Real Decreto 210/2004, de 6 de febrero, por el que se establece un sistema de seguimiento y de información sobre el tráfico marítimo.
+
+c) La información sobre si el buque transporta mercancías reguladas por el Real Decreto Ley 9/2002, de 13 de diciembre, por el que se adoptan medidas para buques tanque que transporten mercancía peligrosas o contaminantes.
+
+d) La información sobre el tránsito de materias reglamentadas a que se refiere el Reglamento de explosivos, aprobado por el Real Decreto 230/1998, de 16 de febrero, y el Reglamento de artículos pirotécnicos y cartuchería, aprobado por el Real Decreto 563/2010, de 7 de mayo, procedentes de países no integrantes de la Unión Europea.
+
+4\. Los datos complementarios, cuya declaración deberá indicar el número de escala y la identificación del buque al que se refieren, son los siguientes:
+
+a) La ficha técnica del buque, con los datos de identificación y técnicos del mismo, de su capacidad de almacenamiento de residuos, y sobre la existencia y validez de los certificados exigibles. A esta ficha técnica se asociará una fecha de presentación o modificación que servirá de referencia para su asociación con las solicitudes de escala que correspondan.
+
+Con estos datos se da cumplimiento a lo previsto en el artículo 4.1 del Real Decreto 210/2004, de 6 de febrero, por el que se establece un sistema de seguimiento y de información sobre el tráfico marítimo y en el artículo 9.1 y 2 del Reglamento por el que se regulan las inspecciones de buques extranjeros en puertos españoles, aprobado por el Real Decreto 1737/2010, de 23 de diciembre.
+
+Con la presentación de estos datos el declarante asegura que esta información está actualizada y a disposición de la autoridad marítima y de la autoridad portuaria para el ejercicio de sus competencias respectivas.
+
+b) Los datos correspondientes a la lista de tripulantes previstos en la letra B del anexo del Real Decreto 1334/2012, de 21 de septiembre.
+
+c) Los datos correspondientes a la lista de pasajeros previstos en la letra B del anexo del Real Decreto 1334/2012, de 21 de septiembre.
+
+d) Los datos correspondientes a la notificación de desechos y residuos prevista en la letra A del anexo del Real Decreto 1334/2012, de 21 de septiembre. Con la presentación de estos datos el declarante confirma que son correctos y exactos y que el buque tiene capacidad específica a bordo para almacenar todos los desechos generados entre esta notificación y el siguiente puerto en el que realizará una entrega de los mismos.
+
+e) Los datos relativos a la protección del buque que corresponden a la notificación de información sobre seguridad prevista en la letra A del anexo del Real Decreto 1334/2012, de 21 de septiembre, y a lo exigido por el Real Decreto 1617/2007, de 7 de diciembre, por el que se establecen medidas para la mejora de la protección de puertos y del transporte marítimo.
+
+f) Los datos correspondientes a la notificación de productos peligrosos o contaminantes a bordo y al «Manifiesto de Mercancías Peligrosas», previstos en las letras A y B, respectivamente, del anexo del Real Decreto 1334/2012, de 21 de septiembre.
+
+Con la presentación de estos datos el declarante confirma que están disponibles a bordo, y alejados de las mercancías peligrosas, la ficha de datos de seguridad y los procedimientos de intervención en emergencia previstos en la hoja de seguridad de la mercancía, de acuerdo con lo establecido en la letra B. a) del apartado 3 del anexo I del Real Decreto 210/2004, de 6 de febrero.
+
+g) Los datos correspondientes a la declaración marítima de sanidad prevista en el artículo 37 del Reglamento Sanitario Internacional-2005 (RSI-2005) y en el artículo 6 de la Orden SSI/200/2013, de 7 de febrero, por la que se aprueban los modelos de impresos de documentos a utilizar en el ámbito médico de la sanidad exterior.
+
+Con la presentación de estos datos el declarante confirma que la información declarada es exacta y conforme a la verdad según su leal saber y entender.
+
+El buque deberá presentar la declaración marítima de sanidad ante la autoridad portuaria, de acuerdo con lo establecido en esta orden, quien la enviará al organismo público Puertos del Estado. A su vez Puertos del Estado la hará llegar al Sistema de sanidad exterior (SISAEX) del Ministerio de Sanidad, Servicios Sociales e Igualdad y, en caso necesario, a la Agencia Europea de Seguridad Marítima (EMSA) o a otros Estados Miembros.
+
+5\. Las autoridades portuarias podrán personalizar un tercer conjunto de datos para la solicitud de los servicios portuarios y actividades ofertados, ya sean prestados directamente por ellas o por otros prestadores de servicios, que aquellas deseen que se soliciten por medios electrónicos junto con el resto de formalidades de información ligadas a la escala del buque.
+
+> Se modifica por el art. único.6 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 9. Presentación del DUE.
+
+1\. El DUE deberá presentarse en la autoridad portuaria del puerto de escala en la forma prevista en el artículo 7 y con la siguiente antelación:
+
+a) Si el buque enarbola pabellón extranjero y puede ser objeto de una inspección ampliada del MOU, de acuerdo con lo establecido en el artículo 9 del Real Decreto 1737/2010, de 23 de diciembre, al menos con setenta y dos horas de antelación a la hora de llegada prevista del buque a aguas portuarias, o antes de abandonar el puerto de origen si se prevé que el viaje durará menos de setenta y dos horas.
+
+b) En el resto de casos, al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en caso de emergencia u otras circunstancias excepcionales debidamente motivadas, que se comunicarán a la mayor brevedad posible.
+
+2\. Los buques en despacho por tiempo por la capitanía marítima deberán presentar la DUE a los solos efectos de solicitud de escala y asignación de atraque o fondeo, y para comunicar las formalidades de información establecidas en el Real Decreto 1334/2012, de 21 de septiembre, a las autoridades competentes correspondientes.
+
+3\. El supuesto de renuncia de consignación se tramitará de acuerdo con los procedimientos establecidos por cada autoridad portuaria y atendiendo a lo establecido en la legislación vigente.
+
+4\. Los supuestos de cesión de consignación podrán tramitarse por medio del DUE dejando constancia, tanto de la aceptación del cesionario como de la previa notificación del cedente, y señalando la fecha y la hora en las que se produce la cesión, que deberá ser coincidente para ambos.
+
+5\. El DUE será enviado por medios electrónicos a la autoridad portuaria correspondiente cumplimentado, al menos, con la información mínima señalada en el apartado 1 del anexo IV de esta orden. La autoridad portuaria efectuará un primer control, devolviendo un mensaje de rechazo al declarante cuando no haya superado la validación indicando los defectos del DUE para su subsanación.
+
+Las autoridades portuarias arbitrarán los medios para que el DUE se envíe, electrónicamente y con carácter inmediato, al organismo público Puertos del Estado.
+
+El organismo público Puertos del Estado remitirá a cada autoridad competente, con carácter inmediato y también por medios electrónicos, la información recibida correspondiente y a EMSA la información correspondiente a los buques del apartado 1 letra a) de este artículo a través del sistema SafeSeaNet.
+
+Cada entidad es responsable de sus propias bases de datos y de la confidencialidad de la información.
+
+6\. La tramitación del DUE ante la autoridad portuaria permitirá obtener los servicios de la autoridad portuaria y la autorización de salida de los buques, con la reproducción del sello y firma de la capitanía marítima, siempre y cuando dichas administraciones dispongan de la información requerida, y de cualquier modificación a la misma, en el plazo y forma establecidos. La gestión del DUE por las Administraciones marítima y portuaria quedará, en cualquier caso, sujeta a los horarios establecidos para ello.
+
+Las decisiones que la autoridad portuaria adopte en relación con las solicitudes contenidas en los artículos 10, 12, 14 y 15 agotarán la vía administrativa con arreglo a lo dispuesto en el artículo 35.8 de la Ley 27/1992, de 24 de noviembre, modificado por la Ley 48/2003, de 26 de noviembre, de régimen económico y de prestación de servicios de los puertos de interés general, y se someten al régimen de recursos administrativos previsto en el título VII de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+7\. La presentación del DUE implica que el declarante manifiesta que obra en su poder copia, o que se compromete a recabar la documentación necesaria durante la escala en puerto, en la que el capitán ha declarado que es cierta la lista de tripulantes, que todos los certificados y documentos que deben existir a bordo, en cumplimiento de los Convenios SOLAS 74/78, MARPOL 73/78, Memorándum de entendimiento para el control del buque por el Estado del puerto (MOU-PSC), y los demás certificados y documentos que puedan ser exigidos legalmente en función del tipo o clase de buque, se encuentran a bordo y en vigor, y que su validez se extiende, como mínimo, hasta la fecha de llegada al próximo puerto de destino. Además, en esta declaración, el capitán se compromete a no efectuar tráfico no autorizado por la Administración marítima española de acuerdo con la legislación vigente.
+
+Por ello, se exime de la presentación de una declaración en este sentido firmada por el capitán aunque esto no impide que dichos documentos y certificados, al igual que la declaración del capitán, puedan ser requeridos, en cualquier momento, para su presentación ante la capitanía marítima u otra autoridad competente, en caso necesario.
+
+> Se modifican el apartado 2, el párrafo 3 del apartado 5 y el párrafo 2 del apartado 7, por el art. único.7 a 9 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 10. Asignación del número de escala.
+
+1\. Una vez validada y admitida la solicitud, de acuerdo a los criterios señalados en el apartado 1 del anexo IV de esta orden, la autoridad portuaria, con carácter inmediato, acusará recibo de la misma, mediante un mensaje electrónico estructurado, con los datos señalados en el anexo II de esta orden, asignando número de escala. El número de escala será secuencial por puerto y para cada periodo anual.
+
+Las autoridades portuarias arbitrarán los medios necesarios para que la información prevista en el párrafo anterior llegue, electrónicamente y con carácter inmediato, al organismo público Puertos del Estado quien remitirá a cada autoridad competente, con carácter inmediato y por medios electrónicos, la información recibida correspondiente a cada una de ellas. Cada entidad será responsable de sus propias bases de datos y de la confidencialidad de la información.
+
+2\. Las autoridades portuarias, en el caso de buques con escalas frecuentes y periódicas, podrán acordar el otorgamiento de números de escala por periodos temporales.
+
+3\. La asignación de número de escala no supone la autorización de atraque, ni la autorización de entrada en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, ni autorización alguna por parte de la Administración española competente. Todo ello puede quedar condicionado al cumplimiento de determinadas exigencias legales o reglamentarias.
+
+4\. A partir de la asignación del número de escala, ésta será identificada por su número y todas las modificaciones o cancelaciones de la escala habrán de referirse a él.
+
+> Se modifica el párrafo 2 del apartado 1 por el art. único.10 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 11. Actuación de la Administración marítima.
+
+1\. Entre la asignación de número de escala y la asignación o denegación de atraque o fondeo por la autoridad portuaria, el capitán marítimo autorizará o denegará la entrada en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, dentro del ámbito de sus competencias. En el caso de denegación de la autorización de entrada en aguas españolas, ésta habrá de ser expresa y motivada.
+
+2\. La autoridad portuaria y la capitanía marítima de cada puerto, en función de las necesidades de la operativa portuaria, acordarán el plazo de tiempo que debe transcurrir para considerar autorizada por la capitanía marítima la entrada en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, por silencio administrativo. Finalizado este plazo sin que exista denegación expresa por parte del capitán marítimo, se entenderá otorgada la correspondiente autorización.
+
+3\. En caso de denegación de autorización de entrada en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, la capitanía marítima informará, mediante un mensaje electrónico de «denegación de autorización de entrada en aguas españolas», y con indicación de los motivos de la misma, al organismo público Puertos del Estado y éste, a su vez, a la autoridad portuaria correspondiente. La autoridad portuaria deberá registrar la denegación y notificarla al declarante.
+
+> Se modifica el apartado 3 por el art. único.11 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 12. Asignación de atraque o fondeo.
+
+1\. La autoridad portuaria asignará atraque o fondeo, si procede, en cualquier momento posterior a la solicitud de escala hecha por el declarante, pero no antes del otorgamiento del número de escala, salvo circunstancias excepcionales.
+
+La autoridad portuaria transmitirá al declarante la asignación de atraque o fondeo de acuerdo a los datos señalados en el anexo III de esta orden, y siempre que la capitanía marítima no haya denegado expresamente, en los términos establecidos en el artículo anterior, la entrada en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción.
+
+2\. La asignación de atraque o fondeo supone que se han otorgado las autorizaciones de entrada en puerto, y en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, otorgadas por las autoridades portuaria y marítima respectivamente.
+
+3\. No se asignará atraque o fondeo, lo que equivale a no autorizar la entrada en zona de servicio del puerto, en caso de no disponer de la información mínima establecida en el apartado 2 del anexo IV de esta orden y salvo las excepciones contempladas en dicho apartado, con al menos veinticuatro horas de antelación sobre la hora estimada de llegada a puerto (ETA) indicada en la solicitud de escala.
+
+Este plazo podrá ser menor en el supuesto de que la información a aportar no puede estar disponible hasta que el buque abandone el puerto anterior, o si la duración de la travesía es inferior a veinticuatro horas. La autoridad portuaria podrá establecer un plazo superior cuando las necesidades derivadas de la programación de las operaciones portuarias lo exijan.
+
+Las autoridades portuarias arbitrarán los medios para que esta información llegue, electrónicamente y con carácter inmediato, al organismo público Puertos del Estado. El organismo público Puertos del Estado remitirá a cada autoridad competente, con carácter inmediato y también por medios electrónicos, la información recibida correspondiente. También se la remitirá a EMSA a través del sistema SafeSeaNet. Cada entidad es responsable de sus propias bases de datos y de la confidencialidad de la información.
+
+4\. En el caso de que un buque pida su entrada a puerto sin haber solicitado la escala con un mínimo de veinticuatro horas de antelación, la autoridad portuaria recabará la justificación pertinente, antes de designar atraque o fondeo, y los asignará si la estima suficiente, o motivará la denegación en caso contrario. En ambos casos, informará a la capitanía marítima.
+
+La autoridad portuaria podrá solicitar la cumplimentación previa de los datos mínimos relativos al DUE que se consideren necesarios, y transmitirá la información correspondiente a la escala cuando el consignatario o capitán del buque la faciliten.
+
+En este caso, si la capitanía marítima requiere información del buque, previamente a que se facilite por el consignatario o capitán, podrá recabarla de acuerdo con la normativa relativa al despacho de buques, informando de ello a la autoridad portuaria para evitar duplicidad de actuaciones.
+
+> Se modifica el párrafo 3 del apartado 3 por el art. único.12 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 13. Información sobre la fecha y hora de llegada y salida reales de los buques.
+
+1\. Las autoridades portuarias enviarán al organismo público Puertos del Estado, por medios electrónicos y mediante un mensaje estructurado, como máximo tres horas después de la entrada y de la salida del puerto, la información relativa a la fecha y hora real de llegada y de salida, respectivamente, junto con los datos especificados en el anexo V de esta orden, de cualquier buque que haga escala en los puertos de interés general de su competencia.
+
+El organismo público Puertos del Estado remitirá esa información, también por medios electrónicos, a la Dirección General de la Marina Mercante; así como a EMSA a través del sistema SafeSeaNet.
+
+2\. A los efectos del apartado anterior, las autoridades portuarias tomarán como referencia para establecer el momento de llegada y salida de puerto la misma información que se utiliza para la liquidación de las tasas portuarias de acuerdo a la normativa vigente.
+
+## Artículo 14. Modificaciones de solicitudes previas.
+
+1\. Antes de la llegada del buque, el declarante podrá solicitar modificaciones a la escala solicitada, autorizada, o con atraque o fondeo asignado, excepto en los datos de la identificación del buque. También puede solicitarse la cancelación de la escala, siempre de acuerdo con lo previsto en este artículo.
+
+El declarante deberá indicar si se trata de una solicitud de nueva escala o de la modificación de datos de una escala ya numerada. En el campo observaciones podrá indicar las causas de la modificación.
+
+Las autorizaciones y asignaciones podrán modificarse a instancia de la autoridad portuaria, por razones de operativa portuaria, en cuyo caso se cursará la modificación correspondiente.
+
+2\. Una vez autorizada la escala, la modificación de los datos de la misma conllevará la revisión de la autorización, pudiendo incluso ser denegada, motivadamente, la asignación de atraque o fondeo.
+
+Si la modificación remitida por el declarante supone, por razones de operativa portuaria, una asignación de atraque o fondeo diferente a la efectuada, o su inclusión en un nuevo período de programación operativa, se podrá cancelar tanto la autorización como la solicitud inicial, debiendo el declarante reemplazar dicha solicitud por otra nueva que contendrá la información actualizada.
+
+Para el caso de que la autoridad portuaria tuviera que dictar «fondeos previos» no solicitados, debido a causas técnicas, no modificará la secuencia de atraque o fondeo solicitada.
+
+3\. La modificación se presentará a través de la DUE, utilizando el indicador correspondiente a "modificación". Las modificaciones podrán consistir en variaciones o adiciones de nuevos datos, pudiendo indicar en el campo "observaciones" las causas de la modificación.
+
+Dependiendo del sistema de transmisión electrónica de cada autoridad portuaria se optará por cumplimentar todos los datos al entenderse reemplazados los mismos o por la transmisión únicamente de los datos que varíen o se adicionen. En todo caso, se indicará el número de escala de la solicitud objeto de modificación y, cuando la modificación afecte al atraque o fondeo, se indicará asimismo el número de atraque o fondeo que se va a modificar.
+
+4\. La autoridad portuaria acusará recibo de la modificación, y lo pondrá en conocimiento del declarante, mediante un mensaje electrónico estructurado.
+
+5\. La autoridad portuaria registrará las modificaciones y las transmitirá, electrónicamente y con carácter inmediato, al organismo público Puertos del Estado.
+
+6\. En caso de modificaciones de autorizaciones y asignaciones de atraque o fondeo debidas a enmendadas o cambios de banda, la autoridad portuaria deberá transmitir igualmente la información, de manera electrónica y de forma inmediata, al organismo público Puertos del Estado quien, a su vez, lo comunicará a la Dirección General de la Marina Mercante, por medios electrónicos, y a EMSA a través del sistema SafeSeaNet.
+
+> Se modifica por el art. único.13 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 15. Cancelación de una escala, atraque o fondeo previamente solicitado.
+
+1\. La cancelación se presentará a través del DUE, utilizando el indicador correspondiente a «cancelación». Las cancelaciones podrán referirse a la escala completa, o a un atraque o fondeo de una escala solicitada.
+
+En el DUE se indicará el número de escala que se desea cancelar y, en el caso de que la cancelación se refiera a un atraque o fondeo, se indicará también el número de atraque o fondeo a cancelar. Además, se indicará necesariamente el nombre y número OMI del buque, y el nombre y NIF del declarante. En el espacio designado para «observaciones» se deberá indicar el motivo de la cancelación solicitada.
+
+2\. La petición de cancelación se aceptará en todo caso, salvo que se presente una vez iniciado algún servicio, y se considerarán anuladas todas las autorizaciones, tanto de entrada como de salida y de atraque o fondeo.
+
+3\. La autoridad portuaria informará al declarante de la aceptación de la cancelación tan pronto como ésta se produzca.
+
+4\. La autoridad portuaria registrará las cancelaciones y las transmitirá, electrónicamente y con carácter inmediato, al organismo público Puertos del Estado quien lo comunicará, también por medios electrónicos a las autoridades competentes que corresponda, así como a EMSA a través del sistema SafeSeaNet.
+
+> Se modifica el apartado 4 por el art. único.14 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Artículo 16. Despacho del buque.
+
+1\. El declarante informará, de forma electrónica, a la autoridad portuaria de la fecha y hora prevista de salida del buque según la información de que disponga.
+
+Esta información se transmitirá electrónicamente y con carácter inmediato al organismo público Puertos del Estado que, a su vez, lo comunicará a la Dirección General de la Marina Mercante.
+
+No será necesario realizar expresamente una solicitud de salida, ya que queda incluida en la solicitud de escala.
+
+2\. Presentada la documentación para despacho, y específicamente la nueva lista de tripulantes en caso de cambio de tripulación, el capitán marítimo se basará en la hora de salida prevista para el despacho de los buques que quieran efectuar su salida.
+
+La Dirección General de la Marina Mercante informará, electrónicamente, de los despachos al organismo público Puertos del Estado y éste, a su vez, a la autoridad portuaria correspondiente.
+
+El despacho de salida, o Ship’s Clearance, se otorgará conforme al modelo que figura en el anexo VI de esta orden.
+
+3\. Si el declarante no hubiera presentado o enviado la información mínima señalada en el apartado 3 del anexo IV de esta orden, necesaria para emitir el Ship’s Clearance, la capitanía marítima autorizará o denegará la salida del buque.
+
+La no denegación expresa de la salida del buque implicará una autorización especial («autodespacho»), condicionada a una posterior remisión de esa información. La remisión de esta información deberá hacerse a través de la ventanilla única indicando la escala a que se refiere. Una vez recibida, la autoridad portuaria la transmitirá, de forma electrónica y con carácter inmediato, al organismo público y éste, a su vez, a la Dirección General de la Marina Mercante.
+
+4\. El declarante podrá imprimir el documento de despacho de salida (Ship’s Clearance) con una reproducción de la firma del capitán marítimo correspondiente y del sello de dicha capitanía marítima. Para obtener el documento en papel, con sello y firma originales, deberá acudir a la capitanía marítima a retirarlo personalmente.
+
+Cuando la capitanía marítima autorice la salida del buque sin descargar los residuos, conforme a lo establecido en el artículo 7.2 del Real Decreto 1381/2002, de 20 de diciembre, lo indicará en el apartado observaciones del documento de autorización de salida (Ship’s Clearance).
+
+## Disposición adicional única. Información a enviar en caso de escalas en puertos de titularidad de una comunidad autónoma.
+
+1\. En caso de buques de pabellón extranjero que escalen en puertos españoles de titularidad de una comunidad autónoma y que puedan estar sujetos a una inspección MOU ampliada, de acuerdo a lo establecido en el artículo 9 del Reglamento por el que se regulan las inspecciones de buques extranjeros en puertos españoles, aprobado por Real Decreto 1737/2010, de 23 de diciembre, el consignatario del buque, su capitán o la empresa naviera enviarán al organismo público Puertos del Estado, por medios electrónicos, y al menos con 72 horas de antelación sobre la fecha y hora estimadas de llegada a puerto o antes de abandonar el puerto de origen en caso de que se prevea que el viaje va a durar menos de 72 horas, la información señalada en el apartado 1 del anexo VII de esta orden.
+
+Asimismo, estos buques deberán enviar, al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en caso de emergencia u otras circunstancias excepcionales debidamente motivadas que se comunicarán en la mayor brevedad posible, la información señalada en el apartado 2 del anexo VII de esta orden.
+
+2\. En el resto de casos, el consignatario del buque, su capitán o la empresa naviera comunicarán al organismo público Puertos del Estado, al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en caso de emergencia u otras circunstancias excepcionales debidamente motivadas que se comunicarán en la mayor brevedad posible, los datos básicos a nivel de escala y todos los datos complementarios del DUE contenidos en el anexo I de esta orden.
+
+3\. Sin perjuicio de la información señalada en los apartados anteriores, el consignatario transmitirá a Puertos del Estado, por medios electrónicos, como máximo tres horas después de la entrada o salida del puerto, la información relativa a la fecha y hora real de llegada o salida, según el caso, junto con los datos especificados en el anexo V de esta orden, de cualquier buque que haga escala en un puerto español titularidad de una comunidad autónoma.
+
+4\. Puertos del Estado, transmitirá, por medios electrónicos y con carácter inmediato, la información a que se refieren los apartados anteriores a la Dirección General de la Marina Mercante y, en su caso, a otras autoridades competentes, así como a EMSA a través del sistema SafeSeaNet.
+
+> Se modifica por el art. único.15 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden FOM/3056/2002, de 29 de noviembre, por la que se establece el procedimiento integrado de escala de buques en los puertos de interés general, así como la Orden de 23 de mayo de 2003 sobre la gestión del documento único de escala (DUE) y la implantación de la ventanilla única prevista en la Orden FOM/3056/2002, de 29 de noviembre.
+
+## Disposición final primera. Implantación del procedimiento.
+
+El organismo público Puertos del Estado coordinará, en todo momento, con la Dirección General de la Marina Mercante y las autoridades portuarias la adecuada implantación del procedimiento establecido en esta orden con objeto de que los declarantes puedan tramitar el DUE.
+
+## Disposición final segunda. Autorizaciones.
+
+1\. Se autoriza al organismo público Puertos del Estado, en coordinación con la Dirección General de la Marina Mercante, a dictar las resoluciones necesarias para adaptar la información del anexo I de esta orden, que se deriva del cumplimiento de las normas nacionales e internacionales que la establecen, a las modificaciones que se produzcan en dichas normas.
+
+2\. Se autoriza al organismo público Puertos del Estado, en coordinación con la Dirección General de la Marina Mercante, a dictar las resoluciones necesarias para modificar los anexos II a VII y el anexo I, en los aspectos no referidos en el apartado anterior, cuando existan razones técnicas u operativas que lo aconsejen.
+
+## Disposición final tercera. Título competencial.
+
+La presente norma se dicta al amparo de lo dispuesto en el artículo 149.1.20.ª de la Constitución española, que atribuye de forma exclusiva al Estado la competencia en materia de marina mercante y puertos de interés general.
+
+## Disposición final cuarta. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de abril de 2011.–El Ministro de Fomento, José Blanco López.
+
+## ANEXO I — Datos de la declaración única de escala
+
+La declaración única de escala debe presentarse en la autoridad portuaria del puerto donde vaya a escalar cada buque.
+
+A continuación se recogen todos los datos básicos de la declaración distribuidos entre los que corresponden al nivel de escala, al nivel de atraque o al nivel de operaciones, y los datos complementarios, junto con las descripciones y notas explicativas correspondientes.
+
+DATOS BÁSICOS
+
+Datos a nivel de la escala.
+
+Puerto:
+
+Es el puerto en el que se realizará la escala. Se identifica con un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+Número de escala.
+
+Código de 14 caracteres que habrá otorgado cada autoridad portuaria como acuse de recibo a la solicitud de escala. Los cinco primeros corresponden a la codificación UN/LOCODE del puerto de escala, las cuatro siguientes corresponden al año, y las cinco restantes para el número de orden de la escala.
+
+Tipo de trámite.
+
+Indicar si se trata de:
+
+– Nueva escala, si es una solicitud de escala nueva.
+
+– Modificación datos escala, si se actualizan datos de una solicitud previa.
+
+– Anulación escala, si se quiere anular una escala previamente solicitada.
+
+– Despacho de salida, si se aportan datos precisos para la salida de puerto.
+
+Despacho por tiempo. Fecha.
+
+Indicar la fecha de la autorización para despacho por tiempo concedida en el puerto de escala por la capitanía marítima correspondiente.
+
+Despacho por tiempo. Período.
+
+Indicar el periodo de vigencia, en meses, del despacho por tiempo autorizado.
+
+Identificación del consignatario o declarante.
+
+Se indicará:
+
+– Razón social del consignatario o declarante.
+
+– NIF del consignatario o declarante.
+
+– Dirección postal del consignatario o declarante.
+
+– Código postal del consignatario o declarante.
+
+– Población y país del consignatario o declarante.
+
+Identificación de la compañía naviera o armador consignado.
+
+Se indicará:
+
+– Código de la compañía naviera o armador consignado, según la codificación que figure en la Guía de Usuario publicada por el organismo público Puertos del Estado.
+
+– Razón social de la compañía naviera o del armador consignado.
+
+– Dirección postal de la compañía naviera o del armador consignado.
+
+– Código postal y población de la compañía naviera o del armador consignado.
+
+– País de la compañía naviera o del armador consignado.
+
+Identificación del buque.
+
+Se declarará:
+
+– Número OMI del buque al que se refiere el DUE.
+
+– La identidad del servicio móvil marítimo MMSI, si el buque no dispone de número OMI.
+
+– El código de llamada internacional (call sign) y la bandera del buque, si no dispone de un número MMSI.
+
+La bandera del buque se declarará con dos letras de la codificación ISO 3166.
+
+Nombre del buque.
+
+Nombre del buque al que se refiere el DUE.
+
+ETA.
+
+Fecha y hora estimada de llegada del buque a aguas portuarias.
+
+ETD.
+
+Fecha y hora estimada de salida del buque de aguas portuarias.
+
+Puerto anterior.
+
+Es el puerto del que procede el buque. Se identifica con un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+Denominado «puerto de origen» en los apartados 1 y 3 del anexo I del Real Decreto 210/2004.
+
+Puerto posterior.
+
+Es el puerto inmediato siguiente al que se dirige el buque. Se identifica con un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+Denominado Puerto de Destino en los apartados 1 y 3 del anexo I del Real Decreto 210/2004, de 6 de febrero.
+
+Código de servicio marítimo.
+
+Codificación otorgada por la autoridad portuaria para identificar, en su caso, el servicio marítimo al que está adscrito el buque en virtud de lo establecido en el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre.
+
+Indicador de buque afecto a navegación marítima internacional (SI/NO).
+
+Indicar si el buque está afecto o no a navegación marítima internacional.
+
+Autorización para cabotaje (SI/NO).
+
+Los buques de banderas de países ajenos a la Unión Europea indicarán si están, o no, expresamente autorizados por la Dirección General de la Marina Mercante.
+
+Nombre del capitán.
+
+Nombre del capitán del buque. Se indicará el dato tanto a la entrada como a la salida.
+
+Número de pasajeros.
+
+Número de pasajeros a bordo del buque. Se indicará el dato tanto a la entrada como a la salida. Este número debe coincidir con lo declarado en la «lista de pasajeros».
+
+Número de tripulantes.
+
+Número de tripulantes a bordo del buque. Se indicará el dato tanto a la entrada como a la salida. Este número debe coincidir con lo declarado en la «lista de tripulantes», salvo que ésta no se presente por tratarse de un buque sujeto a despacho por tiempo y que no ha tenido variación desde la última escala.
+
+Número de polizones.
+
+Número de polizones a bordo del buque. Se indicará el dato tanto a la entrada como a la salida.
+
+Indicador de si el buque transporta carga de fuel pesado, alquitrán, betún asfáltico o petróleo crudo pesado (SI/NO).
+
+Indicar si se transportan estas cargas de acuerdo a lo establecido en el Real Decreto Ley 9/2002, de 13 de diciembre, por el que se adoptan medidas para buques tanques que transporten mercancías peligrosas o contaminantes.
+
+La declaración afirmativa de que se transporta fuel pesado, alquitrán, betún asfáltico, o petróleo crudo pesado, incluye que el declarante asegura, bajo su responsabilidad, que el buque tiene doble casco, o un diseño equivalente, que le permita cumplir con la prohibición establecida en el artículo 1 del Real Decreto Ley 9/2002, de 13 de diciembre, y en el Reglamento (CE) n.º 1726/2003 del Parlamento Europeo y del Consejo, de 22 de julio de 2003, por el que se modifica el Reglamento (CE) n.º 417/2002 relativo a la introducción acelerada de normas en materia de doble casco o diseño equivalente para petroleros de casco único. Esta declaración deberá coincidir con la afirmación, en los datos complementarios de «ficha técnica del buque», de que el buque dispone de doble casco o diseño equivalente.
+
+Indicador de si se transportan materias reglamentadas en el Real Decreto 230/98 o en el Real Decreto 563/2010 (SI/NO).
+
+Indicar si se transportan dichas materias. La declaración afirmativa incluye que el declarante manifiesta haber obtenido la oportuna autorización de tránsito del Ministerio de Asuntos Exteriores y de Cooperación.
+
+Indicador de si el buque lleva a bordo mercancías peligrosas en tránsito (SI/NO).
+
+Deberá indicarse si el buque lleva a bordo mercancías peligrosas que mantendrá a bordo durante la escala sin descargarlas. La declaración de esta información no exime de las obligaciones impuestas por el Real Decreto 145/89, de 20 de enero, y por el Real Decreto 210/2004, de 6 de febrero.
+
+Indicador de si el buque va a cargar mercancías peligrosas (SI/NO).
+
+Deberá indicarse si el buque va a cargar mercancías peligrosas durante la escala. La declaración de esta información no exime de las obligaciones impuestas por el Real Decreto 145/89, de 20 de enero, y por el Real Decreto 210/2004, de 6 de febrero.
+
+Indicador de si el buque va a descargar mercancías peligrosas (SI/NO).
+
+Deberá indicarse si el buque va a descargar mercancías peligrosas durante la escala. La declaración de esta información no exime de las obligaciones impuestas por el Real Decreto 145/89, de 20 de enero, y por el Real Decreto 210/2004, de 6 de febrero.
+
+Descripción general de la carga.
+
+Se indicará una descripción general de la carga transportada por el buque con texto libre.
+
+Indicador de buque sujeto a inspección ampliada del MOU (S/N).
+
+Se indicará si el buque está sujeto a inspección ampliada del MOU de acuerdo con lo establecido en la normativa correspondiente a control de buques por el Estado rector del puerto.
+
+Condiciones de tanques de carga (llenos, vacíos, inertizados).
+
+Indicar las condiciones de los tanques de carga de acuerdo a una de las alternativas señaladas.
+
+Condiciones de tanques de lastre (llenos, vacíos, inertizados).
+
+Indicar las condiciones de los tanques de lastre de acuerdo a una de las alternativas señaladas.
+
+Volumen de la carga.
+
+Indicar el volumen de la carga en metros cúbicos.
+
+Reconocimientos e inspecciones obligatorias y labores de mantenimiento y reparación previstas.
+
+Observaciones.
+
+Se indicarán las aclaraciones que sean precisas según lo establecido en apartados anteriores.
+
+Datos a nivel de atraque o fondeo.
+
+Se indicarán, de cada atraque o fondeo, los siguientes datos de la estadía del buque:
+
+Nombre del consignatario o declarante.
+
+Razón social del declarante.
+
+Indicador de exención de practicaje (SI/NO).
+
+Indicar si se tiene concedida o no la exención de practicaje.
+
+Puesto de atraque o fondeo solicitado.
+
+Puesto de atraque o fondeo que se solicita, utilizando la codificación que establezca la autoridad portuaria que, en caso de atraque, podrá incluir los norays de referencia.
+
+Forma de atraque o fondeo.
+
+Señalar la forma de atraque o fondeo de acuerdo a los códigos siguientes:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>A atracado</p>
+</td>
+<td>
+<p>B babor</p>
+</td>
+<td>
+<p>M al muelle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>F fondeado</p>
+</td>
+<td>
+<p>E estribor</p>
+</td>
+<td>
+<p>V a buque</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Y amarrado a boya</p>
+</td>
+<td>
+<p>P de punta</p>
+</td>
+<td>
+<p>1 por proa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>R abarloado</p>
+</td>
+<td>
+<p>X sin más indicación</p>
+</td>
+<td>
+<p>2 por popa</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p> </p>
+</td>
+<td>
+<p>X sin más indicación</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Calado máximo que tendrá el buque.
+
+Se indicará el calado máximo a la entrada y el que va a tener a la salida, expresados en metros con dos decimales.
+
+Fecha y hora en que se prevé iniciar la ocupación del atraque o fondeo solicitado.
+
+Fecha y hora en que se prevé desocupar el atraque o fondeo solicitado.
+
+Indicador de si se solicita el régimen previsto para estancias prologadas en la liquidación de la tasa del buque (SI/NO).
+
+Se indicará si el declarante considera que se dan las condiciones para la aplicación del régimen de estancias prolongadas previsto en la tasa del buque.
+
+Actividad a realizar en el puesto de atraque o fondeo.
+
+La actividad que se realizará en el puesto de atraque o fondeo de acuerdo con los siguientes códigos:
+
+| OP | operaciones portuarias de tráfico mercantil (embarque, trasbordo o desembarque de pasajeros o mercancías) |
+|---|---|
+| AB | avituallamiento en atraque por barcaza |
+| AO | avituallamiento en fondeo |
+| AR | avituallamiento en atraque |
+| CT | cruceros turísticos |
+| TI | tráfico interior |
+| VO | visita oficial |
+| AF | arribada forzosa |
+| IN | inactivo |
+| IP | inactividad pesquera |
+| BO | botadura |
+| CO | construcción |
+| CA | construcción en astillero |
+| RA | gran reparación en astillero |
+| RF | reparación a flote con personal de la tripulación |
+| RT | reparación en fondeo con personal ajeno a la tripulación |
+| DE | desguace |
+| DA | desguace en astillero |
+| TA | transformación en astillero |
+| TF | transformación |
+| AP | buques pesqueros y artesanales en operaciones de embarque y desembarque de pesca fresca |
+| DR | buques destinados a obras y dragado |
+| PB | paro biológico |
+| CL | carencia de licencia |
+| DJ | depósito judicial |
+| MR | buque destinado al servicio de amarre |
+| PR | buque destinado al servicio de practicaje |
+| RE | buque destinado al servicio de remolque |
+| VA | acceso a varadero |
+| DS | buque en dique seco |
+| PV | aprovisionamiento |
+| OT | otras (por ejemplo: Tendido cables submarinos, investigación oceanográfica, etc.) |
+
+Se refiere siempre a la actividad principal por lo que los códigos son excluyentes entre sí. Se puede emplear el campo de «observaciones» para aclarar los casos en que se prevea la realización de actividades diversas.
+
+Previsión de inicio y fin de operaciones.
+
+La fecha y hora previstas de inicio y finalización del conjunto de las operaciones del atraque.
+
+Medios de manipulación.
+
+Los medios de manipulación (rampas o grúas) propios del buque que se utilizarán, o los que se solicitan, según la clasificación siguiente:
+
+– grúas propias del buque.
+
+– rampa roll-on roll-off n.º... (indicar posición y alcance de la rampa o el n.º asignado en la ficha técnica).
+
+– grúas de muelle.
+
+– grúas automóviles.
+
+– tubería.
+
+– cinta transportadora.
+
+– instalación de bombeo neumático.
+
+– (otra) instalaciones especial de...........................
+
+– otros medios.
+
+Indicador de si se solicitan suministros:
+
+Agua (SI/NO), Combustible (SI/NO), Hielo (SI/NO), Energía eléctrica (SI/NO).
+
+Datos a nivel de cada operación.
+
+Se dará el detalle de las operaciones portuarias de tráfico mercantil, aportando los siguientes datos para cada operación, entendiendo que son operaciones distintas en cuanto varíe uno solo de los datos.
+
+Tipo de operación.
+
+Indicar el tipo de operación, con uno de los siguientes códigos:
+
+D desembarque de carga o pasaje a tierra.
+
+T carga o pasaje en transbordo.
+
+E embarque desde tierra de carga o pasaje.
+
+Tipo de pasaje o carga.
+
+Indicar el tipo de pasaje o carga, según la codificación establecida en el anexo de clasificación de mercancías de la «guía de usuario» publicada por el organismo público Puertos del Estado. Opcionalmente, puede añadirse una descripción con texto resumido (por ejemplo cruceristas, mineral de hierro, productos químicos,…)
+
+Tipo de unidad.
+
+El tipo de unidad en que se cuantifica la carga o pasaje antes descritas, eligiendo entre:
+
+P número de personas.
+
+T toneladas de peso.
+
+M<sup>3</sup> metros cúbicos.
+
+Ud número de unidades.
+
+La cantidad de carga o pasaje implicada en la operativa.
+
+Peso por unidad.
+
+Indicar el peso por unidad, si la mercancía se cuantifica en unidades.
+
+Espacio portuario.
+
+El nombre del depósito o la cantidad aproximada de m<sup>2</sup> que se precisan al costado del buque para el desembarque o preembarque de la carga o pasaje.
+
+Empresa estibadora.
+
+Se deberá declarar:
+
+– La razón social de la empresa estibadora que hará la operativa.
+
+– El NIF de la empresa estibadora que hará la operativa.
+
+DATOS COMPLEMENTARIOS
+
+Datos de la ficha técnica del buque.
+
+Certificado de matrícula del buque.
+
+Se indicará:
+
+– Lugar o puerto de registro del buque, mediante un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– Fecha del certificado, en formato DD/MM/AAAA.
+
+– Número de certificado.
+
+Sociedad de clasificación.
+
+Se indicará el nombre de la sociedad de clasificación actual del buque.
+
+Compañía aseguradora (seguro cascos).
+
+Indicar el nombre de la compañía aseguradora actual del casco del buque.
+
+Club P&I.
+
+Indicar el nombre del club P&I responsable del seguro de responsabilidad civil del buque.
+
+Fecha de construcción del buque.
+
+Indicar en formato DD/MM/AAAA la fecha de construcción del buque.
+
+Tipo de buque.
+
+Indicar el tipo de buque según la clasificación de dos letras del Lloyd´s Register of Shipping.
+
+Clase CNI del buque.
+
+Se indicará la clase asignada al buque de acuerdo al Código INF adoptado en la regla 14.2 del capítulo VII del Convenio SOLAS.
+
+Calado máximo.
+
+Indicar el calado máximo del buque en metros.
+
+GT (gross tonnage).
+
+Indicar el GT del buque.
+
+TPM (toneladas peso muerto).
+
+Indicar el TPM del buque.
+
+Eslora total.
+
+Indicar la eslora total del buque.
+
+Manga.
+
+Indicar la manga del buque.
+
+Puntal.
+
+Indicar el puntal del buque.
+
+Altura arboladura.
+
+Indicar la altura en metros de la arboladura del buque.
+
+Potencia.
+
+Indicar la potencia del buque en kW.
+
+Velocidad de crucero con carga.
+
+Indicar la velocidad de crucero que desarrolla el buque con carga.
+
+Velocidad máxima en lastre.
+
+Indicar la velocidad máxima que desarrolla el buque en lastre.
+
+Indicador de si el buque dispone de doble casco (SI/NO).
+
+Indicar si el buque dispone, o no, de doble casco.
+
+Indicador de disponibilidad de tanques de lastre segregados SBT (SI/NO).
+
+Indicar si el buque dispone, o no, de tanques de lastre segregado. En caso afirmativo, se deberá indicar también:
+
+– El número de tanques.
+
+– El volumen total de los mismos o su arqueo total.
+
+Hélices.
+
+Se indicará el número de hélices del buque y la situación de las mismas según sea a proa, a popa, a estribor o a babor.
+
+Rampas.
+
+Indicar el número de rampas del buque y para cada una de ellas:
+
+– Situación, según sea a proa, popa, estribor o babor.
+
+– Alcance.
+
+– Anchura.
+
+Las rampas de identificarán con un número para poder hacer referencia a la que se utiliza en un atraque concreto.
+
+Capacidad de almacenamiento de residuos.
+
+Indicar la capacidad en metros cúbicos para almacenar:
+
+– Lastre sucio.
+
+– Tanques de fangos y decantación.
+
+– Tanques de aguas oleosas de sentinas.
+
+– Aguas sucias.
+
+– Basuras.
+
+Indicador de si el buque ha realizado la inspección MOU ampliada obligatoria en los últimos doce meses (SI/NO).
+
+Se indicará si el buque ha tenido la inspección MOU ampliada que es obligatoria cada doce meses. En caso afirmativo, se indicará también:
+
+– El último puerto de inspección, mediante un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– La fecha de la última inspección.
+
+– El número de deficiencias pendientes de resolver.
+
+Certificado de arqueo:
+
+Se indicará:
+
+– Número de dicho certificado.
+
+– Fecha de expedición del mismo.
+
+Datos de tripulantes. Lista de tripulación.
+
+Indicador de si la información se refiere a la entrada o a la salida del buque (Llegada/Salida).
+
+Si la información corresponde a la entrada de buque a puerto se indicará Llegada. Si corresponde al momento de la salida de puerto se indicará Salida.
+
+Identificación de los tripulantes.
+
+Para cada miembro de la tripulación, incluido el Capitán se indicará:
+
+– Un número correlativo de orden empezando por el 1.
+
+– El nombre y apellidos.
+
+– El cargo a bordo de entre los siguientes:
+
+– capitán.
+
+– 1.<sup>er</sup> oficial.
+
+– 2.º oficial.
+
+– 3.<sup>er</sup> oficial.
+
+– jefe de máquinas.
+
+– 1.<sup>er</sup> oficial de máquinas.
+
+– 2.º oficial de máquinas.
+
+– 3.<sup>er</sup> oficial de máquinas.
+
+– oficial radiotelegrafista.
+
+– marinero de máquinas.
+
+– marinero de cubierta.
+
+– otros.
+
+– práctico de altura a bordo.
+
+– La nacionalidad indicando el país con el código de dos letras ISO 3166.
+
+– La fecha y lugar de nacimiento.
+
+– El número del documento de identificación de personal marítimo expedido de acuerdo al convenio 185 de la OIT.
+
+– El número de visado, en caso necesario para acceso a España, indicando las siglas correspondientes al Estado de expedición, siempre que los tripulantes pretendan acceder a España y abandonar el término municipal de los municipios en que se encuentra el puerto de escala.
+
+Datos de pasajeros. Lista de pasajeros.
+
+Indicador de si la información se refiere a la entrada o a la salida del buque (Llegada/Salida).
+
+Si la información corresponde a la entrada de buque a puerto se indicará llegada. Si corresponde al momento de la salida de puerto se indicará salida.
+
+Identificación de los pasajeros.
+
+Para cada pasajero se indicará:
+
+– El nombre y apellidos.
+
+– La nacionalidad indicando el país con el código de dos letras ISO 3166.
+
+– La fecha y lugar de nacimiento.
+
+– Indicador de sexo masculino (M) o femenino (F).
+
+– El puerto de embarque, mediante un código de cinco dígitos, según la codificación UN/LOCODE de puertos marítimos.
+
+– El puerto de desembarque previsto, mediante un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– El tipo de documento de identificación.
+
+– El número del documento de identificación.
+
+– Fecha de caducidad del documento.
+
+– El número de visado, indicando las siglas del Estado de expedición, en caso necesario para acceso a España.
+
+– Datos, voluntariamente comunicados por el interesado, acerca del cuidado o asistencia especiales que, en situaciones de emergencia, pueda necesitar el pasajero.
+
+– Un número de contacto facilitado voluntariamente por el pasajero para casos de emergencia.DE de puertos marítimos.
+
+Identificación de los vehículos:
+
+Para cada vehículo en régimen de pasaje:
+
+– Marca del vehículo.
+
+– Modelo del vehículo.
+
+– Matrícula del vehículo.
+
+Datos sobre notificación de desechos y residuos del buque.
+
+A efectos de poder presentar la información en puertos posteriores de la ruta del buque, la impresión en papel de esta información a la salida de puerto deberá dar lugar a un documento igual al modelo establecido en el anexo II del Real Decreto 1381/2002, de 20 de diciembre, de instalaciones portuarias de recepción de desechos generados por los buques y residuos de carga.
+
+Acuerdo o plan para recogida y notificación de residuos.
+
+En caso de tener establecido un Plan o acuerdo para la recogida de residuos generados a bordo se deberá indicar:
+
+– El puerto en el que está establecido dicho acuerdo, identificado con código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– La razón social de la empresa de recogida autorizada con la que está establecido el acuerdo.
+
+Se diferenciará entre residuos sólidos y líquidos.
+
+Indicador de buque exento de acuerdo a lo establecido en el Real Decreto 1381/2002, de 20 de diciembre (SI/NO).
+
+Se indicará si el buque está exento de acuerdo a lo establecido en el artículo 9 del Real Decreto 1381/2002, de 20 de diciembre.
+
+Puerto de la última entrega de residuos.
+
+Indicar el último puerto en que se ha realizado una entrega de residuos identificándolo con un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+Fecha de la última entrega de residuos.
+
+Indicar la fecha, en formato DD/MM/AAAA, en que se realizó la última entrega de residuos en el puerto indicado anteriormente.
+
+Indicador de entrega de residuos en el puerto de escala (Todos/Parte/Ninguno).
+
+Se indicará lo que se desea hacer con los residuos en el puerto de escala al que se refiere el DUE, ya sea entregarlos todos, solo una parte, o no realizar ninguna entrega.
+
+Desechos del buque.
+
+Para cada uno de los siguientes tipos de desechos:
+
+– Oleosos: Fangos, Agua de sentinas, otros (especificar sustancia).
+
+– Aguas sucias: Aguas sucias.
+
+– Basuras sólidas: Orgánicas, plásticos, otros (especificar sustancia).
+
+– Desechos relacionados con la carga (especificar sustancia).
+
+– Residuos de carga: Lavazas anexo I Marpol (especificar sustancia), Lavazas anexo II Marpol (especificar sustancia), otros (especificar sustancia).
+
+– Sustancias del anexo VI Marpol (especificar sustancia).
+
+Se indicarán los siguientes datos:
+
+– Cantidad a entregar en el puerto, en metros cúbicos.
+
+– Capacidad máxima de almacenamiento a bordo, en metros cúbicos.
+
+– Cantidad restante a bordo después de la entrega, en metros cúbicos.
+
+– Puerto en el que se entregarán los desechos restantes, identificado por un código de cinco dígitos, los dos primeros para identificar la nación, según codificación ISO 3166, y los otros tres para identificar el puerto según caracteres Un/Locode.
+
+– Cantidad estimada de desechos que se generará hasta el siguiente puerto de escala, en metros cúbicos.
+
+– Indicador de viaje internacional (SI/NO), solo en el caso de «basuras orgánicas»+, para indicar que la misma contiene restos de productos animales provenientes de un puerto no Comunitario (Reglamento CE 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) 1774/2002 y Real Decreto 1528/2012, de 8 de noviembre, por el que se establecen las normas aplicables a los subproductos animales y los productos derivados no destinados al consumo humano).
+
+Los buques que entregan todos los desechos deben declarar la capacidad máxima de almacenamiento a bordo. En el resto de casos, se declararán todos los datos.
+
+Datos de declaración previa de protección.
+
+Nombre del OCPM y contacto 24 h.
+
+Se indicará el nombre y apellido del oficial de protección de la compañía naviera y el número de teléfono de contacto durante las 24 horas.
+
+Indicador de si el buque dispone de Certificado CIPB (SI/NO)
+
+Se indicará SI en caso de que el buque disponga de un certificado CIPB y NO en caso de no disponga de dicho certificado o lo tenga de forma provisional de acuerdo con la regla 9.2.1 del capítulo XI-2 del Convenio SOLAS. En caso negativo deberá indicarse el motivo.
+
+Nombre de la Administración que expide el certificado CIPB.
+
+Indicar el nombre del Estado o de la organización reconocida que emite el certificado.
+
+Fecha de vencimiento del certificado CIPB.
+
+Se indicará la fecha hasta la que es válido el certificado en formato DD/MM/AAAA.
+
+Indicador de si el buque dispone de un Plan de Protección PPB aprobado (SI/NO)
+
+Se indiciará SI en caso de que el buque disponga del PPB aprobado y NO en caso contrario.
+
+Nivel de protección en el que opera el buque.
+
+Indicar el nivel de protección en el que está operando el buque a su llegada a puerto, de acuerdo a la normativa vigente aplicable. Hay tres posibles valores: Nivel 1, nivel 2 o nivel 3.
+
+Localización del buque en el momento de reportar la información previa sobre protección.
+
+Se indicará el puerto en el que se encuentra el buque cuando se cumplimenta la declaración previa de protección prevista en el artículo 6 del Reglamento CE 725/2004, mediante un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+Si el buque se encuentra navegando podrá indicarse su localización geográfica.
+
+Listado de 10 últimas instalaciones portuarias visitadas.
+
+Se declararán las 10 últimas instalaciones portuarias visitadas por el buque, en orden cronológico, empezando por las visitadas más recientemente, indicando de cada una de ellas:
+
+– El código GISIS de la instalación.
+
+– Las fechas de llegada y de salida en formato DD/MM/AAAA.
+
+– El puerto correspondiente, identificado por un código de cinco dígitos, los dos primeros para identificar la nación según la codificación UN/LOCODE de puertos marítimos.
+
+– El nivel de protección en que operó el buque (Nivel 1/Nivel 2/Nivel 3).
+
+– Indicador de si el buque tomó alguna medida de protección adicional sobre las previstas en el PPB (SI/NO).
+
+– Descripción de dichas medidas adicionales.
+
+– Indicador de si realizó operaciones buque a buque (SI/NO).
+
+Operaciones buque a buque.
+
+En el caso de haber realizado operaciones buque a buque en alguna de las 10 últimas instalaciones portuarias visitadas, se detallará para cada una de las instalaciones:
+
+– Indicador de si se aplicaron los procedimientos previstos en el PPB.
+
+(SI/NO).
+
+– Fechas de inicio y finalización en formato DD/MM/AAAA.
+
+– Descripción de la actividad realizada.
+
+– Medidas de protección alternativas adoptadas si se variaron los procedimientos previstos en el PPB.
+
+Otra información relativa a la protección.
+
+Se indicará cualquier otra información que se considere precisa para la protección del buque no contemplada en los apartados anteriores.
+
+Datos de notificación de productos peligrosos o contaminantes a bordo.
+
+Indicador de si el buque dispone de Certificado Internacional de Gestión de Seguridad IGS (SI/NO).
+
+Se indicará SI en caso afirmativo y NO en caso contrario.
+
+Número del certificado IGS.
+
+Indicar el número de certificado IGS.
+
+Nombre de la entidad emisora del certificado IGS.
+
+Indicar el nombre de la entidad que suscribe el certificado IGS.
+
+Fecha de validez del certificado IGS.
+
+Se indicará la fecha de vencimiento del certificado IGS en formato DD/MM/AAAA.
+
+ETA al puerto posterior.
+
+Fecha y hora previstas de llegada al puerto posterior declarado.
+
+Indicador de disponibilidad a bordo de un plan de carga de las mercancías peligrosas o contaminantes (SI/NO)
+
+Se declarará SI en caso de haber disponible a bordo un plan apropiado de carga que dé detalles de las mercancías peligrosas o contaminantes transportadas y de su situación en el buque, y NO en caso contrario.
+
+Datos de contacto sobre las mercancías peligrosas a bordo.
+
+Se declarará una dirección de la que se pueda obtener en cualquier momento información de detallada de las mercancías peligrosas transportadas en el buque.
+
+Detalle de las mercancías peligrosas o contaminantes transportadas en el buque.
+
+Para cada mercancía peligrosa o contaminante transportada se indicará:
+
+– Identificación de la mercancía, reportando su nombre técnico según Código IMDG, o nombre del producto según Códigos CIQ, CIG, IMSBC, o el anexo I del Convenio MARPOL según proceda.
+
+– Breve descripción de la misma.
+
+– Clasificación utilizada en los Códigos IMDG, GIC, CIQ; IMSBC o MARPOL según proceda.
+
+– Números de Naciones Unidas, cuando existan, precedidos de las letras UN y según se definen en el Código IMDG.
+
+– Categoría de riesgos según se establece en el Código IMDG.
+
+– Grupo de embalaje según se establece en el Código IMDG.
+
+– Categoría de riesgo subsidiaria, si procede, según se establece en el Código IMDG.
+
+– Punto de inflamación, si la mercancía lo tiene, expresado en grados centígrados.
+
+– Indicador de si el producto es contaminante del mar (SI/NO).
+
+– Cantidad transportada en toneladas tanto bruta cono neta de su equipo de transporte o embalaje.
+
+– Número de bultos y descripción del tipo de equipo de transporte o del embalaje.
+
+– Localización a bordo de la carga.
+
+– Número de procedimiento de emergencia según se establece en la Guía EmS del Código IMDG.
+
+– Numeración del documento de transporte asociado.
+
+– Número de identificación de la unidad de transporte asociada al transporte multimodal.»
+
+Datos de la declaración marítima de sanidad.
+
+Información sobre certificado de exención de control de sanidad o de control de sanidad a bordo.
+
+Se indicará:
+
+– Indicador de si lleva a bordo certificado válido de exención de control de sanidad o certificado de control de sanidad (SI/NO).
+
+– Lugar de expedición del certificado.
+
+– Fecha de expedición del certificado.
+
+– Indicador de si es necesaria una reinspección (SI/NO)
+
+Información sobre visitas a zonas declaradas como afectadas por la OMS.
+
+Se indicará:
+
+– Indicador de si el buque ha visitado algún puerto de zonas afectadas (SI/NO).
+
+– Puerto visitado identificado por un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– Fecha de la escala en el puerto.
+
+Listado de los últimos puertos visitados.
+
+Se declararán los puertos de escala desde el comienzo de la travesía internacional, o en los últimos 30 días si este periodo fuera más corto, en orden cronológico empezando por los visitados más recientemente las 10 últimas instalaciones portuarias visitadas por el buque, en orden cronológico, empezando por las visitadas más recientemente, indicando de cada una de ellos:
+
+– El nombre del puerto, identificado por un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– Las fechas de llegada y de salida en formato DD/MM/AAAA.
+
+Estos datos pueden no aportarse con la declaración marítima de sanidad si ya se aportaron con la declaración previa de protección.
+
+Indicador de si ha fallecido a bordo alguna persona por causas distintas de un accidente (SI/NO).
+
+Número de defunciones.
+
+Indicador de si existe o se ha producido a bordo algún caso de enfermedad infecciosa (SI/NO).
+
+Indicador de si el número de enfermos a bordo durante ha sido mayor de lo normal o previsto durante la travesía (SI/NO).
+
+Número de personas enfermas a bordo en el momento de la declaración.
+
+Indicador de la presencia de médico a bordo o si fue consultado alguno (SI/NO).
+
+Indicador de si hay conocimiento de alguna condición a bordo que pueda dar lugar a infección o a propagación de enfermedad (SI/NO).
+
+Información sobre personas enfermas o fallecidas a bordo.
+
+Se indicará, para cada persona a bordo que haya enfermado, siga enferma, o haya fallecido:
+
+– Nombre y apellido según se declare en la lista de pasajeros o tripulantes.
+
+– El cargo a bordo si es tripulante según se declare en la lista de tripulantes.
+
+– La edad.
+
+– La nacionalidad indicando el país con el código de dos letras ISO 3166.
+
+– Indicador de sexo masculino (M) o femenino (F).
+
+– Puerto de embarque según la codificación UN/LOCODE de puertos marítimos.
+
+– Fecha de embarque en formato DD/MM/AAAA.
+
+– Naturaleza de la enfermedad.
+
+– La fecha de aparición de los síntomas en formato DD/MM/AAAA.
+
+– Indicador de si se consultó a un médico (SI/NO).
+
+– Estado actual del paciente (recobrado salud, sigue enfermo, evacuado, ha fallecido).
+
+– Puerto de evacuación del paciente identificado por un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– Medicamentos administrados al paciente.
+
+Información sobre medidas sanitarias adoptadas a bordo.
+
+Se indicará:
+
+– La medida adoptada (cuarentena, asilamiento, desinfección y descontaminación).
+
+– Puerto de adopción identificado por un código de cinco dígitos según la codificación UN/LOCODE de puertos marítimos.
+
+– Fecha de adopción de la medida.
+
+Indicador de si se han encontrado polizones a bordo (S/N).
+
+Lugar de embarque de los polizones si es conocido.
+
+Se indicará el puerto en el que han embarcado los polizones, si se conoce, expresado con la codificación UN/LOCODE de puertos marítimos.
+
+Indicador de si se ha encontrado algún animal enfermo a bordo (SI/NO).
+
+> Se modifica por el apartado 1 de la Resolución de 8 de mayo de 2020. [Ref. BOE-A-2020-5494](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5494)
+
+> Se modifica por el art. único.16 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## ANEXO II — Modelo acuse de recibo
+
+La respuesta de la autoridad portuaria otorgando número de escala contendrá la información que se especifica a continuación.
+
+A continuación se recogen todos los datos necesarios junto con las descripciones y notas explicativas correspondientes.
+
+Puerto.–Es el puerto en el que se realizará la escala. Se identifica con un código de cinco dígitos, los dos primeros para identificar la nación, según codificación ISO 3166, y los otros tres para identificar el puerto según caracteres UN/LOCODE.
+
+Fecha del acuse de recibo.–Se refiere a la fecha, en formato DD/MM/AAAA en que la autoridad portuaria asigna número de escala.
+
+Hora del acuse de recibo.–Se refiere a la hora en que la autoridad portuaria asigna número de escala.
+
+Número de escala.–Número de siete cifras que habrá otorgado cada autoridad portuaria como acuse de recibo a la solicitud de escala. La primera cifra es el último digito del año (por ejemplo un 0 para 2010), la segunda el código de puerto o subpuerto dentro de la autoridad portuaria, y las cinco restantes para el número de orden de la escala.
+
+Nombre del consignatario o declarante.–Razón social del declarante.
+
+NIF del consignatario o declarante.–NIF del declarante.
+
+Buque. Nombre.–Nombre del buque al que se refiere el DUE.
+
+Buque. Bandera.–Indicar el país de abanderamiento del buque con dos letras de la codificación ISO 3166.
+
+Buque. Número OMI.–Número OMI del buque al que se refiere el DUE.
+
+Observaciones.–Se reflejarán las aclaraciones que sean precisas según lo establecido en apartados anteriores.
+
+## ANEXO III — Modelo de asignación de atraque/fondeo
+
+La respuesta de la autoridad portuaria, asignando puesto de atraque o fondeo y autorizando la escala del buque en puerto, contendrá la información que se especifica a continuación.
+
+A continuación, se recogen todos los datos necesarios junto con las descripciones y notas explicativas correspondientes.
+
+Puerto.–Es el puerto en el que se realiza la escala. Se identifica con un código de cinco dígitos, los dos primeros para identificar la nación, según codificación ISO 3166, y los otros tres para identificar el puerto según caracteres UN/LOCODE.
+
+Número de escala.–Número de siete cifras que habrá otorgado cada autoridad portuaria como acuse de recibo a la solicitud de escala. La primera cifra es el último digito del año (por ejemplo un 0 para 2010), la segunda el código de puerto o subpuerto dentro de la autoridad portuaria, y las cinco restantes para el número de orden de la escala.
+
+Fecha de asignación de atraque.–Se refiere a la fecha, en formato DD/MM/AAAA en que la autoridad portuaria asigna atraque o fondeo.
+
+Hora de la asignación de atraque.–Se refiere a la hora en que la autoridad portuaria asigna atraque o fondeo.
+
+Nombre del consignatario o declarante.–Razón social del declarante.
+
+NIF del consignatario o declarante.–NIF del declarante.
+
+Buque. Nombre.–Nombre del buque al que se refiere el DUE.
+
+Buque. Bandera.–Indicar el país de abanderamiento del buque con dos letras de la codificación ISO 3166.
+
+Buque. Número OMI.–Número OMI del buque al que se refiere el DUE.
+
+Datos identificativos del atraque.–Para cada atraque o fondeo se indicará:
+
+Número correlativo de atraque y de fondeo si se asignan varios en la misma escala del buque.
+
+Puesto de atraque o fondeo asignado utilizando la codificación que establezca la Autoridad Portuaria.
+
+Forma de atraque o fondeo de acuerdo a los códigos siguientes:
+
+| A atracado | B babor | M al muelle |
+|---|---|---|
+| F fondeado | E estribor | V a buque |
+| Y amarrado a boya | P de punta | 1 por proa |
+| R abarloado | X sin más indicación | 2 por popa |
+|  |  | X sin más indicación |
+
+Calados máximos autorizados a la entrada y la salida, de acuerdo con la solicitud.
+
+Aplicación régimen de estancias prolongadas para la liquidación de la tasa del buque (SI/NO).
+
+Fecha y hora del inicio de la ocupación.
+
+Fecha y hora de desocupación.
+
+La actividad que se autoriza en el puesto de atraque o fondeo de acuerdo con los siguientes códigos:
+
+| OP | Operaciones portuarias de tráfico mercantil (embarque, trasbordo o desembarque de pasajeros o mercancías). |
+|---|---|
+| AB | Avituallamiento en atraque por barcaza. |
+| AO | Avituallamiento en fondeo. |
+| AR | Avituallamiento en atraque. |
+| CT | Cruceros turísticos. |
+| TI | Tráfico interior. |
+| VO | Visita oficial. |
+| AF | Arribada forzosa. |
+| IN | Inactivo. |
+| IP | Inactividad pesquera. |
+| BO | Botadura. |
+| CO | Construcción. |
+| CA | Construcción en astillero. |
+| RA | Gran reparación en astillero. |
+| RF | Reparación a flote con personal de la tripulación. |
+| RT | Reparación en fondeo con personal ajeno a la tripulación. |
+| DE | Desguace. |
+| DA | Desguace en astillero. |
+| TA | Transformación en astillero. |
+| TF | Transformación. |
+| AP | Buques pesqueros y artesanales en operaciones de embarque y desembarque de pesca fresca. |
+| DR | Buques destinados al dragado. |
+| PB | Paro biológico. |
+| CL | Carencia de licencia. |
+| DJ | Depósito judicial. |
+| MR | Buque destinado al servicio de amarre. |
+| PR | Buque destinado al servicio de practicaje. |
+| RE | Buque destinado al servicio de remolque. |
+| VA | Acceso a varadero. |
+| DS | Buque en dique seco. |
+| PV | Aprovisionamiento. |
+| OT | Otras (p. e. tendido cables submarinos, investigación oceanográfica, dragado, etc.). |
+
+Observaciones.–Se reflejarán las aclaraciones que sean precisas según lo establecido en apartados anteriores, indicando si corresponden a la Autoridad Portuaria o a la Capitanía Marítima.
+
+## ANEXO IV — Información mínima requerida
+
+Apartado 1. *Información mínima requerida para la asignación de número de escala.*
+
+El declarante deberá presentar ante la autoridad portuaria el DUE con la información mínima siguiente:
+
+1\. Puerto en el que se va a escalar y al que corresponde el DUE.
+
+2\. Consignatario o declarante (nombre y NIF).
+
+3\. Buque (nombre, bandera y número OMI).
+
+4\. Fecha y hora estimada de llegada (ETA).
+
+5\. Fecha y hora estimada de salida (ETD).
+
+6\. Indicación de si transporta carga comercial de fuel pesado, alquitrán, betún asfáltico o petróleo crudo pesado (S/N).
+
+7\. De la ficha técnica del buque:
+
+Señal distintiva o indicativo de llamada.
+
+Indicador de casco único (S/N).
+
+Indicador de casco único con SBT (S/N).
+
+8\. Indicador de buque sujeto a inspección ampliada del MOU (S/N).
+
+9\. De la ficha técnica del buque: fecha y puerto de la última inspección MOU ampliada.
+
+10\. Descripción general de la carga.
+
+11\. Condiciones de tanques de carga (llenos, vacíos, inertizados).
+
+12\. Condiciones de tanques de lastre (llenos,, vacíos, inertizados).
+
+13\. Volumen de la carga.
+
+14\. Reconocimientos e inspecciones obligatorias y labores de mantenimiento y reparación previstas.
+
+La autoridad portuaria asignará número de escala siempre que estén declarados al menos los datos 1 a 7. En caso de buques contemplados en el artículo 9.1.a) de esta orden, el declarante es responsable de declarar antes de 72 horas de la ETA el resto de datos señalados en este apartado.
+
+*Apartado 2. Información mínima requerida para asignación de atraque por la Autoridad Portuaria.*
+
+El declarante deberá presentar ante la autoridad portuaria el DUE con la información mínima siguiente:
+
+1\. Compañía naviera o armador consignado.
+
+2\. Puerto anterior y puerto posterior.
+
+3\. Indicador de afecto a navegación internacional (S/N).
+
+4\. Nombre del capitán a la entrada.
+
+5\. Número de tripulantes a la entrada.
+
+6\. Indicación de si lleva o no pasaje a la entrada y número en caso afirmativo.
+
+7\. Indicación de si lleva o no polizones a la entrada y número en caso afirmativo.
+
+8\. Información sobre mercancías peligrosas. Información sobre tránsito de materias reguladas por el Real Decreto 230/1998, de 16 de febrero, por el que se aprueba el Reglamento de explosivos y por el Real Decreto 563/2010, de 7 de mayo, por el que se aprueba el Reglamento de artículos pirotécnicos y cartuchería y, en caso afirmativo, sobre la existencia de la autorización pertinente.
+
+9\. Datos de la estadía (hora y fecha de inicio de ocupación y de desocupación, calado máximo a la llegada y a la salida, actividad).
+
+10\. Detalle de operaciones de tráfico mercantil (tipo operación, pasaje/carga, tipo unidad, cantidad, compañía estibadora, hora y fecha de comienzo y fin de operaciones de carga y descarga.
+
+11\. Ficha técnica del buque con el resto de datos de la misma.
+
+12\. Lista de pasajeros (salvo excepciones según normativa vigente).
+
+13\. Lista de tripulantes (salvo excepciones según normativa vigente).
+
+14\. Datos sobre notificación de productos peligrosos o contaminantes.
+
+15\. Datos sobre declaración previa de protección.
+
+La información sobre mercancías peligrosas se refiere a si el buque va a cargar, descargar, o llevar a bordo mercancías peligrosas. La autorización de atraque o fondeo quedará supeditada a la recepción de la documentación específica sobre dichas mercancías peligrosas establecida en el Reglamento de admisión, manipulación y almacenamiento de mercancías peligrosas, salvo excepciones según normativa vigente.
+
+En los casos en los que de acuerdo a la normativa vigente, el plazo de presentación de la información venza en momento posterior al que operativamente se precise para la autorización de atraque, según los procedimientos de cada puerto, la comprobación de dicha recepción puede quedar aplazada a momento posterior a la autorización de atraque.
+
+Cuando la asignación de atraque se produzca antes de la total recepción de la información requerida en este apartado, dicha información deberá aportarse, obligatoriamente, siempre antes de la entrada del buque en puerto.
+
+*Apartado 3. *Información requerida antes de la salida del buque (para despacho)*.*
+
+El declarante deberá presentar ante la autoridad portuaria, antes de la fecha y hora estimada de salida, señalada en el DUE (ETD), toda la información requerida en el DUE que no haya sido presentada con anterioridad.
+
+La manifestación del consignatario de que obra en su poder una copia de la Declaración del capitán exime de la presentación del referido documento firmado por el capitán. Dicha manifestación contenida en el DUE permite obtener o recoger el despacho del buque autorizado por el capitán marítimo (Ship’s Clearance). Sin embargo, esto no implica que la declaración del Capitán no se encuentre en todo momento a disposición y sea presentada ante la capitanía marítima en cuanto así sea requerido.
+
+> Se modifica el apartado 2 por el art. único.16 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+## ANEXO V — Información sobre la fecha y hora de entrada y salida reales de los puertos de escala
+
+Las autoridades portuarias en el caso de puertos de interés general y los consignatarios, capitanes o navieros en el caso de puertos de titularidad de una comunidad autónoma enviarán la siguiente información:
+
+Puerto en el que se escala.
+
+Número de escala a que se refiere la información.
+
+Buque (nombre, distintivo de llamada, número OMI).
+
+Fecha y hora real en que el buque ha entrado en puerto (ATA).
+
+Fecha y hora real en que el buque ha salido de puerto (ATD).
+
+Fecha y hora de envío de estos datos.
+
+## ANEXO VI — Modelo despacho de salida
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/114/08339_001.png)
+
+## ANEXO VII — Información a enviar por el consignatario del buque, el capitán del mismo o la empresa naviera en caso de escala en un puerto español titularidad de una comunidad autónoma
+
+1\. La información que se especifica seguidamente se presentará al menos con 72 horas de antelación, respecto de la fecha prevista de llegada al puerto, o antes de abandonar el puerto o estación marítima de origen en el caso de que se prevea que el viaje vaya a durar menos de 72 horas.
+
+a) identificación del buque;
+
+b) duración prevista de la escala;
+
+c) en el caso de los buques tanque:
+
+i. configuración: Casco único, casco único con tanques de lastre separado, doble casco,
+
+ii. condiciones de los tanques de carga y de lastre: llenos, vacíos, inertizados,
+
+iii. volumen y naturaleza de la carga;
+
+d) operaciones previstas en el puerto o estación marítima de destino (carga, descarga, otras);
+
+e) reconocimientos e inspecciones obligatorias previstas y trabajos importantes de mantenimiento y reparación que hayan de efectuarse durante la estancia en el puerto de destino;
+
+f) fecha de la última inspección ampliada en la zona del MA de París.
+
+2\. La información que se especifica seguidamente se presentará al menos con veinticuatro horas de antelación a la hora prevista de llegada del buque a aguas portuarias, salvo en el caso de emergencia u otras circunstancias excepcionales debidamente motivadas, en que se comunicarán a la mayor brevedad posible:
+
+a) Identificación del buque.
+
+b) Los datos de la compañía naviera o armador consignado.
+
+c) ETA y ETD.
+
+d) Puerto anterior y posterior.
+
+e) Nombre del capitán.
+
+f) Número de polizones a bordo.
+
+g) La lista de tripulantes.
+
+h) La lista de pasajeros.
+
+i) Notificación de residuos.
+
+j) La notificación de protección.
+
+k) La información sobre mercancías peligrosas y contaminantes.
+
+> Se modifica por el art. único.16 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).
+
+> **INFORMACIÓN RELACIONADA**
+
+> Las menciones que esta Orden hace al «Documento Único de Escala» o «al DUE» se entenderán hechas a la «Declaración Única de Escala» o «a la DUE», según establece la disposición adicional 1 de la Orden FOM/1498/2014, de 1 de agosto. [Ref. BOE-A-2014-8624](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8624).

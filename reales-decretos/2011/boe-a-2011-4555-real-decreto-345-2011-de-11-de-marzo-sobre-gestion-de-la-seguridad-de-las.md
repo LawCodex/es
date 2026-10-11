@@ -1,0 +1,705 @@
+---
+title: "Real Decreto 345/2011, de 11 de marzo, sobre gestión de la seguridad de las infraestructuras viarias en la Red de Carreteras del Estado"
+identifier: "BOE-A-2011-4555"
+eli: "https://www.boe.es/eli/es/rd/2011/03/11/345"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2011-03-11
+published: 2011-03-12
+in_force_from: 2011-03-13
+last_amended: 2022-01-29
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 61"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-4555"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 345/2011, de 11 de marzo, sobre gestión de la seguridad de las infraestructuras viarias en la Red de Carreteras del Estado
+
+La mejora de la seguridad de la circulación es uno de los principales objetivos de la gestión de las infraestructuras viarias de la red de carreteras estatal que desarrolla el Gobierno de la Nación siendo su fin último conseguir reducir en la mayor medida posible las consecuencias humanas, sociales y económicas de los accidentes de circulación. Consecuencia de ello son las numerosas actuaciones que el Gobierno de la Nación ha venido desarrollando en los últimos años en orden a modernizar la red viaria y a mejorar y reforzar los equipamientos de seguridad de las carreteras españolas. En esta misma línea, se han incorporado criterios de seguridad viaria entre los determinantes de la planificación, proyecto y construcción de las nuevas carreteras, así como en la mejora de las ya existentes. Como fruto de todo ello, la mejora de la red estatal de carreteras experimentada en los últimos años ha contribuido substancialmente a la importante reducción de la accidentalidad que se ha logrado en nuestro país.
+
+Así mismo, la mejora de las infraestructuras viarias constituye uno de los pilares básicos de la política de seguridad vial de la Comisión Europea. Un objetivo fundamental de esta política, por su importancia para la integración y cohesión europea, es el de incrementar el nivel de seguridad en la Red Transeuropea de Carreteras. Con este fin se aprobó la Directiva 2008/96/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008, sobre gestión de la seguridad de las infraestructuras viarias en la que se establecen una serie de procedimientos destinados a conseguir un nivel de seguridad elevado y homogéneo en la citada red.
+
+Este real decreto se dicta con el objeto de incorporar al ordenamiento jurídico lo dispuesto en la Directiva 2008/96/CE, regulando el establecimiento y la aplicación de los métodos de actuación en materia de gestión de la seguridad de las infraestructuras viarias contemplados en dicha Directiva en las vías integrantes de la Red Transeuropea de Carreteras que formen parte de la Red de Carreteras del Estado.
+
+Los métodos de actuación que se recogen, y que se encuadran dentro del marco general establecido por Ley 25/1988, de 29 de julio, de Carreteras, son: La evaluación del impacto de las infraestructuras viarias en la seguridad en la fase inicial de la planificación; las auditorías de seguridad viaria en las fases de anteproyecto, proyecto, previa a la puesta en servicio y en el período inicial en servicio de las carreteras; la clasificación de seguridad de los tramos de la red atendiendo a la concentración de accidentes y al potencial de mejora de la seguridad, el tratamiento prioritario de los tramos de concentración de accidentes y de los que presenten un mayor potencial de ahorro de costes causados por los accidentes; así como la realización periódica de inspecciones de seguridad viaria en las carreteras en servicio.
+
+En la presente norma se establecen los contenidos, procedimientos, informes resultantes y los efectos de cada uno de los métodos de actuación que integrarán la gestión de la seguridad de las infraestructuras viarias en su ámbito de aplicación. Se regula también la composición de los equipos encargados de realizar las auditorias de seguridad viaria, el programa de formación y el procedimiento de acreditación y los requisitos que se exigirán a los auditores de seguridad viaria. Además, se especifica la titulación y la experiencia que se requerirá a los técnicos encargados de realizar los estudios detallados los tramos de concentración de accidentes, los tramos de alto potencial de mejora de la seguridad y las inspecciones de seguridad viaria en las carreteras en servicio.
+
+También se establece cómo deben aplicarse los métodos regulados según la fase administrativa en que se encuentren las actuaciones que estén en marcha en la fecha de su entrada en vigor y se regula la concesión de certificados de aptitud a los auditores de seguridad viaria durante el período inicial tras su entrada en vigor.
+
+Así mismo se incorporan al derecho español los requerimientos establecidos en la citada Directiva 2008/96/CE en materia de gestión de datos en lo relativo al cálculo del coste social medio de los accidentes de circulación. Con ello se complementa lo prescrito acerca del Registro Estatal de Víctimas y Accidentes de Tráfico en el título VI de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial, aprobada por el Real Decreto Legislativo 339/1990, de 2 de marzo, y lo referente a la estadística de accidentes de circulación, regulado en la Orden del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno de 18 de febrero de 1993, disposiciones con las que ya están incorporados al ordenamiento jurídico español los requerimientos relativos a los informes de accidentes mortales establecidos en el artículo 7 apartado 1 de la Directiva 2008/96/CE. En virtud de lo establecido en la citada Orden de 18 de febrero de 1993, el Ministerio de Fomento como administración competente en materia de infraestructuras viarias recibe la información estadística de accidentes recabada, de forma que puede utilizarla en la aplicación de los métodos regulados en el presente real decreto.
+
+El presente real decreto incluye tres anejos. En el primero se concreta el contenido de las evaluaciones de impacto de las infraestructuras viarias en la seguridad y en el segundo el de las auditorías de seguridad viaria. El tercero recoge criterios para la gestión de la seguridad de las infraestructuras viarias en servicio.
+
+Durante la tramitación de este real decreto han sido oídos los sectores afectados y se ha solicitado informe a la Dirección General de Tráfico, a la Secretaría General Técnica del Ministerio del Interior, a la Secretaría General Técnica del Ministerio de Economía y Hacienda, al Consejo de Obras Públicas, a la Delegación del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje y al Consejo de Estado.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.24.ª de la Constitución que atribuye al Estado la competencia sobre las obras públicas de interés general y se enmarca dentro de las potestades reglamentarias atribuidas al Gobierno por la disposición adicional segunda de la Ley 25/1988, de 29 de julio, de Carreteras.
+
+En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de marzo de 2011,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto y finalidad.
+
+Este real decreto tiene por objeto el establecimiento de los procedimientos relacionados con las evaluaciones de impacto de las infraestructuras viarias en la seguridad, las auditorías de seguridad viaria, la gestión de la seguridad de las infraestructuras viarias en servicio y las inspecciones de seguridad viaria y la evaluación de la seguridad de las carreteras, con el fin de conseguir un nivel de seguridad elevado y homogéneo en las carreteras de la Red Transeuropea de Carreteras, las autopistas y otras carreteras principales integrantes de la Red de Carreteras del Estado.
+
+> Se modifica por el art. único.1 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 2. Ámbito de aplicación.
+
+Las prescripciones de este real decreto se aplicarán a todas las carreteras integrantes de la Red Transeuropea, a las autopistas y a las otras carreteras principales que forman parte de la Red de Carreteras del Estado, independientemente de que se encuentren en fase de planificación, proyecto, construcción o servicio. Así mismo se aplicarán a otras carreteras y proyectos de infraestructuras viarias de la Red de Carreteras del Estado que se lleven a cabo utilizando financiación de la Unión y que estén situadas fuera de las zonas urbanas y a las que no tengan acceso las propiedades colindantes, con la excepción de las que no están abiertas a la circulación general de vehículos de motor.
+
+Podrán eximirse del ámbito de aplicación de este real decreto aquellas carreteras principales con bajo nivel de riesgo para la seguridad debidamente justificado, en relación con su volumen de tráfico y accidentalidad.
+
+Estarán excluidos de lo dispuesto en este real decreto los túneles de carretera comprendidos en el ámbito de aplicación del Real Decreto 635/2006, de 26 de mayo, por el que se regulan los requisitos mínimos de seguridad en los túneles de carreteras del Estado.
+
+> Se modifica el primer párrafo por el art. único.2 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 3. Definiciones.
+
+A efectos de aplicación de este real decreto se entenderá por:
+
+1\. Red Transeuropea de Carreteras: La red de carreteras identificada en el Reglamento (UE) 1315/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre las orientaciones de la Unión para el desarrollo de la Red Transeuropea de Transporte, y por el que se deroga la Decisión n ° 661/2010/UE.
+
+1 bis. Carretera principal: Autovía situada fuera de las zonas urbanas que conecta grandes ciudades o regiones.
+
+2\. Actuación: Conjunto de actividades cuyo objeto es la construcción o mejora de un tramo de carretera, que comprende desde la fase de planificación hasta su puesta en servicio.
+
+3\. Modificaciones sustanciales de una carretera: Actuaciones que incluyan duplicaciones de calzada, variantes de población u obras de acondicionamiento de carreteras existentes en una longitud continuada de más de 10 km.
+
+4\. Obras de acondicionamiento: Obras cuya finalidad es la modificación de las características geométricas de la carretera existente, con actuaciones tendentes a mejorar los tiempos de recorrido, el nivel de servicio y la seguridad de la circulación.
+
+5\. Proyecto de infraestructura: Proyecto para la construcción de una infraestructura viaria nueva o la modificación sustancial de infraestructuras de la red ya existente con efectos en el flujo de tráfico, incluyendo todas las fases de su desarrollo: proyecto de trazado, proyecto de construcción y proyecto de construcción modificado.
+
+6\. Evaluación del impacto de las infraestructuras viarias en la seguridad: Análisis estratégico comparativo de la repercusión de una carretera nueva o de la modificación sustancial de una carretera ya existente sobre la seguridad de la red de carreteras.
+
+7\. Auditoría de seguridad viaria: Comprobación independiente, pormenorizada, sistemática y técnica de la seguridad de las características de diseño de un proyecto de infraestructuras viarias, aplicada a las diferentes fases que van desde el anteproyecto a la explotación en su fase inicial.
+
+8\. Equipo de Auditoría: Grupo de técnicos expertos en ingeniería de carreteras y en seguridad de las infraestructuras viarias, independientes de los que redacten un proyecto, encargado de realizar la auditoría de seguridad viaria.
+
+9\. Auditor principal: Técnico responsable de un Equipo de Auditoría y de la redacción de los informes de auditoría correspondientes.
+
+10\. Auditor auxiliar: Técnico que forma parte de un Equipo de Auditoría.
+
+11\. Informe de auditoría: Documento en el que se refleja el resultado de una auditoría de seguridad viaria.
+
+12\. Informe respuesta: Informe en el que se reflejan las decisiones adoptadas como consecuencia de lo especificado en el correspondiente Informe de Auditoría.
+
+13\. Tramo de concentración de accidentes (TCA): Tramo de carretera de longitud no superior a 3 km, salvo excepciones justificadas, que lleve en explotación más de tres años, en el que las estadísticas de accidentes registrados indican que el nivel de riesgo de accidente es significativamente superior al de aquellos tramos de la red con características semejantes.
+
+14\. Tramo completo de carretera: Tramo de carretera comprendido entre dos elementos en los que pueden producirse modificaciones en las condiciones del tráfico o de la propia carretera que afectan a la seguridad viaria: nudos (intersecciones o enlaces, poblaciones o límites provinciales).
+
+15\. Valoración de la seguridad: Clasificación en categorías de los tramos completos de la red de carreteras en servicio atendiendo a su seguridad inherente medida objetivamente, teniendo en cuenta su potencial de mejora de la seguridad y de ahorro de costes originados por los accidentes de circulación.
+
+16\. Tramo de alto potencial de mejora de la seguridad (TAPM): Tramo completo de carretera con un alto potencial de ahorro de los costes originados por los accidentes en el que se espera que una mejora de la infraestructura sea altamente efectiva.
+
+16 bis. Inspección específica de seguridad viaria: Investigación específica para detectar condiciones peligrosas, defectos y problemas que aumentan el riesgo de accidentes y lesiones, a partir de una visita*in situ* a una carretera o tramo de carretera en servicio.
+
+17\. Inspección periódica de seguridad viaria: Comprobación ordinaria periódica de las características y los defectos que requieren una intervención de mantenimiento por motivos de seguridad.
+
+18\. Directrices: Pautas sobre los pasos que deben darse y los elementos que deben tenerse en cuenta a la hora de aplicar los procedimientos en materia de seguridad establecidos por el presente Real Decreto y su proceso de aplicación.
+
+19\. Usuario vulnerable de la vía pública: Usuario de la vía pública no motorizado, incluidos, en particular, los ciclistas y los peatones, así como los usuarios de vehículos de motor de dos ruedas.
+
+> Se modifican los puntos 1, 15 y la denominación del 17 y se añaden los puntos 1 bis, 16 bis y 19 por el art. único.3 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## CAPÍTULO II — Evaluación del impacto de las infraestructuras viarias en la seguridad
+
+### Artículo 4. Contenido.
+
+La evaluación del impacto de las infraestructuras viarias en la seguridad consistirá en la realización de un análisis estratégico comparativo en la fase inicial de planificación con el fin de determinar la repercusión de una carretera de nuevo trazado o de la modificación sustancial de una carretera ya existente sobre la seguridad de la red viaria. Dicha evaluación se llevará a cabo en todos los proyectos de infraestructura de carreteras que se encuentren dentro del ámbito de aplicación del presente real decreto.
+
+La evaluación del impacto en la seguridad incluirá un análisis cualitativo y cuantitativo del efecto de las alternativas contempladas sobre la seguridad con el fin de asegurar una consideración explícita de las consecuencias de la adopción de las distintas alternativas en los niveles de seguridad. Su contenido responderá a lo establecido en el anexo I.
+
+### Artículo 5. Procedimiento.
+
+La evaluación del impacto de las infraestructuras viarias en la seguridad se realizará durante la elaboración del estudio informativo de una actuación. La Dirección General de Carreteras dictará las instrucciones pertinentes que definan las directrices del procedimiento de realización de dichas evaluaciones.
+
+### Artículo 6. Informe.
+
+El informe de evaluación del impacto de las infraestructuras viarias en la seguridad deberá exponer las consideraciones en materia de seguridad que resulten relevantes para la elección de la solución propuesta en el estudio informativo. Además, deberá facilitar la información necesaria para realizar un análisis coste-beneficio de las distintas opciones examinadas.
+
+El informe de evaluación de impacto de las infraestructuras viarias en la seguridad se incorporará al expediente del estudio informativo.
+
+### Artículo 7. Efectos.
+
+Los resultados de la evaluación de impacto de las infraestructuras viarias en la seguridad serán tenidos en consideración expresamente en el análisis que sirva de base para la elección de la alternativa que se proponga en el estudio informativo.
+
+## CAPÍTULO III — Auditorías de seguridad viaria
+
+### Artículo 8. Contenido.
+
+Las auditorías de seguridad viaria consistirán en una comprobación independiente pormenorizada, sistemática y técnica de la seguridad de las características del diseño de un proyecto de infraestructura viaria por parte de auditores de seguridad viaria debidamente acreditados. Su objetivo consistirá en identificar los potenciales problemas que pudieran afectar a la seguridad a fin de que se adopten las medidas que resulten viables para eliminar o paliar dichos problemas y se llevarán a cabo en todos los proyectos de infraestructura de carreteras incluidas dentro del ámbito de aplicación de este real decreto.
+
+Las auditorías de seguridad viaria formarán parte integrante de los procesos de proyecto y construcción de una carretera nueva y de modificación sustancial de una carretera ya existente en las fases de anteproyecto, proyecto de trazado, proyecto de construcción, previa a la puesta en servicio y en la fase inicial en servicio. Serán también objeto de auditorías de seguridad viaria los proyectos de construcción modificados que se redacten en la fase de construcción.
+
+El contenido de las auditorías de seguridad viaria responderá a lo establecido en el anexo II.
+
+### Artículo 9. Procedimiento.
+
+Las auditorías de seguridad viaria de cada fase serán procesos independientes. En cada una de ellas se redactará un Informe de Auditoría.
+
+La Dirección General de Carreteras dictará las instrucciones pertinentes que definan las directrices del procedimiento de realización de auditorías de seguridad viaria.
+
+### Artículo 10. Equipos de auditoría.
+
+Las auditorías de seguridad viaria serán realizadas por equipos de auditoría cuyos componentes deberán cumplir los requisitos establecidos en el artículo 12 correspondientes a la fase en la que se encuentre la actuación a auditar.
+
+En cada caso, la Dirección General de Carreteras establecerá la composición del equipo de auditoría que deberá incluir como mínimo un auditor principal y un auditor auxiliar. Cuando las circunstancias de la actuación lo aconsejen, en el equipo de auditoría se integrarán técnicos especialistas en las materias específicas necesarias.
+
+La designación de los auditores de seguridad viaria se realizará por la Dirección General de Carreteras entre aquéllos que cumplan los requisitos establecidos.
+
+El equipo de auditoría revisará los aspectos relacionados con la seguridad de una actuación de acuerdo con el nivel de detalle con el que esté definida, para identificar los elementos de diseño críticos desde el punto de vista de la seguridad y las deficiencias y las omisiones que puedan comprometer la seguridad. También deberá prestar el asesoramiento que se le requiera para la definición de las posibles soluciones.
+
+### Artículo 11. Formación y acreditación de los auditores de seguridad viaria.
+
+La Dirección General de Carreteras establecerá un programa de formación inicial y un programa de actualización periódica de conocimientos de los auditores de seguridad viaria. Así mismo, por orden del Ministro de Fomento se establecerá un procedimiento de acreditación y certificación de aptitud de dichos auditores.
+
+Los programas de formación de los auditores de seguridad vial incluirán aspectos relacionados con los usuarios vulnerables de la vía pública y las infraestructuras para dichos usuarios.
+
+> Se añade un párrafo por el art. único.4 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 12. Requisitos de los auditores de seguridad viaria.
+
+Los auditores de seguridad viaria que desempeñen las funciones previstas en el presente real decreto podrán tener una relación funcionarial o contractual con la Dirección General de Carreteras, pero no recibirán instrucciones de ésta en relación con el resultado de la auditoría.
+
+Deberán cumplir los siguientes requisitos:
+
+a) Auditores principales en las fases de anteproyecto y proyecto:
+
+1\. Tener experiencia o formación específicas.en diseño de carreteras, ingeniería de la seguridad vial y análisis de accidentes
+
+2\. Haber realizado el programa de formación de auditores al que se refiere el artículo 11, haber superado las pruebas de acreditación que se establezcan y haber participado en el equipo de auditoría de tres proyectos de carreteras de las fases de anteproyecto o proyecto bajo la dirección de un auditor principal acreditado.
+
+3\. Formación continua: Haber realizado con la periodicidad que se establezca los cursos periódicos de actualización de conocimientos a que se refiere el artículo 11.
+
+4\. Independencia: El auditor no deberá haber participado, en el momento de la auditoría, en la elaboración del anteproyecto o proyecto de la carretera en cuestión.
+
+b) Auditores principales de las fases previa a la puesta en servicio e inicial en servicio:
+
+1\. Tener experiencia o formación específicas.en diseño de carreteras, ingeniería de la seguridad vial y análisis de accidentes
+
+2\. Haber realizado el programa de formación de auditores al que se refiere el artículo 11, haber superado las pruebas de acreditación que se establezcan y haber participado en el equipo de auditoría de tres proyectos de carreteras de las fases de previa a la puesta en servicio o fase inicial en servicio bajo la dirección de un auditor principal acreditado.
+
+3\. Formación continua: Haber realizado con la periodicidad que se establezca los cursos periódicos de actualización de conocimientos a que se refiere el artículo 11.
+
+4\. Independencia: El auditor no deberá haber participado en la elaboración del anteproyecto o proyecto o en la construcción de la carretera en cuestión.
+
+c) Auditores auxiliares:
+
+1\. Tener experiencia o formación específicas.en diseño de carreteras, ingeniería de la seguridad vial y análisis de accidentes
+
+2\. Haber realizado el programa de formación de auditores al que se refiere el artículo 11 y haber superado las pruebas de acreditación que se establezcan.
+
+3\. Formación continua: Haber realizado con la periodicidad que se establezca los cursos periódicos de actualización de conocimientos a que se refiere el artículo 11.
+
+4\. Independencia: El auditor auxiliar no deberá haber participado, en el momento de la auditoría, en la elaboración del anteproyecto o proyecto o en la construcción de la carretera en cuestión.
+
+> Se modifica el punto 4 de la letra c) por el art. único.5 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 13. Informes.
+
+El auditor principal expondrá en el informe de auditoría los elementos de diseño críticos desde el punto de vista de la seguridad y las deficiencias y omisiones identificadas en la fase de la actuación objeto de la auditoría, detallando la naturaleza del riesgo para la seguridad que pudieran suponer. El contenido de los informes responderá a lo fijado en el anejo II y en las directrices a las que se refiere el artículo 9.
+
+El informe de auditoría de seguridad viaria se incorporará al expediente de la fase de la actuación a que corresponda.
+
+### Artículo 14. Efectos.
+
+En las fases de anteproyecto y proyecto, se realizarán las modificaciones del proyecto que resulten viables para eliminar o paliar los problemas identificados en el informe de auditoría teniendo en cuenta los condicionamientos técnicos y económicos.
+
+En la fase previa a la puesta en servicio, se adoptarán las medidas que resulten viables para eliminar o paliar las deficiencias y omisiones que hubiesen sido identificados en el informe de auditoría teniendo en cuenta los condicionamientos técnicos y económicos.
+
+En la fase inicial en servicio, se adoptarán en su caso las medidas que resulten viables para atenuar los problemas de seguridad identificados en el informe de auditoría a la luz del comportamiento real de los usuarios teniendo en cuenta los condicionamientos técnicos y económicos.
+
+En todos los casos la Dirección General de Carreteras redactará un informe respuesta en el que se detallarán los aspectos técnicos de las medidas adoptadas como consecuencia de lo especificado en el correspondiente informe de auditoría y se expondrán, en su caso, las razones por las que no se haya procedido a la modificación del diseño en correspondencia con alguno de los elementos de riesgo señalados en el informe de auditoría. El contenido de los informes respuesta responderá a lo fijado en las directrices a las que se refiere el artículo 9.
+
+El informe respuesta se incorporará al expediente de la fase de la actuación a que corresponda.
+
+## CAPÍTULO IV — Evaluación y gestión de la seguridad de las infraestructuras viarias en servicio
+
+> Se modifica el título por el art. único.6 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 15. Contenido.
+
+La gestión de la seguridad en las carreteras incluidas dentro del ámbito de aplicación de este real decreto incluirá la evaluación de la seguridad de los tramos completos de las carreteras en servicio (ESC) en la que se integran la identificación y el tratamiento de los tramos de concentración de accidentes (TCA) y de los tramos de alto potencial de mejora de la seguridad (TAPM).
+
+Las evaluaciones de la seguridad de las carreteras serán llevadas a cabo por equipos de expertos que evaluarán el riesgo de que se produzcan accidentes y de que el impacto sea grave, a tenor de:
+
+a) Principalmente, un examen visual, realizado sobre el terreno o por medios electrónicos, de las condiciones de seguridad intrínseca de los tramos completos de carretera; y
+
+b) Un análisis de los tramos que habiendo estado en explotación más de tres años hayan sido identificados como tramos de concentración de accidentes (TCA) con los criterios establecidos en el anexo III.
+
+Las evaluaciones de seguridad serán realizadas por equipos de expertos. Uno de los miembros del equipo de expertos, como mínimo, deberá cumplir los requisitos establecidos en el artículo 12.a) o 12.b).
+
+Al efectuar la evaluación de la seguridad de los tramos completos de las carreteras incluidas dentro del ámbito de aplicación de este real decreto, se podrán tener en cuenta los elementos establecidos en el anexo IV.
+
+La Dirección General de Carreteras llevará a cabo la primera evaluación de la seguridad de las carreteras en servicio incluidas en el ámbito de aplicación del presente real decreto a más tardar en 2024. Las posteriores evaluaciones de la seguridad de las carreteras del conjunto de la red se efectuarán con la suficiente frecuencia como para garantizar unos niveles de seguridad adecuados, pero, en cualquier caso, al menos cada cinco años.
+
+Sobre la base de los resultados de la evaluación, y a fin de establecer prioridades entre las medidas que habrán de adoptarse en el futuro, la Dirección General de Carreteras identificará los tramos de alto potencial de mejora (TAPM) con los criterios establecidos en el anexo III, clasificará todos los tramos completos incluidos en el ámbito de aplicación del presente real decreto en no menos de tres categorías atendiendo a su seguridad inherente y a su potencial de mejora de la seguridad y de ahorro de costes originados por los accidentes de circulación y realizará inspecciones específicas de seguridad viaria en los TCA y los TAPM detectados.
+
+Las inspecciones específicas de seguridad viaria tendrán como fin identificar los elementos de la configuración de la carretera que pudieran contribuir a que se acumulen los accidentes y proponer las medidas correctivas o preventivas adecuadas. En su realización se podrán tener en cuenta los elementos indicativos recogidos en el anexo III bis.
+
+Los técnicos encargados de la realización de los estudios detallados de actuaciones deberán cumplir los requisitos establecidos en el artículo 12.c).1. Tras la inspección, los técnicos que la hayan realizado emitirán decisiones motivadas que establezcan si es necesario tomar medidas correctoras, a partir de las cuales la Dirección General de Carreteras definirá acciones prioritarias destinadas a mejorar la seguridad.
+
+Por otro lado, la Dirección General de Carreteras velará por el establecimiento de la señalización y el balizamiento adecuados para anunciar a los usuarios los tramos de carretera que se encuentren en obras con arreglo a la normativa vigente y prestará especial atención en sus procedimientos actuales y futuros sobre señales y marcas viales, a la legibilidad y la detectabilidad por conductores humanos y sistemas automatizados de asistencia al conductor. Dichos procedimientos tendrán en cuenta las especificaciones comunes que se establezcan de conformidad con lo estipulado en el artículo 6 quáter.3 de la Directiva (UE) 2019/1936 de 23 de octubre de 2019.
+
+> Se modifica por el art. único.7 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 16. Procedimientos.
+
+La Dirección General de Carreteras establecerá las instrucciones pertinentes que definan las directrices de los procedimientos para la evaluación de la seguridad de los tramos completos de carretera (ESC), la identificación y la inspección específica de los tramos de concentración de accidentes (TCA) y de los tramos de alto potencial de mejora de la seguridad (TAPM) y la clasificación de los tramos de carreteras según su nivel de seguridad.
+
+> Se modifica por el art. único.8 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+> Véase, en cuanto al plazo para el establecimiento de las directrices, la disposición final tercera del citado Real Decreto.
+
+### Artículo 17. Efectos.
+
+La Dirección General de Carreteras velará por que las conclusiones de las evaluaciones de seguridad de las carreteras del conjunto de la red efectuadas de conformidad con el artículo 15 sean objeto de seguimiento, ya sea mediante inspecciones específicas de seguridad vial o mediante medidas correctoras directas.
+
+Se tomarán medidas correctoras específicas en los tramos de carretera con bajo nivel de seguridad y que brinden la oportunidad de aplicar medidas con un elevado potencial de mejora de la seguridad y de ahorro de los costes causados por accidentes. Con este fin, elaborarán y actualizarán periódicamente un plan de acción para llevar a cabo las medidas correctoras identificadas en las evaluaciones de seguridad viaria y en las inspecciones específicas de seguridad viaria, en el que se concederá prioridad a la ejecución de las medidas de mayor índice de eficacia.
+
+La Dirección General de Carreteras velará por que los usuarios de las carreteras estén informados de la existencia de tramos de carretera con alta concentración de accidentes.
+
+> Se modifica por el art. único.9 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## CAPÍTULO V — Inspecciones periódicas de seguridad viaria
+
+> Se modifica el título por el art. único.10 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 18. Contenido.
+
+La Dirección General de Carreteras llevará a cabo inspecciones periódicas de seguridad viaria de las carreteras incluidas dentro del ámbito de aplicación de este real decreto a través de las cuales se identificarán los elementos de la carretera susceptibles de mejora en los que se requiera una actuación de mantenimiento por motivos de seguridad con frecuencia suficiente para garantizar niveles de seguridad adecuados para la infraestructura viaria en cuestión.
+
+La Dirección General de Carreteras realizará también comprobaciones de las posibles repercusiones de las obras viarias sobre la seguridad del flujo de tráfico en dichas carreteras y velará por que se adopten las medidas de seguridad pertinentes.
+
+Los tramos de la red de carreteras limítrofes con los túneles de carretera incluidos en el ámbito del Real Decreto 635/2006, de 26 de mayo, sobre requisitos mínimos de seguridad en los túneles de carreteras del Estado y de la Directiva 2004/54/CE del Parlamento Europeo y del Consejo de 29 de abril de 2004, sobre requisitos mínimos de seguridad para túneles de la Red Transeuropea de Carreteras, serán objeto de inspecciones conjuntas de seguridad vial con la participación de los órganos competentes de la aplicación del presente real decreto y del Real Decreto 635/2006, de 26 de mayo, al menos cada seis años.
+
+> Se modifica por el art. único.11 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 19. Procedimiento.
+
+La Dirección General de Carreteras dictará las instrucciones pertinentes que definan las directrices del procedimiento para la realización de inspecciones periódicas de seguridad viaria.
+
+> Se modifica por el art. único.12 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 20. Requisitos de los inspectores.
+
+Los inspectores de seguridad vial que desempeñen las funciones previstas en el presente Real Decreto podrán tener una relación funcionarial o contractual con la Dirección General de Carreteras y deberán cumplir los requisitos establecidos en el artículo 12.c).1.
+
+### Artículo 21. Efectos
+
+Las inspecciones periódicas de seguridad viaria darán como resultado una propuesta de las actuaciones preventivas que requieran una actuación de mantenimiento.
+
+La Dirección General de Carreteras incluirá estas medidas en los programas de conservación y de mejora de la seguridad viaria y las ejecutará en el menor plazo posible en función de su idoneidad técnica y de la disponibilidad presupuestaria.
+
+> Se modifica por el art. único.13 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## CAPÍTULO V BIS — Protección de los usuarios vulnerables de la vía pública
+
+> Se añade por el art. único.14 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 21 bis. Contenido.
+
+Las necesidades de los usuarios vulnerables de la vía pública serán tenidas en cuenta expresamente cuando se apliquen los procedimientos establecidos en los capítulos II a V.
+
+> Se añade por el art. único.14 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## CAPÍTULO VI — Gestión de datos
+
+### Artículo 22. Cálculo del coste social de los accidentes.
+
+La Dirección General de Tráfico calculará el coste social medio de los accidentes mortales y de los accidentes graves que se produzcan en España. El cálculo de dichos costes se actualizará cada cinco años.
+
+## CAPÍTULO VII — Sistema de notificación
+
+> Se añade por el art. único.15 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Artículo 23. Sistema de notificación voluntaria.
+
+La Dirección General de Carreteras dispondrá un sistema de notificación voluntaria, accesible en línea, con el fin de recopilar las comunicaciones relativas a incidentes y cualquier otra información relacionada con la seguridad de las infraestructuras viarias que transmitan los usuarios de la Red de Carreteras del Estado.
+
+> Se añade por el art. único.15 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+### Disposición transitoria primera. Actuaciones sin estudio informativo aprobado.
+
+Las actuaciones cuyo estudio informativo no haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 5 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras aprobado por el Real Decreto 1812/1994, de 2 de septiembre, serán objeto de evaluación del impacto de las infraestructuras viarias en la seguridad de acuerdo con lo establecido en el capítulo II.
+
+### Disposición transitoria segunda. Actuaciones con estudio informativo aprobado.
+
+Las actuaciones cuyo estudio informativo haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 5 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, no serán objeto de evaluación del impacto de las infraestructuras viarias en la seguridad.
+
+### Disposición transitoria tercera. Actuaciones sin anteproyecto aprobado.
+
+Las actuaciones para las que se requiera la elaboración de un anteproyecto y éste no haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 9 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, serán objeto de auditoría de seguridad viaria en las fases de anteproyecto y proyecto, previa a la puesta en servicio e inicial en servicio de acuerdo con lo establecido en el capítulo III.
+
+### Disposición transitoria cuarta. Actuaciones con anteproyecto aprobado.
+
+Las actuaciones para las que se requiera la elaboración de un anteproyecto y éste haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 9 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, no serán objeto de auditoría de seguridad viaria en la fase de anteproyecto.
+
+### Disposición transitoria quinta. Actuaciones sin proyecto aprobado.
+
+Las actuaciones cuyo proyecto en alguna de sus fases no haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 9 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, serán objeto de auditoría de seguridad viaria en aquellas fases que no hubieran sido aprobadas y en las fases previa a la puesta en servicio e inicial en servicio de acuerdo con lo establecido en el capítulo III.
+
+### Disposición transitoria sexta. Actuaciones con proyecto de construcción aprobado.
+
+Las actuaciones cuyo proyecto de construcción se encontrase aprobado provisionalmente por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, pero que no se hubiesen puesto en servicio con anterioridad a la fecha de entrada en vigor de las Directrices a las que se refiere el artículo 9, serán objeto de auditoría de seguridad viaria en las fases previa a la puesta en servicio e inicial en servicio de acuerdo con lo establecido en el capítulo III. También serán objeto de auditoría de seguridad viaria los proyectos de construcción modificados que no hayan sido aprobados con anterioridad a la citada fecha.
+
+### Disposición transitoria séptima. Acreditación de auditores.
+
+Durante un período de dos años desde la entrada en vigor de las Directrices a las que se refiere el artículo 9, las auditorías de seguridad viaria podrán ser realizadas por técnicos en seguridad de las infraestructuras viarias que reúnan los requisitos establecidos en los apartados 1 y 4 de las letras a) b) y c) del artículo 12. Transcurrido este período, dichas auditorías sólo podrán realizarse por auditores de seguridad viaria acreditados que reúnan todos los requisitos previstos en el artículo 12.
+
+### Disposición transitoria octava. Carreteras en servicio.
+
+La gestión de la seguridad de las infraestructuras viarias en servicio se realizará de acuerdo con los requerimientos del presente Real Decreto a partir de la fecha de entrada en vigor de las Directrices a las que se refiere el artículo 16.
+
+### Disposición final primera. Título competencial.
+
+Este Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.24.ª de la Constitución que atribuye al Estado la competencia exclusiva sobre las obras públicas de interés general.
+
+### Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este Real Decreto se incorpora al derecho español la Directiva 2008/96/CE del Parlamento Europeo y del Consejo, de 19 de noviembre de 2008, sobre gestión de la seguridad de las infraestructuras viarias.
+
+### Disposición final tercera. Desarrollo normativo.
+
+Se habilita al Ministro de Fomento para dictar las normas necesarias para el desarrollo y aplicación de este real decreto en el ámbito de sus competencias, así como para modificar sus anexos cuando sea necesario como consecuencia de lo que disponga la normativa comunitaria. En particular, se habilita al Ministro de Fomento para el establecimiento del procedimiento de acreditación y certificación de aptitud de los auditores de seguridad viaria a que hace referencia el artículo 11.
+
+Se habilita al Ministro del Interior para dictar las normas necesarias, dentro del ámbito de sus competencias, para el desarrollo y aplicación de lo dispuesto en el artículo 22 de este real decreto.
+
+### Disposición final cuarta. Plazos para el establecimiento de las directrices, del programa de formación de los auditores de seguridad viaria y de su procedimiento de acreditación y certificación.
+
+Antes del 19 de diciembre de 2011, la Dirección General de Carreteras dictará las instrucciones pertinentes que definan las directrices a las que se refieren los artículos 5, 9, 16 y 19. y establecerá el programa de formación de auditores de seguridad viaria a que se refiere el artículo 11. Así mismo, antes de la citada fecha, el Ministro de Fomento dictará la Orden por la que se establezca el procedimiento de acreditación y certificación de aptitud de los auditores.
+
+### Disposición final quinta. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 11 de marzo de 2011.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+JOSÉ BLANCO LÓPEZ
+
+## ANEXO I — Contenido de las evaluaciones de impacto de las infraestructuras viarias en la seguridad
+
+Las evaluaciones de impacto de las infraestructuras en la seguridad contemplarán los siguientes aspectos:
+
+Análisis de la situación actual de la seguridad vial en el ámbito del estudio informativo.
+
+Estimación de la evolución de la seguridad vial en la hipótesis de inacción.
+
+Objetivos de reducción de accidentes y víctimas de la actuación objeto del estudio frente al supuesto de inacción.
+
+Análisis de las condiciones de seguridad de cada alternativa para los usuarios de las carreteras, incluidos los usuarios vulnerables cuya presencia habitual sea previsible teniendo en cuenta las características de la carretera definidas en el estudio informativo y las del tráfico previsto.
+
+Análisis los efectos de la construcción de las carreteras objeto del estudio en la seguridad de las vías existentes.
+
+Análisis de los efectos de la estacionalidad y las condiciones meteorológicas en la seguridad de la circulación.
+
+Análisis de los efectos de la orientación de los corredores de trazado considerados en las distintas alternativas y sus consecuencias en cuanto a los problemas de deslumbramiento por el sol y de umbría y formación de hielo.
+
+Análisis de la necesidad de disponer zonas de descanso y aparcamientos de emergencia.
+
+Análisis del potencial riesgo para la circulación asociado a actividad sísmica.
+
+Estimación del tráfico y de la accidentalidad en función de las características de las alternativas consideradas, incluidos los flujos estimados de peatones y bicicletas.
+
+> Se modifica el último inciso por el art. único.16 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## ANEXO II — Elementos indicativos de las auditorías de seguridad viaria
+
+1\. En las fases de anteproyecto y proyecto de trazado: Los aspectos que se deben revisar en las auditorías de seguridad viaria de los anteproyectos y los proyectos de trazado son, entre otros, los siguientes:
+
+Alcance del estudio.
+
+Velocidad de proyecto.
+
+Tipo y grado de accesibilidad.
+
+Sección transversal tipo.
+
+Elección de las alternativas de trazado.
+
+Nudos previstos (número y movimientos permitidos).
+
+Zonas de descanso y servicios.
+
+Posibles problemas de seguridad de todos los tipos de usuarios.
+
+Disposiciones relativas a los usuarios vulnerables de la vía pública:
+
+i) Disposiciones relativas a los peatones,
+
+ii) Disposiciones relativas a los ciclistas, incluida la existencia de rutas alternativas o de separaciones del tráfico motorizado a gran velocidad,
+
+iii) Disposiciones relativas a los vehículos de motor de dos ruedas,
+
+iv) Densidad y situación de los pasos para peatones y ciclistas,
+
+v) Disposiciones relativas a los peatones y los ciclistas en las carreteras afectadas de la zona,
+
+vi) Separación de los peatones y los ciclistas del tráfico motorizado a gran velocidad o existencia de rutas alternativas directas en carreteras de clase inferior.
+
+Condiciones meteorológicas y las características naturales del lugar.
+
+Permeabilidad transversal de la carretera.
+
+Iluminación.
+
+Dispositivos de cerramiento y escape de fauna.
+
+Impactos en la red viaria existente y la integración en ella del tramo en estudio.
+
+2\. En la fase de proyecto de construcción: Los aspectos que se deben revisar en las auditorías de seguridad viaria de los proyectos de construcción son, entre otros, los siguientes:
+
+Función de la carretera.
+
+Secciones transversales.
+
+Trazado.
+
+Diseño de los nudos.
+
+Disposición general del sistema de drenaje.
+
+Características superficiales del firme.
+
+Señalización.
+
+Balizamiento.
+
+Tratamiento de las márgenes de la carretera.
+
+Sistemas de contención de vehículos.
+
+Iluminación.
+
+Restantes elementos de equipamiento de la carretera.
+
+Accesos a la carretera.
+
+Estructuras.
+
+Túneles en aquellos aspectos en los que no sean de aplicación la Directiva 2004/54/CE y el Real Decreto 635/2006, de 26 de mayo.
+
+Tramos urbanos y travesías de poblaciones.
+
+Seguridad, en su caso, del transporte público, y disposiciones relativas a los usuarios vulnerables de la vía pública.
+
+i) Disposiciones relativas a los peatones,
+
+ii) Disposiciones relativas a los ciclistas,
+
+iii) Disposiciones relativas a los vehículos de motor de dos ruedas.
+
+Impactos en la seguridad de la circulación en la red viaria existente.
+
+Medidas de ordenación temporal del tráfico durante la obra.
+
+Medidas para la explotación segura.
+
+3\. En la fase previa a la puesta en servicio: Los aspectos que se deben revisar en las auditorías de seguridad viaria en la fase previa a la puesta en servicio tanto en el tramo que se ponga en servicio como en los nudos y conexiones con el resto de la red viaria son, entre otros, los siguientes:
+
+Adecuación y legibilidad de la señalización vertical y horizontal y del balizamiento.
+
+Adecuación del estado del firme y del sistema de drenaje.
+
+Condiciones de seguridad de las márgenes.
+
+Adecuación de la disposición de los sistemas de contención.
+
+Adecuación de las distancias de visibilidad.
+
+Adecuación de las transiciones entre secciones de distintas características.
+
+Adecuación de las disposiciones de seguridad para todos los usuarios de la carretera.
+
+Adecuación de los accesos a las instalaciones previstas para las tareas de conservación y explotación de la carretera.
+
+4\. En la fase inicial en servicio: Evaluación de la seguridad a la luz del comportamiento real de los usuarios.
+
+> Se modifica el título y los puntos 1 y 2 por el art. único.17 a 19 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## ANEXO III — Criterios para la determinación de los TCA y TAPM
+
+1\. Determinación de los tramos de carretera con alta concentración de accidentes.
+
+El procedimiento de detección de tramos de concentración de accidentes (TCA) permitirá identificar los tramos en los que los registros de accidentes procedentes del Registro Estatal de Víctimas y Accidentes de Tráfico y la información sobre las características, la tipología y las intensidades de tráfico de las carreteras indiquen que el nivel de riesgo de accidente es significativamente superior al medio en los tramos de la red de características semejantes y en los que una actuación de mejora de la infraestructura puede conducir previsiblemente a una reducción efectiva de la accidentalidad. En dicho procedimiento se deberán tener en cuenta, al menos, el número de accidentes con víctimas que se hayan registrado durante los tres años anteriores en relación con el volumen de tráfico. A efectos de facilitar la coordinación de las medidas de gestión de tráfico y de seguridad viaria que resulten oportunas en el ámbito de aplicación del presente Real Decreto, la Dirección General de Carreteras informará a la Dirección General de Tráfico sobre la localización de los tramos de concentración de accidentes que hayan sido identificados.
+
+2\. Determinación de los tramos con un alto potencial de mejora de la seguridad.
+
+La identificación de los tramos con un alto potencial de mejora de la seguridad (TAPM) estará basada en la clasificación de los tramos completos de la red de carreteras en servicio atendiendo a su potencial de mejora de la seguridad y de ahorro de costes originados por los accidentes de circulación. El procedimiento de identificación de los TAPM constará de los siguientes elementos:
+
+a) Clasificación de la red en categorías de secciones comparables con arreglo a factores relacionados con la seguridad, como tipo de carretera, volumen del tráfico y tipología del tráfico.
+
+b) Estimación de la reducción potencial de costes de la accidentalidad alcanzable en cada sección de la red mediante actuaciones de mejora de la infraestructura.
+
+c) Identificación de los tramos completos de la red en los que la reducción potencial de costes de la accidentalidad resulte más elevada, que serán considerados tramos con un alto potencial de mejora de la seguridad (TAPM).
+
+> Se modifica el título y el punto 2 por el art. único.20 y 21 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## ANEXO III BIS — Elementos indicativos de las inspecciones específicas de seguridad vial
+
+1\. Trazado y sección transversal de la vía:
+
+Visibilidad.
+
+Legibilidad del trazado.
+
+Condiciones de la sección transversal.
+
+Limitaciones de velocidad.
+
+Accesos a la carretera.
+
+Accesos de los vehículos de emergencias y de servicio.
+
+2\. Nudos:
+
+Tipo y condiciones geométricas.
+
+Visibilidad y percepción desde las aproximaciones y en el nudo.
+
+Condiciones de los elementos de ordenación y regulación del tráfico.
+
+Canalización de los flujos de peatones y de ciclistas.
+
+3\. Disposiciones relativas a los usuarios vulnerables de la vía pública:
+
+Disposiciones relativas a los peatones.
+
+Disposiciones relativas a los ciclistas.
+
+Disposiciones relativas a los vehículos de motor de dos ruedas.
+
+4\. Señalización e iluminación:
+
+Coherencia y legibilidad.
+
+Condiciones de los soportes.
+
+5\. Márgenes y dispositivos de contención:
+
+Condiciones de las márgenes.
+
+Condiciones y disposición de los sistemas de contención.
+
+Terminales de las barreras de seguridad.
+
+Vallado (en carreteras con control de accesos).
+
+6\. Firme:
+
+Estado.
+
+Adherencia.
+
+Regularidad.
+
+Drenaje.
+
+7\. Viaductos y túneles:
+
+Elementos de seguridad.
+
+8\. Otras cuestiones:
+
+Zonas seguras de estacionamiento y descanso.
+
+Deslumbramiento por los faros.
+
+Actividades peligrosas en las márgenes.
+
+Animales sueltos.
+
+Obras.
+
+> Se añade por el art. único.22 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)
+
+## ANEXO IV — Elementos indicativos de las evaluaciones de seguridad de las carreteras
+
+1\. Aspectos generales:
+
+Tipo de carretera.
+
+Tipo de zona (rural, urbana).
+
+Uso del suelo.
+
+Presencia de vías de servicio.
+
+2\. Volumen de tráfico:
+
+De vehículos ligeros, pesados, motocicletas, bicicletas y peatones.
+
+3\. Accidentes por grupo de usuarios de la vía pública:
+
+Con víctimas.
+
+Mortales.
+
+4\. Características operativas:
+
+Límites de velocidad.
+
+Velocidad de servicio (percentil 85).
+
+5\. Características geométricas:
+
+Sección transversal.
+
+Trazado en planta y alzado.
+
+Visibilidad.
+
+6\. Condiciones de las márgenes:
+
+Pendiente y desnivel.
+
+Distancia a obstáculos no franqueables.
+
+Sistemas de contención de vehículos.
+
+Bandas sonoras.
+
+7\. Puentes y túneles:
+
+Túneles en aquellos aspectos en los que no sean de aplicación la Directiva 2004/54/CE de 29 de abril de 2004, y el Real Decreto 635/2006, de 26 de mayo.
+
+8\. Intersecciones:
+
+Canalización de los movimientos.
+
+Visibilidad.
+
+Señalización.
+
+9\. Instalaciones para los usuarios vulnerables:
+
+Pasos de peatones (cruces de calzada en superficie y con separación de nivel).
+
+Pasos de ciclistas (cruces de calzada en superficie y con separación de nivel).
+
+Visibilidad y señalización de los cruces de calzada.
+
+Aceras.
+
+Vallas para peatones.
+
+Sendas peatonales.
+
+Vías para la circulación de bicicletas, carril de bicicletas y otros.
+
+Rutas alternativas para peatones y ciclistas cuando no existan instalaciones separadas.
+
+> Se añade por el art. único.23 del Real Decreto 61/2022, de 25 de enero de 2022. [Ref. BOE-A-2022-1425](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-1425)

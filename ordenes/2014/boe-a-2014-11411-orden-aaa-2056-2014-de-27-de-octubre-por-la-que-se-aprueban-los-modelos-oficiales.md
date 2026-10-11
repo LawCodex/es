@@ -1,0 +1,439 @@
+---
+title: "Orden AAA/2056/2014, de 27 de octubre, por la que se aprueban los modelos oficiales de solicitud de autorización y de declaración de vertido"
+identifier: "BOE-A-2014-11411"
+eli: "https://www.boe.es/eli/es/o/2014/10/27/aaa2056"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2014-10-27
+published: 2014-11-05
+in_force_from: 2014-11-06
+last_amended: 2023-08-31
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 268"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-11411"
+retrieved: 2026-10-11
+---
+
+# Orden AAA/2056/2014, de 27 de octubre, por la que se aprueban los modelos oficiales de solicitud de autorización y de declaración de vertido
+
+El texto refundido de la Ley de Aguas, aprobado mediante Real Decreto legislativo 1/2001, de 20 de julio, establece un completo régimen regulador de los vertidos al dominio público hidráulico, prohibiendo, con carácter general, el vertido directo o indirecto de aguas y de productos residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente con la previa autorización administrativa, denominada autorización de vertido.
+
+Por su parte, el Reglamento del Dominio Público Hidráulico, aprobado mediante el Real Decreto 849/1986, de 11 de abril, desarrolla ampliamente esta regulación en el capítulo II del Título III, estableciendo, entre otros, el procedimiento para la obtención de la autorización de vertido.
+
+Dicho procedimiento se inicia mediante la solicitud del titular de la actividad, que se presentará conjuntamente con la declaración de vertido, según modelo aprobado por el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+Así, se aprobó la Orden MAM/1873/2004, de 2 de junio, por la que se aprueban los modelos oficiales para la declaración de vertido y se desarrollan determinados aspectos relativos a la autorización de vertido y liquidación del canon de control de vertidos regulados en el Real Decreto 606/2003, de 23 de mayo, de reforma del Real Decreto 849/1986, de 11 de abril, por el que se aprueba el Reglamento de Dominio Público Hidráulico, que desarrolla los Títulos preliminar, I, IV, V, VI y VII de la Ley 29/1985, de 2 de agosto, de Aguas.
+
+El objetivo perseguido por esta orden era establecer un modelo oficial de declaración de vertido que, por un lado, facilitara al titular del vertido la cumplimentación y presentación de la información necesaria para desarrollar el procedimiento administrativo de la autorización; y que, por otro lado, consiguiera que la información contenida en la declaración sea homogénea, suficiente y precisa para elaborar el informe previo que se regula en el procedimiento y que esta información sea coincidente con las características del vertido a autorizar.
+
+Debido al largo periodo de tiempo transcurrido desde la entrada en vigor de esta orden y teniendo en cuenta los avances normativos que han ocurrido en materia de vertidos de aguas residuales, se hace necesario revisar el contenido de la misma, adaptándola a la nueva realidad.
+
+De hecho, la modificación del Reglamento del Dominio Público Hidráulico, aprobada mediante Real Decreto 1290/2012, de 7 de septiembre, incorpora disposiciones que permiten limitar la contaminación producida por los desbordamientos de los sistemas de saneamiento en episodios de lluvia, habida cuenta de que en la práctica no es posible construir los sistemas colectores y las instalaciones de tratamiento suficientes que permitan someter a tratamiento la totalidad de las aguas residuales en circunstancias tales como lluvias torrenciales inusuales.
+
+Entre estas disposiciones se encuentra la de incluir en la declaración de vertido que inicia el procedimiento de autorización de vertido, cuando corresponda, la información adecuada que describa tanto la red de saneamiento como las medidas, actuaciones e instalaciones previstas para limitar la contaminación por desbordamientos de los sistemas de saneamiento en episodios de lluvia.
+
+Esto supone la necesidad de crear en la declaración de vertido un nuevo formulario, el Formulario 5´, que permita suministrar de manera homogénea dicha información relacionada con los desbordamientos de los sistemas de saneamiento en episodios de lluvia.
+
+Por otro lado, la aprobación del Real Decreto 60/2011, de 21 de enero, sobre las normas de calidad ambiental en el ámbito de la política de aguas, modifica el concepto de sustancia peligrosa, haciendo necesaria la redefinición del Formulario 3.5. Caracterización especial, para incorporar en el mismo los conceptos actuales de sustancia peligrosa contenidos en el Real Decreto.
+
+Por último, la aprobación de la normativa en materia de administración electrónica, y más concretamente, de la Ley 11/2007, de 22 de junio, de Acceso electrónico de los ciudadanos a los Servicios Públicos, supone la modificación de ciertos campos de la declaración de vertido, para adaptarla a los requisitos actuales de la administración electrónica.
+
+A la vista de todo lo anterior, la revisión de la Orden MAM/1873/2004, de 2 de junio, ha concluido con la necesidad de proceder a su derogación y a su sustitución por una nueva orden ministerial, en la que se establecen los modelos oficiales de la solicitud de autorización y de declaración de vertido.
+
+En la tramitación de esta orden ministerial han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, de acuerdo con lo previsto en el artículo 24.1 c) de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+Asimismo, se ha sometido al trámite de información pública y asimismo, ha sido informado por el Consejo Nacional del Agua.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, dispongo:
+
+## Artículo 1. Objeto.
+
+1\. El objeto de esta orden es aprobar los modelos oficiales de solicitud de autorización y de declaración general y simplificada de vertidos que figuran en los anexos II y III de esta orden, de conformidad a lo dispuesto en los artículos 246 y 253 del Reglamento de Dominio Público Hidráulico aprobado por el Real Decreto 849/1986, de 11 de abril, que serán exigibles para todas las solicitudes de autorización de vertido que se presenten, en las cuencas hidrográficas que excedan del ámbito territorial de una sola Comunidad Autónoma, a partir de la fecha de entrada en vigor de esta orden ministerial.
+
+2\. Los modelos oficiales se pondrán a disposición de los interesados por las confederaciones hidrográficas directamente en sus sedes y oficinas auxiliares o por cualquiera de los medios técnicos a que se refiere el artículo 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Así, los modelos oficiales también estarán disponibles en la sede electrónica del Ministerio de Agricultura, Alimentación y Medio Ambiente para su tramitación telemática, de conformidad con el artículo 35 de la Ley 11/2007, de 22 de junio, de Acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+## Artículo 2. Declaración general de vertido.
+
+1\. Con carácter previo al inicio de una actividad causante de vertido a las aguas continentales o a cualquier otro elemento del Dominio Público Hidráulico, con la salvedad recogida en el artículo 3, el titular de la misma deberá presentar la solicitud acompañada de la declaración general de vertido a que se refiere el artículo 246 apartados 1 y 2 del Reglamento de Dominio Público Hidráulico, con el objeto de obtener la oportuna autorización.
+
+2\. La declaración a que se refiere el párrafo anterior se acompañará de los documentos que resulten exigibles en cada caso, en función del tipo de vertido, de la forma jurídica que adopte el titular del mismo y del destino del vertido.
+
+3\. La declaración general consta de un conjunto de formularios numerados del 1 al 9 que responden a los siguientes enunciados:
+
+1.º Formulario 1. Actividad generadora. Referente a las características de la actividad causante del vertido.
+
+Se divide en:
+
+a) Formulario 1.1: Vertidos urbanos.
+
+b) Formulario 1.2: Vertidos no urbanos.
+
+2.º Formulario 2: Punto de vertido. Correspondiente a la localización exacta del punto donde se produce el vertido.
+
+3.º Formulario 3: Características del vertido. Relativo a las características cualitativas, cuantitativas y temporales del vertido. Será preciso indicar todos los valores de los parámetros o sustancias contaminantes característicos de la actividad generadora del vertido.
+
+El formulario se divide en:
+
+a) Formulario 3.1: Aguas de captación. En el que se caracterizan dichas aguas. Aplicable sólo a vertidos de aguas de refrigeración.
+
+b) Formulario 3.2: Aguas residuales brutas. En el que se caracterizan cualitativa y cuantitativamente las aguas residuales antes de su depuración. De aplicación a todos los vertidos, excepto a los de aguas de refrigeración y aguas de achique procedentes de actividades mineras.
+
+c) Formulario 3.3: Aguas de refrigeración. Destinado a los vertidos de aguas de refrigeración.
+
+d) Formulario 3.4: Caracterización general. Para todos los vertidos excepto para los de aguas de refrigeración.
+
+e) Formulario 3.5: Caracterización especial. Para vertidos urbanos e industriales con sustancias peligrosas.
+
+4.º Formulario 4: Descripción de las instalaciones de depuración y evacuación y elementos de control del vertido. Contendrá la información sucinta del tipo de tratamiento incluyendo un diagrama del proceso de depuración, así como la existencia de derivaciones y medidas de seguridad previstas para vertidos accidentales. Igualmente se incluirán los elementos de control de cada punto de vertido, su ubicación y el sistema de evacuación.
+
+5.º Formulario 5: Proyecto de las obras e instalaciones de depuración o eliminación que, en su caso, fueran necesarias para que el grado de depuración sea el adecuado para la consecución de los valores límite de emisión del vertido, teniendo en cuenta las normas de calidad ambiental determinadas para el medio receptor.
+
+5´.º Formulario 5´: Desbordamientos de sistemas de saneamiento en episodios de lluvia. De aplicación cuando por las características cuantitativas y cualitativas de los desbordamientos no se considere necesario someterlos a un tratamiento de depuración en los términos recogidos en el artículo 251.1.c del Reglamento del Dominio Público Hidráulico.
+
+Se divide en:
+
+a) Formulario 5´.1: Caracterización del sistema de saneamiento.
+
+b) Formulario 5´.2: Medidas, actuaciones e instalaciones para limitar la contaminación por desbordamientos de sistemas de saneamiento en episodios de lluvia.
+
+6.º Formulario 6: Afecciones a terceros. Contendrá la petición, en su caso, de imposición de servidumbre forzosa de acueducto o de declaración de utilidad pública, a los efectos de expropiación forzosa, acompañada de la identificación de predios y propietarios afectados. Este formulario se cumplimentará por el solicitante cuando las obras o instalaciones de depuración previstas dieran lugar a ocupar de forma definitiva terrenos de terceros.
+
+7.º Formulario 7: Inventario de vertidos industriales a colectores, plan de saneamiento y control de vertidos. Este formulario será de aplicación en el caso de solicitudes presentadas por entidades locales o comunidades autónomas.
+
+Se divide en:
+
+a) Formulario 7.1: Contendrá el Inventario de vertidos industriales con sustancias peligrosas en concentración superior al límite de cuantificación de las técnicas analíticas más avanzadas de uso general, recogidos por la red de saneamiento municipal.
+
+b) Formulario 7.2: Contendrá el Plan de saneamiento y control de vertidos a colectores que incluirá, en su caso, los programas de reducción de sustancias peligrosas, así como el correspondiente reglamento u ordenanza de vertidos.
+
+8.º Formulario 8: Estudio hidrogeológico previo. Se cumplimentará cuando el destino del vertido sean las aguas subterráneas. También deberá cumplimentarse cuando el vertido se realice en cauces con régimen intermitente de caudal y que no llegue a alcanzar una corriente permanente, siempre que éste sea considerado como vertido indirecto a las aguas subterráneas mediante filtración a través del suelo.
+
+9.º Formulario 9: Constitución de Comunidad de usuarios de vertidos. Es de aplicación, cuando no exista un titular único de la actividad causante del vertido, a la solicitud que deban presentar los titulares de establecimientos industriales o de cualquier otra naturaleza que tengan necesidad de verter aguas o productos residuales y se encuentren situados en una misma zona o polígono industrial; a los titulares de urbanizaciones u otros complejos residenciales cuyo vertido urbano o asimilable sea de población superior a 250 habitantes equivalentes; así como a los titulares de otras agrupaciones sin personalidad jurídica conforme a lo previsto en los artículos 90 del texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio y 253 del Reglamento de Dominio Público Hidráulico.
+
+4\. Los formularios de la declaración general irán acompañados de las instrucciones precisas para su cumplimentación que figuran en el anexo I.
+
+## Artículo 3. Declaración simplificada de vertido.
+
+1\. En los términos que señala el artículo 253 apartados 1 y 2 del Reglamento del Dominio Público Hidráulico, cuando vaya a realizarse un vertido de naturaleza urbana o asimilable, procedente de núcleos aislados de población inferior a 250 habitantes equivalentes y sin posibilidad de formar parte de una aglomeración urbana, la solicitud de autorización deberá ir acompañada de la declaración simplificada de vertido.
+
+2\. El modelo oficial de declaración simplificada es el que figura como tal en el anexo III de esta orden que contendrá, en todo caso, la situación del vertido y una memoria descriptiva de las instalaciones de depuración y evacuación del vertido.
+
+3\. Serán de aplicación a la declaración simplificada las instrucciones generales contenidas en el anexo I.
+
+## Disposición adicional primera. Inventario de los puntos de desbordamiento de aguas de escorrentía.
+
+Los titulares de vertidos industriales y de vertidos urbanos de más de 2.000 habitantes equivalentes, cuyos sistemas de saneamiento originen desbordamientos en episodios de lluvia, deberán presentar el Formulario 5´.1.A antes del 31 de diciembre de 2014.
+
+## Disposición adicional segunda. Plazos aplicables a las solicitudes de autorización de vertidos cuyos sistemas de saneamiento originen desbordamientos en episodios de lluvia.
+
+1\. Las nuevas solicitudes de autorización de vertido con desbordamientos de sistemas de saneamiento en episodios de lluvia, en el caso de vertidos urbanos procedentes de aglomeraciones de más de 2.000 habitantes equivalentes y de vertidos procedentes de zonas industriales, presentadas a partir del 31 de diciembre de 2015, deberán presentar en todo caso los Formularios 5´.1 y 5´.2 en la declaración de vertido que se acompañe con dicha solicitud.
+
+2\. Los titulares de las autorizaciones de vertido con desbordamientos de sistemas de saneamiento en episodios de lluvia vigentes y los peticionarios de las que estuvieran en trámite a la entrada en vigor de esta orden, así como los peticionarios que las soliciten antes del 31 de diciembre de 2015, deberán presentar el Formulario 5´.1.B, el Formulario 5´.1.C y el Formulario 5´.2 antes del 31 de diciembre de 2019 siempre que estén incluidos en alguno de los siguientes grupos:
+
+a) Vertidos procedentes de aglomeraciones urbanas de más de 50.000 habitantes equivalentes.
+
+b) Vertidos procedentes de instalaciones industriales que requieran una autorización ambiental integrada, conforme al artículo 9 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, y de zonas industriales donde se ubique alguna de estas instalaciones.
+
+c) Vertidos procedentes de aglomeraciones urbanas de más de 2.000 habitantes equivalentes, o de zonas industriales diferentes a los anteriores situados en una zona protegida declarada aguas de baño incluida en el Registro de Zonas Protegidas de la Demarcación Hidrográfica a que se refiere el artículo 24.2.d del Reglamento de Planificación Hidrológica, aprobado por el Real Decreto 907/2007, de 6 de julio.
+
+3\. Para los desbordamientos de sistemas de saneamiento en episodios de lluvia no incluidos en los apartados anteriores, el Organismo de cuenca podrá requerir motivadamente la presentación de los Formularios 5´.1 y 5´.2 en función de la magnitud del desbordamiento y de su afección a los objetivos ambientales del medio receptor.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden MAM/1873/2004, de 2 de junio, por la que se aprueban los modelos oficiales para la declaración de vertido y se desarrollan determinados aspectos relativos a la autorización de vertido y liquidación del canon de control de vertidos regulados en el Real Decreto 606/2003, de 23 de mayo, de reforma del Real Decreto 849/1986, de 11 de abril, por el que se aprueba el Reglamento de Dominio Público Hidráulico, que desarrolla los Títulos preliminar, I, IV, V, VI y VII de la Ley 29/1985, de 2 de agosto, de Aguas.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 27 de octubre de 2014.–La Ministra de Agricultura, Alimentación y Medio Ambiente, Isabel García Tejerina.
+
+## ANEXO I
+
+Antes de cumplimentar la Solicitud de Autorización o Revisión de Vertido, se deben identificar los formularios de la Declaración General de vertido que deben rellenarse en función del tipo de vertido del que se trate. Estos formularios una vez cumplimentados deberán adjuntarse a la Solicitud de autorización de vertido o a sus posibles solicitudes de revisión.
+
+En la siguiente representación esquemática de un vertido tipo, desde su origen hasta su incorporación al medio receptor, se puede observar a qué parte de la actividad hace referencia cada uno de los formularios que componen la Declaración de vertido.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461481_1.png)
+
+Cada formulario contiene explicaciones en el reverso que permiten identificar la información a cumplimentar.
+
+En el caso de que fuera necesario aportar información adicional a la requerida en los formularios, se debe indicar en la última hoja de la Declaración, denominada “Relación de Documentación Complementaria”.
+
+Se debe presentar una única declaración de vertido para todos aquellos flujos de agua que tengan alguna vinculación, bien por generarse dentro de la misma actividad, bien por ser tratados en las mismas instalaciones de depuración o bien por ser evacuados al medio receptor en el mismo punto.
+
+En las páginas siguientes se muestran representaciones esquemáticas de algunos de los casos más frecuentes de vertidos de procedencia urbana e industrial.
+
+Para los vertidos urbanos se han representado cinco ejemplos.
+
+El primero de ellos es el más sencillo y corresponde al vertido de un municipio (podría ser aplicable también a una vivienda aislada o a cualquier núcleo de población) con un sistema unitario, donde parte de las aguas residuales en episodios de lluvia se derivan mediante un aliviadero hasta su evacuación al medio receptor, mientras que el resto de las aguas se conducen a una estación depuradora de aguas residuales para ser tratadas antes de su vertido final.
+
+El segundo ejemplo a una aglomeración urbana en la que varios núcleos de población están conectados a un único sistema unitario, donde parte de las aguas residuales en episodios de lluvia se derivan mediante un aliviadero hasta su evacuación al medio receptor, mientras que el resto de las aguas se conducen a una estación depuradora de aguas residuales para ser tratadas antes de su vertido final.
+
+El tercer ejemplo corresponde a un municipio con un sistema de saneamiento separativo, en el que las aguas residuales se conducen a una estación depuradora de aguas residuales para ser tratadas antes de su vertido final, mientras que las aguas de escorrentía pluvial se recogen independientemente antes de ser tratadas y vertidas al medio receptor. El exceso de aguas de escorrentía pluvial en episodios de lluvia se deriva mediante un aliviadero hasta su evacuación al medio receptor.
+
+El cuarto ejemplo corresponde a un gran municipio en el que las aguas residuales de cada distrito son conducidas a una depuradora diferente mezclándose incluso con aguas de otros municipios. El sistema de saneamiento sería separativo, siendo recogidas de forma independiente las aguas de escorrentía pluvial, aunque por simplificar el esquema no se dibujan estos flujos de escorrentía pluvial en el ejemplo.
+
+El quinto ejemplo, por último, corresponde a dos municipios con sistemas unitarios que derivan cada uno de ellos parte de las aguas residuales en episodios de lluvia mediante un aliviadero hasta su evacuación al medio receptor, mientras que el resto de las aguas son recogidas en un único colector para conducirlos a una única estación depuradora de aguas residuales antes de su vertido final.
+
+En el caso de vertidos industriales se ha representado tres ejemplos.
+
+El primer ejemplo corresponde a una industria con un sistema de saneamiento separativo, en el que las aguas de proceso se conducen a una estación depuradora de aguas residuales para ser tratadas antes de su vertido final, mientras que las aguas de escorrentía pluvial se recogen independientemente antes de ser tratadas y vertidas al medio receptor. El exceso de aguas de escorrentía pluvial en episodios de lluvia se deriva mediante un aliviadero hasta su evacuación al medio receptor.
+
+El segundo ejemplo corresponde a un polígono industrial, en el que todas las aguas de proceso se recogen para ser tratadas en una única estación depuradora, mientras que las aguas de escorrentía pluvial del polígono industrial se recogen independientemente antes de ser tratadas y vertidas al medio receptor. El exceso de aguas de escorrentía pluvial en episodios de lluvia se deriva mediante un aliviadero hasta su evacuación al medio receptor.
+
+El último ejemplo corresponde a una actividad industrial de cierta envergadura en la que hay distintos flujos de aguas residuales que son conducidos a depuradoras diferentes, mientras que las aguas de escorrentía pluvial del polígono industrial se recogen independientemente antes de ser tratadas y vertidas al medio receptor.
+
+Estos ejemplos no pretenden cubrir toda la casuística posible y deben ser tomados solo como referencia para comprender los distintos conceptos que se manejan en los formularios. Los principales conceptos son los siguientes:
+
+Agua de escorrentía pluvial.
+
+Agua pluvial que discurre por una superficie sin infiltrarse.
+
+Aguas residuales brutas.
+
+Los flujos de aguas residuales pueden ser conducidos a través de colectores u otros sistemas de recogida y transporte y converger en una misma Estación Depuradora de Aguas Residuales (EDAR). Se entiende por aguas residuales brutas, las aguas cargadas de materias diversas provenientes de cualquier actividad humana antes de depuración. Habrá tantas aguas residuales brutas como estaciones depuradoras de aguas residuales, o al menos una en caso de no existir depuración.
+
+Aliviadero.
+
+Es el dispositivo asociado a una conducción, una infraestructura de regulación o una instalación de depuración, dentro de un sistema de saneamiento ya sea unitario o separativo, desde el que se produce el desbordamiento de las aguas procedentes de este sistema hacia el medio receptor en un episodio de lluvia.
+
+Área drenada o superficie de escorrentía.
+
+Es la zona por donde discurre la escorrentía recogida por la red del sistema de saneamiento.
+
+Cámara de retención.
+
+Es la parte de la infraestructura de regulación de aguas residuales que permite almacenar o retener un determinado volumen de agua residual, para evacuarlo de forma controlada hacia la EDAR o hacia el medio receptor.
+
+Desbordamiento del sistema de saneamiento en episodios de lluvias (DSS).
+
+Son los desbordamientos de aguas residuales urbanas no tratadas procedentes de colectores de un sistema de saneamiento en episodios de lluvia, cuyo destino es el medio receptor.
+
+Estación Depuradora de Aguas Residuales (EDAR).
+
+Son las instalaciones en las que las aguas residuales, una vez recogidas, son sometidas a una serie de tratamientos y procesos, de modo que se produzca una mejora en la calidad de las mismas que permita alcanzar los valores límite de emisión del vertido, teniendo en cuenta las normas de calidad ambiental y los objetivos medioambientales determinados para el medio receptor.
+
+EDAR de Pluviales.
+
+Son las instalaciones en las que las escorrentías urbanas de origen pluvial de un sistema de saneamiento separativo son sometidas, al menos, un pretratamiento, de modo que se produzca una mejora en la calidad de éstas antes de su vertido al dominio público hidráulico.
+
+Flujo de aguas residuales.
+
+Se entiende por flujo de aguas residuales cada uno de los efluentes procedentes de un mismo origen (municipio, pedanía, actividad industrial, entre otros) que sean claramente diferenciables. Una misma procedencia puede originar varios flujos diferenciados.
+
+En el caso de que la procedencia sea urbana, podría haber hasta tres flujos diferentes procedentes del mismo origen: agua residual urbana, bruta y tratada (ARU), agua residual pluvial de escorrentía urbana, bruta y tratada, en su caso, (ARP) y agua residual por desbordamientos del sistema de saneamiento (ARDESS).
+
+En el caso de procedencia industrial se podrían distinguir cinco flujos por procedencia, distinguiendo entre agua residual industrial de proceso (ARI), aguas de refrigeración, aguas residuales asimilables a domésticas (ARD), agua residual de origen pluvial (ARP) y agua residual por desbordamientos del sistema de saneamiento (ARDESS).
+
+Infraestructura de regulación de aguas residuales.
+
+Es la estructura hidráulica destinada a regular caudales y retener elevados volúmenes de aguas residuales durante los episodios de lluvia, con el objetivo de evitar inundaciones aguas abajo y/o reducir la contaminación de los vertidos por desbordamientos del sistema de saneamiento en episodios de lluvia al medio receptor, para, posteriormente, evacuarlos hacia la EDAR de forma controlada.
+
+Instalaciones complementarias para el Tratamiento de los Desbordamientos del Sistema de Saneamiento Unitario (ITDSU).
+
+Son las instalaciones en las que las aguas residuales de los desbordamientos del sistema de saneamiento unitario (ARDESS), una vez recogidas, son sometidas a una serie de tratamientos y procesos, de modo que se produzca una mejora en la calidad de las mismas antes de su vertido al dominio público hidráulico.
+
+Instalaciones complementarias para el Tratamiento de los Desbordamientos del Sistema de Saneamiento Separativo (ITDSP).
+
+Son las instalaciones en las que las aguas residuales de los desbordamientos del sistema de saneamiento separativo (ARDESS), una vez recogidas, son sometidas a una serie de tratamientos y procesos, de modo que se produzca una mejora en la calidad de las mismas antes de su vertido al dominio público hidráulico.
+
+Procedencia.
+
+Es aquel lugar en el que se origina un flujo de aguas residuales claramente diferenciado. Para los vertidos urbanos, la procedencia puede ser una vivienda aislada, una urbanización, una pedanía, un núcleo de población, un municipio o un distrito municipal en caso de grandes aglomeraciones urbanas. Para los vertidos industriales, puede ser una instalación industrial, una etapa dentro de la actividad industrial o cada una de las industrias de un polígono industrial, entre otros.
+
+Punto de control.
+
+Es el punto donde se realiza la caracterización del vertido y donde se exige el cumplimiento de las condiciones de la autorización de vertido. Este punto de control se encontrará situado después de la estación depuradora de aguas residuales EDAR o de la EDAR de Pluviales, siendo de fácil acceso y por seguridad para las tareas de vigilancia e inspección.
+
+Punto de control del desbordamiento.
+
+Es el punto donde se realiza, en su caso, la caracterización del desbordamiento del sistema de saneamiento, y donde se exige el cumplimiento de las condiciones de la autorización de vertido, siendo de fácil acceso y seguro para las tareas de vigilancia e inspección.
+
+Punto de desbordamiento del sistema de saneamiento (PDSS).
+
+Es el punto donde se produce el rebose de las aguas residuales del sistema de saneamiento, ya sea unitario o separativo, hacia el medio receptor.
+
+Punto de vertido.
+
+Es el punto donde las aguas residuales se incorporan al medio receptor. El punto de control puede ser diferente al de vertido para facilitar el acceso y por seguridad para las tareas de vigilancia e inspección. En general el punto de control se encontrará dentro de la instalación y será accesible mediante una arqueta o sistema similar, mientras que el punto de vertido puede tener difícil acceso debido a la vegetación de las márgenes, o al hecho de encontrarse sumergido, entre otros motivos. Entre el punto de control y el punto de vertido no debe de haber más que una red de evacuación, sin ninguna alteración del efluente depurado, de modo que las características del efluente se mantengan inalteradas entre ambos puntos.
+
+Es posible que, para facilitar la evacuación al medio receptor, los efluentes que provienen de varios puntos de control se agrupen a través de una red de evacuación para verterse al medio receptor en un único punto de vertido final. En ningún caso esto supondrá una dilución del vertido, ya que el condicionado de la autorización de vertido será exigible en el punto de control.
+
+Punto de vertido por desbordamiento del sistema de saneamiento (PVDSS).
+
+Es el punto donde los desbordamientos del sistema de saneamiento (DSS), ya sea unitario o separativo, se incorporan al medio receptor.
+
+Siempre que exista más de una procedencia de un flujo de aguas residuales, de un agua residual bruta, más de una EDAR, más de un punto de control, más de un punto de vertido, más de un área drenada asociada al vertido por desbordamiento, más de una cámara de retención o más de un punto de vertido por desbordamiento debe asignarse un número correlativo a cada uno de ellos tal y como puede verse en los ejemplos.
+
+Sistema de saneamiento.
+
+Conjunto de superficies, conducciones, infraestructuras e instalaciones que permiten la recogida, almacenamiento, tratamiento y vertido de las aguas residuales, integrado principalmente por la red de saneamiento, la estación depuradora de aguas residuales y las infraestructuras de evacuación del vertido al medio receptor.
+
+Sistema de saneamiento unitario.
+
+Conjunto de infraestructuras e instalaciones que permiten la recogida y vertido de las aguas residuales, compuesto por una sola red de conductos por la que discurren conjuntamente las aguas residuales urbanas o industriales y las aguas de escorrentía pluvial.
+
+Sistema de saneamiento separativo.
+
+Conjunto de superficies, conducciones, infraestructuras e instalaciones que permiten de manera independiente la recogida de las aguas residuales urbanas y de las escorrentías urbanas, y su posterior almacenamiento, tratamiento y vertido al medio receptor.
+
+Sistemas Urbanos de Drenaje Sostenible (SUDS).
+
+Son elementos superficiales, permeables, preferiblemente vegetados, integrantes de la estructura urbana-hidrológica-paisajística y previos al sistema de saneamiento. Están destinados a filtrar, retener, transportar, acumular, reutilizar e infiltrar al terreno el agua de lluvia, de forma que no degraden e incluso restauren la calidad del agua que gestionan.
+
+Técnicas de Drenaje Urbano Sostenible (TEDUS).
+
+Es la técnica o infraestructura hidráulica localizada en el sistema de saneamiento (unitario o separativo) o aguas abajo del mismo, previo al punto de vertido por desbordamientos del sistema de saneamiento en episodios de lluvia, destinada a gestionar volúmenes de aguas residuales y a disminuir su contaminación durante episodios de lluvia antes de su vertido al dominio público hidráulico.
+
+Vertidos por desbordamientos del sistema de saneamiento en episodios de lluvia (VDSS).
+
+Son los vertidos no tratados al dominio público hidráulico en episodios de lluvia que proceden de los sistemas de saneamiento, unitario o separativo pluvial».
+
+> «Tipos de vertido urbano»:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_1.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_2.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_3.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_4.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_5.png)
+
+> «Tipos de vertido industrial»:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_6.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_7.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461467_8.png)
+
+> Se modifica por el art. 4.1 del Real Decreto 665/2023, de 18 de julio. [Ref. BOE-A-2023-18806](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-18806)
+
+## ANEXO II
+
+![10747.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10747.png)
+
+![10781.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10781.png)
+
+![10814.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10814.png)
+
+![10847.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10847.png)
+
+![10880.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10880.png)
+
+![10914.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10914.png)
+
+![10949.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10949.png)
+
+![10986.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_10986.png)
+
+![11019.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11019.png)
+
+![11052.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11052.png)
+
+![11085.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11085.png)
+
+![11119.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11119.png)
+
+![11152.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11152.png)
+
+![11186.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11186.png)
+
+![11219.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11219.png)
+
+![11252.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11252.png)
+
+![11287.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11287.png)
+
+![11322.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11322.png)
+
+![11361.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11361.png)
+
+![11394.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11394.png)
+
+![11427.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11427.png)
+
+![11460.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11460.png)
+
+![11494.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11494.png)
+
+![11528.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11528.png)
+
+![11562.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11562.png)
+
+![11595.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11595.png)
+
+![11628.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11628.png)
+
+![11662.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11662.png)
+
+![11697.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11697.png)
+
+![11734.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11734.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_10.png)
+
+**![12109.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12109.png)**
+
+**![12142.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12142.png)**
+
+**![12175.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12175.png)**
+
+**![12209.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12209.png)**
+
+**![12243.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12243.png)**
+
+**![12301.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12301.png)**
+
+**![12334.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12334.png)**
+
+**![12367.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12367.png)**
+
+**![12400.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12400.png)**
+
+**![12434.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12434.png)**
+
+> Se sustituyen los formularios 5.1 y 5.2 por el art. 4.2 del Real Decreto 665/2023, de 18 de julio. [Ref. BOE-A-2023-18806](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-18806)
+
+## ANEXO III
+
+![12958.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12958.png)
+
+![12994.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12994.png)
+
+![13027.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_13027.png)
+
+![13060.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_13060.png)
+
+![13095.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_13095.png)
+
+![13129.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_13129.png)
+
+![13163.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_13163.png)
+
+![13196.png](https://www.boe.es/datos/imagenes/disp/2014/268/11411_13196.png)

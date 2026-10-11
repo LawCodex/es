@@ -1,0 +1,155 @@
+---
+title: "Orden EDU/1603/2009, de 10 de junio, por la que se establecen equivalencias con los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller regulados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación"
+identifier: "BOE-A-2009-10054"
+eli: "https://www.boe.es/eli/es/o/2009/06/10/edu1603"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2009-06-10
+published: 2009-06-17
+in_force_from: 2009-06-18
+last_amended: 2011-03-14
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 146"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-10054"
+retrieved: 2026-10-11
+---
+
+# Orden EDU/1603/2009, de 10 de junio, por la que se establecen equivalencias con los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller regulados en la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, declara que todas las personas deben tener la posibilidad de formarse a lo largo de la vida, dentro y fuera del sistema educativo. Para ello, se concibe de manera flexible, lo que implica, por una parte, establecer conexiones entre los distintos tipos de enseñanzas, de modo que se facilite el paso de unas a otras y, por otra, permitir la configuración de vías formativas adaptadas a las necesidades y los intereses personales más diversos.
+
+En el caso de las personas adultas, la Ley plantea la necesidad de adoptar medidas para reconocer los aprendizajes adquiridos, impulsando su continuidad en la educación y la formación, y que ello les proporcione una mejora cuantitativa y cualitativa en el empleo.
+
+De este modo, las personas adultas que carezcan de título podrán acceder a las enseñanzas de formación profesional, de enseñanzas artísticas y de enseñanzas deportivas, mediante la superación de una prueba en la que acrediten, entre otros requisitos, la madurez en relación con los objetivos de las enseñanzas correspondientes. Las Administraciones educativas regularán las pruebas para que los mayores de diecisiete o diecinueve años, que no se hallen en posesión del título de Graduado en Educación Secundaria Obligatoria o de Bachiller respectivamente, puedan acceder a estos estudios. Quienes tengan superada la prueba de acceso a la universidad para mayores de veinticinco años quedarán exentos de la realización de la prueba prevista o, en su caso, podrán quedar exentos de la parte general de la prueba.
+
+En el Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo, establecida por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, además del calendario de implantación de las enseñanzas, se dispusieron algunas equivalencias de los títulos académicos y en su disposición final segunda, establece que corresponde al Ministerio de Educación, sin perjuicio de lo que dispongan las Comunidades Autónomas en el ámbito de sus competencias, dictar cuantas disposiciones sean precisas para el desarrollo y ejecución de lo dispuesto en este real decreto.
+
+Por otro lado, tanto las Administraciones públicas como las empresas privadas exigen en ocasiones estar en posesión de un determinado título o equivalente, como requisito para el acceso a determinados empleos públicos o privados.
+
+En la actualidad se viene concediendo por parte del Ministerio de Educación, diferentes resoluciones individualizadas de equivalencia, a los únicos efectos de acceso a empleos públicos y privados, basadas en su mayoría en dictámenes emitidos por el antiguo Consejo Nacional de Educación, entre las que destacan, por su número, las que se conceden a las personas que han superado las pruebas de acceso a la universidad para mayores de veinticinco años y que además cumplen otros requisitos.
+
+Es conveniente, pues, actualizar y unificar las condiciones generales requeridas para la obtención de la equivalencia con el título de Graduado en Educación Secundaria Obligatoria y con el título de Bachiller.
+
+Por todo lo anterior, en su virtud, consultadas las Comunidades Autónomas en el seno de la Comisión General de Educación de la Conferencia de Educación y previo informe del Consejo Escolar del Estado y del Ministerio de Política Territorial, dispongo:
+
+## Artículo 1. Objeto.
+
+Esta orden tiene por objeto establecer determinadas equivalencias con los títulos de Graduado en Educación Secundaria Obligatoria y de Bachiller establecidos en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+## Artículo 2. Equivalencia a todos los efectos.
+
+1\. Se establece la equivalencia de estudios parciales del Bachillerato Unificado y Polivalente de la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa, con el título de Graduado en Educación Secundaria Obligatoria a todos los efectos, siempre que se acredite tener un máximo de dos materias pendientes en el conjunto de los dos primeros cursos del Bachillerato Unificado y Polivalente.
+
+2\. Se establece la equivalencia de 6 cursos completos de Humanidades y al menos 1 de Filosofía, o 5 de Humanidades y al menos 2 de Filosofía, de la carrera eclesiástica con el título de Graduado en Educación Secundaria Obligatoria a todos los efectos.
+
+3\. Se establece la equivalencia del Certificado acreditativo de haber superado el Curso Preuniversitario establecido en la Ley de 26 de febrero de 1953, sobre la Ordenación de la Enseñanza Media, con el título de Bachiller de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, a todos los efectos.
+
+4\. Se establece la equivalencia del título oficial de Maestro o Maestra de Enseñanza Primaria, con el título de Bachiller a todos los efectos.
+
+> Se modifica por el art. único.1 de la Orden EDU/520/2011, de 7 de marzo. [Ref. BOE-A-2011-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4628).
+
+## Artículo 3. Equivalencia a efectos profesionales con el título de Graduado en Educación Secundaria Obligatoria.
+
+1\. La superación de la prueba de acceso a las enseñanzas profesionales de artes plásticas y diseño de grado medio o superior, a la formación profesional de grado medio o superior, a las enseñanzas deportivas de grado medio o superior o a las enseñanzas artísticas superiores para mayores de diecinueve años, será equivalente al título de Graduado en Educación Secundaria Obligatoria, a los únicos efectos de acceso a empleos públicos y privados, siempre que se acredite alguno de los siguientes requisitos:
+
+a) Haber superado todas las materias de los dos primeros cursos de la Educación Secundaria Obligatoria.
+
+b) Haber cursado el ciclo de grado medio y haber superado un número de módulos profesionales cuya duración constituya al menos la mitad de la duración total del ciclo.
+
+c) Haber cursado el ciclo de grado superior y haber superado un número de módulos profesionales cuya duración constituya al menos la tercera parte de la duración total del ciclo formativo.
+
+d) Haber superado al menos 10 créditos ECTS de las enseñanzas artísticas superiores.
+
+e) Acreditar estudios extranjeros que impliquen una escolaridad equivalente a la requerida en el sistema educativo español para incorporarse al tercer curso de Educación secundaria obligatoria.
+
+f) Haber superado todos los ámbitos del nivel I de la Educación secundaria para personas adultas.
+
+2\. Son equivalentes al título de Graduado en Educación Secundaria Obligatoria, a los únicos efectos de acceso a empleos públicos y privados, los títulos de Bachiller Elemental derivados de los planes de estudios anteriores a la Ley 14/1970, de 4 de agosto, o en su defecto, la superación de:
+
+a) Cuatro cursos completos de Bachillerato por cualquiera de los planes de estudios anteriores a la Ley 14/1970, de 4 de agosto, sin pruebas de conjunto o sin reválida,
+
+b) Cinco años completos de Bachillerato Técnico o Laboral, sin pruebas de conjunto o sin reválida,
+
+c) Cuatro cursos completos de Humanidades de la carrera eclesiástica.
+
+3\. El Certificado de Estudios Primarios derivado de la Ley 17/07/1945 de Educación Primaria y de la Ley 21/12/1965 de Reforma de la Educación Primaria, será equivalente a los únicos efectos de acceso a empleos públicos y privados, al título de Graduado en Educación Secundaria Obligatoria.
+
+4\. La acreditación ante el órgano competente de la Comunidad Autónoma correspondiente, de haber reunido en su día las condiciones para la obtención del Certificado de Estudios Primarios derivado de la Ley 17/07/1945 de Educación Primaria y de la Ley 21/12/1965 de Reforma de la Educación Primaria, será equivalente a los únicos efectos de acceso a empleos públicos y privados, al título de Graduado en Educación Secundaria Obligatoria.
+
+Para la resolución de esta equivalencia el órgano competente de la Comunidad Autónoma aplicará los criterios establecidos en el Anexo I de esta orden.
+
+Para aquellas solicitudes que no acrediten el cumplimiento de los requisitos de alguno de los criterios establecidos en el citado anexo, el órgano competente de la Comunidad Autónoma correspondiente requerirá informe preceptivo y vinculante al Ministerio de Educación para su resolución.
+
+5\. La superación de la prueba de acceso a la universidad para mayores de veinticinco años, será equivalente al título de Graduado en Educación Secundaria Obligatoria, a los únicos efectos de acceso a empleos públicos y privados.
+
+> Se modifica por el art. único.2 de la Orden EDU/520/2011, de 7 de marzo. [Ref. BOE-A-2011-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4628).
+
+## Artículo 4. Equivalencia a efectos profesionales con el título de Bachiller.
+
+1\. La superación de la prueba de acceso a la formación profesional de grado superior, a las enseñanzas profesionales de artes plásticas y diseño de grado superior y a las enseñanzas deportivas de grado superior, será equivalente al título de Bachiller, a los únicos efectos de acceso a empleos públicos y privados, siempre que se acredite estar en posesión del título de Graduado en Educación Secundaria Obligatoria o equivalente académico.
+
+2\. La superación de la prueba de acceso a las enseñanzas artísticas superiores para mayores de diecinueve años será equivalente al título de Bachiller, a los únicos efectos de acceso a empleos públicos y privados, siempre que se acredite alguno de los siguientes requisitos:
+
+a) Estar en posesión del título de Graduado en Educación Secundaria Obligatoria o equivalente a efectos académicos,
+
+b) Estar en posesión de la equivalencia establecida en el punto 1 del artículo 3 de esta orden,
+
+c) Haber superado al menos 15 créditos ECTS de las enseñanzas artísticas superiores.
+
+3\. La superación de la prueba de acceso a la universidad para mayores de veinticinco años, será equivalente al título de Bachiller, a los únicos efectos de acceso a empleos públicos y privados, siempre que se acredite alguno de los siguientes requisitos, o bien estar en posesión del título de Graduado en Educación Secundaria Obligatoria o equivalente a efectos académicos o a efectos profesionales, o bien haber superado al menos 15 créditos ECTS de los estudios universitarios.
+
+En este caso no tendrá validez la equivalencia con el título de Graduado en Educación Secundaria Obligatoria a efectos profesionales obtenida según lo establecido en el artículo 3.5 de esta Orden.
+
+4\. Se establece la equivalencia de estudios parciales de algún bachillerato anterior al regulado en la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, a excepción del Bachillerato Elemental, con el título de Bachiller, a los únicos efectos de acceso a empleos públicos y privados, siempre que se acredite que en su momento se tenía pendiente de superación la prueba de grado superior o reválida o un máximo de dos materias del correspondiente bachillerato.
+
+5\. La acreditación ante el órgano competente de la Comunidad Autónoma correspondiente, mediante alguno de los documentos oficiales relacionados en el Anexo II, de la superación de determinados estudios de Enseñanzas Artísticas, será equivalente al título de Bachiller, a los únicos efectos de acceso a empleos públicos y privados.
+
+> Se modifica el apartado 3 y se añade el 5 por el art. único.3 y 4 de la Orden EDU/520/2011, de 7 de marzo. [Ref. BOE-A-2011-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4628).
+
+## Artículo 5. Acreditación.
+
+Excepto para las equivalencias establecidas en el punto 4 del artículo 3, la presentación del título o de la certificación académica de los estudios o pruebas requeridos en cada caso y la mención a esta orden, será suficiente para la acreditación de la equivalencia con el título de Graduado en Educación Secundaria Obligatoria o el título de Bachiller, sin necesidad de otro trámite administrativo.
+
+## Artículo 6. Equivalencia a efectos profesionales de otros estudios.
+
+Las solicitudes de equivalencias a efectos profesionales de otros estudios no contempladas en los artículos anteriores con los títulos de Graduado en Educación Secundaria Obligatoria o de Bachiller, deberán ser dirigidas al órgano competente de la Comunidad Autónoma correspondiente, que requerirán informe preceptivo y vinculante del Ministerio de Educación en el caso de que éste no haya establecido los criterios correspondientes a aplicar para su resolución.
+
+Las resoluciones individualizadas de equivalencia que, en todo caso, emitirá la Administración educativa correspondiente, deberán justificar la resolución emitida indicando el criterio o informe emitido por el Ministerio de Educación que se aplica.
+
+> Se modifica por el art. único.5 de la Orden EDU/520/2011, de 7 de marzo. [Ref. BOE-A-2011-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4628).
+
+## Disposición adicional primera. Otras equivalencias a efectos profesionales.
+
+Siempre que en una convocatoria para cubrir determinados puestos de trabajo, ya sea en el ámbito público o en el privado, se requiera estar en posesión o bien del título de Bachiller o bien del título genérico de Técnico, serán equivalentes y válidos para acceder al puesto de trabajo convocado, el título de Bachiller y cualquiera de los títulos de Técnico de las enseñanzas de Formación Profesional, de las enseñanzas profesionales de Artes Plásticas y Diseño o de Técnico Deportivo de las enseñanzas Deportivas.
+
+## Disposición adicional segunda. Aplicabilidad de los Dictámenes del Consejo Nacional de Educación.
+
+Los Dictámenes del antiguo Consejo Nacional de Educación referidos a la equivalencia de determinados estudios con el título de Bachiller no serán aplicables desde la entrada en vigor de esta orden.
+
+## Disposición adicional tercera. Referencias genéricas.
+
+Todas las referencias a títulos para los que en esta orden se utilizan la forma del masculino genérico, deben entenderse con la denominación correspondiente según la condición masculina o femenina de quien lo hubiese obtenido.
+
+## Disposición adicional cuarta. Referencias a órganos.
+
+Las referencias realizadas al órgano competente de la Comunidad Autónoma se entenderán también referidas al Ministerio de Educación en su ámbito de gestión.
+
+## Disposición adicional quinta. Certificación de estudios superiores.
+
+Las referencias contenidas en esta orden relativas a la superación de 10 o 15 créditos ECTS, deberán ser sustituidas por la superación de asignaturas que en su conjunto sumen al menos la sexta o la cuarta parte, respectivamente, del número de créditos asignados al primer curso, o por la superación de al menos dos asignaturas anuales o cuatro cuatrimestrales, en el caso de los estudios anteriores a los regulados en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, y en el Real Decreto 1614/2009, de 26 de octubre, por el que se establece la ordenación de las enseñanzas artísticas superiores reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+> Se añade por el art. único.6 de la Orden EDU/520/2011, de 7 de marzo. [Ref. BOE-A-2011-4628](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4628).
+
+## Disposición final primera. Título competencial.
+
+La presente orden se dicta al amparo del artículo 149.1.30.ª de la Constitución, según el cual corresponde al Estado la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
+
+## Disposición final tercera. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 10 de junio de 2009.–El Ministro de Educación, Ángel Gabilondo Pujol.

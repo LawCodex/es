@@ -1,0 +1,581 @@
+---
+title: "Orden EHA/2043/2010, de 22 de julio, por la que se regula el procedimiento de remisión de las cuentas anuales y demás información que las entidades del sector público empresarial y fundacional del Estado han de rendir al Tribunal de Cuentas, y de la información de carácter anual y trimestral a remitir a la Intervención General de la Administración del Estado"
+identifier: "BOE-A-2010-12170"
+eli: "https://www.boe.es/eli/es/o/2010/07/22/eha2043"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2010-07-22
+published: 2010-07-29
+in_force_from: 2010-07-30
+last_amended: 2025-02-15
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 183"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-12170"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/2043/2010, de 22 de julio, por la que se regula el procedimiento de remisión de las cuentas anuales y demás información que las entidades del sector público empresarial y fundacional del Estado han de rendir al Tribunal de Cuentas, y de la información de carácter anual y trimestral a remitir a la Intervención General de la Administración del Estado
+
+Esta norma pasa a denominarse "**Orden EHA/2043/2010, de 22 de julio, por la que se regula el procedimiento de remisión de las cuentas anuales y demás información que las entidades del Sector Público empresarial y fundacional del Estado han de rendir al Tribunal de Cuentas, y de la información de carácter anual, trimestral y mensual a remitir a la Intervención General de la Administración del Estado**", según establece el art. único.1 de la Orden HAC/148/2025, de 7 de febrero. [Ref. BOE-A-2025-2868](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2868)
+
+La Ley 47/2003, de 26 de noviembre, General Presupuestaria, regula las líneas generales a las que se ha de ajustar la rendición de cuentas por las entidades integrantes del sector público estatal, determinando en su artículo 137 que esta rendición se realizará al Tribunal de Cuentas, por conducto de la Intervención General de la Administración del Estado, en adelante IGAE.
+
+En dicho texto legal se determina quiénes han de ser los cuentadantes de las cuentas a rendir, así como el contenido de las mismas y el procedimiento al que se ha de ajustar dicha rendición, pudiendo distinguirse cuatro actuaciones claramente diferenciadas que, para el caso de las entidades integrantes de los sectores públicos estatales empresarial y fundacional, pueden resumirse de la siguiente forma:
+
+Formulación de las cuentas anuales, en el plazo máximo de tres meses desde el cierre del ejercicio económico, según establece el artículo 127 de la Ley General Presupuestaria, poniéndolas a disposición de los auditores que corresponda.
+
+Emisión, en su caso, del informe de auditoría, cuya realización corresponde a la IGAE, en los supuestos previstos en el artículo 168 de la Ley General Presupuestaria, o bien, a empresas de auditoria privadas, en el resto de los casos.
+
+Aprobación de las cuentas anuales y remisión a la IGAE, por parte de los cuentadantes, de la información a rendir al Tribunal de Cuentas para la que el artículo 139.1 de la Ley General Presupuestaria asigna un plazo de siete meses a contar desde la terminación del ejercicio económico.
+
+Y, por último, su envío desde la IGAE al Tribunal de Cuentas, estableciendo a estos efectos el artículo 139.2 de la Ley General Presupuestaria el plazo de un mes desde que se hubiesen recibido las correspondientes cuentas anuales aprobadas y demás documentación.
+
+Por otro lado, el artículo 131.2 de la Ley General Presupuestaria faculta a la IGAE a recabar de las distintas entidades la información que considere necesaria para efectuar los procesos de agregación o consolidación contable.
+
+Por su parte, la IGAE, como centro gestor de la contabilidad pública, en virtud de lo dispuesto en el artículo 125.2.b) de la Ley General Presupuestaria, lleva a cabo la centralización de la información contable de las entidades que integran el sector público estatal. Esto implica la obligación, por parte de dichas entidades, de remitir a la IGAE la información que permita obtener una visión global de la gestión realizada por el conjunto del sector público estatal.
+
+Asimismo, la Ley General Presupuestaria, establece en su artículo 129.3 que las sociedades mercantiles estatales, las entidades públicas empresariales, el resto de entes del sector público estatal sometidos a los principios y normas de contabilidad recogidos en el Plan General de Contabilidad de la empresa española y las fundaciones del sector público estatal presentarán, junto con sus cuentas anuales, un informe relativo al cumplimiento de las obligaciones de carácter económico-financiero que asumen dichas entidades como consecuencia de su pertenencia al sector público. La Orden EHA/614/2009, de 3 de marzo, ha regulado el contenido del citado informe adaptándolo a la normativa mercantil, en particular a la Ley 16/2007, de 4 de julio, de reforma y adaptación de la legislación mercantil en materia contable para su armonización internacional con base en la normativa de la Unión Europea y en el nuevo Plan General de Contabilidad aprobado mediante Real Decreto 1514/2007, de 16 de noviembre.
+
+En relación con la forma en que se han de realizar los mencionados envíos, la Ley General Presupuestaria no preceptúa ni el soporte a utilizar ni el procedimiento a seguir, incluyendo solamente en su artículo 124.b) una habilitación a favor del Ministro de Hacienda, a propuesta de la IGAE, en orden a establecer los procedimientos de remisión por medios electrónicos, informáticos o telemáticos de las cuentas anuales que deban rendirse al Tribunal de Cuentas.
+
+En este sentido, la presente Orden regula un nuevo procedimiento en el cual la remisión de esta información se realiza a través de los medios informáticos y telemáticos habilitados al efecto por la IGAE. Los ficheros informáticos que contienen las cuentas anuales de cada entidad se refieren a los modelos incluidos en la normativa contable vigente en la actualidad.
+
+En el punto 1 del artículo 2 de esta Orden se regula la puesta a disposición de las cuentas anuales que deban ser auditadas por la IGAE, en virtud de lo dispuesto en el artículo 168 de la Ley General Presupuestaria, e igualmente la emisión del informe de auditoria por los medios informáticos o telemáticos habilitados al efecto por la IGAE.
+
+En el punto 2 del artículo 2 se regula el procedimiento de remisión a la IGAE de las cuentas anuales aprobadas y demás información a rendir al Tribunal de Cuentas utilizando al efecto los medios informáticos o telemáticos habilitados por la IGAE, así como su puesta a disposición del Tribunal de Cuentas a través de los medios o el soporte que convengan entre ambas partes.
+
+En el punto 3 del artículo 2 se establece el procedimiento de remisión a la IGAE de las cuentas anuales de las entidades filiales en el extranjero y de otra información adicional.
+
+En el punto 4 del artículo 2 se establece el procedimiento de remisión a la IGAE de las cuentas anuales de las sociedades gestoras de entidades de capital riesgo y de las sociedades y fondos de capital riesgo.
+
+En el punto 5 del artículo 2 se establece el procedimiento de validación de las cuentas anuales a remitir a la IGAE, facilitando los medios informáticos necesarios para verificar que dichas cuentas anuales estén libres de defectos formales o incoherencias internas que pudieran imposibilitar la agregación o consolidación de las mismas en la Cuenta General del Estado.
+
+En el artículo 3 se regula la cumplimentación y remisión a la IGAE de la información de carácter anual y trimestral que deben remitir las entidades incluidas en el ámbito de aplicación de esta Orden, en virtud de lo dispuesto en el artículo 125.2.b) de la Ley General Presupuestaria, entre la que se encuentra la información de los ajustes para consolidar la Cuenta General del Estado.
+
+En el artículo 4 se regulan los medios informáticos o telemáticos habilitados al efecto por la IGAE para la remisión de la información prevista en esta Orden, y el artículo 5 se refiere a la información a publicar en el «Boletín Oficial del Estado» por parte de las entidades que no tienen la obligación de publicar sus cuentas en el Registro Mercantil.
+
+En la Disposición final primera se recogen las modificaciones a incluir en la Orden Ministerial por la que se regula la elaboración de la Cuenta General del Estado.
+
+En la Disposición final segunda se habilita a la IGAE para efectuar las modificaciones necesarias en los ficheros informáticos y especificaciones técnicas, y en la Disposición final tercera se establece que entrará en vigor al día siguiente al de su publicación en el «Boletín Oficial del Estado», siendo aplicable a las cuentas anuales del ejercicio 2010 y siguientes, no obstante si el procedimiento técnico preciso para instrumentar lo dispuesto en el punto 1 del artículo 2 no estuviera disponible para la formulación de las cuentas anuales de 2010 se podrá aplazar, mediante Resolución de la IGAE, para el ejercicio 2011, a su vez la Disposición final primera será de aplicación para la elaboración de la Cuenta General del Estado del ejercicio 2009 y siguientes.
+
+La aprobación de esta Orden Ministerial se realiza a propuesta de la IGAE, de acuerdo con las competencias que a dicho centro directivo le otorga el artículo 125.1.a) de la Ley General Presupuestaria, y en uso de las facultades que el artículo 124.b) de dicha Ley otorga al Ministro de Hacienda (actual Ministra de Economía y Hacienda).
+
+En su virtud, dispongo:
+
+## Artículo 1. Ámbito de aplicación.
+
+La presente Orden será de aplicación a las entidades del sector público estatal que apliquen el Plan General de Contabilidad de la empresa española y sus adaptaciones y que rindan sus cuentas al Tribunal de Cuentas por conducto de la Intervención General de la Administración del Estado y, en particular a aquellas entidades del sector público empresarial y fundacional del Estado (en adelante entidades), reguladas en los artículos 3.2 y 3.3 de la Ley General Presupuestaria.
+
+Asimismo, será de aplicación a las entidades que han dejado de formar parte del sector público empresarial y fundacional estatal durante el ejercicio en el que deban rendir cuentas, según lo dispuesto en el artículo 138.4 y 5 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica por la disposición final 1.1 de la Orden HAP/2161/2013, de 14 de noviembre. [Ref. BOE-A-2013-12191](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12191).
+
+> Esta modificación se aplicará a las cuentas de 2013 y siguientes.
+
+## Artículo 2. Procedimiento a seguir en la remisión de las cuentas anuales y demás información a rendir al Tribunal de Cuentas.
+
+1\. Puesta a disposición de la IGAE de las cuentas anuales formuladas que deban ser auditadas por la IGAE en virtud de lo dispuesto en el artículo 168.a) y b) de la Ley General Presupuestaria y emisión del informe de auditoría.
+
+1.1 Una vez formuladas las cuentas anuales, las entidades aportarán la siguiente información a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, generándose los correspondientes ficheros:
+
+a) Las cuentas anuales formuladas que cada entidad debe remitir a la IGAE para su auditoría.
+
+b) El informe regulado en el artículo 129.3 de la Ley General Presupuestaria, y en la Orden EHA/614/2009, de 3 de marzo, por la que se regula el contenido de dicho informe.
+
+c) El informe de gestión, cuando corresponda.
+
+La información de los apartados a) y b) anteriores podrá ser aportada por las entidades haciendo uso de los formularios proporcionados a tal efecto o bien, excepto la memoria de las cuentas anuales, mediante ficheros XBRL que contengan dicha información.
+
+1.2 Al informe previsto en el artículo 129.3 de la Ley General Presupuestaria a que hace referencia el punto 1.1.b) de este artículo 2, quedarán asociadas:
+
+a) Una diligencia del responsable del departamento financiero donde se indique el resumen electrónico del fichero que contiene el informe previsto en el artículo 129.3 de la Ley General Presupuestaria.
+
+La diligencia tendrá el siguiente contenido:
+
+“Don/doña ................................................ (nombre y apellidos del responsable del departamento financiero), ......................................... (cargo del mismo) de ................................ (denominación de la entidad), presento el informe previsto en el artículo 129.3 de la Ley General Presupuestaria correspondiente al ejercicio ......................
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el responsable del departamento financiero.
+
+1.3 El cuentadante al que se refiere el artículo 138 de la Ley General Presupuestaria acreditará la remisión a la IGAE de la información indicada en los puntos 1.1 y 1.2 anteriores, mediante la asociación a dicha información de:
+
+a) Una diligencia con el siguiente contenido, donde se indique el resumen electrónico del fichero que contiene la información indicada en el punto 1.1 anterior:
+
+“Don/doña ......................................................... (nombre y apellidos del cuentadante), …………..............…. (cargo del mismo) de ......................................... (denominación de la entidad), remito las cuentas anuales (individuales/consolidadas) del ejercicio ....................., formuladas por .................. (órgano competente de la entidad), en ........................... (lugar y fecha de formulación de las cuentas).
+
+Asimismo remito la siguiente información, de acuerdo con lo que se establece en el artículo 2, de la Orden del Ministerio de Economía y Hacienda de ................ (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante de la entidad.
+
+1.4 Utilizando los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, el auditor pondrá a disposición del cuentadante de la entidad, un fichero conteniendo el informe de auditoría previsto en el artículo 139.1 de la Ley General Presupuestaria, mediante la asociación a dicha información de:
+
+a) Una diligencia con el siguiente contenido, donde se indique el resumen electrónico del fichero que contiene la información señalada anteriormente:
+
+“Don/doña ......................................... (nombre y apellidos), ........................ (cargo del director de la auditoría), don/doña .............................................. (nombre y apellidos), ........................... (cargo del titular del órgano de control), emiten el informe de auditoría correspondiente al ejercicio ...................., de la entidad ................... Además se hace constar que la información relativa a las cuentas anuales formuladas a las que se refiere dicho informe de auditoría queda contenida en el fichero xxxxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxxxxx.
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+Cuando, de conformidad con la Circular 2/2009, de 16 de septiembre, de la IGAE, sobre Auditoría Pública, solo proceda una única firma, la diligencia hará referencia exclusivamente al titular del órgano de control.
+
+b) La firma electrónica de esta diligencia, firmada por el titular del órgano de control y, en su caso, por el director de la auditoría.
+
+1.5 Excepcionalmente cuando se precise formular de nuevo las cuentas anuales se deberá seguir el mismo procedimiento indicado en los puntos 1.1 al 1.4 anteriores.
+
+En todo caso, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, quedará constancia de la fecha de formulación y contenido de las cuentas formuladas con anterioridad.
+
+2\. Puesta a disposición de la Intervención General de la Administración del Estado de las cuentas anuales formuladas por las Entidades no incluidas en el punto 1 de este artículo, a efectos de la elaboración de la Cuenta General del Estado.
+
+2.1 Una vez formuladas las cuentas anuales, las entidades no incluidas en el punto 1 de este artículo aportarán la siguiente información a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, generándose los correspondientes ficheros:
+
+a) Las cuentas anuales formuladas que cada entidad debe remitir a la IGAE.
+
+b) El Informe regulado en el artículo 129.3 de la Ley General Presupuestaria, y en la Orden EHA/614/2009, de 3 de marzo, por la que se regula el contenido de dicho Informe, si bien, su aportación tendrá carácter voluntario.
+
+c) El Informe de gestión, cuando corresponda.
+
+La información de los apartados a) y b) anteriores podrá ser aportada por las entidades haciendo uso de los formularios proporcionados a tal efecto o bien, excepto la memoria de las cuentas anuales, mediante ficheros XBRL que contengan dicha información.
+
+2.2 Al Informe previsto en el artículo 129.3 de la Ley General Presupuestaria a que hace referencia el punto 2.1.b) de este artículo 2, quedarán asociadas:
+
+a) Una diligencia del responsable del departamento financiero donde se indique el resumen electrónico del fichero que contiene el Informe previsto en el artículo 129.3 de la Ley General Presupuestaria.
+
+La diligencia tendrá el siguiente contenido:
+
+“Don/doña ................................................ (nombre y apellidos del responsable del departamento financiero), ........................................ (cargo del mismo) de .......................... (denominación de la entidad), presento el Informe previsto en el artículo 129.3 de la Ley General Presupuestaria correspondiente al ejercicio .........
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el responsable del departamento financiero.
+
+2.3 El cuentadante al que se refiere el artículo 138 de la Ley General Presupuestaria acreditará la remisión a la IGAE de la información indicada en los puntos anteriores, mediante la asociación a dicha información de:
+
+a) Una diligencia con el siguiente contenido, donde se indique el resumen electrónico del fichero que contiene la información indicada en los puntos anteriores:
+
+“Don/doña .......... (nombre y apellidos del cuentadante), (cargo del mismo) de .......... (denominación de la entidad), remito las cuentas anuales (individuales/consolidadas) del ejercicio ......, formuladas por ....... (órgano competente de la entidad), en ...... (lugar y fecha de formulación de las cuentas).
+
+Asimismo, remito la siguiente información, de acuerdo con lo que se establece en el artículo 2, de la Orden del Ministerio de Economía y Hacienda de ................... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante de la entidad.
+
+2.4 Excepcionalmente cuando se precise formular de nuevo las cuentas anuales se deberá seguir el mismo procedimiento indicado en los puntos 2.1 a 2.3 anteriores.
+
+En todo caso, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, quedará constancia de la fecha de formulación y contenido de las cuentas formuladas con anterioridad.
+
+3\. Remisión a la IGAE de las cuentas anuales formuladas de las entidades filiales en el extranjero y demás información, a efectos de la elaboración de la Cuenta General del Estado.
+
+3.1 El cuentadante de la entidad matriz en España remitirá a la IGAE las cuentas anuales formuladas de la entidad filial en el extranjero y de la demás información requerida a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, haciendo uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia del cuentadante de la entidad matriz en España de la entidad filial en el extranjero, donde se indique el resumen electrónico del fichero que contiene la información indicada en el párrafo anterior, con el siguiente contenido:
+
+“Don/doña .......................................... (nombre y apellidos del cuentadante de la entidad matriz en España), ....................................... (cargo del mismo) de ................. (denominación de la entidad matriz), remito las cuentas anuales correspondientes al ejercicio …................ de la entidad ............................ (nombre de la entidad filial en el extranjero) que fueron formuladas por ......................................... (órgano competente de la entidad filial), en ............................ (lugar y fecha de formulación de las cuentas).
+
+Asimismo, remito la siguiente información de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ............... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxxxxxxxxxxxxxx.
+
+En ........................, a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante de la entidad matriz en España.
+
+3.2 Excepcionalmente cuando se precise formular de nuevo las cuentas anuales se deberá seguir el mismo procedimiento indicado en el punto anterior.
+
+En todo caso, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, quedará constancia de la fecha de formulación y contenido de las cuentas formuladas con anterioridad.
+
+4\. Remisión a la IGAE de las cuentas anuales formuladas de las sociedades y fondos de capital riesgo y las sociedades gestoras de entidades de capital riesgo y demás información, a efectos de la elaboración de la Cuenta General del Estado.
+
+4.1 Cuentas anuales de los fondos de capital riesgo.
+
+El cuentadante de la sociedad gestora del fondo de capital riesgo remitirá a la IGAE las cuentas anuales formuladas del fondo de capital riesgo y la demás información requerida a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, haciendo uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia del cuentadante de la sociedad gestora del fondo de capital riesgo, donde se indique el resumen electrónico del fichero que contiene la información indicada en el párrafo anterior, con el siguiente contenido:
+
+“Don/doña ....................................................... (nombre y apellidos del cuentadante de la sociedad gestora del fondo de capital riesgo), ...................... (cargo del mismo) de ................ (denominación de la sociedad gestora del fondo de capital riesgo), remito las cuentas anuales correspondientes al ejercicio ...................... del fondo de capital riesgo ......................... (nombre del fondo de capital riesgo) que fueron formuladas por …............................. (órgano competente para ello), en ...................... (lugar y fecha de formulación de las cuentas).
+
+Asimismo, remito la siguiente información, de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ................... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxxxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante de la sociedad gestora del fondo de capital riesgo.
+
+4.2 Cuentas anuales de las sociedades gestoras de entidades de capital riesgo y de las sociedades de capital riesgo.
+
+Los cuentadantes de las sociedades gestoras de entidades de capital riesgo y de las sociedades de capital riesgo remitirán a la IGAE las cuentas anuales formuladas y demás información requerida a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, haciendo uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia del cuentadante de la sociedad gestora de entidades de capital riesgo o de la sociedad de capital riesgo, donde se indique el resumen electrónico del fichero que contiene la información indicada en el párrafo anterior, con el siguiente contenido:
+
+“Don/doña ....................................................................... (nombre y apellidos del cuentadante), ..................................... (cargo del mismo) de ........................... (denominación de la entidad), remito las cuentas anuales ...................... (individuales/consolidadas) del ejercicio ................, formuladas por .................. (órgano competente de la entidad), en ............................... (lugar y fecha de formulación de las cuentas).
+
+Asimismo, remito la siguiente información de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ............. (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante.
+
+4.3 Excepcionalmente cuando se precise formular de nuevo las cuentas anuales se deberá seguir el mismo procedimiento indicado en los puntos anteriores.
+
+En todo caso, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, quedará constancia de la fecha de formulación y contenido de las cuentas formuladas con anterioridad.
+
+5\. Remisión a la IGAE de las cuentas anuales aprobadas y demás información a rendir al Tribunal de Cuentas.
+
+Las entidades remitirán a la IGAE las cuentas anuales aprobadas y demás información a rendir al Tribunal de Cuentas, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden.
+
+5.1 Una vez que los órganos competentes aprueben las cuentas anuales, las entidades aportarán la siguiente información a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, generándose los correspondientes ficheros:
+
+a) Las cuentas anuales que cada entidad debe rendir al Tribunal de Cuentas.
+
+b) El Informe regulado en el artículo 129.3 de la Ley General Presupuestaria, y en la Orden EHA/614/2009, de 3 de marzo, por la que se regula el contenido de dicho Informe.
+
+c) El Informe de auditoría de las citadas cuentas anuales, cuando corresponda.
+
+d) El Informe de gestión, cuando corresponda.
+
+5.2 Al Informe previsto en el artículo 129.3 de la Ley General Presupuestaria a que hace referencia el punto 5.1.b) de este artículo 2 quedarán asociadas:
+
+a) Una diligencia del responsable del departamento financiero donde se indique el resumen electrónico del fichero que contiene el Informe previsto en el artículo 129.3 de la Ley General Presupuestaria. La diligencia tendrá el siguiente contenido:
+
+“Don/doña ....................................................................................... (nombre y apellidos del responsable del departamento financiero), ..................................... (cargo del mismo) de ........................... (denominación de la entidad), remito el Informe previsto en el artículo 129.3 de la Ley General Presupuestaria correspondiente al ejercicio ........................
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el responsable del departamento financiero.
+
+5.3 En cumplimiento de su obligación de rendir cuentas, y dentro del plazo establecido en el artículo 139.1 de la Ley General Presupuestaria, el cuentadante acreditará la remisión de la información indicada en los puntos 5.1 y 5.2 anteriores a la IGAE, mediante la asociación a dicha información de:
+
+a) Una diligencia donde se indique el resumen electrónico del fichero que contiene la información indicada en los puntos 5.1 y 5.2 anteriores.
+
+En el caso de las entidades comprendidas en el punto 1 del artículo 2, el contenido de la diligencia será el siguiente:
+
+“Don/doña ..................................................................................... (nombre y apellidos del cuentadante), ................................................. (cargo del mismo) de ................................. (denominación de la entidad), remito las cuentas anuales ..................... (individuales/consolidadas) del ejercicio .........................., aprobadas por .......................................... (órgano competente de la entidad), en ............................. (lugar y fecha de aprobación de las cuentas), que coinciden con las auditadas.
+
+Además hago constar que a dichas cuentas anuales se refiere el Informe de auditoría emitido con fecha ............... contenido en el fichero xxxxxxxxxxxxx, cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+Asimismo, remito la siguiente información a rendir al Tribunal de Cuentas de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ......................... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+En el caso del resto de entidades comprendidas en el ámbito de aplicación de esta orden, el contenido de la diligencia será el siguiente:
+
+“Don/doña ......................................................................... (nombre y apellidos del cuentadante), ..................................... (cargo del mismo) de ........................... (denominación de la entidad), remito las cuentas anuales ......................... (individuales/consolidadas) del ejercicio ...................................., aprobadas por ................................................. (órgano competente de la entidad), en ............................. (lugar y fecha de aprobación de las cuentas), que coinciden con las auditadas, en caso de que la entidad esté obligada a someterse a auditoría.
+
+Asimismo, remito la siguiente información a rendir al Tribunal de Cuentas de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ......................... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de auditoría (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante.
+
+5.4 Los cuentadantes de las entidades que han dejado de formar parte del sector público estatal durante el ejercicio remitirán a la IGAE la documentación exigida por la Ley General Presupuestaria a rendir al Tribunal de Cuentas a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden pudiendo hacer uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia donde se indique el resumen electrónico del fichero que contiene la información remitida.
+
+“Don/doña ......................................................................... (nombre y apellidos del cuentadante), ..................................... (cargo del mismo) de ........................... (denominación de la entidad), remito la documentación exigida por la Ley General Presupuestaria correspondientes al ........................... (periodo de referencia) integrada por .......................... (indicación de la documentación remitida), aprobadas por .......................................... (órgano competente de la entidad), en ............................. (lugar y fecha de aprobación de las cuentas).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante.
+
+5.5 Una vez recibidos los ficheros informáticos que se señalan en los puntos 5.1, 5.2 y 5.3 de este artículo 2, la IGAE los pondrá a disposición del Tribunal de Cuentas, dentro del plazo legalmente establecido, a través de los medios o el soporte que convengan entre ambas partes.
+
+5.6 Sin perjuicio de lo establecido en el párrafo anterior, la IGAE conservará los ficheros que se hubiesen recibido de cada una de las entidades, tanto a efectos estadísticos como de obtención de la Cuenta General del Estado.
+
+6\. Remisión a la IGAE de las cuentas anuales de las entidades filiales en el extranjero y demás información a rendir al Tribunal de Cuentas.
+
+6.1 El cuentadante de la entidad matriz en España remitirá a la IGAE las cuentas anuales aprobadas de la entidad filial en el extranjero y de la demás información a rendir al Tribunal de Cuentas a requerida a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, haciendo uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia del cuentadante de la entidad matriz en España de la entidad filial en el extranjero, donde se indique el resumen electrónico del fichero que contiene la información indicada en el párrafo anterior, con el siguiente contenido:
+
+“Don/doña ........................................... (nombre y apellidos del cuentadante de la entidad matriz en España), ........................... (cargo del mismo) de .................... (denominación de la entidad matriz), remito las cuentas anuales correspondientes al ejercicio ................... de la entidad ................................ (nombre de la entidad filial en el extranjero) que fueron aprobadas por ................. (órgano competente de la entidad filial), en ............................ (lugar y fecha de aprobación de las cuentas) y que, según acredita la entidad .................... (nombre de la entidad filial en el extranjero) coincide con las auditadas, en caso de que la entidad esté obligada a someterse a auditoria.
+
+Asimismo, remito la siguiente información de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ............. (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de auditoría (Sí/No)
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxxxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante de la entidad matriz en España.
+
+6.2 Una vez recibidos los ficheros informáticos que se señalan en el punto 6.1 de este artículo 2, la IGAE los pondrá a disposición del Tribunal de Cuentas, dentro del plazo legalmente establecido, a través de los medios o el soporte que convengan entre ambas partes.
+
+6.3 Sin perjuicio de los establecido en el párrafo anterior, la IGAE conservará los ficheros que se hubiesen recibido de cada una de las entidades, tanto a efectos estadísticos como de obtención de la Cuenta General del Estado.
+
+7\. Remisión a la IGAE de las cuentas anuales de las sociedades y fondos de capital riesgo y las sociedades gestoras de entidades de capital riesgo y demás información, a rendir al Tribunal de Cuentas.
+
+7.1 Cuentas anuales de los fondos de capital riesgo.
+
+El cuentadante de la sociedad gestora del fondo de capital riesgo remitirá a la IGAE las cuentas anuales aprobadas del fondo de capital riesgo y la demás información a rendir al Tribunal de Cuentas a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, haciendo uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia del cuentadante de la sociedad gestora del fondo de capital riesgo, donde se indique el resumen electrónico del fichero que contiene la información indicada en el párrafo anterior, con el siguiente contenido:
+
+“Don/doña .................................................. (nombre y apellidos del cuentadante de la sociedad gestora del fondo de capital riesgo), ................... (cargo del mismo) de .......................... (denominación de la sociedad gestora del fondo de capital riesgo), remito las cuentas anuales correspondientes al ejercicio ...................... del fondo de capital riesgo .......................... (nombre del fondo de capital riesgo) que fueron aprobadas por ................................ (órgano competente para ello), en ...................... (lugar y fecha de aprobación de las cuentas) y que coinciden con las auditadas, en caso de que el fondo esté obligado a someterse a auditoría.
+
+Asimismo, remito la siguiente información a rendir al Tribunal de Cuentas, de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de ................... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de auditoría (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxxxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante de la sociedad gestora del fondo de capital riesgo.
+
+7.2 Cuentas anuales de las sociedades gestoras de entidades de capital riesgo y de las sociedades de capital riesgo.
+
+Los cuentadantes de las sociedades gestoras de entidades de capital riesgo y de las sociedades de capital riesgo remitirán a la IGAE las cuentas anuales aprobadas y demás información a rendir al Tribunal de Cuentas, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden, haciendo uso de los formularios proporcionados a tal efecto, mediante la asociación a dicha información de:
+
+a) Una diligencia del cuentadante de la sociedad gestora de entidades de capital riesgo o de la sociedad de capital riesgo, donde se indique el resumen electrónico del fichero que contiene la información indicada en el párrafo anterior, con el siguiente contenido:
+
+“Don/doña ................................................................. (nombre y apellidos del cuentadante), ..................................... (cargo del mismo) de ........................... (denominación de la entidad), remito las cuentas anuales ............................ (individuales/consolidadas) del ejercicio ................., aprobadas por ........................ (órgano competente de la entidad), en ............................. (lugar y fecha de aprobación de las cuentas), que coinciden con las auditadas, en caso de que la entidad esté obligada a someterse a auditoría.
+
+Asimismo remito la siguiente información a rendir al Tribunal de Cuentas de acuerdo con lo que se establece en el artículo 2 de la Orden del Ministerio de Economía y Hacienda de .......................... (fecha de aprobación de esta orden):
+
+Informe regulado en el artículo 129.3 de la Ley General Presupuestaria (Sí/No).
+
+Informe de auditoría (Sí/No).
+
+Informe de gestión (Sí/No).
+
+La información anterior queda contenida en el fichero xxxxxxxxxxxxx cuyo resumen electrónico es xxxxxxxxxxxxx.
+
+En .........................., a ....... de .................. de ......
+
+Firma.”
+
+b) La firma electrónica de esta diligencia, firmada por el cuentadante.
+
+7.3 Una vez recibidos los ficheros informáticos que se señalan en los puntos 7.1. y 7.2 de este artículo 2, la IGAE los pondrá a disposición del Tribunal de Cuentas, dentro del plazo legalmente establecido, a través de los medios o el soporte que convengan entre ambas partes.
+
+7.4 Sin perjuicio de lo establecido en el párrafo anterior, la IGAE conservará los ficheros que se hubiesen recibido de cada una de las entidades, tanto a efectos estadísticos como de obtención de la Cuenta General del Estado.
+
+8\. Procedimiento de validación de las cuentas anuales a remitir a la IGAE.
+
+8.1 La IGAE pondrá a disposición de las entidades los medios informáticos y telemáticos señalados en el artículo 4 de esta orden para verificar que las cuentas anuales estén libres de defectos formales o incoherencias internas que pudieran imposibilitar su agregación o consolidación en la Cuenta General del Estado.
+
+8.2 La puesta a disposición de la IGAE de cuentas anuales formuladas o aprobadas con defectos formales o incoherencias internas que pudieran imposibilitar su agregación o consolidación en la Cuenta General del Estado, generará un aviso en el sistema advirtiendo de tal situación.
+
+8.3 Si la entidad decide modificar sus cuentas para subsanar los defectos e incoherencias habrá de atenerse, si se trata de cuentas formuladas, a lo dispuesto en el punto 1.5 del artículo 2 de esta orden, y si se trata de cuentas ya aprobadas habrán de ponerse nuevamente a disposición de los auditores de que se trate, para la emisión, en su caso, del informe de auditoría a las nuevas cuentas.
+
+> Se modifica por el art. único.2 de la Orden HAC/148/2025, de 7 de febrero. [Ref. BOE-A-2025-2868](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2868)
+
+> Esta modificación se aplicará a las cuentas anuales del ejercicio 2024 y siguientes, según establece la disposición final única de la citada Orden.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 46, de 22 de febrero de 2025. [Ref. BOE-A-2025-3557](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-3557)
+
+> Se modifica por la disposición final 1.2 a 1.6, de la Orden HAP/216/2013, de 14 de noviembre. [Ref. BOE-A-2013-12191](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12191).
+
+> Esta modificación se aplicará a las cuentas anuales del ejercicio 2013 y siguientes.
+
+## Artículo 3. Procedimiento a seguir en la remisión de la información de carácter anual, trimestral y mensual a remitir a la IGAE.
+
+1\. Adicionalmente a la información indicada en el artículo 2 anterior, y en aplicación de lo dispuesto en el artículo 125.2.b) de la Ley General Presupuestaria, las entidades remitirán a la IGAE información económico-financiera de carácter anual, trimestral y mensual. La IGAE facilitará los modelos necesarios para registrar y remitir la información, tanto de carácter anual, trimestral y mensual, a través de los medios informáticos y telemáticos señalados en el artículo 4 de esta orden.
+
+2\. La información de carácter anual deberá remitirse a la IGAE dentro de los siete meses siguientes a la terminación del ejercicio económico a que dicha información se refiere.
+
+3\. La información de carácter trimestral se remitirá a la IGAE atendiendo a los plazos recogidos en el cuadro siguiente:
+
+| Información del período | Plazo de envío |
+|---|---|
+| Enero-marzo del año X. | Antes del 30 de abril del año X. |
+| Enero-junio del año X. | Antes del 31 de julio del año X. |
+| Enero-septiembre del año X. | Antes del 31 de octubre del año X. |
+| Enero-diciembre del año X. | En el momento en el que se formulen las cuentas anuales o antes del 30 de abril del año X+1. |
+
+4\. La información de carácter mensual se remitirá a la IGAE por parte de aquellas entidades clasificadas en Contabilidad Nacional según los criterios del sistema Europeo de Cuentas Nacionales y Regionales, como subsector Administración central, en los plazos recogidos en el cuadro siguiente:
+
+| Información del período | Plazo de envío |
+|---|---|
+| Enero del año X. | Antes del 15 de febrero del año X. |
+| Enero-febrero del año X. | Antes del 15 de marzo del año X. |
+| Enero-marzo del año X. | Antes del 15 de abril del año X. |
+| Enero-abril del año X. | Antes del 15 de mayo del año X. |
+| Enero-mayo del año X | Antes del 15 de junio del año X. |
+| Enero-junio del año X. | Antes del 15 de julio del año X. |
+| Enero-julio del año X. | Antes del 15 de agosto del año X. |
+| Enero-agosto del año X. | Antes del 15 de septiembre del año X. |
+| Enero-septiembre del año X. | Antes del 15 de octubre del año X. |
+| Enero-octubre del año X. | Antes del 15 de noviembre del año X. |
+| Enero-noviembre del año X. | Antes del 15 de diciembre del año X. |
+| Enero-diciembre del año X. | Antes del 30 de enero del año X+1. |
+
+5\. La información de carácter anual remitida ha de concordar con las cuentas anuales aprobadas por la entidad.
+
+La información de carácter trimestral y mensual remitida ha de concordar con la contabilidad de la entidad.
+
+6\. La presentación de los formularios electrónicos de la información económico-financiera de carácter anual, trimestral y mensual será realizada por el responsable del departamento económico-financiero o el cuentadante de la entidad, accediendo a la aplicación CICEP.red de la IGAE como se indica en el apartado 3 del artículo 4.
+
+El formulario electrónico de envío de la información económico-financiera de carácter anual, trimestral y mensual contendrá la expresión de la voluntad y consentimiento explícito del responsable del departamento económico-financiero o el cuentadante, manifestando la concordancia a la que se refiere el apartado 6 de este artículo.
+
+El responsable del departamento económico-financiero o el cuentadante de la entidad obtendrá un justificante de presentación que será proporcionado por la propia aplicación de la IGAE.
+
+> Se modifica por el art. único.3 de la Orden HAC/148/2025, de 7 de febrero. [Ref. BOE-A-2025-2868](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2868)
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2024 y siguientes, según establece la disposición final única de la citada Orden.
+
+> Se modifican los apartados 6, 7 y se añade el 8 por el art. único.1 a 3 de la Orden HAC/1234/2018, de 14 de noviembre. [Ref. BOE-A-2018-15964](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15964)
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2018 y siguientes, según establece la disposición final única de la citada Orden
+
+> Se modifican los apartados 2 y 7 por el art. único de la Orden HFP/458/2018, de 3 de mayo. [Ref. BOE-A-2018-6082](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6082)
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2017 y siguientes, según establece la disposición final única de la citada Orden.
+
+> Se modifica por la disposición final.1.7 a 1.11 de la Orden HAP/2161/2013, de 14 de noviembre. [Ref. BOE-A-2013-12191](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12191).
+
+> Esta modificación se aplicará a las cuentas anuales del ejercicio 2013 y siguientes.
+
+## Artículo 4. Procedimiento de remisión de la información.
+
+1\. Las entidades remitirán la información a través de los medios informáticos y telemáticos habilitados al efecto por la IGAE, concretamente a través de la aplicación CICEP.Red.
+
+2\. La solicitud de acceso a la aplicación CICEP.Red se efectuará a través del apartado “Solicitud de Acceso a los Sistemas” de la oficina virtual del Portal en internet de la IGAE (http://www.pap.hacienda.gob.es/), de acuerdo con el procedimiento establecido en la Resolución de 21 de diciembre de 2015, de la Secretaría de Estado de Presupuestos y Gastos, por la que se regula la política de seguridad de los sistemas de información de la Secretaría de Estado de Presupuestos y Gastos y de la Intervención General de la Administración del Estado.
+
+3\. El acceso de los usuarios autorizados a la aplicación CICEP.Red se efectuará a través del apartado “Acceso a los Sistemas de información” de la oficina virtual del Portal en internet de la IGAE (http://www.pap.hacienda.gob.es/), requiriéndose, en todo caso, certificado electrónico de los admitidos por la Administración General del Estado, de acuerdo con lo dispuesto en el artículo 9 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se suprime el apartado 4 por el art. único.4 de la Orden HAC/148/2025, de 7 de febrero. [Ref. BOE-A-2025-2868](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2868)
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2024 y siguientes, según establece la disposición final única de la citada Orden.
+
+> Se modifica por el art. único.4 de la Orden HAC/1234/2018, de 14 de noviembre. [Ref. BOE-A-2018-15964](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15964)
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2018 y siguientes, según establece la disposición final única de la citada Orden
+
+> Se modifica por la disposición final.1.12 y 1.13 de la OrdenHAP/2161/2013, de 14 de noviembre. [Ref. BOE-A-2013-12191](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12191).
+
+> Esta modificación se aplicará a las cuentas anuales del ejercicio 2013 y siguientes.
+
+## Artículo 5. Publicación de las cuentas anuales.
+
+Las cuentas anuales se publicarán por la Intervención General de la Administración del Estado anualmente en el portal de la Administración presupuestaria, dentro del canal “Registro de cuentas anuales del sector público”, de acuerdo con lo previsto en el artículo 136.2 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Asimismo, la Intervención General de la Administración del Estado publicará en el "Boletín Oficial del Estado" el día 31 de julio la referencia al «Registro de cuentas anuales del sector público», de acuerdo con lo previsto en el art. 136.3 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica por el art. 3 de la Orden HAC/360/2021, de 14 de abril. [Ref. BOE-A-2021-6124](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6124)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Orden y, en particular, quedan derogadas la Resolución de 22 de septiembre de 2008, de la IGAE por la que se regula el procedimiento de remisión a la IGAE de la información de carácter anual y trimestral por las entidades del sector público estatal empresarial y del fundacional y la Orden de 24 de abril de 1996 por la que se regula la estructura de las cuentas a rendir por las sociedades estatales y otros entes del sector público estatal.
+
+## Disposición final primera. Modificación de la Orden del Ministerio de Hacienda de 12 de Diciembre de 2000, por la que se regula la elaboración de la Cuenta General del Estado.
+
+El apartado primero, punto 3 inciso 5 de la Orden del Ministerio de Hacienda de 12 de Diciembre de 2000, por la que se regula la elaboración de la Cuenta General del Estado, queda con la siguiente redacción:
+
+«No se integrarán en la Cuenta General del Estado las cuentas anuales de aquellas entidades integrantes del sector público estatal en cuyo informe de auditoria se hubiera expresado una opinión desfavorable o se hubiera denegado la opinión, indicándose esta circunstancia en la memoria.
+
+Asimismo, las cuentas anuales presentadas fuera del plazo legalmente establecido se integrarán según el criterio de la IGAE, considerando el plazo límite de que dispone dicho centro directivo para la elaboración de la Cuenta General del Estado.»
+
+## Disposición final segunda. Habilitación a la Intervención General de la Administración del Estado.
+
+Se habilita a la IGAE para efectuar las modificaciones que fuese necesario realizar en los ficheros informáticos y especificaciones técnicas que se contienen en los Anexos I a X, a efectos de adecuar dichas especificaciones y requerimientos a los que en cada momento pudiesen estar disponibles en los diferentes sistemas de información contable utilizados por las entidades a las que sea de aplicación la presente Orden.
+
+## Disposición final tercera. Entrada en vigor.
+
+1\. La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado, siendo aplicable a las cuentas anuales del ejercicio 2010 y siguientes.
+
+2\. La Disposición final primera se aplicará en la elaboración de la Cuenta General del Estado del ejercicio 2009 y siguientes.
+
+3\. Se autoriza a la IGAE para aplazar, mediante Resolución, la aplicación de la Orden a la formulación de las cuentas anuales de 2011, si el procedimiento técnico preciso para instrumentar lo dispuesto en su artículo 2 punto 1 no estuviera disponible para la formulación de las cuentas anuales de 2010.
+
+Madrid, 22 de julio de 2010.–La Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, Elena Salgado Méndez.
+
+## Anexos I a X
+
+**(Suprimidos)**
+
+> Se suprimen los anexos por la disposición final.1.14 de la Orden HAP/2161/2013, de 14 de noviembre. [Ref. BOE-A-2013-12191](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12191).

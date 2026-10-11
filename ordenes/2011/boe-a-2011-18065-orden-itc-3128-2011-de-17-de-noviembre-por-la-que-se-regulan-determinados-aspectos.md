@@ -1,0 +1,1311 @@
+---
+title: "Orden ITC/3128/2011, de 17 de noviembre, por la que se regulan determinados aspectos relacionados con el acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas"
+identifier: "BOE-A-2011-18065"
+eli: "https://www.boe.es/eli/es/o/2011/11/17/itc3128"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2011-11-17
+published: 2011-11-18
+in_force_from: 2011-11-19
+last_amended: 2022-09-29
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 278"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18065"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/3128/2011, de 17 de noviembre, por la que se regulan determinados aspectos relacionados con el acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas
+
+El objeto de la presente orden es la determinación de diferentes aspectos relativos acceso de terceros a las instalaciones gasistas, la aplicación de los peajes y cánones en vigor, la retribución de las actividades reguladas de las actividades gasistas y la actualización de la cuantía de las existencias mínimas de seguridad de gas natural de carácter estratégico.
+
+De acuerdo con lo establecido en la disposición final segunda del Real Decreto 326/2008, de 29 de febrero, por el que se establece la retribución de la actividad de transporte de gas natural para instalaciones con puesta en servicio a partir del 1 de enero de 2008, se procede a desarrollar la aplicación de los valores unitarios de posiciones, de centros de mantenimiento de instalaciones de transporte, así como el procedimiento a aplicar en la valoración de las ampliaciones de infraestructuras de transporte afectas a actividades reguladas, al objeto de solventar las dudas resultantes de la diferente casuística que se puede presentar.
+
+El sistema español de acceso de terceros a las instalaciones gasistas reconoce al titular de las instalaciones por donde circula el gas de los usuarios, la potestad de retener un porcentaje preestablecido del gas circulado en concepto de mermas. Dicho porcentaje es el resultado de promedios calculados a partir de valores históricos. Se hace necesario establecer un incentivo económico con el objeto de mantener los bajos niveles de mermas actuales y garantizar una utilización eficiente de las instalaciones, reduciendo así el consumo energético asociado a la gestión del sistema gasista. En este sentido, existen en funcionamiento ya mecanismos de incentivos de aplicación a las redes de distribución y a las plantas de regasificación. En esta orden se establece un incentivo para reducir las mermas en la red de transporte mediante la aplicación de una fórmula semejante a la que se aplica en la actualidad en las plantas de regasificación. Esto no tendrá coste para el sistema ya que el exceso de gas sobre las mermas máximas autorizadas se utilizará para cubrir las necesidades de gas talón de las instalaciones.
+
+Asimismo, y en conformidad con el mandato incluido en la disposición adicional segunda del mismo Real Decreto 326/2008, de 29 de febrero, la Comisión Nacional de Energía ha realizado una «Propuesta de revisión de los valores unitarios de referencias para los costes de inversión y de operación y mantenimiento para instalaciones de regasificación». De acuerdo a la información incluida en dicha propuesta se publican en esta orden los nuevos valores en vigor.
+
+De forma similar, y en consonancia con el mandato incluido en la disposición adicional séptima de la Orden ITC/3802/2008, de 26 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, la tarifa de último recurso, y determinados aspectos relativos a las actividades reguladas del sector gasista y la correspondiente propuesta de la Comisión Nacional de Energía, se modifica el modelo de retribución de los costes de operación y mantenimiento de los almacenamientos subterráneos de gas natural. En líneas generales, se sustituyen los términos fijo y variable del modelo anterior por otro basado en costes directos e indirectos que responde mejor a la forma en que dichos costes se generan y evolucionan en la realidad y, en su aplicación, se establece con carácter definitivo la retribución correspondiente a los almacenamientos Serrablo y Gaviota por este concepto para los ejercicios 2007 y 2008 así como la provisional para 2009, 2010 y 2011.
+
+La Orden ITC/3520/2009, de 28 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas para el año 2010 y se actualizan determinados aspectos relativos a la retribución de las actividades reguladas del sector gasista, incluyó por primera vez en su anexo V unos nuevos valores unitarios de inversión y mantenimiento de las instalaciones de transporte, que separaban el coste de la obra lineal de las posiciones. En la presente orden, se clarifican algunos aspectos de dichos coeficientes y su aplicación para la ampliación de instalaciones. Asimismo, se especifica la aplicación de los valores unitarios de los centros de mantenimientos, determinando parámetros imprescindibles para el cálculo de su retribución como es su vida útil.
+
+El balance de existencias de los usuarios es el resultado de diversos procedimientos de reparto que se encuentran regulados en la Norma de Gestión Técnica del Sistema NGTS-06 y en los protocolos de detalle PD-02 «Procedimiento de reparto en puntos de conexión transporte-distribución» y PD-11 «Procedimiento de reparto en puntos de entrada a la red de transporte». El disponer de información precisa e inmediata sobre el nivel de existencias de los agentes en el sistema es imprescindible para la construcción efectiva de un mercado organizado de gas. En la presente orden se establece un sistema de balance diario para el día siguiente al «día de gas» en base a los datos proporcionados por los distribuidores. Asimismo, se dispone de un procedimiento incentivador para evitar el incumplimiento de los plazos de transmisión de la información.
+
+Por otra parte, se refuerza la seguridad de suministro del sistema gasista al incrementarse las obligaciones de mantenimiento de existencias mínimas de seguridad de carácter estratégico de gas natural. De la disposición transitoria decimonovena de la Ley 12/2007, de 2 de julio, por la que se modifica la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con el fin de adaptarla a lo dispuesto en la Directiva 2003/55/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior del gas natural, se desprende que a partir del 1 de enero de 2012, las existencias mínimas de seguridad no podrán incluir reservas de carácter operativo. El Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la corporación de reservas estratégicas de productos petrolíferos, establece el nivel de existencias estratégicas de gas natural a mantener por los sujetos obligados, en 10 días de sus ventas firmes en el año natural anterior. Teniendo en cuenta la volatilidad de los mercados energéticos, la previsible evolución de nuestra capacidad de almacenamiento subterráneo con la entrada en funcionamiento de importantes infraestructuras a corto plazo así como la desaparición de las existencias operativas obligatorias, se eleva la obligación de mantenimiento de existencias de gas natural de carácter estratégico hasta los 20 días.
+
+En consonancia con lo anterior, se modifica la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad, para asegurar la coherencia del mecanismo de reparto de la capacidad disponible con el nuevo nivel de existencias estratégicas de gas natural.
+
+Asimismo, se reconoce la retribución pendiente de determinadas instalaciones asociadas al almacenamiento subterráneo de Serrablo en el período comprendido desde la efectiva puesta en marcha de las mismas hasta la fecha de inicio de amortización establecida en el anexo III de la Orden ITC/3802/2008, de 26 de diciembre.
+
+La presente orden ha sido objeto del Informe 31/2011 de la Comisión Nacional de Energía, aprobado por su Consejo de Administración de fecha 7 de octubre de 2011, para cuya elaboración se han tenido en cuenta las alegaciones formuladas en el trámite de audiencia efectuado a través del Consejo Consultivo de Hidrocarburos.
+
+Mediante Acuerdo de 7 de noviembre de 2011, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Turismo y Comercio a dictar la presente orden.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
+
+## Artículo 1. Objeto.
+
+Constituye el objeto de esta orden la determinación de diferentes aspectos relativos al acceso de terceros a las instalaciones gasistas, la aplicación de los peajes y cánones en vigor, la retribución de las actividades reguladas de las actividades gasistas y la actualización de la cuantía de las existencias mínimas de seguridad de gas natural de carácter estratégico.
+
+## Artículo 2. Posiciones de un gasoducto.
+
+1\. Se define como posición de un gasoducto de transporte al conjunto de elementos que permiten el seccionamiento y/o derivación del gas circulante por el mismo, y se considera compuesta por el terreno necesario, incluido el que pueda corresponder a las estaciones de regulación y medida (ERMs), junto con sus accesos, válvulas (de línea y de conexiones), tuberías, by-passes, venteos, en su caso trampas de rascadores, y aquellos elementos y sistemas, pasivos y/o activos, de protección, seguridad, comunicación, control, alimentación eléctrica, odorización, determinación de calidad del gas, así como cualquier otro equipamiento necesario para el correcto funcionamiento de la instalación y de conexión con instalaciones propias o de terceros durante toda la vida útil retributiva del activo.
+
+Se diferencian, por su funcionalidad y grado de equipamiento, tres tipos de posiciones: seccionamiento (posiciones Tipo S), derivación (posiciones Tipo D) y trampa de rascadores (posiciones Tipo T).
+
+Cuando una posición tenga trampas de lanzamiento y recepción de rascadores se considerarán dos posiciones de trampa de rascadores.
+
+Una posición se realiza con simultaneidad cuando se incluye en el proyecto inicial o cuando se solicita su inclusión por parte del distribuidor o transportista al menos un año antes de la fecha de puesta en servicio de la línea.
+
+2\. En el caso de nuevas posiciones, y a los efectos del uso de los valores unitarios en vigor para la aplicación del artículo 4 del Real Decreto 326/2008, de 29 de febrero, por el que se establece la retribución de la actividad de transporte de gas natural para instalaciones con puesta en servicio a partir del 1 de enero de 2008, el valor de inversión de dicha posición por aplicación de valores unitarios (VIi) será la resultante de aplicar la siguiente fórmula:
+
+VIi = Valor Unitario Posición Tipo S × CC<sub>Posición</sub> × CC<sub>TSecundario</sub> × CC<sub>Posterior</sub>
+
+Dónde:
+
+Valor Unitario Posición Tipo S = Valor Unitario aplicable de la Posición Tipo S simultánea en gasoducto de transporte primario equivalente.
+
+CC<sub>Posición</sub> = Coeficiente Corrector Tipo Posición aplicable, si se trata de una Posición Tipo S el valor será 1.
+
+CC<sub>TSecundario</sub> = Coeficiente Corrector para Elemento Transporte Secundario aplicable, si se trata de una Posición de Transporte Primario el valor será 1.
+
+CC<sub>Posterior</sub> = Coeficiente Corrector para Posiciones Posteriores Obra Lineal aplicable, si se trata de una Posición realizada con simultaneidad el valor será 1.
+
+Las posiciones de derivación incluyen el elemento de seccionamiento y las posiciones de trampa de rascadores una derivación y un seccionamiento, por lo tanto, a la hora de valorarlas se aplicará solamente el coeficiente correspondiente.
+
+Los casos de posiciones complejas, considerando como tales las que incluyen dos o más derivaciones o trampas de rascadores, se tratarán a efectos del cálculo de la retribución como ampliación de posición.
+
+3\. La vida útil de la inversión en posición a los efectos del cálculo de la retribución será la misma de los gasoductos.
+
+4\. Para el cálculo de la retribución de una posición, y en cumplimiento de las obligaciones incluidas en el artículo 5 del Real Decreto 326/2008, de 29 de febrero, la información referida a los gasoductos deberá desglosarse en obra lineal y posiciones. Asimismo, a los efectos del cumplimiento de la obligación de presentar una auditoría técnica en cumplimiento de lo establecido en el artículo 4.1 del Real Decreto 326/2008, de 29 de febrero, en el caso de gasoductos se considerará el coste conjunto de obra lineal más las posiciones.
+
+## Artículo 3. Ampliaciones de instalaciones de transporte.
+
+1\. Las modificaciones y/o ampliaciones de instalaciones de transporte existentes sólo serán incluidas en el régimen retributivo cuando supongan un aumento de capacidad y estén afectadas a la propia actividad. Desde el punto de vista del sistema retributivo, se considerará que las ampliaciones de instalaciones de transporte son independientes de la instalación original incluyéndose en él de manera individualizada.
+
+2\. A los efectos del cálculo del valor de la inversión VIi referido en el artículo 4 del Real Decreto 326/2008, de 29 de febrero, se aplicarán los siguientes criterios:
+
+a) Ampliación de estaciones de regulación y/o medida por líneas adicionales: como valor de inversión de la ampliación por aplicación de valores unitarios se tomará el valor resultante de multiplicar el factor corrector «Líneas Adicionales ERM/EM» por el valor unitario en vigor para una ERM/EM nueva en el momento de la puesta en servicio de la ampliación.
+
+b) Ampliación de estaciones de regulación y/o medida por sustitución de equipos que supongan un incremento en el tamaño de la estación (tipo de G): como valor de inversión de la ampliación por aplicación de valores unitarios se tomará la diferencia entre los valores unitarios de la ERM antes y después de la ampliación, aplicando los valores en vigor en el momento de la puesta en servicio de la ampliación.
+
+c) Ampliación de posiciones: como valor de inversión de la ampliación por aplicación de los valores unitarios se tomará la diferencia entre los valores de inversión resultantes de aplicar los valores unitarios en vigor en el momento de la puesta en servicio de la ampliación considerando el Tipo de Posición existente antes y después de la ampliación.
+
+d) Con independencia de lo anterior, en aquellos casos que por razones técnicas justificadas, haya sido autorizada administrativamente la modificación de una posición de derivación existente, para incluir una nueva línea de derivación, el valor de inversión se calculará considerando como si fuera una transformación de una posición de seccionamiento a posición de derivación.
+
+e) Ampliación de estaciones de compresión: Como valor de inversión de la ampliación por aplicación de los valores unitarios se tomará la diferencia entre los valores de inversión resultantes de aplicar los valores unitarios, término fijo y variable, en vigor en el momento de la puesta en servicio de la ampliación, considerando la potencia instalada en la EC antes y después de la ampliación.
+
+3\. A los efectos del cálculo de los costes de operación de instalaciones de transporte que sean sujeto de ampliaciones se aplicarán los siguientes criterios:
+
+a) Ampliación de estaciones de regulación y/o medida por líneas adicionales: Se considerará un coste de operación igual a cero.
+
+b) Ampliaciones de estaciones de regulación y/o medida por sustitución de equipos que supongan un incremento en el tamaño de la estación (tipo de G): Se tomará la diferencia entre los valores unitarios de operación de la ERM/EM antes y después de la ampliación, aplicando en los dos casos los valores en vigor en el momento de la puesta en servicio de la ampliación.
+
+c) Ampliación de posiciones: Se considerará un coste de operación y mantenimiento igual a cero.
+
+d) Ampliaciones de estaciones de compresión: Se considerará el coste de operación y mantenimiento resultante de multiplicar el incremento de potencia por el término variable de explotación.
+
+4\. En el caso de proyectos conjuntos de ampliaciones/modificaciones de ERM/EM situadas en la misma posición (cambio de G y línea adicional), si bien las autorizaciones, actas de puesta en marcha y auditorias son conjuntas, desde el punto de vista retributivo se considerarán instalaciones de transporte independientes incluyéndose en el sistema retributivo de instalaciones de transporte de manera diferenciada.
+
+5\. Las actas de puesta en marcha de las ampliaciones de instalaciones de transporte deberán incluir las características iniciales de las instalaciones antes de la ampliación, así como las características de la instalación tras su ampliación, según lo establecido en la disposición final cuarta de la Orden ITC/1890/2010, de 13 de julio, por la que se regulan determinados aspectos relacionados con el acceso de terceros y las retribuciones reguladas en el sistema de gas natural.
+
+## Artículo 4. Centros de mantenimiento de transporte.
+
+1\. Se define como centro de mantenimiento el conjunto de edificios e instalaciones destinadas a dar servicio y velar por el adecuado funcionamiento y buen estado de los equipos e instalaciones de los gasoductos, las estaciones de compresión y las estaciones de regulación y/o medida asociadas al mismo.
+
+2\. Un centro de mantenimiento está compuesto por el terreno, junto con sus accesos, la edificación, los elementos y sistemas, pasivos y/o activos, de protección, seguridad, comunicación, control y alimentación eléctrica, así como cualquier otro equipamiento necesario para el adecuado funcionamiento de la instalación durante toda la vida útil retributiva del activo.
+
+3\. Los centros de mantenimiento de transporte, de acuerdo con los artículos 59 y 63 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos se consideran instalaciones complementarias del Sistema Gasista y elementos constitutivo de la red de transporte, por lo que les será de aplicación los procedimientos para el otorgamiento de autorización administrativa para la construcción, modificación, explotación, transmisión y cierre de instalaciones previstos en la normativa sectorial, y sin perjuicio de las concesiones y autorizaciones sobre protección del dominio público que sean necesarias, de acuerdo con otras disposiciones que resulten aplicables, y en especial las relativas a la ordenación del territorio, urbanismo y al medio ambiente.
+
+En las solicitudes de autorización administrativa para la construcción, transmisión y cierre de un centro de mantenimiento, junto a la documentación requerida por la normativa sectorial, se adjuntará un documento donde se describa el impacto que supone el nuevo centro de mantenimiento, o la transmisión/cierre del existente, en el listado de gasoductos adscritos a cada centro de mantenimiento de los que es titular el transportista.
+
+4\. El valor de inversión del edificio y los equipamientos de los centros de mantenimiento ubicados en estaciones de compresión, plantas de regasificación o almacenamientos subterráneos se consideraran, a los efectos de la inclusión en el régimen retributivo y del cálculo de la retribución, como inversiones realizadas en la estación de compresión, la planta de regasificación o el almacenamiento subterráneo que lo contenga.
+
+Si el centro de mantenimiento de transporte tiene un uso compartido con la actividad de distribución, se considerará a todos los efectos instalación de distribución.
+
+5\. Cada centro de mantenimiento deberá mantener al menos 200 km de gasoducto y las posiciones, ERM/EM o estaciones de compresión conectados a ellos, sin que puedan existir gasoductos adscritos a más de un centro. La distancia mínima entre dos centros de mantenimiento de una misma empresa transportista será de 150 km medidos sobre el camino más corto entre ambos centros.
+
+Antes del 31 de octubre de cada año, los transportistas titulares de centros de operación y mantenimiento enviarán al Ministerio de Industria, Turismo y Comercio y a la Comisión Nacional de Energía, la relación de los nuevos gasoductos adscritos a cada centro indicando su longitud, así como la relación de gasoductos que han sido reasignados a otro centro de mantenimiento bien por la puesta en servicio de un nuevo centro, bien por la transmisión o cierre del que estaban adscritos.
+
+6\. A los efectos del cálculo de retribución en concepto de amortización y retribución financiera, la vida útil de los centros de mantenimiento será de 20 años.
+
+7\. El titular de un centro de operación y mantenimiento de instalaciones gasistas, con construcción finalizada con posterioridad al 1 de enero de 2008, podrá solicitar a la Dirección General de Política Energética y Minas su inclusión en el régimen retributivo acompañando a la solicitud la siguiente documentación:
+
+a) Características de la instalación.
+
+b) Inversión realizada debidamente auditada.
+
+c) Certificación, extendida por la dirección del área o, en su caso, dependencia, de Industria y Energía de la Delegación o Subdelegación del Gobierno de la provincia donde se ubique el centro de operación y mantenimiento. En la misma, deberá constar una descripción de las instalaciones así como una relación de los medios materiales disponibles.
+
+8\. A efectos de la inclusión en el régimen retributivo se considerará como fecha de puesta en servicio la de la certificación extendida por la Dirección del Área o, en su caso, Dependencia de Industria y Energía, de la Delegación o Subdelegación del Gobierno e indicada en el apartado 7.c de este artículo.
+
+## Artículo 5. Incentivo a la reducción de mermas en la red de transporte.
+
+1\. De la totalidad del gas propiedad de los usuarios, el transportista titular de un punto de entrada a la red de transporte descontará, en concepto de mermas por pérdidas y diferencias de medición en la red, las cantidades de gas que resulten de la aplicación de los porcentajes en vigor.
+
+2\. Antes de la finalización del mes "m+3ˮ, los transportistas calcularán para el mes «m» y para el conjunto de las redes de transporte, el gas retenido en concepto de mermas reconocidas, las mermas reales y el saldo resultante calculado como las mermas reales menos las reconocidas. Dicho saldo se repartirá entre los usuarios proporcionalmente a sus entradas de gas al sistema de transporte en el período y les será comunicado junto con la información necesaria para reproducir el cálculo, aplicándose los protocolos de detalle correspondientes de las Normas de Gestión Técnica del Sistema.
+
+3\. En caso de que el saldo de mensual de mermas de la red de transporte fuese negativo dicho saldo permanecerá temporalmente bajo titularidad del Gestor Técnico del Sistema como gas de la cuenta del saldo de mermas de transporte. Si fuera positivo, el saldo se cubrirá temporalmente mediante una disminución del volumen de dicha cuenta.
+
+El Gestor Técnico del Sistema impartirá las instrucciones necesarias para lograr una ubicación adecuada de dicho saldo de gas, de forma que no interfiera con el gas almacenado por los usuarios. El exceso de gas de la cuenta del saldo de mermas de transporte que se establezca se destinará a cubrir las necesidades de gas de operación o de gas talón.
+
+4\. Anualmente, y antes del 1 de abril de cada año, los transportistas comunicarán a cada usuario el saldo de mermas del año anterior calculado como la suma de los saldos mensuales. Los transportistas propondrán también el saldo de mermas anual que corresponda a cada transportista, todo ello de acuerdo con los procedimientos de las Normas de Gestión Técnica que se desarrollen a tal efecto. El saldo anual de mermas de cada transportista será la diferencia entre las mermas reales de sus redes y las mermas retenidas que le correspondan. Las mermas retenidas de cada transportista se calcularán repartiendo la totalidad de las mermas retenidas en la red de transporte de forma proporcional a las entradas de gas a la red de cada transportista en el año considerado.
+
+5\. Asimismo, en este plazo, elaborarán y remitirán al Gestor Técnico del Sistema un informe anual sobre las mermas reales, las mermas reconocidas, el saldo de mermas resultante en el conjunto de la red de transporte y en las instalaciones de cada transportista en el año natural anterior, y el reparto de dicho saldo entre sus usuarios, de acuerdo con el protocolo de detalle de las Normas de Gestión Técnica que corresponda.
+
+6\. Los usuarios podrán solicitar la revisión de los saldos de mermas mensuales y anuales asignados, conforme al procedimiento de las Normas de Gestión Técnica del Sistema correspondiente.
+
+7\. Teniendo en cuenta la información anual comunicada por los transportistas, el Gestor Técnico del Sistema supervisará la correcta determinación de las mermas reales, las mermas retenidas, los saldos de mermas y su asignación a los usuarios del sistema de transporte y el reparto entre transportistas. El Gestor elaborará un informe al respecto que remitirá a la Dirección General de Política Energética y Minas ya la Comisión Nacional de los Mercados y la Competencia antes del 1 de mayo de cada año. Dicho informe cumplirá los requisitos establecidos en el protocolo de detalle de las Normas de Gestión Técnica del Sistema correspondiente.
+
+8\. Si en el desarrollo de esta labor de supervisión el Gestor Técnico del Sistema detectase un defecto en la determinación y reparto de los saldos de mermas que conllevara la modificación de los mismos, el Gestor Técnico del Sistema comunicará y justificará a los transportistas dicho error antes del 25 de abril de cada año, con el fin de que éstos puedan corregir su asignación de saldos e indicar dicha corrección a los usuarios afectados.
+
+9\. Cuando el saldo anual de mermas en el conjunto de las redes de transporte sea negativo (mermas reales inferiores a mermas reconocidas), el Gestor Técnico del Sistema pondrá a disposición de cada usuario la mitad de su saldo de la cuenta del saldo de mermas de transporte mediante la entrega en el Punto Virtual de Balance de 1/30 de dicha cantidad durante 30 días consecutivos a contar desde el séptimo día en que dicho saldo haya sido comunicado a los usuarios.
+
+10\. Cuando el saldo de mermas anual de un transportista sea negativo, la Comisión Nacional de los Mercados y la Competencia valorará económicamente la mitad de dicho saldo utilizando el precio medio anual del gas de operación durante el año en que dicho saldo se ha generado, publicado por el Gestor Técnico del Sistema. La cantidad resultante incrementará la retribución del transportista, en la retribución correspondiente al año en curso, aplicándose en la primera liquidación disponible como un pago único. En caso de que el saldo de mermas anual de un transportista sea positivo, la Comisión Nacional de los Mercados y la Competencia valorará económicamente la totalidad de dicho saldo utilizando el mismo precio de referencia y la cantidad resultante se descontará de la retribución del transportista en la primera liquidación disponible como un cobro único.
+
+11\. Anualmente, la Comisión Nacional de los Mercados y la Competencia, con base en el informe elaborado por el Gestor Técnico del Sistema sobre las mermas en la red de transporte, podrá proponer a la Dirección General de Política Energética y Minas unos nuevos coeficientes de mermas reconocidas en transporte, si así lo considerase necesario.
+
+> Se modifican los apartados 3 y 9 por la disposición final 5.1 y 2 de la Orden IET/2736/2015, de 17 de diciembre. [Ref. BOE-A-2015-13783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13783).
+
+> Se modifica por la disposición final 4 de la Orden IET/2446/2013, de 27 de diciembre. [Ref. BOE-A-2013-13768](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13768).
+
+## Artículo 6. Clientes suministrados por un comercializador de último recurso sin tener derecho.
+
+Los consumidores suministrados por comercializadores de último recurso cuyo consumo durante el año anterior haya superado el umbral máximo en vigor, recibirán en la primera factura la notificación en los términos establecidos en el artículo 2.7 del Real Decreto 104/2010, de 5 de febrero, por el que se regula la puesta en marcha del suministro de último recurso en el sector del gas natural. En las siguientes, y mientras sigan siendo suministrados por el comercializador de último recurso, se incluirá el siguiente texto:
+
+*«*Su consumo anual ha superado el máximo permitido para acogerse a la Tarifa de Último Recurso, por lo que le recomendamos que examine las ofertas de otras comercializadoras ya que puede encontrar mejores condiciones de suministro. Con este fin puede consultar la página de la Comisión Nacional de Energía (Ministerio de Industria, Turismo y Comercio) http://www.comparador.cne.es.»
+
+El texto deberá aparecer en la misma cara de la factura donde aparezca la cantidad a pagar, con un recuadro negro y tipo de letra de 10 puntos.
+
+## Artículo 7. Unidades de Inversión en plantas de regasificación.
+
+1\. Desde el 1 de enero de 2012, y al objeto de establecer el valor de inversión reconocido de una nueva planta de regasificación o de una ampliación de la misma de acuerdo con la Orden ITC/3994/2006, de 29 de diciembre, por la que se establece la retribución de las actividades de regasificación, las instalaciones de regasificación sometidas al régimen retributivo indicadas en el artículo 2.1 de la citada orden que se pongan en servicio, quedan sustituidas por las siguientes Unidades de Inversión Estandarizadas y No Estandarizadas:
+
+a) Las Unidades de Inversión Estandarizadas son las siguientes:
+
+– Tanque almacenamiento GNL.
+
+– Sistema de bombas secundarias.
+
+– Vaporizadores de agua de mar.
+
+– Vaporizadores de combustión sumergida.
+
+– Sistema de medida u odorización.
+
+– Sistema de antorcha y combustor.
+
+– Instalaciones de compresión de boil-off para procesado interno en planta.
+
+– Relicuador de boil-off.
+
+– Compresor de boil-off para emisión directa a red.
+
+– Cargaderos de cisternas.
+
+Anualmente, se determinará un valor unitario de las Unidades de Inversión Estandarizadas con los que determinar el VI<sub>i</sub> de cada Unidad de Inversión.
+
+b) Las Unidades de Inversión No Estandarizadas son las siguientes:
+
+– Instalaciones de interconexiones (tuberías) de gas natural y gas natural licuado.
+
+– Instalaciones de obra civil terrestre.
+
+– Instalaciones de descarga:
+
+– Sistemas de gestión y control.
+
+– Servicios auxiliares.
+
+– Sistema de suministro eléctrico.
+
+– Sistema de captación de agua.
+
+– Las cimentaciones y obra civil asociada a los tanques de Almacenamiento de GNL.
+
+A los efectos de determinación del valor VIi, las Unidades de Inversión No Estandarizadas se agruparan, en cada caso, de acuerdo con las siguientes Actuaciones de Inversión:
+
+Nueva planta.
+
+– Ampliación de capacidad de almacenamiento en tanques de GNL.
+
+– Ampliación capacidad de vaporización nominal.
+
+– Ampliación de capacidad de atraque.
+
+– Anualmente, se determinará un valor unitario máximo para cada Actuación de Inversión con los que determinar el VI<sub>i</sub> de cada una de ellas.
+
+2\. Los elementos constructivos incluidos en cada Unidad de Inversión de una planta de regasificación se recogen en el anexo II de esta orden.
+
+3\. La vida útil de cada Unidad de Inversión Estandarizada y Actuaciones de Inversión, expresada en años, se establece en el anexo III de esta orden.
+
+4\. Las Unidades de Inversión Estandarizada y las Actuaciones de Inversión definidas tendrán la consideración de elemento de inmovilizado a efectos de aplicación de los artículos 3, 4, 5, 6 de la Orden ITC/3994/2006, de 29 de diciembre.
+
+El valor de inversión se determinará multiplicando los valores unitarios de las Unidades de Inversión Estandarizadas fijados en esta orden por las magnitudes (capacidades volumétricas, caudales másicos o volumétricos, número unidades instaladas) nominales que caracterizan a las unidades de inversión:
+
+a) Cuando la magnitud se trate de volumen de GNL, la capacidad nominal se entenderá como el volumen máximo de GNL que puede almacenarse con el límite de la cifra autorizada.
+
+b) Cuando la magnitud que se utilice sea el caudal volumétrico o másico se empleará el caudal medio resultante en un período continuado de 100 horas de funcionamiento que en ningún caso podrá ser superior a la fijada en la autorización de la instalación. En el caso de la unidad de inversión «Antorcha/Combustor» se tomará el valor fijado en la autorización.
+
+Todas las magnitudes nominales deberán estar recogidas en el certificado de explotación comercial y en el Acta de Puesta en marcha de la actuación que incluye a la unidad de inversión.
+
+No obstante lo establecido en el artículo 4 la Orden ITC/3994/2006, de 29 de diciembre, en el caso de las Actuaciones de Inversión, el VIi a emplear para determinar su retribución será valor de inversión auditado con el máximo del valor unitario máximo definido anualmente para cada Actuación de Inversión.
+
+5\. Además de lo indicado en de la Orden ITC/3994/2006, de 29 de diciembre, el titular de una instalación de regasificación, junto a la documentación que acompaña a la solicitud de inclusión en el régimen retributivo de una nueva planta o ampliación de la misma, deberá incluir información sobre la Inversión realizada, debidamente auditada, desglosada por conceptos de coste, en cada una Unidades de Inversión Estandarizadas y No Estandarizadas.
+
+Con el fin de que los informes de auditoría presenten una información homogénea sobre la inversión realizada, estos incluirán una tabla resumen de auditoría con la información más relevante de cada una de las Unidades de Inversión de acuerdo con el formato establecido en el anexo IV de la presente orden.
+
+## Artículo 8. Valores unitarios de inversión y de operación y mantenimiento de las plantas de regasificación.
+
+Se incluyen en el anexo I la estructura de los valores unitarios que será utilizada para el cálculo del valor reconocido de la inversión de las plantas de regasificación y sus ampliaciones que se pongan en servicio a partir del 1 de enero de 2012, asimismo, se incluye la estructura de los valores unitarios de operación y mantenimiento que será aplicada, a todas las plantas que estén en operación en 2012. Asimismo, el anexo I recoge los valores unitarios de inversión y los valores unitarios de operación y mantenimiento, fijos y variables, correspondientes al año 2011, a los únicos efectos de poder calcular los valores del año 2012 mediante la aplicación de las fórmulas de actualización incluidas en este artículo.
+
+1\. Los valores unitarios de inversión se actualizarán cada año según el Índice de Actualización (IA):
+
+IA = 1 + (IPRI<sub>bienes de equipo</sub> – X)
+
+Donde:
+
+– IPRI<sub>bienes de equipo</sub>: variación anual en tanto por uno, entre octubre del año n-1 y el año n-2, del índice de precios industriales correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
+
+– X: Coeficiente de eficiencia igual a 0,005. Dicho valor se podrá revisar cada 5 años.
+
+2\. Los valores unitarios de los costes fijos de operación y mantenimiento se actualizarán cada año según el siguiente índice de actualización (IA):
+
+IA = 1 + 0,2 * (IPRI<sub>bienes de equipo</sub> – X) + 0,8 * (IPC–Y)
+
+Donde:
+
+– IPRI<sub>bienes de equipo</sub>: variación anual en tanto por uno, entre octubre del año «n-1» y el año «n-2», del índice de precios industriales correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
+
+– IPC: variación anual en tanto por uno, entre octubre del año «n-1» y octubre del año «n-2»
+
+– X e Y: coeficientes de eficiencia. X es igual a 0,005 e Y es igual a 0,01. Dichos valores se podrán revisar cada 5 años.
+
+3\. Los valores unitarios de los costes variables de operación y mantenimiento se actualizarán anualmente según el siguiente índice de actualización (IA):
+
+IA = 1 + 0,2 * (IPRI<sub>bienes de equipo</sub> – X) + 0,8 * (ICE–Y)
+
+Donde:
+
+– IPRI<sub>bienes de equipo</sub>: variación anual, en tanto por uno, entre octubre del año «n-1» y el año «n-2», del índice de precios industriales correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
+
+– ICE: variación anual, en tanto por uno, del coste de la electricidad en España publicado por EUROSTAT para el consumidor industrial con consumo anual situado en la banda de 20.000 a 70.000 MWh/año entre el valor publicado para primer semestre del año en curso y el mismo semestre año anterior
+
+– X e Y: coeficientes de eficiencia. X es igual a 0,005 e Y es igual a 0,005. Dichos valores se podrán revisar cada 5 años.
+
+## Artículo 9. Término de conducción aplicable a las redes de distribución alimentadas por planta satélite.
+
+**(Anulado)**
+
+> Se declara la nulidad por Sentencia del TS de 17 de junio de 2013. [Ref. BOE-A-2013-7747](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7747).
+
+## Artículo 10. Obligación de mantenimiento de existencias mínimas de seguridad.
+
+De acuerdo con la habilitación efectuada a favor del Ministro de Industria, Turismo y Comercio, la obligación de mantenimiento de existencias mínimas de seguridad de carácter estratégico a que hace referencia el artículo 17.1 del Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la corporación de reservas estratégicas de productos petrolíferos será de 20 días de las ventas firmes de los sujetos obligados en el año natural anterior.
+
+Dichas existencias se mantendrán en almacenamientos subterráneos de la red básica, pudiéndose computar en dicha cuantía la parte del gas colchón de los almacenamientos subterráneos extraíble por medios mecánicos.
+
+## Artículo 11. Incentivo para que los transportistas y distribuidores envíen información sobre las mediciones el día «n+1».
+
+1\. Los operadores de cada instalación de transporte y distribución proporcionarán al operador situado aguas arriba, cuando corresponda, y al Gestor Técnico del Sistema, mediante medios telemáticos, la información sobre los repartos diarios del gas circulado por sus instalaciones en el día de gas. En el caso de redes de transporte y distribución, los operadores proporcionarán la información desagregada por comercializador y PCTD, o agrupaciones de PCTDs cuando se trate de redes malladas.
+
+Para ello, se desarrollará un procedimiento único y común que tendrá en cuenta los consumos telemedidos y perfiles de consumo. Dicho procedimiento será público y transparente, y tendrá el grado de detalle suficiente de forma que permita la trazabilidad de los repartos por parte de los usuarios del sistema.
+
+2\. El Gestor Técnico del Sistema pondrá a disposición de los usuarios la información de balance agregada a nivel nacional correspondiente al día de gas. Asimismo, pondrá a disposición de cada usuario, desagregado por PCTD, el balance del día de gas que le corresponde, que incluirá el nivel de existencias de cada usuario en las instalaciones, las entradas de gas a la red de transporte y el consumo de sus clientes.
+
+3\. Todos los procedimientos y plazos para la realización de los repartos y balances de los usuarios del sistema gasistas serán públicos y estarán recogidos en las correspondientes normas de gestión técnica del sistema y sus protocolos de detalle que las desarrollan.
+
+4\. Sin perjuicio de lo dispuesto en los artículos 109 y 110 de la Ley 34/1998, de 7 de octubre, sobre infracciones graves y muy graves, en el caso de que el Gestor Técnico del Sistema o los operadores de instalaciones del sistema gasista no envíen los datos sobre el reparto y balance del día de gas en los plazos establecidos, se aplicará a la retribución reconocida a la empresa y a los efectos del procedimiento de liquidaciones el siguiente factor:
+
+F<sub>1</sub> = 1 – d/7.300
+
+Donde "d" es el número de días del año en los que no se ha transmitido la información en plazo.
+
+El responsable de los repartos y/o el Gestor Técnico del Sistema quedarán exentos del recargo anterior siempre que demuestren que el retraso en el envío de la información sobre el reparto y/o balance diarios es atribuible a retrasos en el cumplimiento de las obligaciones de otros operadores. En este caso, el recargo se aplicará a la retribución de los operadores responsables del retraso.
+
+Asimismo, se reducirá la retribución de los operadores en función de la calidad del reparto de usuarios con consumo superior al 5% del gas repartido, mediante la aplicación del factor F<sub>2</sub> conforme a la siguiente fórmula:
+
+F<sub>2</sub> = 1 – S<sub>1</sub>/480 – S<sub>2</sub>/14.600
+
+Siendo:
+
+\- S<sub>1</sub> el número de meses del año en los que la suma de los repartos diarios definitivos del mes "m" es superior o inferior al 10% de la suma de los repartos diarios "n+1" del mes "m".
+
+\- S<sub>2</sub> número días en los que el reparto diario definitivo es superior o inferior al 25% del reparto publicado el día "n+1".
+
+El responsable del reparto quedará exento de recargo siempre que acredite que ha realizado una aplicación correcta de las fórmulas y procedimientos en vigor, incluyendo la lectura de la telemedida o en los casos en que la diferencia entre el reparto definitivo y la suma de los repartos diarios “n+1” es atribuible a defectos o incumplimiento de plazos en la información proporcionada por otros operadores para elaborar el reparto. En este último caso, el recargo se aplicará a la retribución de los operadores responsables de la diferencia.
+
+En caso de fallos de las fórmulas empleadas, el Grupo de trabajo del Comité de Seguimiento del Sistema Gasista para la actualización, revisión y modificación de las normas y protocolos de gestión técnica del sistema gasista elevará a la Dirección General de Política Energética y Minas una propuesta de modificación de dichas fórmulas para su aprobación.
+
+Antes del 1 de julio de cada año “n” el Gestor Técnico del Sistema comunicará a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia el valor del término d y los valores provisionales de los términos S1 y S2 de cada agente en el año “n-1”, así como los valores definitivos de los términos S1 y S2 del año “n-2”, previo período de alegaciones por parte de los sujetos afectados. El titular de la Dirección General de Política Energética y Minas dictará una resolución con el valor concreto de la penalización de cada agente de acuerdo a la fórmula anterior. Esta cantidad se restará de la retribución reconocida anual en la primera liquidación disponible. En caso de desacuerdo sobre la imputación de los recargos anteriores la Comisión Nacional de los Mercados y la Competencia resolverá el conflicto en virtud de la función referida en el artículo 12.b).2 de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia.
+
+5\. En un plazo de tres meses a contar desde la entrada en vigor de esta orden, el Grupo de Trabajo para la Actualización, Revisión y Modificación de las Normas y Protocolos de Gestión Técnica del Sistema Gasista enviará una propuesta a la dirección General de Política energética y Minas de protocolos de detalle necesarios para la implementación de lo dispuesto en el presente artículo.
+
+> Téngase en cuenta que, durante el periodo comprendido entre el 14 de marzo y el 31 de diciembre de 2020, la fórmula F2 de calidad de repartos incluida en este artículo se aplicará empleando las definiciones de los términos S1 y S2 que establece la disposición transitoria quinta de la Orden TED/1286/2020, de 29 de diciembre. [Ref. BOE-A-2020-17346](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17346)
+
+> Se modifica el apartado 4 por la disposición final 1 de la Orden ETU/1977/2016, de 23 de diciembre. [Ref. BOE-A-2016-12465](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12465).
+
+> Se modifica el apartado 4 por la disposición final 3 de la Orden IET/2355/2014, de 12 de diciembre. [Ref. BOE-A-2014-13057](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13057).
+
+> Se modifican los apartados 1, 2 y 3 por la disposición final 5 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+## Disposición adicional primera. Costes de operación y mantenimiento definitivos correspondientes a los almacenamientos subterráneos «Gaviota» y «Serrablo».
+
+1\. Con carácter definitivo se establece la retribución de los costes de operación y mantenimiento directos e indirectos de los almacenamientos subterráneos de gas natural denominados «Gaviota» y «Serrablo» correspondientes a los años 2007 y 2008:
+
+|  | 2007<br>–<br>Euros | 2008<br>–<br>Euros |
+|---|---|---|
+| Gaviota | 13.354.413,32 | 16.819.459,70 |
+| Serrablo | 7.812.947,12 | 7.386.214,12 |
+
+2\. El saldo que resulte en relación con la retribución provisional reconocida se incluirá en el procedimiento de liquidación en curso como pago único a favor del titular de las concesiones en el momento de entrada en vigor de la presente orden. En el caso de que el saldo sea positivo (a favor del actual titular de las concesiones), éste podrá proponer a la Comisión Nacional de Energía la trasferencia de dicho saldo, o parte de él, a los antiguos titulares de la concesión, previo acuerdo de éstos.
+
+## Disposición adicional segunda. Costes de operación y mantenimiento provisionales correspondientes a los almacenamientos subterráneos «Gaviota» y «Serrablo» para los años 2009, 2010 y 2011.
+
+1\. Los costes de operación y mantenimiento directos e indirectos provisionales para los años 2009, 2010 y 2011 son los que figuran a continuación:
+
+<table>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td colspan="2">
+<p>Valores iniciales</p>
+</td>
+<td colspan="2">
+<p>2009</p>
+</td>
+<td colspan="2">
+<p>2010</p>
+</td>
+<td colspan="2">
+<p>2011</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>COMDdef</p>
+<p>–</p>
+<p>Euros</p>
+</td>
+<td>
+<p>COMIdef</p>
+<p>–</p>
+<p>Euros</p>
+</td>
+<td>
+<p>IA</p>
+</td>
+<td>
+<p>COM prov</p>
+<p>–</p>
+<p>Euros</p>
+</td>
+<td>
+<p>IA</p>
+</td>
+<td>
+<p>COM prov</p>
+<p>–</p>
+<p>Euros</p>
+</td>
+<td>
+<p>IA</p>
+</td>
+<td>
+<p>COM prov</p>
+<p>–</p>
+<p>Euros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gaviota</p>
+</td>
+<td>
+<p>16.424.120,89</p>
+</td>
+<td>
+<p>395.338,81</p>
+</td>
+<td rowspan="2">
+<p>1,02464</p>
+</td>
+<td>
+<p>17.233.891,19</p>
+</td>
+<td rowspan="2">
+<p>0,984740</p>
+</td>
+<td>
+<p>16.970.902,01</p>
+</td>
+<td rowspan="2">
+<p>1,011700</p>
+</td>
+<td>
+<p>17.169.461,56</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Serrablo</p>
+</td>
+<td>
+<p>3.866.420,61</p>
+</td>
+<td>
+<p>3.519.793,51</p>
+</td>
+<td>
+<p>7.568.210,44</p>
+</td>
+<td>
+<p>7.452.719,54</p>
+</td>
+<td>
+<p>7.539.916,36</p>
+</td>
+</tr>
+</table>
+
+2\. El saldo resultante en relación con la anterior retribución provisional reconocida se incluirá en el procedimiento de liquidación en curso como pago único a favor del titular de las concesiones a la entrada en vigor de la presente orden. En el caso de que el saldo sea positivo (a favor del actual titular de las concesiones), éste podrá proponer a la Comisión Nacional de Energía la trasferencia de dicho saldo, o parte de él, a los antiguos titulares de la concesión, previo acuerdo de éstos.
+
+3\. Los actuales titulares de las instalaciones deberán presentar las auditorías a que hace referencia el apartado 3 de la disposición adicional sexta de la Orden ITC/3995/2006, de 29 de diciembre, correspondientes a los años 2009 y 2010 en el plazo de seis meses desde la entrada en vigor de esta orden.
+
+## Disposición adicional tercera. Coeficiente «C» a aplicar al término de conducción del peaje de transporte y distribución en vigor para los consumidores conectados a redes de distribución alimentadas desde plantas satélites.
+
+De acuerdo con la fórmula incluida en el artículo 9 de la presente orden, a los consumidores conectados a redes de distribución alimentadas desde planta satélite les será de aplicación el término de conducción en vigor que les corresponda de acuerdo a su presión de suministro y volumen de consumo multiplicado por el siguiente factor «C»:
+
+| Reserva de<br>capacidad | Factor de carga<br>72,9% | Peaje medio de<br>transporte y distribución<br>(incluyendo R. de<br>capacidad)<br>cts/kWh | Término de<br>conducción<br>medio<br>cts/kWh | Coeficiente a aplicar<br>al término de<br>conducción<br>“C” |
+|---|---|---|---|---|
+| Término de<br>conducción | Factor de carga |  |  |  |
+| 2.1 | 68,1% | 1,2926 | 1,2494 | 69,1% |
+| 2.2 | 70,5% | 0,4625 | 0,4192 | 73,7% |
+| 2.3 | 60,9% | 0,3680 | 0,3248 | 75,7% |
+| 2.4 | 64,6% | 0,3275 | 0,2843 | 76,9% |
+| 2.5 | 72,6% | 0,2815 | 0,2383 | 78,9% |
+| 2.6 | 55,0% | 0,3027 | 0,2595 | 77,9% |
+|  | Consumo medio<br>(MWh/año) |  |  |  |
+| 3.1 | 2,452 | 3,6796 | 3,6364 | 67,6% |
+| 3.2 | 10,229 | 2,5807 | 2,5375 | 67,9% |
+| 3.3 | 59,365 | 2,3935 | 2,3503 | 68,0% |
+| 3.4 | 459,472 | 1,3375 | 1,2943 | 69,0% |
+|  | Factor de carga |  |  |  |
+| 3.5 | 47,06% | 0,5445 | 0,5013 | 72,5% |
+
+## Disposición adicional cuarta. Retribución a los almacenamientos subterráneos.
+
+Se reconocen 4.882.761,22 € a Enagas, SA en concepto de la retribución devengada desde la fecha de puesta en marcha hasta el 31 de diciembre de 2003 del «Compresor Booster» y desde la fecha de puesta en marcha hasta el 31 de diciembre de 2006 de las inversiones en «Sondeo Jaca 18», «Sondeo Jaca 22», «Línea de Producción» y Conexión Pozos».
+
+La cantidad anterior corresponde a los siguientes conceptos:
+
+<table>
+<tr>
+<td>
+<p>Instalación</p>
+</td>
+<td>
+<p>Fecha pem</p>
+</td>
+<td>
+<p>Período pendiente de devengar (hasta...)</p>
+</td>
+<td>
+<p>VAI fecha pem (€)</p>
+</td>
+<td>
+<p>Retribución devengada (€)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compresor Booster (año 2003)</p>
+</td>
+<td>
+<p>06/11/2002</p>
+</td>
+<td>
+<p>31/12/2003</p>
+</td>
+<td>
+<p>12.770.000</p>
+</td>
+<td>
+<p>225.507,70</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sondeo Jaca 18 (año 2004)</p>
+</td>
+<td>
+<p>09/09/2003</p>
+</td>
+<td>
+<p>31/12/2006</p>
+</td>
+<td>
+<p>6.544.873</p>
+</td>
+<td>
+<p>2.350.785,32</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sondeo Jaca 22 (año 2004)</p>
+</td>
+<td>
+<p>22/12/2003</p>
+</td>
+<td>
+<p>31/12/2006</p>
+</td>
+<td>
+<p>5.740.294</p>
+</td>
+<td>
+<p>1.887.770,06</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Línea de producción (año 2004)</p>
+</td>
+<td>
+<p>29/10/2003</p>
+</td>
+<td>
+<p>31/12/2006</p>
+</td>
+<td>
+<p>447.805</p>
+</td>
+<td>
+<p>154.315,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Conexión Pozos</p>
+</td>
+<td>
+<p>26/07/2004</p>
+</td>
+<td>
+<p>31/12/2006</p>
+</td>
+<td>
+<p>715.592</p>
+</td>
+<td>
+<p>204.382,60</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Total</p>
+</td>
+<td>
+<p>4.822.761,22</p>
+</td>
+</tr>
+</table>
+
+Esta cantidad se cobrará una sola vez y a efectos de liquidaciones, se adicionará a la reconocida a la compañía en la Orden ITC/3354/2010, de 28 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+## Disposición adicional quinta. Gasoductos en operación a considerar para establecer las necesidades de Centros de Mantenimiento de Transporte.
+
+A los efectos de aplicar lo dispuesto en el artículo 4 de la presente orden solo se tendrán en consideración los gasoductos construidos con posterioridad al 1 de enero de 2008.
+
+## Disposición adicional sexta. Información sobre los gasoductos en operación adscritos a los centros de mantenimiento de transporte.
+
+Antes del 1 de enero de 2012, los transportistas titulares de centros de mantenimiento enviarán al Ministerio de Industria, Turismo y Comercio y a la Comisión Nacional de Energía, la relación de los gasoductos en operación adscritos a cada centro así como su longitud y diámetro.
+
+## Disposición adicional séptima. Mínimos técnicos de operación de las Plantas de regasificación.
+
+En un plazo de 3 meses la Comisión Nacional de Energía presentará una propuesta a la Dirección General de Política Energética y Minas de mínimos técnicos de operación de cada planta de regasificación y los mínimos zonales no transportables desde la red de transporte. A este objeto deberá convocar los grupos de trabajo que considere en los que intervendrán comercializadores, titulares de plantas de regasificación, transportistas y el Gestor Técnico del Sistema.
+
+La propuesta deberá incluir un análisis de las inversiones necesarias para reducir tanto los mínimos técnicos de cada planta como los mínimos zonales.
+
+## Disposición transitoria primera. Fecha de puesta en servicio de centros de mantenimiento anteriores a la entrada en vigor de la orden.
+
+Para los centros de mantenimiento puestos en servicio entre el 1 de enero de 2008 y la fecha de entrada en vigor de la presente orden, para su inclusión en el régimen retributivo, se considerará como fecha de puesta en servicio la correspondiente a la fecha de autorización para el inicio de la actividad industrial de la instalación, y, en su defecto, la fecha de obtención de la cedula de habitabilidad del edificio, y, en su defecto, la fecha del contrato de suministro eléctrico.
+
+## Disposición transitoria segunda. Transición al nuevo régimen de mantenimiento de existencias mínimas de seguridad de gas natural.
+
+Hasta el 1 de noviembre de 2012 se considerará cumplida la obligación establecida en el artículo 10 de la presente orden si desde la fecha de entrada en vigor de la obligación, el usuario acredita mantener un nivel de existencias estratégicas igual o mayor a 10 días de sus ventas firmes y haber contratado la capacidad de almacenamiento subterráneo suficiente para el almacenamiento de 20 días de sus ventas firmes.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cualesquiera otras disposiciones de igual o inferior rango, en cuanto se opongan a lo dispuesto en la presente orden.
+
+## Disposición final primera. Modificación de la Orden ITC/3995/2006, de 29 de diciembre, por la que se establece la retribución de los almacenamientos subterráneos de gas natural incluidos en la red básica.
+
+La Orden ITC/3995/2006, de 29 de diciembre, por la que se establece la retribución de los almacenamientos subterráneos de gas natural incluidos en la red básica, queda modificada como sigue:
+
+Uno. Se sustituyen los apartados 5 y 6 del artículo 2 de la Orden ITC/3995/2006, de 29 de diciembre, que pasan a estar redactados como sigue:
+
+«5. La retribución de los costes de operación y mantenimiento de cada almacenamiento subterráneo en el año «*n» (COM*<sub>n</sub>*)* tendrá dos términos: uno correspondiente a costes indirectos y otro correspondiente a costes directos, que se calcularán de acuerdo con la siguiente fórmula:
+
+COM<sub>n</sub> = COMI<sub>n</sub> + COMD<sub>n</sub>
+
+*– COMI<sub>n</sub>*: Retribución de costes de operación y mantenimiento indirectos en el año «*n*».
+
+*– COMD<sub>n</sub>*: Retribución de costes de operación y mantenimiento directos en el año «*n*».
+
+6\. Para cada almacenamiento subterráneo de la red básica que se incluya en el régimen retributivo, los valores anuales a aplicar en el primer año natural tras la puesta en marcha, en concepto de costes de operación y mantenimiento directos e indirectos, se establecerán en la correspondiente resolución de la Dirección General de Política Energética y Minas a que se hace referencia en el artículo 6.1 de la presente orden. En dichos valores no se incluirán las adquisiciones de gas para autoconsumo requeridas para la operación del almacenamiento subterráneo.»
+
+Dos. Se modifica el apartado 1 del artículo 6 que pasará a estar redactado en los siguientes términos:
+
+«1. La Dirección General de Política Energética y Minas, mediante resolución y previo informe de la Comisión Nacional de Energía y del Gestor Técnico del Sistema, fijará la fecha de inclusión en el régimen retributivo y determinará los valores concretos de la inversión reconocida (VI), la tasa de retribución (Tr) y los valores anuales a aplicar en concepto de costes de operación y mantenimiento directos e indirectos (*COMD<sub>n</sub>*) y (*COMI<sub>n</sub>*), a que hace referencia el artículo 2 de la presente orden.
+
+Entre la documentación a anexar a la solicitud de inclusión de la instalación en el régimen retributivo se incluirá la referente a:
+
+a) Informe de características técnicas y parámetros básicos del almacenamiento realizado por empresa independiente de reconocido prestigio, especializada en el análisis de almacenamientos subterráneos de gas natural.
+
+b) Memoria de inversiones en instalaciones incluidas en el anexo II debidamente auditadas.
+
+c) Memoria de inversiones en investigación y exploración realizadas en los cinco años previos a la entrada en vigor de la concesión de explotación de almacenamiento debidamente auditadas.
+
+d) Previsión de costes de operación y mantenimiento anuales, desglosados y clasificados por su naturaleza directa o indirecta, de acuerdo con el formato establecido en el anexo II de la presente orden. Similar desglose podrá exigirse respecto de las empresas contratistas y subcontratistas del concesionario.
+
+e) Acta de puesta en marcha.
+
+f) Concesión de explotación de almacenamiento.
+
+g) Acreditación por parte del solicitante de su cumplimiento de los requisitos legales técnicos, y económicos para actuar como empresa transportista de gas.
+
+h) Declaración expresa de ayudas o aportaciones de fondos públicos o medidas de efecto equivalente recibidas.
+
+Tanto la Dirección General de Política Energética y Minas como la Comisión Nacional de Energía podrán solicitar la información adicional que consideren necesaria para verificar el cumplimiento de las obligaciones establecidas.»
+
+Tres. Se suprimen la disposición adicional segunda. «Costes de operación y mantenimiento de almacenamientos subterráneos en operación a la entrada en vigor de la Orden» y la disposición adicional séptima. «Parámetros para el cálculo de los costes de operación y mantenimiento de almacenamientos subterráneos».
+
+Cuatro. Se modifica la disposición adicional sexta que pasará a estar redactada en los siguientes términos:
+
+«Disposición adicional sexta. Cálculo de los costes de operación y mantenimiento directos e indirectos provisionales y definitivos.
+
+1\. Los costes de operación y mantenimiento correspondientes al año “n” se determinarán, con carácter provisional en el año “n-1”, de acuerdo con la siguiente fórmula:
+
+COMI<sub>PROV<sub>n</sub></sub> = COMI<sub>n-1 </sub>∙ IA<sub>n</sub>
+
+COMD<sub>PROV<sub>n</sub></sub> = COMD <sub>n-1 </sub>∙ IA<sub>n</sub>
+
+COM<sub>PROV<sub>n</sub></sub> = COMIPROV<sub>n</sub> + COMDPROV<sub>n</sub>
+
+Donde:
+
+– *COMI<sub>n-1</sub>*: Retribución de costes de operación y mantenimiento indirectos en el año “n-1”.
+
+– *COMD<sub>n-1</sub>*: Retribución de costes de operación y mantenimiento directos definitivos en el año “n-1”.
+
+– *IA<sub>n</sub>*: Índice de actualización para el año “n”, determinado con la información disponible en noviembre del año “n-1”, que se calcula aplicando la fórmula siguiente:
+
+IA<sub>n</sub> = 1 + (0,1 ∙ (IPRI<sub>bienesdequipo<sub>n</sub></sub> – X ) + 0,9 ∙ (IPC<sub>n</sub> – Y)
+
+Donde:
+
+– *IPRI<sub>bienesdequipo<sub>n</sub></sub>*: Variación anual en tanto por uno del índice de precios industriales de bienes de equipo para el año “n”, determinado entre octubre del año “n-1” y octubre del año “n-2”.
+
+– *IPC<sub>n</sub>*: Variación anual en tanto por uno del índice de precios al consumo para el año “n”, determinado entre octubre del año “n-1” y octubre del año “n-2”.
+
+– *X* e *Y* son coeficientes de eficiencia. Sus valores serán iguales a 0,005 y 0,01, respectivamente y podrán ser revisados cada 5 años.
+
+2\. Los costes de operación y mantenimiento directos e indirectos definitivos se calcularán en el año “n+1” de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/278/18065_001.png)
+
+Donde:
+
+– *COMI<sub>n</sub>*: Retribución de costes de operación y mantenimiento indirectos provisionales correspondientes al año “n”, calculados en el año “n-1”.
+
+– *COMD<sub>n</sub>*: Retribución de costes de operación y mantenimiento directos provisionales correspondientes al año “n”, calculados en el año “n-1”.
+
+– *ACD<sub>n</sub>*: Valor auditado de los costes directos de operación y mantenimiento correspondientes al año “n”, según se establece en el apartado siguiente
+
+3\. El término *ACD<sub>n</sub>* se obtendrá a partir de la correspondiente auditoría, que deberá ser presentada no más tarde del 15 de octubre del año «n+1» a la Dirección General de Política Energética y Minas y a la Comisión Nacional de Energía.
+
+De acuerdo con la disposición adicional segunda del Real Decreto 326/2008, de 29 de febrero, por el que se establece la retribución de la actividad de transporte de gas natural para instalaciones con puesta en servicio a partir del 1 de enero de 2008, la Comisión Nacional de Energía remitirá su propuesta de retribución de costes de operación y mantenimiento provisionales para el ejercicio siguiente y los definitivos del ejercicio anterior, de acuerdo con la metodología establecida.
+
+Una vez aprobada dicha propuesta, la Comisión Nacional de Energía procederá a ajustar los costes de operación y mantenimiento definitivos del año que corresponda, liquidará la diferencia, adquiriendo el importe total percibido el carácter de definitivo.
+
+4\. La revisión de los valores de los términos directo e indirecto de los costes de operación y mantenimiento podrá efectuarse cada 4 años para ajustarlos a los valores prudentes reales.»
+
+Cinco. Se sustituye la tabla contenida en el anexo II - Plantilla de Costes de Operación y Mantenimiento de la Orden ITC/3995/2006, de 29 de diciembre, por la siguiente tabla:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/278/18065_002.png)
+
+INSTRUCCIONES CUMPLIMENTACIÓN
+
+La información anual se desagregará por gastos e ingresos recurrentes, y no recurrentes; directos e indirectos y fijos y variables, atendiendo a los siguientes criterios:
+
+1\. Desagregación de gastos e ingresos entre recurrentes y no recurrentes: Se consideran «Gastos/Ingresos Recurrentes» aquellas partidas constantes en la explotación del almacenamiento. Por su parte, se consideran «Gastos/ingresos No Recurrentes» las actuaciones puntuales (Ej.: work-over), ya sean plurianuales o intranuales, o costes o ingresos extraordinarios.
+
+2\. Desagregación de costes/gastos entre directos e indirectos. Para cada una de las partidas de explotación se repartirán entre directos e indirectos, indicando la metodología y criterios empleados para dicha desagregación. Se consideran costes directos los correspondientes o asociados a la propia instalación e indirectos los que correspondan a los servicios facilitados por la estructura del grupo
+
+3\. Desagregación de costes/gastos entre fijos y variables. Para cada una de las partidas los gastos de explotación se repartirán entre fijos y variables de inyección o variables de extracción, indicando la metodología y criterios empleados para dicha desagregación.
+
+En cuanto a las partidas de costes e ingresos identificados se recogen a continuación los criterios a aplicar para su cumplimentación:
+
+1\. Con carácter general, en el caso de que alguna de las partidas de detalle supere un 10% sobre el total de gastos de explotación, se requerirá un desglose adicional de esta partida de detalle, que permita identificar los principales costes que la componen.
+
+2\. Sobre Compras, Tributos y Tasas, Servicios Exteriores, Personal. Se desglosarán según las partidas de detalle indicadas. Señalar que sobre el gas de operación se solicita el detalle económico de su coste.
+
+3\. Otros Gastos de explotación. Se indicarán los gastos de operación y mantenimiento no incluidos en las partidas anteriormente mencionadas (Compras, Tributos y Tasas, Servicios Exteriores, Personal), debidamente detallados y justificados.
+
+4\. Subvenciones. Deberán indicarse, en su caso, los ingresos habidos por las subvenciones a la explotación recibidas en cada año para el conjunto de la actividad. Adicionalmente se indicarán las subvenciones pendientes de recibir a 31 de diciembre de cada año, expresadas en euros.
+
+5\. Ingresos por gas de operación. Se solicita el detalle económico del ingreso por gas de operación incluido en las liquidaciones.
+
+6\. Venta de productos y servicios, así como ingresos por arrendamientos. En su caso se detallarán los ingresos por venta de condensados.
+
+7\. Los costes no incluirán costes financieros, ni amortizaciones, ni provisiones por desmantelamiento y abandono del almacenamiento. Los ingresos no incluirán los correspondientes a la retribución por inversiones incluidos en las liquidaciones del sector del gas natural.»
+
+## Disposición final segunda. Modificación de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad.
+
+Los apartados 1 y 2 del artículo 4 de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad, quedan redactados en los siguientes términos:
+
+«1. Del volumen útil de los almacenamientos subterráneos básicos se reservará un volumen equivalente a los días de ventas o consumos firmes en el año anterior necesario para cumplir las obligaciones de mantenimiento de existencias mínimas de seguridad de carácter estratégico. A estos efectos, tendrán la consideración de consumos firmes los definidos en el artículo 16 del Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la corporación de reservas estratégicas, así como las ventas realizadas bajo peajes interrumpibles.
+
+La asignación de la citada capacidad será realizada anualmente por el Gestor Técnico del Sistema y se basará en un criterio de reparto entre los sujetos obligados al mantenimiento de dichas existencias de acuerdo con el artículo 98 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, de forma proporcional a sus ventas o consumos firmes en el año anterior.
+
+2\. De la capacidad total utilizable de los almacenamientos subterráneos básicos se reservará un volumen equivalente a 10 días de las ventas/consumos totales en el año anterior realizado por los comercializadores/consumidores directos en mercado. La asignación de la citada capacidad será realizada por el Gestor Técnico del Sistema, con carácter anual, de forma proporcional a las ventas o consumos firmes realizados por el sujeto obligado en el año anterior.
+
+Si después de haber realizado la asignación correspondiente a los apartados 1 y 3 del presente artículo la capacidad disponible no fuera suficiente para cumplir con este apartado, se procederá a prorratear la capacidad disponible entre los usuarios, en función de las ventas y consumos firmes del año anterior.»
+
+## Disposición final tercera. Modificación de la Orden ITC/3354/2010, de 28 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas.
+
+La Orden ITC/3354/2010, de 28 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, queda modificada como sigue:
+
+Uno. Se modifica el contenido del artículo 4 de la Orden ITC/3354/2010, de 28 de diciembre, añadiendo un apartado 6 en los siguientes términos:
+
+«6. Cuando el período de facturación no coincida con un mes natural, el término fijo del peaje de transporte y distribución Tf<sub>ij</sub> o el término de reserva de capacidad T<sub>fe </sub>se calculará multiplicando el valor mensual por el cociente entre el número de días a facturar del mes que entren en el período de facturación y el número de días del mes. Cuando el período de facturación coincida con un mes completo se aplicará directamente el valor publicado.»
+
+Dos. Se reemplazan las cantidades asignadas a Tolosa Gas, SA y Naturgas Energía Distribución, SA y el «Total» de la tabla «1. Retribución a las empresas que realizan actividades de distribución.», del anexo IV «Retribución de las actividades reguladas para el año 2011» de la Orden ITC/3354/2010, de 28 de diciembre, por los siguientes valores:
+
+|  | Actualización 2011 | Revisión 2009-2011 | Total |
+|---|---|---|---|
+| Tolosa Gas, SA | 910.694 | 18.293 | 928.987 |
+| Naturgas Energía Distribución SA | 160.288.234 | -6.172.935 | 154.115.299 |
+| Total | 161.198.928 | -6.154.642 | 155.044.286 |
+
+Tres. Se reemplazan las siguientes filas de la tabla incluida en el apartado 5 «Retribución a cuenta de instalaciones de transporte. Instalaciones de transporte puestas en servicio en 2010» del anexo IV «Retribución de las actividades reguladas para el año 2011» de la de la Orden ITC/3354/2010, de 28 de diciembre, por los siguientes valores:
+
+<table>
+<tr>
+<td rowspan="2">
+<p>Titular</p>
+</td>
+<td rowspan="2">
+<p>Elemento</p>
+</td>
+<td rowspan="2">
+<p>Fecha de puesta en marcha</p>
+</td>
+<td colspan="2">
+<p>Retribución a cuenta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2010 (€)</p>
+</td>
+<td>
+<p>2010 (€)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Transportista Regional del Gas.</p>
+</td>
+<td>
+<p>Posición SEGAVI-00 de derivación y trampa de rascadores en el tm Palazuelos de Eresma provincia de Segovia del gasoducto Segovia-Otero de los Herreros.</p>
+</td>
+<td>
+<p>16/12/2010</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>77.357,81</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Transportista Regional del Gas.</p>
+</td>
+<td>
+<p>Posición SEGAVI-01 de derivación en Segovia del gasoducto Segovia-Otero de los Herreros.</p>
+</td>
+<td>
+<p>16/12/2010</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>41.696,41</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Transportista Regional del Gas.</p>
+</td>
+<td>
+<p>Posición SEGAVI-02 de derivación en el tm Otero de los Herreros provincia de Segovia del gasoducto Segovia-Otero de los Herreros.</p>
+</td>
+<td>
+<p>16/12/2010</p>
+</td>
+<td>
+<p>0,00</p>
+</td>
+<td>
+<p>41.696,41</p>
+</td>
+</tr>
+</table>
+
+Cuatro. Se incluyen las siguientes filas en la tabla del apartado 5 «Retribución a cuenta de instalaciones de transporte. Instalaciones de transporte puestas en servicio en 2010» del anexo IV «Retribución de las actividades reguladas para el año 2011» de la Orden ITC/3354/2010, de 28 de diciembre:
+
+<table>
+<tr>
+<td rowspan="2">
+<p>Tipo</p>
+</td>
+<td rowspan="2">
+<p>Titular</p>
+</td>
+<td rowspan="2">
+<p>Elemento</p>
+</td>
+<td rowspan="2">
+<p>Fecha de puesta en marcha</p>
+</td>
+<td colspan="2">
+<p>Retribución a cuenta</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2010 (€)</p>
+</td>
+<td>
+<p>2011 (€)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ERM</p>
+</td>
+<td>
+<p>Endesa Gas Transportista, SL.</p>
+</td>
+<td>
+<p>ERM tipo G-250 en la posición de Derivación MAEJE-02 en el tm de Gallur en la provincia de Zaragoza en el Gasoducto Gallur-Tauste-Ejea de los Caballeros.</p>
+</td>
+<td>
+<p>29/10/2010</p>
+</td>
+<td>
+<p>7.992,50</p>
+</td>
+<td>
+<p>79.579,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ERM</p>
+</td>
+<td>
+<p>Endesa Gas Transportista, SL.</p>
+</td>
+<td>
+<p>ERM tipo G-250 en la Posición de Derivación MAEJE-03 en el tm de Tauste en la provincia de Zaragoza en el Gasoducto Gallur-Tauste-Ejea de los Caballeros.</p>
+</td>
+<td>
+<p>29/10/2010</p>
+</td>
+<td>
+<p>7.992,50</p>
+</td>
+<td>
+<p>79.579,80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ERM</p>
+</td>
+<td>
+<p>Endesa Gas Transportista, SL.</p>
+</td>
+<td>
+<p>ERM tipo G-250 Posición de Derivación MAEJE-04 y Trampa de Rascadores en el tm de Ejea de los Caballeros en la provincia de Zaragoza en el Gasoducto Gallur-Tauste-Ejea de los Caballeros.</p>
+</td>
+<td>
+<p>29/10/2010</p>
+</td>
+<td>
+<p>7.992,50</p>
+</td>
+<td>
+<p>79.579,80</p>
+</td>
+</tr>
+</table>
+
+Cinco. Como consecuencia de las correcciones anteriores, se modifican las siguientes filas de la tabla del apartado 2 «Retribución en concepto de amortización, retribución financiera y gastos de explotación fijos de las empresas titulares de activos de transporte (€)» del anexo IV «Retribución de las actividades reguladas para el año 2011» incluido en la Orden ITC/3354/2010, de 28 de diciembre:
+
+|  | Total retribución anual | Total pago único | Total retribución 2011 |
+|---|---|---|---|
+| Endesa Gas Transportista, S.L | 13.433.167,08 | 261.468,30 | 13.694.635,38 |
+| Transportista Regional del Gas, S.L | 5.985.409,01 | 0,00 | 5.985.409,01 |
+| Total | 19.418.576,09 | 261.468,30 | 19.680.044,39 |
+
+Seis. Se substituye la retribución a la actividad de transporte correspondiente a Enagas, SA publicada en la tabla «2. Retribución en concepto de amortización, retribución financiera y gastos de explotación fijos de las empresas titulares de activos de transporte» del anexo IV de la Orden ITC/3354/2010, de 28 de diciembre, por la siguiente:
+
+|  | Total retribución anual | Total pago único | Total retribución 2011 |
+|---|---|---|---|
+| Enagas, S.A | 636.364.743,21 | 3.065.723,49 | 639.430.466,70 |
+
+Siete. Se substituye la retribución a la actividad de transporte correspondiente a Naturgas Energía Transporte, SAU publicada en la tabla «2.Retribución en concepto de amortización, retribución financiera y gastos de explotación fijos de las empresas titulares de activos de transporte» del anexo IV de la Orden ITC/3354/2010, de 28 de diciembre, por la siguiente:
+
+|  | Total retribución anual | Total pago único | Total retribución 2011 |
+|---|---|---|---|
+| Naturgas Energía Transporte, SAU | 26.428.435,15 | 226.886,12 | 26.655.321,27 |
+
+## Disposición final cuarta. Aplicación de la orden.
+
+La Dirección General de Política Energética y Minas dictará las resoluciones precisas para la aplicación de esta orden.
+
+## Disposición final quinta. Entrada en vigor.
+
+La presente orden entrará en vigor a las cero horas del día siguiente a su publicación en el «Boletín Oficial del Estado», con las siguientes excepciones:
+
+a) El artículo 5, el artículo 6 y el artículo 9, que entrarán en vigor el 1 de enero de 2012.
+
+b) El apartado 1 de la disposición final segunda, que entrará en vigor el 1 de marzo de 2012.
+
+c) El artículo 10, que entrará en vigor el 1 de abril de 2012.
+
+d) El artículo 11, que entrará en vigor el 1 de julio de 2013.
+
+> Se modifica el apartado d) por la disposición transitoria 2 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+Madrid, 17 de noviembre de 2011.–El Ministro de Industria, Turismo y Comercio, Miguel Sebastián Gascón.
+
+## ANEXO I — Valores unitarios base en 2011 de plantas de regasificación a los únicos efectos del cálculo de los valores aplicables en el año 2012
+
+1) Valores unitarios de inversión
+
+a) Valores Máximos para Actuaciones de Inversión que agrupan las Unidades de Inversión No-Estandarizadas.
+
+El valor máximo a reconocer por el coste, debidamente auditado, de las Actuaciones de Inversión que agrupan la Unidades de Inversión No-Estandarizadas realizadas (obra civil terrestre y marítima, instalaciones de descarga, interconexiones de gas/GNL, cimentaciones y obra civil asociada al almacenamiento de GNL, sistema de captación de agua, servicios auxiliares, suministro eléctrico y sistemas de gestión y control) se aplicará de acuerdo a los siguientes criterios:
+
+1\. El Valor Máximo por nueva planta es aplicable una sola vez en la vida útil de la planta regasificación.
+
+2\. El Valor Máximo por ampliación de tanque es aplicable a cada tanque adicional sobre la configuración original de la planta de regasificación.
+
+3\. El Valor Máximo por ampliación de vaporización es aplicable a cada ampliación de vaporización, incluida la de reserva, sobre la configuración original de la planta de regasificación.
+
+Valores Máximos:
+
+Al construir una nueva planta: 172.253.380 €.
+
+Al construir un nuevo tanque en planta ya construida: 193,24 €/m<sup>3</sup> de GNL.
+
+Al construir una ampliación de vaporización en planta ya construida: 100,56 €/m<sup>3</sup>(N)/h.
+
+Al construir una ampliación de atraque en planta ya construida: Según valor auditado.
+
+b) Valores Unitarios para Unidades de Inversión Estandarizadas.
+
+Tanque Almacenamiento de GNL: 457,19 €/m<sup>3</sup>.
+
+Sistema de Bombas secundarias: 3.594,00 €/m<sup>3</sup>/h.
+
+Vaporizadores de agua de mar: 42,80 €/m<sup>3</sup>(N)/h.
+
+Vaporizadores de combustión sumergida: 24,48 €/m<sup>3</sup>(N)/h.
+
+Sistema de Medida y odorización: Valor unitario ERM de transporte.
+
+Sistema Antorcha/combustor: 10,87 €/kg/h.
+
+Sistema de Compresión Boil-Off para procesado interno planta: 395,00 €/m<sup>3</sup>(N)/h.
+
+Relicuador Boil-Off: 1,36 €/kg/h.
+
+Sistema de Compresión de Boil-Off para emisión directa a la red: Valor unitario E.C. transporte.
+
+Cargaderos de cisternas de GNL: 1.779.386,22 €/unidad.
+
+2) Valores unitarios de costes de operación y mantenimiento
+
+a) Costes de operación y mantenimiento fijos:
+
+Tanques Almacenamiento GNL: 1.610.907 €/tanque.
+
+Tanque Almacenamiento GNL: 13,23322 €/m<sup>3</sup> GNL.
+
+Capacidad de vaporización Nominal (1): 4,94 €/(N)m<sup>3</sup>/h.
+
+Cargaderos de cisternas de GNL: 41.811 €/cargadero.
+
+Planta Regasificación: 1.222.999 €/planta.
+
+Resto de Unidades de Inversión: 0 €.
+
+(1) Se aplica sólo a los equipos que determinan la capacidad nominal, es decir, se excluyen los equipos de reserva, de la instalación independientemente de si se tratan de Unidades de Inversión de «Vaporizadores de Agua de Mar» o «Vaporizadores de Combustión Sumergida».
+
+b) Costes de operación y mantenimiento variables:
+
+kWh regasificados: 0,000148 €/kWh.
+
+kWh cargados en cisternas de GNL: 0,000177 €/kWh.
+
+kWh transvasados a /entre buques de GNL: 0,000177 €/kWh.
+
+c) Costes de operación y mantenimiento de ampliaciones de atraque: Según valor auditado.
+
+## ANEXO II — Elementos incluidos en las unidades de inversión de Una planta de regasificación
+
+Los elementos constructivos de una Planta de Regasificación que conforman cada una de las unidades de inversión, estandarizadas o no, son los que se recogen a continuación. En todos ellos se considera que están incluidos aquellos elementos que permiten, según el caso, el seccionamiento y/o derivación de efluentes circulantes por las mismas, los elementos y sistemas (pasivos y/o activos) de protección, seguridad, comunicación, control, alimentación eléctrica, odorización, determinación de calidad de gas así como cualquier elemento o sistema auxiliar necesario para el correcto funcionamiento de la instalación y de conexión con instalaciones propias o de terceros durante toda la vida útil retributiva del activo.
+
+a) Unidades de inversión no estandarizadas.
+
+– Obra civil terrestre:
+
+• La adquisición/concesión de terrenos.
+
+• Los accesos.
+
+• Las infraestructuras terrestres.
+
+• El edificio principal/edificios auxiliares e instalaciones destinadas a dar servicio y velar por el adecuado funcionamiento, seguridad, y buen estado de los equipos e instalaciones de la planta de regasificación.
+
+– Muelles e Instalaciones de descarga:
+
+• Los brazos de descarga.
+
+• Los brazos de retorno de vapores al barco.
+
+• Las torres monitoras.
+
+• El recipiente drenaje brazos.
+
+• El soplante retorno vapores.
+
+• La escalera acceso barcos (hidráulico).
+
+• Las balsas derrame de GNL.
+
+• Las pasarelas de conexión a plataforma.
+
+• El cromatógrafo.
+
+• El sistema de atraque.
+
+• Los ganchos de escape.
+
+• El equipamiento del muelle.
+
+• El puente jetty.
+
+• La monitorización de tensión de amarras.
+
+• Las defensas.
+
+• La infraestructura marítima asociada.
+
+– Interconexiones de gas:
+
+• Las interconexiones de GNL.
+
+• Las interconexiones de GN.
+
+– Las cimentaciones y obra civil asociada a los tanques de Almacenamiento de GNL.
+
+– Sistema de captación de agua:
+
+• Las bombas de agua de mar.
+
+• Los sistemas de filtrado y cloración.
+
+• La obra civil (cajón + piscina).
+
+• El emisario (obra civil + líneas de toma / devolución de agua de mar).
+
+– Sistemas de gestión y control: Se consideran instalaciones del sistema de gestión y control de una planta de regasificación los elementos y sistemas, pasivos y/o activos, de protección, seguridad, comunicación, control, así como cualquier elemento o sistema auxiliar necesario para el correcto funcionamiento de la planta de regasificación durante toda la vida útil retributiva de sus activos, entre los que destacan:
+
+• La instrumentación general de la Planta.
+
+• El sistema de control distribuido (SCD)
+
+• El sistema de seguridad de procesos (SSD).
+
+• El sistema de seguridad activa (SSA).
+
+• El sistema de seguridad Patrimonial.
+
+– Servicios auxiliares:
+
+• El sistema de Detección y Control de Incendios (DCI).
+
+• El sistema de aire comprimido.
+
+• El sistema de agua.
+
+• El sistema de nitrógeno.
+
+– Suministro eléctrico:
+
+• El sistema de alimentación ininterrumpible.
+
+• El sistema de gestión eléctrica.
+
+• El sistema de generación autónomo.
+
+• Acometidas eléctricas externas.
+
+• Los transformadores.
+
+• Las instalaciones eléctricas (cableados, protecciones, etc.).
+
+b) Unidades de Inversión Estandarizadas.
+
+– Antorcha/combustor:
+
+• La antorcha / combustor.
+
+• La obra civil asociada.
+
+– Tanque de almacenamiento de GNL:
+
+• Los tanques.
+
+• Las balsas de derrame de GNL.
+
+• Las bombas primarias.
+
+– Sistema de bombas secundarias:
+
+• Las bombas secundaria GNL.
+
+• Las balsas de derrame de GNL.
+
+• La obra civil asociada.
+
+– Vaporizadores de agua de mar:
+
+• Los vaporizadores de agua de mar.
+
+• El sistema de calentamiento de gas natural.
+
+• La obra civil asociada.
+
+• Las balsas de derrame de GNL.
+
+• El sistema de alimentación/retorno agua de mar (bombeo + tuberías).
+
+– Vaporizadores de combustión sumergida:
+
+• Los vaporizadores de combustión sumergida.
+
+• Las balsas de derrame de GNL.
+
+• La obra civil asociada al vaporizador.
+
+– Sistema de compresión de boil-off para emisión directa a red:
+
+Se consideran instalaciones del sistema de compresión de boil-off para emisión directa a red de una planta de regasificación a los compresores destinados a aumentar la presión del gas de boíl-off para su emisión directa a red de transporte sin necesidad de utilizar la unidad de relicuación. Este proceso ayuda a minimizar las pérdidas de gas por la antorcha y puede complementar la labor de los relicuadores.
+
+– Sistema de Compresión de Boil-Off para procesado interno en la planta:
+
+• El compresor boil-off.
+
+• El KO Drum compresor.
+
+• El atemperador de GNL.
+
+• El depósito acumulador drenajes.
+
+• La obra civil asociada.
+
+– Relicuador de boil-off:
+
+• El relicuador.
+
+• Las balsas de derrame de GNL.
+
+• La obra civil asociada.
+
+– Sistema de Medida y odorización:
+
+• La estación de medida principal.
+
+• La estación de medida reserva.
+
+• El cromatógrafo.
+
+• Los sistemas de odorización.
+
+• La obra civil asociada.
+
+– Cargaderos de cisternas de GNL:
+
+• Las básculas.
+
+• Las bombas GNL.
+
+• Las balsas de derrame de GNL.
+
+• El equipo del cargadero.
+
+• La obra civil del puesto de carga (urbanización + parking).
+
+## ANEXO III — Vida útil de las unidades de inversión de una planta de regasificación
+
+| Unidad Constructiva de Inversión Estandarizadas | Vida Útil (años) |
+|---|---|
+| Sistema Antorcha / Combustor | 20 |
+| Tanque Almacenamiento GNL | 20 |
+| Sistema de Bombas Secundarias | 20 |
+| Vaporización de Agua de Mar | 10 |
+| Vaporización de Combustión Sumergida | 10 |
+| Sistema de Compresión de Boil - Off para emisión directa a red | Vida Útil Estaciones Compresión de Transporte. |
+| Sistema de Compresión de Boil - Off para procesado interno planta | 20 |
+| Relicuador Boil-Off | 20 |
+| Cargadero de Cisternas de GNL | 20 |
+| Sistema de Medida y Odorización de la Emisión a la Red de Transporte. | Vida Útil ERM/EM de Transporte. |
+
+| Unidades Constructivas de Inversión No-Estandarizadas al Construir | Vida Útil (años) |
+|---|---|
+| Nueva Planta | 50 |
+| Ampliación de Tanque | 50 |
+| Ampliación de Vaporización | 50 |
+| Ampliaciones Muelles de Atraque | 50 |
+
+## ANEXO IV — Tabla resumen de auditoría de las naturalezas de costes de las unidades de inversión
+
+El presente anexo está conformado por 4 fichas: Descripción técnica, Datos económicos, Desglose de coste por actividades e Información complementaria.
+
+Se cumplimentarán las fichas de información técnica y económica contenidas en el presente anexo tanto para el caso de construcción de nuevas plantas de regasificación como para los casos de construcción de ampliaciones adicionales.
+
+En los casos de ampliación, se considera que ésta incluye los equipos, materiales, puesta en marcha y sistemas generales asociados al mismo, necesarios para su correcto funcionamiento de modo integrado en la planta.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/278/18065_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/278/18065_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/278/18065_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2011/278/18065_006.png)

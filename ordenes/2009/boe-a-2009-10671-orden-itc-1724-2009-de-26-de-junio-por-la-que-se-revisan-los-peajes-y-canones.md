@@ -1,0 +1,607 @@
+---
+title: "Orden ITC/1724/2009, de 26 de junio, por la que se revisan los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas a partir del día 1 de julio de 2009"
+identifier: "BOE-A-2009-10671"
+eli: "https://www.boe.es/eli/es/o/2009/06/26/itc1724"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2009-06-26
+published: 2009-06-29
+in_force_from: 2009-07-01
+last_amended: 2011-03-22
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 156"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-10671"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/1724/2009, de 26 de junio, por la que se revisan los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas a partir del día 1 de julio de 2009
+
+La Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, establece en su artículo 92, que el Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de los peajes y cánones de los servicios básicos de acceso por terceros, estableciendo los valores concretos de dichos peajes o un sistema de determinación y actualización automática de los mismos.
+
+El Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado de gas natural, recoge en su artículo 25 los criterios para la determinación de tarifas peajes y cánones y señala que se seguirán los objetivos de retribuir las actividades reguladas, asignar de forma equitativa los costes, incentivar el uso eficiente del gas natural y del sistema gasista, y no producir distorsiones sobre el mercado.
+
+En aplicación de la citada disposición, la Orden ITC/3802/2008, de 26 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas, la tarifa de último recurso, y determinados aspectos relativos a las actividades reguladas del sector gasista, determinó los peajes y cánones en vigor asociados al acceso de terceros a las instalaciones gasistas a partir del día 1 de enero de 2009.
+
+Asimismo, la referida Orden ITC/3802/2008, de 26 de diciembre, estableció en su disposición final cuarta que el 1 de julio de 2009 se procederá a la revisión de la cuantía de los peajes y cánones establecidos en dicha orden, en caso de que se prevean desviaciones significativas en el saldo entre costes e ingresos del sistema gasista para el año 2009.
+
+En este sentido, se ha constatado que la demanda prevista que se utilizó para la determinación de los peajes y cánones actualmente en vigor es superior a la demanda que efectivamente se ha producido durante los primeros meses del año 2009, situación que se espera que se mantenga durante la segunda mitad del año.
+
+Por ello, la presente orden actualiza la cuantía de los peajes y cánones de acceso al sistema gasista aumentándolos de forma proporcional, con el objetivo de paliar el déficit que podría producirse en el sistema de liquidaciones.
+
+Asimismo, se crea un peaje de entrada al sistema aplicable a las conexiones internacionales por gasoducto, al que se asigna inicialmente un valor nulo, y que podrá ser utilizado en el futuro para incentivar una ubicación adecuada de las entradas de gas al sistema, de forma análoga a los peajes de descarga de buques en plantas de regasificación.
+
+Esta orden ha sido objeto de informe por la Comisión Nacional de Energía, para cuya elaboración se han tenido en cuenta las alegaciones formuladas en el trámite de audiencia efectuado a través del Consejo Consultivo de Hidrocarburos.
+
+Mediante acuerdo de 25 de junio de 2009, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Turismo y Comercio a dictar la presente orden.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
+
+### Artículo único. Peajes y cánones.
+
+Los importes antes de impuestos de los peajes y cánones asociados al uso de las instalaciones de la red básica, transporte secundario y distribución de gas natural, en vigor a partir del las cero horas del 1 de julio de 2009 son los contenidos en el anexo de la presente orden.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden.
+
+No obstante lo anterior, se mantiene en aplicación lo dispuesto en la disposición transitoria segunda «Peaje temporal para usuarios de la tarifa para materia prima (PA)» de la Orden ITC/3863/2007, de 28 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas para el año 2008 y se actualizan determinados aspectos relativos a la retribución de las actividades reguladas del sector gasista.
+
+### Disposición final. Entrada en vigor.
+
+Esta orden entrará en vigor a las cero horas del 1 de julio de 2009, con la excepción de los peajes de transporte y distribución interrumpibles que entrarán en vigor a las cero horas del 1 de octubre de 2009.
+
+Madrid, 26 de junio de 2009.–El Ministro de Industria, Turismo y Comercio, Miguel Sebastián Gascón.
+
+## ANEXO — Peajes y cánones de los servicios básicos
+
+Primero. Peaje de regasificación.–Los términos fijo (T<sub>fr</sub>) y variable (T<sub>vr</sub>) del peaje correspondiente al uso de las instalaciones de regasificación, que se definen en el artículo 30 del Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural, serán los siguientes:
+
+T<sub>fr</sub>: Término fijo del peaje regasificación: 1,5783 cent/(kWh/día)/mes.
+
+T<sub>vr</sub>: Término variable de peaje de regasificación: 0,0094 cent/kWh.
+
+Segundo. Peaje de descarga de buques y de entrada por conexiones internacionales.
+
+1\. El peaje del servicio de descarga de GNL incluirá el derecho al uso de las instalaciones necesarias para la descarga de GNL de un buque a la planta de regasificación.
+
+Plantas de Huelva, Cartagena y Sagunto:
+
+T<sub>fd</sub>: Término fijo del peaje de descarga de GNL: 24.860 €/buque.
+
+T<sub>vd</sub>: Término variable del peaje de descarga de GNL: 0,0050 cent/kWh.
+
+Plantas de Mugardos, Bilbao y Barcelona:
+
+T<sub>fd</sub>: Término fijo del peaje de descarga de GNL:12.430 €/buque.
+
+T<sub>vd</sub>: Término variable del peaje de descarga de GNL: 0,0025 cent/kWh.
+
+2\. El peaje aplicable por la introducción de gas natural por las conexiones internacionales por gasoducto es el siguiente:
+
+**(Anulado)**
+
+Tercero. Peaje de carga de cisternas.–El peaje del servicio de descarga de GNL incluirá el derecho al uso de las instalaciones necesarias para la carga en vehículos cisternas del GNL.
+
+T<sub>fc</sub>: Término fijo del peaje de carga de GNL en cisternas: 2,3183 cent/kWh/día/mes.
+
+T<sub>vc</sub>: Término variable del peaje de carga de GNL en cisternas: 0,0136 cent/kWh.
+
+A efectos de facturación del término fijo (T<sub>fc</sub>), se considerará como caudal diario el resultado de dividir los kWh cargados en el mes entre 30. Este caudal tendrá la consideración de caudal máximo diario nominado en el mes (Qrn) y le será de aplicación el procedimiento de facturación establecido para el peaje de regasificación incluido en el artículo 30 del Real Decreto 949/2001, de 3 de agosto.
+
+Cuarto. Peaje de trasvase de GNL a buques.–A los servicios de carga de GNL en buques o a la puesta en frío a partir de plantas de regasificación se le aplicará el peaje siguiente:
+
+Término fijo: 153.145 €/operación.
+
+Término variable: 0,1354 cent/kWh.
+
+Las mermas que se produzcan serán por cuenta del contratante del servicio, al igual que la entrega del gas necesario para la operación.
+
+Estos servicios sólo se podrán prestar subsidiariamente y en cuanto no interfieran con las operaciones normales del sistema. En cualquier caso, por resolución de la Dirección General de Política Energética y Minas se podrá interrumpir o cancelar su prestación.
+
+Quinto. Peaje de transporte y distribución firme.–El peaje de transporte y distribución se compondrá de dos términos: un término de reserva de capacidad, y un término de conducción. Éste último se diferenciará en función de la presión de diseño, a la que se conecten las instalaciones del consumidor.
+
+## P<sub>TD</sub> = T<sub>rc</sub> + T<sub>c</sub>
+
+Donde:
+
+P<sub>TD</sub>: Peaje de transporte y distribución.
+
+T<sub>rc</sub>: Término de reserva de capacidad.
+
+T<sub>c</sub>: Término de conducción.
+
+1\. El término fijo por reserva de capacidad de entrada al Sistema de Transporte y Distribución (T<sub>fe</sub>) regulado en el artículo 31 apartado A) 2. del Real Decreto 949/2001, de 3 de agosto, será el siguiente:
+
+T<sub>fe</sub>: Término fijo de reserva de capacidad. T<sub>rc</sub>: 0,8730 cent/(kWh/día)/mes.
+
+Los términos de conducción del peaje de transporte y distribución firme para consumidores no alimentados mediante planta satélite, en función de la presión de diseño donde estén conectadas las instalaciones del consumidor final regulados en el artículo 31 apartado B) 2, del Real Decreto 949/2001, de 3 de agosto, serán los que figuran en los cuadros siguientes:
+
+|  | Término fijo <br>T<sub>fij</sub> <br>cent/kwh/día/mes | Término variables <br>T<sub>vij</sub> <br>cent/kwh |
+|---|---|---|
+| Peaje 1 (P > 60 bar). |  |  |
+| 1.1 | 2,7816 | 0,0681 |
+| 1.2 | 2,4850 | 0,0549 |
+| 1.3 | 2,3065 | 0,0495 |
+| Peaje 2 (4 bar < P ≤ 60 bar). |  |  |
+| 2.1 | 20,3669 | 0,1557 |
+| 2.2 | 5,5279 | 0,1242 |
+| 2.3 | 3,6194 | 0,1005 |
+| 2.4 | 3,3168 | 0,0902 |
+| 2.5 | 3,0492 | 0,0791 |
+| 2.6 | 2,8048 | 0,0686 |
+| Peaje 3 (P ≤ 4 bar). |  |  |
+|  | Euros/mes |  |
+| 3.1 | 2,08 | 2,4344 |
+| 3.2 | 4,78 | 1,8702 |
+| 3.3 | 43,66 | 1,2590 |
+| 3.4 | 65,18 | 1,0091 |
+|  | cent/kwh/día/mes |  |
+| 3.5 | 4,7693 | 0,1235 |
+
+El peaje 3.5 se aplicará exclusivamente a los consumos superiores a 8 GWh/año.
+
+A efectos de facturar el término fijo (T<sub>fij</sub>) del peaje 3.5, se aplicará lo establecido en el artículo 31 del Real Decreto 949/2001, de 3 de agosto, para el término fijo del peaje del Grupo 1.º, restándose del caudal máximo medido (Q<sub>mj</sub>) la siguiente cantidad:
+
+( Consumo nocturno / Consumo total ) * 0,50 * Q<sub>mj</sub>
+
+Se considerará como consumo nocturno el total del consumo realizado en el mes entre las 23:00 y las 07:00. Para tener derecho a este descuento será obligatorio disponer de telemedida operativa y que el consumo nocturno sea mayor o igual al 30 por ciento del consumo total.
+
+2\. Los términos del peaje de transporte y distribución aplicables a los clientes a los que hace referencia el artículo 8 de la Orden ITC/3802/2008, de 26 de diciembre, son los siguientes:
+
+| Peaje 2 bis (P ≤ 4 bar) | Término fijo <br>T<sub>fij</sub> <br>cent/kwh/día/mes | Término variable <br>T<sub>vij</sub> <br>cent/kwh |
+|---|---|---|
+| 2.1 bis | 21,07 | 0,1608 |
+| 2.2 bis | 8,36 | 0,1879 |
+| 2.3 bis | 6,35 | 0,1766 |
+| 2.4 bis | 4,91 | 0,1334 |
+| 2.5 bis | 5,53 | 0,1432 |
+| 2.6 bis | 5,25 | 0,1283 |
+
+Sexto. Canon de almacenamiento subterráneo.–Los términos fijo y variable del canon correspondiente al almacenamiento subterráneo, regulados en el artículo 32 del Real Decreto 949/2001, de 3 de agosto, serán los siguientes:
+
+T<sub>f</sub>: Término fijo del canon de almacenamiento: 0,04030 cent/kWh/mes.
+
+T<sub>vi</sub>: Término de inyección del canon de almacenamiento: 0,02392 cent/kWh.
+
+T<sub>ve</sub>: Término de extracción del canon de almacenamiento: 0,01288 cent/kWh.
+
+Séptimo. Canon de almacenamiento de GNL.–El término variable del peaje correspondiente al canon de almacenamiento de GNL será el siguiente:
+
+T<sub>v</sub> (cent/MWh/día): 2,834 cent/MWh/día.
+
+Este canon será de aplicación para todo el GNL almacenado por el usuario.
+
+Octavo. Peaje de tránsito internacional.–Los peajes aplicables a los tránsitos internacionales se calcularán aplicando a los peajes de transporte y distribución ordinarios los coeficientes que se indican en la tabla siguiente, en función de los puntos de entrada y de salida.
+
+<table>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="5">
+<p>Punto de salida</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12">
+<p>Punto de entrada</p>
+</td>
+<td> </td>
+<td>
+<p>Portugal-Badajoz</p>
+</td>
+<td>
+<p>Portugal-Galicia</p>
+</td>
+<td>
+<p>Larrau</p>
+</td>
+<td>
+<p>Irún</p>
+</td>
+<td>
+<p>Tarifa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cartagena</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Huelva</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sagunto</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bilbao</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Barcelona</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mugardos</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifa</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Portugal-Badajoz</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>0,650</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Portugal-Galicia</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Larrau</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>1,000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Irún</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td>
+<p>1,000</p>
+</td>
+<td> </td>
+<td> </td>
+<td>
+<p>1,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Noveno. Peaje de transporte y distribución interrumpible.
+
+T<sub>fe</sub>: Término fijo de reserva de capacidad: El que esté en vigor.
+
+Término de conducción del peaje de transporte y distribución:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Peaje</p>
+</td>
+<td colspan="2">
+<p>Término fijo T<sub>fj</sub></p>
+</td>
+<td colspan="2">
+<p>Término variable T<sub>vij</sub></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tipo A <br>cent/kwh/día/mes</p>
+</td>
+<td>
+<p>Tipo B <br>cent/kwh/día/mes</p>
+</td>
+<td>
+<p>Tipo A <br>cent/kwh/día/mes</p>
+</td>
+<td>
+<p>Tipo B <br>cent/kwh/día/mes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Peaje 1 Int (P &gt; 60 bar).</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>4.1 Consumo inferior o igual a 200 GWh/año.</p>
+</td>
+<td>
+<p>0,347698</p>
+</td>
+<td>
+<p>0,278159</p>
+</td>
+<td>
+<p>0,114276</p>
+</td>
+<td>
+<p>0,078811</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.2 Consumo superior a 200 GWh/año e igual o inferior a 1.000 GWh/año.</p>
+</td>
+<td>
+<p>0,310626</p>
+</td>
+<td>
+<p>0,248501</p>
+</td>
+<td>
+<p>0,092032</p>
+</td>
+<td>
+<p>0,063470</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.3 Consumo superior a 1.000 GWh/año.</p>
+</td>
+<td>
+<p>0,288314</p>
+</td>
+<td>
+<p>0,230651</p>
+</td>
+<td>
+<p>0,082872</p>
+</td>
+<td>
+<p>0,057153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Peaje 2 Int (4 bar &lt; P ≤ 60 bar).</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>4.4 Consumo superior a 5 GWh/año e igual o inferior a 30 GWh/año.</p>
+</td>
+<td>
+<p>0,452436</p>
+</td>
+<td>
+<p>0,361949</p>
+</td>
+<td>
+<p>0,168579</p>
+</td>
+<td>
+<p>0,116262</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.5 Consumo superior a 30 GWh/año e igual o inferior a 100 GWh/año.</p>
+</td>
+<td>
+<p>0,414603</p>
+</td>
+<td>
+<p>0,331682</p>
+</td>
+<td>
+<p>0,151132</p>
+</td>
+<td>
+<p>0,104229</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.6 Consumo superior a 100 GWh/año e igual o inferior a 500 GWh/año.</p>
+</td>
+<td>
+<p>0,381150</p>
+</td>
+<td>
+<p>0,304920</p>
+</td>
+<td>
+<p>0,132377</p>
+</td>
+<td>
+<p>0,091295</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.7 Consumo superior a 500 GWh/año.</p>
+</td>
+<td>
+<p>0,350604</p>
+</td>
+<td>
+<p>0,280483</p>
+</td>
+<td>
+<p>0,114930</p>
+</td>
+<td>
+<p>0,079262</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Décimo. Peaje aplicable a los contratos de acceso de duración inferior a doce (12) meses.–Los coeficientes a aplicar al término fijo de caudal de los peajes correspondientes a servicios de acceso a las instalaciones gasistas, contratados con una duración menor a un año, de acuerdo con lo establecido en el artículo 10 de la Orden ITC/3802/2008, de 26 de diciembre, son los siguientes:
+
+|  | Peaje diario | Peaje mensual |
+|---|---|---|
+| Enero | 0,10 | 2,00 |
+| Febrero | 0,10 | 2,00 |
+| Marzo | 0,10 | 2,00 |
+| Abril | 0,03 | 0,50 |
+| Mayo | 0,03 | 0,50 |
+| Junio | 0,03 | 0,50 |
+| Julio | 0,03 | 0,50 |
+| Agosto | 0,03 | 0,50 |
+| Septiembre | 0,03 | 0,50 |
+| Octubre | 0,10 | 2,00 |
+| Noviembre | 0,10 | 2,00 |
+| Diciembre | 0,10 | 2,00 |
+
+El término variable (T<sub>vij</sub>) a aplicar es el del peaje correspondiente.
+
+> Se declara la nulidad del apartado 2º.2 por Sentencia del TS, de 15 de febrero de 2011. [Ref. BOE-A-2011-5201](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5201).

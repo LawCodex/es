@@ -1,0 +1,1079 @@
+---
+title: "Real Decreto 1010/2015, de 6 de noviembre, por el que se establecen las bases reguladoras de la concesión de ayudas a inversiones materiales o inmateriales en transformación, comercialización y desarrollo de productos agrarios en el marco del Programa Nacional de Desarrollo Rural 2014-2020 para el fomento de la integración de entidades asociativas agroalimentarias de carácter supraautonómico"
+identifier: "BOE-A-2015-12052"
+eli: "https://www.boe.es/eli/es/rd/2015/11/06/1010"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-11-06
+published: 2015-11-07
+in_force_from: 2015-11-08
+last_amended: 2023-10-11
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 267"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12052"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1010/2015, de 6 de noviembre, por el que se establecen las bases reguladoras de la concesión de ayudas a inversiones materiales o inmateriales en transformación, comercialización y desarrollo de productos agrarios en el marco del Programa Nacional de Desarrollo Rural 2014-2020 para el fomento de la integración de entidades asociativas agroalimentarias de carácter supraautonómico
+
+Incluye la corrección de errores publicada en BOE núm. 312, de 30 de diciembre de 2015. [Ref. BOE-A-2015-14284](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14284)
+
+La Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario, impulsa una reforma estructural del sector agroalimentario para dotar a las entidades asociativas de mayor capacidad competitiva, a través de su integración.
+
+La ley contiene dos instrumentos de desarrollo. Por una parte, el Plan Estatal de Integración Asociativa; y por otra, el Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario. De esta manera, se establece un régimen jurídico de entidades asociativas cuyo ámbito territorial se extienda a más de una comunidad autónoma.
+
+Por otra parte, la política de apoyo a las inversiones es una medida fundamental de las actuaciones a desarrollar en el marco de la programación de desarrollo rural para el periodo 2014-2020.
+
+El procedimiento seguido para ello ha sido el siguiente. Una vez aprobado el Acuerdo de Asociación entre España y la Unión Europea que estableció las grandes líneas estratégicas para los Fondos Estructurales y de Inversión Europeos, el Marco Nacional para la Programación de Desarrollo Rural, aprobado por Decisión de Ejecución de la Comisión de 13 de febrero de 2015 por la que se aprueba el Marco Nacional de desarrollo rural de España, es el documento que marca pautas más concretas para las actuaciones de inversiones para la transformación y comercialización de alimentos en su apartado 5.2.2. Este Marco Nacional es el texto en el que se prevé, en su apartado 5.1.6 que el Programa Nacional de Desarrollo Rural incluya «un conjunto de medidas destinadas a apoyar los procesos de integración cooperativa, cuyos beneficiarios serán entidades asociativas clasificadas como prioritarias al amparo de la Ley 13/2013, de 2 de agosto».
+
+Como se ha indicado anteriormente, en el citado Marco Nacional se encuadra el Programa Nacional de Desarrollo Rural 2014-2020 presentado por el Reino de España y aprobado por la Comisión Europea mediante la Decisión de Ejecución de la Comisión de 26 de mayo de 2015 por la que se aprueba el Programa Nacional de Desarrollo Rural de España a efectos de la concesión de ayudas del Fondo Europeo Agrícola de Desarrollo Rural (CCI 2014ES06RDNP001) de conformidad con lo dispuesto en el Reglamento (UE) n.º 1305/2013, del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo.
+
+El mencionado Reglamento (UE) n.º 1305/2013, del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, permite, como novedad respecto al periodo 2007-2013, que los Estados miembros presenten un Programa Nacional y un conjunto de programas regionales, garantizando la coherencia entre las estrategias nacional y regionales.
+
+Por otra parte, en la Conferencia Sectorial de Agricultura y Desarrollo Rural de 24 y 25 de julio de 2013 se acordó la elaboración de un Programa Nacional de Desarrollo Rural (en adelante PNDR), con una asignación FEADER máxima de 238 millones de euros, siendo ésta la cantidad de fondos adicionales de desarrollo rural asignados a España en el periodo 2014-2020 respecto al periodo anterior.
+
+En concreto, una de las actuaciones de ayudas cofinanciadas a inversiones en activos físicos, contemplada en el artículo 17.1.b y 45 del Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y reflejada en la medida M.04.003 del PNDR, se centra en el apoyo a inversiones en activos físicos acometidas por Entidades Asociativas Prioritarias de carácter supraautonómico, destinadas a la transformación, comercialización y desarrollo de productos agrarios.
+
+Por lo tanto, las inversiones reguladas mediante este real decreto de bases se encuentran enmarcadas en el Programa Nacional de Desarrollo Rural, financiado por el Ministerio de Agricultura, Alimentación y Medio Ambiente y el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y regulado por el Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y el Consejo, de 17 de diciembre, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo.
+
+Estas ayudas tratan de facilitar la innovación y la incorporación de nuevas tecnologías y conocimientos, aumentando la productividad y eficiencia de estas entidades y, en definitiva, mejorar su capacidad de competir en un mercado global, favoreciendo un crecimiento inteligente, sostenible e integrador, que posibilite mayores niveles de empleo, de productividad y contribuyendo a una mayor cohesión económica, social y territorial.
+
+Al mismo tiempo, se velará porque estas inversiones cumplan con los requisitos legales establecidos en materia de medio ambiente, y los que, eventualmente, se establezcan en un futuro por la Unión Europea (tratamiento de residuos y subproductos, eficiencia energética, etc.).
+
+Las operaciones de integración asociativa contempladas en el PNDR forman parte de la política de fomento de la integración de los primeros eslabones de la cadena alimentaria destinada a reforzar la posición negociadora de la oferta procedente del sector, en el conjunto de las relaciones comerciales que rigen los intercambios en la cadena alimentaria.
+
+Se pretende por lo tanto cambiar la actual configuración asociativa agroalimentaria para adecuarla a los nuevos retos, mediante instrumentos y medidas que confieran a las entidades asociativas un mayor protagonismo en nuestro sistema agroalimentario, mediante la configuración de estructuras más eficaces que se constituyan en modelo de cooperación y colaboración por excelencia, haciendo que sus estructuras empresariales se encuentren en el marco de la excelencia empresarial y conformen un sistema productivo más eficaz y más competitivo que redunde en el beneficio de todos los integrantes de la cadena alimentaria hasta el consumidor final y siga siendo vertebrador y elemento dinamizador del tejido rural vivo, coherente e integrador.
+
+Así, el objetivo final de la inversión será la mejora de la competitividad de los productos ofrecidos por las entidades asociativas prioritarias de manera que se beneficien los agricultores integrados, persiguiendo un aumento del valor añadido del producto objeto de la integración, a lo largo de la cadena de valor. De manera complementaria se promoverá la eficiencia energética en la cadena de valor agroalimentaria del beneficiario.
+
+Desde el punto de vista formal, la doctrina del Alto Tribunal exige el establecimiento de las bases reguladoras de subvenciones mediante una norma con rango de ley o real decreto, así, en su Sentencia 156/2011, de 18 de octubre (FJ 7) afirma que «en cuanto a la perspectiva formal, la regulación subvencional que nos ocupa debe también satisfacer las exigencias formales de la normativa básica contenidas en la antes reproducida STC 69/1988, FJ 5. Desde dicha perspectiva formal, hay que partir de que en las materias de competencia compartida en las que, como ocurre en este caso, corresponde al Estado el establecimiento de las normas básicas y a las comunidades autónomas el desarrollo normativo y la ejecución de dichas bases, la instrumentación de los programas subvencionales debe hacerse con el soporte de la ley formal siempre que sea posible, o, en todo caso, a través de norma reglamentaria del Gobierno que regule los aspectos centrales del régimen jurídico de las subvenciones, que debe comprender, al menos, el objeto y finalidad de las ayudas, su modalidad o modalidades técnicas, los sujetos beneficiarios y los requisitos esenciales de acceso…. Este criterio respecto a la cobertura formal de la normativa básica ha de ser exigido, incluso con mayor rigor, en los supuestos de subvenciones estatales centralizadas en los ámbitos materiales en los que la Constitución reserva al Estado la normativa básica, toda vez que esa gestión centralizada se erige en excepción que limita el ejercicio ordinario por las comunidades autónomas de sus competencias».
+
+Teniendo en cuenta la doctrina del Tribunal Constitucional se prevé la gestión centralizada de los fondos que se destinan a las subvenciones contempladas en el presente real decreto como el medio más apropiado para asegurar la plena efectividad de las medidas dentro de la ordenación básica del sector, y para garantizar las mismas posibilidades de obtención y disfrute por parte de sus potenciales destinatarios en todo el territorio nacional, mediante el establecimiento de unos criterios uniformes para el acceso a las ayudas, fundamentales en este supuesto en el que la ayuda no se encuentra compartimentada, sino que se extiende al conjunto del sistema productivo, siendo al mismo tiempo un medio necesario para evitar que la cuantía global de estas ayudas sobrepase los fondos de la Unión Europea dedicados a las mismas. Por otra parte, esta modalidad de gestión está avalada por el hecho de que las actuaciones de fomento, cuya realización pretende esta norma, afectan al conjunto del sector, por lo que únicamente tienen sentido si se mantiene su carácter supraterritorial.
+
+A este respecto y de acuerdo con la reiterada jurisprudencia constitucional en materia de ayudas públicas, en este real decreto se dan las circunstancias que amparan la centralización de las ayudas, conforme al «cuarto supuesto» de la Sentencia del Tribunal Constitucional 13/1992, en su Fundamento Jurídico 8.D) descritas en el párrafo anterior, correspondiendo por tanto la gestión centralizada, cuando resulte imprescindible para asegurar la plena efectividad de las medidas de fomento dentro de la ordenación básica del sector, para garantizar las mismas posibilidades de obtención y disfrute de las mismas por parte de sus destinatarios potenciales en todo el territorio nacional, siendo al mismo tiempo un medio necesario para evitar que se sobrepase la cuantía global de los fondos o créditos que se hayan destinado al sector, (SSTC 95/1986; 152/1988 y 201/1988).
+
+Estas subvenciones son gestionadas por el Ministerio de Agricultura, Alimentación y Medio Ambiente, con base en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia sobre las bases y la coordinación general de la actividad económica.
+
+Así, con palabras de la Sentencia del Tribunal Constitucional 45/2001, de 15 de febrero, «el artículo 149.1.13ª de la Constitución Española puede amparar tanto normas estatales que fijen las líneas directrices y los criterios globales de ordenación de sectores económicos concretos, como previsiones de acciones o medidas singulares indispensables para alcanzar los fines propuestos en dicha ordenación (Sentencia del Tribunal Constitucional 155/1996, de 9 de octubre, F. 4 y jurisprudencia en ella citada)». En definitiva, el Estado tiene reservada, por el mencionado artículo 149.1.13.ª, una competencia de dirección en la que tienen cobijo normas básicas y, asimismo, previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación del sector (Sentencia del Tribunal Constitucional 117/1992, de 16 de septiembre).
+
+Ello se debe a su carácter transversal ya que aun existiendo una competencia sobre un subsector económico que una comunidad autónoma ha asumido como ‘exclusiva’ en su Estatuto, esta atribución competencial no excluye la competencia estatal para establecer las bases y la coordinación de ese subsector, y que el ejercicio autonómico de esta competencia exclusiva puede estar condicionado por medidas estatales, que en ejercicio de una competencia propia y diferenciada pueden desplegarse autónomamente sobre diversos campos o materias, siempre que el fin perseguido responda efectivamente a un objetivo de planificación económica (Sentencia del Tribunal Constitucional 74/2014, de 8 de mayo).
+
+Igualmente, la Sentencia del Tribunal Constitucional 11/2015, FJ 4, por remisión a la Sentencia del Tribunal Constitucional 79/1992, de 28 de mayo, FJ 2, ha recordado que «el sector de la agricultura y la ganadería es de aquellos que por su importancia toleran la fijación de líneas directrices y criterios globales de ordenación así como previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación de cada sector, destacando que “… en materia de agricultura y ganadería, siendo la competencia específica de las comunidades autónomas... el Estado puede intervenir en virtud de sus competencias generales sobre la ordenación general de la economía”».
+
+La doctrina sobre la utilización de la supraterritorialidad como criterio de atribución de competencias al Estado se recuerda en la Sentencia del Tribunal Constitucional 27/2014, de 13 de febrero, FJ 4, en los términos siguientes: «la utilización de la supraterritorialidad como criterio determinante para la atribución o el traslado de la titularidad de competencias al Estado en ámbitos, en principio, reservados a las competencias autonómicas tiene, según nuestra doctrina, carácter excepcional, de manera que sólo podrá tener lugar cuando no quepa establecer ningún punto de conexión que permita el ejercicio de las competencias autonómicas o cuando además del carácter supraautonómico del fenómeno objeto de la competencia, no sea posible el fraccionamiento de la actividad pública ejercida sobre él y, aun en este caso, siempre que dicha actuación tampoco pueda ejercerse mediante mecanismos de cooperación o de coordinación y, por ello, requiera un grado de homogeneidad que sólo pueda garantizar su atribución a un único titular, forzosamente el Estado, y cuando sea necesario recurrir a un ente supra-ordenado con capacidad de integrar intereses contrapuestos de sus componentes parciales, sin olvidar el peligro inminente de daños irreparables, que nos sitúa en el terreno del estado de necesidad (Sentencia del Tribunal Constitucional 102/1995, de 26 de junio, FJ 8) (Sentencia del Tribunal Constitucional 35/2012, FJ 5, con cita de la Sentencia del Tribunal Constitucional 194/2011, FJ 5)».
+
+El artículo 149.1.13.ª de la Constitución Española puede en determinados casos justificar la reserva de funciones ejecutivas al Estado y también permitir el uso de la supraterritorialidad como título atributivo de competencias al Estado, pero para que dicho supuesto pueda ser considerado conforme al orden competencial han de cumplirse dos condiciones: que resulte preciso que la actuación de que se trate quede reservada al Estado para garantizar así el cumplimento de la finalidad de ordenación económica que se persigue, la cual no podría conseguirse sin dicha reserva, y, por otro lado, que el uso del criterio supraterritorial resulte justificado en los términos de nuestra doctrina, esto es, atendiendo tanto a las razones aportadas como a la congruencia de la reserva de la función con el régimen de la norma.
+
+De acuerdo con la doctrina del Alto Tribunal, se trata de ejercer determinadas actuaciones de fomento para la integración de entidades asociativas agrarias cuyo ámbito de actuación sea supraautonómico, es decir, que actúan más allá del ámbito territorial que constituye el límite dentro del que ejercen sus competencias las comunidades autónomas, principio de territorialidad, fundamental en este supuesto en el que las ayudas no se encuentran compartimentadas, sino que se extienden al conjunto de España. La gestión centralizada por el Ministerio de Agricultura, Alimentación y Medio Ambiente garantiza la aplicación de criterios uniformes evitando el fraccionamiento en el acceso a estas ayudas y favoreciendo, por tanto, que existan idénticas posibilidades de obtención y disfrute por parte de los potenciales destinatarios que radican en distintas comunidades autónomas pero que se integran en una única entidad de ámbito supraterritorial.
+
+De esta forma, se garantiza una adecuada aplicación con unos mismos criterios a todos los posibles interesados en todo el territorio nacional y se evitan visiones parciales o incompletas, como cuando el criterio de una comunidad autónoma prevaleciera frente al resto y afectara administrativamente a operadores con ninguna vinculación territorial y económica. También se pretende evitar solapamientos con otras ayudas autonómicas que se conceden con los mismos fines y que se gestionan en su totalidad por las comunidades autónomas. Por ello, a las potenciales entidades beneficiarias de estas ayudas se les exige contar con miembros o actividad que radiquen en varias comunidades autónomas, de manera que las competencias autonómicas no sólo no se ven afectadas sino que los objetivos de integración de entidades se ven reforzados con esta línea de ayudas de gestión estatal.
+
+En este sentido, se pretende, de forma conjunta, potenciar nuestro asociacionismo agroalimentario, romper con la actual atomización de las industrias alimentarias y superar fronteras económicas y regionales, mediante la facultad estatal de fijar las bases y coordinar la planificación general de la actividad económica y la potestad general de dictar bases en materia de cooperativismo. En este sentido deben recordarse las sentencias del Tribunal Constitucional 72/1983, 44/1984, 165/1985 y 88/1989, que atribuyen expresamente la competencia exclusiva al Estado sobre las cooperativas de ámbito supraautonómico.
+
+La gestión y ejecución de las operaciones del programa corresponde al Ministerio de Agricultura, Alimentación y Medio Ambiente, a través de la Dirección General de Desarrollo Rural y Política Forestal, como autoridad de gestión del programa, según se establece en el artículo 7 del Real Decreto 1080/2014, de 19 de diciembre, por el que se establece el régimen de coordinación de las autoridades de gestión de los programas de desarrollo rural para el periodo 2014-2020.
+
+Para las operaciones de inversiones en transformación, comercialización y desarrollo de productos agrarios, reguladas en el presente real decreto, la Dirección General de Desarrollo Rural y Política Forestal ha delegado la gestión y ejecución de las mismas en la Dirección General de la Industria Alimentaria y en el Fondo Español de Garantía Agraria (FEGA) de forma conjunta, mediante el correspondiente acuerdo de delegación.
+
+Las Entidades Asociativas Prioritarias reconocidas por parte del Ministerio de Agricultura, Alimentación y Medio Ambiente que soliciten esta ayuda no podrán solicitar apoyo para la misma finalidad y objeto a los Programas Regionales de Desarrollo Rural, ni a otras administraciones públicas u otros entes públicos o privados, nacionales o internacionales.
+
+El presente real decreto se dicta al amparo del artículo 149.1.13ª de la Constitución que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de conformidad con lo dispuesto en los artículos 17 y concordantes de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, se establecen las bases reguladoras de estas subvenciones.
+
+En el procedimiento de elaboración del presente real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los intereses de los sectores afectados.
+
+Asimismo, se ha recabado informe de la Intervención Delegada, la Oficina Presupuestaria y la Abogacía del Estado en el Departamento.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 6 de noviembre de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto tiene por objeto establecer las bases reguladoras para la concesión, en régimen de concurrencia competitiva, de subvenciones para el fomento de la integración de entidades asociativas agroalimentarias de carácter supra-autonómico a inversiones materiales o inmateriales en transformación, comercialización y desarrollo de productos agrarios en el marco del Programa Nacional de Desarrollo Rural 2014-2020.
+
+Las inversiones reguladas mediante este real decreto de bases se encuentran enmarcadas en el Programa Nacional de Desarrollo Rural, financiado por el Ministerio de Agricultura, Alimentación y Medio Ambiente (MAGRAMA) y el Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y regulado por el Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo.
+
+## Artículo 2. Definiciones.
+
+A efectos de aplicación del presente real decreto, se entenderá como:
+
+1\. Entidad asociativa prioritaria: aquélla que ha sido reconocida por parte del Ministerio de Agricultura, Alimentación y Medio Ambiente, conforme al procedimiento establecido en el Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario.
+
+2\. Inversión finalizada: aquélla que ha concluido materialmente o se ha ejecutado íntegramente y con respecto a la cual los beneficiarios han abonado todos los pagos relacionados y han percibido la correspondiente contribución pública.
+
+3.Actuación: la unidad funcional de ejecución, con un presupuesto definido dentro del proyecto de inversión, compuesta por uno o varios conceptos de gasto.
+
+4\. Ejercicio presupuestario: desde el 1 de enero al 31 de diciembre.
+
+> Se modifica el apartado 3 por el art. 1.1 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+## Artículo 3. Objeto de las inversiones.
+
+1\. La ayuda en virtud de esta medida abarcará proyectos de inversiones materiales o inmateriales en transformación, comercialización o desarrollo de los productos agrícolas contemplados en el anexo I del Tratado de Funcionamiento de la Unión Europea (TFUE) o del algodón, exceptuados los productos de la pesca.
+
+2\. Las inversiones deberán ajustarse a alguna o varias de las siguientes finalidades:
+
+a) La mejora del valor añadido de los productos y su posicionamiento en los mercados.
+
+b) La mejora de los procesos de transformación y/o comercialización.
+
+c) El desarrollo de productos, procesos o tecnologías.
+
+d) La incorporación de energías alternativas en la industria agroalimentaria: renovables y nuevos combustibles, la incorporación de la cogeneración, la mejora de la eficiencia energética, la valorización de residuos y materiales de origen agrícola, y la reducción de las emisiones al medio natural (aire, agua, suelo).
+
+3\. Las inversiones deben contribuir a la mejora de la competitividad de los productos ofrecidos por la entidad asociativa prioritaria.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 3 por el art. 1.1 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 4. Beneficiarios.
+
+Podrán acogerse a las ayudas previstas en este real decreto las entidades asociativas prioritarias reconocidas de acuerdo con el Real Decreto 550/2014, de 27 de junio, que realicen inversiones encaminadas a las finalidades previstas en el artículo 3.2 a través de los objetivos descritos en este real decreto.
+
+Asimismo, se considerarán potenciales beneficiarias las entidades mercantiles participadas mayoritariamente (más del 50 por cien del capital social) por una Entidad Asociativa Prioritaria en los sectores para los que ha sido reconocida la Entidad Asociativa Prioritaria. En estos casos, la ayuda será proporcional al porcentaje de participación de la Entidad Asociativa Prioritaria en la entidad mercantil. Las disposiciones previstas en relación con la incompatibilidad de ayudas serán de aplicación a estas inversiones. La entidad beneficiaria no podrá recibir cualesquiera otras ayudas para la misma finalidad y objeto.
+
+> Se modifica por el art. 1.2 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 5. Requisitos de los beneficiarios.
+
+1\. Los beneficiarios han de cumplir los requisitos y obligaciones generales previstos en los artículos 13 y 14 de la Ley 38/2003, de 17 de noviembre.
+
+2\. El solicitante deberá demostrar viabilidad económica mediante la documentación requerida al respecto contemplada en el artículo 11. En particular, no podrán ser beneficiarias de esta ayuda las entidades que obtengan una calificación de Mala/Dificultades financieras (CCC e inferior) de acuerdo con la Comunicación de la Comisión relativa a la revisión del método de fijación de los tipos de referencia y de actualización (2008/C 14/02).
+
+3\. Con independencia de lo anterior, no podrán ser beneficiarios de esta ayuda aquellos solicitantes en los que concurra alguna de las siguientes circunstancias:
+
+a) Cuando el solicitante se encuentre en situación de crisis, según se define en las Directrices comunitarias sobre ayudas estatales de salvamento y de reestructuración de empresas en crisis, de acuerdo con las Directrices sobre ayudas estatales de salvamento y de reestructuración de empresas no financieras en crisis (Comunicación 2014/C 249/01, de la Comisión, de 31 de julio de 2014).
+
+b) Cuando el solicitante se encuentre en proceso de haber solicitado la declaración de concurso voluntario, haber sido declarado insolvente en cualquier procedimiento, hallarse declarado en concurso, salvo que en éste haya adquirido la eficacia un convenio, estar sujetos a intervención judicial o haber sido inhabilitado conforme a la Ley 22/2003, de 9 de julio, Concursal, sin que haya concluido el periodo de inhabilitación fijado en la sentencia de calificación del concurso.
+
+c) Cuando no se acredite que el solicitante se encuentra al corriente de sus obligaciones tributarias y con la Seguridad Social, así como de sus obligaciones por reintegro de subvenciones.
+
+> Se modifica el apartado 2 por el art. 1.1 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifica por el art. 1.3 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 6. Requisitos de los proyectos de inversión.
+
+1\. Los solicitantes de la ayuda deberán presentar un proyecto de inversión relacionado con la transformación, comercialización o desarrollo de los productos agrícolas que comprenda productos finales o comercializados enumerados en el anexo I del Tratado de Funcionamiento de la Unión Europea (TFUE) o del algodón, excepto los productos de la pesca y de la acuicultura enumerados en el anexo I del Reglamento (UE) n.º 1379/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, por el que se establece la organización común de mercados en el sector de los productos de la pesca y de la acuicultura, se modifican los Reglamentos (CE) n.º 1184/2006 y (CE) n.º 1224/2009 del Consejo y se deroga el Reglamento (CE) n.º 104/2000 del Consejo.
+
+2\. Los proyectos presentados estarán claramente definidos, especificando las actuaciones y su duración, así como su localización y detallando los conceptos de gasto que componen cada actuación y los costes estimados de cada una de ellas.
+
+3\. La duración de la ejecución del proyecto de inversión se establecerá en la convocatoria correspondiente de ayuda, no pudiendo ser superior a dos años desde la presentación de la solicitud de ayuda o bien, en su caso, desde el levantamiento del acta de no inicio.
+
+Podrán establecerse hasta dos periodos de ejecución cuya duración se establecerá en la convocatoria correspondiente.
+
+En el proyecto se deben diferenciar las actuaciones y el presupuesto correspondiente para cada uno de los dos períodos de ejecución, en su caso.
+
+4\. El incumplimiento de los plazos indicados anteriormente por razones imputables al beneficiario conllevará la denegación o en su caso el reintegro de la subvención.
+
+5\. Sólo se subvencionarán inversiones que se destinen a productos para los que la entidad asociativa prioritaria haya sido reconocida, de entre los enumerados en el anexo I del Tratado de Funcionamiento de la Unión Europea (TFUE) o del algodón, excepto los productos de la pesca y de la acuicultura enumerados en el anexo I del Reglamento (UE) n.º 1379/2013 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013.
+
+6\. No se concederán ayudas a inversiones iniciadas con anterioridad a la presentación de una solicitud de ayuda, salvo en los casos contemplados en el apartado 24 del anexo I.
+
+A estos efectos, se considerará inicio de la inversión el comienzo de los trabajos de construcción o el compromiso que obliga legalmente a la realización de las inversiones. En cualquier caso, se podrán realizar por el solicitante pagos antes del levantamiento del acta de no inicio siempre que se den las siguientes condiciones:
+
+a) Se realicen en concepto de reserva, con el fin de asegurarse la realización futura de dicha actividad, y éstos se hayan realizado con posterioridad a la presentación de la solicitud y en la misma se haya aportado a la Administración la documentación referida en el artículo 11.6 y 11.8.
+
+b) No se haya realizado un compromiso formal que obligue legalmente a la realización de la inversión.
+
+c) No suponga una ejecución física o material de la actuación.
+
+d) El pago se haya realizado desde la cuenta bancaria única, conforme al artículo 15.7 y
+
+e) Deberá constatarse en el acta de no inicio dicha circunstancia y anexarse como soporte documental.
+
+En el caso de inversiones inmuebles, se levantará acta de no inicio por parte del órgano instructor o personal de la Administración General del Estado dependiente funcional u orgánicamente del Ministerio de Agricultura, Pesca y Alimentación, tras la evaluación de la solicitud, para que conste la evidencia de que la misma no se ha iniciado. Igualmente, será válida un acta notarial por cuenta de la entidad, siempre y cuando esta contemple los elementos suficientes que permitan constatar al órgano instructor el no inicio de la inversión.
+
+El acta de no inicio podrá ser solicitada por la entidad, siempre que la documentación del artículo 11.6 y 11.8 haya sido presentada a la Administración.
+
+Dicho acta no generará expectativas legítimas de concesión de subvención, de manera que no condicionará el sentido de la resolución de la solicitud de ayuda ni generará derecho a reembolso o indemnización de ninguna clase.
+
+7\. Para que un proyecto de inversión sea elegible, debe conducir a la mejora del rendimiento global de la entidad asociativa prioritaria. Para ello, además de contribuir a la consecución las finalidades indicadas en el artículo 3.2, deberá incluir alguno de los siguientes objetivos:
+
+a) Aumentar la competitividad de la empresa.
+
+b) Reducir los costes.
+
+c) Aumentar el valor añadido.
+
+d) Reducir el impacto ambiental al medio (aire, agua, suelo).
+
+e) Mejorar la trazabilidad y seguridad de las producciones.
+
+f) Diversificar las producciones y/o los mercados.
+
+g) Mejorar la calidad de las producciones.
+
+h) Implantar nuevos productos, procesos o tecnologías.
+
+i) Mejorar la comercialización de las producciones de la entidad.
+
+j) Mejorar la eficiencia energética.
+
+k) Mejorar la sostenibilidad energética al incorporar energías alternativas en la industria agroalimentaria: Renovables (solar térmica, solar fotovoltaica, eólica, biomasa, biogás...), nuevos combustibles (hidrógeno renovable y otros combustibles de origen no biológico a partir de éste...) y cogeneración.
+
+> Se modifica el apartado 7 por el art. único.2 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 6.1 por el art. 2.1 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica el apartado 6 por el art. 1.2 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifican los apartados 6 y 7 por el art. 1.4 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifica el apartado 6 por el art. 1.2 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+> Se modifica el apartado 3 por la disposición final 1.1 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876)
+
+> Redactado el apartado 6 conforme a la corrección de errores publicada en BOE núm. 312, de 30 de diciembre de 2015. [Ref. BOE-A-2015-14284](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14284)
+
+## Artículo 7. Incompatibilidad con otras ayudas.
+
+1\. Atendiendo a lo establecido en el artículo 36 del Reglamento (UE) 2021/2116 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, sobre la financiación, la gestión y el seguimiento de la política agrícola común y por el que se deroga el Reglamento (UE) n.º 1306/2013, los gastos financiados por las ayudas previstas en este real decreto no pueden recibir ninguna otra financiación con cargo al presupuesto de la Unión o cualquier otra financiación pública.
+
+Del mismo modo, los gastos sufragados por cualquier otra financiación pública no podrán percibir las subvenciones previstas en este real decreto.
+
+2\. No obstante, para las inversiones que puedan recibir apoyo, de acuerdo con lo previsto en el artículo 58.1.b) del Reglamento UE n.º 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, solamente se admitirán aquellas inversiones con un presupuesto inferior a 100.000 euros.
+
+3\. En particular serán incompatibles con las ayudas, para la misma finalidad, a las inversiones en el sector de frutas y hortalizas recibidas por empresas reconocidas como organización de productores de frutas y hortalizas, tal y como establece el Real Decreto 532/2017, de 26 de mayo, por el que se regulan el reconocimiento y el funcionamiento de las organizaciones de productores del sector de frutas y hortalizas, y de acuerdo con lo previsto en el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+
+4\. El solicitante deberá aportar en el momento de la solicitud de ayuda una declaración responsable de no haber recibido ayudas incompatibles. Igualmente, en caso de haber solicitado ayuda para los mismos gastos en otros regímenes de ayuda en convocatorias aún no resueltas, lo hará constar en dicha declaración.
+
+> Se modifica por el art. único.3 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 2 por el art. 1.5 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 8. Inversiones y gastos subvencionables.
+
+1\. Serán gastos subvencionables los siguientes:
+
+a) Inversiones tangibles:
+
+1.º Construcción, adquisición o mejora de bienes inmuebles, o instalaciones, o centros logísticos.
+
+2.º Compra o arrendamiento con opción de compra de nueva maquinaria o equipos u otros bienes incluidos los soportes lógicos de ordenador, adquisición de tecnologías de la información y la comunicación (hardware) hasta el valor de mercado del producto; no serán gastos subvencionables los demás costes relacionados con los contratos de arrendamiento con opción de compra (margen del arrendador, costes de refinanciación de intereses, gastos de seguro, etc.).
+
+3.º Se considerarán subvencionables, del mismo modo, los gastos de instalación y puesta en marcha de nueva maquinaria o equipos e instalaciones, previstos en los anteriores apartados 1.º y 2.º
+
+También se considerará subvencionable la compra de maquinaria de segunda mano en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo, siempre y cuando dicha maquinaria no haya sido objeto de subvención previa alguna procedente de las administraciones públicas y no se encuentre en estado de obsolescencia tecnológica, de tal manera que no contribuya a mejorar los procesos de transformación o comercialización, la trazabilidad, seguridad o calidad de las producciones, o no permita lograr el objetivo de reducción del impacto ambiental de la actividad.
+
+b) Inversiones intangibles:
+
+1.º Adquisición o desarrollo de programas informáticos (software).
+
+2.º Adquisición de patentes, licencias, derechos de autor, marcas registradas.
+
+3.º Gastos vinculados a la empresa en general: inversiones que mejoren la estructura operativa de los sistemas de gestión administrativa (incluidos sistemas informáticos), la organización y el control de la empresa, implantación de sistemas de control de la calidad, así como el desarrollo de las redes de información y comunicación.
+
+c) En todo caso se considerarán subvencionables, hasta un máximo del 8 por cien de los gastos subvencionables, los gastos generales vinculados a los contemplados en los apartados 1.a) y 1.b), tales como:
+
+1.º Honorarios de arquitectos, ingenieros y asesores.
+
+2.º Honorarios relativos al asesoramiento sobre la sostenibilidad económica y medioambiental, incluidos los estudios de viabilidad. Los estudios de viabilidad serán gastos subvencionables, aun cuando, atendiendo a su resultado, no se lleguen a materializar los gastos contemplados en los apartados 1.a) y 1.b).
+
+3.º Evaluación de impacto ambiental cuando proceda, de acuerdo con la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental.
+
+d) Elaboración y colocación de un cartel y/o placa informativa en cumplimiento del artículo 15.5 del presente real decreto.
+
+Tendrán la consideración de gastos subvencionables aquéllos que se realicen dentro del periodo subvencionable. El periodo subvencionable de los gastos comprenderá desde la presentación de la solicitud de ayuda, o bien, desde el levantamiento del acta de no inicio, hasta la fecha que fije la convocatoria correspondiente. No obstante, hasta que no se publique la resolución de concesión correspondiente, no se generará derecho alguno a la percepción de la ayuda.
+
+2\. El impuesto sobre el valor añadido no se considerará gasto subvencionable, excepto cuando no sea susceptible de recuperación por el beneficiario.
+
+3\. En el anexo I se recoge una lista, no exhaustiva, de gastos no considerados subvencionables. Tampoco se considerarán subvencionables el importe de las actuaciones que superen los límites máximos indicados en el anexo II.
+
+4\. Los gastos derivados del informe auditor requerido en el apartado 11.b) y de uno de los certificados requeridos en el apartado 17 del artículo 11, tendrán la condición de gastos subvencionables, sin que puedan exceder del 4 por cien del gasto subvencionable.
+
+5\. Los gastos susceptibles de ayuda presentados con una solicitud de ayuda deberán cumplir los siguientes criterios de moderación de costes:
+
+a) Con carácter general, el solicitante de ayuda deberá aportar como mínimo tres ofertas, comparables entre sí, de diferentes proveedores, con carácter previo a la contracción del compromiso para la obra, la prestación de servicio o la entrega del bien, salvo que por sus especiales características no exista en el mercado suficiente número de entidades que los realicen, presten o suministren, o bien por tratarse de un único proveedor que cumple con las especificaciones técnicas requeridas para esa inversión en concreto.
+
+b) La elección entre las ofertas presentadas, que deberá aportarse junto con la solicitud de ayuda, y antes de la entrega del bien o de la contratación del compromiso para la prestación del servicio, se realizará conforme a criterios de eficacia y economía, debiendo justificarse expresamente la elección, mediante la memoria justificativa a que se refiere el artículo 11.8, cuando no recaiga en la propuesta económica más ventajosa, así como cuando únicamente sea posible presentar una oferta. Asimismo, en el caso de que las ofertas aportadas presenten complejidad para determinar su comparabilidad, el órgano instructor podrá requerir al solicitante un informe al respecto.
+
+> Se modifica la letra d) del apartado 1, el apartado 4 y la letra b) del apartado 5 por el art. único.4 y 5 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 1.a) y d) por el art. 2.2 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica el apartado 5 por el art. 1.1 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifica la letra a) del apartado 1 y el apartado 5 por el art. 1.3 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifica por el art. 1.6 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifican los apartados 1.d), 4 y 5.b) por el art. 1.3 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+> Se modifica la letra a).2 del apartado 1 por la disposición final 2.1 del Real Decreto 126/2016, de 1 de abril. [Ref. BOE-A-2016-3159](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3159)
+
+> Se añade un párrafo final al apartado 1 por la disposición final 1.2 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876)
+
+> Redactado el apartado 1.c) conforme a la corrección de errores publicada en BOE núm. 312, de 30 de diciembre de 2015. [Ref. BOE-A-2015-14284](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14284)
+
+## Artículo 9. Intensidad e importe de la ayuda.
+
+1\. La ayuda alcanzará:
+
+a) El 60 por cien de los gastos subvencionables, en el caso de que el beneficiario sea una entidad asociativa prioritaria.
+
+b) El 40 por cien de los gastos subvencionables, en el caso de que el beneficiario sea una entidad mercantil participada mayoritariamente (más del 50 por ciento del capital social) por una entidad asociativa prioritaria. El porcentaje de ayuda final será el proporcional a dicho 40 por ciento que corresponda a la participación de la entidad asociativa prioritaria en la entidad mercantil.
+
+Teniendo en cuenta el volumen de solicitudes elegibles presentadas en cada convocatoria, podrán disminuirse dichos porcentajes máximos de ayuda en un máximo de 10 puntos, mediante prorrateo de todas las solicitudes seleccionadas, hasta agotar el presupuesto previsto en cada convocatoria.
+
+2\. El límite de ayuda máximo por proyecto de inversión es de 5.000.000 de euros.
+
+> Se modifica el apartado 1 por el art. 1.7 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifica el apartado 2 por la disposición final 2.2 del Real Decreto 126/2016, de 1 de abril. [Ref. BOE-A-2016-3159](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3159)
+
+## Artículo 10. Presentación de solicitudes de ayuda.
+
+1\. Una vez publicada la correspondiente convocatoria en la Base de Datos Nacional de Subvenciones (BDNS), www.pap.hacienda.gob.es/bdnstrans/index, y un extracto de la misma, en el "Boletín Oficial del Estado", las solicitudes se dirigirán al Presidente del Fondo Español de Garantía Agraria, O.A. (FEGA, O.A.), y se presentarán de forma electrónica a través de la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación (https://sede.mapa.gob.es), en el apartado "Procedimientos", de acuerdo con el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+2\. El plazo de presentación de solicitudes será el que se establezca en la correspondiente convocatoria y, en caso de no establecerlo, de veinte días contados a partir del día siguiente al de la publicación de la convocatoria en el «Boletín Oficial del Estado».
+
+3\. Las solicitudes se formalizarán de acuerdo con el modelo de instancia que acompañe a cada convocatoria. El MAPA publicará en su página una guía para la solicitud de ayudas a inversiones dirigida a los solicitantes para orientarles en la correcta presentación de la solicitud de ayuda.
+
+> Se modifica el apartado 3 por el art. único.6 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 1 y se deroga el apartado 4 por el art. 1.2 y la disposición derogatoria única.1 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifica el apartado 1 por el art. 1.4 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+## Artículo 11. Documentación que acompañe a la solicitud.
+
+La solicitud deberá ir acompañada de la documentación que se indica a continuación, sin perjuicio de documentación adicional que pueda exigirse en cada convocatoria anual:
+
+1\. Declaración responsable de no hallarse incurso en ninguno de los supuestos del artículo 13.2 y 3 de la Ley 38/2003, del 17 de noviembre, según modelo que se establecerá en la correspondiente convocatoria.
+
+2\. Declaración responsable de no haber solicitado ni recibido ninguna ayuda incompatible, según modelo que se establecerá en la correspondiente convocatoria.
+
+3\. Declaración responsable de no encontrarse en situación de crisis conforme a la normativa comunitaria ni tener pendiente de recuperación ninguna ayuda financiada por el Fondo Europeo Agrícola de Desarrollo Rural (FEADER), según modelo que se establecerá en la correspondiente convocatoria.
+
+4\. Declaración de las subvenciones recibidas en los casos especificados en el anexo I, apartado 4.º
+
+5\. La solicitud de ayudas implica la autorización al Ministerio de Agricultura, Alimentación y Medio Ambiente, para recabar de la Agencia Tributaria y de la Tesorería General de la Seguridad Social información relativa al cumplimiento de las obligaciones tributarias y de la Seguridad Social. No obstante, el solicitante podrá denegar expresamente el consentimiento, debiendo aportar los correspondientes certificados junto con la solicitud que acrediten el cumplimiento de obligaciones tributarias y con la Seguridad Social.
+
+6\. Proyecto de inversión para el que se solicita la ayuda, que contendrá, al menos, la siguiente información:
+
+a) Productos que contempla la inversión.
+
+b) Ubicación de la inversión (dirección y coordenadas en su caso). A tal efecto, en la solicitud de ayuda deberá acreditarse el régimen de tenencia del terreno o de las instalaciones, donde se va a realizar la inversión mediante nota simple registral con una antigüedad máxima de un año, contrato de compraventa, contrato de alquiler u otros medios probatorios válidos en derecho.
+
+c) El proyecto de inversión estará claramente definido, especificando sus actuaciones y detallando los conceptos de gasto que lo componen y los costes estimados de cada una de las actuaciones, diferenciando los dos períodos de ejecución, en su caso.
+
+En caso de proyectos de inversión que conlleven la ejecución de proyectos técnicos, se deberán incluir, al menos, los documentos de memoria, planos, pliego de condiciones y presupuesto.
+
+d) Descripción detallada del proyecto en la que se exprese de forma razonada cómo el proyecto de inversión mejora el rendimiento de la entidad asociativa prioritaria, exponiendo expresamente y de forma razonada en qué medida las inversiones contribuyen a alcanzar alguno de los objetivos señalados en el artículo 6.7.
+
+e) Estudio que pruebe la viabilidad económica de la inversión mediante informe elaborado y suscrito, por tercera persona, independiente del solicitante, titulado competente. Este estudio deberá incluir, como mínimo, los siguientes parámetros financieros relativos a la inversión:
+
+– Valor Actual Neto (VAN).
+
+– Tasa Interna de Retorno (TIR).
+
+– Periodo de recuperación o *Pay-back*.
+
+El estudio de viabilidad antes mencionado no será necesario para inversiones inferiores a 100.000 euros. En la convocatoria correspondiente se establecerá un modelo de declaración a efectos de acreditar la independencia entre el firmante de dicho estudio y la entidad solicitante de la subvención.
+
+f) Calendario de ejecución de las actuaciones previstas, incluyendo los correspondientes conceptos de gasto, para cada uno de los dos períodos de ejecución contemplados en el artículo 6.3, en su caso, especificando las fechas de inicio y fin de los mismos, así como el presupuesto previsto para cada uno de ellos. En caso de modificarse dicho calendario, se comunicará a la Dirección General de la Industria Alimentaria con carácter previo a la presentación de la solicitud de pago y dentro de las condiciones y limitaciones establecidas en el artículo 14 para las modificaciones de los proyectos de inversión.
+
+g) El texto siguiente: "Se redacta el presente proyecto al objeto de ser financiado en el marco del Programa Nacional de Desarrollo Rural 2014-2020, financiado por el Ministerio de Agricultura, Pesca y Alimentación (MAPA) y el Fondo Europeo Agrícola de Desarrollo Rural (FEADER). El proyecto también incluye una partida para señalización de la eventual contribución del FEADER a su financiación, para el caso de que resultase finalmente seleccionado".
+
+7\. Cuentas auditadas de la entidad correspondientes al ejercicio fiscal anterior cuando se quiera optar por criterios de valoración relacionados con el volumen de facturación o los beneficios.
+
+8\. Presupuestos o facturas proforma de las actuaciones. El beneficiario deberá presentar como mínimo tres ofertas, comparables entre sí, de acuerdo con lo dispuesto en el artículo 8.5. Dichas ofertas han de estar vigentes o en periodo de validez, y presentar los conceptos de gasto lo suficientemente desagregados de forma que permitan identificar las partidas de gasto no subvencionables según anexo I y aplicar los límites máximos establecidos en el anexo II. De manera excepcional, cuando la opción propuesta por el solicitante no sea la más ventajosa económicamente de entre las tres presentadas, así como cuando únicamente sea posible presentar una oferta, deberá presentar, además, una memoria en la que justificará expresamente dicha elección. El proyecto de inversión contemplará la elaboración y colocación del cartel o placa informativa descritos en el artículo 8.1.d).
+
+9\. En el caso de adquisición de bienes inmuebles, instalaciones (incluyendo maquinaria y equipos) o centros logísticos, se deberá aportar una tasación independiente acompañada de un certificado que acredite que el precio de compra no excede el valor del mercado. En el caso de la compra de instalaciones que incluyan maquinaria y equipos la tasación deberá incluir, en caso de incorporarse a la solicitud de ayuda, una relación inventariada de los mismos que se encuentren en funcionamiento y que permanezcan en funcionamiento tras la adquisición. De acuerdo con el artículo 30.5 de la Ley 38/2003, de 17 de noviembre, la tasación deberá ser emitida por un tasador independiente acreditado e inscrito en el correspondiente registro oficial. La oferta de compra en ningún caso podrá superar el valor determinado en la tasación.
+
+10\. En el caso de que el solicitante sea una entidad mercantil de las descritas en el artículo 4, deberá aportarse certificado del Secretario del Consejo de Administración indicando la composición y el porcentaje de distribución del capital social.
+
+11\. Facilitar la siguiente información a efectos de determinar la viabilidad económica de la entidad, de acuerdo con lo contemplado en el artículo 5, siempre y cuando no haya sido suministrada con anterioridad en el marco de la comunicación anual de acuerdo con el artículo 6 del Real Decreto 550/2014, de 27 de junio, y se indique expresamente en la solicitud:
+
+a) En el caso de que la entidad esté obligada a someterse a auditoría de cuentas, informe de auditoría de las cuentas anuales de los tres últimos ejercicios depositados en el registro correspondiente, de acuerdo con su personalidad jurídica. Si la entidad es de reciente constitución y, por tanto, no es posible suministrar la información correspondiente a la de los tres últimos ejercicios, se facilitará la información de las entidades de base, en el caso de que éstas estén obligadas a someterse a un informe de auditoría de cuentas anuales.
+
+b) En el caso de no estar sometida la entidad a esta última obligación, un informe auditor con base en los balances y cuentas de pérdidas y ganancias de los tres últimos ejercicios.
+
+c) La información mencionada en los apartados a) y b) contendrá de manera claramente destacada para cada uno de los tres últimos ejercicios las siguientes ratios:
+
+1.ª Fondo de maniobra: Activo Corriente – Pasivo Corriente.
+
+2.ª Liquidez: Activo Corriente/Pasivo Corriente.
+
+3.ª Solvencia: Total Activo/(Pasivo Corriente + Pasivo no Corriente).
+
+4.ª Endeudamiento: (Pasivo Corriente + Pasivo no Corriente)/Patrimonio Neto.
+
+5.ª Ratio Patrimonio Neto/Activo no Corriente.
+
+Solo será necesario presentar la información una vez por entidad y convocatoria junto a la primera solicitud que se registre, siempre que en el resto de solicitudes se indique claramente en qué expediente se aportó esta documentación.
+
+12\. Deberá acompañarse a la solicitud de una memoria explicativa de las características de la entidad asociativa prioritaria que contenga, al menos información sobre aquellos criterios de valoración correspondientes a las características del solicitante contenidos en el anexo III.
+
+Solo será necesario presentar un documento por entidad y convocatoria junto a la primera solicitud que se registre, siempre que en el resto de solicitudes se indique claramente en qué expediente se aportó esta documentación.
+
+13\. En su caso, memoria ambiental condicionada por la Declaración Estratégica Ambiental que contenga como mínimo la siguiente información sobre los efectos del proyecto sobre el medio ambiente:
+
+a) Si corresponde someter el proyecto al procedimiento de evaluación ambiental contemplado en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+
+b) Cómo van a tenerse en cuenta los principios de precaución y acción preventiva y cautelar para minimizar los efectos negativos.
+
+c) Cómo se van a corregir y compensar los impactos.
+
+d) Si va a minimizarse el consumo de recursos naturales con el desarrollo del proyecto.
+
+e) Si va a hacerse uso y cómo del mejor conocimiento científico posible y las mejores prácticas ambientales.
+
+14\. Deberá acreditarse el poder del solicitante, suficiente y subsistente en los términos previstos en la Ley 39/2015, de 1 de octubre.
+
+15\. Toda aquella documentación que el interesado considere necesaria y precisa para que puedan valorarse adecuadamente todos los criterios de selección que figuran como anexo III en este real decreto.
+
+16\. Documento de compromiso de colaboración en las labores de seguimiento y evaluación según modelo establecido en el anexo IV.
+
+17\. A efectos de cumplimiento del artículo 13.3 bis de la Ley 38/2003, de 17 de noviembre, acreditación, en el momento de la solicitud, del cumplimiento por el solicitante, en los términos dispuestos en dicho artículo, de los plazos de pago que se establecen en la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.
+
+> Se modifican los apartados 1 y 17 por la disposición final 2 del Real Decreto 780/2023, de 10 de octubre. [Ref. BOE-A-2023-20995](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20995)
+
+> Téngase en cuenta, para la acreditación de su cumplimiento, lo indicado en la disposición transitoria única del citado Real Decreto.
+
+> Se modifican los apartados 1, 6, 7, 11 y 12 y se añade el 17 por el art. único.7 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 8 por el art. 2.3 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifican los apartados 6 y 8 por el art. 1.3 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifican los apartados 4, 6, 8, 11 y 14 por el art. 1.5 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifican los apartados 6.b), e) y f) y 9 a 12 por el art. 1.8 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifican los apartados 6 y 10 y se añade un 16 por el art. 1.4 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+> Redactado el apartado 8 conforme a la corrección de errores publicada en BOE núm. 312, de 30 de diciembre de 2015. [Ref. BOE-A-2015-14284](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14284)
+
+## Artículo 12. Instrucción del procedimiento y comisión de valoración.
+
+1\. El FEGA llevará a cabo la ordenación del procedimiento y la Dirección General de la Industria Alimentaria se encargará de la instrucción del mismo, que realizará de oficio cuantas actuaciones estime necesarias antes de la presentación de los informes de la comisión de valoración.
+
+2\. La valoración de las solicitudes se llevará a cabo por el órgano instructor, previo informe de la comisión de valoración.
+
+3\. La comisión de valoración estará compuesta por:
+
+a) Presidente: El Subdirector General de Competitividad de la Cadena Alimentaria, de la Dirección General de la Industria Alimentaria.
+
+b) Vocales: Tres funcionarios adscritos a la Subdirección General de Competitividad de la Cadena Alimentaria, designados por el Director General de la Industria Alimentaria y tres funcionarios designados por el Presidente del Fondo Español de Garantía Agraria. Siempre que la disponibilidad de personal lo permita, se garantizará que al menos la mitad de los funcionarios que forman parte de la comisión de valoración sean diferentes a los que evalúan los expedientes.
+
+c) Secretario: Un funcionario designado por el Director General de la Industria Alimentaria, con voz y voto.
+
+4\. Dicha comisión concretará el resultado de la evaluación efectuada en un informe que remitirá al órgano instructor, teniendo en cuenta los criterios de valoración contemplados en el anexo III tal como establece el artículo 24 de Ley 38/2003, de 17 de noviembre. Los criterios de valoración se aplicarán siempre, incluso en aquellos casos en los que el presupuesto disponible para la medida o convocatoria supere la demanda de financiación. Sólo se seleccionarán los proyectos que alcancen un umbral mínimo de 25 puntos. En el caso de las entidades mercantiles descritas en el artículo 4 se aplicarán, cuando proceda, los criterios de valoración correspondientes de la entidad asociativa prioritaria que participa mayoritariamente en la sociedad mercantil.
+
+5\. El funcionamiento de la comisión de valoración se ajustará al régimen establecido para los órganos colegiados en el capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+La creación y funcionamiento de la comisión se atenderá con los medios personales, técnicos y presupuestarios asignados al órgano en el que se encuentra integrado, según lo dispuesto en el artículo 2.2 del Real Decreto 776/2011, de 3 de junio.
+
+6\. Corresponde al órgano instructor, de acuerdo con lo establecido en el artículo 24 de la Ley 38/2003, de 17 de noviembre, realizar de oficio cuantas actuaciones estime necesarias para la determinación, conocimiento y comprobación de los datos en virtud de los cuales deba pronunciarse la resolución.
+
+7\. El órgano instructor, a la vista del expediente y del informe de la comisión de valoración, elaborará la propuesta de resolución provisional que deberá contener una lista de solicitantes para los que se propone la ayuda y su cuantía, así como otra lista de los solicitantes excluidos especificando el motivo de dicha exclusión. La propuesta de resolución provisional no crea derecho alguno a favor del beneficiario propuesto frente a la Administración.
+
+8\. Para la resolución de las situaciones de empate de puntuación que puedan presentarse en la confección de las listas señaladas en el apartado anterior, se tendrán en cuenta los siguientes criterios de prioridad, en el orden que se indica:
+
+a) Se dará prioridad a los proyectos de inversión que tengan mayor puntuación en la suma de las valoraciones de los criterios 8, 9 y 10 recogidos en el anexo III.
+
+b) Si aún persiste el empate, se dará prioridad a los proyectos de inversión que tengan mayor puntuación en el criterio 12 contemplado en el anexo III.
+
+c) Si aún persiste el empate, se dará prioridad a los proyectos de inversión que tengan mayor puntuación en la suma de las valoraciones de los criterios 13, 14 y 15 del anexo III.
+
+d) Si aún persiste el empate, se dará prioridad a los proyectos de inversión que tengan mayor puntuación en la suma de las valoraciones de los criterios 6 y 7 del anexo III.
+
+e) Si aún persiste el empate, se dará prioridad a los proyectos de inversión que cumplan en mayor medida con las condiciones de la Declaración Ambiental Estratégica del Programa Nacional de Desarrollo Rural 2014-2020.
+
+f) Por último, si aún persiste el empate, se dará prioridad a las solicitudes presentadas en primer lugar según fecha, hora y segundo del registro de entrada.
+
+9\. De acuerdo con lo previsto en el artículo 45.1 de la Ley 39/2015, de 1 de octubre, la notificación individual de la propuesta de resolución se substituye por la publicación de la misma mediante inserción en la página web oficial del Ministerio de Agricultura, Pesca y Alimentación, concediendo un plazo de diez días desde la publicación para presentar alegaciones.
+
+10\. Tras el examen de las alegaciones, en su caso, la comisión de valoración formulará la propuesta de concesión de la subvención, que el instructor elevará como propuesta de resolución definitiva, de conformidad con lo establecido en los artículos 22.1 y 24.4 de la Ley 38/2003, de 17 de noviembre, al Presidente del FEGA O.A.
+
+> Se modifica el apartado 4 por el art. único.8 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 3 por el art. 2.4 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. 1.4 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifican los apartados 1 y 4 por el art. 1.9 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 13. Resolución.
+
+1\. El órgano competente para resolver la concesión de la ayuda será el Presidente del FEGA.
+
+2\. Las resoluciones serán motivadas, debiendo en todo caso quedar acreditados los fundamentos de la resolución que se adopte.
+
+2 bis. Sin perjuicio de las obligaciones relativas a la identificación de la financiación europea, en cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN junto con, en su caso, el de la Unión Europea, o las representaciones gráficas que se determinen, conforme al modelo que se establezca.
+
+3\. La resolución será publicada en los términos previstos en los artículos 58 y 59 de la Ley 30/1992, de 26 de noviembre, en la página web del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+4\. El plazo máximo para resolver y publicar la resolución del procedimiento no podrá exceder de seis meses, contados a partir de la publicación de la convocatoria de las ayudas, salvo que en la misma se pospongan sus efectos a una fecha posterior, de conformidad con el artículo 25.4 de la Ley 38/2003, de 17 de noviembre.
+
+5\. La resolución incluirá también relación ordenada de todas las solicitudes que, cumpliendo con las condiciones administrativas y técnicas establecidas en estas bases reguladoras para adquirir la condición de beneficiario, no hayan sido estimadas por rebasarse la cuantía máxima del crédito fijado para cada convocatoria, a fin de poder proceder con lo establecido en el artículo 63.3 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio. Asimismo contemplará aquellas solicitudes que no hayan sido estimadas porque en la fase de valoración no alcancen un mínimo de 25 puntos.
+
+6\. Contra esta resolución podrá interponerse recurso de alzada ante el Ministro de Agricultura, Alimentación y Medio Ambiente en el plazo máximo de un mes desde el día siguiente al de su notificación o publicación.
+
+Transcurrido el plazo máximo establecido sin que se haya dictado y publicado resolución expresa, se podrá entender desestimada la solicitud, de acuerdo con lo previsto en el artículo 44.1 de la Ley 30/1992, de 26 de noviembre, sin que ello exima de la obligación legal de resolver.
+
+> Se añade el apartado 2 bis por el art. único.9 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 5 por el art. 2.5 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+## Artículo 14. Modificación de los proyectos de inversión.
+
+1\. De acuerdo con lo establecido por el artículo 17.3.l) de la Ley 38/2003, de 17 de noviembre, y el artículo 64 de su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio, el beneficiario podrá proceder a la modificación del proyecto de inversión presentado en la solicitud de la ayuda, una vez haya recaído resolución de concesión, en el plazo comprendido entre la fecha en que ésta se haya publicado y dos meses antes de la fecha límite para la presentación de las solicitudes de pago, conforme a los trámites previstos en este artículo.
+
+2\. No podrán efectuarse modificaciones del proyecto de inversión, excepto las contempladas en el apartado 5 de este artículo cuando no afecten al presupuesto del proyecto, en el periodo comprendido entre la presentación de la solicitud y la resolución de concesión de la ayuda, salvo causas de fuerza mayor o circunstancias excepcionales debidamente justificadas.
+
+3\. A tal fin, el interesado deberá notificar para su aprobación la propuesta de la modificación completa del proyecto, que contemplará una memoria descriptiva de la modificación y la nueva documentación que venga a substituir a la aportada en la solicitud inicial de ayuda, de acuerdo con el artículo 11. Asimismo, se deberá garantizar el cumplimiento de los requisitos de moderación de costes establecidos en los artículos 8.5 y 11.8. La propuesta de modificación se presentará en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación (https://sede.mapa.gob.es) y se dirigirá al Director General de la Industria Alimentaria, quien instruirá el procedimiento y, tras su análisis a fin de valorar su admisibilidad, efectuará su remisión al FEGA, O.A., que resolverá. A tal efecto, se tendrán en cuenta las condiciones y limitaciones señaladas a continuación:
+
+a) No se admitirán modificaciones que se hayan realizado con anterioridad a la presentación de la correspondiente solicitud de modificación.
+
+b) No se admitirán modificaciones que alteren el objetivo final del proyecto.
+
+c) No se admitirán modificaciones que supongan un cambio de beneficiario.
+
+d) No se admitirán modificaciones que afecten al cumplimiento de las condiciones de elegibilidad ni a la puntuación obtenida en los criterios de valoración de forma que la solicitud quede por debajo de la puntuación de corte de las solicitudes aprobadas.
+
+e) No se admitirán modificaciones que amplíen el período de ejecución del proyecto ni afecten al alza la subvención aprobada para cada período de ejecución.
+
+En cualquier caso, las modificaciones que supongan una disminución de los gastos subvencionables en una actuación implicarán la reducción correspondiente de la subvención concedida a dicha actuación, dando lugar a la procedente modificación de la resolución de concesión de la ayuda.
+
+Asimismo, cuando las modificaciones supongan un incremento del presupuesto en una actuación, ello nunca supondrá un incremento del gasto subvencionable y, por tanto, de la subvención aprobada en la concesión de la ayuda para dicha actuación.
+
+La resolución será dictada y publicada en la mencionada página web del Ministerio de Agricultura, Pesca y Alimentación en el plazo máximo de dos meses desde la fecha en la que el beneficiario presente la solicitud completa de modificación.
+
+Transcurrido dicho plazo sin que se haya publicado resolución expresa, la solicitud de modificación se entenderá desestimada por silencio administrativo, de acuerdo con lo dispuesto en el artículo 25.5 de la Ley 38/2003, de 17 de noviembre.
+
+Contra esta resolución, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes, desde el día siguiente al de su publicación en la página web del Ministerio de Agricultura, Pesca y Alimentación conforme a los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+4\. En todo caso, la admisión de las solicitudes de modificación recogidas en este apartado implicará la aplicación de una penalización a partir de la segunda modificación aprobada, del 5 % del importe de la ayuda concedida para las actuaciones afectadas por la modificación correspondiente. Esta penalización será progresiva y acumulativa de forma que se irá incrementando en 5 % por cada nueva modificación aprobada.
+
+5\. No obstante, se podrán realizar sin aprobación ni penalización las modificaciones menores que se relacionan a continuación, siempre que no supongan una modificación al alza del importe subvencionable de los conceptos de gasto contemplados dentro de una actuación y cumplan con las letras a) a e) del apartado 3 de este artículo.
+
+a) Cambio de marca o de proveedor de una máquina o instalación, siempre y cuando se mantengan o mejoren sus características técnicas considerando aspectos como rendimiento, consumos energéticos y mantenimiento. No se admitirán cambios de proveedores con incrementos de presupuestos, si no suponen mejoras técnicas en el proyecto.
+
+b) Cambios en edificaciones o instalaciones siempre y cuando se mantenga su uso, capacidad total y características.
+
+En cualquier caso, será necesaria la comunicación, aportando la correspondiente documentación justificativa a la Dirección General de la Industria Alimentaria a través de la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación (https://sede.mapa.gob.es), previa a la presentación de la solicitud de pago, para su evaluación y, adicionalmente, su justificación en el Informe de ejecución que se presente con la solicitud de pago.
+
+En todo caso, las modificaciones que supongan una disminución de los gastos subvencionables supondrán la reducción correspondiente en el pago de la subvención.
+
+6\. Cuando la realización de una modificación suponga una reducción de la subvención concedida para una actuación del proyecto, dicho importe no podrá utilizarse para incrementar la ayuda concedida en otra actuación diferente.
+
+7\. No se admitirán modificaciones que supongan la no ejecución en las condiciones establecidas como mínimo del 70 por ciento de la subvención inicialmente aprobada para la totalidad del proyecto en la resolución de concesión de la ayuda.
+
+8\. Independientemente de lo establecido en este artículo, el FEGA, O.A. podrá excepcionalmente aprobar modificaciones de la resolución de concesión, previa propuesta de modificación por el órgano instructor, que no se ajusten a las condiciones indicadas en los apartados anteriores, en los casos de fuerza mayor o circunstancias excepcionales en la acepción del artículo 2.2 del Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, sobre la financiación, gestión y seguimiento de la Política Agrícola Común, por el que se derogan los Reglamentos (CE) n.º 352/78, (CE) n.º 165/94, (CE) n.º 2799/98, (CE) n.º 814/2000, (CE) n.º 1290/2005 y (CE) n.º 485/2008 del Consejo.
+
+> Se modifican los apartados 3 y 5 por el art. único.10 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 6 por el art. 2.6 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. 1.5 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifica por el art. 1.6 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifican los apartados 2.d) y 3 por el art. 1.10 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifica el apartado 3 por el art. 1.5 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+## Artículo 15. Obligaciones de los beneficiarios.
+
+1\. Los beneficiarios estarán sujetos al cumplimiento de las obligaciones contempladas en el artículo 14.1 de la Ley 38/2003, de 17 de noviembre, así como a registrar la subvención que perciban en los libros contables que correspondan.
+
+2\. Los beneficiarios deberán destinar los bienes al fin concreto para el que se concedió la subvención durante los cinco años siguientes al pago final de la misma, conforme a lo establecido en el artículo 31.4 de la Ley 38/2003, de 17 de noviembre.
+
+En el caso de bienes inscribibles en un registro público, deberá hacerse constar en la escritura esta circunstancia, así como el importe de la subvención concedida, debiendo ser objeto estos extremos de inscripción en el registro público correspondiente.
+
+3\. Deberá reembolsarse la ayuda, más los correspondientes intereses de demora, en los cinco años siguientes al pago final al beneficiario, en caso de producirse cualquiera de las circunstancias siguientes:
+
+a) El cese o la relocalización de una actividad productiva fuera de la zona del programa; o
+
+b) el cambio en la propiedad de un elemento de infraestructura que proporcione a una empresa o un organismo público una ventaja indebida; o
+
+c) el cambio sustancial que afecte a la naturaleza, los objetivos o las condiciones de ejecución de la operación, de modo que se menoscaben sus objetivos originales.
+
+4\. Los apartados anteriores no se aplicarán a las contribuciones recibidas en las que se produzca el cese de una actividad productiva por quiebra no fraudulenta.
+
+5\. Durante la realización de un proyecto de inversión, el beneficiario informará al público de la ayuda obtenida del FEADER conforme a lo establecido respecto a los requisitos de información y publicidad en el artículo 13.2 y anexo III, apartado 2 del Reglamento de Ejecución (UE) n.º 808/2014 de la Comisión, de 17 de julio de 2014, por el que se establecen disposiciones de aplicación del Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER).
+
+6\. Para poder optar a la ayuda del FEADER, en aquellos casos en que proceda, los proyectos de inversión irán precedidos de una evaluación de impacto medioambiental conforme a la Ley 21/2013, de 9 de diciembre.
+
+7\. Los beneficiarios deberán constituir una cuenta bancaria única, para el ingreso de la ayuda y desde la que realizarán todos los movimientos relacionados con la subvención salvo en casos excepcionales debidamente justificados.
+
+8\. Asimismo, habrán de llevar una contabilidad analítica que permita la identificación de los ingresos y gastos relativos a la realización de las actividades, manteniendo dicha información a disposición de las autoridades nacionales competentes y de la Comisión Europea para posibles comprobaciones.
+
+9\. Tendrán legalizados los libros de contabilidad según lo establecido en la normativa.
+
+10\. Los beneficiarios se comprometerán a proporcionar toda la información necesaria para poder realizar el seguimiento y la evaluación del programa.
+
+11\. No deberá existir vinculación por razones laborales, contractuales, profesionales o personales entre el solicitante y los proveedores seleccionados para la realización de las actuaciones del proyecto.
+
+> Se añade el apartado 11 por el art. 2.7 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. 1.6 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifica el apartado 6 por el art. 1.11 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 16. Solicitudes de pago y documentación a presentar.
+
+1\. Las solicitudes de pago, así como la documentación complementaria que, en su caso, se especifique en las respectivas convocatorias, se presentarán a través de la sede electrónica del FEGA (https://www.sede.fega.gob.es/) en el apartado Catálogo de Servicios, de acuerdo con el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+La presentación electrónica de la solicitud de pago, en su caso, así como la documentación complementaria que se especifique en las respectivas convocatorias, se realizará en los términos previstos en la convocatoria, conforme a lo dispuesto en la Ley 39/2015, de 1 de octubre.
+
+2\. Se presentará una única solicitud de pago por cada proyecto de inversión, salvo en el caso de proyectos que se ejecuten en dos ejercicios presupuestarios, en cuyo caso podrán solicitarse dos pagos, uno por cada período de ejecución, según lo establecido en el artículo 6.3.
+
+El FEGA, O.A. publicará en su página web una guía de justificación de gastos dirigida al beneficiario para orientarle en la correcta presentación de la solicitud de pago.
+
+3\. El plazo de presentación de la solicitud de pago y la documentación relacionada se establecerá en la convocatoria correspondiente. El incumplimiento de este plazo por razones imputables al beneficiario conllevará una penalización del 1 % de la ayuda por día hábil de retraso en la presentación de la solicitud de pago o la documentación relacionada. Esta penalización no se aplicará en caso de que el incumplimiento de dicho plazo se deba a causas de fuerza mayor o cuando concurran circunstancias excepcionales, debidamente justificadas.
+
+4\. Las actuaciones para las que se solicite el pago deberán estar ejecutadas, justificadas y abonadas para ser subvencionables.
+
+5\. El pago se efectuará una vez justificada y comprobada la realización de las acciones subvencionadas y el gasto total de las mismas.
+
+6\. Para la solicitud de pago se presentará:
+
+a) Un informe de ejecución compuesto por:
+
+1.º Un informe resumen de las actuaciones que se han llevado a cabo.
+
+2.º Una evaluación de los resultados obtenidos que puedan verificarse en la fecha del informe.
+
+3.º Un estado financiero recapitulativo donde consten los gastos planificados y los realizados efectivamente, cada uno de ellos relacionado con las actuaciones correspondientes.
+
+b) Un extracto de la cuenta bancaria única. En este extracto no deben figurar gastos ni ingresos que no tengan relación con la actividad subvencionable.
+
+c) Facturas y justificantes de pago correspondientes originales, en su caso.
+
+d) Cuadro repertoriado de facturas, donde se relaciona cada una de las facturas con sus correspondientes justificantes de pago y los apuntes en la cuenta bancaria.
+
+e) Toda la documentación justificativa de las actuaciones realizadas.
+
+f) Una declaración responsable de no hallarse incurso en ninguno de los supuestos del artículo 13.2 y 3 de la Ley 38/2003, de 17 de noviembre, según modelo que se establecerá en la correspondiente convocatoria.
+
+g) Certificados de estar al corriente de las obligaciones tributarias y con la seguridad social.
+
+h) Datos bancarios de la cuenta elegida para recibir la ayuda.
+
+i) **(Sin contenido).**
+
+j) Declaración responsable de la entidad solicitante en la que se haga constar que no ha solicitado ni recibido ayudas incompatibles para la misma finalidad y objeto ni se encuentra inmersa en un proceso de reintegro de subvenciones.
+
+k) Certificado de tasador independiente, debidamente acreditado e inscrito en el correspondiente registro oficial, en el caso de adquisición de bienes inmuebles. El informe deberá contener la información necesaria a efectos de lo dispuesto en el punto 3 del Anexo I.
+
+l) Licencia de obras en aquellos casos de construcción de nuevas superficies cubiertas, ampliación de las existentes y otras inversiones en las que sea necesario.
+
+m) Asimismo, de cara a la justificación técnica de las inversiones, se podrá solicitar al beneficiario que aporte los medios de prueba que acrediten la realización de los proyectos de inversión aprobados.
+
+7\. No obstante, podrá ser requerida documentación justificativa complementaria para la justificación del gasto realizado.
+
+> Se modifica el apartado 2 por el art. único.11 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 64, de 16 de marzo de 2023. [Ref. BOE-A-2023-6893](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6893)
+
+> Se modifican los apartados 3 y 6.b) por el art. 2.8 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica el apartado 1 por el art. 1.7 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifica el apartado 6.i) por el art. 1.12 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifican los apartados 3 y 5 por el art. 1.6 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+> Se modifica el apartado 3 por la disposición final 1.3 del Real Decreto 1151/2015, de 18 de diciembre. [Ref. BOE-A-2015-13876](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13876)
+
+## Artículo 17. Financiación.
+
+1\. La financiación comunitaria de las actuaciones contempladas en el artículo 8 del presente real decreto, se realizará, de conformidad con el Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo del 17 de diciembre de 2013, sobre financiación, gestión y seguimiento de la Política Agrícola Común, por el que se derogan los Reglamentos (CE) n.º 352/78, n.º 165/94, n.º 2799/98, n.º 814/2000, n.º 1290/2005 y n.º 485/2008 del Consejo.
+
+2\. La financiación y el pago de la ayuda nacional se efectuará con cargo al presupuesto del Fondo Español de Garantía Agraria que se fije en la convocatoria, no pudiendo superar el límite que en la misma se establezca y siempre supeditado a las disponibilidades presupuestarias existentes.
+
+3\. La tasa de cofinanciación FEADER será del 53%.
+
+## Artículo 18. Pagos.
+
+1\. El pago lo efectuará el Fondo Español de Garantía Agraria mediante transferencia bancaria a la cuenta única que el solicitante haya indicado en la solicitud.
+
+2\. Los pagos los realizará el Fondo Español de Garantía Agraria en un plazo de sesenta días a partir de la recepción de la solicitud de pago.
+
+3\. No obstante, en cualquier momento del período de sesenta días siguiente al primer registro de la solicitud de pago, este plazo podrá quedar interrumpido mediante notificación del Fondo Español de Garantía Agraria al solicitante para que subsane la falta o acompañe los documentos preceptivos y otros elementos de juicio necesarios.
+
+4\. El plazo se reanudará a partir de la fecha de recepción de la información solicitada, que se deberá remitir o efectuar, respectivamente, en un plazo de 10 días a partir de la notificación. De no hacerlo así, se tendrá por desistido de su solicitud, previa resolución.
+
+5\. La justificación de la ayuda se realizará de acuerdo con lo dispuesto en el artículo 30 de la Ley 38/2003, de 17 de noviembre.
+
+6\. No se contemplan pagos anticipados ni fraccionamiento de pago en esta submedida.
+
+> Se añade el apartado 6 por el art. 2.9 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifican los apartados 2 y 3 por la disposición final 2.3 y 4 del Real Decreto 126/2016, de 1 de abril. [Ref. BOE-A-2016-3159](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3159)
+
+## Artículo 19. Controles.
+
+1\. Se realizarán controles administrativos y controles sobre el terreno.
+
+2\. De conformidad con el artículo 59 del Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, se realizarán controles administrativos sistemáticos al 100 por cien de las solicitudes de pago, que se complementarán con controles sobre el terreno.
+
+3\. Los controles sobre el terreno representarán el porcentaje establecido en el artículo 50 del Reglamento de Ejecución (UE) n.º 809/2014 de la Comisión de 17 de julio de 2014. En la medida de lo posible, esos controles se efectuarán antes de que se abone el pago final de una operación.
+
+4\. La realización de los controles sobre el terreno estarán enmarcados dentro de un Plan de Control y quedarán recogidos en un informe.
+
+5\. En el caso particular de las inversiones, y de acuerdo con el artículo 71 del Reglamento (UE) n.º 1303/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y de acuerdo con el artículo 52 del Reglamento de Ejecución (UE) n.º 809/2014 de la Comisión, de 17 de julio, se pondrá en marcha un plan de seguimiento de forma que se garantice que en los cinco años siguientes al pago final del beneficiario:
+
+a) No se cesará o relocalizará la actividad productiva fuera de la zona del programa,
+
+b) no habrá cambio de propiedad de un elemento de la infraestructura que proporcione a la empresa o al organismo público ventaja indebida,
+
+c) ni cambio sustancial que afecte a la naturaleza, objetivos o condiciones de ejecución de la operación de modo que se menoscaben sus objetivos originales.
+
+6\. Igualmente, se pondrá en marcha un plan de seguimiento de forma que se garantice que en los diez años siguientes al pago final del beneficiario, no se va a producir una relocalización de la actividad productiva fuera de la Unión Europa cuando se haya realizado una inversión en infraestructura o en inversión productiva, excepto cuando el beneficiario sea una PYME.
+
+7\. Una solicitud de ayuda o de pago se rechazará cuando el beneficiario o su representante impidan que se realice un control sobre el terreno, salvo en los casos de fuerza mayor o circunstancias excepcionales, según lo establecido en el artículo 59.7 del Reglamento n.º 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013. Asimismo, serán de aplicación los artículos 48, 49 y 51 del Reglamento 809/2014 de la Comisión, de 17 de julio de 2014.
+
+> Se añade el apartado 7 por el art. 2.10 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. 1.13 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+## Artículo 20. Reintegro.
+
+En caso de pago indebido, el beneficiario quedará obligado a reembolsar el importe en cuestión, al que se añadirán los intereses de demora correspondientes.
+
+## Artículo 21. Devolución a iniciativa del perceptor.
+
+El beneficiario podrá efectuar la devolución voluntaria de los importes recibidos sin previo requerimiento de la Administración, conforme a lo establecido en el artículo 90 del Reglamento de la Ley General de Subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio. La devolución se realizará de acuerdo al procedimiento de recaudación de los ingresos no tributarios regulados por la Orden PRE/3662/2003, de 29 de diciembre, por la que se regula un nuevo procedimiento de recaudación de los ingresos no tributarios recaudados por las Delegaciones de Economía y Hacienda y de los ingresos en efectivo en las sucursales de la Caja General de Depósitos y sus sucursales, a través del modelo que expida el FEGA.
+
+## Artículo 22. Sanciones.
+
+1\. Será de aplicación a estas ayudas el régimen de sanciones correspondientes de conformidad con los artículos 63 y 64 del Reglamento (UE) n.º 1306/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y el artículo 63 del Reglamento de Ejecución (UE) n.° 809/2014 de la Comisión, de 17 de julio de 2014, por el que se establecen disposiciones de aplicación del Reglamento (UE) n.° 1306/2013 del Parlamento Europeo y del Consejo en lo que se refiere al sistema integrado de gestión y control, las medidas de desarrollo rural y la condicionalidad.
+
+2\. A reserva del artículo 6 del Reglamento (CE) n.º 2988/95 del Consejo, de 18 de diciembre de 1995, relativo a la protección de los intereses financieros de las Comunidades Europeas, será de aplicación el régimen de infracciones y sanciones previsto en la Ley 38/2003, de 17 de noviembre.
+
+> Se modifica el apartado 1 por el art. 2.11 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+## Artículo 23. Publicidad.
+
+Las subvenciones convocadas o concedidas a partir de 1 de enero de 2016, al amparo del presente real decreto, les será de aplicación lo previsto en los artículos 18 y 20 de la vigente Ley 38/2003, de 17 de noviembre, en materia de publicidad y transparencia.
+
+Asimismo, los beneficiarios deberán dar publicidad de las subvenciones y ayudas percibidas en los términos y condiciones establecidos en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+Por otra parte, se atenderá lo dispuesto en las normas establecidas en materia de información y publicidad, detalladas en el anexo III del Reglamento de Ejecución (UE) 808/2014, de la Comisión, al ser una actuación cofinanciada por el FEADER.
+
+## Artículo 24. Criterios de graduación de posibles incumplimientos.
+
+Los criterios de graduación de posibles incumplimientos se aplicarán para determinar la cantidad que finalmente hayan de percibir los beneficiarios y serán los siguientes:
+
+1\. El incumplimiento de los requisitos de los beneficiarios establecidos en el artículo 5, de los requisitos de los proyectos de inversión establecidos en el artículo 6 o de las obligaciones de los beneficiarios establecidas en el artículo 15, supondrá la pérdida de derecho al cobro de la ayuda o el reintegro de la misma, con la excepción de los apartados 4, 6 y 7 del artículo 15, a los que se les aplicará un 5 % de penalización sobre la actuación implicada en el incumplimiento.
+
+Se aplicará asimismo un 5 % de penalización sobre la actuación implicada en el incumplimiento de lo establecido en el artículo 16.6.b) sobre el extracto de la cuenta única a presentar junto con la solicitud de pago.
+
+2\. Cuando la ejecución total del proyecto no alcance el 70 % de la inversión subvencionable inicialmente aprobada, no se abonará ayuda alguna.
+
+3\. Cuando una actuación no se haya ejecutado por completo, se valorará el nivel de ejecución y el importe de la subvención será proporcional a dicho nivel, siempre que la ejecución total del proyecto cumpla lo establecido en el punto anterior.
+
+4\. No obstante lo indicado en los puntos anteriores, en los casos en que la ejecución sea inferior al 70 % obedeciendo a causas de fuerza mayor o circunstancias excepcionales, no tendrá consideración de incumplimiento, abonándose la ayuda correspondiente al porcentaje ejecutado.
+
+> Se modifica por el art. 2.12 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. 1.7 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se añade por el art. 1.7 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+## Disposición adicional única. Fraudes e irregularidades.
+
+Cualquier persona que tenga conocimiento de hechos que pudieran ser constitutivos de fraude o irregularidad en relación con proyectos u operaciones financiadas total o parcialmente con cargo a fondos procedentes de la Unión Europea en el marco de estas ayudas, podrá poner dichos hechos en conocimiento del Servicio Nacional de Coordinación Antifraude de la Intervención General de la Administración del Estado. La Guía del solicitante dará cuenta de esta posibilidad y de los cauces disponibles para ejercerla.
+
+> Se añade por el art. 1.8 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+## Disposición final primera. Normativa aplicable.
+
+En todo lo no previsto en este real decreto será de aplicación el Reglamento (UE) n.º 1305/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, el Reglamento (UE) n.º 1306/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, y sus normas de desarrollo y aplicación, así como la Ley 38/2003, de 17 de noviembre, y su Reglamento, aprobado mediante Real Decreto 887/2006, de 21 de julio.
+
+## Disposición final segunda. Referencias legislativas.
+
+Las referencias contenidas en este real decreto a la Ley 30/1992, de 26 de noviembre, y a la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios Públicos, se entenderán hechas a la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, y a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del sector Público, en función de la materia que regulan.
+
+Las referencias hechas al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente deben entenderse hechas al Ministerio de Agricultura, Pesca y Alimentación.
+
+> Se añade un párrafo por el art. 1.8 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifica por el art. 1.14 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+## Disposición final tercera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+> Se renumera por el art. 1.14 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Su anterior numeración era disposición final segunda.
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se renumera por el art. 1.11 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Su anterior numeración era disposición final tercera.
+
+Dado en Madrid, el 6 de noviembre de 2015.
+
+FELIPE R.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente,
+
+ISABEL GARCÍA TEJERINA
+
+## ANEXO I — Gastos no considerados subvencionables
+
+1\. Los gastos de constitución y primer establecimiento.
+
+2\. La compra de terrenos y los gastos relacionados con la misma (honorarios de notario, impuestos y similares).
+
+3\. La compra de edificios que vayan a ser derribados. Si la compra de un edificio es objeto de ayuda, el valor del terreno construido, y el del que rodea el edificio, valorado por técnico competente, no se considera subvencionable.
+
+4\. La compra de bienes inmuebles, instalaciones (sin incluir maquinaria y equipos) o centros logísticos si los mismos han sido subvencionados por las administraciones públicas en los últimos cinco años. Tampoco serán subvencionables las inversiones en reformas de locales que hubieran sido subvencionados anteriormente por las administraciones públicas y no hayan transcurrido cinco años desde el pago al beneficiario. A tal efecto, no se considerará como reforma la ampliación de capacidad de instalaciones, instalación de nueva maquinaria o construcción de nuevas edificaciones.
+
+Las operaciones destinadas a ampliar la capacidad o mejorar las prestaciones de la maquinaria y equipos de segunda mano objeto de subvención no podrán ser auxiliadas nuevamente en un periodo de cinco años.
+
+Para ello se adjuntará declaración de las subvenciones recibidas de las Administraciones públicas.
+
+No serán susceptibles de apoyo la maquinaria y equipos de segunda mano existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo y hubieran sido subvencionados anteriormente por otro fondo comunitario o cualquier otra ayuda procedente de las administraciones públicas. Para ello, en estos casos, se hará constar en la declaración mencionada anteriormente información de las subvenciones recibidas por la maquinaria de segunda mano y equipos existentes en la compra de instalaciones en funcionamiento cuando éstas se adquieran al completo.
+
+5\. En los casos de arrendamiento con opción a compra, no serán gastos subvencionables los demás costes relacionados con los contratos de arrendamiento con opción de compra tales como el margen del arrendador, los costes de refinanciación de los intereses, los gastos generales y los gastos de seguro.
+
+6\. Obras de ornamentación y equipos de recreo salvo en las inversiones en que se contemplen actividades de comercialización, en cuyo caso son financiables los gastos previstos con fines didácticos o comerciales.
+
+7\. La compra de material amortizable normalmente en un año.
+
+8\. Las inversiones que figuren en la contabilidad como gastos.
+
+9\. La compra e instalación de maquinaria y equipos de segunda mano, salvo que ésta forme parte de la adquisición al completo de unas instalaciones en funcionamiento según lo establecido en el punto 4.
+
+10\. Los gastos relativos al traslado de maquinaria ya existente hasta el local o emplazamiento en el que se va a realizar el proyecto, salvo en el supuesto del traslado de maquinaria ya existente hasta el local o emplazamiento en el que se vaya a realizar el proyecto para ampliar su capacidad o mejorar sus prestaciones según lo establecido en el punto 4.
+
+11\. Las reparaciones y gastos de mantenimiento de la maquinaria, equipos e instalaciones, incluidos los gastos de servicios asociados (teleasistencia, licencias, etc.). No tienen la consideración de reparaciones las operaciones realizadas sobre maquinaria instalada para ampliar su capacidad o mejorar sus prestaciones.
+
+12\. El impuesto sobre el valor añadido (IVA) recuperable por el beneficiario.
+
+13\. Las edificaciones destinadas a vivienda.
+
+14\. Vehículos, de manera específica no serán subvencionables las sustituciones. Sin embargo, sí serán subvencionables:
+
+Vehículos o aparatos, nuevos, de los de transporte interno en las instalaciones.
+
+Vehículos de nueva adquisición (flota) destinados al transporte de productos agroalimentarios objeto de transformación y/o comercialización, por parte de la empresa solicitante.
+
+15\. Los gastos de alquiler de equipos de producción y las inversiones financiadas mediante arrendamiento financiero.
+
+16\. Los gastos de personal del beneficiario, así como gastos asociados a viajes, dietas, kilometraje, manutención, alojamiento, formación, desplazamientos de personal y similares, salvo los contemplados en el artículo 8.1.c).
+
+17\. Los materiales de procedencia propia.
+
+18\. Los gastos por transacciones financieras, intereses deudores o de demora, las comisiones por cambio de divisas y las pérdidas, así como otros gastos puramente financieros.
+
+19\. Las multas, sanciones financieras y gastos de procedimientos legales.
+
+20\. Rótulos o indicadores en vías públicas u otros espacios públicos o privados que no sean el establecimiento, tienda, instalación, finca o recinto del solicitante.
+
+21\. Inversiones relacionadas con gastronomía y turismo.
+
+22\. Gastos de tramitación administrativa.
+
+23\. Compra de edificios o instalaciones que estén alquilados o en otro régimen de tenencia por el solicitante a la fecha de la solicitud.
+
+24\. Trabajos o inversiones empezados o realizados con anterioridad a la fecha de solicitud de ayuda, salvo los siguientes gastos, siempre que estén realizados dentro de los 18 meses previos a la fecha de solicitud de ayuda:
+
+a) Honorarios técnicos, gastos de estudios de viabilidad económica, técnica, geotectónica, de mercado y similares, y gastos relacionados con los permisos.
+
+b) Evaluación ambiental.
+
+25\. El importe de las inversiones y conceptos que superen los límites máximos establecidas en el anexo II.
+
+26\. No tendrán la consideración de gastos subvencionables los impuestos, las tasas, las contribuciones, a excepción de lo establecido en los puntos 12 y 24.a) de este anexo.
+
+27\. Inversiones relacionadas con medidas de seguridad tales como alarmas, sistemas antirrobo, barreras de seguridad y similares, así como elementos de ciberseguridad.
+
+28\. Inversiones relativas exclusivamente a la promoción y publicidad, salvo las previsiones de publicidad mencionadas en los artículos 8.1.d) y 23.
+
+29\. Sistemas antincendios, o modificación de instalaciones por motivos de seguridad laboral, salvo cuando se encuentren asociados a instalaciones de nueva construcción o ampliación de instalaciones existentes.
+
+> Se modifican los apartados 14 y 27 y se añade el 29, por el art. único.12 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifican los apartados 11, 16 y 28 por el art. 2.13 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifican los apartados 4, 11, 16 y 24 por el art. 1.9 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifican los apartados 4 y la letra a) del 24 por el art. 1.9 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifican los apartados 4, 9, 10, 25 y 26 por el art. 1.15 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Redactado el punto 16 conforme a la corrección de errores publicada en BOE núm. 312, de 30 de diciembre de 2015. [Ref. BOE-A-2015-14284](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14284)
+
+## ANEXO II — Límites máximos
+
+El importe de estos límites se aplicará también como inversión máxima a subvencionar para la adquisición de edificaciones incluido su acondicionamiento o reforma.
+
+I. Urbanización. Solamente se admitirán inversiones en cierre de la parcela, explanadas y firmes con las siguientes limitaciones:
+
+1\. En cierres el perímetro máximo subvencionable será el equivalente (igual valor) al doble de la superficie construida nueva subvencionable, con un coste máximo admisible de 35,04 euros/m, incluidos los elementos singulares.
+
+2\. En explanadas y firmes la superficie máxima atendible será igual al doble de la superficie construida nueva subvencionable, con un coste máximo admisible de 29,20 euros/m<sup>2</sup>, incluidos todos los elementos y conceptos.
+
+II. Edificaciones. Se aplicarán límites máximos de inversión subvencionable (euros/m<sup>2</sup> construido y atendible) aplicable al coste total de ejecución de la inversión en obra civil, excluidas instalaciones, e incluidas las divisiones interiores con todos sus elementos, independientemente del material utilizado. Incluirá también los locales climatizados (hasta 0 ºC), pero no las instalaciones y equipamientos de frío o calor.
+
+El importe de los límites será:
+
+1\. Límite A: 443,84 euros/m<sup>2</sup> construido, aplicable a las edificaciones con altos requisitos sanitarios y de climatización de locales. Se aplicará también a las industrias ya existentes que hagan edificaciones para ampliación de zonas de fabricación y nuevas líneas con altos requisitos sanitarios y de climatización (zonas de envasado de productos, etc.).
+
+2\. Límite B: 397,12 euros/m<sup>2</sup> construido, aplicable a las edificaciones con requisitos medios, así como industrias ya existentes que hagan edificaciones de ampliación de actividad con requisitos sanitarios y de climatización medios.
+
+3\. Límite C: 338,72 euros/m<sup>2</sup> construido, aplicable a edificaciones que hagan edificaciones sencillas destinadas al almacenamiento de materias primas, productos finales, vehículos, etc., sin especiales requisitos sanitarios ni de climatización.
+
+En función del uso de cada superficie estos límites se podrán aplicar de forma diferente dentro de la misma edificación.
+
+Estos límites podrán incrementarse hasta 70,08 euros/m<sup>2</sup> en el caso de edificaciones que requieran, por los equipamientos utilizados y cuando dicha superficie lo requiera, por su uso específico, por requisitos sanitarios o de climatización, una altura de alero superior a seis metros, o, en el caso de varias plantas, una altura libre entre plantas superior a seis metros. Este incremento no será aplicable al total de la edificación sino solamente a aquellas superficies de la misma que cumplan los requisitos.
+
+III. Acondicionamientos en edificaciones existentes Se aplicará un límite máximo de inversión subvencionable de 327,04 euros/m<sup>2</sup> útil aplicable al coste total de ejecución de la inversión en obra civil.
+
+IV. Otras limitaciones aplicables a zonas y equipos específicos:
+
+1\. En el caso de oficinas, aseos, vestuarios, comedores y otros locales y equipamientos para el personal subvencionables, la superficie admisible se evaluará conforme al número de trabajadores de las instalaciones que los vayan a utilizar.
+
+En concreto, para el conjunto "oficinas + otros locales (salas juntas/áreas sin definir funcionalidad)" se establecen 20 m²/trabajador de las instalaciones, 3 m²/trabajador en el caso de los aseos, 3 m²/trabajador para los vestuarios, 1,5 m²/trabajador para los comedores y 5 m²/trabajador en el caso de laboratorio/talleres. En cualquier caso, entre las zonas anteriores se podrán compensar las superficies que no alcancen los límites establecidos, siempre que dichos límites no se superen en conjunto.
+
+2\. En el caso de áreas dedicadas a salas de conferencias, catas, y otras relacionadas con la promoción, la superficie máxima subvencionable será de 100 m<sup>2</sup> sin que en ningún caso supere el 15 por cien de la superficie subvencionable de la instalación resultante tras la ejecución de la operación.
+
+3\. En el caso de superficies dedicadas específicamente a la exposición y venta al por menor de los productos de la empresa, la superficie máxima subvencionable será de 50 m<sup>2</sup>, sin que en ningún caso supere el 15 por cien de la superficie subvencionable resultante tras la ejecución de la operación, en el caso de que forme parte de una industria.
+
+4\. En todo caso, las inversiones relativas a todos estos conceptos se admitirán en la medida y con las características en que se acredite que contribuyen a mejorar el rendimiento global de la empresa.
+
+> Se modifica por el art. único.13 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica por el art. 1.16 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Se modifican los apartados I, IV y V por el art. 1.8 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+## ANEXO III — Criterios de valoración
+
+| Criterios de valoración | Puntuación máxima |
+|---|---|
+| *Características del solicitante* <sup>(1)</sup> *(máximo 25 puntos)* |  |
+| 1. Priorización respecto a la estructura y alcance de la EAP (máximo 17 puntos. Acumulativos): |  |
+| 1.1 EAP con más de 1.000 socios cooperativistas de base. | 1 |
+| 1.2 EAP con más de 2.000 socios cooperativistas de base. | 1 |
+| 1.3 EAP con más de 5.000 socios cooperativistas de base. | 2 |
+| 1.4 EAP con más de 20.000 socios cooperativistas de base. | 3 |
+| 1.5 EAP con empleo femenino superior al 15 %. | 2 |
+| 1.6 EAP con empleo de jóvenes menores de 41 años con un porcentaje superior al 15 %. | 2 |
+| 1.7 EAP con ámbito de actuación superior al de dos comunidades autónomas. | 1 |
+| 1.8 EAP con ámbito de actuación de la EAP superior a cinco provincias. | 1 |
+| 1.9 EAP con, al menos, un 25 % de mujeres en el Consejo Rector o en el Consejo de Administración. | 2 |
+| 1.10 EAP con, al menos, un 10 % de menores de 41 años en el Consejo Rector o en el Consejo de Administración. | 2 |
+| 2. Priorización respecto a la capacidad económica de la entidad (máximo 4 puntos): |  |
+| 2.1 Entidad con ratio patrimonio neto/activo no corriente superior o igual a 0,5 e inferior a 0,7 (en el año anterior a presentar la solicitud de inversión). | 2 |
+| 2.2 Entidad con ratio patrimonio neto/activo no corriente superior o igual a 0,7 (en el año anterior a presentar la solicitud de inversión). | 4 |
+| 3. Priorización de la relación de los objetivos estratégicos de la entidad con el objeto del proyecto. | 3 |
+| 4. Priorización de la no renuncia a ayudas en anteriores convocatorias de la medida. La entidad no ha renunciado a ningún proyecto de inversión en anteriores convocatorias, una vez concedido. | 1 |
+| *Características del proyecto (máximo 90 puntos)* |  |
+| 5. Priorización respecto a la ubicación de la futura inversión (máximo 4 puntos): |  |
+| 5.1 Inversiones que tengan lugar en regiones insulares. | 1 |
+| 5.2 Inversiones que tengan lugar en zonas rurales. | 2 |
+| 5.3 Inversiones que supongan el traslado de las instalaciones de una zona no rural a una zona rural. | 1 |
+| 6. Priorización respecto a las repercusiones económicas y sociales (máximo 7 puntos): |  |
+| 6.1 Inversión vinculada a la creación y mantenimiento<sup>(2)</sup> de empleo en la entidad. | 5 |
+| 6.2 Inversión vinculada a la creación y mantenimiento de empleo en el medio rural (excluida la creación de empleo en la entidad). | 2 |
+| 7. Priorización respecto a igualdad de género y promoción de jóvenes (máximo 4 puntos): |  |
+| 7.1 Inversión vinculada a la creación y mantenimiento de empleo femenino en al menos un 50% en los empleos creados. | 2 |
+| 7.2 Inversión vinculada a la creación y mantenimiento de empleo de jóvenes menores de 41 años en al menos un 50% de los empleos creados. | 2 |
+| 8. Priorización respecto a la transformación industrial y valor añadido (máximo 20 puntos): |  |
+| 8.1 Inversión que se destina a una mayor transformación industrial (nuevo producto) a la existente en la entidad en el momento de presentación de la solicitud. | 10 |
+| 8. 2 Inversión que conlleva una integración vertical, esto es, la inversión es parte o todo de un proyecto global que representa un paso más en la cadena alimentaria o incluye todos los pasos hasta el cierre total de la misma, propiciando que el valor añadido que permanezca en la EAP sea el máximo. | 10 |
+| 9. Priorización del potencial de concentración de la oferta del producto (máximo 10 puntos. No acumulativos): |  |
+| 9.1 Inversión que conlleva un incremento del 5 % de la cantidad de producto (en kg o litros) que concentra la EAP, como consecuencia de la inversión. | 5 |
+| 9.2 Inversión que conlleva un incremento del 10 % de la cantidad de producto (en kg o litros) que concentra la EAP, como consecuencia de la inversión. | 10 |
+| 10. Priorización de la orientación hacia mercados exteriores (puntuación máxima 6 puntos): |  |
+| 10.1 Inversión que conlleva, al menos, un volumen del 10 % destinado al comercio exterior en mercados distintos del nacional. | 3 |
+| 10.2 Inversión que conlleva, al menos, un volumen del 10 % destinado al comercio exterior en países fuera de la UE. | 3 |
+| 11. Priorización de requisitos de calidad y cumplimiento de criterios medioambientales (máximo 8 puntos): |  |
+| 11.1 Inversión que lleva aparejada la puesta en marcha de algún tipo de certificación en aseguramiento de la calidad, basado en estándares internacionalmente reconocidos. | 2 |
+| 11.2 Inversión que lleva aparejada la puesta en marcha de algún tipo de certificación relacionada con criterios medioambientales, basados en estándares internacionalmente reconocidos. | 2 |
+| 11.3 Inversión que se orienta, en todo o en parte, a la producción bajo una figura de calidad diferenciada reconocida (DOP, IGP, ETG). | 2 |
+| 11.4 Inversión que se orienta, en todo o en parte, a la producción ecológica. | 2 |
+| 12. Priorización del incremento de la sostenibilidad, eficiencia energética, uso de energías renovables, reducción y valorización de residuos y desperdicio alimentario (máximo 21 puntos): |  |
+| 12.1 Inversión en la que se destina, al menos, el 15% del presupuesto del proyecto a la mejora de la eficiencia energética y/o a la reducción del consumo hídrico<sup>(3)</sup>. | 5 |
+| 12. 2 Inversión en la que se destina, al menos, el 15% del presupuesto del proyecto a la valorización, tratamiento y/o gestión de residuos y/o efluentes líquidos. | 5 |
+| 12.3 Inversión en la que se destina, al menos, el 10% del presupuesto del proyecto a la utilización de energía renovable (biomasa, eólica, solar, geotérmica…), para los procesos de transformación, electricidad o climatización y exclusivamente destinada al autoconsumo. | 5 |
+| 12.4 Inversión en la que se destina, al menos, el 10% del presupuesto del proyecto a la reducción del desperdicio alimentario. | 5 |
+| 12.5 Inversión que contribuye a la mejora de la sostenibilidad, la reducción de los impactos ambientales y/o la mitigación del cambio climático, mediante procesos no contemplados en lo anteriores. | 1 |
+| 13. Priorización de la utilización de las Mejores Técnicas disponibles. La inversión contempla las Mejores Técnicas Disponibles (MTD) propias de su sector de actividad, que permitan conseguir mejores niveles productivos con menor consumo de recursos<sup>(4)</sup>. | 5 |
+| 14. Inversión que se orienta a la implantación de la industria 4.0 (industria conectada)<sup>(5)</sup>. | 4 |
+| 15. Priorización del desarrollo de la innovación. La inversión está relacionada con el resultado de un proyecto de innovación de la Asociación Europea para la Innovación (EIP). | 1 |
+
+<sup>(1)</sup> En el caso de entidades mercantiles, los criterios relacionados con la EAP se aplicarán a la entidad con mayor participación accionarial.
+
+<sup>(2)</sup> Vinculado a la durabilidad de la inversión.
+
+<sup>(3)</sup> Deberá aportarse un certificado emitido por un experto independiente que lo acredite.
+
+<sup>(4)</sup> Para acreditarlo, en la memoria que acompañe a la solicitud de ayuda, se justificará expresamente y de forma razonada en qué medida las inversiones contemplan la aplicación de la MTD.
+
+<sup>(5)</sup> La inversión contemplará la incorporación o desarrollo de técnicas avanzadas y tecnologías inteligentes (aplicaciones innovadoras de gestión, soluciones de negocio interempresa, tratamiento masivo de datos, robótica avanzada, sensores y sistemas embebidos) como medio para conseguir incrementar la competitividad y mejorar el posicionamiento de la entidad. Deberá aportarse un informe del análisis de la madurez digital de la empresa (Herramienta de Autodiagnóstico Digital Avanzada "HADA").
+
+> Se modifica por el art. 1.10 del Real Decreto 137/2020, de 28 de enero. [Ref. BOE-A-2020-1245](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-1245)
+
+> Se modifican los apartados 1.1.7 y 1.1.8 por el art. 1.10 del Real Decreto 2/2019, de 11 de enero. [Ref. BOE-A-2019-318](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-318)
+
+> Se modifica los apartados 1.1.4, 1.1.8 y 2.3.2 por el art. 1.16 del Real Decreto 21/2018, de 19 de enero. [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716)
+
+> Téngase en cuenta la cláusula suspensiva establecida por la disposición transitoria segunda del citado Real Decreto.
+
+> Se modifican los apartados 1.4.1 y 2.1.3 por el art. 1.9 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+> Se modifica el apartado 1.2 por la disposición final 2.5 del Real Decreto 126/2016, de 1 de abril. [Ref. BOE-A-2016-3159](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3159)
+
+## ANEXO IV — Documento de compromiso
+
+El documento de compromiso de colaboración en las labores de seguimiento y evaluación que se menciona en el artículo 11.16 tendrá el siguiente texto:
+
+El abajo firmante, representante del solicitante de una subvención (Nombre empresa/entidad XXXX), convocada mediante (nombre de la CONVOCATORIA) y regulada en sus aspectos básicos mediante el Real Decreto 1010/2015, de 6 de noviembre, declara:
+
+Que conoce sus obligaciones respecto al artículo 71 del Reglamento (UE) n.º 1305/2013, del Parlamento Europeo y del Consejo de 17 de diciembre de 2013, relativo a la ayuda al desarrollo rural a través del Fondo Europeo Agrícola de Desarrollo Rural (FEADER) y por el que se deroga el Reglamento (CE) n.º 1698/2005 del Consejo y, por tanto, se compromete a aportar los datos y toda la información no confidencial necesaria para que pueda realizarse el análisis de la contribución de las actividades que realizará de forma subvencionada a los objetivos y prioridades del Programa Nacional de Desarrollo Rural, si la citada subvención es concedida.
+
+Que estos datos e informaciones serán aportados en el plazo máximo de 15 días, cuando se lo requieran los organismos encargados de la ejecución del Programa Nacional de Desarrollo Rural o los evaluadores designados a tal efecto.
+
+Que esta aportación de datos e información será atendida tanto si es requerida de forma escrita como mediante encuesta presencial, telefónica, mediante formularios enviados por correo electrónico o formularios vía web.
+
+> Se añade por el art. 1.10 del Real Decreto 702/2016, de 23 de diciembre. [Ref. BOE-A-2016-12275](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12275)
+
+> Información relacionada
+
+> Téngase en cuenta que las modificaciones introducidas al presente Real Decreto en las bases reguladoras de la concesión de ayudas a la integración asociativa y la dinamización industrial, por el art. 1 del Real Decreto 21/2018, de 19 de enero, [Ref. BOE-A-2018-716](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-716), están condicionadas a la aprobación definitiva de la modificación del Programa Nacional de Desarrollo Rural por parte de la Comisión Europea, según establece la disposición transitoria 2 del citado Real Decreto.

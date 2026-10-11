@@ -1,0 +1,887 @@
+---
+title: "Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación"
+identifier: "BOE-A-2009-20651"
+eli: "https://www.boe.es/eli/es/rd/2009/12/04/1850"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación"
+date: 2009-12-04
+published: 2009-12-22
+in_force_from: 2009-12-23
+last_amended: 2023-07-22
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 307"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20651"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+
+Incluye la corrección de errores publicada en BOE núm. 308, de 23 de diciembre de 2009. [Ref. BOE-A-2009-20727](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20727).
+
+Esta norma pasa a denominarse **"Real Decreto 1850/2009, de 4 de diciembre, sobre expedición de títulos y certificaciones académicas y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación"**, según establece la disposición final 3.1 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+La Constitución española establece, en su artículo 149.1.30.ª, como competencia exclusiva del Estado, la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en la materia.
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, en su artículo 6.5 especifica que los títulos correspondientes a las enseñanzas reguladas por esta ley serán homologados por el Estado y expedidos por las Administraciones educativas en las condiciones previstas en la legislación vigente y en las normas básicas y específicas que al efecto se dicten.
+
+Para dar cumplimiento a lo dispuesto en el citado artículo, procede aprobar tales normas reguladoras de las condiciones en las que habrá de llevarse a cabo, por las Administraciones educativas competentes, la expedición de títulos correspondientes a estudios establecidos por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, garantizando su carácter oficial, a efectos de su validez en todo el territorio español y de su reconocimiento internacional.
+
+En el proceso de elaboración de este real decreto, han sido consultadas las comunidades autónomas en el seno de la Comisión General de Educación de la Conferencia Sectorial de Educación y han emitido informe el Consejo Escolar del Estado, el Ministerio de Política Territorial y la Agencia Española de Protección de Datos.
+
+En su virtud, a propuesta del Ministro de Educación, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 2009,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+1\. El presente real decreto tiene por objeto la regulación de los requisitos y el procedimiento para la expedición de los títulos y certificaciones académicas oficiales correspondientes a las enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, de acuerdo con lo establecido en el artículo 6 bis 1.d de dicha ley orgánica.
+
+2\. Los títulos académicos y profesionales acreditativos de la superación de las enseñanzas reguladas en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, con validez en todo el territorio nacional, serán expedidos por la Administración educativa a cuyo ámbito de competencia pertenezca el centro docente en el que se hayan concluido los estudios correspondientes.
+
+3\. Los títulos profesionales básicos solicitados en aplicación del artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, serán expedidos por la Administración educativa a cuyo ámbito de competencia pertenezca el centro público con oferta de Formación Profesional donde se haya solicitado el título correspondiente. El centro deberá abrir un expediente en el que conste la acreditación de las unidades de competencia profesional incluidas en el título, así como la justificación del cumplimiento del requisito de edad.
+
+4\. Se establecen las condiciones y el procedimiento por el que las Administraciones educativas expedirán, en su caso, junto con los títulos oficiales correspondientes a las enseñanzas artísticas superiores establecidas por la Ley Orgánica 2/2006, de 3 de mayo, el Suplemento Europeo al Título, con el fin de promover la movilidad de titulados en el espacio europeo de educación superior.
+
+5\. Las acreditaciones de los cursos de especialización de formación profesional de grado medio y grado superior cursados antes de la entrada en vigor de la Ley Orgánica 3/2022 en aplicación del artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, serán expedidos por la Administración educativa a cuyo ámbito de competencia pertenezca el centro público con oferta de Formación Profesional donde se haya solicitado la acreditación correspondiente.
+
+6\. Se regula el procedimiento para la expedición de los títulos de Especialista y Máster de Formación Profesional, correspondiente a las enseñanzas de los cursos de especialización de Formación Profesional establecidos por la Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional.
+
+> Se modifica el apartado 1 y se añaden los apartados 5 y 6 por la disposición final 3.2 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Se modifica el apartado 4 por el art. único.1 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Esta modificación entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+> Se modifica el apartado 1 y se añade el apartado 4 por el art. único.1 del Real Decreto 197/2015, de 23 de marzo. [Ref. BOE-A-2015-3937](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3937).
+
+> Se añade el apartado 3 por la disposición final 1.1 del Real Decreto 127/2014, de 28 de febrero. [Ref. BOE-A-2014-2360](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2360).
+
+## Artículo 2. Modelo general de título.
+
+1\. Los títulos y certificaciones académicas serán expedidos en nombre del Rey, por el titular del Ministerio de Educación y Formación Profesional o por el titular del órgano correspondiente de la comunidad autónoma de que se trate, de acuerdo con los modelos que se incluyen como anexos I, I bis, I ter y I quater, así como los modelos establecidos en los anexos XII.4, XII.5, XII.6, XII.7 y XII.8 del Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional, según corresponda, con la totalidad de los elementos identificativos que figuran en los mismos. La denominación de los títulos quedará reservada en exclusiva para cada uno de ellos.
+
+2\. Los títulos se expedirán en castellano con las especificaciones y diligencias que sobre su texto se establecen en el anexo II y en la cartulina soporte cuyas características mínimas se determinan en el anexo III. Las comunidades autónomas con lengua cooficial distinta del castellano podrán expedir los títulos en castellano o en texto bilingüe. En este caso se expedirán en un solo documento redactado en castellano y en la otra lengua oficial de la comunidad autónoma, en tipos de letra de igual rango.
+
+> Se modifica el apartado 1 por la disposición final 3.3 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 562/2017, de 2 de junio. [Ref. BOE-A-2017-6250](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-6250)
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 197/2015, de 23 de marzo. [Ref. BOE-A-2015-3937](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3937).
+
+> Se modifica el apartado 1 por la disposición final 1.2 del Real Decreto 127/2014, de 28 de febrero. [Ref. BOE-A-2014-2360](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2360).
+
+## Artículo 3. Iniciación del procedimiento.
+
+1\. El procedimiento de expedición de títulos se iniciará a solicitud del interesado y previo pago de las tasas correspondientes.
+
+2\. La propuesta de expedición de un título sólo podrá efectuarse si el interesado ha cumplido previamente los requisitos que para su obtención exigen las normas vigentes y ha abonado, en su caso, las correspondientes tasas.
+
+3\. Las Administraciones educativas, en su ámbito de competencias, establecerán el procedimiento de tramitación de las solicitudes, así como los plazos para resolver la expedición de los títulos y certificaciones académicas, de acuerdo con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+4\. Cuando el interesado reúna las condiciones de obtención del título, haya solicitado éste y haya abonado las tasas correspondientes, el centro docente, previa solicitud de interesado, expedirá una certificación supletoria provisional que sustituirá al título y gozará de idéntico valor a efectos del ejercicio de los derechos inherentes al mismo, en la que se incluyan los datos esenciales del título y, en su caso, del Suplemento Europeo que deberá acompañar al título.
+
+> Se modifica el apartado 3 por la disposición final 3.4 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Se añade el apartado 4 por el art. único.3 del Real Decreto 197/2015, de 23 de marzo. [Ref. BOE-A-2015-3937](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3937)
+
+## Artículo 4. Registros de las Administraciones públicas.
+
+1\. Los títulos quedarán inscritos en el Registro público de titulados que a estos efectos existe en cada una de las Administraciones educativas competentes.
+
+2\. Sin perjuicio de los criterios de organización y funcionamiento que establezcan para su Registro, cada Administración educativa deberá atribuir a cada título un código que se imprimirá en el mismo como medida de autenticidad y que formará parte de la clave registral identificativa del carácter oficial del título.
+
+3\. Respecto a la constitución y funcionamiento de estos registros y en particular en el acceso a sus datos, se observarán las previsiones que establece la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, así como los artículos en vigor de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y las contenidas en el artículo 13.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifica el apartado 3 por la disposición final 3.5 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+## Artículo 5. Registro central de títulos.
+
+1\. Antes de la impresión de los títulos, las Administraciones educativas remitirán al Registro Central de Títulos del Ministerio de Educación, los datos correspondientes a los mismos para su integración en dicho Registro Central, así como para la asignación del número correspondiente, que se imprimirá en el título, formando parte de la clave identificativa oficial de los mismos.
+
+2\. Al Registro central de títulos le será de aplicación lo dispuesto en el apartado 3 del artículo 4.
+
+## Artículo 6. Tasas.
+
+Las tasas que hayan de abonar los interesados, en los casos y por los conceptos que procedan, constituirán ingresos exigibles por la Administración que expida los títulos.
+
+## Artículo 7. Procedimiento de reexpedición.
+
+1\. Los títulos cuya expedición se regula en este real decreto son documentos públicos. Cualquier modificación, alteración o enmienda que legalmente proceda efectuar en su contenido exigirá su reexpedición material por procedimiento análogo al seguido para la expedición del original.
+
+Procederá la expedición de duplicado de un título en los casos de extravío, destrucción total o parcial, o rectificación del original. Cuando la expedición de un duplicado se deba a causas atribuibles al interesado, correrá a su cargo el abono de las correspondientes tasas.
+
+2\. En el duplicado que se expida deberán figurar impresas las mismas claves registrales que en el original respectivo.
+
+## Artículo 8. Expedición del Suplemento Europeo al Título de las enseñanzas artísticas superiores.
+
+Una vez superados los estudios conducentes a la obtención de un Título Superior de Enseñanzas Artísticas o de un Título de Máster en Enseñanzas Artísticas, las Administraciones educativas expedirán junto al mismo y previa solicitud de la persona interesada, el Suplemento Europeo al Título. La primera expedición del Suplemento Europeo al Título tendrá carácter gratuito.
+
+Una vez expedido un Suplemento Europeo al Título, en el caso de superarse otros itinerarios del mismo título y especialidad, la información correspondiente a las enseñanzas de cada nuevo itinerario superado se incorporará al Suplemento mediante la adición de un Anexo de Itinerario. Dicho anexo lo expedirá, previa solicitud de la persona interesada, la Administración educativa donde se hayan finalizado los estudios del itinerario. La primera expedición tendrá carácter gratuito.
+
+> Se modifica por el art. único.2 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Esta modificación entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+> Se añade por el art. único.4 del Real Decreto 197/2015, de 23 de marzo. [Ref. BOE-A-2015-3937](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3937).
+
+## Artículo 9. Contenido del Suplemento Europeo al Título.
+
+1\. El Suplemento Europeo al Título deberá contener la información siguiente de acuerdo con el modelo establecido en el anexo IV de este real decreto, para los Títulos Superiores de Enseñanzas Artísticas y de Máster en Enseñanzas Artísticas:
+
+1) Datos identificativos de la persona titulada.
+
+2) Información sobre la titulación.
+
+3) Información sobre el nivel de la titulación.
+
+4) Información sobre los contenidos y resultados obtenidos.
+
+5) Información sobre la función de la titulación.
+
+6) Información adicional.
+
+7) Certificación del suplemento.
+
+8) Información sobre el sistema nacional de educación superior.
+
+2\. En los anexos de Itinerario que se adicionen al Suplemento Europeo al Título deberá figurar, al menos, la siguiente información de acuerdo con el modelo establecido en el anexo V:
+
+1) Datos identificativos de la persona titulada.
+
+2) Información sobre el título, especialidad e itinerario superado.
+
+3) Información sobre los contenidos y resultados obtenidos específicos del itinerario.
+
+4) Certificación del anexo de Itinerario.
+
+> Se añade por el art. único.3 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Este artículo entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+## Artículo 10. Soporte documental y personalización del Suplemento Europeo al Título.
+
+1\. El documento soporte de los Suplementos Europeos al Título y, en su caso, de los anexos de Itinerario que se expidan, será de idéntico tamaño para todos ellos, normalizado en formato UNE A-4 y en modelo papel de seguridad. Las características técnicas del papel deberán responder a las especificadas en el anexo VI.
+
+2\. En los documentos se incorporará impreso el Escudo Nacional. Asimismo se incluirán el escudo de la Unión Europea y el de la Comunidad Autónoma, cuyos tamaños no podrán ser mayores que el del Escudo Nacional.
+
+3\. Las lenguas de expedición serán, al menos, castellano e inglés; de forma adicional a estas lenguas también podrá expedirse en otra lengua oficial de la Unión Europea que la Comunidad Autónoma determine, así como en la lengua cooficial de la Comunidad Autónoma.
+
+4\. En todas las páginas figurará el número de Registro Autonómico de Títulos y número de Registro Central de Títulos, más un número secuencial cuyo control corresponderá a las unidades responsables de su expedición. Asimismo, cada Administración educativa efectuará en cada hoja una estampación en seco de su sello oficial, correspondiente al utilizado en los títulos que expida. En el margen inferior de cada hoja se incluirá una línea con el siguiente texto: «Este documento se expide en papel de seguridad con sello en seco».
+
+5\. De forma opcional, se podrá incluir en la versión en papel el código de verificación de la versión digital.
+
+> Se añade por el art. único.4 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Este artículo entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+> Téngase en cuenta, para la validez de los Suplementos Europeos al Título expedidos con anterioridad, la disposición adicional única del Real Decreto 700/2019.
+
+## Artículo 11. Formato electrónico del Suplemento Europeo al Título.
+
+Las Administraciones educativas podrán expedir el Suplemento Europeo al Título y, en su caso, sus correspondientes Anexos de Itinerario de forma electrónica, con la misma estructura y contenidos y con las medidas de seguridad detalladas en el anexo VII. El documento estará disponible en la Sede Electrónica de la Administración educativa correspondiente.
+
+> Se añade por el art. único.5 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Este artículo entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+## Disposición adicional primera. Títulos obtenidos en centros españoles en el extranjero.
+
+La expedición de los títulos correspondientes a estudios terminados en los centros a los que se refiere el Real Decreto 1027/1993, de 25 de junio, por el que se regula la acción educativa en el exterior, será realizada por el Ministerio de Educación.
+
+## Disposición adicional segunda. Títulos anteriores a la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+
+La expedición de los títulos, diplomas y certificados correspondientes a los sistemas educativos anteriores al establecido por la Ley Orgánica 2/2006, de 3 de mayo, seguirá rigiéndose por el Real Decreto 1564/1982, de 18 de junio y Real Decreto 733/1995, de 5 de mayo, así como por sus normas complementarias.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el número duodécimo, apartado 2, así como la referencia que se hace al mismo en el apartado 3, de la Orden de 24 de agosto de 1988 por la que se regula el procedimiento de expedición de los títulos, diplomas y certificados correspondientes a los estudios de educación general básica, bachillerato, formación profesional y enseñanzas artísticas.
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo del artículo 149.1.30.ª de la Constitución, según el cual corresponde al Estado la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.
+
+## Disposición final segunda. Desarrollo normativo.
+
+Se habilita al Ministro de Educación, previo informe del Consejo Escolar del Estado y la Agencia Española de Protección de Datos, para desarrollar, cuando ello sea preciso, el presente real decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 4 de diciembre de 2009.
+
+JUAN CARLOS R.
+
+El Ministro de Educación,
+
+ÁNGEL GABILONDO PUJOL
+
+## ANEXO I — Modelo general de texto de título
+
+JUAN CARLOS I, REY DE ESPAÑA
+
+y en su nombre el/la (1)
+
+Considerando que, conforme a las disposiciones y circunstancias prevenidas por la legislación vigente,
+
+Don/doña, nacido/a el día ............. de ........................... de ............ en ......................, de nacionalidad ..........................., con DNI o pasaporte ..........................., ha superado los estudios regulados en (2) ............... y en (3) ................., en (4) .................., en (5) ..........., con la calificación de (6) ...................., expide a su favor, el presente Título de ................, en la especialidad/profesión/modalidad/etc. (en su caso) con carácter oficial y validez en todo el territorio español que le faculta para ejercer los derechos que a este título otorgan las disposiciones vigentes.
+
+Lugar, a .. de .…. de .…
+
+| El/la interesado/a, | El/la (1) | El/la Director/a general<br> de ......................., o titular del Órgano competente. |
+|---|---|---|
+
+(1) El Ministro de Educación o el titular del Órgano correspondiente de la Comunidad Autónoma respectiva.
+
+(2) Real Decreto por el que se establecen las enseñanzas mínimas.
+
+(3) Norma que aprueba el currículo.
+
+(4) Centro docente donde el alumno finalizó los correspondientes estudios (con expresión de su denominación, municipio y provincia).
+
+(5) Mes y año de finalización de los estudios o superación de la prueba final.
+
+(6) La expresión «con la calificación de» se incluirá solamente en aquellos supuestos en los que exista tal calificación final o nota media, en virtud de una norma de carácter básico.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 308, de 23 de diciembre de 2009. [Ref. BOE-A-2009-20727](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20727).
+
+## ANEXO I BIS — Modelos de los títulos de las enseñanzas artísticas superiores
+
+A. MODELO DEL TÍTULO DE GRADO EN ENSEÑANZAS ARTÍSTICAS SUPERIORES
+
+FELIPE VI, REY DE ESPAÑA
+
+y en su nombre el/la (1)
+
+Considerando que, conforme a las disposiciones y circunstancias prevenidas por la legislación vigente,
+
+Don/Doña, nacido/a el día ....... de ............................... de ..................... en ..........................., de nacionalidad ................................., con documento de identidad n.° .............., ha superado los estudios regulados en (2) .............. y en (3) ................, en (4) ................, en (5) ............ expide a su favor, el presente Título de Grado en Enseñanzas Artísticas Superiores de ................................................ especialidad .................................. con carácter oficial y validez en todo el territorio español, que le faculta para ejercer los derechos que a este título otorgan las disposiciones vigentes.
+
+Lugar, a ........ de ................................... de .................
+
+El/la interesado/a, El/la (1) El titular del órgano competente.
+
+(1) El titular del órgano competente de la Administración educativa respectiva.
+
+(2) Real Decreto por el que se establecen los contenidos básicos.
+
+(3) Norma que aprueba el plan de estudios.
+
+(4) Centro docente donde el alumno finalizó los correspondientes estudios (con expresión de su denominación, municipio y provincia) o, en su caso, centros docentes, nacionales o extranjeros, donde el alumno los cursó.
+
+(5) Mes y año de finalización de los estudios.
+
+B. MÁSTER EN ENSEÑANZAS ARTÍSTICAS
+
+FELIPE VI, REY DE ESPAÑA
+
+y en su nombre el/la (1)
+
+Considerando que, conforme a las disposiciones y circunstancias prevenidas por la legislación vigente,
+
+Don/Doña, nacido/a el día ....... de ............... de ..................... en ..........................., de nacionalidad ................................., con documento de identidad n.° .............., ha superado los estudios regulados en (2) .............. y en (3) ................, en (4) ................, en (5) ............ expide a su favor, el presente Título de Máster en Enseñanzas Artísticas (6) ................................................ con carácter oficial y validez en todo el territorio español, que le faculta para ejercer los derechos que a este título otorgan las disposiciones vigentes.
+
+Lugar, a ................ de ................................... de .................
+
+El/la interesado/a, El/la (1) El titular del órgano competente.
+
+(1) El titular del órgano competente de la Administración educativa respectiva.
+
+(2) Real Decreto por el que se regulan las enseñanzas de Máster en Enseñanzas Artísticas.
+
+(3) Fecha de publicación en el BOE de la Orden de homologación del plan de estudios por el Ministerio de Educación, Cultura y Deporte.
+
+(4) Centro docente donde el alumno finalizó los correspondientes estudios (con expresión de su denominación, municipio y provincia) o, en su caso, centros docentes, nacionales o extranjeros, donde el alumno los cursó.
+
+(5) Mes y año de finalización de los estudios.
+
+(6) Denominación específica del título de Máster en Enseñanzas Artísticas.
+
+> Se renumera por la disposición final 3.6 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Anteriormente era el anexo I ter.
+
+## ANEXO I TER — Modelo general del texto de título de Graduado en Educación Secundaria Obligatoria expedido en aplicación de lo dispuesto en el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa y su normativa de desarrollo
+
+FELIPE VI, REY DE ESPAÑA
+
+y en su nombre el/la (1)
+
+Considerando que, conforme a las disposiciones y circunstancias prevenidas por la legislación vigente,
+
+Don/doña, nacido/a el día ........ de ........................... de ............. en ......................, de nacionalidad .................................................., con DNI, pasaporte o NIE ...................................., ha superado los estudios regulados en (2) ............................. y en (3) ..............................., y cumple los requisitos de titulación, en (4) .........................................., en (5) ...................................., con la calificación de ...................., expide a su favor el presente título de Graduado/a en Educación Secundaria Obligatoria, con carácter oficial y validez en todo el territorio español que le faculta para ejercer los derechos que a este título otorgan las disposiciones vigentes.
+
+Lugar, a ....... de.…................ de.…
+
+| El/la interesado/a, | El/la (1) | El/la Director/a general de ................................., o titular del órgano competente. |
+|---|---|---|
+
+(1) El Ministro de Educación o el titular del órgano correspondiente de la Comunidad Autónoma respectiva.
+
+(2) Real Decreto por el que se establece el currículo básico de Educación Secundaria Obligatoria.
+
+(3) Norma que aprueba el currículo.
+
+(4) Centro docente donde el alumno finalizó los correspondientes estudios (con expresión de su denominación, municipio y provincia).
+
+(5) Mes y año de finalización de los estudios o superación de la prueba final
+
+> Se renumera por la disposición final 3.6 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Anteriormente era el anexo I quater.
+
+## ANEXO I QUATER — Modelo general del texto de título de Graduado en Educación Secundaria Obligatoria expedido de acuerdo con la disposición transitoria única del Real Decreto 1058/2015, 20 de noviembre, por el que se regulan las características generales de las pruebas de la evaluación final de Educación Primaria establecida en la Ley Orgánica 2/2006, de 3 de mayo, de Educación
+
+FELIPE VI, REY DE ESPAÑA
+
+Y en su nombre el/la (1)
+
+Considerando que, conforme a las disposiciones y circunstancias prevenidas por la legislación vigente,
+
+Don/doña ........................................................................................................, nacido/a el día ....... de ................................. de ................. en ..............................., ................................., de nacionalidad ...................., con DNI, pasaporte o NIE n.º ............................ cumple los requisitos establecidos en la disposición transitoria única del Real Decreto 1058/2015, de 20 de noviembre, expide a su favor, el presente título de Graduado/a en Educación Secundaria Obligatoria, con la calificación final de ………............…………. (2), solicitado en el centro (3) .........…………………………, con carácter oficial y validez en todo el territorio español que le faculta para ejercer los derechos que a este título otorgan las disposiciones vigentes.
+
+Lugar, a ......... de.…................. de.…
+
+| El/la interesado/a, | El/la (1) | El/la Director/a general de ................................., o titular del órgano competente. |
+|---|---|---|
+
+(1) El Ministro de Educación, Cultura y Deporte o el titular del órgano correspondiente de la Comunidad Autónoma respectiva.
+
+(2) Calificación final según lo dispuesto en la disposición transitoria única del Real Decreto 1058/2015, de 20 de noviembre.
+
+(3) Centro educativo en el que se solicitó el título correspondiente (con expresión de la denominación, municipio y provincia).
+
+> Se renumera por la disposición final 3.6 del Real Decreto 659/2023, de 18 de julio. [Ref. BOE-A-2023-16889](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16889)
+
+> Anteriormente era el anexo I quintus.
+
+## ANEXO II
+
+Especificaciones que deben reunir los textos de los títulos académicos y profesionales correspondientes a las enseñanzas establecidas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación:
+
+Los títulos mencionados serán expedidos de acuerdo con los siguientes requisitos:
+
+Primero.
+
+a) El soporte de los títulos será del material especificado en el anexo III de este real decreto y llevará incorporado determinadas marcas de seguridad.
+
+En el proceso de impresión de atributos y en la personalización de los títulos se incorporarán, asimismo, marcas de seguridad contra la falsificación.
+
+Por razones de seguridad, las características básicas de los soportes que se determinan en este real decreto podrán ser actualizadas por el Ministerio de Educación en coordinación con las Administraciones autonómicas.
+
+b) Los soportes llevarán incorporado el Escudo de España con las características definidas por la Ley 33/1981, de 5 de octubre, el Real Decreto 2964/1981, de 18 de diciembre, y el Real Decreto 2267/1982, de 3 de septiembre.
+
+c) Estarán numerados mediante series alfanuméricas cuyo control corresponderá a las Unidades responsables del proceso de expedición y contendrán las características que los identifiquen como soporte de un título con validez en todo el territorio nacional. Asimismo las Comunidades Autónomas podrán incorporar a los títulos que expidan su propio Escudo u otros, de tamaño no superior que el Escudo de España, así como las orlas, colores y grafismos que estimen convenientes.
+
+d) Los títulos llevarán impreso todo su texto así como las firmas de los cargos que tengan la competencia atribuida en la Administración de la Comunidad Autónoma respectiva. Los títulos que corresponde expedir al Ministro de Educación llevarán impresa la firma de dicha Autoridad y la del Director General del Departamento que tenga atribuida la competencia.
+
+e) No se incorporará inscripción alguna no impresa en el anverso, salvo la firma del interesado.
+
+f) Cada Administración expedidora, previamente a la entrega del correspondiente título al interesado, incorporará un sello en seco del motivo de su elección, en todos los títulos que expida. Las Comunidades Autónomas remitirán previamente muestra de dicho motivo al Ministerio de Educación a efectos de conocimiento y garantía de seguridad.
+
+Segundo.
+
+1\. En el anverso de los títulos, según modelo general del anexo I, deberán figurar, necesariamente, las siguientes menciones:
+
+a) Referencia expresa a que el título se expide en nombre del Rey por el Ministro de Educación o autoridad de la Comunidad Autónoma competente en la materia, según corresponda por razón del territorio, con arreglo a la siguiente fórmula: Juan Carlos I, Rey de España, y en su nombre el Ministro de Educación/el Órgano correspondiente de la Comunidad Autónoma. La mención «Juan Carlos I, Rey de España» se imprimirá en la parte superior central del título, en tipo de letra más destacado y exclusivamente en castellano.
+
+b) Expresión de que el título se expide para acreditar la superación de los estudios conducentes a la obtención del título que proceda, incluida la mención relativa a la especialidad, profesión, modalidad, etc., de acuerdo con lo previsto en el artículo 2 del presente real decreto y normas concordantes y con los efectos que otorgan las disposiciones vigentes.
+
+b.bis) En el caso de que el título se expida en base a lo dispuesto en el artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se deberá hacer constar, en lugar de lo indicado en el apartado 1.b, lo siguiente: «este título se expide en aplicación del artículo 44 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación. Deberá incluir la mención relativa a la especialidad de acuerdo con lo previsto en el artículo 2 de este real decreto y normas concordantes.
+
+c) Nombre y apellidos –en letra destacada–, lugar y fecha de nacimiento y nacionalidad del interesado, tal como figuren en su documento nacional de identidad, pasaporte, cédula de identidad o documento oficial análogo de su país de origen.
+
+d) Denominación y localización del centro en el que finalizaron los estudios conducentes a la obtención de la titulación correspondiente; mes y año en que el alumno finalizó dichos estudios y, si procede legalmente, calificación final obtenida.
+
+d.bis) Deberán constar la denominación y localización del centro en el que se solicitó el título correspondiente, mes y año.
+
+e) Lugar y fecha de expedición del título. Esta última coincidirá con la del pago de los derechos de expedición y, en el caso de que sea gratuito por exención de la tasa, con la fecha de la solicitud. En los títulos que hayan de expedirse de oficio, la fecha de expedición coincidirá con la fecha de la propuesta formulada por el centro docente.
+
+f) Claves identificativas del carácter oficial del título, que estarán compuestas por el código del Registro oficial de titulados de la Comunidad Autónoma respectiva y por el número asignado por el Registro Central de Títulos.
+
+2\. En el anverso de los títulos figurarán tres firmas. En el caso de las Comunidades Autónomas, la del Órgano que corresponda, la del titular del Órgano Directivo responsable del control de la expedición de los títulos de la Comunidad y la del interesado. En los títulos que expida el Ministerio de Educación las firmas serán las del Ministro, Director General responsable de la expedición e interesado. En ambos supuestos las dos firmas primeras irán impresas.
+
+En el anverso deberá figurar, asimismo, la mención a las normas que amparan la oficialidad de los estudios, tanto las de ámbito estatal como las propias de la Comunidad Autónoma, y las que afecten a su eficacia. Si se trata de expedición de un duplicado se hará constar, en su caso, mediante alguna de las diligencias que se incluyen en el apartado tercero de este anexo.
+
+En el caso de títulos bilingües, dichas diligencias podrán imprimirse en castellano y en la otra lengua cooficial de la Comunidad Autónoma respectiva.
+
+3\. En el reverso -ángulo superior izquierdo- se imprimirá, en primer lugar, la diligencia relativa al asiento en el Libro de Registro de recepción y entrega de títulos que se lleve en el centro docente responsable de garantizar su control.
+
+En la parte inferior del reverso se reservará espacio para las diligencias necesarias (colegiación, legalización, etc.).
+
+Tercero.–Modelos de diligencias que deberán imprimirse, en cada caso, en la parte inferior izquierda del anverso del título o certificado, bajo el lugar destinado a la firma del interesado en los supuestos que se indican:
+
+Textos de las diligencias/Modelos de tipos de títulos y norma aplicable:
+
+Este título sustituye al expedido con fecha ..................................................... por (1)
+
+(1) Extravío.
+
+(1) Deterioro.
+
+(1) Rectificación.
+
+(1) Cambio de nombre y/o apellidos, nacionalidad, etc., por causa legal, etc./Títulos que se expiden con carácter de duplicado. (Artículo 7 del presente Real Decreto.)
+
+Este título queda invalidado por fallecimiento del titular./Títulos cuyo poseedor haya fallecido.
+
+Este título es equivalente al oficial de …………………., según establece el artículo….. de ........../Títulos a los que se reconoce oficialmente la equivalencia con otros oficiales con validez en todo el territorio español.
+
+> Se añaden las letras b.bis) y d.bis) al apartado 2.1 por la disposición final 1.4 del Real Decreto 127/2014, de 28 de febrero. [Ref. BOE-A-2014-2360](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2360).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 308, de 23 de diciembre de 2009. [Ref. BOE-A-2009-20727](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20727).
+
+## ANEXO III — Materiales de los soportes, características mínimas de seguridad, formatos y tamaños
+
+1\. Características de los elementos a emplear:
+
+a) Papel:
+
+1.º Composición fibrosa: sin pasta mecánica (o similares), ni pasta semiquímica.
+
+2.º Grado de blancura de 80 a 86 por 100 (norma UNE 57-062).
+
+3.º Opacidad: > 93 por 100 (UNE 57-063).
+
+4.º Porosidad: entre 100 y 200 ml/min medido en aparato Bendtsen (UNE 57-066).
+
+5.º Lisura: entre 150 y 300 ml/min medido en aparato Bendtsen (UNE 57-080).
+
+6.º Resistencia mecánica a la rotura (UNE 57-028):
+
+Longitud de rotura en sentido longitudinal ≥ 5,8 km.
+
+Longitud de rotura en sentido transversal ≥ 3 km.
+
+7.º Alargamiento:
+
+En sentido longitudinal ≥ 2 por 100.
+
+En sentido transversal ≥ 3,5 por 100.
+
+8.º Estabilidad dimensional, en sentido transversal, ≥ 2 por 100, por inmersión al agua (UNE 57-049).
+
+9.º Índice de rasgado: ≥ al 70 media de las medidas en la dirección longitudinal y transversal del papel (UNE 57-033).
+
+10\. Tener un gramaje de 160 g/m<sup>2</sup> (± 4 por 100) (UNE 57-009).
+
+11\. El soporte debe tener un pH entre 7 y 9.
+
+12\. Carente de blanqueantes ópticos.
+
+b) Tintas:
+
+Las tintas utilizadas en la impresión han de ser fisicoquímicamente estables y de forma especial frente a la abrasión y al efecto decolorante de la luz:
+
+1.º Solidez a la luz: mínimo admisible «5» en la escala de lana.
+
+2.º Tratamiento adicional de protección para elevar la solidez, especialmente en los tonos del entorno del amarillo magenta.
+
+3.º Protección de las tintas metalizadas contra la oxidación.
+
+4.º Las tintas invisibles, especialmente el azul, deben ser anclables y resistentes a la migración y corrimiento.
+
+c) Colores:
+
+El Escudo de España deberá reunir los requisitos establecidos en la Ley 33/1981, de 5 de octubre, en el Real Decreto 2964/1981, de 18 de diciembre, y en el Real Decreto 2267/1982, de 3 de septiembre, si bien el rojo puede obtenerse de masas de magenta y amarillo, y el verde de masas de cian y amarillo, manteniendo los demás colores, al objeto de aminorar la utilización de tintas.
+
+El texto «Juan Carlos I, Rey de España», irá impreso en azul cian.
+
+El fondo de la cartela deberá ir estampado en una trama de 133 líneas por centímetro cuadrado, a un 20 por 100 de color amarillo (pantone 130 U).
+
+2\. Características mínimas de seguridad:
+
+a) Papel:
+
+1.º Atributos luminiscentes incluidos en la masa del soporte en dos colores (a determinar).
+
+2.º Reactivo contra borrado químico.
+
+3.º Marca al agua del Escudo de España de 2,5 centímetros de alto en el ángulo inferior izquierdo de la cartela, que se determina en el siguiente apartado de formatos y tamaños.
+
+b) Impresión:
+
+1.º Tintas luminiscentes visibles.
+
+2.º Tintas luminiscentes invisibles.
+
+3.º Tintas metaméricas con un máximo de un 20 por 100 de diferencia de intensidad.
+
+c) Diseño:
+
+1.º Indiana o trama de fondo.
+
+2.º Orla de seguridad.
+
+d) Atributos:
+
+1.º Control alfanumérico.
+
+2.º Registro Autonómico.
+
+3.º Registro Central de Títulos
+
+4.º Sello en seco.
+
+5.º Siglas identificativas de las diferentes familias de títulos y de las diferentes administraciones educativas, estampadas en el ángulo inferior izquierdo.
+
+3\. Formatos y tamaños:
+
+La impresión se realizará en tamaño de papel UNE.A-4 (210 × 297 milímetros) o UNE.A-3 (297 × 420 milímetros) y dos modelos (uno para títulos expedidos por el Ministerio de Educación y el otro para los expedidos por las Administraciones de las Comunidades Autónomas) cuya única diferencia es la ubicación del Escudo de España, que en los títulos que expida el Ministerio de Educación irá en el anverso centrado arriba y en el modelo para expedición por las demás Administraciones educativas se situará en el ángulo superior izquierdo para de esta forma dejar espacio análogo en el ángulo superior derecho para que pueda imprimirse, en su caso, el Escudo de la Comunidad Autónoma respectiva como sugieren las imágenes que figuran al final de este anexo. La cartela en ambos modelos irá centrada al eje vertical con un margen superior de 97 milímetros y un margen inferior de 30 milímetros.
+
+Contendrá una reserva no impresa en el ángulo inferior izquierdo de la cartela de 4 centímetros de diámetro, a 5 milímetros de su margen izquierdo y a 25 milímetros del inferior. En el ángulo inferior derecho se realizará una reserva análoga destinada a la impresión del sello en seco.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 308, de 23 de diciembre de 2009. [Ref. BOE-A-2009-20727](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20727).
+
+## ANEXO IV — Modelo de Suplemento Europeo al Título Superior de Enseñanzas Artísticas y al Título de Máster en Enseñanzas Artísticas
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/9/00342_5473.png)
+
+SUPLEMENTO EUROPEO AL TÍTULO
+
+*DIPLOMA SUPPLEMENT*
+
+Este Suplemento al Título se ajusta al modelo elaborado por la Comisión Europea, el Consejo de Europa y UNESCO/CEPES. Su finalidad es proporcionar la información independiente necesaria para mejorar la transparencia internacional y el justo reconocimiento académico y profesional de las cualificaciones (diplomas, títulos, certificados, etc.). Está diseñado para describir la naturaleza, nivel, contexto, contenido, y rango de los estudios seguidos y completados con éxito por la persona a quien se menciona en el título al que este suplemento acompaña. Deben evitarse juicios de valor, posibles equivalencias o sugerencias de reconocimiento. Deben completarse todas las secciones y, en caso contrario, explicar los motivos por los que no se ha hecho.
+
+*This Diploma Supplement follows the model developed by the European Commission, Council of Europe and UNESCO/CEPES. The purpose of the supplement is to provide sufficient independent data to improve the international transparency and fair academic and professional recognition of qualifications (diplomas, degrees, certificates etc.) it is designed to provide a description of the nature, level, context, content and status of the studies that were pursued and successfully completed by the individual named on the original qualification to which this supplement is appended. It should be free from any value judgements, equivalence statements or suggestions about recognition. Information in all eight sections should be provided. Where information is not provided, an explanation should give the reason why.*
+
+1\. Datos identificativos de la persona titulada
+
+*1.* *Information identifying the holder of the qualification*
+
+1.1 Apellidos/*1.1 Family name(s).*
+
+1.2 Nombre(s)/*1.2 Given name(s).*
+
+1.3 Lugar y fecha de nacimiento (día/mes/año). Nacionalidad/*1.3 Place and date of birth (day/month/year). Nationality.*
+
+1.4 Número de identificación/*1.4 Identification number.*
+
+Documento nacional de identidad (DNI)/pasaporte/número de identidad de extranjero (NIE)/Otros documentos.
+
+2\. Información sobre la titulación
+
+*2.* *Information identifying the qualification*
+
+2.1 Nombre del título obtenido (en idioma original)/*2.1 Name of qualification and title conferred (in original language).*
+
+– Denominación del título que se le otorga al poseedor del mismo, con la denominación que figure en las disposiciones que establecen la oficialidad del título y el plan de estudios regulado por la Administración educativa competente, indicando sus referencias normativas y fechas de publicación. Si procede, mencionar la competencia profesional.
+
+– Estatus y tipología: Titulación nacional.
+
+– Información referente a menciones de calidad de la titulación y, en su caso, al itinerario de la especialidad.
+
+2.2 Principales campos de estudio de la titulación/*2.2 Main fields of study for the qualification.*
+
+Indicar los campos de conocimiento o estudios en los que se incardina el título y especialidad según la Clasificación Internacional Normalizada de la Educación (CINE; ISCED en inglés) de la UNESCO.
+
+| CINE 2013: Humanidades y artes (021). | *ISCED 2013: Arts and humanities (021).* |
+|---|---|
+| 0211 Técnicas audiovisuales y producción para medios de comunicación. | *0211 Audio-visual techniques and media production.* |
+| 0212 Diseño industrial, de modas e interiores. | *0212 Fashion, interior and industrial design.* |
+| 0213 Bellas artes. | *0213 Fine arts.* |
+| 0214 Artesanías. | *0214 Handicrafts.* |
+| 0215 Música y artes escénicas. | *0215 Music and performing arts.* |
+
+2.3 Nombre y estatus de la institución (Administración educativa) que otorga el título (en idioma original)/*2.3. Name and status of awarding institution (in original language).*
+
+2.4 Nombre y estatus de la(s) institución(es) que imparten el programa en el caso de que sea distinta a la institución que expide el título (en idioma original)/*2.4 Name**and status of institution(s) if different from the institution administering studies (in original language).*
+
+– Información referente a menciones de calidad y su periodo de vigencia de la(s) institución(es) que imparte el programa.
+
+2.5 Lengua(s) utilizada(s) en la docencia y evaluación/*2.5 Language(s) of instruction/examination.*
+
+Según el programa de estudios aprobado.
+
+3\. Información sobre el nivel de la titulación
+
+*3.* *Information on the level of the qualification*
+
+3.1 Nivel de la titulación/*3.1 Level of qualification.*
+
+Indicar el nivel correspondiente de acuerdo con el Marco Europeo de Cualificaciones (*European Qualifications Framework* –en adelante, EQF–), el Marco Europeo de Cualificaciones para la Educación Superior (*Qualifications Framework for the European* *Higher Education Area* –en adelante, QF-EHEA–), y con el Marco Español de Cualificaciones para la Educación Superior (en adelante, MECES). Cuando el marco legislativo lo permita, mencionar su nivel dentro del Marco Español de Cualificaciones de Aprendizaje a lo largo de toda la vida (en adelante, MECU).
+
+Los Títulos Superiores de Enseñanzas Artísticas quedan incluidos a todos los efectos en el nivel 2 del MECES y son equivalentes al título universitario de grado, enmarcados ambos en el nivel 6 del EQF y en el nivel “Primer ciclo/*First Cycle*” del QF-EHEA.
+
+Los Títulos de Máster en Enseñanzas Artísticas quedan incluidos a todos los efectos en el nivel 3 del MECES y son equivalentes al título de máster universitario, enmarcados ambos en el nivel 7 del EQF y en el nivel “Segundo ciclo/*Second Cycle*” del QF-EHEA.
+
+Para más información, remitir al sistema de Educación Superior Español descrito en el apartado 8.
+
+3.2 Duración oficial del programa/*3.2 Official length of programme.*
+
+En Sistema Europeo de Transferencia y Acumulación de Créditos (*European Credit Transfer and Accumulation System* –en adelante, ECTS–) y años académicos a tiempo completo.
+
+3.3 Requisitos de acceso/*3.3 Access requirements.*
+
+Véase el apartado 8.
+
+4\. Información sobre los contenidos y resultados obtenidos
+
+*4.* *Information on the contents and results gained*
+
+4.1 Modalidad de estudio/*4.1 Mode of study.*
+
+A tiempo completo o parcial, presenciales, semipresenciales o a distancia.
+
+4.2 Requisitos del programa/*4.2 Programme requirements.*
+
+– Créditos, distinguiendo su carácter teórico, teórico-práctico o práctico, prácticas en empresas/instituciones o centros de investigación, trabajo de fin de estudios y trabajo de fin de máster.
+
+– En el caso de programas conjuntos internacionales, proporcionar detalles sobre los requisitos mínimos para la obtención del título.
+
+– Resultados principales de aprendizaje: Conocimientos, destrezas y competencias adquiridas al finalizar la titulación y objetivos asociados a la misma.
+
+4.3 Descripción del programa (materias y asignaturas estudiadas, prácticas externas, trabajo fin de estudios, trabajo fin de máster) y calificaciones obtenidas/*4.3 Programme**details (e.g. subjects studied, internships, final year dissertation for degree/diploma or final year dissertation for master studies), and the individual grades/marks/credits obtained.*
+
+Apartado incorporado en el (los) anexo(s) al final de este documento.
+
+4.4 Sistema de calificación/*4.4 Grading scheme.*
+
+En la Educación Artística Superior española las materias o asignaturas se califican con una puntuación en función de la siguiente escala numérica de 0 a 10, con expresión de un decimal y con las siguientes equivalencias cualitativas:
+
+0-4.9: Suspenso; 5-6.9: Aprobado; 7-8.9: Notable; 9-10 Sobresaliente. Puede concederse una mención especial (“Matrícula de Honor”) al 5 % de los estudiantes del grupo siempre que hayan obtenido una calificación de sobresaliente. Una materia/asignatura se considera superada a partir del 5.
+
+En el caso de reconocimiento de créditos ECTS, de la experiencia profesional, actividades culturales, artísticas, deportivas, de representación estudiantil, solidarias y de cooperación u otras no se hará constar ninguna calificación ni se tendrán en cuenta a efectos de ponderación para el cálculo de la nota media del expediente del estudiante.
+
+4.5 Calificación global obtenida en el título/*4.5 Overall classification of the qualification (in original language).*
+
+La calificación global media se obtiene multiplicando los créditos de cada asignatura superada por la calificación obtenida en dicho asignatura expresada de 0 a 10, y dividiendo la suma de todos los productos por el número total de créditos superados. Se excluyen del cálculo las asignaturas y créditos superados sin calificación numérica.
+
+Incluir premios académicos como los Premios Nacionales y los Premios Extraordinarios de las Comunidades Autónomas obtenidos por el estudiante.
+
+5\. Información sobre la función de la titulación
+
+*5.* *Information on the function of the qualification*
+
+5.1 Acceso a estudios posteriores/*5.1 Access to further study.*
+
+5.2 Objetivos de la titulación (incluyendo perfil de competencias, siempre que sea posible) y cualificación profesional (si procede)/*5.2 Stated objectives associated with the qualification and professional status (if applicable).*
+
+– Síntesis de los objetivos, competencias generales y específicas y perfil profesional que figuran en el plan de estudios. Ver información contenida en el apartado 4.2.
+
+– Especificar si la titulación otorga competencias para el ejercicio de una profesión u otorga un estatus profesional, de acuerdo con la legislación nacional, y si da acceso a una profesión regulada.
+
+6\. Información adicional
+
+*6.* *Additional information*
+
+6.1 Información adicional/*6.1 Additional information.*
+
+Información que no haya sido incluida en los apartados anteriores, de acuerdo con la normativa vigente sobre contenidos susceptibles de incorporación al Suplemento Europeo al Título (por ejemplo, información sobre prácticas extracurriculares, transferencia de créditos, etc.).
+
+6.2 Fuentes de información adicional/*6.2 Further information sources.*
+
+Remitir a fuentes donde se proporcionen más detalles sobre la titulación.
+
+7\. Certificación del suplemento
+
+*7.* *Certification of the supplement*
+
+7.1 Fecha de expedición/*7.1 Date of issuing.*
+
+Fecha de expedición del Suplemento al Título (día/mes/año).
+
+7.2 Nombres y firmas de los firmantes/*7.2 Names and signatures.*
+
+Indicar la autoridad de la Administración educativa que ostente la competencia para expedir el título, que podría ir impresa en el documento, y la del responsable administrativo de la información que se refleja en el Suplemento, que no podrá ir estampillada.
+
+7.3 Cargo de los firmantes/*7.3 Capacity of the certifying individuals.*
+
+7.4 Sello oficial de la Administración educativa expedidora/*7.4 Official stamp or seal.*
+
+8\. Información sobre el Sistema Nacional de Educación Superior
+
+*8. Information on the National Higher Education System.*
+
+En el caso de titulaciones españolas, este apartado se cumplimentará transcribiendo el sistema educativo español de enseñanza superior con el modelo uniforme del sistema universitario español y las enseñanzas artísticas superiores, proporcionando información referente a requisitos de acceso, tipo de instituciones, sistema de garantía de la calidad de las titulaciones e instituciones. Además, se describirá el MECES, así como el MECU, cuando el marco legislativo lo permita. Este último marco debe ser compatible con el EQF, por lo que será conveniente referenciarlo. Todo ello servirá para proporcionar el contexto y ubicar la titulación y su nivel a lo largo de la descripción.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/179/12503_11952239_1.png)
+
+## ANEXO/ANNEX
+
+Relativo al apartado 4.3 “Descripción del programa (materias/asignaturas estudiadas/prácticas externas, trabajo fin de estudios, trabajo fin de máster) y calificaciones obtenidas”/*4.3 Programme details (final year dissertation for degree/diploma or final year dissertation for master studies), and the individual grades/marks/credits obtained.*
+
+– Forma de acceso.
+
+– Fecha de la completa finalización de estudios conducentes a la obtención del título.
+
+| Materia o asignatura *Subject or course subject* | Tipo (1)<br>*Type (1)* | Nivel (2)<br>*Level (2)* | Créditos ECTS<br>*Credits* | Calificación (3)<br>*Grade (3)* | Año académico<br>*Academic year* | Nombre y estatus de la institución (4)<br>*Name and status of the institution (4)* | Lengua (5)<br>*Language (5)* | Observaciones (6)<br>*Observations (6)* |
+|---|---|---|---|---|---|---|---|---|
+
+(1) Formación básica (FB) - Asignatura obligatoria (OB) - Asignatura optativa (OP) - Prácticas (PR) - Trabajo fin de estudios (TFE) –Trabajo fin de máster (TFM)
+
+*(1) Core courses (CC) - Compulsory courses (CO) - Elective courses (EC) - Internship (IN) - Final dissertation (FD)- Final master dissertation (FMD)*
+
+(2) Debe indicarse el nivel con referencia a los ciclos del MECES y del EQ-EHEA, sólo si es distinto del indicado en el apartado 3.1.
+
+*(2) The level should be indicated with reference to the MECES and EQ-EHEA cycles, only if it is different from that indicated in section 3.1.*
+
+(3) En el caso de programas conjuntos internacionales o de módulos/asignaturas cursados en instituciones de educación superior extranjeras mediante participación en programas de movilidad (Erasmus, Tempus, etc.), deberá indicarse la calificación española equivalente. La calificación original de la institución extranjera (números, letras, etc.) y el método utilizado para la conversión de calificaciones se harán constar en la columna “Observaciones”.
+
+*(3) In the case of international joint programmes or modules/courses taken in higher education institutions abroad through mobility programmes (Erasmus, Tempus, etc.), the equivalent ish grade must be indicated. The original grade granted by the foreign institution (numbers, letters) and the method used for grading conversion will be recorded in the* *“* *Observations* *”* *column.*
+
+(4) Cuando una materia, asignatura o práctica se haya realizado en otra institución española o extranjera distinta de la institución de origen, deberá proporcionarse esta información mencionando el nombre de la institución.
+
+*(4) When a course or subject or practice has been followed at another Spanish or foreign institution different from the institution of origin, this information must be provided mentioning the name of the institution.*
+
+(5) Lengua de instrucción y evaluación.
+
+*(5) Language of instruction and examination.*
+
+(6) Incluir reconocimientos de créditos ECTS y, en su caso, de experiencia profesional. En el caso de materias o asignaturas cursadas en una institución extranjera, en programas de movilidad de estudiantes, se deberá hacer constar “EQ” (equivalente) y el programa de movilidad, indicando a continuación, entre paréntesis, la calificación original otorgada por la institución extranjera (números, letras, etc.) y el método de conversión utilizado para calcular la calificación española equivalente consignada en la columna “Calificación”.
+
+*(6) Include ECTS credits recognition and, where appropriate, professional experience recognition. In the case of subjects taken at an institution abroad, in student mobility programmes,* *“* *EQ* *”* *(equivalent) and the mobility programme must be recorded, indicating next, in parentheses, the original grade granted by the foreign institution (numbers, letters, etc.) and the method used for grading conversion to calculate de equivalent Spanish grade recorded in the column* *“* *Grade* *”* *.*
+
+> Se modifica el apartado 8 por el art. 6.2 del Real Decreto 628/2022, de 26 de julio. [Ref. BOE-A-2022-12503](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12503)
+
+> Se modifica por el art. único.6 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Esta modificación entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+> Se añade por el art. único.6 del Real Decreto 197/2015, de 23 de marzo. [Ref. BOE-A-2015-3937](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3937).
+
+## ANEXO V — Modelo de anexo de Itinerario
+
+![1](https://www.boe.es/datos/imagenes/disp/2020/9/00342_5614.png)
+
+ANEXO DE ITINERARIO
+
+*DIPLOMA SUPPLEMENT*
+
+1\. Datos identificativos de la persona titulada
+
+*1.* *Information identifying the holder of the qualification*
+
+1.1 Apellidos/*1.1 Family name(s).*
+
+1.2 Nombre(s)/*1.2 Given name(s).*
+
+1.3 Número de identificación/*1.3 Identification number.*
+
+Documento nacional de identidad (dni)/pasaporte/número de identidad de extranjero (nie)/otros documentos.
+
+2\. Información sobre el título, especialidad e itinerario superado
+
+*2.* *Information identifying the qualification, specialty and itinerary gained*
+
+2.1 Nombre del título, de la especialidad y del itinerario (en idioma original)/*2.1 Name of qualification and title conferred (in original language).*
+
+– Denominación del itinerario superado con la denominación que figure en las disposiciones que establecen el plan de estudios regulado por la Administración educativa competente, indicando sus referencias normativas y fechas de publicación. Si procede, mencionar la competencia profesional.
+
+3\. Información sobre los contenidos y resultados obtenidos específicos del itinerario
+
+*3.* *Information on the contents and results gained*
+
+3.1 Modalidad de estudio/*3.1 Mode of study.*
+
+A tiempo completo o parcial, presenciales, semipresenciales o a distancia.
+
+3.2 Requisitos del programa/*3.2 Programme requirements.*
+
+– Créditos, distinguiendo su carácter teórico, teórico-práctico o práctico, prácticas en empresas/instituciones o centros de investigación, trabajo de fin de estudios y trabajo de fin de máster.
+
+– Resultados principales de aprendizaje: Conocimientos, destrezas y competencias adquiridas al finalizar el itinerario y objetivos asociados al mismo.
+
+3.3 Descripción del programa (materias y asignaturas estudiadas, prácticas externas, trabajo fin de estudios, trabajo fin de máster) y calificaciones obtenidas/*3.3 Programme**details (e.g. subjects studied, internships, final year dissertation for degree/diploma or final year dissertation for master studies), and the individual grades/marks/credits obtained.*
+
+El formato se adaptará al anexo que figura en el Anexo IV sobre Modelo de Suplemento Europeo al Título Superior de Enseñanzas Artísticas y al Título de Máster en Enseñanzas Artísticas
+
+3.4 Calificación global del itinerario superado/*3.4 Overall classification of the qualification (in original language).*
+
+4\. Certificación del Anexo de Itinerario
+
+*4.* *Certification of the Supplement*
+
+4.1 Fecha de expedición/*4.1 Date of issuing.*
+
+Fecha de expedición del anexo de Itinerario (día/mes/año).
+
+4.2 Nombres y firmas de los firmantes/*4.2 Names and signatures.*
+
+Indicar la autoridad de la Administración educativa que ostente la competencia para expedir el Anexo de Itinerario, que podría ir impresa en el documento, y la del responsable administrativo de la información que se refleja en dicho Anexo, que no podrá ir estampillada.
+
+4.3 Cargo de los firmantes/*4.3 Capacity of the certifying individuals.*
+
+4.4 Sello oficial de la Administración educativa expedidora/*4.4 Official stamp or seal.*
+
+> Se añade por el art. único.7 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Este anexo entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+## ANEXO VI — Características técnicas del Suplemento Europeo al Título
+
+Especificaciones del soporte:
+
+Formato: UNE A4 (210 x 297 mm).
+
+Papel soporte: Específicamente diseñado para personalizar mediante impresión láser.
+
+Composición: Pasta química blanqueada, excluyendo pasta mecánica y semiquímica, encolada en masa.
+
+Color:
+
+L = 96,14 ± 2.
+
+a = 0,47 ± 2.
+
+b = 4,19 ± 2.
+
+Grado de blancura: ≥ 80 %.
+
+Gramaje: 100+5 g/m².
+
+Espesor: 0,125 mm ± 10 %.
+
+Índice de encolado COBB 60: 22,5 ± 4 g/m².
+
+Opacidad: > 83 %.
+
+Blanqueantes ópticos: Exento.
+
+Fibrillas de seguridad: > 40 fibrillas/dm² por cara. Invisibles a la luz normal. Visibles a la luz UV de color amarillo verdoso. Longitud de la fibrilla entre 8 y 20 mm, repartidas uniformemente en las dos caras y firmemente adheridas.
+
+Lisura Bendtsen: 210 ± 95 ml/min.
+
+Resistencia a la tracción longitudinal: ≥ 8,5 kg.
+
+PH superficial: ≥ 5,5.
+
+Especificaciones de impresión:
+
+Emblema del Escudo Nacional, de la Unión Europea y de la Comunidad Autónoma: Altura de 3 cm.
+
+Fondo impresión guilloche, Pantone 5315, en el que figurará la leyenda con efecto relieve siguiente: DIPLOMA SUPPLEMENT, rodeada de una cenefa en color plata de un grosor de 2 mm, con los siguientes márgenes externos:
+
+Margen superior:
+
+Primera página 5 cm, en la que irán los escudos.
+
+Segunda y siguientes páginas 2 cm.
+
+Margen inferior:
+
+En todas las páginas 2 cm, en las que irán el número de Registro Autonómico de Títulos y el número de Registro Central de Títulos, más el número secuencial.
+
+Márgenes laterales derecho e izquierdo: 1 cm.
+
+Medidas antifalsificación.
+
+> Se añade por el art. único.8 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Este anexo entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)
+
+## ANEXO VII — e-SET
+
+| Formato | XML |
+|---|---|
+| Firma. | 1. Sistema de firma electrónica basado en certificado reconocido para cualquier documento que se desee autenticar: Firma electrónica reconocida de la persona que ostente la competencia en la Comunidad Autónoma o certificado de sello electrónico, (sello de órgano) en caso de expediciones automatizadas.<br>2. El documento deberá ser firmado sobre la estructura electrónica. Para ello se utilizará el formato XML de firma electrónica avanzada (XAdES) descrito en la Política de Firma de la Administración General del Estado, en su versión 1.9 o superior. |
+| Código de verificación. | Sellado de tiempo y código seguro de verificación. |
+| Normativa. | Resolución de 27 de octubre de 2016, de la Secretaría de Estado de Administraciones Públicas, por la que se aprueba la Norma Técnica de Interoperabilidad de Política de Firma y Sello Electrónicos y de Certificados de la Administración (BOE de 3 de noviembre).» |
+
+> Se añade por el art. único.9 del Real Decreto 700/2019, de 29 de noviembre. [Ref. BOE-A-2020-342](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-342)
+
+> Este anexo entra en vigor el 10 de marzo de 2020, según establece su disposición final única, en la redacción dada por la disposición final 1 del Real Decreto 402/2020, de 25 de febrero. [Ref. BOE-A-2020-2738](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2738)

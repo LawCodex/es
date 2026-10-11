@@ -1,0 +1,441 @@
+---
+title: "Orden CUL/3410/2009, de 14 de diciembre, por la que se regula el Registro Electrónico del Ministerio de Cultura"
+identifier: "BOE-A-2009-20389"
+eli: "https://www.boe.es/eli/es/o/2009/12/14/cul3410"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura"
+date: 2009-12-14
+published: 2009-12-19
+in_force_from: 2009-12-20
+last_amended: 2017-08-09
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 305"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-20389"
+retrieved: 2026-10-11
+---
+
+# Orden CUL/3410/2009, de 14 de diciembre, por la que se regula el Registro Electrónico del Ministerio de Cultura
+
+Las iniciativas de simplificación y modernización administrativa que potencian el uso de medios electrónicos por parte de la administración en sus relaciones con los ciudadanos han sido numerosas a lo largo de los últimos años y se han ido plasmando en normas de distinto rango.
+
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado; el Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias y documentos y devolución de originales y el régimen de las oficinas de registro; el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos; la Ley 59/2003, de 19 de diciembre, de firma electrónica; son algunas de las regulaciones que, adaptándose a la actual sociedad de la información y a las transformaciones en las tecnologías de la información y la comunicación, han potenciando un cambio significativo en las relaciones entre los ciudadanos y la administración.
+
+En este escenario normativo, la Orden CUL/4229/2005, de 28 de diciembre, creó el registro telemático en el Ministerio de Cultura, que ha sido hasta hoy el instrumento para la presentación de solicitudes, escritos y documentos dirigidos al departamento por vía telemática. Asimismo, la orden recoge la posibilidad de que los organismos públicos adscritos al Ministerio utilicen el registro telemático previa resolución expresa.
+
+Desde su creación la relación de procedimientos administrativos incluidos en el Registro Telemático no ha dejado de crecer.
+
+La Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, y el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la citada Ley, contienen una nueva regulación de los registros electrónicos, y aunque la Ley prevé, en su disposición transitoria única, que los registros telemáticos existentes a la entrada en vigor de la Ley serán considerados registros electrónicos, la mejor aplicación de las previsiones contenidas en la misma así como la incorporación de la experiencia más reciente para la mejora tanto de los servicios prestados a los ciudadanos como de la seguridad en las relaciones telemáticas con éstos, aconsejan llevar a cabo una nueva regulación del Registro Electrónico del Ministerio de Cultura.
+
+Así pues, con objeto de facilitar la adaptación normativa, que irá acompañada de una adaptación tecnológica, se efectúa la presente regulación del Registro Electrónico del Ministerio de Cultura.
+
+En consecuencia, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, dispongo:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. La presente Orden tiene como objeto la regulación del Registro Electrónico del Ministerio de Cultura, para la recepción y remisión de solicitudes, escritos y comunicaciones, en la forma prevista en el artículo 24 de la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos.
+
+El Registro Electrónico dependerá de la Subsecretaría del Ministerio de Cultura.
+
+2\. El Registro Electrónico del Ministerio de Cultura será único para todos los órganos del Departamento.
+
+Quedan fuera de su ámbito de aplicación los organismos públicos adscritos al Ministerio, si bien éstos podrán optar, mediante Resolución conjunta de la Subsecretaría del Ministerio de Cultura y el Director General o Presidente del correspondiente Organismo, publicada en el Boletín Oficial del Estado, por su inclusión en el Registro Electrónico regulado en esta orden.
+
+## Artículo 2. Documentos admisibles.
+
+1\. El Registro Electrónico podrá admitir:
+
+a) Solicitudes, escritos y comunicaciones normalizados, presentados por personas físicas o jurídicas correspondientes a los servicios, procedimientos y trámites que se especifican en el anexo de esta orden.
+
+El Registro Electrónico del Ministerio de Cultura incluirá la relación actualizada de los servicios, procedimientos y trámites que se especifican en el anexo de esta orden y dará acceso a los formularios electrónicos normalizados que se encuentran en la dirección http://www.mcu.es/registro.
+
+b) Documentación adicional a las solicitudes, escritos y comunicaciones, previamente introducidos en el Registro Electrónico de la forma mencionada en el apartado anterior.
+
+c) Cualquier solicitud, escrito o comunicación distinta de los mencionados en los apartados anteriores, dirigido a cualquier órgano o entidad del ámbito de la administración titular del registro, con el alcance establecido en el artículo 24.2.b) de la Ley 11/2007, de 22 de junio.
+
+El Registro Electrónico podrá rechazar los documentos electrónicos que se encuentren en alguna de las circunstancias previstas en el artículo 29 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, en la forma establecida en el mismo.
+
+2\. Estos documentos deberán presentarse necesariamente mediante la cumplimentación interactiva de los formularios disponibles en el Registro Electrónico. Dichos formularios podrán incluir datos y documentos adjuntos.
+
+## Artículo 3. Acreditación de la identidad y requisitos técnicos.
+
+1\. Los documentos electrónicos podrán ser presentados ante el Registro Electrónico por los interesados o sus representantes, de acuerdo con lo establecido en los artículos 30 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Cuando la representación no quede acreditada o no pueda presumirse, se requerirá dicha acreditación por la vía que corresponda.
+
+2\. La identificación del ciudadano que presenta documentos ante el Registro Electrónico y la firma de los datos y documentos aportados se realizará:
+
+a) Mediante la utilización del documento nacional de identidad electrónico o cualquiera de los certificados electrónicos reconocidos, admitidos por la Administración General del Estado.
+
+b) Mediante la utilización de una clave previamente concertada con el Ministerio de Cultura para aquellas actuaciones específicamente habilitadas.
+
+En la sede electrónica del Ministerio de Cultura se mantendrá la relación actualizada de los certificados electrónicos admitidos y de las actuaciones específicamente habilitadas para el uso del sistema de claves concertadas.
+
+3\. En el Registro Electrónico del Ministerio de Cultura se especificarán los requisitos técnicos necesarios para su utilización.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden CUL/1132/2011, de 28 de abril. [Ref. BOE-A-2011-7976](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7976).
+
+## Artículo 4. Voluntariedad de la presentación electrónica.
+
+La presentación de solicitudes, escritos y comunicaciones por medio del Registro Electrónico tendrá carácter voluntario, salvo lo previsto en el artículo 27.6 de la Ley 11/2007, de 22 de junio, siendo alternativa a la utilización de los lugares señalados en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Artículo 5. Presentación de documentos y cómputo de plazos.
+
+1\. El Registro Electrónico permitirá la presentación de solicitudes, escritos y comunicaciones todos los días del año, durante las veinticuatro horas del día, sin perjuicio de las interrupciones, por el tiempo imprescindible cuando concurran razones justificadas de mantenimiento técnico u operativo, de las que se informará en el propio Registro.
+
+2\. El cómputo de plazos se realizará conforme a lo dispuesto en el artículo 26.3, 4 y 5 de la Ley 11/2007, de 22 de junio. A estos efectos el Registro se regirá por la fecha y la hora oficial española, correspondiente a la Península, Ceuta, Melilla y el archipiélago balear que figurará visible en la dirección electrónica de acceso al mismo.
+
+3\. El Registro Electrónico especificará el calendario de días inhábiles relativo a sus procedimientos y trámites, que será el que se determine en la resolución anual publicada en el Boletín Oficial del Estado para todo el territorio nacional por el Ministerio de la Presidencia.
+
+## Artículo 6. Resguardo acreditativo de la presentación.
+
+El Registro Electrónico emitirá automáticamente un recibo firmado electrónicamente con el contenido establecido en el artículo 30.3 del Real Decreto 1671/2009, de 6 de noviembre.
+
+## Artículo 7. Gestión, disponibilidad y seguridad del Registro.
+
+La Subsecretaría de Cultura, a través de la Subdirección General de Tecnologías y Sistemas de Información, será el órgano responsable de la gestión, disponibilidad y seguridad del Registro Electrónico regulado en la presente orden.
+
+## Disposición adicional primera. Organismos públicos.
+
+Los organismos públicos adscritos al Ministerio que, a la entrada en vigor de la presente orden, ya hubieran optado por utilizar el Registro Telemático del Ministerio de Cultura, conforme al procedimiento establecido en el artículo 2.1 segundo párrafo, de la Orden CUL/4229/2005, de 28 de diciembre, por la que se crea un registro telemático en el Ministerio de Cultura para la presentación de escritos, solicitudes y comunicaciones y se establecen los criterios generales de tramitación telemática de determinados procedimientos, se entenderán incluidos en el Registro Electrónico que se regula con la presente orden.
+
+## Disposición adicional segunda. Gasto.
+
+La regulación y funcionamiento del Registro Electrónico del Ministerio de Cultura no supondrá incremento de gasto y se atenderá con los medios materiales y humanos actualmente existentes en el departamento.
+
+## Disposición derogatoria única.
+
+Queda derogada la Orden CUL/4229/2005, de 28 de diciembre, por la que se crea un registro telemático en el Ministerio de Cultura para la presentación de escritos, solicitudes y comunicaciones y se establecen los criterios generales de tramitación telemática de determinados procedimientos.
+
+## Disposición final primera. Delegación en la Subsecretaría del Ministerio de Cultura.
+
+Se delega en el titular de la Subsecretaría del departamento la competencia para incluir, modificar o dar de baja, dentro del Registro Telemático, nuevos servicios, procedimientos y trámites, a los que será de aplicación lo dispuesto en la presente orden, así como nuevos modelos normalizados.
+
+En todo caso, las modificaciones a que alude el párrafo anterior serán objeto de publicación en el Boletín Oficial del Estado, dándoseles difusión a través del Registro Telemático del Ministerio de Cultura.
+
+Se delega en el titular de la Subsecretaría del departamento, la competencia para modificar la dirección electrónica mencionada en el artículo 2.1.a).
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 14 de diciembre de 2009.—La Ministra de Cultura, Ángeles González-Sinde Reig.
+
+## ANEXO — Relación de servicios, procedimientos y trámites incluidos en el Registro Electrónico de la Secretaría de Estado de Cultura
+
+Ayudas
+
+Archivos
+
+1\. Ayudas a entidades privadas sin ánimo de lucro para el desarrollo de proyectos archivísticos.
+
+2\. Ayudas a entidades privadas sin ánimo de lucro para la mejora de las instalaciones y el equipamiento de sus archivos.
+
+3\. Subvenciones nominativas de la Subdirección General de los Archivos Estatales.
+
+Artes Escénicas y Música
+
+4\. Ayudas a la música, la lírica y la danza.
+
+5\. Ayudas para programas de difusión, desarrollo y preservación del teatro y el circo y de comunicación teatral y circense.
+
+6\. Subvenciones nominativas del Instituto de las Artes Escénicas y de la Música.
+
+Bibliotecas
+
+7\. Ayudas al patrimonio bibliográfico para la creación y transformación de recursos digitales y su difusión y preservación mediante repositorios.
+
+8\. Subvenciones nominativas de la Subdirección General de Coordinación Bibliotecaria.
+
+Cine y Audiovisuales
+
+9\. Ayuda complementaria para la amortización de largometrajes.
+
+10\. Ayuda general para la amortización de largometrajes.
+
+11\. Ayudas a la producción de cortometrajes realizados.
+
+12\. Ayudas al desarrollo de guiones para películas de largometraje.
+
+13\. Ayudas para el desarrollo de proyectos de películas cinematográficas de largometraje.
+
+14\. Ayudas para el desarrollo y la realización de proyectos culturales y de formación no reglada.
+
+15\. Ayudas para la conservación del patrimonio cinematográfico.
+
+16\. Ayudas para la distribución de películas de largometraje y conjuntos de cortometrajes, españoles, comunitarios e iberoamericanos.
+
+17\. Ayudas para la minoración de intereses de los préstamos concedidos al amparo del Convenio suscrito entre el Instituto de la Cinematografía y de las Artes audiovisuales (ICAA) y el Instituto de Crédito Oficial (ICO) para el establecimiento de una línea de financiación para la producción cinematográfica.
+
+18\. Ayudas para la minoración de intereses de préstamos concedidos al amparo del Convenio suscrito entre el ICAA y el Instituto de Crédito Oficial para financiar la exhibición cinematográfica, adquisición y mejora de equipos de producción cinematográfica.
+
+19\. Ayudas para la organización de festivales y certámenes cinematográficos en España.
+
+20\. Ayudas para la participación de películas españolas en festivales.
+
+21\. Ayudas a la producción de cortometrajes sobre proyecto.
+
+22\. Ayudas selectivas para la producción de largometrajes sobre proyecto.
+
+23\. Ayudas para la producción de películas y documentales para televisión sobre proyecto.
+
+24\. Ayudas para la producción de series de animación sobre proyecto.
+
+25\. Ayudas para la realización de obras audiovisuales con empleo de nuevas tecnologías.
+
+26\. Subvenciones nominativas del Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+27\. Ayudas para la minoración de intereses de préstamos concedidos en el marco de la línea de financiación ICO-ICAA de apoyo a actividades de exhibición cinematográfica.
+
+28\. Ayudas para el fomento de la realización de películas cinematográficas de largometraje en régimen de coproducción internacional.
+
+29\. Ayudas generales para la producción de largometrajes sobre proyecto.
+
+Cooperación cultural
+
+30\. Ayudas a Fundaciones y Asociaciones con dependencia orgánica de partidos políticos con representación en las Cortes Generales, para funcionamiento y actividades de estudio y desarrollo del pensamiento político, social y cultural.
+
+31\. Ayudas a la promoción del turismo cultural.
+
+32\. Programa IBEREX de prácticas formativas para jóvenes profesionales en el sector cultural.
+
+33\. Subvenciones nominativas de la Subdirección General de Promoción Exterior de la Cultura.
+
+34\. Programa HISPANEX de ayudas para la cooperación cultural con universidades extranjeras.
+
+35\. Subvenciones nominativas de la Subdirección General de Cooperación Cultural con las Comunidades Autónomas.
+
+36\. Certificación de la adecuación de los gastos realizados a los objetivos y planes del programa correspondiente, a efectos de la obtención de los beneficios fiscales aplicables a los acontecimientos declarados de excepcional interés público.
+
+37\. Ayudas a familias e instituciones sin fines de lucro para desplazamientos culturales a y desde la península.
+
+Industrias culturales
+
+38\. Ayudas a la inversión en capital para incrementar la oferta legal de contenidos culturales en Internet y para promover la modernización, innovación y adaptación tecnológica de las industrias culturales y creativas.
+
+39\. Ayudas de acción y promoción cultural.
+
+40\. Subvenciones nominativas de la Subdirección General de Promoción de Industrias Culturales y de Mecenazgo.
+
+Libro, Lectura y Letras
+
+41\. Subvenciones a empresas e instituciones sin fines de lucro, editoras de revistas de cultura.
+
+42\. Subvenciones nominativas de la Subdirección General de Promoción del Libro, la Lectura y las Letras Españolas.
+
+43\. Subvenciones para la edición de libros.
+
+44\. Subvenciones para el fomento de la traducción en lenguas extranjeras.
+
+45\. Subvenciones para la promoción de la lectura y las letras españolas.
+
+46\. Ayudas para entidades sin fines de lucro que promueven y fortalecen la industria editorial.
+
+47\. Subvenciones para la revalorización cultural y modernización de las librerías.
+
+Museos
+
+48\. Ayudas en concurrencia competitiva para la dotación de inversiones en los museos.
+
+49\. Subvenciones en concurrencia competitiva para el fomento de proyectos culturales a desarrollar en los museos.
+
+50\. Subvenciones nominativas de la Subdirección General de Museos Estatales.
+
+Patrimonio Histórico
+
+51\. Ayudas a empresas privadas para proyectos de puesta en valor, promoción, difusión y protección de bienes declarados patrimonio cultural.
+
+52\. Ayudas para proyectos arqueológicos en el exterior.
+
+53\. Ayudas para proyectos de conservación, protección y difusión de bienes declarados Patrimonio Mundial.
+
+54\. Subvenciones nominativas de la Subdirección General de Protección del Patrimonio Histórico.
+
+55\. Subvenciones nominativas del Instituto del Patrimonio Cultural de España.
+
+Promoción del arte
+
+56\. Ayudas para la promoción del arte contemporáneo español.
+
+57\. Subvenciones nominativas de la Subdirección General de Promoción de las Bellas Artes.
+
+Becas
+
+58\. Becas Culturex de formación práctica en gestión cultural para jóvenes españoles en instituciones culturales en el exterior.
+
+59\. Becas Endesa para Iberoamérica de Patrimonio Cultural.
+
+60\. Becas FormARTE de formación y especialización en actividades y materias de la competencia de las instituciones culturales dependientes del Ministerio de Educación, Cultura y Deporte y del colegio de España en París.
+
+Premios
+
+61\. Premio de teatro para autores noveles Calderón de la Barca.
+
+62\. Premios CreArte para el fomento de la creatividad en la enseñanza infantil, primaria, especial y secundaria en los centros financiados con fondos públicos.
+
+63\. Premio Ciudades Patrimonio de la Humanidad.
+
+64\. Premio Historia de la Cinematografía.
+
+65\. Premio Alfabetización Audiovisual.
+
+66\. Premio Luso-Español de Arte y Cultura.
+
+Recursos y reclamaciones
+
+67\. Derecho de petición.
+
+68\. Procedimiento de Responsabilidad Patrimonial.
+
+69\. Recurso de alzada.
+
+70\. Recurso extraordinario de revisión.
+
+71\. Recurso potestativo de reposición.
+
+72\. Revisión de oficio de actos administrativos.
+
+Quejas y sugerencias
+
+73\. Quejas y sugerencias dirigidas al Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+74\. Quejas y sugerencias dirigidas al Instituto Nacional de las Artes Escénicas y de la Música.
+
+75\. Quejas y sugerencias dirigidas a la Gerencia de Infraestructuras y Equipamientos.
+
+76\. Quejas y sugerencias dirigidas al Museo Nacional Centro de Arte Reina Sofía.
+
+77\. Quejas y sugerencias dirigidas al Museo Nacional del Prado.
+
+Empleo público
+
+78\. Proceso selectivo para la cobertura de puestos de personal laboral temporal.
+
+79\. Proceso selectivo para la cobertura de puestos de personal laboral temporal en el INAEM.
+
+Archivos
+
+80\. Utilización de espacios en archivos de titularidad estatal gestionados por la Dirección General de Bellas Artes y de Bienes Culturales y de Archivos y Bibliotecas.
+
+Artes Escénicas y Música
+
+81\. Asignación del ISMN, Número Normalizado para Música Escrita.
+
+82\. Asignación del prefijo editorial ISMN, Número Normalizado para Música Escrita.
+
+83\. Solicitud del certificado previsto en el artículo 36.3 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+Cine y Audiovisuales
+
+84\. Aprobación de coproducciones hispano-extranjeras.
+
+85\. Calificación de películas y certificado de nacionalidad española.
+
+86\. Comunicación de fecha de estreno de una película.
+
+87\. Comunicación de fechas de inicio y de fin de rodaje de una película.
+
+88\. Cumplimiento de las obligaciones de control de asistencia y declaración de rendimientos por parte de las salas de exhibición.
+
+89\. Expedición del certificado cultural para la solicitud de las ayudas del Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+90\. Homologación de buzones para salas de exhibición informatizadas.
+
+91\. Homologación a efectos del cómputo de espectadores en el marco de festivales y certámenes celebrados en España.
+
+92\. Homologación a efectos del cómputo de accesos a una película a través de Internet y otras redes de comunicaciones electrónicas mediante sistemas basados en la demanda del espectador.
+
+93\. Homologación a efectos de certificación del cómputo de espectadores a través de la venta minorista y arrendamiento de obras cinematográficas en soporte físico.
+
+94\. Inscripción en el registro de empresas cinematográficas y audiovisuales del Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+95\. Reconocimiento de coste de películas.
+
+96\. Procedimiento para la imposición de sanciones por infracciones leves en materia cinematográfica y videográfica.
+
+97\. Procedimiento para la imposición de sanciones por infracciones graves en materia cinematográfica y videográfica.
+
+98\. Procedimiento para la imposición de sanciones por infracciones muy graves en materia cinematográfica y videográfica.
+
+Museos
+
+99\. Utilización de espacios en museos de titularidad estatal gestionados por la Dirección General de Bellas Artes y Bienes Culturales y de Archivos y Bibliotecas.
+
+Patrimonio histórico
+
+100\. Adquisición de bienes muebles del patrimonio histórico español.
+
+101\. Autorización de exportación de bienes del Patrimonio Histórico Español.
+
+102\. Autorización de obras en Bienes de Interés Cultural adscritos a servicios públicos gestionados por la Administración General del Estado (A.G.E.) y en el entorno de los mismos.
+
+103\. Declaración de importación de bienes culturales.
+
+104\. Inclusión de bienes del estado en bienes de interés cultural e inventario general.
+
+105\. Transmisión de la propiedad de un bien de interés cultural o bien inventariado.
+
+Propiedad intelectual
+
+106\. Autorización de modificación de estatutos propuesta por las entidades de gestión de los derechos de propiedad intelectual.
+
+107\. Autorización para el uso del sello de la campaña Cultura en Positivo.
+
+108\. Mediación en materia de propiedad intelectual.
+
+109\. Procedimiento de arbitraje ante la Sección Primera de la Comisión de Propiedad Intelectual.
+
+110\. Procedimiento de arbitraje ante la Sección Primera de la Comisión de Propiedad Intelectual para fijar una cantidad sustitutoria de las tarifas generales establecidas por entidades de gestión.
+
+111\. Salvaguarda de los derechos de propiedad intelectual en Internet.
+
+112\. Procedimiento sancionador por falta de retirada de contenidos vulneradores de derechos de propiedad intelectual en Internet.
+
+113\. Procedimiento de determinación de tarifas ante la Sección Primera de la Comisión de Propiedad Intelectual.
+
+114\. Procedimiento en la función de control de tarifas generales establecidas por entidades de gestión ante la Sección Primera de la Comisión de Propiedad Intelectual.
+
+Asuntos taurinos
+
+115\. Primera inscripción como profesional taurino.
+
+116\. Cambio de categoría profesional.
+
+117\. Expedición de duplicado de carné profesional.
+
+118\. Renovación de carné profesional por caducidad.
+
+119\. Inscripción de una empresa ganadera de reses de lidia.
+
+120\. Modificación y baja de una inscripción registral de una empresa ganadera de reses de lidia.
+
+> Se modifica por el art. 4 de la Orden ECD/776/2017, de 27 de julio. [Ref. BOE-A-2017-9486](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9486)
+
+> Se modifica por el art. 4 de la Orden ECD/257/2016, de 25 de febrero. [Ref. BOE-A-2016-2138](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2138).
+
+> Se modifica por el art. 3 de la Orden ECD/2837/2015, de 18 de diciembre. [Ref. BOE-A-2015-14271](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14271).
+
+> Se modifica por el art. 3 de la Orden ECD/254/2015, de 10 de febrero. [Ref. BOE-A-2015-1621](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1621).
+
+> Se modifica por el art. 4 de la Orden ECD/2428/2014, de 16 de diciembre. [Ref. BOE-A-2014-13413](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13413).
+
+> Se modifica por el art. 3 de la Orden ECD/1098/2014, de 18 de junio. [Ref. BOE-A-2014-6766](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6766).
+
+> Se modifica por el art. 4 de la Orden ECD/505/2014, de 24 de marzo. [Ref. BOE-A-2014-3465](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3465).
+
+> Se modifica por el art. 4 de la Orden ECD/307/2013, de 18 de febrero. [Ref. BOE-A-2013-2221](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2221).
+
+> Se modifica por el art. 4 de la Orden ECD/1320/2012, de 31 de mayo. [Ref. BOE-A-2012-8193](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8193).
+
+> Se modifica por el art. 4 de la Orden CUL/1771/2011, de 20 de junio. [Ref. BOE-A-2011-11099](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11099).
+
+> Se modifica por el art. 4 de la Orden CUL/736/2011, de 28 de marzo. [Ref. BOE-A-2011-6010](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6010).
+
+> Se modifica por el art. 4 de la Orden CUL/474/2011, de 2 de marzo. [Ref. BOE-A-2011-4349](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4349).
+
+> Se modifica por el art. 4 de la Orden CUL/2657/2010, de 7 de octubre. [Ref. BOE-A-2010-15723](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15723).
+
+> Se modifica por el art. 3 de la Orden CUL/542/2010, de 2 de marzo. [Ref. BOE-A-2010-3981](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3981).
+
+> Se modifica por el art. 3 de la Orden CUL/461/2010, de 18 de febrero. [Ref. BOE-A-2010-3333](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3333).

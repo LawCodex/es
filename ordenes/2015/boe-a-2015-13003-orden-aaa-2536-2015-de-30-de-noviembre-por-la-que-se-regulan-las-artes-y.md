@@ -1,0 +1,967 @@
+---
+title: "Orden AAA/2536/2015, de 30 de noviembre, por la que se regulan las artes y modalidades de pesca marítima y se establece un plan de gestión para los buques de los censos del Caladero Nacional Canario"
+identifier: "BOE-A-2015-13003"
+eli: "https://www.boe.es/eli/es/o/2015/11/30/aaa2536"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-11-30
+published: 2015-12-01
+in_force_from: 2015-12-01
+last_amended: 2023-04-28
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 287"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-13003"
+retrieved: 2026-10-11
+---
+
+# Orden AAA/2536/2015, de 30 de noviembre, por la que se regulan las artes y modalidades de pesca marítima y se establece un plan de gestión para los buques de los censos del Caladero Nacional Canario
+
+Esta norma pasa a denominarse "Orden AAA/2536/2015, de 30 de noviembre, por la que se regulan las artes y modalidades de pesca marítima y se establece un plan de gestión para los buques de los censos del Subcaladero Canario", según establece el art. único.1 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+El Reglamento (UE) n.º 1380/2013, del Parlamento y del Consejo, de 11 de diciembre de 2013, sobre la política pesquera común, tiene como objetivo fundamental garantizar una explotación sostenible de los recursos pesqueros vivos y de la acuicultura en el marco de un desarrollo sostenible, teniendo en cuenta de manera equilibrada los aspectos económicos, medioambientales y sociales.
+
+En particular, el artículo 7 regula los tipos de medidas que podrán llevarse a cabo, entre los cuales figuran el establecimiento de objetivos para la conservación y explotación sostenible de las poblaciones y las medidas conexas necesarias para minimizar la repercusión de la pesca en el medio marino, de tallas mínimas de referencia a efectos de conservación, de la regulación de las características de los artes de pesca y las normas relativas a su utilización, de limitaciones o prohibiciones en la utilización de determinados artes de pesca y en las actividades de pesca, en determinadas zonas o determinados periodos, así como la obligación de que buques pesqueros dejen de faenar en una zona determinada durante un periodo mínimo establecido.
+
+El Reglamento (CE) n.º 850/98, del Consejo, de 30 de marzo de 1998, para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos, ha regulado las dimensiones mínimas de las mallas de las redes de enmalle en las aguas comunitarias y, entre ellas, las de la Región 5, en la que se engloba el caladero nacional de Canarias. Además establece que los Estados miembros ribereños podrán legislar en el ámbito territorial de aplicación de los mismos, adoptando medidas complementarias de protección, conservación y gestión siempre que tales medidas sean únicamente aplicables a los pescadores del Estado miembro de que se trate, compatibles con el Derecho de la Unión y conformes a la Política Pesquera Común.
+
+Asimismo, el Reglamento (CE) n.º 1224/2009, del Consejo, de 20 de noviembre de 2009, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común, adopta medidas encaminadas a asegurar el cumplimiento de todas las normas integradas en esta política y su observancia con carácter global, de conformidad con el principio de proporcionalidad y muy especialmente las definiciones concretas de cada concepto, arte o actividad desarrollada, los principios generales que habrían de regir el cumplimiento de las normas en lo referido a las personas y organismos en los ámbitos geográficos en que se apliquen y las condiciones de concesión y utilización de las licencias y autorizaciones otorgadas para el acceso a las aguas y explotación de los recursos.
+
+Por su parte, la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, establece entre sus fines los de velar por la explotación equilibrada y responsable de los recursos pesqueros y, así, establece en su artículo 8 que el titular del Departamento podrá adoptar medidas de regulación del esfuerzo pesquero, encontrándose entre las mismas la limitación del tiempo de actividad pesquera. Asimismo, la referida ley establece en su artículo 12 que, con el objeto de proteger, conservar y recuperar los recursos pesqueros y previo informe del Instituto Español de Oceanografía, el titular del Departamento podrá establecer fondos mínimos, zonas o periodos de veda, en los que se limite o se prohíba el ejercicio de las actividades pesqueras o la captura de determinadas especies, así como adoptar aquellas otras medidas que se consideren necesarias.
+
+Por otro lado, una adecuada gestión de las pesquerías precisa de la adopción de ciertas medidas técnicas. Mediante esta orden se pretende poner fin a la dispersión normativa existente, agrupando las distintas medidas técnicas que afecten a los distintos segmentos de flota que faenan en aguas del caladero nacional canario. Con base en el principio de simplificación administrativa, conviene condensar en una misma norma los preceptos que incluyen las diferentes órdenes hoy en vigor respecto de las pesquerías del caladero nacional de Canarias.
+
+En efecto, las características del citado caladero de Canarias vienen dadas por su escasa plataforma insular (dado su origen volcánico) y por presentar aguas poco productivas (oligotróficas), lo que conlleva una baja productividad pesquera demersal y una alta dependencia de la pesquería de túnidos. La estrategia pesquera para realizar una actividad racional y sostenible es, por tanto, diversificar la actividad lo máximo posible para no producir la sobreexplotación de determinados recursos, en especial de las especies demersales. Por ello, en la gestión del caladero de Canarias se estima oportuno permitir la polivalencia de sistemas de pesca.
+
+Las modalidades de pesca que se practican con artes menores tienen gran importancia económica y social en el litoral de Canarias, afectando a un elevado número de embarcaciones, la mayoría de pequeño porte, con una notable repercusión sobre los recursos pesqueros de dicho caladero. Asimismo la pesca de cerco también tiene una notable importancia económica y social en el archipiélago, con una relevante repercusión sobre los recursos pelágicos de dicho caladero. Las particulares características de la pesca de cerco en las islas Canarias respecto al resto del caladero nacional, así como la necesaria actualización de la citada normativa para estas aguas, hacen aconsejable la adopción de medidas concretas al respecto. Por último, en el caladero de Canarias faenan barcos de palangre, siendo necesario recoger disposiciones para regular el ejercicio de la pesca con este arte.
+
+Debe destacarse que las especies capturadas en el caladero de Canarias sometidas a regulación de tallas mínimas, así como dichas tallas, están recogidas en el anexo III del Real Decreto 560/1995, de 7 de abril, por el que se establece las tallas mínimas de determinadas especies pesqueras.
+
+Por último, debe destacarse que la aprobación de la presente orden supone una unificación de la normativa actualmente vigente en un único instrumento, la cual se lleva a cabo tras la derogación del Real Decreto 2200/1986, de 19 de septiembre, de regulación de artes y modalidades de pesca en aguas del caladero canario, mediante Real Decreto 1076/2015, de 27 de noviembre, por el que se deroga el Real Decreto 2200/1986, de 19 de septiembre, de regulación de artes y modalidades de pesca en aguas del caladero canario, y se modifica el Real Decreto 560/1995, de 7 de abril, por el que se establecen las tallas mínimas de determinadas especies pesqueras, en relación a determinadas tallas mínimas autorizadas para el caladero de Canarias (publicado en el ‘Boletín Oficial del Estado’ de 28 de noviembre). El tiempo transcurrido desde la promulgación de dicha norma hace necesaria la actualización y la seguridad jurídica aconseja refundir toda la regulación del mencionado caladero en un solo instrumento.
+
+La presente norma se dicta al amparo de la competencia exclusiva sobre la pesca marítima que posee el Estado al amparo de la regla 19ª del artículo 149.1 de la Constitución Española.
+
+Se ha efectuado el trámite de comunicación a la Comisión Europea previsto en el artículo 46 del Reglamento (CE) n.º 850/1998, del Consejo, de 30 de marzo de 1998, para la conservación de los recursos pesqueros a través de medidas técnicas de protección de los juveniles de organismos marinos.
+
+En la elaboración de la presente orden se ha consultado al sector pesquero y a la comunidad autónoma de Canarias, así como al Instituto Español de Oceanografía y a la Agencia Española de Protección de Datos.
+
+En su virtud, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado, dispongo:
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. La presente orden tiene por objeto regular el ejercicio de la pesca que realicen los buques de pabellón español en las aguas exteriores del caladero nacional de Canarias.
+
+2\. Las normas contenidas en la presente orden serán de aplicación a los buques de pabellón español inscritos en el Censo de la Flota Pesquera Operativa, censados en las modalidades autorizadas en esta orden para el caladero de Canarias.
+
+3\. La presente orden será de aplicación sin perjuicio de lo que al respecto establecen el Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales, el Real Decreto 560/1995, de 7 de abril, por el que se establecen las tallas mínimas de determinadas especies pesqueras, y la Orden ARM/2017/2011, de 11 de julio, por la que se establece el control de los desembarques de más de 10 toneladas de arenque, caballa y jurel.
+
+4\. La pesquería del atún rojo se regirá por lo dispuesto en el Real Decreto 46/2019, de 8 de febrero, por el que se regula la pesquería de atún rojo en el Atlántico Oriental y el Mediterráneo. Igualmente, los buques que pertenezcan al Censo unificado de Palangre de Superficie se regirán por la Orden AAA/658/2014, de 22 de abril, por la que se regula la pesca con el arte de palangre de superficie para la captura de especies altamente migratorias, no estando autorizados para realizar actividad pesquera en aquellas zonas de la presente orden reservadas para otras modalidades.
+
+> Se modifica el apartado 4 por el art. único.2 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Se modifica el apartado 3 por la disposición final 4.1 del Real Decreto 502/2022, de 27 de junio. [Ref. BOE-A-2022-10675](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10675)
+
+#### Artículo 2. Definiciones.
+
+1\. Aparejos de anzuelo:
+
+a) Línea de mano, cordel o liña: Aparejo vertical constituido por una línea madre de la que penden brazoladas o sedales con anzuelos (comederos). En su extremo final suele presentar un lastre que la mantiene vertical. La línea puede ser de mano y de caña.
+
+b) Línea o amaño para pesca del alto: Liña dirigida a especies demersales profundas. La línea madre es de gran longitud y presenta una plomada. El número de anzuelos simples, dobles o triples oscila entre 1 y 30.
+
+c) Puyón: Línea corta de mano, provista de un anzuelo y lastrada, que se utiliza por uno o más pescadores profesionales, que operan nadando, a pulmón libre, en la superficie del agua en las proximidades de la embarcación pesquera.
+
+d) Caña: Utensilio de pesca que facilita el uso del sedal. Presenta muchas variantes en función de la modalidad de pesca a realizar, especies objetivo (superficie o fondo), profundidad, etc. Pueden usarse con boya o con carrete (manual, eléctrico, hidráulico). Entre otras destacan las cañas para túnidos (de distinta longitud y material) y la caña para vieja*(**Sparisoma cretense**)*.
+
+e) Curricán o currica: Aparejo horizontal constituido por una línea madre que se remolca por una embarcación que navega a la velocidad apropiada para la especie a capturar. En su extremo se disponen anzuelos unidos a cebos artificiales (señuelos) o naturales. Los aparejos o curricanes van armados sobre cañas o tangones o se manejan a mano.
+
+f) Palangre de fondo: Aparejo de anzuelo, fijo al fondo, que consta de una línea madre horizontal del que penden brazoladas verticales, a las que se empatan los anzuelos. En los extremos y a lo largo de la línea madre van dispuestos los necesarios elementos de fondeo y flotación, que permiten mantener los anzuelos a las profundidades convenientes.
+
+g) Palangre de media agua: aparejo de anzuelo calado entre medias aguas que mantiene su flotabilidad gracias a los cabeceros y cabeceros intermedios, regulando así la profundidad deseada. Para mantenerlo en suspensión, lleva en el extremo inferior un peso de 3 a 10 kilos que lo mantendrá firme. Consta de una línea madre horizontal de la que penden brazoladas verticales a las que se unen los anzuelos. Dicho arte no tiene la consideración de arte fijo a los efectos de capturas accesorias de pez espada (Xiphias gladius), conforme a lo dispuesto en Orden AAA/658/2014, de 22 de abril, por la que se regula la pesca con el arte de palangre de superficie para la captura de especies altamente migratorias. La especie objetivo de este arte es el sable negro (Aphanopus carbo).
+
+2\. Artes de trampa:
+
+a) Nasas: Las nasas son artes fijos de fondo, construidos en forma de cesto, barril o jaula, compuestas por un armazón metálico revestido de malla biodegradable. Están provistas de una o más aberturas, bocas o mataderos de extremos lisos, que permiten la entrada de las especies al habitáculo interior. Tiene una puerta para extraer las capturas Las nasas pueden calarse individualmente o mediante un aparejo denominado tanda, tren o cacea, en el que cada nasa se une a una relinga llamada madre a intervalos regulares.
+
+b) Tambor para morenas: Arte fijo de fondo de forma cilíndrica que tiene en ambos lados una trampa cónica formada por unas varillas flexibles, que permite la entrada de la morena pero no la salida. Posee una puerta en la parte superior para sacar la captura.
+
+3\. Artes de izada: Formada por un aro metálico circular, rígido o flexible, que soporta una red o entramado metálico o de hilo en forma de bolsa o saco. El arte cuelga de un número variable de vientos según el tamaño del mismo. En su extremo superior estos vientos se reúnen en un cabo principal que se anuda a un vástago con el que se maneja. Localmente recibe distintos nombres como pandorga, gueldera o tarralla.
+
+4\. Artes de enmalle:
+
+a) Trasmallo: Arte de enmalle fijo al fondo, formado por piezas de dos o tres paños de red que se arman conjuntamente entre dos cuerdas o relingas. De ellos los dos paños exteriores son de iguales dimensiones y del mismo tamaño de malla y diámetro del hilo. El paño interior podrá ser de mayor extensión que los anteriores aunque tendrá una malla de tamaño inferior.
+
+b) Cazonal, Red de enmalle o paños: arte de enmalle de forma rectangular formado por un solo paño extendido entre dos relingas que se cala fijo y vertical sobre el fondo.
+
+5\. Arte de cerco: Red de forma rectangular, cuyos extremos terminan en puños, que circunda cardúmenes de especies pelágicas dando lugar al embolsamiento del pescado. Se distinguen los siguientes artes de cerco:
+
+a) Sardinal o traíña: Red de cerco para captura de pequeños pelágicos costeros como la caballa, el chicharro, la sardina, la boga y el boquerón. El cuerpo principal de la red está formado por largos paños rectangulares y delimitado horizontalmente en toda su longitud por resistentes tiras de red, que se denominan «cadenetas» de plomos y de corchos según conecten el cuerpo de la red con la relinga inferior o superior respectivamente.
+
+b) Chinchorro de aire o hamaca: Red de cerco autorizada para captura de cebo vivo o muerto para la pesca principalmente de grandes y pequeños túnidos, así como pequeños pelágicos. Consiste en un saco de cuya abertura o boca parten dos largas redes más o menos rectangulares, que constituyen sus alas o mangas, cuyos extremos terminan en calones de madera que las unen a cabos de tracción. Todas las partes del chinchorro están compuestas de multitud de paños.
+
+c) Salemera: variante de red de cerco destinada principalmente a la captura de salema (Sarpa salpa) y galana (Oblada melanura), así como otras especies principales o accesorias, tal y como establece el artículo 9, apartados 3 y 4. Está sujeta a la superficie mediante una relinga con boyas, estando dotada de una jareta para accionar el copo o saco en el que se junta la captura, siendo las paredes del arte verticales hasta el fondo.
+
+6\. Útiles:
+
+Vara de peto: Vara de madera en cuyo extremo se instala una punta de gran tamaño en forma de anzuelo o arpón corto, pudiendo tener una o varias puntas. El anzuelón se dispone mirando al frente y se une a una liña o cordel que permite recobrar la pieza al impactar la vara, rompiéndose el «falso» que une la liña a la vara.
+
+> Se añade una letra g) al apartado 1 y se modifica la letra c) del apartado 5 por el art. único.3 y 4 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+## CAPÍTULO II — Artes de pesca
+
+### Sección 1.ª Normas comunes
+
+#### Artículo 3. Artes de pesca autorizados en el caladero nacional de Canarias.
+
+1\. Sin perjuicio de lo establecido en el punto tercero del artículo 1, las modalidades autorizadas en el caladero nacional de Canarias serán:
+
+a) Artes menores, que incluirán las siguientes artes de pesca: aparejos de anzuelo (línea de mano, línea o amaño para pesca del alto, caña, puyón, palangre de fondo, palangre de media agua, curricán o currica), artes de trampa (nasas y tambor para morenas), artes de izada (pandorga, gueldera o tarralla), artes de enmalle (trasmallo y cazonal), artes de cerco (sardinal o traíña, chichorro de aire o hamaca y salemera) y vara de peto.
+
+El uso de artes menores será polivalente para las embarcaciones incluidas en el censo de artes menores, pudiendo llevar a bordo simultáneamente y ejercer la actividad con varios artes o aparejos de los autorizados en esta orden. Las embarcaciones con una eslora total mayor de 15 metros tendrán una limitación a la utilización simultánea de las artes de cerco, cañas, liñas para túnidos y palangre, pudiendo sólo llevar a bordo uno de estos tipos de artes y/o aparejos al día, excepto cuando capturen cebo vivo para la captura de túnidos para lo que podrán llevar a bordo simultáneamente cañas y arte de cerco. El titular de la embarcación deberá comunicar previamente el arte de pesca que vaya a utilizarse al Área Funcional de Agricultura y Pesca de la Delegación del Gobierno en Canarias, que podrá llevar a cabo las ulteriores comprobaciones que se estimen necesarias.
+
+b) Atuneros cañeros que se dedican exclusivamente a esta actividad. Podrán utilizar cañas y liñas con cebo vivo para túnidos y artes de cerco para la captura de carnada.
+
+2\. Se prohíbe la tenencia a bordo de cualquier arte, aparejo o útil de pesca diferente de los enumerados en este artículo para cada modalidad o de los que pueda autorizarse por la normativa autonómica.
+
+> Se modifica el primer párrafo de la letra a) del apartado 1 por el art. único.5 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Se modifica el apartado 1.a) por el art. único.1 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+> Redactado el apartado 1.a) conforme a la corrección de errores publicada por Orden AAA/63/2016, de 26 de enero. [Ref. BOE-A-2016-821](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-821).
+
+#### Artículo 4. Prohibiciones en el ejercicio de la pesca en el caladero nacional de Canarias.
+
+Se prohíbe cualquier forma de pesca de arrastre, tanto si se realiza con arte remolcado por embarcación como si se practica sin embarcación desde la orilla.
+
+> Se modifica por el art. único.2 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+#### Artículo 4 bis. Balizamiento de artes menores y artes de trampa.
+
+El balizamiento de los artes menores y artes de trampa por dentro de las 12 millas se efectuará conforme a lo estipulado en los artículos 11 a 17 del Reglamento de Ejecución (UE) n.° 404/2011 de la Comisión, de 8 de abril de 2011, que establece las normas de desarrollo del Reglamento (CE) n.° 1224/2009 por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común, o mediante cualquier otro sistema equivalente que permita el control de los artes.
+
+> Se modifica por el art. único.6 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Téngase en cuenta la disposición transitoria única de la citada Orden hasta que se desarrolle el sistema de control previsto en este artículo.
+
+> Se añade por el art. único.3 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+### Sección 2.ª Artes menores
+
+#### Artículo 5. Clasificación de los artes menores.
+
+Los artes de pesca incluidos en la modalidad de artes menores podrán ser:
+
+a) De regulación regional: Sus características y normas de uso serán las mismas en todo el caladero. Se incluyen todos los aparejos de anzuelo (línea, amaño para pesca del alto, caña, currica, palangre de fondo y puyón), los artes de cerco (cerco, chinchorro, salemera, traíña y sardinal) y los artes de izada (pandorga, gueldera o tarralla).
+
+b) De regulación insular: Sus características y normas de uso podrán adaptarse y tener especificidades propias de cada isla, regulándose sus características en la presente orden, en su caso. Se incluyen los artes de trampa (nasas y tambores para morena), los artes de enmalle (trasmallos y cazonal) y vara de peto.
+
+> Se modifica la letra a) por el art. único.4 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+> Redactada la letra a) conforme a la corrección de errores publicada por Orden AAA/63/2016, de 26 de enero. [Ref. BOE-A-2016-821](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-821).
+
+#### Artículo 6. Esfuerzo pesquero ejercido.
+
+Los posibles aumentos de esfuerzo pesquero, medido tanto en arqueo bruto (GT) como en potencia motriz (kW), que pudieran suponer los cambios o intercambios de censo a las modalidades de pesca reguladas por esta orden se harán de acuerdo a lo regulado en el artículo 9 del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales.
+
+> Se modifica por la disposición final 4.2 del Real Decreto 502/2022, de 27 de junio. [Ref. BOE-A-2022-10675](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10675)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 186 de 4 de agosto de 2022. [Ref. BOE-A-2022-13110](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13110)
+
+#### Artículo 7. Potencia y eslora máxima de las embarcaciones de artes menores.
+
+1\. La potencia motriz de los motores de los buques de artes menores será de 258 kW. Estos buques no podrán superar los 18 metros de eslora total, excepto los que figuran en el anexo IV.
+
+Esta eslora total y potencia motriz no se exigirán para los atuneros cañeros que cambien de modalidad a artes menores.
+
+> Se deroga el apartado 2 por la disposición derogatoria única de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Se modifica el apartado 1 por la disposición final 4.3 del Real Decreto 502/2022, de 27 de junio. [Ref. BOE-A-2022-10675](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10675)
+
+### Sección 3.ª Artes de cerco
+
+#### Artículo 8. Características técnicas de los artes de cerco.
+
+Los artes de cerco tendrán las siguientes características:
+
+a) Sardinal o traiña: Tendrá una luz de malla mínima de 10 milímetros. Sus dimensiones máximas serán de 350 metros de longitud, sin incluir calones y puños, y 80 metros de altura.
+
+b) Chinchorro de aire o hamaca: Tendrá una luz de malla mínima de 10 milímetros. Sus dimensiones máximas serán de 125 metros de alas, 18 metros de copo y una altura máxima de 100 metros. Excepcionalmente podrá usarse una luz de malla mínima de 8 milímetros para captura de güelde blanco o abichón (*Atherina presbyter*) y longorón o boquerón (*Engraulis encrasicolus*).
+
+c) Salemera: Su longitud total no podrá ser superior a 250 metros y la altura máxima de 25 metros. La luz de malla no podrá ser inferior a 70 milímetros. En el caso de El Hierro, el copo podrá tener un mínimo de 25 milímetros, ajustándose el resto de la red a los 70 milímetros de luz de malla.
+
+d) Cerco de altura: tendrá una luz de malla de 14 mm. Sus dimensiones máximas serán de 450 metros con alas, incluido el copo y una altura máxima de 100 metros.
+
+e) Traíña para captura de güelde blanco y boquerón como cebo vivo. Tendrá una malla de 8 mm. Sus dimensiones máximas serán de 160 metros de alas incluido el copo y una altura máxima de 50 metros. Este arte tan sólo se podrá utilizar para la captura de las especies:
+
+1.ª Güelde blanco o abichón (*Atherina presbyter*).
+
+2.ª Longorón o boquerón (*Engraulis encrasicolus*).
+
+> Se modifica la letra c) por el art. único.7 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Se modifica la letra b) y se añaden d) y e) por el art. único.5 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+#### Artículo 8 bis. Condiciones y zonas autorizadas para la pesca con salemera.
+
+1\. La pesca con salemera se podrá ejercer desde el 1 de junio al 31 de agosto de cada año, ambos inclusive, en las aguas exteriores de todas las islas, para aquellas embarcaciones expresamente autorizadas, salvo en Gran Canaria y La Gomera, donde el uso de la salemera no está permitido.
+
+2\. Las solicitudes de aquellas embarcaciones que deseen ser autorizadas para faenar con salemera se dirigirán, a través de las cofradías de pescadores, a la Dirección General de Ordenación Pesquera y Acuicultura del Ministerio de Agricultura, Pesca y Alimentación antes del 30 de noviembre de cada año anterior a su uso. Deberán presentarse por medios electrónicos en el registro electrónico, accesible a través de su sede electrónica asociada, en virtud del artículo 14, apartados 2 y 3, de la Ley 39/2015, de 1 de octubre.
+
+3\. Las solicitudes deberán reflejar, al menos, los siguientes datos:
+
+a) El nombre y dirección de los titulares de los buques afectados.
+
+b) El nombre, matrícula, folio y código del buque conforme al Registro General de la Flota Pesquera.
+
+c) Cofradía a la cual pertenece.
+
+d) Periodo de actividad en que quiere ejercer dicha pesca.
+
+4\. El Instituto Español de Oceanografía emitirá un informe, a petición de la Secretaría General de Pesca, en el que se evaluará el estado de los recursos en función del esfuerzo pesquero ejercido por las embarcaciones que hayan estado usando la salemera en el periodo anterior. Dicho informe será remitido, en su caso, a la Secretaría General de Pesca antes del 30 de noviembre de cada año.
+
+5\. La Dirección General de Ordenación Pesquera y Acuicultura dictará y notificará resolución, en la que se autorizará a cada buque la posibilidad de faenar con salemera, en el plazo máximo de un mes desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación, y será notificada por medios electrónicos en los términos previstos en los artículos 40 y 43 de la Ley 39/2015, de 1 de octubre, momento en el que la autorización será efectiva, siempre antes del 31 de diciembre de cada año anterior a su uso. De conformidad con lo dispuesto en el artículo 42.5 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, esa notificación se practicará mediante la puesta a disposición del interesado a través de la Dirección Electrónica Habilitada Única (DEHú), pudiendo, de forma complementaria a lo anterior, notificarse en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+Si en el plazo de un mes no se hubiera dictado y notificado la resolución, la solicitud podrá entenderse desestimada, de acuerdo con la disposición adicional segunda de la Ley 5/2023, de 17 de marzo, de pesca sostenible e investigación pesquera, sin perjuicio de la obligación de la Administración de contestar expresamente a la solicitud formulada.
+
+6\. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la Secretaría General de Pesca, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquél en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se añade por el art. único.8 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+#### Artículo 9. Especies autorizadas para pescar con los artes de cerco.
+
+1\. Especies principales autorizadas para la traiña y hamaca:
+
+a) Boga*(Boops boops)*.
+
+b) Longorón o boquerón*(Engraulis encrasicolus)*.
+
+c) Caballas*(Scomber spp)*.
+
+d) Chicharros o jureles*(Trachurus spp)*.
+
+e) Machuelo o sardina arencada*(Sardinella maderensis)*.
+
+f) Sardina de ley o sardina*(Sardina pilchardus)*.
+
+g) Sardina amarilla, alacha o sardinela atlántica*(Sardinella aurita).*
+
+h) Palometa o palometón*(Trachinotus ovatus)*.
+
+j) Agujón*(Tylosurus acus y Belone belone)*.
+
+2\. Especies accesorias autorizadas para la traíña y la hamaca:
+
+a) Melva *(Auxis rochei rochei)*.
+
+b) Pejerrey o anchova *(Pomatomus saltatrix)*.
+
+c) Bicuda, barracuda o espetón *(Sphyraena viridensis)*.
+
+d) Bonito sierra *(Sarda sarda).*
+
+e) Medregales *(Seriola spp).*
+
+Se entenderá por accesorias que las capturas de estas especies no supondrán más de un 10% en peso vivo del total de las capturas. En el caso de Tenerife, y sólo para los medregales, el porcentaje será del 20% en peso vivo de la captura total.
+
+3\. Especies principales autorizadas para la salemera:
+
+– Salema (Sarpa salpa)
+
+– Galana (Oblada melanura)
+
+La suma del peso vivo de estas especies debe suponer, al menos, el 60% del peso vivo de la captura total.
+
+Además, las siguientes especies principales no podrán suponer una suma de peso vivo que supere el 40% del peso vivo de la captura total:
+
+– Palometa o palometón (Trachinotus ovatus).
+
+– Boga (Boops boops).
+
+– Chopa (Spondyliosoma cantharus).
+
+– Sargos (Diplodus ssp.).
+
+– Herrera (Lithognathus mormyrus).
+
+– Agujón (Tylosurus acus y Belone belone).
+
+– Lebrancho (Mugilidae).
+
+– Jurel (Pseudocaranx dentex).
+
+4\. Al margen de las especies principales citadas en el apartado anterior, se permite la captura de cualquier otra especie como captura accidental, siempre y cuando no suponga más un 10% del peso vivo de la captura total, o bien más del 10% del número total de ejemplares capturados.
+
+5\. Especies autorizadas a pescar para su empleo como carnada (cebo vivo y/o muerto):
+
+a) Güelde blanco o abichón *(Atherina presbyter).*
+
+b) Boga *(Boops boops).*
+
+c) Longorón o boquerón *(Engraulis encrasicolus).*
+
+d) Caballas *(Scomber spp).*
+
+e) Jureles o chicharros *(Trachurus spp).*
+
+f) Machuelo o sardina arencada *(Sardinella maderensis).*
+
+g) Sardina de ley o sardina *(Sardina pilchardus).*
+
+h) Sardina amarilla, alacha o sardinela atlántica *(Sardinella aurita).*
+
+i) Trompetero, picuillo o filudo *(Macroramphosus scolopax).*
+
+j) Especies de moluscos cefalópodos: calamar *(Loligo vulgaris)*, pulpo *(Octopus vulgaris)* y choco *(Sepia officinalis).*
+
+El güelde blanco podrá ser autorizado como cebo vivo y como cebo muerto en las pesquerías de liñas de superficie y fondo en todo el archipiélago, excepto en la isla de El Hierro (superficie y fondo), donde sólo podrá ser empleado como cebo vivo para la pesca de túnidos con cañas y líneas.
+
+> Se modifican los apartados 3 y 4 por el art. único.9 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Redactado el apartado 2 y el 4.a) conforme a la corrección de errores publicada por Orden AAA/63/2016, de 26 de enero. [Ref. BOE-A-2016-821](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-821).
+
+#### Artículo 10. Utilización de la carnada como cebo vivo y/o muerto, y como engodo.
+
+1\. En el ejercicio de la actividad pesquera profesional podrán capturarse ejemplares de especies pesqueras (peces y moluscos cefalópodos) para su utilización exclusiva como carnada (cebo vivo y/o cebo muerto) en los anzuelos, aparejos y artes autorizados, y como engodo para atraer el pescado objeto de captura.
+
+2\. Se entiende por «cebo muerto» los ejemplares de especies pesqueras y/o marisqueras que, una vez capturados, se mantengan muertos, enteros o fragmentados, bien para su utilización como carnada en los sistemas de pesca autorizados, o bien como engodo.
+
+3\. Se entiende por «cebo vivo» cuando dichos ejemplares se mantengan vivos para su empleo en la pesca con los aparejos y artes autorizados o liberándolos como engodo.
+
+4\. Sólo se permite el uso de cebo muerto, como carnada y engodo, en los siguientes aparejos y artes:
+
+a) Cañas.
+
+b) Liñas.
+
+c) Currica.
+
+d) Nasas.
+
+e) Palangre de fondo.
+
+f) Gueldera.
+
+h) Tambor para morenas.
+
+5\. Solo se permite el uso de cebo vivo, como carnada y engodo, empleándose los siguientes aparejos:
+
+a) Cañas y liñas para túnidos.
+
+b) Liñas para fondo y superficie para especies demersales y pelágicas distintas de túnidos.
+
+c) Currica.
+
+6\. La carnada, para su uso como cebo vivo y cebo muerto y engodo, podrá capturarse con, poteras, gueldera, traíña y chinchorro de aire o hamaca (peces), con una luz de malla como mínimo de 10 mm salvo las excepciones contempladas en el artículo 8 de esta orden para la captura de cebo vivo de güelde blanco o abichón (*Atherina presbyter*) y longorón o boquerón (*Engraulis encrasicolus*). El uso de las mallas de 8 mm implicará una captura máxima por día de no más de 150 kilos entre ambas especies.
+
+7\. Las embarcaciones no podrán utilizar más de un bote auxiliar para las tareas de pesca con luz artificial en la captura de cebo vivo o carnada.
+
+8\. Se puede conservar el cebo vivo en jaulas y/o pandorgas fondeadas en lugares costeros y muelles, siempre que cumpla con las condiciones de uso de dichos lugares recogidas en la correspondiente normativa sectorial, contando con las autorizaciones necesarias expedidas por las autoridades competentes para usos en tales lugares.
+
+Las jaulas y pandorgas estarán debidamente identificadas reflejando los datos del buque (nombre, matrícula y código de flota operativo) propietario de cada jaula o pandorga.
+
+9\. Queda prohibida la comercialización del cebo, ya sea vivo o muerto.
+
+10\. La actividad pesquera de cebo vivo queda exceptuada de las normas que en la presente orden regulan el esfuerzo pesquero, así como del cumplimiento de las relativas a tallas mínimas contempladas en el Real Decreto 560/1995, de 7 de abril, por el que se establece las tallas mínimas de determinadas especies pesqueras, no pudiendo capturar ni tener a bordo especies distintas a las específicas del cebo vivo.
+
+La actividad pesquera de cebo muerto queda exceptuada de las normas que en la presente orden regulan el esfuerzo pesquero, pero no del cumplimiento de las relativas a tallas mínimas contempladas en el Real Decreto 560/1995, de 7 de abril, por el que se establece las tallas mínimas de determinadas especies pesqueras, no pudiendo capturar ni tener a bordo especies distintas a las específicas del cebo muerto.
+
+11\. Las asociaciones pesqueras y de armadores colaborarán con las administraciones pesqueras para evitar la venta de carnada y la introducción de inmaduros en el mercado mediante venta de cebo vivo. A tales efectos elevarán control documental de las capturas destinadas a carnada y almacenadas en sus instalaciones, estando disponible para las autoridades de inspección cuando sea requerida.
+
+> Se modifican los apartados 4 y 6 por el art. único.6 y 7 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+### Sección 4.ª Artes de trampa
+
+#### Artículo 11. Características técnicas de los artes de trampa.
+
+1\. Nasas para peces: La nasas para peces tendrá como máximo 110 centímetros de altura y 390 centímetros de diámetro para las circulares o de lado en el caso de nasas cuadradas o poder ser encuadradas en un cuadro de 390 centímetros de lado en el caso de las poliédricas. La malla será de material degradable y la luz de malla mínima de 50,8 mm para las nasas que sean igual o superior a 300 cm de diámetro. Ninguna nasa podrá tener una luz de malla inferior a 31,6 milímetros. Las nasas deberán contar con al menos una puerta o algún componente estructural de la nasa de dimensiones suficientes para el paso de las capturas, unido mediante un material que se degrade en un periodo no superior a 2 meses y permita la salida del pescado en caso de pérdida de la nasa.
+
+Las mallas serán de forma hexagonal de lados iguales y paralelos dos a dos. La abertura de la malla se medirá según el anexo V.
+
+De forma general, el número máximo de nasas autorizadas por embarcación será de 30. No obstante y dentro de un plan de pesca insular, que deberá ser aprobado mediante resolución de la Secretaría General de Pesca, y que podrá autorizar un número mayor por embarcación en función de la superficie de la plataforma insular. Este plan deberá incluir medidas adicionales de reducción de esfuerzo y de protección de las especies más sensibles y llevar aparejados en el tiempo estudios periódicos del impacto del aumento del número de nasas respecto a la norma general.
+
+La profundidad mínima para fondear nasas es de 18 metros para todas las nasas de menos de 300 cm de diámetro o de lado y de 50 metros para el resto de nasas.
+
+2\. Tambores para morena: Las dimensiones máximas autorizadas serán de 60 cm de diámetro y 100 cm de altura. El número máximo de tambores por embarcación será de 25, salvo en El Hierro que será de 10.
+
+3\. Estas características técnicas así como el número de nasas podrán ser revisadas y modificadas si dicho cambio es avalado por estudios científicos que evalúen el impacto que producen estos artes tanto en el recurso como en los hábitats sensibles. Dichos eventuales estudios deberán ser remitidos a la Dirección General de Recursos Pesqueros y Acuicultura para que esta pueda ponerlos a disposición del Instituto Español de Oceanografía para su evaluación.
+
+> Se modifica el apartado 1 por el art. único.8 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada por Orden APA/515/2019, de 26 de abril. [Ref. BOE-A-2019-6885](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6885)
+
+#### Artículo 12. Control de las nasas.
+
+1\. Solo podrán dedicarse a la pesca con nasas aquellas embarcaciones que en el momento de publicarse esta orden lo hayan venido haciendo con una anterioridad de al menos diez años, concediéndoseles un plazo de tres meses desde la entrada en vigor de esta orden, para que cada armador formule una declaración responsable, que será presentada en la respectiva Cofradía de Pescadores, que será quién lo comunique a la Dirección General de Recursos Pesqueros y Acuicultura.
+
+Los barcos con una antigüedad menor de diez años en el uso de nasas que sean fruto de un expediente de nueva construcción en que se hubiera aportado un buque de baja con cuyo cómputo sí se cumpla esa antigüedad de al menos diez años en el uso de nasas, también podrán usar este arte.
+
+Quienes no hayan presentado la citada declaración responsable en el mencionado plazo de tres meses tendrán prohibido faenar con este arte.
+
+En dicha declaración se indicará:
+
+a) Nombre del barco.
+
+b) Matrícula y código de flota operativo.
+
+c) Número de nasas que está utilizando.
+
+d) Dimensiones de las nasas.
+
+e) Zona y profundidad donde habitualmente pesca con las mismas.
+
+En caso de pérdida de alguna nasa por algún barco, éste lo notificará a la Cofradía de Pescadores correspondiente para que a su vez ésta lo notifique a las autoridades de inspección, que podrán autorizar la substitución de la nasa perdida por otra, lo que también dará lugar a la presentación de otra declaración responsable.
+
+2\. Se crea en la Secretaría General de Pesca el Registro de Nasas del Caladero Nacional de Canarias, siendo obligatorio para todos los titulares de los buques que vayan a pescar con este aparejo estar inscritos en el mismo.
+
+El registro se confeccionará con los datos resultantes de las declaraciones responsables previstas en el apartado anterior.
+
+El registro será actualizado cada año antes del 15 de febrero por la Dirección General de Recursos Pesqueros y Acuicultura.
+
+Los barcos que se den de baja por ser aportados en expedientes de nueva construcción serán substituidos en el registro por el nuevo barco, el cual deberá actualizar la placa de identificación de las nasas prevista en el apartado 3.
+
+3\. Las nasas se identificarán con una placa en la que figurará la siguiente información:
+
+a) Número de código operativo (CFO) y nombre del buque que faena con esas nasas.
+
+b) En función de la isla a la que pertenezca el puerto base de cada barco se identificará la nasa con las siguientes siglas: TF (Tenerife), PAL (La Palma), GC (Gran Canaria), FUE (Fuerteventura), LAN (Lanzarote).
+
+c) Número individual de cada una de las nasas, que será correlativo hasta el número máximo de nasas que lleve el barco.
+
+4\. Anualmente se podrán establecer normas más detalladas para el control de las nasas a través de resolución de la Secretaría General de Pesca Marítima, publicada en el «Boletín Oficial del Estado».
+
+#### Artículo 13. Restricciones para la pesca con nasas para peces.
+
+1\. Queda prohibida la pesca con nasas para peces en las aguas exteriores de las zonas que seguidamente señalan:
+
+a) Isla de Fuerteventura, sin perjuicio del Plan de Pesca contenido en el anexo I.
+
+b) Islas de Lanzarote y La Graciosa: se prohíbe en El Río: zona delimitada por las líneas que unen Punta Pedro Barba (La Graciosa) con Punta Fariones (Lanzarote) y Punta del Pobre (La Graciosa) con Punta Guinate (Lanzarote).
+
+c) Isla de la Gomera.
+
+d) Isla de El Hierro.
+
+2\. En el resto de zonas del caladero no citadas en este artículo y que estén dentro de los límites de una reserva marina, se tendrán en cuenta las limitaciones al uso de nasas que existieran en esa reserva.
+
+### Sección 5.ª Artes de enmalle
+
+#### Artículo 14. Condiciones de uso y características técnicas de los artes de enmalle.
+
+1\. Con carácter general, estará prohibido cerrar bahías y caletones. Los elementos para fondear el arte tendrán el peso suficiente para que el arte no derive.
+
+2\. Los artes de enmalle no podrán calarse a más de 200 metros de profundidad, de acuerdo con lo dispuesto en el artículo 9.6 del Reglamento (UE) 2019/1241 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, sobre la conservación de los recursos pesqueros y la protección de los ecosistemas marinos con medidas técnicas, y por el que se modifican los Reglamentos (CE) n.° 1967/2006 y (CE) n.° 1224/2009 del Consejo y los Reglamentos (UE) n.° 1380/2013, (UE) 2016/1139, (UE) 2018/973, (UE) 2019/472 y (UE) 2019/1022 del Parlamento Europeo y del Consejo, y por el que se derogan los Reglamentos (CE) n.° 894/97, (CE) n.° 850/98, (CE) n.° 2549/2000, (CE) n.° 254/2002, (CE) n.° 812/2004 y (CE) n.° 2187/2005 del Consejo.
+
+3\. El uso de los artes de enmalle queda expresamente prohibido en áreas de sebadales o praderas de fanerógamas marinas que en su caso se establezcan.
+
+4\. El periodo máximo de calamento y recogida de estos artes comprenderá desde dos horas antes del ocaso del domingo hasta las 11:00 horas del viernes y, en todo caso, no podrá haber ningún arte calado desde las 11:00 horas hasta dos horas antes del ocaso. Desde las 11:00 horas del viernes hasta dos horas antes del ocaso del domingo, será obligatorio retirar y transportar los artes al puerto base.
+
+5\. Los periodos autorizados para usar los artes de enmalle, el número máximo de paños permitidos para cada embarcación, así como el número máximo de paños diarios para cada una de las zonas autorizadas en el artículo 15 se ajustará a lo establecido en el anexo VI.
+
+6\. Trasmallo: La dimensión mínima de las mallas de los paños exteriores será de 400 mm y de 50 mm en el paño interior (medida dicha distancia entre nudos opuestos de la malla, mediante el paso no forzado de un calibrador, estando el arte usado, estirado y mojado). La profundidad mínima de calado será de 15 metros.
+
+Cada una de las piezas de red o paños que componen el arte tendrá una longitud máxima de 72 metros y una altura máxima de 2 metros.
+
+7\. Cazonal: La dimensión mínima de las mallas del paño será de 82 milímetros. Cada pieza tendrá una longitud máxima de 72 metros y la longitud máxima total del arte medido de puño a puño no podrá sobrepasar los 1.080 metros. Para la Isla de Gran Canaria la longitud máxima de cada pieza será de 60 metros con una longitud máxima del arte de 900 metros.
+
+> Se modifica por el art. único.10 de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+> Téngase en cuenta para las condiciones de uso de las artes de enmalle, establecidas en el apartado 5, y sus efectos diferidos la disposicion transitoria única y la disposición final 2.2 de la citada Orden.
+
+> Se modifica el apartado 3 por el art. único.9 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+#### Artículo 15. Zonas autorizadas para la pesca con artes de enmalle.
+
+1\. Los artes de enmalle se emplearán conforme a las condiciones fijadas en el anexo VI.
+
+2\. El uso del trasmallo queda restringido a la isla de Tenerife en la zona de Candelaria delimitada entre la Punta de Güimar (28° 18’ 17’’ N; 016° 21’ 41’’ O) y la Punta de los Abades (28° 08’ 06’’ N; 016° 26’ 30’’ O).
+
+3\. El cazonal podrá ser utilizado en las aguas exteriores de las siguientes zonas:
+
+3.1 Isla de Gran Canaria.
+
+a) Zona Este: desde el paralelo de Roque de Gando (27° 56’ 22’’ N) al paralelo de Punta Jinámar (28° 01’ 38’’ N).
+
+b) Zona de Castillo del Romeral: desde la línea de demora de 159° trazada desde Barco Quebrado (27° 48’ N; 015° 26’ 28’’ O), al meridiano de Punta de Maspalomas (015° 34’ 06’’ O).
+
+c) Zona de Arguineguín: desde el meridiano de Punta de Maspalomas (015° 34’ 06’’ O) a la línea de demora de 225° trazada desde la Punta de la Perra (27° 46’ 49’’ N; 015° 42’ 37’’ O).
+
+d) Zona de Mogán: desde la línea de demora de 225° trazada desde la Punta de la Perra (27° 46’ 49’’ N; 015° 42’ 37’’ O), a la línea de demora de 225° trazada desde la Punta del Perchel (27° 49’ 48’’ N; 015° 46’ 54’’ O).
+
+e) Zona de Agaete: desde la línea de demora de 290° trazada desde la Bajada del Negro (28° 05’ 18’’ N; 015° 42 ̓33’’ O), a la línea de demora de 300° trazada desde el Roque del Puerto (28° 06’ 59’’ N; 015° 42’ 27’’ O).
+
+3.2 Isla de Lanzarote:
+
+a) Sector 1: desde la línea de demora de 110° trazada desde Cabo Ancones (29° 01’ 10’’ N; 013° 27’ 54’’ O), a la línea de demora de 140° trazada desde la Punta Montañosa (28° 56’ 04’’ N; 013° 36’ 32’’ O).
+
+b) Zona de La Santa: desde la línea de demora de 300° trazada desde Volcán Nuevo (29° 04’ N; 013° 46’ 11’’ O), a la línea de demora de 300° trazada desde Las Puntas del Cochino (29° 01’ 39’’ N; 013° 49’ 04’’ O).
+
+3.3 Isla de Tenerife:
+
+a) Zona de Candelaria: desde el paralelo de la Punta de Güimar (28° 18’ 24’’ N) al paralelo del Barranco de Herques (28° 14’ 05’’ N).
+
+b) Zona de Punta del Hidalgo: desde la línea de demora de 330.ª trazada desde el Club Náutico Bajamar (28° 33’ 11’’ N; 016° 21’ 16’’ O) hasta la línea de demora de 315° trazada desde Punta de la Romba (28° 31’ 38’’ N; 016° 24’ 40’’ O).
+
+c) Zona de El Pris: desde la línea de demora de 315° trazada desde Punta de la Romba (28° 31’ 38’’ N; 016° 24’ 40’’ O) hasta la línea de demora de 300° trazada desde la Punta del Viento (28° 31’ 03’’ N; 016° 25’ 18’ O).
+
+3.4 Isla de La Palma:
+
+a) Zona Norte: desde la línea de demora de 050° trazada desde Punta Cumplida (28° 50’ 26’’ N; 017° 46’ 39’’ O) hasta la línea de demora de 305° trazada desde el Porís de Lomada Grande (28° 48’ 45’’ N; 017° 58’ 46’’ O).
+
+b) Zona Oeste: desde la línea de demora de 250° trazada desde el Roque de las Gabaseras (28° 38’ 03’’ N; 017° 56’ 26’’ O) hasta la línea de demora de 250° trazada desde la Punta de La Lava (28° 35’ 50’’ N; 017° 55’ 34’’ O).
+
+c) Zona insular: resto de la isla, salvo las zonas de aguas señaladas en los apartados inmediatamente anteriores.
+
+En la zona que corresponde a la reserva marina de interés pesquero de la Palma queda expresamente prohibido el uso del cazonal.
+
+> Se modifica por el art. único.11 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada por Orden AAA/63/2016, de 26 de enero. [Ref. BOE-A-2016-821](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-821).
+
+### Sección 6.ª Palangre de fondo y palangre de media agua
+
+> Se modifica por el art. único.13 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+#### Artículo 16. Características técnicas del palangre de fondo.
+
+1\. En las aguas de la plataforma en torno a las islas hasta la isobata de 200 metros, la longitud máxima de los palangres no podrá ser superior a 2.000 metros y el número máximo de anzuelos pescando de forma simultánea en los palangres no superará los 500.
+
+Para las pesquerías en aguas del talud de más de 200 metros de profundidad o en fondos más someros no vinculados a la plataforma inmediata entorno a las islas se podrán armar palangres con una longitud máxima de los palangres que no podrá ser superior a 7.000 metros y el número máximo de anzuelos pescando de forma simultánea podrá ser de 2.500 anzuelos. En una misma marea tan solo se podrá realizar la actividad de palangre en una de las dos zonas mencionadas. Las embarcaciones que practiquen la pesca de palangre podrán tener a bordo como máximo hasta el doble de los anzuelos permitidos para la zona en la que estén trabajando, esto es, 1.000 anzuelos preparados para su utilización en la plataforma entorno a las islas y 5.000 anzuelos en las zonas del talud por debajo de 200 metros o fondos no vinculados a la plataforma en el entorno inmediato de las islas.
+
+2\. El palangre de fondo se balizará de acuerdo a lo establecido en el Reglamento de Ejecución (UE) n.º 404/2011, de la Comisión, de 8 de abril de 2011, que establece las normas de desarrollo del Reglamento (CE) n.º 1224/2009, del Consejo, por el que se establece un régimen comunitario de control para garantizar el cumplimiento de las normas de la política pesquera común.
+
+3\. Cuando el palangre se utilice por fuera de las 12 millas deberá balizarse de acuerdo al anexo IV de dicho reglamento. Si se utiliza dentro de las 12 millas, deberá hacerse conforme a los artículos 11 y 12 del mismo.
+
+4\. Se prohíbe el uso del palangre de fondo en las islas de La Gomera y El Hierro.
+
+> Se añade el apartado 4 por el art. único.12 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+> Se modifica el apartado 1 por el art. único.11 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+#### Artículo 16 bis. Características técnicas y condiciones de uso del palangre de media agua.
+
+1\. La profundidad mínima de calado será la isóbata de los 1.000 metros. En cualquier caso, el arte deberá actuar en la columna de agua comprendida entre los 700 y los 900 metros de profundidad.
+
+2\. El número máximo de anzuelos permitidos por embarcación será de 5.000.
+
+3\. Su uso no estará permitido del 1 al 31 de diciembre de cada año.
+
+> Se añade por el art. único.14 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+## CAPÍTULO III — Regulación de las capturas
+
+#### Artículo 17. Cambios temporales de modalidad.
+
+Los cambios temporales de modalidad quedarán regulados por lo dispuesto en el artículo 8 del Real Decreto 502/2022, de 27 de junio, por el que se regula el ejercicio de la pesca en los caladeros nacionales.
+
+> Se modifica por la disposición final 4.4 del Real Decreto 502/2022, de 27 de junio. [Ref. BOE-A-2022-10675](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10675)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 186 de 4 de agosto de 2022. [Ref. BOE-A-2022-13110](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13110)
+
+#### Artículo 18. Topes de capturas.
+
+Para las especies y embarcaciones objeto de esta orden se podrán establecer, oído el sector, topes de capturas o desembarques diarios o semanales cuya cantidad se determinará mediante resolución del Secretario General de Pesca.
+
+Dichos topes podrán afectar a todo el caladero o bien a alguna isla en particular.
+
+#### Artículo 19. Infracciones y sanciones.
+
+El incumplimiento de lo dispuesto en la presente orden se sancionará conforme a lo establecido en el título V de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado.
+
+#### Artículo 20. Seguimiento y evaluación del plan.
+
+A efectos de verificar los resultados de la aplicación del Plan de Gestión, cinco años después de la entrada en vigor del mismo serán analizados sus resultados a partir de las oportunas campañas de evaluación y seguimiento por parte de la Secretaría General de Pesca y de los oportunos informes científicos.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas las siguientes normas:
+
+Orden de 4 de febrero de 1987 por la que se amplía el plazo para la confección del censo de artes de pesca en aguas del caladero canario, de acuerdo con el Real Decreto 2200/1986, de 19 de diciembre.
+
+Orden de 20 de enero de 1995 por la que se prohíbe el uso de nasas para peces en determinada zona del caladero canario.
+
+Orden de 26 de marzo de 1998 por la que se establecen determinadas zonas reservadas para ciertas modalidades pesqueras en aguas del archipiélago de Canarias.
+
+Orden APA/2586/2002, de 11 de octubre, por la que se regula la pesca en la modalidad de «al puyón» en determinada zona del Caladero Nacional de las Islas Canarias.
+
+Orden APA/677/2004, de 5 de marzo, por la que se regula la pesca con artes de cerco en el Caladero Nacional de Canarias.
+
+Orden AAA/948/2013, de 22 de mayo, por la que se establece un plan de pesca con artes de trampa en aguas exteriores de la Isla de Fuerteventura*.*
+
+Asimismo quedan derogadas todas las disposiciones de igual o inferior rango que se opongan a lo dispuesto en esta orden.
+
+#### Disposición final primera. Modificación de la Orden ARM/1683/2011, de 2 de junio, por la que se regulan los ficheros con datos de carácter personal gestionados por el Ministerio de Medio Ambiente, y Medio Rural y Marino.
+
+La Orden ARM/1683/2011, de 2 de junio, por la que se regulan los ficheros con datos de carácter personal gestionados por el Ministerio de Medio Ambiente, y Medio Rural y Marino, se modifica introduciendo un nuevo fichero «Registro de Nasas del Caladero Nacional de Canarias» en el anexo I, apartado Secretaría General de Pesca, con la siguiente redacción:
+
+«Fichero “Registro de Nasas del Caladero Nacional de Canarias”:
+
+a) Identificación del fichero, indicando su denominación, así como la descripción de su finalidad y usos previstos.
+
+a.1) Identificación del fichero: Registro de Nasas del Caladero Nacional de Canarias.
+
+a.2) Finalidad y usos previstos: Gestión de las nasas autorizadas para la pesca marítima exterior en el caladero nacional canario.
+
+b) Origen de los datos, indicando el colectivo de personas sobre los que se pretende obtener datos de carácter personal o que resulten obligados a suministrarlos, el procedimiento de recogida de los datos, y su procedencia.
+
+b.1) Colectivo: Personas físicas o jurídicas relacionadas con el sector pesquero que faenen con nasas en el caladero nacional canario.
+
+b.2) Procedencia: el interesado o su representante legal.
+
+c) Estructura básica del fichero y el sistema de tratamiento utilizado en su organización.
+
+c.1) Estructura: Número de nasas autorizadas e isla, código operativo (CFO) y nombre del buque que faena con esas nasas, armador o propietario (los meramente identificativos y los relacionados con la titularidad del correspondiente buque).
+
+c.2) Sistema de tratamiento: Automatizado.
+
+d) Comunicaciones de los datos previstas, indicando en su caso, los destinatarios o las categorías de destinatarios y legislación aplicable: No hay previstas.
+
+e) Transferencias Internacionales previstas a terceros países, con indicación, en su caso, de los países de destino de los datos: No hay previstas*.*
+
+f) Órganos responsables del fichero: Secretaría General de Pesca.
+
+g) Servicios o unidades ante los que pueden ejercerse los derechos de acceso, rectificación, cancelación y oposición: Secretaría General de Pesca. Calle Velázquez, 144. 28006 Madrid.
+
+h) Nivel básico, medio o alto de seguridad que resulte exigible de acuerdo con lo establecido en el título VIII del RLOPD: Medio.»
+
+#### Disposición final segunda. Tallas mínimas.
+
+Para la regulación de especies y tallas mínimas en el caladero de Canarias se estará a lo dispuesto en del Real Decreto 560/1995, de 7 de abril, por el que se establece las tallas mínimas de determinadas especies pesqueras, en concreto en su anexo III.
+
+#### Disposición final tercera. Título competencial.
+
+La presente orden se dicta al amparo del artículo 149.1.19.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de Pesca Marítima.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+La presente orden entrará en vigor el día 1 de diciembre de 2015.
+
+Madrid, 30 de noviembre de 2015.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente,
+
+Isabel García Tejerina
+
+## ANEXO I — Plan de pesca con artes de trampa en aguas exteriores de la isla de Fuerteventura.
+
+1\. Ámbito de aplicación.
+
+Las normas contenidas en el presente Plan de Pesca serán de aplicación a los buques españoles que ejerciten la pesca con artes de trampa en las aguas exteriores del Caladero Nacional de Canarias situadas al este de la isla de Fuerteventura exclusivamente en alguna de las siguientes zonas:
+
+a) Zona 1 (Morrojable): Entre los paralelos 28º 03 ̓ N y 28º 05 ̓ N.
+
+b) Zona 2 (Gran Tarajal): Entre los paralelos 28º 25 ̓ N y 28º 10 ̓ N.
+
+c) Zona 3 (Corralejo): entre los paralelos 28º 38 ̓ N y 28º 10 ̓ N.
+
+d) Zona 4: Exclusivamente para tambores para morena entre los paralelos 28º 43,8 ̓ N, al nordeste de Fuerteventura y el 28º 40,59 ̓ N al noroeste de Fuerteventura (a la altura del Cotillo).
+
+2\. Artes contemplados en el Plan de Pesca.
+
+En la zona definida en el apartado anterior podrá ejercerse la pesca con los siguientes artes de trampa:
+
+a) Tambores para morenas.
+
+b) Nasas para peces, mediante permiso especial de pesca al efecto.
+
+En el resto de las aguas exteriores de la isla de Fuerteventura queda prohibida la utilización de cualquier tipo de artes de trampa dirigidos a la captura de peces.
+
+3\. Buques autorizados para el ejercicio de la pesca con nasas para peces.
+
+El número máximo de embarcaciones que podrán ejercer la pesca con nasas para peces será de 73. La distribución de estas embarcaciones por puerto base será la siguiente:
+
+a) Corralejo: 27 buques.
+
+b) Gran Tarajal: 35 buques.
+
+c) Morro Jable: 11 buques.
+
+Cada año, con al menos quince días de antelación al comienzo de la pesquería las Cofradías de Pescadores de los tres puertos mencionados deberán remitir a la Dirección General de Ordenación Pesquera el listado de los buques que pretenden ejercer la pesquería, al objeto de que el centro directivo citado expida los correspondientes permisos especiales de pesca.
+
+4\. Características técnicas de los artes.
+
+a) Las características técnicas de los artes regulados por este plan de pesca serán las siguientes:
+
+1.º Tambores para morenas: las dimensiones máximas autorizadas serán de 60 cm de diámetro y 100 cm de altura.
+
+2.º Nasas para peces: las dimensiones máximas autorizadas serán de 200 cm de diámetro y 60 cm de altura. La malla mínima autorizada será de 31,6 mm.
+
+b) En todo caso los materiales de las mallas de las que estén constituidas las trampas deberán ser degradables.
+
+5\. Condiciones de utilización de los artes.
+
+a) Los tambores para morenas podrán ser cebados. Por el contrario, en el caso de las nasas para peces queda prohibido su cebado.
+
+b) Los periodos autorizados para el ejercicio de la pesca con los distintos tipos de artes de trampa, los fondos autorizados para su utilización y el número máximo de trampas por embarcación serán los siguientes:
+
+1.º Tambores para morenas: La pesca con este arte podrá practicarse exclusivamente en el periodo comprendido entre el 1 de septiembre y el 30 de noviembre, y el 1 de febrero y el 30 de abril. Los fondos autorizados serán los comprendidos entre los 5 y los 20 m de profundidad. El número máximo de tambores por embarcación será de 15.
+
+2.º Nasas para peces: La pesca con este arte podrá practicarse exclusivamente en el periodo comprendido entre el 1 de noviembre y el 30 de abril. Los fondos autorizados serán los comprendidos entre los 18 y los 45 m de profundidad. El número máximo de nasas por embarcación será de 12. No obstante, los barcos del puerto de Gran Tarajal no podrán tener entre todos más de 336 nasas.
+
+En el caso de que eventualmente se autorizara un mayor número de buques con licencia para adherirse a este Plan de los establecidos en el apartado 3, el número total de nasas para todos los barcos se mantendrá estable en 792.
+
+6\. Tallas mínimas.
+
+Con independencia de las tallas mínimas establecidas en la normativa general, en el ámbito del presente Plan de Pesca no podrá capturarse, mantenerse a bordo ni comercializarse pulpo con peso unitario inferior a 1 kg.
+
+7\. Evaluación.
+
+La concesión de los permisos temporales de pesca necesarios para faenar con arreglo al presente plan se vinculará a la efectiva transmisión de información sobre capturas del último periodo de pesca a la Dirección General de Recursos Pesqueros y Acuicultura, de modo que esta pueda remitirlos al Instituto Español de Oceanografía para que pueda hacer las correspondientes evaluaciones.
+
+Dicha información deberá ser remitida antes del 20 de mayo de cada año y deberá contener la siguiente información:
+
+Nombre del barco.
+
+Matrícula y CFO.
+
+Puerto base.
+
+Informe de las capturas hechas en kg de peso vivo, especificando la especie capturada y la zona en la que se ha capturado.
+
+En función de los resultados de la evaluación que haga el Instituto Español de Oceanografía sobre la aplicación del plan, la Dirección General de Recursos Pesqueros y Acuicultura podría aprobar modificaciones al mismo.
+
+> Redactado el apartado 5. b) conforme a la corrección de errores publicada por Orden AAA/63/2016, de 26 de enero. [Ref. BOE-A-2016-821](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-821).
+
+## ANEXO II — Zonas reservadas en El Hierro y Fuerteventura para la pesca con determinados artes, aparejos y útiles
+
+1\. Las zonas a las que se restringe la pesca con determinados artes, aparejos y útiles son:
+
+a) Aguas exteriores de la isla de El Hierro comprendidas en el interior del polígono delimitado por los siguientes puntos:
+
+a) 28º 00 ’ N, 18º 15 ’ W.
+
+b) 28º 00 ’ N, 17º 50 ’ W.
+
+c) 27º 30 ’ N, 18º 15 ’ W.
+
+d) 27º 30 ’ N, 17º 50 ’ W.
+
+b) Aguas exteriores de la isla de Fuerteventura comprendidas en el interior del polígono delimitado por los siguientes puntos:
+
+a) 28º 47 ’ N, 14º 5,5 ’ W.
+
+b) 28º 47 ’ N, 13º 38,7 ’ W.
+
+c) 28º 08 ’ N, 13º 47’, 7 ’ W.
+
+d) 27º 53 ’ N, 14º 31,8 ’ W.
+
+e) 27º 51,9 ’ N, 14º 54 ’ W.
+
+f) 28º 21,5 ’ N, 14º 54 ’ W.
+
+g) 28º 23 ’ N, 14º 25 ’ W.
+
+2\. Artes, aparejos y útiles autorizados para la pesca en las zonas delimitadas en el apartado anterior:
+
+a) Artes de cerco:
+
+1.° Traiña o sardinal (en la isla de El Hierro, exclusivamente se podrá usar este arte para la captura de jurel (Trachurus spp), caballa del Atlántico (Scomber colias) y sardina de ley (Sardina pilchardus), con un tope de 200 kg por embarcación y día y para la captura de cebo vivo y muerto).
+
+2.° Chinchorro de aire o hamaca (exclusivamente en la isla de Fuerteventura).
+
+b) Aparejos de anzuelo:
+
+1.º Línea, caña o cordel.
+
+2.º Currica.
+
+3.º Línea o amaño para pesca del alto.
+
+4.º Puyón.
+
+c) Trampas:
+
+1.º Tambor para morenas (en la isla de El Hierro y con un máximo de diez por embarcación).
+
+2.º Pandorga, gueldera o tarralla (sólo para la captura de carnada, la red puede ser metálica o de hilo y la luz de malla mínima no podrá ser inferior a 10mm).
+
+d) Útiles: Vara para peto.
+
+3\. Si cualquiera de las zonas o islas definidas en este anexo está incluida en todo o parte en una reserva marina, primarán las limitaciones que en esa reserva haya para el ejercicio pesquero con respecto de cualquiera de las artes aquí incluidas.
+
+> Se modifca el apartado 2.a) por el art. único.15 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+## ANEXO III — Excepciones relativas a la utilización de algunos artes, aparejos y útiles de pesca
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden APA/422/2023, de 19 de abril. [Ref. BOE-A-2023-10287](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-10287)
+
+## ANEXO IV — Barcos de artes menores con longitud mayor de 18 metros
+
+Hermanos Valdivia Dos (CFO: 25878). Betania (CFO: 22914).
+
+> Redactado conforme a la corrección de errores publicada por Orden AAA/63/2016, de 26 de enero. [Ref. BOE-A-2016-821](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-821).
+
+## ANEXO V — Medición de mallas hexagonales de nasas
+
+Luz de la malla hexagonal:
+
+Distancia medida en ángulos rectos entre dos lados trenzados *M* (véase la figura 1).
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/91/05732_5447.png)
+
+Esta medida deberá ser tomada con flexómetro, midiendo la distancia que ocupan 10 mallas consecutivas incluyendo los nudos, dividir entre 10, y considerar el resultado como la luz de la malla (figura 2).
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/91/05732_5498.png)
+
+Por todo ello, el protocolo es el siguiente:
+
+Se medirá la distancia que ocupan 10 mallas consecutivas en cualquier parte del arte, excepto en las zonas próximas a aberturas, bocas o mataderos de extremos lisos, que permiten la entrada de especies así como en la zonas próximas a la puerta para extraer las capturas. De igual modo al seleccionar las mallas se deberán excluir mallas rotas o reparadas.
+
+La luz de malla será el resultado de dividir la distancia obtenida entre el número de mallas medidas (10).
+
+> Se añade por el art. único.12 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+## ANEXO VI — Condiciones de uso para los artes de enmalle
+
+1\. Trasmallo: podrá calarse durante los meses de febrero, marzo y octubre. El número máximo de paños permitidos para cada embarcación será de 8, con un número máximo de paños diarios calados no superior a 80 en la zona permitida, con un tiempo máximo de calado de 3 horas.
+
+2\. Cazonal: el tiempo máximo de calado será de 3 horas. El número máximo de paños por embarcación, número máximo de paños diarios calados por cada zona, la profundidad mínima de calado, así como las fechas autorizadas para su uso en cada una de las zonas, se ajustarán a lo siguiente:
+
+2.1 Isla de Gran Canaria.
+
+a) Zona Este:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 1 de septiembre al 31 de diciembre.
+
+b) Zona de Castillo del Romeral:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 16 de agosto al 14 de diciembre.
+
+c) Zona de Arguineguín:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 16 de enero al 30 de abril.
+
+d) Zona de Mogán:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 1 de mayo al 14 de julio.
+
+e) Zona de Agaete:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 1 de mayo al 30 de septiembre.
+
+2.2 Isla de Lanzarote.
+
+a) Sector 1:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 1 de septiembre al 15 de diciembre.
+
+b) Zona de la Santa:
+
+– Número de paños por embarcación: 15.
+
+– Número máximo de paños diarios: 120.
+
+– Profundidad mínima de calado: 18 metros.
+
+– Fechas autorizadas para su uso: del 1 de junio al 30 de septiembre.
+
+2.3 Isla de Tenerife.
+
+a) Zona de Candelaria:
+
+– Número de paños por embarcación: 10.
+
+– Número máximo de paños diarios: 80.
+
+– Profundidad mínima de calado: 15 metros.
+
+– Fechas autorizadas para su uso: 1 de mayo a 31 de agosto, ambos inclusive.
+
+b) Zona de Punta del Hidalgo:
+
+– Número de paños por embarcación: 10.
+
+– Número máximo de paños diarios: 80.
+
+– Profundidad mínima de calado: 15 metros.
+
+– Fechas autorizadas para su uso: 1 de mayo a 31 de agosto, ambos inclusive.
+
+c) Zona de El Pris:
+
+– Número de paños por embarcación: 10.
+
+– Número máximo de paños diarios: 80.
+
+– Profundidad mínima de calado: 15 metros.
+
+– Fechas autorizadas para su uso: 1 de mayo a 31 de agosto, ambos inclusive.
+
+2.4 Isla de La Palma.
+
+a) Zona Norte:
+
+– Número de paños por embarcación: 10.
+
+– Número máximo de paños diarios: 80.
+
+– Profundidad mínima de calado: 10 metros.
+
+– Fechas autorizadas para su uso: 1 de abril a 30 de septiembre, ambos inclusive.
+
+b) Zona Oeste:
+
+– Número de paños por embarcación: 10.
+
+– Número máximo de paños diarios: 80.
+
+– Profundidad mínima de calado: 15 metros.
+
+– Fechas autorizadas para su uso: 1 de abril a 30 de septiembre, ambos inclusive.
+
+c) Zona insular:
+
+– Número de paños por embarcación: 10.
+
+– Número máximo de paños diarios: 80.
+
+– Profundidad mínima de calado: 15 metros.
+
+– Fechas autorizadas para su uso: 21 de enero a 30 de octubre, ambos inclusive.
+
+> Se añade por el art. único.16 de la Orden APA/441/2019, de 9 de abril. [Ref. BOE-A-2019-5732](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5732)
+
+> Téngase en cuenta para las condiciones de uso de las artes de enmalle y sus efectos diferidos, la disposicion transitoria única y la disposición final 2.2 de la citada Orden.

@@ -1,0 +1,179 @@
+---
+title: "Real Decreto 685/2010, de 20 de mayo, por el que se regula el otorgamiento de permiso temporal de navegación para determinadas embarcaciones de recreo"
+identifier: "BOE-A-2010-9713"
+eli: "https://www.boe.es/eli/es/rd/2010/05/20/685"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2010-05-20
+published: 2010-06-19
+in_force_from: 2010-06-20
+last_amended: 2023-03-22
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 149"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-9713"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 685/2010, de 20 de mayo, por el que se regula el otorgamiento de permiso temporal de navegación para determinadas embarcaciones de recreo
+
+La náutica de recreo ha experimentado un importante auge en los últimos años. La variedad de diseños y nuevos materiales utilizados en la construcción de las embarcaciones de recreo ha dado lugar tanto a la proliferación de los modelos existentes en el mercado como a la mejora de las condiciones de adquisición y acceso a las mismas.
+
+El crecimiento referido anteriormente deviene en la necesidad de que los adquirentes de dichas embarcaciones deban acudir a exposiciones, salones náuticos o locales de las empresas importadoras, constructoras o concesionarias establecidas en los puertos, para poder comparar las diferentes embarcaciones e incluso proceder a la prueba de las mismas en el medio marino como paso previo a su adquisición.
+
+Con el fin de realizar dichas actividades, se estima preciso regular el otorgamiento de permisos temporales de navegación para las embarcaciones de recreo que, sin estar matriculadas, realizan las actividades expuestas en los párrafos anteriores, sin perjuicio de que se establezcan cuantos requisitos sean precisos para salvaguardar la seguridad de la navegación, de la vida humana en la mar y del medio marino.
+
+Este real decreto se dicta de conformidad con lo dispuesto por el artículo 74.1 y 3 de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, en relación con el artículo 149.1.20.ª de la Constitución española, y durante su tramitación se ha procedido a otorgar el trámite de audiencia a las entidades e interlocutores sociales más representativos del sector de la náutica deportiva y náutico-profesional, se sometió a informe del Ministerio de Economía y Hacienda y del Ministerio de Política Territorial.
+
+En su virtud, a propuesta del Ministro de Fomento, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de mayo de 2010.
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto tiene por objeto regular el otorgamiento de permisos temporales de navegación a las embarcaciones de recreo no matriculadas que, al ser exhibidas en exposiciones, salones náuticos, puertos o lugares utilizados por las empresas importadoras, constructoras, concesionarias o distribuidoras antes de su adquisición, sean probadas mediante la realización de actividades de exhibición en aguas interiores marítimas y mar territorial sobre los que España ejerce su soberanía, en las condiciones que se establecen en esta norma.
+
+2\. Asimismo, es objeto de este real decreto la regulación de los permisos temporales que se otorguen a las embarcaciones para ser destinadas a los centros o eventos a que se refiere el apartado anterior tengan que desplazarse por mar entre dos o más puertos o instalaciones marítimas españolas.
+
+3\. Cuando las embarcaciones deban desplazarse por mar entre dos puertos o instalaciones marítimas españolas, surcando aguas marítimas internacionales, el permiso temporal regulado por este real decreto tendrá la consideración de pasavante provisional al que se refiere el artículo 22 del real decreto 1027/1989, de 28 de julio, sobre abanderamiento, matriculación de buques y Registro marítimo.
+
+4\. A los efectos de lo previsto en este real decreto se entiende por embarcación de recreo toda embarcación civil de cualquier tipo, con independencia de su medio de propulsión, cuyo casco tenga una eslora comprendida entre 2,5 y 24 metros y esté destinada a la realización de actividades de recreo u ocio o para la pesca no profesional, susceptible de matricularse en las listas 6.ª y 7.ª reguladas por el Real Decreto 1027/1989.
+
+## Artículo 2. Iniciación del procedimiento.
+
+1\. El procedimiento se iniciará a instancia de las empresas importadoras, constructoras, concesionarias o distribuidoras, mediante solicitud conforme al modelo que figura como anexo I.
+
+2\. Los impresos para formalizar las solicitudes podrán obtenerse en la sede de las capitanías y distritos marítimos o en la Dirección General de la Marina Mercante o página web correspondiente.
+
+Será preciso formalizar un impreso de solicitud por cada embarcación.
+
+## Artículo 3. Documentación exigible.
+
+A las solicitudes reguladas en el artículo anterior, deberá adjuntarse los siguientes documentos:
+
+a) Número de identificación de la embarcación (CIN).
+
+b) Copia de la declaración escrita de conformidad de las embarcaciones y de los motores o marcado CE. En el caso de que se tratase de prototipos que no dispusieran del marcado CE, se deberán acompañar los cálculos que demuestren la categoría de diseño de las embarcaciones, así como su estabilidad y francobordo.
+
+c) Declaración responsable de la empresa solicitante de que las embarcaciones para las que se solicita el permiso temporal disponen a bordo del siguiente equipamiento:
+
+El regulado por la Orden FOM 1144/2003, de 28 de abril, por la que se regulan los equipos de seguridad, salvamento, contra incendios, navegación y prevención de vertidos de aguas sucias, que deben llevar a bordo las embarcaciones de recreo, en función de la zona marítima donde se realice la navegación.
+
+El exigido para las zonas marítimas donde se realice la navegación de acuerdo con el Real Decreto 1185/2006, de 16 de octubre, por el que se aprueba el Reglamento por el que se regulan las radiocomunicaciones marítimas a bordo de los buques civiles españoles y la normativa en su desarrollo.
+
+En el caso de que las embarcaciones debieran estar dotadas de radiobalizas de localización de siniestros, deberán disponer de las hojas de registro y programación de las mismas.
+
+d) Cuando se trate de embarcaciones fabricadas y provenientes de países terceros, la empresa solicitante deberá adjuntar copia del certificado de adeudo aduanero o del DUA o certificado de la empresa importadora del cumplimiento de los trámites aduaneros.
+
+## Artículo 4. Presentación de las solicitudes.
+
+Las solicitudes dirigidas a la Dirección General de la Marina Mercante se presentarán por medios electrónicos de acuerdo con lo establecido en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 186/2023, de 21 de marzo. [Ref. BOE-A-2023-7410](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7410)
+
+## Artículo 5. Tramitación y resolución.
+
+1\. El procedimiento de otorgamiento de los permisos temporales de navegación se tramitará y resolverá por la Dirección General de la Marina Mercante en el plazo de 15 días desde su entrada en el registro de la sede electrónica asociada del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+2\. En el caso de que la resolución fuera favorable, se expedirá el correspondiente permiso, conforme al modelo que figura como anexo II de este real decreto, en el que se hará constar el plazo de validez del permiso concedido, que en ningún caso podrá ser superior a los seis meses.
+
+3\. Si trascurrido el plazo a que se refiere el apartado primero de este artículo no hubiese recaído resolución expresa, la solicitud se entenderá denegada, de conformidad con lo dispuesto en la disposición adicional vigésima novena. 2 y su anexo II de la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+> Se modifica el apartado 1 por la disposición final 2.2 del Real Decreto 186/2023, de 21 de marzo. [Ref. BOE-A-2023-7410](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7410)
+
+## Artículo 6. Recursos.
+
+Contra las resoluciones del Director General de la Marina Mercante podrá interponerse recurso de alzada ante el Secretario General de Transportes en el plazo de un mes contado a partir del día siguiente al de la recepción de la notificación.
+
+## Artículo 7. Asignación de señales identificativas.
+
+En el certificado se asignará a las embarcaciones y buques una señal alfanumérica que coincidirá con el número de identificación (CIN) y que deberá llevarse adherida o pintada en el casco, con pintura o material indeleble, en caracteres oscuros sobre fondo claro o en caracteres claros sobre fondo oscuro en función del color de la pintura del buque.
+
+## Artículo 8. Requisitos exigidos a los tripulantes y personal a bordo.
+
+1\. El gobierno de las embarcaciones de recreo deberá estar a cargo de personal con la titulación profesional náutica o la titulación náutico-deportiva adecuada a la eslora de la embarcación y a la distancia de navegación.
+
+2\. La Dirección General de la Marina Mercante establecerá el número de tripulantes, en función del tamaño y tipo de embarcación, la zona de navegación y la duración de ésta.
+
+3\. En los supuestos previstos en el apartado 1 del artículo 1, el número máximo de personas a bordo que se podrá autorizar no superará al estipulado en la declaración escrita de conformidad o, en su caso, en la documentación técnica de la embarcación, debiendo existir equipo de seguridad y salvamento para todas las personas a bordo, que deberán ser potenciales adquirientes de la embarcación o personal perteneciente a la empresa responsable de la misma.
+
+En ningún caso, los permisos a los que se refiere el apartado 1 del artículo 1 habilitarán para la realización de actividades de exhibición en periodos nocturnos en condiciones meteorológicas y oceanográficas adversas o alejándose más de cinco millas del puerto base ni de dos de la línea de costa.
+
+4\. Durante los desplazamientos a los que se refiere el apartado segundo del artículo 1 solamente podrá ir a bordo personal adscrito a la empresa responsable de la embarcación.
+
+> Se modifica el apartado 3 por la disposición final 2.3 del Real Decreto 186/2023, de 21 de marzo. [Ref. BOE-A-2023-7410](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7410)
+
+## Artículo 9. Disponibilidad de los permisos.
+
+Los permisos temporales, así como las prórrogas de los mismos, se llevarán a bordo de las embarcaciones para las que fueron otorgados y se exhibirán a las autoridades marítimas a requerimiento de éstas.
+
+## Artículo 10. Prórrogas de los permisos.
+
+1\. Los permisos temporales de navegación regulados por este real decreto podrán ser prorrogados por el Director General de la Marina Mercante a petición de las empresas interesadas. La prórroga se concederá por periodos iguales a los que fueron otorgados, siempre que se mantengan las condiciones y elementos de seguridad de la embarcación y de personal exigidos, así como la vigencia del seguro de responsabilidad civil regulado en el artículo siguiente.
+
+Para una misma embarcación podrán solicitarse permisos temporales de navegación o prórrogas sucesivas que no podrán extenderse más de cinco años a contar desde la fecha de emisión del primer permiso temporal.
+
+Transcurridos dos años y medio desde la fecha de emisión del primer permiso temporal de navegación, la embarcación deberá superar un reconocimiento de tipo extraordinario con el alcance de los reconocimientos periódicos definidos en el artículo 3.B del Real Decreto 1434/1999, de 10 de septiembre, por el que se establecen los reconocimientos e inspecciones de las embarcaciones de recreo para garantizar la seguridad de la vida humana en la mar y se determinan las condiciones que deben reunir las entidades colaboradoras de inspección.
+
+2\. La petición de la prórroga deberá realizarse conforme al formulario que figura en el anexo I de este real decreto, se dirigirá al Director General de la Marina Mercante y se presentará en la sede electrónica asociada del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+3\. La resolución por la que se conceda la prórroga se notificará al interesado conforme al formato establecido en el anexo III. Esta resolución deberá adoptarse y notificarse en un plazo máximo de 15 días desde que la solicitud hubiera tenido entrada en el registro de la sede electrónica asociada del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+4\. Transcurrido el plazo a que se hace referencia en el apartado anterior sin que recaiga resolución, los permisos temporales se prorrogarán automáticamente por periodos iguales y sucesivos a los fijados en la resolución por la que se otorgó el permiso inicial.
+
+5\. Contra las resoluciones del director general otorgando o denegando las prórrogas de los permisos temporales, se podrá interponer el recurso regulado en el artículo 6.
+
+> Se modifica por la disposición final 2.4 del Real Decreto 186/2023, de 21 de marzo. [Ref. BOE-A-2023-7410](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7410)
+
+## Artículo 11. Seguro de responsabilidad civil.
+
+Todas las embarcaciones deberán tener la correspondiente cobertura del seguro de responsabilidad civil de suscripción obligatoria en vigor, durante el tiempo que dure el evento de que se trate, en los términos establecidos por el Real Decreto 607/1999, de 16 de abril, por el que se aprueba el Reglamento del seguro de responsabilidad civil de suscripción obligatoria para embarcaciones de recreo o deportivas.
+
+## Artículo 12. Seguimiento y control.
+
+Una vez otorgados los permisos temporales de navegación en los términos del artículo 5 o concedida su prórroga, de acuerdo con el artículo 10, el seguimiento y control de los mismos se realizará por la Dirección General de la Marina Mercante a través de las capitanías marítimas y los distritos marítimos.
+
+## Artículo 13. Régimen sancionador.
+
+El incumplimiento de las obligaciones reguladas en este real decreto constituye infracción administrativa en el ámbito de la marina civil, siendo clasificadas, según su gravedad, conforme a los artículos 114, 115 y 116 de la Ley 27/1992 y sancionado conforme lo establecido en el capítulo IV del título IX de la citada ley. Asimismo será de aplicación la regulación contenida en los correspondientes reglamentos sobre procedimiento sancionador, desarrollados tanto en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora como en el anexo II del Real Decreto 1772/1994, de 5 de agosto, por el que de se adecuan los procedimientos administrativos en materia de transportes terrestres, aviación civil y marina mercante a la Ley 30/1992.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de las competencias exclusivas que en materia de Marina Mercante otorga al Estado el artículo 149.1.20.ª de la Constitución española.
+
+## Disposición final segunda. Habilitación normativa.
+
+1\. Se autoriza al Director General de la Marina Mercante para dictar los actos de ejecución necesarios para la aplicación de este real decreto.
+
+2\. Asimismo, se faculta al Director General de la Marina Mercante para modificar los anexos de este real decreto, cuando ello venga exigido por modificaciones legislativas o por motivos técnicos.
+
+## Disposición final tercera. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Barcelona, el 20 de mayo de 2010.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+JOSÉ BLANCO LÓPEZ
+
+> ANEXO I
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2023/69/7410_12963791_1.png)
+
+> Se sustituye por la disposición final 2.5 del Real Decreto 186/2023, de 21 de marzo. [Ref. BOE-A-2023-7410](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7410)
+
+## ANEXO II — Permiso temporal de navegación para determinadas embarcaciones de recreo
+
+![4823.png](https://www.boe.es/datos/imagenes/disp/2010/149/09713_4823.png)
+
+## ANEXO III — Prórroga de permiso temporal de navegación para determinadas embarcaciones de recreo
+
+![4965.png](https://www.boe.es/datos/imagenes/disp/2010/149/09713_4965.png)
+
+> Se suprime el anexo III y se renumera el contenido del anexo IV como anexo III por la disposición final 2.6 del Real Decreto 186/2023, de 21 de marzo. [Ref. BOE-A-2023-7410](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7410)

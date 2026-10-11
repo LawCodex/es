@@ -1,0 +1,185 @@
+---
+title: "Orden AAA/2444/2015, de 19 de noviembre, por la que se establecen medidas de emergencia preventivas frente a la fiebre aftosa en el Magreb"
+identifier: "BOE-A-2015-12528"
+eli: "https://www.boe.es/eli/es/o/2015/11/19/aaa2444"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-11-19
+published: 2015-11-20
+in_force_from: 2015-11-21
+last_amended: 2018-07-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 278"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12528"
+retrieved: 2026-10-11
+---
+
+# Orden AAA/2444/2015, de 19 de noviembre, por la que se establecen medidas de emergencia preventivas frente a la fiebre aftosa en el Magreb
+
+La fiebre aftosa es una de las enfermedades más contagiosas para el ganado bovino, ovino, caprino y porcino. El virus puede propagarse rápidamente, en particular, a través de productos procedentes de animales infectados y de objetos inanimados contaminados, incluidos medios de transporte como los vehículos de ganado.
+
+Esta enfermedad es endémica en Libia y se confirmó en Túnez en abril de 2014 y en Argelia en julio de 2014.
+
+Por ello, se aprobó la Decisión de ejecución de la Comisión, de 29 de septiembre de 2014, sobre medidas para impedir la introducción en la Unión del virus de la fiebre aftosa procedente de Argelia, Libia, Marruecos o Túnez, con el objetivo de garantizar que todos los vehículos de ganado y los buques que transporten animales vivos a Argelia, Libia y Túnez se limpien y desinfecten adecuadamente, y que la limpieza y la desinfección estén debidamente documentadas en la declaración presentada por el operario o conductor a la autoridad competente en el punto de entrada.
+
+Los Estados miembros pueden someter los vehículos que transporten pienso procedente de países infectados a una desinfección sobre el terreno. Por otro lado, la importación y el tránsito en nuestro país de determinadas categorías de équidos desde Argelia, Libia y Túnez está autorizada. Por lo que la Decisión permite a los Estados miembros someter a los vehículos de ganado que transporten équidos procedentes de dichos terceros países a una desinfección sobre el terreno para atenuar el riesgo de introducción de la fiebre aftosa en la Unión.
+
+La situación sanitaria en relación a la fiebre aftosa de los países del norte de África sitúa a nuestro país, en primer término y a la Unión Europea, después, en una posición de riesgo inminente de transmisión de la enfermedad.
+
+La declaración de fiebre aftosa en Marruecos acerca más aún la enfermedad a España y, por ello, es necesario establecer una serie de medidas urgentes para prevenir la entrada de esta enfermedad en nuestro territorio.
+
+Si bien la importación de animales de granja de las especies porcina, bovina, ovina y caprina desde Argelia, Libia, Túnez y Marruecos no está permitida por la legislación de la Unión Europea, se deben considerar otras vías probables de transmisión de la enfermedad y establecer medidas preventivas.
+
+Por otro lado, de acuerdo con el artículo 4 del Reglamento (CE) n.º 206/2009 de la Comisión, de 5 de marzo de 2009, relativo a la introducción en la Comunidad de partidas personales de productos de origen animal y por el que se modifica el Reglamento (CE) n.º 136/2004, los operadores de viajes internacionales, incluidos los explotadores de aeropuertos y puertos y las agencias de viajes, así como los servicios postales, deben llamar la atención de sus clientes acerca de las normas establecidas en dicho Reglamento.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1, regla 16.ª, primer inciso, de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de sanidad exterior, y de acuerdo con lo previsto en el artículo 8 de la Ley 8/2003, de 24 de abril, de Sanidad Animal, que faculta a la Administración General del Estado para adoptar las medidas correspondientes para prevenir la introducción en territorio nacional de enfermedades de los animales de declaración obligatoria, entre las cuales se encuentra la fiebre aftosa.
+
+Esta orden será de aplicación hasta que por la Comisión Europea se adopten medidas específicas ante la reciente declaración de fiebre aftosa en Marruecos.
+
+En su virtud, dispongo:
+
+## Artículo 1. Objeto.
+
+La presente orden tiene por objeto establecer una serie de medidas de aplicación inmediata con el fin de prevenir la entrada de la fiebre aftosa en nuestro país desde Argelia, Libia, Marruecos y Túnez.
+
+## Artículo 2. Introducción de animales vivos y productos de origen animal en el territorio nacional.
+
+1\. Todas las importaciones de productos de origen animal obtenidos a partir de animales susceptibles a la fiebre aftosa procedentes de Argelia, Libia, Marruecos y Túnez, deberán cumplir las siguientes condiciones:
+
+a) El tratamiento aplicado al producto deberá ser suficiente para inactivar el virus de la fiebre aftosa, de acuerdo con las indicaciones del código sanitario para los animales terrestres de la Organización Mundial de la Sanidad Animal (OIE).
+
+b) El producto ha sido objeto de todas las precauciones necesarias para evitar que vuelva a contaminarse tras el tratamiento.
+
+c) El producto se ha envasado en envases nuevos o que han sido limpiados y desinfectados con un agente químico de reconocida eficacia frente al virus.
+
+Cuando estas condiciones no vengan recogidas en los modelos de certificados establecidos por la legislación de la Unión Europea, los productos vendrán acompañados por un certificado adicional del veterinario oficial del país de origen.
+
+Queda prohibida la importación de estiércol transformado procedente de Argelia, Libia, Marruecos y Túnez.
+
+2\. Queda prohibida la introducción en Ceuta y Melilla de partidas personales de carne y productos cárnicos, leche y productos lácteos de Argelia, Libia, Marruecos y Túnez.
+
+3\. La entrada de équidos procedentes de Argelia, Libia, Marruecos y Túnez en el territorio nacional, incluyendo Ceuta y Melilla, solo será posible cuando:
+
+a) Junto con el certificado de acuerdo al modelo establecido por la legislación de la Unión Europea, vengan acompañados con una declaración adicional firmada por un veterinario oficial, en la que se indique que los animales no proceden de una explotación en la que existan animales susceptibles a la Fiebre Aftosa, y la explotación se encuentre situada en una zona en la que en un radio de 10 km no se ha producido ningún foco de la enfermedad;
+
+b) El vehículo en el que se transportan los animales ha sido limpiado y desinfectado con un agente químico de reconocida eficacia frente al virus, lo que se acreditará con el correspondiente documento expedido en las instalaciones de limpieza y desinfección del tercer país de origen desde el cual se accede al territorio nacional. En dicho documento, constará, al menos, la fecha de limpieza y desinfección, el producto utilizado, y su concentración;
+
+c) Se limpien y desinfecten los cascos de los équidos con un agente químico de reconocida eficacia frente al virus, en el Puesto de Inspección Fronterizo de entrada al territorio nacional.
+
+> Se modifica por el art. único de la Orden AAA/2719/2015, de 16 de diciembre. [Ref. BOE-A-2015-13691](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13691)
+
+## Artículo 3. Prohibición de entrada de animales vivos y productos animales y de origen animal desde Ceuta y Melilla.
+
+1\. Queda prohibida la entrada al resto del territorio nacional de heno, paja, y animales vivos de las especies susceptibles a la fiebre aftosa desde Ceuta y Melilla, así como de los productos animales y de origen animal, con excepción de la reimportación de los productos de la pesca y la acuicultura y sin perjuicio de las disposiciones contempladas en el Reglamento (CE) n.º 206/2009 de la Comisión, de 5 de marzo de 2009, relativo a la introducción en la Comunidad de partidas personales de productos de origen animal y por el que se modifica el Reglamento (CE) n.º 136/2004.
+
+Sin embargo, podrá aceptarse la entrada en el resto del territorio nacional de heno o paja acompañando a animales desde las citadas ciudades de Ceuta y Melilla, cuando el origen de dichos productos sea España u otro Estado miembro de la Unión Europea, y esta condición sea certificada por un veterinario oficial de Ceuta o Melilla, según proceda.
+
+2\. La entrada de équidos desde las ciudades de Ceuta y Melilla al resto de España, solo será posible cuando el origen de los équidos sea Ceuta o Melilla, y se limpien y desinfecten los cascos de los mismos con un agente químico de reconocida eficacia frente al virus en el Puesto de Inspección Fronterizo de entrada al territorio peninsular.
+
+No obstante, no será necesario realizar la limpieza y desinfección de los cascos en el Puesto de Inspección Fronterizo, cuando los animales vayan acompañados de un certificado emitido por un veterinario oficial de Ceuta o Melilla, según proceda, en el que se indique que los cascos de los animales han sido limpiados y desinfectados con un agente químico de reconocida eficacia frente al virus, inmediatamente antes de la carga de los animales en el vehículo de transporte.
+
+> Se modifica por el art. único de la Orden AAA/2719/2015, de 16 de diciembre. [Ref. BOE-A-2015-13691](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13691)
+
+## Artículo 4. Desinfección de vehículos de transporte por carretera.
+
+1\. Deberán limpiarse y desinfectarse, con un agente químico de reconocida eficacia frente al virus, antes de su llegada al territorio nacional todos los vehículos de transporte por carretera procedentes de Argelia, Libia, Marruecos y Túnez que transporten o hayan transportado:
+
+a) Ungulados vivos.
+
+b) Piensos, entendiendo por pienso cualquier producto destinado a la alimentación animal, pero sin incluir los piensos destinados a acuicultura.
+
+c) Paja o heno.
+
+En particular, esta limpieza y desinfección se realizará sobre el compartimento para ganado y la carrocería del camión si procede, la rampa de carga, las ruedas y la cabina del conductor, así como los equipos que hayan estado en contacto con los animales, la ropa y las botas de protección utilizadas durante la carga o descarga.
+
+La limpieza y desinfección del vehículo debe hacerse inmediatamente antes de salir hacia España, de manera que una vez limpio y desinfectado, no circulen porzonas infectadas de fiebre aftosa, existiendo riesgo de que el vehículo se vuelva a contaminar.
+
+2\. La limpieza y desinfección se acreditará con el correspondiente documento expedido en las instalaciones de limpieza y desinfección del tercer país de origen desde el cual se accede al territorio nacional. En dicho documento, constará, al menos, la fecha de limpieza y desinfección, la matrícula del vehículo, el producto utilizado, y su concentración.
+
+3\. Los citados vehículos serán desinfectados nuevamente en el punto de llegada al territorio nacional con un agente químico de reconocida eficacia frente al virus. No obstante, ello no será obligatorio para los vehículos contemplados en la Disposición transitoria única.
+
+4\. Solo podrán introducirse en el territorio nacional los vehículos de transporte por carretera mencionados en el apartado 1, desde Argelia, Libia, Marruecos y Túnez, a través de puertos o puntos de entrada que dispongan de instalaciones, personal, material y dispositivos adecuados para la desinfección de dichos vehículos.
+
+5\. Las Autoridades Portuarias y, en su caso, las entidades o Administración gestora de los puertos titularidad de las comunidades autónomas, pondrán a disposición del órgano competente las instalaciones existentes necesarias para la desinfección. La limpieza y desinfección tendrá la consideración de servicio comercial de acuerdo con lo previsto en el Real Decreto Legislativo 2/2011, de 5 de septiembre, por el que se aprueba el texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, y será prestado por empresas que cumplan los requisitos que establezca a estos efectos el Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+6\. El veterinario oficial establecerá el procedimiento de actuación relativo a la desinfección de los vehículos y la emisión de los correspondientes certificados.
+
+7\. Los gastos de la desinfección serán por cuenta del operador económico titular del medio de transporte, y se podrán exigir anticipadamente. A estos efectos tendrá la consideración de operador económico el conductor del vehículo.
+
+8\. Cuando el veterinario oficial del servicio de Sanidad Animal considere que un vehículo de transporte por carretera pueda tener un riesgo de transmisión de esta enfermedad, podrá denegar su entrada en el territorio nacional, en vez de proceder a su desinfección.
+
+> Se modifica el apartado 3 por el art. único.1 de la Orden APA/791/2018, de 26 de julio. [Ref. BOE-A-2018-10754](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10754)
+
+> Se modifica por el art. único de la Orden AAA/2719/2015, de 16 de diciembre. [Ref. BOE-A-2015-13691](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13691)
+
+## Artículo 5. Desinfección de maquinaria agrícola.
+
+1\. La maquinaria agrícola procedente de Argelia, Libia, Marruecos y Túnez deberá limpiarse y desinfectarse con un agente químico de reconocida eficacia frente al virus de la fiebre aftosa en origen antes de la entrada al territorio nacional.
+
+2\. Respecto de las instalaciones, medios y procedimientos necesarios para la desinfección de la maquinaria agrícola, se aplicará lo dispuesto en el artículo anterior.
+
+## Artículo 6. Información a los viajeros.
+
+1\. Los operadores de viajes internacionales, informarán a sus clientes de la prohibición de traer productos de origen animal, de acuerdo con lo establecido en el Reglamento (CE) n.º 206/2009 de la Comisión, de 5 de marzo de 2009, relativo a la introducción en la Comunidad de partidas personales de productos de origen animal y por el que se modifica el Reglamento (CE) n.º 136/2004.
+
+Asimismo, las compañías aéreas y navieras que operen con países terceros, deberán disponer en sus instalaciones, o medios de transporte, de recipientes estancos para la retirada de productos de origen animal que pudieran llevar sus clientes, de manera que se puedan eliminar los mismos antes de entrar en el territorio nacional. A estos efectos, las Autoridades Portuarias y, en su caso, las entidades o Administración gestoras de los puertos titularidad de las comunidades autónomas, tendrán un deber de especial colaboración con la Administración competente.
+
+La autoridad competente en materia de sanidad animal podrá solicitar en cualquier momento información actualizada sobre las actuaciones llevadas a cabo para la difusión de la mencionada normativa sanitaria, y sobre el sistema de destrucción de los productos depositados en los recipientes estancos por sus clientes.
+
+2\. Este artículo es igualmente aplicable a los movimientos realizados desde Ceuta o Melilla al resto del territorio nacional.
+
+## Artículo 7. Infracciones y sanciones.
+
+En caso de incumplimiento de lo dispuesto en esta orden, será de aplicación el régimen de infracciones y sanciones establecido en la Ley 8/2003, de 24 de abril, de Sanidad Animal, sin perjuicio de las posibles responsabilidades civiles, penales o de otro orden que puedan concurrir.
+
+## Disposición adicional única. Contención del gasto.
+
+Las medidas previstas en la orden no podrán suponer incremento de dotaciones, de retribuciones ni de otros gastos de personal.
+
+## Disposición transitoria única. Entrada de animales desde Marruecos.
+
+No obstante lo previsto en el artículo 2.1, durante el período comprendido entre el 7 y el 22 de agosto de 2018, ambos inclusive, se permitirá en Melilla la entrada de animales de la especie ovina y caprina desde Marruecos, siempre que se cumplan las siguientes condiciones:
+
+a) Debe tratarse de un movimiento de animales vivos con destino a uno de los siguientes tipos de explotaciones, contemplados en el anexo III del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro General de Explotaciones Ganaderas, y que deberán estar registradas en el mismo:
+
+1.º Explotación de tipo producción-reproducción, según lo definido en el artículo 11.3 del Real Decreto 685/2013, de 16 de septiembre, por el que se establece un sistema de identificación y registro de los animales de las especies ovina y caprina.
+
+2.º Explotación de tipo especial, de las incluidas en el anexo III del Real Decreto 479/2014, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas, en sus apartados 2.1 explotaciones de tratantes u operadores comerciales, 2.2 centro de concentración de animales, y 2.4 mataderos.
+
+El importador, tanto si es el titular de la explotación de destino como si no, deberá remitir a las autoridades veterinarias marroquíes la declaración de aceptación previa de los animales suscrita por el titular de la explotación de destino, a efectos de que por éstas se emita el certificado sanitario de exportación.
+
+Los animales permanecerán en la explotación de destino desde su llegada a Melilla hasta el momento de su salida directa para sacrificio, excepto en el caso de los mataderos donde se procederá a su sacrificio.
+
+b) El importador o, en su caso, el interesado en la carga, notificará la fecha prevista de entrada tanto al punto de control autorizado en frontera, como a la Dirección General de Sanidad y Consumo de la Ciudad de Melilla, al menos, 72 horas antes de la llegada prevista del animal o de los animales a Melilla. El importador deberá adjuntar a estas notificaciones una copia del consentimiento expreso del titular de la explotación de destino en el que acepte la llegada de esos animales.
+
+c) Los animales irán acompañados de un certificado veterinario, expedido por los Servicios Veterinarios Oficiales del Reino de Marruecos, debidamente cumplimentado en todos sus extremos, y ajustado al modelo acordado por las autoridades veterinarias del Reino de España con las del Reino de Marruecos, cuyo modelo estará disponible en la página web del Ministerio de Agricultura, Pesca y Alimentación.
+
+d) Antes de su entrada en el territorio de Melilla, los animales serán objeto del correspondiente control por los servicios veterinarios oficiales de control en frontera, en un punto de control autorizado, sito en la frontera de Beni-Enzar, en horario de trabajo que se hará público.
+
+e) Los animales serán transportados en vehículos de transporte de animales debidamente autorizados o registrados al efecto por los Servicios Veterinarios Oficiales del Reino de Marruecos o de España, que posibilitarán unas adecuadas condiciones de transporte de dichos animales garantizando su sanidad y bienestar.
+
+f) Los vehículos procedentes de Marruecos indicados en la letra e) deberán limpiarse y desinfectarse, con un agente químico de reconocida eficacia frente al virus de la fiebre aftosa, antes de la carga de los animales y por tanto antes de su llegada al territorio nacional.
+
+g) La limpieza y desinfección se acreditará con el correspondiente certificado de limpieza y desinfección del vehículo, expedido por la empresa encargada de dicha limpieza y desinfección o por la autoridad competente en Marruecos. En dicho documento constará, al menos, la fecha de limpieza y desinfección, la matrícula del vehículo, el producto utilizado y su concentración.
+
+Cuando no se cumplan estos requisitos se denegará la entrada de los animales. Contra la decisión del inspector de sanidad animal de los citados servicios veterinarios oficiales, cabrá interponer recurso de alzada ante el señor Director General de Sanidad de la Producción Agraria, en el plazo máximo de un mes desde la notificación de la mencionada decisión.
+
+> Se modifica por el art. único.2 de la Orden APA/791/2018, de 26 de julio. [Ref. BOE-A-2018-10754](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-10754)
+
+> Se modifica por el art. único de la Orden APM/607/2018, de 1 de junio. [Ref. BOE-A-2018-7513](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7513)
+
+> Se añade por el art. único de la Orden APM/692/2017, de 21 de julio. [Ref. BOE-A-2017-8754](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-8754)
+
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1, regla 16.ª, primer inciso, de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de sanidad exterior.
+
+## Disposición final segunda. Entrada en vigor y aplicación.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y será de aplicación hasta que por la Comisión Europea se adopten medidas específicas ante la reciente declaración de fiebre aftosa en Marruecos.
+
+Madrid, 19 de noviembre de 2015.–La Ministra de Agricultura, Alimentación y Medio Ambiente, Isabel García Tejerina.

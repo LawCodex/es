@@ -1,0 +1,125 @@
+---
+title: "Resolución de 19 de diciembre de 2012, de la Mutualidad General Judicial, por la que se regulan la ayuda por tratamiento de psicoterapia o logopedia y la ayuda para gastos de hospitalización psiquiátrica para mutualistas adscritos a los Servicios Públicos de Salud de las Comunidades Autónomas"
+identifier: "BOE-A-2012-15728"
+eli: "https://www.boe.es/eli/es/res/2012/12/19/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 2012-12-19
+published: 2012-12-29
+in_force_from: 2013-01-01
+last_amended: 2017-03-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 313"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-15728"
+retrieved: 2026-10-11
+---
+
+# Resolución de 19 de diciembre de 2012, de la Mutualidad General Judicial, por la que se regulan la ayuda por tratamiento de psicoterapia o logopedia y la ayuda para gastos de hospitalización psiquiátrica para mutualistas adscritos a los Servicios Públicos de Salud de las Comunidades Autónomas
+
+Incluye las correcciones de errores publicadas por Resolución de 9 de enero de 2013. [Ref. BOE-A-2013-851](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-851). y Resolución de 29 de enero de 2013. [Ref. BOE-A-2013-1887](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1887).
+
+Las ayudas por tratamiento de psicoterapia y logopedia, y la ayuda para gastos de hospitalización psiquiátrica en el caso de los mutualistas acogidos a los servicios públicos de salud, están configuradas como ayudas socio-sanitarias para complementar la cartera de servicios de la Mutualidad General Judicial en estas dos materias.
+
+El Real Decreto-ley 20/2012, de 13 julio, de medidas normativas para garantizar la estabilidad presupuestaria y de fomento de la competitividad diseña la estrategia de política económica en el actual contexto e impulsa reformas estructurales dirigidas a la contención del gasto público, fijando los límites de déficit. Estas pautas normativas imponen reorientar las ayudas socio-sanitarias prestadas por la Mutualidad General Judicial para ajustarlas a los nuevos cánones de austeridad, lo que –desplegado desde principios de prioridad y de equidad a partir siempre de situaciones de necesidad– significará condicionar su concesión a la renta de la unidad familiar del solicitante para, de tal modo, armonizar, en suma, su carácter social y las limitaciones de crédito impuestas por el nuevo escenario presupuestario.
+
+La entrada en vigor del Real Decreto 1026/2011, de 15 de julio, por el que se aprobó el Reglamento del Mutualismo Judicial (BOE de 4 de agosto de 2011) exigía, en todo caso, adecuar la regulación hasta entonces existente sobre estas ayudas.
+
+En base a lo anterior, la Gerencia, de conformidad con las competencias que le confiere el artículo 14.3.e) del Real Decreto 1206/2006, de 20 de octubre, por el que se regulan la composición y funciones de los órganos de gobierno, administración y representación de la Mutualidad General Judicial, resuelve aprobar la presente resolución que contiene la nueva regulación de la ayuda por tratamiento de psicoterapia y logopedia y la ayuda por gastos de hospitalización psiquiátrica para mutualistas adscritos a los servicios públicos de salud.
+
+Y ello tras informar a la Comisión Permanente de conformidad con lo dispuesto en el artículo 12.1.f) del citado Real Decreto 1206/2006, de 20 de octubre.
+
+## Primero. Requisitos comunes a estas ayudas.
+
+Para ser beneficiario de estas ayudas, los ingresos netos de la unidad familiar del ejercicio económico precedente al de la fecha en que solicita la ayuda, no podrá superar el límite de renta establecido en el baremo siguiente. Se entiende por renta de la unidad familiar el conjunto de recursos económicos computables para determinar la capacidad económica de los solicitantes:
+
+| Baremo de renta para la concesión de ayudas | Euros/año |
+|---|---|
+| Peticionario soltero, separado o viudo sin cargas familiares | 40.890 |
+| Peticionario con cónyuge o pareja de hecho, sin hijos | 47.395 |
+| Peticionario con cónyuge o pareja de hecho, con un hijo menor de 26 años | 56.688 |
+| Peticionario con cónyuge o pareja de hecho, con dos o más hijos menores de 26 años o mayor discapacitado o incapacitado para trabajar | 60.406 |
+| Peticionario soltero, separado o viudo con un hijo menor de 26 años | 50.182 |
+| Peticionario soltero o viudo, con dos hijos menores de 26 años o mayor discapacitado o incapacitado para trabajar | 59.474 |
+| Peticionario soltero o viudo, con tres o más hijos menores de 26 años o mayor discapacitado o incapacitado para trabajar | 60.406 |
+
+Los ingresos netos de la unidad familiar del solicitante deberán acreditarse con la aportación de la siguiente documentación:
+
+a) Última declaración del Impuesto sobre la Renta de las Personas Físicas o, en su caso, comunicación emitida o liquidación girada a efectos de devolución por la Administración Tributaria.
+
+Alternativamente, si no existe obligación de declarar y no se ha solicitado devolución, se podrán presentar certificaciones de la Administración Tributaria acreditativas, por un lado, del hecho de no haber presentado declaración del Impuesto y, por otro, de las imputaciones íntegras de ingresos que consten en dicha Administración Tributaria.
+
+b) Declaración responsable de las pensiones o prestaciones percibidas, que estén exentas o no estén sujetas a tributación por el Impuesto de la Renta de las Personas Físicas (IRPF), percibidas en el ejercicio fiscal al que correspondan los datos tributarios a que alude el anterior apartado a).
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 29 de enero de 2013. [Ref. BOE-A-2013-1887](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1887).
+
+## Segundo. Ayuda por tratamiento de psicoterapia o logopedia.
+
+2.1 Concepto: La ayuda se reconocerá para atender o completar el tratamiento de psicoterapia o logopedia con o sin cobertura a través de las entidades médicas o de los servicios públicos de salud.
+
+2.2 La ayuda no podrá superar la cuantía de 350 euros por año natural.
+
+2.3 Documentación.
+
+2.3.1 Para el caso de tratamiento de psicoterapia:
+
+– Prescripción médica de la entidad de seguro o del servicio de salud de la comunidad autónoma que preste la asistencia, con descripción de la patología y la necesidad de recibir tratamiento.
+
+– Informe original del psicólogo en el que conste la patología y el tratamiento realizado.
+
+– Facturas originales de las sesiones realizadas.
+
+2.3.2 Para el caso de tratamiento logopédico:
+
+– Prescripción médica del pediatra, otorrrinolaringólogo o neurólogo de la entidad de seguro o del servicio de salud de la comunidad autónoma que preste la asistencia, con descripción de la patología y la codificación según la CiE 9 (clasificación internacional de enfermedades 9).
+
+– Informe original del logopeda en que conste la patología y el tratamiento realizado.
+
+– Facturas originales de las sesiones realizadas.
+
+> Se modifica por la Resolución de 23 de febrero de 2017. [Ref. BOE-A-2017-2165](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2165).
+
+> Se modifica el apartado 2.2 por la Resolución de 15 de diciembre de 2015. [Ref. BOE-A-2015-13950](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13950).
+
+> Redactado conforme a la corrección de errores publicada por Resolución de 9 de enero de 2013. [Ref. BOE-A-2013-851](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-851).
+
+## Tercero. Ayuda por gastos por hospitalización psiquiátrica para mutualistas adscritos a los servicios públicos de salud de las Comunidades Autónomas.
+
+3.1 *Concepto*: Esta ayuda va dirigida a contribuir a los gastos de hospitalización psiquiátrica en el caso de los mutualistas acogidos a los servicios públicos de salud, incluida la hospitalización de día, hasta el alta hospitalaria.
+
+3.2 *Cuantía*: 50 % de la factura por el internamiento, con el límite máximo de 800 euros/mes.
+
+3.3 *Documentación*:
+
+– Facturas originales del centro hospitalario.
+
+– Informe/s médico/s.
+
+– Si la solicitud se refiere al primer ingreso del paciente o a un nuevo ingreso tras un alta hospitalaria, informe médico sobre patología del paciente, causas que provocaron la hospitalización y pronóstico relativo a la duración de la misma.
+
+– Si la solicitud se refiere a una continuación en la hospitalización, informe médico anual sobre el curso de la enfermedad.
+
+## Disposición transitoria.
+
+Las solicitudes que hayan tenido fecha de entrada en el registro de esta Mutualidad General Judicial hasta el 31 de diciembre de 2012, se tramitarán de conformidad con la regulación vigente en esa fecha.
+
+## Disposición derogatoria.
+
+Quedan derogadas:
+
+– La Resolución de 16/04/2008, de la Mutualidad General Judicial, por la que se actualiza la Circular número 73 que a su vez regula la ayuda por tratamiento de psicoterapia (BOE de 29 de abril de 2008).
+
+– La Resolución de 16 de abril de 2008, de la Mutualidad General Judicial (BOE de 30 de abril de 2008), por la que se regula la ayuda por gastos por hospitalización psiquiátrica para mutualistas adscritos al INSS.
+
+## Disposición final.
+
+La presente Resolución entrará en vigor el día 1 de enero de 2013.
+
+Madrid, 19 de diciembre de 2012.
+
+La Gerente de la Mutualidad General Judicial,
+
+Celima Gallego Alonso

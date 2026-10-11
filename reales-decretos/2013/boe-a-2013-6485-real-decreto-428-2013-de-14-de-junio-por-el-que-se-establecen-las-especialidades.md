@@ -1,0 +1,337 @@
+---
+title: "Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza"
+identifier: "BOE-A-2013-6485"
+eli: "https://www.boe.es/eli/es/rd/2013/06/14/428"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2013-06-14
+published: 2013-06-15
+in_force_from: 2013-06-16
+last_amended: 2023-04-19
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 143"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-6485"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 428/2013, de 14 de junio, por el que se establecen las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza
+
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en sus artículos 91 al 99 las funciones del profesorado de las distintas enseñanzas que se regulan en ella, así como sus respectivas condiciones de titulación y formación pedagógica y didáctica.
+
+La disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que la función pública docente se ordena en distintos cuerpos docentes, entre los que se encuentra el Cuerpo de Profesores de Música y Artes Escénicas, que desempeñará sus funciones en las enseñanzas elementales y profesionales de Música y de Danza, en las enseñanzas de arte dramático y, en su caso, en aquellas materias de las enseñanzas superiores de Música y de Danza o de la modalidad de artes del Bachillerato que se determinen.
+
+Asimismo, dicha disposición adicional séptima, en su apartado 2, establece que corresponde al Gobierno, previa consulta a las comunidades autónomas, la creación o supresión de las especialidades docentes del cuerpo a que se refiere este real decreto, y la asignación de áreas, materias (o asignaturas) y los módulos que deberán impartir los funcionarios adscritos a cada una de ellas.
+
+El artículo 48.1 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece que las enseñanzas elementales de Música y de Danza tendrán las características y la organización que las Administraciones educativas determinen.
+
+El Real Decreto 1577/2006, de 22 de diciembre, establece los aspectos básicos del currículo de las enseñanzas profesionales de Música reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y el Real Decreto 85/2007, de 26 de enero, regula los aspectos básicos del currículo de las enseñanzas profesionales de Danza reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Por otra parte, el Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria obligatoria, el Bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, establece, en su artículo 8.2, que cuando la modalidad de Artes del Bachillerato se imparta en centros de enseñanzas artísticas, las materias correspondientes podrán ser asignadas al profesorado de los respectivos cuerpos de enseñanzas artísticas que tenga formación adecuada en cada caso.
+
+Asimismo, se entiende aconsejable, en coherencia con el contexto normativo en que se encuadran las enseñanzas artísticas superiores, abordar en otra norma o normas tanto las especialidades del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático, como las materias de las enseñanzas artísticas superiores de Música y de Danza que, en su caso, se determine puedan impartir los titulares del Cuerpo de Profesores de Música y Artes Escénicas de las especialidades vinculadas a las enseñanzas de Música y de Danza.
+
+Especificadas las necesidades docentes de las enseñanzas elementales y profesionales de Música y de Danza, procede iniciar el desarrollo de lo previsto en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en relación con las especialidades del Cuerpo de Profesores de Música y Artes Escénicas, que tienen atribuidas en los conservatorios de Música o de Danza las enseñanzas respectivas.
+
+Así pues, en virtud de la competencia estatal reconocida por la Constitución Española para establecer las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de los funcionarios, para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y para establecer normas básicas para el desarrollo del artículo 27 de la Constitución, y con el fin de garantizar una enseñanza común de calidad impartida por el profesorado más idóneo, procede establecer las especialidades docentes del cuerpo de funcionarios que tienen a su cargo las enseñanzas elementales y profesionales de Música y de Danza, así como definir la asignación de asignaturas que deberá impartir el profesorado en las enseñanzas profesionales de Música y de Danza y las materias que podrá impartir en el Bachillerato.
+
+En la elaboración del presente real decreto han sido consultadas las comunidades autónomas a través de la Conferencia Sectorial de Educación, y ha informado el Ministerio de Hacienda y Administraciones Públicas. Asimismo, cuenta con el informe de la Comisión Superior de Personal y con los dictámenes del Consejo Escolar del Estado y del Consejo Superior de Enseñanzas Artísticas.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte, con la aprobación previa del Ministerio de Hacienda y Administraciones Públicas*,* de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de junio de 2013,
+
+DISPONGO:
+
+## Artículo 1. Objeto de la norma.
+
+Este real decreto tiene por objeto establecer las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza, así como definir la asignación de asignaturas que se deberán impartir en las enseñanzas profesionales de Música y de Danza.
+
+> Se modifica por la disposición final 5.1 del Real Decreto 286/2023, de 18 de abril. [Ref. BOE-A-2023-9553](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9553)
+
+> Téngase en cuenta para su aplicación, las disposiciones transitoria única.2 y final 9 del citado Real Decreto.
+
+## Artículo 2. Especialidades docentes.
+
+Las especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Música y de Danza son las que se relacionan en el anexo I.
+
+## Artículo 3. Asignación de asignaturas en las enseñanzas profesionales de Música.
+
+1\. Las asignaturas que impartirá el Cuerpo de Profesores de Música y Artes Escénicas en las enseñanzas profesionales de Música son las relacionadas en el anexo II. La asignación de la asignatura de Idiomas aplicados al canto quedará abierta a la determinación de las Administraciones educativas en función de sus necesidades y recursos, siempre que se garantice la competencia docente para su impartición.
+
+2\. Los titulares de las especialidades instrumentales correspondientes a las enseñanzas profesionales de Música impartirán, además de la enseñanza del instrumento principal, las enseñanzas colectivas de instrumento y, en su caso, las de instrumento complementario.
+
+## Artículo 4. Asignación de asignaturas en las enseñanzas profesionales de Danza.
+
+Las asignaturas que impartirá el Cuerpo de Profesores de Música y Artes Escénicas en las enseñanzas profesionales de Danza son las relacionadas en el anexo III.
+
+## Artículo 5. Atribución docente del profesorado de enseñanzas profesionales de Música y de Danza.
+
+Las administraciones educativas, en su desarrollo curricular, determinarán la atribución docente de las asignaturas específicas a los profesores de las diferentes especialidades docentes.
+
+## Artículo 6. Atribución docente del profesorado de enseñanzas elementales de Música y de Danza.
+
+Las administraciones educativas determinarán la atribución docente del profesorado que imparte enseñanzas elementales de Música y de Danza.
+
+## Artículo 7. Docencia en el Bachillerato.
+
+En aplicación de lo establecido en la disposición adicional séptima de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, el personal funcionario del Cuerpo de Profesores de Música y Artes Escénicas de las especialidades vinculadas a las enseñanzas de Música y de Danza podrán impartir las materias de la modalidad de artes del Bachillerato en la vía de Música y Artes Escénicas de acuerdo con lo establecido en los desarrollos reglamentarios correspondientes con relación al ejercicio de la docencia en dicha etapa. Las administraciones educativas, en el ámbito de sus competencias, conforme a sus necesidades y en uso de su facultad de organización de centros docentes, podrán determinar la conveniencia de aplicar dicha asignación, sin que esta posibilidad tenga efectos en las plantillas orgánicas de los centros.
+
+> Se modifica por la disposición final 5.2 del Real Decreto 286/2023, de 18 de abril. [Ref. BOE-A-2023-9553](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9553)
+
+> Téngase en cuenta para su aplicación, las disposiciones transitoria única.2 y final 9 del citado Real Decreto.
+
+## Disposición adicional primera. Funcionarios del Cuerpo de Profesores de Música y Artes Escénicas de especialidades anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+Los titulares de las antiguas especialidades existentes a la entrada en vigor del Real Decreto 989/2000, de 2 de junio, que fueron adscritos a especialidades reguladas en dicho real decreto, que se relacionan en el anexo V, impartirán, con carácter obligatorio y preferente, las asignaturas de las enseñanzas profesionales de la ordenación establecida en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que se especifican en dicho anexo, sin perjuicio de que la asignación de estas mismas asignaturas pueda recaer sobre titulares de otras especialidades.
+
+## Disposición adicional segunda. Creación futura de nuevas especialidades.
+
+Las administraciones educativas que establezcan en sus currículos asignaturas que puedan suponer la creación de nuevas especialidades, deberán elevar una propuesta al Ministerio de Educación, Cultura y Deporte, para que el Gobierno, previa consulta a las comunidades autónomas, proceda, en su caso, a su creación.
+
+## Disposición adicional tercera. Regulación posterior.
+
+El Gobierno establecerá, en la norma o normas que establezcan las especialidades de los cuerpos que imparten las enseñanzas superiores de Música, de Danza y de arte dramático, las especialidades del Cuerpo de Profesores de Música y Artes Escénicas vinculadas a las enseñanzas de Arte Dramático y las materias de las enseñanzas superiores de Música y de Danza que, en su caso, se determine puedan impartir los Profesores de Música y Artes Escénicas de las especialidades vinculadas a las enseñanzas de Música y de Danza.
+
+## Disposición transitoria primera. Profesorado de enseñanzas de Arte Dramático.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 588/2022, de 19 de julio. [Ref. BOE-A-2022-12014](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12014)
+
+## Disposición transitoria segunda. Enseñanzas elementales de Música y de Danza.
+
+Hasta que las administraciones educativas regulen la atribución docente correspondiente a las enseñanzas elementales de Música y de Danza en su ámbito de competencias, será de aplicación lo establecido al respecto en el citado Real Decreto 989/2000, de 2 de junio.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 989/2000, de 2 de junio, por el que se establecen las especialidades del Cuerpo de Profesores de Música y Artes Escénicas, se adscriben a ellas los profesores de dicho Cuerpo y se determinan las materias que deberán impartir, sin perjuicio de lo establecido en las disposiciones transitorias primera y segunda de este real decreto.
+
+## Disposición final primera. Modificación del Real Decreto 1436/2012, de 11 de octubre, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Asistencia al Producto Gráfico Impreso perteneciente a la familia profesional artística de Comunicación Gráfica y Audiovisual y se aprueban las correspondientes enseñanzas mínimas.
+
+Se modifica el apartado A del anexo II del Real Decreto 1436/2012, de 11 de octubre, por el que se establece el título de Técnico de Artes Plásticas y Diseño en Asistencia al Producto Gráfico Impreso perteneciente a la familia profesional artística de Comunicación Gráfica y Audiovisual y se aprueban las correspondientes enseñanzas mínimas, que queda redactado en los siguientes términos:
+
+A. *Cuerpo de Profesores de Artes Plásticas y Diseño*
+
+| Especialidad | Módulo formativo |
+|---|---|
+| Diseño gráfico. | Fundamentos del diseño gráfico.<br>Tipografía.<br>Obra final.<br>Autoedición. |
+| Historia del arte. | Historia del diseño gráfico. |
+| Medios informáticos. | Medios informáticos.<br>Obra final.<br>Autoedición. |
+| Organización industrial y legislación. | Formación y orientación laboral. |
+
+## Disposición final segunda. Título competencial.
+
+Este real decreto tiene carácter básico y se dicta al amparo del artículo 149.1.18.ª y 30.ª de la Constitución, que reserva al Estado la competencia para establecer las bases del régimen jurídico de las Administraciones Públicas y el régimen estatutario de los funcionarios, la competencia de regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y la competencia para establecer normas básicas para el desarrollo del artículo 27 de la Constitución.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 14 de junio de 2013.
+
+JUAN CARLOS R.
+
+El Ministro de Educación, Cultura y Deporte,
+
+JOSÉ IGNACIO WERT ORTEGA
+
+## ANEXO I
+
+**1. Especialidades docentes vinculadas a las enseñanzas de Música**
+
+Acordeón.
+
+Arpa.
+
+Bajo eléctrico.
+
+Canto.
+
+Clarinete.
+
+Clave.
+
+Contrabajo.
+
+Coro.
+
+Dulzaina.
+
+Fagot.
+
+Flabiol i Tamborí.
+
+Flauta de pico.
+
+Flauta travesera.
+
+Fundamentos de composición.
+
+Gaita.
+
+Guitarra.
+
+Guitarra eléctrica.
+
+Historia de la Música.
+
+Instrumentos de cuerda pulsada del Renacimiento y Barroco.
+
+Instrumentos de púa.
+
+Oboe.
+
+Órgano.
+
+Orquesta.
+
+Percusión.
+
+Saxofón.
+
+Tenora i Tible.
+
+Trombón.
+
+Trompa.
+
+Trompeta.
+
+Tuba.
+
+Txistu.
+
+Viola.
+
+Viola da gamba.
+
+Violín.
+
+Violonchelo.
+
+**2. Especialidades docentes vinculadas a las enseñanzas de Danza**
+
+Danza clásica.
+
+Danza contemporánea.
+
+Danza española.
+
+Flamenco.
+
+Historia de la Danza.
+
+Repertorio con piano para Danza.
+
+**3. Especialidades docentes vinculadas a las Enseñanzas de Música y de Danza**
+
+Cante flamenco.
+
+Guitarra flamenca.
+
+Lenguaje musical.
+
+Piano.
+
+## ANEXO II
+
+## Asignaturas que impartirá en las enseñanzas profesionales de Música el Cuerpo de Profesores de Música y Artes Escénicas
+
+| Especialidades | Asignaturas |
+|---|---|
+| Acordeón. | Acordeón.<br>Música de cámara.<br>Conjunto. |
+| Arpa. | Arpa.<br>Música de cámara.<br>Conjunto. |
+| Bajo eléctrico. | Bajo eléctrico.<br>Conjunto. |
+| Cante flamenco. | Cante flamenco.<br>Conjunto. |
+| Canto. | Canto.<br>Música de cámara. |
+| Clarinete. | Clarinete.<br>Música de cámara. |
+| Clave. | Clave.<br>Música de cámara.<br>Conjunto. |
+| Contrabajo. | Contrabajo.<br>Música de cámara. |
+| Coro. | Coro. |
+| Dulzaina. | Dulzaina.<br>Conjunto. |
+| Fagot. | Fagot.<br>Música de cámara. |
+| Flabiol i Tamborí. | Flabiol i Tamborí.<br>Conjunto. |
+| Flauta de pico. | Flauta de pico.<br>Música de cámara.<br>Conjunto. |
+| Flauta travesera. | Flauta travesera.<br>Música de cámara. |
+| Fundamentos de composición. | Armonía. |
+| Gaita. | Gaita.<br>Conjunto. |
+| Guitarra. | Guitarra.<br>Música de cámara.<br>Conjunto. |
+| Guitarra eléctrica. | Guitarra eléctrica.<br>Conjunto. |
+| Guitarra flamenca. | Guitarra flamenca.<br>Conjunto. |
+| Historia de la Música. | Historia de la Música*. |
+| Instrumentos de cuerda pulsada del renacimiento y barroco. | Instrumentos de cuerda pulsada del renacimiento y barroco.<br>Música de cámara.<br>Conjunto. |
+| Instrumentos de púa. | Instrumentos de púa.<br>Música de cámara.<br>Conjunto. |
+| Lenguaje musical. | Lenguaje musical. |
+| Oboe. | Oboe.<br>Música de cámara. |
+| Órgano. | Órgano.<br>Música de cámara.<br>Conjunto. |
+| Orquesta. | Orquesta.<br>Banda. |
+| Percusión. | Percusión.<br>Música de cámara.<br>Conjunto. |
+| Piano. | Piano.<br>Música de cámara.<br>Conjunto. |
+| Saxofón. | Saxofón.<br>Música de cámara.<br>Conjunto. |
+| Tenora i Tible. | Tenora i Tible.<br>Conjunto. |
+| Trombón. | Trombón.<br>Música de cámara. |
+| Trompa. | Trompa.<br>Música de cámara. |
+| Trompeta. | Trompeta.<br>Música de Cámara. |
+| Tuba. | Tuba.<br>Música de cámara. |
+| Txistu. | Txistu.<br>Conjunto. |
+| Viola. | Viola.<br>Música de cámara. |
+| Viola da gamba. | Viola da gamba.<br>Música de cámara.<br>Conjunto. |
+| Violín. | Violín.<br>Música de cámara. |
+| Violonchelo. | Violonchelo.<br>Música de cámara. |
+
+\* Asignatura referida al desarrollo curricular de las diferentes Administraciones educativas.
+
+## ANEXO III
+
+## Asignaturas que impartirá en las enseñanzas profesionales de Danza el Cuerpo de Profesores de Música y Artes Escénicas
+
+| Especialidades | Asignaturas |
+|---|---|
+| Cante flamenco. | ** |
+| Danza clásica. | Danza clásica.<br>Técnicas básicas de Danza.<br>Repertorio. |
+| Danza contemporánea. | Danza contemporánea.<br>Técnicas de Danza contemporánea.<br>Improvisación. |
+| Danza española. | Danza española.<br>Escuela bolera.<br>Danza estilizada.<br>Folklore. |
+| Flamenco. | Baile flamenco.<br>Flamenco.<br>Estudio del cante de acompañamiento.<br>Estudio de la guitarra de acompañamiento. |
+| Guitarra flamenca. | ** |
+| Historia de la Danza. | Historia de la Danza*. |
+| Lenguaje musical. | Música. |
+| Piano. | ** |
+| Repertorio con piano para Danza. | ** |
+
+\* Asignatura referida al desarrollo curricular de las diferentes Administraciones educativas.
+
+** A determinar por las Administraciones educativas.
+
+## ANEXO IV
+
+## Asignación de materias de la modalidad de Artes del Bachillerato a especialidades docentes del Cuerpo de Profesores de Música y Artes Escénicas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 286/2023, de 18 de abril. [Ref. BOE-A-2023-9553](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9553)
+
+> Téngase en cuenta para su aplicación, las disposiciones transitoria única.2 y final 9 del citado Real Decreto.
+
+## ANEXO V
+
+## Asignaturas de las enseñanzas profesionales de Música y de Danza ordenadas por la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que impartirán, con carácter obligatorio y preferente, los titulares de las especialidades anteriores al Real Decreto 989/2000, de 2 de junio, independientemente de las adscripciones realizadas en dicho Real Decreto
+
+| Especialidades antiguas | Asignaturas de las enseñanzas de Música y Danza |
+|---|---|
+| Clavecinista acompañante. | Flauta de pico y Viola da gamba (repertorio con clavecinista acompañante o asignatura análoga). |
+| Guitarrista acompañante flamenco (danza). | Danza española/Baile flamenco (repertorio con guitarrista acompañante de flamenco o asignatura análoga). |
+| Música de cámara. | Música de cámara. |
+| Pianista acompañante (canto). | Canto (Repertorio con pianista acompañante o asignatura análoga). |
+| Pianista acompañante (danza). | Danza clásica/danza contemporánea/danza española/baile flamenco (Repertorio con pianista acompañante o asignatura análoga). |
+| Pianista acompañante (instrumentos). | Instrumento (repertorio con pianista acompañante o asignatura análoga). |
+| Repentización, transposición instrumental y acompañamiento. | Piano complementario*.<br>Acompañamiento*. |
+| Repertorio de ópera y oratorio. | Canto (Repertorio con pianista acompañante o asignatura análoga). |
+| Repertorio vocal. | Canto (Repertorio con pianista acompañante o asignatura análoga). |
+
+\* Asignaturas referidas al desarrollo curricular de las diferentes Administraciones educativas.
+
+> Información relacionada
+
+> Téngase en cuenta que la derogación y modificaciones efectuadas por el Real Decreto 286/2023, de 18 de abril. [Ref. BOE-A-2023-9553](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9553), se realizarán según lo establecido en la disposición transitoria única.2 y en el calendario de implantación establecido en su disposición final 9.

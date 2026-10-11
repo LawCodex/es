@@ -1,0 +1,515 @@
+---
+title: "Real Decreto 1636/2011, de 14 de noviembre, por el que se aprueba el Estatuto de la Entidad Pública Empresarial Instituto Español de Comercio Exterior (ICEX)"
+identifier: "BOE-A-2011-18538"
+eli: "https://www.boe.es/eli/es/rd/2011/11/14/1636"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2011-11-14
+published: 2011-11-25
+in_force_from: 2011-11-26
+last_amended: 2025-05-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 284"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-18538"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1636/2011, de 14 de noviembre, por el que se aprueba el Estatuto de la Entidad Pública Empresarial Instituto Español de Comercio Exterior (ICEX)
+
+Esta norma pasa a denominarse **"Real Decreto 1636/2011, de 14 de noviembre, por el que se aprueba el Estatuto de ICEX España Exportación e Inversiones, E.P.E."**, según establece el art. único.1 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+El Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización, crea la entidad pública empresarial Instituto Español de Comercio Exterior (ICEX), como transformación de la entidad de Derecho público con la misma denominación creada por el derogado Real Decreto-ley 6/1982, de 2 de abril, sobre inversiones públicas de carácter extraordinario y medidas de fomento de la exportación, previendo en la disposición transitoria del citado Real Decreto-ley 4/2011 que en el plazo de tres meses desde su entrada en vigor, el Gobierno aprobará el Estatuto de la Entidad Pública Empresarial ICEX.
+
+Bajo la forma de entidad pública empresarial, el ICEX podrá obtener una mayor agilidad y eficiencia en su gestión económica, aumentar la oferta de servicios y poner en marcha operaciones de inversión financiera, potenciando la capacidad de actuación y financiación de las empresas, en particular de las pequeñas y medianas empresas (PYMES), en un contexto como el actual en el que resulta fundamental el apoyo institucional a la internacionalización y a la mejora de su competitividad.
+
+El artículo 62.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, establece que los estatutos de los organismos autónomos y entidades públicas empresariales se aprobarán por Real Decreto acordado en Consejo de Ministros, a iniciativa del titular del Ministerio de adscripción y a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda.
+
+En su virtud, a iniciativa del Ministro de Industria, Turismo y Comercio, a propuesta del Ministro de Política Territorial y Administración Pública y de la Ministra de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2011,
+
+DISPONGO:
+
+#### Artículo único. Aprobación del Estatuto.
+
+Se aprueba el Estatuto de la Entidad Pública Empresarial ICEX España Exportación e Inversiones (ICEX), cuyo texto se inserta a continuación.
+
+> Se modifica por el art. único.2 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Disposición transitoria única. Régimen presupuestario y contable durante 2011.
+
+El régimen presupuestario y contable de la entidad pública empresarial ICEX durante el ejercicio 2011, así como la formulación y rendición de las cuentas anuales correspondientes a dicho ejercicio, se adecuará a la normativa presupuestaria y contable que era de aplicación a la extinguida entidad de derecho público, integrando en las mismas la gestión desarrollada por la entidad de derecho público ICEX durante dicho ejercicio.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 123/1985, de 23 de enero, por el que se aprueba el Reglamento del Instituto Español de Comercio Exterior, así como cualquier disposición de igual o inferior rango en lo que se oponga a lo dispuesto en este real decreto.
+
+#### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 14 de noviembre de 2011.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+RAMÓN JÁUREGUI ATONDO
+
+## ESTATUTO DE LA ENTIDAD PÚBLICA EMPRESARIAL ICEX ESPAÑA EXPORTACIÓN E INVERSIONES (ICEX)
+
+> Se modifica por el art. único.1 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353)
+
+## CAPÍTULO I — Naturaleza y régimen jurídico
+
+#### Artículo 1. Naturaleza, adscripción y denominación.
+
+1\. ICEX España Exportación e Inversiones (en adelante, ICEX), es una entidad pública empresarial de las previstas en el artículo 103 y siguientes de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, a la que resulta de aplicación la excepción prevista en la disposición adicional vigesimonovena de la citada ley en cuanto a la no financiación mayoritaria con ingresos de mercado, y que se rige por el Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización mediante la creación de la entidad pública empresarial “Instituto Español de Comercio Exterior” (ICEX), por los preceptos del presente Estatuto, y demás disposiciones que le sean de aplicación.
+
+2\. ICEX goza de personalidad jurídica propia, plena capacidad jurídica y de obrar, autonomía de gestión para el cumplimiento de sus fines, y patrimonio y tesorería propios, distintos del de la Administración Pública.
+
+3\. ICEX queda adscrito al Ministerio de Economía, Comercio y Empresa, a través de la Secretaría de Estado de Comercio, que ejercerá respecto a la entidad la dirección estratégica, la evaluación de su actividad y el control de eficacia y resultados de la misma.
+
+4\. La denominación de la entidad es ICEX España Exportación e Inversiones, E.P.E.
+
+> Se modifica por el art. único.2 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica la rúbrica y se añade el apartado 4 por la disposición final 2.1 del Real Decreto 531/2017, de 26 de mayo. [Ref. BOE-A-2017-5859](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5859)
+
+#### Artículo 2. Régimen jurídico.
+
+ICEX, conforme establece el Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización mediante la creación de la entidad pública empresarial ICEX España Exportación e Inversiones (ICEX), estará sujeto al derecho privado, excepto en la formación de la voluntad de sus órganos, en el ejercicio de potestades administrativas que tenga atribuidas y en aquellos otros aspectos en que así se establezca específicamente en este real decreto o resulte de lo previsto para las entidades públicas empresariales tanto en la Ley 40/2015, de 1 de octubre, como en la Ley 47/2003, de 26 de noviembre, General Presupuestaria y demás normativa presupuestaria que le sea de aplicación.
+
+> Se modifica por el art. único.3 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+## CAPÍTULO II — Fines y funciones
+
+#### Artículo 3. Fines.
+
+1\. En el marco de la política económica del Gobierno, ICEX tiene como fin fomentar la prosperidad de la economía española a través de la internacionalización mediante: la mejora de la competitividad de la empresa española y de sus ecosistemas en los mercados internacionales, con especial atención a la pequeña y mediana empresa; la promoción de la imagen España, sus sectores productivos y empresas en el exterior; la atracción, la promoción y el acompañamiento de las inversiones extranjeras en España, y la formación en estas materias, sin perjuicio de las competencias atribuidas a otros órganos de la administración.
+
+2\. Se prestará especial atención a la colaboración con otros organismos y entidades públicos y privados, nacionales, extranjeros o multilaterales que compartan con ICEX la finalidad de apoyar la internacionalización de la economía española en cualquiera de los ámbitos anteriormente mencionados.
+
+> Se modifica por el art. único.4 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.3 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 4. Funciones.
+
+1\. Para el cumplimiento de los fines contemplados en el artículo 3, se le asignan a ICEX, sin perjuicio de las competencias atribuidas a otros órganos de la Administración pública, las siguientes funciones:
+
+a) Elaborar planteamientos estratégicos y definir prioridades por sectores y mercados para la internacionalización de la empresa española o de sus ecosistemas y para la atracción de inversiones a España, de acuerdo con las directrices de la Secretaría de Estado de Comercio y en coordinación con las direcciones generales dependientes de esta, así como diseñar y ofrecer instrumentos de apoyo para este fin y ejecutar las acciones correspondientes.
+
+b) Promover una oferta integrada de servicios de internacionalización a empresas, ecosistemas, instituciones o entidades españolas, tales como servicios de información, capacitación, inteligencia de mercados, asesoramiento estratégico, promoción y apoyo a la implantación en el exterior; conceder préstamos (incluso participativos), ayudas y proporcionar cualquier otro instrumento gestionado por ICEX que facilite el acceso de la empresa a los mercados internacionales y su competitividad a través de la internacionalización.
+
+c) Promover cuantas acciones se consideren necesarias para la promoción exterior de la imagen de España, sus empresas y ecosistemas, productos, servicios, marcas y tecnologías, así como impulsar la coherencia de las actuaciones en materia de imagen empresarial en el exterior en el marco de la colaboración mencionada en el párrafo e) de este apartado.
+
+d) Prestar servicios y acompañamiento a empresas e instituciones extranjeras, en la medida en que estos redunden en beneficio de la competitividad internacional de la economía española, así como promover las reformas normativas necesarias que mejoren la proyección internacional de la economía española, incluida su posición de España como centro de negocios y actividad empresarial internacional.
+
+e) Colaborar y promover acciones con otras Administraciones y entes públicos e instituciones del ámbito estatal, autonómico y local, así como asociaciones empresariales representativas, empresas nacionales, extranjeras y multilaterales que puedan compartir con ICEX intereses en el ámbito de los fines descritos en el artículo 3, incluida la participación en proyectos y licitaciones internacionales o de otras iniciativas que puedan redundar positivamente en la internacionalización de la economía española.
+
+f) Proveer contenidos en materia de economía y comercio exterior que faciliten la formación de profesionales, ecosistemas y empresas.
+
+g) Realizar, en el marco de la evaluación continua de la actividad y la eficiencia de los servicios prestados, tareas de análisis e investigación sobre el impacto de sus políticas en el sector empresarial exterior.
+
+h) Realizar la recopilación, análisis y gestión de datos públicos y privados que sean relevantes para el comercio exterior y la internacionalización de las empresas españolas. Además, podrá establecer acuerdos de colaboración con entidades privadas para el intercambio de datos y la realización de estudios conjuntos que beneficien la internacionalización de las empresas. En el uso de datos públicos y privados, el ICEX garantizará el cumplimiento de la normativa vigente en materia de protección de datos personales, confidencialidad de la información, reutilización de la información y fomento del uso de los datos y su compartición en espacios interoperables conforme a la normativa europea y española. Finalmente, publicará y difundirá informes, estudios y análisis basados en los datos recopilados, con el fin de proporcionar información útil y actualizada a las empresas y otros actores interesados en el comercio exterior.
+
+i) Cualesquiera otras actuaciones que se le atribuyan legal o reglamentariamente o que ICEX estime necesarias o convenientes para el fomento de la prosperidad a través de la internacionalización de la economía española, de acuerdo con las directrices indicadas al efecto por la Secretaría de Estado de Comercio, o por el Gobierno para este fin.
+
+2\. Los fines y las funciones respectivamente recogidas en el artículo 3 y el apartado anterior de este artículo, se consideran de interés general.
+
+> Se modifica por el art. único.5 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se deroga la letra ll) del apartado 4.1 por la disposición derogatoria única.1 del Real Decreto-ley 36/2020, de 30 de diciembre. [Ref. BOE-A-2020-17340](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17340)
+
+> Se modifica por el art. único.4 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+## CAPÍTULO III — Organización y funcionamiento
+
+### Sección 1.ª Órganos rectores y de gobierno
+
+#### Artículo 5. Órganos de gobierno.
+
+1\. La persona titular del ministerio de adscripción de ICEX tiene atribuidas las siguientes competencias, sin perjuicio de las asignadas en la Ley 40/2015, de 1 de octubre, como responsable del ministerio:
+
+a) Ejercerá el control de eficacia de ICEX, a través de la inspección de servicios.
+
+b) Propondrá al Consejo de Ministros el nombramiento de la persona titular de la Consejería Delegada.
+
+c) Nombrará a los directores generales de ICEX.
+
+d) Nombrará a los vocales del Consejo Rector de ICEX.
+
+e) Ostentará la presidencia de su Consejo de Orientación Estratégica y nombrará a sus miembros.
+
+2\. Los órganos de gobierno de ICEX son: la Presidencia, el Consejo Rector y la Consejería Delegada. Los actos y resoluciones dictados por la presidencia y el Consejo Rector en el ejercicio de potestades administrativas agotan la vía administrativa.
+
+3\. En la designación de los órganos de gobierno y asimilados, se atenderá al principio de presencia equilibrada o representación paritaria, de tal manera que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento en el ámbito de la entidad.
+
+> Se modifica por el art. único.6 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 6. Presidencia.
+
+Corresponden a la persona titular de la Presidencia de ICEX y máximo órgano de gobierno unipersonal de la entidad, que será la persona titular de la Secretaría de Estado de Comercio, las siguientes funciones:
+
+a) Ostentar la representación legal de ICEX, sin perjuicio de lo previsto en el artículo 10.2 de este real decreto.
+
+b) Velar por la consecución de los fines encomendados a ICEX y asegurar el cumplimiento de los acuerdos adoptados por el Consejo Rector.
+
+c) Acordar la convocatoria y el orden del día y presidir las sesiones ordinarias y extraordinarias del Consejo Rector.
+
+d) Proponer a la persona titular del Ministerio de Economía, Comercio y Empresa los nombramientos de la persona titular de la Consejería Delegada, que deberá ser elevada al Consejo de Ministros, y de los directores generales.
+
+e) Acordar los nombramientos y, en su caso, ceses, de la persona titular de la Secretaría general y del personal directivo a propuesta de la persona titular de la Consejería Delegada, debiendo ser informado posteriormente el Consejo Rector.
+
+f) Aprobar el desarrollo de la estructura orgánica básica de ICEX, oído el Consejo Rector.
+
+g) Rendir cuentas como cuentadante.
+
+h) Resolver los recursos de alzada, poniendo fin a la vía administrativa, que se interpongan contra resoluciones de la persona titular de la Consejería Delegada dictadas en el ejercicio de las potestades administrativas que tenga atribuidas.
+
+i) Convocar y conceder las ayudas que gestione la entidad.
+
+> Se modifica por el art. único.7 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 7. Consejo Rector.
+
+1\. Formarán el Consejo Rector de ICEX la persona titular de la Presidencia, la persona titular de la Consejería Delegada y trece vocales que serán nombrados por quien ostente la titularidad del ministerio de adscripción.
+
+2\. La persona titular de la Secretaría de Estado de Comercio ejercerá la presidencia del Consejo Rector y la persona titular de la Consejería Delegada ejercerá la vicepresidencia.
+
+3\. Diez vocales serán nombrados en representación del sector público estatal a propuesta de la Secretaría de Estado de Comercio, de los cuales cinco pertenecerán al ministerio de adscripción y cinco a otros ministerios, sociedades públicas estatales, entidades públicas empresariales u otros organismos públicos cuyo ámbito de actuación presente una mayor vinculación con los fines de la entidad. Todos ellos deberán tener una categoría mínima de subdirector general o asimilado en el caso de los ministerios, y de director o asimilado en el resto del sector público. Otros tres vocales serán nombrados de la siguiente manera: uno en representación de la Confederación Española de Organizaciones Empresariales, el segundo en representación de la Cámara de Comercio de España y, por último, un tercer vocal, nombrado a propuesta de las Comunidades Autónomas, que rotará anualmente siguiendo un orden alfabético.
+
+4\. La designación de los vocales se ajustará a la normativa vigente garantizando su idoneidad profesional y teniendo en cuenta el principio de representación equilibrada de mujeres y hombres, de acuerdo con lo recogido en el artículo 84 bis de la Ley 40/2015, de 1 de octubre, al respecto.
+
+5\. Asistirá a las sesiones del Consejo Rector un secretario no consejero que será nombrado y, en su caso, cesado por el Consejo Rector, con voz, pero sin voto, que pertenecerá al cuerpo de Abogados del Estado. En caso de vacancia, ausencia o enfermedad se designará un suplente temporal por acuerdo del Consejo Rector.
+
+> Se modifica por el art. único.8 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.5 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 8. Funcionamiento del Consejo Rector.
+
+1\. El Consejo Rector se reunirá, previa convocatoria de la persona titular de su presidencia, cuando aquélla lo juzgue necesario para el buen funcionamiento de ICEX y, al menos, una vez cada trimestre. El Consejo Rector también podrá reunirse a petición de dos tercios de los miembros de este.
+
+2\. En caso de ausencia, vacancia, enfermedad u otro impedimento legal de la persona titular de la presidencia del Consejo Rector, éste será suplido en el ejercicio de estas funciones por la persona titular de la Consejería Delegada.
+
+3\. La convocatoria del Consejo Rector, salvo en casos de urgencia apreciada por su presidente, se cursará, al menos con 72 horas de antelación, fijando el orden del día de los asuntos a tratar.
+
+4\. El Consejo Rector quedará válidamente constituido cuando concurran a la reunión, presentes o representados, la mitad más uno de todos sus miembros. Igualmente, para la válida constitución del Consejo es necesaria la asistencia, presencial o a distancia, del presidente y secretario o, en su caso, de quienes les suplan.
+
+5\. Los acuerdos se tomarán por mayoría de los consejeros presentes o representados. En caso de empate, la presidencia del Consejo Rector tendrá voto de calidad.
+
+6\. De las sesiones se levantará acta, que podrá aprobarse en la propia sesión a que se refiere o en la siguiente. El acta será firmada por el secretario/a con el visto bueno del presidente/a del Consejo Rector.
+
+7\. Asimismo, podrán asistir a las sesiones del Consejo Rector, con voz, pero sin voto, aquellas personas que sean convocadas por su presidencia, en calidad de invitados o de expertos en materias objeto de la reunión, sin que su asistencia suponga derecho a la percepción de retribución alguna.
+
+8\. El Consejo Rector podrá reunirse a distancia, pudiendo sus miembros encontrarse en distintos lugares, siempre y cuando se asegure por medios electrónicos la identidad de los miembros o personas que los suplan, el contenido de sus manifestaciones, el momento en que éstas se producen, así como la interactividad e intercomunicación entre ellos en tiempo real y la disponibilidad de los medios durante la sesión. Entre otros, se considerarán incluidos entre los medios electrónicos válidos, las audioconferencias y las videoconferencias.
+
+9\. Tanto los miembros del Consejo Rector como los invitados al mismo están obligados a guardar la confidencialidad de las deliberaciones.
+
+> Se modifica por el art. único.9 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica el apartado 6 por el art. único.6 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 9. Funciones del Consejo Rector.
+
+1\. Corresponderán al Consejo Rector las siguientes funciones:
+
+a) Aprobar la propuesta del Plan Estratégico de ICEX, así como la del plan anual de actuación que lo desarrolla, a propuesta de la persona titular de la Consejería Delegada, para su posterior aprobación por el departamento ministerial al que esté adscrito ICEX.
+
+El Plan Estratégico de ICEX se configurará, con las adaptaciones que procedan, como plan de actuación de ICEX a los efectos de lo dispuesto en el artículo 85.1 de la Ley 40/2015, de 1 de octubre.
+
+b) Aprobar el programa de actuación plurianual, integrado por los estados financieros determinados en el artículo 64 de la Ley 47/2003, de 26 de noviembre, y la documentación complementaria prevista en el artículo 65 de la mencionada ley.
+
+c) Aprobar, a propuesta de la persona titular de la Consejería Delegada, el proyecto de Presupuestos de Explotación y Capital de ICEX, para su elevación al Ministerio de Hacienda, a través del ministerio de adscripción, conforme a lo establecido en la Ley 47/2003, de 26 de noviembre.
+
+d) Aprobar, a propuesta de la persona titular de la Consejería Delegada, las modificaciones presupuestarias que no estén reguladas por lo señalado en la Ley 47/2003, de 26 de noviembre.
+
+e) Establecer un modelo de control orientado a conseguir una seguridad razonable en el cumplimiento de sus objetivos.
+
+f) Aprobar, a propuesta de la persona titular de la Consejería Delegada, las cuentas anuales, el informe de gestión y la aplicación del resultado de la cuenta de pérdidas y ganancias de ICEX en cada ejercicio económico.
+
+g) Aprobar, a propuesta de la persona titular de la Consejería Delegada, la participación en sociedades mercantiles o empresas nacionales o extranjeras, cuyo objeto esté relacionado con los fines de ICEX, determinando su importe, forma y condiciones.
+
+h) Autorizar las operaciones de crédito y demás operaciones de endeudamiento que puedan convenir a ICEX, a propuesta de la persona titular de la Consejería Delegada, así como aprobar operaciones financieras que en su caso se eleven por la persona titular de la Consejería Delegada, todo ello con los límites que se establezcan en las correspondientes leyes de Presupuestos Generales del Estado.
+
+i) Aprobar, en su caso, los actos de disposición de bienes y fondos propios, las inversiones, los contratos y los pactos o convenios que proponga la persona titular de la Consejería Delegada.
+
+j) Aprobar las plantillas y el régimen retributivo del personal, previo informe favorable del ministerio o ministerios que ostenten la competencia en la materia.
+
+k) Cualquier otra que no esté atribuida a la presidencia o a la persona titular de la Consejería Delegada.
+
+2\. El Consejo Rector podrá delegar sus competencias en las personas titulares de la consejería delegada, direcciones generales, direcciones ejecutivas, secretaria general o direcciones de la entidad, con excepción de las señaladas en las letras a), b), y f) del apartado anterior. Asimismo, establecerá los límites por debajo de los cuales corresponderá a las personas titulares de los órganos a los que se hayan delegado las correspondientes competencias, el ejercicio de las funciones delegadas.
+
+> Se modifica por el art. único.10 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.7 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 10. Consejería delegada.
+
+1\. La persona titular de la consejería delegada será nombrada, y en su caso cesada, por real decreto acordado en Consejo de Ministros a propuesta de quien ostente la titularidad del ministerio de adscripción. Estará afectado por el régimen de incompatibilidades de la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
+
+2\. Corresponderá a la persona titular de la Consejería Delegada la ejecución de los acuerdos adoptados por los demás órganos de gobierno de ICEX. Asimismo, le corresponderán las siguientes funciones:
+
+a) El ejercicio efectivo de la dirección, administración y gestión ordinaria de ICEX de conformidad con lo dispuesto en los presentes estatutos.
+
+b) Ejercer la facultad de representación de ICEX, en juicio y fuera de él, en cualesquiera actos o contratos y ante toda persona o entidad, pública o privada, pudiendo conferir y revocar poderes generales, especiales o para la representación en juicio de la entidad.
+
+c) Ejercer la jefatura superior de todos los servicios de ICEX asumiendo su dirección, impulso e inspección para lo cual adoptará, siguiendo las orientaciones fijadas por los órganos de gobierno en uso de sus competencias, los criterios de actuación y la normativa interna necesarios para su funcionamiento ordinario. En particular elaborará las iniciativas de evaluación de los programas e instrumentos de ICEX.
+
+d) Ejercer la jefatura superior de personal de ICEX y contratar al personal de la entidad.
+
+e) Formular las cuentas anuales y los estados no financieros de la entidad, y proponer al Consejo Rector su aprobación y la aplicación del resultado de la cuenta de pérdidas y ganancias. Asimismo, preparar las demás propuestas que en materia de gestión económico-financiera deban ser sometidas al Consejo Rector.
+
+f) Aprobar los gastos, los precios a aplicar en los servicios que presta ICEX, y las operaciones financieras.
+
+g) Aprobar los actos de disposición de bienes y fondos propios y los contratos, pactos o convenios y programas de apoyo de acuerdo con las delegaciones y los límites que establezca el Consejo Rector o la presidencia en el ámbito de su competencia y la legislación vigente que corresponda.
+
+h) Elevar al Consejo Rector para su aprobación la propuesta del plan de actuación de ICEX y sus revisiones trienales, así como de los planes anuales que lo desarrollen, y sus modificaciones.
+
+i) Proponer al Consejo Rector un modelo de control orientado a conseguir una seguridad razonable en el cumplimiento de sus objetivos.
+
+j) Adoptar las medidas necesarias para una adecuada gobernanza de la entidad en relación con la observancia de los principios del Código Ético y de Conducta y la Declaración antifraude.
+
+k) Cualquier otra función necesaria para la gestión ordinaria de ICEX, así como las que expresamente le delegue la presidencia o el Consejo Rector.
+
+3\. La persona titular de la Consejería Delegada será suplida en caso de vacancia, ausencia, enfermedad u otro impedimento legal por el director general de mayor antigüedad.
+
+> Se modifica por el art. único.11 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 11. Direcciones Generales.
+
+1\. Dependiendo de la persona titular de la Consejería Delegada se encuentran dos centros directivos cuyas funciones se refieren al diseño e implementación de actividades y servicios que redunden en beneficio de la internacionalización de la economía española:
+
+a) Dirección General de Desarrollo de Negocio Internacional, que tendrá atribuidas funciones relativas a la internacionalización de la empresa española en materia –entre otras– de promoción o desarrollo empresarial.
+
+b) Dirección General de Transformación Digital, Información y Estrategia, que tendrá atribuidas, entre otras, funciones relativas a la transformación digital de la entidad y el uso de los datos como eje de las políticas de ICEX en diferentes ámbitos, tanto externos como internos.
+
+2\. Las personas titulares de estos centros directivos serán nombradas, y en su caso cesadas, por orden de la persona titular del ministerio de adscripción, debiendo ser informado posteriormente el Consejo Rector. Estarán afectadas por el régimen de incompatibilidad establecido por la Ley 3/2015, de 30 de marzo.
+
+> Se modifica por el art. único.12 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.8 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+### Sección 2.ª Órgano consultivo
+
+#### Artículo 12. Consejo de Orientación Estratégica.
+
+1\. El Consejo de Orientación Estratégica es un órgano de reflexión, debate y asesoramiento sobre las tendencias internacionales en materia de comercio internacional e inversiones y los retos y oportunidades que para el sector exterior español puedan suponer.
+
+2\. Será presidido por la persona titular del ministerio de adscripción y estará integrado por las personas titulares de la Secretaria de Estado de Comercio y de la consejería delegada, así como por un máximo de quince vocales que serán nombrados, y, en su caso, cesados, por orden de la persona titular del ministerio de adscripción en razón de su reconocida experiencia y prestigio en el ámbito de su conocimiento o especialidad y que se considere relevante para el desarrollo de las funciones del órgano, a propuesta de la Secretaría de Estado de Comercio. El nombramiento de los vocales será por un periodo de dos años, renovable por otros dos.
+
+La secretaría del Consejo de Orientación Estratégica la ejercerá, con voz y sin voto, la persona titular de una dirección de ICEX nombrada a estos efectos por orden de la persona titular del ministerio de adscripción, a propuesta de la Secretaría de Estado de Comercio.
+
+3\. En el supuesto de ausencia, vacancia, enfermedad u otro impedimento legal de la persona titular de la presidencia, ésta será suplida en el ejercicio de estas funciones por la persona titular de la Secretaría de Estado de Comercio y, en su defecto, por la persona titular de la consejería delegada de ICEX.
+
+4\. La designación de los vocales tendrá en cuenta el principio de presencia equilibrada de mujeres y hombres.
+
+> Se modifica por el art. único.13 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.9 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 13. Funcionamiento del Consejo de Orientación Estratégica.
+
+1\. El Consejo de Orientación Estratégica se reunirá, previa convocatoria de su presidente, cuando éste lo juzgue necesario y, al menos, una vez al año. La asistencia a las reuniones del Consejo de Orientación Estratégica no será retribuida. La persona titular de la presidencia podrá invitar a asistir al Consejo a aquellos representantes del sector público y privado que considere conveniente, de acuerdo con la naturaleza de los asuntos a tratar. Los representantes invitados tendrán voz, pero no voto.
+
+2\. En lo no previsto en esta norma, el Consejo ajustará su funcionamiento a las previsiones sobre órganos colegiados contenidas en la sección 3.ª del capítulo II de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.14 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica el apartado 1 por el art. único.10 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 14. Funciones del Consejo de Orientación Estratégica.
+
+El Consejo de Orientación Estratégica desempeñará la función de asesorar e informar a ICEX sobre las tendencias internacionales en materia de comercio internacional e inversiones y los retos y oportunidades que para el sector exterior español puedan suponer en relación con el diseño e implementación de sus políticas, y en especial en relación con el fomento de la internacionalización de empresas y ecosistemas empresariales y la atracción de inversiones. Dicho asesoramiento deberá incorporar las mejores prácticas internacionales y una visión integral del estado de conocimiento académico o profesional sobre cada materia. Los informes y acuerdos adoptados por el Consejo de Orientación Estratégica no serán vinculantes.
+
+> Se modifica por el art. único.15 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.11 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+### Sección 3.ª Centros de actuación
+
+#### Artículo 15. Centros de actuación de ICEX.
+
+1\. Las actividades que ICEX desarrolle en España se realizarán a través de sus servicios centrales en Madrid y de las Direcciones Territoriales y Provinciales de Comercio de la Secretaría de Estado de Comercio. Conforme a lo previsto en el artículo 9.9 del Real Decreto 410/2024, de 23 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía, Comercio y Empresa, los directores territoriales y provinciales de Comercio ejercerán como directores de ICEX en sus respectivas demarcaciones territoriales y asumirán las funciones de dirección, ejecución y coordinación de las actividades de ICEX en éstas, sin perjuicio de las actividades que tengan atribuidas como propias por la Secretaría de Estado de Comercio.
+
+2\. Las actuaciones que ICEX desarrolle en el exterior se realizarán a través de las Consejerías y Agregadurías Económicas y Comerciales de las Misiones Diplomáticas permanentes de España en el exterior. Conforme a lo previsto en el artículo 9.10 del Real Decreto 410/2024, de 23 de abril, los consejeros económicos y comerciales o, en su caso, los agregados comerciales, ejercerán como directores de ICEX en sus respectivas demarcaciones territoriales y asumirán funcionalmente las labores de dirección, ejecución y coordinación de las citadas actuaciones de ICEX, sin perjuicio de las facultades que tengan atribuidas como propias por la Secretaria de Estado de Comercio.
+
+3\. ICEX contribuirá a los gastos de funcionamiento de las redes exterior y territorial mediante los correspondientes acuerdos entre ICEX y la Secretaría de Estado de Comercio.
+
+> Se modifica por el art. único.16 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+## CAPÍTULO IV — Personal al servicio del ICEX
+
+#### Artículo 16. Régimen del personal no directivo.
+
+1\. El personal de ICEX se regirá por el derecho laboral, con las especificaciones contenidas en el artículo 106 de la Ley 40/2015, de 1 de octubre, y en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, en todo aquello que le sea de aplicación, siéndoles aplicable también el régimen de incompatibilidades previsto en la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones Públicas.
+
+2\. El personal no directivo al servicio de ICEX será seleccionado mediante convocatoria pública basada en los principios de igualdad, mérito, capacidad y publicidad, todo ello de acuerdo con lo dispuesto en el artículo 106 de la Ley 40/2015, de 1 de octubre, garantizando los principios de acceso al empleo de las personas con discapacidad e igualdad de trato entre hombres y mujeres.
+
+Asimismo, resultarán de aplicación a la selección de este personal los principios rectores, requisitos generales de acceso, órganos de selección y sistemas selectivos previstos en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+3\. La movilidad del personal no directivo de ICEX estará sujeta a los preceptos del derecho laboral, con las especificaciones contenidas en la Ley 40/2015, de 1 de octubre, así como en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, en todo aquello que le sea de aplicación.
+
+> Se modifica por el art. único.17 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 17. Régimen del personal directivo.
+
+1\. El personal directivo de ICEX desarrollará sus funciones directivas profesionales, consistentes en la planificación y coordinación de actividades propias de un ámbito concreto de actuación, la gestión del presupuesto asignado, el cumplimiento de objetivos asignados y la dirección de equipos de trabajo. Tendrán la consideración de personal directivo los directivos encuadrados en el artículo 3.1.b) del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos del sector público empresarial. La determinación y modificación de las condiciones retributivas del personal directivo se realizará de acuerdo con el citado Real Decreto 451/2012, de 5 de marzo, y las Órdenes de Clasificación de entidades públicas empresariales, especialmente en relación con las previsiones derivadas de los procesos de integración empresarial sobre el número de directivos autorizados.
+
+2\. En esta categoría se incluirán las personas titulares de los siguientes órganos de carácter directivo:
+
+a) La secretaría general, que ejercerá las funciones relativas a los servicios comunes de la entidad y la asistencia jurídica a los distintos órganos de ICEX.
+
+b) La dirección económico-financiera, que ejercerá las funciones relacionadas con la gestión económica, financiera y contable de ICEX, así como su tesorería.
+
+c) Las direcciones ejecutivas que se determinen para coordinar de forma específica una o varias de las funciones de ICEX a las que se refiere el artículo 4.
+
+d) Las direcciones que dependan de la consejería delegada, de las direcciones generales a los que se refiere el artículo 11 o de los órganos directivos relacionados en las letras a) a c) de este apartado.
+
+3\. El número máximo de directivos y su retribución se ajustará a lo dispuesto por el Real Decreto 451/2012, de 5 de marzo, y las ordenes de desarrollo del Ministerio de Hacienda.
+
+4\. El personal directivo desempeñará su cargo con dedicación absoluta, plena independencia y total objetividad, sometiéndose en el desarrollo de sus cometidos a evaluación con arreglo a los criterios de eficacia, responsabilidad por su gestión y control de resultados. Deberá observar los deberes de diligencia, discreción y sigilo profesional en el desempeño de su cargo, siéndole aplicable también el régimen de incompatibilidades previsto en la Ley 53/1984, de 26 de diciembre.
+
+5\. Los directivos serán nombrados y, en su caso, cesados por la persona titular de la Presidencia de ICEX, a propuesta de la persona titular de la Consejería Delegada, atendiendo a su experiencia y cualificación profesional, debiendo ser informado el Consejo Rector y quedando sometidos al régimen laboral especial de alta dirección, rigiéndose por la disposición adicional octava de la Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral, el Real Decreto 451/2012, de 15 de marzo, y por el Real Decreto 1382/1985, de 1 de agosto, por el que se regula la relación laboral especial de personal de alta dirección, en lo que no se oponga a este último real decreto, así como por la voluntad de las partes.
+
+6\. Los funcionarios de la Administración General del Estado que cubran destino como personal directivo en ICEX quedarán en situación administrativa de servicios especiales, de conformidad con lo establecido en el Real Decreto-ley 4/2011, de 8 de abril.
+
+7\. La designación del personal directivo atenderá a principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante los procedimientos regulados por la normativa interna de ICEX, que, en todo caso, garantizarán la publicidad y la concurrencia.
+
+8\. El personal directivo de ICEX atenderá al principio de representación equilibrada entre mujeres y hombres.
+
+> Se modifica por el art. único.18 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se modifica por el art. único.12 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+#### Artículo 17 bis. Régimen de los subdirectores y directores adjuntos.
+
+1\. Los subdirectores y directores adjuntos, que no tendrán la consideración de personal directivo, desarrollarán funciones de dirección ordinaria, coordinación, seguimiento, control y evaluación de la gestión operativa de una dirección o área de las contempladas en el organigrama de ICEX. Serán nombrados por la persona titular de la Consejería Delegada, quedando sometidos a una relación laboral de carácter común, pudiendo suscribirse a tal efecto pactos individuales que serán recogidos en sus respectivos contratos de trabajo.
+
+2\. La designación de los subdirectores y directores adjuntos se realizará mediante los procedimientos regulados por la normativa interna de ICEX que, en todo caso, garantizarán los principios de mérito y competencia profesional, así como la publicidad y la concurrencia garantizando asimismo los principios de acceso al empleo de las personas con discapacidad e igualdad de trato entre hombres y mujeres.
+
+> Se modifica por el art. único.19 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se añade por el art. único.13 del Real Decreto 608/2013, de 2 de agosto. [Ref. BOE-A-2013-9353](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9353).
+
+## CAPÍTULO V — Régimen económico-financiero y patrimonial
+
+### Sección 1.ª Recursos económicos
+
+#### Artículo 18. Recursos.
+
+Los recursos económicos de ICEX estarán integrados por:
+
+a) Los bienes y valores que constituyan su patrimonio.
+
+b) Los productos y rentas de su patrimonio, así como los que a partir de la entrada en vigor del presente Estatuto puedan ser incorporados y adscritos por cualquier persona o entidad y por cualquier título.
+
+c) Los ingresos ordinarios y extraordinarios generados por el ejercicio de su actividad empresarial.
+
+d) Las consignaciones específicas que tuviere asignadas en los Presupuestos Generales del Estado.
+
+e) Las transferencias corrientes y de capital que procedan de las Administraciones o entidades públicas.
+
+f) Los ingresos procedentes de la Unión Europea, tanto por la gestión y ejecución de fondos europeos, como por la participación en proyectos.
+
+g) Los créditos y préstamos que pueda recibir como prestatario, dentro de los límites que le autorice la Ley de Presupuestos Generales del Estado de cada ejercicio, salvo que se trate de operaciones de crédito que se concierten y cancelen en el mismo ejercicio presupuestario.
+
+h) Los intereses devengados, procedentes de las operaciones financieras que otorgue.
+
+i) Las donaciones, legados, patrocinios, y otras aportaciones procedentes de entidades públicas, privadas y de particulares.
+
+j) Cualquier otro recurso que pueda serle atribuido o que pueda integrarse dentro de su patrimonio.
+
+> Se modifica por el art. único.20 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+### Sección 2.ª Régimen económico-financiero
+
+#### Artículo 19. Elaboración del presupuesto.
+
+De acuerdo con los artículos 64 y 65 de la Ley 47/2003, de 26 de noviembre, ICEX elaborará anualmente su presupuesto de explotación y de capital y el programa de actuación plurianual, con la estructura que señale el Ministerio de Hacienda, que será tramitado en la forma establecida por la citada Ley 47/2003, de 26 de noviembre, para las entidades públicas empresariales.
+
+> Se modifica por el art. único.21 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 20. Modificaciones presupuestarias.
+
+El régimen de modificaciones presupuestarias será el establecido, con carácter general, en la Ley 47/2003, de 26 de noviembre, para las entidades públicas empresariales.
+
+> Se modifica por el art. único.22 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 21. Cuentas anuales.
+
+1\. Las cuentas anuales, en las que deberá incluirse la propuesta de aplicación de resultados del ejercicio y el informe de gestión, junto con el informe al que se refiere el artículo 129.3 de la Ley 47/2003, de 26 de noviembre, serán formuladas y puestas a disposición de la Intervención General de la Administración del Estado por la persona titular de la Consejería Delegada en el plazo máximo de tres meses desde el cierre del ejercicio económico.
+
+2\. Las cuentas anuales auditadas serán aprobadas por el Consejo Rector y remitidas a la Intervención General de la Administración del Estado antes del 31 de julio, junto con el informe relativo al cumplimiento de las obligaciones de carácter económico-financiero que regula el artículo 129.3 de la Ley 47/2003, de 26 de noviembre.
+
+> Se modifica por el art. único.23 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 22. Aplicación de resultados.
+
+El resultado del ejercicio que arroje anualmente la cuenta de pérdidas y ganancias de ICEX se aplicará conforme el siguiente orden de prelación:
+
+a) A la compensación de pérdidas de ejercicios anteriores.
+
+b) A constituir las reservas voluntarias que a propuesta del Consejo Rector de ICEX autorice el Ministerio de Hacienda.
+
+c) A su ingreso en el Tesoro Público.
+
+> Se modifica por el art. único.24 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 23. Operaciones financieras.
+
+ICEX podrá realizar todo tipo de operaciones financieras y, en particular, concertar operaciones de activo y pasivo, de crédito, de préstamo, incluso participativo, o constituir avales, cualquiera que sea la forma en que se instrumenten, todo ello, conforme a lo establecido en la Ley 47/2003, de 26 de noviembre y de acuerdo con los límites legalmente establecidos.
+
+> Se modifica por el art. único.25 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 24. Contabilidad.
+
+El ICEX estará sometido al Plan General de contabilidad de la empresa española, previsto en el artículo 121 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, para las entidades públicas empresariales.
+
+#### Artículo 25. Inventario.
+
+El ICEX formará y mantendrá actualizado el inventario de sus bienes y derechos, debiendo ser actualizado anualmente.
+
+#### Artículo 26. Régimen de control.
+
+ICEX está sometido a control interno por la Intervención General de la Administración del Estado en las condiciones y en los términos que establece la Ley 47/2003, de 26 de noviembre, para las entidades públicas empresariales. Todo ello, sin perjuicio del control que corresponda al Tribunal de Cuentas.
+
+Asimismo, ICEX se encuentra sujeto al sistema de supervisión continua del Ministerio de Hacienda, que se ejercerá a través de la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el artículo 85 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.26 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+### Sección 3.ª Régimen patrimonial
+
+#### Artículo 27. Patrimonio.
+
+1\. El patrimonio del ICEX estará integrado por los bienes y derechos de su titularidad. Al ICEX podrán adscribírsele bienes del patrimonio del Estado, de conformidad con lo previsto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+2\. El ICEX podrá participar en sociedades mercantiles, cuando ello sea necesario para la consecución de sus fines.
+
+#### Artículo 28. Gestión patrimonial.
+
+El ICEX ajustará la gestión de su patrimonio a la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+## CAPÍTULO VI — Régimen de contratación
+
+> Se modifica por el art. único.27 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+#### Artículo 29. Contratación.
+
+1\. La contratación de ICEX se sujetará a las prescripciones de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, en los términos que resulten aplicables a su naturaleza de entidad pública empresarial y a que no tiene la condición de poder adjudicador.
+
+2\. Los contratos que celebre ICEX tendrán la consideración de contratos privados y las controversias que se susciten en relación con los mismos se resolverán conforme a lo previsto en el artículo 27 de la Ley 9/2017, de 8 de noviembre.
+
+> Se modifica por el art. único.27 del Real Decreto 350/2025, de 30 de abril. [Ref. BOE-A-2025-8646](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8646)
+
+> Se derogan las referencias a la condición de medio propio del último inciso del apartado 1 por la disposición derogatoria única.1 del Real Decreto-ley 36/2020, de 30 de diciembre. [Ref. BOE-A-2020-17340](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17340)
+
+#### Artículo 30. Medio propio.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto-ley 36/2020, de 30 de diciembre. [Ref. BOE-A-2020-17340](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17340)

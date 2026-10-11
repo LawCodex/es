@@ -1,0 +1,828 @@
+---
+title: "Orden IET/1491/2013, de 1 de agosto, por la que se revisan los peajes de acceso de energía eléctrica para su aplicación a partir de agosto de 2013 y por la que se revisan determinadas tarifas y primas de las instalaciones del régimen especial para el segundo trimestre de 2013"
+identifier: "BOE-A-2013-8561"
+eli: "https://www.boe.es/eli/es/o/2013/08/01/iet1491"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Energía y Turismo"
+date: 2013-08-01
+published: 2013-08-03
+in_force_from: 2013-08-03
+last_amended: 2016-11-03
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 185"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2013-8561"
+retrieved: 2026-10-11
+---
+
+# Orden IET/1491/2013, de 1 de agosto, por la que se revisan los peajes de acceso de energía eléctrica para su aplicación a partir de agosto de 2013 y por la que se revisan determinadas tarifas y primas de las instalaciones del régimen especial para el segundo trimestre de 2013
+
+El artículo 17.1 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establece que el Ministro de Industria, Turismo y Comercio, actualmente Ministro de Industria, Energía y Turismo, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos dictará las disposiciones necesarias para el establecimiento de los peajes de acceso a las redes, que se establecerán con base en los costes de las actividades reguladas del sistema que correspondan, incluyendo entre ellos los costes permanentes y los costes de diversificación y seguridad de abastecimiento.
+
+Por su parte, en el Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico, determina en su disposición final cuarta, sobre revisión de precios de los peajes de acceso de energía eléctrica que el Ministro de Industria, Energía y Turismo deberá aprobar, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y en el plazo máximo de un mes a contar desde su entrada en vigor, una revisión de los precios de los términos de potencia y de los términos de energía activa de los peajes de acceso a las redes definidos en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y en su normativa de desarrollo.
+
+En relación a la fijación de los peajes de acceso a las redes de transporte y distribución, el Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista, prevé en su disposición transitoria primera lo siguiente:
+
+«1. Hasta que la Comisión Nacional de Energía establezca la metodología para el cálculo de la parte de los peajes de acceso a las redes de electricidad correspondientes a los costes de transporte y distribución de energía eléctrica, de acuerdo a lo dispuesto en la disposición adicional undécima.tercero.1.decimonovena.i de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, la aprobación de los peajes de acceso se realizará de acuerdo a lo dispuesto en el artículo 17 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.»
+
+La citada Comisión remitió el 18 de junio de 2012 a los miembros del Consejo Consultivo de Electricidad el texto de la Consulta Pública sobre la «Metodología de asignación de costes a los peajes de acceso eléctricos», aprobada por su Consejo en su sesión de 14 de junio de 2012, y que también fue publicada en la página web institucional.
+
+Posteriormente, tras el proceso de consulta pública, el pasado 17 de mayo de 2013 la Comisión Nacional de Energía remitió a los miembros del Consejo Consultivo de Electricidad, para observaciones, un borrador de Circular por la que se establece la metodología para el cálculo de los peajes de transporte y distribución de electricidad en cumplimiento del Real Decreto-ley 13/2012, de 30 de marzo, por el que se transponen directivas en materia de mercados interiores de electricidad y gas y en materia de comunicaciones electrónicas, y por el que se adoptan medidas para la corrección de las desviaciones por desajustes entre los costes e ingresos de los sectores eléctrico y gasista. En la fecha actual, no ha sido aprobada la citada circular.
+
+Mediante el anteriormente citado Real Decreto-ley 9/2013, de 12 de julio, se adoptan un conjunto de medidas por razones de extraordinaria y urgente necesidad justificadas por la garantía de la sostenibilidad económica del sistema eléctrico. Entre ellas se aborda la necesidad de llevar acabo esta revisión con carácter de urgencia teniendo en cuenta el impacto que tiene el escenario de caída de demanda de energía eléctrica más acusada de lo previsto y en línea con las modificaciones relativas a las diferentes partidas de costes del sistema contenidas en dicho real decreto-ley.
+
+Por otro lado, en el artículo 7 del Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica, se fija la metodología de cálculo y revisión de las tarifas de último recurso, disponiendo al respecto que el Ministro de Industria, Energía y Turismo dictará las disposiciones necesarias para el establecimiento de estas tarifas de último recurso, determinando su estructura de forma coherente con los peajes de acceso.
+
+Teniendo en cuenta lo anterior, mediante la presente orden se revisan los precios de los términos de potencia y de energía activa de los peajes de acceso a las redes de transporte y distribución de energía eléctrica de aplicación a todas las categorías de consumidores a partir de su entrada en vigor, para cambiar la ponderación de la facturación de los términos de potencia y energía activa resultante de aplicar los citados precios, de forma que se da mayor peso a la facturación del término de potencia, teniendo en cuenta la estructura de costes del sistema eléctrico.
+
+Adicionalmente, se revisan al alza los precios con el fin de incrementar los ingresos procedentes de los mismos a fin de reducir el desequilibrio entre ingresos y costes del sistema eléctrico contribuyendo con ello a su sostenibilidad económica.
+
+Esta modificación debe entenderse sin perjuicio de las potestades de la Comisión Nacional de Energía para el establecimiento de la metodología para el cálculo de la parte de los peajes de acceso a las redes de electricidad correspondientes a los costes de transporte y distribución de energía eléctrica, así como de otras modificaciones que pudieran derivarse de ésta.
+
+Las revisiones de precios contenidas en la presente orden serán de aplicación a los consumos que se realicen a partir de su entrada en vigor.
+
+En la presente orden se incorpora lo previsto en la disposición adicional cuarta Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico, en relación con la financiación en un 50 por ciento con cargo a los Presupuestos Generales del Estado de los extracostes derivados de las actividades de producción de energía eléctrica cuando se desarrollen en territorios insulares y extrapeninsulares de acuerdo a lo dispuesto en el artículo 12.3 de la Ley 54/97, de 27 de noviembre, del Sector Eléctrico.
+
+Asimismo, se tiene en cuenta en la presente norma que desde la publicación de la Orden IET/221/2013, de 14 de febrero, por la que se establecen los peajes de acceso a partir de 1 de enero de 2013 y las tarifas y primas de las instalaciones del régimen especial, hasta la fecha de la Liquidación 3/2013 realizada por la Comisión Nacional de Energía se han registrado nuevas emisiones del fondo de titulización del déficit del sector eléctrico (FADE), por lo que se actualizan la anualidades de las categorías «Déficit 2010», «Déficit 2011» y la anualidad correspondiente a FADE contenidas en la mencionada orden.
+
+Por otro lado, se da el caso de que la Sentencia del Tribunal Supremo de fecha 9 de mayo de 2013 recaída en el recurso contencioso-administrativo número 600/2011 interpuesto contra la Orden ITC/2452/2011, de 13 de septiembre, por la que se revisan determinadas tarifas y primas de las instalaciones del régimen especial, ha declarado la nulidad de la disposición adicional segunda de dicha orden, y ello por considerar que no resultaba debidamente motivada la fijación del precio de alquiler de los contadores con discriminación horaria y con posibilidad de telegestión para consumidores domésticos que en ella se determinaba.
+
+Para dar cumplimiento a la citada Sentencia, aplicando la propuesta de revisión del «Informe 14/2013 de la CNE sobre la propuesta de orden por la que se revisan los peajes de acceso de energía eléctrica», es preciso contar con un valor preciso de actualización del precio de los contadores.
+
+Analizados los valores del IPRI correspondientes a la partida «contadores», a efectos de aplicar la revisión propuesta por la CNE, se observan dos factores que impiden su utilización como parámetro de revisión. Por un lado, el índice está comprendido por una variedad muy dispar de aparatos de medición, por lo que no puede tomarse como base representativa de la evolución de los precios de los contadores con discriminación horaria y con capacidad de telegestión para consumidores domésticos. La desagregación a niveles inferiores de la partida de contadores es un dato confidencial, cuyo valor no es publicado por el Instituto Nacional de Estadística. Por otro lado, se observa que han coexistido dos bases de datos con desagregaciones y con bases distintas, 2005 y 2010, que reflejan evoluciones distintas del índice en función de la base que se tome como referencia.
+
+Por este motivo, y teniendo en cuenta que el precio de alquiler de estos contadores afecta a una gran parte de los consumidores domésticos, y considerando que no puede aplicarse dicho índice con la fiabilidad exigida, se ha optado por dar a la CNE el mandato para la elaboración en el menor plazo posible, y en todo caso antes de 15 de diciembre de 2013, de un informe que contenga un análisis detallado del coste de alquiler de los contadores con discriminación horaria y con posibilidad de telegestión para consumidores domésticos. De esta forma, y una vez la Comisión Nacional de Energía o, en su caso, la Comisión Nacinal de los Mercados y la Competencia, emita su informe se procederá al ajuste de los precios de forma coherente.
+
+Por otro lado, se ha incluido en el caso del precio del contador trifásico el valor correspondiente al coste de verificación del equipo considerando lo dispuesto Orden ITC/3022/2007, 10 octubre, que regula el control de los contadores de energía eléctrica.
+
+El capítulo II de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establece las características, procedimiento de autorización, destino de la energía y obligaciones de derechos de los productores de energía eléctrica en régimen especial.
+
+De acuerdo con lo previsto en el apartado 1 del artículo 44 y en la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, trimestralmente se procederá a la actualización de las tarifas y primas para las instalaciones de los subgrupos a.1.1 y a.1.2 (cogeneraciones que utilicen gas natural, gasóleo, fuel-oil o GLP), del grupo c.2 (instalaciones de residuos) y de las acogidas a la disposición transitoria segunda del citado real decreto (instalaciones de cogeneración para el tratamiento y reducción de residuos).
+
+Dichas actualizaciones se realizarán en función de las variaciones de los valores de referencia de los índices de precios de combustibles definidos en el anexo VII del referido real decreto y el Índice de Precios de Consumo a impuestos constantes sin alimentos no elaborados ni productos energéticos trimestral, de acuerdo con lo previsto en el artículo 1 del Real Decreto-ley 2/2013, de 1 de febrero, de medidas urgentes en el sistema eléctrico y en el sector financiero.
+
+Las variaciones trimestrales de los índices de referencia utilizados para la actualización a partir del 1 de abril de 2013 han sido un incremento de 160,1 puntos básicos para el Índice de Precios de Consumo a impuestos constantes sin alimentos no elaborados ni productos energéticos, un decremento de 4,923 por ciento para el precio del gas natural y un decremento de 3,311 por ciento para el precio del gasóleo, el GLP y el fueloil.
+
+Como consecuencia de lo anterior, mediante la presente orden se procede a la actualización de las tarifas y primas de las instalaciones de los subgrupos a.1.1 y a.1.2, del grupo c.2 y de las acogidas a la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, para su aplicación a partir del 1 de abril de 2013.
+
+Asimismo, se procede a la corrección de los errores advertidos en la Orden IET/221/2013, de 14 de febrero, por la que se establecen los peajes de acceso a partir de 1 de enero de 2013 y las tarifas y primas de las instalaciones del régimen especial, en relación con la actualización de los valores necesarios para el cálculo del régimen económico aplicable a las instalaciones de tecnología solar termoeléctrica adjudicatarias del régimen previsto en la disposición adicional tercera del Real Decreto 1565/2010, de 19 de noviembre, por el que se regulan y modifican determinados aspectos relativos a la actividad de producción de energía eléctrica en régimen especial.
+
+Según lo dispuesto en el artículo 4 del Real Decreto-ley 2/2013, de 1 de febrero, a dichas instalaciones les será de aplicación la retribución fijada en la correspondiente resolución de la Secretaría de Estado de Energía por la que se resuelve el procedimiento de concurrencia competitiva. Los valores de la prima y los límites superior e inferior aplicables se calcularán a partir de los valores para las instalaciones solares termoeléctricas de 50 MW publicados en la Orden IET/3586/2011, de 30 de diciembre, por la que se establecen los peajes de acceso a partir de 1 de enero de 2012 y las tarifas y primas de las instalaciones del régimen especial, reducidos en el porcentaje que se indique en la citada resolución, los cuales serán actualizados según lo establecido en el artículo 44 del Real Decreto 661/2007 de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial
+
+Por lo anteriormente expuesto, deben eliminarse las tarifas de referencia para la determinación de los valores a aplicar a las citadas instalaciones de tecnología solar termoeléctrica, que por error fueron publicados en esta orden, dado que a estas instalaciones únicamente le son de aplicación los valores de la prima y los límites superior e inferior.
+
+De acuerdo con lo establecido en las disposiciones transitorias tercera y décima de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia y en la disposición adicional segunda del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico, lo dispuesto en la presente orden ha sido informado por la Comisión Nacional de Energía. El trámite de audiencia de esta orden ha sido evacuado mediante consulta a los representantes en el Consejo Consultivo de Electricidad.
+
+Mediante acuerdo de 1 de agosto de 2013, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Energía y Turismo a dictar la presente orden.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dispongo:
+
+## Artículo 1. Revisión de los peajes de acceso.
+
+Los precios de los términos de potencia y energía activa de aplicación a partir de la entrada en vigor de la presente orden y correspondientes a los peajes de acceso definidos en el capítulo VI de la Orden ITC/1659/2009, de 22 de junio, por la que se establece el mecanismo de traspaso de clientes del mercado a tarifa al suministro de último recurso de energía eléctrica y el procedimiento de cálculo y estructura de las tarifas de último recurso de energía eléctrica, en el Real Decreto 647/2011, de 9 de mayo, por el que se regula la actividad de gestor de cargas del sistema para la realización de servicios de recarga energética y en el Real Decreto 1164/2001, de 26 de diciembre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica, son los fijados en el anexo I de la presente orden.
+
+> Téngase en cuenta que se declara que este artículo no es conforme al ordenamiento jurídico en la medida en que no incluye entre los costes que han de sufragar los peajes de acceso para el segundo periodo de 2013 los suplementos territoriales a los que se refiere el apartado cuarto del artículo 17 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, según la redacción dada por el artículo 38 del Real Decreto-ley 20/2012, por sentencia del TS de 22 de septiembre de 2016. [Ref. BOE-A-2016-10117](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-10117)
+
+## Artículo 2. Anualidades del desajuste de ingresos para 2013.
+
+De conformidad con lo establecido en la disposición adicional vigésima primera de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico y sin perjuicio de las anualidades que correspondan para satisfacer los derechos de cobro del sistema eléctrico pendientes a la entrada en vigor de la presente orden, las cantidades previstas para satisfacer dichos derechos son las siguientes:
+
+|  | Euros |
+|---|---|
+| Desajuste de ingresos: |  |
+| Anualidad FADE | 1.863.933.437 |
+| Déficit extrapeninsular 2003 a 2005 | 1.460 |
+| Déficit ingresos liquidaciones de las actividades reguladas en el año 2005 | 296.184.600 |
+| Déficit ingresos liquidaciones de las actividades reguladas en el año 2007 | 96.409.440 |
+| Déficit ingresos liquidaciones de las actividades reguladas en el año 2010 | 65.401.971 |
+| Déficit ingresos liquidaciones de las actividades reguladas en el año 2011 | 26.322.317 |
+| Déficit 2012 (Desajustes) | 319.784.865 |
+| Total | 2.668.038.090 |
+
+A los efectos de su liquidación y cobro, estos costes se considerarán como costes de las actividades reguladas.
+
+> Téngase en cuenta que este artículo se declara contrario a derecho en cuanto al cómputo de la cantidad relativa a los intereses correspondientes al desajuste temporal de 2012, por Sentencia del TS de 28 de abril de 2015. [Ref. BOE-A-2015-7358](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7358)
+
+## Artículo 3. Costes definidos como cuotas con destinos específicos.
+
+1\. La cuantía de los costes con destinos específicos que, de acuerdo con el capítulo II del Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento, deben satisfacer los consumidores directos en mercado y comercializadores por los contratos de acceso a las redes, se establecen a partir de la entrada en vigor de la presente orden en los porcentajes siguientes:
+
+|  | % sobre peaje de acceso |
+|---|---|
+| Costes permanentes: |  |
+| – Tasa de la Comisión Nacional de Energía | 0,150 |
+| Costes de diversificación y Seguridad de abastecimiento: |  |
+| – Moratoria nuclear | 0,531 |
+| – 2.ª Parte del ciclo de combustible nuclear | 0,001 |
+| Recargo para recuperar el déficit de ingresos en la liquidación de las actividades reguladas generado entre el 1 de enero de 2005 y el 31 de diciembre de 2005. | 2,081 |
+
+2\. La compensación insular y extrapeninsular prevista para 2013 asciende a 1.806.000 Miles de euros. El 50 por ciento de la compensación insular y extrapeninsular prevista para 2013 será financiada con cargo a los Presupuestos Generales del Estado de 2014, de acuerdo a lo dispuesto en la disposición adicional cuarta del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico. El 50 por ciento restante, se incluirá como coste liquidable del ejercicio 2013. Ello sin perjuicio de que el mecanismo de liquidaciones actúe, en su caso, como mecanismo de financiación subsidiaria, en los términos establecidos en la citada disposición adicional cuarta del Real Decreto-ley 9/2013, de 12 de julio.
+
+## Artículo 4. Actualización de las tarifas y primas de las instalaciones de los subgrupos a.1.1 y a.1.2, del grupo c.2 y de las instalaciones acogidas a la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial.
+
+1\. De acuerdo con lo establecido en el artículo 44.1 y en la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, se aprueba la actualización trimestral para el segundo trimestre de 2013 de las tarifas y primas de las instalaciones de los subgrupos a.1.1 y a.1.2, del grupo c.2 y de las instalaciones acogidas a la disposición transitoria segunda.
+
+2\. En el anexo II de la presente orden figuran las tarifas y primas que se fijan para las citadas instalaciones para el trimestre mencionado con efectos a partir del 1 de abril de 2013.
+
+## Disposición adicional única. Mandato para la elaboración de un informe sobre el precio de alquiler de los contadores electrónicos con discriminación horaria y con posibilidad de telegestión para consumidores domésticos.
+
+1\. En el menor plazo posible, y en todo caso antes de 15 de diciembre de 2013 la Comisión Nacional de los Mercados y la Competencia o, en su caso, la Comisión Nacional de Energía, remitirá al Ministerio de Industria, Energía y Turismo un informe detallado sobre el coste del alquiler de los contadores electrónicos monofásicos y trifásicos con discriminación horaria y con posibilidad de telegestión para consumidores domésticos, y una propuesta de precios para los distintos tipos de contadores.
+
+2\. Hasta que se apruebe el precio definitivo de los contadores electrónicos con base en el informe al que se refiere el apartado anterior, el precio medio de alquiler de los contadores electrónicos será el establecido en la disposición transitoria única de la presente orden.
+
+## Disposición transitoria única. Precio de alquiler de los contadores electrónicos con discriminación horaria y con posibilidad de telegestión para consumidores domésticos.
+
+1\. Hasta que se apruebe el precio definitivo de los contadores electrónicos con base en el informe de la Comisión Nacional de los Mercados y la Competencia o, en su caso, la Comisión Nacional de Energía al que se refiere la disposición adicional única de la presente orden, el precio medio del alquiler de los contadores electrónicos será el siguiente:
+
+a) Contadores electrónicos monofásicos con discriminación horaria y con posibilidad de telegestión para consumidores domésticos, considerando no solo el precio del propio equipo sino también los costes asociados a su instalación y operación y mantenimiento de los mismos (incluidos los costes asociados a la verificación): 0,81 euros/mes.
+
+b) Contadores electrónicos trifásicos con discriminación horaria y con posibilidad de telegestión para consumidores domésticos, considerando no solo el precio del propio equipo sino también los costes asociados a su instalación y operación y mantenimiento de los mismos (incluidos los costes asociados a la verificación): 1,36 euros/mes.
+
+2\. Los precios que se establecen en el apartado anterior se aplicarán a partir la entrada en vigor de la presente orden.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden.
+
+## Disposición final primera. Corrección de errores de la Orden IET/221/2013, de 14 de febrero, por la que se establecen los peajes de acceso a partir de 1 de enero de 2013 y las tarifas y primas de las instalaciones del régimen especial.
+
+La Orden IET/221/2013, de 14 de febrero, por la que se establecen los peajes de acceso a partir de 1 de enero de 2013 y las tarifas y primas de las instalaciones del régimen especial, queda corregida en los siguientes términos:
+
+Uno. El artículo 8. 2 segundo párrafo queda corregido como sigue:
+
+«Se actualiza el valor de la prima y límite superior e inferior de referencia para la determinación de los valores a aplicar a las instalaciones de tecnología solar termoeléctricas adjudicatarias del régimen previsto en la disposición adicional tercera del Real Decreto 1565/2010, de 19 de noviembre, por el que se regulan y modifican determinados aspectos relativos a la actividad de producción de energía eléctrica en régimen especial.»
+
+Dos. El anexo III. 4 queda corregido en los siguientes términos:
+
+«4. Primas y límite superior e inferior de referencia para la determinación de los valores a aplicar a las instalaciones de tecnología solar termoeléctricas adjudicatarias del régimen previsto en la disposición adicional tercera del Real Decreto 1565/2010, de 19 de noviembre:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Plazo</p>
+</td>
+<td>
+<p>Prima de referencia c€/kWh</p>
+</td>
+<td>
+<p>Límite Superior c€/kWh</p>
+</td>
+<td>
+<p>Límite Inferior c€/kWh</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>28,1815</p>
+</td>
+<td rowspan="2">
+<p>38,1644</p>
+</td>
+<td rowspan="2">
+<p>28,1857»</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>22,5452</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el mismo día de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 1 de agosto de 2013.–El Ministro de Industria, Energía y Turismo, José Manuel Soria López.
+
+## ANEXO I — Precios de los términos de potencia y términos de energía activa, de los peajes de acceso definidos en capítulo VI de la Orden ITC/1659/2009, de 22 de junio, por la que se establece el mecanismo de traspaso de clientes del mercado a tarifa al suministro de último recurso de energía eléctrica y el procedimiento de cálculo y estructura de las tarifas de último recurso de energía eléctrica, en el Real Decreto 647/2011, de 9 de mayo, por el que se regula la actividad de gestor de cargas del sistema para la realización de servicios de recarga energética y en el Real Decreto 1164/2001, de 26 de diciembre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica
+
+1.º Precios de los términos de potencia y energía activa de los peajes de acceso de baja tensión:
+
+1.1 Precios de los términos de potencia y términos de energía, activa y coeficientes de los peajes de acceso aplicables a los suministros efectuados a tensiones no superiores a 1 kV y con potencia contratada menor o igual a 10 kW denominadas 2.0A (sin discriminación horaria) y 2.0DHA (con discriminación horaria).
+
+– Término de facturación de potencia:
+
+TPA: 31,649473 €/kW y año.
+
+– Término de facturación de energía activa a aplicar al peaje 2.0 A:
+
+TEA: 0,053255 €/kWh.
+
+– Términos de facturación de energía activa a aplicar al peaje 2.0DHA (con discriminación horaria):
+
+|  | Período 1 | Período 2 |
+|---|---|---|
+| TEA: €/kWh | 0,074558 | 0,002663 |
+
+1.2 Precios de los términos de potencia y términos de energía, activa y reactiva, de los peajes de acceso definidas en el Real Decreto 1164/2001, de 26 de diciembre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica aplicables a los suministros efectuados en baja tensión con potencia contratada mayor a 10 kW.
+
+– Peaje 2.1A, de aplicación a los suministros efectuados a tensiones no superiores a 1 kV y con potencia contratada mayor de 10 kW y menor o igual a 15 kW:
+
+– Tp: 39,978187 €/kW y año.
+
+– Te: 0,060781 €/kWh.
+
+– Peaje 2.1DHA, de aplicación a los suministros efectuados a tensiones no superiores a 1 kV y con potencia contratada mayor de 10 kW y menor o igual a 15 kW, con aplicación de discriminación horaria:
+
+– Tp: 39,978187 €/kW y año.
+
+– Te
+
+|  | Período 1 | Período 2 |
+|---|---|---|
+| Te: €/kWh | 0,079015 | 0,013979 |
+
+– Peaje 3.0A:
+
+|  | Período tarifario 1 | Período tarifario 2 | Período tarifario 3 |
+|---|---|---|---|
+| Tp: €/kW y año | 39,688104 | 23,812861 | 15,875243 |
+| Te: €/kWh | 0,018283 | 0,012254 | 0,004551 |
+
+1.3 Precios de los términos de potencia y términos de energía, activa y coeficientes de los peajes de acceso aplicables a los suministros efectuados a tensiones no superiores a 1 kV y con potencia contratada menor o igual a 10 kW denominada 2.0DHS (con discriminación horaria supervalle).
+
+– Término de facturación de potencia:
+
+TPA: 31,649473 €/kW y año.
+
+– Términos de facturación de energía activa a aplicar al peaje 2.0DHS:
+
+|  | Período 1 | Período 2 | Período 3 |
+|---|---|---|---|
+| TEA: €/kWh | 0,074558 | 0,003728 | 0,001332 |
+
+1.4 Precios de los términos de potencia y términos de energía, activa y reactiva, de los peajes de acceso definidos en el Real Decreto 647/2011, de 9 de mayo, por el que se regula la actividad de gestor de cargas del sistema para la realización de servicios de recarga energética, aplicables a los suministros efectuados en baja tensión con potencia contratada mayor a 10 kW.
+
+– Peaje 2.1DHS, de aplicación a los suministros efectuados a tensiones no superiores a 1 kV y con potencia contratada mayor de 10 kW y menor o igual a 15 kW, con aplicación de discriminación horaria supervalle:
+
+– Tp: 39,978187 €/kW y año
+
+– Te
+
+|  | Período 1 | Período 2 | Período 3 |
+|---|---|---|---|
+| Te: €/kWh | 0,079015 | 0,018872 | 0,006989 |
+
+2.º Precios de los términos de potencia y energía activa de los peajes de acceso de alta tensión:
+
+1\. Peaje 3.1A:
+
+|  | Período tarifario 1 | Período tarifario 2 | Período tarifario 3 |
+|---|---|---|---|
+| Tp: €/kW y año | 57,605223 | 35,523594 | 8,145965 |
+| Te: €/kWh | 0,013955 | 0,012416 | 0,007598 |
+
+2\. Peajes de alta tensión de 6 periodos tarifarios (6.):
+
+Términos de potencia (€/KW y año)
+
+| Peaje | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 |
+|---|---|---|---|---|---|---|
+| 6.1 | 38,102134 | 19,067559 | 13,954286 | 13,954286 | 13,954286 | 6,366846 |
+| 6.2 | 21,550117 | 10,784384 | 7,892379 | 7,892379 | 7,892379 | 3,601014 |
+| 6.3 | 18,396962 | 9,206443 | 6,737588 | 6,737588 | 6,737588 | 3,074123 |
+| 6.4 | 13,320989 | 6,666262 | 4,878598 | 4,878598 | 4,878598 | 2,225932 |
+| 6.5 | 13,320989 | 6,666262 | 4,878598 | 4,878598 | 4,878598 | 2,225932 |
+
+Términos de energía (€/KWh)
+
+| Peaje | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 |
+|---|---|---|---|---|---|---|
+| 6.1 | 0,025967 | 0,019393 | 0,010334 | 0,005143 | 0,003321 | 0,002080 |
+| 6.2 | 0,015159 | 0,011321 | 0,006034 | 0,003002 | 0,001938 | 0,001213 |
+| 6.3 | 0,014635 | 0,010929 | 0,005823 | 0,002897 | 0,001871 | 0,001173 |
+| 6.4 | 0,008227 | 0,006825 | 0,003912 | 0,002221 | 0,001434 | 0,000989 |
+| 6.5 | 0,008227 | 0,006825 | 0,003912 | 0,002221 | 0,001434 | 0,000989 |
+
+> Ref. BOE-A-2016-10117
+
+## ANEXO II — Actualización trimestral de las tarifas y primas de determinadas instalaciones de régimen especial a partir de 1 de abril de 2013
+
+a) Tarifas y primas para las instalaciones de los subgrupos a.1.1 y a.1.2 y del grupo c.2 del artículo 2 del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial.
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Grupo</p>
+</td>
+<td>
+<p>Subgrupo</p>
+</td>
+<td>
+<p>Combustible</p>
+</td>
+<td>
+<p>Potencia</p>
+</td>
+<td>
+<p>Tarifa regulada c€/kWh</p>
+</td>
+<td>
+<p>Prima de referencia c€/kWh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="14">
+<p>a.1</p>
+</td>
+<td rowspan="5">
+<p>a.1.1</p>
+</td>
+<td rowspan="5">
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>17,2145</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>14,1259</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>11,4734</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>10,9343</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>10,4511</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9">
+<p>a.1.2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>21,1279</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Gasoleo/GLP</p>
+</td>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>17,9801</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>15,8164</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>15,4647</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>15,0114</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Fuel</p>
+</td>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>16,3303</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>14,3207</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>13,9563</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>13,5406</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c.2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>8,8612</p>
+</td>
+<td>
+<p>0,0000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+b) Tarifas para las instalaciones acogidas a la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Combustible</p>
+</td>
+<td rowspan="2">
+<p>Potencia</p>
+</td>
+<td colspan="4">
+<p>Tarifa regulada por tipo de Instalación (c€/kWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tratamiento y reducción de purines de explotaciones de porcino</p>
+</td>
+<td>
+<p>Tratamiento y reducción de lodos derivados de la producción de aceite de oliva</p>
+</td>
+<td>
+<p>Tratamiento y reducción de otros lodos</p>
+</td>
+<td>
+<p>Tratamiento y reducción de otros residuos</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Gas Natural.</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>14,9982</p>
+</td>
+<td>
+<p>13,3685</p>
+</td>
+<td>
+<p>7,6636</p>
+</td>
+<td>
+<p>6,5769</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>14,9981</p>
+</td>
+<td>
+<p>13,3682</p>
+</td>
+<td>
+<p>7,6637</p>
+</td>
+<td>
+<p>6,5769</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>15,5902</p>
+</td>
+<td>
+<p>13,8962</p>
+</td>
+<td>
+<p>7,9660</p>
+</td>
+<td>
+<p>6,8364</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>15,6909</p>
+</td>
+<td>
+<p>13,9860</p>
+</td>
+<td>
+<p>8,0175</p>
+</td>
+<td>
+<p>6,8808</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>15,8429</p>
+</td>
+<td>
+<p>14,1210</p>
+</td>
+<td>
+<p>8,0954</p>
+</td>
+<td>
+<p>6,9472</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Gasoleo/GLP.</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>16,7415</p>
+</td>
+<td>
+<p>14,9222</p>
+</td>
+<td>
+<p>8,5544</p>
+</td>
+<td>
+<p>7,3411</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>16,7414</p>
+</td>
+<td>
+<p>14,9222</p>
+</td>
+<td>
+<p>8,5546</p>
+</td>
+<td>
+<p>7,3412</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>17,3791</p>
+</td>
+<td>
+<p>15,4906</p>
+</td>
+<td>
+<p>8,8799</p>
+</td>
+<td>
+<p>7,6213</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>17,4871</p>
+</td>
+<td>
+<p>15,5869</p>
+</td>
+<td>
+<p>8,9355</p>
+</td>
+<td>
+<p>7,6684</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>17,5999</p>
+</td>
+<td>
+<p>15,6872</p>
+</td>
+<td>
+<p>8,9930</p>
+</td>
+<td>
+<p>7,7178</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Fuel.</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>16,7415</p>
+</td>
+<td>
+<p>14,9222</p>
+</td>
+<td>
+<p>8,5544</p>
+</td>
+<td>
+<p>7,3411</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>16,5164</p>
+</td>
+<td>
+<p>14,7214</p>
+</td>
+<td>
+<p>8,4393</p>
+</td>
+<td>
+<p>7,2425</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>17,2240</p>
+</td>
+<td>
+<p>15,3521</p>
+</td>
+<td>
+<p>8,8006</p>
+</td>
+<td>
+<p>7,5528</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>17,3421</p>
+</td>
+<td>
+<p>15,4575</p>
+</td>
+<td>
+<p>8,8611</p>
+</td>
+<td>
+<p>7,6046</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>17,5099</p>
+</td>
+<td>
+<p>15,6073</p>
+</td>
+<td>
+<p>8,9472</p>
+</td>
+<td>
+<p>7,6781</p>
+</td>
+</tr>
+</tbody>
+</table>

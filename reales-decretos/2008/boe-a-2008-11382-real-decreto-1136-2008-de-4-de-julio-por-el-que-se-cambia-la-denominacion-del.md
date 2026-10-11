@@ -1,0 +1,213 @@
+---
+title: "Real Decreto 1136/2008, de 4 de julio, por el que se cambia la denominación del Museo Nacional de Escultura por la de Museo Nacional Colegio de San Gregorio y se modifican la composición y funciones de su Patronato"
+identifier: "BOE-A-2008-11382"
+eli: "https://www.boe.es/eli/es/rd/2008/07/04/1136"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura"
+date: 2008-07-04
+published: 2008-07-05
+in_force_from: 2008-07-06
+last_amended: 2011-12-09
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 162"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-11382"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1136/2008, de 4 de julio, por el que se cambia la denominación del Museo Nacional de Escultura por la de Museo Nacional Colegio de San Gregorio y se modifican la composición y funciones de su Patronato
+
+El Museo Provincial de Bellas Artes de Valladolid fue inaugurado en 1842 y cambió su denominación por la de Museo Nacional de Escultura mediante Decreto de 29 de abril de 1933. La evolución que en el tiempo ha tenido la colección que custodia el Museo, con una cronología que abarca fundamentalmente desde el Renacimiento al Barroco, un predominio casi exclusivo de la madera policromada y la inclusión asimismo de numerosas piezas pictóricas, hacen necesario adecuar la denominación del Museo al contenido de la colección.
+
+Por todo ello se procede a cambiar la denominación actual por la de Museo Nacional Colegio de San Gregorio, identificando así el nombre del lugar que acoge las colecciones, el Colegio de San Gregorio, con el nombre del Museo, lo cual sirve también para poner en valor este edificio, de gran relevancia arquitectónica y significación histórico-artística.
+
+Por otra parte, por Real Decreto 162/1997, de 7 de febrero, se establecen la composición y funciones del Patronato del Museo Nacional de Escultura. Tras diez años de funcionamiento se hace necesario modificar la composición y funciones de este órgano colegiado, con la finalidad de adaptarlo al Plan de Modernización de las Instituciones Culturales aprobado por el Consejo de Ministros el 7 de septiembre de 2007 y reforzar así la presencia de expertos y profesionales del área de la historia del arte y la museología en el mismo.
+
+En su virtud, a propuesta del Ministro de Cultura, con la aprobación de la Ministra de Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 4 de julio de 2008,
+
+## D I S P O N G O :
+
+### Artículo 1. Nueva denominación del Museo Nacional Colegio de San Gregorio.
+
+El Museo Nacional Colegio de San Gregorio pasa a denominarse Museo Nacional de Escultura, de titularidad y gestión estatal, permaneciendo adscrito al Ministerio de Cultura.
+
+> Se modifica por el art. 2.1 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+### Artículo 2. Sede del Museo Nacional Colegio de San Gregorio.
+
+El Museo Nacional Colegio de San Gregorio tiene su sede en Valladolid, en los siguientes inmuebles: Colegio de San Gregorio, Palacio de Villena, Casa del Sol e Iglesia de San Benito el Viejo.
+
+### Artículo 3. Fines del Museo Nacional de Escultura.
+
+Son fines del Museo Nacional de Escultura:
+
+1\. Preservar, documentar, enriquecer y difundir sus colecciones, formadas por dos núcleos principales: las obras de género religioso en madera policromada (siglos XIII-XVIII) y el conjunto de copias (siglos XIX-XX), procedente del extinguido Museo Nacional de Reproducciones Artísticas.
+
+2\. Proyectar su actuación al conocimiento crítico de la historia de la escultura española, al desarrollo de una red de relaciones nacionales e internacionales con otros museos, instituciones de investigación y especialistas de su mismo campo, y al fomento del dialogo abierto entre tradición y contemporaneidad en el campo de la escultura, ofreciéndose como un foro de debate para críticos, estudiosos y artistas.
+
+3\. Potenciar su presencia en los ámbitos científicos y museísticos como referente en el conocimiento y la difusión del arte de la escultura en todas sus facetas.
+
+4\. Garantizar el acceso universal, físico e intelectual, al patrimonio cultural en el Museo custodiado.
+
+5\. Promocionar el acceso público a la institución y la participación de la sociedad en el Museo Gestionar el conocimiento generado en el desarrollo de sus funciones, para su comunicación a la sociedad.
+
+> Se modifica por el art. 2.3 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+### Artículo 4. Patronato del Museo Nacional Colegio de San Gregorio.
+
+El Museo Nacional Colegio de San Gregorio se rige por un Patronato, presidido por el Ministro de Cultura.
+
+> Se renumera por el art. 2.2 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 3.
+
+### Artículo 5. Composición del Patronato del Museo Nacional de Escultura.
+
+El Patronato estará integrado por los siguientes miembros:
+
+1\. Presidente: el Ministro de Cultura.
+
+2\. Vocales natos:
+
+a) El Presidente de la Junta de Castilla y León.
+
+b) El Consejero de Cultura de la Junta de Castilla y León.
+
+c) El Subsecretario del Ministerio de Cultura.
+
+d) El Director General de Bellas Artes y Bienes Culturales del Ministerio de Cultura.
+
+e) Presidente de la Diputación de Valladolid.
+
+f) Alcalde de Valladolid.
+
+g) Rector de la Universidad de Valladolid.
+
+h) Arzobispado de Valladolid.
+
+i) Subdirector General de Museos Estatales.
+
+j) Director del Museo Nacional de Escultura.
+
+3\. Vocales designados por el Ministro de Cultura:
+
+a) Un miembro de la Real Academia de Bellas Artes de la Purísima Concepción de Valladolid, a propuesta de la Corporación.
+
+b) Hasta ocho vocales designados entre personas de reconocido prestigio en el área de la historia, el arte y la museología.
+
+4\. El Vicepresidente del Patronato será el Presidente de la Junta de Castilla y León. El Vicepresidente podrá sustituir al Presidente en el ejercicio de sus funciones.
+
+5\. El Pleno del Patronato, a propuesta del Director del Museo Nacional de Escultura, designará un Secretario entre el personal adscrito al Museo, que actuará con voz pero sin voto.
+
+6\. Los vocales natos podrán ser sustituidos, en caso de vacante, ausencia, enfermedad o cualquier otra causa justificada, por suplentes pertenecientes a la misma organización o institución que los vocales suplidos.
+
+> Se modifica y renumera por el art. 2.2 y 4 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 4.
+
+### Artículo 6. Duración del mandato.
+
+Los vocales designados desempeñarán sus funciones por un período de tres años, a contar desde la fecha de sus respectivos nombramientos.
+
+> Se renumera por el art. 2.2 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 5.
+
+### Artículo 7. Régimen de funcionamiento.
+
+1\. El Patronato actúa en Pleno y Comisión Permanente.
+
+2\. Integran el Pleno la totalidad de los vocales natos y designados.
+
+3\. La Comisión Permanente está compuesta por el Director General de Bellas Artes y Bienes Culturales que presidirá sus sesiones, el Subdirector General de Museos Estatales y el Director del Museo Nacional de Escultura y cinco vocales designados por el pleno. El Subdirector General de Museos Estatales podrá sustituir por delegación al Director General de Bellas Artes y Bienes Culturales, en la presidencia de la Comisión Permanente.
+
+4\. Las sesiones del Pleno y de la Comisión Permanente son ordinarias y extraordinarias:
+
+a) Las ordinarias del Pleno se celebrarán, al menos, una vez al año, y las de la Comisión Permanente, al menos, cada cuatro meses.
+
+b) Las extraordinarias se celebrarán previa convocatoria del Presidente del Patronato, por propia iniciativa o a solicitud motivada de la tercera parte de sus vocales.
+
+5\. El Patronato podrá acordar la asistencia a determinas sesiones de expertos cuya presencia se estime de interés en razón a los asuntos a tratar.
+
+> Se modifica el apartado 3 y renumera por el art. 2.2 y 5 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 6.
+
+### Artículo 8. Funciones del Pleno.
+
+1\. Corresponde al Pleno del Patronato:
+
+a) Promover el cumplimiento de las directrices generales que el Ministerio de Cultura establezca para el Museo.
+
+b) Fomentar e impulsar la participación de la sociedad en el conocimiento y disfrute de las colecciones del Museo y en el sostenimiento del mismo.
+
+c) Informar el nombramiento del Director del Museo.
+
+d) Informar el Plan Museológico del Museo y sus modificaciones.
+
+2\. Corresponden también al Pleno del Patronato las siguientes funciones, que podrá delegar en la Comisión Permanente:
+
+a) Informar la aceptación de aportaciones, donaciones, herencias o legados a favor del Museo.
+
+b) Informar las modificaciones en la ordenación de las colecciones del Museo.
+
+c) Informar sobre los tratamientos de carácter extraordinario o de especial importancia para la conservación o restauración de los bienes culturales de la colección estable del Museo.
+
+d) Informar la salida de los bienes culturales adscritos a la colección estable fuera de las instalaciones del Museo, previo informe de la Dirección del Museo.
+
+e) Aprobar la programación de exposiciones temporales del Museo.
+
+f) Aprobar la Memoria anual de actividad del Museo.
+
+g) Requerir, a través del Director, la remisión de cuantos datos, informes y estudios considere de utilidad para el cumplimiento de sus funciones.
+
+> Se renumera por el art. 2.2 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 7.
+
+### Artículo 9. Funciones de la Comisión Permanente.
+
+Corresponde a la Comisión Permanente:
+
+1\. Estudiar, deliberar e informar las propuestas que deban someterse a la aprobación del Pleno del Patronato.
+
+2\. Cuidar del cumplimiento, desarrollo y ejecución de los acuerdos adoptados por el Patronato.
+
+3\. Asumir cuantas otras funciones le sean encomendadas por el Pleno del Patronato.
+
+4\. Dar cuenta, en todo caso, al Pleno de los acuerdos adoptados en el ejercicio de las anteriores facultades.
+
+> Se renumera por el art. 2.2 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 8.
+
+### Artículo 10. Régimen jurídico y funcionamiento.
+
+Sin perjuicio de las peculiaridades previstas en el presente real decreto, el régimen jurídico y actuación de la Comisión se ajustará a lo dispuesto en el capítulo II del título II de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se renumera por el art. 2.2 del Real Decreto 1714/2011, de 18 de noviembre. [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).
+
+> Su anterior numeración era art. 9.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango en lo que se opongan a lo establecido en el presente real decreto, y en particular el Real Decreto 162/1997, de 7 de febrero, por el que se establece la composición y funciones del Museo Nacional de Escultura.
+
+### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 4 de julio de 2008.
+
+JUAN CARLOS R.
+
+El Ministro de Cultura,
+
+CÉSAR ANTONIO MOLINA SÁNCHEZ
+
+> Información relacionada
+
+> Todas las referencias hechas al Museo Nacional Colegio de San Gregorio se entenderán efectuadas al Museo Nacional de Escultura, según establece la disposición adicional 2 del Real Decreto 1714/2011, de 18 de noviembre [Ref. BOE-A-2011-19300](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19300).

@@ -1,0 +1,1737 @@
+---
+title: "Real Decreto 1205/2010, de 24 de septiembre, por el que se fijan las bases para la inclusión de los alimentos dietéticos para usos médicos especiales en la prestación con productos dietéticos del Sistema Nacional de Salud y para el establecimiento de sus importes máximos de financiación"
+identifier: "BOE-A-2010-14660"
+eli: "https://www.boe.es/eli/es/rd/2010/09/24/1205"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Política Social"
+date: 2010-09-24
+published: 2010-09-25
+in_force_from: 2010-09-26
+last_amended: 2018-11-26
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 233"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-14660"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1205/2010, de 24 de septiembre, por el que se fijan las bases para la inclusión de los alimentos dietéticos para usos médicos especiales en la prestación con productos dietéticos del Sistema Nacional de Salud y para el establecimiento de sus importes máximos de financiación
+
+El artículo 7 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud recoge, entre las prestaciones del Sistema Nacional de Salud, la prestación con productos dietéticos. Por su parte, el artículo 8 contempla que las prestaciones sanitarias del catálogo se harán efectivas mediante la cartera de servicios comunes del Sistema Nacional de Salud.
+
+En el artículo 18 de la citada Ley se especifica que la prestación con productos dietéticos comprende la dispensación de los tratamientos dietoterápicos a las personas que padezcan determinados trastornos metabólicos congénitos y la nutrición enteral domiciliaria para los pacientes a los que no es posible, a causa de su situación clínica, cubrir sus necesidades nutricionales con alimentos de uso ordinario. Asimismo, este artículo señala que esta prestación se facilitará por los servicios de salud o dará lugar a ayudas económicas.
+
+El Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización recoge, en su anexo VII, el contenido de la prestación con productos dietéticos y, en el punto 2.3 de ese anexo, contempla que los productos dietéticos financiables son aquellos inscritos en el Registro General Sanitario de Alimentos como alimentos dietéticos destinados a usos médicos especiales e incluidos en la Oferta (Nomenclátor) de productos dietéticos, señalando que el procedimiento para la inclusión de productos en la Oferta del Sistema Nacional de Salud se establecerá por orden ministerial. Este procedimiento ha sido establecido por la Orden SCO/3858/2006, de 5 de diciembre, por la que se regulan determinados aspectos relacionados con la prestación con productos dietéticos del Sistema Nacional de Salud.
+
+Por otra parte, la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, en su artículo 123, apartado primero, facultó al Gobierno para que, a propuesta del Ministerio de Sanidad y Consumo (actualmente Ministerio de Sanidad y Política Social), y previo informe del Consejo Interterritorial del Sistema Nacional de Salud, estableciera importes máximos de financiación para cada tipo de producto facilitado en las prestaciones con productos dietéticos. Además, en su apartado segundo, recoge que a efectos de su financiación por el Sistema Nacional de Salud, para cada producto dietético inscrito en el Registro General Sanitario de Alimentos como alimento dietético destinado a usos médicos especiales destinado a las patologías o trastornos metabólicos determinados por la normativa que regula las prestaciones sanitarias del Sistema Nacional de Salud, se decidirá si se incluye, condiciones de inclusión en su caso, o se excluye de las prestaciones con productos dietéticos, teniendo en cuenta una serie de criterios generales, objetivos y publicados.
+
+Este real decreto pretende hacer efectivas las previsiones recogidas en el artículo 123 de la mencionada Ley 53/2002, al fijar las bases para el establecimiento de importes máximos de financiación para cada tipo de producto facilitado en la prestación con productos dietéticos y los criterios para la inclusión de los alimentos dietéticos para usos médicos especiales en la Oferta del Sistema Nacional de Salud, todo ello con el objetivo de proporcionar una prestación más racional a los usuarios del Sistema Nacional de Salud.
+
+Para calcular los importes máximos de financiación de los productos dietéticos incluidos en la Oferta del Sistema Nacional de Salud, dichos productos se han agrupado en función de sus características como composición, presentación o indicaciones, en subtipos y a cada subtipo se le ha asignado un indicador de referencia. El valor del indicador de referencia se ha calculado teniendo en cuenta los consumos de los productos incluidos en cada subtipo en el primer semestre del 2009 y sus precios de venta de la empresa sin IVA del año 2009 facilitados por las empresas al Ministerio de Sanidad y Política Social.
+
+Asimismo, y con el fin de poder hacer las valoraciones oportunas acerca de la repercusión de los importes máximos de financiación y otras medidas que se puedan adoptar respecto a esta prestación, es necesario disponer de información sobre el consumo de productos dietéticos en el sistema sanitario público. Además, la información sobre importes máximos de financiación ha de ser puesta a disposición de los gestores de la prestación con productos dietéticos. Por todo ello, se recoge un apartado relativo a la información sobre la prestación con productos dietéticos.
+
+Por otro lado, el real decreto incluye un apartado referido a las obligaciones de las empresas con el objetivo de que la prestación con productos dietéticos pueda facilitarse a los usuarios del Sistema Nacional de Salud con las garantías adecuadas.
+
+Por tanto, esta norma fundamentalmente va dirigida a facilitar el acceso a una prestación más racional y eficiente a los pacientes que requieran un alimento dietético para usos médicos especiales, mediante la fijación de criterios para la inclusión de los productos más idóneos para cubrir sus necesidades nutricionales en la oferta y el establecimiento de importes máximos de financiación.
+
+Este real decreto cuenta con el acuerdo previo del Consejo Interterritorial del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Política Social, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de septiembre de 2010,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El objeto de este real decreto es sentar las bases para el establecimiento de importes máximos de financiación para cada tipo de producto facilitado en la prestación con productos dietéticos, así como los criterios para la inclusión de los alimentos dietéticos para usos médicos especiales en la Oferta del Sistema Nacional de Salud, todo ello con el fin de proporcionar una prestación con productos dietéticos más racional a los usuarios del sistema sanitario público, en desarrollo de lo previsto en el artículo 123 de Ley 53/2002, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+## Artículo 2. Definiciones.
+
+A efectos de este real decreto se entiende por:
+
+1\. Importe máximo de financiación: Cuantía máxima fijada a precio de venta de la empresa para cada unidad de venta de un producto dietético destinado a usos médicos especiales incluido en la Oferta de productos dietéticos, a efectos de su financiación por el Sistema Nacional de Salud.
+
+2\. Precio de venta de la empresa: Precio de cada unidad de venta del producto sin impuestos ni márgenes de distribución que propone la empresa al Sistema Nacional de Salud.
+
+3\. Precio de oferta: Precio de venta de la empresa aceptado por el Sistema Nacional de Salud y recogido en el nomenclátor de productos dietéticos financiados por el Sistema Nacional de Salud. En todo caso ha de ser igual o inferior al importe máximo de financiación.
+
+4\. Importe de facturación: Cantidad a la que comunidades autónomas, Instituto Nacional de Gestión Sanitaria y las Mutualidades de funcionarios civiles del Estado, de las Fuerzas Armadas y del personal al servicio de la Administración de Justicia, abonan los productos dietéticos incluidos en la Oferta cuando son facturados por las oficinas de farmacia, que se obtiene de aplicar al precio de oferta los impuestos y los márgenes de distribución.
+
+5\. Tipo de productos: Cada uno de los grupos recogidos en el anexo I en los que se clasifican los productos dietéticos incluidos en la Oferta, de acuerdo con los criterios que se contemplan en el anexo II.
+
+6\. Subtipo de productos: Subgrupo de productos, dentro de cada tipo, con características similares, tales como composición, presentación o indicaciones, que se recogen en el anexo I.
+
+7\. Indicador de referencia: Unidad de medida establecida para cada subtipo de productos, en función de las características de los productos clasificados en el mismo, que permite el cálculo del importe máximo de financiación de cada unidad de venta de los productos incluidos en dicho subtipo. El anexo III recoge el indicador de referencia para cada subtipo y su valor en euros.
+
+## Artículo 3. Importes máximos de financiación en la prestación con productos dietéticos.
+
+Los importes máximos de financiación de los productos dietéticos se obtendrán aplicando a cada unidad de venta el valor del indicador de referencia correspondiente a su subtipo señalado en el anexo III, utilizando para ello la fórmula que figura en el anexo IV.
+
+## Artículo 4. Aplicación de los importes máximos de financiación en la oferta.
+
+1\. Los importes máximos de financiación se tendrán en cuenta para decidir sobre la inclusión de un alimento dietético para usos médicos especiales en la oferta del Sistema Nacional de Salud.
+
+2\. Las empresas deberán ofertar un precio de venta acorde con el importe máximo de financiación correspondiente. No se financiarán aquellos productos dietéticos cuyo precio de venta de la empresa propuesto al Sistema Nacional de Salud supere el importe máximo de financiación que le corresponda, de acuerdo con lo establecido en este real decreto.
+
+3\. El Ministerio de Sanidad y Política Social establecerá el procedimiento para la aplicación de los importes máximos de financiación tanto a los productos incluidos en la oferta a la entrada en vigor de este real decreto como a aquellos cuya inclusión o alteración se solicite.
+
+4\. Las comunidades autónomas, el Instituto Nacional de Gestión Sanitaria y la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), el Instituto Social de las Fuerzas Armadas (ISFAS) y la Mutualidad General Judicial (MUGEJU) en sus respectivos ámbitos de gestión utilizarán, para establecer los importes de facturación de las oficinas de farmacia, los precios de oferta, los cuales les servirán también de referente máximo para la adquisición de los productos dietéticos que faciliten a través de centros sanitarios a pacientes no ingresados.
+
+5\. Si el cambio de formato o de composición de un producto incluido en la Oferta, u otro motivo, implica su clasificación en otro subtipo, el precio de venta de la empresa de dicho producto se valorará en función del importe máximo de financiación que le corresponda de acuerdo al nuevo subtipo.
+
+## Artículo 5. Actualización de los importes máximos de financiación.
+
+1\. El Comité asesor para la prestación con productos dietéticos valorará anualmente, en función de la evolución anual del consumo relativo a prestación con productos dietéticos y de las variaciones de los precios de oferta y de los costes de los alimentos dietéticos para usos médicos especiales, así como de aquellos otros factores que puedan tener incidencia en el coste de los productos, la conveniencia de realizar una revisión de los valores de los indicadores de referencia, elaborando la propuesta que corresponda. En consecuencia, el Ministerio de Sanidad y Política Social, a la vista de la propuesta del Comité asesor para la prestación con productos dietéticos, que no tendrá carácter vinculante, decidirá si procede o no la revisión de los valores de los indicadores de referencia.
+
+En todo caso, y con el objeto de establecer un marco de estabilidad, la revisión general de los valores de los indicadores de referencia no podrá realizarse antes de que haya trascurrido un año desde la aprobación de este real decreto o desde la última revisión.
+
+2\. No obstante, cuando concurran circunstancias especiales que determinen una variación sustancial en el coste de los productos dietéticos, tanto si se trata de su aumento como su disminución, el Ministerio de Sanidad y Política Social, a iniciativa propia o de las empresas, podrá excepcionalmente revisar, aunque no haya transcurrido el plazo de un año desde la aprobación de este real decreto o desde la última revisión, el valor de los indicadores de referencia de forma global o específicamente sólo para los subtipos o productos afectados, previo informe del Comité asesor para la prestación con productos dietéticos.
+
+## Artículo 6. Criterios de inclusión de productos dietéticos en la oferta.
+
+1\. Solo se incluirán en la oferta los alimentos dietéticos destinados a usos médicos especiales, que hayan recibido resolución favorable de la autoridad competente, de acuerdo con lo establecido en el apartado 4 del artículo 10 del Real Decreto 2685/1976, de 16 de octubre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la Elaboración, Circulación y Comercio de Preparados Alimenticios para Regímenes Dietéticos y/o Especiales, y cumplan los requisitos siguientes:
+
+a) Estar indicados para las patologías y situaciones clínicas que se recogen en el anexo VII del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización.
+
+b) Pertenecer a alguno de los tipos y subtipos recogidos en el anexo I, en aplicación de los criterios señalados en el anexo II.
+
+c) Ajustarse en su presentación (tipo de envase y tamaño) y composición a los requerimientos nutricionales de los pacientes en las indicaciones y situaciones clínicas financiadas a las que van destinados.
+
+d) No presentarse en forma de cápsulas, comprimidos, tabletas, u otras formas similares a las de medicamentos.
+
+e) Reflejar claramente en el etiquetado las indicaciones para las que se financia el producto y no incluir frases, dibujos u otros motivos gráficos que lleven a confusión respecto a las indicaciones financiables, ni contener alusiones a otros productos.
+
+f) Tener un nombre de fantasía o bien una denominación genérica acompañada de una marca comercial o del nombre del titular o fabricante del producto.
+
+g) No tener un nombre igual o similar al de otros productos dietéticos financiables o no financiables, al de medicamentos o al de productos sanitarios, de forma que su prescripción y dispensación no induzca a confusión respecto a otros productos de la misma u otra empresa. Asimismo el nombre no deberá llevar a error respecto a sus indicaciones. Además, en el caso de los productos para nutrición enteral domiciliaria, el nombre no podrá sugerir otras vías de administración diferentes a la sonda enteral ni hacer referencia a alimentos de consumo ordinario.
+
+h) No superar el precio de venta de la empresa el importe máximo de financiación que le correspondería en función de su subtipo.
+
+2\. En ningún caso formarán parte de la oferta:
+
+a) Los alimentos dietéticos destinados a usos médicos especiales obtenidos total o parcialmente por deshidratación o trituración directa de alimentos, o por mezcla de alimentos, de consumo ordinario, simples o elaborados, de acuerdo con lo dispuesto en el punto 1 apartado e) del anexo II.
+
+b) Los productos para los que existan en el mercado alternativas con alimentos de consumo ordinario.
+
+c) Los productos cuya composición o características sean similares a las de un medicamento.
+
+d) Los alimentos dietéticos destinados a usos médicos especiales con indicaciones exclusivamente para pacientes hospitalizados en régimen de internamiento.
+
+> Se modifica el apartado 1 por la disposición final 3 del Real Decreto 682/2014, de 1 de agosto. [Ref. BOE-A-2014-8940](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8940).
+
+## Artículo 7. Procedimiento de inclusión de productos dietéticos en la oferta.
+
+1\. El procedimiento para la inclusión en la oferta, o para la alteración de las condiciones de oferta de un producto susceptible de encuadrarse en alguno de los tipos o subtipos recogidos en el anexo I se establecerá por orden de la persona titular del Ministerio de Sanidad y Política Social.
+
+2\. Cuando se solicite la inclusión de un producto en la oferta que cumpla los requisitos generales para ser financiado y los criterios para la asignación de alguno de los tipos que se recogen en el anexo II de este real decreto, pero sus características no permiten clasificarlo en ninguno de los subtipos contemplados en el anexo I o aconsejan la creación de un nuevo subtipo, el Ministerio de Sanidad y Política Social, previo informe del Comité asesor para la prestación de productos dietéticos, podrá incorporar por orden un nuevo subtipo en el anexo I cuyo valor del indicador de referencia se establecerá en función de las características del producto.
+
+3\. La inclusión de un producto en la oferta que no corresponda a uno de los tipos contemplados en el anexo I de este real decreto se regirá por la Orden SCO/3422/2007, de 21 de noviembre, por la que se desarrolla el procedimiento de actualización de la cartera de servicios comunes del Sistema Nacional de Salud.
+
+## Artículo 8. Información sobre prestación con productos dietéticos.
+
+1\. El órgano del Ministerio de Sanidad y Política Social responsable de la ordenación de prestaciones informará periódicamente de las variaciones de los productos incluidos en la oferta, así como de los precios de oferta, a las comunidades autónomas, al Instituto Nacional de Gestión Sanitaria, a la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), el Instituto Social de las Fuerzas Armadas (ISFAS) y la Mutualidad General Judicial (MUGEJU) y a aquellos agentes implicados en la gestión de la prestación con productos dietéticos.
+
+2\. Con el fin de disponer de datos sobre la evolución de la prestación con productos dietéticos y de la repercusión de las medidas adoptadas sobre esta prestación, los Servicios de Salud de las comunidades autónomas, el Instituto Nacional de Gestión Sanitaria y la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), el Instituto Social de las Fuerzas Armadas (ISFAS) y la Mutualidad General Judicial (MUGEJU) remitirán la información sobre consumo de productos dietéticos en su ámbito, con la periodicidad y el formato que se acuerde en el Comité asesor para la prestación con productos dietéticos, al órgano responsable de la ordenación de prestaciones del Ministerio de Sanidad y Política Social, quien gestionará la información agregada del conjunto del Sistema Nacional de Salud.
+
+3\. La información agregada sobre consumo de prestación con productos dietéticos, ya sea a través de oficinas de farmacia o de suministro a través de centros sanitarios estará a disposición de los miembros del Comité asesor para la prestación con productos dietéticos, salvando siempre la confidencialidad de la asistencia sanitaria. Su gestión corresponde a los Servicios de Salud de las comunidades autónomas en su ámbito territorial, al Instituto Nacional de Gestión Sanitaria y a la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), el Instituto Social de las Fuerzas Armadas (ISFAS) y la Mutualidad General Judicial (MUGEJU) en sus respectivos ámbitos de competencias y al órgano del Ministerio de Sanidad y Política Social responsable de la ordenación de las prestaciones respecto a la información del conjunto del Sistema Nacional de Salud.
+
+4\. En el ámbito del Sistema Nacional de Salud corresponde a las comunidades autónomas, al Instituto Nacional de Gestión Sanitaria y a la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), el Instituto Social de las Fuerzas Armadas (ISFAS) y la Mutualidad General Judicial (MUGEJU) la evaluación de las prescripciones por áreas, zonas, terapias, grupos poblacionales y otras circunstancias en sus respectivos ámbitos de competencias. El Ministerio de Sanidad y Política Social establecerá los mecanismos de coordinación que permitan conocer la utilización de productos dietéticos y adoptar las medidas de información y promoción del uso racional de los mismos.
+
+## Artículo 9. Obligaciones de las empresas.
+
+1\. La solicitud de inclusión en la oferta de un alimento dietético para usos médicos especiales supone que la empresa se compromete, una vez el producto se dé de alta en la Oferta, a mantenerlo en el mercado y garantizar el abastecimiento necesario para facilitar la prestación del producto a los usuarios del Sistema Nacional de Salud.
+
+2\. La información que las empresas dirijan a los profesionales sanitarios sobre los productos dietéticos incluidos en la oferta no podrá contener mensajes que puedan llevar a confusión sobre las indicaciones para las cuales el producto es financiable y deberá cumplir lo establecido en el Real Decreto 1091/2000, de 9 de junio, por el que se aprueba la Reglamentación técnico-sanitaria específica de los alimentos dietéticos destinados a usos médicos especiales y el Real Decreto 1907/1996, de 2 de agosto, sobre publicidad y promoción comercial de productos, actividades o servicios con pretendida finalidad sanitaria y demás normativa vigente.
+
+3\. Las empresas facilitarán la información sobre los aspectos técnicos y económicos que le sea requerida por el Ministerio de Sanidad y Política Social, únicamente a los efectos de la fijación de importes máximos de financiación u otros aspectos en relación con la inclusión de un producto en la oferta. La información que en virtud de este apartado obtenga la Administración General del Estado será confidencial.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo previsto en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de sanidad.
+
+## Disposición final segunda. Habilitación normativa.
+
+1\. Se habilita a la persona titular del Ministerio de Sanidad y Política Social para dictar cuantas disposiciones requiera la aplicación y desarrollo de este real decreto.
+
+2\. Asimismo se habilita a la persona titular del Ministerio de Sanidad y Política Social, previo informe del Comité asesor para la prestación con productos dietéticos, para la actualización de los anexos, en especial para la revisión o detalle de los tipos, los subtipos y los indicadores de referencia recogidos en los anexos I y III.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 24 de septiembre de 2010.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Política Social,
+
+TRINIDAD JIMÉNEZ GARCÍA-HERRERA
+
+## ANEXO I — Tipos y subtipos de alimentos dietéticos destinados a usos médicos especiales susceptibles de financiación por el Sistema Nacional de Salud
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Tipo de producto</p>
+</td>
+<td>
+<p>Descripción del tipo de producto</p>
+</td>
+<td>
+<p>Subtipo</p>
+</td>
+<td>
+<p>Descripción del subtipo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>ACAE</p>
+</td>
+<td rowspan="3">
+<p>Fórmulas de aminoácidos esenciales.</p>
+</td>
+<td>
+<p>ACAE2</p>
+</td>
+<td>
+<p>Fórmulas que, además de aminoácidos esenciales, llevan otros macro o micronutrientes. Lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ACAE3</p>
+</td>
+<td>
+<p>Fórmulas que, además de aminoácidos esenciales, llevan otros macro o micronutrientes. Envases monodosis. Niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ACAE4</p>
+</td>
+<td>
+<p>Fórmulas que, además de aminoácidos esenciales, llevan otros macro o micronutrientes. Envases no monodosis. Niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAA</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas de aminoácidos exentas de fenilalanina.</p>
+</td>
+<td>
+<p>AEAA1</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAA2</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAA3</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAA4</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAC</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de metionina.</p>
+</td>
+<td>
+<p>AEAC1</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAC2</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAC3</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAC4</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAD</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de metionina, treonina, y valina y de bajo contenido en isoleucina.</p>
+</td>
+<td>
+<p>AEAD1</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAD2</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAD3</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAD4</p>
+</td>
+<td>
+<p>Fórmulas exentas de metionina, treonina y valina y de bajo contenido en isoleucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAF</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina.</p>
+</td>
+<td>
+<p>AEAF1</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina que contienen solo aminoácidos y proteínas o macropéptidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAF2</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAF3</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAF4</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAG</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de isoleucina, leucina y valina.</p>
+</td>
+<td>
+<p>AEAG1</p>
+</td>
+<td>
+<p>Fórmulas exentas de isoleucina, leucina y valina, que contienen sólo aminoácidos esenciales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAG2</p>
+</td>
+<td>
+<p>Fórmulas exentas de isoleucina, leucina y valina, que además de aminoácidos llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAG3</p>
+</td>
+<td>
+<p>Fórmulas exentas de isoleucina, leucina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAG4</p>
+</td>
+<td>
+<p>Fórmulas exentas de isoleucina, leucina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAH</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de leucina.</p>
+</td>
+<td>
+<p>AEAH1</p>
+</td>
+<td>
+<p>Fórmulas exentas de leucina que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAH2</p>
+</td>
+<td>
+<p>Fórmulas exentas de leucina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>AEAH3</td>
+<td>Fórmulas exentas de leucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</td>
+</tr>
+<tr>
+<td>
+<p>AEAH4</p>
+</td>
+<td>
+<p>Fórmulas exentas de leucina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAI</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de isoleucina, metionina, treonina y valina.</p>
+</td>
+<td>
+<p>AEAI1</p>
+</td>
+<td>
+<p>Fórmulas exentas de isoleucina, metionina, treonina y valina, que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>AEAI2</td>
+<td>Fórmulas exentas de isoleucina, metionina, treonina y valina, que además de aminoácidos llevan otros macro o micronutrientes. Para lactantes.</td>
+</tr>
+<tr>
+<td>AEAI3</td>
+<td>Fórmulas exentas de isoleucina, metionina, treonina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</td>
+</tr>
+<tr>
+<td>
+<p>AEAI4</p>
+</td>
+<td>
+<p>Fórmulas exentas de isoleucina, metionina, treonina y valina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAK</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de lisina y de bajo contenido en triptófano.</p>
+</td>
+<td>
+<p>AEAK1</p>
+</td>
+<td>
+<p>Fórmulas exentas de lisina y de bajo contenido en triptófano, que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAK2</p>
+</td>
+<td>
+<p>Fórmulas exentas de lisina y de bajo contenido en triptófano que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAK3</p>
+</td>
+<td>
+<p>Fórmulas exentas de lisina y de bajo contenido en triptófano que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AEAK4</p>
+</td>
+<td>
+<p>Fórmulas exentas de lisina y de bajo contenido en triptófano que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>AEAL</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas exentas de lisina.</p>
+</td>
+<td>
+<p>AEAL1</p>
+</td>
+<td>
+<p>Fórmulas exentas de lisina que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>AEAL2</td>
+<td>Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</td>
+</tr>
+<tr>
+<td>AEAL3</td>
+<td>Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</td>
+</tr>
+<tr>
+<td>
+<p>AEAL4</p>
+</td>
+<td>
+<p>Fórmulas exentas de lisina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p><span> </span>AMAA</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas de aminoácidos exentas de fenilalanina y tirosina.</p>
+</td>
+<td>
+<p>AMAA1</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina y tirosina que contienen sólo aminoácidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AMAA2</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AMAA3</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AMAA4</p>
+</td>
+<td>
+<p>Fórmulas exentas de fenilalanina y tirosina que, además de aminoácidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p><span> </span>AMAB</p>
+</td>
+<td rowspan="4">
+<p>Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina y tirosina.</p>
+</td>
+<td>
+<p>AMAB1</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina y tirosina que contienen solo aminoácidos y proteínas o macropéptidos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AMAB2</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina y tirosina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AMAB3</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina y tirosina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>AMAB4</p>
+</td>
+<td>
+<p>Fórmulas limitadas en fenilalanina y tirosina que, además de aminoácidos y proteínas o macropéptidos, llevan otros macro o micronutrientes. En envases no monodosis. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ASPR</p>
+</td>
+<td>
+<p>Fórmulas exentas de proteínas.</p>
+</td>
+<td>
+<p>ASPR1</p>
+</td>
+<td>
+<p>Fórmulas exentas de proteínas.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>CELE</p>
+</td>
+<td rowspan="3">
+<p>Completas monoméricas normoproteicas.</p>
+</td>
+<td>
+<p>CELE1</p>
+</td>
+<td>
+<p>Fórmulas completas monoméricas normoproteicas. Para adultos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CELE3</p>
+</td>
+<td>
+<p>Fórmulas completas monoméricas normoproteicas. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CELE5</p>
+</td>
+<td>
+<p>Fórmulas completas monoméricas normoproteicas. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>COHI</p>
+</td>
+<td>
+<p>Completas oligoméricas hiperproteicas.</p>
+</td>
+<td>
+<p>COHI1</p>
+</td>
+<td>
+<p>Fórmulas completas oligoméricas hiperproteicas. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CONO</p>
+</td>
+<td rowspan="2">
+<p>Completas oligoméricas normoproteicas.</p>
+</td>
+<td>
+<p>CONO1</p>
+</td>
+<td>
+<p>Fórmulas completas oligoméricas normoproteicas. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CONO3</p>
+</td>
+<td>
+<p>Fórmulas completas oligoméricas normoproteica. Para niños mayores de 3 años.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CPHH</p>
+</td>
+<td rowspan="2">
+<p>Completas poliméricas hiperproteicas hipercalóricas.</p>
+</td>
+<td>
+<p>CPHH1</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas hipercalóricas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPHH2</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas hipercalóricas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CPHI</p>
+</td>
+<td rowspan="2">
+<p>Completas poliméricas hiperproteicas hipocalóricas.</p>
+</td>
+<td>
+<p>CPHI1</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas hipocalóricas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPHI2</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas hipocalóricas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>CPHN</p>
+</td>
+<td rowspan="3">
+<p>Completas poliméricas hiperproteicas normocalóricas.</p>
+</td>
+<td>
+<p>CPHN1</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas normocalóricas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPHN2</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas normocalóricas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPHN4</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas hiperproteicas normocalóricas, con fibra. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>CPNH</p>
+</td>
+<td rowspan="4">
+<p>Completas poliméricas normoproteicas hipercalóricas.</p>
+</td>
+<td>
+<p>CPNH1</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas hipercalóricas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNH2</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas hipercalóricas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNH3</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas hipercalóricas, sin fibra. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNH4</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas hipercalóricas, con fibra. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>CPNI</p>
+</td>
+<td rowspan="2">
+<p>Completa poliméricas normoproteicas hipocalóricas.</p>
+</td>
+<td>
+<p>CPNI1</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas hipocalóricas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNI2</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas hipocalóricas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>CPNN</p>
+</td>
+<td rowspan="5">
+<p>Completas poliméricas normoproteicas normocalóricas.</p>
+</td>
+<td>
+<p>CPNN1</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas normocalóricas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNN2</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas normocalóricas con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNN3</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas normocalóricas, sin fibra. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNN4</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas normocalóricas, con fibra. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CPNN5</p>
+</td>
+<td>
+<p>Fórmulas completas poliméricas normoproteicas normocalóricas. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11">
+<p>ESPE</p>
+</td>
+<td rowspan="11">
+<p>Completas especiales.</p>
+</td>
+<td>
+<p>ESPEC1</p>
+</td>
+<td>
+<p>Fórmulas completas especiales cetogénicas, normoproteicas, sin fibra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEC2</p>
+</td>
+<td>
+<p>Fórmulas completas especiales cetogénicas, normoproteicas, con fibra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEDH2</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para diabetes, hiperproteicas, con fibra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEDN2</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para diabetes, normoproteicas, con fibra.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEH1</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para hepatopatías, normoproteicas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEH3</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para hepatopatías, normoproteicas, sin fibra. Para niños.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEN1</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para nefropatías normoproteicas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEN2</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para nefropatías, normoproteicas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPEN3</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para nefropatías, normoproteicas, sin fibra. Para niños o lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPES1</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para stress metabólico, hiperproteicas, sin fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ESPES2</p>
+</td>
+<td>
+<p>Fórmulas completas especiales para stress metabólico, hiperproteicas, con fibra. Para adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>GMCM</p>
+</td>
+<td>
+<p>Fórmulas con contenido graso en forma de triglicéridos de cadena media.</p>
+</td>
+<td>
+<p>GMCM1</p>
+</td>
+<td>
+<p>Fórmulas con contenido graso en forma de triglicéridos de cadena media.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>GSLI</p>
+</td>
+<td rowspan="2">
+<p>Fórmulas exentas de lípidos.</p>
+</td>
+<td>
+<p>GSLI1</p>
+</td>
+<td>
+<p>Fórmulas exentas de lípidos. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>GSLI2</p>
+</td>
+<td>
+<p>Fórmulas exentas de lípidos. Para niños y adultos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>HLAA</p>
+</td>
+<td>
+<p>Fórmulas sin lactosa.</p>
+</td>
+<td>
+<p>HLAA1</p>
+</td>
+<td>
+<p>Fórmulas sin lactosa. Para lactantes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>HMAA</p>
+</td>
+<td>
+<p>Fórmulas con/sin fructosa, sin glucosa ni galactosa, ni disacáridos y polisacáridos que las contengan.</p>
+</td>
+<td>
+<p>HMAA1</p>
+</td>
+<td>
+<p>Fórmulas con/sin fructosa, sin glucosa ni galactosa, ni disacáridos y polisacáridos que las contengan.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>LAPL</p>
+</td>
+<td rowspan="2">
+<p>Fórmulas con hidrolizados de proteínas lácteas.</p>
+</td>
+<td>
+<p>LAPL1</p>
+</td>
+<td>
+<p>Fórmulas con hidrolizados de proteínas lácteas, sin lactosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LAPL2</p>
+</td>
+<td>
+<p>Fórmulas con hidrolizados de proteínas lácteas, con lactosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LAPN</p>
+</td>
+<td>
+<p>Fórmulas con hidrolizados de proteínas no lácteas.</p>
+</td>
+<td>
+<p>LAPN1</p>
+</td>
+<td>
+<p>Fórmulas con hidrolizados de proteínas no lácteas, sin lactosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>LAPS</p>
+</td>
+<td>
+<p>Fórmulas con proteínas de soja.</p>
+</td>
+<td>
+<p>LAPS1</p>
+</td>
+<td>
+<p>Fórmulas con proteínas de soja, sin lactosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MESP</p>
+</td>
+<td>
+<p>Módulos espesantes.</p>
+</td>
+<td>
+<p>MESP1</p>
+</td>
+<td>
+<p>Módulos espesantes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>MHID</p>
+</td>
+<td rowspan="5">
+<p>Módulos hidrocarbonados.</p>
+</td>
+<td>
+<p>MHID1</p>
+</td>
+<td>
+<p>Módulos hidrocarbonados de dextrinomaltosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MHID2</p>
+</td>
+<td>
+<p>Módulos hidrocarbonados de fructosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MHID3</p>
+</td>
+<td>
+<p>Módulos hidrocarbonados de D-manosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MHID4</p>
+</td>
+<td>
+<p>Módulos hidrocarbonados de D-ribosa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MHID5</p>
+</td>
+<td>
+<p>Módulos de almidón de maíz modificado rico en amilopectina.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>MLLC</p>
+</td>
+<td rowspan="4">
+<p>Módulos de triglicéridos de cadena larga (LCT).</p>
+</td>
+<td>
+<p>MLLC1</p>
+</td>
+<td>
+<p>Módulos de triglicéridos de cadena larga (LCT) que contienen glutariltrioleato y glutariltrierucicato en proporción 4:1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MLLC2</p>
+</td>
+<td>
+<p>Módulos de triglicéridos de cadena larga (LCT) que contienen únicamente glutariltrioleato (GTO).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MLLC3</p>
+</td>
+<td>
+<p>Módulos de triglicéridos de cadena larga (LCT) que contienen únicamente glutarilerucicato (GTE).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MLLC4</p>
+</td>
+<td>
+<p>Módulos de triglicéridos de cadena larga (LCT) no incluidos en MLLC1, MLLC2 ni MLLC3.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MLMC</p>
+</td>
+<td>
+<p>Módulos de triglicéridos de cadena media (MCT).</p>
+</td>
+<td>
+<p>MLMC1</p>
+</td>
+<td>
+<p>Módulos de triglicéridos de cadena media (MCT).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>MMHL</p>
+</td>
+<td rowspan="2">
+<p>Módulos hidrocarbonados y lipídicos.</p>
+</td>
+<td>
+<p>MMHL1</p>
+</td>
+<td>
+<p>Módulos de hidratos de carbono y colesterol.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MMHL2</p>
+</td>
+<td>
+<p>Módulos hidrocarbonados y lipídicos, salvo los MMHL1.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="15">
+<p>MPAA</p>
+</td>
+<td rowspan="15">
+<p>Módulos de aminoácidos.</p>
+</td>
+<td>
+<p>MPAA1</p>
+</td>
+<td>
+<p>Módulos de glicina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA2</p>
+</td>
+<td>
+<p>Módulos de L-alanina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA3</p>
+</td>
+<td>
+<p>Módulos de L-arginina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA4</p>
+</td>
+<td>
+<p>Módulos de L-citrulina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA5</p>
+</td>
+<td>
+<p>Módulos de L-cistina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA7</p>
+</td>
+<td>
+<p>Módulos de L-isoleucina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA8</p>
+</td>
+<td>
+<p>Módulos de L-leucina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA9</p>
+</td>
+<td>
+<p>Módulos de L-ornitina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA10</p>
+</td>
+<td>
+<p>Módulos de L-prolina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA11</p>
+</td>
+<td>
+<p>Módulos de L-triptófano.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA12</p>
+</td>
+<td>
+<p>Módulos de L-valina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA13</p>
+</td>
+<td>
+<p>Módulos de aminoácidos esenciales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA14</p>
+</td>
+<td>
+<p>Módulos de aminoácidos ramificados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA15</p>
+</td>
+<td>
+<p>Módulos mezcla de aminoácidos esenciales y no esenciales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPAA16</p>
+</td>
+<td>
+<p>Módulos de L-serina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPEN</p>
+</td>
+<td>
+<p>Módulos de proteína entera.</p>
+</td>
+<td>
+<p>MPEN1</p>
+</td>
+<td>
+<p>Módulos de proteína entera.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>MPPE</p>
+</td>
+<td>
+<p>Módulos de péptidos.</p>
+</td>
+<td>
+<p>MPPE1</p>
+</td>
+<td>
+<p>Módulos de péptidos.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+A efectos exclusivos de su clasificación en los diferentes tipos y subtipos que establece esta norma se entiende por:
+
+1\. Productos para lactantes: Aquellos que van destinados únicamente a niños menores de 12 meses.
+
+2\. Productos para niños: Aquellos destinados a niños hasta 12 años inclusive, independientemente de que puedan estar indicados además en menores de 12 meses.
+
+3\. Productos para adultos: Aquellos destinados a mayores de 12 años, independientemente de que puedan estar indicados además en menores de esa edad.
+
+4\. Productos con fibra:
+
+a) Productos con fibra para niños: Aquellos cuya cantidad de fibra añadida es igual o superior a 0,7 gramos por 100 mililitros. En el caso de los productos que se presenten en forma de polvo, la cantidad de fibra se referirá a 100 mililitros de la solución estándar.
+
+b) Productos con fibra para adultos: Aquellos cuya cantidad de fibra añadida es igual o superior a 1,4 gramos por 100 mililitros. En el caso de los productos que se presenten en forma de polvo, la cantidad de fibra se referirá a 100 mililitros de la solución estándar.
+
+5\. Solución estándar: Gramos de producto por 100 ml de solución.
+
+> Se modifica por el art. único.1 y 2 de la Orden SCB/1242/2018, de 19 de noviembre. [Ref. BOE-A-2018-16080](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16080)
+
+> Se modifica por el art. 2.1 a 3 de la Orden SSI/366/2018, de 5 de abril. [Ref. BOE-A-2018-4786](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4786)
+
+> Se modifica por el art. 2.1 de la Orden SSI/1329/2014, de 22 de julio. [Ref. BOE-A-2014-7879](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7879).
+
+> Se actualiza por el art. 2.1 de la Orden SSI/1640/2012, de 18 de julio. [Ref. BOE-A-2012-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9935).
+
+> Se modifica por la disposición final 1.1 de la Orden SPI/573/2011, de 11 de marzo. [Ref. BOE-A-2011-4884](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4884).
+
+## ANEXO II — Criterios para la asignación de tipo a los alimentos dietéticos destinados a usos médicos especiales a efectos de su inclusión en la oferta
+
+Los alimentos dietéticos destinados a usos médicos especiales se clasificarán, a efectos de su inclusión en la oferta, de acuerdo a los siguientes criterios:
+
+1\. Fórmulas completas para nutrición enteral domiciliaria.
+
+Son aquellas que se caracterizan por:
+
+a) Estar constituidas por una mezcla definida de macro y micronutrientes, en cantidad y distribución adecuadas para cubrir las necesidades nutricionales de los pacientes cuando se utilizan como única fuente de alimentación.
+
+b) Estar diseñadas para ser administradas por sonda enteral (nasogástrica u ostomía), aunque permitan, además, la administración por vía oral.
+
+c) Tener una densidad calórica de 0,5 a 2,1 kilocalorías por mililitro en el producto final preparado.
+
+d) Presentarse en forma de líquido o polvo. En el caso de los productos que se presenten en forma de polvo, deberán pasar directamente a líquido por la adición de agua, debiendo garantizar el preparado final de acuerdo con la solución estándar el aporte nutricional adecuado.
+
+e) No obtenerse total o parcialmente por deshidratación o trituración directa de alimentos, o por mezcla de alimentos, de consumo ordinario, simples o elaborados, pudiendo llevar aceites como fuente de lípidos o bien algún ingrediente natural con la finalidad exclusiva de saborizar el producto hasta un tope máximo de un 2% del contenido total del producto.
+
+Estas fórmulas se clasifican en:
+
+1.1 Fórmulas completas generales:
+
+Según la fuente de nitrógeno se dividen en:
+
+1.1.1 Fórmulas completas poliméricas (CP): Están compuestas por proteínas enteras, además de hidratos de carbono, lípidos y micronutrientes. Pueden contener o no fibra.
+
+Según la proporción de proteínas las fórmulas poliméricas se clasifican en:
+
+a) Fórmulas completas poliméricas normoproteicas: El valor energético aportado por el componente proteico es igual o inferior al 18 % del valor calórico total.
+
+En función de la densidad calórica se dividen en:
+
+a.1 Fórmulas completas poliméricas normoproteicas hipocalóricas (CPNI): La densidad calórica es inferior a 0,9 kcal/ml.
+
+a.2 Fórmulas completas poliméricas normoproteicas normocalóricas (CPNN): La densidad calórica está comprendida entre 0,9 y 1,10 kcal/ml.
+
+a.3 Fórmulas completas poliméricas normoproteicas hipercalóricas (CPNH): La densidad calórica es superior a 1,10 kcal/ml.
+
+b) Fórmulas completas poliméricas hiperproteicas: El valor energético aportado por el componente proteico es superior al 18% del valor calórico total.
+
+En función de la densidad calórica se dividen en:
+
+b.1 Fórmulas completas poliméricas hiperproteicas hipocalóricas (CPHI): La densidad calórica es inferior a 0,9 kcal/ml.
+
+b.2 Fórmulas completas poliméricas hiperproteicas normocalóricas (CPHN): La densidad calórica está comprendida entre 0,9 y 1,10 kcal/ml.
+
+b.3 Fórmulas completas poliméricas hiperproteicas hipercalóricas (CPHH): La densidad calórica es superior a 1,10 kcal/ml.
+
+1.1.2 Fórmulas completas oligoméricas (peptídicas) (CO): Están compuestas por hidrolizados de proteínas (péptidos), además de hidratos de carbono, lípidos y micronutrientes. Pueden contener o no fibra.
+
+Según la proporción del componente proteico las fórmulas peptídicas se clasifican en:
+
+a) Fórmulas completas oligoméricas normoproteicas (CONO): El valor energético aportado por el componente proteico es igual o inferior al 18% del valor calórico total.
+
+b) Fórmulas completas oligoméricas hiperproteicas (COHI): El valor energético aportado por el componente proteico es superior al 18% del valor calórico total.
+
+1.1.3 Fórmulas completas monoméricas (elementales) (CE): Están compuestas por aminoácidos (como fuente exclusiva de nitrógeno), además de hidratos de carbono, lípidos y micronutrientes.
+
+Fórmulas completas monoméricas normoproteicas (CELE): El valor energético aportado por el componente proteico es igual o inferior al 18% del valor calórico total.
+
+1.2 Fórmulas completas especiales:
+
+1.2.1 Fórmulas completas especiales (ESPE): Además de cumplir todas las características generales de las dietas completas, deben reunir al menos uno de los dos requisitos siguientes:
+
+a) Que su perfil de nutrientes esté diseñado para adecuarse a las alteraciones metabólicas y los requerimientos de nutrientes conocidos de una patología concreta, según se definen en la literatura médico-científica actual, por lo que es necesario su uso frente a fórmulas generales, en esa patología concreta.
+
+b) Que su utilidad clínica como única fuente de alimentación esté avalada por estudios comparativos con fórmulas generales completas, controlados, aleatorios, prospectivos en seres humanos, que demuestren que el perfil de nutrientes de la fórmula es más beneficioso para una patología concreta que una fórmula general. Estos estudios deben haber sido publicados en una revista científica con revisión por pares («peer-review»). La investigación específica de un producto con una particular combinación de nutrientes se aplica sólo a ese producto y únicamente estaría indicado para pacientes que presenten características similares a la población estudiada.
+
+2\. Productos dietéticos para alergia o intolerancia a las proteínas de la leche de vaca.
+
+2.1 Fórmulas con hidrolizados de proteínas lácteas (LAPL): Se trata de fórmulas completas, diseñadas para lactantes y niños de corta edad, compuestas por:
+
+a) Hidrolizados de proteínas lácteas de origen vacuno: Constituidos por péptidos con peso molecular inferior a 6.000 daltons, procedentes de la caseína, de las proteínas del suero o de ambas.
+
+b) Hidratos de carbono y lípidos según normativa vigente (Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación).
+
+2.2 Fórmulas con hidrolizados de proteínas no lácteas (LAPN): Se trata de fórmulas completas diseñadas para lactantes y niños de corta edad, compuestas por:
+
+a) Hidrolizados de proteínas no lácteas: Constituidos por péptidos con peso molecular inferior a 6.000 daltons.
+
+b) Hidratos de carbono y lípidos según normativa vigente (Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación).
+
+2.3 Fórmulas con proteínas de soja (LAPS): Se trata de fórmulas completas diseñadas para lactantes y niños de corta edad, compuestas por:
+
+a) Proteínas procedentes de la soja.
+
+b) Hidratos de carbono y lípidos según normativa vigente (Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación).
+
+3\. Productos dietéticos para trastornos metabólicos congénitos de hidratos de carbono, aminoácidos y lípidos.
+
+3.1 Productos dietéticos para trastornos del metabolismo de los hidratos de carbono:
+
+3.1.1 Trastornos metabólicos de la lactosa (HL): Fórmulas sin lactosa (HLAA): Son fórmulas completas para lactantes elaborados a partir de proteínas de leche de vaca regulados según el Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación, declarados sin lactosa. Se utilizan en la deficiencia primaria de la lactasa intestinal de debut neonatal y en la deficiencia transitoria de la lactasa intestinal secundaria a atrofia de vellosidades intestinales debida a celiaquía, mientras persista la deficiencia de lactasa.
+
+3.1.2 Trastornos metabólicos de los monosacáridos (HM): Fórmulas con/sin fructosa, sin glucosa, ni galactosa, ni disacáridos y polisacáridos que las contengan (HMAA): Son fórmulas que en ningún caso llevan glucosa ni galactosa ni tampoco disacáridos o polisacáridos que las contengan. Pueden tener, como fuente única de hidratos de carbono, fructosa, en cuyo caso son fórmulas completas; o estar exentas de fructosa, en cuyo caso son fórmulas incompletas. Están indicadas para alteraciones del transporte celular de monosacáridos.
+
+3.2 Productos dietéticos para trastornos del metabolismo de los aminoácidos:
+
+3.2.1 Fórmulas exentas de proteínas (AS): Fórmulas exentas de proteínas (ASPR): Compuestas por hidratos de carbono, lípidos y micronutrientes, sin proteínas. Están indicadas para la suplementación de dietas hipoproteicas en trastornos metabólicos congénitos de los aminoácidos.
+
+3.2.2 Fórmulas exentas, fórmulas de bajo contenido o fórmulas limitadas en algún aminoácido esencial: son fórmulas incompletas, pues carecen o tienen reducido el contenido, de uno o varios aminoácidos esenciales, siendo este rasgo el que tipifica los diferentes tipos de productos.
+
+El componente nitrogenado de estas fórmulas, en general, se caracteriza por ser mezclas de aminoácidos.
+
+Se consideran exentas cuando carecen de uno o varios aminoácidos esenciales y de bajo contenido en algún aminoácido esencial cuando el contenido de este es inferior al aporte mínimo diario que se considera necesario de ese aminoácido.
+
+En las fórmulas para el tratamiento de las hiperfenilalaninemias y de los diferentes trastornos metabólicos de la tirosina, el componente nitrogenado puede estar formado además de por aminoácidos, por proteínas o macropéptidos exentos de fenilalanina y tirosina, en cuyo caso pueden contener trazas de estos dos aminoácidos derivadas exclusivamente del proceso de obtención de la materia prima, por lo que se clasifican como limitadas en el aminoácido correspondiente.
+
+Además del componente nitrogenado, estas fórmulas pueden llevar en su composición otros macronutrientes acompañados, o no, de micronutrientes.
+
+Las fórmulas con mezclas de macro y micronutrientes a excepción del/los aminoácido/s eliminados o limitados deberán contener todos los nutrientes para el rango de edad para el que están indicadas (fórmulas de lactantes, fórmulas hasta los 3 años, fórmulas para edades superiores).
+
+Dentro de este grupo se distinguen:
+
+a) Fórmulas exentas, de bajo contenido o limitadas en algún aminoácido esencial (AE):
+
+Según el aminoácido eliminado, de bajo contenido o limitado, estas fórmulas se pueden clasificar en los siguientes tipos:
+
+a.1 Fórmulas de aminoácidos exentas de fenilalanina (AEAA): para el tratamiento de las hiperfenilalaninemias (varios defectos).
+
+a.2 Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina (AEAF): para el tratamiento de las hiperfenilalaninemias (varios defectos). Pueden contener como máximo 1,8 milígramos de fenilalanina por gramo de equivalente proteico.
+
+a.3 Fórmulas exentas de metionina (AEAC): para el tratamiento de la homocistinuria.
+
+a.4 Fórmulas exentas de metionina, treonina, valina y de bajo contenido en isoleucina (AEAD): para el tratamiento de las alteraciones de la 5-tetrahidrofolato-transferasa con aciduria metilmalónica y en las acidemias propiónica y metilmalónica.
+
+a.5 Fórmulas exentas de isoleucina, metionina, treonina y valina (AEAI): para el tratamiento de las alteraciones de la 5-tetrahidrofolato-transferasa con aciduria metilmalónica y en las acidemias propiónica y metilmalónica.
+
+a.6 Fórmulas exentas de isoleucina, leucina y valina (AEAG): para el tratamiento de la enfermedad de jarabe de arce.
+
+a.7 Fórmulas exentas de leucina (AEAH): para el tratamiento de varios defectos del metabolismo de la leucina.
+
+a.8 Fórmulas exentas de lisina y de bajo contenido en triptófano (AEAK): para el tratamiento de la aciduria glutárica tipo I.
+
+a.9 Fórmulas exentas de lisina (AEAL): para el tratamiento de la hiperlisinemia por deficiencia de la proteína bifuncional 2-aminoadípico-semialdehido-sintasa.
+
+b) Fórmulas exentas o limitadas en algún aminoácido esencial y no esencial (AM):
+
+b.1 Fórmulas de aminoácidos exentas de fenilalanina y tirosina (AMAA): están indicadas para el tratamiento de los diferentes trastornos metabólicos de la tirosina (varios defectos).
+
+b.2 Fórmulas de aminoácidos y proteínas o macropéptidos limitadas en fenilalanina y tirosina (AMAB): están indicadas para el tratamiento de los diferentes trastornos metabólicos de la tirosina (varios defectos). Pueden contener como máximo 1,8 milígramos de fenilalanina por gramo de equivalente proteico y 0,6 milígramos de tirosina por gramo de equivalente proteico.
+
+3.2.3. Fórmulas con aporte proteico exclusivo de aminoácidos esenciales (AC): Fórmulas de aminoácidos esenciales (ACAE): Son productos en los que el componente proteico lo forman exclusivamente aminoácidos esenciales o condicionalmente esenciales, llevando en su composición además, otros macronutrientes acompañados, o no, de micronutrientes. Están indicadas para el tratamiento de las hiperornitinemias y defectos del ciclo de la urea.
+
+3.3. Productos dietéticos para trastornos del metabolismo de los lípidos:
+
+3.3.1 Fórmulas exentas de lípidos (GS): Fórmulas exentas de lípidos (GSLI): Compuestas por proteínas e hidratos de carbono y micronutrientes, sin lípidos. Pueden contener ácidos grasos esenciales en cantidad mínima para evitar su deficiencia. Están indicadas en el tratamiento de los trastornos metabólicos congénitos de los lípidos.
+
+3.3.2 Fórmulas con contenido graso modificado (GM): Fórmulas con contenido graso en forma de triglicéridos de cadena media (GMCM): Compuestas por proteínas e hidratos de carbono, pueden contener o no micronutrientes. El componente lipídico lo forman triglicéridos de cadena media (MCT). Pueden contener ácidos grasos esenciales en cantidad mínima para evitar su deficiencia. Están indicadas en el tratamiento de los trastornos metabólicos congénitos de los lípidos.
+
+4\. Módulos nutricionales.
+
+Se denominan módulos nutricionales o nutrientes modulares a los preparados constituidos normalmente por un solo nutriente. La combinación de varios módulos permite obtener una dieta enteral completa. Se utilizan para trastornos metabólicos y para la preparación de dietas modulares en nutrición enteral domiciliaria.
+
+4.1 Módulos hidrocarbonados (MH): Módulos hidrocarbonados (MHID): Están compuestos exclusivamente por hidratos de carbono, fundamentalmente como dextrinomaltosa, o como monosacáridos. Están indicados en el tratamiento dietético de trastornos metabólicos de los hidratos de carbono o para aumentar el contenido calórico de la dieta.
+
+4.2 Módulos lipídicos (ML): Están compuestos exclusivamente por lípidos. Están indicados en el tratamiento dietético de trastornos con requerimientos especiales de energía y/o nutrientes o en situaciones con malabsorción grave o intolerancia digestiva a las grasas, así como en algunos trastornos metabólicos.
+
+Se clasifican en:
+
+a) Módulos de triglicéridos de cadena larga (MLLC): Contienen ácidos grasos de cadena igual o superior a 14 átomos de carbono (LCT).
+
+b) Módulos de triglicéridos de cadena media (MLMC): Contienen ácidos grasos de cadena entre 6 y 12 átomos de carbono (MCT).
+
+4.3 Módulos proteicos (MP):
+
+a) Módulos de proteína entera (MPEN): Están compuestos exclusivamente por proteínas de alto valor biológico. Están indicados para aumentar el contenido proteico de la dieta, en aquellos casos en que no pueda obtenerse dicho aumento mediante el consumo de alimentos de uso ordinario.
+
+b) Módulos de péptidos (MPPE): Están compuestos fundamentalmente por péptidos, pueden contener aminoácidos libres. Se indican para aumentar el contenido nitrogenado de la dieta en pacientes que no toleran proteínas enteras.
+
+c) Módulos de aminoácidos (MPAA): Están compuestos por uno o varios aminoácidos libres. Pueden contener hidratos de carbono con el objetivo de mejorar la palatabilidad del producto. Están indicados en el tratamiento nutricional de algunos trastornos metabólicos de aminoácidos o en situaciones clínicas en las que se evidencia déficit del aminoácido en cuestión que no puede conseguirse con los aportes de una dieta habitual.
+
+4.4. Módulos mixtos (MM): Módulos hidrocarbonados y lipídicos (MMHL): Están compuestos por hidratos de carbono y lípidos. Están indicados en la suplementación de dietas hipoproteicas en trastornos metabólicos congénitos de los aminoácidos y para aumentar el contenido calórico de la dieta.
+
+4.5. Módulos espesantes (ME): Módulos espesantes (MESP): Son productos con capacidad de espesar compuestos por almidones modificados o gomas, acompañados o no de maltodextrinas. Su presentación es en forma de polvo y su sabor es neutro. Están destinados exclusivamente a aumentar la consistencia de los alimentos líquidos en enfermos con disfagia neurológica, o excepcionalmente motora, con el fin de tratar de evitar o retrasar el empleo de sonda nasoentérica o gastrostomía, cuando dichos enfermos tienen posibilidad de ingerir alimentos sólidos sin riesgo de aspiración, pero sufren aspiración o corren riesgo de sufrirla, si ingieren alimentos líquidos, que no pueden ser espesados con alternativas de consumo ordinario.
+
+> Se modifica el punto 3.2.2 por el art. único.3 de la Orden SCB/1242/2018, de 19 de noviembre. [Ref. BOE-A-2018-16080](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16080)
+
+> Se modifican los puntos 3.2.3 y 4.5 por el art. 2.2 de la Orden SSI/1329/2014, de 22 de julio. [Ref. BOE-A-2014-7879](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7879).
+
+## ANEXO III — Valor del indicador de referencia para el cálculo de los importes máximos de financiación de los alimentos dietéticos destinados a usos médicos especiales susceptibles de financiación por el Sistema Nacional de Salud
+
+| Subtipo | Indicador de referencia | Valor del indicador de referencia en euros |
+|---|---|---|
+| ACAE2 | Equivalente proteico (gramo) | 2,5631 |
+| ACAE3 | Equivalente proteico (gramo) | 2,4413 |
+| ACAE4 | Equivalente proteico (gramo) | 2,5040 |
+| AEAA1 | Equivalente proteico (gramo) | 0,6556 |
+| AEAA2 | Equivalente proteico (gramo) | 0,9064 |
+| AEAA3 | Equivalente proteico (gramo) | 1,0200 |
+| AEAA4 | Equivalente proteico (gramo) | 0,8487 |
+| AEAC1 | Equivalente proteico (gramo) | 1,1734 |
+| AEAC2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAC3 | Equivalente proteico (gramo) | 1,1440 |
+| AEAC4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAD1 | Equivalente proteico (gramo) | 1,1734 |
+| AEAD2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAD3 | Equivalente proteico (gramo) | 1,1440 |
+| AEAD4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAF1 | Gramo de proteína/equivalente proteico | 0,6228 |
+| AEAF2 | Gramo de proteína/equivalente proteico | 0,8611 |
+| AEAF3 | Gramo de proteína/equivalente proteico | 0,9690 |
+| AEAF4 | Gramo de proteína/equivalente proteico | 0,8063 |
+| AEAG1 | Equivalente proteico (gramo) | 0,8546 |
+| AEAG2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAG3 | Equivalente proteico (gramo) | 1,2522 |
+| AEAG4 | Equivalente proteico (gramo) | 1,2587 |
+| AEAH1 | Equivalente proteico (gramo) | 1,1734 |
+| AEAH2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAH3 | Equivalente proteico (gramo) | 1,1440 |
+| AEAH4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAI1 | Equivalente proteico (gramo) | 1,1734 |
+| AEAI2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAI3 | Equivalente proteico (gramo) | 1,1440 |
+| AEAI4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAK1 | Equivalente proteico (gramo) | 1,1734 |
+| AEAK2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAK3 | Equivalente proteico (gramo) | 1,1440 |
+| AEAK4 | Equivalente proteico (gramo) | 1,3524 |
+| AEAL1 | Equivalente proteico (gramo) | 1,1734 |
+| AEAL2 | Equivalente proteico (gramo) | 1,4475 |
+| AEAL3 | Equivalente proteico (gramo) | 1,1440 |
+| AEAL4 | Equivalente proteico (gramo) | 1,3524 |
+| AMAA1 | Equivalente proteico (gramo) | 0,8546 |
+| AMAA2 | Equivalente proteico (gramo) | 1,4262 |
+| AMAA3 | Equivalente proteico (gramo) | 1,1440 |
+| AMAA4 | Equivalente proteico (gramo) | 1,3500 |
+| AMAB1 | Gramo de proteína/equivalente proteico | 0,8119 |
+| AMAB2 | Gramo de proteína/equivalente proteico | 1,3549 |
+| AMAB3 | Gramo de proteína/equivalente proteico | 1,0868 |
+| AMAB4 | Gramo de proteína/equivalente proteico | 1,2825 |
+| ASPR1 | Kilocaloría | 0,0158 |
+| CELE1 | Kilocaloría | 0,0232 |
+| CELE3 | Kilocaloría | 0,0195 |
+| CELE5 | Kilocaloría | 0,0208 |
+| COHI1 | Kilocaloría | 0,0268 |
+| CONO1 | Kilocaloría | 0,0226 |
+| CONO3 | Kilocaloría | 0,0230 |
+| CPHH1 | Kilocaloría | 0,0116 |
+| CPHH2 | Kilocaloría | 0,0128 |
+| CPHI1 | Kilocaloría | 0,0141 |
+| CPHI2 | Kilocaloría | 0,0155 |
+| CPHN1 | Kilocaloría | 0,0111 |
+| CPHN2 | Kilocaloría | 0,0122 |
+| CPHN4 | Kilocaloría | 0,0167 |
+| CPNH1 | Kilocaloría | 0,0093 |
+| CPNH2 | Kilocaloría | 0,0102 |
+| CPNH3 | Kilocaloría | 0,0146 |
+| CPNH4 | Kilocaloría | 0,0161 |
+| CPNI1 | Kilocaloría | 0,0130 |
+| CPNI2 | Kilocaloría | 0,0143 |
+| CPNN1 | Kilocaloría | 0,0096 |
+| CPNN2 | Kilocaloría | 0,0106 |
+| CPNN3 | Kilocaloría | 0,0170 |
+| CPNN4 | Kilocaloría | 0,0187 |
+| CPNN5 | Kilocaloría | 0,0220 |
+| ESPEC1 | Kilocaloría | 0,0190 |
+| ESPEC2 | Kilocaloría | 0,0209 |
+| ESPEDH2 | Kilocaloría | 0,0204 |
+| ESPEDN2 | Kilocaloría | 0,0182 |
+| ESPEH1 | Kilocaloría | 0,0112 |
+| ESPEH3 | Kilocaloría | 0,0163 |
+| ESPEN1 | Kilocaloría | 0,0139 |
+| ESPEN2 | Kilocaloría | 0,0162 |
+| ESPEN3 | Kilocaloría | 0,0191 |
+| ESPES1 | Kilocaloría | 0,0288 |
+| ESPES2 | Kilocaloría | 0,0230 |
+| GMCM1 | Gramo de proteína | 0,5939 |
+| GSLI1 | Gramo de proteína | 0,7894 |
+| GSLI2 | Gramo de proteína | 0,3226 |
+| HLAA1 | Gramo de proteína | 0,2380 |
+| HMAA1 | Gramo de proteína | 0,5068 |
+| LAPL1 | Gramo de proteína | 0,4419 |
+| LAPL2 | Gramo de proteína | 0,3019 |
+| LAPN1 | Gramo de proteína | 0,4186 |
+| LAPS1 | Gramo de proteína | 0,2052 |
+| MESP1 | Gramo de materia prima espesante | 0,0428 |
+| MHID1 | Gramo de dextrinomaltosa | 0,0191 |
+| MHID2 | Gramo de fructosa | 0,0378 |
+| MHID3 | Gramo de D-manosa | 0,5932 |
+| MHID4 | Gramo de D-ribosa | 0,8128 |
+| MHID5 | Gramo de almidón de maíz modificado rico en amilopectina | 0,0708 |
+| MLLC1 | Mililitro de producto | 0,2706 |
+| MLLC2 | Mililitro de producto | 0,0453 |
+| MLLC3 | Mililitro de producto | 0,8398 |
+| MLLC4 | Kilocaloría | 0,0116 |
+| MLMC1 | Kilocaloría | 0,0059 |
+| MMHL1 | Gramo de colesterol | 5,3612 |
+| MMHL2 | Kilocaloría | 0,0127 |
+| MPAA1 | Gramo de glicina | 0,2064 |
+| MPAA2 | Gramo de L-alanina | 0,2964 |
+| MPAA3 | Gramo de L-arginina | 0,2246 |
+| MPAA4 | Gramo de L-citrulina | 0,6388 |
+| MPAA5 | Gramo de L-cistina | 0,3304 |
+| MPAA7 | Gramo de L-isoleucina | 0,6388 |
+| MPAA8 | Gramo de L-leucina | 0,2816 |
+| MPAA9 | Gramo de L-ornitina | 1,5189 |
+| MPAA10 | Gramo de L-prolina | 0,4714 |
+| MPAA11 | Gramo de L-triptófano | 1,1104 |
+| MPAA12 | Gramo de L-valina | 0,4405 |
+| MPAA13 | Gramo de aminoácidos esenciales | 0,8665 |
+| MPAA14 | Gramo de aminoácidos ramificados | 0,5270 |
+| MPAA15 | Gramo de mezcla de aminoácidos esenciales y no esenciales | 0,6781 |
+| MPAA16 | Gramo de L-serina. | 0,6701 |
+| MPEN1 | Gramo de proteína | 0,0828 |
+| MPPE1 | Gramo de equivalente proteico | 0,1381 |
+
+> Se modifica por el art. único.4 y 5 de la Orden SCB/1242/2018, de 19 de noviembre. [Ref. BOE-A-2018-16080](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16080)
+
+> Se modifica por el art. 2.2 de la Orden SSI/366/2018, de 5 de abril. [Ref. BOE-A-2018-4786](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4786)
+
+> Se modifica por el art. 2.3 de la Orden SSI/1329/2014, de 22 de julio. [Ref. BOE-A-2014-7879](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7879).
+
+> Se actualiza por el art. 2.2 de la Orden SSI/1640/2012, de 18 de julio. [Ref. BOE-A-2012-9935](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-9935).
+
+> Se modifica por la disposición final 1.2 de la Orden SPI/573/2011, de 11 de marzo. [Ref. BOE-A-2011-4884](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4884).
+
+## ANEXO IV — Fórmula para el cálculo de los importes máximos de financiación de los alimentos dietéticos destinados a usos médicos especiales susceptibles de financiación por el Sistema Nacional de Salud
+
+El importe máximo de financiación de cada unidad de venta se obtendrá mediante la aplicación de la siguiente fórmula matemática:
+
+IMF = VI × CI
+
+Siendo:
+
+IMF el importe máximo de financiación de cada presentación,
+
+VI el valor del indicador de referencia del subtipo correspondiente expresado en euros,
+
+CI el contenido total de la unidad de venta referido a cada indicador (total de kilocalorías, proteínas, aminoácidos, etc.).

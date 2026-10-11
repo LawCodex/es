@@ -1,0 +1,85 @@
+---
+title: "Real Decreto 1320/2008, de 24 de julio, por el que se crea la Orden de las Artes y las Letras de España"
+identifier: "BOE-A-2008-13531"
+eli: "https://www.boe.es/eli/es/rd/2008/07/24/1320"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Cultura"
+date: 2008-07-24
+published: 2008-08-07
+in_force_from: 2008-08-08
+last_amended: 2011-03-10
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 190"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-13531"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1320/2008, de 24 de julio, por el que se crea la Orden de las Artes y las Letras de España
+
+La promoción y difusión internacional de la cultura española y de la imagen de España constituye uno de los objetivos del Ministerio de Cultura. Mediante la creación de la Orden de las Artes y las Letras de España se pretende conceder la adecuada distinción y reconocimiento a la labor de personas o instituciones que, bien con sus obras, bien a través de su participación activa en diversos ámbitos de la creación artística o literaria, contribuyen a la difusión de la cultura española y de la imagen de España, tanto dentro como fuera de nuestras fronteras.
+
+En su virtud, a propuesta del Ministro de Cultura, previa deliberación del Consejo de Ministros en su reunión del día 24 de julio de 2008,
+
+## D I S P O N G O :
+
+### Artículo 1. Creación.
+
+Se crea la Orden de las Artes y las Letras de España, con el fin de reconocer la labor de aquellas personas físicas o jurídicas que se hayan distinguido en la promoción, puesta en valor y difusión de la cultura española y de la imagen de España dentro y fuera de nuestras fronteras.
+
+### Artículo 2. Requisitos de los beneficiarios.
+
+1\. La Orden de las Artes y las Letras de España se concederá a personas físicas o jurídicas, nacionales o extranjeras.
+
+2\. Aquellas personas físicas o jurídicas que sean propuestas para la concesión de la Orden de las Artes y las Letras de España, deberán reunir los siguientes requisitos:
+
+a) Poseer una acreditada y prestigiosa trayectoria profesional en el ámbito de la cultura.
+
+b) Contribuir sustancialmente a la difusión internacional de nuestra cultura, fomentando su mejor conocimiento y apreciación por los ciudadanos de otros países.
+
+En el caso de personas físicas o jurídicas extranjeras se valorará, además, haber consagrado una parte significativa de su trayectoria profesional o actividad a materias directamente relacionadas con la cultura española, así como mantener una intensa relación personal con nuestro país.
+
+3\. En caso de que el reconocimiento recaiga en una persona jurídica, el título lo recibirá la persona que ostente su máxima representación en el momento de la concesión.
+
+### Artículo 3. Concesión.
+
+1\. La Orden de las Artes y las Letras de España se otorgará por Real Decreto, a propuesta del Ministro de Cultura y previa deliberación del Consejo de Ministros.
+
+2\. En el supuesto de personas físicas o jurídicas extranjeras, el Ministerio de Cultura realizará una consulta previa a la propuesta al Ministerio de Asuntos Exteriores y de Cooperación, quien efectuará los trámites necesarios ante los Gobiernos de los países de los que sean nacionales.
+
+3\. El Ministerio de Asuntos Exteriores y de Cooperación podrá proponer al Ministerio de Cultura las personas físicas o jurídicas que, a su criterio, sean merecedoras de esta distinción por su labor de difusión de la cultura o de la imagen de España en el exterior.
+
+### Artículo 4. Entrega de la Orden de las Artes y las Letras de España.
+
+1\. La imposición formal de la Orden de las Artes y las Letras de España a sus beneficiarios se efectuará mediante un acto solemne, celebrado de acuerdo con las circunstancias personales y de lugar que concurran en cada caso.
+
+2\. En el curso del acto de imposición, se hará entrega a sus beneficiarios de una medalla y una insignia acreditativas.
+
+> Se modifica por el art. único del Real Decreto 304/2011, de 4 de marzo. [Ref. BOE-A-2011-4398](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-4398).
+
+### Artículo 5. Carácter de la Orden de las Artes y las Letras de España.
+
+1\. La Orden de las Artes y las Letras de España tendrá exclusivamente carácter honorífico, sin que su otorgamiento pueda generar derecho económico alguno.
+
+2\. Los receptores de la Orden de las Artes y las Letras de España tendrán derecho a portar la insignia correspondiente y a ostentar su condición de acuerdo con los usos y costumbres sociales.
+
+3\. El otorgamiento de la Orden de las Artes y las Letras de España llevará aparejado respectivamente el tratamiento de Excelentísimo Señor o Excelentísima Señora.
+
+### Artículo 6. Seguimiento.
+
+El Ministerio de Cultura creará un libro de registro de las Órdenes concedidas, en el que se hará constar las incidencias relativas al expediente, tramitación y concesión de las mismas.
+
+### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca, el 24 de julio de 2008.
+
+JUAN CARLOS R.
+
+El Ministro de Cultura,
+
+CÉSAR ANTONIO MOLINA SÁNCHEZ

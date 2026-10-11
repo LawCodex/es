@@ -1,0 +1,223 @@
+---
+title: "Real Decreto 335/2010, de 19 de marzo, por el que se regula el derecho a efectuar declaraciones en aduana y la figura del representante aduanero"
+identifier: "BOE-A-2010-5944"
+eli: "https://www.boe.es/eli/es/rd/2010/03/19/335"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2010-03-19
+published: 2010-04-14
+in_force_from: 2010-04-15
+last_amended: 2014-05-14
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 90"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-5944"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 335/2010, de 19 de marzo, por el que se regula el derecho a efectuar declaraciones en aduana y la figura del representante aduanero
+
+La Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, promulgada para responder a la necesidad de incorporar al ordenamiento jurídico español los principios que introduce la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, ha supuesto, a su vez, la oportunidad de revisar el marco normativo de diversos sectores, a fin de eliminar obstáculos no justificados de acuerdo con los principios que introduce dicha normativa.
+
+Por otra parte, la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, con objeto de dinamizar el sector servicios y ganar competitividad en relación con otros Estados europeos, pretende extender los principios de buena regulación a sectores no afectados por la Directiva de Servicios, y conseguir la supresión definitiva de trabas o requisitos no justificados de acuerdo con la línea de actuación señalada.
+
+En concreto, respecto a la representación en aduanas, el Reglamento (CE) n.º 450/2008 del Parlamento Europeo y del Consejo, de 23 de abril de 2008, por el que se establece el Código Aduanero Comunitario (código aduanero modernizado), en su artículo 11.2, dispone que los Estados miembros podrán determinar, de conformidad con el Derecho comunitario, las condiciones en las que un representante aduanero podrá prestar los servicios propios de esta actividad en el Estado miembro en que esté establecido, añadiendo que, en determinadas condiciones, estará autorizado a prestar tales servicios en otro Estado miembro distinto de aquél.
+
+Al mismo tiempo se considera conveniente agrupar en una sola disposición, los aspectos que regulan el derecho a efectuar declaraciones en aduanas.
+
+En este marco, el presente real decreto se dicta para modificar la normativa existente respecto al derecho a presentar declaraciones en aduanas y a la propia representación en aduana, al objeto de aplicar los instrumentos de liberalización de las actividades previstos en las directivas y disposiciones nacionales anteriormente mencionadas, adaptando la regulación del representante aduanero a lo establecido en el citado Reglamento (CE) n.º 450/2008, de 23 de abril de 2008, en el momento de su completa aplicación y configurando una regulación única de esta materia que supone la ampliación de las formas de acceso a la actividad de representante aduanero y la reducción de los tramites administrativos para su ejercicio.
+
+Así, el artículo 1, establece la forma de presentación de las declaraciones aduaneras por parte de la persona que cumpla las condiciones previstas en el Código Aduanero Comunitario vigente, que podrá ser realizada en su propio nombre y por cuenta propia o por un representante aduanero.
+
+El artículo 2 regula la forma de presentación de declaraciones en aduanas en nombre propio y por cuenta propia.
+
+Los artículos 3 y 4 regulan el régimen jurídico de la representación aduanera, estableciéndose en el último las condiciones para el ejercicio de la actividad de representante aduanero como actividad profesional, fijando los requisitos en relación con la representación voluntaria de las personas jurídicas, con el fin de evitar el fraude al sistema de representación aduanera.
+
+Asimismo, en el mencionado artículo 4 se establece la liberalización del ejercicio de la actividad de representante aduanero frente a la regulación vigente, ya que la única exigencia para su ejercicio es la de acreditar un conocimiento mínimo de la regulación tributaria y aduanera del comercio exterior que dé contenido a las especiales relaciones jurídicas que el derecho aduanero comunitario atribuye a representante y representado en relación con el correcto cumplimiento de las obligaciones aduaneras, y se prevé la inscripción de los representantes aduaneros en un Registro en el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria a los efectos de la correcta gestión y control de uso de este tipo de especial de representación voluntaria.
+
+El artículo 5 regula las posibles formas de acreditación de la representación, siguiendo la línea prevista en la Ley 58/2003, de 17 de diciembre.
+
+Habida cuenta de que las garantías de la deuda aduanera y fiscal y regulación de la responsabilidad tributaria derivada de la presentación de declaraciones en las aduanas están reguladas en distintas leyes, se hace necesario incorporar, mediante las disposiciones adicionales primera y segunda, las formas prácticas de aplicación de estas obligaciones.
+
+El presente real decreto se dicta en razón de lo dispuesto en el artículo 149.1.10.ª de la Constitución Española que otorga al Estado la competencia exclusiva sobre régimen aduanero y arancelario.
+
+En su virtud, a propuesta de la Ministra de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 19 de marzo de 2010,
+
+DISPONGO:
+
+## Artículo 1. Personas capacitadas.
+
+1\. Toda persona, física o jurídica, que reúna los requisitos mencionados al efecto en el Código Aduanero Comunitario, podrá efectuar declaraciones ante cualquier administración de aduanas con el fin de asignar a las mercancías presentadas en las aduanas y recintos habilitados un determinado destino aduanero.
+
+2\. La presentación de declaraciones podrá ser realizada por las personas capacitadas, por sí o por medio de apoderado, esto es, en su propio nombre y por su propia cuenta, o bien valiéndose de representante aduanero designado al efecto.
+
+3\. En el caso de actuación por medio de representante aduanero, su designación podrá recaer en cualquier persona que esté inscrita en el Registro previsto en el artículo 4 de este real decreto.
+
+4\. Las autoridades aduaneras podrán solicitar la acreditación de la propiedad o del poder de disposición de las mercancías presentadas a despacho aduanero y, en el caso de presentación de las declaraciones aduaneras mediante representante aduanero, la representación con que éste actúa.
+
+## Artículo 2. Presentación de declaraciones en nombre propio y por cuenta propia.
+
+1\. Las personas físicas que formulen una declaración de aduana en su nombre y por su cuenta deberán acreditar su identidad cuando así lo soliciten los funcionarios ante los que se presente la declaración mediante la exhibición del documento nacional de identidad o del pasaporte.
+
+2\. Las personas jurídicas, tanto públicas como privadas, presentarán sus declaraciones por sí mismas, utilizando sólo los medios electrónicos admitidos por la Administración aduanera. La presentación de declaraciones en papel, se realizará por quien ostente su representación.
+
+En caso de presentación de declaraciones por personas jurídicas a través de su representante voluntario el apoderamiento sólo podrá ser otorgado a consejeros o trabajadores en virtud de un contrato laboral por cuenta ajena indefinido. En este último caso, es necesario que el trabajador no pueda representar a estos efectos a otras compañías diferentes de aquella que le otorga el poder. Su condición de representante aduanero quedará limitada a la actuación por cuenta de la entidad que le apodera.
+
+En caso de presentación de declaraciones por personas jurídicas a través de su representante, la aceptación de la declaración aduanera por las autoridades aduaneras estará condicionada a la acreditación por aquél de la representación.
+
+3\. Cuando la presentación de la declaración aduanera se realice por medios electrónicos, será de aplicación lo previsto en la normativa vigente para el acceso electrónico de los ciudadanos a los servicios públicos, sin perjuicio de las especialidades que puedan establecerse en el ámbito aduanero.
+
+## Artículo 3. Representación aduanera.
+
+Toda persona, física o jurídica que se haga representar ante las autoridades aduaneras para efectuar declaraciones en aduana con el fin de asignar un destino aduanero a las mercancías, deberá valerse de un representante aduanero.
+
+## Artículo 4. Condición de representante aduanero.
+
+1\. Serán representantes aduaneros, pudiendo actuar en nombre y por cuenta ajena o en nombre propio y por cuenta ajena las personas físicas o jurídicas que reúnan los siguientes requisitos:
+
+a) Estar establecidas, según la legislación aduanera de la Unión Europea, en España o en el territorio de cualquier otro Estado miembro de aquélla o, en los supuestos que se prevean en la citada legislación, en terceros países.
+
+b) Acreditar la capacitación necesaria para el desarrollo de la actividad de representante aduanero.
+
+c) Estar inscrito en el Registro de Representantes Aduaneros del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria.
+
+2\. La acreditación de la capacitación se realizará:
+
+a) En el supuesto de personas físicas, mediante la superación de las pruebas de aptitud que se convocarán por la Agencia Estatal de Administración Tributaria sobre cuestiones relativas a la normativa básica tributaria y aduanera en el ámbito del comercio exterior de mercancías, de los impuestos especiales, de la regulación del contrabando, del Régimen Económico y Fiscal de Canarias y regímenes especiales de Ceuta y Melilla y de la regulación básica de los contratos de compra-venta y de transporte internacional de mercancías y las reglas relativas a los pago internacionales. Las pruebas se convocarán al menos con una periodicidad bienal.
+
+Se considera, a estos efectos, eximidos de cumplir este requisito a:
+
+1.º Las personas físicas que tengan la consideración de Agentes y Comisionistas de Aduanas.
+
+2.º Las personas físicas que a la entrada en vigor del presente real decreto se encontraran habilitadas por el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria para presentar declaraciones en aduana en nombre propio y por cuenta ajena.
+
+3.º Las personas físicas que durante tres años, anteriores a la entrada en vigor del presente real decreto hubieran firmado, con regularidad, declaraciones como apoderados y mantenido una relación laboral con personas o entidades habilitadas por el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria para la presentación de declaraciones en aduana.
+
+4.º En su totalidad o de forma parcial, las personas que acrediten los conocimientos indicados en el apartado 2.a) de este artículo con los títulos o estudios que se determinen en cada convocatoria.
+
+b) En el supuesto de personas jurídicas, el requisito de la capacitación se considerará acreditado cuando, durante todo el tiempo en el que desarrollen la actividad de representante aduanero, concurra alguna de las circunstancias siguientes:
+
+1.º Que al menos uno de sus representantes legales sea una persona física que tenga la condición de representante aduanero.
+
+2.º Que para su representación ante la Aduana a estos efectos haya apoderado, al menos, a una persona física que tenga la condición de representante aduanero. Estos apoderados, estarán vinculados a la persona jurídica a través de un contrato laboral indefinido y no podrán ser representantes legales o voluntarios de otros representantes aduaneros, ni prestar servicios de representación aduanero como persona física mientras estén vinculados a la persona jurídica.
+
+3\. Cuando así lo soliciten, tendrán la condición de representante aduanero, aquellos que estén legalmente establecidos en cualquier otro Estado miembro de la Unión Europea y que cumplan con los criterios previstos en el artículo 39, letras a) a d), del Reglamento (UE) n.º 952/2013, de 9 de octubre de 2013, por el que se establece el código aduanero de la Unión (código aduanero refundido).
+
+4\. Cuando así lo soliciten, tendrán la condición de representante aduanero los operadores económicos que hayan obtenido el estatus de operador económico autorizado definido en el artículo 38.2.a) del Reglamento (UE) n.º 952/2013, de 9 de octubre de 2013, mientras ostenten dicha condición y en la medida en que puedan acogerse a las simplificaciones establecidas en la normativa aduanera, con independencia del Estado miembro en el que estén establecidos.
+
+5\. La inscripción en el Registro de Representantes Aduaneros se efectuará de oficio, salvo en los supuestos siguientes que deberá ser solicitada por el interesado ante el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria:
+
+a) El contemplado en el apartado 2.a).3.º, junto con la solicitud se aportaran las pruebas justificativas del cumplimiento de las condiciones previstas en dichos números.
+
+b) Las personas jurídicas. En la solicitud se deberán identificar al representante legal y a las personas físicas que tenga la condición de representante aduanero y que ostenten el poder de representación ante la Aduana.
+
+c) Los representantes aduaneros acreditados en otro Estado miembro de la Unión Europea. La solicitud consistirá en una declaración responsable ante el Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria que incluya los datos que identifiquen que están establecidos legalmente en un Estado miembro de la Unión Europea para ejercer dichas actividades, que cumplen con las condiciones previstas del artículo 39, en las letras a) a d), del Reglamento (UE) n.º 952/2013, de 9 de octubre de 2013, y una manifestación de la inexistencia de prohibición alguna, en el momento de su presentación, que le impida ejercer la actividad en el Estado miembro en el que esté establecido en el momento de la solicitud de inscripción.
+
+d) Los operadores económicos autorizados previstos en el número 4 de este artículo. En la solicitud se deberá identificar el acto por el que se le reconoce esta condición.
+
+6\. Toda modificación con trascendencia en la representación ante la Aduana que afecta a las personas físicas o jurídicas mencionadas en los apartados anteriores, deberá ser comunicada al Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria en las condiciones que se determinen.
+
+7\. El representante aduanero presentará las declaraciones y los documentos exigidos para el despacho aduanero por vía electrónica en las condiciones que se determinen por la Agencia Estatal de Administración Tributaria. A estos efectos se utilizará la firma electrónica del representante aduanero declarante.
+
+8\. El incumplimiento de cualquiera de las condiciones y obligaciones previstas en este artículo implicará la baja en el Registro de Representantes Aduaneros, previo el correspondiente expediente administrativo en el que se dará audiencia al interesado.
+
+La baja en el Registro de un representante aduanero surtirá efectos desde la fecha de notificación del acuerdo, pero no afectará a las obligaciones aduaneras y tributarias que pueden derivarse de las declaraciones aduaneras por él presentadas en el ejercicio de esta actividad.
+
+> Se modifica por el art. 1.1 del Real Decreto 285/2014, de 25 de abril. [Ref. BOE-A-2014-5109](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5109).
+
+> Se declara la nulidad del inciso destacado en negrita del apartado 1.a) por Sentencia del TS de 28 de noviembre de 2011. [Ref. BOE-A-2011-19784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19784).
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 22 de marzo de 2012. [Ref. BOE-A-2012-5593](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5593).
+
+## Artículo 5. Poder de representación en aduanas.
+
+1\. La acreditación de la representación podrá realizarse por alguno de los siguientes medios:
+
+a) Mediante documento público o documento privado con firma legitimada notarialmente.
+
+b) Mediante comparecencia personal ante el órgano administrativo competente, lo que se documentará en diligencia.
+
+c) Mediante documento normalizado de representación aprobado por la Administración tributaria que se hubiera puesto a disposición, en su caso, de quien deba otorgar la representación, asumiendo el representante con su firma la autenticidad de la de su representado.
+
+d) Mediante documento emitido por medios electrónicos que cumpla con las garantías y requisitos establecidos por la Administración tributaria.
+
+2\. Cuando se trate de declaraciones referidas a mercancías desprovistas de carácter comercial destinadas o enviadas por particulares, la representación indirecta se presumirá concedida al representante que presente la declaración en aduana.
+
+3\. El apoderamiento otorgado fijará los límites y el alcance de la representación encomendada, con especificación de su modalidad, indicando las operaciones, actuaciones y formalidades a las que se extienda y el tiempo de su duración; pudiendo ser de carácter global para la totalidad de las operaciones ante la aduana y por tiempo indefinido.
+
+## Disposición adicional primera. Afianzamiento de la deuda aduanera y fiscal en el caso de presentación de declaraciones en nombre propio y por cuenta propia.
+
+1\. Cuando, por razón de la normativa de aplicación, sea exigible la constitución de una garantía con objeto de afianzar el pago de una deuda aduanera y fiscal, dicha garantía se deberá prestar, en su condición de deudor, por la persona física o jurídica que efectúa la declaración de Aduana en su propio nombre y por cuenta propia.
+
+2\. A petición del declarante, las autoridades aduaneras permitirán que se constituya una garantía global para cubrir varias operaciones que den lugar o que puedan dar lugar a una deuda aduanera y fiscal.
+
+3\. En el caso de que la garantía se constituya mediante aval, fianza o certificado de seguro de caución, el avalista, fiador o asegurador deberá comprometerse expresamente y por escrito a pagar solidariamente con el declarante el importe garantizado de la deuda aduanera y fiscal cuyo pago se haga exigible. Dicho fiador, en todo caso, deberá tener la condición de entidad de crédito, entidad de seguros, sociedad de garantía reciproca y estar establecida en el territorio de la Unión Europea.
+
+> Se modifica por el art. 1.2 del Real Decreto 285/2014, de 25 de abril. [Ref. BOE-A-2014-5109](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5109).
+
+## Disposición adicional segunda. Afianzamiento de la deuda aduanera y fiscal en el caso de presentación de declaraciones por medio de representante.
+
+1\. Cuando por razón de la normativa de aplicación sea exigible la constitución de una garantía con objeto de afianzar el pago de una deuda aduanera o fiscal, dicha garantía deberá prestarla para la deuda aduanera el deudor y para la deuda fiscal el sujeto pasivo de los tributos exigibles.
+
+2\. La garantía también podrá constituirse, por todos los conceptos contemplados en el apartado anterior, por el representante aduanero que presente la declaración, cualquiera que sea la modalidad de representación.
+
+3\. Cuando la garantía se constituya mediante aval, fianza o certificado de seguro de caución, el avalista, fiador o asegurador deberá comprometerse expresamente y por escrito, a satisfacer, con carácter solidario, el importe de la deuda aduanera, de la deuda tributaria o de ambas, para el supuesto de que el deudor o sujeto pasivo no efectúe el pago.
+
+El fiador deberá tener la condición de entidad de crédito, entidad de seguros o sociedad de garantía recíproca y estar establecido en el territorio de la Unión Europea.
+
+4\. A petición del declarante o del representante aduanero, las autoridades aduaneras permitirán que se constituya una garantía global para cubrir varias operaciones o declaraciones aduaneras que puedan dar lugar al nacimiento de una deuda aduanera, tributaria o a ambas.
+
+> Se modifica por el art. 1.3 del Real Decreto 285/2014, de 25 de abril. [Ref. BOE-A-2014-5109](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5109).
+
+## Disposición transitoria única. Personas jurídicas habilitadas para presentar declaraciones aduaneras por cuenta de un tercero en aplicación del Real Decreto 1889/1999, de 13 de diciembre, por el que se regula el derecho a efectuar declaraciones de aduana.
+
+1\. Las personas jurídicas que estaban habilitadas para presentar declaraciones por cuenta de terceros en aplicación del Real Decreto 1889/1999, de 13 de diciembre, por el que se regula el derecho a efectuar declaraciones de aduana, y demás disposiciones derogadas por este real decreto, se considerara que cumplen con la condición de capacitación. Estas personas tendrán la consideración de representante aduanero, siendo inscritas de oficio en el Registro de Representantes Aduaneros.
+
+2\. Cuando las personas a las que se refiere el párrafo anterior procedieran a la renovación de sus representantes legales o designaran nuevos apoderados voluntarios, se deberá dar cumplimiento a lo previsto en el artículo 4.2.b). También deberán cumplir con tal requisito cuando se produzca la transformación, fusión, o escisión de la entidad, respecto de cada una de las personas jurídicas subsistentes o de nueva creación que quieran mantener su condición de representante aduanero.
+
+3\. Se deberá comunicar al Departamento de Aduanas e Impuestos Especiales los cambios en la representación legal y voluntaria, identificando personas físicas nombradas y que tienen la condición de representante aduanero.
+
+4\. En todo caso, se deberá cumplir con la condición prevista en el artículo 4.2.b) el 1 de enero de 2020. Se procederá a la baja en el Registro de Representantes Aduaneros de las personas jurídicas que no cumplan con tal condición, previa audiencia del interesado.
+
+> Se añade por el art. 1.4 del Real Decreto 285/2014, de 25 de abril. [Ref. BOE-A-2014-5109](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-5109).
+
+## Disposición derogatoria. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango que se opongan al presente real decreto y, en particular, las siguientes disposiciones:
+
+a) Decreto 2721/1965, de 20 de septiembre, por el que se regula las condiciones para el ejercicio de las funciones de los Agentes y Comisionistas de Aduanas.
+
+*b) Real Decreto 1889/1999, de 13 de diciembre, por el que se regula el derecho a efectuar declaraciones de aduana.*
+
+*c) Orden del Ministerio de Hacienda, de 9 de junio de 2000, por la que se regula el derecho a efectuar declaraciones de aduana.*
+
+d) Orden HAC/916/2004, de 23 de marzo, por la que se establecen las condiciones para la obtención del título profesional de agente y comisionista de aduana.
+
+*e) Resolución del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de la Administración Tributaria, de 12 de julio de 2000, relativa al derecho a efectuar declaraciones de aduana.*
+
+> Se suspende la efectividad de las letras b), c) y e) por el Auto del TS de 16 de julio de 2010. [Ref. BOE-A-2011-3103](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3103).
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.10.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de régimen aduanero y arancelario.
+
+## Disposición final segunda. Disposiciones de desarrollo.
+
+1\. Se autoriza al Ministro de Economía y Hacienda, para dictar las disposiciones necesarias en aplicación del presente real decreto.
+
+2\. Se autoriza al Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria para la aprobación del modelo de declaración responsable prevista en el artículo 4.1.c).2.º
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 19 de marzo de 2010.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda,
+
+ELENA SALGADO MÉNDEZ

@@ -1,0 +1,105 @@
+---
+title: "Orden SPI/1117/2011, de 26 de abril, por la que se regula el Comité Asesor para la Prestación Ortoprotésica"
+identifier: "BOE-A-2011-7885"
+eli: "https://www.boe.es/eli/es/o/2011/04/26/spi1117"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad, Política Social e Igualdad"
+date: 2011-04-26
+published: 2011-05-04
+in_force_from: 2011-05-05
+last_amended: 2019-01-25
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 106"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7885"
+retrieved: 2026-10-11
+---
+
+# Orden SPI/1117/2011, de 26 de abril, por la que se regula el Comité Asesor para la Prestación Ortoprotésica
+
+La Orden de 18 de enero de 1996 de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica, creó en el punto 2 del apartado octavo la Comisión Técnica Asesora sobre Prestación Ortoprotésica. La Orden de 30 de marzo de 2000 cambia la denominación de esta Comisión por la de Comité Asesor para la Prestación Ortoprotésica y vincula su actividad a la Comisión de Ordenación de Prestaciones del Consejo Interterritorial del Sistema Nacional de Salud (actual Comisión de Prestaciones, Aseguramiento y Financiación). Finalmente, la Orden de 19 de julio de 2001 actualiza la composición de dicho Comité.
+
+El tiempo transcurrido desde la publicación de la citada normativa y los cambios ocurridos tanto en la estructura del Ministerio de Sanidad, Política Social e Igualdad como en la regulación de la prestación ortoprotésica, hacen necesario actualizar su composición y funciones para adaptarlos a la normativa vigente y unificar en una sola norma la regulación del citado Comité Asesor.
+
+Esta norma fue informada por el Consejo Interterritorial del Sistema Nacional de Salud, en la sesión plenaria celebrada el 18 de octubre de 2010 y por el Comité Consultivo del Consejo Interterritorial del Sistema Nacional de Salud el 13 de octubre de 2010.
+
+En su virtud, y con la aprobación previa del Ministro de Política Territorial y Administración Pública, dispongo:
+
+## Artículo único. Comité Asesor para la Prestación Ortoprotésica.
+
+1\. El Comité Asesor para la Prestación Ortoprotésica, adscrito a la Dirección General de Ordenación Profesional, Cohesión del Sistema Nacional de Salud y Alta Inspección, es el órgano coordinador entre las administraciones sanitarias implicadas en la gestión de esta prestación y tendrá como finalidad la coordinación de las actuaciones y el seguimiento de la prestación ortoprotésica. Su actividad estará vinculada a la Comisión de Prestaciones, Aseguramiento y Financiación, regulada en el artículo 9 del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, la cual, a su vez, depende del Consejo Interterritorial del Sistema Nacional de Salud.
+
+2\. Este Comité tendrá la siguiente composición:
+
+a) Presidente: El Director General de Ordenación Profesional, Cohesión del Sistema Nacional de Salud y Alta Inspección. El Presidente suplente será el Subdirector General de Alta Inspección y Cartera de Servicios, en tanto que titular del órgano responsable de la definición de la política de ordenación de prestaciones. En caso de ausencia de ambos, la sustitución del Presidente se hará por acuerdo del propio Comité en pleno, de conformidad con lo establecido en el artículo 23.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+b) Vocales, que serán designados por la respectiva institución a la que representan entre las personas que desempeñan funciones relativas a la prestación ortoprotésica:
+
+1.º Un representante de la Subdirección General de Cartera de Servicios del Sistema Nacional de Salud y Fondos de Compensación.
+
+2.º Un representante del Departamento de Productos Sanitarios de la Agencia Española de Medicamentos y Productos Sanitarios.
+
+3.º Un representante de la Secretaría de Estado de Servicios Sociales.
+
+4.º Un representante de la Red Española de Agencias de Evaluación de Tecnologías Sanitarias y Prestaciones del Sistema Nacional de Salud, designado por la Secretaría Técnica de la Red.
+
+5.º Un representante de cada una de las comunidades autónomas.
+
+6.º Un representante del Instituto Nacional de Gestión Sanitaria (INGESA).
+
+7.º Un representante de cada una de las mutualidades de funcionarios: Mutualidad General de Funcionarios Civiles del Estado (MUFACE), Mutualidad General Judicial (MUGEJU) e Instituto Social de las Fuerzas Armadas (ISFAS).
+
+8.º Un representante del Ministerio de Hacienda.
+
+9.º Un representante del Ministerio de Economía y Empresa.
+
+Además se integrarán como vocales tres expertos, de los cuales dos serán facultativos especialistas del Sistema Nacional de Salud, previo informe a las sociedades científicas relacionadas con la especialidad de dichos facultativos, y el tercero a propuesta del Consejo Nacional de la Discapacidad. Todos ellos designados por la persona titular del Ministerio de Sanidad, Consumo y Bienestar Social, previo informe al Consejo Interterritorial del Sistema Nacional de Salud.
+
+Para cada uno de los vocales se designará un titular y un suplente.
+
+c) Para garantizar el desarrollo de las tareas encomendadas a este Comité, se establece una Secretaría que será ejercida por un funcionario de la Subdirección General de Alta Inspección y Cartera de Servicios.
+
+Cuando la naturaleza de los temas así lo aconseje, se podrán incorporar a este Comité, por indicación del Presidente, los expertos que se consideren necesarios, en concepto de asesores, así como un representante de los establecimientos elaboradores y dispensadores de esos productos o de las personas con discapacidad.
+
+3\. Las funciones de este Comité serán las siguientes:
+
+a) Elaborar, aprobar y modificar el reglamento de régimen interior de funcionamiento del propio Comité.
+
+b) Proponer la inclusión de nuevos productos o grupos de productos o la modificación de las condiciones de uso de los ya incluidos o su exclusión.
+
+c) Proponer los requisitos mínimos comunes que deben reunir los artículos, dirigidos a garantizar la calidad de esta prestación.
+
+d) Proponer criterios comunes para la elaboración de los correspondientes catálogos de prestación ortoprotésica por las Comunidades Autónomas, Instituto Nacional de Gestión Sanitaria y las Mutualidades de Funcionarios en sus respectivos ámbitos de gestión, de forma que se garantice a los pacientes la equidad en esta prestación.
+
+e) Proponer los criterios para fijar y revisar los importes máximos de financiación de esta prestación de acuerdo con lo regulado en artículo 124 de la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, así como hacer propuestas de las modificaciones a las ayudas económicas al paciente en esta prestación.
+
+f) Proponer y coordinar el sistema de información que permita el seguimiento de esta prestación.
+
+g) Detectar las dificultades que pudieran surgir en el cumplimiento de la normativa sobre esta materia y resolver las dudas sobre su aplicación e interpretación.
+
+h) Emitir informe, cuando sea requerido para ello por el Consejo Interterritorial del Sistema Nacional de Salud o las administraciones sanitarias representadas en el Comité, sobre las cuestiones que afecten a la prestación ortoprotésica.
+
+i) Servir de cauce permanente de colaboración, comunicación e información entre los distintos Servicios de Salud de las Comunidades Autónomas, la Administración General del Estado y otros agentes implicados en la gestión de esta prestación.
+
+j) Aquellas otras que puedan serle confiadas por el Ministerio de Sanidad, Política Social e Igualdad o por el Consejo Interterritorial del Sistema Nacional de Salud para la debida coordinación entre las administraciones sanitarias en materia de prestación ortoprotésica.
+
+4\. Se reunirá con una periodicidad anual, pudiendo convocarse reuniones adicionales cuando se estime necesario. Cuando para su funcionamiento se considere preciso, podrán crearse grupos de trabajo, de carácter permanente o temporal, para el estudio de temas concretos relacionados con las materias de su competencia. Estos grupos se reunirán con la periodicidad que requiera la misión que se les encomiende.
+
+5\. El apoyo al Comité será prestado con los actuales medios humanos y materiales del Ministerio de Sanidad, Política Social e Igualdad, de modo que su funcionamiento no suponga incremento del gasto público.
+
+6\. Sin perjuicio de las peculiaridades previstas en esta orden, el Comité ajustará su funcionamiento a lo dispuesto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el capítulo IV del título II de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+> Se modifica la letra b) del apartado 2 por la disposición final segunda de la Orden SCB/45/2019, de 22 de enero. [Ref. BOE-A-2019-856](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-856)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el apartado octavo de la Orden de 18 de enero de 1996, de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica, el apartado segundo de la Orden de 30 de marzo de 2000, por la que se modifica parcialmente la Orden de 18 de enero de 1996, de desarrollo del Real Decreto 63/1995, de 20 de enero, para la regulación de la prestación ortoprotésica, y la Orden de 19 de julio de 2001, por la que se actualiza la composición del Comité Asesor para la Prestación Ortoprotésica.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 26 de abril de 2011.–La Ministra de Sanidad, Política Social e Igualdad, Leire Pajín Iraola.

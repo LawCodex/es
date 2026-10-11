@@ -1,0 +1,831 @@
+---
+title: "Resolución de 3 de junio de 2009, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las Entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios y, en particular, para el pago de deudas por el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito"
+identifier: "BOE-A-2009-10480"
+eli: "https://www.boe.es/eli/es/res/2009/06/03/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2009-06-03
+published: 2009-06-25
+in_force_from: 2009-07-01
+last_amended: 2021-09-03
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 153"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-10480"
+retrieved: 2026-10-11
+---
+
+# Resolución de 3 de junio de 2009, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las Entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios y, en particular, para el pago de deudas por el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito
+
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en su artículo 45, obliga a las Administraciones a promover la utilización de técnicas electrónicas, informáticas y telemáticas en el desempeño de sus respectivas actividades y competencias.
+
+El Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado, vino a desarrollar el mencionado precepto legal disponiendo que los programas y aplicaciones que se utilicen por los órganos y entidades del ámbito de la Administración General del Estado para el ejercicio de sus respectivas potestades deberán ser objeto de aprobación mediante resolución del órgano administrativo que tenga atribuida la competencia para resolver el procedimiento, y se publicarán en el «Boletín Oficial del Estado».
+
+Razones de seguridad aconsejan extender esta previsión de aprobación y publicación a todos aquellos casos en que la Agencia Estatal de Administración Tributaria interviene con ocasión de la realización de actuaciones de los particulares con relevante trascendencia jurídica.
+
+Asimismo, la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, vino a consagrar la relación con las Administraciones Públicas por medios electrónicos como un derecho de los ciudadanos y como una obligación para tales Administraciones.
+
+El citado texto legal, en su disposición final tercera, establece que, en el ámbito de la Administración General del Estado y los organismos públicos vinculados o dependientes de ésta, el derecho de los ciudadanos a relacionarse con las Administraciones Públicas por medios electrónicos sólo será efectivo, respecto de la totalidad de los procedimientos y actuaciones de su competencia, a partir del 31 de diciembre de 2009.
+
+En el ámbito tributario, esta misma filosofía se recoge de forma expresa en el artículo 96 de la Ley 58/2003,de 17 de diciembre, General Tributaria, y en los artículos 82 y siguientes del Reglamento General de las Actuaciones y los Procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+En particular, el aludido Reglamento dispone, en su artículo 84.3, que para el desarrollo de las actividades de asistencia a los obligados tributarios, la Administración Tributaria podrá establecer servicios automatizados, tales como la identificación telemática ante las Entidades colaboradoras en la gestión recaudatoria, la participación en procedimientos de enajenación forzosa o la puesta a su disposición de registros electrónicos de apoderamiento o representación.
+
+En el ámbito tributario estatal, un primer paso en la línea que había sido establecida por las normas antes citadas lo supuso la Resolución de 11 de abril de 2001, del Director General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los contribuyentes y ciudadanos en su identificación telemática ante las Entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios. Esta norma, básicamente, vino a regular la posibilidad de que los obligados tributarios pudieran realizar telemáticamente el pago de sus deudas mediante el procedimiento de cargo en cuentas de su titularidad, abiertas en las Entidades colaboradoras en la gestión recaudatoria.
+
+Posteriormente, y en esta la misma línea, se extendió la posibilidad de efectuar por medios telemáticos el pago de las deudas correspondientes a autoliquidaciones y liquidaciones practicadas por la Administración, utilizando para ello tarjetas de crédito o débito, mediante la aprobación de la Resolución 1/2003, de 20 de enero, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los contribuyentes en su identificación telemática ante las Entidades colaboradoras, para el pago de deudas correspondientes a autoliquidaciones y liquidaciones practicadas por la Administración contra cuentas mediante el uso de tarjetas de crédito o débito asociadas a estas cuentas. Dicha Resolución preveía, además, la posibilidad de que el titular de la tarjeta, y por tanto ordenante de la operación, no fuera el propio obligado al pago.
+
+La Orden HAC/729/2003, de 28 de marzo, por la que se establecen las condiciones generales para el pago por vía telemática de las tasas que constituyen recursos de la Administración General y sus Organismos Públicos, da un paso definitivo al incluir en la plataforma telemática de pago de la Agencia Estatal de Administración Tributaria a la única figura tributaria que aún no lo estaba.
+
+Por último, y con objeto de refundir el procedimiento y requisitos del pago por medios telemáticos, se dictó la Resolución de 26 de julio de 2006, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las Entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios y, en particular, para el pago de deudas por el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito.
+
+La principal novedad introducida por esta Resolución consistía en que, independientemente del procedimiento utilizado para realizar el pago (cargo directo en cuenta o por medio de tarjetas) y el concepto vinculado al mismo, se posibilitó que éste pudiera ser ordenado, en la página web de la Agencia Estatal de Administración Tributaria, por una persona distinta del obligado, siempre que la cuenta en la que se produjera el cargo fuese de titularidad del ordenante y el justificante de pago fuera expedido por la Entidad colaboradora a nombre del obligado.
+
+El satisfactorio y seguro funcionamiento que viene evidenciando este procedimiento, unido al deseo de continuar facilitando en lo posible a los obligados tributarios el pago de sus deudas, aconseja dictar una nueva Resolución que establezca la posibilidad de que, en los casos de pagos telemáticos mediante cargo directo en una cuenta de titularidad del obligado al pago, la orden de adeudo también pueda ser realizada por una persona distinta de éste, en la página web de la Agencia Estatal de Administración Tributaria.
+
+Por evidentes razones de seguridad, se establece como requisito imprescindible de esta nueva variedad telemática de pago que el ordenante se encuentre expresamente apoderado por el obligado para la realización de este tipo de operaciones y que dicho apoderamiento figure incorporado al Registro de Apoderamientos de la Agencia Estatal de Administración Tributaria, de acuerdo con lo establecido en la Resolución de 18 de enero de 2005, del Director General de la Agencia Estatal de Administración Tributaria, por la que se regula el registro y gestión de apoderamientos y el registro y gestión de las sucesiones y de las representaciones legales de incapacitados, para la realización de trámites y actuaciones en materia tributaria por Internet.
+
+En virtud de lo anterior, dispongo:
+
+## Primero. Objeto y ámbito de aplicación.
+
+La presente Resolución tiene por objeto aprobar y ordenar la publicidad del tratamiento de la información para que la Agencia Estatal de Administración Tributaria facilite a las Entidades colaboradoras en la gestión recaudatoria la identificación telemática de aquellos obligados tributarios y personas que así lo soliciten con ocasión del cumplimiento de obligaciones tributarias y aduaneras, o en el curso de algún procedimiento tributario.
+
+En particular, esta Resolución será de aplicación a las operaciones de pago, mediante cargo en cuenta o mediante el uso de tarjetas de crédito o débito, de autoliquidaciones, liquidaciones practicadas por la Administración, tasas que constituyen recursos del presupuesto del Estado y tasas que constituyen recursos de los presupuestos de los Organismos Públicos.
+
+A efectos de los procedimientos previstos en la presente Resolución, la persona que ordena el pago (en adelante, ordenante) a través de la Sede Electrónica de la Agencia Estatal de Administración Tributaria (www.agenciatributaria.gob.es) podrá ser el propio obligado al pago o una persona diferente de éste.
+
+> Se modifica por el apartado 1.1 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+## Segundo. Requisitos previos.
+
+1\. Para utilizar los procedimientos previstos en la presente Resolución el ordenante del pago deberá:
+
+a) Disponer de un certificado electrónico reconocido emitido de acuerdo a las condiciones que establece la Ley 59/2003, de 19 de diciembre, de Firma Electrónica, que resulte admisible por la Agencia Tributaria de acuerdo con la normativa vigente en cada momento.
+
+b) Ser titular de una cuenta de cargo que esté abierta en alguna de las Entidades colaboradoras en la gestión recaudatoria que se hayan adherido al procedimiento regulado en esta Resolución o bien estar expresamente apoderado por el obligado al pago para ordenar adeudos en una cuenta de titularidad de éste, asimismo abierta en una Entidad colaboradora, respecto del pago de deudas gestionadas por la Agencia Estatal de Administración Tributaria. En estos supuestos de apoderamiento, obligatoriamente el certificado electrónico reconocido utilizado para llevar a cabo la operación de pago deberá ser el correspondiente al apoderado a tal efecto por el obligado al pago.
+
+En todo caso, dicho apoderamiento deberá figurar incorporado al Registro de Apoderamientos de la Agencia Estatal de Administración Tributaria, de acuerdo con lo establecido en la Resolución de 18 de mayo de 2010, de la Dirección General de la Agencia Estatal de Administración Tributaria, en relación con el registro y gestión de apoderamientos y el registro y gestión de las sucesiones y de las representaciones legales de menores e incapacitados para la realización de trámites y actuaciones por Internet ante la Agencia Tributaria.
+
+c) En el caso de que el pago se lleve a cabo mediante tarjeta, el ordenante deberá ser necesariamente titular de una tarjeta de crédito o débito emitida por la misma Entidad colaboradora a través de la cual se pretende efectuar el pago.
+
+d) Cualquiera que sea el tipo de ingreso que realice o el medio de pago que utilice, el ordenante deberá cumplimentar en la Sede Electrónica de la Agencia Estatal de Administración Tributaria los datos que se recogen en el anexo VII de esta resolución, de la forma que se determine en cada momento.
+
+2\. Por su parte, para que la Agencia Estatal de Administración Tributaria preste la asistencia en la identificación a una Entidad colaboradora, ésta deberá:
+
+a) Disponer de un ordenador servidor que permita el establecimiento de comunicaciones telemáticas seguras, con el fin de proporcionar información, en respuesta a solicitudes del ordenador cliente, utilizando el protocolo https.
+
+b) Mantener el servicio diariamente, preferentemente de forma ininterrumpida, pero en todo caso en una banda horaria que se ajuste a los parámetros mínimos establecidos en cada momento por la Agencia Estatal de Administración Tributaria.
+
+No se garantiza que el pago a través de la Sede Electrónica de la Agencia Estatal de Administración Tributaria pueda ser realizado de forma efectiva fuera de la banda horaria que a tal efecto establezca, bajo su exclusiva responsabilidad, cada una de las entidades colaboradoras.
+
+La Agencia Estatal de Administración Tributaria no asumirá responsabilidad alguna en aquellos supuestos en los que, como consecuencia de la limitación horaria establecida por las entidades colaboradoras, no pudiera realizarse el pago ni tampoco respecto de las consecuencias que, como consecuencia de dicha imposibilidad, pudieran derivarse para los obligados.
+
+c) Tener implantado el dispositivo adecuado que acepte o rechace en tiempo real la solicitud de cargo en cuenta o en la tarjeta.
+
+3\. Para que la Agencia Estatal de Administración Tributaria preste asistencia en el pago telemático de una tasa:
+
+a) Mediante Resolución del Departamento ministerial o del Director o Presidente del Organismo Público correspondiente debe haberse establecido que el pago de la tasa puede llevarse a cabo por medios telemáticos.
+
+b) El desarrollo de la página web del Departamento ministerial u Organismo Público encargado de la gestión de la tasa deberá permitir que el ordenante pueda enlazar con la Sede Electrónica de la Agencia Estatal de Administración Tributaria.
+
+4\. Los pagos que se realicen mediante tarjetas de crédito o débito quedarán sujetos a las condiciones establecidas entre el emisor de la tarjeta y el titular de la misma; en particular, en todo lo referente al límite en el importe de las operaciones.
+
+> Se añade la letra d) al punto 1 y se modifica el punto 2.b) por el apartado primero.1 y 2 de la Resolución de 2 de septiembre de 2021. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se modifica por el apartado 1.2 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+## Tercero. Adhesión al sistema.
+
+Toda Entidad colaboradora en la gestión recaudatoria interesada en adherirse al procedimiento que se regula en la presente Resolución deberá comunicarlo al titular del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, mediante escrito de su representante legal o persona especialmente apoderada al efecto (modelo de solicitud en el anexo V).
+
+En dicha comunicación, la Entidad colaboradora indicará expresamente las opciones de pago (cargo en cuenta o mediante el uso de tarjetas) a las que desea adherirse.
+
+En todas aquellas adhesiones que se tramiten a partir de la entrada en vigor de esta Resolución, se entenderá que la adhesión a una opción de pago se extiende a todos los conceptos de ingreso a que se refiere el segundo párrafo del apartado primero.
+
+Una vez recibida la comunicación de adhesión, el Departamento de Recaudación la trasladará al Departamento de Informática Tributaria. Tras comprobar que la Entidad colaboradora cumple los requisitos que se recogen en el apartado segundo de esta Resolución, así como la viabilidad de los procedimientos que se describen en los apartados cuarto y quinto, el Departamento de Informática Tributaria comunicará a la Entidad interesada las condiciones generales para la prestación del servicio, las cuales, una vez aceptadas por la Entidad, determinarán la efectiva adhesión de ésta al sistema.
+
+El Departamento de Informática Tributaria adoptará las medidas que sean necesarias para que el sistema de información de la Agencia Estatal de Administración Tributaria reconozca la adhesión y comunicará ésta al Departamento de Recaudación.
+
+La relación de Entidades colaboradoras adheridas al sistema se reflejará en la Sede Electrónica de la Agencia Estatal de Administración Tributaria, dentro de cada una de las opciones de pago posibles.
+
+La adhesión al procedimiento que se establece en esta resolución podrá ser valorada por el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria a efectos de la concesión o del mantenimiento de la autorización a Entidades de crédito para actuar como colaboradoras en la gestión recaudatoria estatal.
+
+> Se añade un párrafo por el apartado primero.3 de la Resolución de 2 de septiembre de 2021. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se modifica el último párrafo por el apartado 1.3 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+## Cuarto. Procedimiento para el pago mediante cargo en cuenta por medios telemáticos.
+
+1\. Autoliquidaciones y liquidaciones practicadas por la Administración.
+
+El ordenante deberá ponerse en comunicación con la Sede Electrónica de la Agencia Estatal de Administración Tributaria y procederá del modo siguiente:
+
+a) Accederá al trámite de pago de impuestos.
+
+b) La aplicación mostrará al ordenante las opciones de pago correspondientes a autoliquidaciones o liquidaciones practicadas por la Administración.
+
+c) Una vez elegida la opción que proceda, la aplicación facilitará al ordenante la posibilidad de seleccionar el pago mediante cargo en cuenta. Se mostrará un formulario con una serie de datos que el ordenante deberá cumplimentar, en función de la operación que esté realizando. Estos datos figuran en el punto 1 del anexo I o anexo I bis, según se trate de autoliquidaciones o liquidaciones practicadas por la Administración respectivamente.
+
+En particular, deberá facilitar el código IBAN de la cuenta en la que deba realizarse el cargo. Con este código se identificará la Entidad colaboradora en la que se realizará la operación, la cual deberá estar adherida, en todo caso, al procedimiento regulado en la presente Resolución.
+
+La cuenta de cargo deberá ser de titularidad del ordenante de la operación. No obstante, cuando la operación de pago no fuera ordenada por el obligado, la cuenta de cargo podrá ser de titularidad de éste, siempre que se cumpla el requisito y condiciones de apoderamiento a que se refiere el apartado segundo.1.b) de la presente Resolución.
+
+d) Una vez cumplimentado, el ordenante enviará el formulario a la Agencia Estatal de Administración Tributaria, con la identificación y autenticación realizada mediante los medios electrónicos mencionados en el punto 1.a) del apartado segundo.
+
+Si el ordenante es una persona jurídica se admitirá la identificación y autenticación correspondiente a un máximo de dos personas como representantes que, alternativamente, podrán vincular a la persona jurídica ordenante en las operaciones de cargo en la cuenta designada a estos efectos.
+
+e) El sistema de información de la Agencia Estatal de Administración Tributaria verificará los datos recibidos, comunicando al ordenante los errores o defectos que pudieran advertirse.
+
+f) Una vez comprobada la información, el sistema de la Agencia Estatal de Administración Tributaria enviará los datos de la operación, incluyendo el Número de Referencia Completo (NRC) generado al efecto por aquél. Para garantizar la confidencialidad, autenticidad, integridad y no repudio de los datos de la operación, la información se remitirá cifrada con certificado electrónico. El envío se realizará a la dirección electrónica del sistema de información de la Entidad colaboradora, conforme al registro que se especifica en el punto 2 del anexo I o anexo I bis, según se trate de autoliquidaciones o liquidaciones practicadas por la Administración, respectivamente, quedando a la espera de respuesta.
+
+g) La Entidad colaboradora destinataria recibirá los datos y, en caso de admitir la operación, realizará el cargo en la cuenta designada por el ordenante y el abono en la cuenta restringida de la Agencia Estatal de Administración Tributaria y autorizando la emisión del correspondiente recibo, en el que deberán figurar obligatoriamente los datos identificativos del obligado al pago así como el NRC generado por la Agencia Estatal de Administración Tributaria en la petición a que se refiere el punto f) anterior.
+
+h) La respuesta de la Entidad colaboradora será remitida a la Agencia Estatal de Administración Tributaria conforme al registro que se especifica en el punto 3 del anexo I o anexo I bis según se trate de autoliquidaciones o liquidaciones practicadas por la Administración, respectivamente.
+
+En caso de que la operación de cargo resulte aceptada, el código de retorno será “00” y la respuesta contendrá los datos del recibo-justificante de pago (incluido el NRC) que se establecen en el artículo 3.3 de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+Si la operación de cargo no resultase aceptada, este campo figurará sin contenido y el código de retorno indicará el motivo del rechazo, para lo que utilizarán los códigos de error que especifique la Agencia Estatal de Administración Tributaria, de acuerdo con las necesidades de las Entidades colaboradoras. Dichos códigos de error podrán consultarse en la dirección electrónica de la Agencia Estatal de Administración Tributaria.
+
+i) Recibida la respuesta, ésta será transmitida al ordenante y, en caso de aceptación de la operación de cargo, la aplicación mostrará automáticamente el NRC asociado a la operación. En caso de rechazo, se mostrará la descripción del mismo.
+
+En caso de aceptación de la operación de cargo, el NRC será automáticamente consolidado y debidamente almacenado por la Agencia Estatal de Administración Tributaria, posibilitándose la visualización e impresión del recibo-justificante de pago emitido.
+
+2\. Tasas.
+
+El procedimiento de pago será el siguiente:
+
+a) El ordenante deberá ponerse en comunicación con el Departamento ministerial u Organismo gestor de la tasa cuyo pago se vaya a efectuar, salvo que éste haya dictado una norma que disponga lo contrario.
+
+Dicha comunicación se realizará mediante conexión directa con la Sede Electrónica del Departamento ministerial u Organismo correspondiente.
+
+b) Una vez realizada la comunicación, se pedirá al ordenante que consigne los datos necesarios para la presentación y el pago de la tasa.
+
+c) Comprobado por el sistema de información del Departamento Ministerial u Organismo gestor de la tasa que el ordenante ha cumplimentado correctamente los datos antes citados, se enlazará con la opción de pago de tasas del trámite de pago de impuestos de la Sede Electrónica de la Agencia Estatal de Administración Tributaria.
+
+d) A partir de este momento, se procederá en la forma descrita en las letras c), d), e), f), g) y h) del punto 1 de este apartado cuarto.
+
+No obstante, el Departamento ministerial u Organismo gestor de la tasa podrá implementar en sus sistemas la operativa indicada en las letras c), d) y e) del punto 1 de este apartado cuarto. En ese caso, será el Departamento ministerial u Organismo gestor de la tasa quien solicitará al ordenante los datos del formulario a rellenar por éste y quien enviará dichos datos a los sistemas de la Agencia Estatal de Administración Tributaria. Con la adecuada identificación y autenticación del ordenante. En caso de que la Agencia Estatal de Administración Tributaria advirtiera errores o defectos al verificar los datos, éstos serán comunicados al Departamento ministerial u Organismo gestor de la tasa.
+
+e) Una vez recibida respuesta, la Agencia Estatal de Administración Tributaria, en caso de aceptación de la operación de cargo, remitirá automáticamente el NRC asociado al Departamento ministerial u Organismo gestor, el cual, previa comprobación del mismo, generará al ordenante un mensaje de confirmación de la presentación y pago de la tasa.
+
+Dicho mensaje de confirmación permitirá al ordenante imprimir el modelo de declaración, el cual (junto con el NRC) justificará la presentación de la declaración y la realización del pago de la tasa.
+
+Los registros correspondientes a la orden de cargo en cuenta y la comunicación del NRC por la Entidad colaboradora se recogen en el anexo II.
+
+> Se modifican las letras f), g) e i) del punto 1 y e) del punto 2 por el apartado primero.4 y 5 de la Resolución de 2 de septiembre de 2021. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se modifica por el apartado 1.4 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## Quinto. Procedimiento para el pago telemático mediante la utilización de tarjetas de crédito o débito asociadas a cuentas abiertas en Entidades colaboradoras.
+
+1\. Autoliquidaciones y liquidaciones practicadas por la Administración.
+
+El procedimiento se ajustará al recogido en el apartado cuarto.1, con las siguientes salvedades, todas ellas relacionadas con el epígrafe c):
+
+a) En lugar de seleccionar la opción de pago mediante cargo en cuenta, el ordenante deberá elegir la de pago mediante tarjeta.
+
+b) En el formulario a rellenar por el ordenante, en lugar de cumplimentarse los datos relativos al código IBAN, se deberán consignar los datos correspondientes al número de tarjeta de crédito o débito que va a utilizarse para realizar el pago, así como a la fecha de caducidad de dicha tarjeta.
+
+En todo caso, la tarjeta de crédito o débito utilizada para la realización del pago deberá ser de titularidad del ordenante.
+
+Los registros correspondientes al formulario a cumplimentar por el ordenante, la orden de pago mediante tarjeta y la comunicación del NRC por la Entidad colaboradora se recogen en el anexo III y anexo III bis, según se trate de autoliquidaciones o de liquidaciones practicadas por la Administración.
+
+2\. Tasas.
+
+El procedimiento será idéntico al que establece el apartado cuarto.2, con las siguientes excepciones:
+
+a) En lugar de seleccionar la opción de pago mediante cargo en cuenta, el ordenante deberá elegir la de pago mediante tarjeta.
+
+b) En el formulario que debe rellenar el ordenante, en lugar de consignar los datos relativos al código IBAN, deberá cumplimentar los correspondientes al número de tarjeta de crédito o de débito que va a utilizar para efectuar el pago, así como a la fecha de caducidad de dicha tarjeta.
+
+En todo caso, la tarjeta de crédito o débito utilizada para la realización del pago deberá ser de titularidad del ordenante.
+
+Los registros correspondientes al formulario a cumplimentar por el ordenante, la orden de pago mediante tarjeta y la comunicación del NRC por la Entidad colaboradora se encuentran recogidos en el anexo IV.
+
+> Se modifica por el apartado 1.5 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+## Sexto. Comprobación de operaciones.
+
+La Agencia Estatal de Administración Tributaria permitirá que el ordenante, aportando los mismos datos que utilizó en la solicitud de cargo, consulte el resultado de la operación.
+
+La comprobación del resultado de la operación seguirá los procedimientos descritos en los apartados cuarto y quinto de la presente Resolución.
+
+La respuesta a la solicitud de comprobación será el mismo mensaje de confirmación con el NRC obtenido o, en su defecto, la indicación de que no consta el cargo consultado o bien que éste hubiera sido anulado.
+
+Las Entidades colaboradoras garantizarán la disponibilidad en sus sistemas de información de los resultados de las operaciones durante un mínimo de un año desde la fecha en la que se efectúen las mismas.
+
+> Se añade un párrafo por el apartado 1.6 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+## Séptimo. Responsabilidad.
+
+En aquellos casos en los que, en los términos y condiciones previstos en la presente Resolución, el pago sea realizado telemáticamente mediante cargo en una cuenta del obligado al pago y la orden de pago sea efectuada por una persona distinta del obligado al pago, será responsabilidad exclusiva de la Agencia Estatal de Administración Tributaria comprobar que el ordenante se encuentra expresamente apoderado por el obligado para la realización de la operación, que dicho apoderamiento se encuentra en ese momento vigente e inscrito en el Registro de Apoderamientos que se cita en el punto 1.b) del apartado segundo.
+
+La Agencia Estatal de Administración Tributaria no será responsable de la falta de respuesta por parte de la Entidad colaboradora ni de los motivos de rechazo que ésta indicara.
+
+Del mismo modo, la Agencia Estatal de Administración Tributaria tampoco asumirá responsabilidad por la admisión de la orden de pago por la Entidad colaboradora. En particular, en aquellos casos en los que la Entidad lleve a cabo el cargo en una cuenta cuya titularidad no corresponda al ordenante de la operación o, en los casos de apoderamiento por el obligado al ordenante, cuando dicha Entidad realice el cargo en una cuenta diferente de la enviada a su servidor.
+
+La Agencia Estatal de Administración Tributaria tampoco responderá de aquellos casos en los que el pago se efectúe mediante tarjetas de crédito o débito cuya titularidad no corresponda al ordenante.
+
+Los formularios que sean remitidos a la Agencia Estatal de Administración Tributaria, de acuerdo con los procedimientos previstos en la presente Resolución, serán conservados por ésta de forma íntegra y segura.
+
+> Se modifica por el apartado 1.7 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+## Octavo. Órgano responsable del sistema.
+
+Corresponde al Departamento de Informática Tributaria la programación y supervisión del sistema de información de la Agencia Estatal de Administración Tributaria para prestar la asistencia prevista en esta Resolución.
+
+## Noveno. Conceptos y definiciones.
+
+1\. Número de Referencia Completo (NRC). El Número de Referencia Completo es un código generado informáticamente mediante un sistema criptográfico y utilizado para poder presentar, por vía telemática, declaraciones-liquidaciones ante la Agencia Estatal de Administración Tributaria. Asimismo, este código permite asociar pagos a las autoliquidaciones, tasas o documentos de ingreso expedidos por la Agencia Estatal de Administración Tributaria o por los órganos competentes de la Administración General del Estado.
+
+Las normas técnicas de generación del NRC se encuentran recogidas en la disposición adicional primera y en el anexo I de la Orden de 20 de enero de 1999 por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones mensuales de grandes empresas correspondientes a los códigos 111, 320 y 332, en la disposición adicional cuarta de la Orden de 22 de febrero de 1999, por la que se aprueban los modelos 117, en pesetas y en euros, de declaración-documento de ingreso de retenciones e ingresos a cuenta y del pago a cuenta del Impuesto sobre la Renta de las Personas Físicas, del Impuesto sobre Sociedades y del Impuesto sobre la Renta de no Residentes correspondiente a establecimientos permanentes, en relación con las rentas o ganancias patrimoniales obtenidas como consecuencia de las transmisiones o reembolsos de acciones y participaciones representativas del capital o del patrimonio de las instituciones de inversión colectiva, y se establecen las condiciones generales y el procedimiento para su presentación telemática y en el anexo VII de la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de junio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+2\. Código cifrado de operación: Código de autentificación de mensajes (MAC), generado en función de los datos correspondientes a las 128 primeras posiciones junto con las posiciones 301 a 340 del punto 2 de los anexos I y I bis, los datos correspondientes a las 120 primeras posiciones junto con las posiciones 301 a 340 del punto 2 del anexo II y los datos correspondientes a las 120 primeras posiciones del punto 2 de los anexos III, III bis y IV de esta Resolución, conforme a las normas técnicas recogidas en el anexo I de la Orden de 20 de enero de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de declaraciones-liquidaciones mensuales de grandes empresas correspondientes a los códigos 111, 320 y 332, si bien el resultado de aplicar el algoritmo DES (Data Encryption Estándar), según la norma del Instituto Estadounidense de Estándares Nacionales (ANSI X9.9-1), es el doble del ahí especificado para la generación de los caracteres de control del NRC.
+
+> Se modifica por el apartado 1.8 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## Décimo. Adhesiones anteriores.
+
+Se considerarán automáticamente adheridas al procedimiento regulado en la presente Resolución todas las Entidades que lo estaban a los procedimientos establecidos en la Resolución de 26 de julio de 2006, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las Entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios y, en particular, para el pago de deudas por el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito y en la Orden HAC/729/2003, de 28 de marzo, por la que se establecen las condiciones generales para el pago por vía telemática de las tasas que constituyen recursos de la Administración General de Estado y sus Organismos Públicos, en los mismos términos y con el mismo alcance con que dichas adhesiones se produjeron en su día.
+
+## Undécimo. Aplicabilidad y disposición derogatoria.
+
+La presente Resolución será aplicable a partir del 1 de julio de 2009, quedando sin efecto desde esa fecha la Resolución de 26 de julio de 2006, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las Entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios y, en particular, para el pago de deudas por el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito.
+
+No obstante, la aplicación del pago mediante cargo en cuenta a través de personas apoderadas a que se refiere el apartado segundo.1.b) quedará condicionada a que cada una de las Entidades colaboradoras adheridas al procedimiento remitan comunicación al Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria en la que manifiesten expresamente haber adaptado sus sistemas para llevar a cabo correctamente este tipo de operaciones.
+
+Dicha comunicación deberá efectuarse antes del 31 de diciembre de 2009. Si transcurrida esta fecha alguna Entidad no hubiera confirmado la adaptación de sus sistemas, el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria podrá acordar su exclusión de los procedimientos establecidos en la presente Resolución.
+
+## Duodécimo. Sustitución del Anexo I de la Resolución de 18 de enero de 2005, del Director General de la Agencia Estatal de Administración Tributaria, por la que se regula el registro y gestión de apoderamientos y el registro y gestión de las sucesiones y de las representaciones legales de incapacitados, para la realización de trámites y actuaciones en materia tributaria por Internet.
+
+El anexo I de la Resolución de 18 de enero de 2005, del Director General de la Agencia Estatal de Administración Tributaria, por la que se regula el registro y gestión de apoderamientos y el registro y gestión de las sucesiones y de las representaciones legales de incapacitados, para la realización de trámites y actuaciones en materia tributaria por Internet queda sustituido por el anexo VI de la presente Resolución.
+
+Madrid, 3 de junio de 2009.–El Director General de la Agencia Estatal de Administración Tributaria, Luis Pedroche y Rojo.
+
+## ANEXO I — Pago de autoliquidaciones (Cargo en cuenta directo)
+
+1\. Registro de orden de cargo
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular del certificado de firma electrónica/de Cl@vePIN (XNNNNNNNX). |
+| 2 | 10 | 6 | N | Fecha (AAMMDD). |
+| 3 | 16 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 26 | 3 | An | Tipo de Operación (001). |
+| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
+| 6 | 31 | 3 | N | Concepto o modelo (MMM, ej.: 100, 110...). |
+| 7 | 34 | 2 | N | Ejercicio fiscal (AA). |
+| 8 | 36 | 2 | An | Período (Ej.: 0A, 1T, 01...). |
+| 9 | 38 | 1 | An | Tipo de moneda de la declaración (E). |
+| 10 | 39 | 1 | An | Tipo de autoliquidación (I o D). |
+| 11 | 40 | 9 | An | NIF del obligado tributario (XNNNNNNNX). Si el valor del campo 12 = «1», mismo NIF que campo 1. |
+| 12 | 49 | 1 | N | Forma autenticación y firma orden pago (1=PIN, 0=Certificado-e). |
+| 13 | 50 | 4 | N | Reservado (ceros). |
+| 14 | 54 | 12 | N | Importe del ingreso/devolución (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 15 | 66 | 12 | N | Importe total de la deuda (IRPF con fraccionamiento –100 y 102). |
+| 16 | 78 | 1 | N | Opción de fraccionamiento, según normativa (1 o 2 en 100). |
+| 17 | 79 | 20 | N | Reservado (ceros). |
+| 18 | 99 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono o solicitud de devolución. |
+| 19 | 111 | 9 | An | NIF del primer representante o blancos (XNNNNNNNX). Con PIN (campo 12=»1») quedará en blanco. |
+| 20 | 120 | 9 | An | NIF del segundo representante o blancos (XNNNNNNNX). Con PIN (campo 12=»1») quedará en blanco. |
+| 21 | 129 | 16 | An | Reservado (blancos). |
+| 22 | 145 | 4 | An | Letras de etiqueta del obligado tributario en personas físicas. |
+| 23 | 149 | 40 | An | Apellidos y Nombre o Razón Social del obligado tributario. |
+| 24 | 189 | 40 | An | Apellidos y Nombre del primer representante (certificado persona jurídica) o del titular firmante (certificado de persona física o PIN). |
+| 25 | 229 | 40 | An | Apellidos y Nombre del segundo representante o blancos. Con PIN (campo 12=»1») quedará en blanco. |
+| 26 | 269 | 1 | N | Marca de apoderado («0» si la cuenta es de titularidad del firmante de la operación, y «1» si la cuenta de cargo es del obligado y el firmante de la operación está apoderado). Con PIN (campo 12=»1») tomará el valor «0». |
+| 27 | 270 | 31 | An | Apellidos y nombre o razón social del apoderado/titular del certificado (solo en caso de que el campo 26 tome el valor «1»). |
+| 28 | 301 | 34 | An | Código IBAN. |
+| 29 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 30 | 357 | 84 | An | Reservado. |
+
+2\. Registro de respuesta de la entidad colaboradora
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de Operación (001). |
+| 2 | 4 | 2 | An | Alta (01), Consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (MMM, ej.: 100, 110...). |
+| 4 | 9 | 2 | N | Ejercicio fiscal (AA). |
+| 5 | 11 | 2 | An | Período (ej.: 0A, 1T, 01...). |
+| 6 | 13 | 1 | An | Tipo de moneda de la declaración (E). |
+| 7 | 14 | 1 | An | Tipo de autoliquidación (I o D). |
+| 8 | 15 | 9 | An | NIF del obligado tributario (XNNNNNNNX). |
+| 9 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
+| 10 | 28 | 1 | N | Forma autenticación y firma orden pago (1=PIN, 0=Certificado-e) |
+| 11 | 29 | 4 | N | Reservado (ceros) |
+| 12 | 33 | 12 | N | Importe del ingreso/devolución (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 13 | 45 | 12 | N | Importe total de la deuda (IRPF con fraccionamiento). |
+| 14 | 57 | 1 | N | Opción de fraccionamiento, según normativa (1 o 2). |
+| 15 | 58 | 20 | N | Reservado |
+| 16 | 78 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono o solicitud de devolución. |
+| 17 | 90 | 8 | N | Fecha de operación de alta (AAAAMMDD). |
+| 18 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 19 | 120 | 2 | An | Código de retorno. |
+| 20 | 122 | 1 | N | Marca de apoderado («0» si la cuenta es de titularidad del firmante de la operación, y «1» si la cuenta de cargo es del obligado y el firmante de la operación está apoderado). Con PIN (campo 10=»1») tomará el valor «0». |
+| 21 | 123 | 34 | An | Código IBAN |
+| 22 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 23 | 211 | 189 | An | Explicación del horario para error 86 y explicación amplia del error, con teléfono de incidencias, para el error 87. |
+
+> Se sustituye por el que figura en el anexo de la Resolución de 2 de septiembre de 2021, según establece su apartado primero.6. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se sustituye por el que figura en el anexo de la Resolución de 11 de septiembre de 2014, según establece su apartado 1.9. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## ANEXO I bis — Pago de liquidaciones practicadas por la Administración (Cargo en cuenta directo)
+
+1\. Registro de orden de cargo
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular del certificado de firma electrónica/de Cl@vePIN (XNNNNNNNX). |
+| 2 | 10 | 6 | N | Fecha (AAMMDD). |
+| 3 | 16 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 26 | 3 | An | Tipo de Operación (002). |
+| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
+| 6 | 31 | 3 | N | Concepto o modelo (002, 004, 008, 010, 012, 031, 032 060, 061 ó 069). |
+| 7 | 34 | 2 | N | Ceros. |
+| 8 | 36 | 2 | An | Espacios en blanco. |
+| 9 | 38 | 1 | An | Tipo de moneda de la liquidación (E). |
+| 10 | 39 | 1 | An | Tipo de liquidación (I). |
+| 11 | 40 | 9 | An | NIF del obligado al pago (XNNNNNNNX). Si el valor del campo 12 = «1», mismo NIF que campo 1. |
+| 12 | 49 | 1 | N | Forma autenticación y firma orden pago (1=PIN, 0=Certificado-e). |
+| 13 | 50 | 4 | N | Reservado (ceros). |
+| 14 | 54 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 15 | 66 | 13 | An | Número de justificante. |
+| 16 | 79 | 20 | N | Reservado (ceros). |
+| 17 | 99 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 18 | 111 | 9 | An | NIF del primer representante o blancos (XNNNNNNNX). Con PIN (campo 12=«1») quedará en blanco. |
+| 19 | 120 | 9 | An | NIF del segundo representante o blancos (XNNNNNNNX). Con PIN (campo 12=«1») quedará en blanco. |
+| 20 | 129 | 16 | An | Reservado (blancos). |
+| 21 | 145 | 4 | An | Espacios en blanco. |
+| 22 | 149 | 40 | An | Apellidos y Nombre o Razón Social del obligado tributario. |
+| 23 | 189 | 40 | An | Apellidos y Nombre del primer representante (certificado persona jurídica) o del titular firmante (certificado de persona física o PIN). |
+| 24 | 229 | 40 | An | Apellidos y Nombre del segundo representante o blancos. Con PIN (campo 12=«1») quedará en blanco. |
+| 25 | 269 | 1 | N | Marca de apoderado («0» si la cuenta es de titularidad del firmante de la operación, y «1» si la cuenta de cargo es del obligado y el firmante de la operación está apoderado). Con PIN (campo 12=«1») tomará el valor «0». |
+| 26 | 270 | 31 | An | Apellidos y nombre o razón social del apoderado/titular del certificado (solo en caso de que el campo 25 tome el valor «1»). |
+| 27 | 301 | 34 | An | Código IBAN. |
+| 28 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 29 | 357 | 84 | An | Reservado. |
+
+2\. Registro de respuesta de la entidad colaboradora
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de Operación (002). |
+| 2 | 4 | 2 | An | Alta (01), Consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (002, 004, 008, 010, 012, 031, 032, 060, 061 ó 069). |
+| 4 | 9 | 2 | N | Ceros. |
+| 5 | 11 | 2 | An | Espacios en blanco. |
+| 6 | 13 | 1 | An | Tipo de moneda de la liquidación (E). |
+| 7 | 14 | 1 | An | Tipo de liquidación (I). |
+| 8 | 15 | 9 | An | NIF del obligado al pago (XNNNNNNNX). |
+| 9 | 24 | 4 | An | Espacios en blanco. |
+| 10 | 28 | 1 | N | Forma autenticación y firma orden pago (1=PIN, 0=Certificado-e). |
+| 11 | 29 | 4 | N | Reservado (ceros). |
+| 12 | 33 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 13 | 45 | 13 | An | Número de justificante. |
+| 14 | 58 | 20 | N | Reservado. |
+| 15 | 78 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 16 | 90 | 8 | N | Fecha de la operación de alta (AAAAMMDD). |
+| 17 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 18 | 120 | 2 | An | Código de retorno. |
+| 19 | 122 | 1 | N | Marca de apoderado («0» si la cuenta es de titularidad del firmante de la operación, y «1» si la cuenta de cargo es del obligado y el firmante de la operación está apoderado). Con PIN (campo 10=«1») tomará el valor «0». |
+| 20 | 123 | 34 | An | Código IBAN. |
+| 21 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 22 | 211 | 189 | An | Explicación del horario para error 86 y explicación amplia del error, con teléfono de incidencias, para el error 87. |
+
+> Se sustituye por el que figura en el anexo de la Resolución de 2 de septiembre de 2021, según establece su apartado primero.6. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se sustituye por el que figura en el anexo de la Resolución de 11 de septiembre de 2014, según establece su apartado 1.9. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## ANEXO II — Pago de tasas (Cargo en cuenta directo)
+
+1\. Registro de orden de cargo
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del ordenante de la operación (XNNNNNNNX). |
+| 2 | 10 | 6 | N | Fecha (AAMMDD). |
+| 3 | 16 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 26 | 3 | An | Tipo de Operación (007). |
+| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
+| 6 | 31 | 3 | N | Ceros. |
+| 7 | 34 | 2 | N | Ceros. |
+| 8 | 36 | 2 | An | Espacios en blanco. |
+| 9 | 38 | 1 | An | Tipo de moneda de la declaración (E). |
+| 10 | 39 | 1 | An | Tipo de liquidación (I). |
+| 11 | 40 | 9 | An | NIF del obligado tributario (XNNNNNNNX). |
+| 12 | 49 | 1 | N | Campo instrumental. Siempre tomará el valor 0. |
+| 13 | 50 | 4 | N | Reservado (ceros). |
+| 14 | 54 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 15 | 66 | 13 | An | Número de justificante. |
+| 16 | 79 | 20 | N | Reservado (ceros). |
+| 17 | 99 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 18 | 111 | 9 | An | NIF del primer representante del ordenante de la operación (persona jurídica o blancos (XNNNNNNNX). |
+| 19 | 120 | 9 | An | NIF del segundo representante del ordenante de la operación (persona jurídica o blancos) (XNNNNNNNX). |
+| 20 | 129 | 16 | An | Reservado (blancos). |
+| 21 | 145 | 4 | An | Espacios en blanco. |
+| 22 | 149 | 40 | An | Apellidos y Nombre o Razón social del obligado tributario. |
+| 23 | 189 | 40 | An | Apellidos y Nombre del primer representante del ordenante de la operación (persona jurídica) o del titular ordenante de la operación (persona física). |
+| 24 | 229 | 40 | An | Apellidos y Nombre del segundo representante del ordenante de la operación (persona jurídica o blancos). |
+| 25 | 269 | 1 | N | Marca de apoderado («0» si la cuenta es de titularidad del ordenante de la operación, y «1» si la cuenta de cargo es del obligado tributario y el ordenante de la operación está apoderado). |
+| 26 | 270 | 31 | An | Apellidos y nombre o razón social del apoderado ordenante de la operación (solo en caso de que el campo 25 tome el valor «1»). |
+| 27 | 301 | 34 | An | Código IBAN. |
+| 28 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 29 | 357 | 84 | An | Reservado. |
+
+2\. Registro de respuesta de la entidad colaboradora
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de Operación (007). |
+| 2 | 4 | 2 | An | Alta (01), Consulta (02). |
+| 3 | 6 | 3 | N | Ceros. |
+| 4 | 9 | 2 | N | Ceros. |
+| 5 | 11 | 2 | An | Espacios en blanco. |
+| 6 | 13 | 1 | An | Tipo de moneda de la declaración (E). |
+| 7 | 14 | 1 | An | Tipo de liquidación (I). |
+| 8 | 15 | 9 | An | NIF obligado tributario (XNNNNNNNX). |
+| 9 | 24 | 4 | An | Espacios en blanco. |
+| 10 | 28 | 1 | N | Campo instrumental. Siempre tomará el valor 0. |
+| 11 | 29 | 4 | N | Reservado (ceros). |
+| 12 | 33 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 13 | 45 | 13 | An | Número de justificante. |
+| 14 | 58 | 20 | N | Reservado. |
+| 15 | 78 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 16 | 90 | 8 | N | Fecha de la operación de alta (AAAAMMDD). |
+| 17 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 18 | 120 | 2 | An | Código de retorno. |
+| 19 | 122 | 1 | N | Marca de apoderado («0» si la cuenta es de titularidad del ordenante de la operación, y «1» si la cuenta de cargo es del obligado tributario y el ordenante de la operación está apoderado). |
+| 20 | 123 | 34 | An | Código IBAN. |
+| 21 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 21 | 211 | 189 | An | Explicación del horario para error 86 y explicación amplia del error, con teléfono de incidencias, para el error 87. |
+
+> Se sustituye por el que figura en el anexo de la Resolución de 2 de septiembre de 2021, según establece su apartado primero.6. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se sustituye por el que figura en el anexo de la Resolución de 4 de abril de 2017, según establece su apartado 10. [Ref. BOE-A-2017-4295](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4295)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado 9 de la citada Resolución.
+
+> Se sustituye por el que figura en el anexo de la Resolución de 11 de septiembre de 2014, según establece su apartado 1.9. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## ANEXO III — Pago de autoliquidaciones (Tarjeta)
+
+1\. Registro de orden de cargo
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular de la tarjeta y ordenante de la operación. |
+| 2 | 10 | 6 | N | Fecha AAMMDD. |
+| 3 | 16 | 10 | N | Hora HHMMSSSSSS. |
+| 4 | 26 | 3 | An | Tipo de Operación (011). |
+| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
+| 6 | 31 | 3 | N | Concepto o modelo (MMM, Ej.: 100, 111...). |
+| 7 | 34 | 2 | N | Ejercicio fiscal (AA). |
+| 8 | 36 | 2 | An | Período (Ej.: 0A, 1T, 01,...). |
+| 9 | 38 | 1 | An | Tipo de moneda de la declaración (E). |
+| 10 | 39 | 1 | An | Tipo de autoliquidación (I). |
+| 11 | 40 | 9 | An | NIF del contribuyente. |
+| 12 | 49 | 1 | N | Forma autenticación y firma orden pago (1= Cl@vePIN, 0=certificado-e). |
+| 13 | 50 | 4 | N | Ceros. |
+| 14 | 54 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 15 | 66 | 12 | N | Importe total de la deuda (Renta con fraccionamiento). |
+| 16 | 78 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
+| 17 | 82 | 4 | An | Código del Merchant. |
+| 18 | 86 | 3 | An | Reservado para ampliación número de tarjeta (000). |
+| 19 | 89 | 16 | An | Número de la tarjeta. |
+| 20 | 105 | 4 | N | Fecha de caducidad de la tarjeta. |
+| 21 | 109 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 22 | 121 | 14 | An | Espacios en blanco. |
+| 23 | 135 | 16 | An | Reservado (blancos). |
+| 24 | 151 | 4 | An | Letras de etiqueta del contribuyente en personas físicas. |
+| 25 | 155 | 40 | An | Apellidos y Nombre o Razón Social del contribuyente. |
+| 26 | 195 | 40 | An | Apellidos y Nombre del titular de la tarjeta. |
+| 27 | 235 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 28 | 257 | 18 | An | Reservado (espacios en blanco). |
+| 29 | 275 | 32 | N | Reservado para posibles ampliaciones. |
+
+2\. Registro de respuesta de la entidad colaboradora
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de Operación (011). |
+| 2 | 4 | 2 | An | Alta (01), Consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (MMM, Ej.: 100, 111...). |
+| 4 | 9 | 2 | N | Ejercicio fiscal (AA). |
+| 5 | 11 | 2 | An | Período (Ej.: 0A, 1T, 01...). |
+| 6 | 13 | 1 | An | Tipo de moneda de la declaración (E). |
+| 7 | 14 | 1 | An | Tipo de autoliquidación (I). |
+| 8 | 15 | 9 | An | NIF del contribuyente (XNNNNNNNX). |
+| 9 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
+| 10 | 28 | 5 | N | Ceros. |
+| 11 | 33 | 12 | N | Importe del ingreso. (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 12 | 45 | 12 | N | Importe total de la deuda (Renta con fraccionamiento). |
+| 13 | 57 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
+| 14 | 61 | 4 | An | Código del Merchant. |
+| 15 | 65 | 3 | An | Reservado para ampliación número de tarjeta (000). |
+| 16 | 68 | 16 | An | Número de la tarjeta. |
+| 17 | 84 | 4 | N | Fecha de caducidad de la tarjeta. |
+| 18 | 88 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 19 | 100 | 8 | N | Fecha de la operación (AAAAMMDD). |
+| 20 | 108 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 21 | 130 | 2 | An | Código de retorno. |
+| 22 | 132 | 79 | N | Reservado para posibles ampliaciones. |
+| 23 | 211 | 189 | An | Explicación del horario para error 86 y explicación amplia del error, con teléfono de incidencias, para el error 87. |
+
+> Se sustituye por el que figura en el anexo de la Resolución de 2 de septiembre de 2021, según establece su apartado primero.6. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se suprime el punto 2 y los puntos 3 y 4 se renumeran como 2 y 3, y se modifica la descripción del campo Nº 1 de los nuevos puntos 2 y 3, por el apartado 1.10 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## ANEXO III bis — Pago de liquidaciones practicadas por la Administración (Tarjeta)
+
+1\. Registro de orden de cargo
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular de la tarjeta y ordenante de la operación. |
+| 2 | 10 | 6 | N | Fecha AAMMDD. |
+| 3 | 16 | 10 | N | Hora HHMMSSSSSS. |
+| 4 | 26 | 3 | An | Tipo de Operación (012). |
+| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
+| 6 | 31 | 3 | An | Concepto o modelo.<br>Por ejemplo: 002, 004, 008, 010, 012, 031, 032, 060, 061 o 069. |
+| 7 | 34 | 2 | N | Ejercicio fiscal (00). |
+| 8 | 36 | 2 | An | Espacios en blanco. |
+| 9 | 38 | 1 | An | Tipo de moneda de la declaración (E). |
+| 10 | 39 | 1 | An | Tipo de liquidación (I). |
+| 11 | 40 | 9 | An | NIF del obligado al pago (XNNNNNNNX). |
+| 12 | 49 | 1 | N | Forma autenticación y firma orden pago (1= Cl@vePIN, 0=certificado-e). |
+| 13 | 50 | 1 | N | Ceros. |
+| 14 | 51 | 12 | N | Importe del ingreso(ajustado a la derecha y relleno de ceros a la izquierda). |
+| 15 | 63 | 13 | An | Número de justificante. |
+| 16 | 76 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
+| 17 | 80 | 4 | An | Código del Merchant. |
+| 18 | 84 | 3 | An | Reservado para ampliación del número de tarjeta (000). |
+| 19 | 87 | 16 | An | Número de la tarjeta. |
+| 20 | 103 | 4 | N | Fecha de caducidad de la tarjeta. |
+| 21 | 107 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 22 | 119 | 14 | An | Espacios en blanco. |
+| 23 | 133 | 16 | An | Reservado (blancos). |
+| 24 | 149 | 4 | An | Espacios en blanco. |
+| 25 | 153 | 40 | An | Apellidos y Nombre o Razón Social del contribuyente. |
+| 26 | 193 | 40 | An | Apellidos y Nombre del titular de la tarjeta. |
+| 27 | 233 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 28 | 255 | 18 | An | Reservado (espacios en blanco). |
+| 29 | 273 | 32 | N | Reservado para posibles ampliaciones. |
+
+2\. Registro de respuesta de la entidad colaboradora
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de Operación (012). |
+| 2 | 4 | 2 | An | Alta (01), Consulta (02). |
+| 3 | 6 | 3 | An | Concepto o modelo.<br>Por ejemplo: 002, 004, 008, 010, 012, 031, 032, 060, 061 o 069. |
+| 4 | 9 | 2 | N | Ceros. |
+| 5 | 11 | 2 | An | Espacios en blanco. |
+| 6 | 13 | 1 | An | Tipo de moneda de la declaración (E). |
+| 7 | 14 | 1 | An | Tipo de liquidación (I). |
+| 8 | 15 | 9 | An | NIF del obligado al pago (XNNNNNNNX). |
+| 9 | 24 | 4 | An | Espacios en blanco. |
+| 10 | 28 | 2 | N | Ceros. |
+| 11 | 30 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 12 | 42 | 13 | An | Número de justificante. |
+| 13 | 55 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
+| 14 | 59 | 4 | An | Código del Merchant. |
+| 15 | 63 | 3 | An | Reservado para ampliación del número de tarjeta (000). |
+| 16 | 66 | 16 | An | Número de la tarjeta. |
+| 17 | 82 | 4 | N | Fecha de caducidad de la tarjeta. |
+| 18 | 86 | 12 | N | Importe en la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 19 | 98 | 8 | N | Fecha de la operación (AAAAMMDD). |
+| 20 | 106 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 21 | 128 | 2 | An | Código de retorno. |
+| 22 | 130 | 81 | N | Reservado para posibles ampliaciones. |
+| 23 | 211 | 189 | An | Explicación del horario para error 86 y explicación extendida para el error 87. |
+
+> Se sustituye por el que figura en el anexo de la Resolución de 2 de septiembre de 2021, según establece su apartado primero.6. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se suprime el punto 2 y los puntos 3 y 4 se renumeran como 2 y 3, y se modifica la descripción del campo Nº 1 de los nuevos puntos 2 y 3, por el apartado 1.10 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## ANEXO IV — Pago de tasas (Tarjeta)
+
+1\. Registro de orden de cargo
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular de la tarjeta y ordenante de la operación (XNNNNNNNX). |
+| 2 | 10 | 6 | N | Fecha (AAMMDD). |
+| 3 | 16 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 26 | 3 | An | Tipo de Operación (017). |
+| 5 | 29 | 2 | An | Alta (01), Consulta (02). |
+| 6 | 31 | 3 | N | Ceros. |
+| 7 | 34 | 2 | N | Ceros. |
+| 8 | 36 | 2 | An | Espacios en blanco. |
+| 9 | 38 | 1 | An | Tipo de moneda de la declaración (E). |
+| 10 | 39 | 1 | An | Tipo de liquidación (I). |
+| 11 | 40 | 9 | An | NIF del obligado tributario (XNNNNNNNX). |
+| 12 | 49 | 2 | N | Ceros. |
+| 13 | 51 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 14 | 63 | 13 | An | Número de justificante. |
+| 15 | 76 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
+| 16 | 80 | 4 | An | Código del Merchant. |
+| 17 | 84 | 3 | An | Reservado para ampliación del número de tarjeta (000). |
+| 18 | 87 | 16 | An | Número de la tarjeta. |
+| 19 | 103 | 4 | N | Fecha de caducidad de la tarjeta (MMAA). |
+| 20 | 107 | 12 | N | Importe de la moneda en que está denominada la Cuenta Restringida del abono. |
+| 21 | 119 | 14 | An | Espacios en blanco. |
+| 22 | 133 | 16 | An | Reservado (blancos). |
+| 23 | 149 | 4 | An | Espacios en blanco. |
+| 24 | 153 | 40 | An | Apellidos y nombre o Razón social del obligado tributario. |
+| 25 | 193 | 40 | An | Apellidos y nombre del titular de la tarjeta declarados por el ordenante de la operación. |
+| 26 | 233 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 27 | 255 | 18 | An | Reservado (espacios en blanco). |
+| 28 | 273 | 32 | N | Reservado para posibles ampliaciones. |
+
+2\. Registro de respuesta de la entidad colaboradora
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de Operación (017). |
+| 2 | 4 | 2 | An | Alta (01), Consulta (02). |
+| 3 | 6 | 3 | N | Ceros. |
+| 4 | 9 | 2 | N | Ceros. |
+| 5 | 11 | 2 | An | Espacios en blanco. |
+| 6 | 13 | 1 | An | Tipo de moneda de la declaración (E). |
+| 7 | 14 | 1 | An | Tipo de liquidación (I). |
+| 8 | 15 | 9 | An | NIF del obligado tributario (XNNNNNNNX). |
+| 9 | 24 | 4 | An | Espacios en blanco. |
+| 10 | 28 | 2 | N | Ceros. |
+| 11 | 30 | 12 | N | Importe del ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 12 | 42 | 13 | An | Número de justificante. |
+| 13 | 55 | 4 | An | Código Banco de España de la Entidad Emisora de la tarjeta. |
+| 14 | 59 | 4 | An | Código del Merchant. |
+| 15 | 63 | 3 | An | Reservado para ampliaciones del número de tarjeta (000). |
+| 16 | 66 | 16 | An | Número de la tarjeta. |
+| 17 | 82 | 4 | N | Fecha de caducidad de la tarjeta (MMAA). |
+| 18 | 86 | 12 | N | Importe de la moneda en que esté denominada la Cuenta Restringida del abono. |
+| 19 | 98 | 8 | N | Fecha de la operación de alta (AAAAMMDD). |
+| 20 | 106 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 21 | 128 | 2 | An | Código de retorno. |
+| 22 | 130 | 81 | N | Reservado para posibles ampliaciones. |
+| 23 | 211 | 189 | An | Explicación del horario para error 86 y explicación amplia del error, con teléfono de incidencias para el error 87. |
+
+Aplicable a todos los anexos:
+
+Pos. = Posición.
+
+N = Numérico.
+
+Long. = Longitud.
+
+An = Alfanumérico.
+
+– Los importes se expresan en céntimos de euro.
+
+– Todas las comunicaciones entre la Agencia Tributaria y las entidades colaboradoras adheridas a los servicios de pago se realizarán desde la Agencia Tributaria haciendo uso de un certificado electrónico cualificado que permita a las entidades colaboradoras determinar la autenticidad, integridad y no repudio de la información transmitida. No será necesaria, por lo tanto, la inclusión de ningún proceso de cifrado adicional. Las entidades colaboradoras deberán validar que dichas peticiones estén asociadas al certificado electrónico de la Agencia Tributaria, no admitiendo las peticiones realizadas con otros certificados distintos de los comunicados por la Agencia Tributaria en cada momento. Será responsabilidad de las entidades colaboradoras validar esta información de autenticación antes de procesar la operación de pago, no siendo la Agencia Tributaria responsable de los perjuicios generados en caso de que la entidad colaboradora no realizara dicha validación.
+
+– Al servicio provisto por las entidades colaboradoras se le enviará por el método POST del protocolo HTTP un documento de texto plano y recibirá una respuesta que contiene a su vez un documento de texto plano, de acuerdo a los formatos definidos de Registro de Orden de Cargo y Registro de Respuesta de Entidad Colaboradora.
+
+> Se sustituye por el que figura en el anexo de la Resolución de 2 de septiembre de 2021, según establece su apartado primero.6. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+> Se sustituye por el que figura en el anexo de la Resolución de 4 de abril de 2017, según establece su apartado 10. [Ref. BOE-A-2017-4295](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4295)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado 9 de la citada Resolución.
+
+> Se suprime el punto 2 y los puntos 3 y 4 se renumeran como 2 y 3, y se modifica la descripción del campo Nº 1 de los nuevos puntos 2 y 3, por el apartado 1.10 de la Resolución de 11 de septiembre de 2014. [Ref. BOE-A-2014-9468](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9468)
+
+> Téngase en cuenta el periodo de adaptación establecido en el apartado segundo de la citada Resolución.
+
+## ANEXO V
+
+![10028.png](https://www.boe.es/datos/imagenes/disp/2009/153/10480_10028.png)
+
+![10060.png](https://www.boe.es/datos/imagenes/disp/2009/153/10480_10060.png)
+
+## ANEXO VI — Otorgamiento de apoderamientos mediante comparecencia del poderdante para la realización por Internet de trámites y actuaciones ante la Agencia Estatal de Administración Tributaria
+
+![10105.png](https://www.boe.es/datos/imagenes/disp/2009/153/10480_10105.png)
+
+![10137.png](https://www.boe.es/datos/imagenes/disp/2009/153/10480_10137.png)
+
+![10168.png](https://www.boe.es/datos/imagenes/disp/2009/153/10480_10168.png)
+
+## ANEXO VII — Datos a suministrar por el ordenante del pago
+
+Para realizar el pago de autoliquidaciones, liquidaciones y tasas, el ordenante del pago deberá informar en el formulario o servicio correspondiente publicado en la Sede de la Agencia Estatal de Administración Tributaria (Agencia Tributaria) la siguiente información:
+
+– Operación a realizar: Alta o Consulta.
+
+– Importe del Ingreso.
+
+• En caso de que el modelo admita fraccionamiento, se informará, además:
+
+○ Marca de fraccionamiento.
+
+○ Resultado de la declaración.
+
+– NIF del Obligado Tributario.
+
+– Apellidos y nombre o razón social del Obligado Tributario.
+
+– En caso de pago de Tasas:
+
+• Número de Justificante de la Tasa.
+
+– En caso de pago de Liquidaciones:
+
+• Modelo.
+
+• Número de Justificante de la Liquidación.
+
+– En caso de pago de Autoliquidaciones:
+
+• Modelo.
+
+• Ejercicio fiscal.
+
+• Periodo.
+
+– En el caso de pago mediante cargo en cuenta:
+
+• Marca indicando si el pago se realiza con apoderamiento, siempre que el pago no se realice por empleado público.
+
+• IBAN de la cuenta desde la que se realizará el ingreso.
+
+• En caso de que el pago de una tasa se realice por empleado público, además se informarán los siguientes datos del ordenante de la operación:
+
+○ Tipo de documento.
+
+○ NIF.
+
+○ Número de soporte del NIF.
+
+○ Apellidos y nombre o razón social.
+
+• Si además de que el pago se realice por empleado público, si el ordenante de una operación de pago de tasas es una persona jurídica, se informará adicionalmente:
+
+○ NIF del representante.
+
+○ Apellidos y nombre o razón social del representante.
+
+○ NIF del segundo representante, solo si lo hubiera.
+
+○ Apellidos y nombre o razón social del segundo representante, solo si lo hubiera.
+
+– En el caso de pago mediante tarjeta:
+
+• Código Banco de España de la entidad emisora de la tarjeta.
+
+• N.º de Tarjeta desde la que se realizará el ingreso.
+
+• Fecha de caducidad de la tarjeta.
+
+– Los datos del ordenante del pago serán recabados por la Agencia Tributaria en el proceso de autenticación previo al trámite de pago. Excepcionalmente, en el caso de pago de tasas, los datos del ordenante del pago se podrán recabar por el Organismo gestor de la Tasa que lleve a cabo la autenticación del ordenante del pago.
+
+Cuando esta información deba ser remitida por otros Organismos de la Administración del Estado, el formato en que esta información se deba transmitir a los sistemas de información de la Agencia Tributaria será determinado por el Departamento de Informática Tributaria.
+
+> Se añade por el apartado primero.7 de la Resolución de 2 de septiembre de 2021, con la redacción que figura en su anexo. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)
+
+## ANEXO VIII — Datos técnicos, de comunicación y seguridad
+
+– Aclaraciones para la correcta interpretación de los registros de orden de cargo y los registros de respuesta de las entidades colaboradoras.
+
+Pos. = Posición.
+
+Long. = Longitud.
+
+N = Numérico.
+
+An = Alfanumérico.
+
+Todos los importes se expresan en céntimos de euro.
+
+– Seguridad:
+
+Todas las comunicaciones entre la Agencia Tributaria y las entidades colaboradoras adheridas a los servicios de pago se realizarán desde la Agencia Tributaria haciendo uso de un certificado electrónico cualificado que permita a las entidades colaboradoras determinar la autenticidad, confidencialidad, integridad y no repudio de la información transmitida.
+
+No será necesaria, por lo tanto, la inclusión de ningún proceso de cifrado adicional sobre los datos transmitidos.
+
+Las entidades colaboradoras deberán validar que dichas peticiones estén asociadas a un certificado electrónico comunicado previamente por la Agencia Tributaria, no admitiendo las peticiones realizadas con otros certificados. Será responsabilidad de las entidades colaboradoras validar esta información de autenticación antes de procesar la operación de pago, no siendo la Agencia Tributaria responsable de los perjuicios generados en caso de que la entidad colaboradora no realizara dicha validación o la realizara de forma defectuosa.
+
+– Comunicaciones:
+
+La comunicación entre la Agencia Tributaria y el servicio de pago provisto por las entidades colaboradoras se realizará por el método POST del protocolo HTTP, remitiendo un documento de texto plano y recibirá una respuesta que contiene a su vez un documento de texto plano, de acuerdo a los formatos definidos de Registro de Orden de cargo y Registro de Respuesta de entidad colaboradora.
+
+> Se añade por el apartado primero.8 de la Resolución de 2 de septiembre de 2021, con la redacción que figura en su anexo. [Ref. BOE-A-2021-14454](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14454)

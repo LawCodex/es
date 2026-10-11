@@ -1,0 +1,273 @@
+---
+title: "Orden AAA/1579/2012, de 2 de julio, por la que se establecen las bases reguladoras para la concesión de ayudas a sindicatos de trabajadores de los sectores agroalimentario y medioambiental para el desarrollo de sus actividades de colaboración y representación ante la Administración General del Estado, la Unión Europea e Instituciones Internacionales, y para la realización de proyectos de especial interés para el desarrollo y mejora de los trabajadores de los citados sectores"
+identifier: "BOE-A-2012-9546"
+eli: "https://www.boe.es/eli/es/o/2012/07/02/aaa1579"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2012-07-02
+published: 2012-07-17
+in_force_from: 2012-07-18
+last_amended: 2015-06-25
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 170"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2012-9546"
+retrieved: 2026-10-11
+---
+
+# Orden AAA/1579/2012, de 2 de julio, por la que se establecen las bases reguladoras para la concesión de ayudas a sindicatos de trabajadores de los sectores agroalimentario y medioambiental para el desarrollo de sus actividades de colaboración y representación ante la Administración General del Estado, la Unión Europea e Instituciones Internacionales, y para la realización de proyectos de especial interés para el desarrollo y mejora de los trabajadores de los citados sectores
+
+Los sindicatos de trabajadores de los sectores agroalimentario y medioambiental vienen participando en órganos consultivos internacionales, de la Unión Europea y de la Administración General del Estado, como interlocutores institucionales del diálogo permanente que se requiere para configurar una política agroalimentaria y medioambiental, una planificación general de la economía en beneficio del interés general, y una mejora de las condiciones de los trabajadores. Paralelamente, el Ministerio de Agricultura, Alimentación y Medio Ambiente tiene asignadas, entre otras funciones, las de mantenimiento de las relaciones institucionales con las entidades representativas de intereses en los sectores agroalimentario y medioambiental, así como la planificación, dirección y coordinación de las políticas activas del departamento en materia agroalimentaria y medioambiental. Todo ello, de conformidad con lo establecido en el Real Decreto 401/2012, de 17 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Agricultura, Alimentación y Medio Ambiente, en el marco de la competencia atribuida al Estado por la Constitución en su artículo 149.1.13.ª y 23.ª sobre bases y coordinación de la planificación general de la actividad económica referida a los sectores agroalimentario y medioambiental.
+
+Por otra parte, las entidades sindicales cumplen el papel que les confiere la Constitución Española en su artículo 7, de contribuir a la defensa y promoción de los intereses económicos y sociales que les son propios, esto es, los de los trabajadores por cuenta ajena y autónomos dependientes de los sectores agropecuario, forestal, medioambiental y de las industrias de la alimentación, bebidas y tabacos. El Ministerio de Agricultura, Alimentación y Medio Ambiente reconoce a su vez a las organizaciones sindicales como interlocutores relevantes de ámbito estatal para la defensa y promoción de los intereses de los sectores agroalimentario y medioambiental, teniendo capacidad de actuación en todas aquellas actividades que inciden en el funcionamiento de dichos sectores en España. Además, este Departamento, junto con las citadas entidades sindicales, persiguen el establecimiento, en el ámbito de las competencias de cada cual, de un plan de actuaciones que permita la mejora de los trabajadores de los citados sectores.
+
+La presente orden tiene por finalidad subvencionar, en régimen de concurrencia competitiva, el desarrollo de sus actividades de colaboración y representación institucional ante la Administración General del Estado, la Unión Europea e instituciones internacionales,así como la realización de proyectos específicos de especial interés para la mejora de los trabajadores de los sectores agroalimentario y medioambiental, contribuyendo de este modo al mejor funcionamiento de los mismos.
+
+La gestión de estas ayudas será realizada por el Ministerio de Agricultura, Alimentación y Medio Ambiente de forma centralizada, siguiendo la doctrina sentada por la jurisprudencia del Tribunal Constitucional, entre otras por la Sentencia 13/1992, puesto que se trata forzosamente de ayudas de gestión centralizada ya que su finalidad no es otra que contribuir a la financiación de los costes de las actuaciones que éstas realizan en el cumplimiento de los objetivos marcados por el departamento, como plataforma de interlocución de los agentes sociales y de los trabajadores.
+
+La gestión estatal de esta medida de fomento es imprescindible para asegurar la plena efectividad en beneficio del medio rural en los sectores agroalimentario y medioambiental, de conformidad con los criterios establecidos por la jurisprudencia constitucional.
+
+En la tramitación de la presente orden han sido consultadas las entidades representativas del sector afectado.
+
+En su virtud, con la aprobación previa del Ministerio de Hacienda y Administraciones Públicas, dispongo:
+
+## Artículo 1. Objeto.
+
+Mediante la presente Orden se establecen subvenciones destinadas a los sindicatos de trabajadores de los sectores agroalimentario y medioambiental, para el fomento de actividades específicas de especial interés para la mejora de los trabajadores de los sectores agroalimentario y medioambiental. Así mismo, las subvenciones también estarán destinadas a financiar actividades de representación de estas organizaciones ante la Administración General del Estado o de participación en sus órganos colegiados, así como ante la Unión Europea y las instituciones internacionales relevantes para los sectores agroalimentario y medioambiental.
+
+> Se modifica por el art. único.1 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+## Artículo 2. Beneficiarios y requisitos.
+
+1\. Podrán ser beneficiarios de las ayudas cuyas bases de concesión se establecen en esta orden los sindicatos de trabajadores más representativos de los sectores agroalimentario y medioambiental, de acuerdo a lo establecido en la Ley Orgánica de Libertad sindical (LOLS) de 11/1985, de 2 de agosto.
+
+2\. Estas entidades deberán cumplir los siguientes requisitos:
+
+a) Ser de ámbito estatal y de representación de los sectores agroalimentario y medioambiental en su totalidad, y no exclusivamente de determinados subsectores de los mismos.
+
+b) Estar debidamente legalizadas de conformidad con la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical.
+
+c) Recoger en sus estatutos como finalidad primordial, la defensa de los intereses de los trabajadores de los sectores agroalimentario y medioambiental.
+
+d) Hallarse al corriente del pago de la totalidad de sus obligaciones tributarias y con la Seguridad Social.
+
+3\. Las subvenciones contempladas en esta Orden se destinarán únicamente a actuaciones realizadas en el período comprendido entre el primero de enero del año de su convocatoria y el plazo establecido para la justificación de las mismas en el artículo 10 de esta Orden.
+
+> Se modifica el apartado 3 por el art. único.2 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+## Artículo 3. Cuantía de las subvenciones y gastos subvencionables.
+
+1\. Las subvenciones tendrán como límite la dotación asignada en la partida correspondiente de los Presupuestos Generales del Estado para el ejercicio económico en el que se lleve a cabo la correspondiente convocatoria y estarán destinadas al fomento de las actividades citadas en el artículo 1.
+
+2\. Se considerarán gastos subvencionables los relativos a personal, alquiler de locales, material consumible, imprenta, publicidad, desplazamientos, alojamiento, manutención y aquellos otros que respondan indubitadamente a la realización de la actividad presentada.
+
+3\. Podrán ser objeto de subvención tanto los gastos directos como los indirectos, con las limitaciones establecidas en el apartado siguiente. Se entenderá por gastos indirectos subvencionables los propios del funcionamiento regular del sindicato de trabajadores adjudicatario, que sirven de sostén para que sea posible la ejecución de las actividades que desarrolla.
+
+4\. Los gastos imputables a la subvención estarán sometidos a las siguientes limitaciones:
+
+a) La cantidad máxima de gasto subvencionable para cada actividad presentada, no podrá ser superior al 90 % de la cantidad total presupuestada para la misma.
+
+b) Los gastos indirectos subvencionables no podrán superar, en conjunto, el límite máximo del 20 % de la cantidad de subvención concedida, sin que sea precisa su justificación documental. No obstante, estos gastos se acreditarán mediante declaración responsable firmada por el representante legal de la organización sindical, en la que se describirán los tipos de gastos incluidos y los importes destinados a cada uno de ellos.
+
+c) El gasto derivado de la revisión de la cuenta justificativa mediante informe de auditor, según lo previsto en el artículo 10, no podrá superar el 10 % del importe de la ayuda.
+
+d) Las retribuciones del personal laboral adscrito al cumplimiento de la actividad subvencionada así como las del personal contratado, para tal fin, en régimen de arrendamiento de servicios, únicamente podrán ser objeto de subvención hasta el importe de las retribuciones fijadas por jornada real de trabajo para los correspondientes grupos profesionales en el convenio colectivo único para el personal laboral de la Administración General del Estado en vigor.
+
+e) En cualquier caso, los gastos subvencionables correspondientes a desplazamientos, alojamiento y manutención tendrán como límite máximo las cuantías establecidas para el grupo 2 en el anexo II del Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón de servicio.
+
+f) No serán subvencionables los gastos originados por las actividades realizadas en la condición de miembros de las juntas directivas, patronatos u otros órganos de dirección de las entidades beneficiarias.
+
+> Se modifica por el art. único.3 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+## Artículo 4. Criterios de valoración.
+
+1\. La distribución de los fondos disponibles se llevará a cabo de la siguiente forma:
+
+a) Hasta un máximo del 20 % del total del crédito inicial se destinará a subvencionar las actividades de representación en el ámbito estatal. Un 50 % de esta cantidad se asignará en función de los resultados electorales obtenidos por cada entidad solicitante y el 50 % restante en razón al número de órganos colegiados de la Administración General del Estado en los que esté presente.
+
+b) Hasta un máximo del 15 % del total del crédito inicial se destinará a las actividades de representación en el ámbito internacional y de la Unión Europea, de manera proporcional al importe de las cuotas obligatorias a satisfacer a las organizaciones de dichos ámbitos en las que estén integradas.
+
+c) El resto de las disponibilidades presupuestarias se destinarán a la financiación de actividades específicas, que se valorarán sobre un total de 100 puntos, siendo necesario alcanzar un mínimo de 30 puntos para obtener subvención. La valoración de las actividades presentadas se hará de acuerdo con los siguientes criterios:
+
+1.º El alcance o impacto laboral de las actividades, atendiendo a un criterio de proporcionalidad. Dicho alcance vendrá determinado por el número de trabajadores directa e indirectamente afectados por la actividad presentada en relación con el subsector tratado. (Hasta un máximo de 20 puntos), otorgando la máxima puntuación a la actividad que afecte a un mayor número de trabajadores.
+
+2.º Se asignarán 10 puntos a las actividades que supongan un grado de innovación en la realización de la actividad, previa justificación de los aspectos a mejorar respecto a las actividades realizadas anteriormente sobre la cuestión tratada, y de la relevancia vigente de esta última. En el caso de actividades que analicen cuestiones que no hayan sido previamente realizadas por la entidad solicitante, siempre que se justifique su conveniencia y oportunidad con la situación en ese momento del subsector tratado.
+
+3.º Se asignarán 10 puntos a las actividades que supongan la aplicación de nuevas tecnologías y fomento del uso de las mismas en la actividad solicitada.
+
+4.º Se asignarán 10 puntos a aquellas actividades que favorezcan la internacionalización del subsector.
+
+5.º Amplitud del ámbito territorial de la actividad en relación con la distribución estatal del subsector tratado. (Hasta un máximo de 30 puntos), otorgando la máxima puntuación a la actividad que afecte a un mayor número de provincias.
+
+6.º Se asignarán 10 puntos a las actividades que incidan en la formación, profesionalización y vertebración del subsector que aborde.
+
+7.º Se asignarán 10 puntos a las actividades en cuyo desarrollo participen los profesionales del subsector correspondiente.
+
+2\. Determinación de la subvención correspondiente a cada actividad específica, de acuerdo con los criterios establecidos en la letra c).
+
+Se procederá de la siguiente manera:
+
+La subvención provisional correspondiente a cada actividad será el resultado de multiplicar el presupuesto de la misma por el cociente obtenido al dividir por 100 el número de puntos obtenidos en su valoración.
+
+Si sumadas las cuantías así obtenidas para cada actividad, dicha suma superase la cifra que se ha determinado para el conjunto de las actividades específicas, el exceso resultante se detraerá a cada una, de manera proporcional a sus cuantías.
+
+3\. Determinación de la subvención correspondiente a cada beneficiario.–La subvención correspondiente a cada beneficiario será el resultado de integrar las cantidades obtenidas por las actividades de representación, de acuerdo con los criterios contenidos en las letras a) y b) del punto 1 de este artículo, y la suma las cantidades obtenidas por actividades específicas, tal y como se ha determinado en el punto 2 de este artículo.
+
+> Se modifica por el art. único.4 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+## Artículo 5. Compatibilidad de las ayudas.
+
+Estas ayudas serán compatibles con otras que puedan conceder otras administraciones públicas, entidades públicas adscritas o dependientes de las mismas, tanto nacionales como internacionales, y otras personas físicas o jurídicas de naturaleza privada, siempre que el conjunto de las mismas no supere el coste total de la actividad.
+
+> Se modifica por el art. único.5 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+> Su anterior numeración era art. 4.
+
+## Artículo 6. Iniciación del procedimiento.
+
+El procedimiento de concesión de estas subvenciones se tramitará en régimen de concurrencia competitiva, regulado en los artículos 23 al 27 de la Ley 38/2003, de 17 de noviembre, y se iniciará de oficio mediante la correspondiente convocatoria que se publicará anualmente en el “Boletín Oficial del Estado”. En la Orden de convocatoria se establecerá la partida presupuestaria y dotación con cargo a la cual se financiarán estas subvenciones.
+
+> Se modifica por el art. único.6 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+## Artículo 7. Solicitudes y documentación.
+
+1\. Las solicitudes se dirigirán al titular del Departamento y vendrán acompañadas por:
+
+a) Documentación acreditativa del reconocimiento de la entidad solicitante como sindicato más representativo, y de los resultados electorales obtenidos por la misma en el último proceso electoral celebrado al respecto.
+
+b) Copias, con el carácter de auténtica o fotocopia compulsada, de los Estatutos, debidamente legalizados, y de la relación nominal de los miembros componentes de sus órganos ejecutivos y de dirección en el momento de la solicitud.
+
+c) Declaración expedida por el representante legal de la entidad, en la que se haga constar si está integrada o asociada a otra entidad de ámbito nacional, comunitario o internacional, así como relación de las asociaciones de cualquier ámbito integradas o asociadas a ella.
+
+d) Fotocopia compulsada de la tarjeta acreditativa del número de identificación fiscal.
+
+e) Certificado expedido, por quien tenga facultades para ello, que exprese bien su participación en los órganos colegiados del Ministerio de Agricultura, Alimentación y Medio Ambiente y de los restantes Departamentos ministeriales, o bien su participación en órganos consultivos de carácter comunitario e internacional pertinentes, en ambos casos en representación de los trabajadores por cuenta ajena y autónomos dependientes de los citados sectores. En el supuesto de los órganos consultivos de carácter comunitario e internacional, vendrá acompañado también por el justificante de la cuota correspondiente al año en curso.
+
+f) En el caso de los proyectos propuestos para su realización, deberá acompañarse de una memoria detallada de los mismos que deberá explicitar su coste, así como los datos correspondientes a los criterios objetivos de concesión que se describen en el artículo 4 de la presente orden.
+
+g) Declaración en la que se haga constar, si se han obtenido o no otras ayudas para la misma finalidad, procedentes de otras Administraciones Públicas, entes públicos adscritos o dependientes de las mismas, tanto nacionales como internacionales y de otras personas físicas o jurídicas de naturaleza privada.
+
+h) Declaración responsable de la entidad de no estar incursa en ninguna de las circunstancias limitadoras indicadas en el artículo 13.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, para poder ser beneficiario de subvenciones.
+
+2\. La solicitud de ayudas implica la autorización al Ministerio de Agricultura, Alimentación y Medio Ambiente, para recabar de la Agencia Tributaria y de la Tesorería General de la Seguridad Social, información relativa al cumplimiento de las obligaciones tributarias y de la seguridad social.
+
+3\. Las solicitudes se presentarán en el plazo de veinte días hábiles, contados a partir de la entrada en vigor de la convocatoria de las presentes ayudas, en el Registro General del Departamento, o en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+4\. La presentación telemática de la solicitud, en su caso, así como la documentación complementaria que se especifique en las respectivas convocatorias, se realizará en los términos previstos en la convocatoria, conforme a lo dispuesto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+> Se modifica por el art. único.7 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+> Su anterior numeración era art. 5.
+
+## Artículo 8. Instrucción y resolución.
+
+1\. La instrucción del procedimiento se realizará por el Gabinete Técnico de la Subsecretaría del Ministerio de Agricultura, Alimentación y Medio Ambiente, en los términos previstos por los artículos 22 y 24 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+2\. El examen y valoración de las solicitudes se llevará a cabo por el órgano instructor, y la concreción de los resultados se efectuará por una Comisión de valoración, cuyo funcionamiento se ajustará a lo previsto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, siendo atendida con los medios personales y materiales del Ministerio de Agricultura, Alimentación y Medio Ambiente. Los miembros de la Comisión de valoración serán designados por el Subsecretario del Ministerio de Agricultura, Alimentación y Medio Ambiente, constituida de la siguiente forma:
+
+a) Presidente: Un funcionario del Gabinete Técnico de la Subsecretaría, con nivel 30.
+
+b) Vocales: Tres funcionarios del Ministerio de Agricultura, Alimentación y Medio Ambiente, al menos con nivel 26.
+
+c) Secretaría: Un funcionario del Gabinete Técnico de la Subsecretaría, al menos con nivel 26, con voz pero sin voto.
+
+3\. Tras la evaluación y examen de las solicitudes, la Comisión de valoración emitirá un informe, en el que se concretará el resultado de la evaluación efectuada.
+
+4\. El órgano instructor, a la vista del expediente y del informe del órgano colegiado, formulará la propuesta de resolución provisional, debidamente motivada, que deberá notificarse a los interesados en la forma que establezca la convocatoria, y se concederá un plazo de diez días para presentar alegaciones.
+
+Se podrá prescindir del trámite de audiencia cuando no figuren en procedimiento ni sean tenidos en cuenta otros hechos ni otras alegaciones y pruebas que las aducidas por los interesados. En este caso, la propuesta de resolución formulada tendrá el carácter de definitiva.
+
+Examinadas las alegaciones aducidas en su caso por los interesados, se formulará la propuesta de resolución definitiva, que deberá expresar el solicitante o la relación de solicitantes para los que se propone la concesión de la subvención, y su cuantía, especificando su evaluación y los criterios de valoración seguidos para efectuarla.
+
+5\. Una vez aprobada la propuesta de resolución definitiva, esta se elevará al titular del Ministerio de Agricultura, Alimentación y Medio Ambiente u órgano en quien se haya delegado, que resolverá en el plazo de quince días.
+
+6\. El plazo máximo para la dictar resolución del procedimiento y su notificación será de cinco meses, contados a partir de la publicación de la convocatoria. Transcurrido dicho plazo sin que hubiera recaído resolución expresa, se podrá entender desestimada la solicitud de la ayuda.
+
+7\. La resolución será notificada a los interesados en los términos previstos en los artículos 58 y 59 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+8\. La resolución pondrá fin a la vía administrativa y podrá ser recurrida potestativamente en reposición ante la autoridad administrativa que la dictó, o ser impugnada directamente ante el orden jurisdiccional contencioso-administrativo.
+
+> Se modifica por el art. único.8 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+> Su anterior numeración era art. 6.
+
+## Artículo 9. Obligaciones de los beneficiarios.
+
+Los beneficiarios de estas ayudas estarán obligados al cumplimiento de lo establecido en el artículo 14 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y, en particular, a:
+
+a) Acreditar la realización de las actividades y proyectos que hayan sido objeto de subvención, de acuerdo con lo previsto en el artículo 10.
+
+b) Comunicar, de forma inmediata, al órgano que resolvió, la concesión de otras ayudas para la misma finalidad, en caso de su obtención después de la resolución de concesión. En estos casos se podrá acordar la modificación de la resolución de concesión de la ayuda, de acuerdo con lo previsto en el artículo 19.4 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+c) Facilitar cuanta información les sea requerida por el Tribunal de Cuentas.
+
+> Se modifica por el art. único.9 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+> Su anterior numeración era art. 7.
+
+## Artículo 10. Justificación de los gastos y pago.
+
+1\. Los beneficiarios están obligados a acreditar la realización de las actividades y los proyectos que han sido objeto de la subvención antes del 15 de noviembre de cada año mediante la presentación de una cuenta justificativa, con aportación de informe de auditor emitido por una empresa auditora, inscrita en el Registro Oficial de Auditores de Cuentas, del Ministerio de Economía y Competitividad, ajustándose a lo dispuesto en la Orden EHA/1434/2007, de 17 de mayo, por la que se aprueba la norma de actuación de los auditores de cuentas en la realización de los trabajos de revisión de cuentas justificativas de subvenciones, en el ámbito del sector público estatal, previstos en el artículo 74 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado Mediante Real Decreto 887/2006, de 21 de julio.
+
+2\. El beneficiario debe acreditar no ser deudor por resolución de procedencia de reintegro mediante una declaración responsable.
+
+3\. Si dentro de los gastos subvencionados dentro de una actividad los hubiere de alojamiento, manutención y transporte, el límite a percibir por los mismos será el establecido por el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+4\. Una vez realizada la justificación y tras la comprobación de conformidad por el órgano instructor, se procederá al pago de las ayudas.
+
+> Se añade por el art. único.10 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+> Su anterior numeración era art. 8.
+
+## Artículo 11. Graduación de incumplimientos.
+
+1\. Cuando el cumplimiento por el beneficiario se aproxime de modo significativo al cumplimiento total y se acredite por éste una acción inequívocamente tendente a la satisfacción de sus compromisos y de las condiciones de otorgamiento de la ayuda, la cantidad a reintegrar vendrá determinada por la aplicación de los siguientes criterios:
+
+a) El incumplimiento parcial de la obligación de justificación, o la realización de una inversión inferior al presupuesto financiable aprobado en la resolución de concesión, dará lugar al reintegro parcial de la ayuda asignada a cada beneficiario en el porcentaje correspondiente a la inversión no efectuada o no justificada.
+
+b) La realización de modificaciones no autorizadas en el presupuesto financiable, con la excepción prevista en el artículo 12, supondrá la devolución de la ayuda correspondiente a las cantidades desviadas.
+
+c) La no aportación de las tres ofertas en los casos previstos en el artículo 31.3 de la Ley General de Subvenciones significará la reducción de la ayuda correspondiente al gasto en cuestión en, al menos, un 20 por ciento, salvo que el beneficiario demuestre que la contratación se ha hecho a precios de mercado.
+
+2\. El incumplimiento total de los fines para los que se concedió la ayuda, de los objetivos del proyecto, de la realización de la inversión financiable o de la obligación de justificación, dará lugar al reintegro de la totalidad de la ayuda concedida.
+
+3\. El incumplimiento parcial de los fines para los que se concedió la ayuda o de los objetivos del proyecto será objeto de ponderación por el órgano responsable del seguimiento de las ayudas para determinar si procede el reintegro total o parcial de las ayudas concedidas, en función de la importancia de los incumplimientos y su peso en el conjunto de los fines u objetivos perseguidos. Procederá el reintegro total cuando los incumplimientos afecten a la innovación tecnológica en un grado tal que hubiera impedido la superación del umbral para ese criterio en la fase de evaluación.
+
+4\. Transcurrido el plazo establecido de justificación más, en su caso, la ampliación concedida sin haberse presentado la misma, se requerirá al beneficiario para que en el plazo improrrogable de quince días sea presentada. La falta de presentación de la justificación en el plazo establecido en este apartado llevará consigo la exigencia del reintegro de la ayuda no justificada y demás responsabilidades establecidas en la Ley 38/2003, de 17 de noviembre, General de Subvenciones. La presentación de la justificación en el plazo adicional de quince días no eximirá al beneficiario de las sanciones que, conforme a la Ley General de Subvenciones, correspondan.
+
+5\. Para calcular la reducción de la ayuda en los conceptos de gasto financiados con subvención se aplicará la misma proporción a la subvención.
+
+> Se añade por el art. único.11 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+## Artículo 12. Modificación de la resolución y reintegro.
+
+Toda alteración de las condiciones tenidas en cuenta para la concesión de la subvención, y en todo caso la obtención concurrente de subvenciones otorgadas para los mismos fines por otras Administraciones públicas, entes públicos adscritos o dependientes de las mismas, tanto nacionales como internacionales, o de otras personas físicas o jurídicas de naturaleza privada, sin perjuicio de la compatibilidad de las ayudas establecida en el artículo 5, podrá dar lugar a la modificación de la resolución de concesión, de acuerdo con lo previsto en el artículo 19.4 de la Ley 38/2003, de 17 de noviembre, en caso de que el importe total de la subvención superase el coste de la actuación subvencionada, en cuyo caso se procederá a ajustar la cuantía de la subvención.
+
+La resolución de las solicitudes de modificación se dictará por el órgano concedente y se notificará en el plazo máximo de veinte días laborables, contados desde la fecha de su presentación. Esta resolución pondrá fin a la vía administrativa, pudiéndose interponer contra ella el recurso potestativo de reposición ante el citado órgano administrativo en el plazo de un mes, o bien ser impugnadas directamente ante el orden jurisdiccional contencioso-administrativo en la forma y plazo previstos en el artículo 46 de la Ley 29/1998, de 13 de julio.
+
+Transcurrido el plazo máximo establecido sin que se haya dictado y notificado la resolución expresa, se entenderá estimada su solicitud, de acuerdo con lo previsto en el artículo 43 de la Ley 30/1992, de 26 de noviembre, teniendo a todos los efectos la consideración de acto administrativo finalizador del procedimiento y sin perjuicio de la obligación de dictar resolución expresa confirmatoria del mismo.
+
+Las entidades beneficiarias deberán reintegrar las cantidades percibidas, así como el interés de demora, desde el momento del pago de la subvención, en los casos contemplados en el artículo 37.1 de la Ley 38/2003 de 17 de noviembre, General de Subvenciones en consonancia con el artículo 36.
+
+El reintegro, en su caso, se llevará a cabo conforme a los siguientes criterios:
+
+a) El incumplimiento de objetivos parciales o actividades concretas del objeto para cuya realización se concedió la subvención, dará lugar al reintegro de aquella parte de la misma destinada a tales objetivos o actividades.
+
+b) Procederá el reintegro del total de las cantidades recibidas y la exigencia de interés de demora desde el momento del pago de la subvención, en los casos en que el beneficiario la obtenga sin reunir los requisitos requeridos para el otorgamiento.
+
+> Se añade por el art. único.12 de la Orden AAA/1239/2015, de 23 de junio. [Ref. BOE-A-2015-7078](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7078)
+
+> Su anterior numeración era art. 9.
+
+## Disposición final primera. Título competencial.
+
+La presente orden se dicta al amparo de la competencia atribuida al Estado por el artículo 149.1, reglas 13.ª y 23.ª de la Constitución, en materia de bases y coordinación de la planificación general de la actividad económica y bases sobre protección del medio ambiente.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 2 de julio de 2012.–El Ministro de Agricultura, Alimentación y Medio Ambiente, Miguel Arias Cañete.

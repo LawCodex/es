@@ -1,0 +1,2769 @@
+---
+title: "Orden EHA/3787/2008, de 29 de diciembre, por la que se aprueba el modelo 340 de declaración informativa regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos"
+identifier: "BOE-A-2008-20954"
+eli: "https://www.boe.es/eli/es/o/2008/12/29/eha3787"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2008-12-29
+published: 2008-12-30
+in_force_from: 2009-01-01
+last_amended: 2013-11-29
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 314"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-20954"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/3787/2008, de 29 de diciembre, por la que se aprueba el modelo 340 de declaración informativa regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos
+
+El control y la prevención del fraude fiscal son objetivos prioritarios de la Agencia Estatal de Administración Tributaria, para ello es necesario disponer de información suficiente y de calidad, y obtenerla de la forma más inmediata posible. En este sentido el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, en el capítulo V del título II regula las obligaciones de información de carácter general, y en el artículo 36 establece como una de las principales novedades la obligación de informar acerca de las operaciones incluidas en los libros registro del Impuesto sobre el Valor Añadido a que se refiere el artículo 62.1 del Reglamento del Impuesto, y en el artículo 30.1 del Decreto 182/1992, de 15 de diciembre, de la Comunidad Autónoma de Canarias, por el que se aprueban las normas de gestión, liquidación, recaudación e inspección del Impuesto General indirecto canario y la revisión de los actos dictados en aplicación del mismo. La citada obligación incumbe a aquellos obligados tributarios que deban presentar declaraciones o autoliquidaciones correspondientes al Impuesto sobre Sociedades, al Impuesto sobre el Valor Añadido o al Impuesto General Indirecto Canario por medios telemáticos.
+
+No obstante, una de las preocupaciones fundamentales de la Administración tributaria es mantener un correcto equilibrio entre la necesaria obtención de información que, como se ha indicado, es imprescindible para un adecuado desarrollo de las actuaciones de comprobación e investigación, y los costes fiscales indirectos que el suministro de la misma supone para los obligados tributarios, intentando, en todo caso, minimizar la carga fiscal inducida. Con esta finalidad, el artículo 32.1.e) del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, exime a los obligados tributarios que deban informar sobre las operaciones incluidas en los libros registro del Impuesto sobre el Valor Añadido y del Impuesto General indirecto Canario de presentar la declaración anual de operaciones con terceras personas, excepto cuando realicen determinadas operaciones relacionadas en el citado artículo, en cuyo caso, deben cumplimentar la declaración consignando exclusivamente estas operaciones.
+
+La transmisión de la declaración informativa con el contenido de los libros registro se debe realizar obligatoriamente por medios telemáticos o en soporte directamente legible por ordenador, si bien, con el objeto de facilitar la obtención de los ficheros y su adecuada transmisión, se pondrá a disposición de los obligados tributarios un programa de ayuda a la cumplimentación a tal efecto.
+
+Respecto al contenido de los libros en sí, que se concreta en los diseños físicos y lógicos a los que deben ajustarse los archivos objeto de transmisión telemática, indicar que los mismos se corresponden con los que figuran regulados en la norma reglamentaria como contenido de los libros del Impuesto sobre el Valor Añadido o del Impuesto General Indirecto Canario, sin más excepciones que la necesaria inclusión de una serie de claves o códigos imprescindibles con el objeto de conseguir un tratamiento unitario y facilitar su procesamiento informático, indicando aspectos tales como el tipo de libro que se transmite, la clave de la operación específica que por norma reglamentaria debe ser objeto de una consignación separada del resto, o el código del país, en el caso de personas o entidades que se identifican como no residentes. Asimismo, para facilitar la identificación de determinadas operaciones específicas, se incluyen con carácter voluntario, ciertas claves de operación adicionales, así como para hacer posible la consignación del impuesto deducible se incluye, también con carácter voluntario, la cuota del impuesto que tiene carácter deducible de acuerdo con lo previsto en el capítulo I del título VIII de la Ley del Impuesto sobre el Valor Añadido o capítulo I del título II de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, en la que se regula el Impuesto General Indirecto Canario.
+
+El artículo 117 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, habilita, en el ámbito del Estado, al Ministro de Economía y Hacienda para aprobar los modelos de declaración, autoliquidación y comunicación de datos, así como establecer la forma, lugar y plazos de su presentación.
+
+Por todo lo expuesto, y haciendo uso de las autorizaciones referidas anteriormente, en su virtud dispongo:
+
+## Artículo 1. Aprobación del modelo 340.
+
+1\. Se aprueba el modelo 340 «Declaración informativa de operaciones incluidas en los libros registro y otras operaciones», que figura en el anexo I de la presente Orden.
+
+El modelo 340 se compone de los siguientes documentos:
+
+a) Hoja resumen, que comprende dos ejemplares, uno para la Administración y otro para el interesado.
+
+b) Sobre para la Administración.
+
+El número identificativo que habrá de figurar en el modelo 340 será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 340.
+
+El número identificativo que habrá de figurar en el modelo 340 en el caso de tratarse de una declaración sustitutiva o complementaria que incorpore registros no declarados previamente será un número secuencial cuyos tres primeros dígitos se correspondan con el código 340. La presentación de declaraciones complementarias que modifiquen el contenido de datos declarados en otra declaración presentada anteriormente que se refiera al mismo período, se realizará desde el servicio de consulta y modificación de declaraciones informativas en la Sede Electrónica de la Agencia Estatal de Administración Tributaria (https://www.agenciatributaria.gob.es). En este caso la declaración complementaria quedará identificada por el código electrónico de su presentación, no siendo necesario indicar ningún número identificativo.
+
+2\. Para efectuar la presentación telemática de la declaración correspondiente al modelo 340 o su presentación en soporte directamente legible por ordenador, el declarante o, en su caso, el presentador autorizado, deberá utilizar previamente un programa para obtener el fichero con la declaración. Este programa podrá ser el formulario desarrollado por la Agencia Estatal de Administración Tributaria para la declaración correspondiente al modelo 340 u otro que obtenga un fichero con el mismo formato. El contenido de dicho fichero se deberá ajustar a los diseños de registros de tipo 1 y de tipo 2 establecidos en la presente orden.
+
+> Se modifica el apartado 1 por el art. 2.1 de la Orden EHA/3378/2011, de 1 de diciembre. [Ref. BOE-A-2011-19397](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19397).
+
+## Artículo 2. Aprobación de los diseños físicos y lógicos a los que deben ajustarse los soportes directamente legibles por ordenador del modelo 340.
+
+Se aprueban los diseños físicos a los que deberán ajustarse los soportes directamente legibles por ordenador, así como los diseños lógicos a los que deberán ajustarse los ficheros que contengan la información a suministrar en el modelo 340 tanto en el supuesto de presentación del mismo mediante soporte directamente legible por ordenador como por vía telemática. Ambos diseños, físicos y lógicos, figuran en el anexo II de la presente orden.
+
+En todo caso, la información contenida en el soporte directamente legible por ordenador deberá haber sido validada con carácter previo a su presentación. Dicha validación se realizará utilizando el programa de validación elaborado por la Agencia Estatal de Administración Tributaria, salvo que, por razones técnicas objetivas, no resulte posible, en cuyo caso la validación deberá realizarse en cualquier Delegación de la mencionada Agencia o también en cualquiera de las Administraciones dependientes de la misma. En el supuesto de obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes o a alguna de las Unidades de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria a quienes, asimismo por razones técnicas objetivas, no resulte posible utilizar el programa de validación elaborado por la Agencia Estatal de Administración Tributaria, la mencionada validación podrá también realizarse en la Delegación Central o Unidad de Gestión de Grandes Empresas.
+
+## Artículo 3. Obligados a presentar el modelo 340.
+
+Deberán presentar el modelo 340 de Declaración informativa de operaciones incluidas en los libros registros, los sujetos pasivos del Impuesto sobre el Valor Añadido inscritos en el registro de devolución mensual regulado en el artículo 30 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, y los sujetos pasivos del Impuesto General Indirecto Canario inscritos en el registro de devolución mensual regulado en el artículo 8 del Decreto 182/1992, de 15 de diciembre, por el que se aprueban las normas de gestión, liquidación, recaudación e inspección del Impuesto.
+
+> Se modifica por el art. 3.1 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+## Artículo 4. Objeto y contenido de la información.
+
+1\. Las operaciones que deben ser objeto de declaración en el modelo 340, son las incluidas en los libros registro del Impuesto sobre el Valor Añadido a que se refiere el artículo 62.1 del Reglamento del Impuesto y las operaciones incluidas en los libros registro del Impuesto General indirecto Canario a que se refiere el artículo 30.1 del Decreto 182/1992, de 15 de diciembre, de la Comunidad Autónoma de Canarias, que se relacionan a continuación:
+
+Operaciones anotadas en el Libro registro de facturas expedidas durante el correspondiente período de declaración, de acuerdo con lo establecido en el artículo 63 del Reglamento del Impuesto sobre el Valor Añadido.
+
+Operaciones anotadas en el Libro registro de facturas recibidas durante el correspondiente período de declaración, de acuerdo con lo establecido en el artículo 64 del Reglamento del Impuesto sobre el Valor Añadido.
+
+Operaciones anotadas en el Libro registro de determinadas operaciones intracomunitarias durante el correspondiente período de declaración, de acuerdo con lo establecido en el artículo 66 del Reglamento del Impuesto sobre el Valor Añadido.
+
+Operaciones anotadas en el Libro registro de facturas expedidas durante el correspondiente período de declaración, de acuerdo con lo establecido en el artículo 31 del Decreto 182/1992, de 15 de diciembre, de la Comunidad Autónoma de Canarias.
+
+Operaciones anotadas en el Libro registro de facturas recibidas durante el correspondiente período de declaración, de acuerdo con lo establecido en el artículo 32 del Decreto 182/1992, de 15 de diciembre, de la Comunidad Autónoma de Canarias.
+
+2\. La declaración informativa con el contenido de los libros registro modelo 340 correspondiente al último período de liquidación del año incluirá, en su caso, además de las operaciones citadas en el apartado anterior, las operaciones anotadas en el Libro registro de bienes de inversión durante todo el ejercicio, de acuerdo con lo establecido en el artículo 65 del Reglamento del Impuesto sobre el Valor Añadido y en el artículo 33 del Decreto 182/1992, de 15 de diciembre, de la Comunidad Autónoma de Canarias.
+
+De igual modo, los sujetos pasivos que cesen en el desarrollo de su actividad empresarial o profesional deberán incluir, en su caso, en la declaración informativa, modelo 340, correspondiente al último período de liquidación en el que hayan desarrollado actividad las operaciones anotadas en el Libro registro de bienes de inversión junto con las operaciones citadas en el apartado 1 del presente artículo.
+
+## Artículo 5. Formas de presentación del modelo 340.
+
+La Declaración informativa de operaciones incluidas en los libros registro regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, se presentará con arreglo a los criterios que a continuación se especifican:
+
+1.º Las declaraciones que contengan menos de 5.000.000 registros, cualquiera que sea la persona o entidad obligada a su presentación, deberán presentarse por vía telemática a través de Internet con arreglo a las condiciones y procedimiento establecidos en los artículos 6 y 7 de la presente orden.
+
+2.º Las declaraciones que contengan a partir de 5.000.000 registros deberán presentarse en soporte directamente legible por ordenador, con arreglo a lo establecido en los artículos 8 y 9 de la presente orden.
+
+Los soportes directamente legibles por ordenador, que habrán de ser exclusivamente individuales, deberán cumplir las siguientes características:
+
+a) Tipo: DVD-R o DVD+R.
+
+b) Capacidad: Hasta 4,7 GB.
+
+c) Sistema de archivos UDF.
+
+d) De una cara y una capa simple.
+
+## Artículo 6. Condiciones generales para la presentación telemática por Internet de las declaraciones correspondientes al modelo 340.
+
+1\. La presentación de la declaración por vía telemática a través de Internet podrá ser efectuada bien por el propio declarante o bien por un tercero que actúe en su representación, de acuerdo con lo establecido en los artículos 79 a 81, ambos inclusive, del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, y en la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+2\. Condiciones para la presentación. La presentación telemática de las declaraciones correspondientes al modelo 340 estará sujeta a las siguientes condiciones:
+
+a) El declarante deberá disponer de número de identificación fiscal (NIF).
+
+b) El declarante deberá tener instalado en el navegador o programa un certificado electrónico X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por el que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+c) Si el presentador es una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, deberá tener instalado en el navegador o programa un certificado electrónico X.509.V3 expedido por la Fábrica Nacional de la Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido en las relaciones de la Agencia Estatal de Administración Tributaria por medios electrónicos, informáticos o telemáticos, en los términos previstos en la citada orden de 12 de mayo de 2003.
+
+3\. Para efectuar la presentación telemática de las declaraciones correspondientes al modelo 340, el declarante, o, en su caso, el presentador autorizado, deberá transmitir los ficheros ajustados a los diseños de registros tipo 1 y 2 establecidos en la presente orden.
+
+4\. Presentación de declaraciones con deficiencias de tipo formal, distintas de las previstas en el artículo 7.1.d) de la presente orden. En aquellos casos en que se detecten anomalías de tipo formal en la transmisión telemática de declaraciones, dicha circunstancia se pondrá en conocimiento del declarante por el propio sistema mediante los correspondientes mensajes de error, para que proceda a su subsanación.
+
+## Artículo 7. Procedimiento para la presentación telemática por Internet de las declaraciones correspondientes al modelo 340.
+
+1\. El procedimiento para la presentación telemática de las declaraciones correspondientes al modelo 340 será el siguiente:
+
+a) El declarante o presentador se conectará a la página de la Agencia Estatal de Administración Tributaria en Internet, dirección electrónica www.agenciatributaria.es y seleccionará, dentro de la Oficina Virtual, el concepto fiscal y el tipo de declaración a transmitir.
+
+b) A continuación, procederá a transmitir la correspondiente declaración con la firma electrónica generada al seleccionar el certificado de usuario X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria.
+
+Si el presentador es una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+c) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla los datos del registro tipo 1 validados con un código electrónico de 16 caracteres, además de la fecha y hora de presentación.
+
+En el supuesto de que la presentación fuese rechazada, se mostrarán en pantalla los datos del registro tipo 1, y la descripción de los errores detectados, debiendo procederse a la subsanación de los mismos.
+
+El presentador deberá conservar la declaración aceptada, así como el registro tipo 1 debidamente validado con el correspondiente código electrónico.
+
+d) Con posterioridad a la recepción del fichero transmitido y con el fin de que la información sea procesada e incorporada al sistema de información de la Agencia Estatal de Administración Tributaria correctamente, el Departamento de Informática Tributaria efectuará un proceso de validación de los datos suministrados telemáticamente, en el que se verificará que las características de la información se ajustan a las especificaciones establecidas de acuerdo con los diseños físicos y lógicos descritos en el anexo II de la presente Orden. Como consecuencia de este proceso, se ofrecerá al obligado tributario, en el servicio de consulta y modificación de declaraciones informativas en la Oficina Virtual de la Agencia Tributaria (www.agenciatributaria.es), la información individualizada de los errores detectados en las declaraciones para que pueda proceder a su corrección.
+
+En caso de que no se hayan subsanado los defectos observados, se podrá requerir al obligado para que en el plazo de 10 días, contados a partir del día siguiente al de la notificación del requerimiento, subsane los defectos de que adolezca. Transcurrido dicho plazo sin haber atendido el requerimiento, de persistir anomalías que impidan a la Administración tributaria el conocimiento de los datos, se le tendrá, en su caso, por no cumplida la obligación correspondiente y se procederá al archivo sin más trámite.
+
+2\. En aquellos supuestos en que por razones de carácter técnico no fuera posible efectuar la presentación telemática por Internet, en el plazo a que se refiere el artículo 10 de la presente orden, dicha presentación podrá efectuarse durante los tres días naturales siguientes al de finalización del mencionado plazo.
+
+## Artículo 8. Lugar y procedimiento de presentación del modelo 340 en soporte directamente legible por ordenador.
+
+1\. El soporte directamente legible por ordenador deberá presentarse en la Delegación o Administración de la Agencia Estatal de Administración Tributaria en cuyo ámbito territorial esté situado el domicilio fiscal del declarante, o bien en la Delegación Central de Grandes Contribuyentes o en la Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria, según proceda en función de la adscripción del obligado tributario a una u otra Delegación o Unidad.
+
+A tal efecto, el obligado tributario deberá presentar además los siguientes documentos:
+
+Los dos ejemplares, para la Administración y para el interesado, de la hoja-resumen del modelo 340, en cada uno de las cuales deberá adherirse, en el espacio correspondiente, la etiqueta identificativa que suministre la Agencia Estatal de Administración Tributaria. En el supuesto de no disponerse de dichas etiquetas, se cumplimentarán la totalidad de los datos de identificación solicitados y se acompañará fotocopia de la tarjeta acreditativa del número de identificación fiscal.
+
+No obstante lo anterior, no será preciso adjuntar fotocopia del documento acreditativo del número de identificación fiscal (NIF) cuando se trate de declaraciones correspondientes a personas físicas que se presenten personalmente en las oficinas de la Agencia Estatal de Administración Tributaria y se acredite su identidad.
+
+Asimismo, dichos ejemplares deberán estar debidamente firmados indicando en los espacios correspondientes la identidad del firmante así como los restantes datos que en la citada hoja-resumen se solicitan.
+
+Una vez sellados por la oficina receptora, el declarante retirará el «ejemplar para el interesado» de la hoja-resumen del modelo 340 presentado, que servirá como justificante de la entrega.
+
+2\. Todas las recepciones de soportes legibles por ordenador serán provisionales, a resultas de su proceso y comprobación. Cuando no se ajusten al diseño y demás especificaciones establecidas en la presente orden, o cuando no resulte posible el acceso a la información contenida en los mismos, se requerirá al declarante para que en el plazo de diez días hábiles subsane los defectos de que adolezca el soporte informático presentado, contados a partir del día siguiente al de la notificación del requerimiento. Transcurrido dicho plazo sin haber atendido el requerimiento, de persistir anomalías que impidan a la Administración tributaria el conocimiento de los datos, se le tendrá, en su caso, por desistido de su petición o por no cumplida la obligación correspondiente y se procederá al archivo sin más trámite, circunstancia que se pondrá en conocimiento del obligado tributario de forma motivada.
+
+3\. Posteriormente, y con el fin de que la información sea procesada e incorporada al sistema de información de la Agencia Estatal de Administración Tributaria correctamente, el Departamento de Informática Tributaria efectuará un proceso de validación de los datos suministrados, en el que se verificará que las características de la información se ajustan a las especificaciones establecidas de acuerdo con los diseños físicos y lógicos descritos en el anexo II de la presente Orden. Como consecuencia de este proceso, se ofrecerá al obligado tributario, en el servicio de consulta y modificación de declaraciones informativas en la Oficina Virtual de la Agencia Tributaria (www.agenciatributaria.es), la información individualizada de los errores detectados en las declaraciones para que pueda proceder a su corrección.
+
+En caso de que no se hayan subsanado los defectos observados, se requerirá al declarante para que en el plazo de 10 días, contados a partir del día siguiente al de la notificación del requerimiento, subsane los defectos de que adolezca. Transcurrido dicho plazo sin haber atendido el requerimiento, de persistir anomalías que impidan a la Administración tributaria el conocimiento de los datos, se le tendrá, en su caso, por no cumplida la obligación correspondiente y se procederá al archivo sin más trámite.
+
+4\. Por razones de seguridad, los soportes legibles directamente por ordenador, no se devolverán, salvo que se solicite expresamente, en cuyo caso se procederá al borrado y entrega de los mismos u otros similares.
+
+## Artículo 9. Identificación de los soportes directamente legibles por ordenador del modelo 340.
+
+El soporte directamente legible por ordenador deberá tener una etiqueta adherida en el exterior en la que se harán constar los datos que se especifican a continuación y, necesariamente, por el mismo orden:
+
+a) Delegación, Administración o Unidad de Gestión de Grandes Empresas de la Agencia Estatal de Administración Tributaria en la que se efectúe la presentación individual.
+
+b) Ejercicio.
+
+c) Período.
+
+d) Modelo de presentación: 340.
+
+e) Número identificativo de la hoja-resumen que se acompaña.
+
+f) Número de identificación fiscal (NIF) del declarante.
+
+g) Apellidos y nombre, o razón social, del declarante.
+
+h) Apellidos y nombre de la persona con quien relacionarse.
+
+i) Teléfono y extensión de dicha persona.
+
+j) Número total de las operaciones relacionadas en la declaración.
+
+k) Importe total de las operaciones relacionadas en la declaración.
+
+Para hacer constar los referidos datos, bastará consignar cada uno de ellos precedido de la letra que le corresponda según la relación anterior.
+
+En el supuesto de que el archivo conste de más de un soporte directamente legible por ordenador, todos llevarán su etiqueta numerada secuencialmente: 1/n, 2/n, etc., siendo «n» el número total de soportes. En la etiqueta del segundo y sucesivos volúmenes sólo será necesario consignar los datos indicados en las letras a), b), c), d), e) y f) anteriores.
+
+## Artículo 10. Plazo de presentación del modelo 340.
+
+La presentación de la declaración informativa con el contenido de los libros registro regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, se realizará en el plazo establecido para la presentación de la correspondiente autoliquidación del Impuesto sobre el Valor Añadido o del Impuesto General Indirecto Canario, por los artículos 71.3 y 71.4, del Reglamento del Impuesto sobre el Valor Añadido, y 39.3 del Decreto 182/1992, de 15 de diciembre, por el que se aprueban las normas de gestión, liquidación, recaudación e inspección del Impuesto General Indirecto Canario, respectivamente.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día 1 de enero de 2009, y será de aplicación, por primera vez, para la presentación de la declaración informativa correspondiente al primer período de declaración de 2009.
+
+Madrid, 29 de diciembre de 2008.–El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, Pedro Solbes Mira.
+
+## ANEXO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_004.png)
+
+## ANEXO II
+
+DISEÑOS FÍSICOS Y LÓGICOS A LOS QUE DEBEN AJUSTARSE LOS ARCHIVOS QUE SE GENEREN PARA LA PRESENTACIÓN TELEMÁTICA Y LOS SOPORTES DIRECTAMENTE LEGIBLES POR ORDENADOR DEL MODELO 340
+
+DISEÑOS LÓGICOS A LOS QUE DEBEN AJUSTARSE LOS ARCHIVOS QUE SE GENEREN PARA LA PRESENTACIÓN TELEMÁTICA DEL MODELO 340
+
+A) CARACTERÍSTICAS DE LOS SOPORTES DIRECTAMENTE LEGIBLES POR ORDENADOR.
+
+Los soportes directamente legibles por ordenador para la presentación de la declaración de los Libros Registro regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, habrán de cumplir las siguientes características:
+
+Los soportes directamente legibles por ordenador para la presentación de la información a que se refiere la presente norma habrán de ser:
+
+Tipo: DVD-R o DVD+R.
+
+Capacidad: Hasta 4,7 GB.
+
+Sistema de archivos UDF.
+
+De una cara y una capa simple.
+
+Si las características del equipo de que dispone el declarante no le permite ajustarse a las especificaciones técnicas exigidas, y pretende presentar declaración de los Libros Registro regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos en soporte directamente legible por ordenador, deberá dirigirse por escrito a la Subdirección General de Aplicaciones del Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria (A.E.A.T.), calle Santa María Magdalena, 16, 28016 Madrid, exponiendo sus propias características técnicas y el número de registros que presentaría, con objeto de encontrar, si lo hay, un sistema compatible con las características técnicas de la A.E.A.T.
+
+B) DISEÑOS LÓGICOS.
+
+Diseños lógicos para la presentación de la declaración de los Libros Registro regulada en el artículo 36 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
+
+DESCRIPCIÓN DE LOS REGISTROS
+
+Se incluirán dos tipos diferentes de registro, que se distinguen por la primera posición, con arreglo a los siguientes criterios:
+
+Tipo 1: Registro de la entidad declarante: Datos identificativos y resumen. Diseño de tipo de registro 1 de los recogidos más adelante en estos mismos apartados.
+
+Tipo 2: Registro de detalle. Diseño de tipo de registro 2 de los recogidos más adelante en estos mismos apartados.
+
+El orden de presentación será el del tipo de registro, existiendo un único registro del tipo 1 y tantos registros de detalle tipo 2 se declaren.
+
+Todos los campos alfanuméricos y alfabéticos se presentarán alineados a la izquierda y rellenos de blancos por la derecha, en mayúsculas sin caracteres especiales, y sin vocales acentuadas.
+
+Para los caracteres específicos del idioma se utilizará la codificación ISO-8859-1. De esta forma la letra «Ñ» tendrá el valor ASCII 209 (Hex. D1) y la «Ç» (cedilla mayúscula) el valor ASCII 199 (Hex. C7).
+
+Todos los campos numéricos se presentarán alineados a la derecha y rellenos a ceros por la izquierda sin signos y sin empaquetar.
+
+Todos los campos tendrán contenido, a no ser que se especifique lo contrario en la descripción del campo. Si no lo tuvieran, los campos numéricos se rellenarán a ceros y tanto los alfanuméricos como los alfabéticos a blancos.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_006.png)
+
+## MODELO 340 — TIPO DE REGISTRO 1: REGISTRO DE LA ENTIDAD DECLARANTE (POSICIONES, NATURALEZA Y DESCRIPCIÓN DE LOS CAMPOS)
+
+| POSICIONES | NATURALEZA | DESCRIPCIÓN DE LOS CAMPOS |
+|---|---|---|
+| 1 | Numérico. | TIPO DE REGISTRO. |
+|  |  | Constante número ‘1’. |
+| 2-4 | Numérico. | MODELO. |
+|  |  | Constante ‘340’. |
+| 5-8 | Numérico. | EJERCICIO. |
+|  |  | Las cuatro cifras del ejercicio fiscal al que corresponde la declaración. |
+| 9-17 | Alfanumérico. | N.I.F. DEL DECLARANTE. |
+|  |  | Se consignará el N.I.F. del declarante.<br>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones de la izquierda, de acuerdo con las reglas previstas en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos («BOE» de 5 de septiembre). |
+| 18-57 | Alfanumérico. | APELLIDOS Y NOMBRE O RAZÓN SOCIAL DEL DECLARANTE. |
+|  |  | Se consignará los apellidos y nombre o razón social del declarante que presenta los Libros Registro de facturas expedidas, recibidas, de bienes de inversión y de determinadas operaciones intracomunitarias. |
+|  |  | Si es una persona física, se consignará el primer apellido, un espacio, el segundo apellido, un espacio y el nombre completo necesariamente en este orden. |
+|  |  | Para personas jurídicas y entidades en régimen de atribución de Rentas, se consignará la razón social completa, sin anagrama. |
+|  |  | En ningún caso podrá figurar en este campo un nombre comercial. |
+| 58 | Alfabético. | TIPO DE SOPORTE. |
+|  |  | Se cumplimentará la siguiente clave: |
+|  |  | ‘C’: Si la información se presenta en DVD. |
+|  |  | ‘T’: Transmisión telemática. |
+| 59-107 | Alfanumérico. | PERSONA CON QUIÉN RELACIONARSE. |
+|  |  | Datos de la persona con quién relacionarse. Este campo se subdivide en dos: |
+|  |  | 59-67 NÚMERO TELÉFONO: Campo numérico de 9 posiciones, el cual se corresponde con el número de teléfono de la persona con quién relacionarse. |
+|  |  | 68-107 APELLIDOS Y NOMBRE: Se consignará el primer apellido, un espacio, el segundo apellido, un espacio, y el nombre completo, necesariamente en este orden. |
+| 108-120 | Numérico. | NÚMERO IDENTIFICATIVO DE LA DECLARACIÓN. |
+|  |  | Se consignará el número identificativo correspondiente a la declaración. Campo de contenido numérico de 13 posiciones.<br>Este campo deberá generarse ajustándose al siguiente formato: 340EEEEPPSSSS, donde: |
+|  |  | • EEEE: Ejercicio fiscal (Ej.: 2009). |
+|  |  | • PP: Se hará constar dos dígitos en función del período al que corresponda la declaración. Se consignará el que corresponda, según la siguiente relación de claves: |
+|  |  | «01»: ENERO. |
+|  |  | «02»: FEBRERO. |
+|  |  | «03»: MARZO y el primer trimestre. |
+|  |  | «04»: ABRIL. |
+|  |  | «05»: MAYO. |
+|  |  | «06»: JUNIO y el segundo trimestre. |
+|  |  | «07»: JULIO. |
+|  |  | «08»: AGOSTO. |
+|  |  | «09»: SEPTIEMBRE y el tercer trimestre. |
+|  |  | «10»: OCTUBRE. |
+|  |  | «11»: NOVIEMBRE. |
+|  |  | «12»: DICIEMBRE y el cuarto trimestre. |
+|  |  | • SSSS: Número secuencial consecutivo para cada presentación, comenzando por el 0001. |
+| 121-122 | Alfabético. | DECLARACIÓN COMPLEMENTARIA O SUSTITUTIVA. |
+|  |  | En el caso excepcional de segunda o posterior presentación de declaraciones deberá cumplimentarle obligatoriamente uno de los siguientes campos: |
+|  |  | 121 DECLARACIÓN COMPLEMENTARIA: Se consignará una «C» si la presentación de esta declaración tiene por objeto incluir percepciones que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidas en la misma. |
+|  |  | La presentación de una declaración complementaria que tenga por objeto la modificación del contenido de datos declarados en otra declaración del mismo ejercicio presentada anteriormente se realizará desde el servicio de consulta y modificación de declaraciones informativas en la Oficina Virtual de la Agencia Tributaria (www.agenciatributaria.es). |
+|  |  | 122 DECLARACIÓN SUSTITUTIVA: Se consignará una «S» si la presentación tiene como objeto anular y sustituir completamente a otra declaración anterior, del mismo ejercicio. Una declaración sustitutiva solo puede anular a una única declaración anterior. |
+| 123-135 | Numérico. | NÚMERO IDENTIFICATIVO DE LA DECLARACIÓN ANTERIOR. |
+|  |  | En el caso de que se haya consignado una «C» en el campo «Declaración complementaria» o que se haya consignado «S» en el campo «Declaración sustitutiva», se consignará el número identificativo correspondiente a la declaración a la que sustituye o complementa. |
+|  |  | En cualquier otro caso deberá rellenarse a CEROS. |
+| 136-137 | Numérico. | PERIODO. |
+|  |  | Numérico de dos posiciones.<br>Se hará constar el periodo al que corresponda la declaración.<br>Se consignará el que corresponda según la siguiente relación de claves: |
+|  |  | «01»: ENERO. |
+|  |  | «02»: FEBRERO. |
+|  |  | «03»: MARZO. |
+|  |  | «04»: ABRIL. |
+|  |  | «05»: MAYO. |
+|  |  | «06»: JUNIO. |
+|  |  | «07»: JULIO. |
+|  |  | «08»: AGOSTO. |
+|  |  | «09»: SEPTIEMBRE. |
+|  |  | «10»: OCTUBRE. |
+|  |  | «11»: NOVIEMBRE. |
+|  |  | «12»: DICIEMBRE. |
+| 138-146 | Numérico. | NÚMERO TOTAL DE REGISTROS. |
+|  |  | Se consignará el número total de registros de detalle del tipo 2 incluidos por la de la entidad declarante que presenta los Libros Registro de facturas expedidas, recibidas, de bienes de inversión y de determinadas operaciones intracomunitarias. |
+| 147-164 | Alfanumérico. | IMPORTE TOTAL DE LA BASE IMPONIBLE. |
+|  |  | Este campo se subdivide en: |
+|  |  | 147 SIGNO: Alfabético.<br>Se cumplimentará cuando el resultado de la suma para obtener el Importe de la Base Imponible (posiciones 148 a 164 de este registro tipo 1) sea menor de 0 (cero). En este caso se consignará una «N». En cualquier otro caso el contenido de este campo será un espacio. |
+|  |  | 148-164 IMPORTE: Campo numérico de 17 posiciones.<br>Se consignará la suma de las cantidades (sin coma decimal ni puntuación de miles) reflejadas en los campos BASE IMPONIBLE (posiciones 122-135 correspondientes al registro de tipo 2). En el supuesto de que en los registros de declarados se hubiera consignado «N» en el campo SIGNO DE LA BASE IMPONIBLE (posición 122 del registro de tipo 2), dichas cantidades se computarán con signo menos al totalizar los importes que deben reflejarse en esta suma.<br>Este campo se subdivide en dos: |
+|  |  | 148-162 Parte entera del IMPORTE TOTAL DE LAS BASES IMPONIBLES DEL IVA Y DEL IGIC. |
+|  |  | 163-164 Parte decimal del IMPORTE TOTAL DE LAS BASES IMPONIBLES IVA Y DEL IGIC. |
+| 165-182 | Alfanumérico. | IMPORTE TOTAL DE LA CUOTA DEL IMPUESTO. |
+|  |  | Este campo se subdivide en: |
+|  |  | 165 SIGNO: Alfabético. |
+|  |  | Se cumplimentará cuando el resultado de la suma para obtener el importe TOTAL DE LA CUOTA (posiciones 166 a 182 de este registro tipo 1) sea menor de 0 (cero). En este caso se consignará una «N»; en cualquier otro caso el contenido de este campo será un espacio. |
+|  |  | 166-182 IMPORTE. Campo numérico de 17 posiciones. |
+|  |  | Se consignará la suma de las cantidades (sin coma decimal ni puntuación de miles) reflejadas en los campos CUOTA DEL IMPUESTO (posiciones 136 a 149 correspondientes al registro de tipo 2). En el supuesto de que en los registros de declarados se hubiera consignado «N» en el campo SIGNO DE LA CUOTA DEL IMPUESTO (posición 136 del registro de tipo 2), dichas cantidades se computarán con signo menos al totalizar los importes que deben reflejarse en esta suma.<br>Este campo se subdivide en dos: |
+|  |  | 166-180 Parte entera del IMPORTE TOTAL DE LAS CUOTAS DEL IVA Y DEL IGIC.<br>181-182 Parte decimal del IMPORTE TOTAL DE LAS CUOTAS DEL IVA Y DEL IGIC. |
+| 183-200 | Alfanumérico. | IMPORTE TOTAL DE LAS FACTURAS. |
+|  |  | Este campo se subdivide en: |
+|  |  | 183 SIGNO: Alfabético. |
+|  |  | Se cumplimentará cuando el resultado de la suma para obtener el IMPORTE TOTAL DE LAS FACTURAS (posiciones 184 a 200 de este registro tipo 1) sea menor de 0 (cero). En este caso se consignará una «N»; en cualquier otro caso el contenido de este campo será un espacio. |
+|  |  | 184-200 IMPORTE: Campo numérico de 17 posiciones.<br>Se consignará la suma de las cantidades (sin coma decimal ni puntuación de miles) reflejadas en los campos IMPORTE TOTAL DE LA FACTURA (posiciones 150 a 163 correspondientes al registro de tipo 2). En el supuesto de que en los registros de declarados se hubiera consignado «N» en el campo SIGNO DEL IMPORTE TOTAL DE LA FACTURA (posición 150 del registro de tipo 2), dichas cantidades se computarán con signo menos al totalizar los importes que deben reflejarse en esta suma. |
+|  |  | Este campo se subdivide en dos: |
+|  |  | 184-198 Parte entera del IMPORTE TOTAL DE LAS FACTURAS. |
+|  |  | 199-200 Parte decimal del IMPORTE TOTAL DE LAS FACTURAS. |
+| 201-390 | – | BLANCOS. |
+| 391-399 | Alfanumérico. | N.I.F. DEL REPRESENTANTE LEGAL DEL DECLARANTE. |
+|  |  | Para los declarantes menores de 14 años, la identificación de los mismos en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal. |
+|  |  | Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda. |
+|  |  | En cualquier otro caso el contenido de este campo se rellenará a espacios. |
+| 400-415 | Alfanumérico. | CÓDICO ELECTRÓNICO AUTOLIQUIDACIÓN IVA. |
+|  |  | Campo reservado para el Código electrónico formado por 16 caracteres alfanuméricos generado por la AEAT en función de los datos incluidos por el declarante en su autoliquidación por vía telemática y que da validez a la autenticidad de la presentación para la declaración del IVA a la que corresponden estos datos de los Libros de Registro de IVA. |
+|  |  | El código electrónico se define en la Orden de 20 de enero de 1999 («BOE» de 22 de enero). |
+| 416-500 |  | BLANCO. |
+
+\* Todos los importes serán positivos.
+
+\* Los campos numéricos que no tengan contenido se rellenarán a ceros.
+
+\* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.
+
+\* Todos los campos numéricos ajustados a la derecha y rellenos de ceros por la izquierda.
+
+\* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_009.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_011.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_012.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_013.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2008/314/20954_014.png)
+
+**MODELO 340**
+
+TIPO DE REGISTRO 2: REGISTRO DE DETALLE (POSICIONES, NATURALEZA Y DESCRIPCIÓN DE LOS CAMPOS)
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>POSICIÓN</p>
+</td>
+<td>
+<p>NATURALEZA</p>
+</td>
+<td colspan="3">
+<p>DESCRIPCIÓN DE LOS CAMPOS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>TIPO DE REGISTRO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Constante ‘2’.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2-4</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>MODELO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Constante ‘340’.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5-8</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>EJERCICIO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9-17</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>N.I.F. DE LA ENTIDAD DECLARANTE.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Consignar lo contenido en estas mismas posiciones del registro de tipo 1.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18-26</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>N.I.F. DEL DECLARADO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Si el destinatario, remitente u obligado a la expedición, en adelante el declarado, dispone de N.I.F. asignado en España, se consignará:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Si es una persona física se consignará el N.I.F. del declarado de acuerdo con las reglas previstas en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento general de actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos («BOE» de 5 de septiembre).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Si el declarado es una persona jurídica o una entidad en régimen de atribución de rentas (comunidad de bienes, sociedad civil, herencia yacente, etc.), se consignará el número de identificación fiscal correspondiente a la misma.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Para la identificación de los menores de 14 años en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Este campo es incompatible (excluyente) con el campo número de identificación fiscal del declarado asignado en el país o territorio de residencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Sólo se cumplimentará con los N.I.F. asignados en España.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>27-35</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>N.I.F. DEL REPRESENTANTE LEGAL.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Para la identificación de los menores de 14 años en sus relaciones de naturaleza o con trascendencia tributaria habrán de figurar tanto los datos de la persona menor de 14 años, incluido su número de identificación fiscal, como los de su representante legal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Este campo deberá estar ajustado a la derecha, siendo la última posición el carácter de control y rellenando con ceros las posiciones a la izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>En cualquier otro caso el contenido de este campo se rellenará a espacios.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36-75</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>APELLIDOS Y NOMBRE, RAZÓN SOCIAL O DENOMINACIÓN DEL DECLARADO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>a) Para personas físicas se consignará el primer apellido, un espacio, el segundo apellido, un espacio, y el nombre completo, necesariamente en este mismo orden. Si el declarado es menor de edad, se consignarán en este campo los apellidos y nombre del menor de edad.</p>
+<p>En el caso de personas físicas que tengan un solo apellido, se consignará el apellido, un espacio y el nombre, en este orden.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>b) Tratándose de personas jurídicas y entidades en régimen de atribución de rentas, se consignará la razón social o denominación completa de la entidad, sin anagramas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>76-77</p>
+</td>
+<td>
+<p>Alfabético.</p>
+</td>
+<td colspan="3">
+<p>CÓDIGO PAÍS.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará el código del país o territorio al que corresponde la dirección del declarado, de acuerdo con las claves de países que figuran en la Orden EHA/3202/2008, de 31 de octubre, en su anexo IV («BOE» de 10/11/2008).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>78</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>CLAVE NÚMERO DE IDENTIFICACIÓN EN EL PAÍS DE RESIDENCIA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Identifica el contenido del campo «número de identificación fiscal del cliente o proveedor asignado en el país o territorio de residencia». Puede tomar los valores siguientes:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>1. Corresponde a un NIF.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>2. Se consigna el NIF/IVA (NIF OPERADOR INTRACOMUNITARIO).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>3. Pasaporte.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>4. Documento oficial de identificación expedido por el país o territorio de residencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>5. Certificado de residencia fiscal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>6. Otro documento probatorio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>79-98</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>NÚMERO DE IDENTIFICACIÓN FISCAL EN EL PAÍS DE RESIDENCIA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará el número de identificación fiscal del cliente o proveedor asignado en el país o territorio de residencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Este campo es incompatible (excluyente) con el campo NIF del declarado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>En los supuestos de adquisición intracomunitaria de bienes, se consignará el NIF/IVA (NIF OPERADOR INTRACOMUNITARIO). Se compone de los subcampos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>70-80 Código país: Alfabético de 2 posiciones.</p>
+<p>Se compone de las dos primeras letras identificativas del Estado miembro de la UE.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>81-95 Número: Alfanumérico de 15 posiciones.</p>
+<p>Campo alfanumérico, que se ajustará a la izquierda y se rellenará con blancos a la derecha en los casos en que dicho número tenga menos de 15 posiciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>96-98 Blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Composición del N.I.F. comunitario de los distintos Estados miembros:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>País</p>
+</td>
+<td>
+<p>Cód. país</p>
+</td>
+<td>
+<p>Número.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Alemania.</p>
+</td>
+<td>
+<p>DE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Austria.</p>
+</td>
+<td>
+<p>AT</p>
+</td>
+<td>
+<p>9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Bélgica.</p>
+</td>
+<td>
+<p>BE</p>
+</td>
+<td>
+<p>9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Bulgaria.</p>
+</td>
+<td>
+<p>BG</p>
+</td>
+<td>
+<p>9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>Croacia</p>
+</td>
+<td>
+<p>HR</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Chipre.</p>
+</td>
+<td>
+<p>CY</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Chequia.</p>
+</td>
+<td>
+<p>CZ</p>
+</td>
+<td>
+<p>8, 9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Dinamarca.</p>
+</td>
+<td>
+<p>DK</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Estonia.</p>
+</td>
+<td>
+<p>EE</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Finlandia.</p>
+</td>
+<td>
+<p>FI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Francia</p>
+</td>
+<td>
+<p>FR</p>
+</td>
+<td>
+<p>11 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Grecia.</p>
+</td>
+<td>
+<p>EL</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Gran Bretaña.</p>
+</td>
+<td>
+<p>GB</p>
+</td>
+<td>
+<p>5, 9 o 12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Holanda.</p>
+</td>
+<td>
+<p>NL</p>
+</td>
+<td>
+<p>12 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Hungría.</p>
+</td>
+<td>
+<p>HU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Italia.</p>
+</td>
+<td>
+<p>IT</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Irlanda.</p>
+</td>
+<td>
+<p>IE</p>
+</td>
+<td>
+<p>8 ó 9 caracteres alfanuméricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Lituania.</p>
+</td>
+<td>
+<p>LT</p>
+</td>
+<td>
+<p>9 o 12 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Luxemburgo.</p>
+</td>
+<td>
+<p>LU</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Letonia.</p>
+</td>
+<td>
+<p>LV</p>
+</td>
+<td>
+<p>11 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Malta.</p>
+</td>
+<td>
+<p>MT</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Polonia.</p>
+</td>
+<td>
+<p>PL</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Portugal.</p>
+</td>
+<td>
+<p>PT</p>
+</td>
+<td>
+<p>9 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Rumanía.</p>
+</td>
+<td>
+<p>RO</p>
+</td>
+<td>
+<p>2, 3, 4, 5, 6, 7, 8, 9 o 10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Suecia.</p>
+</td>
+<td>
+<p>SE</p>
+</td>
+<td>
+<p>12 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Eslovenia.</p>
+</td>
+<td>
+<p>SI</p>
+</td>
+<td>
+<p>8 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Eslovaquia.</p>
+</td>
+<td>
+<p>SK</p>
+</td>
+<td>
+<p>10 caracteres numéricos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>99</p>
+</td>
+<td>
+<p>Alfabético.</p>
+</td>
+<td colspan="3">
+<p>CLAVE TIPO DE LIBRO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>E Libro registro de facturas expedidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>I Libro registro de bienes de invención.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>R Libro registro de facturas recibidas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>U Libro registro de determinadas operaciones intracomunitarias.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>F Libro registro de facturas expedidas IGIC.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>J. Libro de registro de bienes de inversión IGIC.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>S. Libro de registro de facturas recibidas IGIC.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>100</p>
+</td>
+<td>
+<p>Alfanumérico</p>
+</td>
+<td colspan="3">
+<p>CLAVE DE OPERACIÓN.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>La clave que corresponda:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>A Asiento resumen de facturas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>B Asiento resumen de tique.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>C Factura con varios asientos (varios tipos impositivos).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>D Factura rectificativa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>F Adquisiciones realizadas por las agencias de viajes directamente en interés del viajero (Régimen especial de agencias de viajes).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>G Régimen especial de grupo de entidades en IVA o IGIC (incorpora la contraprestación real a coste).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>H Régimen especial de oro de inversión.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>I Inversión del sujeto pasivo (ISP).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>J  Tiques.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>K Rectificación de errores registrales.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>L  Adquisiciones a comerciantes minoristas del IGIC.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Ninguna de las anteriores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Si este campo viene a blanco se considerará que corresponde con «Ninguna de las anteriores».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>La anotación individualizada de las facturas o documentos sustitutivos se podrá sustituir por la de asientos resúmenes en los que se harán constar la fecha o periodo en que se hayan expedido, base imponible global, el tipo impositivo, la cuota global de facturas o documentos sustitutivos numerados correlativamente y expedidos en la misma fecha, y los números inicial y final de los documentos anotados, siempre que se cumplan simultáneamente los requisitos establecidos en el apartado 4 del artículo 63 Reglamento del IVA o en el artículo 31.4 del Decreto 182/1992 del IGIC.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Podrá hacerse un asiento resumen global de las facturas recibidas en una misma fecha, en el que se harán constar los números inicial y final de las facturas recibidas asignados por el destinatario, siempre que procedan de un único proveedor, la suma global de la base imponible y la cuota impositiva global, siempre que el importe total conjunto de las operaciones, Impuesto sobre el Valor Añadido o Impuesto General Indirecto Canario no incluido, no exceda de 6.000 euros, y que el importe de las operaciones documentadas en cada una de ellas no supere 500 euros, Impuesto sobre el Valor Añadido no incluido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Igualmente será válida la anotación de una misma factura en varios asientos correlativos cuando incluya operaciones que tributen a distintos tipos impositivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Con carácter voluntario, se podrán consignar, asimismo, las claves siguientes:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>E IVA/IGIC devengado pendiente de emitir factura.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>M IVA/IGIC facturado pendiente de devengar (emitida factura).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>N Facturación de las prestaciones de servicios de agencias de viaje que actúan como mediadoras en nombre y por cuenta ajena (disposición adicional 4.ª RD 1496/2003). Deberá consignarse de forma obligatoria cuando se realicen operaciones que se correspondan con la misma.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>O Factura emitida en sustitución de tiques facturados y declarados.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>P Adquisiciones intracomunitarias de bienes.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Q Operaciones a las que se aplique el Régimen especial de bienes usados, objetos de arte, antigüedades y objetos de colección según los artículos del 135 al 139 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>R–Operación de arrendamiento de local de negocio.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>S–Subvenciones, auxilios o ayudas satisfechas o recibidas, tanto por parte de Administraciones públicas como de entidades privadas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>T–Cobros por cuenta de terceros de honorarios profesionales o de derechos derivados de la propiedad intelectual, industrial, de autor u otros por cuenta de sus socios, asociados o colegiados efectuados por sociedades, asociaciones, colegios profesionales u otras entidades que, entre sus funciones, realicen las de cobro.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>U–Operación de seguros.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>V–Compras de agencias viajes: operaciones de prestación de servicios de mediación en nombre y por cuenta ajena relativos a los servicios de transporte de viajeros y de sus equipajes que las agencias de viajes presten al destinatario de dichos servicios de transporte, de acuerdo con lo dispuesto en el apartado 3 de la disposición adicional cuarta del Reglamento por el que se regulan las obligaciones de facturación.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>W–Operaciones sujetas al Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>X–Operaciones por las que los empresarios o profesionales que satisfagan compensaciones agrícolas, ganaderas y/o pesqueras hayan expedido el recibo correspondiente.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Z: Régimen especial del criterio de caja.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Claves numéricas de carácter voluntario:</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>1: IVA criterio de caja. Asiento resumen de facturas.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>2: IVA criterio de caja. Factura con varios asientos (varios tipos impositivos).</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>3: IVA criterio de caja. Factura rectificativa.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>4: IVA criterio de caja. Adquisiciones realizadas por las agencias de viajes directamente en interés del viajero (Régimen especial de agencia de viajes).</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>5: IVA criterio de caja. Factura simplificada.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>6: IVA criterio de caja. Rectificación de errores registrales.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>7: IVA criterio de caja. Facturación de las prestaciones de servicios de agencias de viaje que actúan como mediadoras en nombre y por cuenta ajena. (Disposición adicional 4.ª RD 1496/2003).</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>8: IVA criterio de caja. Operación de arrendamiento de local de negocio.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>101-108</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>FECHA DE LA EXPEDICIÓN.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará la fecha de la expedición de la factura, indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31) con el formato AAAAMMDD.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>109-116</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>FECHA DE LA OPERACIÓN.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>En función del tipo de libro registro se consignará la fecha de la realización de la operación (facturas expedidas y facturas recibidas), la de comienzo de uso del bien (bienes de inversión), indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31) con el formato AAAAMMDD.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>117-121</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>TIPO IMPOSITIVO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará el tipo de gravamen aplicable.</p>
+<p>Este campo se subdivide en otros dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>117-119 ENTERO Numérico. Parte entera: Se consignará la parte entera del tipo de gravamen (si no tiene, consignar CEROS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>120-121 DECIMAL Numérico. Parte decimal: Se consignará la parte decimal del tipo de gravamen (si no tiene, consignar CEROS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>122-135</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>BASE IMPONIBLE.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará la Base Imponible del Impuesto en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimo. En las de operaciones de la clave A o B (asiento resumen) se consignará la Base Imponible Global. Asimismo, en los supuestos de operaciones de Rectificación (facturas rectificativas), se consignará el signo que corresponda en función de la corrección a efectuar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>122 SIGNO: Alfabético.</p>
+<p>Si el importe descrito anteriormente es negativo, se consignará una «N». En cualquier otro caso se rellenará a blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>123-135 IMPORTE: Campo numérico de 13 posiciones.</p>
+<p>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.</p>
+<p>Este campo se subdivide en dos:</p>
+<p>123-133 Parte entera de la Base Imponible del Impuesto.</p>
+<p>134-135 Parte decimal de la Base Imponible del Impuesto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>136-149</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>CUOTA DEL IMPUESTO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará la Cuota del Impuesto repercutida o soportada en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimos. En las de operaciones de la clave A o B (asiento resumen) se consignará la Cuota Global. Asimismo, en los supuestos de operaciones de rectificación (facturas rectificativas), se consignará el signo que corresponda en función de la corrección a efectuar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>136 SIGNO: Alfabético.</p>
+<p>Si el importe descrito anteriormente es negativo, se consignará una N. En cualquier otro caso se rellenará a blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>137-149 IMPORTE: Campo numérico de 13 posiciones.</p>
+<p>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>137-147 Parte entera de la cuota del Impuesto.</p>
+<p>148-149 Parte decimal de la Cuota del Impuesto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>150-163</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>IMPORTE TOTAL DE LA FACTURA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará el importe total de la factura, resultado de la suma de Base imponible y de la Cuota del Impuesto en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimo. En las de operaciones de la clave A o B (asiento resumen) se consignara Importe Global de la facturación. Asimismo, en los supuestos de operaciones de rectificación(facturas rectificativas, devolución de mercancías y rapels), se consignará el signo que corresponda en función de la corrección a efectuar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>150 SIGNO: Alfabético.</p>
+<p>Si el importe descrito anteriormente es negativo, se consignará una «N». En cualquier otro caso se rellenará a blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>151-163 IMPORTE: Campo numérico de 13 posiciones.</p>
+<p>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>151-161 Parte entera del importe total de la factura.</p>
+<p>162-163 Parte decimal del importe total de la factura.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>164-177</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>BASE IMPONIBLE A COSTE.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>El importe a consignar estará constituido por el coste de los bienes y servicios utilizados directa o indirectamente, total o parcialmente, en su realización y por los cuales se haya soportado o satisfecho efectivamente el Impuesto en los supuestos de clave de operación G «Régimen especial de grupo de entidades en IVA o IGIC», posición 100, en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992 de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimos, En las de operaciones de la clave A o B (asiento resumen) se consignará la Base Imponible Global. Asimismo, en los supuestos de operaciones de rectificación (facturas rectificativas), se consignará el signo que corresponda en función de la corrección a efectuar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>164 SIGNO: Alfabético.</p>
+<p>Si el importe descrito anteriormente es negativo, se consignará una «N». En cualquier otro caso se rellenará a blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>165-167 IMPORTE: Campo numérico de 13 posiciones.</p>
+<p>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>165-175 Parte entera de la Base Imponible a Coste.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>176-177 Parte decimal de la Base Imponible a Coste.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>178-217</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>IDENTIFICACIÓN DE LA FACTURA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará la identificación de las facturas o documentos sustitutivos expedidos, incluyendo la serie en su caso.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>218-235</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>NÚMERO DE REGISTRO.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará el número correlativo que corresponda al asiento en el correspondiente libro registro de IVA o IGIC.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+LIBRO REGISTRO DE FACTURAS EXPEDIDAS
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>POSICIÓN</p>
+</td>
+<td>
+<p>NATURALEZA</p>
+</td>
+<td colspan="3">
+<p>DESCRIPCIÓN DE LOS CAMPOS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>236-243</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>NÚMERO DE FACTURAS.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Número de facturas o tiques acumulados que corresponden al registro. La acumulación se realizará por cada intervalo continuo de emisión de los mismos (correlativos), y en los supuestos de operaciones distintas a las de la clave A o B (asiento resumen), se consignará uno.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>244-245</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>NÚMERO DE REGISTROS (DESGLOSE).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>En los supuestos de la clave de operación C «Factura con varios asientos (varios tipos impositivos)», se consignará el número de registros en los cuales se declara. En los supuestos de operaciones distintas a la clave C (Factura con varios asientos, distintos tipos impositivos) se consignará uno.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>246-325</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>INTERVALO DE IDENTIFICACIÓN DE LA ACUMULACIÓN.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará para los supuestos de acumulación de facturas o tiques en un solo registro, y dado que dicha numeración ha de ser correlativa (intervalo continuo de emisión), se anotará el número primero y último de dicha relación correlativa.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>246-285 PRIMER NÚMERO: Se consignará el primer número de la correlación del día objeto de declaración (si no tiene, consignar BLANCOS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>286-325 ÚLTIMO NÚMERO: Se consignará el último número de la correlación del día objeto de declaración (si no tiene, consignar BLANCOS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>326-365</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>IDENTIFICACIÓN DE LA FACTURA RECTIFICADA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignarán la identificación de la factura o documentos sustituidos como consecuencia de la rectificación.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>366-370</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>TIPO EL RECARGO DE EQUIVALENCIA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará el tipo de recargo de equivalencia aplicable.</p>
+<p>Este campo se subdivide en otros dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>366-368 ENTERO Numérico. Parte entera: Se consignará la parte entera del tipo de recargo de equivalencia (si no tiene, consignar CEROS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>369-370 DECIMAL Numérico. Parte decimal: Se consignará la parte decimal del tipo de recargo de equivalencia (si no tiene, consignar CEROS).</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>371-384</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>CUOTA DEL RECARGO DE EQUIVALENCIA.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>Se consignará la Cuota del recargo de equivalencia en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimo. Asimismo, en los supuestos de operaciones de rectificación (facturas rectificativas), se consignará el signo que corresponda en función de la corrección a efectuar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>371 SIGNO: Alfabético.</p>
+<p>Si el importe descrito anteriormente es negativo, se consignará una N. En cualquier otro caso se rellenará a blancos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>372-384 IMPORTE: Campo numérico de 13 posiciones.</p>
+<p>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>372-382 Parte entera de la Cuota del recargo de equivalencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>383-384 Parte decimal de la Cuota del recargo de equivalencia.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>385</p>
+</td>
+<td>
+<p>Numérico</p>
+</td>
+<td colspan="3">
+<p>Situación del inmueble.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Cuando se consigne la clave de operación ''R'' se consignará de entre las siguientes claves la que corresponda a la situación del local de negocio arrendado:</p>
+<p>1. Inmueble con referencia catastral situado en cualquier punto del territorio español, excepto País Vasco y Navarra.</p>
+<p>2. Inmueble situado en la Comunidad Autónoma del País Vasco o en la Comunidad Foral de Navarra.</p>
+<p>3. Inmueble en cualquiera de las situaciones anteriores pero sin referencia catastral.</p>
+<p>4. Inmueble situado en el extranjero.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>386-410</p>
+</td>
+<td>
+<p>Alfanumérico</p>
+</td>
+<td colspan="3">
+<p>Referencia catastral.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Cuando se consigne la clave ''R'' se consignará la referencia catastral correspondiente al local de negocio arrendado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>411-425</p>
+</td>
+<td>
+<p>Numérico</p>
+</td>
+<td colspan="3">
+<p>Importe percibido en metálico.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Se consignarán sin signo y sin coma decimal los importes superiores a 6.000 euros que se hubieran percibido en metálico (moneda o billetes de curso legal) de la misma persona o entidad por las operaciones realizadas durante el año natural.</p>
+<p>Estos importes se reflejarán en las declaraciones mensuales a partir de las cuales se haya superado el citado límite.</p>
+<p>Cuando las cantidades percibidas en metálico previstas no puedan incluirse en las declaraciones mensuales del año natural en el que se realizan las operaciones por percibirse con posterioridad a su presentación o por no haber alcanzado en ese momento un importe superior a 6.000 euros, los obligados tributarios deberán incluirlas separadamente en la declaración correspondiente al período del año natural posterior en el que se hubiese efectuado el cobro o se hubiese alcanzado el importe señalado anteriormente.</p>
+<p>Los importes deben consignarse en euros.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>411-423 Parte entera del importe percibido en metálico, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>424-425 Parte decimal del importe percibido en metálico, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>426-429</p>
+</td>
+<td>
+<p>Numérico</p>
+</td>
+<td colspan="3">
+<p>Ejercicio.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Se consignarán las cuatro cifras del ejercicio en el que se hubieran declarado las operaciones que dan origen al cobro en metálico por importe superior a 6.000 euros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>430-444</p>
+</td>
+<td>
+<p>Numérico</p>
+</td>
+<td colspan="3">
+<p>Importe percibido por transmisiones de inmuebles sujetas a IVA.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Se consignará, sin signo y sin coma decimal, separadamente de otras operaciones, las cantidades que se perciban en contraprestación por transmisiones de inmuebles, efectuadas o que se deban efectuar, que constituyan entregas sujetas en el Impuesto sobre el Valor añadido (IVA incluido). Los importes deben consignarse en euros.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>430-442 Parte entera del importe percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>443-444 Parte decimal del importe percibido por transmisiones de inmuebles sujetas a IVA, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>445-452</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>FECHA DE COBRO.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar la fecha en la que se hubiera producido el devengo conforme al criterio de devengo del Régimen especial del criterio de caja.</p>
+<p>Este campo se subdivide en otros tres:</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>445-448	Numérico	AÑO</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>449-450	Numérico	MES</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>451-452	Numérico	DÍA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>453-465</p>
+</td>
+<td>
+<p>Numérico.</p>
+</td>
+<td colspan="3">
+<p>IMPORTES COBRADOS.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Se consignarán sin coma decimal los importes devengados correspondientes a facturas expedidas cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2.</p>
+<p>Los importes deben consignarse en euros.</p>
+<p>Este campo se subdivide en dos:</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>453-463 Numérico. Parte entera del importe cobrado, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>464-465 Numérico. Parte decimal del importe cobrado, si no tiene contenido se consignará a ceros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>466</p>
+</td>
+<td>
+<p>Alfabético.</p>
+</td>
+<td colspan="3">
+<p>MEDIO DE COBRO UTILIZADO.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo una de las siguientes claves identificativas del medio de cobro utilizado:</p>
+<p>"Cˮ – Cuenta bancaria.</p>
+<p>"Tˮ – Cheque.</p>
+<p>"Oˮ – Otros medios de cobro.</p>
+<p>Este campo no se cumplimentará cuando no se hubiera producido ningún cobro.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>467-500</p>
+</td>
+<td>
+<p>Alfanumérico.</p>
+</td>
+<td colspan="3">
+<p>CUENTA BANCARIA O MEDIO DE COBRO UTILIZADO.</p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td colspan="3">
+<p>Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo el medio de cobro parcial o total de la operación, ya bien sea el número de cuenta bancaria o el número de cheque a través del cual se hubiera realizado el cobro si se consignó la clave "Cˮ o la clave "Tˮ respectivamente en el campo "MEDIO DE COBRO UTILIZADOˮ (posición 466). Del mismo modo se cumplimentará la descripción o identificación de cualquier otro medio utilizado que pueda acreditar el cobro si se consignó la clave "Oˮ del campo anterior.</p>
+<p>Este campo no se cumplimentará cuando no se hubiera producido ningún cobro.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+LIBRO REGISTRO DE FACTURAS RECIBIDAS
+
+| POSICIÓN | NATURALEZA | DESCRIPCIÓN DE LOS CAMPOS |
+|---|---|---|
+| 236-253 | Numérico. | NÚMERO DE FACTURAS. |
+|  |  | Número de facturas o tiques acumulados que corresponden al registro. La acumulación se realizará por cada intervalo continuo de emisión de los mismos (correlativos), y en los supuestos de operaciones distintas a las de la clave A o B (asiento resumen), se consignará uno. |
+| 254-255 | Numérico. | NÚMERO DE REGISTROS (DESGLOSE). |
+|  |  | En los supuestos de la clave de operación C «con varios asientos (varios tipos impositivos)», se consignará el número de registros en los cuales se declara. En los supuestos de operaciones distintas a la clave C (Factura con varios asientos, distintos tipos impositivos) se consignará uno. |
+| 256-335 | Alfanumérico. | INTERVALO DE IDENTIFICACIÓN DE LA ACUMULACIÓN. |
+|  |  | Se consignará para los supuestos de acumulación de facturas o tiques en un solo registro, y dado que dicha numeración ha de ser correlativa (intervalo continuo de emisión), se anotará el número primero y ultimo de dicha relación correlativa.<br>Este campo se subdivide en otros dos: |
+|  |  | 256-295 PRIMER NÚMERO: Se consignará el primer número de la correlación del día objeto de declaración (si no tiene, consignar BLANCOS). |
+|  |  | 296-335 ÚLTIMO NÚMERO: Se consignará el ultimo número de la correlación del día objeto de declaración (si no tiene, consignar BLANCOS). |
+| 336-349 | Alfanumérico. | CUOTA DEDUCIBLE. |
+|  |  | Campo de configuración voluntaria, en el cual se incluirá el importe de la cuota deducible según la normativa del impuesto. Coincidirá con la cuota del impuesto soportada en los supuestos en que la cuota sea deducible en su totalidad. |
+|  |  | Se consignará la Cuota Deducible en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimo. Asimismo, en los supuestos de operaciones de rectificación (facturas rectificativas), se consignará el signo que corresponda en función de la corrección a efectuar. |
+|  |  | 336 SIGNO: Alfabético.<br>Si el importe descrito anteriormente es negativo, se consignará una «N». En cualquier otro caso se rellenará a blancos. |
+|  |  | 337-349 IMPORTE: Campo numérico de 13 posiciones.<br>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.<br>Este campo se subdivide en dos: |
+|  |  | 337-347 Parte entera de la Cuota Soportada del Impuesto. |
+|  |  | 348-349 Parte decimal de la Cuota Soportada del Impuesto. |
+| 350-357 | Numérico. | FECHA DE PAGO. |
+|  |  | Cuando se consigne la clave "Z" o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar la fecha en la que se hubiera producido el devengo conforme al criterio de devengo del Régimen especial del criterio de caja.<br>Este campo se subdivide en otros tres: |
+|  |  | 350-353 Numérico AÑO |
+|  |  | 354-355 Numérico MES |
+|  |  | 356-357 Numérico DÍA |
+| 358-370 | Numérico. | IMPORTES PAGADOS. |
+|  |  | Se consignarán sin coma decimal los importes devengados correspondientes a facturas recibidas cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2.<br>Los importes deben consignarse en euros.<br>Este campo se subdivide en dos: |
+|  |  | 358-368 Numérico. Parte entera del importe pagado, si no tiene contenido se consignará a ceros. |
+|  |  | 369-370 Numérico. Parte decimal del importe pagado, si no tiene contenido se consignará a ceros. |
+| 371 | Alfabético. | MEDIO DE PAGO UTILIZADO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo una de las siguientes claves identificativas del medio de pago utilizado:<br>"Cˮ – Cuenta bancaria.<br>"Tˮ – Cheque.<br>"Oˮ – Otros medios de pago.<br>Este campo no se cumplimentará cuando no se hubiera producido ningún pago. |
+| 372-405 | Alfanumérico. | CUENTA BANCARIA O MEDIO DE PAGO UTILIZADO. |
+|  |  | Cuando se consigne la clave "Zˮ o cualquiera de las claves numéricas del campo "CLAVE DE OPERACIÓNˮ, posición 100 de los diseños lógicos del tipo de registro 2, se hará constar en este campo el medio de pago parcial o total de la operación, ya bien sea el número de cuenta bancaria o el número de cheque a través del cual se hubiera realizado el cobro si se consignó la clave "Cˮ o la clave "Tˮ respectivamente en el campo "MEDIO DE PAGO UTILIZADO" (posición 371). Del mismo modo se cumplimentará la descripción o identificación de cualquier otro medio utilizado que pueda acreditar el pago si se consignó la clave "Oˮ del campo anterior.<br>Este campo no se cumplimentará cuando no se hubiera producido ningún pago. |
+
+LIBRO REGISTRO DE BIENES DE INVERSIÓN
+
+| POSICIÓN | NATURALEZA | DESCRIPCIÓN DE LOS CAMPOS |
+|---|---|---|
+| 236-238 | Numérico. | PRORRATA ANUAL DEFINITIVA. |
+|  |  | Se consignará la prorrata anual definitiva aplicable. |
+| 239-252 | Alfanumérico. | REGULARIZACIÓN ANUAL DE LA DEDUCCIÓN. |
+|  |  | Se consignará la regularización anual de la deducción en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimo. |
+|  |  | 239 SIGNO: Alfabético.<br>Si el importe descrito anteriormente es negativo, se consignará una «N». En cualquier otro caso se rellenará a blancos. |
+|  |  | 240-252 IMPORTE: Campo numérico de 13 posiciones.<br>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.<br>Este campo se subdivide en dos: |
+|  |  | 240-250 Parte entera de la regularización anual de la deducción. |
+|  |  | 251-252 Parte decimal de la regularización anual de la deducción. |
+| 253-292 | Alfanumérico. | IDENTIFICACIÓN DE LA ENTREGA. |
+|  |  | Se consignarán la identificación de la factura que corresponde en el LIBRO REGISTRO DE FACTURAS EXPEDIDAS que recoge la entrega. |
+| 293-306 | Alfanumérico. | REGULARIZACIÓN DE LA DEDUCCIÓN EFECTUADA (TRANSMISIONES). |
+|  |  | Se consignará la regularización de la deducción efectuada con motivo de la transmisión del bien en euros o su contravalor, en los casos de operaciones en divisas, según el artículo 79.once de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y el artículo 23.8 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, sin signo y sin céntimo. |
+|  |  | 293 SIGNO: Alfabético.<br>Si el importe descrito anteriormente es negativo, se consignará una «N». En cualquier otro caso se rellenará a blancos. |
+|  |  | 294-306 IMPORTE: Campo numérico de 13 posiciones.<br>Se consignará (sin coma decimal ni puntuación de miles) el importe descrito anteriormente.<br>Este campo se subdivide en dos: |
+|  |  | 294-304 Parte entera de la regularización de la deducción efectuada con motivo de la transmisión del bien. |
+|  |  | 305-306 Parte decimal de la regularización de la deducción efectuada con motivo de la transmisión del bien. |
+| 307-314 | Numérico. | FECHA DE INICIO DE LA UTILIZACIÓN. |
+|  |  | Se consignará la fecha del inicio del uso del bien, indicando los cuatro dígitos del año, los dos del mes (de 01 a 12) y los dos del día (de 01 a 31) con el formato AAAAMMDD. |
+| 315-331 | Alfanumérico. | IDENTIFICACIÓN DEL BIEN. |
+|  |  | Se consignará la descripción del bien objeto de este libro registro de IVA o IGIC. |
+| 332-500 |  | BLANCO. |
+
+LIBRO REGISTRO DE DETERMINADAS OPERACIONES INTRACOMUNITARIAS
+
+| POSICIÓN | NATURALEZA | DESCRIPCIÓN DE LOS CAMPOS |
+|---|---|---|
+| 236 | Alfabético. | TIPO DE OPERACIÓN INTRACOMUNITARIA. |
+|  |  | Se consignará el tipo de operación intracomunitaria que corresponda: |
+|  |  | A. El envío o recepción de bienes para la realización de los informes periciales o trabajos mencionados en el artículo 70, apartado uno, número 7.º, de la Ley del Impuesto (Ley 37/1992). |
+|  |  | B. Las transferencias de bienes y las adquisiciones intracomunitarias de bienes comprendidas en los artículos 9, apartado 3.º, y 16, apartado 2.º, de la Ley del Impuesto (Ley 37/1992). |
+| 237 | Alfabético. | CLAVE DE DECLARADO. |
+|  |  | En función de la condición del declarado, se consignará una de las siguientes claves: |
+|  |  | D Destinatario. |
+|  |  | R Remitente. |
+| 238-239 | Alfabético. | CÓDIGO DEL ESTADO MIEMBRO. |
+|  |  | En los supuestos de los registros correspondientes al Libro registro de determinadas operaciones intracomunitarias, se cumplimentará el código del Estado miembro de la UE origen o destino de los bienes, de acuerdo con las claves de países que figuran en la Orden EHA/3202/2008, de 31 de octubre, en su Anexo IV («BOE» de 10/11/2008). |
+| 240-242 | Numérico. | PLAZO DE LA OPERACIÓN. |
+|  |  | En los supuestos de los registros correspondientes al Libro registro de determinadas operaciones intracomunitarias, se cumplimentará el plazo en días para la realización de las operaciones. |
+| 243-277 | Alfanumérico | DESCRIPCIÓN DE LOS BIENES. |
+|  |  | En los supuestos de los registros correspondientes al Libro registro de determinadas operaciones intracomunitarias, se consignara la descripción de los bienes objeto de la operación con referencia a la correspondiente factura. |
+| 278-349 | Alfanumérico | DIRECCIÓN DEL OPERADOR INTRACOMUNITARIO. |
+|  |  | Se consignará la dirección del operador intracomunitario contrapartida del residente en España. |
+|  |  | Este campo se subdivide en: |
+|  |  | 278-317 DOMICILIO.<br>Se consignará el domicilio (calle, número, etc.). |
+|  |  | 318-339 POBLACIÓN.<br>Se consignará el nombre de Población/Ciudad. |
+|  |  | 340-349 CÓDIGO POSTAL.<br>Se consignará el Código Postal (ZIP code). |
+| 350-484 | Alfanumérico | OTRAS FACTURAS O DOCUMENTACIÓN. |
+|  |  | En los supuestos de los registros correspondientes al Libro Registro de determinadas operaciones intracomunitarias se consignarán los datos de «Otras facturas o documentación relativas a las operaciones de que se trate» (art 66.2.3.º RIVA). |
+| 485-500 |  | BLANCOS. |
+
+\* Todos los importes será positivos.
+
+\* Los campos numéricos que no tengan contenido se rellenarán a ceros.
+
+\* Los campos alfanuméricos/alfabéticos que no tengan contenido se rellenarán a blancos.
+
+\* Todos los campos numéricos ajustados a la derecha y rellenos a ceros por la izquierda
+
+\* Todos los campos alfanuméricos/alfabéticos ajustados a la izquierda y rellenos de blancos por la derecha, en mayúsculas, sin caracteres especiales y sin vocales acentuadas, excepto que se especifique lo contrario en la descripción del campo.
+
+> Se modifica por el art. 3.2 y 3 de la Orden HAP/2215/2013, de 26 de noviembre. [Ref. BOE-A-2013-12489](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-12489).
+
+> Se modifica por el art. 2.2 a 4 de la Orden EHA/3378/2011, de 1 de diciembre. [Ref. BOE-A-2011-19397](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19397).

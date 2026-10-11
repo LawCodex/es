@@ -1,0 +1,898 @@
+---
+title: "Resolución de 13 de octubre de 2016, conjunta de la Dirección General de la Agencia Estatal de Administración Tributaria, y de la Secretaría General del Tesoro y Política Financiera, por la que se establecen el procedimiento y las condiciones para la participación por vía telemática en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado"
+identifier: "BOE-A-2016-9890"
+eli: "https://www.boe.es/eli/es/res/2016/10/13/(2)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda y Administraciones Públicas"
+date: 2016-10-13
+published: 2016-10-28
+in_force_from: 2016-10-29
+last_amended: 2021-09-08
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 261"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-9890"
+retrieved: 2026-10-11
+---
+
+# Resolución de 13 de octubre de 2016, conjunta de la Dirección General de la Agencia Estatal de Administración Tributaria, y de la Secretaría General del Tesoro y Política Financiera, por la que se establecen el procedimiento y las condiciones para la participación por vía telemática en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado
+
+La modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, efectuada por el artículo primero de la Ley 19/2015, de 13 de julio, de medidas de reforma administrativa en el ámbito de la Administración de Justicia y del Registro Civil, ha supuesto la puesta en marcha de un sistema de subastas electrónicas a través de un portal único de subastas en la Agencia Estatal Boletín Oficial del Estado, en el que la consignación o constitución del depósito por los postores se realizará por medios electrónicos a través de este portal.
+
+A su vez, la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria, al regular las subastas voluntarias, cuya competencia atribuye a los Letrados de la Administración de Justicia y a los Notarios, establece el mismo sistema de subastas electrónicas a través del citado portal único de subastas de la Agencia Estatal Boletín Oficial del Estado.
+
+La primera de las normas citadas prevé que para dicha constitución se utilizarán los servicios telemáticos de la Agencia Estatal de Administración Tributaria y que los ingresos serán recibidos en la cuenta del Tesoro en el Banco de España a través de las Entidades colaboradoras en la gestión recaudatoria de aquélla. Posteriormente, se transferirán los correspondientes importes a la Cuenta de Depósitos y Consignaciones del órgano u Oficina judicial ante la que se siga el procedimiento en el que se acordó la celebración de la subasta judicial o a las cuentas correspondientes en caso de subastas notariales.
+
+Por su parte, la disposición adicional única del Real Decreto 1011/2015, de 6 de noviembre, establece que «las condiciones técnicas y los intercambios de información necesarios para la constitución, gestión y devolución de los depósitos, las medidas para la protección de los datos facilitados por los depositantes y las condiciones para la aplicación y posterior ingreso en la cuenta del Tesoro de los depósitos de quienes hubieren resultado adjudicatarios, así como las condiciones y el procedimiento para la provisión de fondos a la Agencia Tributaria prevista en el apartado 1 del artículo 3 serán establecidas mediante Resolución conjunta de la Dirección General de la Agencia Estatal de Administración Tributaria y de la Secretaría General del Tesoro y Política Financiera».
+
+En su virtud, la Dirección General de la Agencia Estatal de Administración Tributaria y la Secretaría General del Tesoro y Política Financiera han acordado dictar la presente Resolución:
+
+## Primero. Objeto y ámbito de aplicación.
+
+La presente Resolución tiene por objeto regular el procedimiento y las condiciones necesarias para la participación telemática en los procedimientos judiciales y notariales de enajenación de bienes, a través del Portal de Subastas a que se refieren la Ley 15/2015, de 2 de julio, de la Jurisdicción Voluntaria y la Ley 19/2015, de 13 de julio, de medidas de reforma administrativa en el ámbito de la Administración de Justicia y del Registro Civil, así como para el desarrollo de dichos procedimientos de enajenación.
+
+En particular, se regirán por lo dispuesto en la presente Resolución las siguientes operaciones, que se llevarán a cabo telemáticamente a través del Portal de Subastas:
+
+a) La constitución en entidades de crédito de los depósitos necesarios para la participación en los procedimientos de enajenación de bienes, así como la devolución de los mismos a los depositantes.
+
+b) El ingreso en el Tesoro Público por las entidades de crédito de los depósitos constituidos, cuando la oferta del depositante resulte adjudicataria del correspondiente procedimiento de enajenación.
+
+c) La provisión de fondos a la Agencia Estatal de Administración Tributaria (en adelante, Agencia Tributaria) por el Tesoro Público, a efectos del pago por ésta a los órganos competentes o titulares del procedimiento de enajenación.
+
+## Segundo. Condiciones generales.
+
+La utilización del procedimiento previsto en la presente Resolución se encuentra sujeta a las siguientes condiciones:
+
+1\. El licitador interesado en participar telemáticamente en los procedimientos de enajenación deberá:
+
+a) Disponer de Número de Identificación Fiscal (NIF) y estar identificado en el Censo de Obligados Tributarios a que se refiere el artículo 3 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio. Para verificar el cumplimiento de este requisito el obligado tributario podrá acceder a la opción «Mis datos censales» disponible en la Sede Electrónica de la Agencia Tributaria.
+
+b) Estar dado de alta como usuario en el Portal de Subastas dependiente de la Agencia Estatal Boletín Oficial del Estado (AEBOE).
+
+El alta como usuario a que se refiere el párrafo anterior se efectuará por Internet, a través de la Sede Electrónica de la AEBOE (www.boe.es). Para ello, y de acuerdo con lo establecido en el artículo 648.4.ª de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, el licitador deberá emplear alguno de los sistemas de firma electrónica, avanzada o reconocida, previstos en la Ley 59/2003, de 19 de diciembre, de firma electrónica.
+
+c) Ser titular de, al menos, una cuenta abierta en alguna de las entidades de crédito autorizadas para actuar como colaboradoras en la gestión recaudatoria de la Agencia Tributaria y que se encuentren adheridas al procedimiento regulado en esta Resolución.
+
+2\. Para que los procedimientos administrativos, judiciales y notariales de enajenación de bienes puedan realizarse en los términos establecidos en esta Resolución será imprescindible que esa posibilidad haya sido habilitada normativamente.
+
+> Se modifica el punto 2 y se suprime el 3 por el apartado 1.1 y 2 de la Resolución de 28 de marzo de 2017. [Ref. BOE-A-2017-4259](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4259)
+
+## Tercero. Entidades de crédito participantes.
+
+1\. Para participar en el procedimiento regulado en la presente Resolución, las entidades de crédito deberán ostentar, inexcusablemente, la condición de colaboradoras en la gestión recaudatoria de la Agencia Tributaria.
+
+2\. Las entidades de crédito interesadas en adherirse al procedimiento deberán comunicarlo al titular del Departamento de Recaudación de la Agencia Tributaria, enviando el formulario que figura en el Anexo I, por cualquier medio que permita tener constancia de su recepción.
+
+La adhesión al procedimiento tendrá una vigencia indefinida, salvo que la Agencia Tributaria o la entidad de crédito manifiesten expresamente su voluntad en contrario mediante escrito que, en el caso de la entidad adherida, deberá dirigirse al titular del Departamento de Recaudación de la Agencia Tributaria con una antelación mínima de tres meses respecto de la fecha en la que desee dejar sin efecto la adhesión.
+
+Asimismo, se entenderá que queda sin efecto la adhesión al procedimiento en los casos de concurso o disolución de la entidad adherida o cuando ésta deje de ostentar la condición de colaboradora en la gestión recaudatoria de la Agencia Tributaria.
+
+3\. Las entidades de crédito que se adhieran al procedimiento previsto en esta Resolución deberán proceder a la apertura de una cuenta, de ámbito nacional, con la denominación «Agencia Estatal de Administración Tributaria. Cuenta de depósitos por participación en subastas electrónicas. Portal de la Agencia Estatal Boletín Oficial del Estado», a la que asignarán el NIF de la Agencia Estatal de Administración Tributaria y cuya codificación se ajustará a lo establecido en el sistema financiero español (IBAN).
+
+Dicha cuenta no devengará comisión de ninguna clase y en ella únicamente podrán realizarse actuaciones, en concepto de abonos, por los ingresos de los depósitos a los que se refiere esta Resolución y, en concepto de adeudos, por la cancelación de los mismos.
+
+Asimismo, podrán realizarse otras anotaciones que tengan su origen en rectificaciones de algunas de las operaciones reguladas en esta Resolución.
+
+Dada la naturaleza de esta cuenta y el carácter exclusivo de las operaciones autorizadas en la misma, la tramitación de los abonos y adeudos se regirá por lo establecido en la presente Resolución:
+
+a) Los abonos deberán ser efectuados por la entidad de crédito en el mismo momento en el que el licitador constituya su depósito.
+
+b) Los adeudos deberán ser realizados por la entidad en el momento en que se produzca la cancelación del depósito, ya sea por su devolución al depositante o por su ingreso a favor del Tesoro Público.
+
+Las entidades de crédito no podrán efectuar ninguna operación de adeudo sin contar con la previa autorización u orden de la Agencia Tributaria.
+
+4\. El incumplimiento del procedimiento regulado en la presente Resolución por parte de alguna de las entidades de crédito a él adheridas podrá suponer la exclusión del mismo para dichas entidades, sin perjuicio de la posible adopción contra ellas de las medidas restrictivas de su condición de colaboradoras en la gestión recaudatoria de la Agencia Tributaria previstas en el artículo 17.6 del Reglamento General de Recaudación, aprobado por Real Decreto 939/2005, de 29 de julio.
+
+5\. Las entidades de crédito adheridas al procedimiento deberán mantener el servicio diariamente con un grado de calidad y seguridad que garantice su funcionamiento y, salvo en casos de fuerza mayor, de modo ininterrumpido, en la misma banda horaria que las entidades tienen con la Agencia Tributaria.
+
+En caso de que alguna entidad de crédito no cumpliese este requisito, la Agencia Tributaria podrá impedir o restringir el acceso a los sistemas de dicha entidad.
+
+6\. Salvo que comuniquen expresamente lo contrario al titular del Departamento de Recaudación de la Agencia Tributaria en el plazo de un mes desde la fecha de entrada en vigor de la presente Resolución, se considerarán automáticamente adheridas al procedimiento en ella regulado todas aquellas entidades de crédito que lo están al procedimiento regulado en la Resolución 5/2002, de 17 de mayo, de la Dirección General de la Agencia Estatal de Administración Tributaria, por la que se regula la participación por vía telemática en procedimientos de enajenación de bienes desarrollados por los órganos de recaudación.
+
+En caso de producirse dicha comunicación en contrario por parte de alguna entidad de crédito, ésta quedará excluida de los procedimientos regulados tanto en la Resolución 5/2002, de 17 de mayo, de la AEAT como en la presente Resolución.
+
+La adhesión al procedimiento previsto en la presente Resolución podrá ser valorada por la Agencia Tributaria tanto a los efectos de la autorización a las entidades de crédito para su actuación como colaboradoras en la gestión recaudatoria como a los del mantenimiento de dicha autorización.
+
+Las entidades de crédito dispondrán hasta el día 31 de enero de 2017 para adaptar sus sistemas a la nueva configuración del IBAN (34 posiciones) y para modificar el cálculo y validación del MAC, tal y como se recoge en los Anexos II, IV y VI de la presente Resolución.
+
+Dichas entidades deberán confirmar la adaptación de sus respectivos sistemas mediante comunicación expresa al Departamento de Informática Tributaria de la Agencia Tributaria.
+
+Si transcurrido el periodo a que se refiere el presente apartado alguna entidad no hubiera comunicado la adaptación de sus sistemas, el Departamento de Recaudación de la Agencia Tributaria podrá acordar su exclusión del procedimiento regulado en la presente Resolución y del regulado en la Resolución 5/2002, de 17 de mayo, de la Dirección General de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica el punto 5 por el apartado 1.3 de la Resolución de 28 de marzo de 2017. [Ref. BOE-A-2017-4259](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4259)
+
+## Cuarto. Constitución de depósitos.
+
+Para constituir telemáticamente los depósitos exigidos para participar en los procedimientos de enajenación de bienes, el licitador deberá acceder por Internet al Portal de Subastas de la AEBOE y cumplimentar los datos solicitados en el formulario de constitución del depósito de la subasta correspondiente.
+
+En particular, deberá facilitar el código IBAN de la cuenta en la que el depósito deba constituirse que, en todo caso, deberá ser de titularidad del licitador o de una sociedad en la que el licitador figure como apoderado, en cuyo caso tendrá que facilitar el NIF y la razón social de dicha sociedad.
+
+Tras efectuar las oportunas validaciones, el Portal de Subastas de la AEBOE enviará a la pasarela de depósitos de subastas de la Agencia Tributaria el formulario con los datos necesarios para la constitución del depósito, que figuran en el anexo II de esta resolución.
+
+La pasarela de depósitos de subastas de la Agencia Tributaria generará el NRC asociado al depósito y se comunicará con la entidad de crédito que corresponda, enviando a esta el Registro de orden de cargo, conforme a las especificaciones técnicas que se recogen en el anexo II.
+
+3\. Si la constitución del depósito es aceptada por la entidad de crédito, esta efectuará el traspaso de su importe desde la cuenta del depositante a la cuenta de depósitos por participación en subastas de la Agencia Tributaria y responderá a esta conforme al Registro de respuesta de la entidad de crédito, de acuerdo con las especificaciones técnicas que se recogen en el anexo II.
+
+La Agencia Tributaria, a su vez, remitirá la respuesta al Portal de Subastas de la AEBOE, que proporcionará al licitador un recibo, el cual servirá de justificante del depósito constituido, y que contendrá la siguiente información:
+
+– Código asignado por el Banco de España a la entidad de crédito en la que se constituye el depósito.
+
+– NIF del titular del depósito constituido.
+
+– Fecha de constitución del depósito.
+
+– Importe del depósito constituido.
+
+– Número de Referencia Completo (NRC) asignado por la Agencia Tributaria al depósito constituido, de acuerdo con las especificaciones técnicas que figuran en el anexo II.
+
+El licitador podrá imprimir o grabar en su ordenador el justificante de constitución del depósito, que se ajustará al modelo que figura en el Anexo III.
+
+El NRC que asigne la Agencia Tributaria a cada depósito se generará informáticamente, vinculando el NRC con el resto de los datos que consten en el recibo.
+
+4\. En aquellos casos en los que la constitución del depósito sea rechazada, el Portal de Subastas de la AEBOE mostrará en pantalla la descripción de los motivos del rechazo, a los efectos de su posible subsanación por parte del licitador.
+
+> Se modifica por el apartado 1.1 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
+
+## Quinto. Devolución de depósitos.
+
+1\. Procedimiento general. La devolución de los depósitos constituidos telemáticamente a través del Portal de Subastas de la AEBOE deberá efectuarse por esa misma vía, salvo que concurran las circunstancias a las que se refiere el punto 2 de este mismo apartado.
+
+Según lo previsto en el artículo 3 del Real Decreto 1011/2015, de 6 de noviembre, por el que se regula el procedimiento para formalizar el sistema de consignaciones en sede electrónica de las cantidades necesarias para tomar parte en las subastas judiciales, notariales y administrativas, en los casos en los que se deba proceder a la devolución de un depósito, el Portal de Subastas de la AEBOE transmitirá a la Agencia Tributaria la información necesaria para que traspase a la cuenta del depositante el depósito constituido para participar en la subasta.
+
+Para ello, será necesario que el Portal de Subastas de la AEBOE, de forma automática y sin intervención del titular del depósito, proceda del modo siguiente:
+
+a) Capturará el NRC asignado al depósito cuya devolución desea obtener.
+
+El sistema informático comprobará que:
+
+1.º El titular del depósito coincide con el titular de la clave.
+
+2.º El depósito no está asociado a ningún lote adjudicado a ofertas del titular.
+
+3.º El depósito no ha sido previamente liberado o devuelto.
+
+4.º El depósito no se encuentra asociado a ningún otro lote para el que su titular haya presentado ofertas o se haya acreditado como licitador.
+
+5.º No se haya emitido para ese NRC ninguna orden de ingreso en el Tesoro Público.
+
+Una vez verificado que se cumplen todos los extremos anteriores, la AEBOE autorizará la devolución y establecerá comunicación telemática con la pasarela de depósitos de subastas de la Agencia Tributaria y enviará el formulario con los datos necesarios para la devolución del depósito, que figuran en el anexo IV.
+
+La pasarela de depósitos de subastas de la Agencia Tributaria generará un nuevo NRC, que quedará asignado a la devolución del depósito y que se obtendrá a partir de la siguiente información:
+
+1.º Código asignado por el Banco de España a la entidad de crédito en la que se constituyó el depósito.
+
+2.º NIF del titular del depósito.
+
+3.º Fecha en la que se solicitó la devolución del depósito.
+
+4.º Importe del depósito a devolver.
+
+5.º Número de Referencia Completo (NRC) asignado por la Agencia Tributaria en la constitución por la entidad de crédito al depósito que se devuelve.
+
+El NRC que asigne la Agencia Tributaria a la devolución del depósito se generará informáticamente, vinculando el NRC con el resto de los datos utilizados en su generación.
+
+b) A continuación, la pasarela de depósitos de subastas de la Agencia Tributaria se comunicará con la entidad de crédito en la que se constituyó el depósito que debe devolverse y le enviará el Registro de orden de cargo, conforme a las especificaciones técnicas que se recogen en el Anexo IV.
+
+c) Recibida la correspondiente comunicación, si la devolución del depósito es aceptada por la entidad de crédito, ésta procederá al inmediato traspaso del importe del depósito desde la cuenta de depósitos por participación en subastas de la Agencia Tributaria a la cuenta del depositario.
+
+Asimismo, la entidad de crédito responderá a la Agencia Tributaria conforme al Registro de respuesta de la entidad de crédito, de acuerdo con las especificaciones técnicas que se recogen en el anexo IV.
+
+A su vez, la Agencia Tributaria remitirá la respuesta al Portal de Subastas de la AEBOE, quedando anulado desde ese momento el NRC generado en la constitución, a efectos de que éste no pueda volver a utilizarse en ningún otro procedimiento de enajenación.
+
+A través del Portal de Subastas de la AEBOE se emitirá un justificante de la devolución telemática del depósito, de acuerdo con el modelo que figura en el anexo V, que el titular podrá imprimir o guardar en su ordenador.
+
+d) En aquellos casos en los que la devolución del depósito sea rechazada, se devolverá un mensaje de error, a los efectos de su posible subsanación por parte del licitador.
+
+El titular del depósito no podrá exigir responsabilidad alguna a la Agencia Tributaria ni al Tesoro Público cuando la devolución se abone en la cuenta desde la que se llevó a cabo su constitución.
+
+2\. Procedimiento excepcional. En aquellos casos en los que la entidad de crédito no pudiera cumplir la orden de devolución, porque la cuenta desde la que se constituyó el depósito hubiera sido cancelada o por cualquier otro motivo, el sistema devolverá el correspondiente mensaje de error.
+
+En tal caso, el titular del depósito deberá comunicar a la AEBOE la cuenta en la que debe ser abonado el importe del mismo. Dicha cuenta deberá ser necesariamente de titularidad del solicitante de la devolución.
+
+La AEBOE autorizará la devolución y establecerá comunicación telemática con la pasarela de depósitos de subastas de la Agencia Tributaria y enviará el formulario con los datos necesarios para la devolución del depósito, que figuran en el anexo IV de esta resolución.
+
+La pasarela de depósitos de subastas de la Agencia Tributaria generará un nuevo NRC, que quedará asociado a la devolución del depósito y que se obtendrá a partir de la siguiente información:
+
+a) Código asignado por el Banco de España a la entidad de crédito en la que se constituyó el depósito.
+
+b) NIF del titular del depósito.
+
+c) Fecha en la que se solicita la devolución del depósito.
+
+d) Importe del depósito devuelto.
+
+e) Número de Referencia Completo (NRC) asignado en la constitución por la entidad de crédito al depósito que se devuelve.
+
+El NRC que asigne la Agencia Tributaria a cada devolución de depósitos se generará informáticamente, vinculando el NRC con los datos anteriormente relacionados.
+
+A continuación, la pasarela de depósitos de subastas de la Agencia Tributaria se comunicará con la entidad de crédito en la que se constituyó el depósito que ha de ser devuelto, y le enviará el Registro de orden de cargo, conforme a las especificaciones técnicas que se recogen en el Anexo IV, indicando la cuenta de devolución comunicada por el interesado.
+
+Si la entidad de crédito acepta la devolución del depósito, esta procederá inmediatamente a ordenar una transferencia desde la cuenta de depósitos por participación en subastas de la Agencia Tributaria a la cuenta designada por el interesado para percibir la devolución.
+
+Asimismo, la entidad de crédito responderá a la Agencia Tributaria dando conformidad al Registro de respuesta de la entidad de crédito, de acuerdo con las especificaciones técnicas que se recogen en el anexo IV.
+
+A su vez, la Agencia Tributaria remitirá la respuesta al Portal de Subastas de la AEBOE, quedando anulado desde ese momento el NRC generado en la constitución, a efectos de que éste no pueda volver a utilizarse en ningún otro procedimiento de enajenación.
+
+A través del Portal de Subastas de la AEBOE se emitirá un justificante de la devolución telemática del depósito, de acuerdo con el modelo que figura en el Anexo V, que el titular podrá imprimir o guardar en su ordenador.
+
+El titular del depósito no podrá exigir responsabilidad alguna a la Agencia Tributaria ni al Tesoro Público cuando la devolución se abone en la cuenta por él designada a tales efectos.
+
+3\. En el caso de problemas técnicos de cualquiera de las partes, y a petición de la Agencia Tributaria, las entidades de crédito deben poder realizar devoluciones de forma manual, tanto a la misma cuenta de constitución del depósito como a otra distinta, que habrá sido comunicada previamente por el interesado a la AEBOE.
+
+En estos supuestos, la entidad de crédito comunicará a la Agencia Tributaria la efectiva devolución del depósito y ésta asignará un NRC al depósito objeto de devolución, el cual será proporcionado a la entidad cuando se solicite la devolución.
+
+Para la realización de estas devoluciones manuales no será necesario que las entidades de crédito hayan recibido con anterioridad una petición telemática de devolución de acuerdo a los puntos 1 y 2 del presente apartado.
+
+> Se modifica por el apartado 1.2 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
+
+> Se modifica por el apartado 1.1 de la Resolución de 4 de junio de 2018. [Ref. BOE-A-2018-7835](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7835)
+
+> Esta modificación será de aplicación desde el 16 de julio de 2018, según establece el apartado 2 de la citada Resolución.
+
+> Se modifican los dos primeros párrafos del punto 1 y se suprime el 3 por el apartado 1.4 y 5 de la Resolución de 28 de marzo de 2017. [Ref. BOE-A-2017-4259](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4259)
+
+## Sexto. Ingreso en el Tesoro Público de los depósitos constituidos a través del Portal de Subastas de la AEBOE.
+
+La AEBOE comunicará telemáticamente a la pasarela de depósitos de subastas de la Agencia Tributaria los depósitos que deben ser ingresados en el Tesoro Público, por corresponder a licitadores que han resultado adjudicatarios en procesos de enajenación o a postores que han causado la quiebra de la subasta. A su vez, la pasarela de depósitos de subastas de la Agencia Tributaria comunicará dicha información a las entidades de crédito en las que los depósitos fueron constituidos, así como el NRC asociado al ingreso en el Tesoro Público de cada depósito.
+
+La comunicación a las entidades de crédito se ajustará a las especificaciones que se recogen en el anexo VI, e incluirá los siguientes datos:
+
+a) NIF del titular del depósito.
+
+b) Número de Referencia Completo (NRC) justificativo de la constitución del depósito que debe ser ingresado por la entidad.
+
+c) Fecha de constitución del depósito.
+
+d) Número de justificante.
+
+e) Código de modelo (002).
+
+f) Importe a ingresar en el Tesoro Público (debe coincidir con el importe del depósito constituido).
+
+g) Número de Referencia Completo (NRC) asignado por la Agencia Tributaria para el ingreso del depósito en el Tesoro Público.
+
+La entidad de crédito deberá realizar el ingreso a favor del Tesoro Público en el mismo día en que reciba la comunicación de la Agencia Tributaria, adeudando el importe del depósito en la cuenta de depósitos por participación en subastas de la Agencia Tributaria y abonando simultáneamente dicho importe en la cuenta “Tesoro Público. Cuenta restringida de colaboración en la recaudación de la Agencia Estatal de Administración Tributaria de liquidaciones practicadas por la Administración y otros ingresos no tributarios y de la Caja General de Depósitos” (agrupación 023), y seguirá el procedimiento establecido en la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria.
+
+Una vez efectuado el ingreso, la entidad de crédito responderá a la Agencia Tributaria, conforme al Registro de respuesta de la entidad de crédito, de acuerdo a las especificaciones técnicas que se recogen en el anexo VI. La Agencia Tributaria, a su vez, remitirá la respuesta al Portal de Subastas de la AEBOE y considerará automáticamente consolidado el NRC generado para el ingreso del depósito en el Tesoro Público, almacenándolo en sus sistemas informáticos.
+
+A través del Portal de Subastas de la AEBOE se emitirá un recibo-NRC, justificativo del ingreso en la cuenta del Tesoro, que se ajustará al modelo que se recoge en el anexo VII y que estará a disposición del titular del depósito en dicho Portal.
+
+> Se modifica por el apartado 1.3 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
+
+## Séptimo. Provisión de fondos por el Tesoro Público a la Agencia Tributaria y pago por ésta a los órganos competentes o titulares de los procedimientos de subasta.
+
+La Agencia Tributaria realizará el pago de las cantidades correspondientes a los depósitos constituidos por los postores adjudicatarios de las subastas celebradas a través del Portal de subastas de la AEBOE y cuyo ingreso se realice a través de las entidades colaboradoras en la recaudación de la Agencia Tributaria, de conformidad con el siguiente procedimiento:
+
+a) Los ingresos recibidos en Tesoro Público que respondan a esta naturaleza se aplicarán contablemente en el concepto no presupuestario que corresponda. Realizada esta aplicación, la Agencia Tributaria remitirá a la oficina de contabilidad de la Intervención Delegada en la Secretaría General del Tesoro y Política Financiera una comunicación electrónica por la que se propondrá el pago del saldo que presente el citado concepto en la correspondiente quincena a favor de la propia Agencia Tributaria. El documento en el que se soporte esta comunicación llevará aplicado un sello electrónico de la Agencia Tributaria para garantizar la unidad destinataria así como la autenticación e integridad de la información. Este sello electrónico se ajustará a las especificaciones de firma electrónica ETSI TS 101.903.
+
+b) La Secretaría General del Tesoro y Política Financiera ordenará el correspondiente pago extrapresupuestario a favor de la Agencia Tributaria de las cantidades a que se refiere el punto anterior.
+
+Estas cantidades se abonarán mediante transferencia en la cuenta corriente abierta a nombre de la Agencia Estatal de Administración Tributaria en el Banco de España con la denominación «Agencia Estatal de Administración Tributaria-Pago Depósitos Subastas-Portal AEBOE».
+
+c) El Servicio de Gestión Económica de la Agencia Tributaria, con la información suministrada por la AEBOE y previa conformidad del Departamento de Recaudación, ordenará el pago de las cantidades que correspondan a los órganos competentes o titulares de los procedimientos de subasta celebrados, mediante transferencia a la cuenta única que los mismos hayan comunicado a la AEBOE.
+
+## Octavo. Ingreso por el adjudicatario del precio de remate.
+
+El ingreso del precio de remate o, en su caso, de la diferencia entre el importe depositado y el precio del remate, deberá ser efectuado por los licitadores adjudicatarios en el lugar, forma y plazos que establezca en cada momento el órgano administrativo, judicial o notarial que acordó el procedimiento de enajenación de que se trate.
+
+> Se modifica por el apartado 1.6 de la Resolución de 28 de marzo de 2017. [Ref. BOE-A-2017-4259](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4259)
+
+## Noveno. Protección de los datos de los depositantes.
+
+El tratamiento de datos de carácter personal llevado a cabo en el marco de la presente resolución quedará íntegramente sometido a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y sus disposiciones reglamentarias de desarrollo. En la medida en que resulte aplicable, los datos de los licitadores obtenidos por la Agencia Tributaria quedarán sujetos al deber de reserva del artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+## Disposición final única. Entrada en vigor y aplicabilidad.
+
+La presente Resolución entrará en vigor a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+La aplicación de la presente Resolución a los procedimientos administrativos de enajenación de bienes queda supeditada a la aprobación de las normas necesarias para adaptar la regulación actual al sistema de subasta electrónica a través del portal de la AEBOE.
+
+Madrid, 13 de octubre de 2016.–El Director General de la Agencia Estatal de Administración Tributaria, Santiago Menéndez Menéndez.–La Secretaria General del Tesoro y Política Financiera, Rosa María Sánchez-Yebra Alonso.
+
+## ANEXO I
+
+![1](https://www.boe.es/datos/imagenes/disp/2016/261/09890_7131.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2016/261/09890_7174.png)
+
+## ANEXO II
+
+## Número de referencia completo (NRC) de constitución de depósitos
+
+1\. El Portal de Subastas de la AEBOE deberá remitir la siguiente información. El formato en que esta información se deba transmitir a los sistemas de información de la AEAT será determinado por el Departamento de Informática Tributaria:
+
+– Operación (003).
+
+– Tipo de operación: Alta (01), consulta (02).
+
+– Concepto/modelo (960).
+
+– NIF del titular del depósito.
+
+– Apellidos y nombre o razón social del titular del depósito.
+
+– Importe del depósito.
+
+– Fecha de constitución del depósito.
+
+– Código IBAN.
+
+– NIF del primer representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del primer representante, si lo hubiera.
+
+– NIF del segundo representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del segundo representante, si lo hubiera.
+
+– Tipo de autenticación.
+
+2\. Registro de orden de cargo.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
+| 2 | 10 | 8 | N | Fecha (AAAAMMDD). |
+| 3 | 18 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 28 | 3 | An | Tipo de operación de alta (003 constitución depósito). |
+| 5 | 31 | 2 | An | Alta (01), consulta (02). |
+| 6 | 33 | 3 | N | Concepto o modelo 960. |
+| 7 | 36 | 4 | N | Ceros. |
+| 8 | 40 | 9 | An | NIF titular del depósito (XNNNNNNNX). |
+| 9 | 49 | 5 | An | Ceros. |
+| 10 | 54 | 13 | N | Importe del depósito (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 11 | 67 | 16 | N | Ceros. |
+| 12 | 83 | 20 | N | Reservado (ceros). |
+| 13 | 103 | 8 | N | Fecha constitución de depósito(AAAAMMDD). |
+| 14 | 111 | 9 | An | NIF del representante 1 o blancos. |
+| 15 | 120 | 9 | An | NIF del representante 2 o blancos. |
+| 16 | 129 | 16 | An | Reservado (blancos). |
+| 17 | 145 | 4 | An | Letras de etiqueta del titular del depósito en personas físicas. |
+| 18 | 149 | 40 | An | Apellidos y nombre o Razón social del titular del depósito. |
+| 19 | 189 | 40 | An | Apellidos y nombre del representante 1 o blancos. |
+| 20 | 229 | 40 | An | Apellidos y nombre del representante 2 o blancos. |
+| 21 | 269 | 32 | An | Blancos. |
+| 22 | 301 | 34 | An | Código IBAN. |
+| 23 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 24 | 357 | 84 | An | Reservado. |
+
+3\. Registro de respuesta de la entidad de crédito.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de operación (003). Constitución depósito. |
+| 2 | 4 | 2 | An | Alta (01), consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (960 para constitución). |
+| 4 | 9 | 6 | N | Ceros. |
+| 5 | 15 | 9 | An | N.I.F. del titular del depósito (XNNNNNNNX). |
+| 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
+| 7 | 28 | 5 | N | Ceros. |
+| 8 | 33 | 13 | N | Importe del depósito (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 9 | 46 | 12 | N | Ceros. |
+| 10 | 58 | 20 | N | Reservado. |
+| 11 | 78 | 12 | N | Ceros. |
+| 12 | 90 | 8 | N | Fecha de operación (AAAAMMDD). |
+| 13 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 14 | 120 | 2 | An | Código de retorno. |
+| 15 | 122 | 1 | N | Cero. |
+| 16 | 123 | 34 | An | Código IBAN. |
+| 17 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 18 | 211 | 189 | An | Libre. |
+| 19 | 400 | 50 | An | Reservado para posibles ampliaciones. |
+
+> Se sustituye por el apartado 1.4 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
+
+## ANEXO III
+
+## Modelo de justificante de constitución por vía telemática de depósito para participar en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado
+
+Al amparo de lo previsto en la Resolución de 13 de octubre de 2016, conjunta de la Dirección General de la Agencia Estatal de Administración Tributaria y la Secretaría General del Tesoro y Política Financiera, por la que se establecen el procedimiento y condiciones para la participación por vía telemática en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado, se ha constituido el siguiente depósito a favor del Tesoro Público:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>NÚMERO DE REFERENCIA COMPLETO (NRC) DE CONSTITUCIÓN DEL DEPÓSITO:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entidad de crédito:</p>
+</td>
+<td>
+<p>Código Banco de España:</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>IBAN:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>NIF depositante:</p>
+</td>
+<td>
+<p>Nombre/razón social:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha del depósito:</p>
+</td>
+<td>
+<p>Importe del depósito:</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+La finalidad de dicho depósito es posibilitar que el depositante pueda participar por vía telemática en los procedimientos de enajenación de bienes realizados a través del Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado.
+
+La emisión del NRC por la entidad de crédito supone:
+
+1\. Que se ha constituido en la cuenta de depósitos de la Agencia Tributaria, con la fecha y por la cantidad que se establece en el NRC, un depósito a favor del Tesoro Público.
+
+2\. Que dicho depósito será indisponible para el interesado, hasta que por la Agencia Estatal Boletín Oficial del Estado se autorice su devolución o se ordene su ingreso en la cuenta restringida del Tesoro.
+
+3\. Que la entidad de crédito procederá a realizar el ingreso del depósito en el Tesoro Público, cuando así sea solicitado por la Agencia Estatal de Administración Tributaria a instancias de la Agencia Estatal Boletín Oficial del Estado.
+
+## ANEXO IV
+
+## Número de referencia completo (NRC) de devolución de depósitos
+
+## Primero. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria. Devolución de depósitos: Procedimiento general.
+
+1\. El Portal de Subastas de la AEBOE deberá remitir la siguiente información. El formato en que esta información se deba transmitir a los sistemas de información de la AEAT será determinado por el Departamento de Informática Tributaria:
+
+– Operación (004).
+
+– Tipo de operación: Alta (01), consulta (02).
+
+– Concepto/modelo (961).
+
+– NIF del titular del depósito.
+
+– Apellidos y nombre o razón social del titular del depósito.
+
+– NRC de constitución del depósito.
+
+– Importe del depósito a devolver
+
+– Fecha de constitución del depósito.
+
+– Código IBAN.
+
+– NIF del primer representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del primer representante, si lo hubiera.
+
+– NIF del segundo representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del segundo representante, si lo hubiera.
+
+– Tipo de autenticación.
+
+2\. Registro de orden de cargo.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
+| 2 | 10 | 8 | N | Fecha (AAAAMMDD). |
+| 3 | 18 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 28 | 3 | An | Tipo de operación de alta (004 Devolución de depósito). |
+| 5 | 31 | 2 | An | Alta (01), consulta (02). |
+| 6 | 33 | 3 | N | Concepto o modelo 961. |
+| 7 | 36 | 3 | N | Ceros. |
+| 8 | 39 | 9 | An | NIF titular del depósito (XNNNNNNNX). |
+| 9 | 48 | 13 | N | Importe del depósito a devolver (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 10 | 61 | 20 | N | Reservado (ceros). |
+| 11 | 81 | 22 | An | NRC de la constitución del depósito. |
+| 12 | 103 | 8 | N | Fecha constitución de depósito (AAAAMMDD). |
+| 13 | 111 | 9 | An | NIF del representante 1 o blancos. |
+| 14 | 120 | 9 | An | NIF del representante 2 o blancos. |
+| 15 | 129 | 16 | An | Reservado (blancos). |
+| 16 | 145 | 4 | An | Letras de etiqueta del titular del depósito en personas físicas. |
+| 17 | 149 | 40 | An | Apellidos y nombre o Razón social del titular del depósito. |
+| 18 | 189 | 40 | An | Apellidos y nombre del representante 1 o blancos. |
+| 19 | 229 | 40 | An | Apellidos y nombre del representante 2 o blancos. |
+| 20 | 269 | 32 | An | Blancos. |
+| 21 | 301 | 34 | An | Código IBAN. |
+| 22 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 23 | 357 | 84 | An | Reservado. |
+
+3\. Registro de respuesta de la entidad de crédito.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de operación (004). Devolución de Depósitos. |
+| 2 | 4 | 2 | An | Alta (01), consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (961 para devolución). |
+| 4 | 9 | 6 | N | Ceros. |
+| 5 | 15 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
+| 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
+| 7 | 28 | 5 | N | Ceros. |
+| 8 | 33 | 13 | N | Importe del abono (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 9 | 46 | 12 | N | Ceros. |
+| 10 | 58 | 20 | N | Reservado. |
+| 11 | 78 | 12 | N | Ceros. |
+| 12 | 90 | 8 | N | Fecha de la operación (AAAAMMDD). |
+| 13 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 14 | 120 | 2 | An | Código de retorno. |
+| 15 | 122 | 1 | N | Cero. |
+| 16 | 123 | 34 | An | Código IBAN. |
+| 17 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 18 | 211 | 189 | An | Libre. |
+| 19 | 400 | 50 | An | Reservado para posibles ampliaciones. |
+
+## Segundo. Registros en la pasarela de depósitos de subastas de la Agencia Tributaria. Devolución de depósitos: Procedimiento excepcional.
+
+1\. El Portal de Subastas de la AEBOE deberá remitir la siguiente información. El formato en que esta información se deba transmitir a los sistemas de información de la AEAT será determinado por el Departamento de Informática Tributaria:
+
+– Operación (006).
+
+– Tipo de operación: Alta (01), consulta (02).
+
+– Concepto/modelo (962).
+
+– NIF del titular del depósito.
+
+– Apellidos y nombre o razón social del titular del depósito.
+
+– NRC de constitución del depósito.
+
+– Importe del depósito a devolver
+
+– Fecha de constitución del depósito.
+
+– Código IBAN de la cuenta donde se constituyó el depósito.
+
+‒ Código IBAN de la cuenta de destino de la devolución mediante transferencia.
+
+– NIF del primer representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del primer representante, si lo hubiera.
+
+– NIF del segundo representante, si lo hubiera.
+
+– Apellidos y nombre o razón social del segundo representante, si lo hubiera.
+
+‒ Tipo de autenticación.
+
+2\. Registro de orden de cargo.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
+| 2 | 10 | 8 | N | Fecha (AAAAMMDD). |
+| 3 | 18 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 28 | 3 | An | Tipo de Operación de alta (006 Devolución de depósito por Transferencia). |
+| 5 | 31 | 2 | An | Alta (01), consulta (02). |
+| 6 | 33 | 3 | N | Concepto o modelo 962. |
+| 7 | 36 | 9 | An | NIF titular del depósito (XNNNNNNNX). |
+| 8 | 45 | 13 | N | Importe del depósito a devolver (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 9 | 58 | 20 | N | Reservado (ceros). |
+| 10 | 78 | 20 | N | Reservado (ceros). |
+| 11 | 98 | 22 | An | NRC de la constitución del depósito. |
+| 12 | 120 | 9 | An | NIF del representante 1 o blancos. |
+| 13 | 129 | 9 | An | NIF del representante 2 o blancos. |
+| 14 | 138 | 8 | N | Fecha constitución de depósito (AAAAMMDD). |
+| 15 | 146 | 7 | An | Ceros. |
+| 16 | 153 | 16 | An | Reservado (blancos). |
+| 17 | 169 | 4 | An | Letras de etiqueta del titular del depósito en personas físicas. |
+| 18 | 173 | 40 | An | Apellidos y nombre o Razón social del titular del depósito. |
+| 19 | 213 | 40 | An | Apellidos y nombre del representante 1 o blancos. |
+| 20 | 253 | 40 | An | Apellidos y nombre del representante 2 o blancos. |
+| 21 | 293 | 8 | An | Blancos. |
+| 22 | 301 | 34 | An | Código IBAN desde donde se constituyó el depósito. |
+| 23 | 335 | 34 | An | Código IBAN destino de la transferencia. |
+| 24 | 369 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 25 | 391 | 50 | An | Reservado. |
+
+3\. Registro de respuesta de la entidad de crédito.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de operación (006). Devolución de Depósitos por Transferencia. |
+| 2 | 4 | 2 | An | Alta (01), consulta (02). |
+| 3 | 6 | 3 | N | Concepto o modelo (962 para devolución por transferencia). |
+| 4 | 9 | 6 | N | Ceros. |
+| 5 | 15 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
+| 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
+| 7 | 28 | 5 | N | Ceros. |
+| 8 | 33 | 13 | N | Importe de la devolución (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 9 | 46 | 12 | N | Ceros. |
+| 10 | 58 | 20 | N | Reservado. |
+| 11 | 78 | 12 | N | Ceros. |
+| 12 | 90 | 8 | N | Fecha de la operación (AAAAMMDD). |
+| 13 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 14 | 120 | 2 | An | Código de retorno. |
+| 15 | 122 | 1 | N | Cero. |
+| 16 | 123 | 34 | An | Código IBAN destino de la devolución. |
+| 17 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 18 | 211 | 189 | An | Libre. |
+| 19 | 400 | 50 | An | Reservado para posibles ampliaciones. |
+
+> Se sustituye por el apartado 1.4 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
+
+> Se modifica el título del apartado segundo y se añade el tercero por el apartado 1.2 y 3 de la Resolución de 4 de junio de 2018. [Ref. BOE-A-2018-7835](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7835)
+
+> Esta actualización será de aplicación desde el 16 de julio de 2018, según establece el apartado 2 de la citada Resolución.
+
+## ANEXO V
+
+## Modelo de justificante de devolución por vía telemática de depósito constituido para participar en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado
+
+Al amparo de lo previsto en la Resolución de 13 de octubre de 2016, conjunta de la Dirección General de la Agencia Estatal de Administración Tributaria y la Secretaría General del Tesoro y Política Financiera, por la que se establecen el procedimiento y condiciones para la participación por vía telemática en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado, se constituyó el siguiente depósito para participar en procedimientos de enajenación de bienes a través del Portal de Subastas de la Agencia Estatal Boletín Oficial del Estado:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>NÚMERO DE REFERENCIA COMPLETO (NRC) DE CONSTITUCIÓN DEL DEPÓSITO:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entidad de crédito:</p>
+</td>
+<td>
+<p>Código Banco de España:</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>IBAN:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>NIF depositante:</p>
+</td>
+<td>
+<p>Nombre/razón social:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha del depósito:</p>
+</td>
+<td>
+<p>Importe del depósito:</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Por cumplirse los requisitos exigidos para ello en la Resolución anteriormente citada, la Agencia Estatal Boletín Oficial del Estado ha autorizado la devolución de este depósito, en las siguientes condiciones:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>NÚMERO DE REFERENCIA COMPLETO (NRC) DE DEVOLUCIÓN DEL DEPÓSITO:</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>IBAN de la cuenta de abono del depósito:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de devolución del depósito:</p>
+</td>
+<td>
+<p>Importe del depósito:</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+## ANEXO VI
+
+## Ingreso de depósitos en el Tesoro Público: Registros en la pasarela de depósitos de subastas de la Agencia Tributaria
+
+1\. El Portal de Subastas de la AEBOE deberá remitir la siguiente información. El formato en que esta información se deba transmitir a los sistemas de información de la AEAT será determinado por el Departamento de Informática Tributaria:
+
+– Operación (005).
+
+– Tipo de operación: Alta (01), consulta (02).
+
+– NIF del titular del depósito.
+
+– Apellidos y nombre o razón social del titular del depósito.
+
+– NRC de constitución del depósito.
+
+‒ Importe del ingreso (debe coincidir con el importe de constitución).
+
+– Fecha de constitución del depósito.
+
+– Código IBAN donde se constituyó el depósito.
+
+– Tipo de autenticación.
+
+– Identificador de subastas AEAT, si procede.
+
+2\. Registro de orden de cargo.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 9 | An | NIF del titular del depósito (XNNNNNNNX). |
+| 2 | 10 | 8 | N | Fecha (AAAAMMDD). |
+| 3 | 18 | 10 | N | Hora (HHMMSSSSSS). |
+| 4 | 28 | 3 | An | Tipo de Operación de alta (005Ingreso de depósitos). |
+| 5 | 31 | 2 | An | Alta (01), consulta (02). |
+| 6 | 33 | 3 | N | Ceros. |
+| 7 | 36 | 4 | N | Ceros. |
+| 8 | 40 | 9 | An | NIF titular del depósito (XNNNNNNNX). |
+| 9 | 49 | 4 | N | Ceros. |
+| 10 | 53 | 13 | N | Importe del Ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 11 | 66 | 13 | An | Número de justificante(en el caso de consulta irá a blancos). |
+| 12 | 79 | 20 | N | Reservado (ceros). |
+| 13 | 99 | 22 | An | NRC de la constitución del depósito. |
+| 14 | 121 | 8 | N | Fecha constitución de depósito(AAAAMMDD). |
+| 15 | 129 | 16 | An | Reservado (blancos). |
+| 16 | 145 | 4 | N | Letras de etiqueta del titular del depósito en personas físicas. |
+| 17 | 149 | 120 | An | Blancos. |
+| 18 | 269 | 32 | An | Blancos. |
+| 19 | 301 | 34 | An | Código IBAN. |
+| 20 | 335 | 22 | An | Número de Referencia Completo generado por la AEAT. Solo en operaciones de alta, no de consulta. |
+| 21 | 357 | 84 | An | Reservado. |
+
+3\. Registro de respuesta de la entidad de crédito.
+
+| N.º | Pos. | Long. | Tipo | Descripción |
+|---|---|---|---|---|
+| 1 | 1 | 3 | An | Tipo de operación (005). Ingreso de Depósitos. |
+| 2 | 4 | 2 | An | Alta (01), consulta (02). |
+| 3 | 6 | 3 | N | Ceros. |
+| 4 | 9 | 6 | N | Ceros. |
+| 5 | 15 | 9 | An | N.I.F. del titular del depósito (XNNNNNNNX). |
+| 6 | 24 | 4 | An | Letras de etiqueta en personas físicas. |
+| 7 | 28 | 5 | N | Ceros. |
+| 8 | 33 | 13 | N | Importe del Ingreso (ajustado a la derecha y relleno de ceros a la izquierda). |
+| 9 | 46 | 13 | An | Número de justificante (en el caso de consulta irá a blancos). |
+| 10 | 59 | 20 | N | Reservado. |
+| 11 | 79 | 11 | N | Ceros. |
+| 12 | 90 | 8 | N | Fecha de la operación (AAAAMMDD). |
+| 13 | 98 | 22 | An | Número de Referencia Completo recibido en la orden de cargo o asociado al ingreso en caso de consulta. |
+| 14 | 120 | 2 | An | Código de retorno. |
+| 15 | 122 | 1 | N | Cero. |
+| 16 | 123 | 34 | An | Código IBAN. |
+| 17 | 157 | 54 | An | Reservado para posibles ampliaciones. |
+| 18 | 211 | 189 | An | Libre. |
+
+> Se sustituye por el apartado 1.4 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.
+
+> Se modifica por el apartado 1.4 de la Resolución de 4 de junio de 2018. [Ref. BOE-A-2018-7835](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7835).
+
+> Esta modificación será de aplicación desde el 16 de julio de 2018, según determina el apartado 2 de la citada Resolución.
+
+## ANEXO VII
+
+## Modelo de justificante del ingreso en el Tesoro Público de los depósitos correspondientes a licitadores que han resultado adjudicatarios en procedimientos de enajenación de bienes a través del portal de subastas de la Agencia Estatal Boletín Oficial del Estado
+
+En cumplimiento de la orden de ingreso recibida de la Agencia Estatal de Administración Tributaria a instancias de la Agencia Estatal Boletín Oficial del Estado, se ha procedido a efectuar el siguiente abono en la cuenta restringida del Tesoro Público:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>NÚMERO DE REFERENCIA COMPLETO (NRC) DE CONSTITUCIÓN DEL DEPÓSITO:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Entidad colaboradora:</p>
+</td>
+<td>
+<p>Código Banco de España:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>NIF depositante:</p>
+</td>
+<td>
+<p>Nombre/razón social:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha del depósito:</p>
+</td>
+<td>
+<p>Importe del depósito:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de lote:</p>
+</td>
+<td>
+<p>Importe de la adjudicación:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Procedimiento de enajenación:</p>
+</td>
+<td>
+<p>Fecha:</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>NÚMERO DE REFERENCIA COMPLETO (NRC) DEL INGRESO EN LA CUENTA RESTRINGIDA DEL TESORO PÚBLICO:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de justificante:</p>
+</td>
+<td>
+<p>Modelo: 002</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fecha de ingreso:</p>
+</td>
+<td>
+<p>Importe del ingreso:</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Este recibo surte los efectos liberatorios para con el Tesoro Público que establece el Reglamento General de Recaudación (Real Decreto 939/2005, de 29 de julio).
+
+## ANEXO VIII
+
+## Datos técnicos, de comunicación y seguridad
+
+– Aclaraciones para la correcta interpretación de los registros de orden de cargo y los registros de respuesta de las entidades colaboradoras:
+
+Pos = Posición.
+
+Long. = Longitud.
+
+N = Numérico.
+
+An = Alfanumérico.
+
+Todos los importes se expresan en céntimos de euro.
+
+– Seguridad: Todas las comunicaciones entre la AEAT y las entidades colaboradoras adheridas a los servicios de pago se realizarán desde la AEAT haciendo uso de un certificado electrónico cualificado que permita a las entidades colaboradoras determinar la autenticidad, confidencialidad, integridad y no repudio de la información transmitida.
+
+No será necesaria, por lo tanto, la inclusión de ningún proceso de cifrado adicional sobre los datos transmitidos.
+
+Las entidades colaboradoras deberán validar que dichas peticiones estén asociadas a un certificado electrónico comunicado previamente por la AEAT, no admitiendo las peticiones realizadas con otros certificados. Será responsabilidad de las entidades colaboradoras validar esta información de autenticación antes de procesar la operación de pago, no siendo la AEAT responsable de los perjuicios generados en caso de que la entidad colaboradora no realizara dicha validación o la realizara de forma defectuosa.
+
+– Comunicaciones: La comunicación entre la AEAT y el servicio de pago provisto por las entidades colaboradoras se realizará por el método POST del protocolo HTTP, remitiendo un documento de texto plano y recibirá una respuesta que contiene a su vez un documento de texto plano, de acuerdo a los formatos definidos de Registro de Orden de Cargo y Registro de Respuesta de Entidad Colaboradora.
+
+> Se añade por el apartado 1.4 de la Resolución de 6 de septiembre de 2021. [Ref. BOE-A-2021-14666](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-14666)
+
+> Téngase en cuenta para su aplicación el apartado segundo de la citada Resolución.

@@ -1,0 +1,289 @@
+---
+title: "Ley 17/2014, de 30 de septiembre, por la que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial"
+identifier: "BOE-A-2014-9896"
+eli: "https://www.boe.es/eli/es/l/2014/09/30/17"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2014-09-30
+published: 2014-10-01
+in_force_from: 2014-10-02
+last_amended: 2020-05-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 238"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2014-9896"
+retrieved: 2026-10-11
+---
+
+# Ley 17/2014, de 30 de septiembre, por la que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial
+
+FELIPE VI
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley:
+
+PREÁMBULO
+
+I
+
+Con frecuencia, empresas realmente viables desde un punto de vista operativo (es decir susceptibles de generar beneficios en su negocio ordinario) se han tornado en inviables desde un punto de vista financiero. Ante esta situación existen dos alternativas: o bien liquidar la empresa en su conjunto, o bien sanearla desde un punto de vista financiero, con el fin de que la deuda remanente sea soportable, permitiendo así que la empresa siga atendiendo sus compromisos en el tráfico económico, generando riqueza y creando puestos de trabajo. Parece evidente que la segunda alternativa es preferible a la primera, siendo en consecuencia obligación de los poderes públicos adoptar medidas favorecedoras del alivio de carga financiera o «desapalancamiento».
+
+Esa es precisamente la finalidad de esta Ley, que debe conjugarse con el máximo respeto a las legítimas expectativas de los acreedores, los cuales habrán de participar activamente y con las máximas garantías en estos procedimientos de alivio de carga financiera.
+
+Se trata en definitiva de favorecer también para ellos que una expectativa incierta de cobro de una cantidad elevada (en términos de capacidad de pago del deudor) se torne en una certeza razonable de cobro de una cantidad más reducida o sujeta a una mayor espera. Se trata de favorecer también los mecanismos para que la deuda pueda transformarse en capital.
+
+Sólo mediante el alivio de la deuda insostenible será posible lograr que vuelva a fluir el crédito, concebido no tanto como palanca sino como verdadera savia de la economía, puesto que el crédito es indispensable para atender los desfases entre cobros y pagos propios del giro empresarial y para acometer las inversiones verdaderamente productivas, siempre –claro está– que la deuda correspondiente sea soportable.
+
+II
+
+En los dos últimos años se han atendido, por orden de urgencia, las necesidades específicas de alivio de carga y desendeudamiento de los diversos sectores demandantes de crédito de la economía española.
+
+Las primeras medidas, las más urgentes y quizás las más intensas fueron las adoptadas en materia de deuda hipotecaria por adquisición de vivienda. Así, ya desde marzo de 2012 se adoptaron medidas relevantes tendentes a paliar la difícil situación en que se encontraban los deudores más vulnerables. Las medidas adoptadas desde entonces en el Real Decreto-ley 6/2012, de 9 de marzo, de medidas urgentes de protección de deudores hipotecarios sin recursos, en el Real Decreto-ley 27/2012, de 15 de noviembre, de medidas urgentes para reforzar la protección a los deudores hipotecarios y en la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social, han permitido dar una respuesta equilibrada respecto a este conjunto de deudores.
+
+Con posterioridad, la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización, abordó una serie de medidas destinadas a beneficiar a todo tipo de empresas y a los empresarios autónomos, destacando, entre otras, la regulación de la figura del emprendedor de responsabilidad limitada, la creación de la Sociedad Limitada de Formación Sucesiva y la introducción de un mecanismo de negociación extrajudicial de deudas de empresarios, ya fueran personas físicas o jurídicas.
+
+Este es el momento para acometer medidas principalmente destinadas a la reestructuración viable de la deuda empresarial. En efecto, una vez realizada la necesaria reestructuración del sector financiero, y saneados los balances bancarios, pueden y deben las entidades de crédito y los demás acreedores financieros contribuir al saneamiento de las empresas que, no obstante su elevado endeudamiento, siguen siendo productivas.
+
+III
+
+Lo paradójico del caso es que, en la actualidad, la dificultad para alcanzar acuerdos entre deudor y acreedores financieros deriva no tanto de la falta de voluntad de las partes, sino de ciertas rigideces residenciadas principalmente en la normativa concursal y preconcursal.
+
+El procedimiento concursal español concluye en un alto número de casos en la liquidación del deudor, de modo que la fase preconcursal resulta verdaderamente determinante para la reestructuración financiera de las empresas. A estos efectos, los acuerdos de refinanciación son los instrumentos más adecuados para el establecimiento de nuevos calendarios de amortización y condiciones financieras más acordes con la situación del mercado y de las empresas, a cambio de quitas, esperas y capitalizaciones de las deudas.
+
+Por ello, la presente reforma se centra en la mejora del marco legal preconcursal de los acuerdos de refinanciación, por constituir una de las áreas estratégicamente más relevantes en la medida en que, fruto del consenso entre el deudor y sus acreedores, pretenden la maximización del valor de los activos, evitando el concurso de la entidad, y la reducción o aplazamiento de los pasivos.
+
+Para eliminar incertidumbres legales se introdujeron en España los acuerdos colectivos de refinanciación así como su homologación judicial. Estos mecanismos otorgan protección legal a los acuerdos alcanzados por una mayoría suficiente de acreedores de modo que, en el eventual supuesto de un concurso, las operaciones en él incorporadas no estén sujetas a rescisión y, en su caso, puedan extender determinados efectos a acreedores disidentes o no partícipes.
+
+En este punto, se han detectado una serie de limitaciones en el potencial contenido de los acuerdos de refinanciación, las cuales están cercenando la eficacia y seguridad jurídica necesarias para acometer reestructuraciones financieras en las empresas. Por ello, resultan pertinentes medidas que contribuyan a garantizar el mantenimiento de estos valores.
+
+Antes de entrar en el detalle de las modificaciones que se introducen, conviene precisar que todas ellas buscan en definitiva la finalidad de mejora de la posición patrimonial del deudor, medida al fin y a la postre en la proporción que representan sus activos sobre sus pasivos exigibles, y dentro de ellos en la parte apta para atender el cumplimiento de sus obligaciones más inmediatas. De este modo se asegura que todas estas acciones no perjudican un eventual concurso de acreedores, ya sea porque el peligro de dicho concurso se aleja definitivamente (lo cual es lo más deseable), ya sea porque las actuaciones previas al concurso no han perjudicado la situación patrimonial del deudor.
+
+Por este motivo, siempre que los acuerdos reúnan los requisitos previstos en esta Ley no se verán sometidos al riesgo de rescindibilidad que tanto ha retraído hasta ahora la actuación de las partes en fase preconcursal.
+
+IV
+
+La parte dispositiva de esta Ley consta de un único artículo, en cuya virtud se modifican varios preceptos de la Ley 22/2003, de 9 de julio, Concursal.
+
+Así, en primer lugar, se modifica el artículo 5 bis, permitiendo que la presentación de la comunicación de iniciación de negociaciones para alcanzar determinados acuerdos pueda suspender, durante el plazo previsto para llevarlas a efecto, las ejecuciones judiciales de bienes que resulten necesarios para la continuidad de la actividad profesional o empresarial del deudor. También se permite la suspensión del resto de ejecuciones singulares promovidas por los acreedores financieros a los que se refiere la Disposición adicional cuarta, siempre que se justifique que un porcentaje no inferior al 51 por ciento de acreedores de pasivos financieros han apoyado expresamente el inicio de las negociaciones encaminadas a la suscripción del correspondiente acuerdo de refinanciación. Quedan excluidos de la suspensión, en todo caso, los procedimientos que tengan su origen en créditos de derecho público. Se pretende de este modo que el artículo 5 bis fomente una negociación eficaz sin acelerar la situación de insolvencia del deudor por razón de una precipitada ejecución de garantías sobre determinados bienes.
+
+También se introducen varios cambios en el Título ll de la Ley, que regula el régimen de la administración concursal. En primer lugar, se establecen las directrices que deberán guiar el nuevo sistema de requisitos para ejercer como administrador concursal y que tiene como objetivo asegurar que las personas que desempeñen las funciones de administrador concursal cuenten con las aptitudes y conocimientos suficientes. En este ámbito, destaca como novedad la posibilidad de exigir la superación de pruebas o cursos específicos y la creación de una sección cuarta de administradores concursales y auxiliares delegados en el Registro Público Concursal, donde deberán inscribirse todas las personas físicas y jurídicas que cumplan con los requisitos que se exijan, especificando el ámbito territorial en el que estén dispuestas a ejercer sus labores de administración concursal.
+
+En segundo lugar, se reforma el sistema de designación de la administración concursal, cuyo funcionamiento será desarrollado mediante reglamento. Se establecen como pilares del nuevo sistema la sección cuarta del Registro Público Concursal, que sustituye a las actuales listas en los decanatos de los juzgados y la clasificación de los concursos en función de su tamaño. Esta clasificación pretende aproximar, a través del tamaño, la complejidad que cabe esperar del concurso para poder modular los requisitos exigidos a la administración concursal. Asimismo, se recopilan en nuevo artículo las funciones que los administradores ya tienen atribuidas actualmente en la ley y que deberán ejercerse atendiendo a las singularidades propias de cada tipo de procedimiento y en función de la concreta fase concursal a las que resulten de aplicación.
+
+En tercer lugar, se introducen modificaciones en los principios rectores de la remuneración de la administración concursal. Se incorpora el principio de eficiencia, que pretende asegurar que la remuneración de la administración concursal tenga en cuenta la calidad y los resultados de su trabajo. De este modo, se persigue que el arancel no solo sea un mecanismo de retribución, sino también un mecanismo de incentivos que fomente la calidad, la diligencia y la agilidad de la administración concursal.
+
+Por otro lado, se acomete una modificación del artículo 56, para limitar los supuestos de suspensión de ejecución de bienes dotados de garantía real a aquellos que resulten necesarios para la continuidad de su actividad profesional o empresarial. Y es que dentro de las facultades que tradicionalmente integran el derecho de propiedad (el *ius utendi*, el *ius fruendi*y el *ius disponendi*), no siempre es necesario que concurran todas ellas para que un determinado bien quede afecto a la actividad empresarial. En determinados supuestos es posible separar la facultad de disposición de las de uso y disfrute, sin perjuicio alguno para la continuación de la actividad productiva pero con evidente ventaja para el acreedor que podrá movilizar antes su propia facultad de disposición y que por ello verá disminuidos los costes financieros necesarios para tal movilización, redundando ello en definitiva en mayores posibilidades de financiación para el deudor y en una revalorización de sus activos. Así pues las ejecuciones son realmente obstativas de la continuación de la actividad empresarial cuando no pueda realizarse esa separación del derecho de disposición sin detrimento de las facultades de uso y disfrute de la empresa. A modo de ejemplo, se introduce en el artículo 56 un supuesto en el que dicha disociación puede hacerse con relativa facilidad sin perjuicio de la continuación de la actividad: se excluyen de la suspensión de las ejecuciones las acciones o participaciones de sociedades destinadas en exclusiva a la tenencia de un activo y del pasivo necesario para su financiación. Con ello se pretende facilitar la financiación de activos mediante estructuras y pactos que permitan la eventual realización del bien con conservación por parte del deudor de título suficiente, aunque sea meramente obligacional, para continuar su explotación.
+
+La Ley Concursal vuelve a la sistemática original regulando íntegramente en el artículo 71 las denominadas acciones de reintegración.
+
+Lo que hasta ahora había sido recogido en el apartado 6 de dicho artículo como supuesto de no rescindibilidad se recoge separadamente en el artículo 71 bis junto con un nuevo supuesto.
+
+Así, en el apartado 1, se mantiene en lo esencial la regulación de lo hasta ahora previsto en el apartado 6 del artículo 71, si bien se clarifica su extensión, que comprenderá los negocios, actos y pagos, cualquiera que sea su naturaleza, que permitan la ampliación significativa del crédito o la modificación o extinción de obligaciones. Dentro de ellos están incluidas, tal y como se ha venido reconociendo en numerosos pronunciamientos judiciales, las cesiones de bienes y derechos en pago o para pago. Adicionalmente, se elimina la necesidad de informe de experto independiente, sustituyéndola por certificación del auditor de cuentas acreditativa de la concurrencia de las mayorías exigidas para su adopción.
+
+En el apartado 2 del artículo 71 bis se introduce un nuevo supuesto en el cual los acuerdos alcanzados se declaran no rescindibles, sin necesidad de alcanzar determinadas mayorías de pasivo, constituyéndose en consecuencia un «puerto seguro» que permita la negociación directa del deudor con uno o más acreedores, siempre que signifiquen simultáneamente una mejora clara de la posición patrimonial del deudor, es decir, que no conlleven una merma de los derechos del resto de acreedores no intervinientes. Se configura de este modo una posibilidad más de acuerdo entre deudor y acreedor que es más restrictiva que la del apartado 1 del mismo artículo en cuanto a los supuestos pero más laxa en cuanto a los intervinientes. En efecto, si en el apartado 1 se exige la concurrencia de los tres quintos del pasivo pero se habla de forma más genérica de la mejora de condiciones de financiación, en el apartado 2, a cambio de no requerirse mayoría concreta de pasivo, se exigen requisitos muy estrictos para que los acuerdos no sean tampoco rescindibles por causas distintas al incumplimiento de las condiciones que el propio artículo establece. Sirva de ejemplo la letra c) que implicará en muchos casos por parte del acreedor interviniente la liberación de garantías (susceptibles de facilitar nueva financiación), que no resulta necesariamente exigible en el caso de los acuerdos colectivos de refinanciación.
+
+Al no ser rescindibles, los acuerdos que reúnan las condiciones del artículo 71 bis no estarán sometidos a las presunciones de los apartados 2 y 3 del artículo 71 aun cuando impliquen actos de disposición de activo. Además, la legitimación para el ejercicio de la acción rescisoria (que sólo podrá basarse en el incumplimiento material de los requisitos del artículo 71 bis por los acuerdos acogidos aparentemente al mismo) sigue estando restringida al administrador concursal y limitada a la ausencia de condiciones reguladas, respectivamente, en los dos primeros apartados del artículo 71 bis. También se limita al administrador concursal la legitimación para el ejercicio de las demás acciones de impugnación.
+
+Asimismo, y como medida para incentivar la concesión de nueva financiación, se atribuye con carácter temporal la calificación de crédito contra la masa a la totalidad de los que originen nuevos ingresos de tesorería, comprendiendo los que traigan causa en un acuerdo de refinanciación y los realizados por el propio deudor o personas especialmente relacionadas, con exclusión de las operaciones de aumento de capital. Esta medida se adopta con un carácter extraordinario y temporal para todos los nuevos ingresos de tesorería que se produzcan en el plazo de dos años desde la entrada en vigor de esta Ley. Transcurrido el plazo de los dos años desde su concesión, se considerarán crédito contra la masa en los términos indicados en el apartado 2.11.º del artículo 84.
+
+Lo anterior se complementa con una modificación del artículo 92, que prevé expresamente que quienes hayan adquirido la condición de socios en virtud de la capitalización de deuda acordada en el contexto de una operación de refinanciación, no serán considerados como personas especialmente relacionadas a efectos de calificar como subordinada la financiación por ellos otorgada como consecuencia de dicha operación.
+
+En conexión directa con el régimen de acuerdos de refinanciación, se acomete una revisión del régimen de homologación judicial regulado en la Disposición adicional cuarta. En particular, se amplía el ámbito subjetivo, extendiéndose la posibilidad de suscribir este acuerdo a todo tipo de acreedores de pasivos financieros, excluidos los acreedores por operaciones comerciales y los acreedores de derecho público.
+
+Asimismo, se posibilita la extensión a los acreedores disidentes o no participantes no solo de las esperas, sino también, mediante un porcentaje de pasivo superior, de otras medidas acordadas en el seno del acuerdo de refinanciación, como es el caso de las quitas, capitalización de deuda y cesión de bienes en pago o para pago.
+
+Existen dos elementos novedosos en esta Disposición en relación con los acreedores que dispongan de garantía real. Las novedades no afectan tanto a la realidad jurídica o económica subyacente sino a los efectos que se atribuyen a dicha realidad, habiendo sido precisamente la discrepancia existente hasta ahora entre realidad y efectos una de los mayores obstáculos a la viabilidad de estos acuerdos.
+
+En primer lugar, debe recordarse que hasta ahora se partía de una distinción entre deudor con garantía real y deudor sin garantía real, siendo el primero prácticamente inmune a los acuerdos homologados salvo en lo que pudiera afectar a esperas de duración limitada o suspensión de ejecuciones. Pero lo cierto es que no todos los acreedores con garantía real son de la misma condición. A veces tal circunstancia es un puro nominalismo, puesto que la garantía de la que se dispone es de un rango posterior a otras preferentes o puede recaer sobre un activo de muy escaso valor que cubre una pequeña parte de la deuda, o pueden producirse ambas situaciones simultáneamente. Lo relevante en consecuencia no es tanto realizar una distinción subjetiva, sino una distinción objetiva entre la parte de deuda que está cubierta por el valor real de la garantía y aquélla que no lo está, anticipando en cierta medida lo que podría ocurrir en caso de liquidación concursal. De este modo, el concepto determinante es el de valor real de la garantía que se define de forma simple en el apartado 2 de la Disposición adicional cuarta en unos términos totalmente coherentes con la realidad jurídica y económica de la referida garantía. A partir de ahí el tratamiento de la parte de créditos no cubiertos por la garantía es el mismo que se atribuye a los acreedores sin garantía real.
+
+La segunda novedad consiste en dar mayor relevancia y nitidez a una distinción que ya está configurada jurídicamente: aquella que se produce entre obligación principal y obligación accesoria. A veces se difumina dicha distinción, lo cual conduce también a una imperfecta regulación de los acuerdos de refinanciación. Lo que ha ocurrido en el tráfico jurídico y económico es que, a pesar de ser una obligación accesoria, la garantía ha adquirido un valor hasta cierto punto abstraído de la obligación principal, debido a su progresiva espiritualización, a su intangibilidad y a la posibilidad de transmisión del objeto de la garantía sin merma de la misma. Pero no puede perderse de vista que la garantía lo es siempre de una obligación principal y que, aunque el valor de la segunda dependa, también y entre otros, del valor de la primera, cada una conserva su esencia y características propias. Por ello, si la deuda principal puede ser afectada en caso de no tener cobertura de garantía real por el acuerdo de una mayoría muy cualificada de otros acreedores, la deuda cubierta con garantía real debe poder ser también afectada, siempre que el acuerdo mayoritario se adopte en este caso con mayorías cualificadas aún más elevadas pero computadas sobre el total de las garantías, es decir, por titulares de deuda garantizada que se encuentren en una situación similar a la del disidente o no participante en el acuerdo.
+
+En concordancia con lo anterior, se prevé la posibilidad de extender los efectos del acuerdo a determinados acreedores con garantía real y se simplifica el procedimiento de homologación, en el que el juez conoce directamente de la solicitud, en aras a garantizar la celeridad y flexibilidad buscada en esta fase preconcursal y en el que únicamente tendrá que comprobar la concurrencia de las mayorías exigidas para acordar la homologación. En cualquier caso, y con el fin de no perjudicar el valor de la garantía en caso de incumplimiento por parte del deudor, se establecen reglas especiales de atribución del resultante al acreedor.
+
+Por otro lado, se establece una medida destinada a evitar la sobreponderación artificiosa de determinadas participaciones minoritarias en acuerdos sindicados de financiación que hasta la fecha estaban dificultando enormemente la homologación de algunos acuerdos. De este modo se establece un límite al porcentaje de votos favorables en el sindicato cuando se trata de un acuerdo global de refinanciación del deudor. Se evitan de este modo ciertos comportamientos oportunistas que no buscaban otro beneficio que el ligado a la sobrevaloración de un pasivo por parte del resto de acreedores que veían de este modo incrementado su propio sacrificio.
+
+Se establecen además determinadas medidas destinadas a favorecer la transformación de deuda en capital, rebajando las mayorías exigibles por la Ley de Sociedades de Capital y estableciendo, con las debidas cautelas y garantías, una presunción de culpabilidad del deudor que se niega sin causa razonable a ejecutar un acuerdo de recapitalización.
+
+Debe recordarse que las modificaciones de la Ley 22/2003, de 9 de julio, Concursal introducidas en esta Ley se circunscriben exclusivamente a su ámbito de aplicación y, por lo tanto, la legislación especial seguirá rigiendo el concurso de entidades financieras y sus situaciones preconcursales. Adicionalmente, quedan a salvo, entre otras, las previsiones del Capítulo II del Título I del Real Decreto-ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública.
+
+V
+
+La parte final de esta Ley consta de tres disposiciones adicionales, dos disposiciones transitorias, una disposición derogatoria y once disposiciones finales.
+
+La Disposición adicional primera encomienda al Banco de España que, en el plazo de un mes, establezca y haga públicos criterios homogéneos para la clasificación como riesgo normal de las operaciones refinanciadas o reestructuradas en virtud de acuerdos de refinanciación homologados judicialmente.
+
+La Disposición adicional segunda establece el régimen extraordinario de los nuevos ingresos de tesorería al que se ha hecho referencia anteriormente.
+
+La Disposición adicional tercera se refiere al código de buenas prácticas para la reestructuración viable de la deuda empresarial que impulsará el Gobierno.
+
+La Disposición transitoria primera regula el régimen transitorio de los acuerdos de refinanciación que se estuvieran negociando al amparo del antiguo artículo 71.6 de la Ley Concursal; y la segunda se refiere al Régimen de la administración concursal.
+
+En la Disposición derogatoria se ordena la derogación de cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley.
+
+La Disposición final primera modifica la redacción del artículo 568 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, para adaptar el régimen de suspensión en caso de situaciones concursales o preconcursales a las modificaciones introducidas en el artículo 5 bis de la Ley 22/2003, de 9 de julio.
+
+La Disposición final segunda modifica el Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, estableciendo la ausencia de tributación en los supuestos de capitalización de deudas, salvo que la misma hubiera sido objeto de una adquisición derivativa por el acreedor, por un valor distinto al nominal de la misma. Se recoge así, expresamente en la Ley, un criterio que ya había sido admitido por la doctrina administrativa para determinados supuestos de capitalización de deudas entre entidades vinculadas.
+
+Asimismo, con el objeto de establecer un tratamiento adecuado a la situación económica actual, y de evitar que la fiscalidad suponga un obstáculo a las operaciones de refinanciación en general, se modifica la Ley del Impuesto sobre Sociedades en relación con el tratamiento fiscal de las rentas derivadas de quitas y esperas derivadas de la aplicación de la Ley Concursal. Así, teniendo en cuenta que ambas operaciones no incrementan la capacidad fiscal de las entidades, se establece un sistema de imputación del ingreso generado en la base imponible, en función de los gastos financieros que posteriormente se vayan registrando.
+
+La Disposición final tercera amplía la exención en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados a las escrituras que contengan quitas o minoraciones de los préstamos, créditos y demás obligaciones, facilitando los acuerdos de refinanciación o de pago.
+
+La Disposición final cuarta, como consecuencia de los acuerdos adoptados en el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas, celebrado el 18 de diciembre de 2013, suprime el apartado 6 de la disposición transitoria primera de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+La Disposición final quinta modifica la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles, con la finalidad de suprimir la exigencia de informe de los administradores sobre los proyectos de fusión en los casos de absorción de sociedad participada al 90 por ciento, cuando se trate de una fusión transfronteriza comunitaria. Un requisito que ya no se contempla en el artículo 15.2 de la Directiva 2005/56/CE, después de su modificación por la Directiva 2009/109/CE, en lo que se refiere a las obligaciones de información y documentación en el caso de las fusiones y escisiones.
+
+La Disposición final sexta introduce una modificación del último párrafo del apartado 1 del artículo 9 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales. Esta redacción procede de la Ley 11/2013, de 26 de julio, de medidas de apoyo al emprendedor y de estímulo del crecimiento y de la creación de empleo, y contenía como innovación importante el establecimiento de un parámetro dentro del cual serían válidas las modificaciones del interés legal de demora. De esta forma, se estableció que sería abusivo el interés pactado cuando fuera un 70 por ciento inferior al interés legal de demora. Esta redacción ha hecho surgir la duda de si las Administraciones Públicas podrían acogerse a estas rebajas del tipo de interés de demora, interpretación que la Comisión Europea rechaza de plano y que es compartida por el Gobierno. Por ello es urgente aclarar que las Administraciones Públicas no pueden modificar el tipo de interés de demora establecido en la Ley 3/2004, de 29 de diciembre.
+
+La Disposición final séptima reforma el Real Decreto-ley 10/2008, de 12 de diciembre, por el que se adoptan medidas financieras para la mejora de la liquidez de las pequeñas y medianas empresas, y otras medidas económicas complementarias, para evitar que las empresas incurran en causa legal de reducción de capital y, en su caso, de disolución a causa de las pérdidas. La culminación de la reestructuración del sector financiero y la puesta en marcha de la Sociedad de Gestión de Activos Procedentes de la Reestructuración Bancaria (SAREB) están influyendo en el sector inmobiliario y en el reajuste de precios de los activos inmobiliarios. Es previsible que también lo haga la propia aprobación de esta Ley, lo que hace aconsejable la aprobación de una nueva prórroga de esta medida durante este año. Además, a finales del año pasado se adoptaron determinadas medidas fiscales que serán plenamente efectivas en el presente ejercicio.
+
+La Disposición final octava modifica el artículo 8 del Real Decreto 1066/2007, de 27 de julio, sobre el régimen de las ofertas públicas de adquisición de valores, exceptuando la oferta pública de adquisición y la necesidad de solicitar, en su caso, dispensa a la Comisión Nacional del Mercado de Valores, cuando se trate de operaciones realizadas como consecuencia directa de un acuerdo de refinanciación homologado judicialmente, siempre que hubiera sido informado favorablemente por un experto independiente.
+
+La Disposición final novena permite que las determinaciones incluidas en normas reglamentarias que son objeto de modificación por esta Ley puedan ser modificadas por normas del rango reglamentario.
+
+Por último, las Disposiciones finales décima y undécima regulan, respectivamente, los títulos competenciales en virtud de los cuales se adopta la Ley, y su entrada en vigor, que tendrá lugar al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+## Artículo único. Modificación de la Ley 22/2003, de 9 de julio, Concursal.
+
+**(Derogado).**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.o) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## Disposición adicional primera. Tratamiento de las operaciones refinanciadas o reestructuradas como consecuencia de un acuerdo de refinanciación.
+
+El Banco de España, en el plazo de un mes, establecerá y hará públicos criterios homogéneos para la clasificación como riesgo normal de las operaciones reestructuradas como consecuencia de un acuerdo de refinanciación de los regulados por el artículo 71 bis o por la Disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal.
+
+## Disposición adicional segunda. Vigencia del régimen de los nuevos ingresos de tesorería.
+
+1\. Durante los dos años siguientes a la entrada en vigor de esta Ley, no será de aplicación el régimen contenido en el número 11 del apartado 2 del artículo 84 ni el número 6.º del artículo 91 de la Ley 22/2003, de 9 de julio, Concursal.
+
+2\. En este plazo, resultará aplicable el siguiente régimen jurídico:
+
+1.º Tendrán la consideración de créditos contra la masa los créditos que supongan nuevos ingresos de tesorería y hayan sido concedidos en el marco de un acuerdo de refinanciación suscrito a partir de la entrada en vigor de esta Ley, en las condiciones previstas en el artículo 71 bis o en la Disposición adicional cuarta de la Ley Concursal, hasta el importe del nuevo ingreso de tesorería.
+
+2.º Esta clasificación también se aplicará a los créditos concedidos en dichos acuerdos de refinanciación por el propio deudor o por personas especialmente relacionadas, que supongan nuevos ingresos de tesorería, y hasta el importe del nuevo ingreso efectuado. En ningún caso, tendrán la consideración de créditos contra la masa los ingresos de tesorería realizados a través de una operación de aumento de capital.
+
+3.º Los intereses devengados por los nuevos ingresos de tesorería a los que se refieren los números anteriores tendrán la calificación prevista en el número 3.º del artículo 92 de la Ley Concursal.
+
+4.º En caso de liquidación, también tendrán la consideración de créditos contra la masa los créditos concedidos al concursado en el marco de un convenio conforme a lo dispuesto en el artículo 100.5 de la Ley Concursal.
+
+3\. Transcurrido un plazo de dos años a contar desde la fecha de concesión de los créditos descritos en el apartado anterior, éstos se considerarán créditos contra la masa en los términos indicados en el número 11 del apartado 2 del artículo 84 de la Ley Concursal.
+
+## Disposición adicional tercera. Código de buenas prácticas para la reestructuración viable de la deuda empresarial.
+
+El Gobierno impulsará el desarrollo de un código de buenas prácticas para la reestructuración viable de la deuda empresarial con las entidades de crédito que ofrezca a pymes y autónomos altamente endeudados pero viables, la posibilidad de la reestructuración o refinanciación de la deuda empresarial.
+
+## Disposición transitoria primera. Régimen transitorio.
+
+En los acuerdos de refinanciación que, a la entrada en vigor de esta Ley se estén negociando al amparo del artículo 71.6 de la Ley 22/2003, de 9 de julio, Concursal, resultará de aplicación el régimen anterior a dicha entrada en vigor si el deudor ya hubiera solicitado del registrador mercantil la designación de un experto independiente, salvo que las partes opten expresamente en el acuerdo de refinanciación por la aplicación del régimen contenido en el artículo 71 bis.1, en la redacción dada por la presente Ley.
+
+## Disposición transitoria segunda. Régimen de la administración concursal.
+
+Las modificaciones introducidas en los artículos 27, 34 y 198 de la Ley 22/2003, de 9 de julio, Concursal, no entrarán en vigor hasta que lo haga su desarrollo reglamentario, que deberá aprobarse, a iniciativa de los Ministerios de Justicia y de Economía y Competitividad, en un plazo máximo de seis meses.
+
+## Disposición derogatoria.
+
+Quedan derogadas cuantas normas de igual o inferior rango se opongan o contradigan a lo dispuesto en la presente Ley.
+
+## Disposición final primera. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+El Título y el apartado 1 del artículo 568 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, quedan redactados en los siguientes términos:
+
+«Artículo 568. Suspensión en caso de situaciones concursales o preconcursales.
+
+1\. No se dictará auto autorizando y despachando la ejecución cuando conste al Tribunal que el demandado se halla en situación de concurso o se haya efectuado la comunicación a que se refiere el artículo 5 bis de la Ley Concursal y respecto a los bienes determinados en dicho artículo. En este último caso, cuando la ejecución afecte a una garantía real, se tendrá por iniciada la ejecución a los efectos del artículo 57.3 de la Ley Concursal para el caso de que sobrevenga finalmente el concurso a pesar de la falta de despacho de ejecución.»
+
+## Disposición final segunda. Modificación del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+Con efectos para los períodos impositivos que concluyan a partir de la entrada en vigor del Real Decreto-ley 4/2014, de 7 de marzo, por el que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial, se introducen las siguientes modificaciones en el texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo:
+
+Uno. Se añade un párrafo al final del apartado 1 del artículo 15, con la siguiente redacción:
+
+"Las operaciones de aumento de capital por compensación de créditos se valorarán fiscalmente por el importe de dicho aumento desde el punto de vista mercantil, con independencia de cuál sea la valoración contable."
+
+Dos. Se modifica la letra b) del apartado 2 del artículo 15, que queda redactada de la siguiente forma:
+
+"b) Los aportados a entidades y los valores recibidos en contraprestación, salvo en el supuesto previsto en el último párrafo del apartado anterior."
+
+Tres. Se modifica el primer párrafo del apartado 3 del artículo 15, que queda redactado de la siguiente forma:
+
+"3. En los supuestos previstos en las letras a), b), c) y d), la entidad transmitente integrará en su base imponible la diferencia entre el valor normal de mercado de los elementos transmitidos y su valor contable. No obstante, en el supuesto de aumento de capital por compensación de créditos, la entidad transmitente integrará en su base imponible la diferencia entre el importe del aumento de capital, en la proporción que le corresponda, y el valor fiscal del crédito capitalizado."
+
+Cuatro. Se añade un apartado 14 al artículo 19, que queda redactado de la siguiente forma:
+
+"14. El ingreso correspondiente al registro contable de quitas y esperas consecuencia de la aplicación de la Ley 22/2003, de 9 de julio, Consursal, se imputará en la base imponible del deudor a medida que proceda registrar con posterioridad gastos financieros derivados de la misma deuda y hasta el límite del citado ingreso.
+
+No obstante, en el supuesto de que el importe del ingreso a que se refiere el párrafo anterior sea superior al importe total de gastos financieros pendientes de registrar, derivados de la misma deuda, la imputación de aquel en la base imponible se realizará proporcionalmente a los gastos financieros registrados en cada período impositivo respecto de los gastos financieros totales pendientes de registrar derivados de la misma deuda."
+
+> Se modifica por la disposición final 5 de la Ley 9/2015, de 25 de mayo. [Ref. BOE-A-2015-5744](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5744).
+
+## Disposición final tercera. Modificación del Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre.
+
+Se modifica el número 19 de la letra B) del apartado I del artículo 45 del Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre, que queda redactado de la siguiente forma:
+
+«19. Las escrituras que contengan quitas o minoraciones de las cuantías de préstamos, créditos u otras obligaciones del deudor que se incluyan en los acuerdos de refinanciación o en los acuerdos extrajudiciales de pago establecidos en la Ley 22/2003, de 9 de julio, Concursal, siempre que, en todos los casos, el sujeto pasivo sea el deudor.»
+
+## Disposición final cuarta. Modificación de la Disposición transitoria primera de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+Se suprime el apartado 6 de la Disposición transitoria primera de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+## Disposición final quinta. Modificación de la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles.
+
+El apartado 1 del artículo 50 de la Ley 3/2009, de 3 de abril, sobre modificaciones estructurales de las sociedades mercantiles, pasa a tener la siguiente redacción:
+
+«1. Cuando la sociedad absorbente fuera titular directa del noventa por ciento o más, pero no de la totalidad del capital de la sociedad o de las sociedades anónimas o de responsabilidad limitada que vayan a ser objeto de absorción, no serán necesarios los informes de administradores y de expertos sobre el proyecto de fusión, siempre que en éste se ofrezca por la sociedad absorbente a los socios de las sociedades absorbidas la adquisición de sus acciones o participaciones sociales, estimadas en su valor razonable, dentro de un plazo determinado que no podrá ser superior a un mes a contar desde la fecha de la inscripción de la absorción en el Registro Mercantil.»
+
+## Disposición final sexta. Modificación de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.
+
+El último párrafo del apartado 1 del artículo 9 de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, pasa a tener la siguiente redacción:
+
+«En todo caso, son nulas las cláusulas pactadas entre las partes o las prácticas que resulten contrarias a los requisitos para exigir los intereses de demora del artículo 6, o aquellas que excluyan el cobro de dicho interés de demora o el de la indemnización por costes de cobro prevista en el artículo 8. También son nulas las cláusulas y prácticas pactadas por las partes o las prácticas que excluyan el interés de demora, o cualquier otra sobre el tipo legal de interés de demora establecido con carácter subsidiario en el apartado 2 del artículo 7, cuando tenga un contenido abusivo en perjuicio del acreedor, entendiendo que será abusivo cuando el interés pactado sea un 70 por ciento inferior al interés legal de demora, salvo que atendiendo a las circunstancias previstas en este artículo, pueda probarse que el interés aplicado no resulta abusivo. Esta posible modificación del interés de demora, de acuerdo con lo previsto en esta Ley, no será de aplicación a las operaciones comerciales realizadas con la Administración.»
+
+## Disposición final séptima. Modificación del Real Decreto-ley 10/2008, de 12 de diciembre, por el que se adoptan medidas financieras para la mejora de la liquidez de las pequeñas y medianas empresas, y otras medidas económicas complementarias.
+
+La Disposición adicional única del Real Decreto-ley 10/2008, de 12 de diciembre, por el que se adoptan medidas financieras para la mejora de la liquidez de las pequeñas y medianas empresas, y otras medidas económicas complementarias, queda redactada en los siguientes términos:
+
+«1. A los solos efectos de la determinación de las pérdidas para la reducción obligatoria de capital regulada en el artículo 327 del Texto Refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y para la disolución prevista en el artículo 363.1.e) del citado Texto Refundido, así como respecto del cumplimiento del presupuesto objetivo del concurso contemplado en el artículo 2 de la Ley 22/2003, de 9 de julio, Concursal, no se computarán las pérdidas por deterioro reconocidas en las cuentas anuales, derivadas del Inmovilizado Material, las Inversiones Inmobiliarias y las Existencias o de préstamos y partidas a cobrar.
+
+2\. Lo dispuesto en el apartado anterior únicamente será de aplicación excepcional en los ejercicios sociales que se cierren en el año 2014.»
+
+## Disposición final octava. Modificación del Real Decreto 1066/2007, de 27 de julio, sobre el régimen de las ofertas públicas de adquisición de valores.
+
+La letra d) del artículo 8 del Real Decreto 1066/2007, de 27 de julio, sobre el régimen de las ofertas públicas de adquisición de valores, queda redactada en los siguientes términos:
+
+«d) Adquisiciones u otras operaciones procedentes de la conversión o capitalización de créditos en acciones de sociedades cotizadas cuya viabilidad financiera esté en peligro grave e inminente, aunque no esté en concurso, siempre que se trate de operaciones concebidas para garantizar la recuperación financiera a largo plazo de la sociedad.
+
+Corresponderá a la Comisión Nacional del Mercado de Valores acordar, en un plazo no superior a quince días a contar desde la presentación de la correspondiente solicitud por cualquier persona interesada, que no resulta exigible una oferta pública. No será necesario el acuerdo de dispensa cuando las operaciones descritas en esta letra se hubieran realizado como consecuencia directa de un acuerdo de refinanciación homologado judicialmente conforme a lo previsto en la Disposición adicional cuarta de la Ley 22/2003, de 9 de julio, Concursal, siempre que hubiese sido informado favorablemente por un experto independiente en los términos previstos por el artículo 71 bis 4 del citado texto legal.»
+
+## Disposición final novena. Modificación de disposiciones reglamentarias.
+
+Las determinaciones incluidas en normas reglamentarias que son objeto de modificación por esta Ley podrán ser modificadas por normas del rango reglamentario correspondiente a la norma en que figuran.
+
+## Disposición final décima. Título competencial.
+
+La modificación de la Ley 22/2003, de 9 de julio, Concursal contenida en el artículo único de esta Ley se dicta al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de «legislación mercantil y de legislación procesal», sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
+
+La Disposición adicional primera se dicta al amparo del artículo 149.1.11.ª, que atribuye al Estado competencia exclusiva en materia de ordenación de crédito, banca y seguros.
+
+Las demás modificaciones de textos legales contenidas en las Disposiciones finales primera a octava de la presente Ley se amparan en el título competencial establecido en la norma objeto de modificación.
+
+## Disposición final undécima. Entrada en vigor.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+
+Madrid, 30 de septiembre de 2014.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+MARIANO RAJOY BREY

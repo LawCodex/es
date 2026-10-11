@@ -1,0 +1,681 @@
+---
+title: "Ley 6/2015, de 29 de diciembre, de Medidas Fiscales y Administrativas para el año 2016"
+identifier: "BOE-A-2016-392"
+eli: "https://www.boe.es/eli/es-ri/l/2015/12/29/6"
+type: act
+rank: "Ley"
+jurisdiction: es-la-rioja
+language: es
+department: "Comunidad Autónoma de La Rioja"
+date: 2015-12-29
+published: 2016-01-16
+in_force_from: 2016-01-01
+last_amended: 2017-04-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 14"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2016-392"
+retrieved: 2026-10-11
+---
+
+# Ley 6/2015, de 29 de diciembre, de Medidas Fiscales y Administrativas para el año 2016
+
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA
+
+Sepan todos los ciudadanos que el Parlamento de La Rioja ha aprobado, y yo, en nombre de su Majestad el Rey y de acuerdo con lo que establece la Constitución y el Estatuto de Autonomía, promulgo la siguiente Ley:
+
+EXPOSICIÓN DE MOTIVOS
+
+I
+
+El Tribunal Constitucional estableció la doctrina de que las medidas de carácter normativo que han de aprobarse como complemento necesario a la Ley de Presupuestos no deben integrarse en la misma, sino que deben incorporarse a otra ley específica con rango de ley ordinaria, de modo que los trámites parlamentarios no queden sujetos a las limitaciones propias de la tramitación de la norma presupuestaria.
+
+El Tribunal Supremo resolvió el debate sobre la naturaleza de las denominadas leyes de medidas o leyes de acompañamiento de los presupuestos, definiendo este tipo de normas como leyes ordinarias cuyo contenido está plenamente amparado por la libertad de configuración normativa de la que goza el legislador y que permiten una mejor y más eficaz ejecución del programa del Gobierno en los distintos ámbitos en los que se desenvuelve su acción. Sin embargo, se diferencian de la Ley de Presupuestos en que la facultad de enmienda es plena y no se encuentra limitada. Esta doctrina ha sido posteriormente refrendada por el Tribunal Constitucional en su sentencia 136/2011, de 13 de septiembre.
+
+El contenido principal de esta ley lo constituyen las medidas de naturaleza tributaria, si bien se incorporan también otras de carácter administrativo.
+
+Esta norma encuentra cobertura en diversos preceptos del Estatuto de Autonomía de La Rioja, aprobado por Ley Orgánica 3/1982, de 9 de junio, en concreto, en sus artículos 8.uno, 26.uno y 48.
+
+II
+
+La ley comienza con normas de naturaleza tributaria, dictadas en uso de las facultades normativas atribuidas por el artículo 48 del Estatuto de Autonomía de La Rioja y por la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+
+Las medidas de carácter tributario relativas a los tributos cedidos conservan sustancialmente las ya introducidas en años anteriores por el Parlamento de La Rioja en una versión consolidada, de modo que toda la normativa a aplicar en el ejercicio 2016 se encuentre compilada en un único texto, facilitando su aplicación por los interesados y garantizando la seguridad jurídica.
+
+La primera parte, relativa a los tributos cedidos, incluye como novedad más relevante una modificación de la normativa relativa al impuesto sobre la renta de las personas físicas. La medida consiste principalmente en la modificación de la escala autonómica del impuesto para su adaptación parcial a la escala general estatal. De este modo, se introducen nuevos tramos de renta en beneficio de la justicia distributiva, a la vez que se realiza una rebaja impositiva de dos puntos repartidos de forma progresiva en los primeros tramos con elevación en el último, cumpliendo con el objetivo de progresividad y en atención al criterio de capacidad económica en la distribución de la carga tributaria. Asimismo, se realizan una serie de adaptaciones formales a lo largo de los primeros capítulos para aclarar la normativa estatal aplicable en relación con determinadas medidas fiscales ligadas al concepto de inversión en vivienda habitual.
+
+La principal novedad en materia de impuestos propios es la supresión del impuesto sobre grandes establecimientos comerciales. La supresión obedece a la calificación de este tributo por parte de la Comisión Europea como una ayuda de Estado contraria a la libre competencia, lo que obligaba a extenderlo absolutamente a todos los comercios, con independencia de su tamaño y situación, o a suprimirlo por completo. Se ha considerado que esta segunda opción es mucho menos lesiva para un territorio con un denso tejido comercial, pero compuesto de forma muy mayoritaria por pequeñas empresas y microempresas.
+
+Se mantiene sin cambios el coeficiente para la fijación de la cuantía del canon de saneamiento, que no experimenta incremento en este ejercicio. No obstante, se introducen dos novedades en su regulación: se introduce un criterio legal para calcular la base del impuesto en los supuestos en los que el consumo de agua se vea incrementado como consecuencia de una avería fortuita, y se establece una presunción sobre la distribución del consumo de agua en las plantas de producción de champiñón y seta, para el caso de que no existan distintos contadores de consumo que permitan discriminar la que se destina a riego agrícola –que está exenta‒ y la que se dedica a otros usos como limpieza, que sí deben tributar.
+
+La ley revisa también diferentes tasas para adaptarlas a diversos cambios normativos, técnicos o procedimentales, como la tasa 05.04, para adaptarse a la sustitución del Registro Oficial de Establecimientos y Servicios Plaguicidas por el Registro Oficial de Productores Operadores de Medios de Defensa Fitosanitarios; la tasa 06.04, por servicios sanitarios, que adapta el grupo de tarifas de farmacia a la reciente trasposición de normativa europea; la tasa 08.05, por expedición de títulos académicos y profesionales, que en la actualidad debe incorporar los nuevos títulos de formación profesional básica y los certificados de idiomas de nivel C1; y la tasa 08.12, sobre acreditación y/o inscripción de centros de formación para el empleo, que se adapta a la nueva terminología de la normativa básica estatal sobre servicios de empleo. También se crean dos nuevas tasas, una por la inscripción a pruebas de competencias clave necesarias para el acceso a formación de certificados de profesionalidad, y otra para la inscripción a las pruebas libres para la obtención de los títulos de técnico y técnico superior de formación profesional.
+
+III
+
+El segundo bloque de la ley, integrado en el título II, recoge la modificación de diversas leyes y adopta algunas medidas independientes, con el objetivo de facilitar la consecución de los fines previstos en la Ley de Presupuestos, porque por su contenido se encuentra ligado a la ejecución del gasto o por su urgencia no conviene demorar su aprobación.
+
+La modificación de la Ley 5/2010, de 14 de mayo, de coordinación de Policías Locales de La Rioja, obedece a su adaptación a la jurisprudencia del Tribunal Constitucional y del Tribunal de Justicia de la Unión Europea, así como a acuerdos con el Ministerio de Defensa para facilitar la incorporación de veteranos de tropa y marinería de las Fuerzas Armadas a los cuerpos de Policía Local mediante reserva de plazas en los procesos selectivos.
+
+La Ley 1/2006, de 28 de febrero, de Protección de Menores de La Rioja, se ha visto afectada en algunas de sus previsiones por la reciente aprobación de la Ley Orgánica 8/2015, de 22 de julio, y la Ley 26/2015, de 28 de julio, que modifican el sistema de protección a la infancia y a la adolescencia, y requiere su modificación urgente en algunos extremos para evitar situaciones de descoordinación.
+
+La ausencia de un procedimiento específico para declarar el interés regional en materia de regadíos aconseja contar con un marco jurídico que permita la ejecución directa de la obra sobre regadíos titularidad de las comunidades de regantes en determinados casos tasados por la ley en que concurre un interés regional.
+
+La Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas, de La Rioja, establece que las empresas de juego deben depositar determinadas fianzas para responder de las obligaciones derivadas de dicha ley, incluyendo los tributos sobre el juego. Se ha considerado conveniente dotar de mayor precisión a la redacción de la norma para evitar problemas en su aplicación.
+
+## TÍTULO I — Medidas tributarias
+
+### CAPÍTULO I — Impuesto sobre la renta de las personas físicas
+
+#### Artículos 1 a 3.
+
+**(Derogados).**
+
+> Se derogan, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO II — Impuesto sobre el patrimonio
+
+#### Artículo 4. Bonificación general en el impuesto sobre el patrimonio.
+
+**(Derogado).**
+
+> Se deroga, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO III — Impuesto sobre sucesiones y donaciones
+
+#### Artículos 5 a 17.
+
+**(Derogados).**
+
+> Se derogan, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO IV — Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+#### Artículos 18 a 31.
+
+**(Derogados).**
+
+> Se derogan, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO V — Disposiciones comunes al impuesto sobre sucesiones y donaciones e impuesto sobre transmisiones patrimoniales y actos jurídicos documentados
+
+#### Artículo 32. Concepto de vivienda habitual a efectos del impuesto de sucesiones y donaciones y del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados.
+
+**(Derogado).**
+
+> Se deroga, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO VI — Tributos sobre el juego
+
+#### Artículos 33 a 43.
+
+**(Derogados).**
+
+> Se derogan, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO VII — Canon de saneamiento
+
+#### Artículo 44. Modificación de la Ley 5/2000, de 25 de octubre, de Saneamiento y Depuración de Aguas Residuales de La Rioja.
+
+**(Derogado).**
+
+> Se deroga, por la disposición derogatoria única de la Ley 3/2017, de 31 de marzo. [Ref. BOE-A-2017-4394](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4394)
+
+### CAPÍTULO VIII — Impuesto sobre grandes superficies comerciales
+
+#### Artículo 45. Supresión del impuesto sobre grandes superficies comerciales.
+
+Con efectos desde 1 de enero de 2016 queda suprimido el impuesto sobre los grandes establecimientos comerciales de la Comunidad Autónoma de La Rioja regulado en los artículos 35 a 48 de la Ley 7/2012, de 21 de diciembre, de Medidas Fiscales y Administrativas para el año 2013.
+
+### CAPÍTULO IX — Tasas
+
+#### Artículo 46. Modificación de la Ley 6/2002, de 18 de octubre, de tasas y precios públicos de la Comunidad Autónoma de La Rioja.
+
+Uno. Se modifica la TASA 05.04. TASA POR LA PRESTACIÓN DE LOS SERVICIOS RELACIONADOS CON LA PRODUCCIÓN AGRÍCOLA.
+
+Primero. Se modifican los subgrupos de tarifas 2.1 Inscripción de registros oficiales de establecimientos y servicios de plaguicidas y 2.2 Por renovación de la inscripción en registros oficiales de establecimientos y servicios de plaguicidas, que quedan redactados en los siguientes términos:
+
+«2.1 Inscripción y certificación en ROPO (Registro Oficial de Productores y Operadores de medios de defensa fitosanitarios):
+
+2.1.1 Operador del sector suministrador:
+
+2.1.1.1 Fabricación y Producción material: 25,00 €.
+
+2.1.1.2 Comercialización: 25,00 €.
+
+2.1.1.3 Distribución: 18,00 €.
+
+2.1.1.4 Logística: 18,00 €.
+
+2.1.2 Operador del sector de tratamientos fitosanitarios:
+
+2.1.2.1 Prestación de servicios de aplicación de productos fitosanitarios por cuenta a terceros o socios de entidades o cooperativas: 18,00 €.
+
+2.1.2.2 Aplicación de productos fitosanitarios con carácter industrial y por cuenta propia, mediante equipos o instalaciones fijas: 18,00 €.
+
+2.1.3 Operador del sector de asesoramiento fitosanitario: 18,00 €.
+
+2.1.4 Operador del sector de usuarios profesionales:
+
+2.1.4.1 Inscripción en ROPO y entrega de carné: 10,00 €.
+
+2.2 Renovación de inscripción y de certificación en ROPO (Registro Oficial de Productores y Operadores de medios de defensa fitosanitarios):
+
+2.2.1 Operador del sector suministrador:
+
+2.2.1.1 Fabricación y Producción material: 18,00 €.
+
+2.2.1.2 Comercialización: 18,00 €.
+
+2.2.1.3 Distribución: 8,00 €.
+
+2.2.1.4 Logística: 8,00 €.
+
+2.2.2 Operador del sector de tratamientos fitosanitarios:
+
+2.2.2.1 Prestación de servicios de aplicación de productos fitosanitarios por cuenta a terceros o socios de entidades o cooperativas: 8,00 €.
+
+2.2.2.2 Aplicación de productos fitosanitarios con carácter industrial y por cuenta propia, mediante equipos o instalaciones fijas: 8,00 €.
+
+2.2.3 Operador del sector de asesoramiento fitosanitarios: 8,00 €.
+
+2.2.4 Operador del sector de usuarios profesionales:
+
+2.2.4.1 Dotación de duplicado de carné de usuario profesional por pérdida o renovación: 8,00 €.»
+
+Segundo. Se suprime el subgrupo de tarifas 2.3. Por apertura y sellado de libros.
+
+Tercero. Se crea el grupo de tarifas 3 siguiente:
+
+«3. Producción Integrada:
+
+3.1 Por inscripción en el registro de productores y certificación:
+
+La cuantía será el resultado de la suma de una tasa fija más una tasa variable más una tasa de certificación:
+
+a) Tasa fija: 10,08 €.
+
+b) Tasa variable: será la suma de las cifras obtenidas de multiplicar las hectáreas de la explotación que pertenezcan a cada grupo de cultivo, por el valor en euros/hectárea descritos en el cuadro siguiente:
+
+| Cultivo | Tasa por cultivo<br>–<br>Euros |
+|---|---|
+| Alubia verde | 5,00 |
+| Guisante verde | 5,00 |
+| Patata | 5,00 |
+| Zanahoria | 5,00 |
+| Alcachofa | 6,00 |
+| Brásicas | 6,00 |
+| Pimiento | 6,00 |
+| Remolacha | 6,00 |
+| Frutales (hueso y pepita) | 7,00 |
+| Setas y champiñones | 14,00 |
+| Tomate en invernadero | 14,00 |
+
+c) Tasa de certificación (incluye inspección y/o revisión documental y capa gráfica (SIG)): 19,20 €.
+
+Se considera que la superficie media por productor inscrito está entre 4 y 6 hectáreas.
+
+3.2 Tasa anual por mantenimiento/modificación del registro y certificación productores:
+
+La cuantía será el resultado de la suma de una tasa fija, más una tasa variable, más una tasa de certificación:
+
+a) Tasa fija: 6,04 €.
+
+b) Tasa variable: será la suma de las cifras obtenidas de multiplicar las hectáreas de la explotación que pertenezcan a cada grupo de cultivo, descritos en el cuadro anterior para la tarifa «por inscripción en el registro de productores y certificación».
+
+c) Tasa de certificación (incluye inspección y/o revisión documental y capa gráfica (SIG)): 19,20 €.
+
+3.3 Por inscripción en el Registro de Producción Integrada de elaboradores y certificación: 268,71 €.
+
+3.4 Tasa anual por mantenimiento/modificación del registro y certificación elaboradores: 253,20 €.
+
+3.5 Tasa por duplicado de certificados (productores/elaboradores): 7,11 €.»
+
+Dos. Se modifica la TASA 06.04. TASA POR SERVICIOS SANITARIOS.
+
+Se sustituye el grupo de tarifas 5. Servicios de control de las inspecciones farmacéuticas, por el siguiente grupo de tarifas:
+
+«5. Servicios farmacéuticos.
+
+5.1 OFICINAS DE FARMACIA.
+
+5.1.1 Participación en el concurso de apertura: 142,82 €.
+
+5.1.2 Autorización de instalación por apertura (nueva o transmisión total) o traslado: 259,66 €.
+
+5.1.3 Autorización de clausura: 185,72 €.
+
+5.1.4 Autorización de modificaciones del local que supongan cambios en la estructura: 185,72 €.
+
+5.1.5 Cambio de titularidad (transmisión parcial): 162,29 €.
+
+5.1.6 Nombramiento de regente/sustituto: 125,55 €.
+
+5.1.7 Autorización de cada sección de actividad diferente a la propia del establecimiento: 220,72 €.
+
+5.1.8 Por cada inspección posterior a la puesta en funcionamiento: 116,86 €.
+
+5.1.9 Autorización del nivel de elaboración de fórmulas magistrales y preparados oficinales: 131,69 €.
+
+5.1.10 Comunicación de ampliaciones o reducciones horarias: 56,94 €.
+
+5.2 SERVICIOS FARMACÉUTICOS DE FARMACIA HOSPITALARIA, CENTROS SOCIOASISTENCIALES Y UNIDADES DE RADIOFARMACIA.
+
+5.2.1 Autorización de instalación por apertura o traslado: 332,27 €.
+
+5.2.2 Autorización de clausura: 196,39 €.
+
+5.2.3 Autorización de modificaciones del local que supongan cambios de estructura: 196,39 €.
+
+5.2.4 Autorización del nombramiento del farmacéutico responsable: 104,21 €.
+
+5.2.5 Autorización del nivel de elaboración de fórmulas magistrales y preparados oficinales: 163,70 €.
+
+5.2.6 Inspección y verificación de normas de correcta fabricación (NCF): 389,52 €.
+
+5.2.7 Emisión del certificado de normas de correcta fabricación (NCF): 155,80 €.
+
+5.2.8 Por cada inspección posterior a la puesta en funcionamiento: 116,86 €.
+
+5.3 DEPÓSITOS DE MEDICAMENTOS EN CENTROS PENITENCIARIOS, SOCIOASISTENCIALES Y HOSPITALARIOS.
+
+Se aplicarán las tarifas correspondientes a servicios farmacéuticos con una reducción del 30%.
+
+5.4 BOTIQUINES RURALES, EN CONSULTAS MÉDICAS, CLÍNICAS HUMANAS, VETERINARIAS Y MUTUAS.
+
+5.4.1 Autorización de instalación por apertura o traslado: 162,29 €.
+
+5.4.2 Autorización de clausura: 116,86 €.
+
+5.4.3 Autorización de modificaciones del local que supongan cambios de estructura: 120,72 €.
+
+5.4.4 Nombramiento de farmacéutico responsable: 77,89 €.
+
+5.4.5 Por cada inspección posterior a la puesta en funcionamiento: 84,39 €.
+
+5.5 ENTIDADES DE DISTRIBUCIÓN DE MEDICAMENTOS.
+
+5.5.1 Autorización de instalación por apertura o traslado: 454,40 €.
+
+5.5.2 Autorización de clausura: 248,87 €.
+
+5.5.3 Autorización de modificaciones del local que supongan cambios en su estructura: 248,87 €.
+
+5.5.4 Autorización de cambio de titularidad: 168,23 €.
+
+5.5.5 Nombramiento de director técnico: 125,48 €.
+
+5.5.6 Nombramiento de farmacéuticos adjuntos o suplentes: 116,86 €.
+
+5.5.7 Inspección y verificación de buenas prácticas de distribución (BPD): 506,34 €.
+
+5.5.8 Emisión del certificado de buenas prácticas de distribución (BPD): 168,79 €.
+
+5.5.9 Por cada inspección posterior a la puesta en funcionamiento: 149,27 €.
+
+5.5.10 Autorizaciones de cambio de actividad: 236,24 €.
+
+5.6 INDUSTRIA FARMACÉUTICA, CENTROS DE CONTROL Y/O DESARROLLO DE MEDICAMENTOS O LABORATORIOS.
+
+5.6.1 Inspección y verificación de normas de correcta fabricación (NCF): 519,43 €.
+
+5.6.2 Emisión del certificado de normas de correcta fabricación (NCF): 173,46 €.
+
+5.6.3 Autorización de publicidad: 274,30 €.
+
+5.6.4 Otras inspecciones: 194,75 €.
+
+5.6.5 Inspección de buenas prácticas de laboratorios (BPL) a centros de control y/o desarrollo de medicamentos u otro tipo de laboratorios: 501,24 €.
+
+5.6.6 Emisión del certificado de buenas prácticas de laboratorios (BPL) a centros de control y/o desarrollo de medicamentos u otro tipo de laboratorios: 173,46 €.
+
+5.7 PRODUCTOS SANITARIOS.
+
+5.7.1 Fabricación.
+
+5.7.1.1 Licencia de funcionamiento para la fabricación de productos sanitarios a medida: 337,58 €.
+
+5.7.1.2 Modificación de la licencia de funcionamiento para la fabricación de productos sanitarios a medida por cambios en las instalaciones, ampliación de la relación de productos a fabricar y cambio de técnico responsable: 225,57 €.
+
+5.7.1.3 Modificación de la licencia para la fabricación de productos sanitarios a medida por otras causas: 104,14 €.
+
+5.7.1.4 Renovación de la licencia de funcionamiento para la fabricación de productos sanitarios a medida: 185,04 €.
+
+5.7.2 Distribución.
+
+5.7.2.1 Inspección inicial a las instalaciones de distribución de productos sanitarios: 257,58 €.
+
+5.7.2.2 Otras inspecciones: 114,81 €.
+
+5.7.3 Autorización previa de mensajes publicitarios sobre productos sanitarios: 149,30 €.
+
+5.8 COSMÉTICOS.
+
+5.8.1 Inspección y verificación de normas de correcta fabricación (NCF): 522,58 €.
+
+5.8.2 Emisión del certificado de normas de correcta fabricación (NCF): 173,46 €.
+
+5.8.3 Inspección de normas de correcta fabricación (NCF) a responsables de la puesta en el mercado que no sean fabricantes: 163,70 €.
+
+5.8.4 Otras inspecciones: 155,79 €.
+
+5.9 COMITÉ ÉTICO DE INVESTIGACIÓN CLÍNICA (CEIC).
+
+5.9.1 Acreditación del CEIC: 307,22 €.
+
+5.9.2 Renovación de la acreditación del CEIC: 204,23 €.
+
+5.10 ENSAYOS CLÍNICOS.
+
+5.10.1 Inspección y verificación de buenas prácticas clínicas (BPC): 571,28 €.
+
+5.10.2 Otras inspecciones: 193,56 €.
+
+5.10.3 Emisión de certificado de buenas prácticas clínicas (BPC): 173,46 €.
+
+5.11 LIBROS Y TALONARIOS OFICIALES.
+
+5.11.1 Por validación de libros oficiales de registro y/o contabilidad informáticos o en papel, por cada uno: 19,48 €.
+
+5.11.2 Por validación de talonarios oficiales, por cada uno: 19,48 €.
+
+5.11.3 Autorización de libros oficiales de registro electrónicos: 77,13 €.
+
+5.11.4 Autorización de talonarios oficiales electrónicos: 77,13 €.
+
+5.12 OTRAS ACTUACIONES.
+
+5.12.1 Emisión de informes sobre centros, servicios, establecimientos y productos farmacéuticos, sanitarios y cosméticos: 253,17 €.
+
+5.12.2 Emisión de certificados: 32,45 €.»
+
+Tres. Se modifica la TASA 08.05. TASA POR EXPEDICIÓN DE TÍTULOS ACADÉMICOS Y PROFESIONALES.
+
+Primero. Se modifica el grupo de tarifas 3, que queda redactado en los siguientes términos:
+
+«3.1 Título de Formación Profesional Básico.
+
+3.1.1 Tarifa normal: 17,60 €.
+
+3.1.2 Familia numerosa de categoría general: 8,80 €.
+
+3.1.3 Familia numerosa de categoría especial: 0,00 €.
+
+3.2 Título de Técnico.
+
+3.2.1 Tarifa normal: 22,44 €.
+
+3.2.2 Familia numerosa de categoría general: 11,22 €.
+
+3.2.3 Familia numerosa de categoría especial: 0,00 €.
+
+3.3 Título de Técnico Superior.
+
+3.3.1 Tarifa normal: 32,12 €.
+
+3.3.2 Familia numerosa de categoría general: 16,06 €.
+
+3.3.3 Familia numerosa de categoría especial: 0,00 €.»
+
+Segundo. Se añaden al grupo de tarifas 4.3.2 Certificado de nivel de idiomas, las siguientes tarifas correspondientes al certificado de nivel C1:
+
+«4.3.2.4 Certificado de nivel C1:
+
+4.3.2.4.1 Tarifa normal: 35,28 €.
+
+4.3.2.4.2 Familia numerosa de categoría general: 17,64 €.
+
+4.3.2.4.3 Familia numerosa de categoría especial: 0,00 €.»
+
+Cuatro. Se modifica la TASA 08.12. TASA PARA LA ACREDITACIÓN Y/O INSCRIPCIÓN DE CENTROS Y/O ENTIDADES DE FORMACIÓN PARA EL EMPLEO, que queda redactada en los siguientes términos:
+
+«Hecho imponible.
+
+Constituye el hecho imponible de esta tasa la prestación por la Consejería de Educación, Formación y Empleo del Gobierno de La Rioja de los servicios para la acreditación y/o inscripción de especialidades formativas y las modificaciones que puedan producirse, en el Registro regulado en la Orden 24/2009, de 11 de mayo, de la Consejería de Industria, Innovación y Empleo y la Resolución de 20 de julio de 2010 del Servicio Público de Empleo Estatal, en coordinación con el denominado Registro Estatal de Entidades de Formación, según dispone la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral.
+
+Sujetos pasivos.
+
+Serán sujetos pasivos de esta tasa las entidades de formación que soliciten su inscripción y/o acreditación y sus modificaciones, conforme a lo establecido en la Orden 24/2009, de 11 de mayo, de la Consejería de Industria, Innovación y Empleo, y por Resolución de 29 de julio de 2010 del Servicio Público de Empleo Estatal, así como la Ley 30/2015, de 9 de septiembre.
+
+Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud y esta no se tramitará sin que se haya efectuado el pago correspondiente.
+
+Tarifas.
+
+Las tarifas, calculadas de conformidad con los costes reales derivados de los servicios prestados, serán las siguientes:
+
+1\. Tarifa por solicitud de inscripción y/o acreditación en el Registro de Entidades de Formación.
+
+Tasa base: 180 € (incluye la primera especialidad).
+
+Tasa variable: 30 € por cada especialidad adicional.
+
+2\. Tarifa por solicitud de modificación y/o ampliación de aulas, número de alumnos, y cualquier circunstancia que determine la tramitación de un expediente administrativo relacionado con la inscripción y/o acreditación en el Registro de Entidades de Formación.
+
+Tasa base: 180 € (incluye la primera especialidad).
+
+Tasa variable: 30 € por cada especialidad adicional.»
+
+Cinco. Se crea la TASA 08.13. TASA POR INSCRIPCIÓN EN LAS PRUEBAS DE COMPETENCIAS CLAVE PARA EL ACCESO A FORMACIÓN DE CERTIFICADOS DE PROFESIONALIDAD DE NIVELES 2 Y 3, con el siguiente contenido:
+
+«Hecho imponible.
+
+Constituye el hecho imponible la inscripción en las pruebas de competencias clave para el acceso a formación de certificados de profesionalidad de niveles 2 y 3.
+
+Sujetos pasivos.
+
+Serán sujetos pasivos quienes soliciten la inscripción en pruebas de competencias clave para el acceso a formación de certificados de profesionalidad de niveles 2 y 3.
+
+Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud de inscripción, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+Tarifa.
+
+La tasa se exigirá de acuerdo con la siguiente tarifa:
+
+1.1 Por la inscripción en cada prueba de competencia (matemática, de comunicación en lengua española o de comunicación en lengua extranjera, de niveles 2 y 3) en primera concurrencia: 10 €.
+
+Reducciones.
+
+La tarifa descrita en el apartado anterior quedará reducida, para miembros de familias numerosas o personas en situación de desempleo, a 5 € por la inscripción en cada prueba de competencia.»
+
+Seis. Se crea la TASA 08.14. TASA POR LA INSCRIPCIÓN EN LAS PRUEBAS LIBRES PARA LA OBTENCIÓN DE LOS TÍTULOS DE TÉCNICO Y TÉCNICO SUPERIOR DE FORMACIÓN PROFESIONAL DEL SISTEMA EDUCATIVO EN EL ÁMBITO DE LA COMUNIDAD AUTÓNOMA DE LA RIOJA.
+
+«Hecho imponible.
+
+Constituye el hecho imponible la inscripción en las pruebas libres para la obtención de los títulos de técnico y técnico superior de Formación Profesional del sistema educativo en el ámbito de la Comunidad Autónoma de La Rioja.
+
+Sujetos pasivos.
+
+Serán sujetos pasivos quienes soliciten la inscripción en las pruebas libres para la obtención de los títulos de técnico y técnico superior de Formación Profesional del sistema educativo en el ámbito de la Comunidad Autónoma de La Rioja.
+
+Devengo.
+
+La tasa se devengará en el momento de presentar la solicitud de inscripción, que no se tramitará sin que se haya efectuado el pago correspondiente.
+
+Tarifa.
+
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+
+1.1 Tarifa general: 8,20 € por cada módulo del que solicita examinarse.
+
+1.2 Familia numerosa de categoría general: 4,20 € por cada módulo del que solicita examinarse.
+
+1.3 Familia numerosa de categoría especial: 0,00 €.»
+
+## TÍTULO II — Medidas administrativas
+
+### CAPÍTULO I — Medidas administrativas en materia de Policía Local
+
+#### Artículo 47. Modificación de la Ley 5/2010, de 14 de mayo, de coordinación de Policías Locales de La Rioja.
+
+Uno. Se suprime el apartado 1 del artículo 5.
+
+Dos. Se modifica la redacción del primer párrafo del apartado 4 del artículo 49, que queda redactado en los siguientes términos:
+
+«Las entidades locales que así lo acuerden podrán delegar en la consejería competente en materia de Interior la competencia para la convocatoria y gestión de todo o parte de los procedimientos selectivos para cubrir vacantes en el Cuerpo de Policía Local o, en su caso, de Auxiliar de Policía. Asimismo, podrán delegar la convocatoria y gestión de procesos unificados para garantizar la coordinación de los sistemas de acceso por el sistema de movilidad. Ambos procedimientos se determinarán reglamentariamente y podrán realizarse de forma conjunta.»
+
+Tres. Se suprime el apartado b) del artículo 50.
+
+Cuatro. Se añade al apartado 5 del artículo 51 el siguiente párrafo:
+
+«Asimismo, las convocatorias para el ingreso en los Cuerpos de Policía Local, a través de la categoría de policía, podrán determinar una reserva de un máximo del 20 % de las plazas convocadas para el acceso libre, para militares profesionales de tropa y marinería con más de cinco años de servicio en las Fuerzas Armadas, que cumplan los requisitos establecidos para el ingreso en aquellos Cuerpos. Las plazas reservadas no cubiertas se acumularán al resto de las convocadas.»
+
+Cinco. Se modifica la redacción del apartado 2 del artículo 52, que queda redactado como sigue:
+
+«2. Para garantizar la coordinación de los sistemas de acceso por el sistema de movilidad, la consejería competente en materia de Interior, podrá realizar procesos anuales centralizados de acuerdo con lo previsto en el artículo 49.4. Las pruebas y/o méritos que se valorarán en estos procesos se determinarán reglamentariamente.»
+
+### CAPÍTULO II — Medidas administrativas en materia de menores
+
+#### Artículo 48. Modificación de la Ley 1/2006, de 28 de febrero, de protección de menores de La Rioja.
+
+Uno. Se da nueva redacción al segundo párrafo del apartado 3 del artículo 34, que queda en los siguientes términos:
+
+«Si la atención inmediata exige el ingreso provisional del menor en un centro de protección de menores y las circunstancias hicieren materialmente imposible resolución previa de la entidad pública, dicho ingreso podrá ser acordado, además de por la Autoridad Judicial o por el Ministerio Fiscal, por el Director del centro, quien en el plazo máximo de cuarenta y ocho horas deberá dar cuenta a la Autoridad Judicial.
+
+La entidad pública, en cumplimiento de la obligación de prestar la atención inmediata, podrá asumir la guarda provisional del menor, que será comunicada al Ministerio Fiscal, procediendo simultáneamente a practicar las diligencias precisas para identificar al menor, investigar sus circunstancias y constatar, en su caso, la situación real de desamparo, conforme a lo establecido en el artículo 172.4 del Código Civil.»
+
+Dos. Se modifica el apartado 3 del artículo 49, que pasará a tener la siguiente redacción:
+
+«3. No concurre la situación de desamparo cuando un guardador preste de hecho al menor la necesaria asistencia moral o material. En estos casos, la entidad pública remitirá las actuaciones al juzgado correspondiente para la adopción de las medidas que estime de interés para el menor, de conformidad con lo dispuesto en el artículo 303 del Código Civil.»
+
+Tres. Se modifica el tercer párrafo del apartado 1 del artículo 68, que pasará a tener la siguiente redacción:
+
+«La entidad pública podrá acordar, motivadamente, en interés del menor, la suspensión temporal de las visitas y comunicaciones de éste con sus padres y demás personas de su familia extensa o allegados, previa audiencia de los afectados y del menor si tuviere suficiente madurez y, en todo caso, si fuera mayor de doce años, con inmediata notificación al Ministerio Fiscal.»
+
+Cuatro. Se modifica el artículo 80, que queda redactado como sigue:
+
+«El acogimiento familiar podrá adoptar las modalidades establecidas en el artículo 173 bis del Código Civil.»
+
+Cinco. Se modifica el artículo 86, que pasará a tener la siguiente redacción:
+
+«El acogimiento familiar de los menores bajo la guarda o tutela de la Administración se formalizará conforme a lo dispuesto en el artículo 20 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil.»
+
+Seis. Se añade una nueva disposición final tercera con la siguiente redacción:
+
+«Disposición final tercera. Equivalencias.
+
+Lo dispuesto en esta ley sobre el acogimiento familiar simple se entenderá referido al acogimiento familiar temporal, según la regulación que para esta modalidad de acogimiento establece la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.
+
+Lo dispuesto en esta ley sobre el acogimiento familiar preadoptivo se entenderá referido a la delegación de guarda con fines de adopción, según la regulación que para esta medida establece la Ley 26/2015, de 28 de julio, de modificación del sistema de protección a la infancia y a la adolescencia.»
+
+### CAPÍTULO III — Medidas administrativas en materia de infraestructuras agrarias de regadíos
+
+#### Artículo 49. Actuaciones de interés regional en materia de infraestructuras agrarias de regadíos.
+
+1\. La Comunidad Autónoma de La Rioja podrá asumir compromisos de gasto con cargo a sus créditos de inversiones para la realización de obras declaradas de interés regional sobre infraestructuras agrarias de titularidad pública, según el procedimiento que se indica en los apartados siguientes.
+
+2\. El procedimiento se iniciará únicamente de oficio mediante acuerdo motivado del Consejero con competencias en materia de Agricultura.
+
+3\. Se dará traslado a la comunidad de regantes titular de las infraestructuras agrarias de regadíos que deberán prestar su conformidad con la propuesta en el plazo de un mes, debiendo remitir en ese plazo la cesión de la disponibilidad del terreno a efectos de la ejecución de la obra, así como el compromiso de asumir posteriormente el mantenimiento de la infraestructura una vez que se haya ejecutado la obra y de mantener su afección al regadío durante un periodo mínimo de diez años a contar desde la recepción de la obra.
+
+4\. La declaración de interés regional se adoptará por el Consejo de Gobierno a propuesta de la consejería competente en materia de Agricultura, siempre que exista alguna de las siguientes circunstancias excepcionales que justifiquen la actuación:
+
+a) La complejidad técnica de la obra en relación con la capacidad técnica o económica de la comunidad de regantes.
+
+b) La importancia de la infraestructura en la actividad económica de la zona, siempre que exista una falta de capacidad técnica o económica de la comunidad de regantes para ejecutar la obra.
+
+c) La existencia de graves daños producidos por circunstancias meteorológicas, que pongan en peligro la integridad física de los usuarios o puedan implicar la existencia de una importante merma de la capacidad productiva de la zona, cuando la intervención sea urgente y exista una probada falta de capacidad técnica o económica de las comunidades de regantes para ejecutar la obra.
+
+### CAPÍTULO IV — Acción administrativa en materia de juego
+
+#### Artículo 50. Modificación de la Ley 5/1999, de 13 de abril, reguladora del Juego y Apuestas, de La Rioja.
+
+Uno. Los apartados 2, 6, 7, 9, 11 y 12 del artículo 18 quedan redactados como sigue:
+
+«2. La inscripción de los establecimientos tendrá una vigencia de cinco años desde la fecha de su concesión y se renovará automáticamente por períodos sucesivos de igual duración, siempre que los documentos que sirvieron de base para su concesión no hubieran experimentado variación.
+
+La inscripción se extinguirá en los siguientes casos:
+
+a) Por la finalización del período de vigencia.
+
+b) A petición de su titular, siempre que no existan máquinas de juego instaladas en el local y autorizaciones de instalación en vigor.
+
+c) Por la muerte o incapacidad sobrevenida del titular, salvo transmisión inter vivos o mortis causa.
+
+d) Por el cese de actividad durante el período ininterrumpido que determine su reglamentación específica.
+
+e) Por revocación de la inscripción.»
+
+«6. No se admitirá una nueva solicitud de autorización de instalación en caso de que concurra alguna de las siguientes causas:
+
+a) Que no se haya extinguido la anterior por alguna de las causas previstas legal y reglamentariamente.
+
+b) Que su titular no se halle inscrito en el Registro General del Juego de La Rioja.
+
+c) Que su titular no se encuentre al corriente del pago de los tributos específicos sobre el juego.»
+
+«7. La autorización de instalación, que se otorgará para un específico establecimiento y una determinada empresa operadora, tendrá una vigencia máxima de cinco años desde la fecha de su concesión, salvo que se origine la pérdida de validez por las causas que legal o reglamentariamente se determinen.»
+
+«9. Los cambios de titularidad del establecimiento o de las máquinas que se produzcan durante la vigencia de la autorización de instalación no serán causa de extinción, quedando el nuevo titular subrogado en los derechos y obligaciones contraídas por el anterior, salvo que con anterioridad a la nueva inscripción se haya producido el supuesto del apartado 2.d).
+
+Una vez efectuada la inscripción en la Sección de Establecimientos del Registro General del Juego o la transmisión de la autorización de explotación, la autorización de instalación se expedirá con los datos del nuevo titular, conservándose el período de finalización anterior.»
+
+«11. La autorización de instalación se extinguirá en los casos siguientes:
+
+a) Por la finalización del período de vigencia.
+
+b) Por mutuo acuerdo de los titulares.
+
+c) Por renuncia expresa, que comportará la inhabilitación por el período que resta de vigente.
+
+d) Por revocación de la autorización.
+
+e) Por cancelación de la inscripción del Registro General del Juego de sus titulares.
+
+f) Por otros casos que pudiera determinar su reglamentación específica.»
+
+«12. El órgano administrativo competente podrá acordar, previa audiencia de los interesados, la revocación de la autorización de instalación, por las siguientes causas:
+
+a) Por la falta comprobada o acreditada de instalación de máquinas, solicitada por el titular del establecimiento debidamente inscrito, durante un período superior a seis meses. En el caso de cambio de titularidad, dicho plazo se computará a partir de la expedición de la nueva autorización de instalación que prevé el apartado 9.
+
+b) Por la comprobación de falsedades o inexactitudes esenciales en alguno de los datos expresados en la solicitud, transmisión o modificación en la documentación aportada.
+
+c) Por la pérdida sobrevenida de alguno de los requisitos establecidos para su obtención por cualquiera de las partes.
+
+d) Por sanción firme en vía administrativa en materia de juego.
+
+e) Por sentencia judicial firme que declare la extinción de la autorización de instalación.
+
+f) Por impago total o parcial de los tributos específicos sobre el juego en período voluntario o ausencia de garantía en caso de aplazamiento o recurso.
+
+g) Por otros casos que pudiera determinar su reglamentación específica.»
+
+Dos. Los apartados 2 y 3 del artículo 26 quedan redactados como sigue:
+
+«2. Esta fianza estará afecta fundamentalmente a las responsabilidades administrativas y de los tributos específicos sobre el juego, al abono de las sanciones pecuniarias que, en su caso, se impongan y que no hubieran sido satisfechas en vía ejecutiva, al pago de los premios, así como al pago de las tasas administrativas que correspondan.
+
+3\. Las cuantías de las fianzas se mantendrán en su totalidad hasta que la Administración acuerde su devolución. Si se produjese la disminución o afectación de la cuantía de la fianza por parte de la Comunidad Autónoma de La Rioja, en virtud de los oportunos procedimientos reglamentarios, su titular habrá de reponerla o completarla en la cuantía obligatoria en el plazo máximo de quince días siguientes, y, caso de no hacerlo, quedará en suspenso inmediatamente la autorización de la empresa; transcurridos dos meses sin que la reposición se llevara a efecto, se revocará la autorización y se cancelará la inscripción correspondiente en el Registro General del Juego en su caso.»
+
+#### Disposición adicional única. Deducción en las tasas y precios públicos de la Comunidad Autónoma de La Rioja por la utilización de medios telemáticos para su presentación y pago.
+
+Los sujetos pasivos de las tasas y los obligados al pago de los precios públicos de la Comunidad Autónoma de La Rioja que, previa habilitación reglamentaria del correspondiente procedimiento, presenten las declaraciones-liquidaciones y realicen el pago de su importe por medios telemáticos durante el año 2016 tendrán derecho a una deducción del 10 % sobre el importe de la cuota en aplicación de las tarifas o precios establecidos en cada caso. La deducción no podrá superar en ningún caso el límite de tres euros por cada cuota.
+
+#### Disposición transitoria primera. Retroactividad del apartado 4 del artículo 6 de la presente ley.
+
+1\. La medida prevista en el apartado 4 del artículo 6 de la presente ley será de aplicación, con carácter retroactivo, a las viviendas que se hayan beneficiado de la reducción por adquisición de la vivienda habitual del causante prevista en la letra c) del apartado 2 del artículo 20 de la Ley 29/1987, de 18 de diciembre, del Impuesto sobre Sucesiones y Donaciones.
+
+2\. Por tanto, las viviendas habituales adquiridas mortis causa con anterioridad al día 1 de enero de 2011 y a las que se les aplicó la reducción mencionada en el párrafo anterior pueden ser ya transmitidas sin abonar la parte del impuesto que se dejó de ingresar como consecuencia de la reducción practicada.
+
+3\. Las viviendas habituales adquiridas mortis causa con posterioridad al día 1 de enero de 2011 y a las que se aplicó la reducción mencionada en el apartado 1 de este artículo podrán ser transmitidas sin pagar la parte del impuesto que se dejó de ingresar como consecuencia de la reducción practicada a partir del día en que se cumplan cinco años desde la adquisición.
+
+#### Disposición transitoria segunda. Cantidades devengadas del impuesto sobre grandes establecimientos comerciales.
+
+Sin perjuicio de lo dispuesto en el artículo 45 referente a la supresión del impuesto sobre grandes establecimientos comerciales de la Comunidad Autónoma de La Rioja, subsistirá la obligación de abonar este tributo por las cantidades devengadas durante 2015, según las normas que regían el referido impuesto.
+
+#### Disposición derogatoria única. Derogación de otras disposiciones legales.
+
+Quedan derogados los artículos 35 a 48 de la Ley 7/2012, de 21 de diciembre, de Medidas Fiscales y Administrativas para el año 2013, los artículos 1 a 43 de la Ley 7/2014, de 23 de diciembre, de Medidas Fiscales y Administrativas para el año 2015, y cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente ley.
+
+#### Disposición final única. Entrada en vigor.
+
+La presente ley entrará en vigor el día 1 de enero de 2016.
+
+Por tanto, ordeno a todos los ciudadanos cumplan y cooperen al cumplimiento de la presente Ley y a los Tribunales y Autoridades la hagan cumplir.
+
+Logroño, 29 de diciembre de 2015.
+
+El Presidente,
+
+José Ignacio Ceniceros González.

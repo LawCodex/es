@@ -1,0 +1,1554 @@
+---
+title: "Orden ARM/3368/2010, de 27 de diciembre, por la que se aprueba el Reglamento Técnico de Control y Certificación de semillas de cereales"
+identifier: "BOE-A-2010-20060"
+eli: "https://www.boe.es/eli/es/o/2010/12/27/arm3368"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Medio Ambiente, y Medio Rural y Marino"
+date: 2010-12-27
+published: 2010-12-30
+in_force_from: 2010-12-31
+last_amended: 2022-08-16
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 317"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-20060"
+retrieved: 2026-10-11
+---
+
+# Orden ARM/3368/2010, de 27 de diciembre, por la que se aprueba el Reglamento Técnico de Control y Certificación de semillas de cereales
+
+Incluye corrección de errores publicada por Orden ARM/2552/2011, de 21 de septiembre. [Ref. BOE-A-2011-15169](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15169).
+
+Por la presente Orden se incorpora al ordenamiento jurídico interno la Directiva 2009/74/CE de la Comisión, de 26 de junio, por la que se modifican las Directivas 66/401/CEE, 66/402/CEE, 2002/55/CE y 2002/57/CE del Consejo, en lo que respecta a los nombres botánicos de las plantas y los nombres científicos de otros organismos, y en determinados anexos de las Directivas 66/401/CEE, 66/402/CEE, 2002/57/CE, a la luz de la evolución del conocimiento científico y técnico.
+
+Dichas Directivas y sus sucesivas modificaciones ya fueron incorporadas al ordenamiento jurídico interno, mediante el Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, aprobado por Orden de 23 de mayo de 1986 y modificaciones posteriores, y en lo que respecta a las semillas de cereales, por el Reglamento Técnico de Control y Certificación de Semillas de Cereales, aprobado por Orden de 1 de julio de 1986, objeto de sucesivas modificaciones.
+
+Dado que estos Reglamentos Técnicos han sufrido importantes modificaciones a lo largo de estos años y que la Directiva 2009/74/CE introduce igualmente amplias modificaciones en los anexos, se ha considerado más adecuado aprobar un nuevo Reglamento Técnico de Control y Certificación de Semillas de Cereales.
+
+Las características de las semillas de cereales descritas en el Reglamento serán tenidas en cuenta y serán aplicables a las importaciones de semillas de países terceros o a la comercialización de los procedentes del Espacio Europeo en aplicación del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, aprobado por Orden de 23 de mayo de 1986.
+
+En la elaboración de la presente disposición han sido consultadas las Comunidades Autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
+
+> Se corrigen errores por la Orden ARM/2552/2011, de 21 de septiembre. [Ref. BOE-A-2011-15169](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15169).
+
+## Artículo único. Aprobación del Reglamento Técnico de Control y Certificación de Semillas de Cereales.
+
+Se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Cereales con el contenido que figura en el anexo de la presente disposición.
+
+## Disposición derogatoria. Derogación normativa.
+
+Queda derogada la Orden de 1 de julio de 1986 por la que se aprueba el Reglamento Técnico de Control y Certificación de Semillas de Cereales.
+
+## Disposición final primera. Incorporación de derecho de la Unión Europea.
+
+Mediante esta orden se incorpora al derecho español la Directiva 2009/74/CE de la Comisión, de 26 de junio de 2009, por la que se modifican las Directivas 66/401/CEE, 66/402/CEE, 2002/55/CE y 2002/57/CE del Consejo en lo que respecta a los nombres botánicos de las plantas y los nombres científicos de otros organismos, y determinados anexos de las Directivas 66/401/CEE, 66/402/CEE, 2002/57/CE, a la luz de la evolución del conocimiento científico y técnico.
+
+## Disposición final segunda. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, por el que se atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, salvo la regulación relativa a las semillas importadas, que se dicta al amparo de lo dispuesto en el artículo 149.1.10.ª de la Constitución, por el que se atribuye al Estado la competencia exclusiva en materia de comercio exterior.
+
+## Disposición final tercera. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 27 de diciembre de 2010.–La Ministra de Medio Ambiente, y Medio Rural y Marino, Rosa Aguilar Rivero
+
+## ANEXO — Reglamento Técnico de Control y Certificación de Semillas de Cereales
+
+I. Especies sujetas al Reglamento Técnico
+
+Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico las semillas de los cereales siguientes, tanto si su fin es la producción de grano como si es con destino forrajero:
+
+« *Triticum aestivum* L. subsp. *aestivum*.»: Trigo blando.
+
+« *Triticum turgidum* L. subsp. *durum* (Desf.) van Slageren.»: Trigo duro.
+
+«*Triticum aestivum* L. subsp. *spelta* (L.) Thell.»: Trigo espelta.
+
+«*Hordeum vulgare L.*»: Cebada.
+
+«*Avena nuda L.*»: Avena desnuda, avena descascarillada
+
+«*Avena sativa L. (incluye A. byzantina K. Koch)*»: Avena y avena roja.
+
+«*Avena strigosa Schreb*»: Avena estrigosa, avena negra.
+
+«*Oryza sativa L.*»: Arroz.
+
+«*Phalaris canariensis L.*»: Alpiste.
+
+«*Secale cereale L.*»: Centeno.
+
+«*xTriticosecale Wittm. ex A. Camus*»: Triticale, híbridos resultantes del cruce de una especie del género Triticum con una especie del género Secale.
+
+Sólo podrá denominarse «semilla» de los cereales mencionados la que proceda de cultivos controlados por los Servicios oficiales de control y que haya sido obtenida según las disposiciones contenidas en este Reglamento, así como en la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y de recursos fitogenéticos; así como en el Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y modificaciones posteriores, si como en la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero y modificaciones posteriores.
+
+También podrá recibir la denominación de «semilla» la importada que cumpla con los correspondientes requisitos legales.
+
+II. Categorías de las semillas
+
+1\. Para las variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, se admiten las siguientes categorías de semillas:
+
+Material parental.
+
+Semillas de prebase.
+
+Semillas de base.
+
+Semilla certificada de primera reproducción (R-1).
+
+Semilla certificada de segunda reproducción (R-2).
+
+2\. Para las variedades de alpiste, excepto sus híbridos; centeno y para las variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro y trigo espelta menor, se admiten las siguientes categorías de semillas:
+
+Material parental.
+
+Semillas de prebase.
+
+Semillas de base.
+
+Semillas certificadas.
+
+3\. Se entiende por:
+
+3.1 Material parental: La unidad inicial utilizada en la conservación de la variedad y constituye la generación G-0.
+
+3.2 Semillas de prebase: Cualquiera de las generaciones que preceden a la semilla de base, con excepción del material parental.
+
+3.3 Semillas de base de variedades no híbridas de: Avena, avena roja, avena estrigosa, cebada, arroz, alpiste, centeno, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
+
+a) Obtenidas, como máximo, a partir de la tercera generación (G-3) de semillas de prebase, salvo en variedades de obtentor en que se haya admitido una generación distinta, según el método de conservación aceptado al incluir la variedad en el registro de variedades comerciales.
+
+b) Que su destino sea la producción de semilla de categoría: «Semillas certificadas», «semillas certificadas de primera reproducción (R-1)» o «semillas certificadas de segunda reproducción (R-2)».
+
+c) Que cumpla los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial.
+
+3.4 Semilla de base de variedades híbridas de avena, cebada, centeno, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo, son las semillas:
+
+a) Procedentes de la multiplicación del material parental, mediante un proceso controlado, y que estén destinadas a producir híbridos.
+
+b) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial.
+
+3.5 Semillas certificadas de alpiste, excepto sus híbridos; centeno, excepto sus híbridos, y variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y variedades autógamas de triticale, son las semillas:
+
+a) Que provienen directamente de semillas de base o, a petición del obtentor, de semillas de alguna generación anterior a las semillas de base, siempre que se cumplan los requisitos que para esta categoría se exponen en los anejos 1 y 2 del presente Reglamento Técnico.
+
+b) Que su destino no sea la producción de semilla.
+
+c) Que cumplen los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
+
+3.6 Semillas certificadas de primera reproducción (R-1) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
+
+a) Que provienen directamente de semillas de base o, a petición del obtentor, de semillas de alguna generación anterior a las semillas de base, siempre que se cumplan los requisitos que para esta categoría se exponen en los anejos 1 y 2 del presente reglamento técnico.
+
+b) Que su destino puede ser la producción de semillas certificadas de segunda reproducción (R-2) o distinto al de la producción de semillas.
+
+c) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
+
+3.7 Semillas certificadas de segunda reproducción (R-2) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
+
+a) Que provienen directamente de semillas de base, de semillas certificadas de primera reproducción (R-1) o, a petición del obtentor, de semillas de alguna generación anterior a la semilla de base, siempre que cumpla los requisitos de la semilla de base.
+
+b) Que su destino no sea la producción de semilla.
+
+c) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
+
+El organismo oficial responsable podrá restringir la certificación de semillas de avenas, cebada, arroz y trigos a las semillas certificadas de primera reproducción.
+
+3.8 Semillas certificadas de variedades híbridas de centeno y de híbridos producidos mediante la técnica de la CMS de cebada, trigo blando, trigo duro y trigo espelta: Sólo se declararán semillas certificadas aquellas en las que se hayan tenido en cuenta los resultados del postcontrol oficial de muestras de semillas de base obtenidas oficialmente o bajo supervisión oficial, efectuado durante el período vegetativo de los cultivos para la producción de semillas para las que se solicite la certificación, a fin de determinar que dichas semillas de base se ajustan a los requisitos establecidos en el presente Reglamento en lo que respecta a la identidad y pureza de las características de sus componentes, incluida la androesterilidad.
+
+Cuando corresponda, las semillas certificadas se producirán en un cultivo mixto formado por un componente femenino sin actividad masculina y un componente masculino que restablezca la fertilidad masculina.
+
+III. Variedades comerciales admisibles a la certificación
+
+En las especies para las que se haya establecido una lista española de variedades comerciales o un catálogo común de variedades de la Unión Europea, sólo podrá producirse para presentarse a la certificación oficial y comercializarse, semilla de variedades incluidas en los mismos, exceptuándose aquélla que se destine exclusivamente a la exportación.
+
+IV. Producción de semillas
+
+a) Requisitos de los procesos de producción: Salvo lo dispuesto en el apartado IV, b), para el material parental y las generaciones G-1 y G-2 de semillas de prebase, los campos de producción de semilla de cereales han de cumplir los requisitos que se señalan en el anejo numero 1.
+
+b) Requisitos especiales para la obtención de material parental y las generaciones G-1 y G-2 de semillas de prebase:
+
+1\. Método para la conservación de una variedad comercial.–El método para la conservación de variedades de obtentor será el descrito en la inscripción de las mismas en el Registro de Variedades Comerciales de Plantas, siguiendo normas de selección varietal conservadora generalmente, admitida para la especie.
+
+El método a seguir para la conservación de una variedad de obtentor no conocido de todas las especies incluidas en este Reglamento, con la excepción del alpiste, centeno y triticale, ha de basarse en las sucesivas recogidas de espigas o panículas y multiplicaciones en líneas conservando su filiación de acuerdo con lo que se dispone en este apartado y en los apartados IV, b), segundo, tercero y cuarto.
+
+Se entiende por línea el conjunto de plantas que proceden de las espigas o panículas de una planta.
+
+Se entiende por familia el conjunto de plantas que proceden de espigas o panículas de una línea.
+
+2\. Material parental.–Se entiende por material parental el que ha de servir para iniciar el proceso de conservación de la variedad. Ha de conseguirse recogiéndose en campos de máxima garantía espigas o panículas. Para la continuación del proceso se recogerán las espigas o panículas en los campos de producción de G-1, que se describen en el apartado IV, b), tercero, conservando su filiación y con un mínimo de diez familias.
+
+El número de espigas o panículas será suficiente para que, una vez estudiadas en laboratorio y desechadas todas las que presenten alguna variación en relación con la descripción de la variedad, quede un remanente que permita utilizar no menos de 300 en la siembra, con independencia de las reservas a que se hace referencia en el apartado quinto.
+
+Los granos obtenidos de las espigas o panículas seleccionadas constituyen el material parental o G-0. El número de multiplicaciones a partir de esta generación para producir la semilla de base será de cuatro.
+
+3\. Producción de G-1.–La producción de G-1 se realizará en parcelas aisladas no menos de 30 metros de cualquier siembra con semilla de la misma especie, salvo parcelas de multiplicación de la generación sucesiva de la misma variedad. Las siembras serán en hileras por espiga o panícula, con separación entre ellas no inferior a 20 centímetros.
+
+Estas parcelas no pueden establecerse en terrenos que hayan sido sembrados durante la campaña anterior con semilla de la misma especie, salvo autorización expresa en el caso de semilla de arroz, ni tampoco aquellos en que la falta de homogeneidad puede dificultar la determinación de las variaciones de tipo de las plantas resultantes. Estas condiciones se observarán también en las siembras de las restantes generaciones de semilla de prebase.
+
+Durante todo el proceso vegetativo, desde la nascencia hasta la maduración, se eliminará todo el surco en el que aparezcan variaciones en lo que respecta a caracteres que ha servido para describir la variedad.
+
+Si la eliminación se efectúa en época posterior a la floración, no sólo se arrancará el surco en que aparezcan anomalías, sino también los contiguos.
+
+Análogamente se eliminarán todas las plantas en que aparezcan ataques de carbón («*Ustilago spp.*»), tizón («*Tilletia spp.*»), helmintosporiosis («*Helminthosporium spp.*»), sacándose las plantas de la parcela. Si en un mismo surco aparecen varias plantas atacadas, se desechará todo el surco.
+
+La mezcla de la semilla de las líneas G-1 no eliminadas será la que se utilice para la producción de G-2.
+
+4\. Producción de G-2.–Las parcelas sembradas con G-1, destinadas a la producción de G-2, deberán estar aisladas de todo otro campo de la misma especie por una distancia no inferior a 30 metros, o bien rodeados por una franja de anchura no menor de 10 metros, sembrada con semilla G-2 de la misma variedad.
+
+Las siembras se realizarán en bandas de 3 metros de anchura, como máximo, y con pasillos que permitan el fácil acceso.
+
+Durante todo el proceso vegetativo y, en especial, en la espigazón, se efectuarán depuraciones para eliminar todas las plantas (no las espigas o panículas) de otras especies, otras variedades, híbridos naturales, mutaciones y, en general, cualquier planta de tipo dudoso o atacada por carbón, tizón o helmintosporiosis.
+
+5\. Inspecciones a realizar.–Se realizarán inspecciones oficiales a los campos de producción de semilla todas las veces que se consideren necesarias y, al menos, una vez en la fase de espigado.
+
+El personal técnico del productor cuantas veces sean precisas para mantener en todo momento las parcelas debidamente depuradas.
+
+c) Requisitos específicos para la producción de semillas de categoría de prebase de la generación inmediatamente anterior a la semilla de base, y categorías posteriores:
+
+1\. Variedades en una finca.–En una misma finca de agricultor-colaborador solo podrá cultivarse para obtención de semilla un número limitado de variedades de cada especie, previamente autorizado.
+
+Dicho número depende del tamaño de la finca y de los medios de que disponga.
+
+2\. Inspecciones a realizar.–Se realizaran inspecciones oficiales a los campos de producción de semillas todas las veces que se consideren necesarias y, al menos, una vez en la fase de espigados.
+
+El personal de la Entidad productora efectuará las inspecciones necesarias para mantener las parcelas debidamente depuradas.
+
+d) Requisitos de las semillas: Las semillas de las distintas categorías han de cumplir los requisitos que figuran en el anejo numero 2.
+
+e) Comunicaciones de los productores:
+
+1\. Declaraciones de cultivos.–En la declaración de cultivos ha de figurar imprescindiblemente:
+
+Variedad cultivada.
+
+Origen, categoría y cantidad de semilla utilizada. En el caso de que la semilla sembrada no haya sido producida por la Entidad que hace la declaración, deberá indicar la Entidad que la ha producido.
+
+Categoría de la semilla a producir.
+
+Número del o de los lotes.
+
+Superficie de la parcela.
+
+Nombre y domicilio del colaborador.
+
+Finca y su localización (pudiéndose exigir croquis de situación).
+
+Término municipal y provincia.
+
+Las declaraciones de cultivos relativas a siembras de otoño tendrán que obrar en poder de los Servicios oficiales de control de la correspondiente Comunidad Autónoma antes del 31 de diciembre, y las de siembras de primavera antes del 30 de abril, excepto para el arroz, que será el 30 de junio, salvo causas de fuerza mayor en que si dichos Servicios lo consideran oportuno, fijarán nuevas fechas limite. Cualquier modificación de la declaración de cultivos se comunicará dentro del plazo de quince días de haberse producido.
+
+2\. Comunicaciones durante el ciclo de producción y preparación de la semilla.–Cuando por los Servicios oficiales de control de la correspondiente Comunidad Autónoma se considere necesario, las Entidades deberán comunicar a los mismos, con la suficiente antelación, las fechas a partir de las cuales podrá iniciarse la recolección.
+
+Se comunicará con la debida antelación:
+
+Estimación de la semilla recogida en cada una de las parcelas de producción.
+
+Situación de almacenes y semilla a recoger en cada uno de ellos.
+
+Iniciación de las operaciones de selección y preparado de semilla.
+
+3\. Comunicaciones relativas a comercialización.–Las ventas por variedades y remanentes de semilla procedentes de la campaña se comunicarán a los Servicios oficiales de control de la correspondiente Comunidad Autónoma, antes del 1 de junio de cada año, excepto para el arroz, que se comunicarán antes del 1 de agosto.
+
+4\. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26.a, 26.b y 26.c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semilla no certificada definitivamente, y sólo en los casos en que éstas procedan de la multiplicación de semillas de categorías, prebase, base y certificada de primera reproducción.
+
+f) Uso de técnicas bioquímicas o moleculares.
+
+En el caso de que, tras las inspecciones oficiales de campo indicadas en el presente apartado IV, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
+
+V. Requisitos de los lotes de semillas
+
+1\. Lotes de semilla.–Los tamaños máximos de los lotes de semilla serán los indicados en el anejo número 3.
+
+2\. Envases.–Los envases en que vaya a comercializarse la semilla pueden tener cualquier capacidad entre 25 y 75 kilogramos, no existiendo limitación en cuanto al material de que estén fabricados, siempre que reúnan las suficientes condiciones de seguridad y sean aptos para la conservación de la simiente. Se exceptúa de la limitación superior de peso los contenedores y otros recipientes que se admitan internacionalmente para el transporte de semillas.
+
+VI. Pruebas de precontrol y postcontrol
+
+Todo productor ha de sembrar en campo de precontrol una parcela con las muestras de cada uno de los lotes que haya certificado de semilla de base y de aquellos de semillas de prebase no destinados a uso propio. Asimismo, realizará pruebas de postcontrol, sembrándose, como mínimo, las muestras correspondientes a un 10 por 100 de los lotes de semilla certificada, elegidas al azar. En los casos especiales en que por los Servicios oficiales de control de la correspondiente comunidad autónoma o por la OEVV se considere conveniente, la citada proporción podrá aumentarse hasta el 20 por 100.
+
+El tamaño de las parcelas correspondientes a cada muestra no debe ser inferior a 8 metros cuadrados, para las semillas certificadas, y 12 metros cuadrados, para las de prebase y base.
+
+En las parcelas de precontrol y postcontrol se señalarán, pero no arrancarán, las plantas de otras variedades; las plantas con variaciones atípicas de la variedad y mutantes, su número se anotará en libros o fichas.
+
+VII. Productores de semillas
+
+a) Categorías de productores:
+
+Se admiten las categorías de productor:
+
+– Productor mantenedor.
+
+– Productor multiplicador.
+
+– Productor procesador.
+
+b) Capacidad de instalaciones:
+
+La capacidad de las instalaciones para ser productor de una o todas las especies señaladas en este Reglamento ha de ser tal que, como mínimo, su capacidad de selección sea de 3 toneladas/hora, excepto para una producción única de alpiste o arroz, en cuyo caso será de 1 tonelada métrica/hora. Estos mínimos en cuanto a capacidad serán necesarios para cada uno de los centros de selección.
+
+c) Clases de instalaciones:
+
+Las instalaciones podrán ser propiedad del productor o estar a su disposición a través de un contrato de prestación de servicios; y han de comprender, como mínimo:
+
+– Almacenamiento.
+
+– Recepción.
+
+– Limpieza y selección mecánica.
+
+– Tratamiento.
+
+– Envasado.
+
+– Laboratorio de análisis y ensayo de semillas.
+
+Los servicios oficiales competentes decidirán si las características de las instalaciones anteriormente enumeradas son las adecuadas en cada caso, debiendo tener todas ellas la capacidad necesaria relacionada con los mínimos de selección del apartado anterior.
+
+d) Campos en cultivo directo:
+
+Los productores mantenedores que produzcan semilla de base deberán disponer de campos de cultivo directo para la obtención de las generaciones PB-4 y PB-3, así como de la semilla de prebase de la generación inmediatamente anterior a base (PB-2), en los casos en que los Servicios oficiales de control no autoricen su producción en fincas de agricultores-colaboradores. Todos los productores deberán disponer de superficie adecuada a los planes de producción de campos en cultivo directo para el establecimiento de los campos exigidos de precontrol y postcontrol.
+
+VIII. Comercialización
+
+a) Etiquetas: En las etiquetas oficiales y en las de productor o impresos equivalentes, en su caso, deben figurar, como mínimo, los datos que exige el Reglamento General de Control y Certificación.
+
+b) Subdivisión en envases pequeños: Los productores no podrán proceder al fraccionamiento de los envases originales en otros más pequeños si éstos no son precintados por los servicios oficiales de control.
+
+c) Semilla de campañas anteriores: Para comercializar semillas de campañas anteriores es requisito previo la realización de nuevo análisis en fecha posterior al 15 de junio, excepto para el arroz, que será el 15 de diciembre, así como el que por los Servicios oficiales de control se realice un reprecintado con la correspondiente toma de muestras.
+
+d) Los Servicios Oficiales de Control de la correspondiente Comunidad Autónoma emitirán, previa petición, certificado sobre la ausencia de avena fatua en un determinado lote, en alguno de los siguientes términos:
+
+La no presencia de avena fatua en una muestra de un kilogramo, si la parcela de la que proviene la semilla estaba exenta de plantas de esta especie, o bien,
+
+La no presencia de avena fatua en una muestra de tres kilogramos, independientemente de la inspección de campo.
+
+e) Comercialización de semilla certificada a granel: Se podrá comercializar semilla de categoría certificada a granel, de las especies: Arroz, avenas, cebada, centeno, trigo blando, trigo duro y triticale destinada directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
+
+El organismo oficial responsable admitirá que las semillas de una especie de cereal se comercialicen en forma de mezclas determinadas de semillas de distintas variedades en la medida en que dichas mezclas tengan por naturaleza, sobre la base de los conocimientos científicos o técnicos, el ser particularmente eficaces contra la propagación de determinados organismos nocivos y siempre que los componentes de la mezcla respondan, antes de su mezcla, a las reglas de comercialización que les sean aplicables.
+
+Asimismo se admitirá que se comercialicen semillas de cereales en forma de mezclas de semillas de diferentes especies siempre que los componentes de la mezcla cumplan, antes de la misma, las normas de comercialización que les sean aplicables.
+
+Las condiciones especiales en que podrán comercializarse dichas mezclas se determinarán según los procedimientos que se establezcan en la normativa comunitaria.
+
+IX. Semillas importadas
+
+Las semillas que se importan de países terceros deberán corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia de los procesos de producción y de los requisitos de las semillas a nivel de la Unión Europea.
+
+> Se modifican los apartados II, IV, VI, VII por el art. 2.1 a 4 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica, con efectos del 1 de febrero de 2022, los apartados I y II por el art. 2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. [Ref. BOE-A-2021-21286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21286)
+
+> Se corrigen errores en los apartados 1 y 4 por la Orden ARM/2552/2011, de 21 de septiembre. [Ref. BOE-A-2011-15169](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15169).
+
+## ANEXO 1 — Requisitos de los procesos de producción
+
+| Clase de semillas a producir | Tamaño de parcelas (mínimo)<br> hectáreas | Aislamientos (mínimo)<br> metros | Plantas de otras variedades (máximo) | Plantas de otras especies cultivadas (máximo) | Plantas infectadas (máximo) | Plantas con tilletia (máximo) |
+|---|---|---|---|---|---|---|
+| Semilla de prebase (1) | - | 10 | 1/10.000 | 20/Ha. | 50/Ha. | 5/Ha. |
+| Semilla de base | 3 | 5 | 1/5.000 | 20/Ha. | 50/Ha. | 5/Ha. |
+| Semilla certificada R-1 | 10 | 2 | 2/1.000 | 2/10.000 | 500/Ha. | 50/Ha. |
+| Semilla certificada R-2 | 10 | 2 | 3/1.000 | 4/10.000 | 1.000/Ha. | 50/Ha. |
+
+(1) De la generación inmediatamente anterior a la semilla de base.
+
+Las parcelas de producción de semilla de avenas se rechazarán cuando el número de plantas de avena loca o ballueca («*Avena fatua L, A. sterilis L.*» y «*A. ludoviciana Dur*».) sea superior a cinco por área.
+
+Observaciones:
+
+Primera.–Tamaño mínimo de las parcelas: No existirá limitación en las parcelas de producción de semilla de variedades de reciente introducción o de venta limitada, siempre que para cada una no se siembren más de dos parcelas diferentes en una misma zona. En la producción de semilla de arroz las superficies mínimas pueden reducirse a: Semilla de base, 500 metros cuadrados; semilla certificada, 1 hectárea.
+
+Segunda.–Cultivos anteriores: No pueden dedicarse para la producción de semilla de cereales, con la excepción del arroz, ninguna parcela que en la campaña anterior hubiese estado sembrada con cereales de cualquier especie, salvo que se tratase de la misma variedad y de la misma categoría o anterior.
+
+Las siembras de parcelas destinadas a la producción de semilla de prebase de la generación inmediatamente anterior a la base se realizarán en bandas de 3 metros de anchura, como máximo, y con pasillos que permitan el fácil acceso.
+
+Tercera. Aislamientos: Los aislamientos se refieren a siembras de otro cereal de la misma especie. No se exige aislamiento alguno si el campo está rodeado por otro de la misma variedad, sembrado con semilla de la misma categoría o de la inmediata inferior a la utilizada en la parcela destinada a producción de semilla, o si existe una protección suficiente contra toda fuente de polinización no deseable.
+
+En la producción de semillas de variedades híbridas de cebada obtenidas utilizando la androesterilidad citoplasmática (CMS), el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
+
+– Para la producción de semillas de base, 100 metros.
+
+– Para la producción de semillas certificadas, 50 metros.
+
+En la producción de semillas de variedades híbridas de trigo blando, trigo duro y trigo espelta obtenidas utilizando la androesterilidad citoplasmática (CMS), el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
+
+– Para la producción de semillas de base, 300 metros.
+
+– Para la producción de semillas certificadas, 25 metros.
+
+En la producción de semilla de alpiste y centeno, excepto sus híbridos, la distancia mínima en metros será de 300 para las semillas de base y generaciones anteriores, y de 250 para la certificada.
+
+Para la producción de semilla de variedades autógamas de triticale, la distancia mínima en metros será de 50 para la semilla de base, y 20 para las certificadas R-1 y R-2.
+
+En la producción de semillas de variedades híbridas de centeno el cultivo deberá ajustarse a los siguientes requisitos referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas:
+
+– Para la producción de semillas de base, si se utiliza la androesterilidad, 1.000 metros; si no se utiliza la androesterilidad, 600 metros.
+
+– Para la producción de semillas certificadas, 500 metros.
+
+En los cultivos para producir semillas certificadas de híbridos de avenas, cebada, arroz, trigo blando, trigo duro, trigo espelta y triticale autógamo mediante una técnica distinta de la androesterilidad citoplasmática (CMS):
+
+a) El cultivo deberá ajustarse a los requisitos siguientes referentes a las distancias respecto a las fuentes de polen vecinas, las cuales pueden dar lugar a polinizaciones no deseadas: el componente femenino deberá situarse a una distancia mínima de 25 metros de cualquier otra variedad de la misma especie, excepto de un cultivo de componente masculino. Esta distancia podrá no respetarse si existe una protección suficiente contra las fuentes de polinización no deseadas.
+
+b) El cultivo poseerá suficiente identidad y pureza en lo que concierne a las características de sus componentes.
+
+Cuando las semillas se produzcan mediante el uso de un agente de hibridación químico, el cultivo deberá reunir los siguientes requisitos y condiciones:
+
+1\. La pureza varietal mínima de cada componente será de:
+
+– Avena, cebada, arroz, trigo blando, trigo duro y trigo espelta: 99,7 por 100.
+
+– Triticale autógamo: 99,0 por 100.
+
+2\. La hibridación mínima deberá ser del 95 por 100. El porcentaje de hibridación se evaluará de conformidad con los métodos internacionales vigentes, cuando existan. En los casos en que se determine la hibridación durante los análisis de las semillas previos a la certificación, no será necesario proceder a la determinación del porcentaje de hibridación durante las inspecciones de campo.
+
+Cuarta. Plantas de otras variedades: En las parcelas de producción de semilla de arroz el número de plantas reconocibles como manifiestamente silvestres o de grano rojo no excederá de:
+
+– 0 para la producción de semillas de base.
+
+– 1 por cada 100 m<sup>2</sup> para la producción de semillas certificadas de primera y segunda generación.
+
+En la producción de semillas de alpiste y centeno, excepto sus híbridos, el número máximo de plantas de otras variedades será de 1 por 30 metros cuadrados para la semilla de base y generaciones anteriores, y 1 por 10 metros cuadrados para la semilla certificada.
+
+No se tendrán en cuenta las variaciones típicas de la variedad comercial.
+
+Para la determinación de las proporciones de plantas de otras variedades y de las correspondientes a los apartados siguientes se efectuarán conteos al azar, siguiendo métodos adecuados para ello.
+
+En la producción de semillas de variedades híbridas de centeno el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, incluida la androesterilidad.
+
+El cultivo deberá reunir, además, los siguientes requisitos y condiciones:
+
+1\. El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
+
+– Uno por cada 30 metros cuadrados dedicados a la producción de semilla de base.
+
+– Uno por cada 10 metros cuadrados dedicados a la producción de semilla certificada; en las inspecciones de campo oficiales, esta norma sólo se aplicará a los componentes femeninos.
+
+2\. En lo que respecta a las semillas de base, si se utiliza la androesterilidad, el índice de esterilidad de componente sin actividad masculina será del 98 por 100 como mínimo.
+
+En la producción de semillas de variedades híbridas de cebada empleando el método de androesterilidad citoplasmática (CMS), el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, y además cumplirá los siguientes requisitos que serán examinados en una prueba oficial de post-control:
+
+a) El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
+
+– En los cultivos utilizados para producir semillas de base, del 0,1 % para la línea mantenedora y la línea restauradora y del 0,2 % para el componente femenino de la CMS;
+
+– En los cultivos utilizados para producir semillas certificadas, del 0,3 % para la línea restauradora y el componente femenino de la CMS y del 0,5 % en caso de que el componente femenino de la CMS sea un híbrido único.
+
+b) El índice de androesterilidad del componente femenino será como mínimo:
+
+– Del 99,7 % para la producción de semillas de base.
+
+– Del 99,5 % para la producción de semillas certificadas.
+
+c) Las semillas certificadas podrán producirse en un cultivo mixto de un componente femenino androestéril con un componente masculino que restaure la fertilidad.
+
+En la producción de semillas de variedades híbridas de trigo blando, trigo duro y trigo espelta empleando el método de androesterilidad citoplasmática (CMS), el cultivo poseerá un grado suficiente de identidad y pureza en lo que concierne a las características de sus componentes, y además cumplirá los siguientes requisitos que serán examinados en una prueba oficial de post-control:
+
+1\. El número de plantas de la especie cultivada que, según pueda apreciarse, no reúna las condiciones exigibles a los componentes no será superior a:
+
+– En los cultivos utilizados para producir semillas de base, del 0,1 % para la línea mantenedora y la línea restauradora y del 0,3 % para el componente femenino de la CMS;
+
+– En los cultivos utilizados para producir semillas certificadas, del 0,3 % para la línea restauradora y del 0,6% para el componente femenino de la CMS, y del 1 % en caso de que el componente femenino de la CMS sea un híbrido único.
+
+2\. El índice de androesterilidad del componente femenino será como mínimo:
+
+– Del 99,7 % para la producción de semillas de base.
+
+– Del 99 % para la producción de semillas certificadas.
+
+3\. Las semillas certificadas podrán producirse en un cultivo mixto de un componente femenino androestéril con un componente masculino que restaure la fertilidad.
+
+Quinta.–Plantas de otras especies cultivadas: Se consideran únicamente las especies cultivadas de difícil separación mecánica en la manipulación de las semillas y en especial de otros cereales.
+
+Se podrá diferir la aceptación o anulación de una parcela en el caso de que se sobrepasen los máximos fijados, hasta que se haya procedido a la selección mecánica y análisis de las muestras, cuando el productor lo solicite y siempre que quede garantizado que la semilla de la parcela considerada no se haya mezclado con la de otras parcelas.
+
+Sexta. Plantas infectadas: Se consideran plantas infectadas las atacadas por carbón (“*Ustilago spp*.”) en los campos de producción de semilla de trigo, cebada y avena, y por helmintosporiosis (“*Helminthosporium spp*.”) en los de cebada y arroz, así como por “*Piricularia oryzae**”* en el arroz.
+
+En el caso del centeno, el número de esclerocios de cornezuelo (“*Claviceps purpurea**”*) no podrá ser superior a uno por metro cuadrado, en todas las categorías.
+
+Se podrán aprobar campos con porcentajes mayores de los que figuran en el cuadro a petición de la Entidad, siempre que antes del precintado de la semilla éstas se hayan tratado con productos de reconocida eficacia.
+
+El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de las semillas.
+
+El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+La presencia de plagas reguladas no cuarentenarias en los cultivos cumplirá los requisitos que figuran en el cuadro siguiente:
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Plagas reguladas no cuarentenarias o síntomas causados por ellas</p>
+</td>
+<td>
+<p>Especie</p>
+</td>
+<td>
+<p>Umbrales para la producción de semillas de prebase</p>
+</td>
+<td>
+<p>Umbrales para la producción de semillas de base</p>
+</td>
+<td>
+<p>Umbrales para la producción de semillas certificadas</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5">
+<p>Hongos y oomicetos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gibberella fujikuroi Sawada [GIBBFU].</p>
+</td>
+<td>
+<p>Oryza sativa L.</p>
+</td>
+<td>
+<p>No más de dos plantas sintomáticas por 200 m<sup>2</sup> detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo.</p>
+</td>
+<td>
+<p>No más de dos plantas sintomáticas por 200 m<sup>2</sup> detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo.</p>
+</td>
+<td>
+<p>Semillas certificadas de la primera generación (C1):</p>
+<p>No más de cuatro plantas sintomáticas por 200 m<sup>2</sup> detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo.</p>
+<p>Semillas certificadas de la segunda generación (C2):</p>
+<p>No más de ocho plantas sintomáticas por 200 m<sup>2</sup> detectadas durante inspecciones sobre el terreno efectuadas en momentos adecuados en una muestra representativa de las plantas de cada cultivo.</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Aphelenchoides besseyi Christie [APLOBE].</p>
+</td>
+<td>
+<p>Oryza sativa L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+<td>
+<p>0 %»</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica las observaciones tercera y cuarta por el art. 2.5 y 6 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica, con efectos de 1 de febrero de 2022, la observación tercera por el art. 2.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. [Ref. BOE-A-2021-21286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21286)
+
+> Se modifica la observación sexta por el art. 3.1 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se modifica por el art. único.1 de la Orden AAA/616/2016, de 26 de abril. [Ref. BOE-A-2016-4093](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4093).
+
+> Se modifica por el art. único de la Orden AAA/1079/2012, de 22 de mayo. [Ref. BOE-A-2012-6811](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-6811).
+
+> Se corrigen errores por la Orden ARM/2552/2011, de 21 de septiembre. [Ref. BOE-A-2011-15169](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15169).
+
+## ANEXO 2 — Requisitos de las semillas
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Especie y categoría</p>
+</td>
+<td>
+<p>Germinación<br> (mínimo)<br> porcentaje</p>
+</td>
+<td>
+<p>Pureza específica (mínimo) porcentaje</p>
+</td>
+<td>
+<p>Pureza varietal (mínimo) porcentaje</p>
+</td>
+<td>
+<p>Semillas<br> de otras especies<br> (máximo)</p>
+</td>
+<td>
+<p>Semillas<br> de otros cereales<br> (máximo)</p>
+</td>
+<td>
+<p>Semillas<br> de otras especies<br> no cereales<br> (máximo)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trigos, cebada, avenas y trigo espelta menor(1):</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>85 (2)</p>
+</td>
+<td>
+<p>99</p>
+</td>
+<td>
+<p>99,9</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-1</p>
+</td>
+<td>
+<p>85 (2)</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99,7</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-2</p>
+</td>
+<td>
+<p>85 (2)</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Arroz(1):</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase(*) y de base</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99,9</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-1</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99,7</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-2</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Centeno:</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>85</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada</p>
+</td>
+<td>
+<p>85</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alpiste:</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada</p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Triticale:</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99,7</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-1</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>99,0</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-2</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>98</p>
+</td>
+<td>
+<p>98,0</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>7</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Especie y categoría</p>
+</td>
+<td>
+<p>Avena fatua<br> Avena sterilis<br> Avena ludoviciana<br> Lolium temulentum<br> (máximo)</p>
+</td>
+<td>
+<p>Rapha-<br> nus raphanis-trum<br> Agroste-mma<br> githago<br> (máximo)</p>
+</td>
+<td>
+<p>Panicum spp<br> (máximo)</p>
+</td>
+<td>
+<p>Granos rojos<br> de arroz<br> (máximo)</p>
+</td>
+<td>
+<p>Semillas atacadas<br> por carbón<br> (máximo)</p>
+</td>
+<td>
+<p>Semillas atacadas por tizón<br> (máximo)</p>
+</td>
+<td>
+<p>Humedad<br> (máximo)<br> porcentaje</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trigos, cebada, avenas y trigo espelta menor(1):</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-2</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Arroz(1):</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase(*) y de base</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-2</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Centeno:</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Alpiste:</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Triticale:</p>
+</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>Semilla de prebase (*) y de base</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-1</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Semilla certificada R-2</p>
+</td>
+<td>
+<p>0</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>-</p>
+</td>
+<td>
+<p>14</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) De la generación inmediatamente anterior a la semilla de base.
+
+(1) Que no sean sus híbridos respectivos
+
+(2) Para la Avena nuda la germinación mínima es del 75 %
+
+Observaciones:
+
+1\. Las semillas estarán prácticamente libres de cualquier plaga que reduzca su utilidad y calidad.
+
+2\. Las semillas también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+3\. La presencia de una semilla de “Avena fatua L.”, “Avena sterilis L.”, “Avena ludoviciana Dur.” o “Lolium temulentum L.” (columna 7) en una muestra de 500 gramos no se considerará impureza si, tomada una segunda muestra de igual peso, está totalmente exenta de estas semillas.
+
+4\. La presencia de un segundo grano de semilla de otros cereales (columna 5) en las categorías de semillas de prebase y de base no se considerará impureza si, tomada una segunda muestra de igual peso, está totalmente exenta de estas semillas.
+
+5\. El contenido total de impurezas establecidas en las columnas 5, 6, 7, 8, 9 y 10 debe ser igual o inferior al contenido máximo de semillas establecido en la columna 4.
+
+6\. La presencia de plagas reguladas no cuarentenarias en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Plagas reguladas</p>
+<p>no cuarentenarias</p>
+<p>o síntomas causados</p>
+<p>por ellas</p>
+</td>
+<td>
+<p>Especie</p>
+</td>
+<td>
+<p>Umbrales</p>
+<p>para las semillas de prebase</p>
+</td>
+<td>
+<p>Umbrales</p>
+<p>para las semillas de base</p>
+</td>
+<td>
+<p>Umbrales</p>
+<p>para las semillas certificadas</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="5">
+<p>Nematodos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Aphelenchoides besseyi Christie [APLOBE].</p>
+</td>
+<td>
+<p>Oryza sativa L.</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+<td>
+<p>0 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>Hongos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gibberella fujikuroi Sawada [GIBBFU].</p>
+</td>
+<td>
+<p>Oryza sativa L.</p>
+</td>
+<td>
+<p>Prácticamente libre</p>
+</td>
+<td>
+<p>Prácticamente libre</p>
+</td>
+<td>
+<p>Prácticamente libre</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+7\. La presencia de estructuras fúngicas en las semillas y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
+
+| Categoría | Número máximo de estructuras fúngicas, como esclerocios o cornezuelos, en una muestra del peso especificado en la cuarta columna del anexo 3 |
+|---|---|
+| Cereales no híbridos de Secale cereale: |  |
+| – Semillas de base. | 1 |
+| – Semillas certificadas. | 3 |
+| Híbridos de Secale cereale: |  |
+| – Semillas de base. | 1 |
+| – Semillas certificadas. | 4 (*) |
+
+(*) La presencia de cinco estructuras fúngicas, como esclerocios o fragmentos de esclerocios o cornezuelos, en una muestra del peso prescrito se considerará conforme con las normas cuando una segunda muestra del mismo peso no contenga más de cuatro estructuras fúngicas.
+
+8\. Por lo que respecta a las variedades de Hordeum vulgare oficialmente clasificadas como variedades de tipo cebada desnuda, la facultad de germinación mínima queda reducida al 75 por 100 de las semillas puras. La etiqueta oficial llevará la inscripción “Facultad germinativa mínima del 75 por 100”.
+
+9\. Para los híbridos de avenas, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo, la pureza varietal mínima de las semillas de categoría “semilla certificada” deberá ser del 90 por 100. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+
+10\. En el caso de semillas de variedades híbridas de cebada empleando el método CMS, la pureza varietal mínima deberá ser del 85 %. Las impurezas, con excepción de la línea restauradora, no excederán del 2 %. Dicha pureza deberá ser examinada en las pruebas oficiales de post-control sobre una proporción adecuada de muestras.
+
+> Se modifica, con efectos de 1 de febrero de 2022, por el art. 2.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. [Ref. BOE-A-2021-21286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21286)
+
+> Se modifica por el art. 3.2 de la Orden APA/455/2020, de 26 de mayo. [Ref. BOE-A-2020-5413](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5413)
+
+> Se modifica por el art. único.2 de la Orden AAA/616/2016, de 26 de abril. [Ref. BOE-A-2016-4093](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4093).
+
+> Se corrigen errores por la Orden ARM/2552/2011, de 21 de septiembre. [Ref. BOE-A-2011-15169](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15169).
+
+## ANEXO 3 — Peso de los lotes y de las muestras
+
+| Especies | Peso máximo del lote<br>–<br>(Kilogramos) | Peso mínimo de la muestra a tomar de un lote<br>–<br>(Gramos) | Peso de la muestra para efectuar los conteos del anejo 2<br>–<br>(Gramos) |
+|---|---|---|---|
+| Trigo, cebada, avena, centeno, trigo espelta y triticale. | 30.000 | 1.000 | 500 |
+| Alpiste. | 10.000 | 400 | 200 |
+| Arroz. | 30.000 | 700 | 500 |
+
+En el peso máximo de los lotes se admite una tolerancia de hasta el 5 por 100.
+
+> Se modifica por el art. 2.7 de la Orden APA/800/2022, de 5 de agosto. [Ref. BOE-A-2022-13835](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13835)
+
+> Se modifica por el art. 2.2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. [Ref. BOE-A-2021-21286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21286)

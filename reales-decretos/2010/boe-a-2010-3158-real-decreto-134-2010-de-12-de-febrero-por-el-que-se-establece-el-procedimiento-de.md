@@ -1,0 +1,401 @@
+---
+title: "Real Decreto 134/2010, de 12 de febrero, por el que se establece el procedimiento de resolución de restricciones por garantía de suministro y se modifica el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica"
+identifier: "BOE-A-2010-3158"
+eli: "https://www.boe.es/eli/es/rd/2010/02/12/134"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2010-02-12
+published: 2010-02-27
+in_force_from: 2010-02-28
+last_amended: 2011-12-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 51"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2010-3158"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 134/2010, de 12 de febrero, por el que se establece el procedimiento de resolución de restricciones por garantía de suministro y se modifica el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica
+
+La Ley 54/1997, de 27 noviembre, del Sector Eléctrico, dispone en su artículo 25 que el Gobierno podrá establecer los procedimientos, compatibles con el mercado de libre competencia en producción, para conseguir el funcionamiento de aquellas unidades de producción de energía eléctrica que utilicen fuentes de combustión de energía primaria autóctonas, hasta un límite del 15 por ciento de la cantidad total de energía primaria necesaria para producir la electricidad demandada por el mercado nacional, considerada en períodos anuales, adoptando las medidas necesarias dirigidas a evitar la alteración del precio de mercado.
+
+Por otra parte, el mercado de producción de energía eléctrica regulado en el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, constituye una pieza básica en el esquema regulador del sector eléctrico introducido por la citada Ley 54/1997, de 27 de noviembre, una de cuyas metas es conseguir una mejora en la eficiencia mediante la introducción de mecanismos de mercado en aquellas actividades que pueden realizarse en condiciones competitivas.
+
+La garantía del suministro a los consumidores eléctricos pone de manifiesto la importancia de mantener abierta la opción de los combustibles de origen autóctono. A este respecto, la generación térmica con centrales que utilizan carbón como combustible además, aportan normalmente, salvo indisponibilidades puntuales sobrevenidas, un grado de fiabilidad adecuado para garantizar la correcta operación del sistema y el suministro eléctrico, al tratarse de una producción gestionable y proveedora de servicios de ajuste del sistema.
+
+A ello hay que añadir el carácter estratégico de la producción con carbón autóctono. En este sentido, dado que las centrales que utilizan carbón autóctono proveen este servicio y que el carbón autóctono puede ser utilizado hasta un máximo del 15 por ciento de la cantidad total de energía primaria necesaria para producir la electricidad demandada en cómputo anual, se hace necesario el uso del mismo, en unas cantidades no mayores a las previstas en el «Plan Nacional de Reserva Estratégica de Carbón 2006-2012 y Nuevo Modelo de Desarrollo Integral y Sostenible de las Comarcas Mineras», para evitar que el parque generador de las centrales de carbón desaparezcan en el corto plazo, perdiéndose así un soporte estratégico importante para llevar a cabo los compromisos adquiridos.
+
+Para alcanzar los objetivos señalados, en el artículo único del real decreto se aprueba el procedimiento de resolución de las restricciones por garantía de suministro que se identifican en el programa diario base de funcionamiento y previamente al proceso de modificación de programas para la resolución de las restricciones técnicas del sistema.
+
+El proceso de resolución de restricciones por garantía de suministro, que figura en el anexo I de este real decreto, consiste en realizar sobre el programa diario base de funcionamiento aquellas modificaciones necesarias para cumplir los referidos criterios de seguridad de suministro, con el menor impacto económico y medioambiental posible, y respetando las limitaciones que sea preciso establecer por seguridad del sistema.
+
+Se establece también la posterior aplicación de un mecanismo para la reducción de los valores programados que resulte precisa, al objeto de obtener un programa equilibrado en generación y demanda, tras la realización de las modificaciones necesarias para resolver las restricciones por garantía de suministro, y una vez tenidas ya en cuenta las modificaciones de programa por solución de restricciones técnicas cuyo saldo neto horario represente una reducción del programa base de funcionamiento. Este mecanismo de reducción de los programas de producción se aplicará sobre las instalaciones térmicas de producción emisoras de CO<sub>2</sub>, siguiendo un orden de mérito descendente de los niveles de emisión de CO<sub>2</sub> de las distintas instalaciones, y respetando las limitaciones de programa que sea preciso establecer por seguridad del sistema eléctrico.
+
+Para la aplicación de este mecanismo, se ha previsto que la Comisión Nacional de Energía supervise los valores de emisión de cada una de las instalaciones térmicas de producción, comunicados por los sujetos titulares de las mismas, como paso previo a la utilización de estos valores por parte del operador del sistema. Dichos valores de emisión deberán ser coherentes con el contenido de los informes verificados de emisión notificados por el titular en el marco de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
+
+Se ha previsto igualmente que la Comisión Nacional de Energía pueda solicitar información sobre las ofertas presentadas en el mercado diario por las centrales que utilizan carbón autóctono como combustible, así como por aquellas otras instalaciones térmicas de producción emisoras de CO<sub>2</sub> que pueden participar en el proceso de reducción de programas posterior a la resolución de restricciones por garantía de suministro, a fin de detectar la existencia de indicios de prácticas restrictivas de la competencia.
+
+Se incluyen asimismo, por un lado, un anexo II donde se definen las centrales que quedan adscritas a este proceso como unidades vendedoras, la metodología de cálculo para establecer la retribución de la energía entregada y los volúmenes máximos anuales de producción que pueden ser programadas en el proceso de resolución de restricciones por garantía de suministro y, por otro, un anexo III donde se regulan los derechos de cobro de las unidades cuyo programa resulte reducido en el proceso para la compensación de las modificaciones por solución de restricciones por garantía de suministro.
+
+Lo anterior determina la necesidad de introducir en el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, las modificaciones precisas para distinguir dentro de los servicios de ajuste del sistema el servicio de la resolución de restricciones por garantía de suministro.
+
+El mecanismo regulado en este real decreto tiene carácter transitorio y su puesta en marcha queda vinculada al desarrollo y aprobación de los procedimientos de operación y, en su caso, a lo contenido en el artículo 108.3 del Tratado de Lisboa, que permitan su implantación.
+
+Este real decreto ha sido objeto del informe 29/2009 de la Comisión Nacional de Energía, aprobado por su Consejo de Administración en su reunión de fecha 16 de noviembre de 2009, para cuya elaboración se han tenido en cuenta las alegaciones formuladas en el trámite de audiencia efectuado a través del Consejo Consultivo de Electricidad; así como del informe de la Comisión Nacional de la Competencia, aprobado por su Consejo en su reunión de fecha 25 de noviembre de 2009.
+
+La Comisión Delegada del Gobierno para Asuntos Económicos ha examinado el presente real decreto en su reunión de 22 de octubre de 2009.
+
+Este real decreto se dicta al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético, respectivamente. A este respecto cabe señalar que, por el contenido de sus disposiciones, la ley no resulta un instrumento idóneo para su establecimiento y se encuentra justificada su aprobación mediante real decreto.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de febrero de 2010,
+
+DISPONGO:
+
+## Artículo único. Aprobación del procedimiento de resolución de restricciones por garantía de suministro.
+
+1\. Se aprueba el procedimiento de resolución de restricciones por garantía de suministro, en los términos que establece el anexo I de este real decreto.
+
+2\. En el anexo II, se definen las centrales que quedan obligadas a participar en este proceso como unidades vendedoras, así como la metodología de cálculo del precio de retribución de la energía y la manera de fijar los volúmenes máximos de producción anuales que pueden ser programados en el proceso de resolución de restricciones por garantía de suministro.
+
+Estas centrales presentarán a la Comisión Nacional de Energía una carta de compromiso de adquisición de carbón autóctono hasta 2012 firmada por cada uno de los suministradores, incluido el gestor del almacenamiento estratégico temporal de carbón, según se define en el anexo II. Dicha carta deberá presentarse en el plazo de tres días hábiles a contar desde el día en que produzca efectos la resolución de la Secretaría de Estado de Energía en la que se fijen los volúmenes máximos de producción anuales a la que se refiere el anexo II.
+
+3\. Asimismo, los titulares de las centrales a las que se refiere el apartado anterior, siempre que estén incluidas en el plan de funcionamiento actualizado para la resolución de restricciones por garantía de suministro comunicado por el Operador del Sistema en el proceso de restricciones técnicas por garantía de suministro, estarán obligadas a presentar ofertas de venta en el mercado diario por cada una de ellas por un valor de energía igual al contemplado en el mencionado plan a un precio máximo igual al coste variable de la central que establezca la Secretaría de Estado de Energía del Ministerio de Industria, Turismo y Comercio, conforme se dispone en el anexo II. En este caso, podrán generar un derecho de cobro o una obligación de pago, en los términos establecidos en el anexo II.
+
+4\. Las sociedades titulares de las centrales a las que se refiere el apartado anterior deberán llevar en su contabilidad cuentas separadas que diferencien entre los ingresos y costes imputables estrictamente a la de generación de estas centrales en el plan de funcionamiento actualizado para la resolución de restricciones por garantía de suministro comunicado por el Operador del Sistema en el marco de este real decreto del resto de las actividades, a fin de evitar discriminaciones, una compensación excesiva, subvenciones entre actividades distintas y distorsiones de la competencia, todo ello sin perjuicio del cumplimiento del resto de las exigencias establecidas a este respecto en la Ley 54/1997, de 27 de noviembre, y en la normativa Comunitaria sobre obligaciones de servicio público.
+
+> Se modifica por el art. 1.1 del Real Decreto 1221/2010, de 1 de octubre. [Ref. BOE-A-2010-15121](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15121)
+
+## Disposición adicional única. Informes sobre los efectos de la aplicación del procedimiento de resolución de restricciones por garantía de suministro.
+
+1\. El Ministro de Industria, Turismo y Comercio, en el plazo de dos años desde la entrada en vigor del presente real decreto, presentará un informe a la Comisión Delegada del Gobierno para Asuntos Económicos, en el que se analizará el impacto en el mercado de la aplicación del procedimiento de resolución de restricciones por garantía de suministro, para los diferentes agentes del mercado eléctrico en España afectados, poniendo especial énfasis en los efectos que afecten a la competencia.
+
+2\. El Ministro de Industria, Turismo y Comercio en el plazo de dos años desde la entrada en vigor del presente real decreto, presentará un informe a la Comisión Delegada del Gobierno para el Cambio Climático, en el que se analizará el impacto en relación a las emisiones de CO<sub>2</sub> como consecuencia de la aplicación del procedimiento de resolución de restricciones por garantía de suministro.
+
+## Disposición transitoria única. Aplicación del procedimiento de resolución de restricciones por garantía de suministro.
+
+El procedimiento de resolución de restricciones por garantía de suministro que se regula en el artículo único será de aplicación hasta el 2014, o en fecha anterior que se fije por el Ministro de Industria, Turismo y Comercio si las condiciones del mercado de producción español permiten al parque de generación térmica con carbón autóctono un funcionamiento a través de los mecanismos de mercado que permita su viabilidad económica en el medio plazo, de tal forma que se garantice la cobertura de la demanda eléctrica en condiciones de seguridad de suministro.
+
+> Se modifica por el art. 1.2 del Real Decreto 1221/2010, de 1 de octubre. [Ref. BOE-A-2010-15121](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15121)
+
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para determinar las bases y coordinación de la planificación general de la actividad económica y las bases del régimen minero y energético, respectivamente.
+
+## Disposición final segunda. Modificación del Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica.
+
+Se modifica el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, en los siguientes términos:
+
+Uno. El artículo 2 queda redactado del siguiente modo:
+
+«Artículo 2. Definición.
+
+El mercado de producción de energía eléctrica es el integrado por el conjunto de transacciones comerciales de compra y venta de energía y de otros servicios relacionados con el suministro de energía eléctrica.
+
+El mercado de producción de energía eléctrica se estructura en mercados a plazo, mercado diario, mercado intradiario, mercados no organizados y mercados de servicios de ajuste del sistema, entendiendo por tales la resolución de restricciones por garantía de suministro y por restricciones técnicas del sistema, los servicios complementarios y la gestión de desvíos.»
+
+Dos. El artículo 12 queda redactado como sigue:
+
+«Artículo 12. Restricciones por garantía de suministro y técnicas.
+
+1\. A partir del programa diario base de funcionamiento el operador del sistema determinará primero las restricciones por garantía de suministro que se regulen y después las restricciones técnicas que pudieran afectar a la ejecución del programa previsto, así como las necesidades de servicios complementarios a que diera lugar.
+
+A los efectos de este real decreto, se entenderá como restricción por garantía de suministro a la producción que se determine como necesaria de aquellas unidades térmicas de producción de energía eléctrica que utilicen fuentes de combustión de energía primaria autóctonas para asegurar la garantía del suministro hasta el límite máximo establecido en el artículo 25 de la ley 54/1997, de 27 de noviembre, y tenidas en cuenta las posibles limitaciones de programa por seguridad que, de acuerdo con lo establecido en los procedimientos de operación, pudieran ser requeridas.
+
+A los efectos del presente real decreto, se entenderá por restricción técnica cualquier circunstancia o incidencia derivada de la situación de la red de transporte o del sistema que, por afectar a las condiciones de seguridad, calidad y fiabilidad del suministro establecidas reglamentariamente y a través de los correspondientes procedimientos de operación, requiera, a criterio técnico del operador del sistema, la modificación de los programas.
+
+2\. Los procedimientos de resolución de restricciones por garantía de suministro y técnicas podrán comportar la retirada de ofertas contempladas en los programas, así como la modificación de los programas, en los términos que se establezcan sobre la base de otras ofertas por Resolución de la Secretaría de Estado de Energía.
+
+3\. La resolución de las restricciones por garantía de suministro, la resolución de las restricciones técnicas y el resultado del mercado de servicios complementarios a que se refiere el artículo 14 se denominará programa diario viable y será comunicado por el operador del sistema a los sujetos en la forma y plazos establecidos en los procedimientos de operación.»
+
+Tres. El artículo 23 bis queda redactado como a continuación se transcribe:
+
+«Artículo 23 bis. Liquidación a realizar por el Operador del Sistema.
+
+El Operador del Sistema liquidará las cuantías a satisfacer o recibir por los sujetos del mercado de producción correspondientes a:
+
+a) Los cobros y pagos derivados de la gestión de los servicios de ajuste del sistema, que incluirá:
+
+La resolución de restricciones por garantía de suministro.
+
+La resolución de restricciones técnicas.
+
+Los servicios complementarios.
+
+La gestión de los desvíos.
+
+b) Los cobros o pagos por el servicio de pago por capacidad.»
+
+## Disposición final tercera. Desarrollo normativo.
+
+1\. En un plazo máximo de tres días hábiles a partir de la publicación de este real decreto, el operador del sistema deberá presentar al Ministerio de Industria, Turismo y Comercio una propuesta de revisión de los procedimientos de operación afectados por lo establecido en este real decreto.
+
+2\. Se autoriza al Ministro de Industria, Turismo y Comercio para dictar, en el ámbito de sus competencias, las disposiciones de desarrollo que resulten indispensables para asegurar la adecuada aplicación de este real decreto, así como para la modificación de sus anexos en función de las necesidades de garantía de suministro del sistema eléctrico.
+
+3\. Se autoriza a la Secretaría de Estado de Energía del Ministerio de Industria, Turismo y Comercio a desarrollar en las Reglas de funcionamiento del mercado diario e intradiario de producción de energía eléctrica los ajustes en la oferta y demanda que se puedan producir con posterioridad a la fijación del programa diario viable en el mercado intradiario regulado en el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica.
+
+> Se modifica por el art. 1.3 del Real Decreto 1221/2010, de 1 de octubre. [Ref. BOE-A-2010-15121](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15121)
+
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y será de aplicación a partir de la fecha de entrada en vigor de los procedimientos de operación a que se refiere el apartado tercero punto 1 del anexo I.
+
+Dado en Madrid, el 12 de febrero de 2010.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Turismo y Comercio,
+
+MIGUEL SEBASTIÁN GASCÓN
+
+## ANEXO I — Procedimiento de resolución de restricciones por garantía de suministro
+
+Primero. Resolución de las restricciones por garantía de suministro al programa diario base de funcionamiento.–Antes de las 14:00 horas de cada jueves, el operador del sistema establecerá un plan de funcionamiento para la semana eléctrica inmediata siguiente, para las centrales que utilizan carbón autóctono como combustible, comunicando a cada titular de dichas centrales su plan de funcionamiento. Se entenderá por semana eléctrica el periodo comprendido entre las 0:00 horas de cada sábado y las 24:00 horas del viernes inmediato siguiente. Estos planes semanales se elaborarán de forma que el consumo de carbón autóctono anual no supere las cantidades previstas en el «Plan Nacional de Reserva Estratégica de Carbón 2006-2012 y Nuevo Modelo de Desarrollo Integral y Sostenible de las Comarcas Mineras».
+
+Diariamente, y en los mismos plazos establecidos para la comunicación de información previa al mercado diario, el operador del sistema pondrá a disposición de cada sujeto del mercado, las posibles actualizaciones de su plan de funcionamiento semanal que sea necesario considerar en razón de la evolución de las previsiones de la demanda o de las entregas de producción de origen renovable, o por indisponibilidades sobrevenidas de instalaciones de producción y/o elementos de la red de transporte.
+
+El proceso de resolución de las restricciones por garantía de suministro al programa diario base de funcionamiento se realizará previamente a la modificación de los programas para la resolución de las restricciones técnicas, pero teniendo ya en cuenta, sin embargo, las limitaciones de programa que puedan ser requeridas por razones de seguridad del sistema eléctrico.
+
+En el proceso de resolución de restricciones por garantía de suministro, el operador del sistema realizará las modificaciones de programa necesarias para incluir, de acuerdo con el plan de funcionamiento semanal, en su caso actualizado, y comunicado a los sujetos del mercado, la generación térmica con centrales que utilizan carbón autóctono como combustible que hayan sido determinadas por el Ministro de Industria Turismo y Comercio hasta el límite máximo establecido en el artículo 25 de la Ley 54/1997, de 27 noviembre, siempre que este límite máximo implique, en el periodo anual correspondiente, el consumo de unas cantidades de carbón autóctono no mayores a las previstas en el mencionado «Plan Nacional de Reserva Estratégica de Carbón 2006-2012 y Nuevo Modelo de Desarrollo Integral y Sostenible de las Comarcas Mineras» para ese año.
+
+Tras la resolución de las restricciones por garantía de suministro y la posterior resolución de las restricciones técnicas, el operador del sistema, al objeto de obtener un programa equilibrado en generación y demanda procederá a aplicar una reducción de los valores programados para compensar aquella energía incorporada para la resolución de las restricciones por garantía de suministro, y que no haya sido ya directamente compensada por las modificaciones de programa por solución de restricciones técnicas cuyo saldo neto horario represente una reducción del programa base de funcionamiento.
+
+Segundo. Unidades que participan en el proceso de resolución de restricciones por garantía de suministro en el programa diario base de funcionamiento.–Para la resolución de restricciones por garantía de suministro se modificarán los programas para incluir la generación térmica con centrales que utilizan carbón autóctono como combustible, participando las centrales habilitadas por el Ministro de Industria Turismo y Comercio, según lo dispuesto en el anexo II.
+
+Tercero. Modificación de programas para la resolución de restricciones por garantía de suministro.
+
+1\. El operador del sistema determinará, de acuerdo con el plan semanal de funcionamiento para las centrales que utilizan carbón autóctono como combustible, actualizado, en su caso, hasta el día anterior al de suministro, las modificaciones que, cumpliendo con los criterios de seguridad establecidos en los procedimientos de operación del sistema, deban realizarse sobre el programa diario base de funcionamiento para la resolución de las restricciones por garantía de suministro.
+
+2\. Los aumentos de energía así programados y efectivamente realizados sobre el programa diario base de funcionamiento, serán retribuidos de según la metodología de cálculo establecida en el anexo II para la correspondiente instalación.
+
+Cuarto. Solución de los desequilibrios entre producción y demanda derivados de la resolución de restricciones por garantía de suministro.
+
+1\. Los incrementos de los programas de generación térmica con centrales que utilizan carbón autóctono como combustible que se realicen de acuerdo con lo establecido en el apartado tercero de este anexo I, que no sean directamente compensados por las modificaciones de programa que sea preciso aplicar para la resolución de las restricciones técnicas identificadas y cuyo saldo neto horario represente una reducción del programa base de funcionamiento, serán compensados mediante la aplicación del mecanismo específico descrito en los puntos siguientes.
+
+2\. En este mecanismo específico de reducción de programas, participarán todas las instalaciones térmicas de producción de régimen ordinario emisoras de , a excepción de aquellas instalaciones de régimen ordinario que realicen actividades de cogeneración o a las que se aplique la prima que se establece en los artículos 45 y 46 y en la disposición adicional sexta del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, que no estén incluidas en el anexo II y tengan un programa de venta de energía en el programa diario base de funcionamiento correspondiente al día siguiente.
+
+Asimismo quedará exceptuada del mecanismo específico de reducción de programas la energía programada en las instalaciones de régimen ordinario que utilicen gas siderúrgico como parte del combustible, siempre que no estén incluidas en el anexo II y dicha reducción represente un incumplimiento de los compromisos de consumo de gas que tiene establecidos. A estos efectos los titulares de estas instalaciones deberán comunicar al Operador del Sistema su programa mínimo de venta de energía compatible con el cumplimiento de dichos compromisos en la forma en la que se establezca en los procedimientos de operación a que se refiere el apartado 1 de la disposición final tercera. Al final de cada ejercicio el cumplimiento de la excepción de estas centrales será auditado por la Comisión Nacional de Energía.
+
+3\. La reducción de los programas de estas instalaciones de producción se efectuará primero teniendo en cuenta el orden de mérito descendente de los niveles de emisión de CO<sub>2</sub> de las distintas instalaciones de producción de carbón y fuel, con respeto de las limitaciones de programa que sea preciso establecer sobre dichas instalaciones por razones de seguridad del sistema eléctrico.
+
+La Comisión Nacional de Energía supervisará y hará públicos los valores de emisión de CO<sub>2</sub> de cada una de las instalaciones térmicas de producción antes citadas, comunicados por los sujetos titulares de las mismas, como paso previo a la utilización de estos valores en este proceso. Los valores de emisión comunicados a estos efectos deberán ser coherentes con el contenido de los informes verificados de emisiones que el titular haya notificado en el marco de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen de comercio de derechos de emisión de gases de efecto invernadero.
+
+Posteriormente se aplicará la reducción de los programas a las instalaciones de producción que utilicen como combustible gas natural, de forma proporcional a la energía programada para cada una de ellas en el programa diario base de funcionamiento.
+
+4\. Las unidades cuyo programa resulte reducido en este proceso para la compensación de las modificaciones por solución de restricciones por garantía de suministro, tras la incorporación también de aquellas modificaciones de programa para la resolución de restricciones técnicas cuyo saldo neto horario represente una reducción del programa base de funcionamiento, tendrán asociada una obligación de pago igual al precio del mercado diario.
+
+Quinto. Asignación y liquidación de los costes derivados del proceso.
+
+1\. La liquidación de los costes derivados del proceso se realizará por el operador del sistema de acuerdo con lo establecido en los apartados tercero y cuarto.
+
+2\. El saldo de los derechos de cobro establecidos en los apartados tercero y cuarto y de las obligaciones de pago del apartado cuarto será sufragado con cargo al saldo resultante de la diferencia entre los ingresos derivados de la financiación de los pagos por capacidad y los costes correspondientes a su retribución antes de su liquidación a la Comisión Nacional de Energía. El saldo restante tendrá la consideración de ingreso o coste liquidable del sistema a los efectos previstos en el Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento.
+
+Sexto. Supervisión.–Sin perjuicio de lo establecido en la disposición adicional undécima, punto tercero 1, función undécima, de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, en relación con el título X de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, la Comisión Nacional de Energía, en el ejercicio de la función duodécima de la disposición adicional undécima, podrá solicitar la información que considere necesaria.
+
+Cuando detecte la existencia de indicios de prácticas restrictivas de la competencia, lo pondrá en conocimiento de la Comisión Nacional de la Competencia, y aportará todos los elementos de hecho a su alcance y, en su caso, un dictamen no vinculante de la calificación que le merecen dichos hechos.
+
+Séptimo. Medidas adicionales para conseguir el cumplimiento de los objetivos previsto para el año 2011.
+
+1\. Los grupos incluidos en el plan de funcionamiento diario al que hace referencia el presente anexo, tendrán derecho al correspondiente coste unitario de generación con respecto al precio medio resultantes de todas sus transacciones en los mercados de gestión de desvíos, regulación terciaria y en el mercado intradiario, aplicada al incremento neto de programa en dichos mercados producido de forma efectiva y que no supere el plan de funcionamiento actualizado diario.
+
+2\. Los grupos incluidos en el plan de funcionamiento diario actualizado al que hace referencia el presente anexo, estarán obligados a incorporar un precio igual a 0 €/MWh en las ofertas de energía a bajar presentadas en los mercados de Gestión de Desvíos y de Regulación Terciaria, y al coste variable establecido por la Secretaria de Estado de Energía, en los mercados a subir de Gestión de Desvíos y de Regulación Terciaria y en los mercados intradiarios hasta los valores de producción incluidos en el plan de funcionamiento diario actualizado.
+
+3\. En el proceso de solución de los desequilibrios entre producción y demanda derivados de la resolución de restricciones por garantía de suministro, participarán también los programas de energía de las unidades que tengan únicamente programa en el PDBF en uno o varios de los tres primeros periodos horarios que constituyen el horizonte diario de programación, a modo de rampa descendente de carga asociada a un proceso de desacoplamiento de la unidad.
+
+4\. En los correspondientes procedimientos de operación se establecerán los criterios necesarios para determinar los derechos de cobro y obligaciones de pago anteriores.
+
+> Se añade el apartado 7º por la disposición final 5.1 del Real Decreto 1623/2011, de 14 de noviembre. [Ref. BOE-A-2011-19206](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19206).
+
+> Se modifica por el art. 1.4 a 7 del Real Decreto 1221/2010, de 1 de octubre. [Ref. BOE-A-2010-15121](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15121)
+
+## ANEXO II — Centrales que participan en el proceso de resolución de restricciones por garantía de suministro como unidades vendedoras, precio de retribución de la energía y volúmenes máximos de producción anuales programados
+
+1\. Las centrales obligadas a participar como unidades vendedoras en el proceso de modificaciones de programa para la resolución de restricciones por garantía de suministro son las que se citan a continuación:
+
+Soto de Ribera 3.
+
+Narcea 3.
+
+Anllares.
+
+La Robla 2.
+
+Compostilla.
+
+Teruel.
+
+Guardo 2.
+
+Puentenuevo 3.
+
+Escucha.
+
+Elcogás.
+
+Los precios de retribución de la energía, con el detalle de cada uno de los parámetros utilizados, y el volumen máximo de producción para cada año que puede ser programado en el proceso de resolución de restricciones por garantía de suministro serán fijados para cada central anualmente por Resolución de la Secretaría de Estado de Energía, que no podrán superar los límites establecidos en el artículo 25.1 de la Ley 54/1997, del Sector Eléctrico. Igualmente, la Secretaría de Estado de Energía podrá autorizar trasvases de carbón entre centrales para una mejor gestión del stock acumulado fijando la nueva retribución y volumen máximo de las centrales afectadas.
+
+El incumplimiento de la producción programada en el plan de funcionamiento comunicado por el operador del sistema en el proceso de resolución de restricciones por garantía de suministro, conforme establece el anexo I, será sancionado en los términos que resultan de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, salvo que se derive de indisponibilidades sobrevenidas debidamente justificadas de acuerdo con la normativa vigente.
+
+Si existieran indisponibilidades sobrevenidas debidamente justificadas, conforme se establece en el apartado anterior, la diferencia entre las cantidades correspondientes al volumen máximo de producción del año y las realmente producidas se tendrá en cuenta para la fijación del volumen máximo de producción durante el periodo de vigencia del mecanismo.
+
+Cuando a lo largo del ejercicio una central sobrepase en su funcionamiento el volumen de producción de energía que fije la Secretaría de Estado de Energía e implique una retribución por encima del 5 por ciento de la inicialmente establecida por garantía de suministro, el operador del sistema lo comunicará a la Secretaría de Estado de Energía y a la Comisión Nacional de Energía. La Secretaría de Estado de Energía fijará los nuevos precios de retribución de la energía teniendo en cuenta el exceso de funcionamiento y los titulares de las centrales liquidarán al operador del sistema el exceso de retribución en concepto de coste, todo ello sin perjuicio de que al finalizar el ejercicio se proceda conforme al apartado siguiente.
+
+Las auditorías de las empresas propietarias de estas centrales deberán incluir en sus auditorías anuales una segregación de las cuentas para cada una de las centrales incluidas en apartado 1. Esta segregación contendrá suficiente detalle para que la Comisión Nacional de Energía pueda determinar todos y cada uno de los parámetros en la metodología que se establece en el apartado 3.2. La Secretaría de Estado de Energía podrá fijar por Resolución las distintas actuaciones que deberá llevar a cabo la Comisión Nacional de Energía para determinar el coste real de los parámetros fijados en el apartado 3.2.
+
+Antes del 15 de julio los titulares de las centrales deberán remitir a la Comisión Nacional de Energía la auditoría de cuentas con los requisitos exigidos en el párrafo anterior. La Comisión Nacional de Energía, de acuerdo con la auditoría y la metodología que se establece en el apartado 3.2, efectuará el cálculo de los costes reales correspondiente al volumen de energía eléctrica producida por la central, y lo comunicará al operador del sistema quien liquidará el exceso o defecto de retribución por este concepto a cada central.
+
+Asimismo, cuando el precio medio mensual del API#2 publicado por el Coal Daily de Energy Argus Internacional sobrepase los 75 €/t se revisarán los precios de adquisición del carbón autóctono para cada central que se definen más adelante, PRCA<sub>i</sub>, por la Secretaría de Estado de Energía y se fijarán los nuevos precios de retribución.
+
+En cualquier caso, en cada central obligada a participar en el proceso de resolución de restricciones por garantía de suministro, se descontará cualquier ayuda que perciba o pueda percibir en el futuro por otros conceptos, así como otros ingresos asociados al funcionamiento al amparo de este real decreto.
+
+2\. Las cantidades anuales de carbón autóctono a adquirir por los titulares de las centrales a que se refiere el apartado anterior serán las que se fijen para cada año por Resolución de la Secretaría de Estado de Energía que sólo se aplicarán a las cantidades de carbón que se benefician de ayudas de Estado, de acuerdo con el reglamento CE n.º 1407/2002, de 23 de julio de 2002, sobre las ayudas estatales a la industria del carbón o con cualquier reglamento ulterior que lo reemplace y que, en cualquier caso, hasta el año 2012 estas cantidades de carbón no serán mayores, en el periodo total de vigencia del presente Real Decreto, a las previstas en el “Plan Nacional de Reserva Estratégica de Carbón 2006-2012 y Nuevo Modelo de Desarrollo Integral Sostenible de las Comarcas Mineras”.
+
+La Comisión Nacional de Energía supervisará e inspeccionará la correcta utilización del carbón autóctono asociada a las producciones programada en el plan de funcionamiento comunicado por el operador del sistema en el proceso de resolución de restricciones por garantía de suministro.
+
+*3.* Metodología de cálculo de los precios de retribución de la energía.
+
+3.1 Los precios de retribución de la energía de las centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro se corresponderán con el coste unitario de generación del grupo para una producción anual correspondiente al volumen máximo de producción anual programable por garantía de suministro.
+
+Para dar cumplimiento a lo establecido en el punto 3 del artículo único del presente real decreto, los titulares de las centrales que estén incluidas en el plan de funcionamiento actualizado para la resolución de restricciones por garantía de suministro podrán presentar al mercado diario la condición compleja de ingresos mínimos, sin otras condiciones complejas adicionales, con la siguientes características:
+
+a) El término variable de la oferta será el coste variable regulado en euros/MWh.
+
+b) El término fijo será igual a 0 euros.
+
+c) El primer bloque de energía corresponderá al menos al plan semanal de funcionamiento actualizado y se ofertará a 0 euros/MWh.
+
+En el caso en que no se utilice esta condición compleja, el primer bloque de energía corresponderá al menos al plan semanal de funcionamiento actualizado y se ofertará al coste variable regulado en euros/MWh.
+
+A las centrales incluidas en el presente anexo no les serán de aplicación las condiciones de los párrafos segundo y tercero de la regla 28.1.2.2 de funcionamiento del mercado de producción de energía eléctrica, cuando se encuentren incluidas en el plan de funcionamiento actualizado.
+
+Cuando las centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro resulten programadas por el Operador del Sistema para la implementación del mecanismo de restricciones por garantía de suministro la energía producida generará un derecho de cobro del titular de la central en el proceso de liquidación de las restricciones por garantía de suministro, con cargo a los pagos por capacidad igual al producto del coste unitario que se fije para la central por la energía realmente programada en el proceso. Los titulares de las centrales programadas en el mercado diario base de funcionamiento cuya energía tenga que ser retirada del programa por la activación del mecanismo tendrán una obligación de pago igual al producto del precio del mercado diario por la energía desplazada.
+
+Cuando alguna de estas centrales obligadas a participar en el proceso de resolución de restricciones por garantía de suministro resulte programada en el mercado diario y el volumen máximo de producción anual programado no haya sido alcanzado, generará un derecho de cobro o, en su caso, una obligación de pago, por la diferencia entre el precio del mercado diario y el coste regulado, por la energía programada dentro del plan de funcionamiento actualizado.
+
+Esta energía producida se tendrá en cuenta a la hora de determinar la energía pendiente para alcanzar el volumen máximo de producción para cada año que puede ser programada en el proceso de resolución de restricciones por garantía de suministro.
+
+3.2 El coste unitario de generación de los grupos para una producción anual correspondiente al volumen máximo de producción programable por garantía de suministro incluirá los costes fijos, CF<sub>i</sub>, y los costes variables CV<sub>i</sub>.
+
+CG (i) = CF<sub>i</sub> + CV<sub>i</sub>
+
+CF<sub>i</sub>: El coste fijo unitario, expresado en Euros/MWh, incluirá el coste de operación y mantenimiento fijo y, en su caso, la anualidad del coste de inversión calculado de acuerdo con la siguiente fórmula:
+
+CF<sub>i</sub> = (CFOM<sub>i</sub> x P<sub>i</sub>+ CIT<sub>i</sub>) / Ep<sub>i</sub>)
+
+Donde:
+
+CFOM<sub>i</sub> Coste fijo de operación y mantenimiento unitario, expresado en Euros/MW. El coste fijo de operación y mantenimiento para cada central será de 33.000 €/MW de coste por grupo generador o, para la central de gasificación integrada, 140.000 €/MW a precios de 2010. Además, se considerarán 5.000 €/MW, a precios de 2010 si cuenta con planta de desulfuración.
+
+Los valores del coste fijo de operación y mantenimiento definidos en el párrafo anterior se actualizarán cada año con la variación anual del índice de precios al consumo y serán publicados por Resolución de la Secretaría de Estado de Energía. Para el cálculo de la variación de los índices de precios en el año n se tomará como valor de dichos índices la media móvil de los últimos doce meses a noviembre del año anterior.
+
+CIT<sub>i</sub> Anualidad del coste de la inversión por desulfuración o para amortización de plantas de gasificación integradas para cada grupo, expresada en Euros. Se compondrá como suma de dos términos, la retribución por amortización y la retribución del capital, y se descontará el pago por capacidad. Se calculará de acuerdo con la siguiente fórmula:
+
+CIT<sub>i</sub> = A<sub>i</sub> + R<sub>i</sub> - CP<sub>i</sub>
+
+Donde:
+
+A<sub>i</sub>: Retribución por amortización anual de la inversión del grupo i, expresada en euros. La amortización de la inversión será lineal considerando una vida útil de 10 años para las inversiones en desulfuración y 6 años para amortización de la planta de gasificación integrada y la vida útil restante para el resto de instalaciones.
+
+R<sub>i</sub>: Retribución financiera en el año n de la inversión del grupo i, expresada en euros.
+
+Se calculará cada año aplicando la tasa de retribución (Tr<sub>n</sub>) a la inversión neta (VNI<sub>in</sub>), conforme a la siguiente fórmula:
+
+R<sub>in</sub> = VNI<sub>in</sub> × Tr<sub>n</sub>
+
+Siendo:
+
+VNI<sub>in</sub>: Valor neto de la inversión del grupo i expresada en euros pendientes de amortizar a 31 de diciembre. Para su cálculo se tomarán como valores iniciales a 31 de diciembre de 2009 una inversión que será el valor pendiente de amortización que se presente en la separación contable auditada para los grupos que cuentan con planta de desulfuración. En el caso de la planta de gasificación integrada se tomará el valor de la inversión no amortizada a 31 de diciembre del año 2009. El valor real final será calculado por la Comisión Nacional de Energía una vez se presenten los datos auditados de la separación contable utilizando el valor pendiente de amortización.
+
+(Tr<sub>n</sub>): Tasa financiera de retribución a aplicar en el año n. Se corresponderá con el valor de la media móvil de los últimos doce meses disponibles de los Bonos del Estado a diez años más 300 puntos básicos. Dicho valor se revisará anualmente por la Comisión Nacional de Energía para aplicar los valores correctos al periodo.
+
+CP<sub>i</sub>: Pago anual por capacidad del grupo i, expresada en euros para cada central.
+
+P<sub>i</sub>: Potencia neta del grupo generador, en MW.
+
+Ep<sub>i</sub>: Energía programada para el año, en MWh. Este valor será posteriormente revisado por la Comisión Nacional de Energía para la determinación correcta del coste real utilizando la energía real producida del grupo generador.
+
+Los costes variables incluirán el coste de combustible puesto en central, el coste financiero del carbón autóctono almacenado, el coste variable de operación y mantenimiento y el coste de emisión de CO<sub>2</sub>. Estos costes se calcularán para cada central i de acuerdo con la siguiente fórmula:
+
+CV (i) = CC<sub>i</sub> +Cf<sub>i</sub> + CVOM<sub>i</sub> + CO<sub>2i</sub>.
+
+Donde:
+
+CC<sub>i</sub>: Coste de combustible expresado en Euros/MWh, que se calculará de acuerdo con la siguiente fórmula:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>1000 × FCA <sub>i</sub> × [ PRCA <sub>i</sub> ×</p>
+</td>
+<td>
+<p>ConsEsp <sub>i</sub></p>
+</td>
+<td rowspan="2">
+<p>] + 1000 × (1 – FCA <sub>i</sub>) × (</p>
+</td>
+<td>
+<p>P<sub>p</sub></p>
+</td>
+<td rowspan="2">
+<p>+ PRL <sub>i </sub>) ×</p>
+</td>
+<td>
+<p>ConsEsp <sub>i</sub></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PCS <sub>i</sub></p>
+</td>
+<td>
+<p>C <sub>$€</sub></p>
+</td>
+<td>
+<p>PCS <sub>i</sub>´</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Donde:
+
+FCA<sub>i</sub> Es el tanto por uno de carbón autóctono en energía, que será fijado anualmente por resolución de la Secretaría de Estado de Energía y acreditado ante la Comisión Nacional de Energía por los titulares de las instalaciones.
+
+PRCA<sub>i</sub> Son los precios de adquisición del carbón autóctono para cada central, expresados en €/t que incorporan las correcciones por motivos de calidad. Estos precios serán calculados a partir de los de 2009 que se incrementarán un 2 % anual hasta el año 2012. En el caso del almacenamiento estratégico temporal de carbón (AETC) se considerarán además los costes logísticos y de gestión.
+
+ConsEsp<sub>i</sub> es el consumo específico de la central expresado en te PCS/kWh en barras de central. Anualmente, estos parámetros se fijarán por Resolución de la Secretaría de Estado de Energía y serán supervisados por la Comisión Nacional de Energía antes del 15 de julio del año inmediatamente posterior.
+
+PCS<sub>i</sub> y PCS’<sub>i</sub> son los poderes caloríficos superiores del carbón autóctono y del combustible de referencia de la central i expresados en te PCS/t. Anualmente, estos parámetros se fijarán por Resolución de la Secretaría de Estado de Energía y serán supervisados por la Comisión Nacional de Energía antes del 15 de julio del año inmediatamente posterior.
+
+C<sub>$€</sub>: Cambio del dólar frente al euro (en $/€). Se establecerá anualmente por resolución de la Secretaría de Estado de Energía y serán supervisados por la Comisión Nacional de Energía antes del 15 de julio del año inmediatamente posterior. Para su fijación se tomara la media del mes de noviembre del año anterior publicado en el boletín estadístico del Banco de España.
+
+P<sub>p</sub> es el precio del producto por tipo de combustible. Estos precios se fijarán anualmente por resolución de la Secretaría de Estado de Energía y serán supervisados por la Comisión Nacional de Energía antes del 15 de julio del año inmediatamente posterior, bajo la consideración de los siguientes índices y cotizaciones, expresados en $/tn dependiendo del tipo de combustible:
+
+Para el carbón, será igual al precio del API#2 publicado por el Coal Daily de Energy Argus Internacional y se calculará como la media del mes de noviembre del año inmediatamente anterior.
+
+En el caso de que se utilicen otros combustibles se ponderará su precio en función de los precios internacionales de estos combustibles.
+
+PRL<sub>i</sub> es el precio de referencia de los costes de logística de los combustibles puestos en la central i en €/t. Este término será determinado por la Secretaría de Estado de Energía para cada central basado en precios de mercado.
+
+Cf<sub>i</sub>: Coste financiero unitario, expresado en Euros/MWh. Es el coste de unas mermas anuales del 1 por ciento para las hullas y antracitas y del 2 ciento para el lignito negro valorado al precio de adquisición del carbón autóctono del año de adquisición entre la electricidad generada para la prestación del servicio público. La CNE, en función del carbón almacenado a final de cada mes, calculará este valor, procediendo a la correspondiente liquidación.
+
+CVOM<sub>i</sub>: Coste variable de operación y mantenimiento unitario, expresado en Euros/MWh. Este coste tomará un valor de 2 €/MWh para las centrales de lignito negro y de 1,5 €/MWh para las hullas y antracitas. En caso de que el grupo de generación cuente con planta de desulfuración estos costes se incrementarán en 0,5 €/MWh.
+
+CO<sub>2i</sub>: El coste unitario de emisión del CO<sub>2</sub> en Euros/MWh, para lo que se aplican los últimos factores de emisión disponibles de cada grupo generador (en ton CO<sub>2</sub> por MWh generado). Para el cálculo del valor del derecho de emisión, para cada ejercicio se tomará la cotización media del EUA Futures Contracts del mes de noviembre en el mercado ECX para el año siguiente. Corresponderá al Ministro de Industria, Turismo y Comerció desarrollar la metodología de cálculo y el valor será fijado anualmente en la Resolución de la Secretaría de Estado de Energía especificando el coste unitario de emisión de los derechos asignados gratuitamente y será posteriormente calculado por la Comisión Nacional de Energía una vez presentadas las cuentas separadas auditadas por las unidades de generación, quien efectuará el cálculo de los costes reales en función de la energía finalmente producida de acuerdo con las funciones asignadas en este anexo. Para el año 2010 se fijará inicialmente el valor correspondiente al mes de noviembre de 2009 del mercado ECX.
+
+4\. Excepcionalmente, para el año 2010 los volúmenes máximos para cada central se fijarán en función del número máximo de horas en que este mecanismo es de aplicación, siendo en cualquier caso la energía programada inferior a la cantidad de energía programable en el año.
+
+> Se modifica el apartado 3.1 por la disposición final 5.2 del Real Decreto 1623/2011, de 14 de noviembre. [Ref. BOE-A-2011-19206](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19206).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 313, de 29 de diciembre de 2011. [Ref. BOE-A-2011-20480](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20480).
+
+> Se modifica por el art. 1.8 del Real Decreto 1221/2010, de 1 de octubre. [Ref. BOE-A-2010-15121](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15121)
+
+## ANEXO III — Derechos de cobro de las unidades cuyo programa resulte reducido en el proceso para la compensación de las modificaciones por solución de restricciones por garantía de suministro
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.9 del Real Decreto 1221/2010, de 1 de octubre. [Ref. BOE-A-2010-15121](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15121)

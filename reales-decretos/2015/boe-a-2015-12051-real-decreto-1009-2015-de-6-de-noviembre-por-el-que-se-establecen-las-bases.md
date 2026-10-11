@@ -1,0 +1,623 @@
+---
+title: "Real Decreto 1009/2015, de 6 de noviembre, por el que se establecen las bases reguladoras para la concesión de subvenciones destinadas al fomento de la integración de entidades asociativas agroalimentarias de ámbito supraautonómico"
+identifier: "BOE-A-2015-12051"
+eli: "https://www.boe.es/eli/es/rd/2015/11/06/1009"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Alimentación y Medio Ambiente"
+date: 2015-11-06
+published: 2015-11-07
+in_force_from: 2015-11-08
+last_amended: 2023-10-11
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 267"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2015-12051"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1009/2015, de 6 de noviembre, por el que se establecen las bases reguladoras para la concesión de subvenciones destinadas al fomento de la integración de entidades asociativas agroalimentarias de ámbito supraautonómico
+
+Las entidades asociativas agroalimentarias son empresas vinculadas de forma estable al territorio, al agricultor y al ganadero, con un destacado papel en el mantenimiento de la economía local y en la fijación de población al territorio, con el consiguiente apoyo al equilibrio y la ordenación rural. Ejercen también una importante función social al fomentar la participación, la formación y los procedimientos de decisión democráticos en los que se basa su organización y funcionamiento.
+
+En este sentido, el actual Plan Estatal de Integración Asociativa 2015-2020, pretende cambiar la actual configuración asociativa agroalimentaria, caracterizada por su atomización, para adecuarla a los nuevos retos y ganar en eficiencia y competitividad, mediante instrumentos y medidas que confieran a las entidades asociativas un mayor protagonismo en nuestro sistema agroalimentario, mediante su redimensionamiento y la búsqueda de integraciones que se constituyan en modelo de cooperación y colaboración por excelencia, que redunden en el beneficio de todos los integrantes de la cadena alimentaria incluido el consumidor final y que la empresa agroalimentaria siga siendo un elemento vertebrador y dinamizador de un tejido rural, coherente e integrador.
+
+Forma parte del conjunto de medidas para incrementar la dimensión de las estructuras empresariales agrarias. En este sentido la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario ha fomentado la reestructuración del sector cooperativo agroalimentario, a partir de la creación de las entidades asociativas prioritarias las cuales obtienen apoyo en el marco del Programa Nacional de Desarrollo Rural. Las subvenciones del presente real decreto, constituyen un complemento necesario que ha de permitir un redimensionamiento a otras entidades que por sus características no pueden optar al régimen de apoyo antes mencionado. Estas bases reguladoras existían ya desde 2008, si bien ahora se actualizan en consonancia con el nuevo marco legal nacional y comunitario.
+
+El objeto de esta norma es establecer las bases reguladoras de subvenciones cuya finalidad última es fomentar el asociacionismo agroalimentario. Los beneficiarios son entidades cooperativas agroalimentarias y Sociedades Agrarias de Transformación y determinadas entidades mercantiles y que resulten de procesos de integración o de absorción de aquéllas, con lo que se persigue la creación de estructuras empresariales de mayor dimensión que faciliten la cooperación interterritorial y la economía en red para integrar a las entidades asociativas, e implantar los servicios y los medios adecuados para mejorar su eficiencia y rentabilidad.
+
+De lo que se trata es de incrementar la dimensión empresarial que permita al sector una mayor competitividad en el entorno agroalimentario, lo cual podrá realizarse bien mediante la fusión, por absorción o por disolución de todas y constitución de una nueva, de forma que se pierda la personalidad jurídica de la entidad absorbida o de las fusionadas, o bien mediante la integración de dichas entidades, que pasarán a formar parte de una misma entidad jurídica pero sin pérdida de su personalidad.
+
+Estas subvenciones son gestionadas por el Ministerio de Agricultura, Alimentación y Medio Ambiente, con la consignación de las partidas presupuestarias correspondientes en los Presupuestos Generales del Estado, con base en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia sobre las bases y la coordinación general de la actividad económica.
+
+Así, con palabras de la Sentencia del Tribunal Constitucional 45/2001, de 15 de febrero, «el artículo 149.1.13.ª CE puede amparar tanto normas estatales que fijen las líneas directrices y los criterios globales de ordenación de sectores económicos concretos, como previsiones de acciones o medidas singulares indispensables para alcanzar los fines propuestos en dicha ordenación (STC 155/1996, de 9 de octubre, F. 4 y jurisprudencia en ella citada)». En definitiva, el Estado tiene reservada, por el mencionado artículo 149.1.13.ª, una competencia de dirección en la que tienen cobijo normas básicas y, asimismo, previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación del sector (STC 117/1992, de 16 de septiembre).
+
+Ello se debe a su carácter transversal ya que ‘aun existiendo una competencia sobre un subsector económico que una comunidad autónoma ha asumido como ‘exclusiva’ en su Estatuto, esta atribución competencial no excluye la competencia estatal para establecer las bases y la coordinación de ese subsector, y que el ejercicio autonómico de esta competencia exclusiva puede estar condicionado por medidas estatales, que en ejercicio de una competencia propia y diferenciada pueden desplegarse autónomamente sobre diversos campos o materias, siempre que el fin perseguido responda efectivamente a un objetivo de planificación económica’ (STC 74/2014, de 8 de mayo).
+
+Igualmente, la STC 11/2015, FJ 4, por remisión a la STC 79/1992, de 28 de mayo, FJ 2, ha recordado que «el sector de la agricultura y la ganadería es de aquellos que por su importancia toleran la fijación de líneas directrices y criterios globales de ordenación así como previsiones de acciones o medidas singulares que sean necesarias para alcanzar los fines propuestos dentro de la ordenación de cada sector, destacando que ‘…en materia de agricultura y ganadería, siendo la competencia específica de las comunidades autónomas... el Estado puede intervenir en virtud de sus competencias generales sobre la ordenación general de la economía’.»
+
+La doctrina sobre la utilización de la supraterritorialidad como criterio de atribución de competencias al Estado se recuerda en la STC 27/2014, de 13 de febrero, FJ 4, en los términos siguientes: «la utilización de la supraterritorialidad como criterio determinante para la atribución o el traslado de la titularidad de competencias al Estado en ámbitos, en principio, reservados a las competencias autonómicas tiene, según nuestra doctrina, carácter excepcional, de manera que sólo podrá tener lugar ‘cuando no quepa establecer ningún punto de conexión que permita el ejercicio de las competencias autonómicas o cuando además del carácter supraautonómico del fenómeno objeto de la competencia, no sea posible el fraccionamiento de la actividad pública ejercida sobre él y, aun en este caso, siempre que dicha actuación tampoco pueda ejercerse mediante mecanismos de cooperación o de coordinación y, por ello, requiera un grado de homogeneidad que sólo pueda garantizar su atribución a un único titular, forzosamente el Estado, y cuando sea necesario recurrir a un ente supra-ordenado con capacidad de integrar intereses contrapuestos de sus componentes parciales, sin olvidar el peligro inminente de daños irreparables, que nos sitúa en el terreno del estado de necesidad (STC 102/1995, de 26 de junio, FJ 8)’ (STC 35/2012, FJ 5, con cita de la STC 194/2011, FJ 5)».
+
+El artículo 149.1.13.ª CE puede en determinados casos justificar la reserva de funciones ejecutivas al Estado y también permitir el uso de la supraterritorialidad como título atributivo de competencias al Estado, pero para que dicho supuesto pueda ser considerado conforme al orden competencial han de cumplirse dos condiciones: que resulte preciso que la actuación de que se trate quede reservada al Estado para garantizar así el cumplimento de la finalidad de ordenación económica que se persigue, la cual no podría conseguirse sin dicha reserva, y, por otro lado, que el uso del criterio supraterritorial resulte justificado en los términos de nuestra doctrina, esto es, atendiendo tanto a las razones aportadas como a la congruencia de la reserva de la función con el régimen de la norma.
+
+De acuerdo con la doctrina del Alto Tribunal, se trata de ejercer determinadas actuaciones de fomento para la integración de entidades asociativas agrarias cuyo ámbito de actuación sea supraautonómico, es decir, que actúan más allá del ámbito territorial que constituye el límite dentro del que ejercen sus competencias las comunidades autónomas, principio de territorialidad, fundamental en este supuesto en el que las ayudas no se encuentran compartimentadas, sino que se extienden al conjunto de España. La gestión centralizada por el Ministerio de Agricultura, Alimentación y Medio Ambiente es la única forma de garantizar la aplicación de criterios uniformes evitando el fraccionamiento en el acceso a estas ayudas cuyos beneficiarios tiene un ámbito social superior al de una comunidad autónoma de acuerdo a un único plan de integración por solicitud. De esta forma se ofrecen idénticas posibilidades de obtención y disfrute por parte de los potenciales destinatarios que radican en distintas comunidades autónomas pero que se integran en una única entidad de ámbito supraterritorial, aspecto que no se conseguiría desde una gestión autonómica.
+
+El Estado se reserva asimismo, de manera excepcional, la facultad de emitir una resolución única sobre las solicitudes, para evitar que se sobrepasen los importes máximos de ayudas establecidos por la normativa *de* *minimis*, a los que están sujetas las subvenciones establecidas en el presente real decreto, objetivo que no podría conseguirse al obtenerse una resolución por comunidad autónoma previa fijación de los puntos de conexión para la presentación de solicitudes.
+
+De esta forma, se garantiza una adecuada aplicación con unos mismos criterios a todos los posibles interesados en todo el territorio nacional y se evitan visiones parciales o incompletas, como cuando el criterio de una comunidad autónoma prevaleciera frente al resto y afectara administrativamente a operadores (los socios) con ninguna vinculación territorial y económica. También se pretende evitar solapamientos con otras ayudas autonómicas que se conceden con los mismos fines para entidades de ámbito territorial autonómico y que se gestionan en su totalidad por las comunidades autónomas. Por ello, a las potenciales entidades beneficiarias de estas ayudas se les exige contar con miembros que radiquen en varias comunidades autónomas, de manera que las competencias autonómicas no sólo no se ven afectadas sino que los objetivos de integración de entidades se ven reforzados con esta línea de ayudas de gestión estatal.
+
+En este sentido, se pretende, de forma conjunta, potenciar nuestro asociacionismo agroalimentario, romper con su actual atomización y superar fronteras económicas y regionales, mediante la facultad estatal de fijar las bases y coordinar la planificación general de la actividad económica y la potestad general de dictar bases en materia de cooperativismo. En este sentido deben recordarse las sentencias del Tribunal Constitucional 72/1983, 44/1984, 165/1985 y 88/1989, que atribuyen expresamente la competencia exclusiva al Estado sobre las cooperativas de ámbito supraautonómico.
+
+Este real decreto deroga la Orden APA/180/2008, de 22 de enero, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas al fomento de la integración cooperativa de ámbito estatal enmarcadas en el Reglamento (CE) n.º 1857/2006 de la Comisión, de 15 de diciembre de 2006, sobre la aplicación de los artículos 87 y 88 del Tratado a las ayudas estatales para las pequeñas y medianas empresas dedicadas a la producción de productos agrícolas, derogado por el nuevo Reglamento (UE) n.º 702/2014 de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
+
+Estas bases reguladoras se adaptan a la nueva normativa de la Unión Europea así como a la nueva legislación estatal, Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario.
+
+En relación al rango de la norma y a tenor de la reiterada jurisprudencia constitucional (STC 175/2003, de 30 septiembre) (STC 156/2011, de 20 de octubre) resulta adecuado para su regulación establecer mediante real decreto, al tratarse de normativa básica de competencia estatal.
+
+Asimismo, desde el punto de vista formal, la doctrina del Alto Tribunal exige el establecimiento de las bases reguladoras de subvenciones mediante una norma con rango de ley o real decreto, así, en su Sentencia 156/2011, de 18 de octubre (FJ 7) afirma que «en cuanto a la perspectiva formal, la regulación subvencional que nos ocupa debe también satisfacer las exigencias formales de la normativa básica contenidas en la antes reproducida STC 69/1988, FJ 5. Desde dicha perspectiva formal, hay que partir de que en las materias de competencia compartida en las que, como ocurre en este caso, corresponde al Estado el establecimiento de las normas básicas y a las comunidades autónomas el desarrollo normativo y la ejecución de dichas bases, la instrumentación de los programas subvencionales debe hacerse con el soporte de la ley formal siempre que sea posible, o, en todo caso, a través de norma reglamentaria del Gobierno que regule los aspectos centrales del régimen jurídico de las subvenciones, que debe comprender, al menos, el objeto y finalidad de las ayudas, su modalidad o modalidades técnicas, los sujetos beneficiarios y los requisitos esenciales de acceso…. Este criterio respecto a la cobertura formal de la normativa básica ha de ser exigido, incluso con mayor rigor, en los supuestos de subvenciones estatales centralizadas en los ámbitos materiales en los que la Constitución reserva al Estado la normativa básica, toda vez que esa gestión centralizada se erige en excepción que limita el ejercicio ordinario por las comunidades autónomas de sus competencias».
+
+Este régimen de subvenciones se realiza en el marco del Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas *de* *minimis.* Este real decreto cumple con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones y con su Reglamento, aprobado mediante Real Decreto 887/2006, de 21 de julio.
+
+En su tramitación han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, y ha sido sometido a previo informe de la Intervención Delegada y de la Abogacía de Estado del Departamento, de acuerdo con el artículo 17 de la Ley 38/2003, de 17 de noviembre.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones públicas y previa deliberación del Consejo de Ministros en su reunión del día 6 de noviembre de 2015,
+
+DISPONGO:
+
+## Artículo 1. Objeto y finalidad.
+
+Por el presente real decreto se establecen las bases reguladoras de las subvenciones, en régimen de concurrencia competitiva, financiadas por el Ministerio de Agricultura, Pesca y Alimentación, para el fomento de la integración supraautonómica de entidades asociativas de carácter agroalimentario, orientándose a la mejora de la dimensión empresarial, la eficiencia y la rentabilidad de dichas entidades asociativas.
+
+> Se modifica por el art. 1.1 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+## Artículo 2. Definiciones.
+
+A los efectos de este real decreto serán de aplicación las definiciones contempladas en el artículo 2 del Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas *de* *minimis*.
+
+## Artículo 3. Requisitos para obtener la condición de beneficiarios.
+
+1\. Podrán resultar beneficiarias de las ayudas reguladas en el presente real decreto las siguientes entidades:
+
+a) Las siguientes sociedades cooperativas agroalimentarias reguladas en la Ley 27/1999, de 16 de julio, de Cooperativas, o en las leyes autonómicas correspondientes:
+
+1.º Cooperativas agroalimentarias.
+
+2.º Cooperativas agroalimentarias de segundo grado.
+
+3.º Grupos cooperativos de carácter agroalimentario.
+
+b) Sociedades Agrarias de Transformación, reguladas por el Real Decreto 1776/1981, de 3 de agosto, por el que se aprueba el Estatuto que regula las Sociedades Agrarias de Transformación.
+
+c) Entidades mercantiles siempre que más del 50 por ciento de su capital social pertenezca a algunas de las entidades citadas anteriormente. En el caso de que sea una sociedad anónima sus acciones deberán ser nominativas. La entidad sólo podrá ser beneficiaria si, al menos, dos terceras partes de su volumen de facturación corresponden a actividades agroalimentarias.
+
+2\. Podrán obtener la condición de beneficiarias las entidades incluidas en el apartado anterior que realicen alguna de las siguientes actividades:
+
+a) Alguno de los siguientes procesos de integración:
+
+i. Por fusión por absorción de dos o más entidades en una de ellas, o por disolución de todas y constitución de una nueva.
+
+ii. Por integración de una o más entidades en una única entidad, de forma que no implique la extinción de la personalidad jurídica de las integradas.
+
+En ambos casos, será beneficiaria la entidad resultante del proceso.
+
+b) Celebración de acuerdos intercooperativos entre dos o más entidades, en cuyo caso será beneficiaria la entidad que preste el servicio o sus instalaciones o bien comercialice la producción de las otras entidades participantes en el acuerdo. En caso de que, en el marco del acuerdo, haya más de una entidad que realice alguna de las actividades indicadas anteriormente, las entidades participantes designarán cuál de ellas actuará como representante y, por tanto, como solicitante y beneficiaria de la ayuda La percepción de esta ayuda no será compatible con otras solicitudes por actividades posteriores que tengan el mismo objeto, siendo en cambio compatible con procesos de integración que se lleven a cabo en sucesivas convocatorias.
+
+c) Estudios previos a la realización de un proceso de integración de los contemplados en la letra a) de este apartado. La percepción de esta ayuda no será compatible con otras solicitudes por actividades posteriores que tengan el mismo objeto, siendo en cambio compatible con el plan de integración resultado de dicho estudio. En este caso, será beneficiaria la entidad que lleve a efecto la realización del estudio.
+
+3\. Las actividades señaladas en el apartado anterior deberán tener ámbito supraautonómico, atendiendo a los siguientes criterios:
+
+a) Las entidades resultado de los procesos de integración previstos en el artículo 3.2.a) deberán tener, al término del proceso, un ámbito territorial superior al de una comunidad autónoma.
+
+b) Las entidades participantes en los acuerdos intercooperativos previstos en el artículo 3.2.b) deberán tener su sede, al menos, en dos comunidades autónomas distintas.
+
+c) En el caso de los estudios previos, el objetivo a analizar deberá referirse a la letra a) de este apartado.
+
+4\. Las empresas que operen en la producción primaria de productos agrícolas podrán adquirir la condición de beneficiarias de las ayudas concedidas en relación con otros sectores o actividades no excluidos, a condición de que establezcan una separación de las actividades llevadas a cabo en ambos tipos de sectores o puedan distinguir claramente entre sus costes, de tal manera que las actividades de los sectores excluidos no se beneficien de las ayudas *de minimis* concedidas.
+
+5\. No podrán ser beneficiarias las entidades reconocidas como Entidades Asociativas Prioritarias con base en el Real Decreto 550/2014, de 27 de junio, por el que se desarrollan los requisitos y el procedimiento para el reconocimiento de las Entidades Asociativas Prioritarias, y para su inscripción y baja en el Registro Nacional de Entidades Asociativas Prioritarias, previsto en la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario. Tampoco podrán ser beneficiarias de estas ayudas las entidades mercantiles participadas mayoritariamente (más del 50 % del capital social) por una Entidad Asociativa Prioritaria.
+
+6\. No será de aplicación el presente real decreto a las ayudas a las empresas previstas en el artículo 1.1 del Reglamento (UE) n.º 1407/2013, de 18 de diciembre.
+
+7\. Los beneficiarios han de reunir los requisitos y cumplir con las obligaciones generales previstos en los artículos 13 y 14 respectivamente de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica por el art. 1.2 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. unico.1 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 4. Requisitos de los planes de integración, proyectos de intercooperación y estudios previos.
+
+1\. Para poder percibir estas subvenciones, las entidades descritas en el artículo 3 deberán presentar ante la Dirección General de la Industria Alimentaria, junto a la solicitud, un plan de integración, un proyecto de intercooperación o una propuesta de estudio previo a la realización de un proceso de integración, que se formalizará con base en el modelo que se establezca en la correspondiente convocatoria.
+
+2\. En el caso de los procesos de integración previstos en el artículo 3.2.a), el plan de integración presentado deberá incluir al menos la siguiente información:
+
+a) Volumen de actividad y número de socios de todas y cada una de las entidades participantes.
+
+b) Sectores en los que desarrollan su actividad las entidades.
+
+c) Objetivos de la integración.
+
+d) Actuaciones previstas para la entidad solicitante y cada una de las entidades participantes.
+
+e) Cronograma de actuaciones.
+
+f) Estimación del presupuesto del proceso, con identificación de las principales partidas, en relación con los gastos previstos en el artículo 5.1 del presente real decreto.
+
+g) Resultados previstos con la integración, en particular, de viabilidad, rentabilidad y transparencia.
+
+3\. En el caso de las entidades que suscriban acuerdos intercooperativos, según lo previsto en el artículo 3.2.b), los proyectos de intercooperación deberán incluir al menos la siguiente información:
+
+a) Volumen de actividad y número de socios de todas y cada una de las entidades participantes.
+
+b) Sectores en los que desarrollan su actividad las entidades.
+
+c) Objeto y objetivos del acuerdo intercooperativo.
+
+d) Condiciones bajo las cuales se va a regir el acuerdo y duración del mismo.
+
+e) Actuaciones previstas para la formalización del acuerdo.
+
+f) Cronograma de actuaciones propias del acuerdo y derivadas del mismo.
+
+g) Estimación del presupuesto de los trabajos, con identificación de las principales partidas, en relación con los gastos previstos en el artículo 5.2 del presente real decreto.
+
+h) Resultados previstos con el acuerdo intercooperativo, en particular, de viabilidad, rentabilidad y transparencia.
+
+4\. En el caso de las propuestas de estudios previos a la realización de un proceso de integración previstos en el artículo 3.2.c), los solicitantes deberán incluir al menos la siguiente información:
+
+a) Volumen de actividad y número de socios de todas y cada una de las entidades participantes.
+
+b) Sectores en los que desarrollan su actividad las entidades.
+
+c) Objetivos de la integración en proyecto.
+
+d) Estimación del presupuesto de los trabajos, con identificación de las principales partidas, en relación con los gastos previstos en el artículo 5.3 del presente real decreto.
+
+> Se modifica por el art. 1.3 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifican los apartados 1 y 2 por el art. unico.2 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 5. Gastos subvencionables y límites.
+
+1\. En el caso de los planes de integración mencionados en el artículo 4.2, se consideran gastos subvencionables aquellos que de manera debidamente justificada respondan a la naturaleza de la actividad subvencionada, que sean necesarios para su realización y se destinen a financiar:
+
+a) Los gastos generados por la integración:
+
+1.º Constitución.
+
+2.º Auditoría.
+
+3.º Asesoramiento de socios rectores y técnicos.
+
+4.º Estudios de prospectiva, viabilidad, comercialización, y financiación.
+
+b) Los gastos de gestión anuales generados por la integración podrán ser:
+
+1.º Gastos de alquiler de equipos informáticos y de adquisición y desarrollo de programas informáticos.
+
+2.º Gastos de nuevos alquileres de inmuebles que no sean utilizados para procesos de industrialización y/o transformación de los productos.
+
+3.º Retribuciones de personal directamente relacionado con el proyecto. En los gastos de personal se podrán incluir los gastos de formación para adaptarse a la nueva estructura empresarial.
+
+4.º Colaboraciones externas, no indicadas anteriormente, como asistencia técnica, gastos externos de consultoría, asesoramiento jurídico y fiscal, desarrollo de tutorías y servicios relacionados con los proyectos. Se entiende por colaboraciones externas aquéllas que guarden una estrecha relación con el proceso y estén debidamente indicadas en el plan de integración, de entidades o personas físicas que no presentan relaciones de dependencia orgánica, funcional o económica con el solicitante o sus entidades de base.
+
+5.º Dietas y gastos de viaje, relacionados con el proyecto de integración.
+
+6.º Otros gastos de gestión y administración.
+
+c) La realización de publicaciones, folletos, carteles y rotulados siempre que se hayan incluido en el plan de integración.
+
+2\. En el caso de los acuerdos intercooperativos mencionados en el artículo 4.3, se consideran gastos subvencionables de integración y gestión, aquellos que de manera debidamente justificada respondan a la naturaleza de la actividad subvencionada, que sean necesarios para llevar su realización y se destinen a financiar:
+
+a) Los gastos generados por el acuerdo:
+
+1.º Constitución.
+
+2.º Auditoría.
+
+3.º Asesoramiento de socios rectores y técnicos.
+
+4.º Estudios de prospectiva, viabilidad, comercialización, y financiación.
+
+b) Los gastos de gestión anuales generados por el acuerdo:
+
+1.º Gastos alquiler de equipos informáticos y de adquisición y desarrollo de programas informáticos.
+
+2.º Gastos de nuevos alquileres de inmuebles que no sean utilizados para procesos de industrialización y/o transformación de los productos.
+
+3.º Retribuciones de personal de la entidad solicitante directamente relacionado con el proyecto. En los gastos de personal se podrán incluir los gastos de formación para adaptarse a las condiciones y términos establecidos en el acuerdo intercooperativo.
+
+4.º Colaboraciones externas, no indicadas anteriormente, como asistencia técnica, gastos externos de consultoría, asesoramiento jurídico y fiscal, desarrollo de tutorías y servicios relacionados con los proyectos. Se entiende por colaboraciones externas aquéllas que guarden una estrecha relación con el acuerdo y estén debidamente indicadas en el proyecto de intercooperación, de entidades o personas físicas que no presentan relaciones de dependencia orgánica, funcional o económica con el solicitante o sus entidades de base.
+
+5.º Dietas y gastos de viaje, relacionados con el proyecto de intercooperación.
+
+6.º Otros gastos de gestión y administración.
+
+3\. En el caso de los estudios previos a la realización de un proceso de integración mencionados en el artículo 4.4, se consideran gastos subvencionables aquellos que respondan a su propia elaboración y que respondan a esta tipología:
+
+a) Auditoría.
+
+b) Consultoría.
+
+c) Estudios de prospectiva, viabilidad, comercialización y financiación.
+
+4\. En ningún caso los gastos subvencionables podrán superar el valor del mercado.
+
+5\. Los gastos imputables a la subvención estarán sometidos a las siguientes limitaciones:
+
+a) Para las retribuciones del personal, adscrito al cumplimiento de la actuación subvencionada (para lo cual se deberá completar el modelo previsto a tales efectos en la correspondiente convocatoria con indicación del número de horas dedicadas) así como las del personal contratado para tal fin, únicamente podrá tomarse como base para el cálculo de la subvención, el límite de las retribuciones fijadas para los correspondiente grupos profesionales en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado. Asimismo, se establece un límite del 60 por ciento en gastos de personal de la actuación referidos a gastos de gestión elegibles, para todo tipo de personal.
+
+b) Las dietas y gastos de viaje podrán ser objeto de subvención, hasta el máximo establecido para el grupo 2 en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón de servicio, sin que en ningún caso puedan superar el 30 por ciento de los gastos elegibles de la actuación.
+
+c) El alquiler de locales, vehículos o equipamiento serán subvencionables, siempre que se hayan incluido en el plan de integración o proyecto de intercooperación mencionados en el artículo 4, y su titularidad no corresponda a alguna de las entidades que participan en el proceso de integración o acuerdo intercooperativo, ni presente relaciones de dependencia orgánica, funcional o económica entre sí.
+
+d) La realización de publicaciones, folletos, carteles y rotulados serán igualmente subvencionables siempre que se hayan incluido en el plan de integración mencionado en el artículo 4.1 y hasta un máximo del 20 por ciento de los gastos elegibles. No serán admisibles gastos en publicidad fija (monopostes, vallas y similares).
+
+e) Otros gastos de gestión y de administración. Solamente se subvencionarán los necesarios para la realización de la actuación, sin que en ningún caso puedan superar el 10 por ciento de los gastos elegibles.
+
+f) La subcontratación de actuaciones se ajustará a lo previsto en el artículo 29 de la Ley 38/2003, de 17 de noviembre.
+
+g) Los gastos de gestión anuales descritos en los apartados 1.b) 1.º y 2.b) 1.º, no podrán superar el 25 por ciento del total de los gastos elegibles.
+
+6\. No se considerarán gastos subvencionables los gastos efectuados para actividades o gastos que se hayan realizado con anterioridad al año natural de la convocatoria correspondiente.
+
+7\. Se considerarán subvencionables los gastos derivados de la auditoría de la cuenta justificativa sin que puedan exceder del 4 % de los gastos elegibles.
+
+> Se modifica por el art. 1.4 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. unico.3 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 6. Cuantía y límite de las subvenciones.
+
+1\. El importe de la subvención por los gastos de integración y gestión, contemplados en el artículo 4 podrá alcanzar un máximo de doscientos mil euros (200.000,00 €) en tres años considerando el importe total de la ayuda *de minimis* concedida en el ejercicio fiscal de la correspondiente convocatoria y durante los dos ejercicios fiscales anteriores. En ningún caso la cuantía de la ayuda podrá superar los cincuenta mil euros (50.000,00 €) para gastos de integración.
+
+2\. En cualquier caso, se aplicarán los límites establecidos en el artículo 3.8 del Reglamento 1407/2013 de la Comisión, de 18 de diciembre de 2013*.*
+
+## Artículo 7. Compatibilidad.
+
+1\. Las subvenciones reguladas en este real decreto serán compatibles con cualquier otra clase de subvenciones que concedan las Administraciones Públicas europeas, nacionales o regionales, siempre que no superen los límites y cumplan las condiciones establecidos respectivamente en los artículos 3 y 5 del Reglamento (UE) n.º 1407/2013 de la Comisión de 18 de diciembre de 2013*.*
+
+2\. El importe de las subvenciones, en ningún caso, podrá ser de tal cuantía que, aisladamente o en concurrencia con otras subvenciones, ingresos o recursos, supere el coste de la actividad subvencionada.
+
+## Artículo 8. Solicitud y documentación.
+
+1\. La solicitud se formalizará por el representante que se designe, debiendo acreditarse poder suficiente y subsistente.
+
+2\. La solicitud y la documentación complementaria se dirigirá al titular del Departamento y se presentará en la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación, cuya dirección es https://sede.mapa.gob.es, en el apartado Procedimientos, conforme a lo dispuesto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+3\. La solicitud se presentará en el plazo que se establezca en la orden de convocatoria y, en caso de no establecerlo, en el de 20 días contados a partir del día siguiente al de la publicación del extracto de la convocatoria en el «Boletín Oficial del Estado». La convocatoria deberá publicarse en la BDNS y un extracto de la misma, en el «Boletín Oficial del Estado».
+
+4\. El modelo de la solicitud se establecerá en la correspondiente convocatoria.
+
+5\. La presentación de la solicitud implica la autorización al Departamento para recabar de la Agencia Estatal de Administración Tributaria y de la Tesorería General de la Seguridad Social, información relativa al cumplimiento de las obligaciones tributarias y frente a la Seguridad Social en los términos previstos en el artículo 23.3 de la Ley 38/2003, de 17 de noviembre.
+
+No obstante, el interesado podrá denegar expresamente el consentimiento debiendo aportar entonces las correspondientes certificaciones en los términos previstos en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado por el Real Decreto 887/2006, de 21 de julio
+
+6\. La solicitud deberá ir acompañada de un plan de integración, proyecto de intercooperación o propuesta de estudio previo, mencionados en el artículo 4, así como de la siguiente documentación:
+
+a) Declaración responsable del representante de la entidad solicitante sobre las ayudas recibidas para este fin, con referencia explícita a que no se superan los límites y condiciones impuestos para las ayudas *de minimis*.
+
+b) Compromiso de cumplimiento de los requisitos que le corresponden establecidos en el artículo 3.
+
+c) En su caso, certificados de los acuerdos adoptados por el órgano competente para acometer el proceso de integración o acuerdo intercooperativo correspondiente.
+
+d) Documentación acreditativa, o compromiso en su caso, de la separación de actividades o distinción de costes de las actividades de los sectores excluidos que no se beneficien de las ayudas *de minimis* concedidas, de acuerdo con lo establecido en el artículo 3.4.
+
+e) Acreditarse el poder del solicitante, suficiente y subsistente.
+
+f) Estatutos o disposiciones reguladoras o acta constitutiva (en el caso de sociedades mercantiles) de las entidades que participan en el proceso de integración, acuerdo intercooperativo o estudio previo. En el caso de entidades mercantiles, deberá aportarse certificado del Secretario del Consejo de Administración indicando el porcentaje de distribución del capital social.
+
+g) Toda aquella documentación que el interesado considere necesaria y precisa para que puedan valorarse adecuadamente todos los criterios de selección que figuran en el artículo 9.
+
+h) A efectos de cumplimiento del artículo 13.3 bis de la Ley 38/2003, de 17 de noviembre, acreditación, en el momento de la solicitud, del cumplimiento por el solicitante, en los términos dispuestos en dicho artículo, de los plazos de pago que se establecen en la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales.
+
+7\. Si la solicitud no reuniere los requisitos establecidos en la convocatoria, el órgano competente requerirá al interesado para que la subsane en el plazo máximo e improrrogable de 10 días hábiles, indicándole que si no lo hiciese se le tendrá por desistido de su solicitud, previa resolución que deberá ser dictada en los términos previstos en el artículo 68 de la Ley 39/2015, de 1 de octubre.
+
+8\. La solicitud y el plan de integración, proyecto de intercooperación o propuesta de estudio previo, se presentarán conforme a los modelos que se establecerán en la convocatoria correspondiente.
+
+> Se modifica la letra h) del apartado 6 por la disposición final 1 del Real Decreto 780/2023, de 10 de octubre. [Ref. BOE-A-2023-20995](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-20995)
+
+> Téngase en cuenta, para la acreditación de su cumplimiento, lo indicado en la disposición transitoria única del citado Real Decreto.
+
+> Se añade la letra h) al apartado 6 por la disposición final 1.1 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica la letra b) del apartado 6 por la disposición final 1 del Real Decreto 113/2022, de 8 de febrero. [Ref. BOE-A-2022-2060](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2060)
+
+> Se modifican los apartados 2, 6 y 8 por el art. 1.5 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica por el art. unico.4 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 9. Criterios de otorgamiento y ponderación.
+
+1\. La valoración de las solicitudes se efectuará atendiendo a los siguientes criterios y baremos de puntuación, sobre un total de 76 puntos.
+
+a) En relación con los socios pertenecientes a las entidades que se integran o que participan en el acuerdo intercooperativo o estudio previo (máximo 6 puntos. No acumulativos):
+
+1.º A entidades integradas por al menos 1000 socios de base: 6 puntos.
+
+2.º A entidades integradas por entre 999 y 500 socios de base: 5 puntos.
+
+3.º A entidades integradas por entre 499 y 200 socios de base: 3 puntos.
+
+4.º A entidades integradas por entre 199 y 100 socios de base: 2 puntos.
+
+5.º A entidades integradas por entre 99 y 50 socios de base: 1 punto.
+
+b) En relación a las entidades solicitantes (máximo 15 puntos. Acumulable apartado 1.º con los restantes):
+
+1.º A entidades pertenecientes a una entidad reconocida como Entidad Asociativa Prioritaria: 10 puntos.
+
+2.º A entidades integradas conformadas por cinco o más cooperativas: 5 puntos.
+
+3.º A entidades integradas conformadas por entre 3 y 4 cooperativas: 4 puntos.
+
+4.º A entidades integradas conformadas por al menos 2 cooperativas: 3 puntos.
+
+Se entiende por entidades integradas a las entidades de origen en una fusión por absorción de dos o más entidades en una de ellas o por disolución de todas y constitución de una nueva o a las entidades de base en una integración de una o más entidades en una única entidad. Asimismo, a efectos de la aplicación de los criterios de otorgamiento y ponderación, se considerarán entidades integradas a aquellas entidades que efectúen un estudio previo a la realización de un proceso de integración, y a las entidades que suscriban un acuerdo intercooperativo.
+
+c) En relación con las actividades objeto de la solicitud de ayuda (máximo 15 puntos. No acumulativos):
+
+1.º Entidades resultantes de un proceso de integración:
+
+i. Por ser una cooperativa de primer grado: 15 puntos.
+
+ii. Por ser una cooperativa de segundo grado: 12 puntos.
+
+iii. Por ser un grupo cooperativo: 5 puntos.
+
+2.º Materialización de un acuerdo intercooperativo: 3 puntos.
+
+3.º Realización de un estudio previo a la realización de un proceso de integración o acuerdo intercooperativo: 2 puntos.
+
+d) En relación con el ámbito territorial resultante de las actividades de integración (hasta un máximo de 6 puntos. Acumulativo el apartado 3.º con el 1.º o 2.º):
+
+1.º Por disponer de socios productores en cuatro o más comunidades autónomas: 4 puntos.
+
+2.º Por disponer de socios productores en tres comunidades autónomas: 3 puntos.
+
+3.º Por disponer de socios productores en las Islas Baleares o en las Islas Canarias: 2 puntos.
+
+e) En relación con la incorporación de mujeres y jóvenes en el Consejo Rector o de Dirección de la entidad solicitante (máximo 15 puntos. Acumulativos):
+
+1.º Por contener un 25 por ciento de mujeres y/o jóvenes (menores de 41 años) en el Consejo Rector o de Dirección: 7 puntos.
+
+2.º Por contener al menos una mujer y un joven (menor de 41 años) en el Consejo Rector o de Dirección: 5 puntos.
+
+3.º Por contener al menos una mujer o un joven (menor de 41 años) en el Consejo Rector o de Dirección: 3 puntos.
+
+f) Por disponer de una política de contratación de empleados con discapacidad: 5 puntos.
+
+g) En relación a la cualificación y formación de la sociedad cooperativa, cuando un 60 % de los miembros del Consejo Rector o de Dirección de la entidad solicitante esté en posesión de titulación acreditativa de haber realizado un programa de formación enfocado a la dirección, administración y gestión de la cooperativa, de una duración mínima de treinta y cinco horas: 4 puntos.
+
+h) En relación con los objetivos de la actividad de integración y, sin ser excluyentes entre sí (máximo 10 puntos. Acumulativos):
+
+1.º Por tener como objetivo principal la mejora de los procesos de comercialización: 5 puntos.
+
+2.º Por tener como objetivo principal la concentración en los procesos de transformación y comercialización: 5 puntos.
+
+2\. Una vez obtenida dicha puntuación final, se ordenarán las solicitudes de mayor a menor puntuación final obtenida, otorgándose la subvención en riguroso orden de prelación hasta agotar el crédito existente. En caso de producirse un empate en la puntuación final, tendrá prioridad el solicitante que haya obtenido mayor puntuación en el criterio de valoración correspondiente a la letra a) del apartado primero. Si aún persiste el empate, tendrá prioridad el solicitante que haya obtenido mayor puntuación en el criterio correspondiente a la letra b). Si aún persiste el empate, tendrá prioridad el solicitante que haya obtenido mayor puntuación en el criterio correspondiente a la letra c). Si aún persiste el empate, tendrá prioridad el solicitante que haya obtenido mayor puntuación en el criterio correspondiente a la letra h).
+
+3\. Las solicitudes que no alcancen una puntuación total superior o igual a 15 puntos se desestimarán.
+
+> Se modifica por el art. 1.6 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica el apartado 1 por el art. unico.5 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 10. Ordenación e instrucción del procedimiento.
+
+1\. El procedimiento de concesión se iniciará de oficio mediante convocatoria pública en el «Boletín Oficial del Estado».
+
+La instrucción del procedimiento se realizará por la Subdirección General de Fomento Industrial e Innovación en los términos previstos por los artículos 22 al 26 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+2\. El órgano competente para la ordenación del procedimiento será la Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+3\. La evaluación de las solicitudes se llevará a cabo por el órgano instructor, previo informe de la Comisión de valoración, presidida por el Subdirector General de Fomento Industrial e Innovación y compuesta por tres vocales, de los cuales uno actuará como secretario, con voz y voto, nombrados al efecto por el Director General de la Industria Alimentaria. La creación de la referida Comisión de valoración y su funcionamiento, será atendido con los medios personales, técnicos y presupuestarios asignados al órgano superior en el que se encuentra integrado, de conformidad con lo dispuesto en el artículo 2.2 del Real Decreto 776/2011, de 3 de junio, por el que se suprimen determinados órganos colegiados y se establecen criterios para la normalización en la creación de órganos colegiados en la Administración General del Estado y sus Organismos Públicos.
+
+Asimismo, el funcionamiento de este órgano colegiado se ajustará al régimen establecido para los órganos colegiados en el capítulo II del título II, de la Ley 30/1992, de 26 de noviembre.
+
+4\. La Comisión de valoración concretará el resultado de la evaluación de las solicitudes, efectuado de acuerdo con los criterios previstos en el artículo 9, en un informe que remitirá al órgano instructor El órgano instructor, a la vista del expediente y del citado informe formulará la propuesta de resolución provisional que deberá contener una relación de solicitantes para los que se propone la ayuda y su cuantía, así como otra relación de los solicitantes excluidos especificando el motivo de dicha exclusión.
+
+5\. De acuerdo con lo previsto en el artículo 59.6 de la Ley 30/1992, de 26 de noviembre, la notificación individual de la propuesta de resolución se substituye por la publicación de la misma mediante inserción en la página web oficial del Ministerio de Agricultura, Alimentación y Medio Ambiente. Se concederá un plazo de 10 días para presentar alegaciones.
+
+6\. Tras el examen de las alegaciones, en su caso, el órgano colegiado formulará la propuesta de concesión de la subvención, que el órgano instructor elevará como propuesta de resolución definitiva, de conformidad con lo establecido en los artículos 22.1 y 24.4 de la Ley 38/2003, de 17 de noviembre, al titular del Departamento.
+
+7\. La concesión de las presentes ayudas estará condicionada al cumplimiento de los requisitos establecidos en el Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas *de* *minimis* publicado en el «Diario Oficial de la Unión Europea», L352, de 24 de diciembre de 2013.
+
+## Artículo 11. Resolución.
+
+1\. El órgano competente para resolver será el titular del Departamento, sin perjuicio de que se delegue la competencia.
+
+2\. Las resoluciones serán motivadas y se reconocerá el carácter *de* *minimis* de la ayuda haciendo referencia al Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013.
+
+2 bis. En cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, o las representaciones gráficas que se determinen, conforme al modelo que se establezca.
+
+3\. La resolución será publicada en los términos previstos en el artículo 59.6 de la Ley 30/1992, de 26 de noviembre, en la página web del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+4\. La resolución podrá incluir la relación ordenada de todas las solicitudes que, cumpliendo con las condiciones administrativas y técnicas establecidas en las bases reguladoras para adquirir la condición de beneficiario, no hayan sido estimadas por rebasarse la cuantía máxima del crédito fijado para cada convocatoria, a fin de poder proceder con lo establecido en el artículo 63.3 del Reglamento de la Ley 38/2003, de 17 de noviembre. Asimismo contemplará aquellas solicitudes que no hayan sido estimadas porque en la fase de valoración no alcancen un mínimo de 15 puntos.
+
+5\. El plazo máximo para resolver y publicar la resolución del procedimiento no podrá exceder de seis meses, contados a partir de la publicación de un extracto de la convocatoria en el «Boletín Oficial del Estado», salvo que en la misma se pospongan sus efectos a una fecha posterior, de conformidad con el artículo 25.4 de la Ley 38/2003, de 17 de noviembre.
+
+6\. Transcurrido el plazo máximo establecido sin que se haya dictado y publicado resolución expresa, se podrá entender desestimada la solicitud, de acuerdo con lo previsto en el artículo 25.5 de la Ley 38/2003, de 17 de noviembre, sin que ello exima de la obligación legal de resolver.
+
+7\. Estas resoluciones pondrán fin a la vía administrativa, pudiéndose interponer contra las mismas recurso potestativo de reposición en el plazo de un mes, desde el día siguiente al de la publicación de la resolución, conforme a los artículos 116 y 117 de la Ley 30/1992, de 26 de noviembre o bien ser impugnadas directamente ante el orden jurisdiccional contencioso-administrativo en la forma y plazo previstos en los artículos 45 y 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa, sin que ambos recursos puedan interponerse de forma simultánea.
+
+> Se añade el apartado 2 bis por la disposición final 1.2 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica el apartado 4 por el art. 1.7 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica el apartado 5 por el art. unico.6 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 12. Justificación de los gastos y pago de las subvenciones.
+
+1\. La justificación de las subvenciones se realizará mediante la presentación del modelo establecido en la correspondiente convocatoria debidamente cumplimentado y de acuerdo con lo establecido en el artículo 30 de la Ley 38/2003, de 17 de noviembre, a través de la sede electrónica del Ministerio de Agricultura, Pesca y Alimentación (https://sede.mapa.gob.es), en el apartado Procedimientos, conforme a lo dispuesto en el artículo 14 de la Ley 39/2015, de 1 de octubre. Los beneficiarios de estas subvenciones, una vez acabada la actuación objeto de las mismas, deberán justificar la aplicación de los fondos concedidos con anterioridad al 1 de noviembre del año de la convocatoria mediante la presentación de la siguiente documentación o, en su caso, de aquélla que se establezca en cada convocatoria anual, de conformidad con el artículo 72 del Reglamento de la Ley 38/2003, de 17 de noviembre:
+
+a) Memoria de actuación justificativa del cumplimiento de la finalidad para la que se concedió la subvención, con las siguientes indicaciones:
+
+1.º En el caso de beneficiarios que hayan llevado a cabo un proceso de integración o un acuerdo intercooperativo:
+
+i. Breve descripción del contenido y resultados del proceso.
+
+ii. Modificaciones, en su caso.
+
+iii. Localización territorial del proceso.
+
+iv. Objetivos alcanzados.
+
+v. Desviaciones respecto de los objetivos previstos.
+
+vi. Conclusiones.
+
+vii. Un ejemplar de toda la documentación editada (carteles, convocatorias, folletos, libros, u otra documentación) para la difusión de campañas, cursos, reuniones u otros eventos.
+
+2.º En el caso de beneficiarios que hayan llevado a cabo un estudio previo a la realización de un proceso de integración:
+
+i. Memoria y otra documentación generada en la realización del estudio, firmada electrónicamente por la persona o representante de la entidad encargada de llevarlo a cabo.
+
+ii. Modificaciones, en su caso, en relación a lo previsto en la solicitud inicial.
+
+iii. Conclusiones.
+
+b) Memoria económica justificativa que contenga:
+
+1.º Resumen económico con una relación clasificada de los gastos realizados al ejecutar las actuaciones, clasificados según los conceptos que figuran en el presupuesto presentado con la solicitud de la subvención y la especificación del importe subvencionado para cada concepto.
+
+2.º Obtención de otra financiación, en su caso, de acuerdo con el modelo establecido en la correspondiente convocatoria.
+
+El auditor, atendiendo a la Orden EHA/1434/2007, de 17 de mayo, por la que se aprueba la norma de actuación de los auditores de cuentas en la realización de los trabajos de revisión de cuentas justificativas de subvenciones, en el ámbito del sector público estatal, revisará la cuenta justificativa y comprobará que contiene la información detallada relativa a contratos, nóminas y cotizaciones a la Seguridad Social y justificantes de ingreso correspondientes al Impuesto sobre la Renta de las Personas Físicas. Así mismo, verificará que:
+
+i. La información contenida en la memoria económica está soportada por las correspondientes relaciones de gastos de la actividad subvencionada.
+
+ii. La entidad dispone de todos los documentos originales acreditativos de los gastos justificados, debidamente estampillados con indicación de haber servido de justificante para obtener esta subvención.
+
+iii. La entidad cumple el plazo previsto en la normativa en los pagos realizados a los proveedores en todos los gastos subvencionables del proyecto, de acuerdo a lo previsto en el artículo 31.2 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+c) Documentación acreditativa del cumplimiento de la actividad de integración, de acuerdo con lo previsto en el artículo 16.2.
+
+2\. El régimen de pagos se ajustará a lo establecido en el artículo 34 de la Ley 38/2003, de 17 de noviembre.
+
+3\. Cualquier modificación en las condiciones iniciales de aprobación de las solicitudes, en relación con las actuaciones propuestas y que no afecten a los criterios de selección de los mismos, tendrá que ser debidamente justificada y deberá ser autorizada por la Dirección General de la Industria Alimentaria del Ministerio de Agricultura, Pesca y Alimentación.
+
+En todo caso, para su admisibilidad no se admitirán modificaciones en las condiciones y limitaciones señaladas a continuación:
+
+a) Que alteren el objetivo final del proyecto de integración.
+
+b) Que supongan un cambio de beneficiario.
+
+c) Que afecten al cumplimiento de las condiciones de elegibilidad ni a la puntuación obtenida en los criterios de valoración de forma que la solicitud quede por debajo de la puntuación de corte de las solicitudes aprobadas.
+
+d) Que afecten al alza a la subvención concedida a la actividad de integración.
+
+4\. La liquidación de la ayuda se realizará previa presentación de la cuenta justificativa con informe auditor, según los artículos 72, 73 y 74 del Reglamento de la Ley 38/2003, de 17 de noviembre. Comprobada la justificación de dichos gastos y requisitos, se procederá al pago de la subvención, previa comprobación por el Ministerio de Agricultura, Pesca y Alimentación de la realización de las actividades programadas para la consecución de los objetivos y las realizaciones presentados en la solicitud y en el plan de integración, proyecto de intercooperación o en el estudio previo a la realización de un proceso de integración.
+
+5\. Se perderá el derecho a la subvención cuando no justifique el 75 por ciento de su importe en la resolución de concesión En los casos de ejecución igual o superior al 75 %, se reducirá la cuantía del pago proporcionalmente.
+
+6\. La resolución de pago de la subvención será publicada en los términos previstos en el artículo 45 de la Ley 39/2015, de 1 de octubre, en la página web del Ministerio de Agricultura, Pesca y Alimentación.
+
+> Se añade la letra iii) al apartado 1.b) por la disposición final 1.3 del Real Decreto 116/2023, de 21 de febrero. [Ref. BOE-A-2023-4651](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4651)
+
+> Se modifica por el art. 1.8 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+> Se modifica el apartado 1 por el art. unico.7 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Artículo 13. Reintegro.
+
+Serán causas de reintegro las establecidas en el artículo 37 de la Ley 38/2003, de 17 de noviembre, de Subvenciones.
+
+## Artículo 14. Control de las subvenciones.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.9 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+## Artículo 15. Financiación de las subvenciones.
+
+1\. La financiación de las subvenciones previstas en el presente real decreto se efectuará con cargo al presupuesto del Ministerio de Agricultura, Alimentación y Medio Ambiente, a través de la aplicación presupuestaria 23.14.413A.771 «fomento del cooperativismo agrario para la estructuración de la oferta» de los Presupuestos Generales del Estado en el momento de la convocatoria, o la que la substituyere.
+
+2\. La concesión de las subvenciones estará condicionada a la existencia de crédito adecuado y suficiente en el momento de la resolución de la concesión.
+
+## Artículo 16. Obligaciones de los beneficiarios.
+
+1\. Las entidades y socios que participen en las actividades de integración previstas en el artículo 3.2 a) y b), se comprometerán de acuerdo con el modelo de solicitud que se establecerá en la correspondiente convocatoria, a:
+
+a) Mantener la integración desde su constitución al menos cinco años y notificar su retirada a la Dirección General de la Industria Alimentaria con un mínimo de un año de antelación. No obstante, se podrá rescindir un acuerdo intercooperativo antes de que pasen cinco años desde su suscripción cuando éste haya dado lugar a la formalización de un proceso de integración entre las entidades participantes del acuerdo.
+
+b) Cumplir de forma obligatoria las normas comunes establecidas por la entidad resultado del proceso de integración o por el acuerdo intercooperativo para las producciones o actividades cooperativas.
+
+2\. Las entidades beneficiarias se comprometerán a:
+
+a) En el caso de una integración o fusión por absorción en una entidad asociativa agraria ya existente en la fecha de publicación de la convocatoria, a finalizar el proceso antes del 30 de octubre del año correspondiente a la convocatoria de la subvención.
+
+b) En el caso de entidades de nueva constitución resultantes de la integración o de la fusión de dos o más entidades, a culminar y formalizar fehacientemente su constitución antes del 30 de octubre del año correspondiente a la convocatoria de la subvención.
+
+c) En el caso de acuerdos intercooperativos, a formalizar y llevar a efecto dicho acuerdo antes del 30 de octubre del año correspondiente a la convocatoria de la subvención.
+
+3\. A efectos del cumplimiento de los límites temporales y económicos previstos en el artículo 3 del Reglamento (UE) n.º 1407/2013 de la Comisión, de 18 de diciembre de 2013, se computarán las subvenciones concedidas a las entidades participantes durante todo el periodo al que se refiere el artículo 6.
+
+4\. Las actividades publicitarias, herramientas de comunicación de las actuaciones y los materiales a utilizar en las mismas deberán incorporar expresamente y de manera fácilmente legible el logo del Ministerio de Agricultura, Pesca y Alimentación y la leyenda «financiado por el Ministerio de Agricultura, Pesca y Alimentación».
+
+Para el correcto desarrollo de las actuaciones a realizar, deberán utilizarse los medios más adecuados de acuerdo con las necesidades de imagen y protocolo planteadas por el Ministerio de Agricultura, Pesca y Alimentación, el beneficiario colaborará en todo momento con los servicios de protocolo y prensa de dicho Ministerio.
+
+5\. El incumplimiento de lo establecido en el apartado anterior comportará la ausencia de subvención para la actuación correspondiente.
+
+6\. Los beneficiarios estarán sujetos la obligación de registrar la subvención que perciban en los libros contables que correspondan. En particular, deberán facilitar una declaración relativa a las demás ayudas *de minimis* recibidas durante el ejercicio fiscal y los dos ejercicios precedentes.
+
+7\. Los beneficiarios deberán facilitar los informes, inspecciones y otros actos de investigación que la Administración disponga en orden a la determinación y comprobación de los datos en virtud de los cuales deba pronunciarse o se haya pronunciado la solicitud.
+
+8\. Los beneficiarios de las presentes subvenciones quedan obligados a someterse a las actuaciones de comprobación efectuadas por la Subdirección General de Competitividad de la Cadena Alimentaria de la Dirección General de la Industria Alimentaria, y a las de control financiero que corresponden a la Intervención General de la Administración del Estado, en relación con las subvenciones concedidas, así como a las previstas en la legislación reguladora del Tribunal de Cuentas.
+
+El beneficiario deberá facilitar toda la información pertinente sobre otras subvenciones similares que haya recibido.
+
+> Se modifica por el art. 1.10 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+## Artículo 17. Publicidad.
+
+A las subvenciones convocadas o concedidas a partir de 1 de enero de 2016, al amparo del presente real decreto, les será de aplicación lo previsto en los artículos 18 y 20 de la vigente Ley 38/2003, de 17 de noviembre, en materia de publicidad y transparencia.
+
+Asimismo, los beneficiarios deberán dar publicidad de las subvenciones y ayudas percibidas en los términos y condiciones establecidos en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden APA/180/2008, de 22 de enero, por la que se establecen las bases reguladoras para la concesión de subvenciones destinadas al fomento de la integración cooperativa de ámbito estatal.
+
+## Disposición final primera. Referencias legislativas.
+
+Las referencias contenidas en este real decreto a la Ley 30/1992, de 26 de noviembre, y a la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, se entenderán hechas a la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, y a la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en función de la materia que regulan.
+
+> Se modifica por el art. único.8 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+## Disposición final segunda. Título competencial.
+
+El presente real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado competencia en materia de bases y coordinación de la planificación general de la actividad económica.
+
+> Se renumera como disposición final segunda por el art. único.8 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+> Su anterior numeración era disposición final primera.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se renumera como disposición final tercera por el art. único.8 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)
+
+> Su anterior numeración era disposición final segunda.
+
+## Disposición final cuarta. Referencias a los Departamentos ministeriales.
+
+Las referencias al Ministerio de Agricultura, Alimentación y Medio Ambiente y al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, deben entenderse hechas al Ministerio de Agricultura, Pesca y Alimentación.
+
+> Se añade por el art. 1.11 del Real Decreto 1056/2021, de 30 de noviembre de 2021. [Ref. BOE-A-2021-19800](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-19800)
+
+Dado en Madrid, el 6 de noviembre de 2015.
+
+FELIPE R.
+
+La Ministra de Agricultura, Alimentación y Medio Ambiente,
+
+ISABEL GARCÍA TEJERINA
+
+## ANEXOS I a III
+
+**(Suprimidos).**
+
+> Se suprimen por el art. único.9 del Real Decreto 26/2018, de 26 de enero. [Ref. BOE-A-2018-1095](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1095)

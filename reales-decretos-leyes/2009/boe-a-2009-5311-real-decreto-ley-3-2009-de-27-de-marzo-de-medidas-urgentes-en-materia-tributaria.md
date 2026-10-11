@@ -1,0 +1,237 @@
+---
+title: "Real Decreto-ley 3/2009, de 27 de marzo, de medidas urgentes en materia tributaria, financiera y concursal ante la evolución de la situación económica"
+identifier: "BOE-A-2009-5311"
+eli: "https://www.boe.es/eli/es/rdl/2009/03/27/3"
+type: decree_law
+rank: "Real Decreto-ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2009-03-27
+published: 2009-03-31
+in_force_from: 2009-04-01
+last_amended: 2020-05-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 78"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2009-5311"
+retrieved: 2026-10-11
+---
+
+# Real Decreto-ley 3/2009, de 27 de marzo, de medidas urgentes en materia tributaria, financiera y concursal ante la evolución de la situación económica
+
+La evolución de la crisis económica global y su impacto en la economía española hacen necesaria una rápida reacción legislativa para adecuar a la nueva situación algunas de las normas que inciden directamente sobre la actividad empresarial, así como para seguir impulsando la superación de la crisis mediante el fortalecimiento la competitividad de nuestro modelo productivo.
+
+En respuesta a estos dos objetivos, se aprueba el presente Real Decreto-ley, que afecta a regulaciones sectoriales diversas, como la tributaria, la financiera y la concursal.
+
+Con esta norma, el Gobierno asume, además, diversas iniciativas parlamentarias que, en los últimos meses, han promovido la mejora de la regulación tributaria de las empresas más innovadoras y, en concreto, la estabilidad de los incentivos fiscales a las actividades de I+D+i; así como la modificación del tipo de interés legal del dinero y el interés de demora previstos en la Ley de Presupuestos Generales del Estado para el año 2009.
+
+En cuanto a la materia tributaria, la actuación firme y coordinada de los Estados y de los Bancos centrales ha contribuido a producir una muy sensible bajada en los índices que miden los tipos de interés del dinero, lo que ha provocado a su vez que el interés legal del dinero y el de demora, establecidos en la Ley de Presupuestos Generales del Estado para 2009, requieran un ajuste que necesariamente ha de abordarse en una norma con rango de ley. Asimismo, se estima necesario suprimir el límite temporal de la deducibilidad de determinadas inversiones en I+D+i, para reafirmar una de las líneas estratégicas de impulso de la economía y de transición a un patrón de crecimiento más productivo y competitivo.
+
+Igualmente, se abordan dos modificaciones puntuales, pero también necesarias y urgentes, en materia financiera, como son la habilitación al Consorcio de Compensación de Seguros para que pueda desarrollar actividades de reaseguro del crédito y la caución, ante las dificultades aparecidas en el mercado internacional de reaseguros, circunstancia que incide muy negativamente en las relaciones comerciales entre empresas. Por otra parte, la experiencia en los mercados internacionales muestra la necesidad de que el Estado abone un interés de demora para el supuesto de que sea necesario ejecutar los avales otorgados al amparo del Real Decreto-ley 7/2008, de 13 de octubre, de Medidas Urgentes en Materia Económico-Financiera en relación con el plan de Acción Concertada de los Países de la Zona Euro.
+
+Con respecto a la legislación concursal, la vigente ley se dictó en el año 2003 en un entorno económico completamente distinto al actual, y no ha sido hasta que la crisis financiera internacional se ha trasladado a las empresas cuando se ha podido comprobar la inadecuación de algunas de sus previsiones. Sin perjuicio de que en el futuro sea necesario revisar en profundidad la legislación concursal a la luz de la intensa experiencia vivida en los tribunales como consecuencia de la crisis, en este momento es preciso acometer ya una serie de reformas en aquellos aspectos concretos cuyo tratamiento normativo se ha revelado más inconveniente. Las modificaciones contenidas en el presente Decreto-ley pretenden facilitar la refinanciación de las empresas que puedan atravesar dificultades financieras que no hagan ineludible una situación de insolvencia, además de, agilizar los trámites procesales, reducir los costes de la tramitación, y mejorar la posición jurídica de los trabajadores de empresas concursadas que se vean afectados por procedimientos colectivos.
+
+Es necesario subrayar que las medidas adoptadas, fundamentalmente en materia concursal, revisten una gran complejidad técnica, máxime cuando se trata de lograr su aplicación sin demora a múltiples procesos judiciales en curso, caracterizados por la presencia de numerosas partes procesales, y respecto de acuerdos financieros alcanzados entre las partes bajo la autonomía de su voluntad. En estas circunstancias, resulta imprescindible conjugar la necesaria seguridad jurídica, que precisan los agentes económicos para la adopción de decisiones económicas tan relevantes como las concernidas en los procesos concursales, con la necesidad de que se puedan beneficiar de inmediato de las posibilidades que se les abren con la entrada en vigor de la presente norma. Ello justifica plenamente, no sólo la utilización de la figura del Real Decreto-ley, sino también el juego de las disposiciones transitorias en él recogidas.
+
+El conjunto de medidas recogidas en este Real Decreto-ley se integra en la estrategia más amplia ordenada en el Plan Español para el Estímulo de la Economía y el Empleo, con el que el Gobierno ha elaborado una respuesta global a los desafíos de la crisis económica, articulada en torno a distintos ejes de actuación.
+
+Dentro del Eje Financiero y Presupuestario se enmarcan, tanto la reducción del interés legal del dinero y de demora, que redundará en beneficio de las empresas, como la ampliación del ámbito de cobertura de los avales otorgados por el Estado al interés moratorio. Además, en el Eje Empresas se sitúa la previsión de reaseguro por parte del Consorcio de Compensación de Seguros en el ramo de los seguros de crédito y caución que, en condiciones adversas de mercado, contribuirá a mantener la actividad empresarial al dotar de mayor seguridad a las operaciones comerciales.
+
+Finalmente, en el Eje Modernización de la Economía se encuadran la ampliación del horizonte de los incentivos fiscales a las actividades de I+D+I, dotando a las mismas de mayor seguridad en la planificación de sus proyectos empresariales, y la propia reforma de la Ley Concursal, que permitirá a los agentes económicos contar un procedimiento concursal menos costoso y más ágil y eficiente en sus resultados, así como generar incentivos para evitar el concurso mediante una refinanciación de las empresas con el apoyo de sus acreedores.
+
+La extraordinaria y urgente necesidad que justifica la adopción del presente Decreto-ley deriva, como ha quedado expuesto, de la rápida evolución de la crisis económica, y de la respuesta decidida e inmediatamente efectiva que es preciso dar a la misma para evitar el riesgo de que se agraven sus efectos y de que se retrase, más allá de lo inevitable, su superación.
+
+En virtud de todo ello, haciendo uso de la autorización contenida en el artículo 86 de la Constitución española, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y del Ministro de Justicia, previa deliberación del Consejo de Ministros, en su reunión de día 27 de marzo de 2009.
+
+## DISPONGO:
+
+### CAPÍTULO I — Medidas en materia tributaria
+
+#### Artículo 1. Modificación de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2009.
+
+Se modifica la disposición adicional vigésima séptima de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2009, que queda redactada de la siguiente manera:
+
+«Vigésima séptima. Interés legal del dinero.
+
+Uno. De conformidad con lo dispuesto en el artículo 1 de la Ley 24/1984, de 29 de junio, sobre modificación del tipo de interés legal del dinero, éste queda establecido en el 4 por ciento hasta el 31 de diciembre del año 2009.
+
+Dos. Durante el mismo período, el interés de demora a que se refiere el artículo 26.6 de la Ley 58/2003, de 17 de diciembre, General Tributaria, será del 5 por ciento.»
+
+#### Artículo 2. Modificación de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas, y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2009, se introducen las siguientes modificaciones en la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio:
+
+Uno. Se deroga la disposición adicional vigésima tercera.
+
+Dos. El apartado 3 de la disposición derogatoria segunda queda redactado de la siguiente manera:
+
+«3. Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2012 queda derogado el apartado 2 del artículo 38 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.»
+
+#### Artículo 3. Modificación del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+Con efectos para los períodos impositivos que se inicien a partir de 1 de enero de 2009, el apartado 2 de la disposición transitoria vigésima primera del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, queda redactado de la siguiente manera:
+
+«2. Las deducciones establecidas en el apartado 2 del artículo 38 de esta Ley, pendientes de aplicación al comienzo del primer período impositivo que se inicie a partir de 1 de enero de 2012, podrán aplicarse en el plazo y con los requisitos establecidos en el capítulo IV del título VI de esta Ley, según redacción vigente a 31 de diciembre de 2011. Dichos requisitos son igualmente aplicables para consolidar las deducciones practicadas en períodos impositivos iniciados antes de aquella fecha.»
+
+### CAPÍTULO II — Medidas en materia financiera
+
+#### Artículo 4. Condiciones básicas de la aceptación en reaseguro por parte del Consorcio de Compensación de Seguros de los riesgos del seguro de crédito asumidos por las entidades aseguradoras privadas.
+
+1\. El Consorcio de Compensación de Seguros, previo acuerdo de su Consejo de Administración adoptado conforme a lo previsto en los artículo 3.2 y 5.1.h) del texto refundido de su Estatuto Legal, aprobado por Real Decreto Legislativo 7/2004, de 29 de octubre, podrá aceptar en reaseguro los riesgos asumidos por las entidades aseguradoras privadas autorizadas para operar en los ramos de seguro de crédito y de caución que así lo soliciten y que suscriban o se adhieran al convenio correspondiente con la citada entidad pública empresarial. Las condiciones básicas del reaseguro aceptado por el Consorcio de Compensación de Seguros serán las siguientes:
+
+a) Modalidades de la cobertura. El convenio que, en su caso, se suscriba contemplará aquellas modalidades de cobertura, de entre las comunes en el mercado de reaseguro, que permitan complementar con rapidez y eficacia la cobertura directa que las entidades aseguradoras de estos ramos ofrecen a las empresas por ellas aseguradas, permitiendo sostener tal cobertura en beneficio de las mismas, en especial en los sectores de actividad más afectados por la crisis.
+
+b) Condiciones económicas. El Consorcio de Compensación de Seguros establecerá las condiciones económicas a aplicar en la cobertura sobre la base de procurar el equilibrio financiero del convenio a largo plazo, contemplándose, dentro de las citadas condiciones, la compensación que corresponda por los gastos de gestión en que incurra el Consorcio de Compensación de Seguros.
+
+c) Vigencia temporal. La cobertura podrá extenderse a las operaciones aseguradoras en vigor a partir del día 1 de enero de 2009, contemplándose su vigencia en tanto subsistan las razones de interés público y la situación y circunstancias del mercado asegurador de crédito que lo justifican.
+
+2\. El Consorcio de Compensación de Seguros llevará las operaciones que realice al amparo de este Real Decreto-ley con absoluta separación financiera y contable respecto del resto de las operaciones, con integración, en su caso, de las aportaciones que el Estado realice al efecto de mantener el adecuado equilibrio técnico-financiero de aquéllas, previa tramitación por parte del Consorcio de Compensación de Seguros, si resultase necesario, de los expedientes requeridos por la normativa presupuestaria que resulte de aplicación. A los anteriores efectos, la situación financiera y contable a considerar será la que resulte al término de uno o, en su caso, sucesivos períodos trienales a contar desde el inicio de las operaciones.
+
+A las operaciones que el Consorcio realice al amparo de la presente norma les será de aplicación el régimen de constitución de las provisiones técnicas previsto en el Real Decreto 2013/1997, de 26 de diciembre, considerándose, como límite aplicable a la reserva de estabilización de estas operaciones, a los efectos de lo previsto en el apartado 1 del artículo 3 de dicha disposición, el equivalente al contemplado en la letra a) del citado apartado.
+
+#### Artículo 5. Modificación del Real Decreto-ley 7/2008, de 13 de octubre, de Medidas Urgentes en Materia Económico-Financiera en relación con el Plan de Acción Concertada de los Países de la Zona Euro.
+
+Se añade un nuevo apartado 8 al artículo 1. Autorización para el otorgamiento de avales a operaciones de financiación, con la siguiente redacción:
+
+«De producirse la ejecución del aval, siempre que la misma se inste dentro de los 5 días naturales siguientes a la fecha de vencimiento de la obligación garantizada, el Estado satisfará una compensación a los titulares legítimos de los valores garantizados, sin perjuicio de las cantidades que deba abonar en virtud del aval. El importe de esta compensación será el resultante de aplicar al pago en el que consista la ejecución del aval el tipo de interés Euro OverNight Index Average publicado por el Banco de España o el que, en su caso, determine el Ministro de Economía y Hacienda, del día del vencimiento de la obligación garantizada por el número de días que transcurran entre esta fecha y la de pago efectivo por el avalista, sobre la base de un año de 360 días.
+
+Se autoriza al Ministro de Economía y Hacienda a establecer las condiciones y el procedimiento para hacer efectiva dicha compensación.
+
+Se autoriza a la Dirección General del Tesoro y Política Financiera a realizar los pagos correspondientes a esta compensación mediante operaciones de Tesorería con cargo al concepto específico que se cree a tal fin.
+
+Con posterioridad a su realización, la Dirección General del Tesoro y Política Financiera procederá a la aplicación al presupuesto de gastos de los pagos realizados en el ejercicio. Los pagos efectuados en el mes de diciembre de cada año se aplicarán al presupuesto de gastos en el trimestre inmediatamente siguiente.»
+
+### CAPÍTULO III — Medidas en materia concursal
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 6. Publicidad del concurso.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 7. Administración concursal.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 8. Reintegración de la masa y acuerdos de refinanciación.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 9. Reconocimiento y subordinación de créditos.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 10. Convenio.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 11. Liquidación anticipada.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Artículo 12. Normas procesales.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición adicional primera. Escrituras públicas de formalización de acuerdos de refinanciación.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición adicional segunda. Retribución efectiva a los Administradores Concursales.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición adicional tercera. Registro Público Concursal
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria primera. Tipos de interés legal del dinero y de demora.
+
+Los tipos del interés legal del dinero y de demora establecidos por el artículo 1 serán de aplicación a partir de la entrada en vigor de este Real Decreto-ley.
+
+#### Disposición transitoria segunda. Régimen de publicidad.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria tercera. Administración Concursal.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria cuarta. Reintegración de la masa y acuerdos de refinanciación.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria quinta. Reconocimiento y subordinación de créditos.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria sexta. Convenio.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria séptima. Liquidación anticipada.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición transitoria octava. Normas procesales.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.2.e) del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Disposición derogatoria única.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto-ley.
+
+#### Disposición final primera. Habilitación normativa.
+
+El Gobierno, el Vicepresidente Segundo y Ministro de Economía y Hacienda y el Ministro de Justicia, en el ámbito de sus respectivas competencias, dictarán las disposiciones necesarias para el desarrollo y la ejecución de lo establecido en este Real Decreto-ley.
+
+#### Disposición final segunda. Títulos competenciales.
+
+El presente Real Decreto-ley se dicta al amparo de los títulos competenciales previstos en el artículo 149.1.6.ª, 11.ª y 14.ª de la Constitución.
+
+#### Disposición final tercera. Entrada en vigor.
+
+Este Real Decreto-ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 27 de marzo de 2009.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+JOSÉ LUIS RODRÍGUEZ ZAPATERO
